@@ -1,0 +1,232 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Painel de Produção</title>
+<style>
+:root{--bg:#0b1230;--bg2:#101a40;--card:#0f1a3d;--card2:#0a1230;--line:#22305e;--ink:#eef1ff;--ink2:#aab4dd;--accent:#4f8cff;--yellow:#ffe14d;--green:#27c27a;--red:#ff6b5b;
+--sans:system-ui,-apple-system,"Segoe UI",Inter,sans-serif;--mono:ui-monospace,Consolas,monospace}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:radial-gradient(1200px 600px at 20% -10%,#16245a 0,var(--bg) 60%);color:var(--ink);font:16px/1.55 var(--sans);min-height:100vh}
+button{font:inherit;cursor:pointer;color:inherit}
+.wrap{max-width:1120px;margin:0 auto;padding:22px 16px 90px;display:grid;grid-template-columns:minmax(0,1fr) 190px;gap:22px}
+.col{display:grid;gap:18px;min-width:0;align-content:start}
+nav.toc{position:sticky;top:18px;align-self:start;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;font-size:14px}
+nav.toc b{display:block;margin-bottom:6px}
+nav.toc a{display:block;color:var(--ink2);text-decoration:none;padding:3px 0}
+nav.toc a:hover{color:var(--yellow)}
+.hero{border:1px solid var(--line);border-radius:14px;padding:22px 24px;background:linear-gradient(135deg,#142a73,#0f1a3d)}
+.hero .k{font:700 11.5px var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--yellow)}
+.hero h1{margin:6px 0 6px;font-size:clamp(26px,4vw,38px);line-height:1.1;letter-spacing:-.01em}
+.hero p{margin:0;color:var(--ink2);font-size:14.5px}
+.card{position:relative;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px 22px}
+.card h2{margin:0 0 12px;font-size:21px}
+.card h3{margin:0 0 8px;font-size:15px;letter-spacing:.03em;text-transform:uppercase;color:#7fe3b0;display:flex;gap:8px;flex-wrap:wrap;align-items:center;padding-right:170px}
+.cp{position:absolute;top:14px;right:14px;border:1px solid var(--line);background:var(--bg2);border-radius:8px;padding:6px 12px;font-weight:600;font-size:13px}
+.cp:hover{border-color:var(--accent);background:#17265a}
+.cp.ok{background:var(--green);border-color:var(--green);color:#04210f}
+.cp.big{position:static;background:var(--yellow);color:#101114;border-color:var(--yellow);padding:10px 18px;font-size:15px}
+.box{background:var(--card2);border:1px solid var(--line);border-radius:10px;padding:14px 16px;white-space:pre-wrap;word-break:break-word;font-size:14.5px;line-height:1.6}
+.box.m{font-size:13.5px}
+.item{display:grid;gap:10px;border-top:1px solid var(--line);padding-top:16px;margin-top:16px;position:relative}
+.item:first-child{border-top:0;margin-top:0;padding-top:0}
+.item.done .box{opacity:.6}
+.item.done h3::after{content:"✓ feito";color:var(--green);font-size:12px}
+.fala{border-left:4px solid var(--yellow);padding:2px 0 2px 12px;font-weight:600}
+.tag{font:700 11px var(--mono);letter-spacing:.06em;text-transform:uppercase;border-radius:5px;padding:2px 7px;background:#1d2d68;color:#cfd8ff}
+.tip{background:#2a2410;border:1px solid #6b5a14;border-radius:8px;padding:8px 12px;font-size:14px;color:#ffe9a0}
+label.chk{display:inline-flex;gap:7px;align-items:center;font-weight:600;cursor:pointer;font-size:14px;color:var(--ink2)}
+label.chk input{width:18px;height:18px;accent-color:var(--green)}
+.bar{height:8px;background:#1a2757;border-radius:6px;overflow:hidden;margin-top:12px}
+.bar i{display:block;height:100%;background:var(--green);width:0;transition:width .25s}
+.mono{font:700 11.5px var(--mono);letter-spacing:.09em;text-transform:uppercase;color:var(--ink2)}
+textarea{width:100%;min-height:150px;border:1px solid var(--line);border-radius:10px;padding:10px 12px;font:13px/1.5 var(--mono);resize:vertical;background:var(--card2);color:var(--ink)}
+textarea:focus{outline:2px solid var(--accent)}
+.btn{border:1px solid var(--line);background:var(--bg2);border-radius:8px;padding:8px 14px;font-weight:600;font-size:14px}
+.btn:hover{border-color:var(--accent)}
+.btn.c{background:var(--accent);border-color:var(--accent);color:#04122e}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.msg{font-size:14px;margin-top:8px}
+.msg.err{color:var(--red);font-weight:600}
+.hide{display:none!important}
+.chip{display:inline-block;margin:0 6px 6px 0;background:#1d2d68;color:#cfd8ff;border-radius:6px;padding:3px 9px;font:600 12.5px var(--mono)}
+ol.steps{margin:8px 0 0;padding-left:20px;font-size:14.5px;color:var(--ink2)}
+section{scroll-margin-top:16px}
+@media(max-width:860px){.wrap{grid-template-columns:1fr}nav.toc{display:none}.card h3{padding-right:0;margin-top:34px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+ <div class="col">
+  <section class="card" id="entrada">
+    <div class="mono">Cole o pacote que a IA te entregou (JSON)</div>
+    <textarea id="json" placeholder="Cole aqui o bloco (começa com { e termina com })" style="margin-top:10px"></textarea>
+    <div class="row" style="margin-top:10px">
+      <button class="btn c" id="aplicar">Montar painel</button>
+      <button class="btn" id="limpar">Limpar tudo</button>
+    </div>
+    <div class="msg" id="msg"></div>
+  </section>
+
+  <div id="painel" class="hide col">
+    <section class="hero">
+      <div class="k" id="rid"></div>
+      <h1 id="rtitulo"></h1>
+      <p id="rmeta"></p>
+      <div class="tip" id="avisos" style="margin-top:12px"></div>
+      <div class="bar"><i id="prog"></i></div>
+      <p id="progtxt" style="margin-top:6px"></p>
+    </section>
+
+    <section class="card" id="descricao">
+      <button class="cp" id="copiaInsta">Copiar descrição</button>
+      <h2>Descrição para Instagram</h2>
+      <div class="box" id="insta"></div>
+    </section>
+
+    <section class="card" id="referencia">
+      <h2>Referência visual</h2>
+      <div id="refs"></div>
+      <ol class="steps">
+        <li>No Google Flow, anexe <b>só</b> estas imagens (deste personagem).</li>
+        <li><b>Com créditos:</b> agente do Flow. Cole “Copiar todos os prompts” (no fim da página). Ele gera um item por vez e espera seu "APROVADO".</li>
+        <li><b>Sem créditos:</b> gere item por item, copiando abaixo. Tudo 9:16.</li>
+      </ol>
+    </section>
+
+    <section class="card" id="imagens"><h2>Imagens</h2><div id="listaImg"></div></section>
+
+    <section class="card" id="fala">
+      <button class="cp" id="copiaFalas">Copiar falas</button>
+      <h2>Fala completa</h2>
+      <div class="box" id="falas"></div>
+    </section>
+
+    <section class="card" id="videos"><h2>Vídeos</h2><div id="listaVid"></div></section>
+
+    <section class="card" id="todos">
+      <h2>Todos os prompts</h2>
+      <p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Bloco único para o agente do Flow (já começa com <i>iniciar</i> e duas linhas em branco).</p>
+      <button class="cp big" id="copiaTudo">Copiar todos os prompts</button>
+    </section>
+  </div>
+ </div>
+ <nav class="toc"><b>Nesta página</b>
+   <a href="#entrada">Pacote</a><a href="#descricao">Descrição</a><a href="#referencia">Referência visual</a><a href="#imagens">Imagens</a><a href="#fala">Fala completa</a><a href="#videos">Vídeos</a><a href="#todos">Todos os prompts</a>
+ </nav>
+</div>
+
+<script>
+/* DADOS DO PACOTE: a IA troca só a linha abaixo (null) pelo objeto JSON do pacote. O resto do arquivo não muda. */
+const PACOTE = {"roteiro": {"id": "R001-QUANDO-VOU-CONHECER", "titulo": "Quando vou conhecer ele? A pergunta melhor para as cartas", "dor": "3 — Quando vou conhecer ele?", "formato": "Formato 1 — problema + crenças + introdução da solução (6 cenas)", "molde_hook": "2 — descoberta tardia", "duracao_total": 66, "descricao_instagram": "Every night you ask the same question: when will I meet him? Tonight, try asking the cards something better.\n\nAsk: what am I not seeing about how I show up in love right now? Pull one card. Don't read the picture first. Notice the first thing you feel, then ask yourself if it's about him or about a habit of yours.\n\nA card is a mirror, not a promise. It can't give you a date.\n\nPart two is in my story. Comment YES if you're going. 💛\n\nTarot is for reflection, not prediction. The link in my story may be an affiliate link."}, "perfil": {"nome": "Dana Hollis", "teste": "A", "voz": "Voz feminina adulta americana (inglês dos EUA), natural e espontânea, calma e firme."}, "refs": ["identidade-inicial-dana.png", "facial_reference_contact_sheet.png", "body_turnaround_model_sheet.png", "ugc-natural-validacao-v1.png"], "trava_referencia": "Não há pet neste projeto: nenhum animal aparece nas cenas.", "figurino": "social casual simples; suéter de gola redonda de malha canelada lisa verde-petróleo fosco e calça reta escura lisa, sem estampa. Roupa secundária ao contraste da carta de tarô no hook. Argolões prateados lisos (acessório fixo da identidade)", "excecao_estilo": "", "imagens": [{"rotulo": "IMAGEM 1", "cena": "cantinho aconchegante da sala de uma casa americana, com a câmera diante da borda frontal de uma mesa redonda de madeira clara, perpendicular a ela; a borda cruza o quadro na horizontal, na parte de baixo, e uma leve inclinação para baixo mostra o tampo. A pessoa está sentada atrás da mesa, vista de frente, com o rosto reconhecível e o olhar direto para a lente, expressão calma e firme; luz suave de uma janela à esquerda e sofá bege com manta ao fundo, levemente desfocado. Com uma das mãos a pessoa vira para a lente uma carta de tarô grande, em cobre queimado e dourado, com a ilustração de dois cálices dourados sob um sol cobre e borda dourada lisa, sem letras, números ou títulos; a carta está muito perto da lente, ocupa aproximadamente metade do quadro por perspectiva forçada e parece quase sair da tela. A outra mão repousa sobre um pequeno maço de cartas com versos cinza-claros estampados, sobre a mesa; uma vela acesa em pote de vidro fica à esquerda, pequena e secundária. O cobre e o dourado da carta são o ponto de maior contraste contra o suéter verde-petróleo e o fundo bege; nada mais compete. Mãos e dedos anatomicamente corretos, sem duplicar a carta. Usar exatamente o FIGURINO FIXO."}, {"rotulo": "IMAGEM 2", "cena": "plano médio frontal na mesma mesa redonda de madeira clara e no mesmo cantinho da sala, com a borda frontal da mesa horizontal na parte de baixo do quadro. A pessoa está sentada atrás da mesa, de frente para a lente, com os cotovelos dobrados e as mãos ao alcance natural do maço. Sobre a mesa, à frente dela, há um único maço fechado de cartas de tarô com versos cinza-claros estampados e, à esquerda, a mesma vela acesa em pote de vidro. Não há carta virada, celular, caderno, xícara, livro ou outro objeto na mesa. Mesma luz suave de janela à esquerda e mesmo sofá bege ao fundo, levemente desfocado. Preservar o FIGURINO FIXO e a mesma aparência de rosto, cabelo e argolões da Imagem 1."}], "videos": [{"rotulo": "V1", "cena": "1/6", "duracao": 8, "primeiro_quadro": "IMAGEM 1", "acao": "em um único plano frontal contínuo, a pessoa, com o mesmo suéter canelado verde-petróleo, mantém a carta de cobre e dourado muito perto da lente, dominando cerca de metade do quadro durante os três primeiros segundos, inclinando-a levemente na direção da lente. Rosto e olhar reconhecíveis atrás da carta; a outra mão continua sobre o maço e a vela permanece acesa no mesmo lugar.", "b_roll": "", "fala": "How old were you when you learned to ask the cards something better than 'when will I meet him?'"}, {"rotulo": "V2", "cena": "2/6", "duracao": 10, "primeiro_quadro": "IMAGEM 2", "acao": "a pessoa, com o mesmo suéter canelado verde-petróleo, pega o maço fechado com as duas mãos, embaralha uma vez com um movimento simples e para, apoiando a mão aberta sobre o maço. Nenhuma carta fica virada; a vela permanece no mesmo lugar.", "b_roll": "", "fala": "The cards can't give you a date. Reshuffling until you like the card changes nothing. And no card promises he's coming."}, {"rotulo": "V3", "cena": "3/6", "duracao": 8, "primeiro_quadro": "IMAGEM 2", "acao": "a pessoa, com o mesmo suéter canelado verde-petróleo, com a mão ainda sobre o maço, desliza a carta de cima para a mesa e a deixa virada para baixo, com o verso cinza voltado para a lente, ao lado do maço. Só uma carta sai do maço.", "b_roll": "no meio da fala, um único close de cima mostra a mesma mão deslizando a carta do topo do mesmo maço e deixando-a virada para baixo ao lado dele; aparecem somente a mão, o maço e essa carta, sem outras cartas; a narração continua sem pausa nem reinício; sincronização labial somente enquanto a boca estiver visível.", "fala": "Ask this instead: what am I not seeing about how I show up in love? Pull one card."}, {"rotulo": "V4", "cena": "4/6", "duracao": 10, "primeiro_quadro": "IMAGEM 2", "acao": "o clipe começa com a única carta virada para baixo ao lado do maço. A pessoa, com o mesmo suéter canelado verde-petróleo, pega essa carta, vira-a para si com a ilustração voltada para ela e o verso voltado para a lente, olha para a carta em silêncio por um instante e depois olha para a lente.", "b_roll": "no meio da fala, um único close frontal baixo mostra as mãos da pessoa virando a mesma carta para si, com o verso cinza voltado para a lente; o rosto fica fora do quadro e nada mais entra no enquadramento; a narração continua sem pausa nem reinício; sincronização labial somente enquanto a boca estiver visível.", "fala": "Don't read the picture first. Notice the first thing you feel. Then ask: is this about him, or about a habit of mine?"}, {"rotulo": "V5", "cena": "5/6", "duracao": 10, "primeiro_quadro": "IMAGEM 2", "acao": "a pessoa, com o mesmo suéter canelado verde-petróleo, segura a mesma carta com uma mão na altura do peito, com o verso voltado para a lente, e fala olhando para a lente, com um meio sorriso. Maço e vela permanecem na mesa; nenhum objeto novo.", "b_roll": "", "fala": "Now you have one clear thing to look at tonight, not a countdown. But I know you'll still want a 'when.'"}, {"rotulo": "V6", "cena": "6A/6", "duracao": 10, "primeiro_quadro": "IMAGEM 2", "acao": "a pessoa, com o mesmo suéter canelado verde-petróleo, apoia a carta em pé contra o maço, com o verso voltado para a lente, e junta as mãos sobre a mesa, olhando para a lente. Sem celular, tela ou objeto novo; a carta sai da própria mão, sem surgir do nada.", "b_roll": "", "fala": "Don't leave with only half of this message. Everything I've told you so far is part one. Part two is waiting in my story."}, {"rotulo": "V7", "cena": "6B/6", "duracao": 10, "primeiro_quadro": "IMAGEM 2", "acao": "a pessoa, com o mesmo suéter canelado verde-petróleo, mantém as mãos juntas sobre a mesa e a carta apoiada no maço, sem novo gesto, e conclui a fala olhando para a lente, com uma leve inclinação de cabeça. Nada novo aparece no quadro.", "b_roll": "", "fala": "Tap my profile photo now, before it disappears in 24 hours. Comment YES if you're going, and follow for more straight talk."}]};
+(function(){
+const ESTILO_IMG="TRAVA DE ESTILO UGC: imagem vertical 9:16, fotorealista, gravada em ambiente doméstico americano com aparência espontânea de smartphone. Luz natural, texturas reais de pele, tecido e pelo, enquadramento casual e levemente imperfeito. A câmera fica fora do quadro. Sem texto, legenda, logo, marca-d'água ou aparência publicitária.";
+const ESTILO_VID="TRAVA DE ESTILO UGC: vídeo vertical 9:16, fotorealista e espontâneo, com movimento natural de smartphone, luz doméstica real e áudio próximo. A câmera e o celular nunca aparecem. Sem texto, legenda, logo, música, câmera lenta, estética cinematográfica ou publicitária.";
+const REF_TXT="TRAVA DE REFERÊNCIA VISUAL: usar exclusivamente as referências ANEXADAS como autoridades de identidade. Preservar rosto, corpo, cabelo, proporções e aparência do humano e pet. Não misturar identidades.";
+const KEY="painel_ugc_v2";
+const $=id=>document.getElementById(id);
+let pk=null, feitos={};
+
+function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+function salvar(){try{localStorage.setItem(KEY,JSON.stringify({json:$('json').value,feitos}))}catch(e){}}
+function carregar(){try{const s=JSON.parse(localStorage.getItem(KEY)||'null');if(s){$('json').value=s.json||'';feitos=s.feitos||{};if(s.json)montar(true)}}catch(e){}}
+
+function copiar(txt,btn){
+  const fim=()=>{if(!btn)return;const o=btn.textContent;btn.classList.add('ok');btn.textContent='Copiado ✓';setTimeout(()=>{btn.classList.remove('ok');btn.textContent=o},1400)};
+  if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(txt).then(fim,()=>fallback(txt,fim))}else fallback(txt,fim);
+}
+function fallback(txt,fim){const t=document.createElement('textarea');t.value=txt;t.style.position='fixed';t.style.opacity='0';document.body.appendChild(t);t.select();try{document.execCommand('copy')}catch(e){}document.body.removeChild(t);fim()}
+
+function limparJson(s){
+  s=s.trim().replace(/^```(?:json)?\s*/i,'').replace(/```\s*$/,'').trim();
+  const a=s.indexOf('{'),b=s.lastIndexOf('}');
+  if(a<0||b<0)throw new Error('Não achei um bloco que começa com { e termina com }.');
+  return JSON.parse(s.slice(a,b+1));
+}
+
+function estilo(t,fim){
+  const e=(pk.excecao_estilo||'').trim();
+  return e?t.replace(fim+'.',fim+' fora '+e+', quando visível.'):t;
+}
+function promptImagem(im){
+  return REF_TXT+' '+(pk.trava_referencia||'')+refCapa()+'\n\nFIGURINO FIXO: '+(pk.figurino||'')+'\n\n'+estilo(ESTILO_IMG,'aparência publicitária')+'\n\nCENA: '+im.cena;
+}
+function refCapa(){return (pk.excecao_estilo||'').trim()?' A capa oficial é autoridade somente para a arte impressa no exemplar físico.':''}
+function promptVideo(v){
+  const voz=pk.perfil.voz;
+  const num=v.cena.split('/')[0];
+  const br=(v.b_roll||'').trim();
+  return v.cena+' PROMPT DE VÍDEO — CENA '+num+' — '+v.duracao+'s — '+v.primeiro_quadro+'\n\n'+estilo(ESTILO_VID,'estética cinematográfica ou publicitária')+'\n\nAÇÃO: '+v.acao+(br?'\n\nB-ROLL POV: '+br:'')+'\n\nFALA: “'+v.fala+'”\n\nVOZ: a pessoa é a única pessoa falante. '+voz;
+}
+function itens(){
+  const a=[];
+  pk.imagens.forEach((im,i)=>a.push({id:'img'+(i+1),tipo:'img',titulo:im.rotulo,prompt:promptImagem(im),rotulo:'PROMPT IMAGEM '+(i+1)}));
+  pk.videos.forEach((v,i)=>a.push({id:'vid'+(i+1),tipo:'vid',titulo:v.rotulo+' · cena '+v.cena,v:v,prompt:promptVideo(v),rotulo:'PROMPT DE VIDEO '+(i+1)}));
+  return a;
+}
+function blocoCompleto(){return itens().map(it=>it.rotulo+':\n'+it.prompt).join('\n\n')}
+function progresso(){
+  const its=itens();const f=its.filter(i=>feitos[i.id]).length;
+  $('prog').style.width=(100*f/its.length)+'%';
+  $('progtxt').textContent=f+' de '+its.length+' itens gerados e aprovados';
+}
+
+function montar(silencio){
+  const m=$('msg');m.className='msg';m.textContent='';
+  try{
+    const p=limparJson($('json').value);
+    if(!Array.isArray(p.imagens)||p.imagens.length<2)throw new Error('Faltam as 2 imagens ("imagens").');
+    if(!Array.isArray(p.videos)||!p.videos.length)throw new Error('Faltam os vídeos ("videos").');
+    p.videos.forEach((v,i)=>{['cena','duracao','primeiro_quadro','acao','fala'].forEach(k=>{if(v[k]===undefined||v[k]==='')throw new Error('O vídeo '+(i+1)+' está sem "'+k+'".')})});
+    if(!p.perfil||!/^Voz (feminina|masculina) adulta (brasileira|americana)/.test(p.perfil.voz||''))throw new Error('Falta "perfil.voz" ("Voz feminina|masculina adulta brasileira natural e espontânea.").');
+    const n=p.videos.length;
+    if(n!==6&&n!==7)throw new Error('O pacote tem '+n+' vídeos; o método usa 6 (5 cenas) ou 7 (6 cenas).');
+    p.videos.forEach((v,i)=>{if([4,6,8,10].indexOf(Number(v.duracao))<0)throw new Error('O vídeo '+(i+1)+' tem duração '+v.duracao+'; só 4, 6, 8 ou 10 s.')});
+    const N=n-1,a=p.videos[n-2].cena,b=p.videos[n-1].cena;
+    if(a!==N+'A/'+N||b!==N+'B/'+N)throw new Error('Os dois últimos vídeos devem ser '+N+'A/'+N+' e '+N+'B/'+N+' (CTA).');
+    if(!/IMAGEM 1/.test(p.videos[0].primeiro_quadro))throw new Error('O V1 (hook) deve usar a IMAGEM 1 como primeiro quadro.');
+    pk=p;
+  }catch(e){
+    if(!silencio){m.className='msg err';m.textContent='Não consegui ler: '+e.message+' Peça para a IA "entregar o pacote de novo em JSON válido".'}
+    return;
+  }
+  const r=pk.roteiro||{};
+  $('rid').textContent=(r.id||'Roteiro')+((pk.perfil&&pk.perfil.nome)?' · '+pk.perfil.nome+(pk.perfil.teste?' · teste '+pk.perfil.teste:''):'');
+  $('rtitulo').textContent=r.titulo||'';
+  $('avisos').classList.add('hide');
+  $('rmeta').textContent=[r.dor&&('Dor: '+r.dor),r.formato&&('Formato: '+r.formato),r.molde_hook&&('Hook: '+r.molde_hook),r.duracao_total&&(r.duracao_total+' s no total')].filter(Boolean).join(' · ');
+  $('insta').textContent=r.descricao_instagram||'(a IA não entregou a descrição)';
+  $('refs').innerHTML=(pk.refs||[]).map(x=>'<span class="chip">'+esc(x)+'</span>').join('')||'<i>(a IA não listou)</i>';
+  $('falas').textContent=pk.videos.map(v=>v.rotulo+' · cena '+v.cena+'\n“'+v.fala+'”').join('\n\n');
+  $('listaImg').innerHTML='';$('listaVid').innerHTML='';
+  itens().forEach(it=>{
+    const d=document.createElement('div');d.className='item'+(feitos[it.id]?' done':'');
+    let alerta='';
+    if(it.tipo==='vid'&&/[ÚU]LTIMO QUADRO/i.test(it.v.primeiro_quadro)){
+      alerta='<div class="tip"><b>Atenção:</b> o primeiro quadro deste clipe é o <b>último quadro de um vídeo anterior</b> ('+esc(it.v.primeiro_quadro)+'). Aprove o clipe anterior, baixe o último quadro dele e use como primeiro quadro aqui.</div>';
+    }
+    d.innerHTML='<button class="cp">'+(it.tipo==='img'?'Copiar imagem com trava':'Copiar prompt')+'</button>'
+      +'<h3>'+esc(it.titulo)+(it.tipo==='vid'?' <span class="tag">'+it.v.duracao+' s</span><span class="tag">1º quadro: '+esc(it.v.primeiro_quadro.split(' — ')[0])+'</span>':' <span class="tag">9:16</span>')+'</h3>'
+      +(it.tipo==='vid'?'<div class="fala">Fala: “'+esc(it.v.fala)+'”</div>':'')+alerta
+      +'<div class="box m">'+esc(it.prompt)+'</div>'
+      +'<label class="chk"><input type="checkbox" '+(feitos[it.id]?'checked':'')+'> Gerado e aprovado</label>';
+    d.querySelector('.cp').onclick=e=>copiar(it.prompt,e.currentTarget);
+    d.querySelector('input').onchange=e=>{feitos[it.id]=e.target.checked;d.classList.toggle('done',e.target.checked);progresso();salvar()};
+    $(it.tipo==='img'?'listaImg':'listaVid').appendChild(d);
+  });
+  $('painel').classList.remove('hide');
+  progresso();salvar();
+}
+
+$('aplicar').onclick=()=>{feitos={};montar(false)};
+$('limpar').onclick=()=>{if(!confirm('Apagar o pacote e as marcações?'))return;$('json').value='';feitos={};pk=null;$('painel').classList.add('hide');salvar()};
+$('copiaTudo').onclick=e=>copiar('iniciar\n\n'+blocoCompleto(),e.currentTarget);
+$('copiaFalas').onclick=e=>copiar(pk.videos.map(v=>v.rotulo+' ('+v.cena+'): '+v.fala).join('\n'),e.currentTarget);
+$('copiaInsta').onclick=e=>copiar((pk.roteiro&&pk.roteiro.descricao_instagram)||'',e.currentTarget);
+if(PACOTE){$("entrada").classList.add("hide");$("json").value=JSON.stringify(PACOTE);montar(false);if(!pk)$("entrada").classList.remove("hide");}else{carregar();}
+})();
+</script>
+</body>
+</html>
