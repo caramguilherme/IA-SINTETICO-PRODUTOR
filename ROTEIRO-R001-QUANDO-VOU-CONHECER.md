@@ -1,4 +1,4 @@
-# R001-QUANDO-VOU-CONHECER — Formato 1 — roteiro (aguardando aprovação)
+# R001-QUANDO-VOU-CONHECER — Formato 1 — roteiro (revisão 2, aguardando aprovação)
 
 Status: Fase 1, sem prompts. Seis cenas narrativas, com Cena 6 dividida em 6A/6B; duração planejada de 66 segundos. Persona: Dana Hollis (@straighttalktarot), sem pet. Dor 3: "Quando vou conhecer ele?". Molde de hook 2 — descoberta tardia. Primeiro roteiro: VÍDEOS FEITOS está vazio, sem molde anterior para evitar. Falas em inglês dos EUA (voz da persona); a tradução em português é só para o aluno aprovar.
 
@@ -46,25 +46,25 @@ Por que Formato 1 + molde 2: a dor é um hábito (perguntar "quando?" toda noite
 
 ## Cena 6 — CTA
 
-Oferta confirmada no PROJETO: app Auraly / Soulmate Match, tratado como entretenimento. Sem capa nem imagem do app: ele é citado só pela voz. Parte A responde à miniobjeção ("ainda quero um quando"). Parte B manda para o story e faz a divulgação de afiliada. Nada de DM nem link na legenda. Preço não informado, então não é citado.
+Regra do aluno: no vídeo não se fala o nome do app, o tipo de pagamento nem comissão. O vídeo só tem gancho, emoção e CTA. A "segunda parte" fica no story, onde está o link. Sem capa nem imagem do app: nada de celular ou tela. Parte A acolhe a miniobjeção ("ainda quero um quando"). Parte B manda para o story.
 
-**6A — 10s — Visual breve:** Dana de frente, atrás da mesa, com a carta apoiada na mesa. Sem celular nem tela de app.
+**6A — 10s — Visual breve:** Dana de frente, atrás da mesa, com a carta apoiada na mesa.
 
-**6A — Fala:** "If you still want a 'when', Auraly's Soulmate Match quiz shows a drawing of a possible face, initials, and when you might meet."
+**6A — Fala:** "Wanting a 'when' doesn't make you foolish. It makes you human. And for the part the cards can't answer, there's something just for fun."
 
-(PT: Se você ainda quer um "quando", o quiz Soulmate Match, do Auraly, mostra um desenho de um possível rosto, iniciais e quando vocês poderiam se conhecer.)
+(PT: Querer um "quando" não te faz boba. Te faz humana. E para a parte que as cartas não respondem, tem uma coisa só por diversão.)
 
 **6B — 10s — Visual breve:** Dana continua de frente e olha para a lente.
 
-**6B — Fala:** "It's entertainment, not a promise. One-time payment. The link is in my story, and I may earn a commission. Follow for more straight talk."
+**6B — Fala:** "That's the second part, and it's in my story. Tap the link there, and follow me for more straight talk about love."
 
-(PT: É entretenimento, não uma promessa. Pagamento único. O link está no meu story, e eu posso ganhar comissão. Siga para mais conversa sem rodeio.)
+(PT: Essa é a segunda parte, e está no meu story. Toque no link lá, e me siga para mais conversa sem rodeio sobre amor.)
 
 ## Notas editoriais e factuais
 
 - Dana não afirma experiência vivida: não diz "eu testei", "minhas clientes" nem "funcionou comigo". Fala com o público e com empatia.
 - Tarô é apresentado como espelho para refletir. Nenhuma fala promete que um amor vai chegar nem que a carta prevê a data.
-- O app é descrito como entretenimento: "mostra um desenho", "mostra iniciais". Não diz que encontra uma pessoa real nem que o encontro vai acontecer. "Pagamento único" vem do PROJETO; "só cartão" e preço ficam fora.
-- Divulgação de afiliada falada na 6B. Na descrição do Instagram, repetir a divulgação e marcar o conteúdo como gerado por IA.
+- A 6A diz "só por diversão" e não promete encontro nem resultado. O CTA não diz que a segunda parte é uma Dana que "fez" algo, só que está no story.
+- Divulgação de afiliada e rótulo de conteúdo gerado por IA ficam fora das falas, a pedido do aluno. Eles ainda precisam existir em outro lugar: na descrição do Instagram, no story e no rótulo de IA da plataforma.
 - Duração é planejamento editorial. As falas das Cenas 1, 2, 4, 5, 6A e 6B têm de 18 a 24 palavras; a leitura natural precisa ser cronometrada na produção. Se não couber, sinalizar, sem acelerar a voz.
 - Sem métricas de publicação.
