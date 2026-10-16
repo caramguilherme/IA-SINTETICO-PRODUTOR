@@ -1,0 +1,70 @@
+# R001-QUANDO-VOU-CONHECER — Formato 1 — roteiro (aguardando aprovação)
+
+Status: Fase 1, sem prompts. Seis cenas narrativas, com Cena 6 dividida em 6A/6B; duração planejada de 66 segundos. Persona: Dana Hollis (@straighttalktarot), sem pet. Dor 3: "Quando vou conhecer ele?". Molde de hook 2 — descoberta tardia. Primeiro roteiro: VÍDEOS FEITOS está vazio, sem molde anterior para evitar. Falas em inglês dos EUA (voz da persona); a tradução em português é só para o aluno aprovar.
+
+Por que Formato 1 + molde 2: a dor é um hábito (perguntar "quando?" toda noite) com crenças erradas ("a carta dá a data", "embaralhar de novo muda a resposta"). O Formato 1 nega essas crenças e entrega uma pergunta melhor. O molde 2 cria curiosidade sem prometer amor.
+
+## Cena 1 — Hook — 8s
+
+**Visual breve:** Dana atrás da mesa de madeira, de frente, no cantinho da sala. Uma carta de tarô grande, em cobre e dourado e sem letras, vira para a lente e quase sai da tela; a vela acesa fica ao lado.
+
+**Fala:** "How old were you when you learned to ask the cards something better than 'when will I meet him?'"
+
+(PT: Com quantos anos você aprendeu a perguntar às cartas algo melhor do que "quando vou conhecer ele?")
+
+## Cena 2 — Crenças e introdução da solução — 10s
+
+**Visual breve:** Dana embaralha o baralho, para, e põe a mão sobre a pilha. Sem carta nova à vista.
+
+**Fala:** "The cards can't give you a date. Reshuffling until you like the card changes nothing. And no card promises he's coming."
+
+(PT: As cartas não dão uma data. Embaralhar até gostar da carta não muda nada. E nenhuma carta promete que ele vem.)
+
+## Cena 3 — Solução, parte 1 — 8s
+
+**Visual breve:** Dana embaralha uma vez e tira uma única carta da pilha, deixando-a virada para baixo na mesa.
+
+**Fala:** "Ask this instead: what am I not seeing about how I show up in love? Pull one card."
+
+(PT: Pergunte isto: o que eu não estou enxergando sobre como eu me apresento no amor? Tire uma carta.)
+
+## Cena 4 — Solução, parte 2 — 10s
+
+**Visual breve:** Dana vira a carta, olha para ela em silêncio e depois olha para a lente.
+
+**Fala:** "Don't read the picture first. Notice the first thing you feel. Then ask: is this about him, or about a habit of mine?"
+
+(PT: Não leia a imagem primeiro. Note a primeira coisa que você sente. Depois pergunte: isso é sobre ele ou sobre um hábito meu?)
+
+## Cena 5 — Conclusão e miniobjeção — 10s
+
+**Visual breve:** Dana com a carta virada na mão, de frente, com um meio sorriso. Sem objeto novo.
+
+**Fala:** "Now you have one clear thing to look at tonight, not a countdown. But I know you'll still want a 'when.'"
+
+(PT: Agora você tem uma coisa clara para olhar hoje à noite, e não uma contagem regressiva. Mas eu sei que você ainda vai querer um "quando".)
+
+## Cena 6 — CTA
+
+Oferta confirmada no PROJETO: app Auraly / Soulmate Match, tratado como entretenimento. Sem capa nem imagem do app: ele é citado só pela voz. Parte A responde à miniobjeção ("ainda quero um quando"). Parte B manda para o story e faz a divulgação de afiliada. Nada de DM nem link na legenda. Preço não informado, então não é citado.
+
+**6A — 10s — Visual breve:** Dana de frente, atrás da mesa, com a carta apoiada na mesa. Sem celular nem tela de app.
+
+**6A — Fala:** "If you still want a 'when', Auraly's Soulmate Match quiz shows a drawing of a possible face, initials, and when you might meet."
+
+(PT: Se você ainda quer um "quando", o quiz Soulmate Match, do Auraly, mostra um desenho de um possível rosto, iniciais e quando vocês poderiam se conhecer.)
+
+**6B — 10s — Visual breve:** Dana continua de frente e olha para a lente.
+
+**6B — Fala:** "It's entertainment, not a promise. One-time payment. The link is in my story, and I may earn a commission. Follow for more straight talk."
+
+(PT: É entretenimento, não uma promessa. Pagamento único. O link está no meu story, e eu posso ganhar comissão. Siga para mais conversa sem rodeio.)
+
+## Notas editoriais e factuais
+
+- Dana não afirma experiência vivida: não diz "eu testei", "minhas clientes" nem "funcionou comigo". Fala com o público e com empatia.
+- Tarô é apresentado como espelho para refletir. Nenhuma fala promete que um amor vai chegar nem que a carta prevê a data.
+- O app é descrito como entretenimento: "mostra um desenho", "mostra iniciais". Não diz que encontra uma pessoa real nem que o encontro vai acontecer. "Pagamento único" vem do PROJETO; "só cartão" e preço ficam fora.
+- Divulgação de afiliada falada na 6B. Na descrição do Instagram, repetir a divulgação e marcar o conteúdo como gerado por IA.
+- Duração é planejamento editorial. As falas das Cenas 1, 2, 4, 5, 6A e 6B têm de 18 a 24 palavras; a leitura natural precisa ser cronometrada na produção. Se não couber, sinalizar, sem acelerar a voz.
+- Sem métricas de publicação.
