@@ -1,0 +1,201 @@
+PROMPT MESTRE — IMAGEM E VÍDEO UGC PET
+
+Este documento só é usado depois da aprovação integral do roteiro e das falas.
+Os prompts aplicam o roteiro aprovado; nunca reescrevem hook, promessa, ordem, fatos ou CTA.
+
+==================================================
+1. ORDEM DA ENTREGA
+==================================================
+
+1. Informar persona, teste, pet e figurino.
+2. Preservar o número de cenas aprovado: cinco (`Hook → Introdução → Solução → Conclusão → CTA 5A/5B`) ou seis (`Hook → Introdução → Solução parte 1 → Solução parte 2 → Conclusão → CTA 6A/6B`). A última cena é o único fechamento e tem dois clipes.
+   As falas aprovadas tendem a ocupar cerca de 8 segundos nas cenas de conteúdo e 10 segundos em cada clipe do CTA. Preservar as durações aprovadas e não acelerar a voz.
+3. Criar exatamente dois prompts de imagem para o roteiro inteiro: Imagem 1 para o hook e Imagem 2 como base visual das Cenas 2 até a última, seja Cena 5 ou Cena 6.
+4. A Imagem 2 deve reunir o cenário, a posição-base da pessoa e do pet e somente os objetos indispensáveis às cenas seguintes. Os outros ângulos, closes e POVs são produzidos como cortes semânticos nos prompts de vídeo, sem criar novas imagens-base.
+5. Listar os clipes de conteúdo por teste: `1/5` a `4/5` ou `1/6` a `5/6`. Os dois clipes do CTA são individuais por perfil e aparecem depois em `## CTAS POR PERFIL`.
+6. Inserir uma trava de referência visual para cada um dos quatro perfis no início do arquivo, agrupando primeiro os Testes A e depois os B. Não repetir travas dentro dos prompts de imagem ou vídeo.
+7. Cada cena de conteúdo gera um único clipe de até 10 segundos. A última usa 5A/5B ou 6A/6B, com as falas exatas do CTA sorteado e registrado no roteiro. Não dividir outras cenas.
+8. Entregar os testes A e B juntos no mesmo arquivo final.
+   Para esta conta, incluir sempre os quatro perfis ativos no painel: Persona 02 Testes A e B e Persona 03 Testes A e B. Usar quatro travas de identidade e figurino, uma lista de duas imagens compartilhadas, conteúdo visual por Teste A/B e CTA final específico para cada perfil; não esperar novo pedido para gerar os perfis masculinos.
+9. Criar uma única lista compartilhada de prompts de imagem para os testes A e B. Não duplicar cada prompt de imagem por teste. A mesma lista é usada com a trava visual A ou B definida no início do arquivo.
+10. Depois das imagens, apresentar os clipes de conteúdo do Teste A, depois os do Teste B. Em `## CTAS POR PERFIL`, apresentar os dois clipes finais de cada perfil, na ordem Mariana, Vera, Miguel, Rodrigo. O painel combina os clipes de conteúdo do teste correspondente com o CTA individual.
+11. Nos clipes de conteúdo, manter texto idêntico entre A e B e alterar somente `VOZ`. Nos clipes finais, a `FALA` é a única variação adicional, conforme o sorteio registrado. O título indica a imagem-base do teste correspondente.
+12. Junto da geração visual, escrever uma descrição curta para Instagram, pronta para copiar. A primeira linha deve ser literalmente `📕 Comenta "Receita" para garantir mais de 100 receitas com o Manual do Petisco Gourmet.`; deixar uma linha em branco antes do restante da legenda. Depois, usar conversa natural com tutores: gancho breve, receita ou orientação prática e limite de uso quando fizer parte do roteiro. Não repetir o CTA falado integral nem inventar benefícios. Salvar no mesmo arquivo final em `## DESCRIÇÃO PARA INSTAGRAM`, antes de `## TRAVAS DE REFERÊNCIA VISUAL`; o painel mostra esse texto em um box separado.
+13. Não criar avisos de frames necessários. Escrever a progressão física da receita dentro dos clipes, mantendo objetos, quantidades, cores e posições reconhecíveis.
+14. Antes de finalizar o pacote, conferir se a capa oficial do ebook foi anexada. Ela é a referência visual exclusiva do exemplar físico do Manual do Petisco Gourmet de Geladeira. A Imagem 2 já inclui esse exemplar discretamente na bancada; na parte A a pessoa o pega e mostra a capa ao falar do Manual; na parte B continua segurando o mesmo exemplar. Se a capa não estiver disponível, pedi-la ao responsável em vez de inventar uma capa.
+15. Conferir a distribuição sorteada dos CTAs no roteiro aprovado. Cada um dos quatro perfis usa uma opção diferente de `ctas.md`. Não sortear novamente nesta fase.
+   Desde 02/10/2026, os próximos roteiros podem ter falas de CTA adaptadas ao detalhe real da miniobjeção, mantendo o estilo sorteado por perfil. Usar exatamente as duas partes registradas e aprovadas no roteiro, em vez de recuperar a matriz histórica de `ctas.md`. A conclusão já contém a ponte para o Manual; não inventar nem reescrever essa ponte na produção visual.
+16. No painel, o texto copiável de cada imagem começa com `PROMPT IMAGEM 1:` ou `PROMPT IMAGEM 2:` antes da trava selecionada; o texto copiável de cada vídeo começa com `PROMPT DE VIDEO 1:`, `PROMPT DE VIDEO 2:` etc., incluindo `5A`/`5B` ou `6A`/`6B` no CTA. O título acima da caixa não substitui esse prefixo interno. Ao final de cada perfil selecionado, exibir uma caixa única com as duas imagens e todos os vídeos desse perfil na ordem, separados por uma linha divisória e identificados pelos mesmos prefixos. Essa apresentação não altera o conteúdo das travas, ações, falas ou vozes do arquivo-fonte.
+
+==================================================
+2. REGRA DE QUANTIDADE E REAPROVEITAMENTO DE IMAGENS
+==================================================
+
+- Gerar exatamente dois prompts de imagem para o roteiro inteiro.
+- A Imagem 1 pertence exclusivamente ao hook visual da Cena 1.
+- A Imagem 2 é a base de produção das Cenas 2 até 5B ou 6B. Ela deve estabelecer o ambiente, a posição inicial da pessoa e do pet e os objetos indispensáveis que serão usados nessas cenas, incluindo o Manual físico baseado na capa anexada, apoiado discretamente e ao alcance real.
+- Não criar uma terceira imagem para obter outro ângulo. Criar o novo ângulo dentro do vídeo por meio de um corte semântico POV ou close contextual.
+- O título das Cenas 2 até a última indica `IMAGEM 2`.
+- Cada imagem mostra pessoa, pet e somente os elementos essenciais daquela etapa, organizados naturalmente.
+- Especificar o tipo de roupa e as peças em cada um dos dois prompts de imagem. As duas imagens do mesmo roteiro usam exatamente o mesmo figurino.
+- Se houver várias personas ou influencers, especificar um figurino diferente para cada pessoa na respectiva trava visual: tipo, peças e cores exatas. Na lista compartilhada de imagens, mandar repetir o figurino da trava selecionada nas Imagens 1 e 2; o prompt copiável do painel combina trava e imagem, preservando a roupa específica da pessoa.
+- Alternar o figurino entre roteiros novos nesta sequência: social casual simples → academia fitness → básico casual → repetir. Usar versões adequadas tanto para personagens femininos quanto masculinos, em tons claros ou pastéis, com peças lisas e discretas.
+- Exemplos de categorias: social casual simples com camisa lisa de algodão e calça clara; academia fitness com camiseta de treino lisa e calça ou bermuda de treino; básico casual com camiseta lisa e calça casual clara.
+- No hook, ajustar a cor da roupa para que o tema destacado continue sendo o elemento de maior contraste.
+- Simplificar a composição: poucos objetos, posições claras e nenhuma decoração que não contribua para a ação.
+- O Manual não precisa dominar as cenas de receita: fica fechado e discreto na borda da bancada até 6A. Usar a capa anexada como autoridade; preservar título, letras, cores, imagens e composição sem criar outro material promocional.
+- Nenhum item pode flutuar, aparecer na mão sem origem ou poluir o enquadramento.
+- Quando uma ação alterar o estado físico da cena, descrever claramente o estado resultante no clipe seguinte, sem exigir print ou frame adicional.
+- Em receitas ou demonstrações com vários itens, os itens necessários às Cenas 2 até a última ficam separados, reconhecíveis e naturalmente apoiados na superfície da Imagem 2. Eles não precisam estar todos nas mãos da pessoa.
+- Em toda receita, a Imagem 2 mostra os ingredientes separados e medidos, com a tigela ou recipiente de preparo vazio. Nos vídeos, mostrar cada ingrediente entrando nesse mesmo recipiente, um por vez, antes de misturar. Não começar com os ingredientes já combinados nem fazer a mistura aparecer pronta por corte; usar um POV curto para aproximar a adição, preservando a posição dos objetos.
+- Antes de cada cena, conferir conteúdo e posição de recipientes, ingredientes, mãos, forma, textura e pet. Não criar objetos novos por corte; a mudança de estado precisa resultar de uma ação visível nos clipes.
+- Uma foto adicional de rosto é referência de identidade somente: preserva fisionomia, mas não autoriza copiar cenário, bancada, roupa, objetos ou estado físico.
+
+==================================================
+3. MODELO OBRIGATÓRIO — IMAGEM
+==================================================
+
+TRAVA DE REFERÊNCIA VISUAL: usar exclusivamente as referências ANEXADAS como autoridades de identidade. Preservar rosto, corpo, cabelo, proporções e aparência do humano e pet. Não misturar identidades.
+
+TRAVA DE ESTILO UGC: imagem vertical 9:16, fotorealista, gravada em ambiente doméstico brasileiro com aparência espontânea de smartphone. Luz natural, texturas reais de pele, tecido e pelo, enquadramento casual e levemente imperfeito. A câmera fica fora do quadro. Sem texto, legenda, logo, marca-d'água ou aparência publicitária fora da capa oficial impressa do Manual, quando visível.
+
+CENA: [descrever em duas ou três frases o primeiro frame. Informar pessoa, pet, ação já iniciada, posição frontal, enquadramento, superfície/fundo, contraste, figurino específico e somente os objetos essenciais já visíveis].
+
+==================================================
+4. PRIMEIRA IMAGEM — HOOK VISUAL
+==================================================
+
+ANTES DE ESCREVER O PROMPT DA IMAGEM 1, RESPONDER:
+1. O objeto/ingrediente/tema do vídeo está de forma exagerada, bem visível, destacado e grande na tela?
+2. A cena tem grande contraste e puxa atenção para o tema do vídeo?
+
+Se alguma resposta for “não”, ajustar o visual e repetir a checagem. Começar a geração somente com duas respostas “sim”. Manter as respostas fora do corpo copiável dos prompts; não alterar o roteiro, a lista de imagens ou a estrutura dos vídeos.
+
+- Pessoa e pet obrigatoriamente presentes.
+- Item, ingrediente, produto ou comportamento central em evidência já no primeiro quadro.
+- Ação já acontecendo; não usar pose de espera.
+- Pessoa, pet e item de frente para a câmera.
+- Nos próximos hooks com bancada ou mesa, posicionar a câmera diante da borda frontal da superfície, perpendicular a ela. A borda cruza o quadro na horizontal; a pessoa fica atrás da bancada, de frente para a lente, com o pet reconhecível ao lado. Uma leve inclinação para baixo pode mostrar o tampo e o recipiente, mantendo o eixo frontal. Não usar bancada vista pela lateral ou pela ponta, linhas diagonais dominantes, ângulo oblíquo ou de três quartos. O ingrediente permanece ampliado perto da lente sobre esse enquadramento frontal. Aplicar tanto à Imagem 1 quanto ao plano contínuo do vídeo do hook.
+- Referência de enquadramento autorizada para os próximos hooks: `Referencias/Hooks - Bancada frontal/02-frontal-aprovado.png`. `01-lateral-evitar.png` na mesma pasta registra a composição rejeitada. Usar essas imagens apenas para o enquadramento; preservar as identidades, o figurino, o pet, os ingredientes e o cenário do roteiro em produção. Esta decisão não altera S027 nem restringe os B-rolls posteriores.
+- Fundo claro e contraste forte; evitar cores pastéis, cinzentas ou lavadas.
+- O item, produto ou ingrediente central deve possuir o maior contraste e ser o primeiro ponto de atenção da imagem.
+- Separar cromaticamente o fundo, a bancada ou superfície, a roupa, o pet e o ingrediente. Evitar uma cena em que tudo tenha o mesmo tom claro ou a mesma saturação. O ingrediente mantém o maior destaque; a separação do pet pode vir da luz e de um fundo contrastante, sem mudar a cor real do pelo.
+- A roupa da personagem deve ser visualmente secundária: menos saturada, menos brilhante e sem estampas que concorram com o elemento principal.
+- Nos três primeiros segundos, o ingrediente mágico, mecanismo único ou solução secreta deve permanecer dominante, muito próximo da lente e visualmente exagerado por escala, perspectiva, cor intensa ou contraste forte. Não afastar, esconder ou reduzir o mecanismo durante esse período.
+- Em hooks com ingrediente, alimento, produto ou utensílio manual, usar close frontal com perspectiva forçada: aproximar o elemento da lente até ocupar aproximadamente metade ou mais do quadro e parecer quase sair da tela. Pessoa e pet permanecem próximos e reconhecíveis logo atrás; não usar plano aberto que deixe o mecanismo pequeno ou distante.
+- Em hooks sobre comportamento ou parte do corpo, aproximar patas, dentes, orelha, focinho, pelo ou a ação correspondente até ocupar aproximadamente metade ou mais do quadro, preservando anatomia realista e sem encenar desconforto.
+- Quando houver recipiente ou líquido ligado ao mecanismo, usar uma cor forte e diferente para tornar a aplicação imediatamente visível, desde que continue coerente com a ideia aprovada.
+- O exagero visual fica somente no mecanismo central. Pessoa, pet, roupa e cenário permanecem realistas.
+- O tema precisa ser identificável no primeiro segundo.
+- Não usar corte semântico no hook. A primeira cena é um único plano contínuo e frontal.
+
+==================================================
+5. MODELO OBRIGATÓRIO — VÍDEO
+==================================================
+
+TRAVA DE REFERÊNCIA VISUAL: preserve exactly the attached person and pet identities, wardrobe and proportions throughout every frame. Do not mix or redesign either identity. Refer to the character only as `a pessoa`, without personal names or gendered character descriptions.
+
+TRAVA DE ESTILO UGC: vídeo vertical 9:16, fotorealista e espontâneo, com movimento natural de smartphone, luz doméstica real e áudio próximo. A câmera e o celular nunca aparecem. Sem texto, legenda, logo, música, câmera lenta, estética cinematográfica ou publicitária fora da capa oficial impressa do Manual, quando visível.
+
+AÇÃO: [uma única ação principal, simples, contínua e fisicamente possível, usando apenas os objetos já presentes no primeiro frame].
+
+B-ROLL POV: [opcional; um único complemento contextual curto, no meio da cena, mostrando a ação mais de perto. A narração continua sem pausa, corte ou reinício da frase].
+
+FALA: “[fala exata aprovada]”
+
+VOZ — TESTE A: a pessoa é a única pessoa falante. Voz feminina adulta brasileira natural e espontânea.
+
+VOZ — TESTE B: a pessoa é a única pessoa falante. Voz masculina adulta brasileira natural e espontânea.
+
+TÍTULO OBRIGATÓRIO: escrever duração e origem visual no título: `X/N PROMPT DE VÍDEO — CENA X — Ys — IMAGEM 1/2` nas cenas de conteúdo e `NA/N PROMPT DE VÍDEO — CENA NA — Ys — IMAGEM 2`, `NB/N PROMPT DE VÍDEO — CENA NB — Ys — IMAGEM 2` no CTA, onde N é 5 ou 6. Não incluir linhas `INPUT REFERENCE`, `REFERÊNCIA DE ENTRADA` ou uma linha separada de duração.
+
+CORPO DO PROMPT: usar somente `TRAVA DE ESTILO UGC`, `AÇÃO`, `B-ROLL POV` quando houver, `FALA` e `VOZ`. A ação descreve um movimento simples com os elementos já presentes. O B-roll descreve em poucas frases um novo ângulo próximo, a mesma ação ou seu complemento e a narração contínua. Não criar um bloco separado de regras para o corte.
+
+==================================================
+6. CORTES SEMÂNTICOS / B-ROLL POV
+==================================================
+
+O B-roll entra no meio de cenas explicativas para demonstrar algo que está sendo narrado. Ele complementa o contexto; não ilustra uma ideia aleatória.
+
+Durante o corte semântico, somente a imagem muda. A narração brasileira atravessa o corte como uma única gravação contínua: mesma voz, timbre, volume e ritmo, sem pausa, reinício ou repetição de palavras. Exigir sincronização labial somente enquanto a boca estiver visível. Figurino, ambiente, luz, objetos e estado físico da etapa permanecem iguais antes e depois do corte.
+
+Sempre que as cenas de solução ou conclusão narrarem uma aplicação, mudança ou benefício visualizável (Cenas 3 e 4 no roteiro curto; Cenas 3 a 5 no longo), incluir um B-roll semântico naquele clipe. Priorizar POVs que mostrem o benefício em ação ou o resultado citado naquele exato trecho, como pelagem brilhante, pele hidratada, dentes, patas, mastigação, digestão representada pela alimentação, aplicação do produto ou comportamento mais tranquilo. Se o benefício não puder ser mostrado com clareza e naturalidade, não inventar uma demonstração.
+
+Regras:
+
+- nunca usar no hook inicial;
+- usar com moderação, preferencialmente em cenas de preparo, aplicação, comparação ou demonstração;
+- manter a narração contínua, sem reiniciar a fala;
+- mostrar uma única ação aproximada e reconhecível;
+- preferir POV ou close das mãos, do pet, do ingrediente ou do objeto;
+- preservar luz, local, figurino, objetos e estado da etapa;
+- manter a orientação espacial e a posição relativa dos objetos; o close ou POV deve parecer outro ângulo do mesmo momento;
+- antes de tocar um objeto, fazer a pessoa se aproximar até ficar ao alcance real; manter cotovelos dobrados e próximos do corpo, sem braços esticados para vencer distância;
+- não inserir texto gerado; legendas são responsabilidade da edição;
+- quando a pessoa aparecer, priorizar enquadramento frontal;
+- reforçar a promessa ou explicar o que está acontecendo naquele exato trecho.
+- mostrar o resultado de perto, em vez de apenas repetir o plano aberto da pessoa falando;
+- manter todos os elementos do B-roll já disponíveis no contexto da cena, sem materializar objetos ou criar transformações instantâneas.
+- descrever no B-roll exatamente o que entra no enquadramento e o que permanece fora dele; não autorizar ingredientes ou utensílios extras.
+- escrever o B-roll em poucas frases: novo ângulo bem próximo, uma ação visível, os poucos elementos enquadrados e voz contínua;
+- evitar repetir travas longas de textura, sotaque, luz, anatomia e continuidade dentro do mesmo corte;
+- se um utensílio não for indispensável, não incluí-lo na imagem-base nem no vídeo; preferir uma ação que use as mãos já visíveis;
+- não pedir dois cortes que voltem ao mesmo enquadramento no mesmo clipe.
+- O B-roll não pode mostrar uma ação que contradiga o plano principal. Se a pessoa apenas aponta para ingredientes no plano principal, o ingrediente não pode cair no recipiente por corte; mostrar a adição começando no plano principal e continuando no POV, ou retirar a adição do B-roll.
+
+Exemplos corretos:
+
+- a voz continua enquanto o POV mostra a mão distribuindo o caldo nas forminhas;
+- a voz continua enquanto o close mostra a pata tocando a superfície protegida;
+- a voz continua enquanto o POV acompanha a bandeja sendo colocada no freezer e a porta sendo fechada.
+
+==================================================
+7. ECONOMIA E ESTABILIDADE
+==================================================
+
+- Uma ação principal por clipe.
+- Em receitas, a adição sequencial dos ingredientes ao mesmo recipiente conta como uma única etapa de preparo; se não couber naturalmente, distribuir as adições entre cenas sem alterar as falas aprovadas.
+- Quando o resultado da receita já aparece no hook, descrever explicitamente a mesma cor, transparência e viscosidade nos ingredientes, no preparo, no recipiente final e na aplicação. Não transformar líquido ralo e translúcido em pasta, creme ou líquido opaco por mudança de cena.
+- Não incluir nos prompts de vídeo blocos ou linhas chamados `CONTINUIDADE`, `SEMANTIC CUT`, `CORTE SEMÂNTICO` ou `REFERÊNCIA DE ENTRADA`.
+- Entregar o conteúdo dos Testes A e B separadamente, mas escrever ambos com `a pessoa`, sem nomes ou termos de gênero. No conteúdo, só `VOZ` muda. Nos CTAs por perfil, também muda `FALA`, conforme o sorteio aprovado.
+- Um B-roll no máximo por clipe.
+- Mudança de local ou de estado — por exemplo, forma líquida no freezer para petisco sólido na mão — deve ser descrita como consequência natural das ações visíveis e distribuída pelas cenas existentes, sem materialização instantânea.
+- Na parte A do CTA, usar enquadramento frontal com pessoa e pet; a pessoa pega o Manual físico já presente na Imagem 2 e mostra a capa fiel à referência anexada quando diz “manual” ou o nome completo. Na parte B, ela mantém o mesmo Manual na mesma mão e prossegue a fala sem pausa, reinício ou novo objeto. Os ingredientes ficam fora do enquadramento.
+- Não descrever microgestos desnecessários.
+- Não pedir que a pessoa mostre, guarde e troque vários objetos no mesmo plano.
+- Não combinar preparo, aplicação, enxágue, secagem e resultado em uma única ação. Distribuir os estados entre cenas ou usar um único complemento contextual realmente necessário.
+- Preferir instruções curtas e concretas. Excesso de detalhes aumenta o risco de objetos flutuantes, movimentos irreais e alterações de anatomia.
+- Se houver troca de objeto ou etapa, começar outra cena com todos os objetos necessários já visíveis.
+- Não acelerar fala para caber. Antes da aprovação, ajustar ou redistribuir o conteúdo entre as cenas anteriores ao CTA; preservar as falas dos CTAs sorteados. Se alguma parte do CTA exceder 10 segundos em leitura natural, sinalizar ao responsável.
+- Usar somente 4, 6, 8 ou 10 segundos.
+- Entregar um clipe para cada cena de conteúdo e dois para a cena final (5A/5B ou 6A/6B), sem requisito de captura de frames. Nenhuma outra cena é dividida.
+
+==================================================
+8. TESTE A E TESTE B
+==================================================
+
+Teste A:
+- usar exclusivamente a mulher e o pet cadastrados para o teste A;
+- voz feminina adulta brasileira natural.
+
+Teste B:
+- usar exclusivamente o homem e o pet cadastrados para o teste B;
+- voz masculina adulta brasileira natural e espontânea.
+
+Nos dois testes, não escrever nomes próprios nem gênero nas travas, ações ou B-rolls. Usar apenas `a pessoa`. Nos clipes de conteúdo, a única diferença textual entre A e B fica em `VOZ`; no CTA, cada perfil recebe sua `FALA` sorteada.
+
+## ARQUIVO FINAL A/B
+
+- Criar somente um arquivo final de prompts para cada roteiro, contendo os dois testes.
+- Não separar a entrega final em um arquivo feminino e outro masculino.
+- Começar o arquivo com quatro travas visuais, uma por perfil, nos cabeçalhos `### PERSONA 02 — TESTE A — MARIANA`, `### PERSONA 03 — TESTE A — VERA`, `### PERSONA 02 — TESTE B — MIGUEL` e `### PERSONA 03 — TESTE B — RODRIGO`.
+- A menção necessária à identidade da pessoa aparece nessas quatro travas iniciais, para selecionar a referência correta de cada perfil.
+- Não repetir a trava de referência visual em nenhum prompt individual de imagem ou vídeo.
+- Criar apenas uma lista de prompts de imagem, compartilhada pelos testes A e B. Nunca duplicar o mesmo prompt de imagem em versões A e B.
+- Fora dessa trava, usar sempre `a pessoa`.
+
+Na adaptação A → B, preservar hook, promessa, fatos, ordem, número de cenas, durações e ações. Alterar referências, voz, figurino e o CTA final conforme o sorteio registrado por perfil.
+
+## CTAS POR PERFIL — FORMATO DO ARQUIVO FINAL
+
+Depois de `## PROMPTS DE VÍDEO — TESTE A` e `## PROMPTS DE VÍDEO — TESTE B`, adicionar `## CTAS POR PERFIL`. Usar exatamente um cabeçalho de nível 3 por perfil, como `### PERSONA 02 — TESTE A — MARIANA — CTA 1`, `### PERSONA 03 — TESTE A — VERA — CTA 2`, `### PERSONA 02 — TESTE B — MIGUEL — CTA 3` e `### PERSONA 03 — TESTE B — RODRIGO — CTA 4`. Os números são exemplos; usar os sorteados. Dentro de cada perfil, criar exatamente dois cabeçalhos de nível 4 (`#### 5A/5 ...` e `#### 5B/5 ...`, ou `#### 6A/6 ...` e `#### 6B/6 ...`) com prompt completo. Não repetir os clipes de conteúdo nem colocar CTA genérico nos blocos A/B. Essa estrutura mantém o painel capaz de apresentar o vídeo completo certo ao selecionar cada perfil.
