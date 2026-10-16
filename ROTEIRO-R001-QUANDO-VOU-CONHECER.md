@@ -1,6 +1,6 @@
 # R001-QUANDO-VOU-CONHECER — Formato 1 — roteiro (revisão 2, aguardando aprovação)
 
-Status: Fase 1, sem prompts. Seis cenas narrativas, com Cena 6 dividida em 6A/6B; duração planejada de 64 segundos. Persona: Dana Hollis (@straighttalktarot), sem pet. Dor 3: "Quando vou conhecer ele?". Molde de hook 2 — descoberta tardia. Primeiro roteiro: VÍDEOS FEITOS está vazio, sem molde anterior para evitar. Falas em inglês dos EUA (voz da persona); a tradução em português é só para o aluno aprovar.
+Status: Fase 1, sem prompts. Seis cenas narrativas, com Cena 6 dividida em 6A/6B; duração planejada de 66 segundos. Persona: Dana Hollis (@straighttalktarot), sem pet. Dor 3: "Quando vou conhecer ele?". Molde de hook 2 — descoberta tardia. Primeiro roteiro: VÍDEOS FEITOS está vazio, sem molde anterior para evitar. Falas em inglês dos EUA (voz da persona); a tradução em português é só para o aluno aprovar.
 
 Por que Formato 1 + molde 2: a dor é um hábito (perguntar "quando?" toda noite) com crenças erradas ("a carta dá a data", "embaralhar de novo muda a resposta"). O Formato 1 nega essas crenças e entrega uma pergunta melhor. O molde 2 cria curiosidade sem prometer amor.
 
@@ -50,21 +50,21 @@ Regra do aluno: no vídeo não se fala o nome do app, o tipo de pagamento nem co
 
 **6A — 10s — Visual breve:** Dana de frente, atrás da mesa, com a carta apoiada na mesa.
 
-**6A — Fala:** "Wanting a 'when' doesn't make you foolish. It makes you human. The cards can't answer it, but there's a second part for exactly that question."
+**6A — Fala:** "Don't leave with only half of this message. Everything I've told you so far is part one. Part two is waiting in my story."
 
-(PT: Querer um "quando" não te faz boba. Te faz humana. As cartas não respondem isso, mas existe uma segunda parte para exatamente essa pergunta.)
+(PT: Não saia daqui com só metade desta mensagem. Tudo o que eu disse até agora é a parte um. A parte dois está esperando no meu story.)
 
-**6B — 8s — Visual breve:** Dana de frente, olhando para a lente.
+**6B — 10s — Visual breve:** Dana de frente, olhando para a lente.
 
-**6B — Fala:** "Go to my story and tap the link there. And follow me for more straight talk about love."
+**6B — Fala:** "Tap my profile photo now, before it disappears in 24 hours. Comment YES if you're going, and follow for more straight talk."
 
-(PT: Vá ao meu story e toque no link lá. E me siga para mais conversa sem rodeio sobre amor.)
+(PT: Toque na minha foto de perfil agora, antes que suma em 24 horas. Comente YES se você vai, e me siga para mais conversa sem rodeio.)
 
 ## Notas editoriais e factuais
 
 - Dana não afirma experiência vivida: não diz "eu testei", "minhas clientes" nem "funcionou comigo". Fala com o público e com empatia.
 - Tarô é apresentado como espelho para refletir. Nenhuma fala promete que um amor vai chegar nem que a carta prevê a data.
-- A 6A não promete encontro nem rosto e não diz o que é a segunda parte; só abre a curiosidade. A descrição honesta do que o quiz mostra (um desenho, entretenimento) deve ficar na página do story, não no vídeo.
+- CTA no estilo "não sai com metade da mensagem" (exemplo 3 do aluno), sem afirmar rosto, iniciais ou data de encontro como fato, sem "esse vídeo te achou" e sem "pra eu saber que chegou". A 6A e a 6B não prometem encontro nem rosto e não dizem o que é a segunda parte; só abrem a curiosidade. A descrição honesta do que o quiz mostra (um desenho, entretenimento) deve ficar na página do story, não no vídeo.
 - Divulgação de afiliada e rótulo de conteúdo gerado por IA ficam fora das falas, a pedido do aluno. Eles ainda precisam existir em outro lugar: na descrição do Instagram, no story e no rótulo de IA da plataforma.
 - Duração é planejamento editorial. As falas das Cenas 1, 2, 4, 5, 6A e 6B têm de 18 a 24 palavras; a leitura natural precisa ser cronometrada na produção. Se não couber, sinalizar, sem acelerar a voz.
 - Sem métricas de publicação.
