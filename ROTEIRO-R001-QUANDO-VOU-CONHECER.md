@@ -60,6 +60,18 @@ Regra do aluno: no vídeo não se fala o nome do app, o tipo de pagamento nem co
 
 (PT: Toque na minha foto de perfil agora, antes que suma em 24 horas. Comente YES se você vai, e me siga para mais conversa sem rodeio.)
 
+## Texto de tela (aplicado na edição, não no Flow)
+
+Os clipes saem sem texto. Estes textos entram na edição. Nenhum promete rosto, data ou encontro.
+
+- **Hook (0 a 3 s), escolher um:**
+  - A: "Ask the cards a better question"
+  - B: "Not 'when will I meet him?'"
+- **Cena 5 (opcional, no momento da miniobjeção):** "You'll still want a 'when'"
+- **CTA (6A e 6B, no fim):** "Part 2 is in my story"
+- **Legendas:** usar as falas exatas de cada clipe, em inglês, sincronizadas com a voz.
+- **Estilo:** fonte grande e legível, no máximo 6 palavras por vez, longe da borda inferior e da lateral direita, onde a interface do Instagram cobre o texto.
+
 ## Notas editoriais e factuais
 
 - Dana não afirma experiência vivida: não diz "eu testei", "minhas clientes" nem "funcionou comigo". Fala com o público e com empatia.
