@@ -65,7 +65,25 @@ Este arquivo registra o que o aluno mostrou do site (prints enviados em 17/10/20
 - **Regra do site (texto abaixo do campo):** "Vazio = gestos naturais padrão. Cada linha/frase vira o movimento de um take, na ordem."
 - **Para a Dana:** uma linha por cena, na ordem dos clipes, em inglês, descrevendo só o corpo, as mãos, a expressão e o olhar (as ações já escritas nos painéis). Como cada linha vira um take, o número de linhas tem de bater com o número de takes que o site fizer; isso será conferido no teste com o texto do R003.
 
-**Mais abaixo na página:** ainda não visto (o print anterior terminava num título cortado "...AGEM", provavelmente IMAGEM).
+**Seção — ÁUDIO & ATMOSFERA** (ícone de alto-falante; também tem **interruptor ligado/desligado**, aparecia ligado)
+- Texto do site: "O áudio é padronizado automaticamente: ASMR dos ruídos ambientes reais, sem música e sem sonorização."
+- **Campo: PADRÃO DE ÁUDIO (fixo em todos os takes)** (caixa de texto fixa, não editável no print). Texto exato:
+  > ASMR-style natural ambience only — every real environmental sound captured with intimate, close-mic clarity (soft breathing, fabric rustle, subtle room tone). STRICTLY NO music, NO soundtrack, NO added sound effects, NO sound design of any kind.
+- **Campo: ATMOSFERA / MOOD** (lista; o padrão aparece em primeiro):
+  1. Antecipação tensa subindo ← padrão do site
+  2. Místico e ritualístico
+  3. Íntimo e confidencial
+  4. Curiosidade sedutora e brincalhona
+  5. Sabedoria silenciosa contemplativa
+  6. Funesto e premonitório
+  7. Caloroso e acolhedor
+  8. Onírico e etéreo
+  9. Solene e grave
+  10. Elétrico e carregado
+  11. ✎ LIVRE — escrever...
+- **Para a Dana (proposta, a confirmar depois de ver o prompt):** o tom dela é de amiga, calma e firme, nunca teatral, e o vídeo é UGC de smartphone. O padrão do site ("Antecipação tensa subindo") e "Funesto e premonitório" puxam para o medo e o dramático. Mais próximos da Dana: **Íntimo e confidencial** (segredo, "eu vou te contar") ou **Caloroso e acolhedor**. Escolha provisória: Íntimo e confidencial.
+
+**Mais abaixo na página:** ainda não visto.
 
 **Contas que importam para a Dana (conferir quando o prompt aparecer):**
 - Nossas falas têm até 22 palavras e os clipes são de 8 s ou 10 s. A regra do site (fala em até 80% do take) dá 8 s de fala em um clipe de 10 s e 6,4 s em um de 8 s.
@@ -73,7 +91,7 @@ Este arquivo registra o que o aluno mostrou do site (prints enviados em 17/10/20
 - O site divide o texto em takes sozinho. Os clipes da Dana já estão divididos por cena, com ação e duração próprias; é preciso ver como o site trata um texto curto (uma cena por vez) antes de decidir a melhor forma de colar.
 
 ## Pendente (a registrar nos próximos prints)
-- Seção IMAGEM (provável) e demais campos: atmosfera e outros.
+- Demais seções abaixo de Áudio & Atmosfera (se houver) e a seção IMAGEM (se existir).
 - Botão de gerar e o formato do prompt que o site entrega.
 - Como o site trata um texto curto (uma cena) colado em "COLE SUA COPY AQUI".
 - Outras abas ou geradores do Creative Hub (por exemplo, de imagem).
