@@ -11,14 +11,21 @@ Este arquivo registra o que o aluno mostrou do site (prints enviados em 17/10/20
 
 **Campo 1 — PLATAFORMA DE ANIMAÇÃO** (lista de seleção)
 - Valor que aparecia selecionado: **Flow (Google) — vídeo cinematográfico com áudio**
-- As outras opções da lista ainda não foram vistas (falta print com a lista aberta).
+- Opções da lista (print com a lista aberta):
+  1. **Flow (Google) — vídeo cinematográfico com áudio** ← a que o aluno usa
+  2. Grok Imagine (xAI) — vídeo cinematográfico
+  3. Pixverse — image-to-video
+  4. HeyGen Avatar 3 — avatar falante
+  5. HeyGen Avatar 4 — avatar com emoção
+  6. HeyGen Avatar 5 — avatar avançado
+  7. ✎ LIVRE — escrever plataforma...
+- O aluno só usa o Google Flow; as outras plataformas não serão usadas.
 
 **O que isso indica (leitura minha, a confirmar com os próximos prints):**
 - O site é um gerador que monta o prompt do vídeo a partir de: plataforma, roteiro (a fala entra sozinha), movimento, câmera e atmosfera.
 - Os "100 roteiros" do site são provavelmente os 100 roteiros do curso (ver `BIBLIOTECA-COPY-100-ROTEIROS.md`). A Dana usa roteiros próprios (R001, R002, R003...), então o caminho será a opção **"✎ LIVRE"** de cada campo, colando a fala da Dana, ou conferir se o site aceita roteiro próprio.
 
 ## Pendente (a registrar nos próximos prints)
-- Lista de plataformas.
 - Campo de roteiro (como escolher e se aceita texto livre).
 - Campos de movimento, câmera e atmosfera: opções de cada um e a opção "✎ LIVRE".
 - Botão de gerar e o formato do prompt que o site entrega.
