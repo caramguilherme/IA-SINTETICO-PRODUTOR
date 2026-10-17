@@ -254,3 +254,26 @@ Technical Settings: STRICTLY a solo monologue. The speaker is completely ALONE. 
 - **Configurações fixas** (definir uma vez e conferir a cada roteiro): plataforma Flow; velocidade Média; câmera Handheld sutil; atmosfera Íntimo e confidencial; tom Calorosa e tranquilizadora; idioma Inglês; perfil de voz LIVRE (Dana); estilo UGC moderno handheld; continuidade Plano único; duração de cada take Automática.
 - **Por cena (7 vezes por roteiro):** colar só a fala daquela cena em "COLE SUA COPY AQUI"; escrever a linha de movimento da cena em MOVIMENTAÇÃO; gerar; copiar o take; no Flow, anexar a imagem do primeiro quadro (IMAGEM 1 na Cena 1, IMAGEM 2 nas demais) e colar o prompt.
 - **Descrição livre (global)** em "✎ LIVRE — DESCREVA COMO VOCÊ QUER O VÍDEO": uma frase que vale para todos os takes, sem citar objetos específicos de uma cena (a Cena 1 segura a carta; as outras não mexem em carta nenhuma). As regras de carta de cada cena vão na linha de movimento.
+
+---
+
+## Parte 3 — Teste de uma cena só (Cena 1 do R003), com a voz da Dana (17/10/2026)
+
+**Resultado:** 1 take (TAKE 1/1), 10 s, "fala ≈ 6,4 s" (18 palavras). Deliver "warm and reassuring". O perfil de voz da Dana entrou (sem "Black American"). O texto de continuação do clipe anterior sumiu ("This is a single, self-contained clip"; CONTINUITY: "Single clip..."). O VISUAL passou a ter "Body language for this clip: ..." (a movimentação) e "Creative direction (written by the creator — follow it faithfully): ..." (a descrição livre). O bloco "TODOS OS PROMPTS" avisa que a ordem do modo agente só entra com 2 ou mais prompts; com 1 take, o COPIAR do take serve.
+
+**Duração automática:** com 18 palavras (6,4 s de fala), o site escolheu **10 s** ("10 s prioritário"). Para o Flow, usar a duração do cabeçalho do take.
+
+**Descoberta: a movimentação precisa ser UMA frase só.** O texto colado tinha 3 frases; o site usou só a primeira ("She holds the large dark-green tarot card ... resting on the closed deck.") e descartou as outras duas. Regra do site: "Cada linha/frase vira o movimento de um take, na ordem". Com um take por cena, escrever toda a movimentação da cena numa frase só.
+
+**Campos do perfil de voz LIVRE** (aparecem ao escolher "✎ LIVRE — montar minha própria voz..."; o site diz "Escreva em inglês para o melhor resultado... Cada campo é opcional — o bloco abaixo se monta sozinho no mesmo formato dos perfis prontos"):
+- QUEM FALA — GÊNERO E IDADE (ex.: Woman, 35-45)
+- ORIGEM E SOTAQUE (ex.: Brazilian, soft accent in English)
+- TIMBRE E CARACTERÍSTICAS VOCAIS
+- TOM E ATITUDE
+- RITMO (caráter; a velocidade real vem do seletor "Velocidade da fala")
+- ESTILO DE ENTREGA
+- REFERÊNCIA OU INSPIRAÇÃO
+- Botão **↻ REGERAR BLOCO A PARTIR DOS CAMPOS**.
+- Dois jeitos de usar: preencher os campos (o bloco se monta sozinho) ou **colar o perfil pronto direto no bloco de texto abaixo**, que foi o que o aluno fez. Quando o bloco é editado à mão, os campos não o sobrescrevem mais; **REGERAR BLOCO substitui o texto colado pelo montado dos campos, então não clicar nele.**
+
+**Arquivo com o passo a passo do R003 (imagens, configuração fixa, as 7 cenas e o Flow):** `PASSO-A-PASSO-R003-HUB.md`.
