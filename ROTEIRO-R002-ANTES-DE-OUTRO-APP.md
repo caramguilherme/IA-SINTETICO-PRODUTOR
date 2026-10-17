@@ -50,11 +50,9 @@ Figurino (escolhido depois do objeto do hook): cartomante, místico sutil; blusa
 
 **Visual breve:** Dana empurra o celular de lado com as pontas dos dedos e junta as mãos sobre a mesa, olhando para a lente. O maço fica fechado e nenhuma carta aparece fora dele.
 
-**Fala:** "Skip the swiping. In my story, a free astrology quiz finds your Venus, names your love pattern and shows your perfect match."
+**Fala:** "Skip the swiping. In my story, see a drawing of his possible face, his initials, and when you might meet."
 
-(PT: Pule o deslizar. No meu story, um quiz grátis de astrologia descobre o seu Vênus, dá nome ao seu padrão de amor e mostra o seu par perfeito.)
-
-(Take trocado em 17/10/2026 pelo funil Love Chart. A versão antiga, do Soulmate, falava de desenho do rosto, iniciais e data do encontro.)
+(PT: Pule o deslizar. No meu story, veja um desenho do possível rosto dele, as iniciais e quando vocês podem se conhecer.)
 
 ## Cena 6B — CTA — 10s
 

@@ -1,4 +1,4 @@
-# PASSO A PASSO — R003 pela Central do curso + agente do Flow (imagem única)
+# PASSO A PASSO — R003 (funil Soulmate) pela Central do curso + agente do Flow (imagem única)
 
 O painel do R003 (https://claude.ai/artifact/9cKYmzqooPmAb8pz88ZjwP) traz tudo para copiar: o prompt da imagem, a configuração da Central, a fala inteira, as 7 linhas de movimentação, o aviso do agente, o story, a legenda e o comentário fixado. Os prompts dos takes saem da Central.
 
@@ -17,7 +17,7 @@ Preencha a configuração fixa (seção "Central do curso: o que preencher" do p
 - Seção 6: Duração & estilo, interruptor LIGADO; duração não mexer; estilo UGC moderno handheld; continuidade Plano único, sem cortes.
 
 Depois cole, da seção "A fala e a movimentação" do painel:
-- Em "COLE SUA COPY AQUI": a fala inteira (142 palavras, um parágrafo).
+- Em "COLE SUA COPY AQUI": a fala inteira (146 palavras, um parágrafo).
 - Em "MOVIMENTAÇÃO": as 7 linhas, uma por take.
 
 Clique em ⚡ GERAR PROMPT DE ANIMAÇÃO. O site deve mostrar **7 takes de 10 s**, cada um começando e terminando nas frases da conferência do painel. Se vier outro número ou outro corte, não gere e mande o print.

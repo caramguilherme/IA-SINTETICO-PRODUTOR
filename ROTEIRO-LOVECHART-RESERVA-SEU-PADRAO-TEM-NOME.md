@@ -1,4 +1,6 @@
-# R003-SEU-PADRAO-TEM-NOME — Formato 1 — roteiro revisado com a biblioteca do curso (revisão 2, 17/10/2026)
+> **Reserva.** Este roteiro é do funil Love Chart. O funil ativo hoje é o Soulmate (decisão do aluno em 17/10/2026), então o R003 é outro roteiro (`ROTEIRO-R003-ELE-ESCONDE-DUAS-COISAS.md`). Quando o aluno avisar que o Love Chart começou, este roteiro pode virar o próximo número, com o painel refeito.
+
+# RESERVA LOVE CHART — SEU PADRÃO TEM NOME (não é o R003; usar só depois que o Love Chart começar) — Formato 1 — roteiro revisado com a biblioteca do curso (revisão 2, 17/10/2026)
 
 Status: revisão 3 (imagem única, 17/10/2026): uma só imagem de primeiro quadro para os 7 vídeos, com a carta A Lua EM PÉ na frente do baralho fechado (ela nunca se mexe); a fala inteira vai de uma vez na Central, que cria 7 takes de 10 s, um por cena. Revisão 2 (falas) mantida: feita depois que o aluno enviou o material do curso (bodies, hooks, CTAs, cold reading, pesquisa, copy e os 100 roteiros). A revisão 1 (Estrutura C, molde 8, "Never look up your Venus sign…") foi substituída. Seis cenas narrativas, Cena 6 dividida em 6A/6B; sete clipes de 10 s (70 s planejados; a Central define a duração real). Persona: Dana Hollis (@straighttalktarot), sem pet. Primeiro roteiro do funil Love Chart. Dor 5 (repetir o mesmo padrão), com a dor 2 (homem que some). Falas em inglês dos EUA; a tradução é só para o aluno aprovar.
 

@@ -1,6 +1,6 @@
-# STORY R003 — Parte 2 (imagem, texto e adesivo de link) — funil Love Chart
+# STORY R003 — Parte 2 (imagem, texto e adesivo de link) — funil Soulmate
 
-Vale para postar a partir de segunda, 19/10/2026. Regra do aluno: nenhuma menção a afiliado em lugar nenhum, nem nos stories. O adesivo de link usa uma mensagem curta de 3 a 4 palavras, não o endereço. Variação: a carta A Lua ao lado do rosto (R001 teve um leque de cartas e o R002 três cartas em fileira).
+Regra do aluno: nenhuma menção a afiliado em lugar nenhum, nem nos stories. O adesivo de link usa uma mensagem curta de 3 a 4 palavras, não o endereço.
 
 ## 1. Prompt da imagem do story (Nano Banana Pro, 9:16)
 
@@ -12,19 +12,19 @@ FIGURINO FIXO: cartomante, místico sutil; cardigã longo de tricô fino creme, 
 
 TRAVA DE ESTILO UGC: imagem vertical 9:16, fotorealista, gravada em ambiente doméstico americano com aparência espontânea de smartphone. Luz natural, texturas reais de pele, tecido e pelo, enquadramento casual e levemente imperfeito. A câmera fica fora do quadro. Sem texto, legenda, logo, marca-d'água ou aparência publicitária.
 
-CENA: EDIÇÃO da IMAGEM 1 aprovada (use a IMAGEM 1 como imagem-base): mantenha exatamente a mesma mulher, rosto, cabelo, argolões, cardigã creme, camiseta clara, mesa redonda, vela, janela, sofá e luz. Ajustes: plano médio frontal na mesma mesa; a pessoa está sentada atrás da mesa, de frente, levemente inclinada na direção da lente, com o olhar direto e firme e um leve sorriso de quem sabe algo. Com uma das mãos ela segura, em pé ao lado do rosto, a carta de tarô verde-escura quase preta, com a lua crescente dourada grande e a lua cheia prateada pequena, sem rosto, letras ou números, com a frente voltada para a lente; é a mesma carta que estava em pé na frente do maço na IMAGEM 1, agora na mão dela, e a mesa fica sem ela; a carta é o ponto de maior contraste. A outra mão repousa sobre o maço fechado de tarô na mesa, com o verso escuro azul-noite e dourado para cima; a vela acesa continua pequena à esquerda. Remova qualquer outro objeto da mesa, além do maço fechado e da vela. Deixe o terço de baixo do quadro livre, só com a mesa de madeira, e a faixa de cima também livre, porque o texto e o adesivo de link entram depois na edição do Instagram. Mãos e dedos anatomicamente corretos, sem duplicar a carta. Não rejuvenesça nem suavize a pele.
+CENA: EDIÇÃO da IMAGEM 1 aprovada (use a IMAGEM 1 como imagem-base): mantenha exatamente a mesma mulher, rosto, cabelo, argolões, cardigã creme, camiseta clara, mesa redonda, vela, janela, sofá e luz. Ajustes: plano médio frontal na mesma mesa; a pessoa está sentada atrás da mesa, de frente, levemente inclinada na direção da lente, com o olhar direto e firme e um leve sorriso de quem sabe algo. Com uma das mãos ela segura, em leque e bem perto da lente, três cartas de tarô viradas para baixo, mostrando só o verso: cartas de tarô altas e estreitas, de cantos levemente arredondados, com verso escuro azul-noite e um desenho simétrico e ornamentado em dourado fosco (sol, lua crescente e estrelas) e borda dourada fina, sem naipes, números ou letras; o leque ocupa o centro do quadro, é o ponto de maior contraste e parece quase sair da tela. A outra mão repousa sobre o maço fechado de tarô na mesa; a vela acesa continua pequena. Remova a carta A Lua em pé e qualquer outro objeto da mesa, além do maço fechado e da vela. Deixe o terço de baixo do quadro livre, só com a mesa de madeira, e a faixa de cima também livre, porque o texto e o adesivo de link entram depois na edição do Instagram. Mãos e dedos anatomicamente corretos, sem duplicar cartas. Não rejuvenesça nem suavize a pele.
 
 ## 2. Texto na tela do story (adicionado no editor do Instagram)
 
 - **Topo (grande):** "PART 2" (em cobre queimado, #B5703B)
-- **Centro (médio, creme #F1E6D3):** "Find your Venus. Name your pattern."
+- **Centro (médio, creme #F1E6D3):** "Pick 3 cards. See his possible face."
 - **Abaixo, pequeno:** "Gone in 24 hours"
-- Fonte grossa e legível, com leve sombra. Deixe livre os 14% do topo e os 20% de baixo (a interface do Instagram cobre). O adesivo de link vai no terço de baixo, no centro.
+- Fonte grossa e legível, com leve sombra. Deixe livre os 14% do topo e os 20% de baixo. O adesivo de link vai no terço de baixo, no centro.
 
 ## 3. Texto do adesivo de link (3 a 4 palavras)
 
-1. **"Find my Venus"** (recomendada: é o botão da tela 11 do quiz, então a pessoa vê o que prometeu)
-2. "See your possible match"
+1. **"Pick your 3 cards"** (recomendada: é a primeira tela do quiz)
+2. "See his possible face"
 3. "Open Part 2"
 
-Nada de "afiliado", "link", "comissão", preço, assinatura ou "grátis" no story.
+Nada de "afiliado", "link", "comissão", preço ou assinatura no story.

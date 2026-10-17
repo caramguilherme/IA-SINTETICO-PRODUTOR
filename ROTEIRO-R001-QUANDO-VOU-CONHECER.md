@@ -48,11 +48,9 @@ Por que Formato 1 + molde 7: o hook promete três razões e esconde a última. A
 
 **Visual breve:** Dana apoia a carta contra o maço e junta as mãos sobre a mesa, com um meio sorriso. Sem celular nem tela de app.
 
-**Fala:** "You can. In my story, a free astrology quiz finds your Venus, names your love pattern and shows your perfect match."
+**Fala:** "You can. In my story, see a drawing of his possible face, his initials, and when you might meet."
 
-(PT: Você pode. No meu story, um quiz grátis de astrologia descobre o seu Vênus, dá nome ao seu padrão de amor e mostra o seu par perfeito.)
-
-(Take trocado em 17/10/2026 pelo funil Love Chart. A versão antiga, do Soulmate, falava de desenho do rosto, iniciais e data do encontro.)
+(PT: Você pode. No meu story, veja um desenho do possível rosto dele, as iniciais e quando vocês podem se conhecer.)
 
 ## Cena 6B — CTA — 10s
 
