@@ -50,5 +50,7 @@ P8. Baralho da Dana (a partir do R002): descrever sempre um baralho de tarô de 
 
 P9. Cartas no Flow (lição do R002): o Flow é literal. Todo clipe com carta começa da IMAGEM 2 (maço fechado, verso escuro para cima, sem carta fora do maço), então a carta sai do maço dentro do clipe, deslizando e plana, com o verso para cima. Nunca pedir para virar, levantar ou mostrar a frente de uma carta (só o hook mostra a frente, vinda da IMAGEM 1). Escrever o estado físico e o que não acontece. Ver a seção BARALHO do PROJETO.
 
+P10. Funil Love Chart (a partir de 19/10/2026, decisão da escola): o Soulmate Match encerra em 19/10 e o funil passa a ser o Love Chart (quiz de astrologia do amor: Vênus, Lua da noite do nascimento, nome do padrão de amor, par perfeito pela metade). Para roteiros novos, a 6A e o story descrevem isso, nunca o desenho do rosto, as iniciais ou a data de encontro. Valem as regras da seção FUNIL LOVE CHART do PROJETO (o que pode e o que não pode dizer, ângulo tarô + astrologia, pacote do story). As adaptações P6 a P9 continuam; só trocam o que o story mostra.
+
 HONESTIDADE
 Nunca invente oferta, depoimento, número, prazo, resultado ou benefício de saúde. A persona não finge experiência vivida. Tema de saúde: sem cura nem diagnóstico; diga quando procurar um profissional.
