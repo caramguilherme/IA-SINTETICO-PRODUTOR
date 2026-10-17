@@ -69,6 +69,18 @@ Por que Formato 1 + molde 7: o hook promete três razões e esconde a última. A
 - **CTA (6A e 6B):** "Save · Comment 222 · Part 2 in my story"
 - **Legendas:** as falas exatas, em inglês, sincronizadas com a voz. No máximo 6 palavras por vez, longe da borda inferior e da lateral direita.
 
+## Legenda do post (Instagram)
+
+STOP scrolling. 222 keeps following you for a reason. 🔥
+
+Three, actually. And the last one is about the man you've been waiting for.
+
+You've asked "when is it my turn?" enough nights. You've blamed yourself enough times.
+
+Part 2 is in my story. It disappears in 24 hours.
+
+Save this. Comment 222. Tap my photo. NOW.
+
 ## Notas editoriais e factuais
 
 - Sem nome do app, preço, tipo de pagamento nem comissão nas falas. O vídeo só tem gancho, ferida, curiosidade e CTA.

@@ -21,7 +21,8 @@
 - **Pode dizer no vídeo:** que o quiz mostra um desenho do possível rosto, as iniciais e quando vocês podem se conhecer, sempre com "possível" e "pode". Pode usar 222, segredo, lacuna de curiosidade, comportamento e comentário com código.
 - **Não pode dizer no vídeo:** o nome do app, preço, tipo de pagamento nem comissão.
 - **Nunca:** dizer que o app encontra uma pessoa real ou que o encontro vai acontecer; depoimento, número ou "funcionou comigo" inventado; urgência falsa; medo ou ameaça.
-- **Divulgação:** afiliada na descrição e no story, não na fala. O perfil já é marcado como gerado por IA. Recomendado no story: dizer que é uma assinatura paga com renovação automática. A Dana nunca diz "pagamento único".
+- **Legenda do post: sempre agressiva** (decisão do aluno, 17/10/2026): curta, firme, ferida primeiro, frases de uma linha, termina com a ação (salvar, comentar, tocar na foto, story). Sem nota de rodapé sobre tarô, numerologia ou afiliado. Nunca insulto, ameaça, medo, urgência falsa ou promessa de encontro.
+- **Divulgação:** afiliada no story, onde está o link, e não na fala nem na legenda do post. O perfil já é marcado como gerado por IA. Recomendado no story: dizer que é uma assinatura paga com renovação automática. A Dana nunca diz "pagamento único".
 - **Não repetir da página:** "He's arriving fast", "You will meet your soulmate soon", escassez ("3 spots left"), contagem regressiva, depoimentos ou números ("74,000+ readings").
 
 ## FUNIL DE CONVERSÃO (vigente desde 17/10/2026; vale do R002 em diante e revisa o R001)

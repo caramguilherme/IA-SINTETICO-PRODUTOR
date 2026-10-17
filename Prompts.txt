@@ -206,5 +206,5 @@ Depois de `## PROMPTS DE VÍDEO — TESTE A` e `## PROMPTS DE VÍDEO — TESTE B
 
 - Uma única persona, sem Teste B e sem CTA por perfil. O painel traz 2 imagens e 7 clipes (6 cenas) ou 6 clipes (5 cenas).
 - A voz vem de `perfil.voz` (americana, calma e firme) e a cena é de um ambiente doméstico americano. Não há pet, Manual nem capa.
-- A descrição do Instagram, em inglês, abre com o gancho do roteiro e termina com a nota de que tarô e numerologia são para reflexão e de que o link do story pode ser de afiliado. Não começa com "Comenta Receita".
+- A descrição do Instagram, em inglês, é sempre agressiva: abre com o gancho do roteiro, toca a ferida em frases curtas e termina com a ação (salvar, comentar o código, tocar na foto, story). Sem nota de rodapé. Não começa com "Comenta Receita".
 - Siga o FUNIL DE CONVERSÃO do PROJETO-Dana.md e a adaptação P6 do CLAUDE.md.
