@@ -97,6 +97,6 @@ Follow me. Comment VENUS. Tap my photo. NOW.
 - Frases do próprio funil usadas com adaptação: "Your sun sign shows who you are. Your Venus shows how you love." e "It's a pattern, not bad luck" (aqui, "It may be a pattern").
 - A Dana é cartomante. Diz "in astrology" na Cena 3 e não se apresenta como astróloga. A prova pelo comportamento (Cenas 2 e 4) é uma observação sobre a espectadora, sem experiência vivida da Dana.
 - O "erro" da Cena 5 (parar no signo solar) é um erro de leitura, não uma conspiração. Não ataca pessoas nem horóscopos.
-- As falas têm de 15 a 21 palavras. A Cena 3 e a Cena 1 são de 8 s: cronometrar na produção; se não couber, sinalizar, sem acelerar a voz.
+- As falas têm de 15 a 22 palavras. As Cenas 1 e 3 são de 8 s: cronometrar na produção; se não couber, sinalizar, sem acelerar a voz.
 - Este roteiro só vale para postar a partir de segunda, 19/10/2026, com o story do Love Chart.
 - Sem métricas de publicação.
