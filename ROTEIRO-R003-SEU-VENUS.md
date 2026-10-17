@@ -1,10 +1,10 @@
-# R003-SEU-VENUS — Estrutura C (proibição invertida) — roteiro (aguardando aprovação)
+# R003-SEU-VENUS — Estrutura C (proibição invertida) — roteiro aprovado (painel montado)
 
 Status: Fase 1, sem prompts. Seis cenas narrativas, com Cena 6 dividida em 6A/6B; 66 segundos planejados. Persona: Dana Hollis (@straighttalktarot), sem pet. Primeiro roteiro do funil Love Chart (vale a partir de 19/10/2026). Dor 5 (repetir o mesmo padrão), com a dor 2 (homem que some). Molde de hook 8 — proibição com benefício desejado (R001 usou o 7 e o R002 o 10). Falas em inglês dos EUA; a tradução é só para o aluno aprovar.
 
 Por que Estrutura C + molde 8: o molde 8 é o da Estrutura C e vira a proibição em recomendação ("nunca olhe seu Vênus, a menos que queira parar de se apaixonar pelo mesmo tipo"). A ferida entra nas Cenas 1 e 2, a virada ("seu Vênus mostra como você ama") na 3, a prática na 4, o erro real (parar no signo solar) e a curiosidade na 5. O story entrega o Vênus, o nome do padrão e o signo do possível par perfeito.
 
-Figurino (escolhido depois do objeto do hook): cartomante, místico sutil; cardigã longo de tricô fino creme, aberto, sobre camiseta lisa cinza-carvão, calça reta escura lisa, argolões prateados, sem colar. A carta do hook é A Lua (verde-escuro profundo, quase preto, com lua crescente dourada grande e lua cheia prateada pequena, sem letras), o ponto de maior contraste contra o creme. Baralho de tarô de verdade, fechado, verso para cima.
+Figurino (escolhido depois do objeto do hook): cartomante, místico sutil; cardigã longo de tricô fino creme, aberto, sobre camiseta lisa cinza-claro, calça reta escura lisa, argolões prateados, sem colar. A carta do hook é A Lua (verde-escuro profundo, quase preto, com lua crescente dourada grande e lua cheia prateada pequena, sem letras), o ponto de maior contraste contra o creme. Baralho de tarô de verdade, fechado, verso para cima.
 
 ## Cena 1 — Hook — 8s
 
@@ -16,7 +16,7 @@ Figurino (escolhido depois do objeto do hook): cartomante, místico sutil; cardi
 
 ## Cena 2 — Ferida — 10s
 
-**Visual breve:** Dana baixa a carta até a mesa, com o verso para a lente, e olha para a lente com expressão cansada e conhecedora.
+**Visual breve:** Dana, sem carta na mão, olha para a lente com expressão cansada e conhecedora e balança levemente a cabeça. Maço fechado, nenhuma carta fora dele.
 
 **Fala:** "He texts all day. Never makes real plans. Then goes quiet. You call it bad luck. It may be a pattern."
 
@@ -24,7 +24,7 @@ Figurino (escolhido depois do objeto do hook): cartomante, místico sutil; cardi
 
 ## Cena 3 — Virada — 8s
 
-**Visual breve:** Dana apoia a mão aberta no peito por um instante e depois a leva de volta à mesa.
+**Visual breve:** Dana apoia a mão aberta no peito por um instante e depois a leva de volta à mesa, ao lado do maço fechado.
 
 **Fala:** "In astrology, your sun sign shows who you are. Your Venus shows how you love."
 
@@ -32,7 +32,7 @@ Figurino (escolhido depois do objeto do hook): cartomante, místico sutil; cardi
 
 ## Cena 4 — Prática — 10s
 
-**Visual breve:** Dana ergue três dedos de uma das mãos, olha para a lente e inclina levemente a cabeça.
+**Visual breve:** Dana ergue três dedos de uma das mãos (indicador, médio e anelar), olha para a lente e inclina levemente a cabeça. Maço fechado.
 
 **Fala:** "Think of the last three men who kept you guessing. Notice what they shared. That may be where your pattern shows."
 
@@ -48,7 +48,7 @@ Figurino (escolhido depois do objeto do hook): cartomante, místico sutil; cardi
 
 ## Cena 6A — CTA — 10s
 
-**Visual breve:** Dana junta as mãos sobre a mesa e olha para a lente, com um meio sorriso. Maço fechado, nenhuma carta fora dele.
+**Visual breve:** Dana junta as mãos sobre a mesa, atrás do maço fechado, e olha para a lente, com um meio sorriso. Nenhuma carta fora do maço.
 
 **Fala:** "Want to see yours? In my story, find your Venus, name your love pattern, and see the sign of your possible match."
 
