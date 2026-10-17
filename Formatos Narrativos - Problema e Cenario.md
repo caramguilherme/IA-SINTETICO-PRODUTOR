@@ -182,3 +182,10 @@ Com seis cenas, manter o checklist na Cena 2, interpretar o primeiro grupo de si
 - Escolher **A** para checklist observável, **B** para comparações condicionais, **C** para receita com proibição invertida, **D** para tutorial medido, **E** para três benefícios, **F** para lista de alertas, **G** para alerta com segunda virada e **H** para ordem direta em etapas.
 - Sem formato previamente escolhido, mostrar até três opções que realmente caibam na pauta, com hook falado e visual breves, recomendar uma e aguardar a escolha. Não listar as dez em toda solicitação.
 - A arquitetura escolhida deve caber em quatro ou cinco cenas de conteúdo com valor concreto e ritmo natural, seguidas do CTA 5A/5B ou 6A/6B. Se a ideia continuar excessiva, escolher outra abordagem em vez de apressar as falas.
+
+## Adaptação Dana (17/10/2026)
+
+- Os mapas de cinco e seis cenas continuam. A ferida entra nas Cenas 1 a 3, o desejo de ver como ele é nas Cenas 4 e 5.
+- A lista de razões (hook com "três razões") vale no Formato 1 ou nas Estruturas E e F: cada cena entrega uma razão e a última é a mais pessoal.
+- A miniobjeção da Cena 5 vira curiosidade ("você olharia, se pudesse?"). Ela não nega as cartas nem a oferta.
+- A promessa do hook é entregue na segunda parte, no story, não no próprio vídeo.

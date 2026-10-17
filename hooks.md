@@ -120,3 +120,10 @@ Não apresentar as dez opções automaticamente. Aguardar a escolha do responsá
 - Selecionar um dos dez moldes acima e preencher apenas seus campos variáveis.
 - Preservar o mecanismo vencedor e trocar somente os elementos necessários para criar a versão do perfil.
 - Tema, ingrediente, objeto, aplicação e cenário podem mudar; a família do hook e o formato escolhido não podem ser improvisados.
+
+## 6. Adaptação Dana (17/10/2026)
+
+- O hook visual é um objeto do tarô (carta grande, cobre e dourado, sem letras) com a Dana de frente. Não há pet.
+- O hook falado é uma frase de ferida, comportamento ou segredo que faz a espectadora pensar "isso é pra mim": 222, "quando é a minha vez?", ghosting, "velha demais".
+- Moldes que mais servem: 7 (lista com lacuna: "existem três razões, e a última é sobre o homem que você espera"), 2, 3 e 5. O molde precisa abrir um loop que só fecha mais adiante. Nunca soar como anúncio.
+- Cada hook cumpre o critério do funil: parar o scroll, identificar a espectadora e abrir a curiosidade. Sem pré-gancho por enquanto.

@@ -93,3 +93,11 @@ Preservar os quatro estilos sorteados nos roteiros novos, com adaptação aprova
 - O áudio contínuo cabe naturalmente nas durações e no formato escolhido?
 
 Os princípios enviados são tratados como direção criativa, não como leis universais do cérebro ou garantia de conversão. Registrar preferência editorial; resultados e aprendizados de desempenho exigem dados reais de publicação.
+
+## 10. Dana — a dor primeiro (17/10/2026)
+
+- Cena concreta e reconhecível: a noite no celular, o homem que mandou mensagens por dias e sumiu, as amigas que parecem ter achado alguém, a imagem do rosto dele que ela já fez na cabeça.
+- Segunda pessoa ("você") e frases curtas e firmes. Sem linguagem de coaching ou autoajuda ("habit", "mindset", "countdown", "straight talk").
+- A prova pelo comportamento é uma observação sobre a espectadora ("você já imaginou o rosto dele à noite"), não experiência vivida da Dana.
+- Sem humilhar, sem ameaçar e sem inventar medo. Sem negar as cartas nem a oferta.
+- Acrescentar ao checklist da seção 9: a ferida aparece nas Cenas 1 a 3? A espectadora pensa "isso é pra mim"? A curiosidade só fecha no story? Cada fala tem até 22 palavras?

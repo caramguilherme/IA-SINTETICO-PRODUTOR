@@ -122,7 +122,7 @@ section{scroll-margin-top:16px}
 /* DADOS DO PACOTE: a IA troca só a linha abaixo (null) pelo objeto JSON do pacote. O resto do arquivo não muda. */
 const PACOTE = null;
 (function(){
-const ESTILO_IMG="TRAVA DE ESTILO UGC: imagem vertical 9:16, fotorealista, gravada em ambiente doméstico brasileiro com aparência espontânea de smartphone. Luz natural, texturas reais de pele, tecido e pelo, enquadramento casual e levemente imperfeito. A câmera fica fora do quadro. Sem texto, legenda, logo, marca-d'água ou aparência publicitária.";
+const ESTILO_IMG="TRAVA DE ESTILO UGC: imagem vertical 9:16, fotorealista, gravada em ambiente doméstico americano com aparência espontânea de smartphone. Luz natural, texturas reais de pele, tecido e pelo, enquadramento casual e levemente imperfeito. A câmera fica fora do quadro. Sem texto, legenda, logo, marca-d'água ou aparência publicitária.";
 const ESTILO_VID="TRAVA DE ESTILO UGC: vídeo vertical 9:16, fotorealista e espontâneo, com movimento natural de smartphone, luz doméstica real e áudio próximo. A câmera e o celular nunca aparecem. Sem texto, legenda, logo, música, câmera lenta, estética cinematográfica ou publicitária.";
 const REF_TXT="TRAVA DE REFERÊNCIA VISUAL: usar exclusivamente as referências ANEXADAS como autoridades de identidade. Preservar rosto, corpo, cabelo, proporções e aparência do humano e pet. Não misturar identidades.";
 const KEY="painel_ugc_v2";
@@ -155,7 +155,7 @@ function promptImagem(im){
 }
 function refCapa(){return (pk.excecao_estilo||'').trim()?' A capa oficial é autoridade somente para a arte impressa no exemplar físico.':''}
 function promptVideo(v){
-  const voz=/masculina/.test(pk.perfil.voz)?'Voz masculina adulta brasileira natural e espontânea.':'Voz feminina adulta brasileira natural e espontânea.';
+  const voz=pk.perfil.voz;
   const num=v.cena.split('/')[0];
   const br=(v.b_roll||'').trim();
   return v.cena+' PROMPT DE VÍDEO — CENA '+num+' — '+v.duracao+'s — '+v.primeiro_quadro+'\n\n'+estilo(ESTILO_VID,'estética cinematográfica ou publicitária')+'\n\nAÇÃO: '+v.acao+(br?'\n\nB-ROLL POV: '+br:'')+'\n\nFALA: “'+v.fala+'”\n\nVOZ: a pessoa é a única pessoa falante. '+voz;
@@ -180,7 +180,7 @@ function montar(silencio){
     if(!Array.isArray(p.imagens)||p.imagens.length<2)throw new Error('Faltam as 2 imagens ("imagens").');
     if(!Array.isArray(p.videos)||!p.videos.length)throw new Error('Faltam os vídeos ("videos").');
     p.videos.forEach((v,i)=>{['cena','duracao','primeiro_quadro','acao','fala'].forEach(k=>{if(v[k]===undefined||v[k]==='')throw new Error('O vídeo '+(i+1)+' está sem "'+k+'".')})});
-    if(!p.perfil||!/^Voz (feminina|masculina) adulta brasileira/.test(p.perfil.voz||''))throw new Error('Falta "perfil.voz" ("Voz feminina|masculina adulta brasileira natural e espontânea.").');
+    if(!p.perfil||!/^Voz (feminina|masculina) adulta (brasileira|americana)/.test(p.perfil.voz||''))throw new Error('Falta "perfil.voz" ("Voz feminina|masculina adulta brasileira natural e espontânea.").');
     const n=p.videos.length;
     if(n!==6&&n!==7)throw new Error('O pacote tem '+n+' vídeos; o método usa 6 (5 cenas) ou 7 (6 cenas).');
     p.videos.forEach((v,i)=>{if([4,6,8,10].indexOf(Number(v.duracao))<0)throw new Error('O vídeo '+(i+1)+' tem duração '+v.duracao+'; só 4, 6, 8 ou 10 s.')});

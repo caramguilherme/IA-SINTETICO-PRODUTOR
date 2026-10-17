@@ -19,3 +19,5 @@ Os documentos copiados preservam o histórico do Projeto UGC Pet. Use este arqui
 15. Aprovado não significa publicado ou vencedor. Não há métricas anexadas que comprovem desempenho.
 
 As imagens de identidade e a capa não acompanham este kit textual. O aluno cria e aprova as próprias referências, ou anexa os arquivos oficiais autorizados de seu projeto. Não finja que nomes ou caminhos de arquivos substituem os anexos.
+
+16. Projeto Dana (17/10/2026): vale o FUNIL DE CONVERSÃO do PROJETO-Dana.md e a adaptação P6 do CLAUDE.md. Eles prevalecem sobre as regras de Manual, capa, receita, pet e promessa entregue no vídeo. As regras de honestidade continuam valendo.

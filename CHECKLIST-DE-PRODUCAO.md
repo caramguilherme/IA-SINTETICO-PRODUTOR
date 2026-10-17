@@ -81,3 +81,15 @@
 - [ ] Teste A e B não misturam pessoas, pets ou vozes.
 - [ ] Não há texto, legenda, logo, marca-d'água ou estética publicitária gerada.
 - [ ] O resultado parece UGC brasileiro espontâneo, não comercial cinematográfico.
+
+## Dana — funil de conversão (17/10/2026)
+
+- [ ] O hook toca a dor ou o comportamento e abre uma lacuna de curiosidade.
+- [ ] A ferida aparece nas Cenas 1 a 3 e a espectadora pensa "isso é pra mim".
+- [ ] A Cena 4 nomeia o desejo e a Cena 5 abre a curiosidade, sem negar as cartas nem a oferta.
+- [ ] A 6A descreve o que o story mostra com "possível" e "pode" e não cita app, preço, pagamento nem comissão.
+- [ ] A 6B pede 1 ou 2 selos e leva à foto do perfil, ao story e ao link.
+- [ ] Cada fala tem até 22 palavras e cabe no clipe sem acelerar a voz.
+- [ ] O texto de tela do hook, das razões e do CTA foi entregue fora do painel.
+- [ ] Figurino de cartomante místico sutil, diferente do roteiro anterior, igual nas duas imagens e em todos os clipes.
+- [ ] Voz americana, calma e firme. Sem pet, sem Manual e sem capa.

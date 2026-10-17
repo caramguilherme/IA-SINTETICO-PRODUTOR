@@ -199,3 +199,12 @@ Na adaptação A → B, preservar hook, promessa, fatos, ordem, número de cenas
 ## CTAS POR PERFIL — FORMATO DO ARQUIVO FINAL
 
 Depois de `## PROMPTS DE VÍDEO — TESTE A` e `## PROMPTS DE VÍDEO — TESTE B`, adicionar `## CTAS POR PERFIL`. Usar exatamente um cabeçalho de nível 3 por perfil, como `### PERSONA 02 — TESTE A — MARIANA — CTA 1`, `### PERSONA 03 — TESTE A — VERA — CTA 2`, `### PERSONA 02 — TESTE B — MIGUEL — CTA 3` e `### PERSONA 03 — TESTE B — RODRIGO — CTA 4`. Os números são exemplos; usar os sorteados. Dentro de cada perfil, criar exatamente dois cabeçalhos de nível 4 (`#### 5A/5 ...` e `#### 5B/5 ...`, ou `#### 6A/6 ...` e `#### 6B/6 ...`) com prompt completo. Não repetir os clipes de conteúdo nem colocar CTA genérico nos blocos A/B. Essa estrutura mantém o painel capaz de apresentar o vídeo completo certo ao selecionar cada perfil.
+
+==================================================
+9. ADAPTAÇÃO DANA (17/10/2026)
+==================================================
+
+- Uma única persona, sem Teste B e sem CTA por perfil. O painel traz 2 imagens e 7 clipes (6 cenas) ou 6 clipes (5 cenas).
+- A voz vem de `perfil.voz` (americana, calma e firme) e a cena é de um ambiente doméstico americano. Não há pet, Manual nem capa.
+- A descrição do Instagram, em inglês, abre com o gancho do roteiro e termina com a nota de que tarô e numerologia são para reflexão e de que o link do story pode ser de afiliado. Não começa com "Comenta Receita".
+- Siga o FUNIL DE CONVERSÃO do PROJETO-Dana.md e a adaptação P6 do CLAUDE.md.

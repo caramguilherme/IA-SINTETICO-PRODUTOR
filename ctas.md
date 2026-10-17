@@ -52,3 +52,10 @@ Nos próximos roteiros, a conclusão apresenta uma miniobjeção real de execuç
 **Parte B — 5B ou 6B:** `que seu pet vai amar, com ingredientes que você encontra na sua casa. Comenta Receita ou Clique no link da bio para adquirir.`
 
 O CTA 4 era o CTA fixo do S025. Ele agora integra o sorteio, sem alterar o S025 ou qualquer artefato anterior.
+
+## Dana — CTA de funil (17/10/2026; substitui os estilos do Manual neste projeto)
+
+Sem Manual, sem capa e sem sorteio. O CTA continua em duas partes, cada uma com até 10 s e até 22 palavras:
+- **A (ponte):** a virada ("You can.") e o que o story mostra: um desenho do possível rosto, as iniciais e quando vocês podem se conhecer, com "possível" e "pode". Sem nome do app, preço, pagamento nem comissão.
+- **B (ação):** 1 ou 2 selos conforme o roteiro (comentar um código como 222 ou YES, salvar, mandar para si ou para uma amiga, seguir), e depois tocar na foto do perfil e abrir o story antes que ele suma em 24 h. Exemplo: "Save this: first seal. Comment 222: second seal. Then tap my profile photo and open my story before it disappears."
+- Nunca prometer mandar algo por DM. O link está só no story.
