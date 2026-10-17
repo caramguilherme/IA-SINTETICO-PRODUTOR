@@ -120,6 +120,11 @@ section{scroll-margin-top:16px}
       </ol>
     </section>
 
+    <section class="card hide" id="prehook">
+      <h2>Pré-gancho (3 a 4 s)</h2>
+      <div id="preBox"></div>
+    </section>
+
     <section class="card" id="imagens"><h2>Imagens</h2><div id="listaImg"></div></section>
 
     <section class="card hide" id="central">
@@ -161,7 +166,7 @@ section{scroll-margin-top:16px}
   </div>
  </div>
  <nav class="toc"><b>Nesta página</b>
-   <a href="#entrada">Pacote</a><a href="#textotela">Texto na tela</a><a href="#descricao">Legenda</a><a href="#comentario">Comentário fixado</a><a href="#referencia">Referência visual</a><a href="#imagens">Imagens</a><a href="#central">Central</a><a href="#cenas">Cenas</a><a href="#agente">Agente</a><a href="#story">Story</a><a href="#fala">Fala completa</a><a href="#videos">Vídeos</a><a href="#todos">Todos os prompts</a>
+   <a href="#entrada">Pacote</a><a href="#textotela">Texto na tela</a><a href="#descricao">Legenda</a><a href="#comentario">Comentário fixado</a><a href="#referencia">Referência visual</a><a href="#prehook">Pré-gancho</a><a href="#imagens">Imagens</a><a href="#central">Central</a><a href="#cenas">Cenas</a><a href="#agente">Agente</a><a href="#story">Story</a><a href="#fala">Fala completa</a><a href="#videos">Vídeos</a><a href="#todos">Todos os prompts</a>
  </nav>
 </div>
 
@@ -209,11 +214,12 @@ function promptVideo(v){
 }
 function itens(){
   const a=[];
+  if(pk.pre_gancho){a.push({id:'pre_img',tipo:'pre',titulo:'Imagem do pré-gancho',prompt:''});a.push({id:'pre_vid',tipo:'pre',titulo:'Vídeo do pré-gancho',prompt:''})}
   pk.imagens.forEach((im,i)=>a.push({id:'img'+(i+1),tipo:'img',titulo:im.rotulo,prompt:promptImagem(im),rotulo:'PROMPT IMAGEM '+(i+1)}));
   pk.videos.forEach((v,i)=>a.push({id:'vid'+(i+1),tipo:'vid',titulo:v.rotulo+' · cena '+v.cena,v:v,prompt:pk.central?'':promptVideo(v),rotulo:'PROMPT DE VIDEO '+(i+1)}));
   return a;
 }
-function blocoCompleto(){return itens().filter(it=>!pk.central||it.tipo==='img').map(it=>it.rotulo+':\n'+it.prompt).join('\n\n')}
+function blocoCompleto(){return itens().filter(it=>it.tipo!=='pre'&&(!pk.central||it.tipo==='img')).map(it=>it.rotulo+':\n'+it.prompt).join('\n\n')}
 function progresso(){
   const its=itens();const f=its.filter(i=>feitos[i.id]).length;
   $('prog').style.width=(100*f/its.length)+'%';
@@ -268,6 +274,21 @@ function montarCentral(){
   }
 }
 
+function montarPre(){
+  const g=pk.pre_gancho;
+  $('prehook').classList.toggle('hide',!g);
+  if(!g)return;
+  $('preBox').innerHTML='<p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">'+esc(g.conceito||'')+'</p>'
+    +'<div class="item"><button class="cp" id="cpPreImg">Copiar prompt</button><h3>1) Imagem do pré-gancho <span class="tag">9:16</span><span class="tag">sem referências anexadas</span></h3><div class="box m">'+esc(g.imagem_prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_img" '+(feitos.pre_img?'checked':'')+'> Imagem gerada e aprovada</label></div>'
+    +'<div class="item"><button class="cp" id="cpPreVid">Copiar prompt</button><h3>2) Vídeo do pré-gancho <span class="tag">'+esc(g.duracao||4)+' s</span><span class="tag">1º quadro: a imagem acima</span></h3><div class="box m">'+esc(g.video_prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_vid" '+(feitos.pre_vid?'checked':'')+'> Vídeo gerado e aprovado</label></div>'
+    +(g.texto_tela?'<div class="item"><button class="cp" id="cpPreTxt">Copiar texto</button><h3>Texto na tela do pré-gancho</h3><div class="box">'+esc(g.texto_tela)+'</div></div>':'')
+    +(g.edicao?'<div class="tip">'+esc(g.edicao)+'</div>':'');
+  $('cpPreImg').onclick=e=>copiar(g.imagem_prompt,e.currentTarget);
+  $('cpPreVid').onclick=e=>copiar(g.video_prompt,e.currentTarget);
+  if($('cpPreTxt'))$('cpPreTxt').onclick=e=>copiar(g.texto_tela,e.currentTarget);
+  $('preBox').querySelectorAll('input[data-id]').forEach(inp=>{inp.onchange=e=>{feitos[inp.dataset.id]=e.target.checked;progresso();salvar()}});
+}
+
 function montar(silencio){
   const m=$('msg');m.className='msg';m.textContent='';
   try{
@@ -305,7 +326,7 @@ function montar(silencio){
   $('falas').textContent=pk.videos.map(v=>v.rotulo+' · cena '+v.cena+'\n“'+v.fala+'”').join('\n\n');
   $('listaImg').innerHTML='';$('listaVid').innerHTML='';
   itens().forEach(it=>{
-    if(pk.central&&it.tipo==='vid')return;
+    if(it.tipo==='pre'||(pk.central&&it.tipo==='vid'))return;
     const d=document.createElement('div');d.className='item'+(feitos[it.id]?' done':'');
     let alerta='';
     if(it.tipo==='vid'&&/[ÚU]LTIMO QUADRO/i.test(it.v.primeiro_quadro)){
@@ -321,6 +342,7 @@ function montar(silencio){
     $(it.tipo==='img'?'listaImg':'listaVid').appendChild(d);
   });
   montarCentral();
+  montarPre();
   $('painel').classList.remove('hide');
   progresso();salvar();
 }

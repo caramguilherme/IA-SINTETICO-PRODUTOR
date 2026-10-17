@@ -56,7 +56,7 @@ Objetivo único: vender. Toda a copy trabalha o mesmo caminho da espectadora:
 
 Regras de escrita: frases curtas, firmes e diretas, sem tom de coaching ou autoajuda (nada de "habit", "mindset", "countdown", "straight talk"). Cada fala cabe em até 22 palavras (clipes de 8 s ou 10 s). A ferida vem da situação. **Atualização de 17/10/2026 (curso):** o ângulo de medo/ameaça do curso ("você está perdendo ele para outra") está liberado, sem insultar a espectadora e sem prometer uma perda real ("vai ficar sozinha" continua fora). Nunca negar as cartas nem a oferta. A prova pelo comportamento é uma observação sobre a espectadora, não experiência vivida da Dana.
 Texto de tela: cada roteiro entrega, fora do painel, o texto de tela do hook, das razões e do CTA. Os clipes do Flow saem sem texto.
-Pré-gancho: não usar por enquanto. A decisão pode mudar se o aluno pedir.
+Pré-gancho: usar em todo roteiro (decisão do aluno em 17/10/2026): clipe de 3 a 4 s, sem fala, impactante, só mão e objetos; ver `BIBLIOTECA-PRE-GANCHOS.md` e a adaptação P14 do CLAUDE.md.
 Figurino: cartomante, místico sutil, variando a cada roteiro dentro da paleta (ver FIGURINO).
 
 ## DORES
@@ -93,4 +93,4 @@ DNA: `DNA Visual - Dana.md` (1 arquivo; sem DNA de pet).
 ## VÍDEOS FEITOS
 - [2026-10-16] R001-QUANDO-VOU-CONHECER · dor 3 (Quando vou conhecer ele?) · Formato 1, 6 cenas · molde de hook 7 (lista com lacuna de curiosidade) · figurino: cartomante místico sutil, blusa de veludo verde-petróleo · 2026-10-16 (em produção)
 - [2026-10-17] R002-ANTES-DE-OUTRO-APP · dor 2 (cansaço dos apps e do ghosting, com a 3) · Formato 2, 6 cenas · molde de hook 10 (alerta antes de uma prática) · figurino: cartomante místico sutil, blusa creme com xale cinza-chumbo · 2026-10-17 (em produção)
-- [2026-10-17] R003-ELE-ESCONDE-DUAS-COISAS · dor 4 (sinal ou ilusão?, com a 3) · Formato 2, 6 cenas · hook do curso #25 (adaptado) + ângulos 5 e 4 · figurino: cartomante místico sutil, cardigã creme com camiseta cinza-claro · 2026-10-17 (em produção; funil Soulmate; imagem única)
+- [2026-10-17] R003-ELE-ESCONDE-DUAS-COISAS · dor 4 (sinal ou ilusão?, com a 3) · Formato 2, 6 cenas · hook do curso #25 (adaptado) + ângulos 5 e 4 · figurino: cartomante místico sutil, cardigã creme com camiseta cinza-claro · pré-gancho: linha de sal em chamas até a vela · 2026-10-17 (em produção; funil Soulmate; imagem única)
