@@ -20,7 +20,7 @@
 ### Regras da oferta (atualizado em 17/10/2026)
 - **Pode dizer no vídeo:** que o quiz mostra um desenho do possível rosto, as iniciais e quando vocês podem se conhecer, sempre com "possível" e "pode". Pode usar 222, segredo, lacuna de curiosidade, comportamento e comentário com código.
 - **Não pode dizer no vídeo:** o nome do app, preço, tipo de pagamento nem comissão.
-- **Nunca:** dizer que o app encontra uma pessoa real ou que o encontro vai acontecer; depoimento, número ou "funcionou comigo" inventado; urgência falsa; medo ou ameaça.
+- **Nunca:** dizer que o app encontra uma pessoa real ou que o encontro vai acontecer; depoimento, número ou "funcionou comigo" inventado; urgência falsa ou inventada (o medo como ângulo de gancho está liberado pelo curso, ver FUNIL DE CONVERSÃO).
 - **Legenda do post: sempre agressiva** (decisão do aluno, 17/10/2026): curta, firme, ferida primeiro, frases de uma linha, termina com a ação (salvar, comentar, tocar na foto, story). Sem nota de rodapé sobre tarô, numerologia ou afiliado.
 - **Comentário fixado (Instagram e Facebook):** todo roteiro entrega os dois textos, curtos e agressivos, que levam ao story: "Part 2 is in my story" (no Facebook, "Story" e "profile picture"), tocar na foto, 24 h e comentar o código. Nada de afiliado, link, preço ou assinatura.
 - **Story (a "parte 2"):** todo roteiro entrega o pacote do story: prompt da imagem (sem texto; a Dana oferecendo 3 cartas de tarô viradas para baixo, que é a primeira tela do quiz), texto na tela e adesivo de link com 3 a 4 palavras no lugar do endereço. Nada de afiliado, link, comissão, preço ou assinatura no story. Nunca insulto, ameaça, medo, urgência falsa ou promessa de encontro.
@@ -52,7 +52,7 @@ Objetivo único: vender. Toda a copy trabalha o mesmo caminho da espectadora:
 5. **A ação.** A 6B pede 1 ou 2 ações (os "selos"), conforme o roteiro: comentar um código (222, YES), salvar, mandar para si ou para uma amiga, seguir. Uma ação por selo, frase curta.
 6. **Story e link.** Toda copy termina em: tocar na foto do perfil, abrir o story antes que suma (24 h) e clicar no link. A 6A ("You can.") faz a virada e diz o que o story mostra: um desenho do possível rosto, as iniciais e quando vocês podem se conhecer, sempre com "possível" e "pode".
 
-Regras de escrita: frases curtas, firmes e diretas, sem tom de coaching ou autoajuda (nada de "habit", "mindset", "countdown", "straight talk"). Cada fala cabe em até 22 palavras (clipes de 8 s ou 10 s). A ferida vem da situação, nunca de ameaça ou medo ("vai ficar sozinha"). Nunca negar as cartas nem a oferta. A prova pelo comportamento é uma observação sobre a espectadora, não experiência vivida da Dana.
+Regras de escrita: frases curtas, firmes e diretas, sem tom de coaching ou autoajuda (nada de "habit", "mindset", "countdown", "straight talk"). Cada fala cabe em até 22 palavras (clipes de 8 s ou 10 s). A ferida vem da situação. **Atualização de 17/10/2026 (curso):** o ângulo de medo/ameaça do curso ("você está perdendo ele para outra") está liberado, sem insultar a espectadora e sem prometer uma perda real ("vai ficar sozinha" continua fora). Nunca negar as cartas nem a oferta. A prova pelo comportamento é uma observação sobre a espectadora, não experiência vivida da Dana.
 Texto de tela: cada roteiro entrega, fora do painel, o texto de tela do hook, das razões e do CTA. Os clipes do Flow saem sem texto.
 Pré-gancho: não usar por enquanto. A decisão pode mudar se o aluno pedir.
 Figurino: cartomante, místico sutil, variando a cada roteiro dentro da paleta (ver FIGURINO).
