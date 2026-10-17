@@ -127,3 +127,4 @@ Não apresentar as dez opções automaticamente. Aguardar a escolha do responsá
 - O hook falado é uma frase de ferida, comportamento ou segredo que faz a espectadora pensar "isso é pra mim": 222, "quando é a minha vez?", ghosting, "velha demais".
 - Moldes que mais servem: 7 (lista com lacuna: "existem três razões, e a última é sobre o homem que você espera"), 2, 3 e 5. O molde precisa abrir um loop que só fecha mais adiante. Nunca soar como anúncio.
 - Cada hook cumpre o critério do funil: parar o scroll, identificar a espectadora e abrir a curiosidade. Sem pré-gancho por enquanto.
+- O baralho nas cenas é de tarô de verdade (ver BARALHO no PROJETO-Dana.md): verso escuro ornamentado em dourado, nunca o padrão de baralho comum.

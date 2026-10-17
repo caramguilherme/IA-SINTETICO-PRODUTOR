@@ -93,3 +93,4 @@
 - [ ] O texto de tela do hook, das razões e do CTA foi entregue fora do painel.
 - [ ] Figurino de cartomante místico sutil, diferente do roteiro anterior, igual nas duas imagens e em todos os clipes.
 - [ ] Voz americana, calma e firme. Sem pet, sem Manual e sem capa.
+- [ ] O baralho descrito é de tarô (cartas altas e estreitas, verso escuro ornamentado em dourado), não de baralho de jogar.

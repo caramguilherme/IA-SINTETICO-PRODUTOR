@@ -52,6 +52,10 @@ Usar exclusivamente as referências ANEXADAS como autoridades de identidade. Pre
 Linha vigente (decisão do aluno em 17/10/2026): roupas de cartomante, místicas de forma sutil, que variam a cada roteiro dentro da paleta verde-petróleo, creme e cobre queimado, mais um neutro escuro. Peças lisas, sem estampa, bordado vistoso nem brilho que concorram com o objeto do hook; sem turbante, capa ou fantasia. Acessório fixo: argolões prateados. Colar de prata com pequeno pingente de lua crescente é opcional, por roteiro.
 Rotação sugerida: 1) blusa de mangas amplas de veludo verde-petróleo (R001, aprovada sem colar); 2) xale cinza-chumbo fosco drapeado sobre blusa creme; 3) quimono ou cardigã longo creme; 4) blusa cobre queimado de mangas boca de sino; depois repete. A roupa é escolhida depois do objeto do hook, para ficar secundária a ele. Dentro de um roteiro a roupa não muda.
 
+## BARALHO (vigente a partir do R002)
+O baralho que aparece nas cenas é um baralho de tarô de verdade, nunca um baralho comum de jogar. Descrever sempre assim nos prompts de imagem e de vídeo: cartas altas e estreitas (proporção aproximada de 7 x 12 cm), cantos levemente arredondados e maço grosso; verso escuro (azul-noite ou verde-petróleo profundo) com desenho simétrico e ornamentado em dourado fosco (sol, lua crescente e estrelas) e borda dourada fina; sem o padrão repetido de losangos ou quadrados, sem naipes, sem números e sem letras. A frente da carta é ilustrada, sem letras nem títulos.
+O R001 manteve o verso cinza-claro estampado já aprovado; não refazer.
+
 ## VOZ
 A pessoa é a única pessoa falante. Voz feminina adulta americana (inglês dos EUA), natural e espontânea, calma e firme.
 

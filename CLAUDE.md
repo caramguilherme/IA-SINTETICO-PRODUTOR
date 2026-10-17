@@ -44,5 +44,7 @@ P6. Conversão da Dana (decisão do aluno, 17/10/2026): os roteiros existem para
 
 P7. Identidade da Dana nos prompts de imagem: só as referências anexadas não bastam, o modelo pode gerar outra pessoa. Por isso: (1) `trava_referencia` leva o mapa das 4 referências por conteúdo, a "Âncora principal para Google Flow" e o "Bloco negativo" do DNA Visual - Dana.md, copiados na íntegra; (2) a IMAGEM 1 é pedida como EDIÇÃO da foto de validação e a IMAGEM 2 como EDIÇÃO da IMAGEM 1 aprovada; (3) o pacote traz o campo opcional `instrucoes_agente` (texto), que o painel coloca depois de `iniciar` no bloco "Copiar todos os prompts". O agente do Flow só aceita um item por vez, sem várias versões, e seu papel manda a fala em português do Brasil: por isso `instrucoes_agente` avisa que a fala da Dana é em inglês dos EUA e nunca pede "4 opções".
 
+P8. Baralho da Dana (a partir do R002): descrever sempre um baralho de tarô de verdade, conforme a seção BARALHO do PROJETO (cartas altas e estreitas, verso escuro ornamentado em dourado; nunca o verso cinza de baralho de jogar). Se o aluno anexar uma foto do verso do baralho como referência de objeto, usar só para o objeto, nunca para rosto.
+
 HONESTIDADE
 Nunca invente oferta, depoimento, número, prazo, resultado ou benefício de saúde. A persona não finge experiência vivida. Tema de saúde: sem cura nem diagnóstico; diga quando procurar um profissional.
