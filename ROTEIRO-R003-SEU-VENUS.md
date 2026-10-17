@@ -1,102 +1,79 @@
-# R003-SEU-VENUS — Estrutura C (proibição invertida) — roteiro aprovado (painel montado)
+# R003-SEU-PADRAO-TEM-NOME — Formato 1 — roteiro revisado com a biblioteca do curso (revisão 2, 17/10/2026)
 
-Status: Fase 1, sem prompts. Seis cenas narrativas, com Cena 6 dividida em 6A/6B; 66 segundos planejados. Persona: Dana Hollis (@straighttalktarot), sem pet. Primeiro roteiro do funil Love Chart (vale a partir de 19/10/2026). Dor 5 (repetir o mesmo padrão), com a dor 2 (homem que some). Molde de hook 8 — proibição com benefício desejado (R001 usou o 7 e o R002 o 10). Falas em inglês dos EUA; a tradução é só para o aluno aprovar.
+Status: revisão 2, feita depois que o aluno enviou o material do curso (bodies, hooks, CTAs, cold reading, pesquisa, copy e os 100 roteiros). A revisão 1 (Estrutura C, molde 8, "Never look up your Venus sign…") foi substituída. Seis cenas narrativas, Cena 6 dividida em 6A/6B; sete clipes de 10 s (70 s planejados; a Central define a duração real). Persona: Dana Hollis (@straighttalktarot), sem pet. Primeiro roteiro do funil Love Chart. Dor 5 (repetir o mesmo padrão), com a dor 2 (homem que some). Falas em inglês dos EUA; a tradução é só para o aluno aprovar.
 
-Por que Estrutura C + molde 8: o molde 8 é o da Estrutura C e vira a proibição em recomendação ("nunca olhe seu Vênus, a menos que queira parar de se apaixonar pelo mesmo tipo"). A ferida entra nas Cenas 1 e 2, a virada ("seu Vênus mostra como você ama") na 3, a prática na 4, o erro real (parar no signo solar) e a curiosidade na 5. O story entrega o Vênus, o nome do padrão e o signo do possível par perfeito.
+## Base do curso usada (registro)
+- **Hook:** gancho do curso **#40** ("one minute he is all in, and the next he acts like he couldn't care less"), adaptado, mais **ângulo 2 (contraste aparência × realidade)** e a frase do funil "Your pattern has a name". Não repete o hook do R001 (molde 7) nem do R002 (molde 10).
+- **Cold reading:** **#23** (replay conversations), **#88** (mixed signals, not in your head), **#82** (someone you compare everyone else to).
+- **Body:** estrutura do **AD23** (ele se aproxima e se afasta sem explicar) e do **AD25** (virar a crença: a maioria para no signo), com o Love Chart no lugar de rosto/inicial.
+- **Pesquisa:** a 3ª camada (a dor tem sentido, não foi defeito dela): "This is not in your head", "You're not unlucky in love".
+- **Copy:** MUP = "the pattern" (causa raiz com nome); MUS = "your Venus"; loop de Zeigarnik (o nome do padrão abre na Cena 1 e só fecha no story); emoção → lógica → emoção; nível de consciência 2–3.
+- **CTA:** selos do curso ("Send this to yourself", comentar um código) + tocar na foto + story; código VENUS (indicado no briefing do funil).
+- **Funil Love Chart:** a 6A diz o que o quiz faz (free astrology quiz: Vênus, padrão, perfect match) e responde uma objeção real do briefing ("não sei a hora do nascimento"). Sem rosto, inicial, data de encontro, app, preço, assinatura ou comissão.
 
-Figurino (escolhido depois do objeto do hook): cartomante, místico sutil; cardigã longo de tricô fino creme, aberto, sobre camiseta lisa cinza-claro, calça reta escura lisa, argolões prateados, sem colar. A carta do hook é A Lua (verde-escuro profundo, quase preto, com lua crescente dourada grande e lua cheia prateada pequena, sem letras), o ponto de maior contraste contra o creme. Baralho de tarô de verdade, fechado, verso para cima.
+## Cena 1 — Hook — 10s
+**Visual breve:** Dana atrás da mesa, de frente. Ela ergue para a lente a carta A Lua (verde-escura quase preta, lua crescente dourada grande e lua cheia prateada pequena, sem rosto nem letras). Maço fechado e vela acesa na mesa.
+**Fala:** "He's all in one minute. The next, he couldn't care less. You keep choosing him. That pattern has a name."
+(PT: Num minuto ele está todo entregue. No outro, não está nem aí. Você continua escolhendo ele. Esse padrão tem nome.)
 
-## Cena 1 — Hook — 8s
+## Cena 2 — Ferida e validação — 10s
+**Visual breve:** Dana, sem carta na mão, olha para a lente com expressão cansada e conhecedora e balança levemente a cabeça. Maço fechado.
+**Fala:** "You replay every conversation long after it ends. You've been confused by mixed signals. This is not in your head."
+(PT: Você revive cada conversa muito depois de ela acabar. Você tem ficado confusa com sinais mistos. Isso não é coisa da sua cabeça.)
 
-**Visual breve:** Dana atrás da mesa, de frente. Ela ergue para a lente uma carta de tarô grande, verde-escura, com uma lua crescente dourada e uma lua cheia prateada pequena, sem letras. O maço fechado e a vela acesa ficam na mesa.
+## Cena 3 — Tirar a culpa e virada — 10s
+**Visual breve:** Dana leva uma mão aberta ao peito por um instante e a devolve à mesa, ao lado do maço fechado.
+**Fala:** "You're not unlucky in love. You've been repeating a pattern you couldn't see. In astrology, it starts with your Venus."
+(PT: Você não tem azar no amor. Você tem repetido um padrão que não conseguia ver. Na astrologia, ele começa no seu Vênus.)
 
-**Fala:** "Never look up your Venus sign, unless you want to stop falling for the same kind of man."
+## Cena 4 — Mecanismo (o Vênus) — 10s
+**Visual breve:** Dana ergue uma palma aberta em direção à lente, como quem explica, e a baixa de volta à mesa.
+**Fala:** "Your sun sign shows who you are. Your Venus shows how you love. Most people stop at their sun sign."
+(PT: O seu signo solar mostra quem você é. O seu Vênus mostra como você ama. A maioria para no signo solar.)
 
-(PT: Nunca descubra o seu signo de Vênus, a menos que queira parar de se apaixonar pelo mesmo tipo de homem.)
-
-## Cena 2 — Ferida — 10s
-
-**Visual breve:** Dana, sem carta na mão, olha para a lente com expressão cansada e conhecedora e balança levemente a cabeça. Maço fechado, nenhuma carta fora dele.
-
-**Fala:** "He texts all day. Never makes real plans. Then goes quiet. You call it bad luck. It may be a pattern."
-
-(PT: Ele manda mensagem o dia todo. Nunca faz planos de verdade. Depois some. Você chama de azar. Pode ser um padrão.)
-
-## Cena 3 — Virada — 8s
-
-**Visual breve:** Dana apoia a mão aberta no peito por um instante e depois a leva de volta à mesa, ao lado do maço fechado.
-
-**Fala:** "In astrology, your sun sign shows who you are. Your Venus shows how you love."
-
-(PT: Na astrologia, o seu signo solar mostra quem você é. O seu Vênus mostra como você ama.)
-
-## Cena 4 — Prática — 10s
-
-**Visual breve:** Dana ergue três dedos de uma das mãos (indicador, médio e anelar), olha para a lente e inclina levemente a cabeça. Maço fechado.
-
-**Fala:** "Think of the last three men who kept you guessing. Notice what they shared. That may be where your pattern shows."
-
-(PT: Pense nos três últimos homens que te deixaram na dúvida. Note o que eles tinham em comum. Talvez seja aí que o seu padrão aparece.)
-
-## Cena 5 — Erro e curiosidade — 10s
-
-**Visual breve:** Dana apoia as duas mãos sobre o maço fechado, inclina a cabeça e sorri de leve para a lente.
-
-**Fala:** "Most people stop at their sun sign. That's the mistake. Your Venus tells the rest. Would you look?"
-
-(PT: A maioria para no signo solar. Esse é o erro. O seu Vênus conta o resto. Você olharia?)
+## Cena 5 — Prova pelo comportamento e curiosidade — 10s
+**Visual breve:** Dana inclina a cabeça pensativa, olha de lado por um instante, como quem lembra de alguém, e volta o olhar para a lente com um leve sorriso.
+**Fala:** "Think of the man you compare everyone else to. Notice what pulled you in. Would you want to see why?"
+(PT: Pense no homem com quem você compara todos os outros. Note o que te atraiu nele. Você gostaria de ver por quê?)
 
 ## Cena 6A — CTA — 10s
-
-**Visual breve:** Dana junta as mãos sobre a mesa, atrás do maço fechado, e olha para a lente, com um meio sorriso. Nenhuma carta fora do maço.
-
-**Fala:** "Want to see yours? In my story, find your Venus, name your love pattern, and see the sign of your possible match."
-
-(PT: Quer ver o seu? No meu story, descubra o seu Vênus, dê nome ao seu padrão de amor e veja o signo do seu possível par.)
+**Visual breve:** Dana junta as mãos sobre a mesa, atrás do maço fechado, e olha para a lente com um meio sorriso.
+**Fala:** "In my story, a free astrology quiz finds your Venus, names your pattern, shows your perfect match. No birth time needed."
+(PT: No meu story, um quiz grátis de astrologia descobre o seu Vênus, dá nome ao seu padrão e mostra o seu par perfeito. Não precisa da hora de nascimento.)
 
 ## Cena 6B — CTA — 10s
-
 **Visual breve:** Dana de frente, olhando para a lente, sem novo gesto.
-
-**Fala:** "Follow me: first seal. Comment VENUS: second seal. Then tap my photo and open my story before it disappears."
-
-(PT: Siga-me: primeiro selo. Comente VENUS: segundo selo. Depois toque na minha foto e abra o meu story antes que ele suma.)
+**Fala:** "Send this to yourself: first seal. Comment VENUS: second seal. Then tap my photo and open my story before it disappears."
+(PT: Mande isto para você mesma: primeiro selo. Comente VENUS: segundo selo. Depois toque na minha foto e abra o meu story antes que ele suma.)
 
 ## Texto de tela (aplicado na edição, não no Flow)
-
-Cada texto é marcado pela frase em que começa e termina, porque o aluno corta os silêncios.
-
-- **Início do vídeo:** "Your Venus, not your sun sign" (alternativa: "Same kind of man?"). Começa em "Never look up your Venus sign" e termina em "same kind of man".
-- **"Bad luck… or a pattern?":** começa em "He texts all day" e termina em "It may be a pattern".
-- **"Sun sign = who you are · Venus = how you love":** começa em "In astrology" e termina em "how you love".
-- **"Think of the last 3 men":** começa em "Think of the last three men" e termina em "where your pattern shows".
-- **"Follow · Comment VENUS · Part 2 in my story":** começa em "Follow me" e termina em "before it disappears".
-- **Legendas:** as falas exatas, em inglês, sincronizadas com a voz. No máximo 6 palavras por vez, longe da borda inferior e da lateral direita.
+- **Início do vídeo:** "Your pattern has a name" (alternativa: "Not bad luck. A pattern."). Começa em "He's all in one minute" e termina em "That pattern has a name".
+- **"It's not in your head":** começa em "You replay every conversation" e termina em "This is not in your head".
+- **"Your Venus shows how you love":** começa em "Your sun sign shows who you are" e termina em "Your Venus shows how you love".
+- **"Think of him. What pulled you in?":** começa em "Think of the man" e termina em "want to see why".
+- **"Send · Comment VENUS · Part 2 in my story":** começa em "Send this to yourself" e termina em "before it disappears".
+- **Legendas:** as falas exatas, em inglês, sincronizadas com a voz. No máximo 6 palavras por vez.
 
 ## Legenda do post (Instagram e Facebook)
-
 STOP calling it bad luck. 🔥
 
-He texts all day. Never makes real plans. Then goes quiet.
+One minute he's all in. The next, he couldn't care less.
 
-It may not be bad luck. It may be a pattern.
+It's not in your head. It's a pattern. And it has a name.
 
 Part 2 is in my story. It disappears in 24 hours.
 
-Follow me. Comment VENUS. Tap my photo. NOW.
+Send this to yourself. Comment VENUS. Tap my photo. NOW.
 
 ## Comentário fixado
-
 - **Instagram:** PART 2 is in my story. 👆 Tap my photo NOW. It's gone in 24 hours. Comment VENUS if you want to see yours. 🔥
 - **Facebook:** PART 2 is in my Story. Tap my profile picture NOW. It's gone in 24 hours. Comment VENUS if you want to see yours. 🔥
 
 ## Notas editoriais e factuais
-
-- Sem nome do app, da Aura, preço, pagamento, comissão nem afiliado. Sem a palavra "grátis".
-- O que o story mostra segue o funil Love Chart (briefing da escola, 17/10/2026): o Vênus, o nome do padrão de amor e o signo do par perfeito. A Dana diz "possible match" e "might": nunca que o par existe nem que o amor vai chegar numa data.
-- Frases do próprio funil usadas com adaptação: "Your sun sign shows who you are. Your Venus shows how you love." e "It's a pattern, not bad luck" (aqui, "It may be a pattern").
-- A Dana é cartomante. Diz "in astrology" na Cena 3 e não se apresenta como astróloga. A prova pelo comportamento (Cenas 2 e 4) é uma observação sobre a espectadora, sem experiência vivida da Dana.
-- O "erro" da Cena 5 (parar no signo solar) é um erro de leitura, não uma conspiração. Não ataca pessoas nem horóscopos.
-- As falas têm de 15 a 22 palavras. As Cenas 1 e 3 são de 8 s: cronometrar na produção; se não couber, sinalizar, sem acelerar a voz.
+- Sem nome do app, da Aura, preço, pagamento, comissão nem afiliado. "Free astrology quiz" pode (só o quiz é sem custo).
+- Os cold readings (#23, #88, #82) são afirmações diretas sobre a espectadora, como o curso usa; não há depoimento, número, escassez, celebridade nem preço.
+- "Perfect match" é o que o quiz mostra (par perfeito pela metade). A Dana não diz que a pessoa existe, que o app a encontra nem que o amor chega numa data.
+- Ela diz "in astrology" na Cena 3 e não se apresenta como astróloga.
+- As falas têm de 20 a 21 palavras (cabem em 10 s). A Central define a duração real do take.
 - Este roteiro só vale para postar a partir de segunda, 19/10/2026, com o story do Love Chart.
 - Sem métricas de publicação.

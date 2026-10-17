@@ -91,4 +91,4 @@ DNA: `DNA Visual - Dana.md` (1 arquivo; sem DNA de pet).
 ## VÍDEOS FEITOS
 - [2026-10-16] R001-QUANDO-VOU-CONHECER · dor 3 (Quando vou conhecer ele?) · Formato 1, 6 cenas · molde de hook 7 (lista com lacuna de curiosidade) · figurino: cartomante místico sutil, blusa de veludo verde-petróleo · 2026-10-16 (em produção)
 - [2026-10-17] R002-ANTES-DE-OUTRO-APP · dor 2 (cansaço dos apps e do ghosting, com a 3) · Formato 2, 6 cenas · molde de hook 10 (alerta antes de uma prática) · figurino: cartomante místico sutil, blusa creme com xale cinza-chumbo · 2026-10-17 (em produção)
-- [2026-10-17] R003-SEU-VENUS · dor 5 (repetir o mesmo padrão, com a 2) · Estrutura C, 6 cenas · molde de hook 8 (proibição com benefício desejado) · figurino: cartomante místico sutil, cardigã creme com camiseta cinza-claro · 2026-10-17 (em produção; postar a partir de 19/10, funil Love Chart)
+- [2026-10-17] R003-SEU-PADRAO-TEM-NOME · dor 5 (repetir o mesmo padrão, com a 2) · Formato 1, 6 cenas · hook do curso #40 (adaptado) + ângulo 2 · figurino: cartomante místico sutil, cardigã creme com camiseta cinza-claro · 2026-10-17 (em produção; postar a partir de 19/10, funil Love Chart)
