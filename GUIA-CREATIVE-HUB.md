@@ -151,7 +151,54 @@ Naturalness: The voice must sound as natural and human as possible — real brea
 Technical Settings: STRICTLY a solo monologue. The speaker is completely ALONE. Absolutely NO background voices, ZERO interviewer noises, and STRICTLY NO agreement sounds (like 'mhm', 'yeah', 'aha', 'uh-huh'). NO background music, NO sound effects, NO automatic subtitles. Output must be a 100% clean, raw voice track. STRICTLY DO NOT imitate or impersonate any famous public figure or celebrity — the voice must be entirely original.
 ```
 
-**Mais abaixo na página:** ainda não visto.
+**Seção — DURAÇÃO & ESTILO** (ícone de claquete; **interruptor ligado/desligado**, aparecia ligado)
+- Texto do site: "Tempo do clipe (calculado pelo roteiro) e linguagem visual geral".
+- **Campo: DURAÇÃO (SEGUNDOS)** (número; aparecia 8, calculado pelo roteiro).
+- **Campo: ESTILO VISUAL** (lista):
+  1. Cinematográfico fotorrealista ← padrão do site
+  2. Documentário candid natural
+  3. A24 — cinema íntimo
+  4. Fine-art escuro e atmosférico
+  5. Filme vintage com grão sutil
+  6. Movimento de editorial de moda
+  7. Tarkovsky — contemplação lenta
+  8. UGC moderno handheld
+  9. ✎ LIVRE — escrever...
+- **Campo: CONTINUIDADE** (lista):
+  1. Plano único, sem cortes ← padrão do site
+  2. Construção lenta até o final
+  3. Um único beat natural
+  4. Pontuada por uma pausa dramática
+  5. Movimento loopável
+  6. ✎ LIVRE — escrever...
+
+**Botões e saída**
+- **⚡ GERAR PROMPT DE ANIMAÇÃO** (botão amarelo grande).
+- **↻ Resetar valores.**
+- **● PROMPT GERADO** (caixa de resultado, com o botão **COPIAR**). Texto antes de gerar: "Preencha os campos acima e clique em GERAR PROMPT. O formato do output se adapta automaticamente à plataforma escolhida."
+
+**Estrutura da página, de cima para baixo (como vista até agora):** 1) Plataforma de animação · 2) Roteiro (filtro, busca, lista, "cole sua copy") + velocidade da fala + duração de cada take + movimento de câmera + caixa "Dividir em takes" · 3) Movimentação do personagem · 4) Áudio & Atmosfera · 5) Fala / Script (inclui tom, idioma e perfil de voz) · 6) Duração & Estilo · 7) Gerar prompt / Prompt gerado. (A ordem entre 3, 4 e 5 pode estar trocada; só a ordem de envio dos prints.)
+
+**Escolhas provisórias para a Dana (a confirmar com o prompt gerado):**
+
+| Campo | Escolha | Motivo |
+|---|---|---|
+| Plataforma | Flow (Google) | é a única que o aluno usa |
+| Velocidade da fala | Média — CTA (155–180 WPM) | 22 palavras em até 8 s de fala; a Rápida (215–225) acelera demais a voz da Dana |
+| Duração de cada take | fixa, igual à do clipe (8 s ou 10 s) | os clipes já têm duração definida no painel |
+| Movimento de câmera | Handheld sutil, sem zoom | a trava de estilo do método é "movimento natural de smartphone" |
+| Movimentação do personagem | uma linha por clipe, em inglês | ações dos painéis |
+| Atmosfera / mood | Íntimo e confidencial | a Dana é amiga calma e firme, não dramática |
+| Perfil de voz | LIVRE, com o perfil da Dana (acima) | o padrão descreve outra pessoa |
+| Tom de voz | Calorosa e tranquilizadora | idem |
+| Idioma | Inglês | fala da Dana em inglês dos EUA |
+| Estilo visual | **UGC moderno handheld** | o método proíbe "estética cinematográfica ou publicitária"; o padrão do site (Cinematográfico fotorrealista) vai contra isso |
+| Continuidade | Plano único, sem cortes | cada clipe é um plano; os B-rolls dos painéis são um corte dentro do clipe (ver pendência) |
+
+**Pendências importantes**
+- O site não mostrou campo para **imagem de referência, rosto ou personagem**. A identidade da Dana (rosto, roupa, cenário) tem de vir da **imagem do primeiro quadro** no Flow (IMAGEM 1 e IMAGEM 2, geradas com os prompts do painel). O site monta só a parte do vídeo (movimento, fala, voz, clima).
+- **B-roll:** os painéis têm B-rolls (cortes de close dentro do clipe) em alguns clipes; o campo Continuidade padrão ("plano único") não prevê isso. Decidir depois do teste: ou escrever o B-roll em LIVRE, ou tirar o B-roll.
+- Falta confirmar: se existe outro gerador no Creative Hub (por exemplo, de imagem) e como o site divide o texto em takes.
 
 **Contas que importam para a Dana (conferir quando o prompt aparecer):**
 - Nossas falas têm até 22 palavras e os clipes são de 8 s ou 10 s. A regra do site (fala em até 80% do take) dá 8 s de fala em um clipe de 10 s e 6,4 s em um de 8 s.
@@ -159,7 +206,8 @@ Technical Settings: STRICTLY a solo monologue. The speaker is completely ALONE. 
 - O site divide o texto em takes sozinho. Os clipes da Dana já estão divididos por cena, com ação e duração próprias; é preciso ver como o site trata um texto curto (uma cena por vez) antes de decidir a melhor forma de colar.
 
 ## Pendente (a registrar nos próximos prints)
-- Seções abaixo de Fala / Script (se houver): imagem, botão de gerar e o prompt final.
+- Prompt final que o site entrega (teste com a fala do R003).
+- Existência de outros geradores no Creative Hub (menu do topo).
 - Confirmar se "COLE SUA COPY AQUI" e "O QUE A PESSOA FALA NO VÍDEO" se preenchem um ao outro.
 - Botão de gerar e o formato do prompt que o site entrega.
 - Como o site trata um texto curto (uma cena) colado em "COLE SUA COPY AQUI".
