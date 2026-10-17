@@ -62,11 +62,13 @@ Por que Formato 1 + molde 7: o hook promete três razões e esconde a última. A
 
 ## Texto de tela (aplicado na edição, não no Flow)
 
-- **Hook (0 a 3 s), escolher um:** A: "3 reasons 222 keeps following you" | B: "The 3rd one is about him"
-- **Cena 2:** "1. It's not too late"
-- **Cena 3:** "2. It wasn't your fault"
-- **Cena 4:** "3. You've pictured his face"
-- **CTA (6A e 6B):** "Save · Comment 222 · Part 2 in my story"
+O aluno corta os silêncios, então cada texto é marcado pela frase em que começa e termina, não por segundos.
+
+- **Início do vídeo:** "3 reasons 222 keeps following you" (alternativa: "The 3rd one is about him"). Começa em "If 222 keeps following you" e termina em "there are three reasons".
+- **"1. It's not too late":** começa em "One:" e termina em "you're not too late".
+- **"2. It wasn't your fault":** começa em "Two:" e termina em "it wasn't your fault".
+- **"3. You've pictured his face":** começa em "Three:" e termina em "pictured his face at night".
+- **"Save · Comment 222 · Part 2 in my story":** começa em "Save this" e termina em "before it disappears".
 - **Legendas:** as falas exatas, em inglês, sincronizadas com a voz. No máximo 6 palavras por vez, longe da borda inferior e da lateral direita.
 
 ## Legenda do post (Instagram)

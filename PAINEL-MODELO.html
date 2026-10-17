@@ -83,8 +83,9 @@ section{scroll-margin-top:16px}
     <section class="card" id="textotela">
       <button class="cp" id="copiaTela">Copiar textos de tela</button>
       <h2>Texto na tela</h2>
-      <div class="mono">Primeiros segundos (0 a 3 s)</div>
+      <div class="mono">Primeiros segundos do vídeo</div>
       <div class="box" id="telaHook" style="margin:8px 0 12px;font-size:20px;font-weight:700"></div>
+      <div id="telaHookQ" style="margin:-4px 0 12px;color:var(--ink2);font-size:14.5px"></div>
       <div class="box" id="telaAlt" style="margin:0 0 12px"></div>
       <div class="box" id="telaExtras"></div>
     </section>
@@ -209,8 +210,9 @@ function montar(silencio){
   $('insta').textContent=r.descricao_instagram||'(a IA não entregou a legenda)';
   const tt=pk.texto_tela||{};
   $('telaHook').textContent=tt.hook||'(a IA não entregou o texto dos primeiros segundos)';
+  $('telaHookQ').innerHTML=tt.hook_comeca?('Começa em: “'+esc(tt.hook_comeca)+'”'+(tt.hook_termina?' → termina em: “'+esc(tt.hook_termina)+'”':'')):'';
   $('telaAlt').textContent=tt.hook_alt?'Alternativa: '+tt.hook_alt:'';$('telaAlt').classList.toggle('hide',!tt.hook_alt);
-  $('telaExtras').innerHTML=(tt.extras||[]).map(e=>'<div><b>'+esc(e.quando)+'</b> · '+esc(e.texto)+'</div>').join('');$('telaExtras').classList.toggle('hide',!(tt.extras&&tt.extras.length));
+  $('telaExtras').innerHTML=(tt.extras||[]).map(e=>'<div style="margin-bottom:8px"><b>'+esc(e.texto)+'</b><br><span style="color:var(--ink2)">'+(e.comeca?'Começa em: “'+esc(e.comeca)+'”'+(e.termina?' → termina em: “'+esc(e.termina)+'”':''):esc(e.quando||''))+'</span></div>').join('');$('telaExtras').classList.toggle('hide',!(tt.extras&&tt.extras.length));
   $('refs').innerHTML=(pk.refs||[]).map(x=>'<span class="chip">'+esc(x)+'</span>').join('')||'<i>(a IA não listou)</i>';
   $('falas').textContent=pk.videos.map(v=>v.rotulo+' · cena '+v.cena+'\n“'+v.fala+'”').join('\n\n');
   $('listaImg').innerHTML='';$('listaVid').innerHTML='';
@@ -237,7 +239,7 @@ $('aplicar').onclick=()=>{feitos={};montar(false)};
 $('limpar').onclick=()=>{if(!confirm('Apagar o pacote e as marcações?'))return;$('json').value='';feitos={};pk=null;$('painel').classList.add('hide');salvar()};
 $('copiaTudo').onclick=e=>copiar('iniciar\n\n'+(pk.instrucoes_agente?pk.instrucoes_agente+'\n\n':'')+blocoCompleto(),e.currentTarget);
 $('copiaFalas').onclick=e=>copiar(pk.videos.map(v=>v.rotulo+' ('+v.cena+'): '+v.fala).join('\n'),e.currentTarget);
-$('copiaTela').onclick=e=>{const tt=pk.texto_tela||{};copiar(['0 a 3 s: '+(tt.hook||'')].concat((tt.extras||[]).map(x=>x.quando+': '+x.texto)).join('\n'),e.currentTarget)};
+$('copiaTela').onclick=e=>{const tt=pk.texto_tela||{};copiar(['Início do vídeo: '+(tt.hook||'')+(tt.hook_comeca?' | começa em: "'+tt.hook_comeca+'" | termina em: "'+(tt.hook_termina||'')+'"':'')].concat((tt.extras||[]).map(x=>x.texto+(x.comeca?' | começa em: "'+x.comeca+'" | termina em: "'+(x.termina||'')+'"':(x.quando?' | '+x.quando:'')))).join('\n'),e.currentTarget)};
 $('copiaInsta').onclick=e=>copiar((pk.roteiro&&pk.roteiro.descricao_instagram)||'',e.currentTarget);
 if(PACOTE){$("entrada").classList.add("hide");$("json").value=JSON.stringify(PACOTE);montar(false);if(!pk)$("entrada").classList.remove("hide");}else{carregar();}
 })();
