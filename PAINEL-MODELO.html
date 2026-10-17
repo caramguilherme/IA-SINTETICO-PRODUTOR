@@ -226,9 +226,9 @@ function montarCentral(){
   ['central','cenas','agente'].forEach(id=>$(id).classList.toggle('hide',!c));
   $('story').classList.toggle('hide',!pk.story);
   $('videos').classList.toggle('hide',!!c);
-  $('todos').querySelector('h2').textContent=c?'Prompts das imagens (agente do Flow)':'Todos os prompts';
+  $('todos').querySelector('h2').textContent=c?(c.imagem_unica?'Prompt da imagem (agente do Flow)':'Prompts das imagens (agente do Flow)'):'Todos os prompts';
   if(c){
-    $('todos').querySelector('p').innerHTML='Bloco único com os prompts das 2 imagens para o agente do Flow (já começa com <i>iniciar</i>). Os vídeos não entram aqui: o prompt de cada take vem da Central do curso.';
+    $('todos').querySelector('p').innerHTML='Bloco para o agente do Flow gerar a imagem (já começa com <i>iniciar</i>). Os vídeos não entram aqui: o prompt dos takes vem da Central do curso.';
     if(c.passos&&c.passos.length)$('refSteps').innerHTML=c.passos.map(x=>'<li>'+esc(x)+'</li>').join('');
     $('cfg').innerHTML='';
     (c.config||[]).forEach(sec=>{
@@ -237,41 +237,25 @@ function montarCentral(){
       d.querySelectorAll('.cpi').forEach(b=>{b.onclick=e=>copiar(sec.campos[+b.dataset.i].copiar,e.currentTarget)});
       $('cfg').appendChild(d);
     });
-    $('listaCenas').innerHTML='';
-    pk.videos.forEach((v,i)=>{
-      const id='vid'+(i+1);
-      const w=v.fala.trim().split(/\s+/).length;
-      const d=document.createElement('div');d.className='item'+(feitos[id]?' done':'');
-      d.innerHTML='<h3>'+esc(v.rotulo)+' · cena '+esc(v.cena)+' <span class="tag">1º quadro: '+esc(v.primeiro_quadro)+'</span><span class="tag">'+w+' palavras</span><span class="tag">site: ~'+esc(v.duracao)+' s</span></h3>'
-        +'<div class="mono">1) COLE SUA COPY AQUI (apague o que houver)</div><div class="box m">'+esc(v.fala)+'</div><button class="btn c1" style="margin:6px 0">Copiar fala</button>'
-        +'<div class="mono">2) MOVIMENTAÇÃO (apague o texto de exemplo)</div><div class="box m">'+esc(v.movimentacao)+'</div><button class="btn c2" style="margin:6px 0">Copiar movimentação</button>'
-        +'<div class="tip">3) Clique em GERAR PROMPT DE ANIMAÇÃO. Confira: TAKE 1/1, '+w+' palavras e o perfil de voz da Dana. Copie só o COPIAR do take e cole na caixa desta cena em “No agente do Flow”.</div>'
-        +'<label class="chk"><input type="checkbox" '+(feitos[id]?'checked':'')+'> Take gerado e colado no agente</label>';
-      d.querySelector('.c1').onclick=e=>copiar(v.fala,e.currentTarget);
-      d.querySelector('.c2').onclick=e=>copiar(v.movimentacao,e.currentTarget);
-      d.querySelector('input').onchange=e=>{feitos[id]=e.target.checked;d.classList.toggle('done',e.target.checked);progresso();salvar()};
-      $('listaCenas').appendChild(d);
-    });
-    $('agenteBox').innerHTML='';
-    (c.agente||[]).forEach((s,si)=>{
-      const d=document.createElement('div');d.className='item';
-      let h='<h3>'+esc(s.titulo)+' <span class="tag">anexar: '+esc(s.imagem)+'</span></h3>'
-        +'<div class="mono">Aviso (já vai na mensagem montada)</div><div class="box m">'+esc(s.aviso)+'</div>'
-        +(s.instrucao?'<div class="tip" style="margin-top:8px">'+esc(s.instrucao)+'</div>':'');
-      s.cenas.forEach(ci=>{h+='<div class="mono" style="margin-top:10px">Take da cena '+esc(pk.videos[ci].cena)+' ('+esc(pk.videos[ci].rotulo)+')</div><textarea data-k="'+si+'_'+ci+'" style="min-height:90px" placeholder="Cole aqui o take copiado da Central">'+esc(takes[si+'_'+ci]||'')+'</textarea>'});
-      h+='<div class="row" style="margin-top:10px"><button class="btn c mont">Copiar mensagem montada</button></div><div class="msg"></div>';
-      d.innerHTML=h;
-      d.querySelectorAll('textarea').forEach(ta=>{ta.oninput=()=>{takes[ta.dataset.k]=ta.value;salvar()}});
-      d.querySelector('.mont').onclick=e=>{
-        const msg=d.querySelector('.msg');msg.className='msg';msg.textContent='';
-        const partes=[],falt=[];
-        s.cenas.forEach(ci=>{const v=(takes[si+'_'+ci]||'').trim();if(!v)falt.push(pk.videos[ci].cena);else partes.push(v)});
-        if(falt.length){msg.className='msg err';msg.textContent='Faltam os takes das cenas: '+falt.join(', ')+'.';return}
-        const txt=s.aviso+'\n\n'+(s.cabecalho&&s.cenas.length>1?s.cabecalho+'\n\n':'')+partes.map((p,i)=>'Prompt '+(i+1)+'\n'+p).join('\n\n')+'\n';
-        copiar(txt,e.currentTarget);
-      };
-      $('agenteBox').appendChild(d);
-    });
+    const cp=c.copia||{fala_completa:pk.videos.map(v=>v.fala).join(' '),movimentacao:pk.videos.map(v=>v.movimentacao)};
+    const wc=s=>s.trim().split(/\s+/).length;
+    $('cenas').querySelector('h2').textContent='A fala e a movimentação (tudo de uma vez)';
+    $('cenas').querySelector('p').textContent='Cole a fala inteira em “COLE SUA COPY AQUI” e as linhas em “MOVIMENTAÇÃO”. O site deve criar um take por cena.';
+    const conf=pk.videos.map((v,i)=>{const w=v.fala.trim().split(/\s+/);return 'TAKE '+(i+1)+'/'+pk.videos.length+' · '+v.duracao+' s · '+w.length+' palavras · começa em “'+w.slice(0,5).join(' ')+'…” · termina em “…'+w.slice(-5).join(' ')+'”'}).join('\n');
+    $('listaCenas').innerHTML='<div class="item"><button class="cp" id="cpFala">Copiar fala inteira</button><h3>1) COLE SUA COPY AQUI <span class="tag">'+wc(cp.fala_completa)+' palavras</span></h3><div class="box m">'+esc(cp.fala_completa)+'</div></div>'
+      +'<div class="item"><button class="cp" id="cpMov">Copiar movimentação</button><h3>2) MOVIMENTAÇÃO <span class="tag">'+cp.movimentacao.length+' linhas, uma por take</span></h3><div class="box m">'+esc(cp.movimentacao.join('\n'))+'</div></div>'
+      +'<div class="item"><h3>3) Clique em GERAR PROMPT DE ANIMAÇÃO e confira</h3><div class="box">'+esc(conf)+'</div><div class="tip" style="margin-top:8px">O site deve mostrar exatamente '+pk.videos.length+' takes, cada um começando e terminando nas frases acima. Se vier outro número de takes ou um corte diferente, não gere: me mande o print.</div></div>'
+      +'<div class="item"><h3>Depois que o agente gerar, confira cada vídeo</h3>'+pk.videos.map((v,i)=>{const id='vid'+(i+1);return '<label class="chk" style="display:flex;margin:6px 0"><input type="checkbox" data-id="'+id+'" '+(feitos[id]?'checked':'')+'> '+esc(v.rotulo)+' · cena '+esc(v.cena)+': “'+esc(v.fala.split(/(?<=[.?!])\s+/)[0])+'…”</label>'}).join('')
+      +'<div class="tip" style="margin-top:8px">Conferir em cada vídeo: é a Dana (rosto e roupa iguais à imagem); a carta A Lua e o baralho ficam parados; a fala sai completa, uma vez só, em inglês, com voz americana calma; sem texto, legenda ou música.</div></div>';
+    $('cpFala').onclick=e=>copiar(cp.fala_completa,e.currentTarget);
+    $('cpMov').onclick=e=>copiar(cp.movimentacao.join('\n'),e.currentTarget);
+    $('listaCenas').querySelectorAll('input[data-id]').forEach(inp=>{inp.onchange=e=>{feitos[inp.dataset.id]=e.target.checked;progresso();salvar()}});
+    const ag=c.agente||{};
+    $('agente').querySelector('h2').textContent='No agente do Flow (uma conversa só)';
+    $('agente').querySelector('p').textContent='Uma imagem e uma mensagem: o aviso e, embaixo, o bloco “COPIAR TUDO JUNTO” da Central.';
+    $('agenteBox').innerHTML='<div class="item"><button class="cp" id="cpAviso">Copiar aviso</button><h3>Aviso para o agente <span class="tag">anexar: '+esc(ag.imagem||'')+'</span></h3><div class="box m">'+esc(ag.aviso||'')+'</div></div>'
+      +'<div class="item"><h3>Passo a passo</h3><ol class="steps">'+(ag.passos||[]).map(x=>'<li>'+esc(x)+'</li>').join('')+'</ol></div>';
+    $('cpAviso').onclick=e=>copiar(ag.aviso||'',e.currentTarget);
   }
   if(pk.story){
     const st=pk.story;
@@ -288,7 +272,7 @@ function montar(silencio){
   const m=$('msg');m.className='msg';m.textContent='';
   try{
     const p=limparJson($('json').value);
-    if(!Array.isArray(p.imagens)||p.imagens.length<2)throw new Error('Faltam as 2 imagens ("imagens").');
+    if(!Array.isArray(p.imagens)||p.imagens.length<(p.central&&p.central.imagem_unica?1:2))throw new Error('Faltam as imagens ("imagens").');
     if(!Array.isArray(p.videos)||!p.videos.length)throw new Error('Faltam os vídeos ("videos").');
     p.videos.forEach((v,i)=>{(p.central?['cena','duracao','primeiro_quadro','fala','movimentacao']:['cena','duracao','primeiro_quadro','acao','fala']).forEach(k=>{if(v[k]===undefined||v[k]==='')throw new Error('O vídeo '+(i+1)+' está sem "'+k+'".')})});
     if(!p.perfil||!/^Voz (feminina|masculina) adulta (brasileira|americana)/.test(p.perfil.voz||''))throw new Error('Falta "perfil.voz" ("Voz feminina|masculina adulta brasileira natural e espontânea.").');

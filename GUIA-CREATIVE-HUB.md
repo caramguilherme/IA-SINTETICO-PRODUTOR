@@ -277,3 +277,13 @@ Technical Settings: STRICTLY a solo monologue. The speaker is completely ALONE. 
 - Dois jeitos de usar: preencher os campos (o bloco se monta sozinho) ou **colar o perfil pronto direto no bloco de texto abaixo**, que foi o que o aluno fez. Quando o bloco é editado à mão, os campos não o sobrescrevem mais; **REGERAR BLOCO substitui o texto colado pelo montado dos campos, então não clicar nele.**
 
 **Arquivo com o passo a passo do R003 (imagens, configuração fixa, as 7 cenas e o Flow):** `PASSO-A-PASSO-R003-HUB.md`.
+
+---
+
+## Parte 4 — Como o site divide a fala em takes (regra deduzida dos testes, 17/10/2026)
+- O site junta **frases inteiras** em cada take, na ordem, até a fala encher **cerca de 8 s (80% de um take de 10 s)**, o que dá **até uns 22 palavras** por take (ritmo Média: cerca de 0,36 s por palavra). Quando a próxima frase não cabe, abre outro take.
+- Duração do take (modo Automática): fala de **até 17 palavras (cerca de 6,1 s) = take de 8 s**; de **18 a 22 palavras = take de 10 s**.
+- Conferência com o teste do R003 antigo (134 palavras): o site criou 7 takes (23, 17, 15, 21, 22, 22, 15 palavras) exatamente como essa regra prevê.
+- **Consequência para os roteiros:** para o take do site coincidir com uma cena, a cena deve ter de 19 a 22 palavras e **nenhuma frase pode caber no resto do take** (a primeira frase da cena seguinte deve estourar as 22 palavras). Com cada cena entre 19 e 21 palavras, a fala inteira colada de uma vez vira um take por cena. Para o R003 (revisão 3): 7 takes de 10 s.
+- **Movimentação:** uma linha (uma frase só, sem pontos no meio) por take, na ordem. Com 7 takes, 7 linhas.
+- **Imagem única:** o site, em modo agente, usa a mesma imagem de referência para todos os takes ("sempre com a MESMA imagem de referência") e escreve em cada take que ele continua o anterior; isso combina com uma imagem única.
