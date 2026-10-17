@@ -99,3 +99,4 @@
 - [ ] O painel traz `texto_tela` com o hook dos primeiros 3 s e os textos das razões e do CTA, e a "Legenda Insta/Face".
 - [ ] Cada texto de tela (hook, razões e CTA) indica a frase em que começa e a frase em que termina, não segundos.
 - [ ] O painel traz `comentario_fixado` (Instagram e Facebook), curto, agressivo, levando ao story, sem afiliado, link, preço ou assinatura.
+- Funil Love Chart (a partir de 19/10/2026): a 6A descreve só o que o quiz mostra (Vênus, padrão de amor, perfect match), com "astrology"; sem desenho do rosto, iniciais ou data de encontro; a virada "not bad luck, a pattern, your Venus not your sun sign" está presente; o primeiro frame tem um objeto em close; story com o texto "Find your Venus. Name your pattern." e o adesivo "Find my Venus"; roteiro antigo com a 6A do Soulmate recebe só o take novo.
