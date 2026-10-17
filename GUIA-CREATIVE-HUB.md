@@ -55,7 +55,17 @@ Este arquivo registra o que o aluno mostrou do site (prints enviados em 17/10/20
 
 **Caixa de marcação (marcada por padrão):** "Dividir em takes (Flow) — frases inteiras, fala em até 80 % do take (o resto é silêncio); na duração Automática o take encolhe quando a fala é curta."
 
-**Mais abaixo na página** (apareceu só o título cortado "...AGEM", provavelmente "IMAGEM"): ainda não visto.
+**Seção — MOVIMENTAÇÃO DO PERSONAGEM** (ícone de pessoa caminhando; tem um **interruptor ligado/desligado** no canto direito, aparecia ligado em amarelo)
+- Texto do site: "Descreva com suas palavras tudo o que o personagem faz — corpo, mãos, expressão, olhar. Pode listar VÁRIOS movimentos (um por linha ou separados por ponto): eles serão distribuídos automaticamente entre os takes."
+- **Campo: MOVIMENTAÇÃO (escreva livremente, em inglês ou português)** (caixa de texto). Exemplo que o site mostra no campo vazio, em inglês:
+  - She gestures naturally with open hands while speaking.
+  - She leans forward over the table, closer to the camera.
+  - She touches her chest lightly and holds an intense gaze.
+  - She raises one finger for emphasis, then opens her palms toward the camera.
+- **Regra do site (texto abaixo do campo):** "Vazio = gestos naturais padrão. Cada linha/frase vira o movimento de um take, na ordem."
+- **Para a Dana:** uma linha por cena, na ordem dos clipes, em inglês, descrevendo só o corpo, as mãos, a expressão e o olhar (as ações já escritas nos painéis). Como cada linha vira um take, o número de linhas tem de bater com o número de takes que o site fizer; isso será conferido no teste com o texto do R003.
+
+**Mais abaixo na página:** ainda não visto (o print anterior terminava num título cortado "...AGEM", provavelmente IMAGEM).
 
 **Contas que importam para a Dana (conferir quando o prompt aparecer):**
 - Nossas falas têm até 22 palavras e os clipes são de 8 s ou 10 s. A regra do site (fala em até 80% do take) dá 8 s de fala em um clipe de 10 s e 6,4 s em um de 8 s.
@@ -63,7 +73,7 @@ Este arquivo registra o que o aluno mostrou do site (prints enviados em 17/10/20
 - O site divide o texto em takes sozinho. Os clipes da Dana já estão divididos por cena, com ação e duração próprias; é preciso ver como o site trata um texto curto (uma cena por vez) antes de decidir a melhor forma de colar.
 
 ## Pendente (a registrar nos próximos prints)
-- Seção abaixo (provável IMAGEM) e demais campos: atmosfera e outros.
+- Seção IMAGEM (provável) e demais campos: atmosfera e outros.
 - Botão de gerar e o formato do prompt que o site entrega.
 - Como o site trata um texto curto (uma cena) colado em "COLE SUA COPY AQUI".
 - Outras abas ou geradores do Creative Hub (por exemplo, de imagem).
