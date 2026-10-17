@@ -1,8 +1,8 @@
 # R001-QUANDO-VOU-CONHECER — Formato 1 — roteiro revisado (aguardando aprovação)
 
-Status: revisão 4, decidida em 17/10/2026, com foco em conversão: mexer na dor de quem assiste, despertar a curiosidade de ver como ele é e levar ao link do story. Seis cenas narrativas, Cena 6 dividida em 6A/6B; 66 segundos. Persona: Dana Hollis (@straighttalktarot), sem pet. Dor 3 (quando vou conhecer ele?), com as dores 1 e 2 (velha demais, ghosting). Molde de hook 7 — lista com lacuna de curiosidade, com comportamento (222). Falas em inglês dos EUA; a tradução é só para o aluno aprovar.
+Status: revisão 5, decidida em 17/10/2026, com foco em conversão: mexer na dor de quem assiste, despertar a curiosidade de ver como ele é e levar ao link do story. Seis cenas narrativas, Cena 6 dividida em 6A/6B; 66 segundos. Persona: Dana Hollis (@straighttalktarot), sem pet. Dor 3 (quando vou conhecer ele?), com as dores 1 e 2 (velha demais, ghosting). Molde de hook 7 — lista com lacuna de curiosidade, com comportamento (222). Falas em inglês dos EUA; a tradução é só para o aluno aprovar.
 
-Por que Formato 1 + molde 7: o hook promete três razões e esconde a última. As Cenas 2 e 3 entregam as razões 1 e 2 com a ferida (tarde demais, ghosting). A Cena 4 entrega a razão 3 pela prova de comportamento ("você já imaginou o rosto dele à noite"). A Cena 5 transforma isso em curiosidade ("você olharia, se pudesse?") sem negar as cartas. A 6A responde e mostra o que o quiz entrega, com "possível" e "pode". A 6B pede os selos (salvar e comentar 222) e leva ao story. A entrega completa fica na segunda parte, no story, por decisão do aluno para o funil.
+Por que Formato 1 + molde 7: o hook promete três razões e esconde a última. As Cenas 2 e 3 entregam as razões 1 e 2 com a ferida (tarde demais, ghosting). A Cena 4 entrega a razão 3 pela prova de comportamento ("você já imaginou o rosto dele à noite"). A Cena 5 transforma isso em curiosidade ("você olharia, se pudesse?") sem negar as cartas. A 6A responde e mostra o que o quiz entrega, com "possível" e "pode". A 6B pede os selos (salvar e comentar 222), em frases curtas e leva ao story. A entrega completa fica na segunda parte, no story, por decisão do aluno para o funil.
 
 ## Cena 1 — Hook — 8s
 
@@ -40,25 +40,25 @@ Por que Formato 1 + molde 7: o hook promete três razões e esconde a última. A
 
 **Visual breve:** Dana vira a carta para si, olha de relance e depois balança a cabeça olhando para a lente.
 
-**Fala:** "Maybe that picture is more than a daydream. Maybe part of you is asking to see him. Would you look, if you could?"
+**Fala:** "Maybe that picture is more than a daydream. Part of you wants to see him. Would you look, if you could?"
 
-(PT: Talvez essa imagem seja mais do que um devaneio. Talvez uma parte de você esteja pedindo para vê-lo. Você olharia, se pudesse?)
+(PT: Talvez essa imagem seja mais do que um devaneio. Uma parte de você quer vê-lo. Você olharia, se pudesse?)
 
 ## Cena 6A — CTA — 10s
 
 **Visual breve:** Dana apoia a carta contra o maço e junta as mãos sobre a mesa, com um meio sorriso. Sem celular nem tela de app.
 
-**Fala:** "You can. In my story, a quiz shows a drawing of his possible face, his initials, and when you might meet."
+**Fala:** "You can. In my story, see a drawing of his possible face, his initials, and when you might meet."
 
-(PT: Você pode. No meu story, um quiz mostra um desenho do possível rosto dele, as iniciais e quando vocês podem se conhecer.)
+(PT: Você pode. No meu story, veja um desenho do possível rosto dele, as iniciais e quando vocês podem se conhecer.)
 
 ## Cena 6B — CTA — 10s
 
 **Visual breve:** Dana de frente, olhando para a lente, sem novo gesto.
 
-**Fala:** "Save this video, that's your first seal. Comment 222, that's your second. Then tap my profile photo and open my story before it disappears."
+**Fala:** "Save this: first seal. Comment 222: second seal. Then tap my profile photo and open my story before it disappears."
 
-(PT: Salve este vídeo, esse é o seu primeiro selo. Comente 222, esse é o segundo. Depois toque na minha foto de perfil e abra o meu story antes que ele suma.)
+(PT: Salve isto: primeiro selo. Comente 222: segundo selo. Depois toque na minha foto de perfil e abra o meu story antes que ele suma.)
 
 ## Texto de tela (aplicado na edição, não no Flow)
 
@@ -75,5 +75,5 @@ Por que Formato 1 + molde 7: o hook promete três razões e esconde a última. A
 - O quiz é descrito como o PROJETO descreve: um desenho do possível rosto, as iniciais e quando vocês podem se conhecer. A Dana nunca diz que ele existe, que o app o encontra ou que o encontro vai acontecer.
 - A Cena 4 usa comportamento ("você já imaginou o rosto dele"): é uma observação sobre a espectadora, não uma experiência vivida da Dana. Sem depoimento nem resultado inventado.
 - A divulgação de afiliada fica na descrição e no story, não na fala. O perfil já é marcado como gerado por IA.
-- As falas têm de 16 a 24 palavras; a leitura natural precisa ser cronometrada na produção, principalmente a 6B (24 palavras). Se não couber, sinalizar, sem acelerar a voz.
+- As falas têm de 16 a 22 palavras; a leitura natural precisa ser cronometrada na produção. Se não couber, sinalizar, sem acelerar a voz.
 - Sem métricas de publicação.
