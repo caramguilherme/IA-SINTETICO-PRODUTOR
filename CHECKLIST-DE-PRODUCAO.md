@@ -95,3 +95,4 @@
 - [ ] Voz americana, calma e firme. Sem pet, sem Manual e sem capa.
 - [ ] O baralho descrito é de tarô (cartas altas e estreitas, verso escuro ornamentado em dourado), não de baralho de jogar.
 - [ ] A legenda do post é agressiva, curta, termina com a ação e não tem nota de rodapé nem insulto, ameaça ou promessa de encontro.
+- [ ] O pacote do story foi entregue: prompt da imagem sem texto, texto na tela e adesivo de link com 3 a 4 palavras, sem afiliado, link, comissão, preço ou assinatura.
