@@ -5,7 +5,7 @@ O painel do R003 (https://claude.ai/artifact/9cKYmzqooPmAb8pz88ZjwP) traz tudo p
 Regras gerais: não clicar em "Resetar valores" nem em "REGERAR BLOCO A PARTIR DOS CAMPOS". Todas as seções com interruptor ficam LIGADAS. Campos não citados ficam como estão.
 
 ## 1. A imagem (uma só)
-No Flow (Nano Banana Pro, 9:16), anexe as 4 imagens oficiais da Dana e cole o PROMPT IMAGEM 1 do painel. Aprove só se for a Dana (rosto igual às referências), de cardigã creme sobre camiseta cinza-claro, com a carta A Lua EM PÉ no primeiro plano (canto inferior esquerdo), encostada no baralho fechado de verso azul-noite e dourado, vela acesa, sem celular. Essa imagem é o primeiro quadro dos 7 vídeos.
+No Flow (Nano Banana Pro, 9:16), anexe as 4 imagens oficiais da Dana e cole o PROMPT IMAGEM 1 do painel. Aprove só se for a Dana (rosto igual às referências), de cardigã creme sobre camiseta cinza-claro, segurando com a mão direita um pêndulo de ametista roxa pela corrente (nítido, em primeiro plano, ao lado do rosto, sem cobrir), a mão esquerda na mesa, o baralho fechado de verso azul-noite e dourado e a vela acesa, sem celular. Essa imagem é o primeiro quadro dos 7 vídeos.
 
 ## 2. Central do curso
 Preencha a configuração fixa (seção "Central do curso: o que preencher" do painel):
@@ -30,4 +30,4 @@ Clique em ⚡ GERAR PROMPT DE ANIMAÇÃO. O site deve mostrar **7 takes de 10 s*
 5. Envie.
 
 ## 4. Conferir cada vídeo (marque no painel)
-É a Dana (rosto e roupa iguais à imagem); a carta A Lua e o baralho ficam parados; a fala sai completa, uma vez só, em inglês, com voz americana calma; sem texto, legenda ou música. Se um vídeo falhar, diga a cena e o problema.
+É a Dana (rosto e roupa iguais à imagem); o pêndulo fica na mesma mão, balançando de leve, e o baralho fica fechado; a fala sai completa, uma vez só, em inglês, com voz americana calma; sem texto, legenda ou música. Se um vídeo falhar, diga a cena e o problema.

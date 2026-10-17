@@ -1,6 +1,6 @@
 # R003-ELE-ESCONDE-DUAS-COISAS — Formato 2 — roteiro com a biblioteca do curso, funil Soulmate (17/10/2026)
 
-Status: funil ativo = **Soulmate** (o Love Chart ainda não começou; o aluno avisa quando começar). Imagem única para os 7 vídeos: a carta A Lua EM PÉ na frente do baralho fechado (ela nunca se mexe). A fala inteira vai de uma vez na Central, que cria 7 takes de 10 s, um por cena (cada cena tem de 20 a 22 palavras). Persona: Dana Hollis (@straighttalktarot), sem pet. Dor 4 (sinal ou ilusão?), com a dor 3 (quando vou conhecer ele?). Falas em inglês dos EUA; a tradução é só para o aluno aprovar.
+Status: funil ativo = **Soulmate** (o Love Chart ainda não começou; o aluno avisa quando começar). Imagem única para os 7 vídeos: a Dana segura um pêndulo de ametista pela corrente (objeto do hook, natural e em movimento leve), com o baralho fechado e a vela na mesa. A fala inteira vai de uma vez na Central, que cria 7 takes de 10 s, um por cena (cada cena tem de 20 a 22 palavras). Persona: Dana Hollis (@straighttalktarot), sem pet. Dor 4 (sinal ou ilusão?), com a dor 3 (quando vou conhecer ele?). Falas em inglês dos EUA; a tradução é só para o aluno aprovar.
 
 ## Base do curso usada (registro)
 - **Hook:** gancho do curso **#25** (adaptado: "a man is hiding two things from you, and you were right all along…"), com o **ângulo 5 (segredo em camadas, "2 coisas")** e o **ângulo 4 ("você estava certa o tempo todo")**. Não repete o hook do R001 (molde 7) nem do R002 (molde 10).
@@ -11,37 +11,37 @@ Status: funil ativo = **Soulmate** (o Love Chart ainda não começou; o aluno av
 - **Funil Soulmate:** a 6A diz o que o quiz mostra, com "possible" e "might" (desenho do possível rosto, iniciais, quando podem se conhecer) e o primeiro passo (3 cartas). Sem app, preço, assinatura, comissão, depoimento, número ou escassez.
 
 ## Cena 1 — Hook — 10s
-**Visual breve:** Dana atrás da mesa, de frente, olhando firme para a lente, com as mãos apoiadas na mesa; dá um pequeno aceno de cabeça. No primeiro plano, no canto inferior esquerdo, a carta A Lua (verde-escura quase preta, lua crescente dourada grande e lua cheia prateada pequena, sem rosto nem letras) está em pé, encostada no maço fechado, com a frente para a lente. Ela não se move em nenhum clipe. Vela acesa na mesa.
+**Visual breve:** Dana atrás da mesa, de frente, olhando firme para a lente. Com a mão direita, levemente estendida, ela segura pela corrente um pêndulo de cristal de ametista roxa que balança de leve em primeiro plano, ao lado do rosto; a mão esquerda repousa na mesa. Dá um pequeno aceno de cabeça. Baralho fechado e vela acesa na mesa.
 **Fala:** "A man is hiding two things from you. And you were right all along. He never stopped thinking about you."
 (PT: Um homem está escondendo duas coisas de você. E você estava certa o tempo todo. Ele nunca parou de pensar em você.)
 
 ## Cena 2 — Cenário — 10s
-**Visual breve:** Dana olha para a lente com expressão calma e conhecedora e inclina levemente a cabeça. A carta em pé e o maço fechado ficam imóveis.
+**Visual breve:** Dana olha para a lente com expressão calma e conhecedora e inclina levemente a cabeça. O pêndulo continua na mão direita, balançando de leve.
 **Fala:** "He watches your profile in silence. He types a message, then deletes it. Something invisible keeps holding him back every time."
 (PT: Ele olha o seu perfil em silêncio. Digita uma mensagem e apaga. Algo invisível o segura toda vez.)
 
 ## Cena 3 — O vínculo — 10s
-**Visual breve:** Dana leva uma mão aberta ao peito por um instante e a devolve à mesa. A carta em pé e o maço fechado ficam imóveis.
+**Visual breve:** Dana leva a mão esquerda ao peito por um instante e a devolve à mesa. O pêndulo continua na mão direita, balançando de leve.
 **Fala:** "There's a strong bond between you. Not an ordinary one. The kind your heart never lets go, even when your mind tries."
 (PT: Existe um vínculo forte entre vocês. Não um comum. Daqueles que o seu coração nunca solta, mesmo quando a sua mente tenta.)
 
 ## Cena 4 — Crença: "era coisa da minha cabeça" — 10s
-**Visual breve:** Dana balança levemente a cabeça uma vez, com um olhar acolhedor, e as mãos voltam a ficar paradas na mesa. A carta em pé e o maço fechado ficam imóveis.
+**Visual breve:** Dana balança levemente a cabeça uma vez, com um olhar acolhedor, com a mão esquerda parada na mesa. O pêndulo continua na mão direita, balançando de leve.
 **Fala:** "You told yourself it was all in your head. It wasn't. Your intuition has been trying to tell you about him."
 (PT: Você disse a si mesma que era tudo coisa da sua cabeça. Não era. Sua intuição tem tentado te contar sobre ele.)
 
 ## Cena 5 — Miniobjeção e curiosidade — 10s
-**Visual breve:** Dana inclina a cabeça e dá um leve sorriso para a lente, como quem pergunta. A carta em pé e o maço fechado ficam imóveis.
+**Visual breve:** Dana inclina a cabeça e dá um leve sorriso para a lente, como quem pergunta. O pêndulo continua na mão direita, balançando de leve.
 **Fala:** "Would you look, if you could? Maybe you think you need his photo or his name. You don't. Just three cards."
 (PT: Você olharia, se pudesse? Talvez ache que precisa da foto ou do nome dele. Não precisa. Só três cartas.)
 
 ## Cena 6A — CTA — 10s
-**Visual breve:** Dana junta as mãos sobre a mesa e olha para a lente com um meio sorriso. A carta em pé e o maço fechado ficam imóveis.
+**Visual breve:** Dana olha para a lente com um meio sorriso. O pêndulo continua na mão direita, balançando de leve.
 **Fala:** "In my story, see a drawing of his possible face, his initials, and when you might meet. Pick three cards."
 (PT: No meu story, veja um desenho do possível rosto dele, as iniciais e quando vocês podem se conhecer. Escolha três cartas.)
 
 ## Cena 6B — CTA — 10s
-**Visual breve:** Dana de frente, olhando para a lente, com as mãos juntas, sem novo gesto, e uma leve inclinação de cabeça no fim. A carta em pé e o maço fechado ficam imóveis.
+**Visual breve:** Dana de frente, olhando para a lente, sem novo gesto, e uma leve inclinação de cabeça no fim. O pêndulo continua na mão direita, balançando de leve.
 **Fala:** "Send this to yourself: first seal. Comment 222: second seal. Then tap my photo and open my story before it disappears."
 (PT: Mande isto para você mesma: primeiro selo. Comente 222: segundo selo. Depois toque na minha foto e abra o meu story antes que ele suma.)
 
