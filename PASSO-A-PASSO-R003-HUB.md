@@ -28,7 +28,7 @@ Clique em ⚡ GERAR PROMPT DE ANIMAÇÃO. O site deve mostrar **7 takes de 10 s*
 ## 3. Agente do Flow (uma conversa só)
 1. Conversa nova no agente.
 2. Anexe a IMAGEM 1 aprovada (só ela).
-3. Cole o aviso do painel.
+3. Cole o aviso do painel (sempre antes do bloco da Central): "Irei enviar 7 prompts para você. A cada prompt, quero que seja feita uma animação da imagem anexada. Utilize a imagem anexada como frame inicial e frame final, em todos os vídeos que você gerar."
 4. Embaixo, cole o bloco do botão **COPIAR TUDO JUNTO** da Central (começa em "GOOGLE FLOW AGENT MODE" e traz Prompt 1 a Prompt 7).
 5. Envie.
 
