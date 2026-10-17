@@ -1,4 +1,4 @@
-# R002-ANTES-DE-OUTRO-APP — Formato 2 — roteiro (aguardando aprovação)
+# R002-ANTES-DE-OUTRO-APP — Formato 2 — roteiro (painel montado)
 
 Status: Fase 1, sem prompts. Seis cenas narrativas, com Cena 6 dividida em 6A/6B; 66 segundos planejados. Persona: Dana Hollis (@straighttalktarot), sem pet. Dor 2 (cansaço dos apps e do ghosting), com a dor 3. Molde de hook 10 — alerta antes de uma prática (R001 usou o molde 7). Falas em inglês dos EUA; a tradução é só para o aluno aprovar.
 
