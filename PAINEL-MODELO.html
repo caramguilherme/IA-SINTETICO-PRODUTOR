@@ -96,6 +96,20 @@ section{scroll-margin-top:16px}
       <div class="box" id="insta"></div>
     </section>
 
+    <section class="card" id="comentario">
+      <h2>Comentário fixado</h2>
+      <div class="item">
+        <button class="cp" id="copiaPinInsta">Copiar Insta</button>
+        <h3>Instagram</h3>
+        <div class="box" id="pinInsta"></div>
+      </div>
+      <div class="item">
+        <button class="cp" id="copiaPinFace">Copiar Face</button>
+        <h3>Facebook</h3>
+        <div class="box" id="pinFace"></div>
+      </div>
+    </section>
+
     <section class="card" id="referencia">
       <h2>Referência visual</h2>
       <div id="refs"></div>
@@ -124,7 +138,7 @@ section{scroll-margin-top:16px}
   </div>
  </div>
  <nav class="toc"><b>Nesta página</b>
-   <a href="#entrada">Pacote</a><a href="#textotela">Texto na tela</a><a href="#descricao">Legenda</a><a href="#referencia">Referência visual</a><a href="#imagens">Imagens</a><a href="#fala">Fala completa</a><a href="#videos">Vídeos</a><a href="#todos">Todos os prompts</a>
+   <a href="#entrada">Pacote</a><a href="#textotela">Texto na tela</a><a href="#descricao">Legenda</a><a href="#comentario">Comentário fixado</a><a href="#referencia">Referência visual</a><a href="#imagens">Imagens</a><a href="#fala">Fala completa</a><a href="#videos">Vídeos</a><a href="#todos">Todos os prompts</a>
  </nav>
 </div>
 
@@ -210,6 +224,9 @@ function montar(silencio){
   $('insta').textContent=r.descricao_instagram||'(a IA não entregou a legenda)';
   const tt=pk.texto_tela||{};
   $('telaHook').textContent=tt.hook||'(a IA não entregou o texto dos primeiros segundos)';
+  const cf=pk.comentario_fixado||{};
+  $('pinInsta').textContent=cf.insta||'(a IA não entregou o comentário fixado do Instagram)';
+  $('pinFace').textContent=cf.face||'(a IA não entregou o comentário fixado do Facebook)';
   $('telaHookQ').innerHTML=tt.hook_comeca?('Começa em: “'+esc(tt.hook_comeca)+'”'+(tt.hook_termina?' → termina em: “'+esc(tt.hook_termina)+'”':'')):'';
   $('telaAlt').textContent=tt.hook_alt?'Alternativa: '+tt.hook_alt:'';$('telaAlt').classList.toggle('hide',!tt.hook_alt);
   $('telaExtras').innerHTML=(tt.extras||[]).map(e=>'<div style="margin-bottom:8px"><b>'+esc(e.texto)+'</b><br><span style="color:var(--ink2)">'+(e.comeca?'Começa em: “'+esc(e.comeca)+'”'+(e.termina?' → termina em: “'+esc(e.termina)+'”':''):esc(e.quando||''))+'</span></div>').join('');$('telaExtras').classList.toggle('hide',!(tt.extras&&tt.extras.length));
@@ -240,6 +257,8 @@ $('limpar').onclick=()=>{if(!confirm('Apagar o pacote e as marcações?'))return
 $('copiaTudo').onclick=e=>copiar('iniciar\n\n'+(pk.instrucoes_agente?pk.instrucoes_agente+'\n\n':'')+blocoCompleto(),e.currentTarget);
 $('copiaFalas').onclick=e=>copiar(pk.videos.map(v=>v.rotulo+' ('+v.cena+'): '+v.fala).join('\n'),e.currentTarget);
 $('copiaTela').onclick=e=>{const tt=pk.texto_tela||{};copiar(['Início do vídeo: '+(tt.hook||'')+(tt.hook_comeca?' | começa em: "'+tt.hook_comeca+'" | termina em: "'+(tt.hook_termina||'')+'"':'')].concat((tt.extras||[]).map(x=>x.texto+(x.comeca?' | começa em: "'+x.comeca+'" | termina em: "'+(x.termina||'')+'"':(x.quando?' | '+x.quando:'')))).join('\n'),e.currentTarget)};
+$('copiaPinInsta').onclick=e=>copiar((pk.comentario_fixado&&pk.comentario_fixado.insta)||'',e.currentTarget);
+$('copiaPinFace').onclick=e=>copiar((pk.comentario_fixado&&pk.comentario_fixado.face)||'',e.currentTarget);
 $('copiaInsta').onclick=e=>copiar((pk.roteiro&&pk.roteiro.descricao_instagram)||'',e.currentTarget);
 if(PACOTE){$("entrada").classList.add("hide");$("json").value=JSON.stringify(PACOTE);montar(false);if(!pk)$("entrada").classList.remove("hide");}else{carregar();}
 })();

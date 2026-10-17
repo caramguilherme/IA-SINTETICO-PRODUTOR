@@ -83,6 +83,11 @@ Part 2 is in my story. It disappears in 24 hours.
 
 Save this. Comment 222. Tap my photo. NOW.
 
+## Comentário fixado
+
+- **Instagram:** PART 2 is in my story. 👆 Tap my photo NOW. It's gone in 24 hours. Comment 222 if you're ready. 🔥
+- **Facebook:** PART 2 is in my Story. Tap my profile picture NOW. It's gone in 24 hours. Comment 222 if you're ready. 🔥
+
 ## Notas editoriais e factuais
 
 - Sem nome do app, preço, tipo de pagamento nem comissão nas falas. O vídeo só tem gancho, ferida, curiosidade e CTA.

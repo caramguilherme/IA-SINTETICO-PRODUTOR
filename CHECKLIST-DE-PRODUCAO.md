@@ -98,3 +98,4 @@
 - [ ] O pacote do story foi entregue: prompt da imagem sem texto, texto na tela e adesivo de link com 3 a 4 palavras, sem afiliado, link, comissão, preço ou assinatura.
 - [ ] O painel traz `texto_tela` com o hook dos primeiros 3 s e os textos das razões e do CTA, e a "Legenda Insta/Face".
 - [ ] Cada texto de tela (hook, razões e CTA) indica a frase em que começa e a frase em que termina, não segundos.
+- [ ] O painel traz `comentario_fixado` (Instagram e Facebook), curto, agressivo, levando ao story, sem afiliado, link, preço ou assinatura.

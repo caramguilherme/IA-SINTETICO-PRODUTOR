@@ -22,6 +22,7 @@
 - **Não pode dizer no vídeo:** o nome do app, preço, tipo de pagamento nem comissão.
 - **Nunca:** dizer que o app encontra uma pessoa real ou que o encontro vai acontecer; depoimento, número ou "funcionou comigo" inventado; urgência falsa; medo ou ameaça.
 - **Legenda do post: sempre agressiva** (decisão do aluno, 17/10/2026): curta, firme, ferida primeiro, frases de uma linha, termina com a ação (salvar, comentar, tocar na foto, story). Sem nota de rodapé sobre tarô, numerologia ou afiliado.
+- **Comentário fixado (Instagram e Facebook):** todo roteiro entrega os dois textos, curtos e agressivos, que levam ao story: "Part 2 is in my story" (no Facebook, "Story" e "profile picture"), tocar na foto, 24 h e comentar o código. Nada de afiliado, link, preço ou assinatura.
 - **Story (a "parte 2"):** todo roteiro entrega o pacote do story: prompt da imagem (sem texto; a Dana oferecendo 3 cartas de tarô viradas para baixo, que é a primeira tela do quiz), texto na tela e adesivo de link com 3 a 4 palavras no lugar do endereço. Nada de afiliado, link, comissão, preço ou assinatura no story. Nunca insulto, ameaça, medo, urgência falsa ou promessa de encontro.
 - **Divulgação:** nenhuma menção a afiliado, comissão, preço ou assinatura na fala, na legenda do post nem no story (decisão do aluno em 17/10/2026). O perfil já é marcado como gerado por IA. A Dana nunca diz "pagamento único".
 - **Não repetir da página:** "He's arriving fast", "You will meet your soulmate soon", escassez ("3 spots left"), contagem regressiva, depoimentos ou números ("74,000+ readings").
