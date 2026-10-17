@@ -1,82 +1,78 @@
-# R001-QUANDO-VOU-CONHECER — Formato 1 — roteiro (revisão 2, aguardando aprovação)
+# R001-QUANDO-VOU-CONHECER — Formato 1 — roteiro revisado (aguardando aprovação)
 
-Status: Fase 1, sem prompts. Seis cenas narrativas, com Cena 6 dividida em 6A/6B; duração planejada de 66 segundos. Persona: Dana Hollis (@straighttalktarot), sem pet. Dor 3: "Quando vou conhecer ele?". Molde de hook 2 — descoberta tardia. Primeiro roteiro: VÍDEOS FEITOS está vazio, sem molde anterior para evitar. Falas em inglês dos EUA (voz da persona); a tradução em português é só para o aluno aprovar.
+Status: revisão 3, decidida em 17/10/2026 com foco em conversão: mexer na dor de quem assiste até ela querer ver como ele é e clicar no link do story. Seis cenas narrativas, Cena 6 dividida em 6A/6B; 66 segundos. Persona: Dana Hollis (@straighttalktarot), sem pet. Dor 3 (quando vou conhecer ele?), com as dores 1 e 2 (velha demais, ghosting). Molde de hook 5 — jeito rápido, com comportamento (222). Falas em inglês dos EUA; a tradução é só para o aluno aprovar.
 
-Por que Formato 1 + molde 2: a dor é um hábito (perguntar "quando?" toda noite) com crenças erradas ("a carta dá a data", "embaralhar de novo muda a resposta"). O Formato 1 nega essas crenças e entrega uma pergunta melhor. O molde 2 cria curiosidade sem prometer amor.
+Por que Formato 1 + molde 5: o hook promete o jeito mais rápido de imaginar o homem que ela espera. As Cenas 2 e 3 negam duas crenças reais ("todo mundo achou alguém", "a culpa é minha"). A Cena 4 nomeia o desejo (ver o rosto). A Cena 5 abre a miniobjeção. A 6A mostra o que o quiz entrega, sempre com "possível" e "pode". A promessa do hook é entregue na segunda parte, no story, por decisão do aluno para o funil.
 
 ## Cena 1 — Hook — 8s
 
-**Visual breve:** Dana atrás da mesa de madeira, de frente, no cantinho da sala. Uma carta de tarô grande, em cobre e dourado e sem letras, vira para a lente e quase sai da tela; a vela acesa fica ao lado.
+**Visual breve:** Dana atrás da mesa, de frente. A carta grande em cobre e dourado, sem letras, vira para a lente e quase sai da tela; a vela acesa fica ao lado.
 
-**Fala:** "How old were you when you learned to ask the cards something better than 'when will I meet him?'"
+**Fala:** "If you keep seeing 222, this is the fastest way to picture the man you've been waiting for."
 
-(PT: Com quantos anos você aprendeu a perguntar às cartas algo melhor do que "quando vou conhecer ele?")
+(PT: Se você continua vendo 222, este é o jeito mais rápido de imaginar o homem que você está esperando.)
 
-## Cena 2 — Crenças e introdução da solução — 10s
+## Cena 2 — Crença 1 e ferida — 10s
 
-**Visual breve:** Dana embaralha o baralho, para, e põe a mão sobre a pilha. Sem carta nova à vista.
+**Visual breve:** Dana baixa a carta até a mesa, com o verso para a lente, e olha para a lente com expressão cansada e acolhedora.
 
-**Fala:** "The cards can't give you a date. Reshuffling until you like the card changes nothing. And no card promises he's coming."
+**Fala:** "Another night. Phone in your hand, asking the ceiling 'when is it my turn?' Everyone else seems to have found someone."
 
-(PT: As cartas não dão uma data. Embaralhar até gostar da carta não muda nada. E nenhuma carta promete que ele vem.)
+(PT: Mais uma noite. Celular na mão, perguntando ao teto: "quando é a minha vez?" Todo mundo parece ter achado alguém.)
 
-## Cena 3 — Solução, parte 1 — 8s
+## Cena 3 — Crença 2 e ferida — 8s
 
-**Visual breve:** Dana embaralha uma vez e tira uma única carta da pilha, deixando-a virada para baixo na mesa.
+**Visual breve:** Dana inclina a cabeça com ar de quem entende e apoia a mão sobre o maço.
 
-**Fala:** "Ask this instead: what am I not seeing about how I show up in love? Pull one card."
+**Fala:** "You gave the apps another chance. He texted for days, then vanished. And you still blamed yourself."
 
-(PT: Pergunte isto: o que eu não estou enxergando sobre como eu me apresento no amor? Tire uma carta.)
+(PT: Você deu mais uma chance aos apps. Ele mandou mensagem por dias e sumiu. E você ainda se culpou.)
 
-## Cena 4 — Solução, parte 2 — 10s
+## Cena 4 — Desejo de ver o rosto — 10s
 
-**Visual breve:** Dana vira a carta, olha para ela em silêncio e depois olha para a lente.
+**Visual breve:** Dana desliza uma carta do maço para a mesa, virada para baixo, e apoia as pontas dos dedos sobre ela.
 
-**Fala:** "Don't read the picture first. Notice the first thing you feel. Then ask: is this about him, or about a habit of mine?"
+**Fala:** "Here's what hurts most: you don't just want love. You want to see his face and feel that he's real."
 
-(PT: Não leia a imagem primeiro. Note a primeira coisa que você sente. Depois pergunte: isso é sobre ele ou sobre um hábito meu?)
+(PT: O que mais dói: você não quer só amor. Você quer ver o rosto dele e sentir que ele é real.)
 
 ## Cena 5 — Conclusão e miniobjeção — 10s
 
-**Visual breve:** Dana com a carta virada na mão, de frente, com um meio sorriso. Sem objeto novo.
+**Visual breve:** Dana vira a carta para si, olha de relance e depois balança a cabeça olhando para a lente.
 
-**Fala:** "Now you have one clear thing to look at tonight, not a countdown. But I know you'll still want a 'when.'"
+**Fala:** "Maybe 222 keeps showing up because you're ready. But no card can draw you his face. So how do you picture him?"
 
-(PT: Agora você tem uma coisa clara para olhar hoje à noite, e não uma contagem regressiva. Mas eu sei que você ainda vai querer um "quando".)
+(PT: Talvez o 222 continue aparecendo porque você está pronta. Mas nenhuma carta consegue desenhar o rosto dele. Então, como você o imagina?)
 
-## Cena 6 — CTA
+## Cena 6A — CTA — 10s
 
-Regra do aluno: no vídeo não se fala o nome do app, o tipo de pagamento nem comissão. O vídeo só tem gancho, emoção e CTA. A "segunda parte" fica no story, onde está o link. Sem capa nem imagem do app: nada de celular ou tela. Parte A acolhe a miniobjeção ("ainda quero um quando"). Parte B manda para o story.
+**Visual breve:** Dana apoia a carta contra o maço e junta as mãos sobre a mesa, com um meio sorriso. Sem celular nem tela de app.
 
-**6A — 10s — Visual breve:** Dana de frente, atrás da mesa, com a carta apoiada na mesa.
+**Fala:** "Imagine finally seeing him. In my story, a quiz shows a drawing of his possible face, his initials, and when you might meet."
 
-**6A — Fala:** "Don't leave with only half of this message. Everything I've told you so far is part one. Part two is waiting in my story."
+(PT: Imagine finalmente vê-lo. No meu story, um quiz mostra um desenho do possível rosto dele, as iniciais e quando vocês podem se conhecer.)
 
-(PT: Não saia daqui com só metade desta mensagem. Tudo o que eu disse até agora é a parte um. A parte dois está esperando no meu story.)
+## Cena 6B — CTA — 10s
 
-**6B — 10s — Visual breve:** Dana de frente, olhando para a lente.
+**Visual breve:** Dana de frente, olhando para a lente, sem novo gesto.
 
-**6B — Fala:** "Tap my profile photo now, before it disappears in 24 hours. Comment YES if you're going, and follow for more straight talk."
+**Fala:** "Comment 222 if you're ready, then tap my profile photo and open my story before it disappears in 24 hours."
 
-(PT: Toque na minha foto de perfil agora, antes que suma em 24 horas. Comente YES se você vai, e me siga para mais conversa sem rodeio.)
+(PT: Comente 222 se você está pronta, depois toque na minha foto de perfil e abra o meu story antes que ele suma em 24 horas.)
 
 ## Texto de tela (aplicado na edição, não no Flow)
 
-Os clipes saem sem texto. Estes textos entram na edição. Nenhum promete rosto, data ou encontro.
-
-- **Hook (0 a 3 s), escolher um:**
-  - A: "Ask the cards a better question"
-  - B: "Not 'when will I meet him?'"
-- **Cena 5 (opcional, no momento da miniobjeção):** "You'll still want a 'when'"
-- **CTA (6A e 6B, no fim):** "Part 2 is in my story"
-- **Legendas:** usar as falas exatas de cada clipe, em inglês, sincronizadas com a voz.
-- **Estilo:** fonte grande e legível, no máximo 6 palavras por vez, longe da borda inferior e da lateral direita, onde a interface do Instagram cobre o texto.
+- **Hook (0 a 3 s), escolher um:** A: "222 keeps following you?" | B: "The fastest way to picture him"
+- **Cena 2:** "When is it my turn?"
+- **Cena 4:** "You want to see his face"
+- **CTA (6A e 6B):** "Comment 222 · Part 2 in my story"
+- **Legendas:** as falas exatas, em inglês, sincronizadas com a voz. No máximo 6 palavras por vez, longe da borda inferior e da lateral direita.
 
 ## Notas editoriais e factuais
 
-- Dana não afirma experiência vivida: não diz "eu testei", "minhas clientes" nem "funcionou comigo". Fala com o público e com empatia.
-- Tarô é apresentado como espelho para refletir. Nenhuma fala promete que um amor vai chegar nem que a carta prevê a data.
-- CTA no estilo "não sai com metade da mensagem" (exemplo 3 do aluno), sem afirmar rosto, iniciais ou data de encontro como fato, sem "esse vídeo te achou" e sem "pra eu saber que chegou". A 6A e a 6B não prometem encontro nem rosto e não dizem o que é a segunda parte; só abrem a curiosidade. A descrição honesta do que o quiz mostra (um desenho, entretenimento) deve ficar na página do story, não no vídeo.
-- Divulgação de afiliada e rótulo de conteúdo gerado por IA ficam fora das falas, a pedido do aluno. Eles ainda precisam existir em outro lugar: na descrição do Instagram, no story e no rótulo de IA da plataforma.
-- Duração é planejamento editorial. As falas das Cenas 1, 2, 4, 5, 6A e 6B têm de 18 a 24 palavras; a leitura natural precisa ser cronometrada na produção. Se não couber, sinalizar, sem acelerar a voz.
+- Sem nome do app, preço, tipo de pagamento nem comissão nas falas. O vídeo só tem gancho, ferida e CTA.
+- O quiz é descrito como o PROJETO descreve: um desenho do possível rosto, as iniciais e quando vocês podem se conhecer. A Dana nunca diz que ele existe, que o app o encontra ou que o encontro vai acontecer.
+- Sem experiência vivida da Dana, sem depoimento e sem resultado inventado. "Quem pagar vê um desenho": a promessa do vídeo bate com a entrega, o que também reduz reembolso e denúncia.
+- A divulgação de afiliada fica na descrição e no story, não na fala. O perfil já é marcado como gerado por IA.
+- As falas têm de 17 a 23 palavras; a leitura natural precisa ser cronometrada na produção. Se não couber, sinalizar, sem acelerar a voz.
 - Sem métricas de publicação.

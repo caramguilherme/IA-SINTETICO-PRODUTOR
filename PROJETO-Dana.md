@@ -15,10 +15,12 @@
 - **Oferta:** afiliado do app Auraly / Soulmate Match. A pessoa responde um quiz curto e o app mostra um desenho do rosto da possível alma gêmea, as iniciais dela e quando eles podem se conhecer. Pagamento único, só cartão. Preço: não informado (não inventar; o aluno confirma antes de citar qualquer valor).
 - **Ação final:** o vídeo leva para o story; o story tem o link do quiz. Nada de link na legenda nem DM.
 
-### Regras de honestidade da oferta
-- Dana descreve o app como entretenimento: "o app mostra um desenho", "o app mostra iniciais". Nunca diz que o app "encontra" uma pessoa real nem que o encontro vai acontecer.
-- Nada de depoimento, resultado, número de usuários ou "funcionou comigo/com minhas amigas" que não seja real.
-- Avisar que é afiliada (ex.: "I may earn a commission") e rotular o conteúdo como gerado por IA, conforme as regras da plataforma.
+### Objetivo e regras da oferta (atualizado em 17/10/2026)
+- **Objetivo dos vídeos:** vender. Cada roteiro abre a ferida da espectadora (solidão depois dos 40, ghosting, "quando é a minha vez?", sentir que ficou para trás), cria o desejo de ver como ele é e leva ao story, onde está o link do quiz.
+- **Pode dizer no vídeo:** que o quiz mostra um desenho do possível rosto, as iniciais e quando vocês podem se conhecer, sempre com "possível" e "pode". Pode usar 222, segredo, lacuna de curiosidade, comportamento e comentário com código (222).
+- **Não pode dizer no vídeo:** o nome do app, preço, tipo de pagamento nem comissão.
+- **Nunca:** dizer que o app encontra uma pessoa real ou que o encontro vai acontecer; depoimento, número ou "funcionou comigo" inventado; urgência falsa; medo ou ameaça ("vai ficar sozinha para sempre").
+- **Divulgação:** afiliada na descrição e no story, não na fala. O perfil já é marcado como gerado por IA.
 
 ## DORES
 1. **Medo de ser "velha demais"** · divorciada ou solteira depois dos 45, acha que passou da hora de recomeçar · vergonha, medo · evitou sair e se convenceu de que "o amor ficou para trás" · fonte: escolhida pelo aluno.
