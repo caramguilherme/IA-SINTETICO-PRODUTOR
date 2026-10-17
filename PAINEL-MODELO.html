@@ -80,9 +80,18 @@ section{scroll-margin-top:16px}
       <p id="progtxt" style="margin-top:6px"></p>
     </section>
 
+    <section class="card" id="textotela">
+      <button class="cp" id="copiaTela">Copiar textos de tela</button>
+      <h2>Texto na tela</h2>
+      <div class="mono">Primeiros segundos (0 a 3 s)</div>
+      <div class="box" id="telaHook" style="margin:8px 0 12px;font-size:20px;font-weight:700"></div>
+      <div class="box" id="telaAlt" style="margin:0 0 12px"></div>
+      <div class="box" id="telaExtras"></div>
+    </section>
+
     <section class="card" id="descricao">
-      <button class="cp" id="copiaInsta">Copiar descrição</button>
-      <h2>Descrição para Instagram</h2>
+      <button class="cp" id="copiaInsta">Copiar legenda</button>
+      <h2>Legenda Insta/Face</h2>
       <div class="box" id="insta"></div>
     </section>
 
@@ -114,7 +123,7 @@ section{scroll-margin-top:16px}
   </div>
  </div>
  <nav class="toc"><b>Nesta página</b>
-   <a href="#entrada">Pacote</a><a href="#descricao">Descrição</a><a href="#referencia">Referência visual</a><a href="#imagens">Imagens</a><a href="#fala">Fala completa</a><a href="#videos">Vídeos</a><a href="#todos">Todos os prompts</a>
+   <a href="#entrada">Pacote</a><a href="#textotela">Texto na tela</a><a href="#descricao">Legenda</a><a href="#referencia">Referência visual</a><a href="#imagens">Imagens</a><a href="#fala">Fala completa</a><a href="#videos">Vídeos</a><a href="#todos">Todos os prompts</a>
  </nav>
 </div>
 
@@ -197,7 +206,11 @@ function montar(silencio){
   $('rtitulo').textContent=r.titulo||'';
   $('avisos').classList.add('hide');
   $('rmeta').textContent=[r.dor&&('Dor: '+r.dor),r.formato&&('Formato: '+r.formato),r.molde_hook&&('Hook: '+r.molde_hook),r.duracao_total&&(r.duracao_total+' s no total')].filter(Boolean).join(' · ');
-  $('insta').textContent=r.descricao_instagram||'(a IA não entregou a descrição)';
+  $('insta').textContent=r.descricao_instagram||'(a IA não entregou a legenda)';
+  const tt=pk.texto_tela||{};
+  $('telaHook').textContent=tt.hook||'(a IA não entregou o texto dos primeiros segundos)';
+  $('telaAlt').textContent=tt.hook_alt?'Alternativa: '+tt.hook_alt:'';$('telaAlt').classList.toggle('hide',!tt.hook_alt);
+  $('telaExtras').innerHTML=(tt.extras||[]).map(e=>'<div><b>'+esc(e.quando)+'</b> · '+esc(e.texto)+'</div>').join('');$('telaExtras').classList.toggle('hide',!(tt.extras&&tt.extras.length));
   $('refs').innerHTML=(pk.refs||[]).map(x=>'<span class="chip">'+esc(x)+'</span>').join('')||'<i>(a IA não listou)</i>';
   $('falas').textContent=pk.videos.map(v=>v.rotulo+' · cena '+v.cena+'\n“'+v.fala+'”').join('\n\n');
   $('listaImg').innerHTML='';$('listaVid').innerHTML='';
@@ -224,6 +237,7 @@ $('aplicar').onclick=()=>{feitos={};montar(false)};
 $('limpar').onclick=()=>{if(!confirm('Apagar o pacote e as marcações?'))return;$('json').value='';feitos={};pk=null;$('painel').classList.add('hide');salvar()};
 $('copiaTudo').onclick=e=>copiar('iniciar\n\n'+(pk.instrucoes_agente?pk.instrucoes_agente+'\n\n':'')+blocoCompleto(),e.currentTarget);
 $('copiaFalas').onclick=e=>copiar(pk.videos.map(v=>v.rotulo+' ('+v.cena+'): '+v.fala).join('\n'),e.currentTarget);
+$('copiaTela').onclick=e=>{const tt=pk.texto_tela||{};copiar(['0 a 3 s: '+(tt.hook||'')].concat((tt.extras||[]).map(x=>x.quando+': '+x.texto)).join('\n'),e.currentTarget)};
 $('copiaInsta').onclick=e=>copiar((pk.roteiro&&pk.roteiro.descricao_instagram)||'',e.currentTarget);
 if(PACOTE){$("entrada").classList.add("hide");$("json").value=JSON.stringify(PACOTE);montar(false);if(!pk)$("entrada").classList.remove("hide");}else{carregar();}
 })();
