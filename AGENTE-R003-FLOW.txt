@@ -1,0 +1,382 @@
+iniciar
+
+NOTAS PARA O AGENTE (complementam o seu papel, sem mudar o passo a passo):
+1. As 4 referências anexadas mostram a MESMA mulher, Dana Hollis: (a) selfie sorridente de camiseta bege; (b) folha de corpo; (c) folha facial com nove ângulos; (d) foto dela sentada à mesa redonda com cartas de tarô. Anexe as 4 na IMAGEM 1 e na IMAGEM 2.
+2. A IMAGEM 1 é uma edição da referência (d) e a IMAGEM 2 é uma edição da IMAGEM 1 aprovada: use essas imagens como base visual e mantenha o rosto. A roupa vem do prompt.
+3. O rosto é a prioridade. Não crie outra pessoa, não rejuvenesça e não suavize a pele.
+4. Idioma: as falas dos vídeos são em INGLÊS dos EUA, com a voz do bloco VOICE CHARACTERISTICS de cada prompt. Não traduza para português e não use sotaque brasileiro. Esta regra substitui o "português do Brasil" do seu papel neste pacote.
+5. Gere um item por vez e espere o meu APROVADO. Se o rosto não for o das referências, avise junto com o item.
+6. Este pacote é um personagem NOVO: ignore qualquer prompt, imagem ou fala de pacotes anteriores nesta conversa.
+7. O baralho é de tarô de verdade, com o verso escuro azul-noite e dourado, sempre com o verso para cima; não use o verso cinza da referência (d), pois o prompt manda trocar o baralho. Não há celular na cena.
+8. CARTAS: nos vídeos V2 a V7 nenhuma carta sai do maço, nenhuma é virada e a frente de nenhuma carta aparece. Só o V1 mostra uma carta de frente (a carta grande do hook, vinda da IMAGEM 1). Se aparecer carta fora do maço, carta virada ou frente de carta nos vídeos V2 a V7, avise junto com o item e não aprove.
+9. MÃOS: quando o prompt pedir três dedos estendidos, são exatamente o indicador, o dedo médio e o anelar. Se a mão tiver mais ou menos dedos, avise junto com o item.
+10. VÍDEOS: os 7 prompts de vídeo vêm do Creative Hub e já trazem a voz, o ritmo e a movimentação. A primeira linha de cada prompt de vídeo diz a cena, a duração e o primeiro quadro (IMAGEM 1 só no VIDEO 1; IMAGEM 2 nos VIDEOS 2 a 7). Use a imagem aprovada indicada como primeiro quadro, modo primeiro frame, 9:16, e não anexe as 4 referências nos vídeos. Cada vídeo é um clipe independente: não continue do último quadro do clipe anterior.
+11. Nos VIDEOS 2 a 7 o baralho fica fechado e nenhuma carta se move nem aparece. Só o VIDEO 1 mostra uma carta (a carta grande que vem da IMAGEM 1).
+
+PROMPT IMAGEM 1:
+TRAVA DE REFERÊNCIA VISUAL: usar exclusivamente as referências ANEXADAS como autoridades de identidade. Preservar rosto, corpo, cabelo, proporções e aparência do humano e pet. Não misturar identidades. Não há pet neste projeto: nenhum animal aparece nas cenas. MAPA DAS REFERÊNCIAS ANEXADAS (todas mostram a MESMA mulher, Dana Hollis): (a) selfie sorridente de camiseta bege em uma sala clara; (b) folha de corpo com três vistas em fundo branco; (c) folha facial com nove ângulos do rosto; (d) foto dela sentada a uma mesa redonda de madeira com cartas de tarô, de suéter verde-petróleo. O rosto da imagem final deve ser a mesma pessoa dessas fotos: mesmo formato de rosto, sobrancelhas, nariz, lábios e pele madura de 47 anos com linhas de expressão visíveis, sem suavizar nem rejuvenescer. Copie o rosto das referências (a) e (c); não invente um rosto novo. ÂNCORA DE IDENTIDADE: Use the supplied canonical face and body reference sheets as strict identity references. Preserve the exact same adult American woman named Dana Hollis, public identity straighttalktarot: apparent age 47, warm light-olive skin with a neutral undertone, oval face with a slightly angular jaw and a soft chin with a faint cleft, naturally defined but soft and subtly asymmetric cheekbones, deep-set amber-brown eyes with slightly downturned outer corners, dark-brown naturally arched eyebrows with the right brow slightly higher than the left, straight medium-length nose with a softly upturned tip, medium lips with a defined cupid's bow and a smile that lifts higher on the left, one small natural mole above the right corner of the upper lip, age-appropriate crow's feet, forehead lines and smile lines. Preserve her exact dark-brown hair with natural silver strands at both temples (more visible on the left), soft collarbone-length waves, left side part, moderate volume and irregular flyaway hairs. Preserve her small plain matte-silver huggie hoop earrings, apparent height, healthy mature softly curvy medium build, body proportions and realistic natural skin texture. Do not redesign, beautify, de-age, slim, enlarge, recolor or alter her face, hair or body. Dana must remain recognizably the exact same living person in every image and every video frame. Avoid CGI, 3D render, illustration, plastic or airbrushed skin, beauty-filter appearance, perfect bilateral symmetry, enlarged glossy eyes, changed eye color, erased mole, erased wrinkles, de-aged face, heavy glam makeup, dyed-over silver strands, different hair color, straight hair, tight curls, shortened or lengthened hair, changed part, excessive hair volume, perfect salon waves, underweight body, exaggerated hourglass, tiny waist, enlarged bust, enlarged hips, athletic or muscular build, sexualized pose, theatrical fortune-teller costume, turban, heavy jewelry, luxury-editorial polish and cinematic commercial lighting.
+
+FIGURINO FIXO: cartomante, místico sutil; cardigã longo de tricô fino creme, aberto, com caimento fluido e mangas longas, sem estampa, bordado ou brilho, sobre camiseta lisa de gola redonda cinza-claro; calça reta escura lisa. Roupa secundária ao contraste da carta A Lua no hook. Acessório fixo: argolões prateados lisos; sem colar, turbante, capa ou fantasia
+
+TRAVA DE ESTILO UGC: imagem vertical 9:16, fotorealista, gravada em ambiente doméstico americano com aparência espontânea de smartphone. Luz natural, texturas reais de pele, tecido e pelo, enquadramento casual e levemente imperfeito. A câmera fica fora do quadro. Sem texto, legenda, logo, marca-d'água ou aparência publicitária.
+
+CENA: EDIÇÃO da referência (d), não uma geração do zero: mantenha a mesma mulher (mesmo rosto, cabelo e argolões), a mesma mesa redonda de madeira clara, a mesma janela à esquerda e o sofá bege com manta ao fundo. Ajustes: (1) troque o suéter pelo cardigã e pela camiseta do FIGURINO FIXO; (2) remova a xícara e o baralho antigo; sobre a mesa ficam só um maço fechado de cartas de tarô altas e estreitas, de cantos levemente arredondados, com verso escuro azul-noite e um desenho simétrico e ornamentado em dourado fosco (sol, lua crescente e estrelas) e borda dourada fina, sem naipes, números ou letras, com o verso para cima, e a vela acesa em pote de vidro à esquerda; não há celular nem outro objeto; (3) a câmera fica diante da borda frontal da mesa, perpendicular a ela, com a borda na horizontal na parte de baixo do quadro e uma leve inclinação para baixo; a pessoa está sentada atrás da mesa, de frente, olhando para a lente com expressão calma e firme; (4) com uma das mãos a pessoa vira para a lente uma carta de tarô grande, alta e estreita, verde-escura quase preta, com uma lua crescente dourada grande no centro e uma lua cheia prateada pequena acima, sem rosto, letras, números ou títulos; a carta está muito perto da lente e ocupa aproximadamente metade do quadro por perspectiva forçada; (5) a outra mão repousa sobre o maço. A carta verde-escura com a lua dourada é o ponto de maior contraste contra o cardigã creme, a camiseta clara e o fundo bege; nada mais compete. Mãos e dedos anatomicamente corretos, sem duplicar a carta. Não rejuvenesça nem suavize a pele.
+
+PROMPT IMAGEM 2:
+TRAVA DE REFERÊNCIA VISUAL: usar exclusivamente as referências ANEXADAS como autoridades de identidade. Preservar rosto, corpo, cabelo, proporções e aparência do humano e pet. Não misturar identidades. Não há pet neste projeto: nenhum animal aparece nas cenas. MAPA DAS REFERÊNCIAS ANEXADAS (todas mostram a MESMA mulher, Dana Hollis): (a) selfie sorridente de camiseta bege em uma sala clara; (b) folha de corpo com três vistas em fundo branco; (c) folha facial com nove ângulos do rosto; (d) foto dela sentada a uma mesa redonda de madeira com cartas de tarô, de suéter verde-petróleo. O rosto da imagem final deve ser a mesma pessoa dessas fotos: mesmo formato de rosto, sobrancelhas, nariz, lábios e pele madura de 47 anos com linhas de expressão visíveis, sem suavizar nem rejuvenescer. Copie o rosto das referências (a) e (c); não invente um rosto novo. ÂNCORA DE IDENTIDADE: Use the supplied canonical face and body reference sheets as strict identity references. Preserve the exact same adult American woman named Dana Hollis, public identity straighttalktarot: apparent age 47, warm light-olive skin with a neutral undertone, oval face with a slightly angular jaw and a soft chin with a faint cleft, naturally defined but soft and subtly asymmetric cheekbones, deep-set amber-brown eyes with slightly downturned outer corners, dark-brown naturally arched eyebrows with the right brow slightly higher than the left, straight medium-length nose with a softly upturned tip, medium lips with a defined cupid's bow and a smile that lifts higher on the left, one small natural mole above the right corner of the upper lip, age-appropriate crow's feet, forehead lines and smile lines. Preserve her exact dark-brown hair with natural silver strands at both temples (more visible on the left), soft collarbone-length waves, left side part, moderate volume and irregular flyaway hairs. Preserve her small plain matte-silver huggie hoop earrings, apparent height, healthy mature softly curvy medium build, body proportions and realistic natural skin texture. Do not redesign, beautify, de-age, slim, enlarge, recolor or alter her face, hair or body. Dana must remain recognizably the exact same living person in every image and every video frame. Avoid CGI, 3D render, illustration, plastic or airbrushed skin, beauty-filter appearance, perfect bilateral symmetry, enlarged glossy eyes, changed eye color, erased mole, erased wrinkles, de-aged face, heavy glam makeup, dyed-over silver strands, different hair color, straight hair, tight curls, shortened or lengthened hair, changed part, excessive hair volume, perfect salon waves, underweight body, exaggerated hourglass, tiny waist, enlarged bust, enlarged hips, athletic or muscular build, sexualized pose, theatrical fortune-teller costume, turban, heavy jewelry, luxury-editorial polish and cinematic commercial lighting.
+
+FIGURINO FIXO: cartomante, místico sutil; cardigã longo de tricô fino creme, aberto, com caimento fluido e mangas longas, sem estampa, bordado ou brilho, sobre camiseta lisa de gola redonda cinza-claro; calça reta escura lisa. Roupa secundária ao contraste da carta A Lua no hook. Acessório fixo: argolões prateados lisos; sem colar, turbante, capa ou fantasia
+
+TRAVA DE ESTILO UGC: imagem vertical 9:16, fotorealista, gravada em ambiente doméstico americano com aparência espontânea de smartphone. Luz natural, texturas reais de pele, tecido e pelo, enquadramento casual e levemente imperfeito. A câmera fica fora do quadro. Sem texto, legenda, logo, marca-d'água ou aparência publicitária.
+
+CENA: EDIÇÃO da IMAGEM 1 aprovada (use a IMAGEM 1 como imagem-base): mantenha exatamente a mesma mulher, rosto, cabelo, argolões, cardigã creme, camiseta clara, mesa redonda, vela, janela, sofá e luz. Ajustes: plano médio frontal um pouco mais aberto, com a borda frontal da mesa horizontal na parte de baixo do quadro; a pessoa está sentada atrás da mesa, de frente para a lente, com os cotovelos dobrados e as duas mãos ao alcance natural do maço fechado de cartas de tarô altas e estreitas, de cantos levemente arredondados, com verso escuro azul-noite e um desenho simétrico e ornamentado em dourado fosco (sol, lua crescente e estrelas) e borda dourada fina, sem naipes, números ou letras que está na mesa à frente dela, com todas as cartas empilhadas e o verso escuro azul-noite com desenho dourado voltado para CIMA (a frente das cartas não aparece); a vela acesa continua à esquerda. Remova a carta grande. Não há carta fora do maço, celular, caderno, xícara, livro ou outro objeto na mesa. Não rejuvenesça nem suavize a pele.
+
+PROMPT DE VIDEO 1:
+1/6 PROMPT DE VÍDEO — CENA 1 — 10s — IMAGEM 1
+
+Create a single continuous 10-second video clip using the supplied reference image as the exact visual reference. Same person, same face, the EXACT SAME VOICE, hair, makeup, clothing, accessories, environment, background, lighting, color grading, camera angle, camera distance, framing and lens as the reference image. This is a single, self-contained clip.
+
+SPOKEN DIALOGUE (in English, spoken aloud on camera EXACTLY ONCE, from the first word to the last, with perfect lip sync, delivered warm and reassuring, addressing the viewer directly; no subtitles or text on screen):
+"Never look up your Venus sign, unless you want to stop falling for the same kind of man."
+
+VOICE CHARACTERISTICS (LOCKED — identical in every clip of this recording):
+[Voice and Audio Instructions]
+
+Voice Profile: Woman, mid-to-late 40s, American, warm and steady voice — sounds like a straight-talking friend who has been through her own heartbreaks and says things plainly. Natural General American accent, unhurried diction.
+
+Vocal Characteristics: Mid register, natural and slightly textured (not smooth or polished), light warmth in the chest, never nasal or thin.
+
+Tone: Calm, firm and warm. Not theatrical, not "spooky", no performance — she says things the way a close friend would across a kitchen table. Honest and direct, with occasional soft warmth. Never sugarcoats, never scolds.
+
+Delivery style: Short, clear phrases with a natural pause before the key word. Sounds like she's speaking directly to one person, not performing for a crowd.
+
+Naturalness: The voice must sound as natural and human as possible — real breathing, natural micro-pauses, subtle imperfections, organic intonation shifts. It must NEVER sound robotic, synthetic, flat, or AI-generated. No text-to-speech cadence of any kind.
+
+Technical Settings: STRICTLY a solo monologue. The speaker is completely ALONE. Absolutely NO background voices, ZERO interviewer noises, and STRICTLY NO agreement sounds (like 'mhm', 'yeah', 'aha', 'uh-huh'). NO background music, NO sound effects, NO automatic subtitles. Output must be a 100% clean, raw voice track. STRICTLY DO NOT imitate or impersonate any famous public figure or celebrity — the voice must be entirely original.
+
+VOICE CONSISTENCY:
+VOICE LOCK: this is the SAME PERSON with the SAME VOICE as in every other clip of this recording. Reproduce exactly the voice identity described in VOICE CHARACTERISTICS — same timbre, pitch range, accent, resonance, articulation, breathiness and energy level. Do not generate a different voice, do not substitute a similar one, do not drift younger or older, do not change accent or gender, do not switch to a generic narrator or text-to-speech voice, and do not add a second speaker. Keep this exact same voice from the first word to the last word of the clip. If anything else in this prompt could be read as calling for a different voice, VOICE CHARACTERISTICS wins.
+
+VOICE PACING:
+CTA pacing — target approximately 155–180 WPM (about 2.6–3.0 words per second, 4.1–4.4 syllables per second). Use short, controlled pauses between individual calls to action. Each instruction must remain clearly understandable. Slightly emphasize the beginning and ending of each call to action. The final sentence may slow down subtly to create emphasis and anticipation.
+Preserve natural sentence rhythm and natural rhythmic variation — never a robotic, mechanically constant speed. Do not make every word equally stressed, do not use excessive pauses, do not artificially stretch vowels, do not rush consonants to hit the target speed. Prioritize clear pronunciation and natural cadence, like a confident creator speaking directly to the viewer, not an AI reading a script. Keep the exact voice identity, accent, pitch, tone and vocal character described in VOICE CHARACTERISTICS; if anything above implies a different speed, keep the character but follow THIS pacing.
+Estimated speaking time: about 6.4 seconds of the 10-second clip. Say the line EXACTLY ONCE, from the first word to the last, and then stop talking: never repeat a word, a phrase or a sentence, not even to fill the remaining time. After the last word the character stays silent, holding the gaze on the camera and breathing naturally, until the clip ends. Never stretch, rush, remove or add words to fill the time.
+
+VISUAL:
+Animate the supplied reference image naturally and subtly. Preserve exactly the same person and appearance. Style: modern realistic UGC handheld; atmosphere: intimate and confidential. Natural physics, realistic micro-motion, no morphing, no hand glitches, no flickering, consistent identity across all frames.
+The character delivers the line directly to the viewer with natural blinking, breathing and facial expressions. Body language for this clip: She holds the large dark-green tarot card with the golden crescent moon very close to the camera, tilted slightly toward the lens and never turned around, with her other hand resting on the closed deck, while looking at the camera with a calm, steady expression.
+Creative direction (written by the creator — follow it faithfully): Casual smartphone video in a home setting with natural window light. Nothing new appears in the frame: every object stays exactly where it is in the reference image. No on-screen text.
+
+CAMERA:
+One continuous shot with a subtle, natural handheld feel (tiny organic drift only). No zoom-in, no zoom-out, no push-in, no change in framing or camera distance, no pan, no tilt, no cuts.
+
+AUDIO:
+The spoken dialogue is the ONLY voice — the same voice as in every other clip of this recording — spoken one single time; no repeated lines, no echo, no second voice, no change of voice mid-clip. ASMR-style natural ambience only — every real environmental sound captured with intimate, close-mic clarity (soft breathing, fabric rustle, subtle room tone). STRICTLY NO music, NO soundtrack, NO added sound effects, NO sound design of any kind. No additional voices, no added dialogue, no voice effects, no pitch shifting.
+
+EDITING:
+One uninterrupted continuous shot. No cuts, jump cuts, transitions, fades, crossfades, flash effects, speed ramps, slow motion, time-lapse or visual effects.
+
+CONTINUITY:
+Single clip: keep the pose, expression, hand position and framing natural and consistent until the very end.
+
+Do not add, remove, repeat, rewrite, paraphrase, or alter any spoken words.
+
+PROMPT DE VIDEO 2:
+2/6 PROMPT DE VÍDEO — CENA 2 — 10s — IMAGEM 2
+
+Create a single continuous 10-second video clip using the supplied reference image as the exact visual reference. Same person, same face, the EXACT SAME VOICE, hair, makeup, clothing, accessories, environment, background, lighting, color grading, camera angle, camera distance, framing and lens as the reference image. This is a single, self-contained clip.
+
+SPOKEN DIALOGUE (in English, spoken aloud on camera EXACTLY ONCE, from the first word to the last, with perfect lip sync, delivered warm and reassuring, addressing the viewer directly; no subtitles or text on screen):
+"He texts all day. Never makes real plans. Then goes quiet. You call it bad luck. It may be a pattern."
+
+VOICE CHARACTERISTICS (LOCKED — identical in every clip of this recording):
+[Voice and Audio Instructions]
+
+Voice Profile: Woman, mid-to-late 40s, American, warm and steady voice — sounds like a straight-talking friend who has been through her own heartbreaks and says things plainly. Natural General American accent, unhurried diction.
+
+Vocal Characteristics: Mid register, natural and slightly textured (not smooth or polished), light warmth in the chest, never nasal or thin.
+
+Tone: Calm, firm and warm. Not theatrical, not "spooky", no performance — she says things the way a close friend would across a kitchen table. Honest and direct, with occasional soft warmth. Never sugarcoats, never scolds.
+
+Delivery style: Short, clear phrases with a natural pause before the key word. Sounds like she's speaking directly to one person, not performing for a crowd.
+
+Naturalness: The voice must sound as natural and human as possible — real breathing, natural micro-pauses, subtle imperfections, organic intonation shifts. It must NEVER sound robotic, synthetic, flat, or AI-generated. No text-to-speech cadence of any kind.
+
+Technical Settings: STRICTLY a solo monologue. The speaker is completely ALONE. Absolutely NO background voices, ZERO interviewer noises, and STRICTLY NO agreement sounds (like 'mhm', 'yeah', 'aha', 'uh-huh'). NO background music, NO sound effects, NO automatic subtitles. Output must be a 100% clean, raw voice track. STRICTLY DO NOT imitate or impersonate any famous public figure or celebrity — the voice must be entirely original.
+
+VOICE CONSISTENCY:
+VOICE LOCK: this is the SAME PERSON with the SAME VOICE as in every other clip of this recording. Reproduce exactly the voice identity described in VOICE CHARACTERISTICS — same timbre, pitch range, accent, resonance, articulation, breathiness and energy level. Do not generate a different voice, do not substitute a similar one, do not drift younger or older, do not change accent or gender, do not switch to a generic narrator or text-to-speech voice, and do not add a second speaker. Keep this exact same voice from the first word to the last word of the clip. If anything else in this prompt could be read as calling for a different voice, VOICE CHARACTERISTICS wins.
+
+VOICE PACING:
+CTA pacing — target approximately 155–180 WPM (about 2.6–3.0 words per second, 4.1–4.4 syllables per second). Use short, controlled pauses between individual calls to action. Each instruction must remain clearly understandable. Slightly emphasize the beginning and ending of each call to action. The final sentence may slow down subtly to create emphasis and anticipation.
+Preserve natural sentence rhythm and natural rhythmic variation — never a robotic, mechanically constant speed. Do not make every word equally stressed, do not use excessive pauses, do not artificially stretch vowels, do not rush consonants to hit the target speed. Prioritize clear pronunciation and natural cadence, like a confident creator speaking directly to the viewer, not an AI reading a script. Keep the exact voice identity, accent, pitch, tone and vocal character described in VOICE CHARACTERISTICS; if anything above implies a different speed, keep the character but follow THIS pacing.
+Estimated speaking time: about 7.5 seconds of the 10-second clip. Say the line EXACTLY ONCE, from the first word to the last, and then stop talking: never repeat a word, a phrase or a sentence, not even to fill the remaining time. After the last word the character stays silent, holding the gaze on the camera and breathing naturally, until the clip ends. Never stretch, rush, remove or add words to fill the time.
+
+VISUAL:
+Animate the supplied reference image naturally and subtly. Preserve exactly the same person and appearance. Style: modern realistic UGC handheld; atmosphere: intimate and confidential. Natural physics, realistic micro-motion, no morphing, no hand glitches, no flickering, consistent identity across all frames.
+The character delivers the line directly to the viewer with natural blinking, breathing and facial expressions. Body language for this clip: She looks at the camera with a tired, knowing expression and shakes her head slightly once, with her hands resting still beside the closed tarot deck, which stays closed and untouched.
+Creative direction (written by the creator — follow it faithfully): Casual smartphone video in a home setting with natural window light. Nothing new appears in the frame: every object stays exactly where it is in the reference image. No on-screen text.
+
+CAMERA:
+One continuous shot with a subtle, natural handheld feel (tiny organic drift only). No zoom-in, no zoom-out, no push-in, no change in framing or camera distance, no pan, no tilt, no cuts.
+
+AUDIO:
+The spoken dialogue is the ONLY voice — the same voice as in every other clip of this recording — spoken one single time; no repeated lines, no echo, no second voice, no change of voice mid-clip. ASMR-style natural ambience only — every real environmental sound captured with intimate, close-mic clarity (soft breathing, fabric rustle, subtle room tone). STRICTLY NO music, NO soundtrack, NO added sound effects, NO sound design of any kind. No additional voices, no added dialogue, no voice effects, no pitch shifting.
+
+EDITING:
+One uninterrupted continuous shot. No cuts, jump cuts, transitions, fades, crossfades, flash effects, speed ramps, slow motion, time-lapse or visual effects.
+
+CONTINUITY:
+Single clip: keep the pose, expression, hand position and framing natural and consistent until the very end.
+
+Do not add, remove, repeat, rewrite, paraphrase, or alter any spoken words.
+
+PROMPT DE VIDEO 3:
+3/6 PROMPT DE VÍDEO — CENA 3 — 8s — IMAGEM 2
+
+Create a single continuous 8-second video clip using the supplied reference image as the exact visual reference. Same person, same face, the EXACT SAME VOICE, hair, makeup, clothing, accessories, environment, background, lighting, color grading, camera angle, camera distance, framing and lens as the reference image. This is a single, self-contained clip.
+
+SPOKEN DIALOGUE (in English, spoken aloud on camera EXACTLY ONCE, from the first word to the last, with perfect lip sync, delivered warm and reassuring, addressing the viewer directly; no subtitles or text on screen):
+"In astrology, your sun sign shows who you are. Your Venus shows how you love."
+
+VOICE CHARACTERISTICS (LOCKED — identical in every clip of this recording):
+[Voice and Audio Instructions]
+
+Voice Profile: Woman, mid-to-late 40s, American, warm and steady voice — sounds like a straight-talking friend who has been through her own heartbreaks and says things plainly. Natural General American accent, unhurried diction.
+
+Vocal Characteristics: Mid register, natural and slightly textured (not smooth or polished), light warmth in the chest, never nasal or thin.
+
+Tone: Calm, firm and warm. Not theatrical, not "spooky", no performance — she says things the way a close friend would across a kitchen table. Honest and direct, with occasional soft warmth. Never sugarcoats, never scolds.
+
+Delivery style: Short, clear phrases with a natural pause before the key word. Sounds like she's speaking directly to one person, not performing for a crowd.
+
+Naturalness: The voice must sound as natural and human as possible — real breathing, natural micro-pauses, subtle imperfections, organic intonation shifts. It must NEVER sound robotic, synthetic, flat, or AI-generated. No text-to-speech cadence of any kind.
+
+Technical Settings: STRICTLY a solo monologue. The speaker is completely ALONE. Absolutely NO background voices, ZERO interviewer noises, and STRICTLY NO agreement sounds (like 'mhm', 'yeah', 'aha', 'uh-huh'). NO background music, NO sound effects, NO automatic subtitles. Output must be a 100% clean, raw voice track. STRICTLY DO NOT imitate or impersonate any famous public figure or celebrity — the voice must be entirely original.
+
+VOICE CONSISTENCY:
+VOICE LOCK: this is the SAME PERSON with the SAME VOICE as in every other clip of this recording. Reproduce exactly the voice identity described in VOICE CHARACTERISTICS — same timbre, pitch range, accent, resonance, articulation, breathiness and energy level. Do not generate a different voice, do not substitute a similar one, do not drift younger or older, do not change accent or gender, do not switch to a generic narrator or text-to-speech voice, and do not add a second speaker. Keep this exact same voice from the first word to the last word of the clip. If anything else in this prompt could be read as calling for a different voice, VOICE CHARACTERISTICS wins.
+
+VOICE PACING:
+CTA pacing — target approximately 155–180 WPM (about 2.6–3.0 words per second, 4.1–4.4 syllables per second). Use short, controlled pauses between individual calls to action. Each instruction must remain clearly understandable. Slightly emphasize the beginning and ending of each call to action. The final sentence may slow down subtly to create emphasis and anticipation.
+Preserve natural sentence rhythm and natural rhythmic variation — never a robotic, mechanically constant speed. Do not make every word equally stressed, do not use excessive pauses, do not artificially stretch vowels, do not rush consonants to hit the target speed. Prioritize clear pronunciation and natural cadence, like a confident creator speaking directly to the viewer, not an AI reading a script. Keep the exact voice identity, accent, pitch, tone and vocal character described in VOICE CHARACTERISTICS; if anything above implies a different speed, keep the character but follow THIS pacing.
+Estimated speaking time: about 5.4 seconds of the 8-second clip. Say the line EXACTLY ONCE, from the first word to the last, and then stop talking: never repeat a word, a phrase or a sentence, not even to fill the remaining time. After the last word the character stays silent, holding the gaze on the camera and breathing naturally, until the clip ends. Never stretch, rush, remove or add words to fill the time.
+
+VISUAL:
+Animate the supplied reference image naturally and subtly. Preserve exactly the same person and appearance. Style: modern realistic UGC handheld; atmosphere: intimate and confidential. Natural physics, realistic micro-motion, no morphing, no hand glitches, no flickering, consistent identity across all frames.
+The character delivers the line directly to the viewer with natural blinking, breathing and facial expressions. Body language for this clip: She brings one open hand to her chest for a moment while looking at the camera, then lowers it back to the table beside the closed tarot deck, which stays closed and untouched.
+Creative direction (written by the creator — follow it faithfully): Casual smartphone video in a home setting with natural window light. Nothing new appears in the frame: every object stays exactly where it is in the reference image. No on-screen text.
+
+CAMERA:
+One continuous shot with a subtle, natural handheld feel (tiny organic drift only). No zoom-in, no zoom-out, no push-in, no change in framing or camera distance, no pan, no tilt, no cuts.
+
+AUDIO:
+The spoken dialogue is the ONLY voice — the same voice as in every other clip of this recording — spoken one single time; no repeated lines, no echo, no second voice, no change of voice mid-clip. ASMR-style natural ambience only — every real environmental sound captured with intimate, close-mic clarity (soft breathing, fabric rustle, subtle room tone). STRICTLY NO music, NO soundtrack, NO added sound effects, NO sound design of any kind. No additional voices, no added dialogue, no voice effects, no pitch shifting.
+
+EDITING:
+One uninterrupted continuous shot. No cuts, jump cuts, transitions, fades, crossfades, flash effects, speed ramps, slow motion, time-lapse or visual effects.
+
+CONTINUITY:
+Single clip: keep the pose, expression, hand position and framing natural and consistent until the very end.
+
+Do not add, remove, repeat, rewrite, paraphrase, or alter any spoken words.
+
+PROMPT DE VIDEO 4:
+4/6 PROMPT DE VÍDEO — CENA 4 — 10s — IMAGEM 2
+
+Create a single continuous 10-second video clip using the supplied reference image as the exact visual reference. Same person, same face, the EXACT SAME VOICE, hair, makeup, clothing, accessories, environment, background, lighting, color grading, camera angle, camera distance, framing and lens as the reference image. This is a single, self-contained clip.
+
+SPOKEN DIALOGUE (in English, spoken aloud on camera EXACTLY ONCE, from the first word to the last, with perfect lip sync, delivered warm and reassuring, addressing the viewer directly; no subtitles or text on screen):
+"Think of the last three men who kept you guessing. Notice what they shared. That may be where your pattern shows."
+
+VOICE CHARACTERISTICS (LOCKED — identical in every clip of this recording):
+[Voice and Audio Instructions]
+
+Voice Profile: Woman, mid-to-late 40s, American, warm and steady voice — sounds like a straight-talking friend who has been through her own heartbreaks and says things plainly. Natural General American accent, unhurried diction.
+
+Vocal Characteristics: Mid register, natural and slightly textured (not smooth or polished), light warmth in the chest, never nasal or thin.
+
+Tone: Calm, firm and warm. Not theatrical, not "spooky", no performance — she says things the way a close friend would across a kitchen table. Honest and direct, with occasional soft warmth. Never sugarcoats, never scolds.
+
+Delivery style: Short, clear phrases with a natural pause before the key word. Sounds like she's speaking directly to one person, not performing for a crowd.
+
+Naturalness: The voice must sound as natural and human as possible — real breathing, natural micro-pauses, subtle imperfections, organic intonation shifts. It must NEVER sound robotic, synthetic, flat, or AI-generated. No text-to-speech cadence of any kind.
+
+Technical Settings: STRICTLY a solo monologue. The speaker is completely ALONE. Absolutely NO background voices, ZERO interviewer noises, and STRICTLY NO agreement sounds (like 'mhm', 'yeah', 'aha', 'uh-huh'). NO background music, NO sound effects, NO automatic subtitles. Output must be a 100% clean, raw voice track. STRICTLY DO NOT imitate or impersonate any famous public figure or celebrity — the voice must be entirely original.
+
+VOICE CONSISTENCY:
+VOICE LOCK: this is the SAME PERSON with the SAME VOICE as in every other clip of this recording. Reproduce exactly the voice identity described in VOICE CHARACTERISTICS — same timbre, pitch range, accent, resonance, articulation, breathiness and energy level. Do not generate a different voice, do not substitute a similar one, do not drift younger or older, do not change accent or gender, do not switch to a generic narrator or text-to-speech voice, and do not add a second speaker. Keep this exact same voice from the first word to the last word of the clip. If anything else in this prompt could be read as calling for a different voice, VOICE CHARACTERISTICS wins.
+
+VOICE PACING:
+CTA pacing — target approximately 155–180 WPM (about 2.6–3.0 words per second, 4.1–4.4 syllables per second). Use short, controlled pauses between individual calls to action. Each instruction must remain clearly understandable. Slightly emphasize the beginning and ending of each call to action. The final sentence may slow down subtly to create emphasis and anticipation.
+Preserve natural sentence rhythm and natural rhythmic variation — never a robotic, mechanically constant speed. Do not make every word equally stressed, do not use excessive pauses, do not artificially stretch vowels, do not rush consonants to hit the target speed. Prioritize clear pronunciation and natural cadence, like a confident creator speaking directly to the viewer, not an AI reading a script. Keep the exact voice identity, accent, pitch, tone and vocal character described in VOICE CHARACTERISTICS; if anything above implies a different speed, keep the character but follow THIS pacing.
+Estimated speaking time: about 7.5 seconds of the 10-second clip. Say the line EXACTLY ONCE, from the first word to the last, and then stop talking: never repeat a word, a phrase or a sentence, not even to fill the remaining time. After the last word the character stays silent, holding the gaze on the camera and breathing naturally, until the clip ends. Never stretch, rush, remove or add words to fill the time.
+
+VISUAL:
+Animate the supplied reference image naturally and subtly. Preserve exactly the same person and appearance. Style: modern realistic UGC handheld; atmosphere: intimate and confidential. Natural physics, realistic micro-motion, no morphing, no hand glitches, no flickering, consistent identity across all frames.
+The character delivers the line directly to the viewer with natural blinking, breathing and facial expressions. Body language for this clip: She raises one hand in front of her chest with exactly three fingers up (index, middle and ring finger) while looking at the camera and tilting her head slightly, with the closed tarot deck staying closed and untouched on the table.
+Creative direction (written by the creator — follow it faithfully): Casual smartphone video in a home setting with natural window light. Nothing new appears in the frame: every object stays exactly where it is in the reference image. No on-screen text.
+
+CAMERA:
+One continuous shot with a subtle, natural handheld feel (tiny organic drift only). No zoom-in, no zoom-out, no push-in, no change in framing or camera distance, no pan, no tilt, no cuts.
+
+AUDIO:
+The spoken dialogue is the ONLY voice — the same voice as in every other clip of this recording — spoken one single time; no repeated lines, no echo, no second voice, no change of voice mid-clip. ASMR-style natural ambience only — every real environmental sound captured with intimate, close-mic clarity (soft breathing, fabric rustle, subtle room tone). STRICTLY NO music, NO soundtrack, NO added sound effects, NO sound design of any kind. No additional voices, no added dialogue, no voice effects, no pitch shifting.
+
+EDITING:
+One uninterrupted continuous shot. No cuts, jump cuts, transitions, fades, crossfades, flash effects, speed ramps, slow motion, time-lapse or visual effects.
+
+CONTINUITY:
+Single clip: keep the pose, expression, hand position and framing natural and consistent until the very end.
+
+Do not add, remove, repeat, rewrite, paraphrase, or alter any spoken words.
+
+PROMPT DE VIDEO 5:
+5/6 PROMPT DE VÍDEO — CENA 5 — 10s — IMAGEM 2
+
+Create a single continuous 10-second video clip using the supplied reference image as the exact visual reference. Same person, same face, the EXACT SAME VOICE, hair, makeup, clothing, accessories, environment, background, lighting, color grading, camera angle, camera distance, framing and lens as the reference image. This is a single, self-contained clip.
+
+SPOKEN DIALOGUE (in English, spoken aloud on camera EXACTLY ONCE, from the first word to the last, with perfect lip sync, delivered warm and reassuring, addressing the viewer directly; no subtitles or text on screen):
+"Most people stop at their sun sign. That's the mistake. Your Venus tells the rest. Would you look?"
+
+VOICE CHARACTERISTICS (LOCKED — identical in every clip of this recording):
+[Voice and Audio Instructions]
+
+Voice Profile: Woman, mid-to-late 40s, American, warm and steady voice — sounds like a straight-talking friend who has been through her own heartbreaks and says things plainly. Natural General American accent, unhurried diction.
+
+Vocal Characteristics: Mid register, natural and slightly textured (not smooth or polished), light warmth in the chest, never nasal or thin.
+
+Tone: Calm, firm and warm. Not theatrical, not "spooky", no performance — she says things the way a close friend would across a kitchen table. Honest and direct, with occasional soft warmth. Never sugarcoats, never scolds.
+
+Delivery style: Short, clear phrases with a natural pause before the key word. Sounds like she's speaking directly to one person, not performing for a crowd.
+
+Naturalness: The voice must sound as natural and human as possible — real breathing, natural micro-pauses, subtle imperfections, organic intonation shifts. It must NEVER sound robotic, synthetic, flat, or AI-generated. No text-to-speech cadence of any kind.
+
+Technical Settings: STRICTLY a solo monologue. The speaker is completely ALONE. Absolutely NO background voices, ZERO interviewer noises, and STRICTLY NO agreement sounds (like 'mhm', 'yeah', 'aha', 'uh-huh'). NO background music, NO sound effects, NO automatic subtitles. Output must be a 100% clean, raw voice track. STRICTLY DO NOT imitate or impersonate any famous public figure or celebrity — the voice must be entirely original.
+
+VOICE CONSISTENCY:
+VOICE LOCK: this is the SAME PERSON with the SAME VOICE as in every other clip of this recording. Reproduce exactly the voice identity described in VOICE CHARACTERISTICS — same timbre, pitch range, accent, resonance, articulation, breathiness and energy level. Do not generate a different voice, do not substitute a similar one, do not drift younger or older, do not change accent or gender, do not switch to a generic narrator or text-to-speech voice, and do not add a second speaker. Keep this exact same voice from the first word to the last word of the clip. If anything else in this prompt could be read as calling for a different voice, VOICE CHARACTERISTICS wins.
+
+VOICE PACING:
+CTA pacing — target approximately 155–180 WPM (about 2.6–3.0 words per second, 4.1–4.4 syllables per second). Use short, controlled pauses between individual calls to action. Each instruction must remain clearly understandable. Slightly emphasize the beginning and ending of each call to action. The final sentence may slow down subtly to create emphasis and anticipation.
+Preserve natural sentence rhythm and natural rhythmic variation — never a robotic, mechanically constant speed. Do not make every word equally stressed, do not use excessive pauses, do not artificially stretch vowels, do not rush consonants to hit the target speed. Prioritize clear pronunciation and natural cadence, like a confident creator speaking directly to the viewer, not an AI reading a script. Keep the exact voice identity, accent, pitch, tone and vocal character described in VOICE CHARACTERISTICS; if anything above implies a different speed, keep the character but follow THIS pacing.
+Estimated speaking time: about 6.4 seconds of the 10-second clip. Say the line EXACTLY ONCE, from the first word to the last, and then stop talking: never repeat a word, a phrase or a sentence, not even to fill the remaining time. After the last word the character stays silent, holding the gaze on the camera and breathing naturally, until the clip ends. Never stretch, rush, remove or add words to fill the time.
+
+VISUAL:
+Animate the supplied reference image naturally and subtly. Preserve exactly the same person and appearance. Style: modern realistic UGC handheld; atmosphere: intimate and confidential. Natural physics, realistic micro-motion, no morphing, no hand glitches, no flickering, consistent identity across all frames.
+The character delivers the line directly to the viewer with natural blinking, breathing and facial expressions. Body language for this clip: She rests both open hands on the closed tarot deck without moving any card, tilts her head slightly and gives a small smile to the camera.
+Creative direction (written by the creator — follow it faithfully): Casual smartphone video in a home setting with natural window light. Nothing new appears in the frame: every object stays exactly where it is in the reference image. No on-screen text.
+
+CAMERA:
+One continuous shot with a subtle, natural handheld feel (tiny organic drift only). No zoom-in, no zoom-out, no push-in, no change in framing or camera distance, no pan, no tilt, no cuts.
+
+AUDIO:
+The spoken dialogue is the ONLY voice — the same voice as in every other clip of this recording — spoken one single time; no repeated lines, no echo, no second voice, no change of voice mid-clip. ASMR-style natural ambience only — every real environmental sound captured with intimate, close-mic clarity (soft breathing, fabric rustle, subtle room tone). STRICTLY NO music, NO soundtrack, NO added sound effects, NO sound design of any kind. No additional voices, no added dialogue, no voice effects, no pitch shifting.
+
+EDITING:
+One uninterrupted continuous shot. No cuts, jump cuts, transitions, fades, crossfades, flash effects, speed ramps, slow motion, time-lapse or visual effects.
+
+CONTINUITY:
+Single clip: keep the pose, expression, hand position and framing natural and consistent until the very end.
+
+Do not add, remove, repeat, rewrite, paraphrase, or alter any spoken words.
+
+PROMPT DE VIDEO 6:
+6A/6 PROMPT DE VÍDEO — CENA 6A — 10s — IMAGEM 2
+
+Create a single continuous 10-second video clip using the supplied reference image as the exact visual reference. Same person, same face, the EXACT SAME VOICE, hair, makeup, clothing, accessories, environment, background, lighting, color grading, camera angle, camera distance, framing and lens as the reference image. This is a single, self-contained clip.
+
+SPOKEN DIALOGUE (in English, spoken aloud on camera EXACTLY ONCE, from the first word to the last, with perfect lip sync, delivered warm and reassuring, addressing the viewer directly; no subtitles or text on screen):
+"Want to see yours? In my story, find your Venus, name your love pattern, and see the sign of your possible match."
+
+VOICE CHARACTERISTICS (LOCKED — identical in every clip of this recording):
+[Voice and Audio Instructions]
+
+Voice Profile: Woman, mid-to-late 40s, American, warm and steady voice — sounds like a straight-talking friend who has been through her own heartbreaks and says things plainly. Natural General American accent, unhurried diction.
+
+Vocal Characteristics: Mid register, natural and slightly textured (not smooth or polished), light warmth in the chest, never nasal or thin.
+
+Tone: Calm, firm and warm. Not theatrical, not "spooky", no performance — she says things the way a close friend would across a kitchen table. Honest and direct, with occasional soft warmth. Never sugarcoats, never scolds.
+
+Delivery style: Short, clear phrases with a natural pause before the key word. Sounds like she's speaking directly to one person, not performing for a crowd.
+
+Naturalness: The voice must sound as natural and human as possible — real breathing, natural micro-pauses, subtle imperfections, organic intonation shifts. It must NEVER sound robotic, synthetic, flat, or AI-generated. No text-to-speech cadence of any kind.
+
+Technical Settings: STRICTLY a solo monologue. The speaker is completely ALONE. Absolutely NO background voices, ZERO interviewer noises, and STRICTLY NO agreement sounds (like 'mhm', 'yeah', 'aha', 'uh-huh'). NO background music, NO sound effects, NO automatic subtitles. Output must be a 100% clean, raw voice track. STRICTLY DO NOT imitate or impersonate any famous public figure or celebrity — the voice must be entirely original.
+
+VOICE CONSISTENCY:
+VOICE LOCK: this is the SAME PERSON with the SAME VOICE as in every other clip of this recording. Reproduce exactly the voice identity described in VOICE CHARACTERISTICS — same timbre, pitch range, accent, resonance, articulation, breathiness and energy level. Do not generate a different voice, do not substitute a similar one, do not drift younger or older, do not change accent or gender, do not switch to a generic narrator or text-to-speech voice, and do not add a second speaker. Keep this exact same voice from the first word to the last word of the clip. If anything else in this prompt could be read as calling for a different voice, VOICE CHARACTERISTICS wins.
+
+VOICE PACING:
+CTA pacing — target approximately 155–180 WPM (about 2.6–3.0 words per second, 4.1–4.4 syllables per second). Use short, controlled pauses between individual calls to action. Each instruction must remain clearly understandable. Slightly emphasize the beginning and ending of each call to action. The final sentence may slow down subtly to create emphasis and anticipation.
+Preserve natural sentence rhythm and natural rhythmic variation — never a robotic, mechanically constant speed. Do not make every word equally stressed, do not use excessive pauses, do not artificially stretch vowels, do not rush consonants to hit the target speed. Prioritize clear pronunciation and natural cadence, like a confident creator speaking directly to the viewer, not an AI reading a script. Keep the exact voice identity, accent, pitch, tone and vocal character described in VOICE CHARACTERISTICS; if anything above implies a different speed, keep the character but follow THIS pacing.
+Estimated speaking time: about 7.9 seconds of the 10-second clip. Say the line EXACTLY ONCE, from the first word to the last, and then stop talking: never repeat a word, a phrase or a sentence, not even to fill the remaining time. After the last word the character stays silent, holding the gaze on the camera and breathing naturally, until the clip ends. Never stretch, rush, remove or add words to fill the time.
+
+VISUAL:
+Animate the supplied reference image naturally and subtly. Preserve exactly the same person and appearance. Style: modern realistic UGC handheld; atmosphere: intimate and confidential. Natural physics, realistic micro-motion, no morphing, no hand glitches, no flickering, consistent identity across all frames.
+The character delivers the line directly to the viewer with natural blinking, breathing and facial expressions. Body language for this clip: She joins her hands on the table behind the closed tarot deck and looks at the camera with a half smile, while the deck stays closed and untouched.
+Creative direction (written by the creator — follow it faithfully): Casual smartphone video in a home setting with natural window light. Nothing new appears in the frame: every object stays exactly where it is in the reference image. No on-screen text.
+
+CAMERA:
+One continuous shot with a subtle, natural handheld feel (tiny organic drift only). No zoom-in, no zoom-out, no push-in, no change in framing or camera distance, no pan, no tilt, no cuts.
+
+AUDIO:
+The spoken dialogue is the ONLY voice — the same voice as in every other clip of this recording — spoken one single time; no repeated lines, no echo, no second voice, no change of voice mid-clip. ASMR-style natural ambience only — every real environmental sound captured with intimate, close-mic clarity (soft breathing, fabric rustle, subtle room tone). STRICTLY NO music, NO soundtrack, NO added sound effects, NO sound design of any kind. No additional voices, no added dialogue, no voice effects, no pitch shifting.
+
+EDITING:
+One uninterrupted continuous shot. No cuts, jump cuts, transitions, fades, crossfades, flash effects, speed ramps, slow motion, time-lapse or visual effects.
+
+CONTINUITY:
+Single clip: keep the pose, expression, hand position and framing natural and consistent until the very end.
+
+Do not add, remove, repeat, rewrite, paraphrase, or alter any spoken words.
+
+PROMPT DE VIDEO 7:
+6B/6 PROMPT DE VÍDEO — CENA 6B — 10s — IMAGEM 2
+
+Create a single continuous 10-second video clip using the supplied reference image as the exact visual reference. Same person, same face, the EXACT SAME VOICE, hair, makeup, clothing, accessories, environment, background, lighting, color grading, camera angle, camera distance, framing and lens as the reference image. This is a single, self-contained clip.
+
+SPOKEN DIALOGUE (in English, spoken aloud on camera EXACTLY ONCE, from the first word to the last, with perfect lip sync, delivered warm and reassuring, addressing the viewer directly; no subtitles or text on screen):
+"Follow me: first seal. Comment VENUS: second seal. Then tap my photo and open my story before it disappears."
+
+VOICE CHARACTERISTICS (LOCKED — identical in every clip of this recording):
+[Voice and Audio Instructions]
+
+Voice Profile: Woman, mid-to-late 40s, American, warm and steady voice — sounds like a straight-talking friend who has been through her own heartbreaks and says things plainly. Natural General American accent, unhurried diction.
+
+Vocal Characteristics: Mid register, natural and slightly textured (not smooth or polished), light warmth in the chest, never nasal or thin.
+
+Tone: Calm, firm and warm. Not theatrical, not "spooky", no performance — she says things the way a close friend would across a kitchen table. Honest and direct, with occasional soft warmth. Never sugarcoats, never scolds.
+
+Delivery style: Short, clear phrases with a natural pause before the key word. Sounds like she's speaking directly to one person, not performing for a crowd.
+
+Naturalness: The voice must sound as natural and human as possible — real breathing, natural micro-pauses, subtle imperfections, organic intonation shifts. It must NEVER sound robotic, synthetic, flat, or AI-generated. No text-to-speech cadence of any kind.
+
+Technical Settings: STRICTLY a solo monologue. The speaker is completely ALONE. Absolutely NO background voices, ZERO interviewer noises, and STRICTLY NO agreement sounds (like 'mhm', 'yeah', 'aha', 'uh-huh'). NO background music, NO sound effects, NO automatic subtitles. Output must be a 100% clean, raw voice track. STRICTLY DO NOT imitate or impersonate any famous public figure or celebrity — the voice must be entirely original.
+
+VOICE CONSISTENCY:
+VOICE LOCK: this is the SAME PERSON with the SAME VOICE as in every other clip of this recording. Reproduce exactly the voice identity described in VOICE CHARACTERISTICS — same timbre, pitch range, accent, resonance, articulation, breathiness and energy level. Do not generate a different voice, do not substitute a similar one, do not drift younger or older, do not change accent or gender, do not switch to a generic narrator or text-to-speech voice, and do not add a second speaker. Keep this exact same voice from the first word to the last word of the clip. If anything else in this prompt could be read as calling for a different voice, VOICE CHARACTERISTICS wins.
+
+VOICE PACING:
+CTA pacing — target approximately 155–180 WPM (about 2.6–3.0 words per second, 4.1–4.4 syllables per second). Use short, controlled pauses between individual calls to action. Each instruction must remain clearly understandable. Slightly emphasize the beginning and ending of each call to action. The final sentence may slow down subtly to create emphasis and anticipation.
+Preserve natural sentence rhythm and natural rhythmic variation — never a robotic, mechanically constant speed. Do not make every word equally stressed, do not use excessive pauses, do not artificially stretch vowels, do not rush consonants to hit the target speed. Prioritize clear pronunciation and natural cadence, like a confident creator speaking directly to the viewer, not an AI reading a script. Keep the exact voice identity, accent, pitch, tone and vocal character described in VOICE CHARACTERISTICS; if anything above implies a different speed, keep the character but follow THIS pacing.
+Estimated speaking time: about 6.8 seconds of the 10-second clip. Say the line EXACTLY ONCE, from the first word to the last, and then stop talking: never repeat a word, a phrase or a sentence, not even to fill the remaining time. After the last word the character stays silent, holding the gaze on the camera and breathing naturally, until the clip ends. Never stretch, rush, remove or add words to fill the time.
+
+VISUAL:
+Animate the supplied reference image naturally and subtly. Preserve exactly the same person and appearance. Style: modern realistic UGC handheld; atmosphere: intimate and confidential. Natural physics, realistic micro-motion, no morphing, no hand glitches, no flickering, consistent identity across all frames.
+The character delivers the line directly to the viewer with natural blinking, breathing and facial expressions. Body language for this clip: She keeps her hands joined on the table behind the closed tarot deck without any new gesture and finishes speaking with a slight head tilt toward the camera, the deck staying closed and untouched.
+Creative direction (written by the creator — follow it faithfully): Casual smartphone video in a home setting with natural window light. Nothing new appears in the frame: every object stays exactly where it is in the reference image. No on-screen text.
+
+CAMERA:
+One continuous shot with a subtle, natural handheld feel (tiny organic drift only). No zoom-in, no zoom-out, no push-in, no change in framing or camera distance, no pan, no tilt, no cuts.
+
+AUDIO:
+The spoken dialogue is the ONLY voice — the same voice as in every other clip of this recording — spoken one single time; no repeated lines, no echo, no second voice, no change of voice mid-clip. ASMR-style natural ambience only — every real environmental sound captured with intimate, close-mic clarity (soft breathing, fabric rustle, subtle room tone). STRICTLY NO music, NO soundtrack, NO added sound effects, NO sound design of any kind. No additional voices, no added dialogue, no voice effects, no pitch shifting.
+
+EDITING:
+One uninterrupted continuous shot. No cuts, jump cuts, transitions, fades, crossfades, flash effects, speed ramps, slow motion, time-lapse or visual effects.
+
+CONTINUITY:
+Single clip: keep the pose, expression, hand position and framing natural and consistent until the very end.
+
+Do not add, remove, repeat, rewrite, paraphrase, or alter any spoken words.
