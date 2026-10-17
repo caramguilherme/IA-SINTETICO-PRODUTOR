@@ -49,8 +49,8 @@ Figurino: cartomante, místico sutil, variando a cada roteiro dentro da paleta (
 Usar exclusivamente as referências ANEXADAS como autoridades de identidade. Preservar rosto, corpo, cabelo, proporções e aparência do humano. Não misturar identidades. Não há pet neste projeto: nenhum animal aparece nas cenas.
 
 ## FIGURINO
-Linha vigente (decisão do aluno em 17/10/2026): roupas de cartomante, místicas de forma sutil, que variam a cada roteiro dentro da paleta verde-petróleo, creme e cobre queimado, mais um neutro escuro. Peças lisas, sem estampa, bordado vistoso nem brilho que concorram com o objeto do hook; sem turbante, capa ou fantasia. Acessórios fixos: argolões prateados e fino colar de prata com pequeno pingente de lua crescente lisa.
-Rotação sugerida: 1) blusa de mangas amplas de veludo verde-petróleo (R001); 2) xale cinza-chumbo fosco drapeado sobre blusa creme; 3) quimono ou cardigã longo creme; 4) blusa cobre queimado de mangas boca de sino; depois repete. A roupa é escolhida depois do objeto do hook, para ficar secundária a ele. Dentro de um roteiro a roupa não muda.
+Linha vigente (decisão do aluno em 17/10/2026): roupas de cartomante, místicas de forma sutil, que variam a cada roteiro dentro da paleta verde-petróleo, creme e cobre queimado, mais um neutro escuro. Peças lisas, sem estampa, bordado vistoso nem brilho que concorram com o objeto do hook; sem turbante, capa ou fantasia. Acessório fixo: argolões prateados. Colar de prata com pequeno pingente de lua crescente é opcional, por roteiro.
+Rotação sugerida: 1) blusa de mangas amplas de veludo verde-petróleo (R001, aprovada sem colar); 2) xale cinza-chumbo fosco drapeado sobre blusa creme; 3) quimono ou cardigã longo creme; 4) blusa cobre queimado de mangas boca de sino; depois repete. A roupa é escolhida depois do objeto do hook, para ficar secundária a ele. Dentro de um roteiro a roupa não muda.
 
 ## VOZ
 A pessoa é a única pessoa falante. Voz feminina adulta americana (inglês dos EUA), natural e espontânea, calma e firme.

@@ -6,7 +6,7 @@ Por que Formato 1 + molde 7: o hook promete três razões e esconde a última. A
 
 ## Cena 1 — Hook — 8s
 
-**Visual breve:** Dana atrás da mesa, de frente. A carta grande em cobre e dourado, sem letras, vira para a lente e quase sai da tela; a vela acesa fica ao lado.
+**Visual breve:** Dana atrás da mesa, de frente. A carta grande, prateada com borda dourada e sol cobre, sem letras, vira para a lente e quase sai da tela; a vela acesa fica ao lado.
 
 **Fala:** "If 222 keeps following you, there are three reasons, and the last one is about the man you're waiting for."
 
