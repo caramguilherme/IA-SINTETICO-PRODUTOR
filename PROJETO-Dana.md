@@ -59,6 +59,8 @@ Rotação sugerida: 1) blusa de mangas amplas de veludo verde-petróleo (R001, a
 O baralho que aparece nas cenas é um baralho de tarô de verdade, nunca um baralho comum de jogar. Descrever sempre assim nos prompts de imagem e de vídeo: cartas altas e estreitas (proporção aproximada de 7 x 12 cm), cantos levemente arredondados e maço grosso; verso escuro (azul-noite ou verde-petróleo profundo) com desenho simétrico e ornamentado em dourado fosco (sol, lua crescente e estrelas) e borda dourada fina; sem o padrão repetido de losangos ou quadrados, sem naipes, sem números e sem letras. A frente da carta é ilustrada, sem letras nem títulos.
 O R001 manteve o verso cinza-claro estampado já aprovado; não refazer.
 
+**Regra de cartas no Flow (lição do R002, 17/10/2026):** o Flow é literal e erra o que não está escrito. Nos prompts de vídeo: (1) o primeiro quadro é sempre a IMAGEM 2, então toda carta que aparece precisa sair do maço dentro do próprio clipe, deslizando; nunca pedir carta que já estaria na mesa; (2) nunca pedir para virar, levantar ou mostrar a frente de uma carta: o Flow repete o verso na frente ou inventa o desenho; a frente de uma carta só aparece no hook, vinda da IMAGEM 1; (3) escrever o estado físico explícito (maço fechado, verso escuro azul-noite e dourado para CIMA, carta plana, só uma carta sai) e o que não acontece (não vira, não levanta, nenhuma outra carta se move); (4) o maço da IMAGEM 2 também diz que o verso fica para cima; (5) no CTA o maço fica fechado e nenhuma carta aparece fora dele.
+
 ## VOZ
 A pessoa é a única pessoa falante. Voz feminina adulta americana (inglês dos EUA), natural e espontânea, calma e firme.
 

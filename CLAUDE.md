@@ -48,5 +48,7 @@ P7. Identidade da Dana nos prompts de imagem: só as referências anexadas não 
 
 P8. Baralho da Dana (a partir do R002): descrever sempre um baralho de tarô de verdade, conforme a seção BARALHO do PROJETO (cartas altas e estreitas, verso escuro ornamentado em dourado; nunca o verso cinza de baralho de jogar). Se o aluno anexar uma foto do verso do baralho como referência de objeto, usar só para o objeto, nunca para rosto.
 
+P9. Cartas no Flow (lição do R002): o Flow é literal. Todo clipe com carta começa da IMAGEM 2 (maço fechado, verso escuro para cima, sem carta fora do maço), então a carta sai do maço dentro do clipe, deslizando e plana, com o verso para cima. Nunca pedir para virar, levantar ou mostrar a frente de uma carta (só o hook mostra a frente, vinda da IMAGEM 1). Escrever o estado físico e o que não acontece. Ver a seção BARALHO do PROJETO.
+
 HONESTIDADE
 Nunca invente oferta, depoimento, número, prazo, resultado ou benefício de saúde. A persona não finge experiência vivida. Tema de saúde: sem cura nem diagnóstico; diga quando procurar um profissional.

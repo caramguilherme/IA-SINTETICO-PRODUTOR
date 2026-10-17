@@ -24,7 +24,7 @@ Figurino (escolhido depois do objeto do hook): cartomante, místico sutil; blusa
 
 ## Cena 3 — Solução, parte 1 — 8s
 
-**Visual breve:** Dana pega uma única carta do maço e a deixa virada para baixo na mesa, ao lado do celular.
+**Visual breve:** Dana desliza com um dedo a carta do topo do maço até perto do celular. A carta fica plana, com o verso para cima, sem ser levantada nem virada.
 
 **Fala:** "A profile shows you a photo. A card shows you what you keep choosing."
 
@@ -32,7 +32,7 @@ Figurino (escolhido depois do objeto do hook): cartomante, místico sutil; blusa
 
 ## Cena 4 — Solução, parte 2 — 10s
 
-**Visual breve:** Dana apoia as pontas dos dedos sobre a carta virada para baixo, fecha os olhos por um instante e depois abre e olha para a lente.
+**Visual breve:** Dana desliza a carta do topo do maço para a frente dela, apoia as pontas dos dedos sobre ela (verso para cima, sem levantar), fecha os olhos por um instante e depois abre e olha para a lente.
 
 **Fala:** "Pull one card tonight. Close your eyes and ask who you're really waiting for. Notice the first face that shows up."
 
@@ -40,7 +40,7 @@ Figurino (escolhido depois do objeto do hook): cartomante, místico sutil; blusa
 
 ## Cena 5 — Conclusão e miniobjeção — 10s
 
-**Visual breve:** Dana vira a carta para si, olha de relance e depois sorri de leve para a lente.
+**Visual breve:** Dana desliza a carta do topo do maço para a frente dela, olha de relance para baixo, na direção da carta (verso para cima, sem virar), e depois sorri de leve para a lente.
 
 **Fala:** "Now imagine that picture drawn out in front of you. Would you look? Or keep swiping?"
 
@@ -48,7 +48,7 @@ Figurino (escolhido depois do objeto do hook): cartomante, místico sutil; blusa
 
 ## Cena 6A — CTA — 10s
 
-**Visual breve:** Dana empurra o celular de lado com as pontas dos dedos e junta as mãos sobre a mesa, olhando para a lente.
+**Visual breve:** Dana empurra o celular de lado com as pontas dos dedos e junta as mãos sobre a mesa, olhando para a lente. O maço fica fechado e nenhuma carta aparece fora dele.
 
 **Fala:** "Skip the swiping. In my story, see a drawing of his possible face, his initials, and when you might meet."
 
@@ -56,7 +56,7 @@ Figurino (escolhido depois do objeto do hook): cartomante, místico sutil; blusa
 
 ## Cena 6B — CTA — 10s
 
-**Visual breve:** Dana continua de frente e olha para a lente, sem novo gesto.
+**Visual breve:** Dana continua de frente e olha para a lente, sem novo gesto. Maço fechado, nenhuma carta fora dele.
 
 **Fala:** "Send this to a friend: first seal. Comment 222: second seal. Then tap my photo and open my story before it disappears."
 
