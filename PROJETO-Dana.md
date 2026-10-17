@@ -12,14 +12,17 @@
   3. Sinais e intuição com os pés no chão.
   4. Recomeço com dignidade (não é tarde, não é "velha demais").
 - **Tom:** direta e sincera, fala a verdade sem rodeio, mas com calor de amiga. Voz calma e firme, nunca teatral.
-- **Oferta:** afiliado do app Auraly / Soulmate Match. A pessoa responde um quiz curto e o app mostra um desenho do rosto da possível alma gêmea, as iniciais dela e quando eles podem se conhecer. Pagamento único, só cartão. Preço: não informado (não inventar; o aluno confirma antes de citar qualquer valor).
+- **Oferta:** afiliado do app Auraly / Soulmate Match. A pessoa passa por um quiz (escolhe 3 cartas, informa gênero, interesse, signo), assiste a uma leitura em vídeo de 3:45 e, aos 3:47, vê a oferta.
+- **Verificado na página do quiz em 17/10/2026:** a prévia mostra "Soulmate's initials", "Meeting date" e "Physical description" (por exemplo, "Tall, dark features"). A lista do que está incluído fala em iniciais, signo, descrição física, quando e onde vocês se conhecem, compatibilidade e orientação diária. **Não vi "desenho do rosto" na página; o aluno confirma se o app mostra um desenho depois da compra.**
+- **Preço e cobrança (texto pequeno da página): US$ 9 hoje e, depois de 30 dias, renovação automática de US$ 29 por mês, cancelável. Garantia de 7 dias.** **Não é pagamento único.** Aceita Visa, Mastercard, Amex, Discover e PayPal. A página também mostra "$79, 75% off", contagem regressiva de 14:59, "3 spots left today" e depoimentos "Verified soulmate match". Nada disso entra na fala da Dana.
 - **Ação final:** o vídeo leva para o story; o story tem o link do quiz. Nada de link na legenda nem DM.
 
 ### Regras da oferta (atualizado em 17/10/2026)
 - **Pode dizer no vídeo:** que o quiz mostra um desenho do possível rosto, as iniciais e quando vocês podem se conhecer, sempre com "possível" e "pode". Pode usar 222, segredo, lacuna de curiosidade, comportamento e comentário com código.
 - **Não pode dizer no vídeo:** o nome do app, preço, tipo de pagamento nem comissão.
 - **Nunca:** dizer que o app encontra uma pessoa real ou que o encontro vai acontecer; depoimento, número ou "funcionou comigo" inventado; urgência falsa; medo ou ameaça.
-- **Divulgação:** afiliada na descrição e no story, não na fala. O perfil já é marcado como gerado por IA.
+- **Divulgação:** afiliada na descrição e no story, não na fala. O perfil já é marcado como gerado por IA. Recomendado no story: dizer que é uma assinatura paga com renovação automática. A Dana nunca diz "pagamento único".
+- **Não repetir da página:** "He's arriving fast", "You will meet your soulmate soon", escassez ("3 spots left"), contagem regressiva, depoimentos ou números ("74,000+ readings").
 
 ## FUNIL DE CONVERSÃO (vigente desde 17/10/2026; vale do R002 em diante e revisa o R001)
 Objetivo único: vender. Toda a copy trabalha o mesmo caminho da espectadora:
