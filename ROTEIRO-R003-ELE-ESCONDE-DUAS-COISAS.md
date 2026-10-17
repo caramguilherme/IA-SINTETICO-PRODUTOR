@@ -1,6 +1,6 @@
 # R003-ELE-ESCONDE-DUAS-COISAS — Formato 2 — roteiro com a biblioteca do curso, funil Soulmate (17/10/2026)
 
-Status: funil ativo = **Soulmate** (o Love Chart ainda não começou; o aluno avisa quando começar). Imagem única para os 7 vídeos: a Dana segura um pêndulo de ametista pela corrente (objeto do hook, natural e em movimento leve), com o baralho fechado e a vela na mesa. A fala inteira vai de uma vez na Central, que cria 7 takes de 10 s, um por cena (cada cena tem de 20 a 22 palavras). Persona: Dana Hollis (@straighttalktarot), sem pet. Dor 4 (sinal ou ilusão?), com a dor 3 (quando vou conhecer ele?). Falas em inglês dos EUA; a tradução é só para o aluno aprovar.
+Status: funil ativo = **Soulmate** (o Love Chart ainda não começou; o aluno avisa quando começar). Imagem única para os 6 vídeos: a Dana segura um pêndulo de ametista pela corrente (objeto do hook, natural e em movimento leve), com o baralho fechado e a vela na mesa. A fala inteira vai de uma vez na Central, que com a velocidade Rápida cria 6 takes (10, 10, 8, 10, 10 e 6 s); as 7 cenas do roteiro continuam sendo a lógica da história, mas os cortes dos takes não coincidem com elas. Persona: Dana Hollis (@straighttalktarot), sem pet. Dor 4 (sinal ou ilusão?), com a dor 3 (quando vou conhecer ele?). Falas em inglês dos EUA; a tradução é só para o aluno aprovar.
 
 ## Base do curso usada (registro)
 - **Hook:** gancho do curso **#25** (adaptado: "a man is hiding two things from you, and you were right all along…"), com o **ângulo 5 (segredo em camadas, "2 coisas")** e o **ângulo 4 ("você estava certa o tempo todo")**. Não repete o hook do R001 (molde 7) nem do R002 (molde 10).
@@ -78,5 +78,5 @@ Send this to yourself. Comment 222. Tap my photo. NOW.
 - O que o quiz mostra segue o funil Soulmate: desenho do possível rosto, iniciais e quando podem se conhecer, sempre com "possible" e "might". A Dana nunca diz que ele existe, que o app o encontra nem que o encontro vai acontecer.
 - Os cold readings sobre ele ("observa em silêncio", "digita e apaga", "nunca parou de pensar em você") são afirmações diretas no estilo de leitura de cartas, como o curso usa. Não há depoimento, número, escassez, celebridade nem preço.
 - A miniobjeção da Cena 5 é real: o quiz só pede as 3 cartas (e gênero, interesse e signo), não pede foto nem nome.
-- As falas têm de 20 a 22 palavras. Colada de uma vez, a fala inteira vira 7 takes de 10 s, um por cena (o site junta frases inteiras até uns 22 palavras por take e a frase seguinte não cabe junto).
+- As falas têm de 20 a 22 palavras. Colada de uma vez, na velocidade Rápida, a fala inteira vira 6 takes (o site junta frases inteiras até uns 28 palavras por take). A ordem e as falas dos 6 takes estão no painel do R003.
 - Sem métricas de publicação.

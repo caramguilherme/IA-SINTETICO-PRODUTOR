@@ -287,3 +287,9 @@ Technical Settings: STRICTLY a solo monologue. The speaker is completely ALONE. 
 - **Consequência para os roteiros:** para o take do site coincidir com uma cena, a cena deve ter de 19 a 22 palavras e **nenhuma frase pode caber no resto do take** (a primeira frase da cena seguinte deve estourar as 22 palavras). Com cada cena entre 19 e 21 palavras, a fala inteira colada de uma vez vira um take por cena. Para o R003 (revisão 3): 7 takes de 10 s.
 - **Movimentação:** uma linha (uma frase só, sem pontos no meio) por take, na ordem. Com 7 takes, 7 linhas.
 - **Imagem única:** o site, em modo agente, usa a mesma imagem de referência para todos os takes ("sempre com a MESMA imagem de referência") e escreve em cada take que ele continua o anterior; isso combina com uma imagem única.
+
+
+## Teste do R003 com velocidade Rápida (17/10/2026)
+- Com a velocidade da fala em **Rápida (BODY, 215–225 WPM)** o site junta frases inteiras até uns 28 a 30 palavras por take (fala ≈ 7 a 7,8 s num take de 10 s), e não mais 22. A fala de 146 palavras do R003 virou **6 takes**: 10 s (26 palavras), 10 s (25), 8 s (23), 10 s (28), 10 s (29) e 6 s (15). Os cortes não coincidem mais com as cenas do roteiro; o painel mostra a conferência takes a takes.
+- A movimentação usa uma linha por take; no teste o site encadeou o final de cada take com o início do seguinte (a linha n+1 vira a pose final do take n), então a 7ª linha sobra. Com 6 takes, mande só 6 linhas.
+- Para o painel e a regra de 19 a 22 palavras por cena, vale o teste de velocidade Média; com Rápida confira sempre a lista de takes do painel.

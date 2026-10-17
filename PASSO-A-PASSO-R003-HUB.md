@@ -1,6 +1,6 @@
 # PASSO A PASSO — R003 (funil Soulmate) pela Central do curso + agente do Flow (imagem única)
 
-O painel do R003 (https://claude.ai/artifact/9cKYmzqooPmAb8pz88ZjwP) traz tudo para copiar: o prompt da imagem, a configuração da Central, a fala inteira, as 7 linhas de movimentação, o aviso do agente, o story, a legenda e o comentário fixado. Os prompts dos takes saem da Central.
+O painel do R003 (https://claude.ai/artifact/9cKYmzqooPmAb8pz88ZjwP) traz tudo para copiar: o prompt da imagem, a configuração da Central, a fala inteira, as 6 linhas de movimentação, o aviso do agente, o story, a legenda e o comentário fixado. Os prompts dos takes saem da Central.
 
 Regras gerais: não clicar em "Resetar valores" nem em "REGERAR BLOCO A PARTIR DOS CAMPOS". Todas as seções com interruptor ficam LIGADAS. Campos não citados ficam como estão.
 
@@ -8,7 +8,7 @@ Regras gerais: não clicar em "Resetar valores" nem em "REGERAR BLOCO A PARTIR D
 No painel, seção "Pré-gancho": (1) gere a **imagem do pré-gancho** no Flow (Nano Banana Pro, 9:16), **sem anexar as referências da Dana** (só aparece uma mão); (2) gere o **vídeo do pré-gancho** (Omni Flash, 9:16, modo primeiro frame, 4 s) com essa imagem e o prompt de vídeo. Confira: na imagem, a ponta da linha de sal já está em chamas e o resto está branco; no vídeo, o fogo corre pelo sal até a linha inteira queimar (a vela do fundo já está acesa), sem rosto e sem texto. Esse clipe entra antes da Cena 1 na edição.
 
 ## 1. A imagem (uma só)
-No Flow (Nano Banana Pro, 9:16), anexe as 4 imagens oficiais da Dana e cole o PROMPT IMAGEM 1 do painel. Aprove só se for a Dana (rosto igual às referências), de cardigã creme sobre camiseta cinza-claro, segurando com a mão direita um pêndulo de ametista roxa pela corrente (nítido, em primeiro plano, ao lado do rosto, sem cobrir), a mão esquerda na mesa, o baralho fechado de verso azul-noite e dourado e a vela acesa, sem celular. Essa imagem é o primeiro quadro dos 7 vídeos.
+No Flow (Nano Banana Pro, 9:16), anexe as 4 imagens oficiais da Dana e cole o PROMPT IMAGEM 1 do painel. Aprove só se for a Dana (rosto igual às referências), de cardigã creme sobre camiseta cinza-claro, segurando com a mão direita um pêndulo de ametista roxa pela corrente (nítido, em primeiro plano, ao lado do rosto, sem cobrir), a mão esquerda na mesa, o baralho fechado de verso azul-noite e dourado e a vela acesa, sem celular. Essa imagem é o primeiro quadro dos 6 vídeos.
 
 ## 2. Central do curso
 Preencha a configuração fixa (seção "Central do curso: o que preencher" do painel):
@@ -21,15 +21,15 @@ Preencha a configuração fixa (seção "Central do curso: o que preencher" do p
 
 Depois cole, da seção "A fala e a movimentação" do painel:
 - Em "COLE SUA COPY AQUI": a fala inteira (146 palavras, um parágrafo).
-- Em "MOVIMENTAÇÃO": as 7 linhas, uma por take.
+- Em "MOVIMENTAÇÃO": as 6 linhas, uma por take.
 
-Clique em ⚡ GERAR PROMPT DE ANIMAÇÃO. O site deve mostrar **7 takes de 10 s**, cada um começando e terminando nas frases da conferência do painel. Se vier outro número ou outro corte, não gere e mande o print.
+Clique em ⚡ GERAR PROMPT DE ANIMAÇÃO. O site deve mostrar **6 takes (10 s · 10 s · 8 s · 10 s · 10 s · 6 s)**, cada um começando e terminando nas frases da conferência do painel. Na Central, deixe a velocidade da fala em **Rápida (BODY)**, como no teste de 17/10/2026 (gasta menos créditos); com ela o site junta até uns 28 palavras por take, e as 7 cenas do roteiro viram 6 takes. Se vier outro número ou outro corte, não gere e mande o print.
 
 ## 3. Agente do Flow (uma conversa só)
 1. Conversa nova no agente.
 2. Anexe a IMAGEM 1 aprovada (só ela).
-3. Cole o aviso do painel (sempre antes do bloco da Central): "Irei enviar 7 prompts para você. A cada prompt, quero que seja feita uma animação da imagem anexada. Utilize a imagem anexada como frame inicial e frame final, em todos os vídeos que você gerar."
-4. Embaixo, cole o bloco do botão **COPIAR TUDO JUNTO** da Central (começa em "GOOGLE FLOW AGENT MODE" e traz Prompt 1 a Prompt 7).
+3. Cole o aviso do painel (sempre antes do bloco da Central): "Irei enviar 6 prompts para você. A cada prompt, quero que seja feita uma animação da imagem anexada. Utilize a imagem anexada como frame inicial e frame final, em todos os vídeos que você gerar."
+4. Embaixo, cole o bloco do botão **COPIAR TUDO JUNTO** da Central (começa em "GOOGLE FLOW AGENT MODE" e traz Prompt 1 a Prompt 6).
 5. Envie.
 
 ## 4. Conferir cada vídeo (marque no painel)

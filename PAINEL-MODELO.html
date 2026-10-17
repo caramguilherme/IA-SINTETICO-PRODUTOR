@@ -216,7 +216,7 @@ function itens(){
   const a=[];
   if(pk.pre_gancho){a.push({id:'pre_img',tipo:'pre',titulo:'Imagem do pré-gancho',prompt:''});a.push({id:'pre_vid',tipo:'pre',titulo:'Vídeo do pré-gancho',prompt:''})}
   pk.imagens.forEach((im,i)=>a.push({id:'img'+(i+1),tipo:'img',titulo:im.rotulo,prompt:promptImagem(im),rotulo:'PROMPT IMAGEM '+(i+1)}));
-  pk.videos.forEach((v,i)=>a.push({id:'vid'+(i+1),tipo:'vid',titulo:v.rotulo+' · cena '+v.cena,v:v,prompt:pk.central?'':promptVideo(v),rotulo:'PROMPT DE VIDEO '+(i+1)}));
+  pk.videos.forEach((v,i)=>a.push({id:'vid'+(i+1),tipo:'vid',titulo:v.rotulo+' · '+(pk.central?'':'cena ')+v.cena,v:v,prompt:pk.central?'':promptVideo(v),rotulo:'PROMPT DE VIDEO '+(i+1)}));
   return a;
 }
 function blocoCompleto(){return itens().filter(it=>it.tipo!=='pre'&&(!pk.central||it.tipo==='img')).map(it=>it.rotulo+':\n'+it.prompt).join('\n\n')}
@@ -246,13 +246,12 @@ function montarCentral(){
     const cp=c.copia||{fala_completa:pk.videos.map(v=>v.fala).join(' '),movimentacao:pk.videos.map(v=>v.movimentacao)};
     const wc=s=>s.trim().split(/\s+/).length;
     $('cenas').querySelector('h2').textContent='A fala e a movimentação (tudo de uma vez)';
-    $('cenas').querySelector('p').textContent='Cole a fala inteira em “COLE SUA COPY AQUI” e as linhas em “MOVIMENTAÇÃO”. O site deve criar um take por cena.';
+    $('cenas').querySelector('p').textContent='Cole a fala inteira em “COLE SUA COPY AQUI” e as linhas em “MOVIMENTAÇÃO”. O site deve criar os takes da conferência abaixo, nesta ordem.';
     const conf=pk.videos.map((v,i)=>{const w=v.fala.trim().split(/\s+/);return 'TAKE '+(i+1)+'/'+pk.videos.length+' · '+v.duracao+' s · '+w.length+' palavras · começa em “'+w.slice(0,5).join(' ')+'…” · termina em “…'+w.slice(-5).join(' ')+'”'}).join('\n');
     $('listaCenas').innerHTML='<div class="item"><button class="cp" id="cpFala">Copiar fala inteira</button><h3>1) COLE SUA COPY AQUI <span class="tag">'+wc(cp.fala_completa)+' palavras</span></h3><div class="box m">'+esc(cp.fala_completa)+'</div></div>'
       +'<div class="item"><button class="cp" id="cpMov">Copiar movimentação</button><h3>2) MOVIMENTAÇÃO <span class="tag">'+cp.movimentacao.length+' linhas, uma por take</span></h3><div class="box m">'+esc(cp.movimentacao.join('\n'))+'</div></div>'
       +'<div class="item"><h3>3) Clique em GERAR PROMPT DE ANIMAÇÃO e confira</h3><div class="box">'+esc(conf)+'</div><div class="tip" style="margin-top:8px">O site deve mostrar exatamente '+pk.videos.length+' takes, cada um começando e terminando nas frases acima. Se vier outro número de takes ou um corte diferente, não gere: me mande o print.</div></div>'
-      +'<div class="item"><h3>Depois que o agente gerar, confira cada vídeo</h3>'+pk.videos.map((v,i)=>{const id='vid'+(i+1);return '<label class="chk" style="display:flex;margin:6px 0"><input type="checkbox" data-id="'+id+'" '+(feitos[id]?'checked':'')+'> '+esc(v.rotulo)+' · cena '+esc(v.cena)+': “'+esc(v.fala.split(/(?<=[.?!])\s+/)[0])+'…”</label>'}).join('')
-      +'<div class="tip" style="margin-top:8px">'+esc(c.conferir||'Conferir em cada vídeo: é a Dana (rosto e roupa iguais à imagem); a fala sai completa, uma vez só, em inglês, com voz americana calma; sem texto, legenda ou música.')+'</div></div>';
+      +'<div class="item"><h3>Depois que o agente gerar, confira cada vídeo</h3>'+pk.videos.map((v,i)=>{const id='vid'+(i+1);const w=v.fala.trim().split(/\s+/);const arq=v.arquivo||(((pk.roteiro&&pk.roteiro.id)||'').split('-')[0]+'-'+v.rotulo);return '<label class="chk" style="display:flex;margin:8px 0;align-items:flex-start"><input type="checkbox" data-id="'+id+'" '+(feitos[id]?'checked':'')+'> <span><b>'+esc(v.rotulo)+'</b> · '+esc(v.cena)+' · '+v.duracao+' s · renomear no Flow para <b>'+esc(arq)+'</b><br>começa em “'+esc(w.slice(0,6).join(' '))+'…” e termina em “…'+esc(w.slice(-6).join(' '))+'”</span></label>'}).join('')+'<div class="tip" style="margin-top:8px">'+esc(c.conferir||'Conferir em cada vídeo: é a Dana (rosto e roupa iguais à imagem); a fala sai completa, uma vez só, em inglês, com voz americana calma; sem texto, legenda ou música.')+'</div></div>';
     $('cpFala').onclick=e=>copiar(cp.fala_completa,e.currentTarget);
     $('cpMov').onclick=e=>copiar(cp.movimentacao.join('\n'),e.currentTarget);
     $('listaCenas').querySelectorAll('input[data-id]').forEach(inp=>{inp.onchange=e=>{feitos[inp.dataset.id]=e.target.checked;progresso();salvar()}});
@@ -298,10 +297,10 @@ function montar(silencio){
     p.videos.forEach((v,i)=>{(p.central?['cena','duracao','primeiro_quadro','fala','movimentacao']:['cena','duracao','primeiro_quadro','acao','fala']).forEach(k=>{if(v[k]===undefined||v[k]==='')throw new Error('O vídeo '+(i+1)+' está sem "'+k+'".')})});
     if(!p.perfil||!/^Voz (feminina|masculina) adulta (brasileira|americana)/.test(p.perfil.voz||''))throw new Error('Falta "perfil.voz" ("Voz feminina|masculina adulta brasileira natural e espontânea.").');
     const n=p.videos.length;
-    if(n!==6&&n!==7)throw new Error('O pacote tem '+n+' vídeos; o método usa 6 (5 cenas) ou 7 (6 cenas).');
+    if(p.central?(n<5||n>8):(n!==6&&n!==7))throw new Error('O pacote tem '+n+' vídeos; o método usa 6 (5 cenas) ou 7 (6 cenas).');
     p.videos.forEach((v,i)=>{if([4,6,8,10].indexOf(Number(v.duracao))<0)throw new Error('O vídeo '+(i+1)+' tem duração '+v.duracao+'; só 4, 6, 8 ou 10 s.')});
     const N=n-1,a=p.videos[n-2].cena,b=p.videos[n-1].cena;
-    if(a!==N+'A/'+N||b!==N+'B/'+N)throw new Error('Os dois últimos vídeos devem ser '+N+'A/'+N+' e '+N+'B/'+N+' (CTA).');
+    if(!p.central&&(a!==N+'A/'+N||b!==N+'B/'+N))throw new Error('Os dois últimos vídeos devem ser '+N+'A/'+N+' e '+N+'B/'+N+' (CTA).');
     if(!/IMAGEM 1/.test(p.videos[0].primeiro_quadro))throw new Error('O V1 (hook) deve usar a IMAGEM 1 como primeiro quadro.');
     pk=p;
   }catch(e){
@@ -323,7 +322,7 @@ function montar(silencio){
   $('telaAlt').textContent=tt.hook_alt?'Alternativa: '+tt.hook_alt:'';$('telaAlt').classList.toggle('hide',!tt.hook_alt);
   $('telaExtras').innerHTML=(tt.extras||[]).map(e=>'<div style="margin-bottom:8px"><b>'+esc(e.texto)+'</b><br><span style="color:var(--ink2)">'+(e.comeca?'Começa em: “'+esc(e.comeca)+'”'+(e.termina?' → termina em: “'+esc(e.termina)+'”':''):esc(e.quando||''))+'</span></div>').join('');$('telaExtras').classList.toggle('hide',!(tt.extras&&tt.extras.length));
   $('refs').innerHTML=(pk.refs||[]).map(x=>'<span class="chip">'+esc(x)+'</span>').join('')||'<i>(a IA não listou)</i>';
-  $('falas').textContent=pk.videos.map(v=>v.rotulo+' · cena '+v.cena+'\n“'+v.fala+'”').join('\n\n');
+  $('falas').textContent=pk.videos.map(v=>v.rotulo+' · '+(pk.central?'':'cena ')+v.cena+'\n“'+v.fala+'”').join('\n\n');
   $('listaImg').innerHTML='';$('listaVid').innerHTML='';
   itens().forEach(it=>{
     if(it.tipo==='pre'||(pk.central&&it.tipo==='vid'))return;
