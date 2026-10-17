@@ -113,7 +113,7 @@ section{scroll-margin-top:16px}
     <section class="card" id="referencia">
       <h2>Referência visual</h2>
       <div id="refs"></div>
-      <ol class="steps">
+      <ol class="steps" id="refSteps">
         <li>No Google Flow, anexe <b>só</b> estas imagens (deste personagem).</li>
         <li><b>Com créditos:</b> agente do Flow. Cole “Copiar todos os prompts” (no fim da página). Ele gera um item por vez e espera seu "APROVADO".</li>
         <li><b>Sem créditos:</b> gere item por item, copiando abaixo. Tudo 9:16.</li>
@@ -121,6 +121,29 @@ section{scroll-margin-top:16px}
     </section>
 
     <section class="card" id="imagens"><h2>Imagens</h2><div id="listaImg"></div></section>
+
+    <section class="card hide" id="central">
+      <h2>Central do curso: o que preencher</h2>
+      <p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Configuração que vale para todas as cenas. Preencha uma vez, na ordem. Não clique em “Resetar valores” nem em “REGERAR BLOCO”.</p>
+      <div id="cfg"></div>
+    </section>
+
+    <section class="card hide" id="cenas">
+      <h2>As cenas, uma por vez na Central</h2>
+      <p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Em cada cena mudam só 2 campos: a fala e a movimentação.</p>
+      <div id="listaCenas"></div>
+    </section>
+
+    <section class="card hide" id="agente">
+      <h2>No agente do Flow</h2>
+      <p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Cole cada take copiado da Central na caixa da cena. O botão monta a mensagem inteira (aviso + takes na ordem) para colar no agente.</p>
+      <div id="agenteBox"></div>
+    </section>
+
+    <section class="card hide" id="story">
+      <h2>Story (parte 2)</h2>
+      <div id="storyBox"></div>
+    </section>
 
     <section class="card" id="fala">
       <button class="cp" id="copiaFalas">Copiar falas</button>
@@ -138,7 +161,7 @@ section{scroll-margin-top:16px}
   </div>
  </div>
  <nav class="toc"><b>Nesta página</b>
-   <a href="#entrada">Pacote</a><a href="#textotela">Texto na tela</a><a href="#descricao">Legenda</a><a href="#comentario">Comentário fixado</a><a href="#referencia">Referência visual</a><a href="#imagens">Imagens</a><a href="#fala">Fala completa</a><a href="#videos">Vídeos</a><a href="#todos">Todos os prompts</a>
+   <a href="#entrada">Pacote</a><a href="#textotela">Texto na tela</a><a href="#descricao">Legenda</a><a href="#comentario">Comentário fixado</a><a href="#referencia">Referência visual</a><a href="#imagens">Imagens</a><a href="#central">Central</a><a href="#cenas">Cenas</a><a href="#agente">Agente</a><a href="#story">Story</a><a href="#fala">Fala completa</a><a href="#videos">Vídeos</a><a href="#todos">Todos os prompts</a>
  </nav>
 </div>
 
@@ -151,11 +174,11 @@ const ESTILO_VID="TRAVA DE ESTILO UGC: vídeo vertical 9:16, fotorealista e espo
 const REF_TXT="TRAVA DE REFERÊNCIA VISUAL: usar exclusivamente as referências ANEXADAS como autoridades de identidade. Preservar rosto, corpo, cabelo, proporções e aparência do humano e pet. Não misturar identidades.";
 const KEY="painel_ugc_v2";
 const $=id=>document.getElementById(id);
-let pk=null, feitos={};
+let pk=null, feitos={}, takes={};
 
 function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
-function salvar(){try{localStorage.setItem(KEY,JSON.stringify({json:$('json').value,feitos}))}catch(e){}}
-function carregar(){try{const s=JSON.parse(localStorage.getItem(KEY)||'null');if(s){$('json').value=s.json||'';feitos=s.feitos||{};if(s.json)montar(true)}}catch(e){}}
+function salvar(){try{localStorage.setItem(KEY,JSON.stringify({json:$('json').value,feitos,takes}))}catch(e){}}
+function carregar(){try{const s=JSON.parse(localStorage.getItem(KEY)||'null');if(s){$('json').value=s.json||'';feitos=s.feitos||{};takes=s.takes||{};if(s.json)montar(true)}}catch(e){}}
 
 function copiar(txt,btn){
   const fim=()=>{if(!btn)return;const o=btn.textContent;btn.classList.add('ok');btn.textContent='Copiado ✓';setTimeout(()=>{btn.classList.remove('ok');btn.textContent=o},1400)};
@@ -187,14 +210,78 @@ function promptVideo(v){
 function itens(){
   const a=[];
   pk.imagens.forEach((im,i)=>a.push({id:'img'+(i+1),tipo:'img',titulo:im.rotulo,prompt:promptImagem(im),rotulo:'PROMPT IMAGEM '+(i+1)}));
-  pk.videos.forEach((v,i)=>a.push({id:'vid'+(i+1),tipo:'vid',titulo:v.rotulo+' · cena '+v.cena,v:v,prompt:promptVideo(v),rotulo:'PROMPT DE VIDEO '+(i+1)}));
+  pk.videos.forEach((v,i)=>a.push({id:'vid'+(i+1),tipo:'vid',titulo:v.rotulo+' · cena '+v.cena,v:v,prompt:pk.central?'':promptVideo(v),rotulo:'PROMPT DE VIDEO '+(i+1)}));
   return a;
 }
-function blocoCompleto(){return itens().map(it=>it.rotulo+':\n'+it.prompt).join('\n\n')}
+function blocoCompleto(){return itens().filter(it=>!pk.central||it.tipo==='img').map(it=>it.rotulo+':\n'+it.prompt).join('\n\n')}
 function progresso(){
   const its=itens();const f=its.filter(i=>feitos[i.id]).length;
   $('prog').style.width=(100*f/its.length)+'%';
   $('progtxt').textContent=f+' de '+its.length+' itens gerados e aprovados';
+}
+
+
+function montarCentral(){
+  const c=pk.central;
+  ['central','cenas','agente'].forEach(id=>$(id).classList.toggle('hide',!c));
+  $('story').classList.toggle('hide',!pk.story);
+  $('videos').classList.toggle('hide',!!c);
+  $('todos').querySelector('h2').textContent=c?'Prompts das imagens (agente do Flow)':'Todos os prompts';
+  if(c){
+    $('todos').querySelector('p').innerHTML='Bloco único com os prompts das 2 imagens para o agente do Flow (já começa com <i>iniciar</i>). Os vídeos não entram aqui: o prompt de cada take vem da Central do curso.';
+    if(c.passos&&c.passos.length)$('refSteps').innerHTML=c.passos.map(x=>'<li>'+esc(x)+'</li>').join('');
+    $('cfg').innerHTML='';
+    (c.config||[]).forEach(sec=>{
+      const d=document.createElement('div');d.className='item';
+      d.innerHTML='<h3>'+esc(sec.secao)+'</h3>'+(sec.campos||[]).map((k,i)=>'<div style="margin:3px 0"><b>'+esc(k.campo)+':</b> '+esc(k.valor)+'</div>'+(k.copiar?'<div class="box m" style="margin:6px 0 4px">'+esc(k.copiar)+'</div><button class="btn cpi" data-i="'+i+'" style="margin-bottom:8px">Copiar este texto</button>':'')).join('');
+      d.querySelectorAll('.cpi').forEach(b=>{b.onclick=e=>copiar(sec.campos[+b.dataset.i].copiar,e.currentTarget)});
+      $('cfg').appendChild(d);
+    });
+    $('listaCenas').innerHTML='';
+    pk.videos.forEach((v,i)=>{
+      const id='vid'+(i+1);
+      const w=v.fala.trim().split(/\s+/).length;
+      const d=document.createElement('div');d.className='item'+(feitos[id]?' done':'');
+      d.innerHTML='<h3>'+esc(v.rotulo)+' · cena '+esc(v.cena)+' <span class="tag">1º quadro: '+esc(v.primeiro_quadro)+'</span><span class="tag">'+w+' palavras</span><span class="tag">site: ~'+esc(v.duracao)+' s</span></h3>'
+        +'<div class="mono">1) COLE SUA COPY AQUI (apague o que houver)</div><div class="box m">'+esc(v.fala)+'</div><button class="btn c1" style="margin:6px 0">Copiar fala</button>'
+        +'<div class="mono">2) MOVIMENTAÇÃO (apague o texto de exemplo)</div><div class="box m">'+esc(v.movimentacao)+'</div><button class="btn c2" style="margin:6px 0">Copiar movimentação</button>'
+        +'<div class="tip">3) Clique em GERAR PROMPT DE ANIMAÇÃO. Confira: TAKE 1/1, '+w+' palavras e o perfil de voz da Dana. Copie só o COPIAR do take e cole na caixa desta cena em “No agente do Flow”.</div>'
+        +'<label class="chk"><input type="checkbox" '+(feitos[id]?'checked':'')+'> Take gerado e colado no agente</label>';
+      d.querySelector('.c1').onclick=e=>copiar(v.fala,e.currentTarget);
+      d.querySelector('.c2').onclick=e=>copiar(v.movimentacao,e.currentTarget);
+      d.querySelector('input').onchange=e=>{feitos[id]=e.target.checked;d.classList.toggle('done',e.target.checked);progresso();salvar()};
+      $('listaCenas').appendChild(d);
+    });
+    $('agenteBox').innerHTML='';
+    (c.agente||[]).forEach((s,si)=>{
+      const d=document.createElement('div');d.className='item';
+      let h='<h3>'+esc(s.titulo)+' <span class="tag">anexar: '+esc(s.imagem)+'</span></h3>'
+        +'<div class="mono">Aviso (já vai na mensagem montada)</div><div class="box m">'+esc(s.aviso)+'</div>'
+        +(s.instrucao?'<div class="tip" style="margin-top:8px">'+esc(s.instrucao)+'</div>':'');
+      s.cenas.forEach(ci=>{h+='<div class="mono" style="margin-top:10px">Take da cena '+esc(pk.videos[ci].cena)+' ('+esc(pk.videos[ci].rotulo)+')</div><textarea data-k="'+si+'_'+ci+'" style="min-height:90px" placeholder="Cole aqui o take copiado da Central">'+esc(takes[si+'_'+ci]||'')+'</textarea>'});
+      h+='<div class="row" style="margin-top:10px"><button class="btn c mont">Copiar mensagem montada</button></div><div class="msg"></div>';
+      d.innerHTML=h;
+      d.querySelectorAll('textarea').forEach(ta=>{ta.oninput=()=>{takes[ta.dataset.k]=ta.value;salvar()}});
+      d.querySelector('.mont').onclick=e=>{
+        const msg=d.querySelector('.msg');msg.className='msg';msg.textContent='';
+        const partes=[],falt=[];
+        s.cenas.forEach(ci=>{const v=(takes[si+'_'+ci]||'').trim();if(!v)falt.push(pk.videos[ci].cena);else partes.push(v)});
+        if(falt.length){msg.className='msg err';msg.textContent='Faltam os takes das cenas: '+falt.join(', ')+'.';return}
+        const txt=s.aviso+'\n\n'+(s.cabecalho&&s.cenas.length>1?s.cabecalho+'\n\n':'')+partes.map((p,i)=>'Prompt '+(i+1)+'\n'+p).join('\n\n')+'\n';
+        copiar(txt,e.currentTarget);
+      };
+      $('agenteBox').appendChild(d);
+    });
+  }
+  if(pk.story){
+    const st=pk.story;
+    $('storyBox').innerHTML='<div class="item"><button class="cp" id="cpStImg">Copiar prompt</button><h3>Prompt da imagem do story <span class="tag">9:16</span></h3><div class="box m">'+esc(st.prompt_imagem)+'</div></div>'
+      +'<div class="item"><button class="cp" id="cpStTxt">Copiar textos</button><h3>Texto na tela do story</h3><div class="box">'+(st.textos||[]).map(x=>'<b>'+esc(x.posicao)+':</b> '+esc(x.texto)).join('\n')+'</div></div>'
+      +'<div class="item"><button class="cp" id="cpStAd">Copiar adesivo</button><h3>Adesivo de link (3 a 4 palavras)</h3><div class="box">'+(st.adesivos||[]).map((x,i)=>(i+1)+'. '+esc(x)+(i===0?'  (recomendada)':'')).join('\n')+'</div></div>';
+    $('cpStImg').onclick=e=>copiar(st.prompt_imagem,e.currentTarget);
+    $('cpStTxt').onclick=e=>copiar((st.textos||[]).map(x=>x.posicao+': '+x.texto).join('\n'),e.currentTarget);
+    $('cpStAd').onclick=e=>copiar((st.adesivos||[])[0]||'',e.currentTarget);
+  }
 }
 
 function montar(silencio){
@@ -203,7 +290,7 @@ function montar(silencio){
     const p=limparJson($('json').value);
     if(!Array.isArray(p.imagens)||p.imagens.length<2)throw new Error('Faltam as 2 imagens ("imagens").');
     if(!Array.isArray(p.videos)||!p.videos.length)throw new Error('Faltam os vídeos ("videos").');
-    p.videos.forEach((v,i)=>{['cena','duracao','primeiro_quadro','acao','fala'].forEach(k=>{if(v[k]===undefined||v[k]==='')throw new Error('O vídeo '+(i+1)+' está sem "'+k+'".')})});
+    p.videos.forEach((v,i)=>{(p.central?['cena','duracao','primeiro_quadro','fala','movimentacao']:['cena','duracao','primeiro_quadro','acao','fala']).forEach(k=>{if(v[k]===undefined||v[k]==='')throw new Error('O vídeo '+(i+1)+' está sem "'+k+'".')})});
     if(!p.perfil||!/^Voz (feminina|masculina) adulta (brasileira|americana)/.test(p.perfil.voz||''))throw new Error('Falta "perfil.voz" ("Voz feminina|masculina adulta brasileira natural e espontânea.").');
     const n=p.videos.length;
     if(n!==6&&n!==7)throw new Error('O pacote tem '+n+' vídeos; o método usa 6 (5 cenas) ou 7 (6 cenas).');
@@ -234,6 +321,7 @@ function montar(silencio){
   $('falas').textContent=pk.videos.map(v=>v.rotulo+' · cena '+v.cena+'\n“'+v.fala+'”').join('\n\n');
   $('listaImg').innerHTML='';$('listaVid').innerHTML='';
   itens().forEach(it=>{
+    if(pk.central&&it.tipo==='vid')return;
     const d=document.createElement('div');d.className='item'+(feitos[it.id]?' done':'');
     let alerta='';
     if(it.tipo==='vid'&&/[ÚU]LTIMO QUADRO/i.test(it.v.primeiro_quadro)){
@@ -248,6 +336,7 @@ function montar(silencio){
     d.querySelector('input').onchange=e=>{feitos[it.id]=e.target.checked;d.classList.toggle('done',e.target.checked);progresso();salvar()};
     $(it.tipo==='img'?'listaImg':'listaVid').appendChild(d);
   });
+  montarCentral();
   $('painel').classList.remove('hide');
   progresso();salvar();
 }
@@ -260,7 +349,7 @@ $('copiaTela').onclick=e=>{const tt=pk.texto_tela||{};copiar(['Início do vídeo
 $('copiaPinInsta').onclick=e=>copiar((pk.comentario_fixado&&pk.comentario_fixado.insta)||'',e.currentTarget);
 $('copiaPinFace').onclick=e=>copiar((pk.comentario_fixado&&pk.comentario_fixado.face)||'',e.currentTarget);
 $('copiaInsta').onclick=e=>copiar((pk.roteiro&&pk.roteiro.descricao_instagram)||'',e.currentTarget);
-if(PACOTE){$("entrada").classList.add("hide");$("json").value=JSON.stringify(PACOTE);montar(false);if(!pk)$("entrada").classList.remove("hide");}else{carregar();}
+if(PACOTE){try{const s0=JSON.parse(localStorage.getItem(KEY)||'null');if(s0){feitos=s0.feitos||{};takes=s0.takes||{}}}catch(e){}$("entrada").classList.add("hide");$("json").value=JSON.stringify(PACOTE);montar(false);if(!pk)$("entrada").classList.remove("hide");}else{carregar();}
 })();
 </script>
 </body>
