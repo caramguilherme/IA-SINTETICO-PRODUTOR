@@ -12,8 +12,16 @@ Decisão do aluno (17/10/2026): todo roteiro começa com um **pré-gancho de 3 a
 - **Não repetir** o pré-gancho do roteiro anterior (ver VÍDEOS FEITOS no PROJETO).
 - **Fora (risco de conta ou de reprovação):** roupa íntima ou nudez (política de nudez e sexual), sangue, animal ferido ou morto, chama perto do rosto, texto longo, promessa de cura.
 
+## Lições do Flow para efeitos (R003, versão 1)
+- **Um efeito só.** Uma cadeia (fósforo → sal pega fogo → vela acende) fez o Flow pular o efeito principal. O pré-gancho tem UM efeito "herói" e mais nada que precise acontecer.
+- **O primeiro quadro já mostra o efeito começando.** Na imagem, a ponta do sal já está em chamas; o vídeo só precisa espalhar o fogo.
+- **Dizer onde o efeito acontece e que não pode sumir:** "o fogo tem de ficar visível NO sal durante o clipe inteiro, não só no fósforo".
+- **Descrever o efeito em detalhe físico:** altura da chama, cor, de onde ela sai, quanto tempo leva para correr, o que acontece no fim.
+- **O resto do quadro fica pronto e parado** (por exemplo a vela já acesa), para não criar um segundo efeito.
+- **Se falhar de novo,** trocar de ideia: escolher uma da lista sem fogo (por exemplo o pêndulo sobre o copo d'água).
+
 ## Banco de ideias (cada uma já pensada em 4 s)
-1. **Linha de sal em chamas até a vela** (usado no R003): fósforo acende a ponta de uma linha de sal grosso; chama azul-pálida corre até uma vela apagada, que acende com um "whoosh".
+1. **Linha de sal em chamas** (usado no R003): uma linha de sal grosso embebido em álcool pega fogo e o fogo corre por ela como um pavio, de ponta a ponta. (A versão 1, em que a chama azul corria até acender uma vela apagada, falhou no Flow: o sal não pegou fogo e só a vela acendeu. Ver as lições abaixo.)
 2. **Escultura de barro que ganha vida:** um pássaro de barro cru numa mesa; uma pitada de sal cai sobre ele; ele abre as asas e levanta voo. (Mágico; usar uma vez só.)
 3. **Selo de cera que racha:** um envelope preto fechado com selo de cera vermelho; o selo racha ao meio sozinho e um fio de fumaça sobe. (Combina com "segredo" e "ele esconde".)
 4. **Pêndulo sobre um copo d'água:** o pêndulo de ametista fica parado sobre um copo; a água começa a girar sozinha em redemoinho. (Combina com o pêndulo do hook.)

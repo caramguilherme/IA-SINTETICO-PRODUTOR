@@ -11,9 +11,9 @@ Status: funil ativo = **Soulmate** (o Love Chart ainda não começou; o aluno av
 - **Funil Soulmate:** a 6A diz o que o quiz mostra, com "possible" e "might" (desenho do possível rosto, iniciais, quando podem se conhecer) e o primeiro passo (3 cartas). Sem app, preço, assinatura, comissão, depoimento, número ou escassez.
 
 ## Pré-gancho — 4s (clipe separado, sem fala)
-**Ideia:** linha de sal em chamas. Close baixo numa mesa de madeira clara: um fósforo comprido e aceso, na mão de uma mulher madura, toca a ponta de uma linha de sal grosso; uma chama azul-pálida corre pela linha até uma vela branca apagada num pote de vidro, que acende com um "whoosh". Só mão e objetos, sem rosto. A vela que acende é a do hook.
+**Ideia (versão 2):** linha de sal em chamas. Close baixo numa mesa de madeira clara: uma linha de sal grosso embebido em álcool pega fogo e o fogo corre por ela como um pavio, de ponta a ponta, até a linha inteira queimar (chama baixa, azul na base e laranja nas pontas). No primeiro quadro a ponta da linha já está em chamas e a mão de uma mulher madura mostra um fósforo quase consumido. Ao fundo, a vela branca em pote de vidro já está acesa (a mesma do hook). Só mão e objetos, sem rosto.
 **Texto na tela:** "Watch the flame."
-**Edição:** o pré-gancho vem primeiro; corte no instante em que a vela acende e entra a Cena 1.
+**Edição:** o pré-gancho vem primeiro; corte quando a linha inteira estiver em chamas e entre a Cena 1.
 
 ## Cena 1 — Hook — 10s
 **Visual breve:** Dana atrás da mesa, de frente, olhando firme para a lente. Com a mão direita, levemente estendida, ela segura pela corrente um pêndulo de cristal de ametista roxa que balança de leve em primeiro plano, ao lado do rosto; a mão esquerda repousa na mesa. Dá um pequeno aceno de cabeça. Baralho fechado e vela acesa na mesa.

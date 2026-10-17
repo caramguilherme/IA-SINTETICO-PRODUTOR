@@ -5,7 +5,7 @@ O painel do R003 (https://claude.ai/artifact/9cKYmzqooPmAb8pz88ZjwP) traz tudo p
 Regras gerais: não clicar em "Resetar valores" nem em "REGERAR BLOCO A PARTIR DOS CAMPOS". Todas as seções com interruptor ficam LIGADAS. Campos não citados ficam como estão.
 
 ## 0. Pré-gancho (4 s, antes de tudo)
-No painel, seção "Pré-gancho": (1) gere a **imagem do pré-gancho** no Flow (Nano Banana Pro, 9:16), **sem anexar as referências da Dana** (só aparece uma mão); (2) gere o **vídeo do pré-gancho** (Omni Flash, 9:16, modo primeiro frame, 4 s) com essa imagem e o prompt de vídeo. Confira: a chama azul corre pela linha de sal e a vela acende, sem rosto e sem texto. Esse clipe entra antes da Cena 1 na edição.
+No painel, seção "Pré-gancho": (1) gere a **imagem do pré-gancho** no Flow (Nano Banana Pro, 9:16), **sem anexar as referências da Dana** (só aparece uma mão); (2) gere o **vídeo do pré-gancho** (Omni Flash, 9:16, modo primeiro frame, 4 s) com essa imagem e o prompt de vídeo. Confira: na imagem, a ponta da linha de sal já está em chamas e o resto está branco; no vídeo, o fogo corre pelo sal até a linha inteira queimar (a vela do fundo já está acesa), sem rosto e sem texto. Esse clipe entra antes da Cena 1 na edição.
 
 ## 1. A imagem (uma só)
 No Flow (Nano Banana Pro, 9:16), anexe as 4 imagens oficiais da Dana e cole o PROMPT IMAGEM 1 do painel. Aprove só se for a Dana (rosto igual às referências), de cardigã creme sobre camiseta cinza-claro, segurando com a mão direita um pêndulo de ametista roxa pela corrente (nítido, em primeiro plano, ao lado do rosto, sem cobrir), a mão esquerda na mesa, o baralho fechado de verso azul-noite e dourado e a vela acesa, sem celular. Essa imagem é o primeiro quadro dos 7 vídeos.
