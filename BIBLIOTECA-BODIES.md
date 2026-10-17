@@ -17,16 +17,15 @@ Os bodies são anúncios longos (30 a 60 s de fala, sem limite de palavras). O v
 6. **Por que é de graça/por que agora** ("a mensagem é para você", "o destino sabia que hoje seria o dia"). Na Dana: "free quiz" pode; "o destino escolheu você" só como tom, sem prometer.
 7. **CTA em duas linhas:** o botão ("Clique abaixo", "Toque em Saiba Mais") e a promessa curta do resultado. Na Dana: story + selos.
 
-**Marcas usadas em cada ad (conflitos com as regras da Dana):**
-- **[ROSTO]** promete rosto, inicial, nome ou local do encontro: era o Soulmate; não usar no Love Chart.
-- **[CERTEZA]** afirma o que "ele" sente ou fez como fato (chora, não dorme, tomou uma decisão). A Dana só observa e usa "may/might", sem afirmar a vida de uma pessoa real; a afirmação vira observação sobre a espectadora.
-- **[DEPOIMENTO]** história de cliente inventada ou impossível de comprovar. A Dana nunca usa.
-- **[NÚMERO]** número de pessoas, casais, mulheres. A Dana nunca usa.
-- **[ESCASSEZ]** "só 5 mulheres", "um grupo de 3 por mês", "uma única vez". A Dana não usa urgência nem raridade falsa.
-- **[CELEB]** menção a celebridades ou "psíquica nº 1 de Hollywood". O próprio curso avisa que viola política da plataforma.
-- **[DEUS]** "Deus escolheu" / destino garantido. Evitar promessa; tom pode inspirar, a fala não afirma.
-- **[PREÇO]** cita valor. A Dana nunca fala preço.
-- **[ASTRO]** usa signos/astrologia: **é o que mais se aproxima do Love Chart** (padrão, signos, aproximar e recuar).
+**Decisão do aluno (17/10/2026): todo o material do curso (bodies, hooks, CTAs, cold reading, pesquisa e copy) é aprovado para uso; nenhuma regra do projeto o proíbe, exceto o que puder derrubar a conta na Meta.** As marcas abaixo passam a ser **avisos**, não proibições, e dizem o que muda na hora de escrever o roteiro da Dana:
+
+- **[CERTEZA]** afirmar o que "ele" sente ou faz (chora olhando a foto, não dorme, observa em silêncio, tomou uma decisão): **liberado.** É o estilo de leitura (cold reading) do curso. Pode ser dito direto, como a vidente que "vê" nas cartas.
+- **[DEUS]** "o destino escolheu você", "não foi por acaso", "Deus colocou no seu caminho": **liberado** como tom e abertura.
+- **[ASTRO]** signos e astrologia: **liberado** e recomendado no Love Chart.
+- **[ROSTO]** promete rosto, inicial, nome ou local do encontro: **não é regra, é fato do funil.** O Love Chart não entrega isso; prometer o que o quiz não mostra seria isca e dá reclamação. Só vale se o aluno avisar que o funil entrega.
+- **[DEPOIMENTO] [NÚMERO] [ESCASSEZ]** história de cliente, "mais de 9.000 mulheres", "só 5 mulheres desde 2025", "um grupo de 3 por mês": **a Dana não inventa estas três coisas como se fossem reais.** Motivo: são o padrão que a Meta mais barra (alegação enganosa, prova social falsa) e que mais gera denúncia; o risco é a conta. O que dá para fazer no lugar: a estrutura ("o que apareceu nas cartas hoje eu não vejo com frequência") sem número, e prova social real quando o aluno tiver (comentários, visualizações, mensagens de seguidoras com permissão).
+- **[CELEB]** "psíquica nº 1 de Hollywood", "a mais precisa entre celebridades": **não usar.** O próprio curso avisa que viola a política da plataforma.
+- **[PREÇO]** "normalmente custa $97": não usar (preço âncora falso; e o aluno já definiu que preço não entra na fala).
 
 **Os que mais servem ao Love Chart:** AD13 (confirmação astrológica), AD23 (signos opostos: ele "se aproxima e depois se afasta" = o padrão do homem que some), AD25 (signos que "entram em conflito"), AD20 (sem rosto no corpo do texto), AD07 (dois homens, comparação), AD08 e AD12 (ex que volta).
 

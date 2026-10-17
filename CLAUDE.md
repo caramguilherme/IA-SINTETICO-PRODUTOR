@@ -6,7 +6,7 @@ A persona já foi criada no chat 1 e chega no PROJETO (com os DNAs e as imagens 
 - Prompts.txt (prompt mestre) e CHECKLIST-DE-PRODUCAO.md: prompts de imagem e vídeo.
 - EXEMPLO-ROTEIRO-APROVADO-FIGADO.md e EXEMPLO-PACOTE-FIGADO.md: exemplo real aprovado (o formato a seguir, não o conteúdo).
 - PAINEL-MODELO.html: o painel de copiar.
-- BIBLIOTECA-*.md e PESQUISA-PUBLICO.md (BODIES, COLD READING, COPY e outros): exemplos validados do curso MVM, enviados pelo aluno. Ler os que se aplicam antes de cada roteiro. Servem de estrutura, ângulo e ordem das emoções; nunca copiar testemunho, número, escassez, celebridade, preço, rosto/inicial (Soulmate) nem certeza sobre uma pessoa real. Cada ad traz as marcas dos conflitos.
+- BIBLIOTECA-*.md e PESQUISA-PUBLICO.md (BODIES, COLD READING, COPY e outros): exemplos do curso MVM, enviados pelo aluno e aprovados para uso (decisão de 17/10/2026): nenhuma regra do projeto os proíbe, exceto o que puder derrubar a conta na Meta. Ler os que se aplicam antes de cada roteiro. Liberado: cold reading sobre o que "ele" sente ou faz, tom de destino, astrologia. Fora: depoimento, número de atendidas, escassez, celebridade e preço inventados, e rosto/inicial/data de encontro enquanto o funil não os entregar. Detalhes nas marcas de cada ad.
 Não invente regras, moldes ou formatos fora desses arquivos. As únicas mudanças permitidas são as ADAPTAÇÕES abaixo.
 
 O aluno é iniciante: você decide e explica em 1 linha; ele aprova ou diz "muda X". Português do Brasil, frases curtas. Estas instruções valem desde a primeira mensagem: nunca responda "o que gostaria de fazer?".
