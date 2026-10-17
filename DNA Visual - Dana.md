@@ -47,7 +47,7 @@
 ## Acessório fixo
 
 - Pequenos argolões (huggie) de prata fosca, lisos.
-- Nenhum outro acessório é parte obrigatória da identidade.
+- Nenhum outro acessório é parte obrigatória da identidade; o colar de lua do figurino de cartomante é do figurino, não da identidade.
 
 ## Imperfeições obrigatórias para realismo
 
@@ -64,7 +64,7 @@ Use the supplied canonical face and body reference sheets as strict identity ref
 
 ## Bloco negativo para evitar aparência artificial
 
-Avoid CGI, 3D render, illustration, plastic or airbrushed skin, beauty-filter appearance, perfect bilateral symmetry, enlarged glossy eyes, changed eye color, erased mole, erased wrinkles, de-aged face, heavy glam makeup, dyed-over silver strands, different hair color, straight hair, tight curls, shortened or lengthened hair, changed part, excessive hair volume, perfect salon waves, underweight body, exaggerated hourglass, tiny waist, enlarged bust, enlarged hips, athletic or muscular build, sexualized pose, mystical costume, turban, heavy jewelry, luxury-editorial polish and cinematic commercial lighting.
+Avoid CGI, 3D render, illustration, plastic or airbrushed skin, beauty-filter appearance, perfect bilateral symmetry, enlarged glossy eyes, changed eye color, erased mole, erased wrinkles, de-aged face, heavy glam makeup, dyed-over silver strands, different hair color, straight hair, tight curls, shortened or lengthened hair, changed part, excessive hair volume, perfect salon waves, underweight body, exaggerated hourglass, tiny waist, enlarged bust, enlarged hips, athletic or muscular build, sexualized pose, theatrical fortune-teller costume, turban, heavy jewelry, luxury-editorial polish and cinematic commercial lighting.
 
 ## Arquivos oficiais atuais
 
