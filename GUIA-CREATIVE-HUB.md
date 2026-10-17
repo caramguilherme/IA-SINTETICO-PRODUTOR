@@ -206,9 +206,51 @@ Technical Settings: STRICTLY a solo monologue. The speaker is completely ALONE. 
 - O site divide o texto em takes sozinho. Os clipes da Dana já estão divididos por cena, com ação e duração próprias; é preciso ver como o site trata um texto curto (uma cena por vez) antes de decidir a melhor forma de colar.
 
 ## Pendente (a registrar nos próximos prints)
-- Prompt final que o site entrega (teste com a fala do R003).
+- Teste de uma cena só (Cena 1 do R003), com o perfil de voz e o tom da Dana, para ver o prompt de um take único.
 - Existência de outros geradores no Creative Hub (menu do topo).
 - Confirmar se "COLE SUA COPY AQUI" e "O QUE A PESSOA FALA NO VÍDEO" se preenchem um ao outro.
 - Botão de gerar e o formato do prompt que o site entrega.
 - Como o site trata um texto curto (uma cena) colado em "COLE SUA COPY AQUI".
 - Outras abas ou geradores do Creative Hub (por exemplo, de imagem).
+
+---
+
+## Parte 2 — Teste com a fala completa do R003 (enviado pelo aluno em 17/10/2026)
+
+**Configuração usada no teste:** Plataforma Flow · fala do R003 colada em "COLE SUA COPY AQUI" · velocidade Média (CTA) · duração Automática · câmera Handheld sutil · estilo UGC moderno handheld · atmosfera Íntimo e confidencial · idioma Inglês · perfil de voz **padrão** (Mística Ancestral) · movimentação vazia.
+
+**O que o site entregou**
+- Cabeçalho: "FLOW (GOOGLE) — 7 TAKES (10s · 8s · 8s · 10s · 10s · 10s · 8s) — gere uma por vez, sempre com a MESMA imagem de referência." Mais: idioma, "Entrega: low, calm and mysterious", velocidade, duração, câmera.
+- **Um bloco por take**, cada um com: número do take, duração, tempo estimado de fala ("fala ≈ 7.9 s"), rótulo (INTRO, BODY, BODY+CTA, CTA) e botão **COPIAR** (e **COPIAR TODAS** no topo).
+- **Estrutura de cada prompt** (em inglês): `Create a single continuous N-second video clip using the supplied reference image...` · `SPOKEN DIALOGUE` (a fala entre aspas) · `VOICE CHARACTERISTICS (LOCKED)` (o perfil de voz inteiro) · `VOICE CONSISTENCY` · `VOICE PACING` (com o tempo estimado de fala) · `VISUAL` (estilo e atmosfera escolhidos) · `CAMERA` · `AUDIO` · `EDITING` · `CONTINUITY` · "Do not add, remove, repeat, rewrite, paraphrase, or alter any spoken words."
+- **Bloco "TODOS OS PROMPTS"**: começa com a ordem do modo agente do Flow ("GOOGLE FLOW AGENT MODE — Generate all 7 video clips below as SEPARATE VIDEO FILES...") e segue com "Prompt 1", "Prompt 2"... (sem os cabeçalhos de take).
+- **FALA — TELEPROMPTER**: duração estimada 0:48, 134 palavras, velocidade Média, com a fala separada em INTRO, BODY e CTA.
+
+**Como o site dividiu a fala do R003 (os cortes NÃO batem com as nossas cenas):**
+
+| Take do site | Duração | O que entrou | Nossa cena |
+|---|---|---|---|
+| 1 | 10 s | gancho + "He texts all day." | Cena 1 + 1ª frase da Cena 2 |
+| 2 | 8 s | "Never makes real plans... It may be a pattern." | resto da Cena 2 |
+| 3 | 8 s | "In astrology... how you love." | Cena 3 |
+| 4 | 10 s | "Think of the last three men..." | Cena 4 |
+| 5 | 10 s | "Most people stop... Would you look? Want to see yours?" | Cena 5 + 1ª frase da 6A |
+| 6 | 10 s | "In my story... Follow me: first seal." | resto da 6A + 1ª frase da 6B |
+| 7 | 8 s | "Comment VENUS: second seal. Then tap my photo..." | resto da 6B |
+
+**Medida do ritmo de fala (da saída do site):** cerca de **0,36 s por palavra** (21 a 23 palavras ≈ 7,5 a 7,9 s; 15 a 17 palavras ≈ 5,4 a 6,1 s). O site só deixa a fala ocupar até **80% do take**: 8 s de take ≈ 6,4 s de fala ≈ **até 17 palavras**; 10 s de take ≈ 8 s de fala ≈ **até 22 palavras**. Nas nossas cenas de 18 a 22 palavras, o site vai pedir 10 s, mesmo onde o painel diz 8 s (por exemplo, o hook do R003, com 18 palavras).
+
+**Problemas encontrados**
+1. **Os takes juntam pedaços de cenas diferentes** (tabela acima). Para o corte bater com as cenas, é preciso colar **uma cena por vez** e gerar um take por cena.
+2. **O perfil de voz padrão (Mística Ancestral, "Black American, 50s-60s") entrou em todos os takes**, e ele descreve outra pessoa que não é a Dana. Trocar por **LIVRE** com o perfil da Dana (Parte 1 deste guia).
+3. **"Entrega: low, calm and mysterious"** veio do Tom de voz padrão. A Dana é calma e firme, não "misteriosa". Trocar o tom (Calorosa e tranquilizadora, ou LIVRE).
+4. **Os takes 2 a 7 mandam começar "na posição exata onde o anterior terminou" ("direct continuation... as if the camera never stopped rolling")**, e o cabeçalho manda usar "a MESMA imagem de referência". No método da Dana, o V1 parte da IMAGEM 1 (carta do hook na mão) e os V2 a V7 partem da IMAGEM 2 (sem carta), não do último quadro do clipe anterior. Gerando uma cena por vez, o site omite o texto de continuação, e a imagem do primeiro quadro é a que o aluno anexa no Flow.
+5. **Movimentação vazia = "minimal natural gestures"** genérico. As ações de cada cena (corpo, mãos, olhar) têm de ir no campo MOVIMENTAÇÃO, uma linha por cena.
+6. **O texto do ritmo diz "CTA pacing... calls to action" em todos os takes**, porque a velocidade escolhida foi "Média — CTA". É inofensivo (a Dana usa só esse ritmo calmo). As outras velocidades são rápidas demais (215 a 225) ou lentas demais (100 a 110) para a Dana.
+7. **O bloco "TODOS OS PROMPTS" é para o modo agente do Flow (todos os clipes de uma vez).** Não serve para a Dana (queremos um clipe por vez, com aprovação, e a imagem do primeiro quadro muda entre o V1 e os demais). Usar o COPIAR de cada take.
+8. **O site não faz as imagens (IMAGEM 1 e IMAGEM 2) nem tem B-roll.** Pelas telas vistas, só monta o prompt de vídeo.
+
+**Método de trabalho proposto para a Dana (a validar com o teste da Cena 1):**
+- **Configurações fixas** (definir uma vez e conferir a cada roteiro): plataforma Flow; velocidade Média; câmera Handheld sutil; atmosfera Íntimo e confidencial; tom Calorosa e tranquilizadora; idioma Inglês; perfil de voz LIVRE (Dana); estilo UGC moderno handheld; continuidade Plano único; duração de cada take Automática.
+- **Por cena (7 vezes por roteiro):** colar só a fala daquela cena em "COLE SUA COPY AQUI"; escrever a linha de movimento da cena em MOVIMENTAÇÃO; gerar; copiar o take; no Flow, anexar a imagem do primeiro quadro (IMAGEM 1 na Cena 1, IMAGEM 2 nas demais) e colar o prompt.
+- **Descrição livre (global)** em "✎ LIVRE — DESCREVA COMO VOCÊ QUER O VÍDEO": uma frase que vale para todos os takes, sem citar objetos específicos de uma cena (a Cena 1 segura a carta; as outras não mexem em carta nenhuma). As regras de carta de cada cena vão na linha de movimento.
