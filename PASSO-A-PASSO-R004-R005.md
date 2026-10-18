@@ -6,7 +6,7 @@ Os painéis trazem tudo para copiar: R004 https://claude.ai/artifact/EhWitx2stFb
 1. **Pré-gancho (7 créditos):** imagem 1 (prato vazio, fio de sal começando), imagem 2 (edição da 1: monte de sal no prato) e vídeo de 4 s no modo **Frames** (imagem 1 no início, imagem 2 no fim). **Compare as duas imagens antes de gerar o vídeo.**
 2. **IMAGEM 1 da Dana** (4 referências anexadas): a Dana com o celular preto e a folha de louro na mão direita. Baixe a imagem (ela também vai para a conta de 48).
 3. **Central:** colagem do R004 (gancho + corpo) → 2 takes de 10 s. Conferir a lista de takes do painel.
-4. **Agente:** anexar a IMAGEM 1, colar o aviso ("Irei enviar 2 prompts…"), colar o "COPIAR TUDO JUNTO". Custo: 7 + 15 + 15 = 37.
+4. **Agente (igual à Central):** anexar a IMAGEM 1, colar o aviso ("Irei enviar 2 prompts…"), colar o "COPIAR TUDO JUNTO" da Central sem editar nada (o bloco já traz a ordem do modo agente, "GOOGLE FLOW AGENT MODE"). Custo: 7 + 15 + 15 = 37.
 
 ## Conta de 48 créditos (R005)
 1. Anexar a mesma IMAGEM 1.

@@ -17,7 +17,7 @@ Este arquivo junta tudo o que já deu errado ou que o aluno pediu. **Antes de en
 12. **Custo conferido** (4 s = 7, 6 s = 10, 8 s = 12, 10 s = 15 créditos) e a sobra para refazer anotada.
 13. **O painel diz o que marcar e o que não marcar**, seção por seção, e os nomes dos arquivos para renomear no Flow.
 15. **Todo prompt que vai para o Flow ou para a Central é em inglês** (prompts de imagem, do pré-gancho, do story, instruções ao agente, fala, movimentação, perfil de voz, LIVRE). Só os textos para o aluno (passo a passo, conferências, avisos) ficam em português. O Flow entende melhor e com mais facilidade em inglês.
-14. **Modo Frames** para o vídeo do pré-gancho (primeiro quadro = imagem 1, último = imagem 2). Os takes da Dana usam a IMAGEM 1 como primeiro e último quadro (aviso do agente).
+14. **Os takes da Dana seguem a Central do curso, igual ela ensina e entrega** (decisão do aluno em 18/10/2026): anexar a IMAGEM 1, colar o aviso do aluno e, embaixo, o bloco "COPIAR TUDO JUNTO" sem editar nada. Esse bloco já traz a instrução oficial "GOOGLE FLOW AGENT MODE" (todos os clipes como vídeos separados, mesma voz, a imagem anexada como referência em todos). Eu não invento modo nem regra para os takes. **O modo Frames (imagem 1 no início, imagem 2 no fim) vale só para o vídeo do pré-gancho**, que não vem da Central.
 
 ## 2. Falhas já vividas (o que aconteceu e a regra)
 | Quando | O que aconteceu | Regra |
