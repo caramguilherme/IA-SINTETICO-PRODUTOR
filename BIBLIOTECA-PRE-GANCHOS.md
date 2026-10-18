@@ -32,5 +32,13 @@ Decisão do aluno (17/10/2026): todo roteiro começa com um **pré-gancho de 3 a
 9. **Vela que se inclina:** a chama de uma vela se inclina na direção de uma carta de tarô virada para baixo e volta ao normal. (Usar só se a carta ficar parada; ver regra P9.)
 10. **Sal que se organiza:** sal numa placa escura vibra e os grãos formam um padrão simétrico (figura de Chladni). Muito visual, sem objeto de mão.
 
+## Ideias vindas dos virais (18/10/2026; ver `BIBLIOTECA-VIDEOS-VIRAIS.md`)
+Os pré-ganchos dos virais duram 2,5 a 3 s, mostram o começo de um ritual com objeto e têm um efeito fácil de ver (fumaça, sal caindo).
+11. **Círculo de sal com canela e louro:** o sal cai em fio e fecha o círculo em volta de paus de canela e folhas de louro (mão e objetos, vista de cima).
+12. **Fumaça de canela e louro:** o centro do círculo é aceso e a fumaça sobe grossa (fumaça e chama longe do rosto; um efeito só).
+13. **Sal no prato:** sal grosso cai de um pote num prato branco no chão, em primeiro plano (o ASMR do sal).
+14. **Entrar e abrir as mãos:** a mulher entra descalça, ajoelha e abre as mãos em concha (corpo e rosto no quadro: a imagem usa as referências da Dana).
+15. **Dedo nos lábios:** pedido de segredo, 1 s, antes da fala (só como corte rápido).
+
 ## Como entra no painel
 O pacote traz `pre_gancho` com: `conceito`, `imagem_prompt` (sem referências), `video_prompt` (4 s, silencioso, primeiro quadro = a imagem), `duracao`, `texto_tela` e `edicao`. O painel mostra a seção "Pré-gancho" antes da IMAGEM 1, com os dois prompts para copiar.
