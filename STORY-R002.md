@@ -16,10 +16,8 @@ CENA: EDIÇÃO da IMAGEM 1 aprovada (use a IMAGEM 1 como imagem-base): mantenha 
 
 ## 2. Texto na tela do story (adicionado no editor do Instagram)
 
-- **Topo (grande):** "PART 2" (em cobre queimado, #B5703B)
-- **Centro (médio, creme #F1E6D3):** "Done swiping? Pick 3 cards."
-- **Abaixo, pequeno:** "Gone in 24 hours"
-- Fonte grossa e legível, com leve sombra. Deixe livre os 14% do topo e os 20% de baixo (a interface do Instagram cobre). O adesivo de link vai no terço de baixo, no centro.
+- **Uma frase só, em uma única cor (creme #F1E6D3), no centro, de 1 a 2 linhas:** "Tap below and pick 3 cards to see his possible face."
+- Fonte grossa e legível, com leve sombra, sem outros textos na tela. Deixe livre os 14% do topo e os 20% de baixo (a interface do Instagram cobre). O adesivo de link vai no terço de baixo, no centro.
 
 ## 3. Texto do adesivo de link (3 a 4 palavras)
 
