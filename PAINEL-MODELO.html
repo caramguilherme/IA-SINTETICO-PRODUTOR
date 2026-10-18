@@ -322,7 +322,7 @@ function montar(silencio){
   $('rid').textContent=(r.id||'Roteiro')+((pk.perfil&&pk.perfil.nome)?' · '+pk.perfil.nome+(pk.perfil.teste?' · teste '+pk.perfil.teste:''):'');
   $('rtitulo').textContent=r.titulo||'';
   $('avisos').classList.add('hide');
-  $('rmeta').textContent=[r.dor&&('Dor: '+r.dor),r.formato&&('Formato: '+r.formato),r.molde_hook&&('Hook: '+r.molde_hook),r.duracao_total&&(r.duracao_total+' s no total')].filter(Boolean).join(' · ');
+  $('rmeta').textContent=[r.dor&&('Dor: '+r.dor),r.formato&&('Formato: '+r.formato),r.molde_hook&&('Hook: '+r.molde_hook),r.duracao_total&&(r.duracao_total+' s no total'),r.leitura_registro&&('Leitura obrigatória (registro): '+r.leitura_registro)].filter(Boolean).join(' · ');
   $('insta').textContent=r.descricao_instagram||'(a IA não entregou a legenda)';
   const tt=pk.texto_tela||{};
   $('telaHook').textContent=tt.hook||'(a IA não entregou o texto dos primeiros segundos)';
