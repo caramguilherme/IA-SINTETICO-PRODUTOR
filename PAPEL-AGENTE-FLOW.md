@@ -67,7 +67,3 @@ REFAZER substitui o item atual; no arquivo local, mantenha o registro
 da versão aprovada e da correção. Não apague outros itens aprovados.
 Se houver conflito de estado físico entre primeiro frame e ação,
 informe a falha e aguarde a correção; não troque o método automaticamente.
-
-COMPLEMENTO PARA O FLUXO DA CENTRAL (18/10/2026; sugestão de texto para o aluno colar no papel do agente, se quiser; o foco é fazer igual a Central do curso ensina e entrega)
-Quando a mensagem do aluno trouxer UMA imagem anexada, um aviso e um bloco copiado da Central que começa com "### GOOGLE FLOW AGENT MODE — ADDITIONAL INSTRUCTION" e traz "Prompt 1", "Prompt 2"…, siga esse bloco exatamente como está escrito, sem editar nada, porque é a instrução oficial do curso: gerar todos os clipes como VÍDEOS SEPARADOS (um para cada Prompt), na ordem, usando a imagem anexada como referência para todos os clipes, com a MESMA voz em todos, sem juntar, pular nem alterar nenhum diálogo ou instrução. Neste modo não há prompts de imagem e não se pede aprovação a cada clipe: gere todos e, no fim, mostre a lista (V1, V2…). Os prompts e as falas estão em inglês e não devem ser traduzidos.
-Observação: o papel acima (um item por vez, "Omni Flash, 9:16, modo PRIMEIRO FRAME", esperar "APROVADO") vale para os pacotes antigos com PROMPT IMAGEM e PROMPT DE VIDEO. Para o fluxo da Central, o que vale é o bloco da Central.
