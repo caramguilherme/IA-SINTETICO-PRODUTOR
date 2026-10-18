@@ -10,7 +10,7 @@ Decisão do aluno (17/10/2026): todo roteiro começa com um **pré-gancho de 3 a
 - **O Flow é literal:** descrever o estado inicial, a ação e o estado final, e dizer o que não muda no quadro.
 - **Imagem do pré-gancho e vídeo são dois prompts** (a imagem vira o primeiro quadro do vídeo de 4 s, 9:16). O prompt da imagem entra antes da IMAGEM 1 no painel.
 - **Não repetir** o pré-gancho do roteiro anterior (ver VÍDEOS FEITOS no PROJETO).
-- **Fora (risco de conta ou de reprovação):** roupa íntima ou nudez (política de nudez e sexual), sangue, animal ferido ou morto, chama perto do rosto, texto longo, promessa de cura.
+- **Fora (risco de conta ou de reprovação):** nudez ou pose sexual (roupa íntima sem nudez foi liberada em 18/10/2026, P15), sangue, animal ferido ou morto, chama perto do rosto, texto longo, promessa de cura.
 
 ## Lições do Flow para efeitos (R003, versão 1)
 - **Um efeito só.** Uma cadeia (fósforo → sal pega fogo → vela acende) fez o Flow pular o efeito principal. O pré-gancho tem UM efeito "herói" e mais nada que precise acontecer.

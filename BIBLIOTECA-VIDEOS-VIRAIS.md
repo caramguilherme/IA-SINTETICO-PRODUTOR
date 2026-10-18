@@ -229,8 +229,8 @@ Outras peças que o R04 usa e servem de modelo (cold reading e promessa de desti
 - ✅ (liberado) **Ameaça de azar** por pular o vídeo: "if you skip this video you will continue experiencing bad luck for the next six months", "if you ignore this, it will not happen", "the blessings will turn against you".
 - ✅ (liberado) **Garantia financeira e prazos exatos:** "I guarantee you're about to become a millionaire", "in 33 minutes you'll receive news that changes your financial life", "exactly at 11:11 am", "24 hours, this person is confessing", "a huge amount of money will land in your bank account".
 - **Falar em nome de um parente falecido** ("a family member who passed away and is now in heaven asked me to deliver a message", R12 e R13): manipulação emocional e risco de denúncia. Fora.
-- **Vender "âncora de manifestação física"** (R08, R12, R13): é o gancho de uma oferta específica. Fora, a menos que o aluno tenha oferta própria.
-- **Imagens de risco:** roupa íntima (R04), carne crua em close (R06), crucifixo e cemitério (R13), garrafa de bebida com a marca visível (R08, R12), estátuas religiosas. O pré-gancho e o cenário da Dana ficam sem isso.
+- ✅ (liberado, só se o story entregar algo que combine) **Vender "âncora de manifestação física"** (R08, R12, R13): é o gancho de uma oferta específica. Fora, a menos que o aluno tenha oferta própria.
+- ✅ (liberado) **Imagens de risco:** roupa íntima (R04), carne crua em close (R06), crucifixo e cemitério (R13), garrafa de bebida com a marca visível (R08, R12), estátuas religiosas. O pré-gancho e o cenário da Dana ficam sem isso.
 - **"One last extremely important detail you cannot forget" + prazo + "universe demands immediate obedience"** (R08, R12, R13): linguagem de coerção.
 - **"You are the chosen one"** em excesso: uma vez, como cold reading, é seguro; repetido vira promessa de exclusividade.
 
@@ -248,4 +248,6 @@ O aluno autorizou na fala, na legenda e no comentário fixado da Dana, por ser o
 | São Miguel e "comment 222 + seu nome" | "St. Michael sent this warning." "Comment 222 followed by your name." (a Dana pode alternar com o código de palavra) |
 | Datas e dias da semana na fala | "If you're watching this before October 20th…" "If you found this on a Tuesday…" (a data deve ser a da postagem; o aluno informa quando for postar) |
 
-**Continua fora (o aluno não listou):** falar em nome de parente falecido, vender "âncora de manifestação" ou outra oferta, roupa íntima, carne crua, crucifixo e cemitério, marca de bebida visível, depoimento, número de atendidas, celebridade e preço inventados, benefício de saúde, nome do app, preço, pagamento, comissão e afiliado. O limite de 22 palavras por fala, o inglês dos EUA e o "possible/might" para o que o quiz mostra continuam valendo.
+**Segunda autorização (mesmo dia):** ameaça de azar com prazo, garantias e prazos exatos ("millionaire", "in 33 minutes", "in 24 hours he confesses"), "âncora de manifestação" (só quando o story entregar algo que combine), e imagens de roupa íntima (sem nudez), carne crua, crucifixo, cemitério e garrafa de bebida com rótulo visível (rótulo genérico no prompt; o modelo pode deformar marca real).
+
+**Continua fora (fato fabricado, não promessa de destino):** depoimento ou história de cliente inventada, número de atendidas, celebridade e preço inventados, benefício ou cura de saúde, falar em nome de parente falecido (só se o aluno pedir pelo nome), e nome do app, preço, pagamento, comissão e afiliado. O limite de 22 palavras por fala, o inglês dos EUA e o "possible/might" para o que o quiz mostra continuam valendo.
