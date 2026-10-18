@@ -316,3 +316,69 @@ Dá o esqueleto de um Soulmate "completo" em 58 s: signo, segredo, portal, "o ho
 7. **Culpa antes do story:** "Don't leave without the second part. It's in my story."
 
 O que não entra continua como nas seções 5, 11 e 12 (P15): depoimento, número de atendidas, celebridade e preço inventados, benefício ou cura de saúde, parente falecido (só se o aluno pedir pelo nome), e nome do app, preço, pagamento, comissão e afiliado.
+
+---
+
+# QUARTA LEVA (18/10/2026): 8 arquivos, U1 a U8 (7 vídeos diferentes)
+
+O U1 e o U3 são o mesmo vídeo. Todos são de manifestação, com o corpo de selos e story que já conhecemos, e trazem formas novas de abrir o vídeo (pré-gancho e gancho).
+
+## 16. Resumo por vídeo
+
+| Vídeo | Duração | Palavras | Palavras/s | Pré-gancho (visual) | Gancho falado |
+|---|---|---|---|---|---|
+| **U1 = U3** | 170 s | 463 | 2,7 | homem despeja sal de uma lata (marca visível) em um cálice com brasas e fumaça (o ritual já acontece enquanto ele fala) | explica o que cada objeto significa (sal grosso, canela com moedas, folha de louro na carteira, vela vermelha, ametista) e fecha com "I know it sounds ridiculous, but you'll thank me for the rest of your life" |
+| **U2** | 126 s | 315 | 2,5 | 5 s: homem despeja sal rosa em um vaso sanitário e dá descarga, com o texto "When you need urgent and unexpected money" | "If something extraordinary doesn't happen in your life before October 20th, I'll change my name." |
+| **U4** | 119 s | 294 | 2,5 | macro de 4,6 s: mão joga cravos e depois sal sobre brasas, sobem fumaça e faíscas | "Keep your mouth shut after you watch this." |
+| **U5** | 134 s | 345 | 2,6 | cozinha: ela despeja álcool e canela em pó numa travessa, falando a instrução | "Mix alcohol with cinnamon powder. I know it sounds ridiculous, but you'll thank me for the rest of your life." |
+| **U6** | 72 s | 199 | 2,8 | ela entra por uma porta e sopra um pó dourado na lente (≈ 4 s) | "Congratulations! The money you've been waiting for has arrived." |
+| **U7** | 103 s | 265 | 2,6 | ela levanta o tapete e uma tábua do piso e revela um compartimento escondido; depois segura uma barra de ouro com o buraco aberto no chão à frente | "I'll change my name if this message doesn't transform your life." |
+| **U8** | 74 s | 208 | 2,8 | em primeira pessoa, a mão cola uma folha de louro atrás do celular; depois câmera no chão, celular e folha no chão do quadro | "Put a bay leaf behind your phone, and don't tell anyone, absolutely anyone, about what's going to happen." |
+
+Em todos há "222" no canto esquerdo e "11:11" no canto direito (U1, U2, U4), legenda palavra a palavra em serifa grossa branca no centro, uma **seta vermelha pequena no canto inferior no fim** apontando para a foto do perfil (U6, U7, U8) e, nos vídeos de pé ou agachados, **dedo apontando para a lente** durante o corpo todo.
+
+## 17. O que esses 8 mostram de novo
+
+### 17.1 O gancho de instrução com ritual na tela é o mais usado
+Quatro dos sete abrem com uma **instrução curta e estranha, acompanhada do próprio ritual feito na tela**, e a pessoa fala enquanto faz:
+- "Put a bay leaf behind your phone, and don't tell anyone, absolutely anyone, about what's going to happen." (U8)
+- "Mix alcohol with cinnamon powder. I know it sounds ridiculous, but you'll thank me for the rest of your life." (U5)
+- "Coarse salt symbolizes cleansing… I know it sounds ridiculous, but you'll thank me for the rest of your life." (U1, o ritual é explicado objeto por objeto)
+- Pré-gancho de ritual (sal na privada, sal e cravo nas brasas) com a promessa só no texto do topo (U2, U4).
+A frase "I know it sounds ridiculous, but you'll thank me for the rest of your life" vira ponte de credibilidade: admite a estranheza e promete valor.
+
+### 17.2 Pré-gancho "revelação de esconderijo" (U7)
+Levantar o tapete e uma tábua do piso e revelar um compartimento escondido, com o texto "It happens so few, it's almost scary" (o mesmo texto do S/V3). O buraco aberto **fica no quadro o vídeo todo**, e a barra de ouro na mão amarra o tema. Para a Dana (amor): um compartimento secreto com uma carta, um diário ou uma chave dentro (segredo que ele guarda).
+
+### 17.3 Instrução curta que vira "objeto no quadro"
+No U8 o objeto do ritual (celular e folha de louro) acaba no chão, no quadro, e a câmera fica baixa, no nível do chão, com ela agachada. Combina com o nosso padrão do pré-gancho que reaparece no hook.
+
+### 17.4 Frases novas de promessa, cold reading e CTA
+- **Proteção e garantia:** "The woman who stopped on this video is officially protected from any disappointment for the rest of 2026." "If you followed every step correctly, your protection for the rest of the year is guaranteed." (U1)
+- **Emoção prometida:** "You're going to cry like a baby when you realize what is happening in your favor." (U5) e "Almost everyone cries when they see what I left there. The exact sign you've been waiting for is waiting for you right now." (U1, CTA do story).
+- **Conexão como condição:** "Your connection with this message determines the size of the miracle that's about to enter your life." (U1)
+- **Aviso espelhado:** "If you turn your back on this message, the blessings will turn their backs on you too." (U2) e "If you ignore this blessing from the universe, it will ignore you too." (U7)
+- **Cadeias quebradas e corte de maldição:** "The chains keeping you trapped… are being broken", "the love block cast on you is going straight back to whoever sent it" (todos; já liberado pelo P15).
+- **Prazos variados:** 3, 7, 12 e 33 minutos; "tomorrow at 11 am / 12 pm"; "within the next few days"; "the rest of October will be unforgettable for you".
+- **Amor + dinheiro juntos (U8):** "Archangel Michael is showing me someone who is about to enter your life, and this person doesn't just bring love. They bring money with them… this person will open a door that you were never able to open on your own." É a única frase de Soulmate do lote e serve de modelo para a Dana.
+- **Seguir como selo (U1):** "Save this video, that's your first seal. Tap the follow button down below, that's your second seal. Comment 222." Fecha com "go watch my latest story before it disappears."
+- **Códigos de palavra:** "amen" (U6, U8), "chosen" (U7), além do 222.
+- **Parte 2 como "o que deixei no story":** "see what I left in my stories", "I posted something there for a very limited time", "I left something there", "the second part of the sign".
+
+### 17.5 Formato e tamanho
+- 72 a 170 s, 199 a 463 palavras. Os mais curtos (U6, U8) têm 72 e 74 s e 200 palavras, sem a parte de "limpeza" do corpo (só promessa, selos e story).
+- O U1/U3 tem 170 s porque começa com uma **aula curta** sobre o que cada objeto simboliza (credibilidade) antes do corpo.
+- Vários perfis (homem asiático, mulher tatuada de cabelo curto, mulher de dreads) dizem **o mesmo roteiro**, com pequenas diferenças. O que muda a conversão é o pré-gancho e o objeto.
+
+## 18. O que entra na Dana a partir daqui (somando às seções 4, 10 e 15)
+
+1. **Gancho de instrução com ritual na tela** como molde principal dos próximos roteiros: uma frase curta e estranha + ela fazendo o ritual enquanto fala + "I know it sounds ridiculous, but you'll thank me for the rest of your life". Exemplos para Soulmate: "Put a bay leaf behind your phone tonight" (o U8 usa exatamente isso), "Put a bay leaf inside your pillowcase and don't tell anyone", "Write his name on a bay leaf and burn it" (sem chama perto do rosto), "Put salt in a glass of wine before you leave the house".
+2. **Pré-gancho de esconderijo** (U7): compartimento secreto com algo dentro, ligado ao que "ele esconde" (R003 já fala em "two things").
+3. **Frase de transição para o corpo:** "I know it sounds ridiculous, but you'll thank me for the rest of your life."
+4. **Emoção prometida e proteção:** "You're going to cry when you realize what's happening in your favor." "The woman who stopped on this video is protected from heartbreak for the rest of the year."
+5. **Selos com seguir:** curtir/salvar, seguir, comentar 222 (U1). O R003 já usa enviar para si e comentar 222; o "seguir" é um selo a mais, útil para crescimento de perfil.
+6. **CTA de story por curiosidade:** "Almost everyone cries when they see what I left there." / "See what I left in my story before it disappears."
+7. **Amor + dinheiro:** "this person doesn't just bring love, they open a door you could never open on your own" (U8).
+8. **Seta vermelha no fim, "222" no canto esquerdo e "11:11" no direito** como padrão de edição (o aluno decide).
+
+O que continua fora está na seção 12 (P15).
