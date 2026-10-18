@@ -37,7 +37,7 @@ Fonte: curso MVM (Mind · Values · Money), Copy Hub, aba COPY ("Conceitos e fra
 - **Curiosidade (2):** o mais usado (R001, R003).
 - **Identificação (4):** só com história que não seja inventada (a Dana não conta caso de cliente; vale a identificação pelo comportamento da espectadora).
 - **Raiva / injustiça (3):** liberado ("ela encontrou seu nome no celular dele" é o gancho #44 de `hooks.md`); sem insultar uma pessoa.
-- **Medo / ameaça (1):** liberado como ângulo (decisão do aluno, 17/10/2026). Sem insulto à espectadora e sem prometer uma perda real.
+- **Medo / ameaça (1):** liberado como ângulo (decisão do aluno, 17/10/2026) e ampliado em 18/10/2026 (P15: ameaça de azar por pular o vídeo, prazo e garantia). Sem insulto à espectadora.
 - **Novidade / mecanismo (5):** combina com o Love Chart (Vênus, a Lua da noite do nascimento), sem data nem raridade inventada.
 - **Prova social (6):** só com história real e com permissão; a Dana não inventa (ver `BIBLIOTECA-BODIES.md`).
 
@@ -58,7 +58,7 @@ Fonte: curso MVM (Mind · Values · Money), Copy Hub, aba COPY ("Conceitos e fra
 3. **Quebra de objeções:** identificação (a situação específica) → tirar a culpa ("it wasn't your fault", "not bad luck") → diferença (o Vênus, não o signo solar).
 4. **Função de cada linha:** cada fala deve fazer ouvir a seguinte; por isso as falas têm no máximo 22 palavras e terminam em gancho.
 5. **Loops Zeigarnik:** o loop abre no hook e fecha no story (já é a regra do FUNIL DE CONVERSÃO).
-6. **Especificidade:** a premissa fica **sem número inventado.** A especificidade da Dana vem de detalhes reais e reconhecíveis (a mensagem que fica em "Delivered", a conversa que ela ensaia, três homens que a deixaram na dúvida), não de estatísticas. Ver `BIBLIOTECA-BODIES.md` e o PROJETO-Dana.md.
+6. **Especificidade:** a premissa fica **sem estatística, depoimento nem número de atendidas inventados** (prazos e garantias de destino, como "in 24 hours", são liberados pelo P15). A especificidade da Dana vem de detalhes reais e reconhecíveis (a mensagem que fica em "Delivered", a conversa que ela ensaia, três homens que a deixaram na dúvida), não de estatísticas. Ver `BIBLIOTECA-BODIES.md` e o PROJETO-Dana.md.
 
 ## 5. Hierarquia de prova
 

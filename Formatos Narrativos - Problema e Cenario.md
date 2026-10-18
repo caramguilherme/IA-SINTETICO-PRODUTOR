@@ -189,3 +189,4 @@ Com seis cenas, manter o checklist na Cena 2, interpretar o primeiro grupo de si
 - A lista de razões (hook com "três razões") vale no Formato 1 ou nas Estruturas E e F: cada cena entrega uma razão e a última é a mais pessoal.
 - A miniobjeção da Cena 5 vira curiosidade ("você olharia, se pudesse?"). Ela não nega as cartas nem a oferta.
 - A promessa do hook é entregue na segunda parte, no story, não no próprio vídeo.
+- **Formato micro de 3 takes (P17, 18/10/2026):** quando os créditos forem curtos, pré-gancho + gancho + corpo + CTA condensado compartilhado entre vídeos (3 takes de 8 s, até 22 palavras cada). Mapa: `1. Gancho → 2. Corpo (cold reading + previsão) → 3. CTA (selos + story)`. A série por signos refaz só o gancho. Ver `PLANO-CREDITOS-R004-R005.md`.

@@ -44,7 +44,7 @@ Criar imagem mental nas falas não significa gerar um prompt na fase de roteiro.
 
 Preferir afirmações que possam ser conferidas: quantidade realmente usada, etapa mostrada, utensílio dispensado, consistência desejada, condição de preparo ou erro observável.
 
-Não inventar prazos de resultado, medidas, porcentagens, depoimentos, testes ou números para dar aparência de prova. “Em três dias” e “melhorou 80%” só entram com informação real pertinente. Não afirmar que um resultado é verdadeiro apenas porque poderia ser falsificado.
+Não inventar prazos de resultado, medidas, porcentagens, depoimentos, testes ou números para dar aparência de prova. **Na Dana (P15, 18/10/2026):** prazos e promessas de resultado de destino ("in the next few days", "tomorrow", "in 24 hours") estão liberados pelo aluno; continuam fora porcentagens, estatísticas, depoimentos e testes inventados. “Em três dias” e “melhorou 80%” só entram com informação real pertinente. Não afirmar que um resultado é verdadeiro apenas porque poderia ser falsificado.
 
 Distinguir instrução de resultado: o tempo de freezer documentado é etapa de preparo; prometer melhora de saúde no mesmo prazo é outra alegação. A aprovação de uma fala não cria métricas reais de publicação.
 

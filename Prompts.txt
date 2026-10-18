@@ -204,7 +204,7 @@ Depois de `## PROMPTS DE VÍDEO — TESTE A` e `## PROMPTS DE VÍDEO — TESTE B
 9. ADAPTAÇÃO DANA (17/10/2026)
 ==================================================
 
-- Uma única persona, sem Teste B e sem CTA por perfil. O painel traz 2 imagens e 7 clipes (6 cenas) ou 6 clipes (5 cenas).
+- Uma única persona, sem Teste B e sem CTA por perfil. **Atualização de 17 e 18/10/2026 (P12, P16 e P17 do CLAUDE.md):** o painel da Dana traz UMA imagem (IMAGEM 1, primeiro e último quadro de todos os takes), e os prompts de vídeo saem da Central do curso, não deste modelo; todo prompt para o Flow e para a Central é em inglês; o formato micro (pré-gancho + gancho + corpo + CTA compartilhado) substitui as 5 ou 6 cenas quando os créditos forem curtos. Este arquivo continua valendo para a lógica de hook visual, estabilidade e B-roll.
 - A voz vem de `perfil.voz` (americana, calma e firme) e a cena é de um ambiente doméstico americano. Não há pet, Manual nem capa.
 - A descrição do Instagram, em inglês, é sempre agressiva: abre com o gancho do roteiro, toca a ferida em frases curtas e termina com a ação (salvar, comentar o código, tocar na foto, story). Sem nota de rodapé. Não começa com "Comenta Receita".
 - Siga o FUNIL DE CONVERSÃO do PROJETO-Dana.md e a adaptação P6 do CLAUDE.md.
