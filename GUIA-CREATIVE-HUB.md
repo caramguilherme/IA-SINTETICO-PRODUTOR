@@ -1,5 +1,7 @@
 # GUIA DO CREATIVE HUB (central.mvmcreators.com.br/appyon/creative-hub)
 
+> **Atualização de 18/10/2026:** a velocidade usada desde o R003 é a **Rápida (BODY)**, para gastar menos créditos; as passagens deste guia sobre a Média (22 palavras por take, 7 takes) são do primeiro teste e estão superadas. Valem a seção final "Teste do R003 com velocidade Rápida" e as regras do `LICOES-FLOW-E-PROMPTS.md`. Todo prompt para a Central é em inglês.
+
 Este arquivo registra o que o aluno mostrou do site (prints enviados em 17/10/2026). O site é restrito à Turma Legacy; só o que o aluno enviou está aqui. O passo a passo por roteiro será montado depois, a partir deste registro.
 
 ## Parte 1 — Gerador de prompts: ANIMAÇÃO

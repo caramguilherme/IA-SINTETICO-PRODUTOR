@@ -2,6 +2,10 @@
 
 Status: funil ativo = **Soulmate**. Série por signos dos virais (S3): este é o grupo Terra (Touro, Virgem e Capricórnio); os outros grupos (Áries/Leão/Sagitário, Gêmeos/Libra/Aquário, Câncer/Escorpião/Peixes) refazem **só o Take B1**. Usa a mesma IMAGEM 1 e o **mesmo CTA (clipe C)** do R004. Falas em inglês dos EUA; a tradução é só para o aluno aprovar.
 
+## Leitura obrigatória (registro)
+Pente fino de 18/10/2026: antes desta revisão li inteiros `CLAUDE.md`, `PROJETO-Dana.md`, `PAPEL-AGENTE-FLOW.md`, `CHECKLIST-DE-PRODUCAO.md`, `DNA Visual - Dana.md`, `FOTO-PERFIL-DANA.md`, `REGISTRO-DE-PERSONAS.md`, `PASSO-A-PASSO-R003-HUB.md` e as seções de regras de `hooks.md` (1 e 6), `COMUNICACAO-VISCERAL-E-FALADA.md` (9 e 10), `ctas.md` (Dana) e `GUIA-CREATIVE-HUB.md`; as bibliotecas, os virais (V, R, S e U) e `ROTEIRO-R003` foram lidos e analisados antes de escrever os roteiros R004 e R005. A partir do próximo roteiro, a leitura de TODOS os arquivos de `LEIA-TUDO-ANTES.md` é feita antes de escrever e registrada aqui.
+**Conferência da seção 9 de COMUNICACAO-VISCERAL e do hook visual (hooks.md, seção 1):** cena concreta (o celular com a folha na mão, o homem que digita e some): sim; frase de conversa: sim; situação reconhecível: sim; promessa de resultado e prazo vêm do P15, sem inventar depoimento ou número: sim; objeto em evidência e perto da lente, em primeiro plano, com contraste (folha verde sobre celular preto, suéter ameixa neutro): sim; ação já acontecendo (o ritual no pré-gancho e o gesto de apontar): sim.
+
 ## Base do curso usada (registro)
 - **Hook:** **virais S3, gancho por signos** ("Taurus, Virgo, or Capricorn, pay very close attention") + **ângulo 1 (ação específica dele)** + **ângulo 3 (previsão com prazo)**. Não repete o hook do R004 (instrução com ritual) nem os do R003.
 - **Cold reading:** "o homem que o universo guardou para você está sendo liberado" (S3), "as correntes que te mantinham sozinha estão se quebrando" (S3, U1), "fique de olho no celular amanhã".

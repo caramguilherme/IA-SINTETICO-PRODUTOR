@@ -2,6 +2,10 @@
 
 Status: funil ativo = **Soulmate**. Formato curto para economizar créditos (ver `PLANO-CREDITOS-R004-R005.md`): pré-gancho + gancho + corpo + CTA compartilhado com o R005. Persona: Dana Hollis (@straighttalktarot). Falas em inglês dos EUA; a tradução é só para o aluno aprovar. Linguagem dos virais liberada pelo P15 (previsão com prazo, "don't tell anyone").
 
+## Leitura obrigatória (registro)
+Pente fino de 18/10/2026: antes desta revisão li inteiros `CLAUDE.md`, `PROJETO-Dana.md`, `PAPEL-AGENTE-FLOW.md`, `CHECKLIST-DE-PRODUCAO.md`, `DNA Visual - Dana.md`, `FOTO-PERFIL-DANA.md`, `REGISTRO-DE-PERSONAS.md`, `PASSO-A-PASSO-R003-HUB.md` e as seções de regras de `hooks.md` (1 e 6), `COMUNICACAO-VISCERAL-E-FALADA.md` (9 e 10), `ctas.md` (Dana) e `GUIA-CREATIVE-HUB.md`; as bibliotecas, os virais (V, R, S e U) e `ROTEIRO-R003` foram lidos e analisados antes de escrever os roteiros R004 e R005. A partir do próximo roteiro, a leitura de TODOS os arquivos de `LEIA-TUDO-ANTES.md` é feita antes de escrever e registrada aqui.
+**Conferência da seção 9 de COMUNICACAO-VISCERAL e do hook visual (hooks.md, seção 1):** cena concreta (o celular com a folha na mão, o homem que digita e some): sim; frase de conversa: sim; situação reconhecível: sim; promessa de resultado e prazo vêm do P15, sem inventar depoimento ou número: sim; objeto em evidência e perto da lente, em primeiro plano, com contraste (folha verde sobre celular preto, suéter ameixa neutro): sim; ação já acontecendo (o ritual no pré-gancho e o gesto de apontar): sim.
+
 ## Base do curso usada (registro)
 - **Hook:** **gancho de instrução com ritual na tela** dos virais (U8: "Put a bay leaf behind your phone, and don't tell anyone"; U5 e V2: "I know it sounds ridiculous…"), com o **ângulo 3 (previsão com prazo)**. Não repete o gancho #25 nem os ângulos 5 e 4 do R003 (nem o pré-gancho de sal em chamas).
 - **Cold reading:** "o homem que não consegue parar de pensar em você e esconde algo" (AD03 observa online, AD20 observa em silêncio, ganchos #13 e #17, "algo o segura").

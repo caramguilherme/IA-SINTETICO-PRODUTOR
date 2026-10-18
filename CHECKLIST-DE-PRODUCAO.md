@@ -90,13 +90,21 @@
 - [ ] A 6A descreve o que o story mostra com "possível" e "pode" e não cita app, preço, pagamento nem comissão.
 - [ ] A 6B pede 1 ou 2 selos e leva à foto do perfil, ao story e ao link.
 - [ ] Cada fala tem até 22 palavras e cabe no clipe sem acelerar a voz.
-- [ ] O texto de tela do hook, das razões e do CTA foi entregue fora do painel.
+- [ ] O texto de tela é só o do hook (primeiros segundos); sem textos de razões nem de CTA (18/10/2026).
 - [ ] Figurino de cartomante místico sutil, diferente do roteiro anterior, igual nas duas imagens e em todos os clipes.
 - [ ] Voz americana, calma e firme. Sem pet, sem Manual e sem capa.
 - [ ] O baralho descrito é de tarô (cartas altas e estreitas, verso escuro ornamentado em dourado), não de baralho de jogar.
-- [ ] A legenda do post é agressiva, curta, termina com a ação e não tem nota de rodapé nem insulto, ameaça ou promessa de encontro.
-- [ ] O pacote do story foi entregue: prompt da imagem sem texto, texto na tela e adesivo de link com 3 a 4 palavras, sem afiliado, link, comissão, preço ou assinatura.
-- [ ] O painel traz `texto_tela` com o hook dos primeiros 3 s e os textos das razões e do CTA, e a "Legenda Insta/Face".
-- [ ] Cada texto de tela (hook, razões e CTA) indica a frase em que começa e a frase em que termina, não segundos.
+- [ ] A legenda do post é agressiva, curta, termina com a ação e não tem nota de rodapé nem insulto à espectadora (prazo, urgência e ameaça de azar estão liberados pelo P15).
+- [ ] O pacote do story foi entregue: prompt da imagem sem texto (em inglês), texto na tela em UMA frase de 1 a 2 linhas e adesivo de link com 3 a 4 palavras, sem afiliado, link, comissão, preço ou assinatura.
+- [ ] O painel traz `texto_tela` só com o hook dos primeiros segundos (`extras` vazio), marcado pela frase em que começa e termina (não por segundos), e a "Legenda Insta/Face".
 - [ ] O painel traz `comentario_fixado` (Instagram e Facebook), curto, agressivo, levando ao story, sem afiliado, link, preço ou assinatura.
 - Funil Love Chart (a partir de 19/10/2026): a 6A descreve só o que o quiz mostra (Vênus, padrão de amor, perfect match), com "astrology"; sem desenho do rosto, iniciais ou data de encontro; a virada "not bad luck, a pattern, your Venus not your sun sign" está presente; o primeiro frame tem um objeto em close; story com o texto "Find your Venus. Name your pattern." e o adesivo "Find my Venus"; roteiro antigo com a 6A do Soulmate recebe só o take novo.
+
+## Dana — adições de 18/10/2026 (conferir antes de entregar; ver também `LICOES-FLOW-E-PROMPTS.md`)
+- [ ] Li TODOS os documentos de `LEIA-TUDO-ANTES.md` e o roteiro traz a seção "Leitura obrigatória (registro)".
+- [ ] Todo prompt para o Flow e para a Central está em inglês (imagens, pré-gancho, story, instruções ao agente, fala, movimentação, voz).
+- [ ] O pré-gancho espelha um viral (qual?), tem movimento e efeito visível, só um efeito, e vai no modo Frames com imagem 1 e imagem 2 claramente diferentes; o painel manda comparar as imagens antes de gastar crédito.
+- [ ] Hook, objeto, texto do topo e edição espelham os virais de `BIBLIOTECA-VIDEOS-VIRAIS.md`, e o roteiro registra o modelo de cada peça.
+- [ ] A linguagem dos virais (P15) foi usada onde ajuda a converter; nada de depoimento, número de atendidas, celebridade, preço inventados, benefício de saúde, nome do app, preço, pagamento, comissão ou afiliado.
+- [ ] Custo em créditos calculado (4 s = 7, 6 s = 10, 8 s = 12, 10 s = 15) e sobra para refazer anotada; formato micro (P17) quando os créditos forem curtos.
+- [ ] O painel diz o que marcar e o que não marcar, seção por seção, os nomes dos arquivos para renomear e o aviso do agente (com a versão em inglês).

@@ -72,3 +72,12 @@ Avoid CGI, 3D render, illustration, plastic or airbrushed skin, beauty-filter ap
 - `facial_reference_contact_sheet.png`: referência facial oficial em nove ângulos.
 - `body_turnaround_model_sheet.png`: referência corporal oficial em frente, perfil esquerdo e costas.
 - `ugc-natural-validacao-v1.png`: validação da identidade em ambiente doméstico vertical.
+
+## Mapa das referências e trava de estilo, em inglês (usados nos prompts do Flow)
+
+Todo prompt que vai para o Flow ou para a Central é em inglês (decisão de 18/10/2026). O painel monta o prompt de imagem assim: `VISUAL REFERENCE LOCK` + este mapa + a âncora e o bloco negativo acima + `FIXED OUTFIT` + `UGC STYLE LOCK` + `SCENE`.
+
+- **Mapa:** There is no pet in this project: no animal appears in any scene. MAP OF THE ATTACHED REFERENCES (all show the SAME woman, Dana Hollis): (a) smiling selfie in a beige t-shirt in a bright room; (b) body sheet with three views on a white background; (c) face sheet with nine angles of the face; (d) photo of her seated at a round wooden table with tarot cards, in a deep teal sweater. The face in the final image must be the same person as in these photos: same face shape, eyebrows, nose, lips and mature 47-year-old skin with visible expression lines, without smoothing or rejuvenating. Copy the face from references (a) and (c); do not invent a new face.
+- **UGC STYLE LOCK (image):** vertical 9:16 image, photorealistic, shot in an American home with the spontaneous look of a smartphone. Natural light, real skin, fabric and hair textures, casual and slightly imperfect framing. The camera stays out of frame. No text, caption, logo, watermark or advertising look.
+- **Tarot deck:** tall, narrow tarot cards with softly rounded corners, a dark midnight-blue back with a symmetrical ornamental pattern in matte gold (sun, crescent moon and stars) and a thin gold border, no suits, numbers or letters.
+- **Hands:** Anatomically correct hands and fingers, five fingers on each hand. Do not rejuvenate or smooth the skin.

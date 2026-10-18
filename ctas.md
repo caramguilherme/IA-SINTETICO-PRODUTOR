@@ -60,6 +60,7 @@ Sem Manual, sem capa e sem sorteio. O CTA continua em duas partes, cada uma com 
   - **A partir de 19/10/2026 (funil Love Chart; aviso oficial de 17/10):** a 6A diz o que o quiz faz, na ordem oficial: "a free quiz that finds your Venus sign, names your love pattern and shows your perfect match and the months love is most open for you", encurtado para caber em 22 palavras, com "astrology". Exemplo aprovado: "In my story, a free astrology quiz finds your Venus, names your love pattern and shows your perfect match." Sem desenho do rosto, iniciais nem data de encontro. A 6B continua com os selos e o story, sem DM. Para vídeos prontos com a 6A antiga, entregar só o take novo (arquivo TAKE-NOVO). Ver PROJETO-Dana.md, seção FUNIL LOVE CHART.
 - **B (ação):** 1 ou 2 selos conforme o roteiro (comentar um código como 222 ou YES, salvar, mandar para si ou para uma amiga, seguir), e depois tocar na foto do perfil e abrir o story antes que ele suma em 24 h. Exemplo: "Save this: first seal. Comment 222: second seal. Then tap my profile photo and open my story before it disappears."
 - Nunca prometer mandar algo por DM. O link está só no story.
+- **CTA do formato micro (R004 e R005, 18/10/2026):** um clipe só de 8 s e até 22 palavras, o mesmo nos dois vídeos: "Send this to yourself. Comment 222. Open my story, pick 3 cards, and see his possible face and when you might meet." (condensa a 6A e a 6B; sem as iniciais por causa do limite de palavras).
 
 ## Exemplos validados do curso MVM — CTAs orgânicos (17/10/2026)
 

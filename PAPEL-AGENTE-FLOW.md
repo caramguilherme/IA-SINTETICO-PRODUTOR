@@ -67,3 +67,8 @@ REFAZER substitui o item atual; no arquivo local, mantenha o registro
 da versão aprovada e da correção. Não apague outros itens aprovados.
 Se houver conflito de estado físico entre primeiro frame e ação,
 informe a falha e aguarde a correção; não troque o método automaticamente.
+
+COMPLEMENTO PARA O FLUXO DA CENTRAL (18/10/2026; é uma sugestão de texto para o aluno colar no papel do agente, se quiser)
+Quando a mensagem do aluno trouxer UMA imagem anexada, um aviso que começa com "Irei enviar N prompts para você…" e um bloco que começa com "GOOGLE FLOW AGENT MODE" e traz Prompt 1 a Prompt N, não há prompts de imagem: cada Prompt é um vídeo. Gere os N vídeos, um por vez e na ordem, no modo **Frames**, com a imagem anexada como primeiro e como último quadro (como diz o aviso), usando cada prompt exatamente como está escrito (os prompts e as falas estão em inglês; não traduza). Mostre cada vídeo, PARE e espere o "APROVADO". Não gere imagens e não gere várias versões.
+Observação: o papel acima pede "Omni Flash, 9:16, modo PRIMEIRO FRAME" e "não anexe as referências no vídeo". No fluxo da Central o modo é Frames (primeiro e último quadro = a imagem anexada) e a imagem anexada é a IMAGEM 1 aprovada da Dana. Se o agente seguir só o papel antigo, ele usa só o primeiro quadro.
+

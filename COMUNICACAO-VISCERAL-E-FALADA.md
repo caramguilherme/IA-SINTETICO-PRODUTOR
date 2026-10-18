@@ -99,5 +99,5 @@ Os princípios enviados são tratados como direção criativa, não como leis un
 - Cena concreta e reconhecível: a noite no celular, o homem que mandou mensagens por dias e sumiu, as amigas que parecem ter achado alguém, a imagem do rosto dele que ela já fez na cabeça.
 - Segunda pessoa ("você") e frases curtas e firmes. Sem linguagem de coaching ou autoajuda ("habit", "mindset", "countdown", "straight talk").
 - A prova pelo comportamento é uma observação sobre a espectadora ("você já imaginou o rosto dele à noite"), não experiência vivida da Dana.
-- Sem humilhar, sem ameaçar e sem inventar medo. Sem negar as cartas nem a oferta.
+- Sem humilhar a espectadora. Sem negar as cartas nem a oferta. **Atualização de 18/10/2026 (P15 do CLAUDE.md):** prazo, promessa de resultado, ameaça de azar por pular o vídeo e urgência estão liberados na fala da Dana, como nos virais do curso.
 - Acrescentar ao checklist da seção 9: a ferida aparece nas Cenas 1 a 3? A espectadora pensa "isso é pra mim"? A curiosidade só fecha no story? Cada fala tem até 22 palavras?
