@@ -251,3 +251,68 @@ O aluno autorizou na fala, na legenda e no comentário fixado da Dana, por ser o
 **Segunda autorização (mesmo dia):** ameaça de azar com prazo, garantias e prazos exatos ("millionaire", "in 33 minutes", "in 24 hours he confesses"), "âncora de manifestação" (só quando o story entregar algo que combine), e imagens de roupa íntima (sem nudez), carne crua, crucifixo, cemitério e garrafa de bebida com rótulo visível (rótulo genérico no prompt; o modelo pode deformar marca real).
 
 **Continua fora (fato fabricado, não promessa de destino):** depoimento ou história de cliente inventada, número de atendidas, celebridade e preço inventados, benefício ou cura de saúde, falar em nome de parente falecido (só se o aluno pedir pelo nome), e nome do app, preço, pagamento, comissão e afiliado. O limite de 22 palavras por fala, o inglês dos EUA e o "possible/might" para o que o quiz mostra continuam valendo.
+
+---
+
+# TERCEIRA LEVA (18/10/2026): 5 vídeos, S1 a S5
+
+Mesmo método (transcrição, quadros, cortes). Aqui aparece um formato novo: a **série por signos**.
+
+## 13. Resumo por vídeo
+
+| Vídeo | Tipo | Duração | Palavras | Palavras/s | Pré-gancho / objeto na mão | Texto do topo |
+|---|---|---|---|---|---|---|
+| **S1** | manifestação curta | 69 s | 192 | 2,8 | sem pré-gancho; **lua de ametista na mão** | (só a legenda) |
+| **S2** | manifestação longa | 108 s | 292 | 2,7 | **pré-gancho de 5 s:** ela despeja sal rosa no chão de uma sauna e pisa no monte de sal, descalça; corte seco para ela ajoelhada, com o monte de sal na frente (o objeto fica no quadro) | "When you need urgent and unexpected money" |
+| **S3** | **Soulmate por signos** | **58 s** | 175 | 3,0 | sem pré-gancho; **chave com coração na mão** | caixa branca: "**Taurus, Virgo, or Capricorn**, pay very close attention" (palavra-chave em vermelho) |
+| **S4** | manifestação por signos | 91 s | 258 | 2,8 | sem pré-gancho; **cristal de quartzo com "10:10" na mão** | "**Aries, Leo, and Sagittarius**, pay very close attention" |
+| **S5** | manifestação por signos | 88 s | 258 | 2,9 | sem pré-gancho; **pedaço de carne crua na mão** | "**Cancer, Scorpio, and Pisces**, pay very close attention" |
+
+Na legenda, a primeira frase também fica em letras pequenas no centro-baixo ("Taurus Virgo or Capricorn"), e depois entra a legenda palavra a palavra.
+
+## 14. O que esses 5 mostram de novo
+
+### 14.1 Série por signos: o mesmo roteiro vira 4 vídeos
+S3, S4 e S5 têm **o mesmo corpo palavra por palavra**, e só mudam:
+1. **A frase de abertura:** "Taurus, Virgo, or Capricorn?" / "Aries, Leo, and Sagittarius." / "Cancer, Scorpio, and Pisces." (provavelmente o quarto é Gemini, Libra e Aquarius).
+2. **O objeto na mão** (chave com coração, quartzo "10:10", carne).
+3. **A data e o número do portal** ("October 10th / 10-10 portal", "October 11th / 1110 portal").
+4. A recompensa ("tonight before you sleep", "tomorrow when you wake up").
+
+Duas leituras para a Dana:
+- **Segmentação por signo no gancho** ("Taurus, Virgo, or Capricorn, pay very close attention") faz a pessoa se sentir chamada pelo nome sem a Dana saber nada dela. É astrologia, liberada. No Soulmate dá para usar na fala e no texto do topo. No Love Chart (quando começar) combina com a virada de Vênus.
+- **Economia de créditos:** como só o começo muda, dá para **gerar o corpo uma vez (takes 2 em diante) e refazer só o Take 1** para cada grupo de signo, mais o texto do topo e a data. Para isso, o corpo não pode ter data nem dia da semana (a data entra só no Take 1) e o objeto da imagem precisa ser o mesmo. Isso rende 4 vídeos por cerca de 1/3 a mais de créditos. Proposta para um dos próximos roteiros; o aluno decide.
+
+### 14.2 O S3 é um corpo de Soulmate pronto (58 s, 175 palavras)
+Trecho de Soulmate dentro do corpo de manifestação:
+> The Soulmate portal has opened. **The man the universe kept for you is finally being released.** … The chains keeping you trapped in loneliness are being broken right now. The love block that was cast on you is going straight back to whoever sent it. Send this video to yourself right now. In seven minutes, you're going to come back to confirm the shift. Open your hand and save this video. That's your first seal. Double tap quickly on your screen. That's your second seal. Type 2-2-2 so I can see you did everything. Tap my profile picture and check my stories before they disappear because the second part of this sign is waiting for you there.
+
+Dá o esqueleto de um Soulmate "completo" em 58 s: signo, segredo, portal, "o homem que o universo guardou para você", correntes de solidão sendo quebradas, ritual (enviar, salvar, tocar duas vezes), código, story.
+
+### 14.3 Códigos e fechos que apareceram
+- **Códigos nos comentários:** 222 (S1, S2, S3), "**received**" (S4, S5: "comment received so I know you completed all three steps"). A Dana pode alternar 222, uma palavra ("Soulmate", "love", "received").
+- **Recompensa com hora:** "tomorrow at 11 am" (S2), "tonight before you go to sleep, check your phone" (S4), "within the next 24 hours" (S1).
+- **Culpa antes do story (S1):** "The spiritual world is fair and doesn't like it when someone rejects help. Click on my profile picture and check my stories before they disappear."
+- **Nome do portal por número ou data:** "Abundance Portal", "10-10 portal", "1110 portal", "Soulmate portal". Dá a sensação de evento do dia.
+- **Gestos:** "close your right hand and listen until the end", "open your hand and save this video", "double tap quickly on your screen" (ações físicas simples, uma por selo).
+- **Ameaça e garantia (liberadas pelo P15):** "I'll change my name if this message doesn't transform your life", "if you skip right now the energy breaks", "the news could turn against you", "this energy is highly sensitive, other people's envy can completely break it".
+- **Gancho forte com palavrão (S1):** "You need to keep your f***ing mouth shut about the blessing you're about to receive." Para a Dana ("straight talk"): "keep your damn mouth shut" é o mesmo efeito sem arriscar o áudio e a legenda.
+
+### 14.4 Visual
+- **Objeto na mão, perto do rosto, o vídeo todo** (lua de ametista, chave, quartzo, carne): é o nosso P12. O objeto muda por vídeo e combina com o tema ou o número (o quartzo traz "10:10" escrito).
+- **Luz rosa e roxa, fundo desfocado, câmera na altura do rosto**, selfie.
+- **Sauna de madeira com luz roxa** e sal rosa no chão (S2): cenário "de ritual" que fica no quadro.
+- **Texto do topo em caixa branca com palavra-chave em vermelho** (S3, S4, S5) ou legenda simples branca sem caixa (S2).
+- **Seta pequena no canto inferior** ao final, apontando para a foto do perfil (S4).
+
+## 15. O que entra na Dana a partir daqui (somando às seções 4 e 10)
+
+1. **Gancho por signos (série):** "Taurus, Virgo, or Capricorn, pay very close attention", com o texto do topo em caixa e a palavra-chave em destaque. Registrar como "virais S3, gancho por signos".
+2. **Corpo sem data e sem dia da semana**, para o aluno gerar o corpo uma vez e refazer só o Take 1 por grupo de signo (4 vídeos por cerca de 1/3 a mais de créditos).
+3. **Linha "the man the universe kept for you is finally being released"** como cold reading de Soulmate (com "possible" onde falar do quiz).
+4. **Objeto na mão ligado ao tema** (chave com coração para Soulmate, pêndulo, quartzo, carta), sempre na mão e em primeiro plano.
+5. **Pré-gancho de 5 s com cenário que continua no quadro** (S2: sal no chão da sauna, e o monte de sal fica na frente dela). Alternativa ao pré-gancho "sem rosto": aqui o corpo aparece e o objeto permanece.
+6. **Código "received"** além do 222.
+7. **Culpa antes do story:** "Don't leave without the second part. It's in my story."
+
+O que não entra continua como nas seções 5, 11 e 12 (P15): depoimento, número de atendidas, celebridade e preço inventados, benefício ou cura de saúde, parente falecido (só se o aluno pedir pelo nome), e nome do app, preço, pagamento, comissão e afiliado.
