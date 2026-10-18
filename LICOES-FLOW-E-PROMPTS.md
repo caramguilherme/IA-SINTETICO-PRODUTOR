@@ -41,6 +41,7 @@ Este arquivo junta tudo o que já deu errado ou que o aluno pediu. **Antes de en
 - O custo por clipe e as contas (48 e 50 créditos) estão em `PLANO-CREDITOS-R004-R005.md`.
 
 ## 4. Pedidos do aluno que valem sempre
+- **Roteiro já postado não se mexe** (R001, R002 e R003). Só o roteiro em produção (R004 e R005) e os próximos recebem as mudanças de método. Se eu mexer por engano, restauro a versão de antes (feito com o R003 em 18/10/2026).
 - Decidir e explicar em uma linha; não perguntar "o que gostaria de fazer?".
 - Dizer sempre **quando marcar ou não uma caixa** e entregar o passo a passo seção por seção no painel.
 - Texto na tela: só o texto do início (hook). Story: uma frase só, de 1 a 2 linhas, em uma cor.
