@@ -174,9 +174,9 @@ section{scroll-margin-top:16px}
 /* DADOS DO PACOTE: a IA troca só a linha abaixo (null) pelo objeto JSON do pacote. O resto do arquivo não muda. */
 const PACOTE = null;
 (function(){
-const ESTILO_IMG="TRAVA DE ESTILO UGC: imagem vertical 9:16, fotorealista, gravada em ambiente doméstico americano com aparência espontânea de smartphone. Luz natural, texturas reais de pele, tecido e pelo, enquadramento casual e levemente imperfeito. A câmera fica fora do quadro. Sem texto, legenda, logo, marca-d'água ou aparência publicitária.";
-const ESTILO_VID="TRAVA DE ESTILO UGC: vídeo vertical 9:16, fotorealista e espontâneo, com movimento natural de smartphone, luz doméstica real e áudio próximo. A câmera e o celular nunca aparecem. Sem texto, legenda, logo, música, câmera lenta, estética cinematográfica ou publicitária.";
-const REF_TXT="TRAVA DE REFERÊNCIA VISUAL: usar exclusivamente as referências ANEXADAS como autoridades de identidade. Preservar rosto, corpo, cabelo, proporções e aparência do humano e pet. Não misturar identidades.";
+const ESTILO_IMG="UGC STYLE LOCK: vertical 9:16 image, photorealistic, shot in an American home with the spontaneous look of a smartphone. Natural light, real skin, fabric and hair textures, casual and slightly imperfect framing. The camera stays out of frame. No text, caption, logo, watermark or advertising look.";
+const ESTILO_VID="UGC STYLE LOCK: vertical 9:16 video, photorealistic and spontaneous, with natural smartphone movement, real home lighting and close audio. The camera and the phone never appear. No text, captions, logos, music, slow motion, or cinematic or advertising look.";
+const REF_TXT="VISUAL REFERENCE LOCK: use exclusively the ATTACHED references as identity authorities. Preserve the face, body, hair, proportions and appearance of the human and the pet. Do not mix identities.";
 const KEY="painel_ugc_v2";
 const $=id=>document.getElementById(id);
 let pk=null, feitos={}, takes={};
@@ -200,17 +200,17 @@ function limparJson(s){
 
 function estilo(t,fim){
   const e=(pk.excecao_estilo||'').trim();
-  return e?t.replace(fim+'.',fim+' fora '+e+', quando visível.'):t;
+  return e?t.replace(fim+'.',fim+' except '+e+', when visible.'):t;
 }
 function promptImagem(im){
-  return REF_TXT+' '+(pk.trava_referencia||'')+refCapa()+'\n\nFIGURINO FIXO: '+(pk.figurino||'')+'\n\n'+estilo(ESTILO_IMG,'aparência publicitária')+'\n\nCENA: '+im.cena;
+  return REF_TXT+' '+(pk.trava_referencia||'')+refCapa()+'\n\nFIXED OUTFIT: '+(pk.figurino||'')+'\n\n'+estilo(ESTILO_IMG,'advertising look')+'\n\nSCENE: '+im.cena;
 }
-function refCapa(){return (pk.excecao_estilo||'').trim()?' A capa oficial é autoridade somente para a arte impressa no exemplar físico.':''}
+function refCapa(){return (pk.excecao_estilo||'').trim()?' The official cover is an authority only for the art printed on the physical copy.':''}
 function promptVideo(v){
   const voz=pk.perfil.voz;
   const num=v.cena.split('/')[0];
   const br=(v.b_roll||'').trim();
-  return v.cena+' PROMPT DE VÍDEO — CENA '+num+' — '+v.duracao+'s — '+v.primeiro_quadro+'\n\n'+estilo(ESTILO_VID,'estética cinematográfica ou publicitária')+'\n\nAÇÃO: '+v.acao+(br?'\n\nB-ROLL POV: '+br:'')+'\n\nFALA: “'+v.fala+'”\n\nVOZ: a pessoa é a única pessoa falante. '+voz;
+  return v.cena+' VIDEO PROMPT — SCENE '+num+' — '+v.duracao+'s — '+v.primeiro_quadro+'\n\n'+estilo(ESTILO_VID,'cinematic or advertising look')+'\n\nACTION: '+v.acao+(br?'\n\nPOV B-ROLL: '+br:'')+'\n\nDIALOGUE: “'+v.fala+'”\n\nVOICE: the person is the only speaker. '+voz;
 }
 function itens(){
   const a=[];
@@ -264,8 +264,10 @@ function montarCentral(){
     $('agente').querySelector('h2').textContent='No agente do Flow (uma conversa só)';
     $('agente').querySelector('p').textContent='Uma imagem e uma mensagem: o aviso e, embaixo, o bloco “COPIAR TUDO JUNTO” da Central.';
     $('agenteBox').innerHTML='<div class="item"><button class="cp" id="cpAviso">Copiar aviso</button><h3>Aviso para o agente <span class="tag">anexar: '+esc(ag.imagem||'')+'</span></h3><div class="box m">'+esc(ag.aviso||'')+'</div></div>'
+      +(ag.aviso_en?'<div class="item"><button class="cp" id="cpAvisoEn">Copiar aviso em inglês</button><h3>Aviso em inglês <span class="tag">opcional: mesma mensagem, em inglês</span></h3><div class="box m">'+esc(ag.aviso_en)+'</div></div>':'')
       +'<div class="item"><h3>Passo a passo</h3><ol class="steps">'+(ag.passos||[]).map(x=>'<li>'+esc(x)+'</li>').join('')+'</ol></div>';
     $('cpAviso').onclick=e=>copiar(ag.aviso||'',e.currentTarget);
+    if(ag.aviso_en)$('cpAvisoEn').onclick=e=>copiar(ag.aviso_en,e.currentTarget);
   }
   if(pk.story){
     const st=pk.story;

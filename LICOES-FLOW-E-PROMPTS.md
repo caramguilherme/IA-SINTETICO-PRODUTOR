@@ -16,6 +16,7 @@ Este arquivo junta tudo o que já deu errado ou que o aluno pediu. **Antes de en
 11. **Fala:** inglês dos EUA, no máximo 22 palavras por fala, "possible/might" para o que o quiz mostra, sem app, preço, pagamento, comissão ou afiliado.
 12. **Custo conferido** (4 s = 7, 6 s = 10, 8 s = 12, 10 s = 15 créditos) e a sobra para refazer anotada.
 13. **O painel diz o que marcar e o que não marcar**, seção por seção, e os nomes dos arquivos para renomear no Flow.
+15. **Todo prompt que vai para o Flow ou para a Central é em inglês** (prompts de imagem, do pré-gancho, do story, instruções ao agente, fala, movimentação, perfil de voz, LIVRE). Só os textos para o aluno (passo a passo, conferências, avisos) ficam em português. O Flow entende melhor e com mais facilidade em inglês.
 14. **Modo Frames** para o vídeo do pré-gancho (primeiro quadro = imagem 1, último = imagem 2). Os takes da Dana usam a IMAGEM 1 como primeiro e último quadro (aviso do agente).
 
 ## 2. Falhas já vividas (o que aconteceu e a regra)
@@ -43,5 +44,6 @@ Este arquivo junta tudo o que já deu errado ou que o aluno pediu. **Antes de en
 - Dizer sempre **quando marcar ou não uma caixa** e entregar o passo a passo seção por seção no painel.
 - Texto na tela: só o texto do início (hook). Story: uma frase só, de 1 a 2 linhas, em uma cor.
 - Painel de cada roteiro com o aviso do agente, os nomes dos arquivos, a lista para marcar o que foi gerado e aprovado.
+- **Prompts para o Flow e para a Central sempre em inglês** (decisão de 18/10/2026). O aviso do agente tem o texto do aluno em português e uma versão em inglês opcional no painel.
 - Linguagem dos virais liberada (P15). Nada de depoimento, número de atendidas, celebridade, preço inventados, benefício de saúde, nome do app, preço, pagamento, comissão ou afiliado.
 - Funil ativo: Soulmate, até o aluno avisar que o Love Chart começou.
