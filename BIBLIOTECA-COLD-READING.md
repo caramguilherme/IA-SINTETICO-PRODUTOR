@@ -10,6 +10,7 @@ Cold reading é a técnica de dizer frases tão reconhecíveis que a pessoa sent
 - **Frases em inglês são a base** da fala da Dana (inglês dos EUA); a coluna PT serve para o aluno aprovar.
 - **Perguntas de Sondagem** (121 a 130) não esperam resposta no vídeo: usar como pergunta retórica que a pessoa responde por dentro ("Who is the person with the unfinished story?").
 - **Frases de Barnum e Relacionamentos que mais servem ao Love Chart (padrão, homem que some, repetir o mesmo tipo):** #23, #27, #28, #33, #37, #42, #46, #47 · #68, #73, #74, #77, #82, #86, #87, #88, #91, #93, #96, #98.
+- **Atualização de 18/10/2026 (P15):** a promessa de dinheiro (#108, "unexpected money coming your way") e de prazo (#145, #149) estão liberadas pelo aluno na fala da Dana; a categoria Saúde continua fora.
 - **Marcas:** [ATENÇÃO] frase que afirma um atributo pessoal sensível (saúde, álcool, dinheiro, cicatriz): pode ser lida como a plataforma "sabendo algo da espectadora" e a Meta costuma mexer com isso em anúncios. O aluno decide; o padrão é não usar.
 - **Categoria Saúde (111 a 120):** além da marca, valem as regras de saúde do CLAUDE.md: sem diagnóstico nem cura; a Dana não diz que sente doença em ninguém.
 

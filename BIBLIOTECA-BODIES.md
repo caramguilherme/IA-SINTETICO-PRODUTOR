@@ -6,7 +6,7 @@ Os textos abaixo estão **como o curso entregou** (PT e EN, sem reescrever). Só
 
 ## Como usar na Dana (leia antes de escrever um roteiro)
 
-Os bodies são anúncios longos (30 a 60 s de fala, sem limite de palavras). O vídeo da Dana tem 66 s, falas de até 22 palavras e regras próprias (PROJETO-Dana.md). Por isso a biblioteca serve para **estrutura, ângulo e ordem das emoções**, não para copiar o texto.
+Os bodies são anúncios longos (30 a 60 s de fala, sem limite de palavras). O vídeo da Dana tem de 24 a 70 s (formato micro ou 6 cenas), falas de até 22 palavras e regras próprias (PROJETO-Dana.md e CLAUDE.md, P1 a P17). Por isso a biblioteca serve para **estrutura, ângulo e ordem das emoções**, não para copiar o texto.
 
 **Estrutura que se repete nos bodies mais fortes (base para as Cenas 1 a 6):**
 1. **Abertura que fala de "ele" ou da espectadora agora** ("Neste momento, ele está…", "Se você chegou até aqui, não foi por acaso", "As cartas mostram…"). É o hook.
@@ -23,6 +23,7 @@ Os bodies são anúncios longos (30 a 60 s de fala, sem limite de palavras). O v
 - **[DEUS]** "o destino escolheu você", "não foi por acaso", "Deus colocou no seu caminho": **liberado** como tom e abertura.
 - **[ASTRO]** signos e astrologia: **liberado** e recomendado no Love Chart.
 - **[ROSTO]** promete rosto, inicial, nome ou local do encontro: **não é regra, é fato do funil.** O Love Chart não entrega isso; prometer o que o quiz não mostra seria isca e dá reclamação. Só vale se o aluno avisar que o funil entrega.
+- **Atualização de 18/10/2026 (P15):** a **escassez** ("not everyone will see this", prazo exato, ameaça de azar) está **liberada pelo aluno**, como nos virais do curso; no Soulmate, rosto, inicial e data de encontro valem (com "possible" e "might"). Continuam fora [DEPOIMENTO], [NÚMERO] de atendidas, [CELEB] e [PREÇO] inventados.
 - **[DEPOIMENTO] [NÚMERO] [ESCASSEZ]** história de cliente, "mais de 9.000 mulheres", "só 5 mulheres desde 2025", "um grupo de 3 por mês": **a Dana não inventa estas três coisas como se fossem reais.** Motivo: são o padrão que a Meta mais barra (alegação enganosa, prova social falsa) e que mais gera denúncia; o risco é a conta. O que dá para fazer no lugar: a estrutura ("o que apareceu nas cartas hoje eu não vejo com frequência") sem número, e prova social real quando o aluno tiver (comentários, visualizações, mensagens de seguidoras com permissão).
 - **[CELEB]** "psíquica nº 1 de Hollywood", "a mais precisa entre celebridades": **não usar.** O próprio curso avisa que viola a política da plataforma.
 - **[PREÇO]** "normalmente custa $97": não usar (preço âncora falso; e o aluno já definiu que preço não entra na fala).
