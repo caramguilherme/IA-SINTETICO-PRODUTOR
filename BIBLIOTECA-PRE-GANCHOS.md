@@ -43,6 +43,9 @@ Os pré-ganchos dos virais duram 2,5 a 3 s, mostram o começo de um ritual com o
 ## Lição do R004 (18/10/2026): comparar com os virais antes de apresentar
 A primeira ideia do R004 (uma folha de louro alisada nas costas de um celular) era "segura para o Flow", mas sem movimento nem efeito visível, e não parecia com nenhum dos virais. Regra: **antes de apresentar um pré-gancho, conferir contra `BIBLIOTECA-VIDEOS-VIRAIS.md`** e exigir (1) movimento do começo ao fim, (2) um efeito grande e fácil de ver (sal caindo, fumaça, esconderijo se abrindo, pó soprado), (3) o objeto do hook no quadro. Sal sendo despejado é o pré-gancho mais repetido nos virais.
 
+## Lição do R004, versão 2 (18/10/2026): a imagem inicial saiu igual à final
+O anel de sal (um caminho que a mão desenha) falhou: a imagem 1 saiu com o anel já completo, apesar do prompt pedir meio anel, então os dois quadros eram quase iguais e o vídeo ficou parado (7 créditos perdidos). Regras: (1) **primeiro e último quadro têm de ser claramente diferentes** (prato vazio × monte de sal; linha apagada × linha em chamas); (2) preferir efeito que **cresce no mesmo lugar** (monte de sal num prato) a efeito que desenha um caminho (anel, linha); (3) **o painel manda comparar as duas imagens antes de gastar créditos no vídeo**.
+
 ## Modo no Flow (18/10/2026)
 O vídeo do pré-gancho é gerado no modo **Frames** (não Ingredients). Primeiro quadro = imagem 1; último quadro = imagem 2, que mostra o efeito já terminado (anel de sal fechado, linha de sal toda em chamas). O último quadro dá ao Flow o ponto de chegada e evita que o efeito sumisse no meio. O painel mostra essa caixa "Modo no Flow" no topo da seção Pré-gancho.
 
