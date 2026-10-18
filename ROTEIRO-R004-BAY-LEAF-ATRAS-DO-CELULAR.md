@@ -22,6 +22,7 @@ A Dana atrás da mesa redonda de madeira, de frente, olhando firme para a lente.
 
 ## Pré-gancho — 4 s (clipe separado, sem fala) — versão 2 (18/10/2026)
 Close macro numa mesa de madeira clara: uma mão de mulher madura, com um fino anel de prata, despeja um fio contínuo de sal grosso de um pote de vidro e **fecha um anel de sal em volta de um celular preto de bruços, com uma folha de louro seca colada nas costas**. No primeiro quadro o sal já está caindo e meio anel já está formado. A vela do fundo já está acesa. Só mão e objetos. **Texto na tela:** "Do this tonight." (A versão 1, só a folha alisada no celular, foi descartada: sem movimento nem efeito visível.)
+**Modo no Flow:** Frames. Primeiro quadro = imagem 1 (sal caindo, meio anel). Último quadro = imagem 2 (edição da imagem 1: anel completo, sem pote nem mão).
 
 ## Take A1 — Gancho — 8 s (21 palavras)
 **Visual:** Dana olha firme para a lente, com um pequeno aceno de cabeça, segurando o celular com a folha na mão direita.

@@ -214,7 +214,7 @@ function promptVideo(v){
 }
 function itens(){
   const a=[];
-  if(pk.pre_gancho){a.push({id:'pre_img',tipo:'pre',titulo:'Imagem do pré-gancho',prompt:''});a.push({id:'pre_vid',tipo:'pre',titulo:'Vídeo do pré-gancho',prompt:''})}
+  if(pk.pre_gancho){a.push({id:'pre_img',tipo:'pre',titulo:'Imagem do pré-gancho',prompt:''});if(pk.pre_gancho.imagem_final_prompt)a.push({id:'pre_img_fim',tipo:'pre',titulo:'Imagem final do pré-gancho',prompt:''});a.push({id:'pre_vid',tipo:'pre',titulo:'Vídeo do pré-gancho',prompt:''})}
   pk.imagens.forEach((im,i)=>a.push({id:'img'+(i+1),tipo:'img',titulo:im.rotulo,prompt:promptImagem(im),rotulo:'PROMPT IMAGEM '+(i+1)}));
   pk.videos.forEach((v,i)=>a.push({id:'vid'+(i+1),tipo:'vid',titulo:v.rotulo+' · '+(pk.central?'':'cena ')+v.cena,v:v,prompt:pk.central?'':promptVideo(v),rotulo:'PROMPT DE VIDEO '+(i+1)}));
   return a;
@@ -282,11 +282,15 @@ function montarPre(){
   const g=pk.pre_gancho;
   $('prehook').classList.toggle('hide',!g);
   if(!g)return;
+  const temFim=!!g.imagem_final_prompt;
   $('preBox').innerHTML='<p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">'+esc(g.conceito||'')+'</p>'
-    +'<div class="item"><button class="cp" id="cpPreImg">Copiar prompt</button><h3>1) Imagem do pré-gancho <span class="tag">9:16</span><span class="tag">sem referências anexadas</span></h3><div class="box m">'+esc(g.imagem_prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_img" '+(feitos.pre_img?'checked':'')+'> Imagem gerada e aprovada</label></div>'
-    +'<div class="item"><button class="cp" id="cpPreVid">Copiar prompt</button><h3>2) Vídeo do pré-gancho <span class="tag">'+esc(g.duracao||4)+' s</span><span class="tag">1º quadro: a imagem acima</span></h3><div class="box m">'+esc(g.video_prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_vid" '+(feitos.pre_vid?'checked':'')+'> Vídeo gerado e aprovado</label></div>'
+    +'<div class="tip" style="margin-bottom:12px"><b>Modo no Flow: Frames</b> (não “Ingredients”/elementos). <b>Primeiro quadro:</b> a imagem 1 abaixo. <b>Último quadro:</b> '+(temFim?'a imagem 2 abaixo.':'nenhum (deixe o campo do último quadro vazio).')+' Duração '+esc(g.duracao||4)+' s, vertical 9:16, com o áudio ambiente ligado.</div>'
+    +'<div class="item"><button class="cp" id="cpPreImg">Copiar prompt</button><h3>1) Imagem do pré-gancho <span class="tag">PRIMEIRO quadro</span><span class="tag">9:16</span><span class="tag">sem referências anexadas</span></h3><div class="box m">'+esc(g.imagem_prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_img" '+(feitos.pre_img?'checked':'')+'> Imagem gerada e aprovada</label></div>'
+    +(temFim?'<div class="item"><button class="cp" id="cpPreImgFim">Copiar prompt</button><h3>2) Imagem final do pré-gancho <span class="tag">ÚLTIMO quadro</span><span class="tag">9:16</span><span class="tag">anexe a imagem 1 aprovada como base</span></h3><div class="box m">'+esc(g.imagem_final_prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_img_fim" '+(feitos.pre_img_fim?'checked':'')+'> Imagem final gerada e aprovada</label></div>':'')
+    +'<div class="item"><button class="cp" id="cpPreVid">Copiar prompt</button><h3>'+(temFim?'3':'2')+') Vídeo do pré-gancho <span class="tag">'+esc(g.duracao||4)+' s</span><span class="tag">Frames</span><span class="tag">1º quadro: imagem 1</span>'+(temFim?'<span class="tag">último quadro: imagem 2</span>':'<span class="tag">sem último quadro</span>')+'</h3><div class="box m">'+esc(g.video_prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_vid" '+(feitos.pre_vid?'checked':'')+'> Vídeo gerado e aprovado</label></div>'
     +(g.texto_tela?'<div class="item"><button class="cp" id="cpPreTxt">Copiar texto</button><h3>Texto na tela do pré-gancho</h3><div class="box">'+esc(g.texto_tela)+'</div></div>':'')
     +(g.edicao?'<div class="tip">'+esc(g.edicao)+'</div>':'');
+  if(temFim)$('cpPreImgFim').onclick=e=>copiar(g.imagem_final_prompt,e.currentTarget);
   $('cpPreImg').onclick=e=>copiar(g.imagem_prompt,e.currentTarget);
   $('cpPreVid').onclick=e=>copiar(g.video_prompt,e.currentTarget);
   if($('cpPreTxt'))$('cpPreTxt').onclick=e=>copiar(g.texto_tela,e.currentTarget);

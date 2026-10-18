@@ -43,5 +43,8 @@ Os pré-ganchos dos virais duram 2,5 a 3 s, mostram o começo de um ritual com o
 ## Lição do R004 (18/10/2026): comparar com os virais antes de apresentar
 A primeira ideia do R004 (uma folha de louro alisada nas costas de um celular) era "segura para o Flow", mas sem movimento nem efeito visível, e não parecia com nenhum dos virais. Regra: **antes de apresentar um pré-gancho, conferir contra `BIBLIOTECA-VIDEOS-VIRAIS.md`** e exigir (1) movimento do começo ao fim, (2) um efeito grande e fácil de ver (sal caindo, fumaça, esconderijo se abrindo, pó soprado), (3) o objeto do hook no quadro. Sal sendo despejado é o pré-gancho mais repetido nos virais.
 
+## Modo no Flow (18/10/2026)
+O vídeo do pré-gancho é gerado no modo **Frames** (não Ingredients). Primeiro quadro = imagem 1; último quadro = imagem 2, que mostra o efeito já terminado (anel de sal fechado, linha de sal toda em chamas). O último quadro dá ao Flow o ponto de chegada e evita que o efeito sumisse no meio. O painel mostra essa caixa "Modo no Flow" no topo da seção Pré-gancho.
+
 ## Como entra no painel
-O pacote traz `pre_gancho` com: `conceito`, `imagem_prompt` (sem referências), `video_prompt` (4 s, silencioso, primeiro quadro = a imagem), `duracao`, `texto_tela` e `edicao`. O painel mostra a seção "Pré-gancho" antes da IMAGEM 1, com os dois prompts para copiar.
+O pacote traz `pre_gancho` com: `conceito`, `imagem_prompt` (primeiro quadro, sem referências), `imagem_final_prompt` (último quadro: edição da primeira imagem com o efeito terminado), `video_prompt` (4 s, silencioso, modo **Frames** do Flow: imagem 1 como primeiro quadro e imagem 2 como último), `duracao`, `texto_tela` e `edicao`. O painel mostra a seção "Pré-gancho" antes da IMAGEM 1, com os dois prompts para copiar.
