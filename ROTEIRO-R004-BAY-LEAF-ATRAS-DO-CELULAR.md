@@ -10,6 +10,13 @@ Status: funil ativo = **Soulmate**. Formato curto para economizar créditos (ver
 - **CTA:** selos do curso (enviar para si, 222) + story com 3 cartas (o desenho do possível rosto e quando podem se conhecer).
 - **Funil Soulmate:** diz o que o quiz mostra com "possible" e "might". Sem app, preço, pagamento, comissão, depoimento ou número inventado.
 
+## Virais usados como modelo (peça por peça)
+- **Pré-gancho:** sal despejado (V3, S2, U2, U4, R01; o mais repetido), com o objeto do hook no quadro (V4: círculo de sal no chão que fica na tela).
+- **Hook falado e ritual:** U8 ("Put a bay leaf behind your phone, and don't tell anyone") + ponte "I know it sounds ridiculous, but you'll thank me" (U5, V2, U1).
+- **Texto do topo:** frase curta do ritual (R01, U2, V4: situação ou promessa em 2 linhas).
+- **Gestos:** dedo apontado para a lente (V4, U6, U7, U8).
+- **Corpo e CTA:** corpo dos selos resumido (V1 a V4, U1 a U8) com o story como parte 2.
+
 ## Imagem única (IMAGEM 1)
 A Dana atrás da mesa redonda de madeira, de frente, olhando firme para a lente. Com a mão direita, em primeiro plano ao lado do rosto, segura um **celular preto liso, sem logo, com a parte de trás voltada para a lente, e uma folha de louro seca colada nas costas dele**; a mão esquerda repousa na mesa. Vela acesa em pote de vidro e maço fechado de tarô na mesa. Figurino: suéter de malha fina cor de ameixa escura, gola redonda, sem estampa; argolões prateados lisos. O celular com a folha é o ponto de maior contraste.
 
