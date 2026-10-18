@@ -11,6 +11,8 @@ Cada roteiro tem **GANCHO + BODY + CTA padrão**. São textos de 30 a 60 segundo
 - **Body:** a ordem (cena reconhecível → explicação do porquê → o teste que mostra) é a mesma dos Formatos 1 e 2 e do FUNIL DE CONVERSÃO. Trocar "frequência" por "Vênus" e "padrão", e "o teste revela o rosto" por o que o Love Chart mostra (o Vênus, o nome do padrão, o signo do possível par, os meses).
 - **Roteiros de "Direto ao Espectador" (57 a 100) e os de explicação (D, F, H, K, M, U, X)** são os que mais se aproximam do que a Dana faz sem inventar nada.
 
+**Atualização de 18/10/2026 (P15):** o aluno liberou na fala da Dana a escassez ("not everyone will see this"), o prazo exato, a promessa de resultado e a ameaça de azar; no Soulmate (funil ativo) rosto, inicial e data de encontro valem, com "possible" e "might". As marcas [ESCASSEZ] e [ROSTO/INICIAL/DATA] abaixo passam a ser avisos. Continuam fora [DEPOIMENTO] e [RELATO] inventados, número de atendidas, celebridade e preço.
+
 **Marcas (conflitos com as regras da Dana, atualizadas em 17/10/2026):**
 - **[DEPOIMENTO]** história de cliente ou de "minha amiga" com nome e resultado (Marilyn, Rachel, Sarah, Emma, Ashley, Madison... e os 30 de Prova Social). A Dana não inventa depoimento nem experiência vivida. Guardar o formato (começo, virada, desfecho) para quando houver caso real, com permissão.
 - **[RELATO]** "mulheres relataram", "milhares", "centenas", "quem agiu relatou": afirmação sobre resultados de pessoas que não existem. Usar sem o relato.
@@ -25,7 +27,7 @@ O mesmo CTA fecha os 100 roteiros:
 
 > Envie este vídeo para você mesmo agora e comente 222 para atrair essa benção. Salve esta mensagem porque vai acontecer, e quando acontecer, você não vai nem acreditar. Depois disso, clique na minha foto e assista aos stories antes que desapareçam. O restante dessa benção te espera por lá.
 
-**Estrutura:** (1) enviar para si mesmo, (2) comentar 222, (3) salvar a mensagem, (4) tocar na foto do perfil, (5) assistir aos stories antes que desapareçam, (6) o resto "te espera por lá". É a mesma ideia da 6B da Dana (selos + foto + story). Na Dana: fala de até 22 palavras, com 1 ou 2 selos, sem a frase "porque vai acontecer" (é uma garantia de resultado).
+**Estrutura:** (1) enviar para si mesmo, (2) comentar 222, (3) salvar a mensagem, (4) tocar na foto do perfil, (5) assistir aos stories antes que desapareçam, (6) o resto "te espera por lá". É a mesma ideia da 6B da Dana (selos + foto + story). Na Dana: fala de até 22 palavras, com 1 ou 2 selos, a frase "porque vai acontecer" agora é permitida (P15).
 
 ## Roteiros que mais servem à Dana (adaptáveis quase direto no Love Chart)
 - **Letras:** D, F, H, K, M, U, X.
