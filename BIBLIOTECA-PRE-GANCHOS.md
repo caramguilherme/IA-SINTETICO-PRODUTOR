@@ -40,5 +40,8 @@ Os pré-ganchos dos virais duram 2,5 a 3 s, mostram o começo de um ritual com o
 14. **Entrar e abrir as mãos:** a mulher entra descalça, ajoelha e abre as mãos em concha (corpo e rosto no quadro: a imagem usa as referências da Dana).
 15. **Dedo nos lábios:** pedido de segredo, 1 s, antes da fala (só como corte rápido).
 
+## Lição do R004 (18/10/2026): comparar com os virais antes de apresentar
+A primeira ideia do R004 (uma folha de louro alisada nas costas de um celular) era "segura para o Flow", mas sem movimento nem efeito visível, e não parecia com nenhum dos virais. Regra: **antes de apresentar um pré-gancho, conferir contra `BIBLIOTECA-VIDEOS-VIRAIS.md`** e exigir (1) movimento do começo ao fim, (2) um efeito grande e fácil de ver (sal caindo, fumaça, esconderijo se abrindo, pó soprado), (3) o objeto do hook no quadro. Sal sendo despejado é o pré-gancho mais repetido nos virais.
+
 ## Como entra no painel
 O pacote traz `pre_gancho` com: `conceito`, `imagem_prompt` (sem referências), `video_prompt` (4 s, silencioso, primeiro quadro = a imagem), `duracao`, `texto_tela` e `edicao`. O painel mostra a seção "Pré-gancho" antes da IMAGEM 1, com os dois prompts para copiar.
