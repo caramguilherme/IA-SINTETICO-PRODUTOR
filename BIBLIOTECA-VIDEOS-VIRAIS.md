@@ -348,7 +348,7 @@ Quatro dos sete abrem com uma **instrução curta e estranha, acompanhada do pr�
 A frase "I know it sounds ridiculous, but you'll thank me for the rest of your life" vira ponte de credibilidade: admite a estranheza e promete valor.
 
 ### 17.2 Pré-gancho "revelação de esconderijo" (U7)
-Levantar o tapete e uma tábua do piso e revelar um compartimento escondido, com o texto "It happens so few, it's almost scary" (o mesmo texto do S/V3). O buraco aberto **fica no quadro o vídeo todo**, e a barra de ouro na mão amarra o tema. Para a Dana (amor): um compartimento secreto com uma carta, um diário ou uma chave dentro (segredo que ele guarda).
+Levantar o tapete e uma tábua do piso e revelar um compartimento escondido, com o texto "It happens so fast, it's almost scary" (o mesmo texto do V3 da primeira leva). O buraco aberto **fica no quadro o vídeo todo**, e a barra de ouro na mão amarra o tema. Para a Dana (amor): um compartimento secreto com uma carta, um diário ou uma chave dentro (segredo que ele guarda).
 
 ### 17.3 Instrução curta que vira "objeto no quadro"
 No U8 o objeto do ritual (celular e folha de louro) acaba no chão, no quadro, e a câmera fica baixa, no nível do chão, com ela agachada. Combina com o nosso padrão do pré-gancho que reaparece no hook.
