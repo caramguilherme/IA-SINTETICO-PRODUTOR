@@ -13,7 +13,7 @@ No Flow (Nano Banana Pro, 9:16), anexe as 4 imagens oficiais da Dana e cole o PR
 ## 2. Central do curso
 Preencha a configuração fixa (seção "Central do curso: o que preencher" do painel):
 - Seção 1: Plataforma Flow (Google).
-- Seção 2: categoria "Todas"; busca vazia; lista "— sem roteiro (só animação) —"; velocidade **Rápida (BODY)**; duração de cada take Automática; câmera Handheld sutil, sem zoom; caixa "Dividir em takes (Flow)" MARCADA.
+- Seção 2: categoria "Todas"; busca vazia; lista "— sem roteiro (só animação) —"; velocidade **Rápida (BODY)** (exceção usada só no R003, para gastar menos créditos; a padrão da Dana é a Média); duração de cada take Automática; câmera Handheld sutil, sem zoom; caixa "Dividir em takes (Flow)" MARCADA.
 - Seção 3: Movimentação, interruptor LIGADO.
 - Seção 4: Áudio & atmosfera, interruptor LIGADO; atmosfera Íntimo e confidencial.
 - Seção 5: Fala / script, interruptor LIGADO; descrição livre (texto do painel); tom Calorosa e tranquilizadora; idioma Inglês; perfil de voz ✎ LIVRE com o perfil da Dana colado no bloco.
@@ -23,7 +23,7 @@ Depois cole, da seção "A fala e a movimentação" do painel:
 - Em "COLE SUA COPY AQUI": a fala inteira (146 palavras, um parágrafo).
 - Em "MOVIMENTAÇÃO": as 6 linhas, uma por take.
 
-Clique em ⚡ GERAR PROMPT DE ANIMAÇÃO. O site deve mostrar **6 takes (10 s · 10 s · 8 s · 10 s · 10 s · 6 s)**, cada um começando e terminando nas frases da conferência do painel. Na Central, deixe a velocidade da fala em **Rápida (BODY)**, como no teste de 17/10/2026 (gasta menos créditos); com ela o site junta até uns 28 palavras por take, e as 7 cenas do roteiro viram 6 takes. Se vier outro número ou outro corte, não gere e mande o print.
+Clique em ⚡ GERAR PROMPT DE ANIMAÇÃO. O site deve mostrar **6 takes (10 s · 10 s · 8 s · 10 s · 10 s · 6 s)**, cada um começando e terminando nas frases da conferência do painel. No R003 foi usada a velocidade **Rápida (BODY)**, como exceção, para gastar menos créditos; com ela o site juntou até uns 28 palavras por take e as 7 cenas viraram 6 takes. Nos próximos roteiros a velocidade volta a ser a **Média**. Se vier outro número ou outro corte, não gere e mande o print.
 
 ## 3. Agente do Flow (uma conversa só)
 1. Conversa nova no agente.

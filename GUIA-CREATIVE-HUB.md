@@ -1,6 +1,6 @@
 # GUIA DO CREATIVE HUB (central.mvmcreators.com.br/appyon/creative-hub)
 
-> **Atualização de 18/10/2026:** a velocidade usada desde o R003 é a **Rápida (BODY)**, para gastar menos créditos; as passagens deste guia sobre a Média (22 palavras por take, 7 takes) são do primeiro teste e estão superadas. Valem a seção final "Teste do R003 com velocidade Rápida" e as regras do `LICOES-FLOW-E-PROMPTS.md`. Todo prompt para a Central é em inglês.
+> **Atualização de 18/10/2026:** a velocidade padrão da Dana é a **Média — CTA (155–180 WPM)**, como definido em 17/10/2026. A **Rápida (BODY)** foi exceção só no R003 (para gastar menos créditos; a seção final "Teste do R003 com velocidade Rápida" registra o que aconteceu). Nunca usar a Rápida sem o aluno pedir. Todo prompt para a Central é em inglês.
 
 Este arquivo registra o que o aluno mostrou do site (prints enviados em 17/10/2026). O site é restrito à Turma Legacy; só o que o aluno enviou está aqui. O passo a passo por roteiro será montado depois, a partir deste registro.
 
@@ -35,7 +35,7 @@ Este arquivo registra o que o aluno mostrou do site (prints enviados em 17/10/20
   - **Para a Dana é aqui que entra a fala** (os roteiros R001, R002, R003... não estão na lista dos 100).
 
 **Campo 3 — VELOCIDADE DA FALA** (lista)
-1. Rápida — padrão (215–225 WPM) ← padrão do site
+1. Rápida — padrão do SITE (215–225 WPM); NÃO é a padrão da Dana (a Dana usa a Média)
 2. Média — CTA (155–180 WPM)
 3. Lenta — intro (100–110 WPM)
 4. Automática por parte: gancho lenta · body rápida · CTA média

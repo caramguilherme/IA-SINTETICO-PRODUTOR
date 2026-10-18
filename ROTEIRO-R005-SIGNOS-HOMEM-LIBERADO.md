@@ -17,17 +17,17 @@ Pente fino de 18/10/2026: antes desta revisão li inteiros `CLAUDE.md`, `PROJETO
 ## Imagem e pré-gancho
 - **Imagem:** a mesma IMAGEM 1 do R004 (celular com folha de louro na mão direita). Não há pré-gancho: os virais de signos abrem direto com o texto do topo (economia de 7 créditos). O pré-gancho do R005 é opcional.
 
-## Take B1 — Gancho — 8 s (21 palavras)
+## Take B1 — Gancho — 10 s (21 palavras)
 **Visual:** Dana olha para a lente e coloca o dedo indicador esquerdo nos lábios por um instante (segredo), segurando o celular com a folha na mão direita.
 **Fala:** "Taurus, Virgo, or Capricorn: keep your mouth shut after watching this. The man the universe kept for you is being released."
 (PT: Touro, Virgem ou Capricórnio: fique em silêncio depois de ver isto. O homem que o universo guardou para você está sendo liberado.)
 
-## Take B2 — Corpo — 8 s (20 palavras)
+## Take B2 — Corpo — 10 s (20 palavras)
 **Visual:** Dana inclina a cabeça e abre a palma esquerda para a lente.
 **Fala:** "The chains that kept you lonely are breaking right now. Skip this, and the energy breaks. Watch your phone tomorrow."
 (PT: As correntes que te mantinham sozinha estão se quebrando agora. Se pular isto, a energia se quebra. Fique de olho no celular amanhã.)
 
-## Take C — CTA (o mesmo clipe do R004) — 8 s (22 palavras)
+## Take C — CTA (o mesmo clipe do R004) — 10 s (22 palavras)
 **Fala:** "Send this to yourself. Comment 222. Open my story, pick 3 cards, and see his possible face and when you might meet."
 
 ## Texto de tela (edição)

@@ -28,11 +28,12 @@ Este arquivo junta tudo o que já deu errado ou que o aluno pediu. **Antes de en
 | R003 | A voz padrão da Central era de outra pessoa | Perfil de voz LIVRE da Dana, nunca o padrão |
 | R003 | Os takes da Central não coincidiam com as cenas | Ver seção 3 (divisor de takes) |
 | R004 pré-gancho v1 | Folha alisada no celular: sem movimento, sem efeito, não parecia com os virais | Espelhar os virais; efeito visível e com movimento |
+| R004 e R005 (18/10) | Eu tratei a velocidade Rápida, usada só no R003, como se fosse a padrão, e montei os takes e as contas de crédito para 8 s; com a Média, falas de 18 a 22 palavras saem em 10 s (15 créditos) | A velocidade padrão é sempre a Média; conferir a velocidade antes de calcular durações e custo |
 | R004 pré-gancho v2 | A imagem 1 saiu com o anel de sal já completo, igual à final; o vídeo ficou parado (7 créditos perdidos) | Quadros diferentes; estados binários; comparar as imagens antes do vídeo |
 
 ## 3. Central do curso (Creative Hub) — regras confirmadas em teste
 - Não clicar em "Resetar valores" nem em "REGERAR BLOCO A PARTIR DOS CAMPOS". "Dividir em takes (Flow)" fica marcada. Perfil de voz em LIVRE com o texto da Dana.
-- Velocidade **Rápida (BODY)**: cabe até uns 29 a 30 palavras por take. Takes de até 15 palavras saem com 6 s, até 23 com 8 s, de 24 a 29 com 10 s.
+- **Velocidade sempre Média — CTA (155–180 WPM)**, a padrão da Dana (decisão de 17/10/2026). Com a Média: fala de até 17 palavras = take de 8 s (12 créditos); de 18 a 22 palavras = take de 10 s (15 créditos); o site junta frases até uns 22 palavras por take. **A Rápida foi exceção só no R003** (para economizar crédito); nunca usar a Rápida sem o aluno pedir. (Com a Rápida, cabem 29 a 30 palavras por take e a voz sai acelerada.)
 - O site junta frases inteiras: para a frase seguinte virar outro take, ela precisa ter **10 palavras ou mais** (não cabe no resto do take).
 - Um CTA que é o mesmo clipe para dois vídeos é colado **sozinho**, em outra colagem, e gerado uma vez.
 - A movimentação é uma linha por take, em inglês; o site usa o final de um take como início do seguinte (por isso a 7ª linha sobra quando há 6 takes).

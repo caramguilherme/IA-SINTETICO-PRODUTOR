@@ -29,17 +29,17 @@ Modelo nos virais: V3 e S2 (sal despejado num prato ou em monte), com o celular 
 **Modo no Flow:** Frames. Primeiro quadro = imagem 1 (prato vazio, fio de sal começando). Último quadro = imagem 2 (edição da imagem 1: monte de sal no prato, sem pote nem mão). Compare as duas imagens antes de gerar o vídeo.
 (As versões 1 e 2 foram descartadas: sem movimento e anel já completo na imagem inicial.)
 
-## Take A1 — Gancho — 8 s (21 palavras)
+## Take A1 — Gancho — 10 s (21 palavras)
 **Visual:** Dana olha firme para a lente, com um pequeno aceno de cabeça, segurando o celular com a folha na mão direita.
 **Fala:** "Put a bay leaf behind your phone tonight, and don't tell anyone. I know it sounds ridiculous, but you'll thank me."
 (PT: Cole uma folha de louro atrás do seu celular esta noite e não conte a ninguém. Sei que parece ridículo, mas você vai me agradecer.)
 
-## Take A2 — Corpo — 8 s (21 palavras)
+## Take A2 — Corpo — 10 s (21 palavras)
 **Visual:** Dana se inclina um pouco para a lente e aponta o dedo indicador esquerdo para ela.
 **Fala:** "A man who can't stop thinking about you is hiding something. In the next few days, he reaches out. You'll know."
 (PT: Um homem que não para de pensar em você está escondendo algo. Nos próximos dias ele entra em contato. Você vai saber.)
 
-## Take C — CTA (o mesmo clipe do R005) — 8 s (22 palavras)
+## Take C — CTA (o mesmo clipe do R005) — 10 s (22 palavras)
 **Visual:** Dana olha para a lente com um meio sorriso e aponta o dedo indicador esquerdo uma vez para ela.
 **Fala:** "Send this to yourself. Comment 222. Open my story, pick 3 cards, and see his possible face and when you might meet."
 (PT: Mande isto para você mesma. Comente 222. Abra o meu story, escolha 3 cartas e veja o possível rosto dele e quando vocês podem se conhecer.)
