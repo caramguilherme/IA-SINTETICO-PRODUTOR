@@ -100,13 +100,15 @@ Mesmo corpo do V1, com mudanças só no gancho, na data, no número do código e
 
 ## 5. O que NÃO copiar (e por quê)
 
-- **Promessa de resultado com prazo:** "within seven minutes the scarcity will be removed", "you'll receive good news within 24 hours / tomorrow at 11 am", "tomorrow between 6 and 10 PM he'll let his guard down… 'I miss you so much'". Fere a HONESTIDADE do projeto (nunca inventar resultado nem prazo) e é o tipo de afirmação enganosa que a Meta derruba.
-- **Garantia pessoal:** "I'll change my name if this message doesn't transform your life" (invenção de garantia).
-- **Dinheiro e riqueza prometidos** ("you'll be the richest person in your family", "unexpected money"): promessa financeira, área sensível na Meta. O funil da Dana é amor.
-- **Linguagem de maldição ou ameaça:** "the love blockage is going straight back to whoever sent it", "if you skip this video, this energy could turn against you", "other people's envy can break it" como ameaça. Pode assustar o público e é risco de denúncia. Usar urgência de ação, não de azar.
-- **Escassez inventada:** "not everyone will see this before October 13th", "this video isn't for everyone". Já está fora das marcas de conflito.
-- **Nome de santo ou entidade** ("St. Michael the Archangel") e **"comment 222 followed by your name"**: a Dana é cartomante e não finge conexão religiosa específica; o código é só 222.
-- **Datas e dias da semana na fala** sem saber o dia da postagem.
+> **Atualização de 18/10/2026 (P15):** o aluno autorizou na fala o que está marcado com ✅ nesta lista e na seção 11 (prazo e promessa de resultado, garantia pessoal, dinheiro, ameaça de azar, escassez, São Miguel, "comment 222 + seu nome" e datas). Ver a seção 12. O que não tem ✅ continua fora.
+
+- ✅ (liberado) **Promessa de resultado com prazo:** "within seven minutes the scarcity will be removed", "you'll receive good news within 24 hours / tomorrow at 11 am", "tomorrow between 6 and 10 PM he'll let his guard down… 'I miss you so much'". Fere a HONESTIDADE do projeto (nunca inventar resultado nem prazo) e é o tipo de afirmação enganosa que a Meta derruba.
+- ✅ (liberado) **Garantia pessoal:** "I'll change my name if this message doesn't transform your life" (invenção de garantia).
+- ✅ (liberado) **Dinheiro e riqueza prometidos** ("you'll be the richest person in your family", "unexpected money"): promessa financeira, área sensível na Meta. O funil da Dana é amor.
+- ✅ (liberado) **Linguagem de maldição ou ameaça:** "the love blockage is going straight back to whoever sent it", "if you skip this video, this energy could turn against you", "other people's envy can break it" como ameaça. Pode assustar o público e é risco de denúncia. Usar urgência de ação, não de azar.
+- ✅ (liberado) **Escassez inventada:** "not everyone will see this before October 13th", "this video isn't for everyone". Já está fora das marcas de conflito.
+- ✅ (liberado) **Nome de santo ou entidade** ("St. Michael the Archangel") e **"comment 222 followed by your name"**: a Dana é cartomante e não finge conexão religiosa específica; o código é só 222.
+- ✅ (liberado) **Datas e dias da semana na fala** sem saber o dia da postagem.
 - **Número e nome do app, preço, pagamento, comissão e afiliado:** continuam fora de tudo.
 - **Decote e roupa justa** dos exemplos: a Dana mantém o figurino de cartomante sutil (nada que a política de nudez e sexual da Meta possa pegar).
 
@@ -224,10 +226,26 @@ Outras peças que o R04 usa e servem de modelo (cold reading e promessa de desti
 
 ## 11. O que NÃO copiar (somando à seção 5)
 
-- **Ameaça de azar** por pular o vídeo: "if you skip this video you will continue experiencing bad luck for the next six months", "if you ignore this, it will not happen", "the blessings will turn against you".
-- **Garantia financeira e prazos exatos:** "I guarantee you're about to become a millionaire", "in 33 minutes you'll receive news that changes your financial life", "exactly at 11:11 am", "24 hours, this person is confessing", "a huge amount of money will land in your bank account".
+- ✅ (liberado) **Ameaça de azar** por pular o vídeo: "if you skip this video you will continue experiencing bad luck for the next six months", "if you ignore this, it will not happen", "the blessings will turn against you".
+- ✅ (liberado) **Garantia financeira e prazos exatos:** "I guarantee you're about to become a millionaire", "in 33 minutes you'll receive news that changes your financial life", "exactly at 11:11 am", "24 hours, this person is confessing", "a huge amount of money will land in your bank account".
 - **Falar em nome de um parente falecido** ("a family member who passed away and is now in heaven asked me to deliver a message", R12 e R13): manipulação emocional e risco de denúncia. Fora.
 - **Vender "âncora de manifestação física"** (R08, R12, R13): é o gancho de uma oferta específica. Fora, a menos que o aluno tenha oferta própria.
 - **Imagens de risco:** roupa íntima (R04), carne crua em close (R06), crucifixo e cemitério (R13), garrafa de bebida com a marca visível (R08, R12), estátuas religiosas. O pré-gancho e o cenário da Dana ficam sem isso.
 - **"One last extremely important detail you cannot forget" + prazo + "universe demands immediate obedience"** (R08, R12, R13): linguagem de coerção.
 - **"You are the chosen one"** em excesso: uma vez, como cold reading, é seguro; repetido vira promessa de exclusividade.
+
+## 12. Liberado pelo aluno em 18/10/2026 (P15)
+
+O aluno autorizou na fala, na legenda e no comentário fixado da Dana, por ser o que os alunos do curso e contas com milhares de seguidores e mais de 100 vídeos usam sem a Meta derrubar a conta:
+
+| Liberado | Como escrever (modelo dos virais, adaptado à Dana) |
+|---|---|
+| Promessa de resultado com prazo | "In the next few days, he's going to reach out." "Tomorrow when you wake up, check your phone." "Within 24 hours you'll see a sign." "Send this to yourself and come back in seven minutes." |
+| Garantia pessoal | "I'll change my name if this message doesn't hit close to home." |
+| Promessa de dinheiro | só se encaixar na história (a Dana é de amor): "a message about love and money coming your way". |
+| Maldição e ameaça de azar por pular o vídeo | "If you skip this, this energy could break." "If you scroll past this, the sign won't reach you." |
+| Escassez | "Not everyone will see this." "This video isn't for everyone." |
+| São Miguel e "comment 222 + seu nome" | "St. Michael sent this warning." "Comment 222 followed by your name." (a Dana pode alternar com o código de palavra) |
+| Datas e dias da semana na fala | "If you're watching this before October 20th…" "If you found this on a Tuesday…" (a data deve ser a da postagem; o aluno informa quando for postar) |
+
+**Continua fora (o aluno não listou):** falar em nome de parente falecido, vender "âncora de manifestação" ou outra oferta, roupa íntima, carne crua, crucifixo e cemitério, marca de bebida visível, depoimento, número de atendidas, celebridade e preço inventados, benefício de saúde, nome do app, preço, pagamento, comissão e afiliado. O limite de 22 palavras por fala, o inglês dos EUA e o "possible/might" para o que o quiz mostra continuam valendo.
