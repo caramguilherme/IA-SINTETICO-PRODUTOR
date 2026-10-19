@@ -95,3 +95,8 @@ O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a ge
 - **O que o agente do Flow aceita:** um item por vez, sem várias versões.
 - **Custos (créditos do aluno):** 4 s = 7, 6 s = 10, 8 s = 12, 10 s = 15.
 - **Regra de trabalho:** quando o aluno relatar uma falha, eu registro aqui, corrijo o painel em produção e **já aplico a lição nos painéis seguintes** (decisão do aluno em 19/10/2026).
+
+## 19/10/2026 — nora25, pré-gancho do pó dourado (2ª tentativa, APROVADA)
+- Funcionou: **palma estendida para a lente** nos dois quadros + **último quadro com a nuvem em primeiro plano** + prompt "em 3D, para a lente, nunca fita ou onda, ela não fala". O pó saiu da palma e encheu o quadro; a Nora não falou; áudio ambiente.
+- Detalhes a melhorar nas próximas vezes: no fim do clipe as partículas viram **bolinhas redondas amarelas** (parecem confete): pedir "partículas pequenas e brilhantes, não bolas redondas"; o **pingente** na mão baixa saiu fino (♀) e não como o disco de cobre; a **trança** não aparece em plano fechado; o arquivo veio em **720p**, baixar em 1080p se houver a opção.
+- Na edição, cortar em ~3 s, antes de as partículas virarem bolinhas.
