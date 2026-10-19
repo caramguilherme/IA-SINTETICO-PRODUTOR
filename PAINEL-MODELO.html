@@ -116,6 +116,8 @@ section{scroll-margin-top:16px}
       <button class="cp" id="copiaTela">Copiar textos de tela</button>
       <h2>Edição: texto na tela</h2>
       <p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Já com o pré-gancho e os takes aprovados, monte o vídeo no editor e ponha os textos abaixo.</p>
+      <div id="telaLinhaW" class="hide"><div class="mono">Resumo: o que aparece na tela, em ordem</div>
+      <ol class="box" id="telaLinha" style="margin:8px 0 14px;padding:12px 12px 12px 32px;line-height:1.55"></ol></div>
       <div class="mono" id="telaPreK">Pré-gancho</div>
       <div class="box" id="telaPre" style="margin:8px 0 12px;font-size:18px;font-weight:700"></div>
       <div class="mono">Primeiros segundos do hook</div>
@@ -414,6 +416,9 @@ function montar(silencio){
   $('pinFace').textContent=cf.face||'(a IA não entregou o comentário fixado do Facebook)';
   const pg=pk.pre_gancho||{};
   $('telaPre').textContent=pg.texto_tela||'';$('telaPre').classList.toggle('hide',!pg.texto_tela);$('telaPreK').classList.toggle('hide',!pg.texto_tela);
+  const el=pk.edicao_linha||[];$('telaLinhaW').classList.toggle('hide',!el.length);
+  $('telaLinha').innerHTML=el.map(x=>'<li style="margin-bottom:8px"><b>'+esc(x.quando)+'</b><br>'+(x.texto?'<span style="font-size:17px;font-weight:700">'+esc(x.texto)+'</span><br>':'')+'<span style="color:var(--ink2)">'+esc(x.como)+'</span></li>').join('');
+  $('telaEdicao').style.whiteSpace='pre-line';
   $('telaEdicao').textContent=pg.edicao||'';$('telaEdicao').classList.toggle('hide',!pg.edicao);
   $('telaHookQ').innerHTML=tt.hook_comeca?('Começa em: “'+esc(tt.hook_comeca)+'”'+(tt.hook_termina?' → termina em: “'+esc(tt.hook_termina)+'”':'')):'';
   $('telaAlt').textContent=tt.hook_alt?'Alternativa: '+tt.hook_alt:'';$('telaAlt').classList.toggle('hide',!tt.hook_alt);
