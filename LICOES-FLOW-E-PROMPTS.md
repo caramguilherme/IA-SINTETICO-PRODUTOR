@@ -104,5 +104,5 @@ O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a ge
 
 ## 19/10/2026 — continuidade pré-gancho → vídeo (decisão do aluno, teste do nora25 ao nora28)
 - O aluno percebeu, e eu confirmei assistindo aos virais (R01, R04, R07, R09), que **o vídeo é a continuação do pré-gancho no mesmo cenário e com a mesma roupa**. Antes eu trocava roupa e cenário entre o pré-gancho e o corpo (nora25 estava no corredor de verde e o corpo na cozinha).
-- Regra para nora25 a nora28: IMAGEM 1 = mesma roupa e mesmo cenário do pré-gancho; a pose muda só o necessário (em pé na porta no nora25, ajoelhada nos outros); o objeto do hook continua na mão direita; as pistas dos EUA entram nos dois (bandeirinha no nora26 a nora28; o nora25 já tinha pré-gancho aprovado sem bandeirinha).
+- Regra para nora25 a nora28: IMAGEM 1 = mesma roupa e mesmo cenário do pré-gancho; a pose muda só o necessário (em pé na porta no nora25, ajoelhada nos outros); o objeto do hook continua na mão direita; as pistas dos EUA (decisão do aluno em 19/10/2026): **nora25** = pré-gancho SEM EUA (já aprovado) e IMAGEM 1 COM bandeirinha pendurada na parede; **nora26 em diante** = EUA nos dois, pré-gancho e corpo (bandeirinha na parede + broche esmaltado de bandeira no peito).
 - Depois dos 4 vídeos, comparar com as métricas e decidir se o próximo teste volta a variar roupa e cenário.
