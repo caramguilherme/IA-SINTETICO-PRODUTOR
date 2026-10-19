@@ -67,3 +67,6 @@ O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a ge
 - O aluno quer nome em toda imagem e todo take, mostrado no painel de forma didática, para reaproveitar ganchos, corpos e CTAs já gerados. Ver P23 e `BIBLIOTECA-DE-TAKES.md`.
 - **Os créditos não são mais limite** (o aluno comprou 1000 e já entraram): gerar tudo completo, com o CTA de cada vídeo, e decidir o reaproveitamento depois. Errei ao encurtar o plano para economizar; o aluno corrigiu.
 - Reaproveitar só com a mesma Nora e a mesma imagem de base (mesmo kit). Antes de decidir, olhar as métricas do aluno (`Metricas_da_Nora`): os campeões B3 e C4 vieram da receita "corpo e CTA uma vez por copy, só o gancho muda".
+
+## 19/10/2026 — legenda curta
+- Minhas legendas tinham várias linhas e o aluno não acredita que funcione. Regra nova (P24): **no máximo 2 linhas, ou 3 com hashtag**, agressiva, terminando na ação. Alternar com e sem hashtag como teste (nora25 e nora27 sem; nora26 e nora28 com) e anotar nas métricas.

@@ -88,13 +88,11 @@ Modelo nos virais: R09 (linha de sal com folhas de louro em chamas, ela acende e
 - **Pré-gancho:** "The Moon remembers."
 
 ## Legenda do post (Instagram e Facebook)
-STOP. Do you know what the Moon looked like the night you were born? 🌙
+The Moon on the night you were born is hiding 2 things from you. 🌙
+Part 2 is in my story. Comment MOON. Tap my photo NOW.
+#astrology #venus #moon
 
-It's hiding two things from you about love. One of them is why the same story keeps finding you.
-
-Part 2 is in my story. A free astrology quiz, no birth time needed. It disappears in 24 hours.
-
-Double tap. Comment MOON. Tap my photo. NOW.
+(Regra do aluno, 19/10/2026: legenda curta, no máximo 2 linhas, ou 3 se tiver hashtag. Esta tem 3 linhas, com hashtag. Teste: nora25 e nora27 sem hashtag; nora26 e nora28 com hashtag. Anotar nas métricas qual foi qual.)
 
 ## Comentário fixado
 - **Instagram:** The 2nd thing is in my story. 🌙 Tap my photo NOW, it's gone in 24 hours. Comment MOON if you want to see yours. 🔥

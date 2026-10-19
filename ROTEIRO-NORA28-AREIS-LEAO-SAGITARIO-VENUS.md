@@ -76,13 +76,11 @@ Modelo nos virais: V4 (círculo de sal, canela e louro no chão; ela acende e so
 - **Pré-gancho:** "When you keep choosing the wrong one."
 
 ## Legenda do post (Instagram e Facebook)
-STOP. Aries, Leo, Sagittarius: this one is yours. 🔥
+Aries, Leo, Sagittarius: your sun sign isn't why you keep choosing him. 🔥
+Part 2 is in my story. Comment CHART. Tap my photo NOW.
+#astrology #zodiac #venus
 
-Your sun sign is not why you keep choosing him. Your Venus is.
-
-Part 2 is in my story. A free astrology quiz, no birth time needed. It disappears in 24 hours.
-
-Save this. Comment CHART. Tap my photo. NOW.
+(Regra do aluno, 19/10/2026: legenda curta, no máximo 2 linhas, ou 3 se tiver hashtag. Esta tem 3 linhas, com hashtag. Teste: nora25 e nora27 sem hashtag; nora26 e nora28 com hashtag. Anotar nas métricas qual foi qual.)
 
 ## Comentário fixado
 - **Instagram:** Aries, Leo, Sagittarius, this one is yours. 🔥 PART 2 is in my story. 👆 Tap my photo NOW, it's gone in 24 hours. Comment CHART.

@@ -88,15 +88,10 @@ Modelo nos virais: U6 (ela entra por uma porta e sopra pó dourado na lente, ≈
 - **Pré-gancho:** "Not your sun sign."
 
 ## Legenda do post (Instagram e Facebook)
-STOP calling it bad luck. 🔥
+STOP calling it bad luck. It's a pattern, and it has a name. 🔥
+Part 2 is in my story. Comment VENUS. Tap my photo NOW.
 
-One minute he's all in. Then he couldn't care less.
-
-It's not you. It's a pattern. And it has a name.
-
-Part 2 is in my story. A free astrology quiz, no birth time needed. It disappears in 24 hours.
-
-Send this to yourself. Comment VENUS. Tap my photo. NOW.
+(Regra do aluno, 19/10/2026: legenda curta, no máximo 2 linhas, ou 3 se tiver hashtag. Esta tem 2 linhas, sem hashtag. Teste: nora25 e nora27 sem hashtag; nora26 e nora28 com hashtag. Anotar nas métricas qual foi qual.)
 
 ## Comentário fixado
 - **Instagram:** PART 2 is in my story. 👆 Tap my photo NOW, it's gone in 24 hours. Comment VENUS if you want to find yours. 🔥

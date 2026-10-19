@@ -82,15 +82,10 @@ Modelo nos virais: U7 (ela levanta o tapete e uma tábua do piso e revela um com
 - **Pré-gancho:** "It happens so fast, it's almost scary."
 
 ## Legenda do post (Instagram e Facebook)
-STOP. Two kinds of men. You keep choosing the second. 🔥
+Two kinds of men. You keep choosing the second. 🔥
+Part 2 is in my story. Comment MATCH. Tap my photo NOW.
 
-One sees your worth. One keeps you guessing.
-
-It's not bad luck. It's a pattern, and it depends on your Venus.
-
-Part 2 is in my story. A free astrology quiz, no birth time needed. It disappears in 24 hours.
-
-Comment MATCH. Tap my photo. NOW.
+(Regra do aluno, 19/10/2026: legenda curta, no máximo 2 linhas, ou 3 se tiver hashtag. Esta tem 2 linhas, sem hashtag. Teste: nora25 e nora27 sem hashtag; nora26 e nora28 com hashtag. Anotar nas métricas qual foi qual.)
 
 ## Comentário fixado
 - **Instagram:** PART 2 is in my story. 👆 Tap my photo NOW, it's gone in 24 hours. Comment MATCH if you're done choosing the second kind. 🔥
