@@ -1,0 +1,410 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Painel R009 Nora</title>
+<style>
+:root{--bg:#0b1230;--bg2:#101a40;--card:#0f1a3d;--card2:#0a1230;--line:#22305e;--ink:#eef1ff;--ink2:#aab4dd;--accent:#4f8cff;--yellow:#ffe14d;--green:#27c27a;--red:#ff6b5b;
+--sans:system-ui,-apple-system,"Segoe UI",Inter,sans-serif;--mono:ui-monospace,Consolas,monospace}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:radial-gradient(1200px 600px at 20% -10%,#16245a 0,var(--bg) 60%);color:var(--ink);font:16px/1.55 var(--sans);min-height:100vh}
+button{font:inherit;cursor:pointer;color:inherit}
+.wrap{max-width:1120px;margin:0 auto;padding:22px 16px 90px;display:grid;grid-template-columns:minmax(0,1fr) 190px;gap:22px}
+.col{display:grid;gap:18px;min-width:0;align-content:start}
+nav.toc{position:sticky;top:18px;align-self:start;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;font-size:14px}
+nav.toc b{display:block;margin-bottom:6px}
+nav.toc a{display:block;color:var(--ink2);text-decoration:none;padding:3px 0}
+nav.toc a:hover{color:var(--yellow)}
+.hero{border:1px solid var(--line);border-radius:14px;padding:22px 24px;background:linear-gradient(135deg,#142a73,#0f1a3d)}
+.hero .k{font:700 11.5px var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--yellow)}
+.hero h1{margin:6px 0 6px;font-size:clamp(26px,4vw,38px);line-height:1.1;letter-spacing:-.01em}
+.hero p{margin:0;color:var(--ink2);font-size:14.5px}
+.card{position:relative;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px 22px}
+.card h2{margin:0 0 12px;font-size:21px}
+.card h3{margin:0 0 8px;font-size:15px;letter-spacing:.03em;text-transform:uppercase;color:#7fe3b0;display:flex;gap:8px;flex-wrap:wrap;align-items:center;padding-right:170px}
+.cp{position:absolute;top:14px;right:14px;border:1px solid var(--line);background:var(--bg2);border-radius:8px;padding:6px 12px;font-weight:600;font-size:13px}
+.cp:hover{border-color:var(--accent);background:#17265a}
+.cp.ok{background:var(--green);border-color:var(--green);color:#04210f}
+.cp.big{position:static;background:var(--yellow);color:#101114;border-color:var(--yellow);padding:10px 18px;font-size:15px}
+.box{background:var(--card2);border:1px solid var(--line);border-radius:10px;padding:14px 16px;white-space:pre-wrap;word-break:break-word;font-size:14.5px;line-height:1.6}
+.box.m{font-size:13.5px}
+.item{display:grid;gap:10px;border-top:1px solid var(--line);padding-top:16px;margin-top:16px;position:relative}
+.item:first-child{border-top:0;margin-top:0;padding-top:0}
+.item.done .box{opacity:.6}
+.item.done h3::after{content:"✓ feito";color:var(--green);font-size:12px}
+.fala{border-left:4px solid var(--yellow);padding:2px 0 2px 12px;font-weight:600}
+.tag{font:700 11px var(--mono);letter-spacing:.06em;text-transform:uppercase;border-radius:5px;padding:2px 7px;background:#1d2d68;color:#cfd8ff}
+.tip{background:#2a2410;border:1px solid #6b5a14;border-radius:8px;padding:8px 12px;font-size:14px;color:#ffe9a0}
+label.chk{display:inline-flex;gap:7px;align-items:center;font-weight:600;cursor:pointer;font-size:14px;color:var(--ink2)}
+label.chk input{width:18px;height:18px;accent-color:var(--green)}
+.bar{height:8px;background:#1a2757;border-radius:6px;overflow:hidden;margin-top:12px}
+.bar i{display:block;height:100%;background:var(--green);width:0;transition:width .25s}
+.mono{font:700 11.5px var(--mono);letter-spacing:.09em;text-transform:uppercase;color:var(--ink2)}
+textarea{width:100%;min-height:150px;border:1px solid var(--line);border-radius:10px;padding:10px 12px;font:13px/1.5 var(--mono);resize:vertical;background:var(--card2);color:var(--ink)}
+textarea:focus{outline:2px solid var(--accent)}
+.btn{border:1px solid var(--line);background:var(--bg2);border-radius:8px;padding:8px 14px;font-weight:600;font-size:14px}
+.btn:hover{border-color:var(--accent)}
+.btn.c{background:var(--accent);border-color:var(--accent);color:#04122e}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.msg{font-size:14px;margin-top:8px}
+.msg.err{color:var(--red);font-weight:600}
+.hide{display:none!important}
+.chip{display:inline-block;margin:0 6px 6px 0;background:#1d2d68;color:#cfd8ff;border-radius:6px;padding:3px 9px;font:600 12.5px var(--mono)}
+ol.steps{margin:8px 0 0;padding-left:20px;font-size:14.5px;color:var(--ink2)}
+section{scroll-margin-top:16px}
+@media(max-width:860px){.wrap{grid-template-columns:1fr}nav.toc{display:none}.card h3{padding-right:0;margin-top:34px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+ <div class="col">
+  <section class="card" id="entrada">
+    <div class="mono">Cole o pacote que a IA te entregou (JSON)</div>
+    <textarea id="json" placeholder="Cole aqui o bloco (começa com { e termina com })" style="margin-top:10px"></textarea>
+    <div class="row" style="margin-top:10px">
+      <button class="btn c" id="aplicar">Montar painel</button>
+      <button class="btn" id="limpar">Limpar tudo</button>
+    </div>
+    <div class="msg" id="msg"></div>
+  </section>
+
+  <div id="painel" class="hide col">
+    <section class="hero">
+      <div class="k" id="rid"></div>
+      <h1 id="rtitulo"></h1>
+      <p id="rmeta"></p>
+      <div class="tip" id="avisos" style="margin-top:12px"></div>
+      <div class="bar"><i id="prog"></i></div>
+      <p id="progtxt" style="margin-top:6px"></p>
+    </section>
+
+    <section class="card" id="textotela">
+      <button class="cp" id="copiaTela">Copiar textos de tela</button>
+      <h2>Edição: texto na tela</h2>
+      <p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Já com o pré-gancho e os takes aprovados, monte o vídeo no editor e ponha os textos abaixo.</p>
+      <div class="mono" id="telaPreK">Pré-gancho</div>
+      <div class="box" id="telaPre" style="margin:8px 0 12px;font-size:18px;font-weight:700"></div>
+      <div class="mono">Primeiros segundos do hook</div>
+      <div class="box" id="telaHook" style="margin:8px 0 12px;font-size:20px;font-weight:700"></div>
+      <div id="telaHookQ" style="margin:-4px 0 12px;color:var(--ink2);font-size:14.5px"></div>
+      <div class="box" id="telaAlt" style="margin:0 0 12px"></div>
+      <div class="box" id="telaExtras"></div>
+      <div class="tip hide" id="telaEdicao" style="margin-top:12px"></div>
+    </section>
+
+    <section class="card" id="descricao">
+      <button class="cp" id="copiaInsta">Copiar legenda</button>
+      <h2>Legenda Insta/Face</h2>
+      <div class="box" id="insta"></div>
+    </section>
+
+    <section class="card" id="comentario">
+      <h2>Comentário fixado</h2>
+      <div class="item">
+        <button class="cp" id="copiaPinInsta">Copiar Insta</button>
+        <h3>Instagram</h3>
+        <div class="box" id="pinInsta"></div>
+      </div>
+      <div class="item">
+        <button class="cp" id="copiaPinFace">Copiar Face</button>
+        <h3>Facebook</h3>
+        <div class="box" id="pinFace"></div>
+      </div>
+    </section>
+
+    <section class="card" id="referencia">
+      <h2>Referência visual</h2>
+      <div id="refs"></div>
+      <ol class="steps" id="refSteps">
+        <li>No Google Flow, anexe <b>só</b> estas imagens (deste personagem).</li>
+        <li><b>Com créditos:</b> agente do Flow. Cole “Copiar todos os prompts” (etapa “Todos os prompts”). Ele gera um item por vez e espera seu "APROVADO".</li>
+        <li><b>Sem créditos:</b> gere item por item, copiando abaixo. Tudo 9:16.</li>
+      </ol>
+    </section>
+
+    <section class="card hide" id="prehook">
+      <h2>Pré-gancho (3 a 4 s)</h2>
+      <div id="preBox"></div>
+    </section>
+
+    <section class="card" id="imagens"><h2>Imagens</h2><div id="listaImg"></div></section>
+
+    <section class="card hide" id="central">
+      <h2>Central do curso: o que preencher</h2>
+      <p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Configuração que vale para todas as cenas. Preencha uma vez, na ordem. Não clique em “Resetar valores” nem em “REGERAR BLOCO”.</p>
+      <div id="cfg"></div>
+    </section>
+
+    <section class="card hide" id="cenas">
+      <h2>As cenas, uma por vez na Central</h2>
+      <p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Em cada cena mudam só 2 campos: a fala e a movimentação.</p>
+      <div id="listaCenas"></div>
+    </section>
+
+    <section class="card hide" id="agente">
+      <h2>No agente do Flow</h2>
+      <p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Cole cada take copiado da Central na caixa da cena. O botão monta a mensagem inteira (aviso + takes na ordem) para colar no agente.</p>
+      <div id="agenteBox"></div>
+    </section>
+
+    <section class="card hide" id="story">
+      <h2>Story (parte 2)</h2>
+      <div id="storyBox"></div>
+    </section>
+
+    <section class="card" id="fala">
+      <button class="cp" id="copiaFalas">Copiar falas</button>
+      <h2>Fala completa</h2>
+      <div class="box" id="falas"></div>
+    </section>
+
+    <section class="card" id="videos"><h2>Vídeos</h2><div id="listaVid"></div></section>
+
+    <section class="card" id="todos">
+      <h2>Todos os prompts</h2>
+      <p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Bloco único para o agente do Flow (já começa com <i>iniciar</i> e duas linhas em branco).</p>
+      <button class="cp big" id="copiaTudo">Copiar todos os prompts</button>
+    </section>
+  </div>
+ </div>
+ <nav class="toc"><b>Nesta página</b>
+   <span id="tocLinks"></span>
+ </nav>
+</div>
+
+<script>
+/* DADOS DO PACOTE: a IA troca só a linha abaixo (null) pelo objeto JSON do pacote. O resto do arquivo não muda. */
+const PACOTE = {"roteiro": {"id": "R009-AREIS-LEAO-SAGITARIO-VENUS", "titulo": "Áries, Leão e Sagitário: não é o seu signo, é o seu Vênus", "dor": "5 (repetir o mesmo padrão), com a 2", "formato": "Formato 1 (problema + crença + solução), série por signos (grupo Fogo), 6 takes", "molde_hook": "virais S3/S4 (gancho por signos) + a virada do funil (\"your Venus, not your sun sign\")", "duracao_total": 64, "descricao_instagram": "STOP. Aries, Leo, Sagittarius: this one is yours. 🔥\n\nYour sun sign is not why you keep choosing him. Your Venus is.\n\nPart 2 is in my story. A free astrology quiz, no birth time needed. It disappears in 24 hours.\n\nSave this. Comment CHART. Tap my photo. NOW.", "leitura_registro": "19/10/2026: li inteiros todos os arquivos de LEIA-TUDO-ANTES.md e o briefing do Love Chart (BRIEFING-LOVECHART.md) antes de escrever o roteiro; a lista completa está no registro do roteiro. Antes de gerar os prompts conferi o checklist de LICOES-FLOW-E-PROMPTS.md (seção 1), o GUIA-CREATIVE-HUB.md e o CHECKLIST-DE-PRODUCAO.md."}, "perfil": {"nome": "Nora", "teste": "A", "voz": "Voz feminina adulta americana (inglês dos EUA), natural e espontânea, calma e firme."}, "refs": ["blueprint-nora.png (folha de consistência do personagem, uma imagem)"], "trava_referencia": "There is no pet in this project: no animal appears in any scene. MAP OF THE ATTACHED REFERENCE (one character consistency sheet that shows the SAME woman): a large front portrait with a natural smile; front, 3/4 left, 3/4 right, left profile, right profile and back views of the head; four full-body views (front, 3/4, side, back); five expressions; close-ups of the eye, the eyebrow and nose, the hair and a braided bracelet; an outfit reference and a color palette. The face in the final image must be the same person as in the large front portrait and the other face views: same face shape, freckles, eyes, eyebrows, nose, lips and hair. Copy the face from the sheet; do not invent a new face. IDENTITY ANCHOR: Use the supplied character consistency reference sheet as the strict identity reference. Preserve the exact same adult American woman shown in it: apparent age 35 to 40, fair skin with a warm-neutral undertone and light, scattered freckles across the nose and cheeks, oval face with a soft jaw and a softly rounded chin, subtle cheekbones, olive-green (hazel-green) eyes with golden flecks, medium-brown naturally arched eyebrows, a straight nose of medium width with a softly rounded tip, medium natural rosy lips with no lipstick, a natural smile that shows her teeth, fine age-appropriate lines at the outer corners of the eyes and on the forehead. Preserve her exact light-to-medium brown hair with warm caramel and golden highlights, loose natural waves falling between chin and collarbone length, slightly off-center part, irregular waves and natural flyaway hairs. Preserve her slim-to-average build, average height, relaxed posture, realistic natural skin texture and the thin braided copper-and-tan bracelet on one wrist. Do not redesign, beautify, de-age, age, slim, enlarge, recolor or alter her face, hair or body. The woman must remain recognizably the exact same living person in every image and every video frame. Avoid CGI, 3D render, illustration, plastic or airbrushed skin, beauty-filter appearance, erased freckles, de-aged or aged face, heavy glam makeup, lipstick, different hair color, straightened hair, tight curls, changed hair length or part, different eye color, enlarged lips, enlarged glossy eyes, perfect bilateral symmetry, exaggerated hourglass, tiny waist, enlarged bust, athletic or muscular build, underweight body, sexualized pose, theatrical fortune-teller costume, turban, heavy jewelry, luxury-editorial polish and cinematic commercial lighting.", "figurino": "fortune-teller, subtle mystic; fine-knit deep petrol-teal sweater with a round neckline, no print, embroidery or shine; plain dark straight trousers. Clothing is secondary to the contrast of the cream astrology chart in the hook. Fixed accessory: the thin braided copper-and-tan bracelet from the reference sheet on one wrist; no earrings, necklace, turban, cape or costume", "excecao_estilo": "", "imagens": [{"rotulo": "IMAGEM 1", "cena": "NEW PHOTO (a generation from scratch, not an edit): the woman from the attached character consistency reference sheet, with exactly her face, freckles, eyes, hair and body, sitting at a round light-wood table in a cozy American living room. Scene: (1) she wears the outfit from the FIXED OUTFIT; (2) on the table there are only one closed tarot deck (tall, narrow tarot cards with softly rounded corners, a dark midnight-blue back with a symmetrical ornamental pattern in matte gold (sun, crescent moon and stars) and a thin gold border, no suits, numbers or letters), back facing UP, and a lit candle in a glass jar to the right of the deck; no other object; (3) the camera is in front of the table's front edge, perpendicular to it, with the edge horizontal at the bottom of the frame and a slight downward tilt, medium frontal shot; she sits behind the table, facing the lens with a calm, firm expression; behind her, a window on the left with soft natural light from the window on the left and a beige sofa with a throw blanket, softly out of focus; (4) with her right hand she holds in front of her chest, by its lower edge, a printed natal astrology chart on a sheet of cream paper about 20 cm wide: a large circle divided into twelve segments with small black zodiac glyphs around the ring and thin black lines inside, with ONE small hand-drawn red-ink circle around one glyph; the sheet faces the lens, in the foreground slightly to the left, without covering her face; it is real matte paper, no glow, and it has no readable words or numbers; her left hand is free at her side; (5) the cream chart with the red circle is the point of highest contrast against the dark teal sweater; nothing else competes. The face must match the large front portrait of the reference sheet (same freckles, green eyes, wavy caramel-brown hair); do not invent a new face. Anatomically correct hands and fingers, five fingers on each hand, no duplicated object or deck. Do not rejuvenate or smooth the skin."}], "videos": [{"rotulo": "V1", "cena": "Take 1/6 · Gancho por signos", "duracao": 10, "primeiro_quadro": "IMAGEM 1", "acao": "(ver movimentação)", "b_roll": "", "fala": "Aries, Leo, or Sagittarius: pay very close attention. Your sun sign is not why you keep choosing him. Your Venus is.", "movimentacao": "She points her left index finger at the lens, holding the printed chart steady in front of her chest with her right hand, while the closed tarot deck and the candle on the table stay still.", "arquivo": "R009-T1"}, {"rotulo": "V2", "cena": "Take 2/6 · Cold reading do grupo", "duracao": 10, "primeiro_quadro": "IMAGEM 1", "acao": "(ver movimentação)", "b_roll": "", "fala": "You fall fast and you fall hard. Then the silence starts, and you blame yourself. Tell me that's not how it goes.", "movimentacao": "She places her left hand on her chest for a moment and returns it to her side, holding the printed chart steady in her right hand, while the closed tarot deck and the candle on the table stay still.", "arquivo": "R009-T2"}, {"rotulo": "V3", "cena": "Take 3/6 · Segredo e mecanismo", "duracao": 10, "primeiro_quadro": "IMAGEM 1", "acao": "(ver movimentação)", "b_roll": "", "fala": "Nobody told you this. In astrology, your sun sign is only who you are. Your Venus shows how you love.", "movimentacao": "She opens her left palm toward the camera, holding the printed chart steady in her right hand, while the closed tarot deck and the candle on the table stay still.", "arquivo": "R009-T3"}, {"rotulo": "V4", "cena": "Take 4/6 · Virada e nome do padrão", "duracao": 10, "primeiro_quadro": "IMAGEM 1", "acao": "(ver movimentação)", "b_roll": "", "fala": "And your Venus may not be in your sun sign at all. That's exactly why the same story keeps finding you.", "movimentacao": "She points her left index finger at the red circle on the chart and then at the lens, holding the chart steady in her right hand, while the closed tarot deck and the candle on the table stay still.", "arquivo": "R009-T4"}, {"rotulo": "V5", "cena": "Take 5/6 · 6A (o que o story mostra)", "duracao": 10, "primeiro_quadro": "IMAGEM 1", "acao": "(ver movimentação)", "b_roll": "", "fala": "You can find yours. In my story, a free astrology quiz finds your Venus, names your pattern and shows your perfect match.", "movimentacao": "She gives a half smile to the camera, holding the printed chart steady in her right hand, while the closed tarot deck and the candle on the table stay still.", "arquivo": "R009-T5"}, {"rotulo": "V6", "cena": "Take 6/6 · 6B (selos e story)", "duracao": 10, "primeiro_quadro": "IMAGEM 1", "acao": "(ver movimentação)", "b_roll": "", "fala": "Save this right now. Comment CHART so I know you did it. Tap my photo and open my story before it disappears.", "movimentacao": "She holds the chart slightly closer to the lens and points her left index finger at the camera with a firm gaze, while the closed tarot deck and the candle on the table stay still.", "arquivo": "R009-T6"}], "instrucoes_agente": "NOTES FOR THE AGENT (they complement your role, without changing the step-by-step):\n1. This package is a NEW character, NORA: ignore any prompt, image or line from earlier packages in this conversation, including any earlier character.\n2. The attached reference is ONE character consistency sheet that shows the SAME woman (front portrait, head views, full-body views, expressions, close-ups, outfit and palette). Attach it to IMAGEM 1 as the only identity reference.\n3. This package has ONLY 1 image (IMAGEM 1) and no videos. Generate only IMAGEM 1, show it and stop. Do not ask for IMAGEM 2 or video prompts.\n4. IMAGEM 1 is a NEW photo of this woman (not an edit of any attached photo): use the reference sheet for the face, freckles, eyes, hair and body. The clothing and the scene come from the prompt.\n5. The face is the priority. It must match the large front portrait of the sheet. Do not create another person, do not rejuvenate and do not smooth the skin.\n6. The deck is a real tarot deck, with the dark midnight-blue and gold back facing up, closed on the table. She holds, with her right hand and in the foreground, a printed astrology chart on cream paper, facing the lens, with one red hand-drawn circle. There is no card outside the deck except where the prompt says she holds one.\n7. Generate one item at a time and wait for my APPROVED. If the face is not the one in the reference sheet, tell me together with the item.", "texto_tela": {"hook": "Aries, Leo, or Sagittarius, pay very close attention", "hook_comeca": "Aries, Leo", "hook_termina": "Your Venus is", "hook_alt": "", "extras": []}, "comentario_fixado": {"insta": "Aries, Leo, Sagittarius, this one is yours. 🔥 PART 2 is in my story. 👆 Tap my photo NOW, it's gone in 24 hours. Comment CHART.", "face": "Aries, Leo, Sagittarius, this one is yours. 🔥 PART 2 is in my Story. Tap my profile picture NOW, it's gone in 24 hours. Comment CHART."}, "pre_gancho": {"duracao": 4, "com_rosto": true, "conceito": "Modelo nos virais: V4 (círculo de sal, canela e louro no chão; ela acende e sopra, sobe muita fumaça, ≈ 2,5 s) e R01 (fumaça subindo). A Nora está ajoelhada no chão de madeira, de frente para a lente, diante de um **pequeno círculo de sal grosso já feito, com paus de canela e folhas de louro em volta de um centro em brasa** (sem chama, só a brasa). Ela se inclina um pouco e **sopra devagar sobre a brasa**: a **fumaça cresce** de um fio fraco até uma coluna grossa e lenta que sobe entre ela e a lente e esconde parte do rosto. Um único efeito: a fumaça. Quadro inicial: círculo parado e só um fio de fumaça. Quadro final: coluna espessa de fumaça. Sem chama, a brasa fica a uns 50 cm do rosto.", "imagem_prompt": "VISUAL REFERENCE LOCK: use exclusively the ATTACHED references as identity authorities. Preserve the face, body, hair, proportions and appearance of the human and the pet. Do not mix identities. There is no pet in this project: no animal appears in any scene. MAP OF THE ATTACHED REFERENCE (one character consistency sheet that shows the SAME woman): a large front portrait with a natural smile; front, 3/4 left, 3/4 right, left profile, right profile and back views of the head; four full-body views (front, 3/4, side, back); five expressions; close-ups of the eye, the eyebrow and nose, the hair and a braided bracelet; an outfit reference and a color palette. The face in the final image must be the same person as in the large front portrait and the other face views: same face shape, freckles, eyes, eyebrows, nose, lips and hair. Copy the face from the sheet; do not invent a new face. IDENTITY ANCHOR: Use the supplied character consistency reference sheet as the strict identity reference. Preserve the exact same adult American woman shown in it: apparent age 35 to 40, fair skin with a warm-neutral undertone and light, scattered freckles across the nose and cheeks, oval face with a soft jaw and a softly rounded chin, subtle cheekbones, olive-green (hazel-green) eyes with golden flecks, medium-brown naturally arched eyebrows, a straight nose of medium width with a softly rounded tip, medium natural rosy lips with no lipstick, a natural smile that shows her teeth, fine age-appropriate lines at the outer corners of the eyes and on the forehead. Preserve her exact light-to-medium brown hair with warm caramel and golden highlights, loose natural waves falling between chin and collarbone length, slightly off-center part, irregular waves and natural flyaway hairs. Preserve her slim-to-average build, average height, relaxed posture, realistic natural skin texture and the thin braided copper-and-tan bracelet on one wrist. Do not redesign, beautify, de-age, age, slim, enlarge, recolor or alter her face, hair or body. The woman must remain recognizably the exact same living person in every image and every video frame. Avoid CGI, 3D render, illustration, plastic or airbrushed skin, beauty-filter appearance, erased freckles, de-aged or aged face, heavy glam makeup, lipstick, different hair color, straightened hair, tight curls, changed hair length or part, different eye color, enlarged lips, enlarged glossy eyes, perfect bilateral symmetry, exaggerated hourglass, tiny waist, enlarged bust, athletic or muscular build, underweight body, sexualized pose, theatrical fortune-teller costume, turban, heavy jewelry, luxury-editorial polish and cinematic commercial lighting.\n\nFIXED OUTFIT: fortune-teller, subtle mystic; fine-knit deep petrol-teal sweater with a round neckline, no print, embroidery or shine; plain dark straight trousers. Clothing is secondary to the contrast of the cream astrology chart in the hook. Fixed accessory: the thin braided copper-and-tan bracelet from the reference sheet on one wrist; no earrings, necklace, turban, cape or costume\n\nUGC STYLE LOCK: vertical 9:16 image, photorealistic, shot in an American home with the spontaneous look of a smartphone. Natural light, real skin, fabric and hair textures, casual and slightly imperfect framing. The camera stays out of frame. No text, caption, logo, watermark or advertising look.\n\nSCENE (NEW PHOTO, a generation from scratch, not an edit): in a quiet room of an American home with a wooden plank floor, the woman from the attached character consistency reference sheet, with exactly her face, freckles, eyes, hair and body kneels on the floor behind a small, complete circle of coarse white salt about 35 cm wide, facing the lens, leaning slightly forward, with her lips pursed as if about to blow, eyes on the lens with a calm, firm look. Camera at about her chest height, in front of her. Six cinnamon sticks lie around the circle like spokes, with dried olive-green bay leaves between them. In the center of the circle a small bundle of cinnamon and bay is smoldering with a faint red ember and ONLY ONE VERY THIN, SHORT thread of white smoke rising, no thicker than a finger and no taller than 10 cm. There is no open flame. Her hands rest on her thighs. The face must match the large front portrait of the reference sheet (same freckles, green eyes, wavy caramel-brown hair); do not invent a new face. Anatomically correct hands and fingers, five fingers on each hand. Do not rejuvenate or smooth the skin.", "imagem_final_prompt": "EDIT of the attached image (use it as the base image): keep exactly the same woman, the same face, the same clothes, her kneeling pose, the same salt circle, cinnamon sticks, bay leaves, room and framing. Changes: a thick, slow column of white smoke now rises from the glowing ember at the center of the circle, billowing up toward the lens and filling the middle of the frame between the circle and her shoulders, partly softening the lower half of her face; the ember glows bright orange; her lips are slightly parted after exhaling. There is still no open flame. Change nothing else.", "video_prompt": "Create a single continuous 4-second video clip that opens exactly on the first supplied frame and ends exactly on the last supplied frame, vertical 9:16. Natural handheld smartphone feel, no zoom, no cuts.\n\nTHE MAIN EVENT: smoke GROWS. In the first frame only a very thin, short thread of white smoke rises from the ember at the center of the salt circle and the woman has her lips pursed. During the clip she exhales one gentle breath over the ember: the ember glows brighter and the smoke grows from the thin thread into a thick, slow, billowing column that rises toward the lens and fills the middle of the frame, exactly as in the last supplied frame. The smoke must be clearly visible and must keep thickening during the whole clip.\n\nThe salt circle, the cinnamon sticks and the bay leaves stay completely still. The woman stays kneeling, her eyes on the lens, calm and firm, and is the same woman as in the supplied frames. There is no open flame at any time.\n\nVISUAL: realistic, natural physics, no morphing, no sparks, no magic effects. No text, no logos.\n\nAUDIO: real ambient sound only: a soft breath and the faint hiss of smoke. No music, no voice, no added sound effects, no sound design.", "texto_tela": "When you keep choosing the wrong one.", "edicao": "Edição: o pré-gancho (4 s) vem primeiro; corte quando a fumaça estiver grossa e entre o Take 1. Texto \"When you keep choosing the wrong one.\" sobre o pré-gancho (estilo V4: \"When you need…\"). Sem música. Depois: caixa branca no topo do Take 1 com \"Aries, Leo, or Sagittarius\" e a palavra-chave em vermelho (como o S3), legenda palavra a palavra com \"Venus\" em destaque e seta vermelha pequena no fim apontando para a foto do perfil.", "quadro_inicial": "o círculo de sal parado e só um fio fino de fumaça sobe da brasa", "quadro_final": "uma coluna grossa de fumaça sobe do centro do círculo e enche o meio do quadro"}, "central": {"imagem_unica": true, "conferir": "Conferir em cada vídeo: é a Nora (rosto e roupa iguais à imagem); o mapa astral com o círculo vermelho fica na mesma mão do começo ao fim; o baralho fica fechado na mesa e a vela acesa; a fala sai completa, uma vez só, em inglês, com voz americana calma; sem texto, legenda ou música.", "passos": ["Gere o pré-gancho (seção “Pré-gancho”): (1) a imagem 1, no Nano Banana Pro 9:16, anexando SÓ o blueprint da Nora e colando o prompt (é uma geração nova, com o rosto dela); (2) a imagem 2, anexando SÓ a imagem 1 aprovada (é uma edição dela); (3) compare as duas imagens; (4) só então gere o vídeo no modo Frames, imagem 1 no início e imagem 2 no fim. Nunca cole o prompt de geração junto com outra imagem da Nora.", "Gere a IMAGEM 1 do vídeo (Nano Banana Pro, 9:16), anexando SÓ o blueprint da Nora e colando o prompt. É uma geração, não uma edição. Aprove só se for a Nora (rosto do retrato frontal do blueprint: sardas, olhos verdes, cabelo ondulado caramelo) segurando o mapa astral com o círculo vermelho na mão direita, o baralho fechado e a vela na mesa.", "Na Central do curso, preencha a configuração (seção “Central do curso: o que preencher”) e faça a colagem única do R009 (a fala inteira de uma vez, 6 takes de 10 s). Clique em GERAR PROMPT DE ANIMAÇÃO e confira a lista de takes. Não clique em “Resetar valores” nem em “REGERAR BLOCO”.", "No agente do Flow, anexe a IMAGEM 1 aprovada (só ela; o blueprint não vai no agente), cole o aviso e, embaixo, o “COPIAR TUDO JUNTO” da Central, sem editar nada. Custo: 90 créditos de takes (+ 7 do pré-gancho)."], "config": [{"secao": "1 — Plataforma de animação", "campos": [{"campo": "Plataforma", "valor": "Flow (Google) — vídeo cinematográfico com áudio"}]}, {"secao": "2 — Roteiro", "campos": [{"campo": "Categoria", "valor": "Todas as categorias"}, {"campo": "Busca", "valor": "deixar vazia"}, {"campo": "Lista de roteiros", "valor": "— sem roteiro (só animação) —"}, {"campo": "COLE SUA COPY AQUI", "valor": "colar a fala da colagem (seção “A fala e a movimentação”); cada colagem é uma geração separada"}, {"campo": "Velocidade da fala", "valor": "Média — CTA (155–180 WPM). É a velocidade padrão da Nora (voz calma e firme); cada take de 10 s custa 15 créditos."}, {"campo": "Duração de cada take", "valor": "Automática"}, {"campo": "Movimento de câmera", "valor": "Handheld sutil, sem zoom"}, {"campo": "Caixa “Dividir em takes (Flow)”", "valor": "MARCADA (deixar marcada)"}]}, {"secao": "3 — Movimentação do personagem", "campos": [{"campo": "Interruptor da seção", "valor": "LIGADO"}, {"campo": "Movimentação", "valor": "colar as linhas da colagem, uma por take (seção “A fala e a movimentação”)"}]}, {"secao": "4 — Áudio & atmosfera", "campos": [{"campo": "Interruptor da seção", "valor": "LIGADO"}, {"campo": "Padrão de áudio", "valor": "não mexer (texto fixo)"}, {"campo": "Atmosfera / mood", "valor": "Íntimo e confidencial"}]}, {"secao": "5 — Fala / script", "campos": [{"campo": "Interruptor da seção", "valor": "LIGADO"}, {"campo": "O que a pessoa fala no vídeo", "valor": "preenche sozinho com a fala colada; se ficar vazio, cole a fala inteira"}, {"campo": "LIVRE — descreva como você quer o vídeo", "valor": "colar o texto abaixo", "copiar": "Casual smartphone video in a home setting with natural window light. Nothing new appears in the frame: every object stays exactly where it is in the reference image. No on-screen text."}, {"campo": "Tom de voz", "valor": "Calorosa e tranquilizadora"}, {"campo": "Idioma", "valor": "Inglês"}, {"campo": "Perfil de voz do personagem", "valor": "escolher “✎ LIVRE — montar minha própria voz...” e colar o perfil abaixo no bloco de texto. NÃO clicar em “REGERAR BLOCO A PARTIR DOS CAMPOS”", "copiar": "[Voice and Audio Instructions]\n\nVoice Profile: Woman, late 30s, American, warm and steady voice — sounds like a straight-talking friend who has been through her own heartbreaks and says things plainly. Natural General American accent, unhurried diction.\n\nVocal Characteristics: Mid register, natural and slightly textured (not smooth or polished), light warmth in the chest, never nasal or thin.\n\nTone: Calm, firm and warm. Not theatrical, not \"spooky\", no performance — she says things the way a close friend would across a kitchen table. Honest and direct, with occasional soft warmth. Never sugarcoats, never scolds.\n\nDelivery style: Short, clear phrases with a natural pause before the key word. Sounds like she's speaking directly to one person, not performing for a crowd.\n\nNaturalness: The voice must sound as natural and human as possible — real breathing, natural micro-pauses, subtle imperfections, organic intonation shifts. It must NEVER sound robotic, synthetic, flat, or AI-generated. No text-to-speech cadence of any kind.\n\nTechnical Settings: STRICTLY a solo monologue. The speaker is completely ALONE. Absolutely NO background voices, ZERO interviewer noises, and STRICTLY NO agreement sounds (like 'mhm', 'yeah', 'aha', 'uh-huh'). NO background music, NO sound effects, NO automatic subtitles. Output must be a 100% clean, raw voice track. STRICTLY DO NOT imitate or impersonate any famous public figure or celebrity — the voice must be entirely original."}]}, {"secao": "6 — Duração & estilo", "campos": [{"campo": "Interruptor da seção", "valor": "LIGADO"}, {"campo": "Duração (segundos)", "valor": "não mexer (muda sozinha)"}, {"campo": "Estilo visual", "valor": "UGC moderno handheld"}, {"campo": "Continuidade", "valor": "Plano único, sem cortes"}]}, {"secao": "7 — Gerar", "campos": [{"campo": "Botão", "valor": "⚡ GERAR PROMPT DE ANIMAÇÃO"}, {"campo": "Conferir", "valor": "os takes da conferência de cada colagem (10 s cada, seção “A fala e a movimentação”)"}, {"campo": "Copiar", "valor": "o botão “COPIAR TUDO JUNTO” do bloco “TODOS OS PROMPTS”"}, {"campo": "Não clicar", "valor": "“Resetar valores” e “REGERAR BLOCO A PARTIR DOS CAMPOS”"}]}], "agente": {"imagem": "IMAGEM 1", "aviso": "Irei enviar 6 prompts para você. A cada prompt, quero que seja feita uma animação da imagem anexada. Utilize a imagem anexada como frame inicial e frame final, em todos os vídeos que você gerar.", "passos": ["Abra uma conversa nova no agente do Flow.", "Anexe a IMAGEM 1 aprovada (a única imagem; o blueprint não vai no agente).", "Se quiser, cole antes o seu aviso (acima). O bloco da Central já traz as orientações ao agente.", "Embaixo do aviso, cole o bloco copiado com “COPIAR TUDO JUNTO” da Central, sem editar nada: ele já traz a ordem do modo agente (“GOOGLE FLOW AGENT MODE — ADDITIONAL INSTRUCTION”) e os prompts (Prompt 1 a Prompt 6).", "Envie. O agente gera os 6 vídeos; confira cada um no painel e me diga qual falhou (clipe e problema)."]}, "colagens": [{"titulo": "R009 completo (6 takes)", "fala": "Aries, Leo, or Sagittarius: pay very close attention. Your sun sign is not why you keep choosing him. Your Venus is. You fall fast and you fall hard. Then the silence starts, and you blame yourself. Tell me that's not how it goes. Nobody told you this. In astrology, your sun sign is only who you are. Your Venus shows how you love. And your Venus may not be in your sun sign at all. That's exactly why the same story keeps finding you. You can find yours. In my story, a free astrology quiz finds your Venus, names your pattern and shows your perfect match. Save this right now. Comment CHART so I know you did it. Tap my photo and open my story before it disappears.", "movimentacao": ["She points her left index finger at the lens, holding the printed chart steady in front of her chest with her right hand, while the closed tarot deck and the candle on the table stay still.", "She places her left hand on her chest for a moment and returns it to her side, holding the printed chart steady in her right hand, while the closed tarot deck and the candle on the table stay still.", "She opens her left palm toward the camera, holding the printed chart steady in her right hand, while the closed tarot deck and the candle on the table stay still.", "She points her left index finger at the red circle on the chart and then at the lens, holding the chart steady in her right hand, while the closed tarot deck and the candle on the table stay still.", "She gives a half smile to the camera, holding the printed chart steady in her right hand, while the closed tarot deck and the candle on the table stay still.", "She holds the chart slightly closer to the lens and points her left index finger at the camera with a firm gaze, while the closed tarot deck and the candle on the table stay still."], "takes": [0, 1, 2, 3, 4, 5]}]}, "story": {"prompt_imagem": "VISUAL REFERENCE LOCK: use exclusively the ATTACHED references as identity authorities. Preserve the face, body, hair, proportions and appearance of the human and the pet. Do not mix identities. There is no pet in this project: no animal appears in any scene. MAP OF THE ATTACHED REFERENCE (one character consistency sheet that shows the SAME woman): a large front portrait with a natural smile; front, 3/4 left, 3/4 right, left profile, right profile and back views of the head; four full-body views (front, 3/4, side, back); five expressions; close-ups of the eye, the eyebrow and nose, the hair and a braided bracelet; an outfit reference and a color palette. The face in the final image must be the same person as in the large front portrait and the other face views: same face shape, freckles, eyes, eyebrows, nose, lips and hair. Copy the face from the sheet; do not invent a new face. IDENTITY ANCHOR: Use the supplied character consistency reference sheet as the strict identity reference. Preserve the exact same adult American woman shown in it: apparent age 35 to 40, fair skin with a warm-neutral undertone and light, scattered freckles across the nose and cheeks, oval face with a soft jaw and a softly rounded chin, subtle cheekbones, olive-green (hazel-green) eyes with golden flecks, medium-brown naturally arched eyebrows, a straight nose of medium width with a softly rounded tip, medium natural rosy lips with no lipstick, a natural smile that shows her teeth, fine age-appropriate lines at the outer corners of the eyes and on the forehead. Preserve her exact light-to-medium brown hair with warm caramel and golden highlights, loose natural waves falling between chin and collarbone length, slightly off-center part, irregular waves and natural flyaway hairs. Preserve her slim-to-average build, average height, relaxed posture, realistic natural skin texture and the thin braided copper-and-tan bracelet on one wrist. Do not redesign, beautify, de-age, age, slim, enlarge, recolor or alter her face, hair or body. The woman must remain recognizably the exact same living person in every image and every video frame. Avoid CGI, 3D render, illustration, plastic or airbrushed skin, beauty-filter appearance, erased freckles, de-aged or aged face, heavy glam makeup, lipstick, different hair color, straightened hair, tight curls, changed hair length or part, different eye color, enlarged lips, enlarged glossy eyes, perfect bilateral symmetry, exaggerated hourglass, tiny waist, enlarged bust, athletic or muscular build, underweight body, sexualized pose, theatrical fortune-teller costume, turban, heavy jewelry, luxury-editorial polish and cinematic commercial lighting.\n\nFIXED OUTFIT: fortune-teller, subtle mystic; loose charcoal-gray wool cardigan, open, with a soft draped collar, over a plain black round-neck top; plain dark straight trousers; no print, embroidery or shine. Clothing is secondary to the contrast of the copper pendant in the hook. Fixed accessory: the thin braided copper-and-tan bracelet from the reference sheet on one wrist; no earrings, necklace, turban, cape or costume\n\nUGC STYLE LOCK: vertical 9:16 image, photorealistic, shot in an American home with the spontaneous look of a smartphone. Natural light, real skin, fabric and hair textures, casual and slightly imperfect framing. The camera stays out of frame. No text, caption, logo, watermark or advertising look.\n\nSCENE: EDIT of the approved IMAGEM 1 of R006 (use that IMAGEM 1 as the base image): keep exactly the same woman, face, freckles, hair, bracelet, charcoal cardigan over the black top, round table, candle, window, sofa and light. Changes: medium frontal shot at the same table; she leans slightly toward the lens, with a direct, firm gaze and a slight knowing smile. With her right hand she holds up the round copper Venus pendant by its chain very close to the lens, the engraved Venus symbol facing the lens, big in the frame (about a third of the frame width), the point of highest contrast; her other hand rests on the closed tarot deck on the table; the lit candle stays small. Remove any other object from the table. Leave the bottom third of the frame free, only the wooden table, and the top strip also free, because the text and the link sticker are added later in the Instagram editor. Anatomically correct hands and fingers, five fingers on each hand, no duplicated pendant. The engraved symbol is the only mark in the image. Do not rejuvenate or smooth the skin.", "textos": [{"posicao": "Uma frase só, no centro, uma cor (creme #F1E6D3), 1 a 2 linhas", "texto": "Tap below and find your Venus pattern in astrology."}], "adesivos": ["Find my Venus", "Name my pattern", "Open Part 2"]}};
+(function(){
+const ESTILO_IMG="UGC STYLE LOCK: vertical 9:16 image, photorealistic, shot in an American home with the spontaneous look of a smartphone. Natural light, real skin, fabric and hair textures, casual and slightly imperfect framing. The camera stays out of frame. No text, caption, logo, watermark or advertising look.";
+const ESTILO_VID="UGC STYLE LOCK: vertical 9:16 video, photorealistic and spontaneous, with natural smartphone movement, real home lighting and close audio. The camera and the phone never appear. No text, captions, logos, music, slow motion, or cinematic or advertising look.";
+const REF_TXT="VISUAL REFERENCE LOCK: use exclusively the ATTACHED references as identity authorities. Preserve the face, body, hair, proportions and appearance of the human and the pet. Do not mix identities.";
+const KEY="painel_ugc_v2";
+const $=id=>document.getElementById(id);
+let pk=null, feitos={}, takes={};
+
+function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+function salvar(){try{localStorage.setItem(KEY,JSON.stringify({json:$('json').value,feitos,takes}))}catch(e){}}
+function carregar(){try{const s=JSON.parse(localStorage.getItem(KEY)||'null');if(s){$('json').value=s.json||'';feitos=s.feitos||{};takes=s.takes||{};if(s.json)montar(true)}}catch(e){}}
+
+function copiar(txt,btn){
+  const fim=()=>{if(!btn)return;const o=btn.textContent;btn.classList.add('ok');btn.textContent='Copiado ✓';setTimeout(()=>{btn.classList.remove('ok');btn.textContent=o},1400)};
+  if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(txt).then(fim,()=>fallback(txt,fim))}else fallback(txt,fim);
+}
+function fallback(txt,fim){const t=document.createElement('textarea');t.value=txt;t.style.position='fixed';t.style.opacity='0';document.body.appendChild(t);t.select();try{document.execCommand('copy')}catch(e){}document.body.removeChild(t);fim()}
+
+function limparJson(s){
+  s=s.trim().replace(/^```(?:json)?\s*/i,'').replace(/```\s*$/,'').trim();
+  const a=s.indexOf('{'),b=s.lastIndexOf('}');
+  if(a<0||b<0)throw new Error('Não achei um bloco que começa com { e termina com }.');
+  return JSON.parse(s.slice(a,b+1));
+}
+
+function estilo(t,fim){
+  const e=(pk.excecao_estilo||'').trim();
+  return e?t.replace(fim+'.',fim+' except '+e+', when visible.'):t;
+}
+function promptImagem(im){
+  return REF_TXT+' '+(pk.trava_referencia||'')+refCapa()+'\n\nFIXED OUTFIT: '+(pk.figurino||'')+'\n\n'+estilo(ESTILO_IMG,'advertising look')+'\n\nSCENE: '+im.cena;
+}
+function refCapa(){return (pk.excecao_estilo||'').trim()?' The official cover is an authority only for the art printed on the physical copy.':''}
+function promptVideo(v){
+  const voz=pk.perfil.voz;
+  const num=v.cena.split('/')[0];
+  const br=(v.b_roll||'').trim();
+  return v.cena+' VIDEO PROMPT — SCENE '+num+' — '+v.duracao+'s — '+v.primeiro_quadro+'\n\n'+estilo(ESTILO_VID,'cinematic or advertising look')+'\n\nACTION: '+v.acao+(br?'\n\nPOV B-ROLL: '+br:'')+'\n\nDIALOGUE: “'+v.fala+'”\n\nVOICE: the person is the only speaker. '+voz;
+}
+function itens(){
+  const a=[];
+  if(pk.pre_gancho){a.push({id:'pre_img',tipo:'pre',titulo:'Imagem do pré-gancho',prompt:''});if(pk.pre_gancho.imagem_final_prompt)a.push({id:'pre_img_fim',tipo:'pre',titulo:'Imagem final do pré-gancho',prompt:''});a.push({id:'pre_vid',tipo:'pre',titulo:'Vídeo do pré-gancho',prompt:''})}
+  if(pk.imagem_reutilizada)a.push({id:'img_reuso',tipo:'reuso',titulo:'IMAGEM 1 anexada',prompt:''});
+  else pk.imagens.forEach((im,i)=>a.push({id:'img'+(i+1),tipo:'img',titulo:im.rotulo,prompt:promptImagem(im),rotulo:'PROMPT IMAGEM '+(i+1)}));
+  pk.videos.forEach((v,i)=>a.push({id:'vid'+(i+1),tipo:'vid',titulo:v.rotulo+' · '+(pk.central?'':'cena ')+v.cena,v:v,prompt:pk.central?'':promptVideo(v),rotulo:'PROMPT DE VIDEO '+(i+1)}));
+  return a;
+}
+function blocoCompleto(){return itens().filter(it=>it.tipo!=='pre'&&(!pk.central||it.tipo==='img')).map(it=>it.rotulo+':\n'+it.prompt).join('\n\n')}
+function progresso(){
+  const its=itens();const f=its.filter(i=>feitos[i.id]).length;
+  $('prog').style.width=(100*f/its.length)+'%';
+  $('progtxt').textContent=f+' de '+its.length+' itens gerados e aprovados';
+}
+
+
+function montarCentral(){
+  const c=pk.central;
+  ['central','cenas','agente'].forEach(id=>$(id).classList.toggle('hide',!c));
+  $('story').classList.toggle('hide',!pk.story);
+  $('videos').classList.toggle('hide',!!c);
+  $('todos').querySelector('h2').textContent=c?(c.imagem_unica?'Prompt da imagem (agente do Flow)':'Prompts das imagens (agente do Flow)'):'Todos os prompts';
+  if(c){
+    $('todos').querySelector('p').innerHTML='Bloco para o agente do Flow gerar a imagem (já começa com <i>iniciar</i>). Os vídeos não entram aqui: o prompt dos takes vem da Central do curso.';
+    if(c.passos&&c.passos.length)$('refSteps').innerHTML=c.passos.map(x=>'<li>'+esc(x)+'</li>').join('');
+    $('cfg').innerHTML='';
+    (c.config||[]).forEach(sec=>{
+      const d=document.createElement('div');d.className='item';
+      d.innerHTML='<h3>'+esc(sec.secao)+'</h3>'+(sec.campos||[]).map((k,i)=>'<div style="margin:3px 0"><b>'+esc(k.campo)+':</b> '+esc(k.valor)+'</div>'+(k.copiar?'<div class="box m" style="margin:6px 0 4px">'+esc(k.copiar)+'</div><button class="btn cpi" data-i="'+i+'" style="margin-bottom:8px">Copiar este texto</button>':'')).join('');
+      d.querySelectorAll('.cpi').forEach(b=>{b.onclick=e=>copiar(sec.campos[+b.dataset.i].copiar,e.currentTarget)});
+      $('cfg').appendChild(d);
+    });
+    const wc=s=>s.trim().split(/\s+/).length;
+    const linhaConf=(v,i,n)=>{const w=v.fala.trim().split(/\s+/);return 'TAKE '+(i+1)+'/'+n+' · '+v.duracao+' s · '+w.length+' palavras · começa em “'+w.slice(0,5).join(' ')+'…” · termina em “…'+w.slice(-5).join(' ')+'”'};
+    $('cenas').querySelector('h2').textContent='A fala e a movimentação (tudo de uma vez)';
+    const cols=c.colagens&&c.colagens.length?c.colagens:[{titulo:'',fala:(c.copia||{}).fala_completa||pk.videos.map(v=>v.fala).join(' '),movimentacao:(c.copia||{}).movimentacao||pk.videos.map(v=>v.movimentacao),takes:pk.videos.map((v,i)=>i)}];
+    $('cenas').querySelector('p').textContent=cols.length>1?'São '+cols.length+' colagens separadas na Central. Em cada uma, cole a fala em “COLE SUA COPY AQUI” e as linhas em “MOVIMENTAÇÃO”.':'Cole a fala inteira em “COLE SUA COPY AQUI” e as linhas em “MOVIMENTAÇÃO”. O site deve criar os takes da conferência abaixo, nesta ordem.';
+    const blocos=cols.map((k,j)=>{
+      const conf=k.takes.map((ix,i)=>linhaConf(pk.videos[ix],i,k.takes.length)).join('\n');
+      return '<div class="item"><h3>'+(cols.length>1?'Colagem '+(j+1)+' de '+cols.length+(k.titulo?': '+esc(k.titulo):''):'Colagem')+'</h3>'
+       +'<div style="margin:8px 0"><button class="cp cpF" data-j="'+j+'">Copiar fala</button><b>COLE SUA COPY AQUI</b> <span class="tag">'+wc(k.fala)+' palavras</span></div><div class="box m">'+esc(k.fala)+'</div>'
+       +'<div style="margin:8px 0"><button class="cp cpM" data-j="'+j+'">Copiar movimentação</button><b>MOVIMENTAÇÃO</b> <span class="tag">'+k.movimentacao.length+(k.movimentacao.length===1?' linha':' linhas, uma por take')+'</span></div><div class="box m">'+esc(k.movimentacao.join('\n'))+'</div>'
+       +'<div style="margin:8px 0"><b>Clique em GERAR PROMPT DE ANIMAÇÃO e confira</b></div><div class="box">'+esc(conf)+'</div><div class="tip" style="margin-top:8px">O site deve mostrar exatamente '+k.takes.length+(k.takes.length===1?' take':' takes')+', começando e terminando nas frases acima. Se vier outro número de takes ou um corte diferente, não gere: me mande o print.</div></div>';
+    }).join('');
+    $('listaCenas').innerHTML=blocos
+      +'<div class="item"><h3>Depois que o agente gerar, confira cada vídeo</h3>'+pk.videos.map((v,i)=>{const id='vid'+(i+1);const w=v.fala.trim().split(/\s+/);const arq=v.arquivo||(((pk.roteiro&&pk.roteiro.id)||'').split('-')[0]+'-'+v.rotulo);return '<label class="chk" style="display:flex;margin:8px 0;align-items:flex-start"><input type="checkbox" data-id="'+id+'" '+(feitos[id]?'checked':'')+'> <span><b>'+esc(v.rotulo)+'</b> · '+esc(v.cena)+' · '+v.duracao+' s · renomear no Flow para <b>'+esc(arq)+'</b><br>começa em “'+esc(w.slice(0,6).join(' '))+'…” e termina em “…'+esc(w.slice(-6).join(' '))+'”</span></label>'}).join('')+'<div class="tip" style="margin-top:8px">'+esc(c.conferir||'Conferir em cada vídeo: é a Dana (rosto e roupa iguais à imagem); a fala sai completa, uma vez só, em inglês, com voz americana calma; sem texto, legenda ou música.')+'</div></div>';
+    $('listaCenas').querySelectorAll('.cpF').forEach(b=>{b.onclick=e=>copiar(cols[+b.dataset.j].fala,e.currentTarget)});
+    $('listaCenas').querySelectorAll('.cpM').forEach(b=>{b.onclick=e=>copiar(cols[+b.dataset.j].movimentacao.join('\n'),e.currentTarget)});
+    $('listaCenas').querySelectorAll('input[data-id]').forEach(inp=>{inp.onchange=e=>{feitos[inp.dataset.id]=e.target.checked;progresso();salvar()}});
+    const ag=c.agente||{};
+    $('agente').querySelector('h2').textContent='No agente do Flow (uma conversa só)';
+    $('agente').querySelector('p').textContent='Uma imagem e uma mensagem: anexe a imagem e cole o bloco “COPIAR TUDO JUNTO” da Central, que já traz as orientações ao agente (o seu aviso é opcional).';
+    $('agenteBox').innerHTML='<div class="item"><button class="cp" id="cpAviso">Copiar aviso</button><h3>Seu aviso para o agente <span class="tag">opcional: o prompt da Central já traz as orientações ao agente</span><span class="tag">anexar: '+esc(ag.imagem||'')+'</span></h3><div class="box m">'+esc(ag.aviso||'')+'</div></div>'
+      +(ag.aviso_en?'<div class="item"><button class="cp" id="cpAvisoEn">Copiar aviso em inglês</button><h3>Aviso em inglês <span class="tag">opcional: mesma mensagem, em inglês</span></h3><div class="box m">'+esc(ag.aviso_en)+'</div></div>':'')
+      +'<div class="item"><h3>Passo a passo</h3><ol class="steps">'+(ag.passos||[]).map(x=>'<li>'+esc(x)+'</li>').join('')+'</ol></div>';
+    $('cpAviso').onclick=e=>copiar(ag.aviso||'',e.currentTarget);
+    if(ag.aviso_en)$('cpAvisoEn').onclick=e=>copiar(ag.aviso_en,e.currentTarget);
+  }
+  if(pk.story){
+    const st=pk.story;
+    $('storyBox').innerHTML='<div class="item"><button class="cp" id="cpStImg">Copiar prompt</button><h3>Prompt da imagem do story <span class="tag">9:16</span></h3><div class="box m">'+esc(st.prompt_imagem)+'</div></div>'
+      +'<div class="item"><button class="cp" id="cpStTxt">Copiar textos</button><h3>Texto na tela do story</h3><div class="box">'+(st.textos||[]).map(x=>'<b>'+esc(x.posicao)+':</b> '+esc(x.texto)).join('\n')+'</div></div>'
+      +'<div class="item"><button class="cp" id="cpStAd">Copiar adesivo</button><h3>Adesivo de link (3 a 4 palavras)</h3><div class="box">'+(st.adesivos||[]).map((x,i)=>(i+1)+'. '+esc(x)+(i===0?'  (recomendada)':'')).join('\n')+'</div></div>';
+    $('cpStImg').onclick=e=>copiar(st.prompt_imagem,e.currentTarget);
+    $('cpStTxt').onclick=e=>copiar((st.textos||[]).map(x=>x.posicao+': '+x.texto).join('\n'),e.currentTarget);
+    $('cpStAd').onclick=e=>copiar((st.adesivos||[])[0]||'',e.currentTarget);
+  }
+}
+
+function montarPre(){
+  const g=pk.pre_gancho;
+  $('prehook').classList.toggle('hide',!g);
+  if(!g)return;
+  const temFim=!!g.imagem_final_prompt;
+  $('prehook').querySelector('h2').textContent='Pré-gancho ('+(g.duracao||4)+' s'+(g.com_rosto?', com o rosto da avatar':'')+')';
+  $('preBox').innerHTML='<p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">'+esc(g.conceito||'')+'</p>'
+    +'<div class="tip" style="margin-bottom:12px"><b>Modo no Flow: FRAMES</b> (não “Ingredients”/elementos).<br><b>Imagem INICIAL (primeiro quadro):</b> imagem 1 abaixo'+(g.quadro_inicial?' — '+esc(g.quadro_inicial):'')+'.<br><b>Imagem FINAL (último quadro):</b> '+(temFim?'imagem 2 abaixo'+(g.quadro_final?' — '+esc(g.quadro_final):''):'nenhuma (deixe o campo do último quadro vazio)')+'.<br>Duração '+esc(g.duracao||4)+' s, vertical 9:16, com o áudio ambiente ligado.</div>'
+    +'<div class="item"><button class="cp" id="cpPreImg">Copiar prompt</button><h3>1) Imagem do pré-gancho <span class="tag">PRIMEIRO quadro</span><span class="tag">9:16</span>'+(g.com_rosto?'<span class="tag">com o rosto da avatar: anexe SÓ o blueprint</span>':'<span class="tag">sem referências anexadas</span>')+'</h3><div class="box m">'+esc(g.imagem_prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_img" '+(feitos.pre_img?'checked':'')+'> Imagem gerada e aprovada</label></div>'
+    +(temFim?'<div class="item"><button class="cp" id="cpPreImgFim">Copiar prompt</button><h3>2) Imagem final do pré-gancho <span class="tag">ÚLTIMO quadro</span><span class="tag">9:16</span><span class="tag">anexe SÓ a imagem 1 aprovada (edição dela)</span></h3><div class="box m">'+esc(g.imagem_final_prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_img_fim" '+(feitos.pre_img_fim?'checked':'')+'> Imagem final gerada e aprovada</label></div>':'')
+    +'<div class="item"><button class="cp" id="cpPreVid">Copiar prompt</button><h3>'+(temFim?'3':'2')+') Vídeo do pré-gancho <span class="tag">'+esc(g.duracao||4)+' s</span><span class="tag">Frames</span><span class="tag">1º quadro: imagem 1</span>'+(temFim?'<span class="tag">último quadro: imagem 2</span>':'<span class="tag">sem último quadro</span>')+'</h3><div class="box m">'+esc(g.video_prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_vid" '+(feitos.pre_vid?'checked':'')+'> Vídeo gerado e aprovado</label></div>'
+    +'';
+  if(temFim)$('cpPreImgFim').onclick=e=>copiar(g.imagem_final_prompt,e.currentTarget);
+  $('cpPreImg').onclick=e=>copiar(g.imagem_prompt,e.currentTarget);
+  $('cpPreVid').onclick=e=>copiar(g.video_prompt,e.currentTarget);
+  $('preBox').querySelectorAll('input[data-id]').forEach(inp=>{inp.onchange=e=>{feitos[inp.dataset.id]=e.target.checked;progresso();salvar()}});
+}
+
+/* ORDEM DE PRODUÇÃO: as seções seguem o passo a passo do caminho da produção (legenda e comentário fixado por último, antes de postar). */
+function ordenar(){
+  const c=pk.central;
+  const ord=c
+    ?['referencia','prehook','imagens','todos','central','cenas','agente','story','textotela','fala','descricao','comentario']
+    :['referencia','prehook','imagens','videos','todos','story','textotela','fala','descricao','comentario'];
+  const pn=$('painel');
+  $('todos').classList.toggle('hide',!!pk.imagem_reutilizada);
+  $('imagens').querySelector('h2').textContent=pk.imagem_reutilizada?'Imagem 1 (a mesma de outro roteiro, não gerar)':'Imagens';
+  ord.forEach(id=>pn.appendChild($(id)));if(c)pn.appendChild($('videos'));
+  let n=0;const links=[];
+  ord.forEach(id=>{
+    const sec=$(id);
+    const h=sec.querySelector('h2');
+    const base=h.textContent.replace(/^\d+\.\s*/,'');
+    if(sec.classList.contains('hide')){h.textContent=base;return}
+    n++;h.textContent=n+'. '+base;
+    links.push('<a href="#'+id+'">'+n+'. '+esc(base)+'</a>');
+  });
+  $('tocLinks').innerHTML='<a href="#entrada">Pacote</a>'+links.join('');
+}
+
+function montar(silencio){
+  const m=$('msg');m.className='msg';m.textContent='';
+  try{
+    const p=limparJson($('json').value);
+    if(!Array.isArray(p.imagens)||p.imagens.length<(p.central&&p.central.imagem_unica?1:2))throw new Error('Faltam as imagens ("imagens").');
+    if(!Array.isArray(p.videos)||!p.videos.length)throw new Error('Faltam os vídeos ("videos").');
+    p.videos.forEach((v,i)=>{(p.central?['cena','duracao','primeiro_quadro','fala','movimentacao']:['cena','duracao','primeiro_quadro','acao','fala']).forEach(k=>{if(v[k]===undefined||v[k]==='')throw new Error('O vídeo '+(i+1)+' está sem "'+k+'".')})});
+    if(!p.perfil||!/^Voz (feminina|masculina) adulta (brasileira|americana)/.test(p.perfil.voz||''))throw new Error('Falta "perfil.voz" ("Voz feminina|masculina adulta brasileira natural e espontânea.").');
+    const n=p.videos.length;
+    if(p.central?(n<2||n>8):(n!==6&&n!==7))throw new Error('O pacote tem '+n+' vídeos; o método usa 6 (5 cenas) ou 7 (6 cenas).');
+    p.videos.forEach((v,i)=>{if([4,6,8,10].indexOf(Number(v.duracao))<0)throw new Error('O vídeo '+(i+1)+' tem duração '+v.duracao+'; só 4, 6, 8 ou 10 s.')});
+    const N=n-1,a=p.videos[n-2].cena,b=p.videos[n-1].cena;
+    if(!p.central&&(a!==N+'A/'+N||b!==N+'B/'+N))throw new Error('Os dois últimos vídeos devem ser '+N+'A/'+N+' e '+N+'B/'+N+' (CTA).');
+    if(!/IMAGEM 1/.test(p.videos[0].primeiro_quadro))throw new Error('O V1 (hook) deve usar a IMAGEM 1 como primeiro quadro.');
+    pk=p;
+  }catch(e){
+    if(!silencio){m.className='msg err';m.textContent='Não consegui ler: '+e.message+' Peça para a IA "entregar o pacote de novo em JSON válido".'}
+    return;
+  }
+  const r=pk.roteiro||{};
+  $('rid').textContent=(r.id||'Roteiro')+((pk.perfil&&pk.perfil.nome)?' · '+pk.perfil.nome+(pk.perfil.teste?' · teste '+pk.perfil.teste:''):'');
+  $('rtitulo').textContent=r.titulo||'';
+  $('avisos').classList.add('hide');
+  $('rmeta').textContent=[r.dor&&('Dor: '+r.dor),r.formato&&('Formato: '+r.formato),r.molde_hook&&('Hook: '+r.molde_hook),r.duracao_total&&(r.duracao_total+' s no total'),r.leitura_registro&&('Leitura obrigatória (registro): '+r.leitura_registro)].filter(Boolean).join(' · ');
+  $('insta').textContent=r.descricao_instagram||'(a IA não entregou a legenda)';
+  const tt=pk.texto_tela||{};
+  $('telaHook').textContent=tt.hook||'(a IA não entregou o texto dos primeiros segundos)';
+  const cf=pk.comentario_fixado||{};
+  $('pinInsta').textContent=cf.insta||'(a IA não entregou o comentário fixado do Instagram)';
+  $('pinFace').textContent=cf.face||'(a IA não entregou o comentário fixado do Facebook)';
+  const pg=pk.pre_gancho||{};
+  $('telaPre').textContent=pg.texto_tela||'';$('telaPre').classList.toggle('hide',!pg.texto_tela);$('telaPreK').classList.toggle('hide',!pg.texto_tela);
+  $('telaEdicao').textContent=pg.edicao||'';$('telaEdicao').classList.toggle('hide',!pg.edicao);
+  $('telaHookQ').innerHTML=tt.hook_comeca?('Começa em: “'+esc(tt.hook_comeca)+'”'+(tt.hook_termina?' → termina em: “'+esc(tt.hook_termina)+'”':'')):'';
+  $('telaAlt').textContent=tt.hook_alt?'Alternativa: '+tt.hook_alt:'';$('telaAlt').classList.toggle('hide',!tt.hook_alt);
+  $('telaExtras').innerHTML=(tt.extras||[]).map(e=>'<div style="margin-bottom:8px"><b>'+esc(e.texto)+'</b><br><span style="color:var(--ink2)">'+(e.comeca?'Começa em: “'+esc(e.comeca)+'”'+(e.termina?' → termina em: “'+esc(e.termina)+'”':''):esc(e.quando||''))+'</span></div>').join('');$('telaExtras').classList.toggle('hide',!(tt.extras&&tt.extras.length));
+  $('refs').innerHTML=(pk.refs||[]).map(x=>'<span class="chip">'+esc(x)+'</span>').join('')||'<i>(a IA não listou)</i>';
+  $('falas').textContent=pk.videos.map(v=>v.rotulo+' · '+(pk.central?'':'cena ')+v.cena+'\n“'+v.fala+'”').join('\n\n');
+  $('listaImg').innerHTML='';$('listaVid').innerHTML='';
+  itens().forEach(it=>{
+    if(it.tipo==='reuso'){
+      const ir=pk.imagem_reutilizada;
+      const d=document.createElement('div');d.className='item'+(feitos[it.id]?' done':'');
+      d.innerHTML='<div class="tip"><b>Não gere imagem neste roteiro.</b> '+esc(ir.aviso||('Use o arquivo '+ir.arquivo+'.'))+'</div>'
+        +'<label class="chk"><input type="checkbox" '+(feitos[it.id]?'checked':'')+'> Arquivo '+esc(ir.arquivo||'IMAGEM 1')+' separado para anexar</label>';
+      d.querySelector('input').onchange=e=>{feitos[it.id]=e.target.checked;d.classList.toggle('done',e.target.checked);progresso();salvar()};
+      $('listaImg').appendChild(d);return;
+    }
+    if(it.tipo==='pre'||(pk.central&&it.tipo==='vid'))return;
+    const d=document.createElement('div');d.className='item'+(feitos[it.id]?' done':'');
+    let alerta='';
+    if(it.tipo==='vid'&&/[ÚU]LTIMO QUADRO/i.test(it.v.primeiro_quadro)){
+      alerta='<div class="tip"><b>Atenção:</b> o primeiro quadro deste clipe é o <b>último quadro de um vídeo anterior</b> ('+esc(it.v.primeiro_quadro)+'). Aprove o clipe anterior, baixe o último quadro dele e use como primeiro quadro aqui.</div>';
+    }
+    d.innerHTML='<button class="cp">'+(it.tipo==='img'?'Copiar imagem com trava':'Copiar prompt')+'</button>'
+      +'<h3>'+esc(it.titulo)+(it.tipo==='vid'?' <span class="tag">'+it.v.duracao+' s</span><span class="tag">1º quadro: '+esc(it.v.primeiro_quadro.split(' — ')[0])+'</span>':' <span class="tag">9:16</span>')+'</h3>'
+      +(it.tipo==='vid'?'<div class="fala">Fala: “'+esc(it.v.fala)+'”</div>':'')+alerta
+      +'<div class="box m">'+esc(it.prompt)+'</div>'
+      +'<label class="chk"><input type="checkbox" '+(feitos[it.id]?'checked':'')+'> Gerado e aprovado</label>';
+    d.querySelector('.cp').onclick=e=>copiar(it.prompt,e.currentTarget);
+    d.querySelector('input').onchange=e=>{feitos[it.id]=e.target.checked;d.classList.toggle('done',e.target.checked);progresso();salvar()};
+    $(it.tipo==='img'?'listaImg':'listaVid').appendChild(d);
+  });
+  montarCentral();
+  montarPre();
+  ordenar();
+  $('painel').classList.remove('hide');
+  progresso();salvar();
+}
+
+$('aplicar').onclick=()=>{feitos={};montar(false)};
+$('limpar').onclick=()=>{if(!confirm('Apagar o pacote e as marcações?'))return;$('json').value='';feitos={};pk=null;$('painel').classList.add('hide');salvar()};
+$('copiaTudo').onclick=e=>copiar('iniciar\n\n'+(pk.instrucoes_agente?pk.instrucoes_agente+'\n\n':'')+blocoCompleto(),e.currentTarget);
+$('copiaFalas').onclick=e=>copiar(pk.videos.map(v=>v.rotulo+' ('+v.cena+'): '+v.fala).join('\n'),e.currentTarget);
+$('copiaTela').onclick=e=>{const tt=pk.texto_tela||{};copiar([].concat(pk.pre_gancho&&pk.pre_gancho.texto_tela?['Pré-gancho: '+pk.pre_gancho.texto_tela]:[],['Início do vídeo: '+(tt.hook||'')+(tt.hook_comeca?' | começa em: "'+tt.hook_comeca+'" | termina em: "'+(tt.hook_termina||'')+'"':'')]).concat((tt.extras||[]).map(x=>x.texto+(x.comeca?' | começa em: "'+x.comeca+'" | termina em: "'+(x.termina||'')+'"':(x.quando?' | '+x.quando:'')))).join('\n'),e.currentTarget)};
+$('copiaPinInsta').onclick=e=>copiar((pk.comentario_fixado&&pk.comentario_fixado.insta)||'',e.currentTarget);
+$('copiaPinFace').onclick=e=>copiar((pk.comentario_fixado&&pk.comentario_fixado.face)||'',e.currentTarget);
+$('copiaInsta').onclick=e=>copiar((pk.roteiro&&pk.roteiro.descricao_instagram)||'',e.currentTarget);
+if(PACOTE){try{const s0=JSON.parse(localStorage.getItem(KEY)||'null');if(s0){feitos=s0.feitos||{};takes=s0.takes||{}}}catch(e){}$("entrada").classList.add("hide");$("json").value=JSON.stringify(PACOTE);montar(false);if(!pk)$("entrada").classList.remove("hide");}else{carregar();}
+})();
+</script>
+</body>
+</html>
