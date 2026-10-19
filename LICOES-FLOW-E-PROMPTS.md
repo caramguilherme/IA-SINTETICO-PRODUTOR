@@ -118,6 +118,6 @@ O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a ge
 - A mão que segura o objeto saiu a esquerda dela, de novo (o modelo troca as mãos); tudo bem desde que o vídeo mantenha a mesma mão.
 
 ## 19/10/2026 — IMAGEM 1 do nora25 aprovada com um defeito: carimbo de data
-- A Central gerou a IMAGEM 1 do nora25 certa (rosto, lua com 3 estrelas, trança, disco de Vênus legível, bandeira, abajur), mas com um carimbo laranja “OCT 26 ’23” e uma estrelinha no canto inferior esquerdo (apareceu também em outra opção). Causa provável: “câmera de celular (look amador)” + “Portra 800 nostálgico”.
+- A Central gerou a IMAGEM 1 do nora25 certa (rosto, lua com 3 estrelas, trança, disco de Vênus legível, bandeira, abajur), mas com um carimbo laranja “OCT 26 ’23” e uma estrelinha no canto inferior esquerdo (apareceu também em outra opção). Causa provável: “Portra 800 nostálgico” + luz de abajur (as 5 opções do nora28, com a mesma “câmera de celular” mas Portra 400 e luz de dia, não tiveram carimbo). A escolha do filme foi minha; no nora26 troquei por Portra 400 e tirei o “Nostálgico” do grade.
 - Correção: editar a imagem com “remove the orange date stamp… change nothing else”. Nas próximas, escrever “no date stamp, no text overlay, no watermark” em Estilo final e conferir o canto inferior antes de aprovar.
 - Checklist: toda IMAGEM 1 e todo quadro inicial/final passa por “tem algum texto, data ou marca d’água nos cantos?”.
