@@ -111,3 +111,8 @@ O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a ge
 - O aluno conferiu na Central: com “já tenho o blueprint” ficam TRAVADOS só **idade, gênero, fenótipo, tom de pele e todo o cabelo**. Todo o resto é LIVRE: tipo de personagem, expressão facial, roupa, **acessórios**, pose/ação, objeto principal, cenário, horário, luz, color grade, câmera, lente, abertura, ISO, obturador, emulação de filme e estilo final.
 - Consequência: o campo **Acessórios** é livre e leva a lua com as 3 estrelinhas na bochecha, os brincos, o colar de Vênus e os olhos verde-avelã; sem colar o meu texto, a Central pode esquecer a marca. O **Tipo de personagem** também deve ser colado.
 - Painéis nora25 a nora28 corrigidos no mesmo dia (campos travados marcados “TRAVADO pelo blueprint: pule”).
+
+## 19/10/2026 — 5 opções de IMAGEM 1 do nora28 pela Central de imagens
+- Das 5 imagens, 2 saíram com o título “Natal Astrology” (letras tortas) no mapa, apesar do “no readable words”; 1 saiu sorrindo (o roteiro pede olhar intenso); 1 com o rosto torto e cortado; 1 com o círculo vermelho gigante no meio do mapa. Escolhida: a ajoelhada, séria, com trança de anéis, lua com 3 estrelas, bandeirinha na parede e no peito, mapa creme sem texto.
+- Lição: o mapa astral em papel puxa texto de título. Nas próximas, pedir “the sheet has NO title, NO header and NO text above the circle, only the circle with glyphs” e gerar mais de uma opção para escolher.
+- A mão que segura o objeto saiu a esquerda dela, de novo (o modelo troca as mãos); tudo bem desde que o vídeo mantenha a mesma mão.
