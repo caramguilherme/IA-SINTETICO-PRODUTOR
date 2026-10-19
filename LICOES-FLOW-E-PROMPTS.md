@@ -123,5 +123,5 @@ O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a ge
 - Checklist: toda IMAGEM 1 e todo quadro inicial/final passa por “tem algum texto, data ou marca d’água nos cantos?”.
 
 ## 19/10/2026 — corte de silêncio no vídeo completo (nora25)
-- Ferramenta do curso (M2M FusionZ): valores iniciais Remover o silêncio, −30 dB, 0,40 s, margem 90 ms, zoom Desligado, “Juntar tudo” desligado. Risco: o pré-gancho sem fala pode ser cortado como silêncio; conferir os 4 primeiros segundos. Ajustar com o que o aluno relatar (comeu palavra → margem 120 ms; sobrou silêncio → 0,30 s; robótico → Encurtar).
+- Ferramenta do curso (M2M FusionZ): valores iniciais Remover o silêncio, −30 dB, 0,40 s, margem 90 ms, zoom Alternado (corrigido no mesmo dia: eu tinha posto Desligado achando que os virais não têm zoom, mas eles são uma tomada só, sem cortes), “Juntar tudo” desligado. Risco: o pré-gancho sem fala pode ser cortado como silêncio; conferir os 4 primeiros segundos. Ajustar com o que o aluno relatar (comeu palavra → margem 120 ms; sobrou silêncio → 0,30 s; robótico → Encurtar).
 - 1º teste (nora25, vídeo de 8 takes com pré-gancho): 25 cortes, 1:20 → 0:54 (−32%) com os valores iniciais. A prévia deixa ouvir o resultado e manter cortes com um clique; conferir o pré-gancho (primeiros 4 s) antes de baixar.
