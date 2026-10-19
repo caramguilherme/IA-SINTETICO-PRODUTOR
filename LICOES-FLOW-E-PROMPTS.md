@@ -56,3 +56,9 @@ Este arquivo junta tudo o que já deu errado ou que o aluno pediu. **Antes de en
 
 ## 19/10/2026 — copy sem limite
 O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a gente muda". Garantia, prazo exato, ameaça de perda, dinheiro e bloqueio/inveja estão liberados (P20 no CLAUDE.md). Os limites do Plano e do LEIA_PRIMEIRO não mandam sobre isso. Modelar os exemplos da Central e dos virais. Se o Flow bloquear uma fala, trocar só aquela fala.
+
+## 19/10/2026 — folha (blueprint) da Nora v2
+- A folha apareceu limpa no Flow, mas ao **baixar** saiu com uma área "derretida" no meio (provável ampliação no download). Usar a folha direto do Flow ou baixar no tamanho original. Nunca anexar a versão derretida.
+- A pele saiu laranja nas imagens; na folha final ficou natural. Conferir sempre a cor da pele e dos olhos (verde-avelã, não amarelo) antes de aprovar.
+- Para o prompt de edição de imagem, pedir uma coisa de cada vez e conferir: lua uma só, testa limpa, pingente de Vênus legível.
+- Objetivo do aluno: atrair o menor público possível da Índia. Nada na testa, sem cabelo liso com risca no meio, sem sobrancelha pesada; sinais dos EUA só na imagem de cada vídeo, não na folha.
