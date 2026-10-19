@@ -121,3 +121,6 @@ O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a ge
 - A Central gerou a IMAGEM 1 do nora25 certa (rosto, lua com 3 estrelas, trança, disco de Vênus legível, bandeira, abajur), mas com um carimbo laranja “OCT 26 ’23” e uma estrelinha no canto inferior esquerdo (apareceu também em outra opção). Causa provável: “Portra 800 nostálgico” + luz de abajur (as 5 opções do nora28, com a mesma “câmera de celular” mas Portra 400 e luz de dia, não tiveram carimbo). A escolha do filme foi minha; no nora26 troquei por Portra 400 e tirei o “Nostálgico” do grade.
 - Correção: editar a imagem com “remove the orange date stamp… change nothing else”. Nas próximas, escrever “no date stamp, no text overlay, no watermark” em Estilo final e conferir o canto inferior antes de aprovar.
 - Checklist: toda IMAGEM 1 e todo quadro inicial/final passa por “tem algum texto, data ou marca d’água nos cantos?”.
+
+## 19/10/2026 — corte de silêncio no vídeo completo (nora25)
+- Ferramenta do curso (M2M FusionZ): valores iniciais Remover o silêncio, −30 dB, 0,40 s, margem 90 ms, zoom Desligado, “Juntar tudo” desligado. Risco: o pré-gancho sem fala pode ser cortado como silêncio; conferir os 4 primeiros segundos. Ajustar com o que o aluno relatar (comeu palavra → margem 120 ms; sobrou silêncio → 0,30 s; robótico → Encurtar).

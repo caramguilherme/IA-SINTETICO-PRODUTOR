@@ -86,6 +86,30 @@ section{scroll-margin-top:16px}
       <p id="progtxt" style="margin-top:6px"></p>
     </section>
 
+    <section class="card" id="silencio">
+      <h2>Cortar os silêncios (ferramenta do curso)</h2>
+      <p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Faça depois que todos os takes estiverem prontos, juntos num vídeo só e baixados, e ANTES de pôr o texto na tela e a legenda (os textos são marcados pela frase, não por segundos, porque o corte muda o tempo). Arraste o vídeo inteiro na ferramenta “M2M FusionZ – Cortar e juntar vídeos” e deixe assim:</p>
+      <div class="box" style="margin-bottom:12px">
+        <div style="margin-bottom:6px"><b>Como cortar:</b> 01 · Remover o silêncio</div>
+        <div style="margin-bottom:6px"><b>Sensibilidade:</b> −30 dB (o padrão, não mexa)</div>
+        <div style="margin-bottom:6px"><b>Só corta a partir de:</b> 0,40 s (o padrão é 0,50 s; baixar um pouco pega o silêncio do começo de cada take)</div>
+        <div style="margin-bottom:6px"><b>Margem de respiro:</b> 90 ms (o padrão é 60 ms; evita comer o finalzinho das palavras)</div>
+        <div style="margin-bottom:6px"><b>Zoom nos cortes:</b> Desligado (os virais não têm zoom, e o zoom corta a bandeirinha e o objeto nas bordas; teste “Suave” só num vídeo futuro)</div>
+        <div style="margin-bottom:6px"><b>Qualidade do vídeo:</b> Igual à do original (é a única opção)</div>
+        <div style="margin-bottom:6px"><b>Formato do áudio:</b> Automático (igual ao original)</div>
+        <div style="margin-bottom:6px"><b>Nome do arquivo:</b> troque por <span id="silNome">noraNN-cortado</span> (se não deixar editar, renomeie depois)</div>
+        <div><b>Juntar tudo num arquivo só:</b> DESLIGADO (o vídeo já está junto)</div>
+      </div>
+      <div class="mono">Depois</div>
+      <ol style="margin:8px 0 12px;padding-left:20px;line-height:1.6">
+        <li>Clique em <b>Cortar e baixar</b>.</li>
+        <li><b>Confira os primeiros 4 s:</b> o pré-gancho não tem fala e pode ser tratado como silêncio. Se sumiu, refaça com os takes 1 a 7 (sem o pré-gancho) e ponha o pré-gancho na frente no editor.</li>
+        <li>Assista inteiro: nenhuma palavra cortada no começo ou no fim, e o ritmo sem buracos.</li>
+        <li>Então abra o editor e ponha os textos da seção seguinte.</li>
+      </ol>
+      <div class="tip">Se comer o fim das palavras, suba a margem de respiro para 120 ms. Se sobrar silêncio no começo dos takes, baixe “Só corta a partir de” para 0,30 s. Se ficar robótico, troque para “02 · Encurtar o silêncio”.</div>
+    </section>
+
     <section class="card" id="textotela">
       <button class="cp" id="copiaTela">Copiar textos de tela</button>
       <h2>Edição: texto na tela</h2>
@@ -337,8 +361,8 @@ function montarPre(){
 function ordenar(){
   const c=pk.central;
   const ord=c
-    ?['pecas','referencia','prehook','imagens','todos','central','cenas','agente','story','textotela','fala','descricao','comentario']
-    :['pecas','referencia','prehook','imagens','videos','todos','story','textotela','fala','descricao','comentario'];
+    ?['pecas','referencia','prehook','imagens','todos','central','cenas','agente','silencio','story','textotela','fala','descricao','comentario']
+    :['pecas','referencia','prehook','imagens','videos','todos','silencio','story','textotela','fala','descricao','comentario'];
   const pn=$('painel');
   $('todos').classList.toggle('hide',!!pk.imagem_reutilizada||!!pk.imagem_central);
   $('imagens').querySelector('h2').textContent=pk.imagem_reutilizada?'Imagem 1 (a mesma de outro roteiro, não gerar)':(pk.imagem_central?'Imagem 1 na Central de imagens':'Imagens');
@@ -381,6 +405,7 @@ function montar(silencio){
   $('rmeta').textContent=[r.dor&&('Dor: '+r.dor),r.formato&&('Formato: '+r.formato),r.molde_hook&&('Hook: '+r.molde_hook),r.duracao_total&&(r.duracao_total+' s no total'),r.leitura_registro&&('Leitura obrigatória (registro): '+r.leitura_registro)].filter(Boolean).join(' · ');
   $('insta').textContent=r.descricao_instagram||'(a IA não entregou a legenda)';
   const tt=pk.texto_tela||{};
+  $('silNome').textContent=((pk.roteiro&&pk.roteiro.id)||'noraNN').toLowerCase().replace(/[^a-z0-9]+.*$/,'')+'-cortado';
   $('telaHook').textContent=tt.hook||'(a IA não entregou o texto dos primeiros segundos)';
   const cf=pk.comentario_fixado||{};
   $('pinInsta').textContent=cf.insta||'(a IA não entregou o comentário fixado do Instagram)';
