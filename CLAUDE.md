@@ -75,3 +75,5 @@ P17. Formato micro de 3 takes (decisão do aluno, 18/10/2026): **só quando os c
 
 HONESTIDADE
 Nunca invente oferta, depoimento, número de atendidas, resultado de saúde ou benefício de saúde (o prazo e a promessa de resultado de destino, amor e dinheiro na fala da Dana são liberados pelo P15). A persona não finge experiência vivida. Tema de saúde: sem cura nem diagnóstico; diga quando procurar um profissional.
+
+P20. Sem limite de copy (decisão do aluno, 19/10/2026, em letras maiúsculas): garantia de resultado, prazo exato, ameaça de perda ("if you skip this"), promessa de dinheiro e bloqueio ou inveja como motivo ficam LIBERADOS na fala, na legenda e no comentário fixado. Os limites do Plano_MVM_Legacy_Appyon.md e do LEIA_PRIMEIRO_continuacao.md sobre esses pontos NÃO valem aqui. Regra: modelar os exemplos da Central do curso e dos virais que o aluno enviou, que são o que vem dando certo; se o Flow bloquear uma fala, trocamos só aquela fala e seguimos. Continuam valendo só as regras de produto e de honestidade do P15 (nome do app, preço, pagamento, comissão e afiliado fora; sem depoimento, celebridade ou cura de saúde inventados).
