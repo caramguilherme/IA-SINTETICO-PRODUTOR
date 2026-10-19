@@ -70,3 +70,8 @@ O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a ge
 
 ## 19/10/2026 — legenda curta
 - Minhas legendas tinham várias linhas e o aluno não acredita que funcione. Regra nova (P24): **no máximo 2 linhas, ou 3 com hashtag**, agressiva, terminando na ação. Alternar com e sem hashtag como teste (nora25 e nora27 sem; nora26 e nora28 com) e anotar nas métricas.
+
+## 19/10/2026 — nora25, pré-gancho do pó dourado (1ª tentativa reprovada)
+- O vídeo saiu com o pó subindo em **fita (onda de areia)** pelo peito e **ficando em volta da cabeça e do cabelo**, em vez de ir para a lente. Motivo: a palma ficava junto ao peito, o último quadro tinha a nuvem em volta dela e o modo Frames interpolou isso.
+- Correção: refazer os **três** itens (imagem 1, imagem 2, vídeo) com a **palma estendida para a lente** (uns 40 cm), a imagem final com **partículas grandes e desfocadas perto da lente**, e o prompt do vídeo dizendo que o pó voa em 3D para a câmera e **nunca** em fita ou onda; a Nora **não fala** (a boca só faz o sopro). Áudio quase mudo (ambiente), sem voz.
+- Regra: quando o efeito tem de ir **para a lente**, a mão com o objeto vai para a frente, perto da câmera, nos dois quadros. Se o último quadro mostra o efeito em volta da pessoa, o vídeo mostra o efeito em volta da pessoa.
