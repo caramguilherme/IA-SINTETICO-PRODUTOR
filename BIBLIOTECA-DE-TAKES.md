@@ -6,7 +6,7 @@ Toda imagem e todo take do projeto tem um **nome**. O nome serve para renomear o
 O aluno comprou **1000 créditos** no Google por US$ 1 e eles já entraram. **Créditos não são mais um limite:** cada vídeo é gerado completo (pré-gancho com rosto, gancho, corpo e o CTA dele), com os melhores roteiros possíveis. O reaproveitamento acontece **depois**, peça por peça, conforme eu for decidindo.
 
 ## Numeração (decisão do aluno, 19/10/2026)
-O número do vídeo é a ordem de postagem na conta: **nora01 a nora24 já foram postados** (nora23 = R004, nora24 = R005). O próximo é **nora25** (antes chamado R006), depois nora26 (R007), nora27 (R008), nora28 (R009), nora29 e assim por diante. A partir daqui o código é sempre `noraNN`.
+O número do vídeo é a ordem de postagem na conta: **nora01 a nora25 já foram postados** (nora23 = R004, nora24 = R005, nora25 em 19/10/2026 às 20h15). O próximo é **nora26** (antes chamado R007), depois nora27 (antes R008), nora28 (antes R009), nora29 e assim por diante. A partir daqui o código é sempre `noraNN`.
 
 ## Como nomear
 - Pré-gancho: `noraNN-PRE-IMG1` (imagem inicial), `noraNN-PRE-IMG2` (imagem final), `noraNN-PRE` (vídeo).
@@ -24,16 +24,16 @@ O número do vídeo é a ordem de postagem na conta: **nora01 a nora24 já foram
 ## Inventário (nora25 a nora28)
 | Nome | O que é | Pode ser usado em | Status |
 |---|---|---|---|
-| `nora25-PRE-IMG1` / `nora25-PRE-IMG2` / `nora25-PRE` | pré-gancho (imagem inicial, final e vídeo de 4 s) | só deste vídeo | a gerar |
-| `nora25-IMG` | imagem 1 do vídeo (Central de imagens) | variações do mesmo kit, se performar | a gerar |
-| `nora25-T1-gancho-azar` | “One minute he's all in. Then he couldn't care less. It's not bad luck.…” | só deste vídeo | a gerar |
-| `nora25-T2-corpo-prova` | “I already know it's you. First, you didn't scroll past this video. Sec…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora25-T3-corpo-venus-x-sol` | “In astrology, your sun sign shows who you are. Your Venus shows how yo…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora25-T4-corpo-reconhecimento` | “Think of the men who pulled you in. I'll change my name if it wasn't t…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora25-T5-corpo-lua-segredo` | “And there's a secret most horoscopes skip: the Moon on the night you w…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora25-T6-corpo-escassez` | “This message is sensitive, so don't scroll past it. Not everyone will …” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora25-T7-cta-a-quiz-venus` | “You can find yours. In my story, a free astrology quiz finds your Venu…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora25-T8-cta-b-comente-venus` | “Send this to yourself. Comment VENUS so I know you did it. Tap my phot…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
+| `nora25-PRE-IMG1` / `nora25-PRE-IMG2` / `nora25-PRE` | pré-gancho (imagem inicial, final e vídeo de 4 s) | só deste vídeo | gerado e postado em 19/10/2026 (20h15) |
+| `nora25-IMG` | imagem 1 do vídeo (Central de imagens) | variações do mesmo kit, se performar | gerado e postado em 19/10/2026 (20h15) |
+| `nora25-T1-gancho-azar` | “One minute he's all in. Then he couldn't care less. It's not bad luck.…” | só deste vídeo | gerado e postado em 19/10/2026 (20h15) |
+| `nora25-T2-corpo-prova` | “I already know it's you. First, you didn't scroll past this video. Sec…” | candidato a reaproveitar em variações do mesmo kit | gerado e postado em 19/10/2026 (20h15) |
+| `nora25-T3-corpo-venus-x-sol` | “In astrology, your sun sign shows who you are. Your Venus shows how yo…” | candidato a reaproveitar em variações do mesmo kit | gerado e postado em 19/10/2026 (20h15) |
+| `nora25-T4-corpo-reconhecimento` | “Think of the men who pulled you in. I'll change my name if it wasn't t…” | candidato a reaproveitar em variações do mesmo kit | gerado e postado em 19/10/2026 (20h15) |
+| `nora25-T5-corpo-lua-segredo` | “And there's a secret most horoscopes skip: the Moon on the night you w…” | candidato a reaproveitar em variações do mesmo kit | gerado e postado em 19/10/2026 (20h15) |
+| `nora25-T6-corpo-escassez` | “This message is sensitive, so don't scroll past it. Not everyone will …” | candidato a reaproveitar em variações do mesmo kit | gerado e postado em 19/10/2026 (20h15) |
+| `nora25-T7-cta-a-quiz-venus` | “You can find yours. In my story, a free astrology quiz finds your Venu…” | candidato a reaproveitar em variações do mesmo kit | gerado e postado em 19/10/2026 (20h15) |
+| `nora25-T8-cta-b-comente-venus` | “Send this to yourself. Comment VENUS so I know you did it. Tap my phot…” | candidato a reaproveitar em variações do mesmo kit | gerado e postado em 19/10/2026 (20h15) |
 | `nora26-PRE-IMG1` / `nora26-PRE-IMG2` / `nora26-PRE` | pré-gancho (imagem inicial, final e vídeo de 6 s) | só deste vídeo | a gerar |
 | `nora26-IMG` | imagem 1 do vídeo (Central de imagens) | variações do mesmo kit, se performar | a gerar |
 | `nora26-T1-gancho-lua` | “The Moon on the night you were born is hiding two things from you abou…” | só deste vídeo | a gerar |
