@@ -116,3 +116,8 @@ O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a ge
 - Das 5 imagens, 2 saíram com o título “Natal Astrology” (letras tortas) no mapa, apesar do “no readable words”; 1 saiu sorrindo (o roteiro pede olhar intenso); 1 com o rosto torto e cortado; 1 com o círculo vermelho gigante no meio do mapa. Escolhida: a ajoelhada, séria, com trança de anéis, lua com 3 estrelas, bandeirinha na parede e no peito, mapa creme sem texto.
 - Lição: o mapa astral em papel puxa texto de título. Nas próximas, pedir “the sheet has NO title, NO header and NO text above the circle, only the circle with glyphs” e gerar mais de uma opção para escolher.
 - A mão que segura o objeto saiu a esquerda dela, de novo (o modelo troca as mãos); tudo bem desde que o vídeo mantenha a mesma mão.
+
+## 19/10/2026 — IMAGEM 1 do nora25 aprovada com um defeito: carimbo de data
+- A Central gerou a IMAGEM 1 do nora25 certa (rosto, lua com 3 estrelas, trança, disco de Vênus legível, bandeira, abajur), mas com um carimbo laranja “OCT 26 ’23” e uma estrelinha no canto inferior esquerdo (apareceu também em outra opção). Causa provável: “câmera de celular (look amador)” + “Portra 800 nostálgico”.
+- Correção: editar a imagem com “remove the orange date stamp… change nothing else”. Nas próximas, escrever “no date stamp, no text overlay, no watermark” em Estilo final e conferir o canto inferior antes de aprovar.
+- Checklist: toda IMAGEM 1 e todo quadro inicial/final passa por “tem algum texto, data ou marca d’água nos cantos?”.
