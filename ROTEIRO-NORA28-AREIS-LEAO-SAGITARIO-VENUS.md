@@ -21,10 +21,10 @@ Status: **aprovado pelo aluno em 19/10/2026; atualizado para a Nora v2 no mesmo 
 - **Série:** os outros grupos (Terra no R005 do Soulmate, Ar e Água) refazem só o Take 1 e o pré-gancho, mantendo o corpo e o CTA.
 
 ## Imagem única (IMAGEM 1) — primeiro e último quadro de todos os takes
-**A partir de 19/10/2026 a IMAGEM 1 é gerada na Central de imagens do curso (caixinha “já tenho o blueprint” marcada), campo por campo, e não com um prompt nosso.** A avatar é a **Nora v2** (latina, cabelo preto longo com trança de anéis dourados, olhos verde-avelã, lua dourada com 3 estrelinhas na maçã do rosto, brincos de estrela e lua, colar de Vênus). O painel traz todos os campos, com o que está travado pelo blueprint marcado.
+**Continuação do pré-gancho (decisão do aluno, 19/10/2026, teste do nora25 ao nora28): a IMAGEM 1 tem a MESMA roupa e o MESMO cenário do pré-gancho; a Nora só passa a falar. Nos virais R01, R04, R07 e R09 é assim.** **A partir de 19/10/2026 a IMAGEM 1 é gerada na Central de imagens do curso (caixinha “já tenho o blueprint” marcada), campo por campo, e não com um prompt nosso.** A avatar é a **Nora v2** (latina, cabelo preto longo com trança de anéis dourados, olhos verde-avelã, lua dourada com 3 estrelinhas na maçã do rosto, brincos de estrela e lua, colar de Vênus). O painel traz todos os campos, com o que está travado pelo blueprint marcado.
 - **Roupa deste roteiro:** cardigã de malha fina **verde-esmeralda**, aberto, sobre blusa lisa marfim, calça escura reta (a esmeralda faz o mapa de papel creme com o círculo vermelho se destacar).
 - **Objeto na mão direita, em primeiro plano:** um **mapa astral impresso em papel creme** (círculo dividido em 12 casas com símbolos zodiacais em tinta preta e **um círculo vermelho desenhado à mão em volta de um símbolo**), segurado na altura do peito, com a frente voltada para a lente (sem texto legível; o desenho é o ponto). A mão esquerda fica livre para os gestos.
-- **Cenário (com sinais dos EUA):** Cozy real American home study corner, a wooden desk, a bookshelf with a few books and a small American flag, a potted plant, a window with sheer curtains, one mug on the desk, no readable text.
+- **Cenário (com sinais dos EUA):** The same quiet room of a real American home as the pre-hook: wooden plank floor, plain light walls, a small American flag on the wall behind her, soft daylight, nothing else in the frame, no readable text.
 - **Luz:** Meio-dia com luz filtrada; Difusa suave envolvendo o rosto; Tons terrosos vibrantes.
 Sem celular e sem carta fora da mão (P9).
 

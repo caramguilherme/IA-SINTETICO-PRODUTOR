@@ -21,11 +21,11 @@ Status: **aprovado pelo aluno em 19/10/2026; atualizado para a Nora v2 no mesmo 
 - **Edição:** legenda palavra a palavra com "Venus" em destaque (vermelho do R14, amarelo de R01/R07), seta vermelha pequena no fim apontando para a foto do perfil (U6, U7, U8), gestos de apontar (V4, U6–U8).
 
 ## Imagem única (IMAGEM 1) — primeiro e último quadro de todos os takes
-**A partir de 19/10/2026 a IMAGEM 1 é gerada na Central de imagens do curso (caixinha “já tenho o blueprint” marcada), campo por campo, e não com um prompt nosso.** A avatar é a **Nora v2** (latina, cabelo preto longo com trança de anéis dourados, olhos verde-avelã, lua dourada com 3 estrelinhas na maçã do rosto, brincos de estrela e lua, colar de Vênus). O painel traz todos os campos, com o que está travado pelo blueprint marcado.
+**Continuação do pré-gancho (decisão do aluno, 19/10/2026, teste do nora25 ao nora28): a IMAGEM 1 tem a MESMA roupa e o MESMO cenário do pré-gancho; a Nora só passa a falar. Nos virais R01, R04, R07 e R09 é assim.** **A partir de 19/10/2026 a IMAGEM 1 é gerada na Central de imagens do curso (caixinha “já tenho o blueprint” marcada), campo por campo, e não com um prompt nosso.** A avatar é a **Nora v2** (latina, cabelo preto longo com trança de anéis dourados, olhos verde-avelã, lua dourada com 3 estrelinhas na maçã do rosto, brincos de estrela e lua, colar de Vênus). O painel traz todos os campos, com o que está travado pelo blueprint marcado.
 - **Roupa deste roteiro:** blusa de malha canelada **verde-esmeralda** (a cor assinatura da Nora), de gola redonda, sem estampa, calça escura reta (a esmeralda faz o rosto e o cobre do pingente saltarem).
 - **Objeto na mão direita, em primeiro plano:** um **pingente de cobre escovado, redondo, com o símbolo de Vênus (♀) gravado** (um pequeno círculo com uma cruz curta embaixo), segurado pela corrente, com a face gravada voltada para a lente; balança de leve. A mão esquerda fica livre para os gestos.
-- **Cenário (com sinais dos EUA):** Simple real American kitchen dining nook, a round light-wood table by a window with sheer white curtains, a quiet suburban street with a white picket fence and a mailbox softly out of focus outside, a small American flag magnet on the fridge behind her, one white coffee mug on the table, nothing else on the table, no readable text.
-- **Luz:** Manhã dourada na janela; Difusa suave envolvendo o rosto; Tons mel quentes.
+- **Cenário (com sinais dos EUA):** The same dim hallway of a real American suburban home as the pre-hook: an open white-trimmed door frame, hardwood floor, light-beige walls and a lit table lamp glowing at the end of the hallway, nothing else in the frame, no readable text.
+- **Luz:** Luz de abajur tungstênio; Luz mista natural + tungstênio; Tons mel quentes.
 Sem celular e sem carta fora da mão (P9).
 
 ## Pré-gancho — 4 s (clipe separado, sem fala, **com o rosto da Nora**)
@@ -61,7 +61,7 @@ Modelo nos virais: U6 (ela entra por uma porta e sopra pó dourado na lente, ≈
 
 ### Take 5/8 — Nome do padrão e o segredo da Lua — 10 s (22 palavras)
 **Nome do arquivo:** `nora25-T5-corpo-lua-segredo`
-**Visual:** Ela leva a mão esquerda ao peito por um instante e a devolve à mesa.
+**Visual:** Ela leva a mão esquerda ao peito por um instante e a devolve ao lado do corpo.
 **Fala:** "And there's a secret most horoscopes skip: the Moon on the night you were born. Together, they give your pattern a name."
 (PT: E há um segredo que a maioria dos horóscopos pula: a Lua da noite em que você nasceu. Juntas, elas dão nome ao seu padrão.)
 

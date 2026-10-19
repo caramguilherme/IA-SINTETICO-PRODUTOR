@@ -8,7 +8,7 @@ Cada painel (PAINEL-NORA25.html a PAINEL-NORA28.html) traz tudo para copiar, na 
 
 ## Em cada vídeo
 1. **Pré-gancho (com o rosto da Nora):** imagem 1 (anexe SÓ o blueprint da Nora e cole o prompt: é uma geração) → imagem 2 (anexe SÓ a imagem 1 aprovada: é uma edição) → **compare as duas** (a 1 não pode ter o efeito pronto) → vídeo no modo **Frames** (imagem 1 no início, imagem 2 no fim).
-2. **IMAGEM 1 do vídeo (Nora v2):** gere na **Central de imagens** do curso, com a caixinha “já tenho o blueprint” marcada. O blueprint trava alguns campos e deixa outros livres: preencha só os livres, na ordem das seis seções que o painel mostra (roupa, pose, objeto, cenário com sinais dos EUA, luz, câmera). Use o prompt que a Central gerar, anexando SÓ o blueprint da Nora (baixado em 1K). Nunca anexe outra imagem da Nora junto.
+2. **IMAGEM 1 do vídeo (Nora v2), a continuação do pré-gancho:** mesma roupa e mesmo cenário do pré-gancho; a Nora só passa a falar (teste do nora25 ao nora28). gere na **Central de imagens** do curso, com a caixinha “já tenho o blueprint” marcada. O blueprint trava alguns campos e deixa outros livres: preencha só os livres, na ordem das seis seções que o painel mostra (roupa, pose, objeto, cenário com sinais dos EUA, luz, câmera). Use o prompt que a Central gerar, anexando SÓ o blueprint da Nora (baixado em 1K). Nunca anexe outra imagem da Nora junto.
 3. **Central:** preencha a configuração e cole a fala inteira + as linhas de movimentação (uma colagem só por vídeo). Confira a lista de takes do painel.
 4. **Agente do Flow:** anexe a IMAGEM 1, cole o aviso e o "COPIAR TUDO JUNTO", sem editar nada. Renomeie cada arquivo com o nome do painel.
 5. **Edição, legenda e comentário fixado:** por último, antes de postar.

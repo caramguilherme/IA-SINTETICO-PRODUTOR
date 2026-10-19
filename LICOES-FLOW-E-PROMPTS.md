@@ -26,6 +26,7 @@ Este arquivo junta tudo o que já deu errado ou que o aluno pediu. **Antes de en
 20. **Mãos:** o modelo de imagem troca esquerda e direita. Escrever qual mão faz o quê em todos os prompts, conferir nas imagens aprovadas (5 dedos, símbolo legível) e a mesma mão nos dois quadros.
 21. **Quantidade:** pedir "empilhado/cheio" com o tamanho em centímetros; o modelo faz pilhas pequenas quando o pedido é vago.
 22. **O rosto muda sutilmente no vídeo** (fica mais velha, mais séria): repetir "a mesma mulher, calma e calorosa" e conferir o rosto no último quadro do vídeo, não só nas imagens.
+23. **O vídeo continua do pré-gancho (testar do nora25 ao nora28):** a IMAGEM 1 tem a MESMA roupa e o MESMO cenário do pré-gancho; a avatar só passa a falar. Conferido nos virais do aluno: R01 (banheiro, suéter bege), R04 (quarto, lenço e travesseiro), R07 (sala escura, gola preta) e R09 (corredor, a mulher agachada ao lado da linha) seguem no mesmo lugar e com a mesma roupa depois do pré-gancho. Depois do teste, decidir com as métricas se vale variar roupa e cenário entre o pré-gancho e o corpo.
 
 ## 2. Falhas já vividas (o que aconteceu e a regra)
 | Quando | O que aconteceu | Regra |
@@ -100,3 +101,8 @@ O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a ge
 - Funcionou: **palma estendida para a lente** nos dois quadros + **último quadro com a nuvem em primeiro plano** + prompt "em 3D, para a lente, nunca fita ou onda, ela não fala". O pó saiu da palma e encheu o quadro; a Nora não falou; áudio ambiente.
 - Detalhes a melhorar nas próximas vezes: no fim do clipe as partículas viram **bolinhas redondas amarelas** (parecem confete): pedir "partículas pequenas e brilhantes, não bolas redondas"; o **pingente** na mão baixa saiu fino (♀) e não como o disco de cobre; a **trança** não aparece em plano fechado; o arquivo veio em **720p**, baixar em 1080p se houver a opção.
 - Na edição, cortar em ~3 s, antes de as partículas virarem bolinhas.
+
+## 19/10/2026 — continuidade pré-gancho → vídeo (decisão do aluno, teste do nora25 ao nora28)
+- O aluno percebeu, e eu confirmei assistindo aos virais (R01, R04, R07, R09), que **o vídeo é a continuação do pré-gancho no mesmo cenário e com a mesma roupa**. Antes eu trocava roupa e cenário entre o pré-gancho e o corpo (nora25 estava no corredor de verde e o corpo na cozinha).
+- Regra para nora25 a nora28: IMAGEM 1 = mesma roupa e mesmo cenário do pré-gancho; a pose muda só o necessário (em pé na porta no nora25, ajoelhada nos outros); o objeto do hook continua na mão direita; as pistas dos EUA entram nos dois (bandeirinha no nora26 a nora28; o nora25 já tinha pré-gancho aprovado sem bandeirinha).
+- Depois dos 4 vídeos, comparar com as métricas e decidir se o próximo teste volta a variar roupa e cenário.
