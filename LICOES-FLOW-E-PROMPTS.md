@@ -19,6 +19,14 @@ Este arquivo junta tudo o que já deu errado ou que o aluno pediu. **Antes de en
 15. **Todo prompt que vai para o Flow ou para a Central é em inglês** (prompts de imagem, do pré-gancho, do story, instruções ao agente, fala, movimentação, perfil de voz, LIVRE). Só os textos para o aluno (passo a passo, conferências, avisos) ficam em português. O Flow entende melhor e com mais facilidade em inglês.
 14. **Os takes da Dana seguem a Central do curso, igual ela ensina e entrega** (decisão do aluno em 18/10/2026): anexar a IMAGEM 1, colar o aviso do aluno e, embaixo, o bloco "COPIAR TUDO JUNTO" sem editar nada. Esse bloco já traz a instrução oficial "GOOGLE FLOW AGENT MODE" (todos os clipes como vídeos separados, mesma voz, a imagem anexada como referência em todos). Eu não invento modo nem regra para os takes, nem adiciono texto ao prompt da Central nem ao papel do agente: só preencho os campos da Central. O aviso do aluno é opcional. **O modo Frames (imagem 1 inicial, imagem 2 final) vale só para o vídeo do pré-gancho**, que é o único prompt de vídeo que fazemos (não vem da Central). O painel do pré-gancho sempre diz o modo e quais são as imagens inicial e final.
 
+16. **O modo Frames liga o primeiro e o último quadro, e o último quadro manda.** O vídeo é o caminho entre os dois. Se o último quadro mostra o efeito em volta da pessoa, o vídeo mostra o efeito em volta da pessoa (nora25, 1ª tentativa).
+17. **Direção do efeito.** Se o efeito tem de ir para a lente, a mão com o objeto vai para a frente, perto da câmera, nos dois quadros, e o último quadro tem o efeito em primeiro plano (partículas grandes e desfocadas perto da lente). Se não, o efeito fica no entorno do objeto.
+18. **Partículas, fumaça e líquido:** o Flow desenha como fita, onda ou fluxo. Escrever "em três dimensões, com profundidade, nunca como fita, onda ou fluxo" e dizer onde o efeito NÃO fica (por exemplo, "não fica em volta da cabeça nem do cabelo").
+19. **Pré-gancho: a pessoa não fala.** No fim do clipe a boca aberta parece fala. Escrever "ela não fala, a boca só faz o sopro, a expressão fica calma e firme" e áudio só ambiente.
+20. **Mãos:** o modelo de imagem troca esquerda e direita. Escrever qual mão faz o quê em todos os prompts, conferir nas imagens aprovadas (5 dedos, símbolo legível) e a mesma mão nos dois quadros.
+21. **Quantidade:** pedir "empilhado/cheio" com o tamanho em centímetros; o modelo faz pilhas pequenas quando o pedido é vago.
+22. **O rosto muda sutilmente no vídeo** (fica mais velha, mais séria): repetir "a mesma mulher, calma e calorosa" e conferir o rosto no último quadro do vídeo, não só nas imagens.
+
 ## 2. Falhas já vividas (o que aconteceu e a regra)
 | Quando | O que aconteceu | Regra |
 |---|---|---|
@@ -75,3 +83,15 @@ O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a ge
 - O vídeo saiu com o pó subindo em **fita (onda de areia)** pelo peito e **ficando em volta da cabeça e do cabelo**, em vez de ir para a lente. Motivo: a palma ficava junto ao peito, o último quadro tinha a nuvem em volta dela e o modo Frames interpolou isso.
 - Correção: refazer os **três** itens (imagem 1, imagem 2, vídeo) com a **palma estendida para a lente** (uns 40 cm), a imagem final com **partículas grandes e desfocadas perto da lente**, e o prompt do vídeo dizendo que o pó voa em 3D para a câmera e **nunca** em fita ou onda; a Nora **não fala** (a boca só faz o sopro). Áudio quase mudo (ambiente), sem voz.
 - Regra: quando o efeito tem de ir **para a lente**, a mão com o objeto vai para a frente, perto da câmera, nos dois quadros. Se o último quadro mostra o efeito em volta da pessoa, o vídeo mostra o efeito em volta da pessoa.
+
+
+## 19/10/2026 — Como o Flow funciona (resumo do que aprendemos; atualizar a cada falha)
+- **Imagem e vídeo são literais.** O Flow faz o que o quadro mostra e o que o prompt diz; o que não está dito, ele inventa (cartas que aparecem, objeto em pé, mãos trocadas).
+- **Frames = caminho entre dois quadros.** Os dois quadros têm de ser claramente diferentes e coerentes (mesmas mãos, mesma roupa, mesmo cenário). O último quadro define o final.
+- **Efeitos que funcionam:** um só, grande, que cresce no mesmo lugar (sal caindo, fumaça subindo, pó soprado), com combustível visível (louro seco para o fogo). **Efeitos que falham:** cadeia de efeitos, efeito que "desenha caminho", estados parciais ("meio aceso").
+- **Fita de areia:** pó e fumaça viram fita ou onda se o prompt não disser "3D, para a lente" e se o último quadro tiver a nuvem em volta da pessoa.
+- **Rosto e boca:** o rosto pode envelhecer e a boca parecer falar; repetir "não fala" e "mesma mulher".
+- **Folha do blueprint:** baixar em 1K (2K derrete o meio).
+- **O que o agente do Flow aceita:** um item por vez, sem várias versões.
+- **Custos (créditos do aluno):** 4 s = 7, 6 s = 10, 8 s = 12, 10 s = 15.
+- **Regra de trabalho:** quando o aluno relatar uma falha, eu registro aqui, corrijo o painel em produção e **já aplico a lição nos painéis seguintes** (decisão do aluno em 19/10/2026).
