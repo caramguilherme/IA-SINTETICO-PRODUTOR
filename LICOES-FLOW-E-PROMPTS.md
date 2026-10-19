@@ -50,3 +50,4 @@ Este arquivo junta tudo o que já deu errado ou que o aluno pediu. **Antes de en
 - **Prompts para o Flow e para a Central sempre em inglês** (decisão de 18/10/2026). O aviso do agente tem o texto do aluno em português e uma versão em inglês opcional no painel.
 - Linguagem dos virais liberada (P15). Nada de depoimento, número de atendidas, celebridade, preço inventados, benefício de saúde, nome do app, preço, pagamento, comissão ou afiliado.
 - Funil ativo: Soulmate, até o aluno avisar que o Love Chart começou.
+- **Ordem das seções do painel = ordem de execução da produção** (decisão do aluno, 19/10/2026): referência → pré-gancho (imagens e vídeo) → imagem 1 → Central → fala e movimentação → agente → story → edição (texto na tela do pré-gancho e do hook, dica de edição, fala completa) → legenda Insta/Face → comentário fixado (últimos, antes de postar). O painel numera as etapas e o menu segue a mesma ordem. Texto na tela e legenda nunca abrem o painel.

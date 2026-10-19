@@ -82,12 +82,16 @@ section{scroll-margin-top:16px}
 
     <section class="card" id="textotela">
       <button class="cp" id="copiaTela">Copiar textos de tela</button>
-      <h2>Texto na tela</h2>
-      <div class="mono">Primeiros segundos do vídeo</div>
+      <h2>Edição: texto na tela</h2>
+      <p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Já com o pré-gancho e os takes aprovados, monte o vídeo no editor e ponha os textos abaixo.</p>
+      <div class="mono" id="telaPreK">Pré-gancho</div>
+      <div class="box" id="telaPre" style="margin:8px 0 12px;font-size:18px;font-weight:700"></div>
+      <div class="mono">Primeiros segundos do hook</div>
       <div class="box" id="telaHook" style="margin:8px 0 12px;font-size:20px;font-weight:700"></div>
       <div id="telaHookQ" style="margin:-4px 0 12px;color:var(--ink2);font-size:14.5px"></div>
       <div class="box" id="telaAlt" style="margin:0 0 12px"></div>
       <div class="box" id="telaExtras"></div>
+      <div class="tip hide" id="telaEdicao" style="margin-top:12px"></div>
     </section>
 
     <section class="card" id="descricao">
@@ -115,7 +119,7 @@ section{scroll-margin-top:16px}
       <div id="refs"></div>
       <ol class="steps" id="refSteps">
         <li>No Google Flow, anexe <b>só</b> estas imagens (deste personagem).</li>
-        <li><b>Com créditos:</b> agente do Flow. Cole “Copiar todos os prompts” (no fim da página). Ele gera um item por vez e espera seu "APROVADO".</li>
+        <li><b>Com créditos:</b> agente do Flow. Cole “Copiar todos os prompts” (etapa “Todos os prompts”). Ele gera um item por vez e espera seu "APROVADO".</li>
         <li><b>Sem créditos:</b> gere item por item, copiando abaixo. Tudo 9:16.</li>
       </ol>
     </section>
@@ -166,7 +170,7 @@ section{scroll-margin-top:16px}
   </div>
  </div>
  <nav class="toc"><b>Nesta página</b>
-   <a href="#entrada">Pacote</a><a href="#textotela">Texto na tela</a><a href="#descricao">Legenda</a><a href="#comentario">Comentário fixado</a><a href="#referencia">Referência visual</a><a href="#prehook">Pré-gancho</a><a href="#imagens">Imagens</a><a href="#central">Central</a><a href="#cenas">Cenas</a><a href="#agente">Agente</a><a href="#story">Story</a><a href="#fala">Fala completa</a><a href="#videos">Vídeos</a><a href="#todos">Todos os prompts</a>
+   <span id="tocLinks"></span>
  </nav>
 </div>
 
@@ -290,13 +294,31 @@ function montarPre(){
     +'<div class="item"><button class="cp" id="cpPreImg">Copiar prompt</button><h3>1) Imagem do pré-gancho <span class="tag">PRIMEIRO quadro</span><span class="tag">9:16</span><span class="tag">sem referências anexadas</span></h3><div class="box m">'+esc(g.imagem_prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_img" '+(feitos.pre_img?'checked':'')+'> Imagem gerada e aprovada</label></div>'
     +(temFim?'<div class="item"><button class="cp" id="cpPreImgFim">Copiar prompt</button><h3>2) Imagem final do pré-gancho <span class="tag">ÚLTIMO quadro</span><span class="tag">9:16</span><span class="tag">anexe a imagem 1 aprovada como base</span></h3><div class="box m">'+esc(g.imagem_final_prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_img_fim" '+(feitos.pre_img_fim?'checked':'')+'> Imagem final gerada e aprovada</label></div>':'')
     +'<div class="item"><button class="cp" id="cpPreVid">Copiar prompt</button><h3>'+(temFim?'3':'2')+') Vídeo do pré-gancho <span class="tag">'+esc(g.duracao||4)+' s</span><span class="tag">Frames</span><span class="tag">1º quadro: imagem 1</span>'+(temFim?'<span class="tag">último quadro: imagem 2</span>':'<span class="tag">sem último quadro</span>')+'</h3><div class="box m">'+esc(g.video_prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_vid" '+(feitos.pre_vid?'checked':'')+'> Vídeo gerado e aprovado</label></div>'
-    +(g.texto_tela?'<div class="item"><button class="cp" id="cpPreTxt">Copiar texto</button><h3>Texto na tela do pré-gancho</h3><div class="box">'+esc(g.texto_tela)+'</div></div>':'')
-    +(g.edicao?'<div class="tip">'+esc(g.edicao)+'</div>':'');
+    +'';
   if(temFim)$('cpPreImgFim').onclick=e=>copiar(g.imagem_final_prompt,e.currentTarget);
   $('cpPreImg').onclick=e=>copiar(g.imagem_prompt,e.currentTarget);
   $('cpPreVid').onclick=e=>copiar(g.video_prompt,e.currentTarget);
-  if($('cpPreTxt'))$('cpPreTxt').onclick=e=>copiar(g.texto_tela,e.currentTarget);
   $('preBox').querySelectorAll('input[data-id]').forEach(inp=>{inp.onchange=e=>{feitos[inp.dataset.id]=e.target.checked;progresso();salvar()}});
+}
+
+/* ORDEM DE PRODUÇÃO: as seções seguem o passo a passo do caminho da produção (legenda e comentário fixado por último, antes de postar). */
+function ordenar(){
+  const c=pk.central;
+  const ord=c
+    ?['referencia','prehook','imagens','todos','central','cenas','agente','story','textotela','fala','descricao','comentario']
+    :['referencia','prehook','imagens','videos','todos','story','textotela','fala','descricao','comentario'];
+  const pn=$('painel');
+  ord.forEach(id=>pn.appendChild($(id)));if(c)pn.appendChild($('videos'));
+  let n=0;const links=[];
+  ord.forEach(id=>{
+    const sec=$(id);
+    const h=sec.querySelector('h2');
+    const base=h.textContent.replace(/^\d+\.\s*/,'');
+    if(sec.classList.contains('hide')){h.textContent=base;return}
+    n++;h.textContent=n+'. '+base;
+    links.push('<a href="#'+id+'">'+n+'. '+esc(base)+'</a>');
+  });
+  $('tocLinks').innerHTML='<a href="#entrada">Pacote</a>'+links.join('');
 }
 
 function montar(silencio){
@@ -329,6 +351,9 @@ function montar(silencio){
   const cf=pk.comentario_fixado||{};
   $('pinInsta').textContent=cf.insta||'(a IA não entregou o comentário fixado do Instagram)';
   $('pinFace').textContent=cf.face||'(a IA não entregou o comentário fixado do Facebook)';
+  const pg=pk.pre_gancho||{};
+  $('telaPre').textContent=pg.texto_tela||'';$('telaPre').classList.toggle('hide',!pg.texto_tela);$('telaPreK').classList.toggle('hide',!pg.texto_tela);
+  $('telaEdicao').textContent=pg.edicao||'';$('telaEdicao').classList.toggle('hide',!pg.edicao);
   $('telaHookQ').innerHTML=tt.hook_comeca?('Começa em: “'+esc(tt.hook_comeca)+'”'+(tt.hook_termina?' → termina em: “'+esc(tt.hook_termina)+'”':'')):'';
   $('telaAlt').textContent=tt.hook_alt?'Alternativa: '+tt.hook_alt:'';$('telaAlt').classList.toggle('hide',!tt.hook_alt);
   $('telaExtras').innerHTML=(tt.extras||[]).map(e=>'<div style="margin-bottom:8px"><b>'+esc(e.texto)+'</b><br><span style="color:var(--ink2)">'+(e.comeca?'Começa em: “'+esc(e.comeca)+'”'+(e.termina?' → termina em: “'+esc(e.termina)+'”':''):esc(e.quando||''))+'</span></div>').join('');$('telaExtras').classList.toggle('hide',!(tt.extras&&tt.extras.length));
@@ -353,6 +378,7 @@ function montar(silencio){
   });
   montarCentral();
   montarPre();
+  ordenar();
   $('painel').classList.remove('hide');
   progresso();salvar();
 }
@@ -361,7 +387,7 @@ $('aplicar').onclick=()=>{feitos={};montar(false)};
 $('limpar').onclick=()=>{if(!confirm('Apagar o pacote e as marcações?'))return;$('json').value='';feitos={};pk=null;$('painel').classList.add('hide');salvar()};
 $('copiaTudo').onclick=e=>copiar('iniciar\n\n'+(pk.instrucoes_agente?pk.instrucoes_agente+'\n\n':'')+blocoCompleto(),e.currentTarget);
 $('copiaFalas').onclick=e=>copiar(pk.videos.map(v=>v.rotulo+' ('+v.cena+'): '+v.fala).join('\n'),e.currentTarget);
-$('copiaTela').onclick=e=>{const tt=pk.texto_tela||{};copiar(['Início do vídeo: '+(tt.hook||'')+(tt.hook_comeca?' | começa em: "'+tt.hook_comeca+'" | termina em: "'+(tt.hook_termina||'')+'"':'')].concat((tt.extras||[]).map(x=>x.texto+(x.comeca?' | começa em: "'+x.comeca+'" | termina em: "'+(x.termina||'')+'"':(x.quando?' | '+x.quando:'')))).join('\n'),e.currentTarget)};
+$('copiaTela').onclick=e=>{const tt=pk.texto_tela||{};copiar([].concat(pk.pre_gancho&&pk.pre_gancho.texto_tela?['Pré-gancho: '+pk.pre_gancho.texto_tela]:[],['Início do vídeo: '+(tt.hook||'')+(tt.hook_comeca?' | começa em: "'+tt.hook_comeca+'" | termina em: "'+(tt.hook_termina||'')+'"':'')]).concat((tt.extras||[]).map(x=>x.texto+(x.comeca?' | começa em: "'+x.comeca+'" | termina em: "'+(x.termina||'')+'"':(x.quando?' | '+x.quando:'')))).join('\n'),e.currentTarget)};
 $('copiaPinInsta').onclick=e=>copiar((pk.comentario_fixado&&pk.comentario_fixado.insta)||'',e.currentTarget);
 $('copiaPinFace').onclick=e=>copiar((pk.comentario_fixado&&pk.comentario_fixado.face)||'',e.currentTarget);
 $('copiaInsta').onclick=e=>copiar((pk.roteiro&&pk.roteiro.descricao_instagram)||'',e.currentTarget);
