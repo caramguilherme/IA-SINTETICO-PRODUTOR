@@ -64,6 +64,6 @@ O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a ge
 - Objetivo do aluno: atrair o menor público possível da Índia. Nada na testa, sem cabelo liso com risca no meio, sem sobrancelha pesada; sinais dos EUA só na imagem de cada vídeo, não na folha.
 
 ## 19/10/2026 — nomes e reaproveitamento
-- O aluno quer nome em toda imagem e todo take, mostrado no painel de forma didática, para reaproveitar ganchos, corpos e CTAs já gerados e não gastar créditos à toa. Ver P23 e `BIBLIOTECA-DE-TAKES.md`.
-- Reaproveitar só com a mesma Nora e a mesma imagem de base. O CTA compartilhado tem imagem própria (`nora25-IMG-CTA`, mãos vazias), para não aparecer o objeto de outro vídeo.
-- Antes de decidir o que reaproveitar, olhar as métricas do aluno (`Metricas_da_Nora`): os campeões B3 e C4 vieram da receita "corpo e CTA uma vez por copy, só o gancho muda".
+- O aluno quer nome em toda imagem e todo take, mostrado no painel de forma didática, para reaproveitar ganchos, corpos e CTAs já gerados. Ver P23 e `BIBLIOTECA-DE-TAKES.md`.
+- **Os créditos não são mais limite** (o aluno comprou 1000 e já entraram): gerar tudo completo, com o CTA de cada vídeo, e decidir o reaproveitamento depois. Errei ao encurtar o plano para economizar; o aluno corrigiu.
+- Reaproveitar só com a mesma Nora e a mesma imagem de base (mesmo kit). Antes de decidir, olhar as métricas do aluno (`Metricas_da_Nora`): os campeões B3 e C4 vieram da receita "corpo e CTA uma vez por copy, só o gancho muda".

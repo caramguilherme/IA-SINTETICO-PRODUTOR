@@ -1,6 +1,6 @@
-# nora27-DOIS-TIPOS-DE-HOMEM — roteiro completo (8 takes + pré-gancho), funil LOVE CHART (19/10/2026)
+# nora27-DOIS-TIPOS-DE-HOMEM — roteiro completo (7 takes + pré-gancho), funil LOVE CHART (19/10/2026)
 
-Status: **aprovado pelo aluno em 19/10/2026; atualizado para a Nora v2 no mesmo dia (identidade, figurino, cenário e IMAGEM 1 pela Central de imagens).** Persona: **Nora v2** (Nora Kensley, @norakensleytarot), a avatar nova de 19/10/2026. Funil ativo: **Love Chart** (link só no story: sem DM e sem falar de afiliado). Postagem prevista: 19/10/2026 (nora25 a nora28 sobem no mesmo dia). Créditos do Flow não são mais um limite (o aluno informou que vão cair 1000), então o roteiro é o longo, com o melhor pré-gancho que a biblioteca de virais permite, e não o micro. Falas em inglês dos EUA; a tradução é só para o aluno aprovar. Dor 2 (o homem que mantém na dúvida), com a 5 (escolher sempre o mesmo tipo). Formato 1 (problema + crenças + solução) com comparação de dois (estrutura B/AD07), 7 takes (CTA condensado). Duração planejada: pré-gancho de 6 s + 8 takes de 10 s = 86 s.
+Status: **aprovado pelo aluno em 19/10/2026; atualizado para a Nora v2 no mesmo dia (identidade, figurino, cenário e IMAGEM 1 pela Central de imagens).** Persona: **Nora v2** (Nora Kensley, @norakensleytarot), a avatar nova de 19/10/2026. Funil ativo: **Love Chart** (link só no story: sem DM e sem falar de afiliado). Postagem prevista: 19/10/2026 (nora25 a nora28 sobem no mesmo dia). Créditos do Flow não são mais um limite (o aluno informou que vão cair 1000), então o roteiro é o longo, com o melhor pré-gancho que a biblioteca de virais permite, e não o micro. Falas em inglês dos EUA; a tradução é só para o aluno aprovar. Dor 2 (o homem que mantém na dúvida), com a 5 (escolher sempre o mesmo tipo). Formato 1 (problema + crenças + solução) com comparação de dois (estrutura B/AD07), 7 takes (CTA condensado). Duração planejada: pré-gancho de 6 s + 7 takes de 10 s = 76 s.
 
 ## Leitura obrigatória (registro)
 19/10/2026: antes de escrever li, com a ferramenta de leitura e inteiros, os mesmos arquivos de `LEIA-TUDO-ANTES.md` que registrei no nora25 de hoje (`CLAUDE.md`, `00-LEIA-PRIMEIRO.md`, `PROJETO-Dana.md`, `LICOES-FLOW-E-PROMPTS.md`, `DNA Visual - Dana.md`, `DNA Visual - Nora.md`, `DNA Visual - Nora v2.md`, `REGISTRO-DE-PERSONAS.md`, `hooks.md` com a seção 7, `Formatos Narrativos - Problema e Cenario.md`, `Exemplos de Roteiros - 2 Formatos.md`, `ctas.md`, `COMUNICACAO-VISCERAL-E-FALADA.md`, `BIBLIOTECA-BODIES.md`, `BIBLIOTECA-COLD-READING.md`, `BIBLIOTECA-COPY.md`, `BIBLIOTECA-COPY-100-ROTEIROS.md`, `PESQUISA-PUBLICO.md`, `BIBLIOTECA-VIDEOS-VIRAIS.md`, `BIBLIOTECA-PRE-GANCHOS.md`, `Prompts.txt`, `CHECKLIST-DE-PRODUCAO.md`, `PAPEL-AGENTE-FLOW.md`, `GUIA-CREATIVE-HUB.md`, `PLANO-CREDITOS-R004-R005.md`, `PASSO-A-PASSO-R003-HUB.md`, `PASSO-A-PASSO-R004-R005.md`, `EXEMPLO-ROTEIRO-APROVADO-FIGADO.md`, `EXEMPLO-PACOTE-FIGADO.md`, `ROTEIRO-R001` a `ROTEIRO-R005`, `STORY-R001` a `STORY-R003`, `ROTEIRO-LOVECHART-RESERVA-SEU-PADRAO-TEM-NOME.md`, `STORY-LOVECHART-RESERVA.md`, `TAKE-NOVO-R001-V6.txt`, `TAKE-NOVO-R002-V6.txt`) e o briefing do Love Chart (`BRIEFING-LOVECHART.md`, a página https://briefing-lovechart.pages.dev/). O `CLAUDE.md` foi recarregado no início deste turno com as mudanças de hoje. `PAINEL-MODELO.html` foi lido (CSS e script; linhas longas cortadas) e o formato do pacote conferido no painel do R004. `FOTO-PERFIL-DANA.md` não foi lido (só vale para foto de perfil).
@@ -11,7 +11,7 @@ Status: **aprovado pelo aluno em 19/10/2026; atualizado para a Nora v2 no mesmo 
 - **Cold reading:** #74 (a conversa que ensaia e nunca tem) e #23 (revive conversas) em observação sobre a espectadora; #88 e #96 ficam para o nora29.
 - **Body:** AD07 + roteiro 69 do curso ("a mente confunde familiar com seguro") + AD23 (aproxima e recua, explicado por astrologia) com a frase do funil ("it depends on your Venus, not your sun sign").
 - **Pesquisa e copy:** 3ª camada ("você não escolhe porque está quebrada"); MUP = "o padrão"; MUS = "your Venus"; future pacing ("imagine ver o que o seu Vênus realmente procura", alavanca 4 do "bater controle" do BIBLIOTECA-COPY); loop (o que o Vênus procura só se vê no story).
-- **CTA:** compartilhado entre os quatro vídeos (CTA-A e CTA-B, gerados no nora25): código **VENUS** + tocar na foto + story. O CTA condensado em um take que havia aqui foi trocado pelo padrão, para reaproveitar o take.
+- **CTA:** código **MATCH** (do briefing) + tocar na foto + story; CTA condensado em um take (6A + 6B), como o micro do R004/R005, para variar o tamanho entre os vídeos do dia.
 - **Funil Love Chart:** sem desenho do rosto, iniciais ou data de encontro; sem app, preço, assinatura, comissão, afiliado, Aura, "92%" ou "2.1M"; "free quiz" sim, app/leitura grátis não; "perfect match" é o nome do que o quiz mostra. **P15 usado:** garantia pessoal, escassez e ameaça suave de azar (só onde está marcado nas notas).
 
 ## Virais usados como modelo (peça por peça)
@@ -35,53 +35,47 @@ Modelo nos virais: U7 (ela levanta o tapete e uma tábua do piso e revela um com
 
 ## Takes (a fala inteira vai de uma vez na Central; o site divide em takes de 10 s)
 
-### Take 1/8 — Gancho (dois tipos) — 10 s (22 palavras)
+### Take 1/7 — Gancho (dois tipos) — 10 s (22 palavras)
 **Nome do arquivo:** `nora27-T1-gancho-dois-tipos`
 **Visual:** Ela olha firme para a lente e mostra dois dedos da mão esquerda, com a carta parada na mão direita.
 **Fala:** "There are two kinds of men in your story. One sees your worth. One keeps you guessing. You keep choosing the second."
 (PT: Existem dois tipos de homem na sua história. Um enxerga o seu valor. Um te deixa na dúvida. Você continua escolhendo o segundo.)
 
-### Take 2/8 — Cold reading — 10 s (22 palavras)
+### Take 2/7 — Cold reading — 10 s (22 palavras)
 **Nome do arquivo:** `nora27-T2-corpo-voce-conhece`
 **Visual:** Ela baixa o olhar, como quem lembra de uma mensagem, e volta a olhar para a lente.
 **Fala:** "You know the one. You rehearse a conversation with him that you'll never have. You replay his last text like it's evidence."
 (PT: Você sabe quem é. Você ensaia uma conversa com ele que nunca vai ter. Você relê a última mensagem dele como se fosse prova.)
 
-### Take 3/8 — Tirar a culpa (3ª camada) — 10 s (21 palavras)
+### Take 3/7 — Tirar a culpa (3ª camada) — 10 s (21 palavras)
 **Nome do arquivo:** `nora27-T3-corpo-nao-e-quebrada`
 **Visual:** Ela balança a cabeça uma vez, com um olhar acolhedor.
 **Fala:** "You don't choose him because you're broken. You choose him because it feels familiar. That's not bad luck. That's a pattern."
 (PT: Você não escolhe ele porque está quebrada. Você escolhe porque parece familiar. Isso não é azar. É um padrão.)
 
-### Take 4/8 — Mecanismo (Vênus) — 10 s (22 palavras)
+### Take 4/7 — Mecanismo (Vênus) — 10 s (22 palavras)
 **Nome do arquivo:** `nora27-T4-corpo-depende-venus`
 **Visual:** Ela abre a palma esquerda para a lente.
 **Fala:** "In astrology, it depends on your Venus, not your sun sign. Your Venus shapes who feels like home and who feels exciting."
 (PT: Na astrologia, depende do seu Vênus, não do seu signo solar. O seu Vênus molda quem parece lar e quem parece emoção.)
 
-### Take 5/8 — Desejo (future pacing) — 10 s (21 palavras)
+### Take 5/7 — Desejo (future pacing) — 10 s (21 palavras)
 **Nome do arquivo:** `nora27-T5-corpo-imagine`
 **Visual:** Ela inclina a cabeça e dá um meio sorriso, como quem imagina.
 **Fala:** "Imagine seeing what your Venus is really looking for. Not the one who keeps you guessing. Someone who stays and answers."
 (PT: Imagine ver o que o seu Vênus realmente procura. Não o que te deixa na dúvida. Alguém que fica e responde.)
 
-### Take 6/8 — Cuidado e ameaça suave — 10 s (21 palavras)
+### Take 6/7 — Cuidado e ameaça suave — 10 s (21 palavras)
 **Nome do arquivo:** `nora27-T6-corpo-nao-passe-direto`
 **Visual:** Ela aponta o indicador esquerdo para a lente.
 **Fala:** "Don't scroll past this one. If you do, you'll choose the second kind again, and I don't want that for you."
 (PT: Não passe direto por este. Se passar, vai escolher o segundo tipo de novo, e eu não quero isso para você.)
 
-### Take 7/8 — CTA-A: o que o story mostra — 10 s (22 palavras)
-**Nome do arquivo:** `CTA-A-quiz-venus` **(reutilizado: use o arquivo gerado no nora25, não gere de novo)**
-**Visual:** Ela olha para a lente com um meio sorriso caloroso e abre a palma esquerda para a lente, com a mão direita apoiada na mesa (sem objeto na mão).
-**Fala:** "You can find yours. In my story, a free astrology quiz finds your Venus, names your pattern and shows your perfect match."
-(PT: Você pode descobrir o seu. No meu story, um quiz grátis de astrologia descobre o seu Vênus, dá nome ao seu padrão e mostra o seu par perfeito.)
-
-### Take 8/8 — CTA-B: selos e story — 10 s (22 palavras)
-**Nome do arquivo:** `CTA-B-comente-venus` **(reutilizado: use o arquivo gerado no nora25, não gere de novo)**
-**Visual:** Ela aponta o indicador esquerdo para a lente com o olhar firme, com a mão direita apoiada na mesa (sem objeto na mão).
-**Fala:** "Send this to yourself. Comment VENUS so I know you did it. Tap my photo and open my story before it disappears."
-(PT: Mande isto para você mesma. Comente VENUS para eu saber que você fez. Toque na minha foto e abra o meu story antes que ele suma.)
+### Take 7/7 — CTA condensado (6A + 6B) — 10 s (22 palavras)
+**Nome do arquivo:** `nora27-T7-cta-condensado-match`
+**Visual:** Ela segura a carta um pouco mais perto da lente e aponta o indicador esquerdo para a lente.
+**Fala:** "Comment MATCH, tap my photo, open my story. A free astrology quiz finds your Venus, names your pattern, shows your perfect match."
+(PT: Comente MATCH, toque na minha foto, abra o meu story. Um quiz grátis de astrologia descobre o seu Vênus, dá nome ao seu padrão e mostra o seu par perfeito.)
 
 ## Texto de tela (edição)
 - **Início do vídeo:** "Which man do you keep choosing?". Começa em "There are two kinds of men" e termina em "choosing the second".
@@ -96,21 +90,21 @@ It's not bad luck. It's a pattern, and it depends on your Venus.
 
 Part 2 is in my story. A free astrology quiz, no birth time needed. It disappears in 24 hours.
 
-Comment VENUS. Tap my photo. NOW.
+Comment MATCH. Tap my photo. NOW.
 
 ## Comentário fixado
-- **Instagram:** PART 2 is in my story. 👆 Tap my photo NOW, it's gone in 24 hours. Comment VENUS if you're done choosing the second kind. 🔥
-- **Facebook:** PART 2 is in my Story. Tap my profile picture NOW, it's gone in 24 hours. Comment VENUS if you're done choosing the second kind. 🔥
+- **Instagram:** PART 2 is in my story. 👆 Tap my photo NOW, it's gone in 24 hours. Comment MATCH if you're done choosing the second kind. 🔥
+- **Facebook:** PART 2 is in my Story. Tap my profile picture NOW, it's gone in 24 hours. Comment MATCH if you're done choosing the second kind. 🔥
 
 ## Story (parte 2)
 O story do Love Chart é **um só para os quatro vídeos do dia** (nora25 a nora28): imagem sem texto (a Nora segura o pingente de cobre perto da lente), texto "Tap below and find your Venus pattern in astrology." e adesivo "Find my Venus". O pacote completo (prompt da imagem, texto e adesivo) vem na Fase 2, no `STORY-NORA25-28-LOVECHART.md`.
 
 ## Nomes e reaproveitamento (decisão do aluno, 19/10/2026)
-Toda imagem e todo take tem um nome (lista completa no painel, seção “Nomes e reaproveitamento”, e no `BIBLIOTECA-DE-TAKES.md`). Pré-gancho: `nora27-PRE-IMG1`, `nora27-PRE-IMG2`, `nora27-PRE`. Imagem do vídeo: `nora27-IMG`. Takes: `nora27-T1-gancho-dois-tipos`, `nora27-T2-corpo-voce-conhece`, `nora27-T3-corpo-nao-e-quebrada`, `nora27-T4-corpo-depende-venus`, `nora27-T5-corpo-imagine`, `nora27-T6-corpo-nao-passe-direto`, `CTA-A-quiz-venus`, `CTA-B-comente-venus`.
-**O CTA (CTA-A e CTA-B) NÃO é gerado aqui: reutilize os arquivos do nora25.**
+Toda imagem e todo take tem um nome (lista completa no painel, seção “Nomes e reaproveitamento”, e em `BIBLIOTECA-DE-TAKES.md`). Pré-gancho: `nora27-PRE-IMG1`, `nora27-PRE-IMG2`, `nora27-PRE`. Imagem do vídeo: `nora27-IMG`. Takes: `nora27-T1-gancho-dois-tipos`, `nora27-T2-corpo-voce-conhece`, `nora27-T3-corpo-nao-e-quebrada`, `nora27-T4-corpo-depende-venus`, `nora27-T5-corpo-imagine`, `nora27-T6-corpo-nao-passe-direto`, `nora27-T7-cta-condensado-match`.
+Os créditos deixaram de ser limite (o aluno comprou 1000), então este vídeo é gerado completo, com o CTA dele. O que reaproveitar vem depois, peça por peça, conforme o vídeo performar (regras em `BIBLIOTECA-DE-TAKES.md`).
 
 ## Créditos e montagem
-Pré-gancho 6 s = 10 créditos; 6 takes próprios de 10 s = 90 créditos; o CTA é reutilizado (economia de 30 créditos). **Total a gastar neste vídeo: 100 créditos** (sem contar refações). Montagem: pré-gancho + takes 1 a 8 ≈ 86 s. Plano geral dos quatro vídeos em `PLANO-CREDITOS-NORA25-28.md`.
+Pré-gancho 6 s = 10 créditos; 7 takes de 10 s = 105 créditos. **Total do vídeo: 115 créditos** (sem contar refações). Montagem: pré-gancho + takes 1 a 7 ≈ 76 s. Plano geral dos quatro vídeos em `PLANO-CREDITOS-NORA25-28.md`.
 
 ## Notas editoriais e factuais
 - A carta Os Enamorados tem ilustração (duas figuras e um anjo), então pedimos **sem letras nem números** e só vai aparecer a frente na IMAGEM 1 (P9). Se o Flow errar o desenho, o plano B é A Estrela (uma estrela dourada de oito pontas, o desenho mais simples).

@@ -71,15 +71,15 @@ Modelo nos virais: U6 (ela entra por uma porta e sopra pó dourado na lente, ≈
 **Fala:** "This message is sensitive, so don't scroll past it. Not everyone will see this video, and the pattern won't fix itself."
 (PT: Esta mensagem é sensível, então não passe direto. Nem todo mundo vai ver este vídeo, e o padrão não se conserta sozinho.)
 
-### Take 7/8 — CTA-A: o que o story mostra — 10 s (22 palavras)
-**Nome do arquivo:** `CTA-A-quiz-venus`
-**Visual:** Ela olha para a lente com um meio sorriso caloroso e abre a palma esquerda para a lente, com a mão direita apoiada na mesa (sem objeto na mão).
+### Take 7/8 — 6A (o que o story mostra) — 10 s (22 palavras)
+**Nome do arquivo:** `nora25-T7-cta-a-quiz-venus`
+**Visual:** Ela olha para a lente com um meio sorriso e junta a mão esquerda ao pingente por um instante.
 **Fala:** "You can find yours. In my story, a free astrology quiz finds your Venus, names your pattern and shows your perfect match."
 (PT: Você pode descobrir o seu. No meu story, um quiz grátis de astrologia descobre o seu Vênus, dá nome ao seu padrão e mostra o seu par perfeito.)
 
-### Take 8/8 — CTA-B: selos e story — 10 s (22 palavras)
-**Nome do arquivo:** `CTA-B-comente-venus`
-**Visual:** Ela aponta o indicador esquerdo para a lente com o olhar firme, com a mão direita apoiada na mesa (sem objeto na mão).
+### Take 8/8 — 6B (selos e story) — 10 s (22 palavras)
+**Nome do arquivo:** `nora25-T8-cta-b-comente-venus`
+**Visual:** Ela segura o pingente um pouco mais perto da lente e aponta o indicador esquerdo para a lente.
 **Fala:** "Send this to yourself. Comment VENUS so I know you did it. Tap my photo and open my story before it disappears."
 (PT: Mande isto para você mesma. Comente VENUS para eu saber que você fez. Toque na minha foto e abra o meu story antes que ele suma.)
 
@@ -106,11 +106,11 @@ Send this to yourself. Comment VENUS. Tap my photo. NOW.
 O story do Love Chart é **um só para os quatro vídeos do dia** (nora25 a nora28): imagem sem texto (a Nora segura o pingente de cobre perto da lente), texto "Tap below and find your Venus pattern in astrology." e adesivo "Find my Venus". O pacote completo (prompt da imagem, texto e adesivo) vem na Fase 2, no `STORY-NORA25-28-LOVECHART.md`.
 
 ## Nomes e reaproveitamento (decisão do aluno, 19/10/2026)
-Toda imagem e todo take tem um nome (lista completa no painel, seção “Nomes e reaproveitamento”, e no `BIBLIOTECA-DE-TAKES.md`). Pré-gancho: `nora25-PRE-IMG1`, `nora25-PRE-IMG2`, `nora25-PRE`. Imagem do vídeo: `nora25-IMG` e `nora25-IMG-CTA`. Takes: `nora25-T1-gancho-azar`, `nora25-T2-corpo-prova`, `nora25-T3-corpo-venus-x-sol`, `nora25-T4-corpo-reconhecimento`, `nora25-T5-corpo-lua-segredo`, `nora25-T6-corpo-escassez`, `CTA-A-quiz-venus`, `CTA-B-comente-venus`.
-**O CTA (CTA-A e CTA-B) é gerado neste vídeo e serve para todos os vídeos do Love Chart.**
+Toda imagem e todo take tem um nome (lista completa no painel, seção “Nomes e reaproveitamento”, e em `BIBLIOTECA-DE-TAKES.md`). Pré-gancho: `nora25-PRE-IMG1`, `nora25-PRE-IMG2`, `nora25-PRE`. Imagem do vídeo: `nora25-IMG`. Takes: `nora25-T1-gancho-azar`, `nora25-T2-corpo-prova`, `nora25-T3-corpo-venus-x-sol`, `nora25-T4-corpo-reconhecimento`, `nora25-T5-corpo-lua-segredo`, `nora25-T6-corpo-escassez`, `nora25-T7-cta-a-quiz-venus`, `nora25-T8-cta-b-comente-venus`.
+Os créditos deixaram de ser limite (o aluno comprou 1000), então este vídeo é gerado completo, com o CTA dele. O que reaproveitar vem depois, peça por peça, conforme o vídeo performar (regras em `BIBLIOTECA-DE-TAKES.md`).
 
 ## Créditos e montagem
-Pré-gancho 4 s = 7 créditos; 6 takes próprios de 10 s = 90 créditos; CTA (2 takes, compartilhado) = 30 créditos. **Total a gastar neste vídeo: 127 créditos** (sem contar refações). Montagem: pré-gancho + takes 1 a 8 ≈ 84 s. Plano geral dos quatro vídeos em `PLANO-CREDITOS-NORA25-28.md`.
+Pré-gancho 4 s = 7 créditos; 8 takes de 10 s = 120 créditos. **Total do vídeo: 127 créditos** (sem contar refações). Montagem: pré-gancho + takes 1 a 8 ≈ 84 s. Plano geral dos quatro vídeos em `PLANO-CREDITOS-NORA25-28.md`.
 
 ## Notas editoriais e factuais
 - O pó dourado do pré-gancho é só o efeito de abertura; o objeto que fica na mão do hook é o pingente (ele está no pó, no primeiro quadro, para a continuidade).

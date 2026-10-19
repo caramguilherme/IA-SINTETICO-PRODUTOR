@@ -11,7 +11,7 @@ Status: **aprovado pelo aluno em 19/10/2026; atualizado para a Nora v2 no mesmo 
 - **Cold reading:** frase de grupo em tom de leitura ("you fall fast and you fall hard") + o fecho "tell me that's not how it goes" (mesma função do #161/"Tell me I'm wrong"); #3 e #36 como base de Barnum. A afirmação é sobre a espectadora, sem depoimento.
 - **Body:** "nobody told you this" (segredo, V1/S1) + a frase central do funil + o fato de o Vênus poder estar em outro signo (verdade astrológica: Vênus nunca fica a mais de dois signos do Sol).
 - **Pesquisa e copy:** segmentação por signo (a espectadora se sente chamada pelo nome); MUS = "your Venus"; MUP = "a mesma história"; loop (o Vênus só se descobre no quiz do story).
-- **CTA:** compartilhado entre os quatro vídeos (CTA-A e CTA-B, gerados no nora25): enviar para si + código **VENUS** + tocar na foto + story.
+- **CTA:** selo "salvar" + código **CHART** (do briefing) + tocar na foto + story.
 - **Funil Love Chart:** sem desenho do rosto, iniciais ou data de encontro; sem app, preço, assinatura, comissão, afiliado, Aura, "92%" ou "2.1M"; "free quiz" sim, app/leitura grátis não; "perfect match" é o nome do que o quiz mostra. **P15 usado:** garantia pessoal, escassez e ameaça suave de azar (só onde está marcado nas notas).
 
 ## Virais usados como modelo (peça por peça)
@@ -59,17 +59,17 @@ Modelo nos virais: V4 (círculo de sal, canela e louro no chão; ela acende e so
 **Fala:** "And your Venus may not be in your sun sign at all. That's exactly why the same story keeps finding you."
 (PT: E o seu Vênus pode nem estar no seu signo solar. É exatamente por isso que a mesma história continua te encontrando.)
 
-### Take 5/6 — CTA-A: o que o story mostra — 10 s (22 palavras)
-**Nome do arquivo:** `CTA-A-quiz-venus` **(reutilizado: use o arquivo gerado no nora25, não gere de novo)**
-**Visual:** Ela olha para a lente com um meio sorriso caloroso e abre a palma esquerda para a lente, com a mão direita apoiada na mesa (sem objeto na mão).
+### Take 5/6 — 6A (o que o story mostra) — 10 s (22 palavras)
+**Nome do arquivo:** `nora28-T5-cta-a-quiz-venus`
+**Visual:** Ela olha para a lente com um meio sorriso.
 **Fala:** "You can find yours. In my story, a free astrology quiz finds your Venus, names your pattern and shows your perfect match."
 (PT: Você pode descobrir o seu. No meu story, um quiz grátis de astrologia descobre o seu Vênus, dá nome ao seu padrão e mostra o seu par perfeito.)
 
-### Take 6/6 — CTA-B: selos e story — 10 s (22 palavras)
-**Nome do arquivo:** `CTA-B-comente-venus` **(reutilizado: use o arquivo gerado no nora25, não gere de novo)**
-**Visual:** Ela aponta o indicador esquerdo para a lente com o olhar firme, com a mão direita apoiada na mesa (sem objeto na mão).
-**Fala:** "Send this to yourself. Comment VENUS so I know you did it. Tap my photo and open my story before it disappears."
-(PT: Mande isto para você mesma. Comente VENUS para eu saber que você fez. Toque na minha foto e abra o meu story antes que ele suma.)
+### Take 6/6 — 6B (selos e story) — 10 s (22 palavras)
+**Nome do arquivo:** `nora28-T6-cta-b-salve-chart`
+**Visual:** Ela segura o mapa um pouco mais perto da lente e aponta o indicador esquerdo para a lente.
+**Fala:** "Save this right now. Comment CHART so I know you did it. Tap my photo and open my story before it disappears."
+(PT: Salve isto agora. Comente CHART para eu saber que você fez. Toque na minha foto e abra o meu story antes que ele suma.)
 
 ## Texto de tela (edição)
 - **Início do vídeo:** "Aries, Leo, or Sagittarius, pay very close attention". Começa em "Aries, Leo" e termina em "Your Venus is".
@@ -82,21 +82,21 @@ Your sun sign is not why you keep choosing him. Your Venus is.
 
 Part 2 is in my story. A free astrology quiz, no birth time needed. It disappears in 24 hours.
 
-Send this to yourself. Comment VENUS. Tap my photo. NOW.
+Save this. Comment CHART. Tap my photo. NOW.
 
 ## Comentário fixado
-- **Instagram:** Aries, Leo, Sagittarius, this one is yours. 🔥 PART 2 is in my story. 👆 Tap my photo NOW, it's gone in 24 hours. Comment VENUS.
-- **Facebook:** Aries, Leo, Sagittarius, this one is yours. 🔥 PART 2 is in my Story. Tap my profile picture NOW, it's gone in 24 hours. Comment VENUS.
+- **Instagram:** Aries, Leo, Sagittarius, this one is yours. 🔥 PART 2 is in my story. 👆 Tap my photo NOW, it's gone in 24 hours. Comment CHART.
+- **Facebook:** Aries, Leo, Sagittarius, this one is yours. 🔥 PART 2 is in my Story. Tap my profile picture NOW, it's gone in 24 hours. Comment CHART.
 
 ## Story (parte 2)
 O story do Love Chart é **um só para os quatro vídeos do dia** (nora25 a nora28): imagem sem texto (a Nora segura o pingente de cobre perto da lente), texto "Tap below and find your Venus pattern in astrology." e adesivo "Find my Venus". O pacote completo (prompt da imagem, texto e adesivo) vem na Fase 2, no `STORY-NORA25-28-LOVECHART.md`.
 
 ## Nomes e reaproveitamento (decisão do aluno, 19/10/2026)
-Toda imagem e todo take tem um nome (lista completa no painel, seção “Nomes e reaproveitamento”, e no `BIBLIOTECA-DE-TAKES.md`). Pré-gancho: `nora28-PRE-IMG1`, `nora28-PRE-IMG2`, `nora28-PRE`. Imagem do vídeo: `nora28-IMG`. Takes: `nora28-T1-gancho-signos-fogo`, `nora28-T2-corpo-cai-rapido`, `nora28-T3-corpo-ninguem-contou`, `nora28-T4-corpo-venus-fora-do-signo`, `CTA-A-quiz-venus`, `CTA-B-comente-venus`.
-**O CTA (CTA-A e CTA-B) NÃO é gerado aqui: reutilize os arquivos do nora25.**
+Toda imagem e todo take tem um nome (lista completa no painel, seção “Nomes e reaproveitamento”, e em `BIBLIOTECA-DE-TAKES.md`). Pré-gancho: `nora28-PRE-IMG1`, `nora28-PRE-IMG2`, `nora28-PRE`. Imagem do vídeo: `nora28-IMG`. Takes: `nora28-T1-gancho-signos-fogo`, `nora28-T2-corpo-cai-rapido`, `nora28-T3-corpo-ninguem-contou`, `nora28-T4-corpo-venus-fora-do-signo`, `nora28-T5-cta-a-quiz-venus`, `nora28-T6-cta-b-salve-chart`.
+Os créditos deixaram de ser limite (o aluno comprou 1000), então este vídeo é gerado completo, com o CTA dele. O que reaproveitar vem depois, peça por peça, conforme o vídeo performar (regras em `BIBLIOTECA-DE-TAKES.md`).
 
 ## Créditos e montagem
-Pré-gancho 4 s = 7 créditos; 4 takes próprios de 10 s = 60 créditos; o CTA é reutilizado (economia de 30 créditos). **Total a gastar neste vídeo: 67 créditos** (sem contar refações). Montagem: pré-gancho + takes 1 a 6 ≈ 64 s. Plano geral dos quatro vídeos em `PLANO-CREDITOS-NORA25-28.md`.
+Pré-gancho 4 s = 7 créditos; 6 takes de 10 s = 90 créditos. **Total do vídeo: 97 créditos** (sem contar refações). Montagem: pré-gancho + takes 1 a 6 ≈ 64 s. Plano geral dos quatro vídeos em `PLANO-CREDITOS-NORA25-28.md`.
 
 ## Notas editoriais e factuais
 - "Pay very close attention" e a lista de signos são do viral S3; o corpo, as frases do funil e o CTA são do Love Chart.
