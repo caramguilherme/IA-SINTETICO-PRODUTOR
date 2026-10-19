@@ -27,6 +27,7 @@ Este arquivo junta tudo o que já deu errado ou que o aluno pediu. **Antes de en
 | R003 pré-gancho v1 | O sal não pegou fogo, só a vela acendeu (cadeia de efeitos) | Um efeito só; fogo precisa de combustível (folhas de louro secas na linha, como no R09 dos virais); a imagem inicial já mostra o efeito começando |
 | R003 | A voz padrão da Central era de outra pessoa | Perfil de voz LIVRE da Dana, nunca o padrão |
 | R003 | Os takes da Central não coincidiam com as cenas | Ver seção 3 (divisor de takes) |
+| R004 (19/10) | A IMAGEM 1 foi pedida com a âncora de identidade da Dana (47 anos, cabelo escuro com fios prateados) e o blueprint da Nora anexado: o Flow gerou uma pessoa errada | Ao trocar de avatar, trocar toda a identidade nos prompts (âncora, mapa da referência, acessório, voz) e gerar a IMAGEM 1 como geração a partir da folha, não como edição | 
 | R004 pré-gancho v1 | Folha alisada no celular: sem movimento, sem efeito, não parecia com os virais | Espelhar os virais; efeito visível e com movimento |
 | R004 e R005 (18/10) | Eu tratei a velocidade Rápida, usada só no R003, como se fosse a padrão, e montei os takes e as contas de crédito para 8 s; com a Média, falas de 18 a 22 palavras saem em 10 s (15 créditos) | A velocidade padrão é sempre a Média; conferir a velocidade antes de calcular durações e custo |
 | R004 pré-gancho v2 | A imagem 1 saiu com o anel de sal já completo, igual à final; o vídeo ficou parado (7 créditos perdidos) | Quadros diferentes; estados binários; comparar as imagens antes do vídeo |

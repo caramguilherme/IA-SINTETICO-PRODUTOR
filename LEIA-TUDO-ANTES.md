@@ -11,7 +11,7 @@ Decisão do aluno em 18/10/2026: **antes de TODO roteiro novo e antes de TODO pr
 
 ## A lista (todos, toda vez)
 **Regras e projeto**
-- `CLAUDE.md` · `00-LEIA-PRIMEIRO.md` · `PROJETO-Dana.md` · `LICOES-FLOW-E-PROMPTS.md` · `DNA Visual - Dana.md` · `REGISTRO-DE-PERSONAS.md`
+- `CLAUDE.md` · `00-LEIA-PRIMEIRO.md` · `PROJETO-Dana.md` · `LICOES-FLOW-E-PROMPTS.md` · `DNA Visual - Dana.md` (R001 a R003, congelados) · `DNA Visual - Nora.md` (avatar a partir do R004) · `REGISTRO-DE-PERSONAS.md`
 
 **Método de roteiro e falas**
 - `hooks.md` (inteiro, com a seção 7) · `Formatos Narrativos - Problema e Cenario.md` · `Exemplos de Roteiros - 2 Formatos.md` · `ctas.md` (inteiro, com a seção final) · `COMUNICACAO-VISCERAL-E-FALADA.md`

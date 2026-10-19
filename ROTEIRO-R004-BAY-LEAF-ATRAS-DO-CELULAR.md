@@ -1,9 +1,9 @@
 # R004-BAY-LEAF-ATRAS-DO-CELULAR — micro-roteiro de 3 takes (funil Soulmate, 18/10/2026)
 
-Status: funil ativo = **Soulmate**. Formato curto para economizar créditos (ver `PLANO-CREDITOS-R004-R005.md`): pré-gancho + gancho + corpo + CTA compartilhado com o R005. Persona: Dana Hollis (@straighttalktarot). Falas em inglês dos EUA; a tradução é só para o aluno aprovar. Linguagem dos virais liberada pelo P15 (previsão com prazo, "don't tell anyone").
+Status: funil ativo = **Soulmate**. Formato curto para economizar créditos (ver `PLANO-CREDITOS-R004-R005.md`): pré-gancho + gancho + corpo + CTA compartilhado com o R005. Persona: Nora (nome completo e @ a definir; avatar nova a partir do R004, ver `DNA Visual - Nora.md`). Falas em inglês dos EUA; a tradução é só para o aluno aprovar. Linguagem dos virais liberada pelo P15 (previsão com prazo, "don't tell anyone").
 
 ## Leitura obrigatória (registro)
-Pente fino de 18/10/2026: antes desta revisão li inteiros `CLAUDE.md`, `PROJETO-Dana.md`, `PAPEL-AGENTE-FLOW.md`, `CHECKLIST-DE-PRODUCAO.md`, `DNA Visual - Dana.md`, `FOTO-PERFIL-DANA.md`, `REGISTRO-DE-PERSONAS.md`, `PASSO-A-PASSO-R003-HUB.md` e as seções de regras de `hooks.md` (1 e 6), `COMUNICACAO-VISCERAL-E-FALADA.md` (9 e 10), `ctas.md` (Dana) e `GUIA-CREATIVE-HUB.md`; as bibliotecas, os virais (V, R, S e U) e `ROTEIRO-R003` foram lidos e analisados antes de escrever os roteiros R004 e R005. A partir do próximo roteiro, a leitura de TODOS os arquivos de `LEIA-TUDO-ANTES.md` é feita antes de escrever e registrada aqui.
+Pente fino de 18/10/2026: antes desta revisão li inteiros `CLAUDE.md`, `PROJETO-Dana.md` (funil e regras), `PAPEL-AGENTE-FLOW.md`, `CHECKLIST-DE-PRODUCAO.md`, `DNA Visual - Dana.md`, `FOTO-PERFIL-DANA.md`, `REGISTRO-DE-PERSONAS.md`, `PASSO-A-PASSO-R003-HUB.md` e as seções de regras de `hooks.md` (1 e 6), `COMUNICACAO-VISCERAL-E-FALADA.md` (9 e 10), `ctas.md` (Dana) e `GUIA-CREATIVE-HUB.md`; as bibliotecas, os virais (V, R, S e U) e `ROTEIRO-R003` foram lidos e analisados antes de escrever os roteiros R004 e R005. Em 19/10/2026 a avatar mudou para a Nora: criei `DNA Visual - Nora.md` a partir do blueprint que o aluno enviou e refiz a identidade dos prompts. A partir do próximo roteiro, a leitura de TODOS os arquivos de `LEIA-TUDO-ANTES.md` é feita antes de escrever e registrada aqui.
 **Conferência da seção 9 de COMUNICACAO-VISCERAL e do hook visual (hooks.md, seção 1):** cena concreta (o celular com a folha na mão, o homem que digita e some): sim; frase de conversa: sim; situação reconhecível: sim; promessa de resultado e prazo vêm do P15, sem inventar depoimento ou número: sim; objeto em evidência e perto da lente, em primeiro plano, com contraste (folha verde sobre celular preto, suéter ameixa neutro): sim; ação já acontecendo (o ritual no pré-gancho e o gesto de apontar): sim.
 
 ## Base do curso usada (registro)
@@ -22,7 +22,7 @@ Pente fino de 18/10/2026: antes desta revisão li inteiros `CLAUDE.md`, `PROJETO
 - **Corpo e CTA:** corpo dos selos resumido (V1 a V4, U1 a U8) com o story como parte 2.
 
 ## Imagem única (IMAGEM 1)
-A Dana atrás da mesa redonda de madeira, de frente, olhando firme para a lente. Com a mão direita, em primeiro plano ao lado do rosto, segura um **celular preto sem logo, numa capinha transparente lisa, com a parte de trás voltada para a lente e uma folha de louro seca dentro da capinha, visível através dela** (do jeito que uma pessoa guardaria uma folha atrás do celular; nada colado nem sobrenatural); a mão esquerda repousa na mesa. Vela acesa em pote de vidro e maço fechado de tarô na mesa. Figurino: suéter de malha fina cor de ameixa escura, gola redonda, sem estampa; argolões prateados lisos. O celular com a folha é o ponto de maior contraste.
+A Nora atrás da mesa redonda de madeira, de frente, olhando firme para a lente. Com a mão direita, em primeiro plano ao lado do rosto, segura um **celular preto sem logo, numa capinha transparente lisa, com a parte de trás voltada para a lente e uma folha de louro seca dentro da capinha, visível através dela** (do jeito que uma pessoa guardaria uma folha atrás do celular; nada colado nem sobrenatural); a mão esquerda repousa na mesa. Vela acesa em pote de vidro e maço fechado de tarô na mesa. Figurino: suéter de malha fina cor de ameixa escura, gola redonda, sem estampa; argolões prateados lisos. O celular com a folha é o ponto de maior contraste.
 
 ## Pré-gancho — 4 s (clipe separado, sem fala) — versão 3 (18/10/2026)
 Modelo nos virais: V3 e S2 (sal despejado num prato ou em monte), com o celular da hook ao lado (U8). Close macro numa mesa de madeira clara: uma mão de mulher madura, com um fino anel de prata, despeja um fio contínuo de sal grosso de um pote de vidro num **prato branco que começa vazio**, e o **monte de sal cresce**. À esquerda do prato, de bruços, o celular preto na capinha transparente com a folha de louro dentro dela. A vela do fundo já está acesa. **Texto na tela:** "Do this tonight."
@@ -30,17 +30,17 @@ Modelo nos virais: V3 e S2 (sal despejado num prato ou em monte), com o celular 
 (As versões 1 e 2 foram descartadas: sem movimento e anel já completo na imagem inicial.)
 
 ## Take A1 — Gancho — 10 s (21 palavras)
-**Visual:** Dana olha firme para a lente, com um pequeno aceno de cabeça, segurando o celular com a folha na mão direita.
+**Visual:** Nora olha firme para a lente, com um pequeno aceno de cabeça, segurando o celular com a folha na mão direita.
 **Fala:** "Put a bay leaf behind your phone tonight, and don't tell anyone. I know it sounds ridiculous, but you'll thank me."
 (PT: Cole uma folha de louro atrás do seu celular esta noite e não conte a ninguém. Sei que parece ridículo, mas você vai me agradecer.)
 
 ## Take A2 — Corpo — 10 s (21 palavras)
-**Visual:** Dana se inclina um pouco para a lente e aponta o dedo indicador esquerdo para ela.
+**Visual:** Nora se inclina um pouco para a lente e aponta o dedo indicador esquerdo para ela.
 **Fala:** "A man who can't stop thinking about you is hiding something. In the next few days, he reaches out. You'll know."
 (PT: Um homem que não para de pensar em você está escondendo algo. Nos próximos dias ele entra em contato. Você vai saber.)
 
 ## Take C — CTA (o mesmo clipe do R005) — 10 s (22 palavras)
-**Visual:** Dana olha para a lente com um meio sorriso e aponta o dedo indicador esquerdo uma vez para ela.
+**Visual:** Nora olha para a lente com um meio sorriso e aponta o dedo indicador esquerdo uma vez para ela.
 **Fala:** "Send this to yourself. Comment 222. Open my story, pick 3 cards, and see his possible face and when you might meet."
 (PT: Mande isto para você mesma. Comente 222. Abra o meu story, escolha 3 cartas e veja o possível rosto dele e quando vocês podem se conhecer.)
 

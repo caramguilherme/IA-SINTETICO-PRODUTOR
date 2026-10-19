@@ -1,6 +1,6 @@
 # PLANO DE CRÉDITOS — R004 e R005 (corrigido em 18/10/2026: velocidade Média)
 
-Custo por clipe no Flow do aluno: **4 s = 7 · 6 s = 10 · 8 s = 12 · 10 s = 15** créditos. Saldo inicial: **48 + 50 = 98** (duas contas). A velocidade da fala é a **Média** (padrão da Dana). Com a Média, uma fala de 18 a 22 palavras vira um take de **10 s (15 créditos)**; uma fala de até 17 palavras vira um take de **8 s (12 créditos)**. (A Rápida foi exceção só no R003.)
+Custo por clipe no Flow do aluno: **4 s = 7 · 6 s = 10 · 8 s = 12 · 10 s = 15** créditos. Saldo inicial: **48 + 50 = 98** (duas contas). A velocidade da fala é a **Média** (padrão da Nora). Com a Média, uma fala de 18 a 22 palavras vira um take de **10 s (15 créditos)**; uma fala de até 17 palavras vira um take de **8 s (12 créditos)**. (A Rápida foi exceção só no R003.)
 
 ## Plano A: falas como aprovadas (21, 21, 21, 20 e 22 palavras → takes de 10 s)
 | Clipe | Usado em | Duração | Créditos |

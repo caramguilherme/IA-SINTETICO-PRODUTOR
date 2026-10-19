@@ -1,5 +1,7 @@
 # PROJETO — Dana Hollis
 
+> **AVATAR NOVA (19/10/2026): a partir do R004 a avatar é a NORA** (identidade visual em `DNA Visual - Nora.md`, do blueprint enviado pelo aluno). Este arquivo continua valendo para funil, dores, regras e histórico (R001 a R003 são da Dana e estão congelados). Onde o texto diz "Dana" em roteiros novos, leia "a avatar atual" (Nora). Nome completo, @ e tom da Nora: a confirmar pelo aluno.
+
 > **FUNIL ATIVO: SOULMATE** (decisão do aluno em 17/10/2026). O Love Chart (aviso oficial de 17/10, previsto para 19/10/2026) **só entra em vigor quando o aluno avisar que o funil novo começou**. Até lá, todo roteiro novo é do Soulmate: a 6A mostra o desenho do possível rosto, as iniciais e quando podem se conhecer, com "possible" e "might", e o story tem as 3 cartas. Depois da troca valem a seção FUNIL LOVE CHART e o roteiro de reserva (`ROTEIRO-LOVECHART-RESERVA-SEU-PADRAO-TEM-NOME.md`).
 
 ## PERFIL
