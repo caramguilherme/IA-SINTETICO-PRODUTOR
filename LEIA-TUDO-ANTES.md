@@ -23,7 +23,7 @@ Decisão do aluno em 18/10/2026: **antes de TODO roteiro novo e antes de TODO pr
 - `Prompts.txt` · `CHECKLIST-DE-PRODUCAO.md` · `PAPEL-AGENTE-FLOW.md` · `GUIA-CREATIVE-HUB.md` · `PLANO-CREDITOS-R004-R005.md` (e o plano de créditos mais recente) · `PASSO-A-PASSO-*.md` · `EXEMPLO-ROTEIRO-APROVADO-FIGADO.md` · `EXEMPLO-PACOTE-FIGADO.md` · `PAINEL-MODELO.html` (o formato do pacote)
 
 **O que já foi feito (para não repetir)**
-- `BIBLIOTECA-DE-TAKES.md` (nomes das peças e regras de reaproveitamento) · `DNA Visual - Nora v2.md`
+- `METRICAS-NORA.csv` (métricas dos vídeos, atualizar a cada leitura) · `BIBLIOTECA-DE-TAKES.md` (nomes das peças e regras de reaproveitamento) · `DNA Visual - Nora v2.md`
 - `ROTEIRO-R001-*.md` a `ROTEIRO-NORA28-*.md` · `PLANO-CREDITOS-NORA25-28.md` · `PASSO-A-PASSO-NORA25-28.md` · `STORY-NORA25-28-LOVECHART.md` · `STORY-R001.md` a `STORY-R003.md` · `ROTEIRO-LOVECHART-RESERVA-SEU-PADRAO-TEM-NOME.md` · `STORY-LOVECHART-RESERVA.md` · `TAKE-NOVO-R001-V6.txt` · `TAKE-NOVO-R002-V6.txt`
 
 **Só quando o pedido envolver**
