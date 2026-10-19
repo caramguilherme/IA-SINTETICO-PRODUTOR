@@ -106,3 +106,8 @@ O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a ge
 - O aluno percebeu, e eu confirmei assistindo aos virais (R01, R04, R07, R09), que **o vídeo é a continuação do pré-gancho no mesmo cenário e com a mesma roupa**. Antes eu trocava roupa e cenário entre o pré-gancho e o corpo (nora25 estava no corredor de verde e o corpo na cozinha).
 - Regra para nora25 a nora28: IMAGEM 1 = mesma roupa e mesmo cenário do pré-gancho; a pose muda só o necessário (em pé na porta no nora25, ajoelhada nos outros); o objeto do hook continua na mão direita; as pistas dos EUA (decisão do aluno em 19/10/2026): **nora25** = pré-gancho SEM EUA (já aprovado) e IMAGEM 1 COM bandeirinha pendurada na parede; **nora26 em diante** = EUA nos dois, pré-gancho e corpo (bandeirinha na parede + broche esmaltado de bandeira no peito).
 - Depois dos 4 vídeos, comparar com as métricas e decidir se o próximo teste volta a variar roupa e cenário.
+
+## 19/10/2026 — campos da Central de imagens com o blueprint marcado
+- O aluno conferiu na Central: com “já tenho o blueprint” ficam TRAVADOS só **idade, gênero, fenótipo, tom de pele e todo o cabelo**. Todo o resto é LIVRE: tipo de personagem, expressão facial, roupa, **acessórios**, pose/ação, objeto principal, cenário, horário, luz, color grade, câmera, lente, abertura, ISO, obturador, emulação de filme e estilo final.
+- Consequência: o campo **Acessórios** é livre e leva a lua com as 3 estrelinhas na bochecha, os brincos, o colar de Vênus e os olhos verde-avelã; sem colar o meu texto, a Central pode esquecer a marca. O **Tipo de personagem** também deve ser colado.
+- Painéis nora25 a nora28 corrigidos no mesmo dia (campos travados marcados “TRAVADO pelo blueprint: pule”).
