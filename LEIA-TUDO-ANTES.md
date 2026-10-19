@@ -11,7 +11,7 @@ Decisão do aluno em 18/10/2026: **antes de TODO roteiro novo e antes de TODO pr
 
 ## A lista (todos, toda vez)
 **Regras e projeto**
-- `CLAUDE.md` · `00-LEIA-PRIMEIRO.md` · `PROJETO-Dana.md` · `LICOES-FLOW-E-PROMPTS.md` · `DNA Visual - Dana.md` (R001 a R003, congelados) · `DNA Visual - Nora.md` (avatar a partir do R004) · `REGISTRO-DE-PERSONAS.md`
+- `CLAUDE.md` · `00-LEIA-PRIMEIRO.md` · `PROJETO-Dana.md` · `BRIEFING-LOVECHART.md` (funil ativo desde 19/10/2026) · `LICOES-FLOW-E-PROMPTS.md` · `DNA Visual - Dana.md` (R001 a R003, congelados) · `DNA Visual - Nora.md` (avatar a partir do R004) · `REGISTRO-DE-PERSONAS.md`
 
 **Método de roteiro e falas**
 - `hooks.md` (inteiro, com a seção 7) · `Formatos Narrativos - Problema e Cenario.md` · `Exemplos de Roteiros - 2 Formatos.md` · `ctas.md` (inteiro, com a seção final) · `COMUNICACAO-VISCERAL-E-FALADA.md`
@@ -23,7 +23,7 @@ Decisão do aluno em 18/10/2026: **antes de TODO roteiro novo e antes de TODO pr
 - `Prompts.txt` · `CHECKLIST-DE-PRODUCAO.md` · `PAPEL-AGENTE-FLOW.md` · `GUIA-CREATIVE-HUB.md` · `PLANO-CREDITOS-R004-R005.md` (e o plano de créditos mais recente) · `PASSO-A-PASSO-*.md` · `EXEMPLO-ROTEIRO-APROVADO-FIGADO.md` · `EXEMPLO-PACOTE-FIGADO.md` · `PAINEL-MODELO.html` (o formato do pacote)
 
 **O que já foi feito (para não repetir)**
-- `ROTEIRO-R001-*.md` a `ROTEIRO-R005-*.md` · `STORY-R001.md` a `STORY-R003.md` · `ROTEIRO-LOVECHART-RESERVA-SEU-PADRAO-TEM-NOME.md` · `STORY-LOVECHART-RESERVA.md` · `TAKE-NOVO-R001-V6.txt` · `TAKE-NOVO-R002-V6.txt`
+- `ROTEIRO-R001-*.md` a `ROTEIRO-R006-*.md` · `STORY-R001.md` a `STORY-R003.md` · `ROTEIRO-LOVECHART-RESERVA-SEU-PADRAO-TEM-NOME.md` · `STORY-LOVECHART-RESERVA.md` · `TAKE-NOVO-R001-V6.txt` · `TAKE-NOVO-R002-V6.txt`
 
 **Só quando o pedido envolver**
 - `FOTO-PERFIL-DANA.md` (foto de perfil)
