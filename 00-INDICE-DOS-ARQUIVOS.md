@@ -19,16 +19,16 @@ Atualizado em 19/10/2026. Todos os arquivos estão na mesma pasta. Para o agente
 
 ## 4. Produção (imagem, vídeo, Central, agente)
 - `Prompts.txt` (prompt mestre) · `CHECKLIST-DE-PRODUCAO.md` · `PAPEL-AGENTE-FLOW.md` · `GUIA-CREATIVE-HUB.md`
-- `PASSO-A-PASSO-R003-HUB.md` · `PASSO-A-PASSO-R004-R005.md` · `PASSO-A-PASSO-R006-R009.md`
-- `PLANO-CREDITOS-R004-R005.md` · `PLANO-CREDITOS-R006-R009.md`
+- `PASSO-A-PASSO-R003-HUB.md` · `PASSO-A-PASSO-R004-R005.md` · `PASSO-A-PASSO-NORA25-28.md`
+- `PLANO-CREDITOS-R004-R005.md` · `PLANO-CREDITOS-NORA25-28.md` · `BIBLIOTECA-DE-TAKES.md` (nomes das peças e o que reaproveitar)
 
 ## 5. Modelos (o formato a seguir)
 - `PAINEL-MODELO.html` — o painel de copiar (abre no navegador; o pacote de dados fica na linha `const PACOTE`).
 - `EXEMPLO-ROTEIRO-APROVADO-FIGADO.md` · `EXEMPLO-PACOTE-FIGADO.md` — exemplo real aprovado (formato, não conteúdo).
 
 ## 6. Roteiros e stories
-- Roteiros: `ROTEIRO-R001` a `ROTEIRO-R009-*.md` e `ROTEIRO-LOVECHART-RESERVA-SEU-PADRAO-TEM-NOME.md`.
-- Stories: `STORY-R001` a `STORY-R003`, `STORY-R006-R009-LOVECHART.md`, `STORY-LOVECHART-RESERVA.md`; takes novos: `TAKE-NOVO-R001-V6.txt`, `TAKE-NOVO-R002-V6.txt`.
+- Roteiros: `ROTEIRO-R001` a `ROTEIRO-NORA28-*.md` e `ROTEIRO-LOVECHART-RESERVA-SEU-PADRAO-TEM-NOME.md`.
+- Stories: `STORY-R001` a `STORY-R003`, `STORY-NORA25-28-LOVECHART.md`, `STORY-LOVECHART-RESERVA.md`; takes novos: `TAKE-NOVO-R001-V6.txt`, `TAKE-NOVO-R002-V6.txt`.
 
 ## 7. Painéis prontos (abrem no navegador)
-- `PAINEL-R001-DANA.html` a `PAINEL-R005-DANA.html` (já postados) e `PAINEL-R006-NORA.html` a `PAINEL-R009-NORA.html`.
+- `PAINEL-R001-DANA.html` a `PAINEL-R005-DANA.html` (já postados) e `PAINEL-NORA25.html` a `PAINEL-NORA28.html`.

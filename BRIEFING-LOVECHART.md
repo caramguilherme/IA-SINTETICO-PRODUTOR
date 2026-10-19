@@ -1,6 +1,6 @@
 # BRIEFING DO FUNIL LOVE CHART (página enviada pelo aluno em 19/10/2026)
 
-Fonte: https://briefing-lovechart.pages.dev/ ("Briefing – Funil 3 — Love Chart (Auraly)"), lida inteira em 19/10/2026 e salva aqui como texto. É a análise de um afiliado que navegou pelo quiz com dados de teste; **os números de prova social e de conversão não foram conferidos**. O aluno avisou em 19/10/2026 que o funil ativo passa a ser o Love Chart a partir do R006.
+Fonte: https://briefing-lovechart.pages.dev/ ("Briefing – Funil 3 — Love Chart (Auraly)"), lida inteira em 19/10/2026 e salva aqui como texto. É a análise de um afiliado que navegou pelo quiz com dados de teste; **os números de prova social e de conversão não foram conferidos**. O aluno avisou em 19/10/2026 que o funil ativo passa a ser o Love Chart a partir do nora25.
 
 **Onde este briefing conflita com as regras do projeto (as regras do projeto prevalecem):**
 - O briefing sugere "comente a palavra e eu mando o link no direct, com aviso de afiliado". No projeto o link fica **só no story**, sem DM e **sem falar de afiliado** em lugar nenhum (decisão do aluno, 17/10/2026).

@@ -1,0 +1,457 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Painel nora25</title>
+<style>
+:root{--bg:#0b1230;--bg2:#101a40;--card:#0f1a3d;--card2:#0a1230;--line:#22305e;--ink:#eef1ff;--ink2:#aab4dd;--accent:#4f8cff;--yellow:#ffe14d;--green:#27c27a;--red:#ff6b5b;
+--sans:system-ui,-apple-system,"Segoe UI",Inter,sans-serif;--mono:ui-monospace,Consolas,monospace}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:radial-gradient(1200px 600px at 20% -10%,#16245a 0,var(--bg) 60%);color:var(--ink);font:16px/1.55 var(--sans);min-height:100vh}
+button{font:inherit;cursor:pointer;color:inherit}
+.wrap{max-width:1120px;margin:0 auto;padding:22px 16px 90px;display:grid;grid-template-columns:minmax(0,1fr) 190px;gap:22px}
+.col{display:grid;gap:18px;min-width:0;align-content:start}
+nav.toc{position:sticky;top:18px;align-self:start;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;font-size:14px}
+nav.toc b{display:block;margin-bottom:6px}
+nav.toc a{display:block;color:var(--ink2);text-decoration:none;padding:3px 0}
+nav.toc a:hover{color:var(--yellow)}
+.hero{border:1px solid var(--line);border-radius:14px;padding:22px 24px;background:linear-gradient(135deg,#142a73,#0f1a3d)}
+.hero .k{font:700 11.5px var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--yellow)}
+.hero h1{margin:6px 0 6px;font-size:clamp(26px,4vw,38px);line-height:1.1;letter-spacing:-.01em}
+.hero p{margin:0;color:var(--ink2);font-size:14.5px}
+.card{position:relative;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px 22px}
+.card h2{margin:0 0 12px;font-size:21px}
+.card h3{margin:0 0 8px;font-size:15px;letter-spacing:.03em;text-transform:uppercase;color:#7fe3b0;display:flex;gap:8px;flex-wrap:wrap;align-items:center;padding-right:170px}
+.cp{position:absolute;top:14px;right:14px;border:1px solid var(--line);background:var(--bg2);border-radius:8px;padding:6px 12px;font-weight:600;font-size:13px}
+.cp:hover{border-color:var(--accent);background:#17265a}
+.cp.ok{background:var(--green);border-color:var(--green);color:#04210f}
+.cp.big{position:static;background:var(--yellow);color:#101114;border-color:var(--yellow);padding:10px 18px;font-size:15px}
+.box{background:var(--card2);border:1px solid var(--line);border-radius:10px;padding:14px 16px;white-space:pre-wrap;word-break:break-word;font-size:14.5px;line-height:1.6}
+.box.m{font-size:13.5px}
+.item{display:grid;gap:10px;border-top:1px solid var(--line);padding-top:16px;margin-top:16px;position:relative}
+.item:first-child{border-top:0;margin-top:0;padding-top:0}
+.item.done .box{opacity:.6}
+.item.done h3::after{content:"✓ feito";color:var(--green);font-size:12px}
+.fala{border-left:4px solid var(--yellow);padding:2px 0 2px 12px;font-weight:600}
+.tag{font:700 11px var(--mono);letter-spacing:.06em;text-transform:uppercase;border-radius:5px;padding:2px 7px;background:#1d2d68;color:#cfd8ff}
+.tip{background:#2a2410;border:1px solid #6b5a14;border-radius:8px;padding:8px 12px;font-size:14px;color:#ffe9a0}
+label.chk{display:inline-flex;gap:7px;align-items:center;font-weight:600;cursor:pointer;font-size:14px;color:var(--ink2)}
+label.chk input{width:18px;height:18px;accent-color:var(--green)}
+.bar{height:8px;background:#1a2757;border-radius:6px;overflow:hidden;margin-top:12px}
+.bar i{display:block;height:100%;background:var(--green);width:0;transition:width .25s}
+.mono{font:700 11.5px var(--mono);letter-spacing:.09em;text-transform:uppercase;color:var(--ink2)}
+textarea{width:100%;min-height:150px;border:1px solid var(--line);border-radius:10px;padding:10px 12px;font:13px/1.5 var(--mono);resize:vertical;background:var(--card2);color:var(--ink)}
+textarea:focus{outline:2px solid var(--accent)}
+.btn{border:1px solid var(--line);background:var(--bg2);border-radius:8px;padding:8px 14px;font-weight:600;font-size:14px}
+.btn:hover{border-color:var(--accent)}
+.btn.c{background:var(--accent);border-color:var(--accent);color:#04122e}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.msg{font-size:14px;margin-top:8px}
+.msg.err{color:var(--red);font-weight:600}
+.hide{display:none!important}
+.chip{display:inline-block;margin:0 6px 6px 0;background:#1d2d68;color:#cfd8ff;border-radius:6px;padding:3px 9px;font:600 12.5px var(--mono)}
+ol.steps{margin:8px 0 0;padding-left:20px;font-size:14.5px;color:var(--ink2)}
+section{scroll-margin-top:16px}
+.pill{display:inline-block;padding:2px 9px;border-radius:999px;font:700 11.5px var(--mono);letter-spacing:.05em;text-transform:uppercase}
+.pill.g{background:#3a2d08;color:#ffe14d;border:1px solid #8a6d12}
+.pill.r{background:#0d3a24;color:#7fe3b0;border:1px solid #1f7a4d}
+.nome{font:700 14.5px var(--mono);color:#ffe14d;word-break:break-all}
+.peca{border:1px solid var(--line);border-radius:10px;padding:12px 14px;background:var(--card2);display:grid;gap:6px}
+.peca.reuso{border-color:#1f7a4d}
+@media(max-width:860px){.wrap{grid-template-columns:1fr}nav.toc{display:none}.card h3{padding-right:0;margin-top:34px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+ <div class="col">
+  <section class="card" id="entrada">
+    <div class="mono">Cole o pacote que a IA te entregou (JSON)</div>
+    <textarea id="json" placeholder="Cole aqui o bloco (começa com { e termina com })" style="margin-top:10px"></textarea>
+    <div class="row" style="margin-top:10px">
+      <button class="btn c" id="aplicar">Montar painel</button>
+      <button class="btn" id="limpar">Limpar tudo</button>
+    </div>
+    <div class="msg" id="msg"></div>
+  </section>
+
+  <div id="painel" class="hide col">
+    <section class="hero">
+      <div class="k" id="rid"></div>
+      <h1 id="rtitulo"></h1>
+      <p id="rmeta"></p>
+      <div class="tip" id="avisos" style="margin-top:12px"></div>
+      <div class="bar"><i id="prog"></i></div>
+      <p id="progtxt" style="margin-top:6px"></p>
+    </section>
+
+    <section class="card" id="textotela">
+      <button class="cp" id="copiaTela">Copiar textos de tela</button>
+      <h2>Edição: texto na tela</h2>
+      <p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Já com o pré-gancho e os takes aprovados, monte o vídeo no editor e ponha os textos abaixo.</p>
+      <div class="mono" id="telaPreK">Pré-gancho</div>
+      <div class="box" id="telaPre" style="margin:8px 0 12px;font-size:18px;font-weight:700"></div>
+      <div class="mono">Primeiros segundos do hook</div>
+      <div class="box" id="telaHook" style="margin:8px 0 12px;font-size:20px;font-weight:700"></div>
+      <div id="telaHookQ" style="margin:-4px 0 12px;color:var(--ink2);font-size:14.5px"></div>
+      <div class="box" id="telaAlt" style="margin:0 0 12px"></div>
+      <div class="box" id="telaExtras"></div>
+      <div class="tip hide" id="telaEdicao" style="margin-top:12px"></div>
+    </section>
+
+    <section class="card" id="descricao">
+      <button class="cp" id="copiaInsta">Copiar legenda</button>
+      <h2>Legenda Insta/Face</h2>
+      <div class="box" id="insta"></div>
+    </section>
+
+    <section class="card" id="comentario">
+      <h2>Comentário fixado</h2>
+      <div class="item">
+        <button class="cp" id="copiaPinInsta">Copiar Insta</button>
+        <h3>Instagram</h3>
+        <div class="box" id="pinInsta"></div>
+      </div>
+      <div class="item">
+        <button class="cp" id="copiaPinFace">Copiar Face</button>
+        <h3>Facebook</h3>
+        <div class="box" id="pinFace"></div>
+      </div>
+    </section>
+
+    <section class="card hide" id="pecas">
+      <h2>Nomes e reaproveitamento</h2>
+      <div id="pecasBox"></div>
+    </section>
+
+    <section class="card" id="referencia">
+      <h2>Referência visual</h2>
+      <div id="refs"></div>
+      <ol class="steps" id="refSteps">
+        <li>No Google Flow, anexe <b>só</b> estas imagens (deste personagem).</li>
+        <li><b>Com créditos:</b> agente do Flow. Cole “Copiar todos os prompts” (etapa “Todos os prompts”). Ele gera um item por vez e espera seu "APROVADO".</li>
+        <li><b>Sem créditos:</b> gere item por item, copiando abaixo. Tudo 9:16.</li>
+      </ol>
+    </section>
+
+    <section class="card hide" id="prehook">
+      <h2>Pré-gancho (3 a 4 s)</h2>
+      <div id="preBox"></div>
+    </section>
+
+    <section class="card" id="imagens"><h2>Imagens</h2><div id="listaImg"></div></section>
+
+    <section class="card hide" id="central">
+      <h2>Central do curso: o que preencher</h2>
+      <p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Configuração que vale para todas as cenas. Preencha uma vez, na ordem. Não clique em “Resetar valores” nem em “REGERAR BLOCO”.</p>
+      <div id="cfg"></div>
+    </section>
+
+    <section class="card hide" id="cenas">
+      <h2>As cenas, uma por vez na Central</h2>
+      <p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Em cada cena mudam só 2 campos: a fala e a movimentação.</p>
+      <div id="listaCenas"></div>
+    </section>
+
+    <section class="card hide" id="agente">
+      <h2>No agente do Flow</h2>
+      <p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Cole cada take copiado da Central na caixa da cena. O botão monta a mensagem inteira (aviso + takes na ordem) para colar no agente.</p>
+      <div id="agenteBox"></div>
+    </section>
+
+    <section class="card hide" id="story">
+      <h2>Story (parte 2)</h2>
+      <div id="storyBox"></div>
+    </section>
+
+    <section class="card" id="fala">
+      <button class="cp" id="copiaFalas">Copiar falas</button>
+      <h2>Fala completa</h2>
+      <div class="box" id="falas"></div>
+    </section>
+
+    <section class="card" id="videos"><h2>Vídeos</h2><div id="listaVid"></div></section>
+
+    <section class="card" id="todos">
+      <h2>Todos os prompts</h2>
+      <p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Bloco único para o agente do Flow (já começa com <i>iniciar</i> e duas linhas em branco).</p>
+      <button class="cp big" id="copiaTudo">Copiar todos os prompts</button>
+    </section>
+  </div>
+ </div>
+ <nav class="toc"><b>Nesta página</b>
+   <span id="tocLinks"></span>
+ </nav>
+</div>
+
+<script>
+/* DADOS DO PACOTE: a IA troca só a linha abaixo (null) pelo objeto JSON do pacote. O resto do arquivo não muda. */
+const PACOTE = {"roteiro": {"id": "nora25-NAO-E-AZAR-E-O-SEU-VENUS", "titulo": "Não é azar, é o seu Vênus", "dor": "5 (repetir o mesmo padrão), com a 2 (o homem que some)", "formato": "Formato 1 (problema + crença + solução), 8 takes", "molde_hook": "gancho do curso #40 (adaptado) + ângulo 2 + estrutura do viral R14", "duracao_total": 84, "descricao_instagram": "STOP calling it bad luck. 🔥\n\nOne minute he's all in. Then he couldn't care less.\n\nIt's not you. It's a pattern. And it has a name.\n\nPart 2 is in my story. A free astrology quiz, no birth time needed. It disappears in 24 hours.\n\nSend this to yourself. Comment VENUS. Tap my photo. NOW.", "leitura_registro": "19/10/2026: li inteiros todos os arquivos de LEIA-TUDO-ANTES.md e o briefing do Love Chart (BRIEFING-LOVECHART.md) antes de escrever o roteiro; a lista completa está no registro do roteiro. Antes de gerar os prompts conferi o checklist de LICOES-FLOW-E-PROMPTS.md (seção 1), o GUIA-CREATIVE-HUB.md e o CHECKLIST-DE-PRODUCAO.md."}, "perfil": {"nome": "Nora", "teste": "A", "voz": "Voz feminina adulta americana (inglês dos EUA), natural e espontânea, calorosa e firme."}, "refs": ["blueprint da Nora v2 (folha de consistência do personagem, baixada em 1K)"], "trava_referencia": "There is no pet in this project: no animal appears in any scene. MAP OF THE ATTACHED REFERENCE (one character consistency sheet that shows the SAME woman): a large front portrait; front, 3/4 left, 3/4 right, left profile, right profile and back views of the head; four full-body views (front, 3/4, side, back); close-ups of the eyes, expressions, a Venus necklace, the knit fabric and the braided hair; a colour palette and a skin-tone strip. The face in the final image must be the same person as in the large front portrait and the other face views: same face shape, hazel-green eyes, eyebrows, nose, lips, black wavy hair, braid, moon and star gems and earrings. Copy the face from the sheet; do not invent a new face. IDENTITY ANCHOR: Use the supplied character consistency reference sheet as the strict identity reference. Preserve the exact same adult Latina woman shown in it: apparent age 36, golden sun-kissed light-to-medium tan skin with a warm golden undertone, soft oval face with softly rounded cheeks and a soft chin, large hazel-green eyes with a golden ring around the pupil, soft natural eyebrows, a straight nose of medium width, medium natural rosy lips, a warm wide smile that shows her teeth, and a clean forehead with nothing on it. Preserve her exact very long, softly wavy jet-black hair down to her waist with a side part, plus the one thin braid at the front on the right side of the image wrapped with tiny gold rings. Preserve the signature face gems: exactly ONE flat shiny gold crescent-moon gem on the outer edge of the cheekbone near the temple on the left side of the image (her right cheek) with three tiny flat gold star gems trailing diagonally below it. Preserve the long gold star-and-moon drop earrings, the long thin gold chain with a small gold Venus-symbol pendant (a tiny circle with a cross below it), the thin gold bracelets, and her slim-to-average build and average height. Her signature colour is emerald green. Do not redesign, beautify, de-age, age, recolor, lighten or darken her face, hair, eyes or skin. The woman must remain recognizably the exact same living person in every image and every video frame. Avoid CGI, 3D render, illustration, plastic or airbrushed skin, beauty-filter appearance, orange or over-saturated skin, a different skin tone, a different eye colour, brown or yellow eyes, any dot, bindi, gem or jewellery on the forehead, a second moon, extra or missing face gems, straight centre-parted hair, short or shoulder-length hair, heavy dark eyebrows, de-aged or aged face, heavy wrinkles, heavy glam makeup, enlarged lips, exaggerated hourglass body, sexualized pose, theatrical fortune-teller costume, turban, heavy jewelry, luxury-editorial polish and cinematic commercial lighting.", "figurino": "fortune-teller, subtle mystic; rich emerald-green fine ribbed knit top with a round neckline, no print, embroidery or shine; plain dark straight trousers. Clothing is secondary to the contrast of the copper pendant in the hook. Fixed accessories, always visible: the long gold star-and-moon drop earrings, the long thin gold chain with the small gold Venus-symbol pendant, thin gold bracelets on her left wrist, the gold sun ring and the gold face gems from the reference sheet; no other jewelry, turban, cape or costume", "excecao_estilo": "", "imagens": [{"rotulo": "IMAGEM 1", "cena": "Gerada na Central de imagens (campos no painel)."}], "videos": [{"rotulo": "V1", "cena": "Take 1/8 · Gancho", "duracao": 10, "primeiro_quadro": "IMAGEM 1", "acao": "(ver movimentação)", "b_roll": "", "fala": "One minute he's all in. Then he couldn't care less. It's not bad luck. It's not you. It's a pattern.", "movimentacao": "She looks straight into the camera with a tired, knowing expression and gives one small nod, with the copper Venus pendant hanging from its chain in her raised right hand, swaying very slightly, and her left hand resting on the table, while everything else in the scene stays still.", "arquivo": "nora25-T1-gancho-azar"}, {"rotulo": "V2", "cena": "Take 2/8 · Prova pela espectadora", "duracao": 10, "primeiro_quadro": "IMAGEM 1", "acao": "(ver movimentação)", "b_roll": "", "fala": "I already know it's you. First, you didn't scroll past this video. Second, there's a message on your phone you keep rereading.", "movimentacao": "She points her left index finger at the lens, still holding the copper Venus pendant by its chain in her raised right hand, while everything else in the scene stays still.", "arquivo": "nora25-T2-corpo-prova"}, {"rotulo": "V3", "cena": "Take 3/8 · Mecanismo (a frase do funil)", "duracao": 10, "primeiro_quadro": "IMAGEM 1", "acao": "(ver movimentação)", "b_roll": "", "fala": "In astrology, your sun sign shows who you are. Your Venus shows how you love. And that's where your pattern starts.", "movimentacao": "She opens her left palm toward the camera as if explaining, still holding the copper Venus pendant by its chain in her raised right hand, while everything else in the scene stays still.", "arquivo": "nora25-T3-corpo-venus-x-sol"}, {"rotulo": "V4", "cena": "Take 4/8 · Garantia pessoal e reconhecimento", "duracao": 10, "primeiro_quadro": "IMAGEM 1", "acao": "(ver movimentação)", "b_roll": "", "fala": "Think of the men who pulled you in. I'll change my name if it wasn't the same feeling every single time.", "movimentacao": "She tilts her head and glances to the side for a moment as if remembering someone, then looks back at the camera, still holding the pendant in her raised right hand, while everything else in the scene stays still.", "arquivo": "nora25-T4-corpo-reconhecimento"}, {"rotulo": "V5", "cena": "Take 5/8 · Nome do padrão e o segredo da Lua", "duracao": 10, "primeiro_quadro": "IMAGEM 1", "acao": "(ver movimentação)", "b_roll": "", "fala": "And there's a secret most horoscopes skip: the Moon on the night you were born. Together, they give your pattern a name.", "movimentacao": "She touches her left hand to her chest for a moment and returns it to the table, still holding the pendant in her raised right hand, while everything else in the scene stays still.", "arquivo": "nora25-T5-corpo-lua-segredo"}, {"rotulo": "V6", "cena": "Take 6/8 · Fragilidade e escassez", "duracao": 10, "primeiro_quadro": "IMAGEM 1", "acao": "(ver movimentação)", "b_roll": "", "fala": "This message is sensitive, so don't scroll past it. Not everyone will see this video, and the pattern won't fix itself.", "movimentacao": "She raises her left index finger in front of her lips for a moment, then points it at the lens, still holding the pendant in her raised right hand, while everything else in the scene stays still.", "arquivo": "nora25-T6-corpo-escassez"}, {"rotulo": "V7", "cena": "Take 7/8 · CTA-A: o que o story mostra", "duracao": 10, "primeiro_quadro": "IMAGEM CTA", "acao": "(ver movimentação)", "b_roll": "", "fala": "You can find yours. In my story, a free astrology quiz finds your Venus, names your pattern and shows your perfect match.", "movimentacao": "She looks into the camera with a warm, knowing half smile and opens her left palm toward the lens, her right hand resting on the table, while everything else in the scene stays still.", "arquivo": "CTA-A-quiz-venus"}, {"rotulo": "V8", "cena": "Take 8/8 · CTA-B: selos e story", "duracao": 10, "primeiro_quadro": "IMAGEM CTA", "acao": "(ver movimentação)", "b_roll": "", "fala": "Send this to yourself. Comment VENUS so I know you did it. Tap my photo and open my story before it disappears.", "movimentacao": "She points her left index finger at the lens with a firm gaze, her right hand resting on the table, while everything else in the scene stays still.", "arquivo": "CTA-B-comente-venus"}], "texto_tela": {"hook": "Your pattern has a name", "hook_comeca": "One minute he's all in", "hook_termina": "It's a pattern", "hook_alt": "", "extras": []}, "comentario_fixado": {"insta": "PART 2 is in my story. 👆 Tap my photo NOW, it's gone in 24 hours. Comment VENUS if you want to find yours. 🔥", "face": "PART 2 is in my Story. Tap my profile picture NOW, it's gone in 24 hours. Comment VENUS if you want to find yours. 🔥"}, "pre_gancho": {"duracao": 4, "com_rosto": true, "nome_img1": "nora25-PRE-IMG1", "nome_img2": "nora25-PRE-IMG2", "nome_video": "nora25-PRE", "conceito": "Modelo nos virais: U6 (ela entra por uma porta e sopra pó dourado na lente, ≈ 4 s). A Nora está de pé na porta de um corredor escuro, de frente, com as duas mãos em concha diante do peito, cheias de um pó dourado fino (o pingente de cobre repousa no pó). Ela olha para a lente, franze os lábios e **sopra**: uma nuvem densa de pó dourado voa na direção da lente e cobre a parte de baixo do quadro, com o rosto dela suave por trás. Um único efeito (a nuvem de pó). Quadro inicial: pó parado nas mãos, boca pronta para soprar. Quadro final: nuvem de pó no ar, mãos vazias e abertas.", "imagem_prompt": "VISUAL REFERENCE LOCK: use exclusively the ATTACHED references as identity authorities. Preserve the face, body, hair, proportions and appearance of the human and the pet. Do not mix identities. There is no pet in this project: no animal appears in any scene. MAP OF THE ATTACHED REFERENCE (one character consistency sheet that shows the SAME woman): a large front portrait; front, 3/4 left, 3/4 right, left profile, right profile and back views of the head; four full-body views (front, 3/4, side, back); close-ups of the eyes, expressions, a Venus necklace, the knit fabric and the braided hair; a colour palette and a skin-tone strip. The face in the final image must be the same person as in the large front portrait and the other face views: same face shape, hazel-green eyes, eyebrows, nose, lips, black wavy hair, braid, moon and star gems and earrings. Copy the face from the sheet; do not invent a new face. IDENTITY ANCHOR: Use the supplied character consistency reference sheet as the strict identity reference. Preserve the exact same adult Latina woman shown in it: apparent age 36, golden sun-kissed light-to-medium tan skin with a warm golden undertone, soft oval face with softly rounded cheeks and a soft chin, large hazel-green eyes with a golden ring around the pupil, soft natural eyebrows, a straight nose of medium width, medium natural rosy lips, a warm wide smile that shows her teeth, and a clean forehead with nothing on it. Preserve her exact very long, softly wavy jet-black hair down to her waist with a side part, plus the one thin braid at the front on the right side of the image wrapped with tiny gold rings. Preserve the signature face gems: exactly ONE flat shiny gold crescent-moon gem on the outer edge of the cheekbone near the temple on the left side of the image (her right cheek) with three tiny flat gold star gems trailing diagonally below it. Preserve the long gold star-and-moon drop earrings, the long thin gold chain with a small gold Venus-symbol pendant (a tiny circle with a cross below it), the thin gold bracelets, and her slim-to-average build and average height. Her signature colour is emerald green. Do not redesign, beautify, de-age, age, recolor, lighten or darken her face, hair, eyes or skin. The woman must remain recognizably the exact same living person in every image and every video frame. Avoid CGI, 3D render, illustration, plastic or airbrushed skin, beauty-filter appearance, orange or over-saturated skin, a different skin tone, a different eye colour, brown or yellow eyes, any dot, bindi, gem or jewellery on the forehead, a second moon, extra or missing face gems, straight centre-parted hair, short or shoulder-length hair, heavy dark eyebrows, de-aged or aged face, heavy wrinkles, heavy glam makeup, enlarged lips, exaggerated hourglass body, sexualized pose, theatrical fortune-teller costume, turban, heavy jewelry, luxury-editorial polish and cinematic commercial lighting.\n\nFIXED OUTFIT: fortune-teller, subtle mystic; rich emerald-green fine ribbed knit top with a round neckline, no print, embroidery or shine; plain dark straight trousers. Clothing is secondary to the contrast of the copper pendant in the hook. Fixed accessories, always visible: the long gold star-and-moon drop earrings, the long thin gold chain with the small gold Venus-symbol pendant, thin gold bracelets on her left wrist, the gold sun ring and the gold face gems from the reference sheet; no other jewelry, turban, cape or costume\n\nUGC STYLE LOCK: vertical 9:16 image, photorealistic, shot in an American home with the spontaneous look of a smartphone. Natural light, real skin, fabric and hair textures, casual and slightly imperfect framing. The camera stays out of frame. No text, caption, logo, watermark or advertising look.\n\nSCENE (NEW PHOTO, a generation from scratch, not an edit): the woman from the attached character consistency reference sheet, with exactly her face, hazel-green eyes, long black wavy hair with the gold-ringed braid, face gems, earrings, necklace and body stands in the open doorway of a dim hallway in an American home, facing the lens, medium shot from the waist up, lit softly from the front with the warm glow of a lamp in the hallway behind her. Her LEFT hand is open, palm up, held at chest height toward the lens, and holds a heaped small mound of very fine, glittering gold dust, about 8 cm wide; ALL of the dust is still in her palm and there is NO dust in the air yet. In her RIGHT hand, lowered at her side, she holds a round brushed-copper pendant disc about 4.5 cm wide by its thin chain, hanging still, with the Venus symbol (a small circle with a short cross hanging below it) engraved on its face. Her lips are pursed, as if she is about to blow, and her eyes are on the lens with a calm, firm look. The face must match the large front portrait of the reference sheet (same hazel-green eyes, very long black wavy hair with the gold-ringed braid, the gold moon and star face gems on the cheek, the gold earrings and necklace, clean forehead); do not invent a new face. Anatomically correct hands and fingers, five fingers on each hand. Do not rejuvenate or smooth the skin.", "imagem_final_prompt": "EDIT of the attached image (use it as the base image): keep exactly the same woman, the same face, the same clothes, the same doorway and hallway, the same lamp light, the same framing, and the copper pendant still hanging from her right hand. Changes: she has just blown the dust. A dense, glittering cloud of fine gold dust fills the air between her and the lens, covering the lower two thirds of the frame and softening her face slightly behind it; her left palm is open and now almost empty, with only a few gold specks left on it; her lips are slightly parted. Change nothing else.", "video_prompt": "Create a single continuous 4-second video clip that opens exactly on the first supplied frame and ends exactly on the last supplied frame, vertical 9:16. Natural handheld smartphone feel, no zoom, no cuts.\n\nTHE MAIN EVENT: the woman blows the gold dust off her open left palm toward the camera. In the first frame all the fine gold dust is heaped in her palm and she has her lips pursed. During the clip she exhales one steady breath across her palm: the dust lifts off the palm from the first second and flies toward the lens as a dense, glittering cloud that grows until it covers the lower two thirds of the frame by the end, exactly as in the last supplied frame. The cloud must be clearly visible during most of the clip and must not disappear.\n\nHer right hand keeps holding the copper pendant by its chain, hanging still, for the whole clip. Her face stays the same woman as in the supplied frames, calm and firm, eyes on the lens; no other movement.\n\nVISUAL: realistic, natural physics, no morphing, no magic beams, no light rays, no other objects. No text, no logos.\n\nAUDIO: real ambient sound only: a soft breath and the airy whisper of fine dust. No music, no voice, no added sound effects, no sound design.", "texto_tela": "Not your sun sign.", "edicao": "Edição: o pré-gancho (4 s) vem primeiro; corte quando a nuvem de pó cobrir o quadro e entre o Take 1. Texto \"Not your sun sign.\" sobre o pré-gancho, que some no corte. Sem música. Depois: legenda palavra a palavra com \"Venus\" em destaque, seta vermelha pequena no fim apontando para a foto do perfil e (opcional, como o 222 fixo de V3) \"VENUS\" fixo no canto. Se o Flow não soltar o pó da palma (a nuvem não aparece), refaça o vídeo; não gaste mais de 2 tentativas antes de me chamar.", "quadro_inicial": "o pó dourado está todo na palma da mão dela e ela faz biquinho para soprar; não há pó no ar; o pingente de cobre pende da outra mão", "quadro_final": "uma nuvem densa de pó dourado cobre os dois terços de baixo do quadro; a palma dela está quase vazia"}, "central": {"imagem_unica": true, "conferir": "Conferir em cada vídeo: é a Nora v2 (rosto, lua com as estrelinhas, trança e roupa iguais à imagem); a fala sai completa, uma vez só, em inglês, com voz americana calorosa; sem texto, legenda ou música; renomeie o arquivo com o nome que está na lista.", "passos": ["Gere o pré-gancho (seção “Pré-gancho”): (1) a imagem 1, no Nano Banana Pro 9:16, anexando SÓ o blueprint da Nora v2 e colando o prompt (é uma geração nova, com o rosto dela); (2) a imagem 2, anexando SÓ a imagem 1 aprovada (é uma edição dela); (3) compare as duas imagens; (4) só então gere o vídeo no modo Frames, imagem 1 no início e imagem 2 no fim. Nunca cole o prompt de geração junto com outra imagem da Nora.", "Gere a IMAGEM 1 do vídeo na Central de imagens (seção “Imagem 1 na Central de imagens”, com a caixinha “já tenho o blueprint” marcada), campo por campo, e use o prompt que a Central gerar, anexando só o blueprint. Aprove só se for a Nora v2 (olhos verde-avelã, lua dourada com 3 estrelinhas na maçã do rosto, testa limpa, trança com anéis dourados, colar de Vênus) segurando o pingente de cobre com o ♀ na mão direita, com a esquerda livre.", "Gere também a IMAGEM CTA (segunda imagem da mesma seção): é a Nora no mesmo cenário, sem objeto na mão. Ela serve de primeiro quadro do CTA de TODOS os vídeos do Love Chart.", "Na Central do curso, preencha a configuração (seção “Central do curso: o que preencher”) e faça a colagem 1 (gancho + corpo, 6 takes) e depois a colagem 2 (CTA, 2 takes) (a fala de uma vez; o site divide em takes de 10 s). Clique em GERAR PROMPT DE ANIMAÇÃO e confira a lista de takes. Não clique em “Resetar valores” nem em “REGERAR BLOCO”.", "No agente do Flow, anexe a IMAGEM do bloco (IMAGEM 1 para a colagem 1, IMAGEM CTA para a colagem 2, em outra conversa), cole o aviso e, embaixo, o “COPIAR TUDO JUNTO” da Central, sem editar nada. Depois de gerar, renomeie cada arquivo com o nome que o painel mostra."], "config": [{"secao": "1 — Plataforma de animação", "campos": [{"campo": "Plataforma", "valor": "Flow (Google) — vídeo cinematográfico com áudio"}]}, {"secao": "2 — Roteiro", "campos": [{"campo": "Categoria", "valor": "Todas as categorias"}, {"campo": "Busca", "valor": "deixar vazia"}, {"campo": "Lista de roteiros", "valor": "— sem roteiro (só animação) —"}, {"campo": "COLE SUA COPY AQUI", "valor": "colar a fala da colagem (seção “A fala e a movimentação”); cada colagem é uma geração separada"}, {"campo": "Velocidade da fala", "valor": "Média — CTA (155–180 WPM). É a velocidade padrão da Nora (voz calorosa e firme); cada take de 10 s custa 15 créditos."}, {"campo": "Duração de cada take", "valor": "Automática"}, {"campo": "Movimento de câmera", "valor": "Handheld sutil, sem zoom"}, {"campo": "Caixa “Dividir em takes (Flow)”", "valor": "MARCADA (deixar marcada)"}]}, {"secao": "3 — Movimentação do personagem", "campos": [{"campo": "Interruptor da seção", "valor": "LIGADO"}, {"campo": "Movimentação", "valor": "colar as linhas da colagem, uma por take (seção “A fala e a movimentação”)"}]}, {"secao": "4 — Áudio & atmosfera", "campos": [{"campo": "Interruptor da seção", "valor": "LIGADO"}, {"campo": "Padrão de áudio", "valor": "não mexer (texto fixo)"}, {"campo": "Atmosfera / mood", "valor": "Íntimo e confidencial"}]}, {"secao": "5 — Fala / script", "campos": [{"campo": "Interruptor da seção", "valor": "LIGADO"}, {"campo": "O que a pessoa fala no vídeo", "valor": "preenche sozinho com a fala colada; se ficar vazio, cole a fala inteira"}, {"campo": "LIVRE — descreva como você quer o vídeo", "valor": "colar o texto abaixo", "copiar": "Casual smartphone video in a home setting with natural window light. Nothing new appears in the frame: every object stays exactly where it is in the reference image. No on-screen text."}, {"campo": "Tom de voz", "valor": "Calorosa e tranquilizadora"}, {"campo": "Idioma", "valor": "Inglês"}, {"campo": "Perfil de voz do personagem", "valor": "escolher “✎ LIVRE — montar minha própria voz...” e colar o perfil abaixo no bloco de texto. NÃO clicar em “REGERAR BLOCO A PARTIR DOS CAMPOS”", "copiar": "[Voice and Audio Instructions]\n\nVoice Profile: Woman, mid-30s, American, warm, magnetic and confident voice — sounds like a straight-talking friend who knows astrology and says things plainly, with a bright, high-vibe warmth. Natural General American accent, unhurried diction.\n\nVocal Characteristics: Mid register, natural and slightly textured (not smooth or polished), light warmth in the chest, never nasal or thin.\n\nTone: Warm, confident and firm, with an upbeat, high-vibe energy. Not theatrical, not \"spooky\", no performance — she says things the way a close friend would across a kitchen table. Honest and direct, with occasional soft warmth. Never sugarcoats, never scolds.\n\nDelivery style: Short, clear phrases with a natural pause before the key word. Sounds like she's speaking directly to one person, not performing for a crowd.\n\nNaturalness: The voice must sound as natural and human as possible — real breathing, natural micro-pauses, subtle imperfections, organic intonation shifts. It must NEVER sound robotic, synthetic, flat, or AI-generated. No text-to-speech cadence of any kind.\n\nTechnical Settings: STRICTLY a solo monologue. The speaker is completely ALONE. Absolutely NO background voices, ZERO interviewer noises, and STRICTLY NO agreement sounds (like 'mhm', 'yeah', 'aha', 'uh-huh'). NO background music, NO sound effects, NO automatic subtitles. Output must be a 100% clean, raw voice track. STRICTLY DO NOT imitate or impersonate any famous public figure or celebrity — the voice must be entirely original."}]}, {"secao": "6 — Duração & estilo", "campos": [{"campo": "Interruptor da seção", "valor": "LIGADO"}, {"campo": "Duração (segundos)", "valor": "não mexer (muda sozinha)"}, {"campo": "Estilo visual", "valor": "UGC moderno handheld"}, {"campo": "Continuidade", "valor": "Plano único, sem cortes"}]}, {"secao": "7 — Gerar", "campos": [{"campo": "Botão", "valor": "⚡ GERAR PROMPT DE ANIMAÇÃO"}, {"campo": "Conferir", "valor": "os takes da conferência de cada colagem (10 s cada, seção “A fala e a movimentação”)"}, {"campo": "Copiar", "valor": "o botão “COPIAR TUDO JUNTO” do bloco “TODOS OS PROMPTS”"}, {"campo": "Não clicar", "valor": "“Resetar valores” e “REGERAR BLOCO A PARTIR DOS CAMPOS”"}]}], "agente": {"imagem": "IMAGEM 1 (colagem 1) e IMAGEM CTA (colagem 2)", "aviso": "Irei enviar 6 prompts para você. A cada prompt, quero que seja feita uma animação da imagem anexada. Utilize a imagem anexada como frame inicial e frame final, em todos os vídeos que você gerar.", "passos": ["Abra uma conversa nova no agente do Flow.", "Anexe a imagem do bloco (a única imagem; o blueprint não vai no agente).", "Se quiser, cole antes o seu aviso (acima). O bloco da Central já traz as orientações ao agente.", "Embaixo do aviso, cole o bloco copiado com “COPIAR TUDO JUNTO” da Central, sem editar nada.", "Envie. O agente gera os vídeos; confira cada um no painel e me diga qual falhou (clipe e problema)."]}, "colagens": [{"titulo": "nora25 gancho + corpo (6 takes)", "fala": "One minute he's all in. Then he couldn't care less. It's not bad luck. It's not you. It's a pattern. I already know it's you. First, you didn't scroll past this video. Second, there's a message on your phone you keep rereading. In astrology, your sun sign shows who you are. Your Venus shows how you love. And that's where your pattern starts. Think of the men who pulled you in. I'll change my name if it wasn't the same feeling every single time. And there's a secret most horoscopes skip: the Moon on the night you were born. Together, they give your pattern a name. This message is sensitive, so don't scroll past it. Not everyone will see this video, and the pattern won't fix itself.", "movimentacao": ["She looks straight into the camera with a tired, knowing expression and gives one small nod, with the copper Venus pendant hanging from its chain in her raised right hand, swaying very slightly, and her left hand resting on the table, while everything else in the scene stays still.", "She points her left index finger at the lens, still holding the copper Venus pendant by its chain in her raised right hand, while everything else in the scene stays still.", "She opens her left palm toward the camera as if explaining, still holding the copper Venus pendant by its chain in her raised right hand, while everything else in the scene stays still.", "She tilts her head and glances to the side for a moment as if remembering someone, then looks back at the camera, still holding the pendant in her raised right hand, while everything else in the scene stays still.", "She touches her left hand to her chest for a moment and returns it to the table, still holding the pendant in her raised right hand, while everything else in the scene stays still.", "She raises her left index finger in front of her lips for a moment, then points it at the lens, still holding the pendant in her raised right hand, while everything else in the scene stays still."], "takes": [0, 1, 2, 3, 4, 5]}, {"titulo": "CTA-A e CTA-B (2 takes, usados nos 4 vídeos)", "fala": "You can find yours. In my story, a free astrology quiz finds your Venus, names your pattern and shows your perfect match. Send this to yourself. Comment VENUS so I know you did it. Tap my photo and open my story before it disappears.", "movimentacao": ["She looks into the camera with a warm, knowing half smile and opens her left palm toward the lens, her right hand resting on the table, while everything else in the scene stays still.", "She points her left index finger at the lens with a firm gaze, her right hand resting on the table, while everything else in the scene stays still."], "takes": [6, 7]}]}, "story": {"prompt_imagem": "VISUAL REFERENCE LOCK: use exclusively the ATTACHED references as identity authorities. Preserve the face, body, hair, proportions and appearance of the human and the pet. Do not mix identities. There is no pet in this project: no animal appears in any scene. MAP OF THE ATTACHED REFERENCE (one character consistency sheet that shows the SAME woman): a large front portrait; front, 3/4 left, 3/4 right, left profile, right profile and back views of the head; four full-body views (front, 3/4, side, back); close-ups of the eyes, expressions, a Venus necklace, the knit fabric and the braided hair; a colour palette and a skin-tone strip. The face in the final image must be the same person as in the large front portrait and the other face views: same face shape, hazel-green eyes, eyebrows, nose, lips, black wavy hair, braid, moon and star gems and earrings. Copy the face from the sheet; do not invent a new face. IDENTITY ANCHOR: Use the supplied character consistency reference sheet as the strict identity reference. Preserve the exact same adult Latina woman shown in it: apparent age 36, golden sun-kissed light-to-medium tan skin with a warm golden undertone, soft oval face with softly rounded cheeks and a soft chin, large hazel-green eyes with a golden ring around the pupil, soft natural eyebrows, a straight nose of medium width, medium natural rosy lips, a warm wide smile that shows her teeth, and a clean forehead with nothing on it. Preserve her exact very long, softly wavy jet-black hair down to her waist with a side part, plus the one thin braid at the front on the right side of the image wrapped with tiny gold rings. Preserve the signature face gems: exactly ONE flat shiny gold crescent-moon gem on the outer edge of the cheekbone near the temple on the left side of the image (her right cheek) with three tiny flat gold star gems trailing diagonally below it. Preserve the long gold star-and-moon drop earrings, the long thin gold chain with a small gold Venus-symbol pendant (a tiny circle with a cross below it), the thin gold bracelets, and her slim-to-average build and average height. Her signature colour is emerald green. Do not redesign, beautify, de-age, age, recolor, lighten or darken her face, hair, eyes or skin. The woman must remain recognizably the exact same living person in every image and every video frame. Avoid CGI, 3D render, illustration, plastic or airbrushed skin, beauty-filter appearance, orange or over-saturated skin, a different skin tone, a different eye colour, brown or yellow eyes, any dot, bindi, gem or jewellery on the forehead, a second moon, extra or missing face gems, straight centre-parted hair, short or shoulder-length hair, heavy dark eyebrows, de-aged or aged face, heavy wrinkles, heavy glam makeup, enlarged lips, exaggerated hourglass body, sexualized pose, theatrical fortune-teller costume, turban, heavy jewelry, luxury-editorial polish and cinematic commercial lighting.\n\nFIXED OUTFIT: fortune-teller, subtle mystic; rich emerald-green fine ribbed knit top with a round neckline, no print, embroidery or shine; plain dark straight trousers. Clothing is secondary to the contrast of the copper pendant in the hook. Fixed accessories, always visible: the long gold star-and-moon drop earrings, the long thin gold chain with the small gold Venus-symbol pendant, thin gold bracelets on her left wrist, the gold sun ring and the gold face gems from the reference sheet; no other jewelry, turban, cape or costume\n\nUGC STYLE LOCK: vertical 9:16 image, photorealistic, shot in an American home with the spontaneous look of a smartphone. Natural light, real skin, fabric and hair textures, casual and slightly imperfect framing. The camera stays out of frame. No text, caption, logo, watermark or advertising look.\n\nSCENE: EDIT of the approved IMAGEM 1 of nora25 (use that IMAGEM 1 as the base image): keep exactly the same woman, face, hazel-green eyes, long black wavy hair with the gold-ringed braid, face gems, earrings, necklace, bracelets, emerald top, kitchen table, window and light. Changes: medium frontal shot at the same table; she leans slightly toward the lens, with a direct, firm gaze and a slight knowing smile. With her right hand she holds up the round copper Venus pendant by its chain very close to the lens, the engraved Venus symbol facing the lens, big in the frame (about a third of the frame width), the point of highest contrast; her other hand rests on the table beside the white coffee mug. Remove any other object from the table. Leave the bottom third of the frame free, only the wooden table, and the top strip also free, because the text and the link sticker are added later in the Instagram editor. Anatomically correct hands and fingers, five fingers on each hand, no duplicated pendant. The engraved symbol is the only mark in the image. Do not rejuvenate or smooth the skin.", "textos": [{"posicao": "Uma frase só, no centro, uma cor (creme #F1E6D3), 1 a 2 linhas", "texto": "Tap below and find your Venus pattern in astrology."}], "adesivos": ["Find my Venus", "Name my pattern", "Open Part 2"]}, "imagem_central": [{"aviso": "A IMAGEM 1 é gerada na Central de imagens do curso, não com um prompt nosso. Marque a caixinha “já tenho o blueprint”: ela trava alguns campos (provavelmente o rosto e o cabelo) e deixa outros livres. Preencha só os campos livres, com os valores abaixo, e pule os travados. Esta tela troca a roupa, o cenário e a luz de cada roteiro para os vídeos não ficarem repetitivos. Os sinais dos EUA (bandeirinha, caneca, casa e rua americanas) já estão nos valores.", "grupos": [{"titulo": "1. Personagem", "nota": "fixo: provavelmente travado pelo blueprint (se estiver travado, pule)", "campos": [{"campo": "Idade", "valor": "36", "trava": 1}, {"campo": "Gênero", "valor": "Feminino (woman)", "trava": 1}, {"campo": "Tipo de personagem (escolher LIVRE e colar)", "valor": "Love astrologer and tarot reader, a radiant high-vibe mystic with a warm, magnetic presence", "copiar": 1, "trava": 1}, {"campo": "Fenótipo", "valor": "Latino(a)", "trava": 1}, {"campo": "Tom de pele", "valor": "Sun-kissed", "trava": 1}, {"campo": "Expressão facial", "valor": "Olhar intenso direto"}]}, {"titulo": "2. Cabelo", "nota": "fixo: provavelmente travado pelo blueprint (se estiver travado, pule)", "campos": [{"campo": "Estilo de cabelo (escolher LIVRE e colar)", "valor": "Very long, loose, softly wavy hair down to her waist with a side part, plus one thin braid at the front on her left side wrapped with tiny gold rings", "copiar": 1, "trava": 1}, {"campo": "Cor do cabelo", "valor": "Preto azeviche", "trava": 1}]}, {"titulo": "3. Roupa e acessórios", "nota": "a roupa muda a cada roteiro; os acessórios são fixos e podem estar travados", "campos": [{"campo": "Estilo de roupa (escolher LIVRE e colar)", "valor": "Rich emerald-green fine ribbed knit top with a round neckline, no prints, no logos", "copiar": 1}, {"campo": "Acessórios (escolher LIVRE e colar)", "valor": "Long gold star-and-moon drop earrings, a long thin gold chain with a small gold Venus-symbol pendant (a tiny circle with a cross below it), three thin gold bracelets on her left wrist, a small gold sun-symbol ring on each hand, exactly ONE small flat shiny gold crescent-moon face gem on the outer edge of the cheekbone on the left side of the image near the temple with three tiny flat gold star gems trailing diagonally below it, a clean forehead with nothing on it, hazel-green eyes", "copiar": 1, "trava": 1}]}, {"titulo": "4. Pose e objeto", "nota": "muda a cada roteiro", "campos": [{"campo": "Pose / Ação (escolher LIVRE e colar)", "valor": "Seated at a table facing the camera head-on, framed from the chest up, her right hand raised in the foreground beside her face, her left hand free and resting on the table", "copiar": 1}, {"campo": "Objeto principal (PROP) (escolher LIVRE e colar)", "valor": "A round brushed-copper pendant disc about 4.5 cm wide with the Venus symbol deeply engraved on its face (a small circle with a short cross below it), held up by its thin chain between her right thumb and index finger, the engraved face turned toward the lens, very sharp", "copiar": 1}]}, {"titulo": "5. Cenário e luz", "nota": "muda a cada roteiro, com sinais dos EUA", "campos": [{"campo": "Cenário (escolher LIVRE e colar)", "valor": "Simple real American kitchen dining nook, a round light-wood table by a window with sheer white curtains, a quiet suburban street with a white picket fence and a mailbox softly out of focus outside, a small American flag magnet on the fridge behind her, one white coffee mug on the table, nothing else on the table, no readable text", "copiar": 1}, {"campo": "Horário / Atmosfera", "valor": "Manhã dourada na janela"}, {"campo": "Direção / Qualidade da luz", "valor": "Difusa suave envolvendo o rosto"}, {"campo": "Color grade / Mood", "valor": "Tons mel quentes"}]}, {"titulo": "6. Câmera", "nota": "quase fixo", "campos": [{"campo": "Câmera", "valor": "Câmera de celular (look amador)"}, {"campo": "Lente", "valor": "28mm f/1.7 — grande-angular"}, {"campo": "Abertura (f/)", "valor": "f/4 — médio"}, {"campo": "ISO", "valor": "ISO 400"}, {"campo": "Velocidade do obturador", "valor": "1/125s"}, {"campo": "Emulação de filme", "valor": "Kodak Portra 400 — clássico retrato"}, {"campo": "Estilo final", "valor": "Documentário candid / UGC"}]}], "passos": ["Na Central de imagens, marque “já tenho o blueprint” e anexe só a folha da Nora (a versão baixada em 1K).", "Preencha os campos livres na ordem das seis seções abaixo. Onde aparece “escolher LIVRE e colar”, escolha a opção LIVRE e cole o texto.", "Gere o prompt, copie e use onde você gera a imagem, anexando só o blueprint, em 9:16.", "Aprove só se for a Nora (olhos verde-avelã, a lua dourada com as 3 estrelinhas na maçã do rosto, testa limpa, trança com anéis dourados, colar de Vênus) segurando o objeto na mão direita, com a mão esquerda livre."], "titulo": "IMAGEM 1 (Central de imagens)", "nome": "nora25-IMG"}, {"aviso": "Esta é a imagem do CTA, compartilhada por TODOS os vídeos do Love Chart: a Nora no mesmo cenário do nora25 (blusa esmeralda, cozinha de manhã), mas com as mãos vazias. A IMAGEM 1 é gerada na Central de imagens do curso, não com um prompt nosso. Marque a caixinha “já tenho o blueprint”: ela trava alguns campos (provavelmente o rosto e o cabelo) e deixa outros livres. Preencha só os campos livres, com os valores abaixo, e pule os travados. Esta tela troca a roupa, o cenário e a luz de cada roteiro para os vídeos não ficarem repetitivos. Os sinais dos EUA (bandeirinha, caneca, casa e rua americanas) já estão nos valores.", "grupos": [{"titulo": "1. Personagem", "nota": "fixo: provavelmente travado pelo blueprint (se estiver travado, pule)", "campos": [{"campo": "Idade", "valor": "36", "trava": 1}, {"campo": "Gênero", "valor": "Feminino (woman)", "trava": 1}, {"campo": "Tipo de personagem (escolher LIVRE e colar)", "valor": "Love astrologer and tarot reader, a radiant high-vibe mystic with a warm, magnetic presence", "copiar": 1, "trava": 1}, {"campo": "Fenótipo", "valor": "Latino(a)", "trava": 1}, {"campo": "Tom de pele", "valor": "Sun-kissed", "trava": 1}, {"campo": "Expressão facial", "valor": "Olhar intenso direto"}]}, {"titulo": "2. Cabelo", "nota": "fixo: provavelmente travado pelo blueprint (se estiver travado, pule)", "campos": [{"campo": "Estilo de cabelo (escolher LIVRE e colar)", "valor": "Very long, loose, softly wavy hair down to her waist with a side part, plus one thin braid at the front on her left side wrapped with tiny gold rings", "copiar": 1, "trava": 1}, {"campo": "Cor do cabelo", "valor": "Preto azeviche", "trava": 1}]}, {"titulo": "3. Roupa e acessórios", "nota": "a roupa muda a cada roteiro; os acessórios são fixos e podem estar travados", "campos": [{"campo": "Estilo de roupa (escolher LIVRE e colar)", "valor": "Rich emerald-green fine ribbed knit top with a round neckline, no prints, no logos", "copiar": 1}, {"campo": "Acessórios (escolher LIVRE e colar)", "valor": "Long gold star-and-moon drop earrings, a long thin gold chain with a small gold Venus-symbol pendant (a tiny circle with a cross below it), three thin gold bracelets on her left wrist, a small gold sun-symbol ring on each hand, exactly ONE small flat shiny gold crescent-moon face gem on the outer edge of the cheekbone on the left side of the image near the temple with three tiny flat gold star gems trailing diagonally below it, a clean forehead with nothing on it, hazel-green eyes", "copiar": 1, "trava": 1}]}, {"titulo": "4. Pose e objeto", "nota": "muda a cada roteiro", "campos": [{"campo": "Pose / Ação (escolher LIVRE e colar)", "valor": "Seated at a table facing the camera head-on, framed from the chest up, her right hand resting on the table and her left hand free, nothing in either hand", "copiar": 1}, {"campo": "Objeto principal (PROP) (escolher LIVRE e colar)", "valor": "No object: her hands are empty. Nothing on the table except one white coffee mug", "copiar": 1}]}, {"titulo": "5. Cenário e luz", "nota": "muda a cada roteiro, com sinais dos EUA", "campos": [{"campo": "Cenário (escolher LIVRE e colar)", "valor": "Simple real American kitchen dining nook, a round light-wood table by a window with sheer white curtains, a quiet suburban street with a white picket fence and a mailbox softly out of focus outside, a small American flag magnet on the fridge behind her, one white coffee mug on the table, nothing else on the table, no readable text", "copiar": 1}, {"campo": "Horário / Atmosfera", "valor": "Manhã dourada na janela"}, {"campo": "Direção / Qualidade da luz", "valor": "Difusa suave envolvendo o rosto"}, {"campo": "Color grade / Mood", "valor": "Tons mel quentes"}]}, {"titulo": "6. Câmera", "nota": "quase fixo", "campos": [{"campo": "Câmera", "valor": "Câmera de celular (look amador)"}, {"campo": "Lente", "valor": "28mm f/1.7 — grande-angular"}, {"campo": "Abertura (f/)", "valor": "f/4 — médio"}, {"campo": "ISO", "valor": "ISO 400"}, {"campo": "Velocidade do obturador", "valor": "1/125s"}, {"campo": "Emulação de filme", "valor": "Kodak Portra 400 — clássico retrato"}, {"campo": "Estilo final", "valor": "Documentário candid / UGC"}]}], "passos": ["Na Central de imagens, marque “já tenho o blueprint” e anexe só a folha da Nora (a versão baixada em 1K).", "Preencha os campos livres na ordem das seis seções abaixo. Onde aparece “escolher LIVRE e colar”, escolha a opção LIVRE e cole o texto.", "Gere o prompt, copie e use onde você gera a imagem, anexando só o blueprint, em 9:16.", "Aprove só se for a Nora (olhos verde-avelã, a lua dourada com as 3 estrelinhas na maçã do rosto, testa limpa, trança com anéis dourados, colar de Vênus) segurando o objeto na mão direita, com a mão esquerda livre."], "titulo": "IMAGEM CTA (a mesma para o CTA de todos os vídeos)", "nome": "nora25-IMG-CTA"}], "pecas": {"lista": [{"nome": "nora25-PRE-IMG1", "tipo": "imagem do pré-gancho", "status": "gerar", "descricao": "Primeiro quadro do pré-gancho, com o rosto da Nora (gerada a partir do blueprint).", "base": "Pré-gancho com o rosto da avatar, já em ação: o que segurou 41 a 67% nos 3 s nos seus vídeos foi o pré-gancho curto, começando na ação.", "serve": "Pode virar pré-gancho de outro vídeo só se o objeto final combinar."}, {"nome": "nora25-PRE-IMG2", "tipo": "imagem do pré-gancho", "status": "gerar", "descricao": "Último quadro: a edição da imagem 1 com o efeito terminado."}, {"nome": "nora25-PRE", "tipo": "pré-gancho (vídeo)", "status": "gerar", "creditos": 7, "descricao": "Vídeo de 4 s, silencioso, no modo Frames: A Nora está de pé na porta de um corredor escuro, de frente, com as duas mãos em concha diante do peito, cheias de um pó dourado fino (o pin…"}, {"nome": "nora25-IMG", "tipo": "imagem 1 do vídeo", "status": "gerar", "descricao": "Primeiro e último quadro do gancho e do corpo, gerada na Central de imagens.", "serve": "As variações baratas nora29 a nora32 usam esta mesma imagem."}, {"nome": "nora25-IMG-CTA", "tipo": "imagem do CTA", "status": "gerar", "descricao": "A Nora no mesmo cenário, mãos vazias. Primeiro quadro do CTA de TODOS os vídeos do Love Chart.", "serve": "nora26, nora27, nora28 e todos os próximos."}, {"nome": "nora25-T1-gancho-azar", "tipo": "gancho", "status": "gerar", "creditos": 15, "descricao": "Take 1, Gancho: “One minute he's all in. Then he couldn't care less. It's not bad luck. It's not you. It's a pattern.”", "base": "Gancho direto, com promessa e a virada \"não é azar, é o padrão\" (briefing do Love Chart); molde dos campeões B3 e C4.", "serve": "Só neste vídeo (cada gancho é novo)."}, {"nome": "nora25-T2-corpo-prova", "tipo": "corpo", "status": "gerar", "creditos": 15, "descricao": "Take 2, Prova pela espectadora: “I already know it's you. First, you didn't scroll past this video. Second, there's a message on your phone you…”", "base": "Corpo de cold reading + mecanismo (Sol x Vênus) + escassez, no molde dos corpos que seguraram até o fim nos seus campeões.", "serve": "As variações baratas (nora29 a nora32), só trocando o gancho."}, {"nome": "nora25-T3-corpo-venus-x-sol", "tipo": "corpo", "status": "gerar", "creditos": 15, "descricao": "Take 3, Mecanismo (a frase do funil): “In astrology, your sun sign shows who you are. Your Venus shows how you love. And that's where your pattern st…”", "base": "Corpo de cold reading + mecanismo (Sol x Vênus) + escassez, no molde dos corpos que seguraram até o fim nos seus campeões.", "serve": "As variações baratas (nora29 a nora32), só trocando o gancho."}, {"nome": "nora25-T4-corpo-reconhecimento", "tipo": "corpo", "status": "gerar", "creditos": 15, "descricao": "Take 4, Garantia pessoal e reconhecimento: “Think of the men who pulled you in. I'll change my name if it wasn't the same feeling every single time.”", "base": "Corpo de cold reading + mecanismo (Sol x Vênus) + escassez, no molde dos corpos que seguraram até o fim nos seus campeões.", "serve": "As variações baratas (nora29 a nora32), só trocando o gancho."}, {"nome": "nora25-T5-corpo-lua-segredo", "tipo": "corpo", "status": "gerar", "creditos": 15, "descricao": "Take 5, Nome do padrão e o segredo da Lua: “And there's a secret most horoscopes skip: the Moon on the night you were born. Together, they give your patte…”", "base": "Corpo de cold reading + mecanismo (Sol x Vênus) + escassez, no molde dos corpos que seguraram até o fim nos seus campeões.", "serve": "As variações baratas (nora29 a nora32), só trocando o gancho."}, {"nome": "nora25-T6-corpo-escassez", "tipo": "corpo", "status": "gerar", "creditos": 15, "descricao": "Take 6, Fragilidade e escassez: “This message is sensitive, so don't scroll past it. Not everyone will see this video, and the pattern won't fi…”", "base": "Corpo de cold reading + mecanismo (Sol x Vênus) + escassez, no molde dos corpos que seguraram até o fim nos seus campeões.", "serve": "As variações baratas (nora29 a nora32), só trocando o gancho."}, {"nome": "CTA-A-quiz-venus", "tipo": "CTA", "status": "gerar", "creditos": 15, "de": "CTA-A-quiz-venus (gerado no nora25, colagem do CTA)", "fala": "You can find yours. In my story, a free astrology quiz finds your Venus, names your pattern and shows your perfect match.", "descricao": "“You can find yours. In my story, a free astrology quiz finds your Venus, names your pattern and shows your perfect match.”", "base": "Fecho validado: mandar para si, comentar a palavra e abrir o story; a palavra é a mesma em todos os vídeos.", "serve": "Todos os vídeos do Love Chart."}, {"nome": "CTA-B-comente-venus", "tipo": "CTA", "status": "gerar", "creditos": 15, "de": "CTA-B-comente-venus (gerado no nora25, colagem do CTA)", "fala": "Send this to yourself. Comment VENUS so I know you did it. Tap my photo and open my story before it disappears.", "descricao": "“Send this to yourself. Comment VENUS so I know you did it. Tap my photo and open my story before it disappears.”", "base": "Fecho validado: mandar para si, comentar a palavra e abrir o story; a palavra é a mesma em todos os vídeos.", "serve": "Todos os vídeos do Love Chart."}], "decisao": ["Nos seus 10 vídeos de aquecimento, o corpo e o CTA foram gerados uma vez por copy e só o take do gancho mudou. Foi assim que saíram o B3 (2.551 views) e o C4 (1.427), os dois campeões, e os cinco vídeos de venda seguintes.", "O CTA do Love Chart é igual nos quatro vídeos (mesma fala e a mesma palavra, VENUS). Gerar uma vez e reaproveitar economiza 30 créditos por vídeo e dá o mesmo fecho a todos. Nos campeões a palavra do CTA também era sempre a mesma (YES no B3, CLAIM no C4).", "O que prende no começo é o que muda de vídeo para vídeo: pré-gancho (já em ação), gancho (T1) e texto na tela. Esses ficam sempre novos. O B3 e o C4 tinham gancho direto com promessa e \"this message is not for everyone\".", "Reaproveitar só funciona com a mesma Nora e a mesma imagem de base. Por isso o CTA tem a IMAGEM CTA própria, e os takes do nora23 e do nora24 (Nora antiga, Soulmate) não entram.", "Os corpos dos quatro vídeos são diferentes de propósito (cada um tem um ângulo). O corpo do nora25 já serve para as variações baratas do final, só trocando o gancho."], "proximos_intro": "O corpo (T2 a T6) e o CTA do nora25 servem com qualquer gancho de padrão ou de Vênus, e a IMAGEM 1 também. Quando o nora25 estiver pronto, cada variação custa só um pré-gancho novo (uns 7) mais um take de gancho (15). Eu monto o painel de cada uma quando você pedir. Os ganchos abaixo seguem os seus campeões.", "proximos": [{"nome": "nora29-T1-gancho-nunca-foi-seu", "modelo": "modelo B3 (2.551 views)", "custo": "22", "gancho": "Wipe your tears. The man who keeps leaving was never your person. It's not bad luck. It's your Venus.", "texto": "He was never your person."}, {"nome": "nora30-T1-gancho-ultimo-sinal", "modelo": "modelo C4 (1.427 views)", "custo": "22", "gancho": "This is the last sign the universe will send you about him. Don't scroll past it. Your Venus has been telling you.", "texto": "Your last sign about him"}, {"nome": "nora31-T1-gancho-para-de-olhar", "modelo": "modelo B1 / R1V", "custo": "22", "gancho": "If you still check his Instagram at night, stop. What I'm about to show you explains why you keep going back.", "texto": "Stop checking his Instagram."}, {"nome": "nora32-T1-gancho-nao-era-ele", "modelo": "modelo B2 / B2V", "custo": "22", "gancho": "He wasn't the one. And in the next few days, you're going to understand why. It starts with your Venus.", "texto": "He wasn't the one."}]}};
+(function(){
+const ESTILO_IMG="UGC STYLE LOCK: vertical 9:16 image, photorealistic, shot in an American home with the spontaneous look of a smartphone. Natural light, real skin, fabric and hair textures, casual and slightly imperfect framing. The camera stays out of frame. No text, caption, logo, watermark or advertising look.";
+const ESTILO_VID="UGC STYLE LOCK: vertical 9:16 video, photorealistic and spontaneous, with natural smartphone movement, real home lighting and close audio. The camera and the phone never appear. No text, captions, logos, music, slow motion, or cinematic or advertising look.";
+const REF_TXT="VISUAL REFERENCE LOCK: use exclusively the ATTACHED references as identity authorities. Preserve the face, body, hair, proportions and appearance of the human and the pet. Do not mix identities.";
+const KEY="painel_ugc_v2";
+const $=id=>document.getElementById(id);
+let pk=null, feitos={}, takes={};
+
+function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+function salvar(){try{localStorage.setItem(KEY,JSON.stringify({json:$('json').value,feitos,takes}))}catch(e){}}
+function carregar(){try{const s=JSON.parse(localStorage.getItem(KEY)||'null');if(s){$('json').value=s.json||'';feitos=s.feitos||{};takes=s.takes||{};if(s.json)montar(true)}}catch(e){}}
+
+function copiar(txt,btn){
+  const fim=()=>{if(!btn)return;const o=btn.textContent;btn.classList.add('ok');btn.textContent='Copiado ✓';setTimeout(()=>{btn.classList.remove('ok');btn.textContent=o},1400)};
+  if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(txt).then(fim,()=>fallback(txt,fim))}else fallback(txt,fim);
+}
+function fallback(txt,fim){const t=document.createElement('textarea');t.value=txt;t.style.position='fixed';t.style.opacity='0';document.body.appendChild(t);t.select();try{document.execCommand('copy')}catch(e){}document.body.removeChild(t);fim()}
+
+function limparJson(s){
+  s=s.trim().replace(/^```(?:json)?\s*/i,'').replace(/```\s*$/,'').trim();
+  const a=s.indexOf('{'),b=s.lastIndexOf('}');
+  if(a<0||b<0)throw new Error('Não achei um bloco que começa com { e termina com }.');
+  return JSON.parse(s.slice(a,b+1));
+}
+
+function estilo(t,fim){
+  const e=(pk.excecao_estilo||'').trim();
+  return e?t.replace(fim+'.',fim+' except '+e+', when visible.'):t;
+}
+function promptImagem(im){
+  return REF_TXT+' '+(pk.trava_referencia||'')+refCapa()+'\n\nFIXED OUTFIT: '+(pk.figurino||'')+'\n\n'+estilo(ESTILO_IMG,'advertising look')+'\n\nSCENE: '+im.cena;
+}
+function refCapa(){return (pk.excecao_estilo||'').trim()?' The official cover is an authority only for the art printed on the physical copy.':''}
+function promptVideo(v){
+  const voz=pk.perfil.voz;
+  const num=v.cena.split('/')[0];
+  const br=(v.b_roll||'').trim();
+  return v.cena+' VIDEO PROMPT — SCENE '+num+' — '+v.duracao+'s — '+v.primeiro_quadro+'\n\n'+estilo(ESTILO_VID,'cinematic or advertising look')+'\n\nACTION: '+v.acao+(br?'\n\nPOV B-ROLL: '+br:'')+'\n\nDIALOGUE: “'+v.fala+'”\n\nVOICE: the person is the only speaker. '+voz;
+}
+function itens(){
+  const a=[];
+  if(pk.pre_gancho){a.push({id:'pre_img',tipo:'pre',titulo:'Imagem do pré-gancho',prompt:''});if(pk.pre_gancho.imagem_final_prompt)a.push({id:'pre_img_fim',tipo:'pre',titulo:'Imagem final do pré-gancho',prompt:''});a.push({id:'pre_vid',tipo:'pre',titulo:'Vídeo do pré-gancho',prompt:''})}
+  if(pk.imagem_reutilizada)a.push({id:'img_reuso',tipo:'reuso',titulo:'IMAGEM 1 anexada',prompt:''});
+  else if(pk.imagem_central)(Array.isArray(pk.imagem_central)?pk.imagem_central:[pk.imagem_central]).forEach((ic,i)=>a.push({id:'img'+(i+1),tipo:'imgc',ic:ic,titulo:ic.titulo||'IMAGEM 1 (Central de imagens)',prompt:''}));
+  else pk.imagens.forEach((im,i)=>a.push({id:'img'+(i+1),tipo:'img',titulo:im.rotulo,prompt:promptImagem(im),rotulo:'PROMPT IMAGEM '+(i+1)}));
+  pk.videos.forEach((v,i)=>a.push({id:'vid'+(i+1),tipo:'vid',titulo:v.rotulo+' · '+(pk.central?'':'cena ')+v.cena,v:v,prompt:pk.central?'':promptVideo(v),rotulo:'PROMPT DE VIDEO '+(i+1)}));
+  return a;
+}
+function blocoCompleto(){return itens().filter(it=>it.tipo!=='pre'&&(!pk.central||it.tipo==='img')).map(it=>it.rotulo+':\n'+it.prompt).join('\n\n')}
+function progresso(){
+  const its=itens();const f=its.filter(i=>feitos[i.id]).length;
+  $('prog').style.width=(100*f/its.length)+'%';
+  $('progtxt').textContent=f+' de '+its.length+' itens gerados e aprovados';
+}
+
+
+function montarCentral(){
+  const c=pk.central;
+  ['central','cenas','agente'].forEach(id=>$(id).classList.toggle('hide',!c));
+  $('story').classList.toggle('hide',!pk.story);
+  $('videos').classList.toggle('hide',!!c);
+  $('todos').querySelector('h2').textContent=c?(c.imagem_unica?'Prompt da imagem (agente do Flow)':'Prompts das imagens (agente do Flow)'):'Todos os prompts';
+  if(c){
+    $('todos').querySelector('p').innerHTML='Bloco para o agente do Flow gerar a imagem (já começa com <i>iniciar</i>). Os vídeos não entram aqui: o prompt dos takes vem da Central do curso.';
+    if(c.passos&&c.passos.length)$('refSteps').innerHTML=c.passos.map(x=>'<li>'+esc(x)+'</li>').join('');
+    $('cfg').innerHTML='';
+    (c.config||[]).forEach(sec=>{
+      const d=document.createElement('div');d.className='item';
+      d.innerHTML='<h3>'+esc(sec.secao)+'</h3>'+(sec.campos||[]).map((k,i)=>'<div style="margin:3px 0"><b>'+esc(k.campo)+':</b> '+esc(k.valor)+'</div>'+(k.copiar?'<div class="box m" style="margin:6px 0 4px">'+esc(k.copiar)+'</div><button class="btn cpi" data-i="'+i+'" style="margin-bottom:8px">Copiar este texto</button>':'')).join('');
+      d.querySelectorAll('.cpi').forEach(b=>{b.onclick=e=>copiar(sec.campos[+b.dataset.i].copiar,e.currentTarget)});
+      $('cfg').appendChild(d);
+    });
+    const wc=s=>s.trim().split(/\s+/).length;
+    const linhaConf=(v,i,n)=>{const w=v.fala.trim().split(/\s+/);return 'TAKE '+(i+1)+'/'+n+' · '+v.duracao+' s · '+w.length+' palavras · começa em “'+w.slice(0,5).join(' ')+'…” · termina em “…'+w.slice(-5).join(' ')+'”'};
+    $('cenas').querySelector('h2').textContent='A fala e a movimentação (tudo de uma vez)';
+    const cols=c.colagens&&c.colagens.length?c.colagens:[{titulo:'',fala:(c.copia||{}).fala_completa||pk.videos.map(v=>v.fala).join(' '),movimentacao:(c.copia||{}).movimentacao||pk.videos.map(v=>v.movimentacao),takes:pk.videos.map((v,i)=>i)}];
+    $('cenas').querySelector('p').textContent=cols.length>1?'São '+cols.length+' colagens separadas na Central. Em cada uma, cole a fala em “COLE SUA COPY AQUI” e as linhas em “MOVIMENTAÇÃO”.':'Cole a fala inteira em “COLE SUA COPY AQUI” e as linhas em “MOVIMENTAÇÃO”. O site deve criar os takes da conferência abaixo, nesta ordem.';
+    const blocos=cols.map((k,j)=>{
+      const conf=k.takes.map((ix,i)=>linhaConf(pk.videos[ix],i,k.takes.length)).join('\n');
+      return '<div class="item"><h3>'+(cols.length>1?'Colagem '+(j+1)+' de '+cols.length+(k.titulo?': '+esc(k.titulo):''):'Colagem')+'</h3>'
+       +'<div style="margin:8px 0"><button class="cp cpF" data-j="'+j+'">Copiar fala</button><b>COLE SUA COPY AQUI</b> <span class="tag">'+wc(k.fala)+' palavras</span></div><div class="box m">'+esc(k.fala)+'</div>'
+       +'<div style="margin:8px 0"><button class="cp cpM" data-j="'+j+'">Copiar movimentação</button><b>MOVIMENTAÇÃO</b> <span class="tag">'+k.movimentacao.length+(k.movimentacao.length===1?' linha':' linhas, uma por take')+'</span></div><div class="box m">'+esc(k.movimentacao.join('\n'))+'</div>'
+       +'<div style="margin:8px 0"><b>Clique em GERAR PROMPT DE ANIMAÇÃO e confira</b></div><div class="box">'+esc(conf)+'</div><div class="tip" style="margin-top:8px">O site deve mostrar exatamente '+k.takes.length+(k.takes.length===1?' take':' takes')+', começando e terminando nas frases acima. Se vier outro número de takes ou um corte diferente, não gere: me mande o print.</div></div>';
+    }).join('');
+    $('listaCenas').innerHTML=blocos
+      +'<div class="item"><h3>Depois que o agente gerar, confira cada vídeo</h3>'+pk.videos.map((v,i)=>{const id='vid'+(i+1);const w=v.fala.trim().split(/\s+/);const arq=v.arquivo||(((pk.roteiro&&pk.roteiro.id)||'').split('-')[0]+'-'+v.rotulo);return '<label class="chk" style="display:flex;margin:8px 0;align-items:flex-start"><input type="checkbox" data-id="'+id+'" '+(feitos[id]?'checked':'')+'> <span><b>'+esc(v.rotulo)+'</b> · '+esc(v.cena)+' · '+v.duracao+' s · renomear no Flow para <b>'+esc(arq)+'</b><br>começa em “'+esc(w.slice(0,6).join(' '))+'…” e termina em “…'+esc(w.slice(-6).join(' '))+'”</span></label>'}).join('')+'<div class="tip" style="margin-top:8px">'+esc(c.conferir||'Conferir em cada vídeo: é a Dana (rosto e roupa iguais à imagem); a fala sai completa, uma vez só, em inglês, com voz americana calma; sem texto, legenda ou música.')+'</div></div>';
+    $('listaCenas').querySelectorAll('.cpF').forEach(b=>{b.onclick=e=>copiar(cols[+b.dataset.j].fala,e.currentTarget)});
+    $('listaCenas').querySelectorAll('.cpM').forEach(b=>{b.onclick=e=>copiar(cols[+b.dataset.j].movimentacao.join('\n'),e.currentTarget)});
+    $('listaCenas').querySelectorAll('input[data-id]').forEach(inp=>{inp.onchange=e=>{feitos[inp.dataset.id]=e.target.checked;progresso();salvar()}});
+    const ag=c.agente||{};
+    $('agente').querySelector('h2').textContent='No agente do Flow (uma conversa só)';
+    $('agente').querySelector('p').textContent='Uma imagem e uma mensagem: anexe a imagem e cole o bloco “COPIAR TUDO JUNTO” da Central, que já traz as orientações ao agente (o seu aviso é opcional).';
+    $('agenteBox').innerHTML='<div class="item"><button class="cp" id="cpAviso">Copiar aviso</button><h3>Seu aviso para o agente <span class="tag">opcional: o prompt da Central já traz as orientações ao agente</span><span class="tag">anexar: '+esc(ag.imagem||'')+'</span></h3><div class="box m">'+esc(ag.aviso||'')+'</div></div>'
+      +(ag.aviso_en?'<div class="item"><button class="cp" id="cpAvisoEn">Copiar aviso em inglês</button><h3>Aviso em inglês <span class="tag">opcional: mesma mensagem, em inglês</span></h3><div class="box m">'+esc(ag.aviso_en)+'</div></div>':'')
+      +'<div class="item"><h3>Passo a passo</h3><ol class="steps">'+(ag.passos||[]).map(x=>'<li>'+esc(x)+'</li>').join('')+'</ol></div>';
+    $('cpAviso').onclick=e=>copiar(ag.aviso||'',e.currentTarget);
+    if(ag.aviso_en)$('cpAvisoEn').onclick=e=>copiar(ag.aviso_en,e.currentTarget);
+  }
+  if(pk.story){
+    const st=pk.story;
+    $('storyBox').innerHTML='<div class="item"><button class="cp" id="cpStImg">Copiar prompt</button><h3>Prompt da imagem do story <span class="tag">9:16</span></h3><div class="box m">'+esc(st.prompt_imagem)+'</div></div>'
+      +'<div class="item"><button class="cp" id="cpStTxt">Copiar textos</button><h3>Texto na tela do story</h3><div class="box">'+(st.textos||[]).map(x=>'<b>'+esc(x.posicao)+':</b> '+esc(x.texto)).join('\n')+'</div></div>'
+      +'<div class="item"><button class="cp" id="cpStAd">Copiar adesivo</button><h3>Adesivo de link (3 a 4 palavras)</h3><div class="box">'+(st.adesivos||[]).map((x,i)=>(i+1)+'. '+esc(x)+(i===0?'  (recomendada)':'')).join('\n')+'</div></div>';
+    $('cpStImg').onclick=e=>copiar(st.prompt_imagem,e.currentTarget);
+    $('cpStTxt').onclick=e=>copiar((st.textos||[]).map(x=>x.posicao+': '+x.texto).join('\n'),e.currentTarget);
+    $('cpStAd').onclick=e=>copiar((st.adesivos||[])[0]||'',e.currentTarget);
+  }
+}
+
+function montarPecas(){
+  const P=pk.pecas;
+  $('pecas').classList.toggle('hide',!P||!P.lista||!P.lista.length);
+  if(!P||!P.lista)return;
+  const gerar=P.lista.filter(x=>x.status==='gerar'),reu=P.lista.filter(x=>x.status==='reutilizar');
+  const cred=gerar.reduce((a,x)=>a+(x.creditos||0),0),eco=reu.reduce((a,x)=>a+(x.creditos||0),0);
+  let h='<p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Cada imagem e cada take tem um <b>nome</b>. Use esse nome para <b>renomear o arquivo no Flow</b> assim que gerar. Quando um take já existe, <b>não gere de novo</b>: pegue o arquivo pelo nome. É assim que não gastamos créditos à toa.</p>'
+   +'<div class="tip" style="margin-bottom:12px"><b>Como ler:</b> <span class="pill g">gerar</span> = você gera agora. <span class="pill r">reutilizar</span> = já foi gerado em outro vídeo, só pegue o arquivo e use na edição. <b>Créditos neste vídeo: '+cred+'</b>'+(eco?' · <b>economia por reaproveitar: '+eco+'</b>':'')+'.</div>';
+  if(P.decisao&&P.decisao.length)h+='<div class="item"><h3>Por que eu decidi assim <span class="tag">com base nas suas métricas</span></h3><ul style="margin:0;padding-left:20px;color:var(--ink2);font-size:14.5px">'+P.decisao.map(x=>'<li>'+esc(x)+'</li>').join('')+'</ul></div>';
+  h+='<div class="item"><h3>As peças deste vídeo</h3><div style="display:grid;gap:10px">'+P.lista.map(x=>'<div class="peca'+(x.status==='reutilizar'?' reuso':'')+'"><div class="row"><span class="nome">'+esc(x.nome)+'</span><span class="tag">'+esc(x.tipo)+'</span><span class="pill '+(x.status==='reutilizar'?'r':'g')+'">'+(x.status==='reutilizar'?'reutilizar':'gerar')+'</span>'+(x.creditos?'<span class="tag">'+x.creditos+' créditos</span>':'')+'</div>'
+    +(x.descricao?'<div style="font-size:14.5px">'+esc(x.descricao)+'</div>':'')
+    +(x.status==='reutilizar'?'<div class="tip" style="font-size:13.5px">Não gere. Use o arquivo <b>'+esc(x.de||x.nome)+'</b> que você já gerou.</div>':'')
+    +(x.base?'<div style="font-size:13.5px;color:var(--ink2)"><b>Base:</b> '+esc(x.base)+'</div>':'')
+    +(x.serve?'<div style="font-size:13.5px;color:var(--ink2)"><b>Serve também em:</b> '+esc(x.serve)+'</div>':'')+'</div>').join('')+'</div></div>';
+  if(P.proximos&&P.proximos.length)h+='<div class="item"><h3>Depois deste vídeo: variações baratas <span class="tag">só gancho novo</span></h3><p style="color:var(--ink2);margin:0 0 8px;font-size:14.5px">'+esc(P.proximos_intro||'')+'</p><div style="display:grid;gap:10px">'+P.proximos.map(x=>'<div class="peca"><div class="row"><span class="nome">'+esc(x.nome)+'</span><span class="tag">'+esc(x.modelo||'')+'</span><span class="tag">≈ '+esc(x.custo||'')+' créditos</span></div><div class="fala">“'+esc(x.gancho)+'”</div><div style="font-size:13.5px;color:var(--ink2)">Texto na tela: '+esc(x.texto||'')+'</div></div>').join('')+'</div></div>';
+  $('pecasBox').innerHTML=h;
+}
+
+function montarPre(){
+  const g=pk.pre_gancho;
+  $('prehook').classList.toggle('hide',!g);
+  if(!g)return;
+  const temFim=!!g.imagem_final_prompt;
+  $('prehook').querySelector('h2').textContent='Pré-gancho ('+(g.duracao||4)+' s'+(g.com_rosto?', com o rosto da avatar':'')+')';
+  $('preBox').innerHTML='<p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">'+esc(g.conceito||'')+'</p>'
+    +'<div class="tip" style="margin-bottom:12px"><b>Modo no Flow: FRAMES</b> (não “Ingredients”/elementos).<br><b>Imagem INICIAL (primeiro quadro):</b> imagem 1 abaixo'+(g.quadro_inicial?' — '+esc(g.quadro_inicial):'')+'.<br><b>Imagem FINAL (último quadro):</b> '+(temFim?'imagem 2 abaixo'+(g.quadro_final?' — '+esc(g.quadro_final):''):'nenhuma (deixe o campo do último quadro vazio)')+'.<br>Duração '+esc(g.duracao||4)+' s, vertical 9:16, com o áudio ambiente ligado.</div>'
+    +'<div class="item"><button class="cp" id="cpPreImg">Copiar prompt</button><h3>1) Imagem do pré-gancho <span class="tag">PRIMEIRO quadro</span>'+(g.nome_img1?'<span class="tag">nome: '+esc(g.nome_img1)+'</span>':'')+'<span class="tag">9:16</span>'+(g.com_rosto?'<span class="tag">com o rosto da avatar: anexe SÓ o blueprint</span>':'<span class="tag">sem referências anexadas</span>')+'</h3><div class="box m">'+esc(g.imagem_prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_img" '+(feitos.pre_img?'checked':'')+'> Imagem gerada e aprovada</label></div>'
+    +(temFim?'<div class="item"><button class="cp" id="cpPreImgFim">Copiar prompt</button><h3>2) Imagem final do pré-gancho <span class="tag">ÚLTIMO quadro</span>'+(g.nome_img2?'<span class="tag">nome: '+esc(g.nome_img2)+'</span>':'')+'<span class="tag">9:16</span><span class="tag">anexe SÓ a imagem 1 aprovada (edição dela)</span></h3><div class="box m">'+esc(g.imagem_final_prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_img_fim" '+(feitos.pre_img_fim?'checked':'')+'> Imagem final gerada e aprovada</label></div>':'')
+    +'<div class="item"><button class="cp" id="cpPreVid">Copiar prompt</button><h3>'+(temFim?'3':'2')+') Vídeo do pré-gancho '+(g.nome_video?'<span class="tag">nome: '+esc(g.nome_video)+'</span>':'')+'<span class="tag">'+esc(g.duracao||4)+' s</span><span class="tag">Frames</span><span class="tag">1º quadro: imagem 1</span>'+(temFim?'<span class="tag">último quadro: imagem 2</span>':'<span class="tag">sem último quadro</span>')+'</h3><div class="box m">'+esc(g.video_prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_vid" '+(feitos.pre_vid?'checked':'')+'> Vídeo gerado e aprovado</label></div>'
+    +'';
+  if(temFim)$('cpPreImgFim').onclick=e=>copiar(g.imagem_final_prompt,e.currentTarget);
+  $('cpPreImg').onclick=e=>copiar(g.imagem_prompt,e.currentTarget);
+  $('cpPreVid').onclick=e=>copiar(g.video_prompt,e.currentTarget);
+  $('preBox').querySelectorAll('input[data-id]').forEach(inp=>{inp.onchange=e=>{feitos[inp.dataset.id]=e.target.checked;progresso();salvar()}});
+}
+
+/* ORDEM DE PRODUÇÃO: as seções seguem o passo a passo do caminho da produção (legenda e comentário fixado por último, antes de postar). */
+function ordenar(){
+  const c=pk.central;
+  const ord=c
+    ?['pecas','referencia','prehook','imagens','todos','central','cenas','agente','story','textotela','fala','descricao','comentario']
+    :['pecas','referencia','prehook','imagens','videos','todos','story','textotela','fala','descricao','comentario'];
+  const pn=$('painel');
+  $('todos').classList.toggle('hide',!!pk.imagem_reutilizada||!!pk.imagem_central);
+  $('imagens').querySelector('h2').textContent=pk.imagem_reutilizada?'Imagem 1 (a mesma de outro roteiro, não gerar)':(pk.imagem_central?'Imagem 1 na Central de imagens':'Imagens');
+  ord.forEach(id=>pn.appendChild($(id)));if(c)pn.appendChild($('videos'));
+  let n=0;const links=[];
+  ord.forEach(id=>{
+    const sec=$(id);
+    const h=sec.querySelector('h2');
+    const base=h.textContent.replace(/^\d+\.\s*/,'');
+    if(sec.classList.contains('hide')){h.textContent=base;return}
+    n++;h.textContent=n+'. '+base;
+    links.push('<a href="#'+id+'">'+n+'. '+esc(base)+'</a>');
+  });
+  $('tocLinks').innerHTML='<a href="#entrada">Pacote</a>'+links.join('');
+}
+
+function montar(silencio){
+  const m=$('msg');m.className='msg';m.textContent='';
+  try{
+    const p=limparJson($('json').value);
+    if(!Array.isArray(p.imagens)||p.imagens.length<(p.central&&p.central.imagem_unica?1:2))throw new Error('Faltam as imagens ("imagens").');
+    if(!Array.isArray(p.videos)||!p.videos.length)throw new Error('Faltam os vídeos ("videos").');
+    p.videos.forEach((v,i)=>{(p.central?['cena','duracao','primeiro_quadro','fala','movimentacao']:['cena','duracao','primeiro_quadro','acao','fala']).forEach(k=>{if(v[k]===undefined||v[k]==='')throw new Error('O vídeo '+(i+1)+' está sem "'+k+'".')})});
+    if(!p.perfil||!/^Voz (feminina|masculina) adulta (brasileira|americana)/.test(p.perfil.voz||''))throw new Error('Falta "perfil.voz" ("Voz feminina|masculina adulta brasileira natural e espontânea.").');
+    const n=p.videos.length;
+    if(p.central?(n<2||n>8):(n!==6&&n!==7))throw new Error('O pacote tem '+n+' vídeos; o método usa 6 (5 cenas) ou 7 (6 cenas).');
+    p.videos.forEach((v,i)=>{if([4,6,8,10].indexOf(Number(v.duracao))<0)throw new Error('O vídeo '+(i+1)+' tem duração '+v.duracao+'; só 4, 6, 8 ou 10 s.')});
+    const N=n-1,a=p.videos[n-2].cena,b=p.videos[n-1].cena;
+    if(!p.central&&(a!==N+'A/'+N||b!==N+'B/'+N))throw new Error('Os dois últimos vídeos devem ser '+N+'A/'+N+' e '+N+'B/'+N+' (CTA).');
+    if(!/IMAGEM 1/.test(p.videos[0].primeiro_quadro))throw new Error('O V1 (hook) deve usar a IMAGEM 1 como primeiro quadro.');
+    pk=p;
+  }catch(e){
+    if(!silencio){m.className='msg err';m.textContent='Não consegui ler: '+e.message+' Peça para a IA "entregar o pacote de novo em JSON válido".'}
+    return;
+  }
+  const r=pk.roteiro||{};
+  $('rid').textContent=(r.id||'Roteiro')+((pk.perfil&&pk.perfil.nome)?' · '+pk.perfil.nome+(pk.perfil.teste?' · teste '+pk.perfil.teste:''):'');
+  $('rtitulo').textContent=r.titulo||'';
+  $('avisos').classList.add('hide');
+  $('rmeta').textContent=[r.dor&&('Dor: '+r.dor),r.formato&&('Formato: '+r.formato),r.molde_hook&&('Hook: '+r.molde_hook),r.duracao_total&&(r.duracao_total+' s no total'),r.leitura_registro&&('Leitura obrigatória (registro): '+r.leitura_registro)].filter(Boolean).join(' · ');
+  $('insta').textContent=r.descricao_instagram||'(a IA não entregou a legenda)';
+  const tt=pk.texto_tela||{};
+  $('telaHook').textContent=tt.hook||'(a IA não entregou o texto dos primeiros segundos)';
+  const cf=pk.comentario_fixado||{};
+  $('pinInsta').textContent=cf.insta||'(a IA não entregou o comentário fixado do Instagram)';
+  $('pinFace').textContent=cf.face||'(a IA não entregou o comentário fixado do Facebook)';
+  const pg=pk.pre_gancho||{};
+  $('telaPre').textContent=pg.texto_tela||'';$('telaPre').classList.toggle('hide',!pg.texto_tela);$('telaPreK').classList.toggle('hide',!pg.texto_tela);
+  $('telaEdicao').textContent=pg.edicao||'';$('telaEdicao').classList.toggle('hide',!pg.edicao);
+  $('telaHookQ').innerHTML=tt.hook_comeca?('Começa em: “'+esc(tt.hook_comeca)+'”'+(tt.hook_termina?' → termina em: “'+esc(tt.hook_termina)+'”':'')):'';
+  $('telaAlt').textContent=tt.hook_alt?'Alternativa: '+tt.hook_alt:'';$('telaAlt').classList.toggle('hide',!tt.hook_alt);
+  $('telaExtras').innerHTML=(tt.extras||[]).map(e=>'<div style="margin-bottom:8px"><b>'+esc(e.texto)+'</b><br><span style="color:var(--ink2)">'+(e.comeca?'Começa em: “'+esc(e.comeca)+'”'+(e.termina?' → termina em: “'+esc(e.termina)+'”':''):esc(e.quando||''))+'</span></div>').join('');$('telaExtras').classList.toggle('hide',!(tt.extras&&tt.extras.length));
+  $('refs').innerHTML=(pk.refs||[]).map(x=>'<span class="chip">'+esc(x)+'</span>').join('')||'<i>(a IA não listou)</i>';
+  $('falas').textContent=pk.videos.map(v=>v.rotulo+' · '+(pk.central?'':'cena ')+v.cena+'\n“'+v.fala+'”').join('\n\n')+((pk.pecas&&pk.pecas.lista||[]).filter(x=>x.status==='reutilizar'&&x.fala).map(x=>'\n\n'+x.nome+' (reutilizado de '+(x.de||'outro vídeo')+')\n“'+x.fala+'”').join(''));
+  $('listaImg').innerHTML='';$('listaVid').innerHTML='';
+  itens().forEach(it=>{
+    if(it.tipo==='reuso'){
+      const ir=pk.imagem_reutilizada;
+      const d=document.createElement('div');d.className='item'+(feitos[it.id]?' done':'');
+      d.innerHTML='<div class="tip"><b>Não gere imagem neste roteiro.</b> '+esc(ir.aviso||('Use o arquivo '+ir.arquivo+'.'))+'</div>'
+        +'<label class="chk"><input type="checkbox" '+(feitos[it.id]?'checked':'')+'> Arquivo '+esc(ir.arquivo||'IMAGEM 1')+' separado para anexar</label>';
+      d.querySelector('input').onchange=e=>{feitos[it.id]=e.target.checked;d.classList.toggle('done',e.target.checked);progresso();salvar()};
+      $('listaImg').appendChild(d);return;
+    }
+    if(it.tipo==='imgc'){
+      const ic=it.ic;
+      const d=document.createElement('div');d.className='item'+(feitos[it.id]?' done':'');
+      let h='<h3>'+esc(it.titulo)+(ic.nome?' <span class="tag">nome: '+esc(ic.nome)+'</span>':'')+' <span class="tag">9:16</span><span class="tag">com o blueprint</span></h3>'
+        +'<p style="color:var(--ink2);margin:0 0 10px;font-size:14.5px">'+esc(ic.aviso||'')+'</p>'
+        +(ic.passos&&ic.passos.length?'<ol class="steps">'+ic.passos.map(x=>'<li>'+esc(x)+'</li>').join('')+'</ol>':'');
+      (ic.grupos||[]).forEach((g,gi)=>{
+        h+='<div class="item" style="margin-top:10px"><h3>'+esc(g.titulo)+(g.nota?' <span class="tag">'+esc(g.nota)+'</span>':'')+'</h3>'
+          +(g.campos||[]).map((k,i)=>'<div style="margin:6px 0"><b>'+esc(k.campo)+':</b> '+(k.copiar?'<button class="btn cpi" data-g="'+gi+'" data-i="'+i+'" style="margin-left:6px">Copiar</button><div class="box m" style="margin-top:6px">'+esc(k.valor)+'</div>':esc(k.valor))+'</div>').join('')+'</div>';
+      });
+      h+='<label class="chk"><input type="checkbox" '+(feitos[it.id]?'checked':'')+'> '+esc(ic.nome||'IMAGEM 1')+' gerada e aprovada</label>';
+      d.innerHTML=h;
+      d.querySelectorAll('.cpi').forEach(b=>{b.onclick=e=>copiar(ic.grupos[+b.dataset.g].campos[+b.dataset.i].valor,e.currentTarget)});
+      d.querySelector('input[type=checkbox]').onchange=e=>{feitos[it.id]=e.target.checked;d.classList.toggle('done',e.target.checked);progresso();salvar()};
+      $('listaImg').appendChild(d);return;
+    }
+    if(it.tipo==='pre'||(pk.central&&it.tipo==='vid'))return;
+    const d=document.createElement('div');d.className='item'+(feitos[it.id]?' done':'');
+    let alerta='';
+    if(it.tipo==='vid'&&/[ÚU]LTIMO QUADRO/i.test(it.v.primeiro_quadro)){
+      alerta='<div class="tip"><b>Atenção:</b> o primeiro quadro deste clipe é o <b>último quadro de um vídeo anterior</b> ('+esc(it.v.primeiro_quadro)+'). Aprove o clipe anterior, baixe o último quadro dele e use como primeiro quadro aqui.</div>';
+    }
+    d.innerHTML='<button class="cp">'+(it.tipo==='img'?'Copiar imagem com trava':'Copiar prompt')+'</button>'
+      +'<h3>'+esc(it.titulo)+(it.tipo==='vid'?' <span class="tag">'+it.v.duracao+' s</span><span class="tag">1º quadro: '+esc(it.v.primeiro_quadro.split(' — ')[0])+'</span>':' <span class="tag">9:16</span>')+'</h3>'
+      +(it.tipo==='vid'?'<div class="fala">Fala: “'+esc(it.v.fala)+'”</div>':'')+alerta
+      +'<div class="box m">'+esc(it.prompt)+'</div>'
+      +'<label class="chk"><input type="checkbox" '+(feitos[it.id]?'checked':'')+'> Gerado e aprovado</label>';
+    d.querySelector('.cp').onclick=e=>copiar(it.prompt,e.currentTarget);
+    d.querySelector('input').onchange=e=>{feitos[it.id]=e.target.checked;d.classList.toggle('done',e.target.checked);progresso();salvar()};
+    $(it.tipo==='img'?'listaImg':'listaVid').appendChild(d);
+  });
+  montarCentral();
+  montarPre();
+  montarPecas();
+  ordenar();
+  $('painel').classList.remove('hide');
+  progresso();salvar();
+}
+
+$('aplicar').onclick=()=>{feitos={};montar(false)};
+$('limpar').onclick=()=>{if(!confirm('Apagar o pacote e as marcações?'))return;$('json').value='';feitos={};pk=null;$('painel').classList.add('hide');salvar()};
+$('copiaTudo').onclick=e=>copiar('iniciar\n\n'+(pk.instrucoes_agente?pk.instrucoes_agente+'\n\n':'')+blocoCompleto(),e.currentTarget);
+$('copiaFalas').onclick=e=>copiar(pk.videos.map(v=>v.rotulo+' ('+v.cena+'): '+v.fala).join('\n'),e.currentTarget);
+$('copiaTela').onclick=e=>{const tt=pk.texto_tela||{};copiar([].concat(pk.pre_gancho&&pk.pre_gancho.texto_tela?['Pré-gancho: '+pk.pre_gancho.texto_tela]:[],['Início do vídeo: '+(tt.hook||'')+(tt.hook_comeca?' | começa em: "'+tt.hook_comeca+'" | termina em: "'+(tt.hook_termina||'')+'"':'')]).concat((tt.extras||[]).map(x=>x.texto+(x.comeca?' | começa em: "'+x.comeca+'" | termina em: "'+(x.termina||'')+'"':(x.quando?' | '+x.quando:'')))).join('\n'),e.currentTarget)};
+$('copiaPinInsta').onclick=e=>copiar((pk.comentario_fixado&&pk.comentario_fixado.insta)||'',e.currentTarget);
+$('copiaPinFace').onclick=e=>copiar((pk.comentario_fixado&&pk.comentario_fixado.face)||'',e.currentTarget);
+$('copiaInsta').onclick=e=>copiar((pk.roteiro&&pk.roteiro.descricao_instagram)||'',e.currentTarget);
+if(PACOTE){try{const s0=JSON.parse(localStorage.getItem(KEY)||'null');if(s0){feitos=s0.feitos||{};takes=s0.takes||{}}}catch(e){}$("entrada").classList.add("hide");$("json").value=JSON.stringify(PACOTE);montar(false);if(!pk)$("entrada").classList.remove("hide");}else{carregar();}
+})();
+</script>
+</body>
+</html>

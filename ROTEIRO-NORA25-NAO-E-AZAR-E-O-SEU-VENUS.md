@@ -1,9 +1,9 @@
-# R006-NAO-E-AZAR-E-O-SEU-VENUS — roteiro completo (8 takes + pré-gancho), funil LOVE CHART (19/10/2026)
+# nora25-NAO-E-AZAR-E-O-SEU-VENUS — roteiro completo (8 takes + pré-gancho), funil LOVE CHART (19/10/2026)
 
-Status: **aprovado pelo aluno em 19/10/2026; atualizado para a Nora v2 no mesmo dia (identidade, figurino, cenário e IMAGEM 1 pela Central de imagens).** Persona: **Nora v2** (Nora Kensley, @norakensleytarot), a avatar nova de 19/10/2026. Funil ativo: **Love Chart** (link só no story: sem DM e sem falar de afiliado). Postagem prevista: 19/10/2026 (R006 a R009 sobem no mesmo dia). Créditos do Flow não são mais um limite (o aluno informou que vão cair 1000), então o roteiro é o longo, com o melhor pré-gancho que a biblioteca de virais permite, e não o micro. Falas em inglês dos EUA; a tradução é só para o aluno aprovar. Dor 5 (repetir o mesmo padrão), com a 2 (o homem que some). Formato 1 (problema + crença + solução), 8 takes. Duração planejada: pré-gancho de 4 s + 8 takes de 10 s = 84 s.
+Status: **aprovado pelo aluno em 19/10/2026; atualizado para a Nora v2 no mesmo dia (identidade, figurino, cenário e IMAGEM 1 pela Central de imagens).** Persona: **Nora v2** (Nora Kensley, @norakensleytarot), a avatar nova de 19/10/2026. Funil ativo: **Love Chart** (link só no story: sem DM e sem falar de afiliado). Postagem prevista: 19/10/2026 (nora25 a nora28 sobem no mesmo dia). Créditos do Flow não são mais um limite (o aluno informou que vão cair 1000), então o roteiro é o longo, com o melhor pré-gancho que a biblioteca de virais permite, e não o micro. Falas em inglês dos EUA; a tradução é só para o aluno aprovar. Dor 5 (repetir o mesmo padrão), com a 2 (o homem que some). Formato 1 (problema + crença + solução), 8 takes. Duração planejada: pré-gancho de 4 s + 8 takes de 10 s = 84 s.
 
 ## Leitura obrigatória (registro)
-19/10/2026: antes de escrever li, com a ferramenta de leitura e inteiros, os mesmos arquivos de `LEIA-TUDO-ANTES.md` que registrei no R006 de hoje (`CLAUDE.md`, `00-LEIA-PRIMEIRO.md`, `PROJETO-Dana.md`, `LICOES-FLOW-E-PROMPTS.md`, `DNA Visual - Dana.md`, `DNA Visual - Nora.md`, `DNA Visual - Nora v2.md`, `REGISTRO-DE-PERSONAS.md`, `hooks.md` com a seção 7, `Formatos Narrativos - Problema e Cenario.md`, `Exemplos de Roteiros - 2 Formatos.md`, `ctas.md`, `COMUNICACAO-VISCERAL-E-FALADA.md`, `BIBLIOTECA-BODIES.md`, `BIBLIOTECA-COLD-READING.md`, `BIBLIOTECA-COPY.md`, `BIBLIOTECA-COPY-100-ROTEIROS.md`, `PESQUISA-PUBLICO.md`, `BIBLIOTECA-VIDEOS-VIRAIS.md`, `BIBLIOTECA-PRE-GANCHOS.md`, `Prompts.txt`, `CHECKLIST-DE-PRODUCAO.md`, `PAPEL-AGENTE-FLOW.md`, `GUIA-CREATIVE-HUB.md`, `PLANO-CREDITOS-R004-R005.md`, `PASSO-A-PASSO-R003-HUB.md`, `PASSO-A-PASSO-R004-R005.md`, `EXEMPLO-ROTEIRO-APROVADO-FIGADO.md`, `EXEMPLO-PACOTE-FIGADO.md`, `ROTEIRO-R001` a `ROTEIRO-R005`, `STORY-R001` a `STORY-R003`, `ROTEIRO-LOVECHART-RESERVA-SEU-PADRAO-TEM-NOME.md`, `STORY-LOVECHART-RESERVA.md`, `TAKE-NOVO-R001-V6.txt`, `TAKE-NOVO-R002-V6.txt`) e o briefing do Love Chart (`BRIEFING-LOVECHART.md`, a página https://briefing-lovechart.pages.dev/). O `CLAUDE.md` foi recarregado no início deste turno com as mudanças de hoje. `PAINEL-MODELO.html` foi lido (CSS e script; linhas longas cortadas) e o formato do pacote conferido no painel do R004. `FOTO-PERFIL-DANA.md` não foi lido (só vale para foto de perfil).
+19/10/2026: antes de escrever li, com a ferramenta de leitura e inteiros, os mesmos arquivos de `LEIA-TUDO-ANTES.md` que registrei no nora25 de hoje (`CLAUDE.md`, `00-LEIA-PRIMEIRO.md`, `PROJETO-Dana.md`, `LICOES-FLOW-E-PROMPTS.md`, `DNA Visual - Dana.md`, `DNA Visual - Nora.md`, `DNA Visual - Nora v2.md`, `REGISTRO-DE-PERSONAS.md`, `hooks.md` com a seção 7, `Formatos Narrativos - Problema e Cenario.md`, `Exemplos de Roteiros - 2 Formatos.md`, `ctas.md`, `COMUNICACAO-VISCERAL-E-FALADA.md`, `BIBLIOTECA-BODIES.md`, `BIBLIOTECA-COLD-READING.md`, `BIBLIOTECA-COPY.md`, `BIBLIOTECA-COPY-100-ROTEIROS.md`, `PESQUISA-PUBLICO.md`, `BIBLIOTECA-VIDEOS-VIRAIS.md`, `BIBLIOTECA-PRE-GANCHOS.md`, `Prompts.txt`, `CHECKLIST-DE-PRODUCAO.md`, `PAPEL-AGENTE-FLOW.md`, `GUIA-CREATIVE-HUB.md`, `PLANO-CREDITOS-R004-R005.md`, `PASSO-A-PASSO-R003-HUB.md`, `PASSO-A-PASSO-R004-R005.md`, `EXEMPLO-ROTEIRO-APROVADO-FIGADO.md`, `EXEMPLO-PACOTE-FIGADO.md`, `ROTEIRO-R001` a `ROTEIRO-R005`, `STORY-R001` a `STORY-R003`, `ROTEIRO-LOVECHART-RESERVA-SEU-PADRAO-TEM-NOME.md`, `STORY-LOVECHART-RESERVA.md`, `TAKE-NOVO-R001-V6.txt`, `TAKE-NOVO-R002-V6.txt`) e o briefing do Love Chart (`BRIEFING-LOVECHART.md`, a página https://briefing-lovechart.pages.dev/). O `CLAUDE.md` foi recarregado no início deste turno com as mudanças de hoje. `PAINEL-MODELO.html` foi lido (CSS e script; linhas longas cortadas) e o formato do pacote conferido no painel do R004. `FOTO-PERFIL-DANA.md` não foi lido (só vale para foto de perfil).
 **Conferência da seção 9 de COMUNICACAO-VISCERAL e do hook visual (hooks.md, seção 1):** dá para imaginar uma cena concreta só ouvindo cada fala: sim; as frases soam como conversa (frases curtas, firmes, segunda pessoa): sim; a espectadora reconhece uma situação real (reler a mensagem, ensaiar a conversa, sentir mais fundo à noite), não um desejo genérico: sim; o benefício preserva o alcance do fato (o quiz "encontra o Vênus, dá nome ao padrão e mostra o par perfeito"; a Nora não diz que a pessoa existe nem que o amor chega): sim; nenhum número, depoimento, preço ou prazo de resultado inventado: sim; o mecanismo ("o signo solar mostra quem você é, o Vênus mostra como você ama") é o do próprio funil e vem com "in astrology": sim; a promessa é anunciada antes do CTA e a entrega completa fica no story (P6): sim; o áudio contínuo cabe nos takes de 10 s (cada fala tem de 20 a 22 palavras): sim. Hook visual: o objeto está na mão, perto da lente, com contraste contra a roupa escura e neutra, e já em ação (balança, é mostrado ou apontado): sim às duas perguntas.
 
 ## Base do curso usada (registro)
@@ -36,42 +36,50 @@ Modelo nos virais: U6 (ela entra por uma porta e sopra pó dourado na lente, ≈
 ## Takes (a fala inteira vai de uma vez na Central; o site divide em takes de 10 s)
 
 ### Take 1/8 — Gancho — 10 s (20 palavras)
+**Nome do arquivo:** `nora25-T1-gancho-azar`
 **Visual:** Ela olha firme para a lente com um olhar cansado e conhecedor e dá um pequeno aceno de cabeça, com o pingente balançando de leve.
 **Fala:** "One minute he's all in. Then he couldn't care less. It's not bad luck. It's not you. It's a pattern."
 (PT: Num minuto ele está todo entregue. Depois, não está nem aí. Não é azar. Não é você. É um padrão.)
 
 ### Take 2/8 — Prova pela espectadora — 10 s (22 palavras)
+**Nome do arquivo:** `nora25-T2-corpo-prova`
 **Visual:** Ela aponta o indicador esquerdo para a lente em "it's you".
 **Fala:** "I already know it's you. First, you didn't scroll past this video. Second, there's a message on your phone you keep rereading."
 (PT: Eu já sei que é você. Primeiro, você não passou direto por este vídeo. Segundo, há uma mensagem no seu celular que você continua relendo.)
 
 ### Take 3/8 — Mecanismo (a frase do funil) — 10 s (21 palavras)
+**Nome do arquivo:** `nora25-T3-corpo-venus-x-sol`
 **Visual:** Ela abre a palma esquerda para a lente, como quem explica.
 **Fala:** "In astrology, your sun sign shows who you are. Your Venus shows how you love. And that's where your pattern starts."
 (PT: Na astrologia, o seu signo solar mostra quem você é. O seu Vênus mostra como você ama. E é aí que o seu padrão começa.)
 
 ### Take 4/8 — Garantia pessoal e reconhecimento — 10 s (21 palavras)
+**Nome do arquivo:** `nora25-T4-corpo-reconhecimento`
 **Visual:** Ela inclina a cabeça, olha de lado por um instante, como quem lembra de alguém, e volta o olhar para a lente.
 **Fala:** "Think of the men who pulled you in. I'll change my name if it wasn't the same feeling every single time."
 (PT: Pense nos homens que te atraíram. Eu mudo de nome se não foi o mesmo sentimento todas as vezes.)
 
 ### Take 5/8 — Nome do padrão e o segredo da Lua — 10 s (22 palavras)
+**Nome do arquivo:** `nora25-T5-corpo-lua-segredo`
 **Visual:** Ela leva a mão esquerda ao peito por um instante e a devolve à mesa.
 **Fala:** "And there's a secret most horoscopes skip: the Moon on the night you were born. Together, they give your pattern a name."
 (PT: E há um segredo que a maioria dos horóscopos pula: a Lua da noite em que você nasceu. Juntas, elas dão nome ao seu padrão.)
 
 ### Take 6/8 — Fragilidade e escassez — 10 s (21 palavras)
+**Nome do arquivo:** `nora25-T6-corpo-escassez`
 **Visual:** Ela leva o indicador esquerdo diante dos lábios por um instante (segredo) e depois aponta para a lente.
 **Fala:** "This message is sensitive, so don't scroll past it. Not everyone will see this video, and the pattern won't fix itself."
 (PT: Esta mensagem é sensível, então não passe direto. Nem todo mundo vai ver este vídeo, e o padrão não se conserta sozinho.)
 
-### Take 7/8 — 6A (o que o story mostra) — 10 s (22 palavras)
-**Visual:** Ela olha para a lente com um meio sorriso e junta a mão esquerda ao pingente por um instante.
+### Take 7/8 — CTA-A: o que o story mostra — 10 s (22 palavras)
+**Nome do arquivo:** `CTA-A-quiz-venus`
+**Visual:** Ela olha para a lente com um meio sorriso caloroso e abre a palma esquerda para a lente, com a mão direita apoiada na mesa (sem objeto na mão).
 **Fala:** "You can find yours. In my story, a free astrology quiz finds your Venus, names your pattern and shows your perfect match."
 (PT: Você pode descobrir o seu. No meu story, um quiz grátis de astrologia descobre o seu Vênus, dá nome ao seu padrão e mostra o seu par perfeito.)
 
-### Take 8/8 — 6B (selos e story) — 10 s (22 palavras)
-**Visual:** Ela segura o pingente um pouco mais perto da lente e aponta o indicador esquerdo para a lente.
+### Take 8/8 — CTA-B: selos e story — 10 s (22 palavras)
+**Nome do arquivo:** `CTA-B-comente-venus`
+**Visual:** Ela aponta o indicador esquerdo para a lente com o olhar firme, com a mão direita apoiada na mesa (sem objeto na mão).
 **Fala:** "Send this to yourself. Comment VENUS so I know you did it. Tap my photo and open my story before it disappears."
 (PT: Mande isto para você mesma. Comente VENUS para eu saber que você fez. Toque na minha foto e abra o meu story antes que ele suma.)
 
@@ -95,10 +103,14 @@ Send this to yourself. Comment VENUS. Tap my photo. NOW.
 - **Facebook:** PART 2 is in my Story. Tap my profile picture NOW, it's gone in 24 hours. Comment VENUS if you want to find yours. 🔥
 
 ## Story (parte 2)
-O story do Love Chart é **um só para os quatro vídeos do dia** (R006 a R009): imagem sem texto (a Nora segura o pingente de cobre perto da lente), texto "Tap below and find your Venus pattern in astrology." e adesivo "Find my Venus". O pacote completo (prompt da imagem, texto e adesivo) vem na Fase 2, no `STORY-R006-R009-LOVECHART.md`.
+O story do Love Chart é **um só para os quatro vídeos do dia** (nora25 a nora28): imagem sem texto (a Nora segura o pingente de cobre perto da lente), texto "Tap below and find your Venus pattern in astrology." e adesivo "Find my Venus". O pacote completo (prompt da imagem, texto e adesivo) vem na Fase 2, no `STORY-NORA25-28-LOVECHART.md`.
+
+## Nomes e reaproveitamento (decisão do aluno, 19/10/2026)
+Toda imagem e todo take tem um nome (lista completa no painel, seção “Nomes e reaproveitamento”, e no `BIBLIOTECA-DE-TAKES.md`). Pré-gancho: `nora25-PRE-IMG1`, `nora25-PRE-IMG2`, `nora25-PRE`. Imagem do vídeo: `nora25-IMG` e `nora25-IMG-CTA`. Takes: `nora25-T1-gancho-azar`, `nora25-T2-corpo-prova`, `nora25-T3-corpo-venus-x-sol`, `nora25-T4-corpo-reconhecimento`, `nora25-T5-corpo-lua-segredo`, `nora25-T6-corpo-escassez`, `CTA-A-quiz-venus`, `CTA-B-comente-venus`.
+**O CTA (CTA-A e CTA-B) é gerado neste vídeo e serve para todos os vídeos do Love Chart.**
 
 ## Créditos e montagem
-Pré-gancho 4 s = 7 créditos; 8 takes de 10 s = 120 créditos. **Total do vídeo: 127 créditos** (sem contar refações). Montagem: pré-gancho + takes 1 a 8 ≈ 84 s. Plano geral dos quatro vídeos em `PLANO-CREDITOS-R006-R009.md`.
+Pré-gancho 4 s = 7 créditos; 6 takes próprios de 10 s = 90 créditos; CTA (2 takes, compartilhado) = 30 créditos. **Total a gastar neste vídeo: 127 créditos** (sem contar refações). Montagem: pré-gancho + takes 1 a 8 ≈ 84 s. Plano geral dos quatro vídeos em `PLANO-CREDITOS-NORA25-28.md`.
 
 ## Notas editoriais e factuais
 - O pó dourado do pré-gancho é só o efeito de abertura; o objeto que fica na mão do hook é o pingente (ele está no pó, no primeiro quadro, para a continuidade).

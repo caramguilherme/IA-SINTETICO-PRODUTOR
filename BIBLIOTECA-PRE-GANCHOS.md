@@ -53,9 +53,9 @@ O vídeo do pré-gancho é gerado no modo **Frames** (não Ingredients). Primeir
 O pacote traz `pre_gancho` com: `conceito`, `imagem_prompt` (primeiro quadro, sem referências), `imagem_final_prompt` (último quadro: edição da primeira imagem com o efeito terminado), `video_prompt` (4 s, silencioso, modo **Frames** do Flow: imagem 1 como primeiro quadro e imagem 2 como último), `duracao`, `texto_tela` e `edicao`. O painel mostra a seção "Pré-gancho" antes da IMAGEM 1, com os dois prompts para copiar.
 
 ## Decisão do aluno em 19/10/2026: pré-gancho com o rosto da avatar
-O aluno pediu o melhor pré-gancho possível, "geralmente com o rosto da avatar aparecendo, ela fazendo alguma coisa" (como nos virais U6, U7, V1, V4, R09). Passa a valer: rosto no quadro, 4 a 6 s, um efeito só, imagem inicial gerada a partir do blueprint da Nora (como a IMAGEM 1) e imagem final como edição dela; modo Frames. Ideias escolhidas para o Love Chart (R006 a R009):
-16. **Pó dourado soprado na lente (U6):** ela, na porta, com as mãos em concha cheias de pó dourado, sopra; a nuvem cobre o quadro. (R006, 4 s)
-17. **Linha de louro em chamas até a vela (R09):** ela ajoelhada acende a primeira folha e o fogo corre pelas folhas de louro sobre a linha de sal até a vela; chama no chão, a mais de 60 cm do rosto. (R007, 6 s; plano B: fumaça)
-18. **Esconderijo no chão (U7):** ela ajoelhada abre uma portinhola no assoalho e revela a carta dentro, com o texto "It happens so fast, it's almost scary". (R008, 6 s; plano B: caixa de madeira)
-19. **Fumaça no círculo de sal (V4/R01):** círculo de sal, canela e louro já feito, brasa no centro, ela sopra e a fumaça cresce. Sem chama. (R009, 4 s)
+O aluno pediu o melhor pré-gancho possível, "geralmente com o rosto da avatar aparecendo, ela fazendo alguma coisa" (como nos virais U6, U7, V1, V4, R09). Passa a valer: rosto no quadro, 4 a 6 s, um efeito só, imagem inicial gerada a partir do blueprint da Nora (como a IMAGEM 1) e imagem final como edição dela; modo Frames. Ideias escolhidas para o Love Chart (nora25 a nora28):
+16. **Pó dourado soprado na lente (U6):** ela, na porta, com as mãos em concha cheias de pó dourado, sopra; a nuvem cobre o quadro. (nora25, 4 s)
+17. **Linha de louro em chamas até a vela (R09):** ela ajoelhada acende a primeira folha e o fogo corre pelas folhas de louro sobre a linha de sal até a vela; chama no chão, a mais de 60 cm do rosto. (nora26, 6 s; plano B: fumaça)
+18. **Esconderijo no chão (U7):** ela ajoelhada abre uma portinhola no assoalho e revela a carta dentro, com o texto "It happens so fast, it's almost scary". (nora27, 6 s; plano B: caixa de madeira)
+19. **Fumaça no círculo de sal (V4/R01):** círculo de sal, canela e louro já feito, brasa no centro, ela sopra e a fumaça cresce. Sem chama. (nora28, 4 s)
 

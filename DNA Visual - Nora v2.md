@@ -1,6 +1,6 @@
 # DNA visual — Nora v2 (nova identidade, aprovada pelo aluno em 19/10/2026)
 
-**Vale a partir do R006** (decisão do aluno em 19/10/2026). R001 a R003 são da Dana; R004 e R005 são da Nora v1 (ver `DNA Visual - Nora.md`, agora legado). Nunca misturar as âncoras: a v1 é castanha de sardas e olhos verde-oliva; a v2 é latina de cabelo preto e olhos verde-avelã.
+**Vale a partir do nora25** (decisão do aluno em 19/10/2026). R001 a R003 são da Dana; R004 e R005 são da Nora v1 (ver `DNA Visual - Nora.md`, agora legado). Nunca misturar as âncoras: a v1 é castanha de sardas e olhos verde-oliva; a v2 é latina de cabelo preto e olhos verde-avelã.
 
 Fonte: o blueprint "Character Consistency Reference" da Nora v2 (uma folha só), gerado a partir da imagem 4 aprovada. Nome e @ da conta continuam os mesmos (Nora Kensley, @norakensleytarot).
 

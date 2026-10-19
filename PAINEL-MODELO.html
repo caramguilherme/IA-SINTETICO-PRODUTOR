@@ -54,6 +54,12 @@ textarea:focus{outline:2px solid var(--accent)}
 .chip{display:inline-block;margin:0 6px 6px 0;background:#1d2d68;color:#cfd8ff;border-radius:6px;padding:3px 9px;font:600 12.5px var(--mono)}
 ol.steps{margin:8px 0 0;padding-left:20px;font-size:14.5px;color:var(--ink2)}
 section{scroll-margin-top:16px}
+.pill{display:inline-block;padding:2px 9px;border-radius:999px;font:700 11.5px var(--mono);letter-spacing:.05em;text-transform:uppercase}
+.pill.g{background:#3a2d08;color:#ffe14d;border:1px solid #8a6d12}
+.pill.r{background:#0d3a24;color:#7fe3b0;border:1px solid #1f7a4d}
+.nome{font:700 14.5px var(--mono);color:#ffe14d;word-break:break-all}
+.peca{border:1px solid var(--line);border-radius:10px;padding:12px 14px;background:var(--card2);display:grid;gap:6px}
+.peca.reuso{border-color:#1f7a4d}
 @media(max-width:860px){.wrap{grid-template-columns:1fr}nav.toc{display:none}.card h3{padding-right:0;margin-top:34px}}
 </style>
 </head>
@@ -112,6 +118,11 @@ section{scroll-margin-top:16px}
         <h3>Facebook</h3>
         <div class="box" id="pinFace"></div>
       </div>
+    </section>
+
+    <section class="card hide" id="pecas">
+      <h2>Nomes e reaproveitamento</h2>
+      <div id="pecasBox"></div>
     </section>
 
     <section class="card" id="referencia">
@@ -220,7 +231,7 @@ function itens(){
   const a=[];
   if(pk.pre_gancho){a.push({id:'pre_img',tipo:'pre',titulo:'Imagem do pré-gancho',prompt:''});if(pk.pre_gancho.imagem_final_prompt)a.push({id:'pre_img_fim',tipo:'pre',titulo:'Imagem final do pré-gancho',prompt:''});a.push({id:'pre_vid',tipo:'pre',titulo:'Vídeo do pré-gancho',prompt:''})}
   if(pk.imagem_reutilizada)a.push({id:'img_reuso',tipo:'reuso',titulo:'IMAGEM 1 anexada',prompt:''});
-  else if(pk.imagem_central)a.push({id:'img1',tipo:'imgc',titulo:'IMAGEM 1 (Central de imagens)',prompt:''});
+  else if(pk.imagem_central)(Array.isArray(pk.imagem_central)?pk.imagem_central:[pk.imagem_central]).forEach((ic,i)=>a.push({id:'img'+(i+1),tipo:'imgc',ic:ic,titulo:ic.titulo||'IMAGEM 1 (Central de imagens)',prompt:''}));
   else pk.imagens.forEach((im,i)=>a.push({id:'img'+(i+1),tipo:'img',titulo:im.rotulo,prompt:promptImagem(im),rotulo:'PROMPT IMAGEM '+(i+1)}));
   pk.videos.forEach((v,i)=>a.push({id:'vid'+(i+1),tipo:'vid',titulo:v.rotulo+' · '+(pk.central?'':'cena ')+v.cena,v:v,prompt:pk.central?'':promptVideo(v),rotulo:'PROMPT DE VIDEO '+(i+1)}));
   return a;
@@ -286,6 +297,24 @@ function montarCentral(){
   }
 }
 
+function montarPecas(){
+  const P=pk.pecas;
+  $('pecas').classList.toggle('hide',!P||!P.lista||!P.lista.length);
+  if(!P||!P.lista)return;
+  const gerar=P.lista.filter(x=>x.status==='gerar'),reu=P.lista.filter(x=>x.status==='reutilizar');
+  const cred=gerar.reduce((a,x)=>a+(x.creditos||0),0),eco=reu.reduce((a,x)=>a+(x.creditos||0),0);
+  let h='<p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Cada imagem e cada take tem um <b>nome</b>. Use esse nome para <b>renomear o arquivo no Flow</b> assim que gerar. Quando um take já existe, <b>não gere de novo</b>: pegue o arquivo pelo nome. É assim que não gastamos créditos à toa.</p>'
+   +'<div class="tip" style="margin-bottom:12px"><b>Como ler:</b> <span class="pill g">gerar</span> = você gera agora. <span class="pill r">reutilizar</span> = já foi gerado em outro vídeo, só pegue o arquivo e use na edição. <b>Créditos neste vídeo: '+cred+'</b>'+(eco?' · <b>economia por reaproveitar: '+eco+'</b>':'')+'.</div>';
+  if(P.decisao&&P.decisao.length)h+='<div class="item"><h3>Por que eu decidi assim <span class="tag">com base nas suas métricas</span></h3><ul style="margin:0;padding-left:20px;color:var(--ink2);font-size:14.5px">'+P.decisao.map(x=>'<li>'+esc(x)+'</li>').join('')+'</ul></div>';
+  h+='<div class="item"><h3>As peças deste vídeo</h3><div style="display:grid;gap:10px">'+P.lista.map(x=>'<div class="peca'+(x.status==='reutilizar'?' reuso':'')+'"><div class="row"><span class="nome">'+esc(x.nome)+'</span><span class="tag">'+esc(x.tipo)+'</span><span class="pill '+(x.status==='reutilizar'?'r':'g')+'">'+(x.status==='reutilizar'?'reutilizar':'gerar')+'</span>'+(x.creditos?'<span class="tag">'+x.creditos+' créditos</span>':'')+'</div>'
+    +(x.descricao?'<div style="font-size:14.5px">'+esc(x.descricao)+'</div>':'')
+    +(x.status==='reutilizar'?'<div class="tip" style="font-size:13.5px">Não gere. Use o arquivo <b>'+esc(x.de||x.nome)+'</b> que você já gerou.</div>':'')
+    +(x.base?'<div style="font-size:13.5px;color:var(--ink2)"><b>Base:</b> '+esc(x.base)+'</div>':'')
+    +(x.serve?'<div style="font-size:13.5px;color:var(--ink2)"><b>Serve também em:</b> '+esc(x.serve)+'</div>':'')+'</div>').join('')+'</div></div>';
+  if(P.proximos&&P.proximos.length)h+='<div class="item"><h3>Depois deste vídeo: variações baratas <span class="tag">só gancho novo</span></h3><p style="color:var(--ink2);margin:0 0 8px;font-size:14.5px">'+esc(P.proximos_intro||'')+'</p><div style="display:grid;gap:10px">'+P.proximos.map(x=>'<div class="peca"><div class="row"><span class="nome">'+esc(x.nome)+'</span><span class="tag">'+esc(x.modelo||'')+'</span><span class="tag">≈ '+esc(x.custo||'')+' créditos</span></div><div class="fala">“'+esc(x.gancho)+'”</div><div style="font-size:13.5px;color:var(--ink2)">Texto na tela: '+esc(x.texto||'')+'</div></div>').join('')+'</div></div>';
+  $('pecasBox').innerHTML=h;
+}
+
 function montarPre(){
   const g=pk.pre_gancho;
   $('prehook').classList.toggle('hide',!g);
@@ -294,9 +323,9 @@ function montarPre(){
   $('prehook').querySelector('h2').textContent='Pré-gancho ('+(g.duracao||4)+' s'+(g.com_rosto?', com o rosto da avatar':'')+')';
   $('preBox').innerHTML='<p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">'+esc(g.conceito||'')+'</p>'
     +'<div class="tip" style="margin-bottom:12px"><b>Modo no Flow: FRAMES</b> (não “Ingredients”/elementos).<br><b>Imagem INICIAL (primeiro quadro):</b> imagem 1 abaixo'+(g.quadro_inicial?' — '+esc(g.quadro_inicial):'')+'.<br><b>Imagem FINAL (último quadro):</b> '+(temFim?'imagem 2 abaixo'+(g.quadro_final?' — '+esc(g.quadro_final):''):'nenhuma (deixe o campo do último quadro vazio)')+'.<br>Duração '+esc(g.duracao||4)+' s, vertical 9:16, com o áudio ambiente ligado.</div>'
-    +'<div class="item"><button class="cp" id="cpPreImg">Copiar prompt</button><h3>1) Imagem do pré-gancho <span class="tag">PRIMEIRO quadro</span><span class="tag">9:16</span>'+(g.com_rosto?'<span class="tag">com o rosto da avatar: anexe SÓ o blueprint</span>':'<span class="tag">sem referências anexadas</span>')+'</h3><div class="box m">'+esc(g.imagem_prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_img" '+(feitos.pre_img?'checked':'')+'> Imagem gerada e aprovada</label></div>'
-    +(temFim?'<div class="item"><button class="cp" id="cpPreImgFim">Copiar prompt</button><h3>2) Imagem final do pré-gancho <span class="tag">ÚLTIMO quadro</span><span class="tag">9:16</span><span class="tag">anexe SÓ a imagem 1 aprovada (edição dela)</span></h3><div class="box m">'+esc(g.imagem_final_prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_img_fim" '+(feitos.pre_img_fim?'checked':'')+'> Imagem final gerada e aprovada</label></div>':'')
-    +'<div class="item"><button class="cp" id="cpPreVid">Copiar prompt</button><h3>'+(temFim?'3':'2')+') Vídeo do pré-gancho <span class="tag">'+esc(g.duracao||4)+' s</span><span class="tag">Frames</span><span class="tag">1º quadro: imagem 1</span>'+(temFim?'<span class="tag">último quadro: imagem 2</span>':'<span class="tag">sem último quadro</span>')+'</h3><div class="box m">'+esc(g.video_prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_vid" '+(feitos.pre_vid?'checked':'')+'> Vídeo gerado e aprovado</label></div>'
+    +'<div class="item"><button class="cp" id="cpPreImg">Copiar prompt</button><h3>1) Imagem do pré-gancho <span class="tag">PRIMEIRO quadro</span>'+(g.nome_img1?'<span class="tag">nome: '+esc(g.nome_img1)+'</span>':'')+'<span class="tag">9:16</span>'+(g.com_rosto?'<span class="tag">com o rosto da avatar: anexe SÓ o blueprint</span>':'<span class="tag">sem referências anexadas</span>')+'</h3><div class="box m">'+esc(g.imagem_prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_img" '+(feitos.pre_img?'checked':'')+'> Imagem gerada e aprovada</label></div>'
+    +(temFim?'<div class="item"><button class="cp" id="cpPreImgFim">Copiar prompt</button><h3>2) Imagem final do pré-gancho <span class="tag">ÚLTIMO quadro</span>'+(g.nome_img2?'<span class="tag">nome: '+esc(g.nome_img2)+'</span>':'')+'<span class="tag">9:16</span><span class="tag">anexe SÓ a imagem 1 aprovada (edição dela)</span></h3><div class="box m">'+esc(g.imagem_final_prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_img_fim" '+(feitos.pre_img_fim?'checked':'')+'> Imagem final gerada e aprovada</label></div>':'')
+    +'<div class="item"><button class="cp" id="cpPreVid">Copiar prompt</button><h3>'+(temFim?'3':'2')+') Vídeo do pré-gancho '+(g.nome_video?'<span class="tag">nome: '+esc(g.nome_video)+'</span>':'')+'<span class="tag">'+esc(g.duracao||4)+' s</span><span class="tag">Frames</span><span class="tag">1º quadro: imagem 1</span>'+(temFim?'<span class="tag">último quadro: imagem 2</span>':'<span class="tag">sem último quadro</span>')+'</h3><div class="box m">'+esc(g.video_prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_vid" '+(feitos.pre_vid?'checked':'')+'> Vídeo gerado e aprovado</label></div>'
     +'';
   if(temFim)$('cpPreImgFim').onclick=e=>copiar(g.imagem_final_prompt,e.currentTarget);
   $('cpPreImg').onclick=e=>copiar(g.imagem_prompt,e.currentTarget);
@@ -308,8 +337,8 @@ function montarPre(){
 function ordenar(){
   const c=pk.central;
   const ord=c
-    ?['referencia','prehook','imagens','todos','central','cenas','agente','story','textotela','fala','descricao','comentario']
-    :['referencia','prehook','imagens','videos','todos','story','textotela','fala','descricao','comentario'];
+    ?['pecas','referencia','prehook','imagens','todos','central','cenas','agente','story','textotela','fala','descricao','comentario']
+    :['pecas','referencia','prehook','imagens','videos','todos','story','textotela','fala','descricao','comentario'];
   const pn=$('painel');
   $('todos').classList.toggle('hide',!!pk.imagem_reutilizada||!!pk.imagem_central);
   $('imagens').querySelector('h2').textContent=pk.imagem_reutilizada?'Imagem 1 (a mesma de outro roteiro, não gerar)':(pk.imagem_central?'Imagem 1 na Central de imagens':'Imagens');
@@ -363,7 +392,7 @@ function montar(silencio){
   $('telaAlt').textContent=tt.hook_alt?'Alternativa: '+tt.hook_alt:'';$('telaAlt').classList.toggle('hide',!tt.hook_alt);
   $('telaExtras').innerHTML=(tt.extras||[]).map(e=>'<div style="margin-bottom:8px"><b>'+esc(e.texto)+'</b><br><span style="color:var(--ink2)">'+(e.comeca?'Começa em: “'+esc(e.comeca)+'”'+(e.termina?' → termina em: “'+esc(e.termina)+'”':''):esc(e.quando||''))+'</span></div>').join('');$('telaExtras').classList.toggle('hide',!(tt.extras&&tt.extras.length));
   $('refs').innerHTML=(pk.refs||[]).map(x=>'<span class="chip">'+esc(x)+'</span>').join('')||'<i>(a IA não listou)</i>';
-  $('falas').textContent=pk.videos.map(v=>v.rotulo+' · '+(pk.central?'':'cena ')+v.cena+'\n“'+v.fala+'”').join('\n\n');
+  $('falas').textContent=pk.videos.map(v=>v.rotulo+' · '+(pk.central?'':'cena ')+v.cena+'\n“'+v.fala+'”').join('\n\n')+((pk.pecas&&pk.pecas.lista||[]).filter(x=>x.status==='reutilizar'&&x.fala).map(x=>'\n\n'+x.nome+' (reutilizado de '+(x.de||'outro vídeo')+')\n“'+x.fala+'”').join(''));
   $('listaImg').innerHTML='';$('listaVid').innerHTML='';
   itens().forEach(it=>{
     if(it.tipo==='reuso'){
@@ -375,16 +404,16 @@ function montar(silencio){
       $('listaImg').appendChild(d);return;
     }
     if(it.tipo==='imgc'){
-      const ic=pk.imagem_central;
+      const ic=it.ic;
       const d=document.createElement('div');d.className='item'+(feitos[it.id]?' done':'');
-      let h='<h3>'+esc(it.titulo)+' <span class="tag">9:16</span><span class="tag">com o blueprint</span></h3>'
+      let h='<h3>'+esc(it.titulo)+(ic.nome?' <span class="tag">nome: '+esc(ic.nome)+'</span>':'')+' <span class="tag">9:16</span><span class="tag">com o blueprint</span></h3>'
         +'<p style="color:var(--ink2);margin:0 0 10px;font-size:14.5px">'+esc(ic.aviso||'')+'</p>'
         +(ic.passos&&ic.passos.length?'<ol class="steps">'+ic.passos.map(x=>'<li>'+esc(x)+'</li>').join('')+'</ol>':'');
       (ic.grupos||[]).forEach((g,gi)=>{
         h+='<div class="item" style="margin-top:10px"><h3>'+esc(g.titulo)+(g.nota?' <span class="tag">'+esc(g.nota)+'</span>':'')+'</h3>'
           +(g.campos||[]).map((k,i)=>'<div style="margin:6px 0"><b>'+esc(k.campo)+':</b> '+(k.copiar?'<button class="btn cpi" data-g="'+gi+'" data-i="'+i+'" style="margin-left:6px">Copiar</button><div class="box m" style="margin-top:6px">'+esc(k.valor)+'</div>':esc(k.valor))+'</div>').join('')+'</div>';
       });
-      h+='<label class="chk"><input type="checkbox" '+(feitos[it.id]?'checked':'')+'> IMAGEM 1 gerada e aprovada</label>';
+      h+='<label class="chk"><input type="checkbox" '+(feitos[it.id]?'checked':'')+'> '+esc(ic.nome||'IMAGEM 1')+' gerada e aprovada</label>';
       d.innerHTML=h;
       d.querySelectorAll('.cpi').forEach(b=>{b.onclick=e=>copiar(ic.grupos[+b.dataset.g].campos[+b.dataset.i].valor,e.currentTarget)});
       d.querySelector('input[type=checkbox]').onchange=e=>{feitos[it.id]=e.target.checked;d.classList.toggle('done',e.target.checked);progresso();salvar()};
@@ -407,6 +436,7 @@ function montar(silencio){
   });
   montarCentral();
   montarPre();
+  montarPecas();
   ordenar();
   $('painel').classList.remove('hide');
   progresso();salvar();
