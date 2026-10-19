@@ -22,7 +22,7 @@ Fonte: o blueprint "Character Consistency Reference" da Nora v2 (uma folha só),
 ## Regras de uso nos prompts
 - **A folha é a única referência de identidade** (uma imagem anexada). Na imagem final o rosto tem de ser o do retrato frontal grande: mesmos olhos, lua, estrelas, brincos, trança e cabelo.
 - **A IMAGEM 1 é uma GERAÇÃO a partir da folha** (a Nora v2 não tem foto de validação em cena); as demais imagens do roteiro (pré-gancho, final, story) seguem as regras do P14, P19 e LICOES.
-- **Não baixar a folha do Flow com ampliação (upscale)**: no download ela saiu com uma área "derretida" no meio; no Flow a imagem estava limpa. Usar a folha direto do Flow (biblioteca ou ingrediente) ou baixar no tamanho original.
+- **Baixar a folha do Flow sempre em 1K.** Em 1K sai limpa; em 2K ela sai com uma área "derretida" no meio (confirmado pelo aluno em 19/10/2026). A folha oficial é a versão baixada em 1K. No Flow, também pode usar a folha direto da biblioteca como ingrediente.
 - Nunca usar a âncora da Dana nem a da Nora v1.
 
 ## Âncora principal para Google Flow (inglês)
