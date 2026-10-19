@@ -220,6 +220,7 @@ function itens(){
   const a=[];
   if(pk.pre_gancho){a.push({id:'pre_img',tipo:'pre',titulo:'Imagem do pré-gancho',prompt:''});if(pk.pre_gancho.imagem_final_prompt)a.push({id:'pre_img_fim',tipo:'pre',titulo:'Imagem final do pré-gancho',prompt:''});a.push({id:'pre_vid',tipo:'pre',titulo:'Vídeo do pré-gancho',prompt:''})}
   if(pk.imagem_reutilizada)a.push({id:'img_reuso',tipo:'reuso',titulo:'IMAGEM 1 anexada',prompt:''});
+  else if(pk.imagem_central)a.push({id:'img1',tipo:'imgc',titulo:'IMAGEM 1 (Central de imagens)',prompt:''});
   else pk.imagens.forEach((im,i)=>a.push({id:'img'+(i+1),tipo:'img',titulo:im.rotulo,prompt:promptImagem(im),rotulo:'PROMPT IMAGEM '+(i+1)}));
   pk.videos.forEach((v,i)=>a.push({id:'vid'+(i+1),tipo:'vid',titulo:v.rotulo+' · '+(pk.central?'':'cena ')+v.cena,v:v,prompt:pk.central?'':promptVideo(v),rotulo:'PROMPT DE VIDEO '+(i+1)}));
   return a;
@@ -310,8 +311,8 @@ function ordenar(){
     ?['referencia','prehook','imagens','todos','central','cenas','agente','story','textotela','fala','descricao','comentario']
     :['referencia','prehook','imagens','videos','todos','story','textotela','fala','descricao','comentario'];
   const pn=$('painel');
-  $('todos').classList.toggle('hide',!!pk.imagem_reutilizada);
-  $('imagens').querySelector('h2').textContent=pk.imagem_reutilizada?'Imagem 1 (a mesma de outro roteiro, não gerar)':'Imagens';
+  $('todos').classList.toggle('hide',!!pk.imagem_reutilizada||!!pk.imagem_central);
+  $('imagens').querySelector('h2').textContent=pk.imagem_reutilizada?'Imagem 1 (a mesma de outro roteiro, não gerar)':(pk.imagem_central?'Imagem 1 na Central de imagens':'Imagens');
   ord.forEach(id=>pn.appendChild($(id)));if(c)pn.appendChild($('videos'));
   let n=0;const links=[];
   ord.forEach(id=>{
@@ -371,6 +372,22 @@ function montar(silencio){
       d.innerHTML='<div class="tip"><b>Não gere imagem neste roteiro.</b> '+esc(ir.aviso||('Use o arquivo '+ir.arquivo+'.'))+'</div>'
         +'<label class="chk"><input type="checkbox" '+(feitos[it.id]?'checked':'')+'> Arquivo '+esc(ir.arquivo||'IMAGEM 1')+' separado para anexar</label>';
       d.querySelector('input').onchange=e=>{feitos[it.id]=e.target.checked;d.classList.toggle('done',e.target.checked);progresso();salvar()};
+      $('listaImg').appendChild(d);return;
+    }
+    if(it.tipo==='imgc'){
+      const ic=pk.imagem_central;
+      const d=document.createElement('div');d.className='item'+(feitos[it.id]?' done':'');
+      let h='<h3>'+esc(it.titulo)+' <span class="tag">9:16</span><span class="tag">com o blueprint</span></h3>'
+        +'<p style="color:var(--ink2);margin:0 0 10px;font-size:14.5px">'+esc(ic.aviso||'')+'</p>'
+        +(ic.passos&&ic.passos.length?'<ol class="steps">'+ic.passos.map(x=>'<li>'+esc(x)+'</li>').join('')+'</ol>':'');
+      (ic.grupos||[]).forEach((g,gi)=>{
+        h+='<div class="item" style="margin-top:10px"><h3>'+esc(g.titulo)+(g.nota?' <span class="tag">'+esc(g.nota)+'</span>':'')+'</h3>'
+          +(g.campos||[]).map((k,i)=>'<div style="margin:6px 0"><b>'+esc(k.campo)+':</b> '+(k.copiar?'<button class="btn cpi" data-g="'+gi+'" data-i="'+i+'" style="margin-left:6px">Copiar</button><div class="box m" style="margin-top:6px">'+esc(k.valor)+'</div>':esc(k.valor))+'</div>').join('')+'</div>';
+      });
+      h+='<label class="chk"><input type="checkbox" '+(feitos[it.id]?'checked':'')+'> IMAGEM 1 gerada e aprovada</label>';
+      d.innerHTML=h;
+      d.querySelectorAll('.cpi').forEach(b=>{b.onclick=e=>copiar(ic.grupos[+b.dataset.g].campos[+b.dataset.i].valor,e.currentTarget)});
+      d.querySelector('input[type=checkbox]').onchange=e=>{feitos[it.id]=e.target.checked;d.classList.toggle('done',e.target.checked);progresso();salvar()};
       $('listaImg').appendChild(d);return;
     }
     if(it.tipo==='pre'||(pk.central&&it.tipo==='vid'))return;
