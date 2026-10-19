@@ -219,7 +219,8 @@ function promptVideo(v){
 function itens(){
   const a=[];
   if(pk.pre_gancho){a.push({id:'pre_img',tipo:'pre',titulo:'Imagem do pré-gancho',prompt:''});if(pk.pre_gancho.imagem_final_prompt)a.push({id:'pre_img_fim',tipo:'pre',titulo:'Imagem final do pré-gancho',prompt:''});a.push({id:'pre_vid',tipo:'pre',titulo:'Vídeo do pré-gancho',prompt:''})}
-  pk.imagens.forEach((im,i)=>a.push({id:'img'+(i+1),tipo:'img',titulo:im.rotulo,prompt:promptImagem(im),rotulo:'PROMPT IMAGEM '+(i+1)}));
+  if(pk.imagem_reutilizada)a.push({id:'img_reuso',tipo:'reuso',titulo:'IMAGEM 1 anexada',prompt:''});
+  else pk.imagens.forEach((im,i)=>a.push({id:'img'+(i+1),tipo:'img',titulo:im.rotulo,prompt:promptImagem(im),rotulo:'PROMPT IMAGEM '+(i+1)}));
   pk.videos.forEach((v,i)=>a.push({id:'vid'+(i+1),tipo:'vid',titulo:v.rotulo+' · '+(pk.central?'':'cena ')+v.cena,v:v,prompt:pk.central?'':promptVideo(v),rotulo:'PROMPT DE VIDEO '+(i+1)}));
   return a;
 }
@@ -308,6 +309,8 @@ function ordenar(){
     ?['referencia','prehook','imagens','todos','central','cenas','agente','story','textotela','fala','descricao','comentario']
     :['referencia','prehook','imagens','videos','todos','story','textotela','fala','descricao','comentario'];
   const pn=$('painel');
+  $('todos').classList.toggle('hide',!!pk.imagem_reutilizada);
+  $('imagens').querySelector('h2').textContent=pk.imagem_reutilizada?'Imagem 1 (a mesma de outro roteiro, não gerar)':'Imagens';
   ord.forEach(id=>pn.appendChild($(id)));if(c)pn.appendChild($('videos'));
   let n=0;const links=[];
   ord.forEach(id=>{
@@ -361,6 +364,14 @@ function montar(silencio){
   $('falas').textContent=pk.videos.map(v=>v.rotulo+' · '+(pk.central?'':'cena ')+v.cena+'\n“'+v.fala+'”').join('\n\n');
   $('listaImg').innerHTML='';$('listaVid').innerHTML='';
   itens().forEach(it=>{
+    if(it.tipo==='reuso'){
+      const ir=pk.imagem_reutilizada;
+      const d=document.createElement('div');d.className='item'+(feitos[it.id]?' done':'');
+      d.innerHTML='<div class="tip"><b>Não gere imagem neste roteiro.</b> '+esc(ir.aviso||('Use o arquivo '+ir.arquivo+'.'))+'</div>'
+        +'<label class="chk"><input type="checkbox" '+(feitos[it.id]?'checked':'')+'> Arquivo '+esc(ir.arquivo||'IMAGEM 1')+' separado para anexar</label>';
+      d.querySelector('input').onchange=e=>{feitos[it.id]=e.target.checked;d.classList.toggle('done',e.target.checked);progresso();salvar()};
+      $('listaImg').appendChild(d);return;
+    }
     if(it.tipo==='pre'||(pk.central&&it.tipo==='vid'))return;
     const d=document.createElement('div');d.className='item'+(feitos[it.id]?' done':'');
     let alerta='';
