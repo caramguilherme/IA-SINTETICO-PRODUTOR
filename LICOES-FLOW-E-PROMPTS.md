@@ -191,3 +191,8 @@ O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a ge
 ## 20/10/2026 — posição da legenda (nora28 → nora29 em diante)
 - A legenda do nora28 ficou em uns 65% da altura e, nos takes em que ela mostra o mapa (o objeto do hook), cobriu o objeto. No CTA o objeto sobe, então a faixa "segura" precisa levar isso em conta.
 - Regra nova (P31): painel com mapa da tela (faixas em % e pixels, desenho, 3 quadros para conferir) e confirmação da faixa exata depois que o aluno me mandar a IMAGEM 1 aprovada. Template `PAINEL-MODELO.html` ganhou o bloco `mapa_tela`.
+
+## 20/10/2026 — IMAGEM 1 do nora29: mãos trocadas de novo
+- A Central gerou o geodo na mão ESQUERDA dela (lado direito da imagem), e não na direita como o prompt pedia (mesma troca do nora28). A imagem é boa (rosto da Nora v2, lua com 3 estrelas, brincos, colar de Vênus, broche, abajur, bandeira, geodo com anel), então a correção foi nas **linhas de movimentação do painel**, que passaram a dizer geodo na mão esquerda e gestos com a direita, em vez de espelhar a imagem (espelhar inverte a bandeira e a lua da bochecha).
+- Regra: depois de aprovar a IMAGEM 1, conferir de que lado está o objeto e ajustar as linhas de movimentação ao que a imagem mostra.
+- O enquadramento saiu mais aberto que o pedido (até os joelhos, e não dos ombros para cima); aceitável, a faixa da legenda de 60 a 70% continua livre do rosto e do objeto.
