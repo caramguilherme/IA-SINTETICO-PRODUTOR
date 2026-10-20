@@ -59,3 +59,11 @@ O aluno pediu o melhor pré-gancho possível, "geralmente com o rosto da avatar 
 18. **Esconderijo no chão (U7):** ela ajoelhada abre uma portinhola no assoalho e revela a carta dentro, com o texto "It happens so fast, it's almost scary". (nora27, 6 s; plano B: caixa de madeira)
 19. **Fumaça no círculo de sal (V4/R01):** círculo de sal, canela e louro já feito, brasa no centro, ela sopra e a fumaça cresce. Sem chama. (nora28, 4 s)
 
+
+## Ideias vindas do lote de 20/10/2026 (ver seção 19 de `BIBLIOTECA-VIDEOS-VIRAIS.md`)
+Todas com 3 a 6 s, 2 a 5 cortes e algo novo a cada 0,5 a 1,5 s:
+20. **Curativo colado numa calcinha de renda (w1, w2):** macro das mãos, “What the hell did you just do?” (roupa íntima sem nudez, P15).
+21. **Geodo que racha ao meio nas mãos dela (w4):** ela aperta com esforço, a pedra trinca, abre e mostra cristais, ouro e dois anéis (para o Love Chart: dois anéis ou um anel e um coração dentro).
+22. **Louro e sal debaixo do tapete do carro (w6):** levanta o tapete, joga o louro, despeja o sal, repõe o tapete.
+23. **Compartimento no rodapé com maços de dinheiro (w7)** e **estrado da cama que se rasga e mostra pilhas de notas (w8):** para o Love Chart, trocar o dinheiro por cartas, cartas de amor ou um diário.
+24. **Linha de sal na soleira que pega fogo alto (w9):** ela despeja, acende com isqueiro, o fogo corre e ela passa a mão por cima (mão longe da chama de perto; chama no chão, nunca perto do rosto).

@@ -382,3 +382,42 @@ No U8 o objeto do ritual (celular e folha de louro) acaba no chão, no quadro, e
 8. **Seta vermelha no fim, "222" no canto esquerdo e "11:11" no direito** como padrão de edição (o aluno decide).
 
 O que continua fora está na seção 12 (P15).
+
+---
+
+## 19. Lote de 20/10/2026: 10 vídeos de outras contas (o aluno pesquisou e filtrou)
+O aluno enviou 10 vídeos recentes (arquivos w1 a w10; views e @ não informados, só o critério “conta de 10 mil seguidores com bom resultado”). **Todos são Manifestation (prosperidade, dinheiro e amor), nenhum é Soulmate nem Love Chart**: servem de modelo de estrutura, pré-gancho, ritmo e edição, não de oferta. Transcrição com whisper, quadros e cortes (detecção de cena nos primeiros 12 s).
+
+| # | Vídeo | Duração | Palavras | Pré-gancho (cortes até 12 s) | Gancho falado | Edição |
+|---|---|---|---|---|---|---|
+| w1 | macro das mãos: curativo colado numa calcinha de renda vermelha | 110 s | 292 | **sim**, ~2,5 s, mãos e objeto, depois corta para o rosto | “What the hell did you just do? Seriously, after seeing this, keep your mouth shut.” | “888”, “11 11” e “222” fixos, “AMEN” na base, legenda palavra a palavra colorida |
+| w2 | o mesmo, calcinha azul (outra conta, outra data) | 116 s | 294 | **sim** (cortes em 0,1 / 1,3 / 3,9 s) | igual ao w1, com “before October 20th” | igual |
+| w3 | geodo de ametista na mão, fundo azul | 107 s | 307 | **não** (direto no gancho) | “Gemini, Libra, or Aquarius. Keep your mouth shut if this video showed up for you on October 17th or 18th.” | caixa branca no topo “pay very close attention” (palavra em vermelho) e legenda |
+| w4 | **geodo que racha ao meio nas mãos dela e mostra cristais, ouro e dois anéis** | 115 s | 309 | **sim**, ~4 s, rosto grande e fazendo esforço, **8 ações em ~3 s** (aperta, trinca, abre, revela) | “Taurus, Virgo, or Capricorn? Keep your mouth shut… October 18th, 19th, or 20th.” | mesma caixa do topo; bandeiras dos EUA e do Japão ao fundo |
+| w5 | o mesmo geodo, fundo com bandeiras EUA e Japão | 109 s | 308 | não | “Cancer, Scorpio, or Pisces. Keep your mouth shut… October 19th, 20th, or 21st.” | caixa do topo |
+| w6 | **carro real: folhas de louro e sal debaixo do tapete do carro** | 59 s | 154 | **sim**, ~4,8 s, 3 cortes (levanta o tapete, joga o louro, despeja o sal, repõe o tapete), depois olha para a lente e aponta | “This video will find you on October 19th or 20th, and if it does, it’s 100% meant for you.” | texto do topo “It works so fast it’s scary…”, “11:11” |
+| w7 | **careca, compartimento escondido no rodapé com maços de dinheiro** | 101 s | 242 | **sim**, ~4 s, 1 corte + **flash branco**, ela agachada abre o vão e conta as notas | “If you are watching this video on the 18th or 19th day of October, stay quiet…” | “It works so fast it’s scary…”, “333” fixo, legenda |
+| w8 | **avó rasga o tecido do estrado da cama e mostra maços de notas de US$ 100**, depois “3, 2, 1” | 87 s | 220 | **sim**, ~5 s, 4 cortes (rasga, mostra a pilha, nota de 100 em close) | “3, 2, 1. Two people ignored this video, but you won’t be the third. If you skip this video, blessings of love and money will pass you by too.” | contagem na tela |
+| w9 | **avó de blazer de estrelas despeja sal na soleira, acende com isqueiro e o fogo sobe alto; ela passa a mão por cima** | 129 s | 366 | **sim**, ~6 s, 5 cortes (despeja, acende, o fogo corre, chama de 30 a 50 cm) | “If this blessing doesn’t happen in your life before October 22nd, I’ll change my name.” | “444” fixo, legenda |
+| w10 | mulher de óculos aponta o dedo para a lente | 130 s | 324 | **não** | “A deceased member of your family who is in heaven has asked me to deliver a very important message to you.” (**fora**: falar em nome de falecido, P15) | “888”, “11 11”, “222”, “AMEN”, bandeiras EUA e Reino Unido |
+
+### 19.1 O que se repete
+- **8 de 10 abrem com um pré-gancho de objeto ou ritual de 3 a 6 s com 2 a 5 cortes** (w1, w2, w4, w6, w7, w8, w9); só w3, w5 e w10 vão direto para o rosto. Em todos o pré-gancho tem **algo novo a cada 0,5 a 1,5 s**: revelar um esconderijo (w7, w8), rachar um objeto (w4), fogo alto que corre (w9), macro de mãos (w1, w2, w6). Isso confirma o P29.
+- **O corpo é o mesmo molde quase palavra por palavra** (w1, w2, w3, w4, w5, w9, w10): datas (“before October 21st”, “if this showed up on October 17th or 18th”), “keep your mouth shut / don’t tell anyone”, “I don’t know your name”, “the universe chose you”, “if you skip/turn your back, the blessings will turn their backs on you too”, “the worst is finally over”, “the chains … being broken”, “the love block … goes back to whoever sent it”, **prazo curto (“in 7 minutes”, “in 33 minutes”)**, “send this video to yourself”, **selos** (curtir, salvar, compartilhar ou toque duplo) e **“type 222 so I can see you did everything”**, promessa de “good news tomorrow at 10:10 / 11:11 am” e o fecho **“tap my profile picture and check my stories before they disappear, the second part of this sign is waiting for you”** (w1 a w9, igual ao nosso CTA do story).
+- **Ganchos novos:** a **data como gancho** (w3 a w7, w9); “**3, 2, 1. Two people ignored this video, but you won’t be the third**” (w8); “**this is the fourth time the universe has tried to reach you**” (w9); “**What the hell did you just do?**” (w1 e w2, ligado ao que a mão fez no pré-gancho); “I’ll change my name” (w9); “**It works so fast it’s scary…**” no topo (w6, w7, o mesmo do U7).
+- **Edição:** número ou palavra fixo no canto durante o vídeo inteiro (**222, 888, 11:11, 333, 444, “AMEN” pequeno na base**), legenda palavra a palavra colorida, caixa branca no topo nos vídeos de signos, e flash branco na transição (w7).
+- **Cenário:** bandeiras dos EUA (com Japão ou Reino Unido) ao fundo (w4, w5, w10), casa e carro americanos (w6, w8, w9).
+- **Duração:** 87 a 130 s (154 a 366 palavras); o w6 é o curto (59 s).
+
+### 19.2 O que entra na Nora (Love Chart)
+1. **Pré-gancho com revelação em várias ações** (w4, w7, w8), que é o que já estamos fazendo no nora26 a nora28.
+2. **Gancho de data** (“if this video showed up for you on October 21st”) e **“I don’t know your name”**, “not everyone will see this before…”, para os próximos roteiros (nora29 em diante).
+3. **Contagem “3, 2, 1. Two people ignored this video, but you won’t be the third”** como gancho de escassez e de prova social (sem inventar número de atendidas: aqui é uma contagem de teatro).
+4. **“It’s not bad luck…”** continua sendo nossa virada; os selos, o 222 e o fecho do story já são iguais.
+5. **Edição:** testar o **número fixo (222 ou 11:11) ao lado da palavra-código**, e a pequena tag “AMEN”, como teste em um dos próximos vídeos.
+6. **Fogo alto e fogo correndo (w9) e revelação de esconderijo (w7, w8)** confirmam os pré-ganchos do nora26 e do nora27.
+
+### 19.3 O que NÃO copiar
+- **w10: “um parente falecido pediu que eu entregasse uma mensagem”** (P15: só se o aluno pedir esse item pelo nome).
+- Prometer dinheiro como único tema: a Nora é do Love Chart (amor e padrão de Vênus); o dinheiro aparece só como bônus de destino, sem número fixo de reais.
+- Nome de app, preço, comissão e afiliado continuam fora de tudo.
