@@ -6,7 +6,7 @@ Toda imagem e todo take do projeto tem um **nome**. O nome serve para renomear o
 O aluno comprou **1000 créditos** no Google por US$ 1 e eles já entraram. **Créditos não são mais um limite:** cada vídeo é gerado completo (pré-gancho com rosto, gancho, corpo e o CTA dele), com os melhores roteiros possíveis. O reaproveitamento acontece **depois**, peça por peça, conforme eu for decidindo.
 
 ## Numeração (decisão do aluno, 19/10/2026)
-O número do vídeo é a ordem de postagem na conta: **nora01 a nora26 já foram postados** (nora23 = R004, nora24 = R005, nora25 em 19/10/2026 às 20h15, nora26 em 20/10/2026 às 8h35). O próximo é **nora27**, (antes R008), nora28 (antes R009), nora29 e assim por diante. A partir daqui o código é sempre `noraNN`.
+O número do vídeo é a ordem de postagem na conta: **nora01 a nora26 já foram postados** (nora23 = R004, nora24 = R005, nora25 em 19/10/2026 às 20h15, nora26 em 20/10/2026 às 8h35). Em 20/10/2026 saem nora27 (13h30), nora28 (17h), nora29 (19h) e nora30 (21h). O próximo é **nora31**, e assim por diante. A partir daqui o código é sempre `noraNN`.
 
 ## Como nomear
 - Pré-gancho: `noraNN-PRE-IMG1` (imagem inicial), `noraNN-PRE-IMG2` (imagem final), `noraNN-PRE` (vídeo).
@@ -62,15 +62,36 @@ O número do vídeo é a ordem de postagem na conta: **nora01 a nora26 já foram
 | `nora28-T5-cta-a-quiz-venus` | “You can find yours. In my story, a free astrology quiz finds your Venu…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora28-T6-cta-b-salve-chart` | “Save this right now. Comment CHART so I know you did it. Tap my photo …” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 
+| `nora29-PRE-A` / `-PRE-B` / `-PRE-V1` / `-PRE-C` / `-PRE-D` / `-PRE-V2` | pré-gancho em 2 tomadas (geodo que racha + anel erguido) | só deste vídeo | a gerar (postar 20/10 às 19h) |
+| `nora29-IMG` | imagem 1 do vídeo (Central de imagens) | variações do mesmo kit, se performar | a gerar |
+| `nora29-T1-gancho-contagem` | “3, 2, 1. Most people scrolled past this. If it found you on October 20th or 21st…” | só deste vídeo | a gerar |
+| `nora29-T2-corpo-ele-some` | “I don't know your name, but he texts for days. Then he goes quiet…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
+| `nora29-T3-corpo-nao-e-azar` | “It's not bad luck. In astrology, that quiet has a pattern…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
+| `nora29-T4-corpo-curious-heart` | “One Venus pattern is called The Curious Heart…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
+| `nora29-T5-corpo-sem-adivinhar` | “Imagine opening your chart and seeing why the same story keeps finding you…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
+| `nora29-T6-corpo-nao-passe` | “Don't scroll past this one. If you do, this sign won't reach you again…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
+| `nora29-T7-cta-a-quiz-venus` | “The next part is in my story. A free astrology quiz finds your Venus…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
+| `nora29-T8-cta-b-comente-222` | “Send this to yourself. Comment 222 so I know you did it…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
+| `nora30-PRE-A` / `-PRE-B` / `-PRE-V1` / `-PRE-C` / `-PRE-D` / `-PRE-V2` | pré-gancho em 2 tomadas (tapete do carro + louro + sal) | só deste vídeo | a gerar (postar 20/10 às 21h) |
+| `nora30-IMG` | imagem 1 do vídeo (Central de imagens) | variações do mesmo kit, se performar | a gerar |
+| `nora30-T1-gancho-quarto-sinal` | “This is the fourth time the universe has tried to reach you…” | só deste vídeo | a gerar |
+| `nora30-T2-corpo-quente-frio` | “You told yourself it was in your head. It wasn't. He's warm on Monday…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
+| `nora30-T3-corpo-padrao-venus` | “It's not bad luck, and it's not you. In astrology, hot and cold is a pattern…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
+| `nora30-T4-corpo-steady-heart` | “Some Venus patterns chase the spark. Others, like The Steady Heart…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
+| `nora30-T5-corpo-sem-adivinhar` | “Picture a love that doesn't make you guess…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
+| `nora30-T6-corpo-nao-espera` | “If you scroll past this, I can't send it again…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
+| `nora30-T7-cta-a-quiz-venus` | “Part two is waiting in my story. A free astrology quiz finds your Venus…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
+| `nora30-T8-cta-b-comente-444` | “Save this video now. Comment 444 so I know you saw it…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
+
 ## Variações baratas (só gancho novo), se o nora25 virar kit campeão
 O corpo (T2 a T6), o CTA e a imagem do nora25 servem com qualquer gancho de padrão ou de Vênus. Ganchos escolhidos nos modelos dos seus campeões:
 
 | Nome | Modelo | Gancho (fala) | Texto na tela |
 |---|---|---|---|
-| `nora29-T1-gancho-nunca-foi-seu` | modelo B3 (2.551 views) | “Wipe your tears. The man who keeps leaving was never your person. It's not bad luck. It's your Venus.” | He was never your person. |
-| `nora30-T1-gancho-ultimo-sinal` | modelo C4 (1.427 views) | “This is the last sign the universe will send you about him. Don't scroll past it. Your Venus has been telling you.” | Your last sign about him |
-| `nora31-T1-gancho-para-de-olhar` | modelo B1 / R1V | “If you still check his Instagram at night, stop. What I'm about to show you explains why you keep going back.” | Stop checking his Instagram. |
-| `nora32-T1-gancho-nao-era-ele` | modelo B2 / B2V | “He wasn't the one. And in the next few days, you're going to understand why. It starts with your Venus.” | He wasn't the one. |
+| `nora31-T1-gancho-nunca-foi-seu` | modelo B3 (2.551 views) | “Wipe your tears. The man who keeps leaving was never your person. It's not bad luck. It's your Venus.” | He was never your person. |
+| `nora32-T1-gancho-ultimo-sinal` | modelo C4 (1.427 views) | “This is the last sign the universe will send you about him. Don't scroll past it. Your Venus has been telling you.” | Your last sign about him |
+| `nora33-T1-gancho-para-de-olhar` | modelo B1 / R1V | “If you still check his Instagram at night, stop. What I'm about to show you explains why you keep going back.” | Stop checking his Instagram. |
+| `nora34-T1-gancho-nao-era-ele` | modelo B2 / B2V | “He wasn't the one. And in the next few days, you're going to understand why. It starts with your Venus.” | He wasn't the one. |
 
 O painel de cada variação eu monto quando o aluno pedir.
 

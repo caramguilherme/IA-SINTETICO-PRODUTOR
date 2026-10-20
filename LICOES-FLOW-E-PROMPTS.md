@@ -160,6 +160,12 @@ O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a ge
 ## 20/10/2026 — nora27 refeito no padrão P29 (modelo U7)
 - Pré-gancho do nora27 em 2 tomadas, como o viral U7 (levantar o tapete e a tábua e revelar o esconderijo, cerca de 8 ações em 4 s): tomada 1 = ela arranca o tapete, abre o vão com uma barra de ferro e o pó sobe (A para B); tomada 2 = bem perto, duas mãos tiram o pacote de veludo e abrem, e a carta Os Enamorados aparece na frente da lente (C para D). Mesma regra: primeiro quadro antes da causa, roteiro de cena com tempo e movimento a cada segundo, corte seco no CapCut.
 
+## 20/10/2026 — nora29 e nora30: padrão P28/P29 desde o primeiro painel
+- Pré-gancho em 2 tomadas (A→B com o rosto; C→D macro só das mãos), cada vídeo de 4 s com roteiro de cena segundo a segundo, “o que NÃO pode acontecer” e primeiro quadro ANTES da causa (pedra fechada e inteira; tapete deitado e sem folhas no carpete; anel entre os cristais; folhas ainda sem sal).
+- Mãos: toda vez que importa, o prompt diz qual mão está em qual lado da imagem (“her right hand, on the left side of the image”), porque o modelo troca as mãos (lição do nora28).
+- O objeto que aparece no último quadro da tomada 1 já prepara a tomada 2 (o anel dourado fica visível entre os cristais da metade na mão direita; as folhas espalhadas no carpete são as da tomada 2).
+- Luz escura em que o próprio efeito é a luz (abajur e luz de teto do carro), câmera rente ou macro; Portra 400 com “Blue hour” e luz mista (sem “Portra 800 nostálgico”, que gerou carimbo de data no nora25).
+
 ## 20/10/2026 — nora28 refeito no padrão P29 e horários
 - Pré-gancho do nora28 em 2 tomadas (modelos S2, R01 e V4): tomada 1 = câmera no chão olhando de cima o círculo de sal, o sal cai, fecha o círculo e um isqueiro acende o feixe (A para B, só mãos); tomada 2 = a imagem que o aluno já gerou (ela soprando) vira a fumaça grossa em direção à lente (C para D). A imagem do aluno foi reaproveitada como “C”.
 - Horários combinados (20/10): nora26 8h30 (manhã, com hashtag), nora27 13h30 (início da tarde, sem hashtag), nora28 17h (com), nora29 19h (sem), nora30 21h (com), sempre 2 h ou mais de intervalo. Faltam os painéis do nora29 e do nora30.
