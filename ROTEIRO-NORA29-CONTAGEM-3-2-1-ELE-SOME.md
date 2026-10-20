@@ -107,6 +107,6 @@ Pré-gancho: `nora29-PRE-A`, `-PRE-B`, `-PRE-V1`, `-PRE-C`, `-PRE-D`, `-PRE-V2`.
 ## Notas editoriais e factuais
 - “The Curious Heart” é o nome de um padrão que o quiz dá (tela 20 do briefing), não o resultado de ninguém; a Nora diz “one pattern is called…”.
 - “That quiet has a pattern, and it depends on your Venus” é a virada oficial do funil, com “in astrology”.
-- A data “October 20th or 21st” é a da postagem (20/10 às 19h); se o vídeo for postado em outro dia, trocar só o Take 1 e o texto do topo.
+- A data “October 20th or 21st” é a da postagem (20/10 às 21h, depois de adiado de 19h); se o vídeo for postado em outro dia, trocar só o Take 1 e o texto do topo.
 - Sem nome do app, preço, pagamento, comissão ou afiliado, sem prometer que a pessoa existe nem que o amor chega.
 - Sem métricas de publicação ainda.
