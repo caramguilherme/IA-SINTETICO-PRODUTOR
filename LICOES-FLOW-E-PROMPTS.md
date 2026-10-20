@@ -214,3 +214,6 @@ O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a ge
 
 ## 20/10/2026 — foco no público americano no nora29 e no nora30
 - Antes de gerar os takes, o aluno pediu mais foco nos EUA. O Take 1 passou a falar direto às americanas (nora29: “God bless every American woman who found this on October 20th or 21st. It's meant for you.”; nora30: “American women, this is the fourth time…”), o texto do topo e a legenda do post também. Motivo: o nora27 teve 77% de Índia; o filtro de idade funciona (só 2,4% de 18 a 24), então o que sobra é público adulto, e o gancho dito às americanas é a alavanca de conteúdo que faltava (modelo do Felps).
+
+## 20/10/2026 — mapa da tela com X e Y do CapCut
+- O aluno não entendeu o “y 192 a 269” (pixels contados do topo) e pediu os valores que o CapCut usa. O mapa da tela agora traz uma tabela “No CapCut: o que digitar em X e em Y” (centro de cada texto; zero no centro da tela; para 1080×1920 e 720×1280) e um teste de sinal (Y 500). Valores para 1080×1920: números fixos X ∓410, Y 730; hook X 0, Y 595; legenda X 0, Y −288; seta X −410, Y 614. Os pixels das faixas passaram a dizer “contados a partir do TOPO”.
