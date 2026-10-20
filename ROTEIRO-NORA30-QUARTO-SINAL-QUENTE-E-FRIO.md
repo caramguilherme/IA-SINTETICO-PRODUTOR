@@ -93,7 +93,7 @@ Continuação do pré-gancho (P26): mesma roupa e mesmo cenário. Gerada na **Ce
 ## Legenda do post (Instagram e Facebook) — COM hashtag (alternância do teste)
 Your 4th sign about him. 💔
 Part 2 is in my story. Comment 444. Tap my photo NOW.
-#astrology #venus #lovereading
+#astrology #venus #usa #usareels
 
 ## Comentário fixado
 - **Instagram:** PART 2 is in my story. 👆 Tap my photo NOW, it's gone in 24 hours. Comment 444 if you saw the signs. 🔥

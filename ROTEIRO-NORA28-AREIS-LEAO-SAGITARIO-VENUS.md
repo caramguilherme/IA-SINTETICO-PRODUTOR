@@ -78,7 +78,7 @@ Modelo nos virais: V4 (círculo de sal, canela e louro no chão; ela acende e so
 ## Legenda do post (Instagram e Facebook)
 Aries, Leo, Sagittarius: your sun sign isn't why you keep choosing him. 🔥
 Part 2 is in my story. Comment CHART. Tap my photo NOW.
-#astrology #zodiac #venus
+#astrology #zodiac #usa #usareels
 
 (Regra do aluno, 19/10/2026: legenda curta, no máximo 2 linhas, ou 3 se tiver hashtag. Esta tem 3 linhas, com hashtag. Teste: nora25 e nora27 sem hashtag; nora26 e nora28 com hashtag. Anotar nas métricas qual foi qual.)
 

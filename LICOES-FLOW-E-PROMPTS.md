@@ -169,3 +169,7 @@ O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a ge
 ## 20/10/2026 — nora28 refeito no padrão P29 e horários
 - Pré-gancho do nora28 em 2 tomadas (modelos S2, R01 e V4): tomada 1 = câmera no chão olhando de cima o círculo de sal, o sal cai, fecha o círculo e um isqueiro acende o feixe (A para B, só mãos); tomada 2 = a imagem que o aluno já gerou (ela soprando) vira a fumaça grossa em direção à lente (C para D). A imagem do aluno foi reaproveitada como “C”.
 - Horários combinados (20/10): nora26 8h30 (manhã, com hashtag), nora27 13h30 (início da tarde, sem hashtag), nora28 17h (com), nora29 19h (sem), nora30 21h (com), sempre 2 h ou mais de intervalo. Faltam os painéis do nora29 e do nora30.
+
+## 20/10/2026 — dicas do Discord sobre a entrega para a Índia
+- Dorigon (100k): testar mais uns 10 vídeos com o avatar novo; se a entrega melhorar e for mais para os EUA, continuar; se não, descartar a conta. Mateus: variar hook e copy; conta nova do zero não pegou views (aquecimento). Um membro de 500k: usar #usa e #usareels, pôr elementos dos EUA na roupa, configurar a idade mínima em 25 (Instagram, se a opção existir) e, no Face, restringir a entrega aos países tier 1.
+- Aplicado: #usa #usareels nas hashtags do nora28 e do nora30 (os vídeos com hashtag); #eua não (é português). Elementos dos EUA já estão na roupa (broche) e no cenário. Decisão de manter ou trocar de conta com a leitura de 24 h do nora34 (10 vídeos com o avatar novo): Índia abaixo de uns 25%, EUA acima de uns 25%, média de views não pior que 385.
