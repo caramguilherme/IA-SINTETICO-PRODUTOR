@@ -131,3 +131,7 @@ O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a ge
 
 ## 19/10/2026 — textos na tela: o painel estava confuso
 - O aluno não entendeu a seção de edição: o texto do pré-gancho e o do gancho apareciam, mas a legenda, a palavra-código fixa e a seta estavam escondidas numa frase longa, como “opcional”. Corrigido: o painel agora tem “Resumo: o que aparece na tela, em ordem” (5 itens: texto do pré-gancho, texto do gancho, palavra-código fixa no canto durante o corpo todo, legenda palavra a palavra com destaque, seta vermelha no pedido final). A palavra-código fixa deixou de ser opcional (VENUS, MOON, MATCH, CHART), como nos virais V3, R03, R04, R06, R08, R09, R12, R13.
+
+## 19/10/2026 — pré-gancho do nora26: 3 opções da imagem inicial
+- Uma das 3 opções veio com uma lua e estrelinhas na TESTA (parecia bindi) e gemas espalhadas pelo rosto, apesar do “clean forehead”. Descartada. Conferir a testa e a bochecha ampliadas em toda imagem de pré-gancho, não só o rosto geral.
+- Outra opção pôs a linha de louro vindo para a câmera, com duas chamas e uma delas rente ao joelho; a pedida era uma linha reta, só a primeira folha acesa, a mais de 60 cm dela. Escolhida a linha horizontal, que também facilita o último quadro (todas as folhas em chamas).
