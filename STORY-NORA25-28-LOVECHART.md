@@ -21,3 +21,6 @@ Fonte grossa e legível, com leve sombra, sem outros textos. Deixe livres os 14%
 1. **"Find my Venus"** (recomendada SÓ quando o Love Chart estiver no ar: é o botão da tela 11 do quiz). **PROVISÓRIO enquanto o link ainda abre o Soulmate:** texto do story "Tap below and take the free love quiz." e adesivo **"Take the free quiz"**.
 2. "Name my pattern"
 3. "Open Part 2"
+
+## Registro de postagem
+- 20/10/2026 às 17h29: story postado na versão provisória (texto “Tap below and take the free love quiz.”, adesivo “Take the free quiz”), que serve ao quiz do Soulmate e ao do Love Chart. Expira em 21/10 às 17h29.
