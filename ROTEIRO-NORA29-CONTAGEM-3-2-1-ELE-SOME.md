@@ -3,6 +3,8 @@
 Status: **PARA APROVAR.** Persona: **Nora v2**. Funil: **Love Chart** (link só no story; o link ainda pode abrir o Soulmate, então o story usa a frase provisória). Postagem prevista: **20/10/2026 às 19h30** (sem hashtag, teste da legenda). Falas em inglês dos EUA; a tradução é só para o aluno aprovar. Dor 2 (conversa por dias e o homem some), com a 3 (reler a conversa, adivinhar cada mensagem). Formato 1 (problema + crença + introdução da solução), 8 takes de 10 s + pré-gancho de 2 tomadas. Os créditos não são limite (P23).
 
 > **ATUALIZAÇÃO 20/10/2026 (teste aprovado pelo aluno, P30): este vídeo NÃO tem pré-gancho.** Começa direto no Take 1, com o texto do hook no segundo 0 e a IMAGEM 1 como primeiro quadro. O pré-gancho descrito abaixo fica guardado para outro vídeo. Custo: 120 créditos.
+> **ATUALIZAÇÃO 20/10/2026 (foco no público americano, pedido do aluno, antes de produzir o 29 e o 30):** o Take 1, o texto do topo e a legenda do post passaram a falar direto às americanas (“God bless every American woman…”, modelo do Felps; “American women, …”). O resto do roteiro não mudou. A simulação do divisor da Central continua dando exatamente 8 takes.
+
 
 
 ## Leitura obrigatória (registro)
@@ -36,11 +38,11 @@ Continuação do pré-gancho (P26): **mesma roupa e mesmo cenário**; a Nora só
 
 ## Takes (a fala inteira vai de uma vez na Central; o site divide em takes de 10 s)
 
-### Take 1/8 — Gancho (contagem + data) — 10 s (21 palavras)
+### Take 1/8 — Gancho (contagem + data) — 10 s (20 palavras)
 **Nome do arquivo:** `nora29-T1-gancho-contagem`
 **Visual:** Ela olha firme para a lente e conta 3, 2, 1 com os dedos da mão esquerda, com o meio geodo na mão direita.
-**Fala:** "3, 2, 1. Most people scrolled past this. If it found you on October 20th or 21st, it's meant for you."
-(PT: 3, 2, 1. A maioria das pessoas passou direto por isto. Se te encontrou em 20 ou 21 de outubro, é para você.)
+**Fala:** "3, 2, 1. God bless every American woman who found this on October 20th or 21st. It's meant for you."
+(PT: 3, 2, 1. Deus abençoe cada mulher americana que encontrou isto em 20 ou 21 de outubro. É para você.)
 
 ### Take 2/8 — Cold reading (ele some) — 10 s (22 palavras)
 **Nome do arquivo:** `nora29-T2-corpo-ele-some`
@@ -86,12 +88,12 @@ Continuação do pré-gancho (P26): **mesma roupa e mesmo cenário**; a Nora só
 
 ## Texto de tela (edição)
 - **Pré-gancho:** "When he goes quiet and you don't know why:"
-- **Início do vídeo (caixa branca no topo):** "If you're seeing this on October 20th or 21st, it's a sign." Começa em “3, 2, 1” e termina em “meant for you”.
+- **Início do vídeo (caixa branca no topo):** "American women: if you're seeing this on October 20th or 21st, it's a sign." Começa em “3, 2, 1” e termina em “meant for you”.
 - **Fixos no corpo:** “222” no canto superior esquerdo e “11:11” no canto superior direito (teste do lote de 20/10, na primeira vez que usamos o par).
 - **Legenda:** em blocos de 2 a 4 palavras (não uma palavra por vez), com “Venus”, “quiet” e “pattern” em destaque; seta vermelha pequena no pedido final.
 
 ## Legenda do post (Instagram e Facebook) — SEM hashtag (alternância do teste)
-3, 2, 1. Most people scrolled past this. 🔮
+American women, 3, 2, 1. 🔮
 Part 2 is in my story. Comment 222. Tap my photo NOW.
 
 ## Comentário fixado

@@ -3,6 +3,8 @@
 Status: **PARA APROVAR.** Persona: **Nora v2**. Funil: **Love Chart** (link só no story; story provisório enquanto o link abrir o Soulmate). Postagem prevista: **20/10/2026 às 21h30** (**com hashtag**, teste da legenda). Falas em inglês dos EUA. Dor 4 (sinal ou ilusão?: “quente e frio, sem planos”, do briefing) com a 2. Formato 1 (problema + crença + solução), 8 takes de 10 s + pré-gancho de 2 tomadas.
 
 > **ATUALIZAÇÃO 20/10/2026 (teste aprovado pelo aluno, P30): este vídeo NÃO tem pré-gancho.** Começa direto no Take 1, com o texto do hook no segundo 0 e a IMAGEM 1 como primeiro quadro. O pré-gancho descrito abaixo fica guardado para outro vídeo. Custo: 120 créditos.
+> **ATUALIZAÇÃO 20/10/2026 (foco no público americano):** o Take 1, o texto do topo e a legenda passaram a abrir com “American women”. O resto não mudou. A simulação do divisor continua dando exatamente 8 takes.
+
 
 
 ## Leitura obrigatória (registro)
@@ -36,11 +38,11 @@ Continuação do pré-gancho (P26): mesma roupa e mesmo cenário. Gerada na **Ce
 
 ## Takes (a fala inteira vai de uma vez na Central; o site divide em takes de 10 s)
 
-### Take 1/8 — Gancho (quarto sinal) — 10 s (19 palavras)
+### Take 1/8 — Gancho (quarto sinal) — 10 s (21 palavras)
 **Nome do arquivo:** `nora30-T1-gancho-quarto-sinal`
 **Visual:** Ela olha firme para a lente e levanta quatro dedos da mão esquerda, com a folha de louro na mão direita.
-**Fala:** "This is the fourth time the universe has tried to reach you. You were right about him all along."
-(PT: Esta é a quarta vez que o universo tenta chegar até você. Você estava certa sobre ele o tempo todo.)
+**Fala:** "American women, this is the fourth time the universe has tried to reach you. You were right about him all along."
+(PT: Mulheres americanas, esta é a quarta vez que o universo tenta chegar até você. Você estava certa sobre ele o tempo todo.)
 
 ### Take 2/8 — Cold reading (quente e frio) — 10 s (22 palavras)
 **Nome do arquivo:** `nora30-T2-corpo-quente-frio`
@@ -86,12 +88,12 @@ Continuação do pré-gancho (P26): mesma roupa e mesmo cenário. Gerada na **Ce
 
 ## Texto de tela (edição)
 - **Pré-gancho:** "When he's hot, then cold:"
-- **Início do vídeo (caixa branca no topo):** "Your fourth sign about him." Começa em “This is the fourth time” e termina em “all along”.
+- **Início do vídeo (caixa branca no topo):** "American women: your fourth sign about him." Começa em “American women, this is the fourth” e termina em “all along”.
 - **Fixos no corpo:** “444” no canto superior esquerdo e “11:11” no direito.
 - **Legenda:** em blocos de 2 a 4 palavras (não uma palavra por vez), com “Venus”, “fourth” e “pattern” em destaque; seta vermelha pequena no pedido final.
 
 ## Legenda do post (Instagram e Facebook) — COM hashtag (alternância do teste)
-Your 4th sign about him. 💔
+American women: your 4th sign about him. 💔
 Part 2 is in my story. Comment 444. Tap my photo NOW.
 #astrology #venus #usa #usareels
 
