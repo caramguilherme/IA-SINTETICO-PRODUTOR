@@ -16,3 +16,16 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **20/10/2026 ~17h33:** nora27 no Instagram com ~3 h 48: 128 views, skip 36,9% (ret. 3 s 63,1%), tempo médio 6 s, 1 comentário, 0 follows; países: Índia 77,2%, Reino Unido 3,9%, Paquistão 3,1%, Grécia 1,6%, Malásia 1,6% (EUA fora do top 5). Postado 13h45 BRT = 22h15 na Índia. Retenção alta e Índia alta andam juntas: comparar retenção só com a composição de países.
 - **20/10/2026 ~17h34:** nora26 no Instagram com ~9 h: 114 views, skip 66,1% (ret. 3 s 33,9%), tempo médio 4 s, 1 curtida, 1 comentário, 0 follows; países: Índia 63,2%, EUA 3,5%, Sri Lanka 3,5%, Austrália 2,6%, Irã 2,6%. Hora de postagem × Índia (3 vídeos com a Nora v2): nora25 20h15 BRT (04h45 na Índia) = 16%; nora26 8h35 BRT (17h05 na Índia) = 63%; nora27 13h45 BRT (22h15 na Índia) = 77%. Amostra pequena, mas a postagem à noite na Índia (19h a 21h30 BRT) é a única que deu menos Índia.
 - **20/10/2026 ~17h34:** nora25 no Instagram com ~21 h: 119 views, skip 75,0% (ret. 3 s 25,0%), tempo médio 4 s, 0 follows, 1 comentário; países: EUA 25,2%, Índia 16,0%, Canadá 10,1%, Reino Unido 8,4%, Países Baixos 3,4%. Estável desde as 12 h.
+- **20/10/2026 ~17h44, idade do público no Instagram (aba Audience > Age):**
+
+| Faixa | nora25 | nora26 | nora27 |
+|---|---|---|---|
+| 13-17 | 0% | 0,9% | 0% |
+| 18-24 | 10,1% | 7,9% | 2,4% |
+| 25-34 | 31,9% | 46,5% | 53,5% |
+| 35-44 | 28,6% | 27,2% | 30,7% |
+| 45-54 | 17,6% | 13,2% | 10,2% |
+| 55-64 | 6,7% | 2,6% | 1,6% |
+| 65+ | 5,0% | 1,8% | 1,6% |
+
+  A configuração de idade mínima de 25 anos para a Índia funciona: o nora27 (77% de Índia) tem só 2,4% de 18 a 24, e a Índia que sobra é adulta (84% de 25 a 44). O nora25 (público mais americano) tem público mais velho (58% de 35 anos ou mais).
