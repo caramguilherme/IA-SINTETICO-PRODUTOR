@@ -21,7 +21,7 @@ Status: **PARA APROVAR.** Persona: **Nora v2**. Funil: **Love Chart** (link só 
 - **Pré-gancho:** **w6** (carro americano: levantar o tapete do chão, jogar folhas de louro, despejar sal, repor o tapete; 3 cortes em ~4,8 s) + **S2** (sal caindo em primeiro plano, corte seco). Duas tomadas (P29): (1) câmera no chão do carro, ela levanta o tapete de borracha e joga o louro; (2) macro: o sal cai em fio e cobre as folhas, e o tapete volta ao lugar.
 - **Gancho e texto do topo:** w9/w8 (texto curto no topo): “Your fourth sign about him.” (C4: “Your last sign about him”). Pré-gancho: “It works so fast it's scary…” é do nora27; aqui o texto do pré-gancho é “When he's hot, then cold:” (V4/R01).
 - **Objeto na mão o vídeo todo:** uma **folha de louro seca** (a do pré-gancho) com um pequeno símbolo de Vênus desenhado à mão em tinta preta, segurada na mão direita (S1/S4: objeto ligado ao tema).
-- **Edição:** “444” fixo no canto superior esquerdo e “11:11” no direito (w9, U1), legenda palavra a palavra com “Venus” e “fourth” em destaque, seta vermelha no fim.
+- **Edição:** “444” fixo no canto superior esquerdo e “11:11” no direito (w9, U1), legenda em blocos de 2 a 4 palavras com “Venus” e “fourth” em destaque, seta vermelha no fim.
 
 ## Imagem única (IMAGEM 1) — primeiro e último quadro de todos os takes
 Continuação do pré-gancho (P26): mesma roupa e mesmo cenário. Gerada na **Central de imagens** (P22).
@@ -88,7 +88,7 @@ Continuação do pré-gancho (P26): mesma roupa e mesmo cenário. Gerada na **Ce
 - **Pré-gancho:** "When he's hot, then cold:"
 - **Início do vídeo (caixa branca no topo):** "Your fourth sign about him." Começa em “This is the fourth time” e termina em “all along”.
 - **Fixos no corpo:** “444” no canto superior esquerdo e “11:11” no direito.
-- **Legenda:** palavra a palavra, com “Venus”, “fourth” e “pattern” em destaque; seta vermelha pequena no pedido final.
+- **Legenda:** em blocos de 2 a 4 palavras (não uma palavra por vez), com “Venus”, “fourth” e “pattern” em destaque; seta vermelha pequena no pedido final.
 
 ## Legenda do post (Instagram e Facebook) — COM hashtag (alternância do teste)
 Your 4th sign about him. 💔

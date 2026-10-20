@@ -182,3 +182,8 @@ O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a ge
 - **Story:** atualizar o story todo dia de manhã; só postar o story dá de 5 a 10 vendas a mais no dia (Mattias; o Felps perdeu venda ao esquecer num dia de 3 milhões de views).
 - **Índia:** deixar a tradução automática do Insta desligada (Joao Paulo: ela jogou os vídeos dele para brasileiros).
 - **Quando descartar a conta (Mattias):** depois dos 10 vídeos de aquecimento, mais de 6 precisam passar de 100 views. Nossa conta passa: os 10 de aquecimento (nora01 a nora10) fizeram de 117 a 2.551 views, os 10 acima de 100; dos 16 de venda, 12 passaram de 100 (nora26 ainda tem 3 h de vida).
+
+## 20/10/2026 — legenda na tela: não usar uma palavra por vez (Face)
+- No chat do Discord, uma conta (Pão de queijo) recebeu no Face o aviso de distribuição limitada por “baixa qualidade da legenda”; a Eduarda Kelly disse que já teve o mesmo problema quando a legenda mostrava só **uma palavra por vez** e que o aviso nunca mais apareceu depois que ela passou a mostrar frases um pouco mais longas. Outro membro (500k) disse que “restrição por legenda não existe”: é um relato, não uma regra confirmada.
+- Mudança de custo quase zero: a legenda do CapCut passa a ser em **blocos de 2 a 4 palavras** (com a palavra-chave destacada), nos painéis do nora28, 29 e 30 e nos próximos. nora25 a nora27 já foram postados com a legenda antiga. Conferir o Status da página no Face (Qualidade da página) nos vídeos já postados.
+- O link do Love Chart ainda não entrou: o Gustavo avisou na aula de 19/10 para continuar usando o link do Soulmate, e a troca será automática (confirmado por Ju Santos e Tron no chat de 20/10). O story provisório (“Tap below and take the free love quiz.”) segue.

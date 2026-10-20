@@ -21,7 +21,7 @@ Status: **PARA APROVAR.** Persona: **Nora v2**. Funil: **Love Chart** (link só 
 - **Pré-gancho:** **w4** (a pedra que ela aperta, trinca e abre, mostrando cristais, ouro e dois anéis; rosto grande; 8 ações em ~3 s) + **R01/S2** (corte seco para o macro). Duas tomadas, como o P29: (1) rosto grande, ela aperta o geodo e ele racha e abre; (2) macro: uma mão tira um anel dourado dos cristais e o ergue para a lente.
 - **Gancho e texto do topo:** w8 e R08 (“If you are seeing this on Oct 2, 3 or 4, It's a Sign”): caixa branca no topo; pré-gancho com a situação em 2 linhas (V4/R01: “When you need…”).
 - **Objeto na mão o vídeo todo:** w3/w4/w5 (geodo de ametista) e S1/S4: **meio geodo de ametista aberto, com um anel dourado fino entre os cristais**, na mão direita.
-- **Edição:** número fixo no canto (222 à esquerda e 11:11 à direita, U1/U2/U4 e w10), legenda palavra a palavra com “Venus” e “quiet” em destaque, seta vermelha no fim.
+- **Edição:** número fixo no canto (222 à esquerda e 11:11 à direita, U1/U2/U4 e w10), legenda em blocos de 2 a 4 palavras com “Venus” e “quiet” em destaque, seta vermelha no fim.
 
 ## Imagem única (IMAGEM 1) — primeiro e último quadro de todos os takes
 Continuação do pré-gancho (P26): **mesma roupa e mesmo cenário**; a Nora só passa a falar. A IMAGEM 1 é gerada na **Central de imagens** (campos no painel, P22).
@@ -88,7 +88,7 @@ Continuação do pré-gancho (P26): **mesma roupa e mesmo cenário**; a Nora só
 - **Pré-gancho:** "When he goes quiet and you don't know why:"
 - **Início do vídeo (caixa branca no topo):** "If you're seeing this on October 20th or 21st, it's a sign." Começa em “3, 2, 1” e termina em “meant for you”.
 - **Fixos no corpo:** “222” no canto superior esquerdo e “11:11” no canto superior direito (teste do lote de 20/10, na primeira vez que usamos o par).
-- **Legenda:** palavra a palavra, com “Venus”, “quiet” e “pattern” em destaque; seta vermelha pequena no pedido final.
+- **Legenda:** em blocos de 2 a 4 palavras (não uma palavra por vez), com “Venus”, “quiet” e “pattern” em destaque; seta vermelha pequena no pedido final.
 
 ## Legenda do post (Instagram e Facebook) — SEM hashtag (alternância do teste)
 3, 2, 1. Most people scrolled past this. 🔮
