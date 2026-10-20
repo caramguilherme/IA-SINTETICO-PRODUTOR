@@ -217,3 +217,8 @@ O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a ge
 
 ## 20/10/2026 — mapa da tela com X e Y do CapCut
 - O aluno não entendeu o “y 192 a 269” (pixels contados do topo) e pediu os valores que o CapCut usa. O mapa da tela agora traz uma tabela “No CapCut: o que digitar em X e em Y” (centro de cada texto; zero no centro da tela; para 1080×1920 e 720×1280) e um teste de sinal (Y 500). Valores para 1080×1920: números fixos X ∓410, Y 730; hook X 0, Y 595; legenda X 0, Y −288; seta X −410, Y 614. Os pixels das faixas passaram a dizer “contados a partir do TOPO”.
+
+## 20/10/2026 — take 6 do nora29 repetiu uma frase no meio (checklist item 30)
+- As linhas de movimentação que escrevi citavam palavras da fala ("on the word do not", "on the words tell me I am wrong", "on the words send this to yourself… tap my photo"). A Central coloca a movimentação no prompt do take, e o Flow pode tratar essas palavras como fala e repetir a frase. O take 6 do nora29 ("Don't scroll past this one…") repetiu uma frase; as linhas dos takes 2, 3 e 8 tinham o mesmo risco.
+- Correção: as linhas dos dois painéis (nora29 e nora30) não citam mais a fala; usam só posição ("durante a primeira frase", "durante a última frase", "nos dois primeiros segundos"). Contagem de 3, 2, 1 passou a ser descrita só pelos dedos, sem os números. Checagem automática de sobreposição entre cada linha e a fala (só sobraram coincidências de “and it” e “and never”, palavras comuns).
+- **Checklist, item 30:** a movimentação não contém nenhuma sequência de palavras da fala? Se um take sair com frase repetida, refazer só aquele take (15 créditos) com a linha nova.
