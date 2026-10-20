@@ -2,6 +2,7 @@
 
 > **AVATAR NOVA (19/10/2026): a partir do R004 a avatar é a NORA** (identidade visual em `DNA Visual - Nora.md`, do blueprint enviado pelo aluno). Este arquivo continua valendo para funil, dores, regras e histórico (R001 a R003 são da Dana e estão congelados). Onde o texto diz "Dana" em roteiros novos, leia "a avatar atual" (Nora). Nome completo, @ e tom da Nora: a confirmar pelo aluno.
 
+> **ATENÇÃO 20/10/2026 (call do Gustavo, 19/10 18h): o funil Love Chart AINDA NÃO ESTÁ NO AR. O link atual abre o quiz do Soulmate e vai trocar sozinho quando o Gustavo avisar. Até lá, o story usa a frase provisória ("Tap below and take the free love quiz.", adesivo "Take the free quiz"). Quando ele avisar, voltar à frase do Venus.**
 > **FUNIL ATIVO: LOVE CHART (desde 19/10/2026; o aluno avisou que o nora25 já é do novo funil).** Vale a seção FUNIL LOVE CHART abaixo e o briefing salvo em `BRIEFING-LOVECHART.md`: o quiz é de astrologia do amor (Vênus, nome do padrão, par perfeito), sem desenho do rosto, iniciais nem data de encontro; o story tem o texto "Tap below and find your Venus pattern in astrology." e o adesivo "Find my Venus". R001 a R005 são do Soulmate (6A com o possível rosto, as iniciais e quando podem se conhecer; story das 3 cartas) e ficam como estão. O roteiro de reserva (`ROTEIRO-LOVECHART-RESERVA-SEU-PADRAO-TEM-NOME.md`) segue guardado como referência de ideia.
 
 ## PERFIL

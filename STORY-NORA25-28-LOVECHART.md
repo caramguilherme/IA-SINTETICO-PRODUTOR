@@ -18,6 +18,6 @@ SCENE: EDIT of the approved IMAGEM 1 of nora25 (use that IMAGEM 1 as the base im
 Fonte grossa e legível, com leve sombra, sem outros textos. Deixe livres os 14% do topo e os 20% de baixo.
 
 ## 3. Texto do adesivo de link (3 a 4 palavras)
-1. **"Find my Venus"** (recomendada: é o botão da tela 11 do quiz)
+1. **"Find my Venus"** (recomendada SÓ quando o Love Chart estiver no ar: é o botão da tela 11 do quiz). **PROVISÓRIO enquanto o link ainda abre o Soulmate:** texto do story "Tap below and take the free love quiz." e adesivo **"Take the free quiz"**.
 2. "Name my pattern"
 3. "Open Part 2"
