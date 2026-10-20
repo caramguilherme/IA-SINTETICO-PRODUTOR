@@ -18,8 +18,8 @@ Cada painel (PAINEL-NORA29.html e PAINEL-NORA30.html) traz tudo para copiar, na 
 6. **Textos na tela, legenda e comentário fixado**, por último, antes de postar.
 
 ## Postagem (20/10/2026)
-- nora29: 19h, **sem hashtag**, código **222** e “11:11” fixos.
-- nora30: 21h, **com hashtag**, código **444** e “11:11” fixos.
+- nora28 17h30, nora29 19h30, **sem hashtag**, código **222** e “11:11” fixos.
+- nora30: 21h30, **com hashtag**, código **444** e “11:11” fixos.
 - O story é o mesmo dos outros vídeos (texto provisório “Tap below and take the free love quiz.” enquanto o link abrir o Soulmate).
 
 ## Se o pré-gancho falhar

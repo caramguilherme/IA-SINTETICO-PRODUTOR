@@ -1,6 +1,6 @@
 # nora30-QUARTO-SINAL-QUENTE-E-FRIO — roteiro completo (8 takes + pré-gancho em 2 tomadas), funil LOVE CHART (20/10/2026)
 
-Status: **PARA APROVAR.** Persona: **Nora v2**. Funil: **Love Chart** (link só no story; story provisório enquanto o link abrir o Soulmate). Postagem prevista: **20/10/2026 às 21h** (**com hashtag**, teste da legenda). Falas em inglês dos EUA. Dor 4 (sinal ou ilusão?: “quente e frio, sem planos”, do briefing) com a 2. Formato 1 (problema + crença + solução), 8 takes de 10 s + pré-gancho de 2 tomadas.
+Status: **PARA APROVAR.** Persona: **Nora v2**. Funil: **Love Chart** (link só no story; story provisório enquanto o link abrir o Soulmate). Postagem prevista: **20/10/2026 às 21h30** (**com hashtag**, teste da legenda). Falas em inglês dos EUA. Dor 4 (sinal ou ilusão?: “quente e frio, sem planos”, do briefing) com a 2. Formato 1 (problema + crença + solução), 8 takes de 10 s + pré-gancho de 2 tomadas.
 
 > **ATUALIZAÇÃO 20/10/2026 (teste aprovado pelo aluno, P30): este vídeo NÃO tem pré-gancho.** Começa direto no Take 1, com o texto do hook no segundo 0 e a IMAGEM 1 como primeiro quadro. O pré-gancho descrito abaixo fica guardado para outro vídeo. Custo: 120 créditos.
 
