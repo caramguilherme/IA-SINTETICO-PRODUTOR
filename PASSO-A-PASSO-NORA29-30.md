@@ -2,6 +2,8 @@
 
 Cada painel (PAINEL-NORA29.html e PAINEL-NORA30.html) traz tudo para copiar, na ordem da produção. Todos os prompts para o Flow e para a Central estão em inglês. Regras da Central: não clicar em "Resetar valores" nem em "REGERAR BLOCO A PARTIR DOS CAMPOS"; velocidade **Média — CTA**; "Dividir em takes (Flow)" marcada; voz LIVRE da Nora. Custos em `PLANO-CREDITOS-NORA29-30.md`.
 
+**Atualização (P30, 20/10/2026): estes dois vídeos NÃO têm pré-gancho (teste).** Pule o item 1 abaixo. O vídeo começa direto no Take 1 e o texto do hook entra no segundo 0.
+
 ## Em cada vídeo (a ordem é a do painel)
 1. **Pré-gancho em 2 tomadas, com o rosto da Nora na primeira (6 itens: A, B, V1, C, D, V2).**
    - Imagem A (do blueprint): anexe SÓ o blueprint da Nora (baixado em 1K) e cole o prompt. Confira o rosto, a testa limpa e a lua com as 3 estrelinhas na bochecha.

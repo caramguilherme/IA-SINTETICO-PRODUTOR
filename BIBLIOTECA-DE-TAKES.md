@@ -62,7 +62,7 @@ O número do vídeo é a ordem de postagem na conta: **nora01 a nora26 já foram
 | `nora28-T5-cta-a-quiz-venus` | “You can find yours. In my story, a free astrology quiz finds your Venu…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora28-T6-cta-b-salve-chart` | “Save this right now. Comment CHART so I know you did it. Tap my photo …” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 
-| `nora29-PRE-A` / `-PRE-B` / `-PRE-V1` / `-PRE-C` / `-PRE-D` / `-PRE-V2` | pré-gancho em 2 tomadas (geodo que racha + anel erguido) | só deste vídeo | a gerar (postar 20/10 às 19h) |
+| `nora29-PRE-A` / `-PRE-B` / `-PRE-V1` / `-PRE-C` / `-PRE-D` / `-PRE-V2` | pré-gancho em 2 tomadas (geodo que racha + anel erguido) | guardado para outro vídeo | NÃO será gerado (teste sem pré-gancho, P30) |
 | `nora29-IMG` | imagem 1 do vídeo (Central de imagens) | variações do mesmo kit, se performar | a gerar |
 | `nora29-T1-gancho-contagem` | “3, 2, 1. Most people scrolled past this. If it found you on October 20th or 21st…” | só deste vídeo | a gerar |
 | `nora29-T2-corpo-ele-some` | “I don't know your name, but he texts for days. Then he goes quiet…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
@@ -72,7 +72,7 @@ O número do vídeo é a ordem de postagem na conta: **nora01 a nora26 já foram
 | `nora29-T6-corpo-nao-passe` | “Don't scroll past this one. If you do, this sign won't reach you again…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora29-T7-cta-a-quiz-venus` | “The next part is in my story. A free astrology quiz finds your Venus…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora29-T8-cta-b-comente-222` | “Send this to yourself. Comment 222 so I know you did it…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora30-PRE-A` / `-PRE-B` / `-PRE-V1` / `-PRE-C` / `-PRE-D` / `-PRE-V2` | pré-gancho em 2 tomadas (tapete do carro + louro + sal) | só deste vídeo | a gerar (postar 20/10 às 21h) |
+| `nora30-PRE-A` / `-PRE-B` / `-PRE-V1` / `-PRE-C` / `-PRE-D` / `-PRE-V2` | pré-gancho em 2 tomadas (tapete do carro + louro + sal) | guardado para outro vídeo | NÃO será gerado (teste sem pré-gancho, P30) |
 | `nora30-IMG` | imagem 1 do vídeo (Central de imagens) | variações do mesmo kit, se performar | a gerar |
 | `nora30-T1-gancho-quarto-sinal` | “This is the fourth time the universe has tried to reach you…” | só deste vídeo | a gerar |
 | `nora30-T2-corpo-quente-frio` | “You told yourself it was in your head. It wasn't. He's warm on Monday…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
