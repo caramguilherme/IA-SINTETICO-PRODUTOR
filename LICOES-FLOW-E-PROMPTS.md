@@ -173,3 +173,12 @@ O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a ge
 ## 20/10/2026 — dicas do Discord sobre a entrega para a Índia
 - Dorigon (100k): testar mais uns 10 vídeos com o avatar novo; se a entrega melhorar e for mais para os EUA, continuar; se não, descartar a conta. Mateus: variar hook e copy; conta nova do zero não pegou views (aquecimento). Um membro de 500k: usar #usa e #usareels, pôr elementos dos EUA na roupa, configurar a idade mínima em 25 (Instagram, se a opção existir) e, no Face, restringir a entrega aos países tier 1.
 - Aplicado: #usa #usareels nas hashtags do nora28 e do nora30 (os vídeos com hashtag); #eua não (é português). Elementos dos EUA já estão na roupa (broche) e no cenário. Decisão de manter ou trocar de conta com a leitura de 24 h do nora34 (10 vídeos com o avatar novo): Índia abaixo de uns 25%, EUA acima de uns 25%, média de views não pior que 385.
+
+## 20/10/2026 — dicas do Plano (leitura do Discord, 14 pessoas) que valem para a Nora
+- **Hook mudo (Garbellotto):** 3 a 4 s de algo curioso ou místico, sem fala, e depois entra o vídeo (ex.: ventilador sopra as cartas da mesa e todas voam menos uma). É o nosso pré-gancho; o teste do P30 compara com e sem.
+- **Filtro de público:** o Felps abre com “God bless every American watching this video today”. Candidato a gancho de teste para filtrar a Índia (nora31 em diante).
+- **Copy:** martelar a mesma copy trocando só o gancho ou um detalhe do cenário (Felps, Mattias); só insistir numa copy que passa de uns 200 comentários (nenhuma nossa chegou perto).
+- **Ritmo:** intervalo curto faz os vídeos disputarem entre si (Felps: até 4 por dia, com 3 a 4 h entre eles). Programar o post derrubou a entrega do Garbellotto e do Bruno Freitas: postar ao vivo, não programado.
+- **Story:** atualizar o story todo dia de manhã; só postar o story dá de 5 a 10 vendas a mais no dia (Mattias; o Felps perdeu venda ao esquecer num dia de 3 milhões de views).
+- **Índia:** deixar a tradução automática do Insta desligada (Joao Paulo: ela jogou os vídeos dele para brasileiros).
+- **Quando descartar a conta (Mattias):** depois dos 10 vídeos de aquecimento, mais de 6 precisam passar de 100 views. Nossa conta passa: os 10 de aquecimento (nora01 a nora10) fizeram de 117 a 2.551 views, os 10 acima de 100; dos 16 de venda, 12 passaram de 100 (nora26 ainda tem 3 h de vida).

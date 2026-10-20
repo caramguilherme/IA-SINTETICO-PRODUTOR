@@ -67,3 +67,4 @@ Todas com 3 a 6 s, 2 a 5 cortes e algo novo a cada 0,5 a 1,5 s:
 22. **Louro e sal debaixo do tapete do carro (w6):** levanta o tapete, joga o louro, despeja o sal, repõe o tapete.
 23. **Compartimento no rodapé com maços de dinheiro (w7)** e **estrado da cama que se rasga e mostra pilhas de notas (w8):** para o Love Chart, trocar o dinheiro por cartas, cartas de amor ou um diário.
 24. **Linha de sal na soleira que pega fogo alto (w9):** ela despeja, acende com isqueiro, o fogo corre e ela passa a mão por cima (mão longe da chama de perto; chama no chão, nunca perto do rosto).
+25. **Ventilador que sopra as cartas da mesa e todas voam menos uma (Garbellotto, hook mudo de 3 a 4 s):** serve de ideia para um vídeo futuro (a regra das cartas, P9, vale no vídeo falado; o pré-gancho é só o efeito).
