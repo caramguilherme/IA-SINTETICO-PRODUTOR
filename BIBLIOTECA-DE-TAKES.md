@@ -53,14 +53,14 @@ O número do vídeo é a ordem de postagem na conta: **nora01 a nora26 já foram
 | `nora27-T5-corpo-imagine` | “Imagine seeing what your Venus is really looking for. Not the one who …” | candidato a reaproveitar em variações do mesmo kit | gerado e postado em 20/10/2026 (13h45) |
 | `nora27-T6-corpo-nao-passe-direto` | “Don't scroll past this one. If you do, you'll choose the second kind a…” | candidato a reaproveitar em variações do mesmo kit | gerado e postado em 20/10/2026 (13h45) |
 | `nora27-T7-cta-condensado-match` | “Comment MATCH, tap my photo, open my story. A free astrology quiz find…” | candidato a reaproveitar em variações do mesmo kit | gerado e postado em 20/10/2026 (13h45) |
-| `nora28-PRE-IMG1` / `nora28-PRE-IMG2` / `nora28-PRE` | pré-gancho (imagem inicial, final e vídeo de 4 s) | só deste vídeo | a gerar |
-| `nora28-IMG` | imagem 1 do vídeo (Central de imagens) | variações do mesmo kit, se performar | a gerar |
-| `nora28-T1-gancho-signos-fogo` | “Aries, Leo, or Sagittarius: pay very close attention. Your sun sign is…” | só deste vídeo | a gerar |
-| `nora28-T2-corpo-cai-rapido` | “You fall fast and you fall hard. Then the silence starts, and you blam…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora28-T3-corpo-ninguem-contou` | “Nobody told you this. In astrology, your sun sign is only who you are.…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora28-T4-corpo-venus-fora-do-signo` | “And your Venus may not be in your sun sign at all. That's exactly why …” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora28-T5-cta-a-quiz-venus` | “You can find yours. In my story, a free astrology quiz finds your Venu…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora28-T6-cta-b-salve-chart` | “Save this right now. Comment CHART so I know you did it. Tap my photo …” | candidato a reaproveitar em variações do mesmo kit | a gerar |
+| `nora28-PRE-IMG1` / `nora28-PRE-IMG2` / `nora28-PRE` | pré-gancho (imagem inicial, final e vídeo de 4 s) | só deste vídeo | gerado e postado em 20/10/2026 (17h32) |
+| `nora28-IMG` | imagem 1 do vídeo (Central de imagens) | variações do mesmo kit, se performar | gerado e postado em 20/10/2026 (17h32) |
+| `nora28-T1-gancho-signos-fogo` | “Aries, Leo, or Sagittarius: pay very close attention. Your sun sign is…” | só deste vídeo | gerado e postado em 20/10/2026 (17h32) |
+| `nora28-T2-corpo-cai-rapido` | “You fall fast and you fall hard. Then the silence starts, and you blam…” | candidato a reaproveitar em variações do mesmo kit | gerado e postado em 20/10/2026 (17h32) |
+| `nora28-T3-corpo-ninguem-contou` | “Nobody told you this. In astrology, your sun sign is only who you are.…” | candidato a reaproveitar em variações do mesmo kit | gerado e postado em 20/10/2026 (17h32) |
+| `nora28-T4-corpo-venus-fora-do-signo` | “And your Venus may not be in your sun sign at all. That's exactly why …” | candidato a reaproveitar em variações do mesmo kit | gerado e postado em 20/10/2026 (17h32) |
+| `nora28-T5-cta-a-quiz-venus` | “You can find yours. In my story, a free astrology quiz finds your Venu…” | candidato a reaproveitar em variações do mesmo kit | gerado e postado em 20/10/2026 (17h32) |
+| `nora28-T6-cta-b-salve-chart` | “Save this right now. Comment CHART so I know you did it. Tap my photo …” | candidato a reaproveitar em variações do mesmo kit | gerado e postado em 20/10/2026 (17h32) |
 
 | `nora29-PRE-A` / `-PRE-B` / `-PRE-V1` / `-PRE-C` / `-PRE-D` / `-PRE-V2` | pré-gancho em 2 tomadas (geodo que racha + anel erguido) | guardado para outro vídeo | NÃO será gerado (teste sem pré-gancho, P30) |
 | `nora29-IMG` | imagem 1 do vídeo (Central de imagens) | variações do mesmo kit, se performar | a gerar |
