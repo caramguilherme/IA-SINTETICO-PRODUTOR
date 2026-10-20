@@ -156,3 +156,6 @@ O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a ge
 
 ## 20/10/2026 — o link ainda abre o Soulmate
 - Pelo resumo do Discord: na call de 19/10 18h o Gustavo disse que o Love Chart ainda não está no ar e que o link troca sozinho quando entrar. O nora25 (e o 26 a 28) falam de Vênus e do quiz de astrologia; o story que leva ao link precisa ser compatível com os dois quizzes enquanto não trocar. Story provisório nos painéis (nora26 a nora28): “Tap below and take the free love quiz.”, adesivo “Take the free quiz”. Voltar ao texto do Venus quando o Gustavo avisar.
+
+## 20/10/2026 — nora27 refeito no padrão P29 (modelo U7)
+- Pré-gancho do nora27 em 2 tomadas, como o viral U7 (levantar o tapete e a tábua e revelar o esconderijo, cerca de 8 ações em 4 s): tomada 1 = ela arranca o tapete, abre o vão com uma barra de ferro e o pó sobe (A para B); tomada 2 = bem perto, duas mãos tiram o pacote de veludo e abrem, e a carta Os Enamorados aparece na frente da lente (C para D). Mesma regra: primeiro quadro antes da causa, roteiro de cena com tempo e movimento a cada segundo, corte seco no CapCut.
