@@ -44,15 +44,15 @@ O número do vídeo é a ordem de postagem na conta: **nora01 a nora26 já foram
 | `nora26-T6-corpo-garantia` | “I'll change my name if this isn't you. If you're watching this in the …” | candidato a reaproveitar em variações do mesmo kit | gerado e postado em 20/10/2026 (8h35) |
 | `nora26-T7-cta-a-segunda-coisa` | “The second thing is in my story. A free astrology quiz finds your Venu…” | candidato a reaproveitar em variações do mesmo kit | gerado e postado em 20/10/2026 (8h35) |
 | `nora26-T8-cta-b-toque-dois-toques` | “Double tap this video. Comment MOON so I know you did it. Tap my photo…” | candidato a reaproveitar em variações do mesmo kit | gerado e postado em 20/10/2026 (8h35) |
-| `nora27-PRE-IMG1` / `nora27-PRE-IMG2` / `nora27-PRE` | pré-gancho (imagem inicial, final e vídeo de 6 s) | só deste vídeo | a gerar |
-| `nora27-IMG` | imagem 1 do vídeo (Central de imagens) | variações do mesmo kit, se performar | a gerar |
-| `nora27-T1-gancho-dois-tipos` | “There are two kinds of men in your story. One sees your worth. One kee…” | só deste vídeo | a gerar |
-| `nora27-T2-corpo-voce-conhece` | “You know the one. You rehearse a conversation with him that you'll nev…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora27-T3-corpo-nao-e-quebrada` | “You don't choose him because you're broken. You choose him because it …” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora27-T4-corpo-depende-venus` | “In astrology, it depends on your Venus, not your sun sign. Your Venus …” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora27-T5-corpo-imagine` | “Imagine seeing what your Venus is really looking for. Not the one who …” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora27-T6-corpo-nao-passe-direto` | “Don't scroll past this one. If you do, you'll choose the second kind a…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora27-T7-cta-condensado-match` | “Comment MATCH, tap my photo, open my story. A free astrology quiz find…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
+| `nora27-PRE-IMG1` / `nora27-PRE-IMG2` / `nora27-PRE` | pré-gancho (imagem inicial, final e vídeo de 6 s) | só deste vídeo | gerado e postado em 20/10/2026 (13h45) |
+| `nora27-IMG` | imagem 1 do vídeo (Central de imagens) | variações do mesmo kit, se performar | gerado e postado em 20/10/2026 (13h45) |
+| `nora27-T1-gancho-dois-tipos` | “There are two kinds of men in your story. One sees your worth. One kee…” | só deste vídeo | gerado e postado em 20/10/2026 (13h45) |
+| `nora27-T2-corpo-voce-conhece` | “You know the one. You rehearse a conversation with him that you'll nev…” | candidato a reaproveitar em variações do mesmo kit | gerado e postado em 20/10/2026 (13h45) |
+| `nora27-T3-corpo-nao-e-quebrada` | “You don't choose him because you're broken. You choose him because it …” | candidato a reaproveitar em variações do mesmo kit | gerado e postado em 20/10/2026 (13h45) |
+| `nora27-T4-corpo-depende-venus` | “In astrology, it depends on your Venus, not your sun sign. Your Venus …” | candidato a reaproveitar em variações do mesmo kit | gerado e postado em 20/10/2026 (13h45) |
+| `nora27-T5-corpo-imagine` | “Imagine seeing what your Venus is really looking for. Not the one who …” | candidato a reaproveitar em variações do mesmo kit | gerado e postado em 20/10/2026 (13h45) |
+| `nora27-T6-corpo-nao-passe-direto` | “Don't scroll past this one. If you do, you'll choose the second kind a…” | candidato a reaproveitar em variações do mesmo kit | gerado e postado em 20/10/2026 (13h45) |
+| `nora27-T7-cta-condensado-match` | “Comment MATCH, tap my photo, open my story. A free astrology quiz find…” | candidato a reaproveitar em variações do mesmo kit | gerado e postado em 20/10/2026 (13h45) |
 | `nora28-PRE-IMG1` / `nora28-PRE-IMG2` / `nora28-PRE` | pré-gancho (imagem inicial, final e vídeo de 4 s) | só deste vídeo | a gerar |
 | `nora28-IMG` | imagem 1 do vídeo (Central de imagens) | variações do mesmo kit, se performar | a gerar |
 | `nora28-T1-gancho-signos-fogo` | “Aries, Leo, or Sagittarius: pay very close attention. Your sun sign is…” | só deste vídeo | a gerar |
