@@ -143,3 +143,7 @@ O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a ge
 ## 20/10/2026 — nora26, vídeo do pré-gancho reprovado (a causa não aparece)
 - O vídeo saiu com o fogo já aceso nas folhas perto dela e o palito, sem chama, na mão; aos 1,5 s o palito sumiu e o fogo correu. Não existe o gesto de acender. Causa: eu escrevi a imagem inicial já com fogo (e o palito apagado) e o prompt do vídeo só dizia “o fogo se espalha”.
 - Correção: imagem inicial sem nenhum fogo e com o palito aceso; imagem final com a linha toda queimando e a mão vazia; prompt do vídeo como roteiro de cena de 6 s com um movimento por segundo (palito sobe e gira, desce até a primeira folha, toca e solta, o fogo salta para as próximas, corre pela linha, chega à vela). Mesma revisão nos pré-ganchos do nora27 (escotilha) e do nora28 (fumaça), que agora também têm tempo e movimento a cada segundo. Decisão do aluno: todos os prompts têm de ser “muito, mas muito específicos”.
+
+## 20/10/2026 — republicar painéis rouba a tela do aluno
+- Ao republicar os quatro painéis em sequência, o último (nora28) abre na tela do aluno, mesmo que ele esteja produzindo o nora26. Ele copiou o prompt do painel aberto e gerou a imagem inicial do pré-gancho do nora28 em vez da do nora26.
+- Regra (processo): republicar SÓ o painel que mudou; se mais de um mudar, publicar por último o painel em que o aluno está trabalhando; ao receber uma imagem, confirmar de qual vídeo ela é. A imagem do nora28 serve: renomear `nora28-PRE-IMG1`.
