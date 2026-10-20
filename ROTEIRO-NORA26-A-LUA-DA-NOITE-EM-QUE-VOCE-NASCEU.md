@@ -25,7 +25,7 @@ Status: **aprovado pelo aluno em 19/10/2026; atualizado para a Nora v2 no mesmo 
 - **Roupa deste roteiro:** suéter de malha fina **marfim-creme**, de gola redonda, sem estampa, calça escura reta (a pedra-da-lua branca-azulada fica no mesmo tom claro do figurino: o contraste vem do cabelo preto e do dourado).
 - **Objeto na mão direita, em primeiro plano:** uma **pedra-da-lua (moonstone) polida, oval, de uns 5 cm, leitosa com brilho azulado**, segurada entre o polegar e o indicador, perto da lente; luz azulada de fim de tarde. A mão esquerda fica livre para os gestos.
 - **Cenário (com sinais dos EUA):** The same dim wooden-floored hallway of a real American home at dusk as the pre-hook: wood plank floor, light walls, a small American flag hanging on the wall behind her, soft dusk light, nothing else in the frame, no readable text.
-- **Luz:** Blue hour pós-pôr do sol; Luz mista natural + tungstênio; Nostálgico com magenta nas sombras.
+- **Luz:** Blue hour pós-pôr do sol; Luz mista natural + tungstênio; Tons terrosos vibrantes.
 Sem celular e sem carta fora da mão (P9).
 
 ## Pré-gancho — 6 s (clipe separado, sem fala, **com o rosto da Nora**)

@@ -3,7 +3,7 @@
 Decisão do aluno (17/10/2026): todo roteiro começa com um **pré-gancho de 3 a 4 segundos** que prende a atenção antes da fala. É um clipe separado, sem fala, que entra antes da Cena 1 na edição. Exemplos que o aluno citou como comuns no nicho: acender uma fileira de sal, jogar sal numa escultura que ganha vida (um animal), colocar um objeto dentro do travesseiro. Pode fugir da caixinha, desde que impacte.
 
 ## Regras do pré-gancho
-- **3 a 4 s, um único plano,** com começo, meio e fim visíveis (algo muda de forma clara).
+- **(Atualizado em 20/10/2026, P29)** 2 ou 3 tomadas de 3 a 4 s com corte seco, câmera rente ao chão ou macro, efeito GRANDE e cena escura em que o efeito é a luz; algo novo a cada segundo. Antes era “um único plano”, e o resultado ficou sem impacto.
 - **Sem fala.** Só áudio ambiente real (ASMR): nada de música nem efeitos adicionados. Texto curto na tela, colocado na edição.
 - **Sem rosto** quando possível (mão e objetos): assim a imagem não usa as referências da Dana e não corre risco de outra pessoa.
 - **Continuidade com o hook:** o objeto ou o cenário do final do pré-gancho aparece de novo na Cena 1 (por exemplo a vela acesa), para o corte parecer natural.

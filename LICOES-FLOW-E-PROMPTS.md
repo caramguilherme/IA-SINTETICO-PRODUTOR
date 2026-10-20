@@ -29,6 +29,7 @@ Este arquivo junta tudo o que já deu errado ou que o aluno pediu. **Antes de en
 23. **O vídeo continua do pré-gancho (testar do nora25 ao nora28):** a IMAGEM 1 tem a MESMA roupa e o MESMO cenário do pré-gancho; a avatar só passa a falar. Conferido nos virais do aluno: R01 (banheiro, suéter bege), R04 (quarto, lenço e travesseiro), R07 (sala escura, gola preta) e R09 (corredor, a mulher agachada ao lado da linha) seguem no mesmo lugar e com a mesma roupa depois do pré-gancho. Depois do teste, decidir com as métricas se vale variar roupa e cenário entre o pré-gancho e o corpo.
 24. **O Flow não inventa o gesto que causa o efeito.** Se o primeiro quadro já mostra o efeito pronto (fogo aceso) e a causa parada (palito sem chama na mão), o vídeo pula do começo para o resultado e o objeto some (nora26, 1ª tentativa). O primeiro quadro mostra o estado ANTES (nada queimando, palito aceso) e o gesto (abaixar o palito, tocar na folha, soltar) vem descrito dentro do clipe.
 25. **Prompt de vídeo = roteiro de cena com tempos.** Segundo a segundo: o que cada mão e objeto faz, onde (cm, esquerda ou direita da imagem), o estado de cada coisa no começo, no meio e no fim, e “o que NÃO pode acontecer” (sumir, pular, aparecer antes da hora, tocar o rosto). Prompt raso, em parágrafo corrido, o Flow resolve do jeito dele.
+27. **O pré-gancho tem câmera perto ou rente ao chão, efeito grande (chama de 15 a 30 cm), cena escura e corte seco entre 2 ou 3 tomadas** (P29); nunca um plano aberto e parado de longe.
 26. **Pré-gancho com movimento e ação em TODO segundo** (decisão do aluno): quem rola precisa bater o olho e querer ver o que vai acontecer. Nenhum segundo parado; cada segundo traz um evento novo e visível.
 
 ## 2. Falhas já vividas (o que aconteceu e a regra)
@@ -147,3 +148,8 @@ O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a ge
 ## 20/10/2026 — republicar painéis rouba a tela do aluno
 - Ao republicar os quatro painéis em sequência, o último (nora28) abre na tela do aluno, mesmo que ele esteja produzindo o nora26. Ele copiou o prompt do painel aberto e gerou a imagem inicial do pré-gancho do nora28 em vez da do nora26.
 - Regra (processo): republicar SÓ o painel que mudou; se mais de um mudar, publicar por último o painel em que o aluno está trabalhando; ao receber uma imagem, confirmar de qual vídeo ela é. A imagem do nora28 serve: renomear `nora28-PRE-IMG1`.
+
+## 20/10/2026 — nora26, 2º vídeo: o gesto saiu certo, mas “não tem nada de incrível”
+- O roteiro de cena funcionou (o palito desce, toca a folha, o fogo corre até a vela), mas o resultado é um plano aberto e parado, de longe, num corredor claro, com chamas pequenas, que parece tutorial. Nos virais (R09, R01, S2): câmera rente ao chão e bem perto, rosto grande, fogo alto que ilumina o corredor escuro, e 2 ou 3 tomadas com corte seco em 3 a 4 s.
+- Correção (P29): pré-gancho do nora26 em 2 tomadas (A→B: ela acende e o fogo salta, rosto iluminado; C→D: o fogo corre pelo corredor escuro até a vela), 4 imagens e 2 vídeos em Frames, e montagem no CapCut. Checklist novo: **27. O pré-gancho tem câmera perto/rente ao chão, efeito grande (chama de 15 a 30 cm), cena escura e corte seco entre tomadas; nunca plano aberto parado.**
+- Mesma revisão para o nora27 e o nora28 (a fazer depois de ver o resultado do nora26).
