@@ -474,3 +474,12 @@ O app por dentro e o botão de compra
 Preço: US$ 9, depois US$ 29 por mês, garantia de 30 dias
 Prints em baixa resolução, tirados no navegador do app.
 Funil analisado navegando pelo quiz como usuária de teste (sem dados reais e sem comprar). Conversão e resultados não aparecem aqui: só o painel de afiliado tem esses números.
+
+---
+## Call do Gustavo (19/10/2026, 18h; transcrição que o aluno colou em 20/10)
+- **Funil novo = Love Chart**, quiz de zodíaco/astrologia, sem VSL por enquanto. Mesmo ticket do Soulmate (US$ 9), mesma especialista (Master Aura), mesmo público (mulheres 35+). O quiz pergunta a data de nascimento, dá um coração a cada resposta e monta o mapa; no fim mostra, por exemplo, “meu match perfeito tem Vênus em Capricórnio”, e vai para o checkout. Quem tinha a maior conversão do Soulmate recebeu antes e está vendendo bem.
+- **Estilo de copy e de vídeo = o mesmo** que já usamos. Instrução dele: **pode ir postando já**, porque o link vai ser substituído depois. A Appyon está trocando o link dentro do dashboard por um novo; provavelmente não precisamos fazer nada. A troca estava prevista para 19/10 e ainda não aconteceu. Ele avisa se a instrução mudar.
+- **Soulmate continua vendendo** e tem gente escalando. Postar nos dois, Face e Insta.
+- **Manifestation:** quem não bater 100 vendas até 23/10 perde o acesso a esse funil (o nosso é Soulmate/Love Chart).
+- **Ferramenta M2M FusionZ** (cortar silêncio e juntar): liberada para todos os alunos. Zoom nos cortes: ele usa Clássico, Alternado ou Vai e volta, e não gosta de Aleatório; **não usa transição (fade)**. Ela também junta vários takes num arquivo só, em ordem alfanumérica pelo nome (prefixo igual = mesmo vídeo; outro prefixo = outro vídeo). Atalho possível: baixar o projeto do Flow, extrair, deixar só os takes e ligar “Juntar tudo num arquivo só” (corta o silêncio e junta de uma vez).
+- **Flow no modo agente:** 9:16, Omni Flash, um vídeo por prompt; mensagem do agente: “cada prompt é um vídeo, faça todos na ordem, renomeie com o número, mantenha a voz constante, use a imagem anexada como frame inicial”. O Omni Flash é o melhor em consistência de voz; Low Priority não.
