@@ -53,8 +53,8 @@ Continuação do pré-gancho (P26): mesma roupa e mesmo cenário. Gerada na **Ce
 ### Take 3/8 — Virada (não é azar, nem você) — 10 s (22 palavras)
 **Nome do arquivo:** `nora30-T3-corpo-padrao-venus`
 **Visual:** Ela abre a palma esquerda para a lente e depois aponta para a lente em “you”.
-**Fala:** "It's not bad luck, and it's not you. In astrology, hot and cold is a pattern, and it depends on your Venus."
-(PT: Não é azar, e não é você. Na astrologia, quente e frio é um padrão, e ele depende do seu Vênus.)
+**Fala:** "It's not bad luck, and it's not you. In astrology, hot and cold is a pattern that depends on your Venus."
+(PT: Não é azar, e não é você. Na astrologia, quente e frio é um padrão que depende do seu Vênus.)
 
 ### Take 4/8 — Nomes de padrão — 10 s (19 palavras)
 **Nome do arquivo:** `nora30-T4-corpo-steady-heart`
