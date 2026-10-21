@@ -72,7 +72,7 @@ O número do vídeo é a ordem de postagem na conta: **nora01 a nora29 já foram
 | `nora29-T6-corpo-nao-passe` | “Don't scroll past this one. If you do, this sign won't reach you again…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora29-T7-cta-a-quiz-venus` | “The next part is in my story. A free astrology quiz finds your Venus…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora29-T8-cta-b-comente-222` | “Send this to yourself. Comment 222 so I know you did it…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora30-IMG` | imagem 1 A (cozinha à noite, geodo de ametista grande) | **serve também ao nora31** | a gerar |
+| `nora30-IMG` | imagem 1 A (cozinha à noite, geodo de ametista grande) | **serve também ao nora31** | gerada e postada em 21/10 (18h25) |
 | `nora30-T1-gancho-touro-virgem-capricornio` | “Taurus, Virgo, or Capricorn. Keep your mouth shut after watching this…” | só deste vídeo | a gerar |
 | `nora30-T2-corpo-nao-sei-seu-nome` | “I do not know your name, but do not scroll… The love portal has opened.” | **corpo da série: serve ao nora31, 32 e 33** | a gerar |
 | `nora30-T3-corpo-homem-guardado` | “The man the universe kept for you is finally being released…” | corpo da série | a gerar |
@@ -105,3 +105,5 @@ O painel de cada variação eu monto quando o aluno pedir.
 
 ## Como atualizar este arquivo
 Quando um vídeo for gerado e postado, mudar o status para “gerado (postado em DD/MM)” e anotar views, retenção e vendas quando houver. Se algum kit for campeão, marcar “campeão” e reaproveitar primeiro.
+
+*(21/10/2026: nora30 e a imagem A foram gerados e o nora30 foi postado às 18h25 no Insta e no Face.)*
