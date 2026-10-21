@@ -110,3 +110,5 @@ P33. Palavras a mais ou repetidas no áudio do Flow (decisão do aluno, 20/10/20
 
 
 P34. Tamanho do vídeo que vai para legenda e CapCut (decisão do aluno, 20/10/2026, com print do CapCut: largura 720, altura 1280): o vídeo que sai da plataforma do curso depois do corte de silêncio, vai para o Claude pôr as legendas automáticas e depois entra no CapCut para as demais edições é **720×1280** (não 1080×1920). **Todo mapa da tela, valor de pixel e X/Y do CapCut usa 720×1280** (a legenda fica de 768 a 896 px do topo, largura máxima do x 58 ao x 600, botões da direita a partir do x 619). Isso substitui os pixels de 1080×1920 do P31. O `PAINEL-MODELO.html` já calcula por 720×1280; nora29 e nora30 foram atualizados.
+
+**Fonte oficial dos textos (decisão do aluno, 21/10/2026): Poppins Bold (poppins-bd no CapCut), em números fixos, hook e legenda; a sans-serif ExtraBold que sugeri não existe no CapCut dele.**
