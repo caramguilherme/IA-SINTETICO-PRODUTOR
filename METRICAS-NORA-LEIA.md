@@ -47,3 +47,5 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **21/10/2026 01h29:** nora28 no Instagram com ~7h57: 103 views, 101 viewers, skip 76,2% (era 82,7% às 4h27), tempo médio 2 s, 1 comentário, 0 follows; países e idade indisponíveis (menos de 100 contas interagiram).
 
 - **21/10/2026 01h28 (complemento):** nora27 skip 35,3% (ret. 3 s 64,7%), informado pelo aluno.
+
+- **21/10/2026 01h30:** nora29 (sem pré-gancho, sem hashtag, postado 20/10 21h45) no Instagram com ~3h45: 107 views, 101 viewers, skip 68,3% (ret. 3 s 31,7%), tempo médio 3 s, 1 curtida, 1 comentário, 0 follows. **EUA 54,2%**, Índia 15,9%, Canadá 10,3%, Reino Unido 4,7%, Itália 3,7%. Idade: 35-44 33,0%, 25-34 29,2%, 45-54 17,9%, 55-64 8,5%, 18-24 5,7%, 65+ 5,7%. Hora × Índia: 20h15 → 16,0%; 21h45 → 15,9%: a janela das 19h30 às 21h45 mantém a Índia em ~16%.
