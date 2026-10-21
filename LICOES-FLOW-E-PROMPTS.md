@@ -304,3 +304,6 @@ Dados que o aluno deu: 29 vídeos na conta (avatar antiga e a nova), média ~300
 
 ### 21/10/2026 - Horários (decisão a partir da conversa com o Eduardo)
 2 vídeos por dia dentro da janela das 19h às 21h45 BRT (Índia ~16%); fora dela a Índia passa de 55% (8h35 62,9%; 13h45 58,5% + Turquia 21%; 17h32 54,8%). Plano: nora30 21/10 19h30, nora31 21/10 21h45, nora32 22/10 19h00. Atenção: o nora27, de maior retenção (58,4% nos 3 s), foi quase todo Índia (58,5%) e Turquia (21%); a retenção alta veio de público que não compra, então retenção só compara vídeos postados na mesma janela.
+
+### 21/10/2026 - Ferramenta de corte de silêncio: "Juntar tudo num arquivo só"
+Ao juntar os takes (nora30, 9 takes) a ferramenta pede "Transição entre os vídeos" (marcada TESTE): Corte seco (sem transição), Fade, Fade para preto, Cortina, Círculo abrindo, Aleatória. Escolha: **Corte seco**, porque os virais são uma tomada só e o silêncio já é cortado; fade e cortina chamam atenção para a emenda. Se o aluno testar outra, anotar o resultado aqui.
