@@ -301,3 +301,6 @@ Dados que o aluno deu: 29 vídeos na conta (avatar antiga e a nova), média ~300
 - **Testar texto na tela** em 2 dos próximos 5 vídeos, com textos garimpados de perfis UGC reais do nicho e o avatar do aluno; "não pode abusar". Segundo ele, no começo serve para engajar; depois a conta entrega qualquer vídeo (crença dele). O único teste nosso de texto na tela (nora22, texto inventado): 111 views, 16,8% passaram dos 3 s.
 - **Postagem:** 2 vídeos por dia é seguro; intervalo mínimo de 3 h entre posts ("posta um e vaza"). O aluno disse que fora de 18h a 21h entra muita Índia.
 - Aquecimento: o aluno aqueceu 3 dias (uns 15 min por dia) e postou 10 vídeos em 3 a 4 dias com bons resultados; depois a entrega caiu. Eduardo: todos os vídeos pegam mais de 100 views, então a conta está aquecida.
+
+### 21/10/2026 - Horários (decisão a partir da conversa com o Eduardo)
+2 vídeos por dia dentro da janela das 19h às 21h45 BRT (Índia ~16%); fora dela a Índia passa de 55% (8h35 62,9%; 13h45 58,5% + Turquia 21%; 17h32 54,8%). Plano: nora30 21/10 19h30, nora31 21/10 21h45, nora32 22/10 19h00. Atenção: o nora27, de maior retenção (58,4% nos 3 s), foi quase todo Índia (58,5%) e Turquia (21%); a retenção alta veio de público que não compra, então retenção só compara vídeos postados na mesma janela.
