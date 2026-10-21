@@ -239,3 +239,9 @@ O aluno mostrou o print do CapCut: o vídeo que ele usa (saída da plataforma do
 
 ### 21/10/2026 - Estilo dos textos na edição
 O aluno mandou 2 quadros do nora29 editado (números 222 e 11:11 em amarelo-ouro nos cantos, hook branco com contorno preto em 2 linhas de 14% a 24%, legenda branca em maiúsculas com contorno a 64%): posições certas. O hook cobre a testa/cabelo e fica a ~2% das sobrancelhas, sem tocar os olhos: aceitável. O mapa da tela agora traz o bloco "Estilo de cada texto" (cor, fonte, tamanho em % da largura, contorno). Não vejo o nome da fonte nem os números do CapCut: pedir o print do painel de texto e gravar como padrão.
+
+### 21/10/2026 - Conferência do nora29 editado (quadros do aluno)
+- Posições batem com o mapa: números a 12,5% da altura, hook a 17,5% a 21% (centro 19%), legenda a 64,5%.
+- **Hook quase encosta nas sobrancelhas** no quadro do Take 1 (ela se inclina para a lente, o rosto fica maior): o olho fica a ~23,7% e a linha 2 do hook termina a ~21%. Não cobre os olhos, mas é o limite. Hook de 2 linhas curtas (até uns 25 caracteres por linha) no mesmo tamanho 12 ocupa menos largura e deixa o rosto mais livre.
+- **Legenda sobre a mão em movimento:** o gesto com a mão na altura do peito (59% a 79% da altura) cai exatamente na faixa da legenda (60% a 70%). A legenda tem contorno e continua legível, mas a mão passa por baixo dela. **Para as linhas de movimentação do nora30 em diante (reescritas depois da IMAGEM 1): gestos da mão livre na altura do ombro ou do queixo, ao lado do corpo (faixa de 35% a 55% da altura), nunca na altura do peito**, para a faixa da legenda ficar livre.
+- Neblina branca em volta do hook no quadro do Take 1: perguntar ao aluno se é brilho/sombra do texto ou fusão dos takes; se for sombra do CapCut, usar escura ou desligar.
