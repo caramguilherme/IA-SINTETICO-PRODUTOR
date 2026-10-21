@@ -120,7 +120,7 @@ section{scroll-margin-top:16px}
       <ol class="box" id="telaLinha" style="margin:8px 0 14px;padding:12px 12px 12px 32px;line-height:1.55"></ol></div>
       <div id="mapaTela" class="hide" style="margin:0 0 16px">
         <div class="mono">Mapa da tela: onde pôr cada texto</div>
-        <p style="color:var(--ink2);margin:6px 0 0;font-size:14.5px">Para nada ficar embaixo do app (Instagram e Facebook) nem em cima do rosto ou do objeto. As faixas são % da altura da tela; os pixels são para o vídeo de 720×1280, que é o que sai da plataforma do curso depois de cortar os silêncios, vai para as legendas do Claude e entra no CapCut.</p>
+        <p style="color:var(--ink2);margin:6px 0 0;font-size:14.5px">Faixas em % da altura; pixels para o vídeo de 720×1280.</p>
         <div id="mapaCorpo" style="display:flex;gap:18px;flex-wrap:wrap;margin:12px 0;align-items:flex-start"></div>
         <div id="mapaCapcut" style="margin:0 0 14px"></div>
         <div id="mapaEstilos" style="margin:0 0 14px"></div>
@@ -462,7 +462,7 @@ function montar(silencio){
       ['Texto do hook (caixa branca)',50,ys(mt.hook)],
       ['LEGENDA',50,ys(mt.legenda)],
       ['Seta vermelha do pedido final',12,18]];
-    let ct='<div class="mono">No CapCut: o que digitar em X e em Y (posição do CENTRO de cada texto)</div><p style="color:var(--ink2);margin:6px 0 8px;font-size:14.5px">O zero do CapCut é o <b>centro da tela</b> (X=0 e Y=0 é o meio). X negativo é para a esquerda; Y positivo é <b>para cima</b>. Se o seu CapCut for ao contrário, o texto vai para o lado errado: digite um valor de teste (Y 500) com o texto selecionado, veja se sobe, e se descer troque o sinal de todos os Y. O vídeo que você sobe no CapCut tem 720×1280 (largura 720, altura 1280), e os valores abaixo são para essa medida.</p><div class="box" style="white-space:normal;word-break:normal;padding:10px 12px"><table style="border-collapse:collapse;width:100%;font-size:13.5px"><tr style="color:var(--ink2)"><td style="padding:4px 10px 6px 0">Texto</td><td style="padding:4px 0 6px 0;white-space:nowrap">Vídeo 720×1280 (X · Y)</td></tr>';
+    let ct='<div class="mono">No CapCut: o que digitar em X e em Y (posição do CENTRO de cada texto)</div><p style="color:var(--ink2);margin:6px 0 8px;font-size:14.5px">X=0 e Y=0 é o <b>centro</b> do vídeo (720×1280). X negativo é esquerda; Y positivo é para cima.</p><div class="box" style="white-space:normal;word-break:normal;padding:10px 12px"><table style="border-collapse:collapse;width:100%;font-size:13.5px"><tr style="color:var(--ink2)"><td style="padding:4px 10px 6px 0">Texto</td><td style="padding:4px 0 6px 0;white-space:nowrap">Vídeo 720×1280 (X · Y)</td></tr>';
     P.forEach(r=>{const b=cc(r[1],r[2],720,1280);ct+='<tr><td style="padding:5px 10px 5px 0;vertical-align:top"><b>'+esc(r[0])+'</b></td><td style="padding:5px 0;white-space:nowrap">X '+b[0]+' · Y '+b[1]+'</td></tr>'});
     ct+='</table></div>';
     $('mapaCapcut').innerHTML=ct;
