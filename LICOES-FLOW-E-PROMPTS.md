@@ -248,3 +248,6 @@ O aluno mandou 2 quadros do nora29 editado (números 222 e 11:11 em amarelo-ouro
 
 ### 21/10/2026 - Prints do CapCut do nora29
 X 0 · Y 397 (hook) confirma que o X/Y do CapCut do aluno usa a tela 720×1280. Estilo usado: Preenchimento, Traço preto, Sombra preta e **Luz branca (intensidade 45, tamanho 25)**: a Luz é a neblina branca em cima do rosto. Padrão novo: Luz desligada (painel e CLAUDE.md atualizados).
+
+### 21/10/2026 - IMAGEM 1 do nora30 aprovada (folha de louro, entrada de carro)
+Identidade, suéter ameixa, bandeirinha no peito (lado direito da imagem), folha com símbolo de Vênus na MÃO DIREITA (lado esquerdo da imagem), SUV com porta aberta e luz amarela: tudo como pedido. Diferenças: calça é jeans azul (não carvão), enquadramento vai até o colo (não só o peito) e a MÃO ESQUERDA está cortada no canto de baixo à esquerda, descansando no joelho direito, com o antebraço na diagonal. Linhas de movimentação do nora30 reescritas de acordo: os gestos da mão esquerda sobem do colo até a altura do ombro, no lado direito do quadro; a legenda desce para 69% a 77% (Y −294 no CapCut) porque a mão com a folha vai até 70% da altura.
