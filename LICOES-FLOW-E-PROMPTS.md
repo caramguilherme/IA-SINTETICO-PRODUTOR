@@ -251,3 +251,15 @@ X 0 · Y 397 (hook) confirma que o X/Y do CapCut do aluno usa a tela 720×1280. 
 
 ### 21/10/2026 - IMAGEM 1 do nora30 aprovada (folha de louro, entrada de carro)
 Identidade, suéter ameixa, bandeirinha no peito (lado direito da imagem), folha com símbolo de Vênus na MÃO DIREITA (lado esquerdo da imagem), SUV com porta aberta e luz amarela: tudo como pedido. Diferenças: calça é jeans azul (não carvão), enquadramento vai até o colo (não só o peito) e a MÃO ESQUERDA está cortada no canto de baixo à esquerda, descansando no joelho direito, com o antebraço na diagonal. Linhas de movimentação do nora30 reescritas de acordo: os gestos da mão esquerda sobem do colo até a altura do ombro, no lado direito do quadro; a legenda desce para 69% a 77% (Y −294 no CapCut) porque a mão com a folha vai até 70% da altura.
+
+### 21/10/2026 - Discord (chat-appyon e vitórias-dólar, 20/10 14h a 23h20)
+- **Regra de julgar a conta (Rafael Maia, aluno):** só descartar uma conta depois de pelo menos 3 vídeos seguidos com 200 a 300 views; "continua postando". Nossos últimos 13 vídeos ficaram abaixo de 230 views: ainda no mesmo patamar de quem está aquecendo.
+- **CTA de quem está aquecendo (Rafael Maia e Paulo Sampaio):** pedem engajamento (comentar, salvar) e, no fim, só uma dica de ir ao perfil; não empurram o story ainda. O nosso CTA já pede comentar (222) e depois o story.
+- **Mesmo vazamento que o nosso (Thamara, 22h58):** "muita gente comenta nos vídeos mas ninguém vai para os stories". Sem resposta no canal.
+- **Calibragem (Ana, vitórias-dólar):** primeira postagem em 10/10; a primeira venda veio no 37º vídeo.
+- **Quiz:** depois do quiz o público vai direto ao checkout (Davi Lopes); os stories são a porta de entrada do quiz.
+- **Idade mínima de 25 anos para fugir dos indianos (Robert Oliveira, 16h55):** pergunta sem resposta no canal; já usamos.
+- **Monetização do Facebook (Allan Mayer, M2M):** não faz sentido entrar no programa de recompensas: regras mais duras para conteúdo com promessas fortes, risco maior de perder a página. Coerente com não pedir a revisão do "Established presence".
+- **Automação de stories no GeeLark (Luana e Guilherme Garbellotto):** postar story sozinho para nunca ficar sem story. Útil para o nosso story diário.
+- **Aulas citadas:** "Aula 7: Estratégias no Facebook, automação, stories e comentário fixado" (membros.mvmcreators.com.br, link do Ju Santos) e "Oficina de Hook" (aula 32, segundo Eduardo & Sabrina; outra aluna disse que não era a certa). Se o aluno trouxer o conteúdo, aplico no nora30 em diante.
+- **Flow:** reclamações de cenário que muda entre takes, avatar "falso" e pessoas estranhas no fundo; música de fundo do Flow pode ser removida isolando a voz no CapCut; upload no Face em 1080p 60 fps resolveu lentidão (Tron). Nosso export é 1080p 24 fps.
