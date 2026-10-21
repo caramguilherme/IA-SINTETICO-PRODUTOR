@@ -113,4 +113,4 @@ P34. Tamanho do vídeo que vai para legenda e CapCut (decisão do aluno, 20/10/2
 
 **Fonte oficial dos textos (decisão do aluno, 21/10/2026): Poppins Bold (poppins-bd no CapCut), em números fixos, hook e legenda; a sans-serif ExtraBold que sugeri não existe no CapCut dele.**
 
-**Tamanho da letra no CapCut (21/10/2026): é o número do campo Tamanho (10, 11, 12...), nunca % nem px. Padrão a gravar quando o aluno informar os 3 números do nora29 (números fixos, hook, legenda).**
+**Tamanho da letra (decisão do aluno, 21/10/2026, nora29): no CapCut é o número do campo Tamanho, nunca % nem px. Padrão: Poppins Bold (poppins-bd); números fixos = 12; hook = 12 (texto grande, ~70 a 80 caracteres; até 14 se o hook tiver até ~35 caracteres); legenda automática (feita por outro Claude, em pixels) = uns 38 px de fonte no vídeo 720×1280, uns 13 a 14 no CapCut, em MAIÚSCULAS, branca, contorno preto, palavra-chave amarelo-ouro. O painel traz essa explicação no bloco Estilo de cada texto, e o aluno a cola para o Claude das legendas.**
