@@ -33,3 +33,5 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **Música (aluno, 21/10/2026):** o mesmo áudio do nora01 ao nora28: "Ambient Mystical Drone" (biblioteca do CapCut), o vídeo todo, a −18 dB. Constante em todas as métricas, não é variável. O nora29 e o nora30 seguem igual. Teste com × sem música: só depois do teste do pré-gancho, em 2 vídeos do mesmo tipo. Conferir se a faixa é de uso comercial.
 
 - **Horário do nora30 (21/10/2026):** o nora29 saiu às 21h45 de 20/10, então o nora30 NÃO vai no mesmo dia (15 min depois). Novo plano: nora30 em 21/10 às 19h30 BRT (3h30 na Índia, dentro da janela 19h a 21h30). Anotar o horário real nas métricas; o par com o nora28 (17h32) já tem horário diferente de qualquer jeito, então comparar pela retenção nos 3 s no mesmo tempo de vida.
+
+- **20/10/2026 ~22h10:** nora27 no Instagram com ~8h25: 144 views, 136 viewers, skip 35,0% (ret. 3 s 65,0%), tempo médio 7 s, 1 comentário, 0 follows; Índia 69,4% (era 77,2% às 3h48), Turquia 6,9%, Reino Unido 4,2%, Paquistão 2,8%, Grécia 1,4%. Idade: 25-34 49,3%, 35-44 30,6%, 45-54 9,7%, 18-24 4,9%, 65+ 4,2%, 55-64 1,4%, 13-17 0%. Seguidores 3,5%.
