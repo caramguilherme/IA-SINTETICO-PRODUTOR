@@ -1,0 +1,540 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Painel nora31</title>
+<style>
+:root{--bg:#0b1230;--bg2:#101a40;--card:#0f1a3d;--card2:#0a1230;--line:#22305e;--ink:#eef1ff;--ink2:#aab4dd;--accent:#4f8cff;--yellow:#ffe14d;--green:#27c27a;--red:#ff6b5b;
+--sans:system-ui,-apple-system,"Segoe UI",Inter,sans-serif;--mono:ui-monospace,Consolas,monospace}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:radial-gradient(1200px 600px at 20% -10%,#16245a 0,var(--bg) 60%);color:var(--ink);font:16px/1.55 var(--sans);min-height:100vh}
+button{font:inherit;cursor:pointer;color:inherit}
+.wrap{max-width:1120px;margin:0 auto;padding:22px 16px 90px;display:grid;grid-template-columns:minmax(0,1fr) 190px;gap:22px}
+.col{display:grid;gap:18px;min-width:0;align-content:start}
+nav.toc{position:sticky;top:18px;align-self:start;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;font-size:14px}
+nav.toc b{display:block;margin-bottom:6px}
+nav.toc a{display:block;color:var(--ink2);text-decoration:none;padding:3px 0}
+nav.toc a:hover{color:var(--yellow)}
+.hero{border:1px solid var(--line);border-radius:14px;padding:22px 24px;background:linear-gradient(135deg,#142a73,#0f1a3d)}
+.hero .k{font:700 11.5px var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--yellow)}
+.hero h1{margin:6px 0 6px;font-size:clamp(26px,4vw,38px);line-height:1.1;letter-spacing:-.01em}
+.hero p{margin:0;color:var(--ink2);font-size:14.5px}
+.card{position:relative;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px 22px}
+.card h2{margin:0 0 12px;font-size:21px}
+.card h3{margin:0 0 8px;font-size:15px;letter-spacing:.03em;text-transform:uppercase;color:#7fe3b0;display:flex;gap:8px;flex-wrap:wrap;align-items:center;padding-right:170px}
+.cp{position:absolute;top:14px;right:14px;border:1px solid var(--line);background:var(--bg2);border-radius:8px;padding:6px 12px;font-weight:600;font-size:13px}
+.cp:hover{border-color:var(--accent);background:#17265a}
+.cp.ok{background:var(--green);border-color:var(--green);color:#04210f}
+.cp.big{position:static;background:var(--yellow);color:#101114;border-color:var(--yellow);padding:10px 18px;font-size:15px}
+.box{background:var(--card2);border:1px solid var(--line);border-radius:10px;padding:14px 16px;white-space:pre-wrap;word-break:break-word;font-size:14.5px;line-height:1.6}
+.box.m{font-size:13.5px}
+.item{display:grid;gap:10px;border-top:1px solid var(--line);padding-top:16px;margin-top:16px;position:relative}
+.item:first-child{border-top:0;margin-top:0;padding-top:0}
+.item.done .box{opacity:.6}
+.item.done h3::after{content:"✓ feito";color:var(--green);font-size:12px}
+.fala{border-left:4px solid var(--yellow);padding:2px 0 2px 12px;font-weight:600}
+.tag{font:700 11px var(--mono);letter-spacing:.06em;text-transform:uppercase;border-radius:5px;padding:2px 7px;background:#1d2d68;color:#cfd8ff}
+.tip{background:#2a2410;border:1px solid #6b5a14;border-radius:8px;padding:8px 12px;font-size:14px;color:#ffe9a0}
+label.chk{display:inline-flex;gap:7px;align-items:center;font-weight:600;cursor:pointer;font-size:14px;color:var(--ink2)}
+label.chk input{width:18px;height:18px;accent-color:var(--green)}
+.bar{height:8px;background:#1a2757;border-radius:6px;overflow:hidden;margin-top:12px}
+.bar i{display:block;height:100%;background:var(--green);width:0;transition:width .25s}
+.mono{font:700 11.5px var(--mono);letter-spacing:.09em;text-transform:uppercase;color:var(--ink2)}
+textarea{width:100%;min-height:150px;border:1px solid var(--line);border-radius:10px;padding:10px 12px;font:13px/1.5 var(--mono);resize:vertical;background:var(--card2);color:var(--ink)}
+textarea:focus{outline:2px solid var(--accent)}
+.btn{border:1px solid var(--line);background:var(--bg2);border-radius:8px;padding:8px 14px;font-weight:600;font-size:14px}
+.btn:hover{border-color:var(--accent)}
+.btn.c{background:var(--accent);border-color:var(--accent);color:#04122e}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.msg{font-size:14px;margin-top:8px}
+.msg.err{color:var(--red);font-weight:600}
+.hide{display:none!important}
+.chip{display:inline-block;margin:0 6px 6px 0;background:#1d2d68;color:#cfd8ff;border-radius:6px;padding:3px 9px;font:600 12.5px var(--mono)}
+ol.steps{margin:8px 0 0;padding-left:20px;font-size:14.5px;color:var(--ink2)}
+section{scroll-margin-top:16px}
+.pill{display:inline-block;padding:2px 9px;border-radius:999px;font:700 11.5px var(--mono);letter-spacing:.05em;text-transform:uppercase}
+.pill.g{background:#3a2d08;color:#ffe14d;border:1px solid #8a6d12}
+.pill.r{background:#0d3a24;color:#7fe3b0;border:1px solid #1f7a4d}
+.nome{font:700 14.5px var(--mono);color:#ffe14d;word-break:break-all}
+.peca{border:1px solid var(--line);border-radius:10px;padding:12px 14px;background:var(--card2);display:grid;gap:6px}
+.peca.reuso{border-color:#1f7a4d}
+@media(max-width:860px){.wrap{grid-template-columns:1fr}nav.toc{display:none}.card h3{padding-right:0;margin-top:34px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+ <div class="col">
+  <section class="card" id="entrada">
+    <div class="mono">Cole o pacote que a IA te entregou (JSON)</div>
+    <textarea id="json" placeholder="Cole aqui o bloco (começa com { e termina com })" style="margin-top:10px"></textarea>
+    <div class="row" style="margin-top:10px">
+      <button class="btn c" id="aplicar">Montar painel</button>
+      <button class="btn" id="limpar">Limpar tudo</button>
+    </div>
+    <div class="msg" id="msg"></div>
+  </section>
+
+  <div id="painel" class="hide col">
+    <section class="hero">
+      <div class="k" id="rid"></div>
+      <h1 id="rtitulo"></h1>
+      <p id="rmeta"></p>
+      <div class="tip" id="avisos" style="margin-top:12px"></div>
+      <div class="bar"><i id="prog"></i></div>
+      <p id="progtxt" style="margin-top:6px"></p>
+    </section>
+
+    <section class="card" id="silencio">
+      <h2>Cortar os silêncios (ferramenta do curso)</h2>
+      <p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Faça depois que os takes estiverem prontos, juntos num vídeo só e baixados, e ANTES de montar no CapCut e pôr o texto na tela e a legenda (os textos são marcados pela frase, não por segundos, porque o corte muda o tempo). Este vídeo NÃO tem pré-gancho (teste de 20/10/2026): o vídeo começa direto no Take 1 e vai inteiro nesta ferramenta. Arraste o vídeo na ferramenta “M2M FusionZ – Cortar e juntar vídeos” e deixe assim:</p>
+      <div class="box" style="margin-bottom:12px">
+        <div style="margin-bottom:6px"><b>Como cortar:</b> 01 · Remover o silêncio</div>
+        <div style="margin-bottom:6px"><b>Sensibilidade:</b> −30 dB (o padrão, não mexa)</div>
+        <div style="margin-bottom:6px"><b>Só corta a partir de:</b> 0,40 s (o padrão é 0,50 s; baixar um pouco pega o silêncio do começo de cada take)</div>
+        <div style="margin-bottom:6px"><b>Margem de respiro:</b> 90 ms (o padrão é 60 ms; evita comer o finalzinho das palavras)</div>
+        <div style="margin-bottom:6px"><b>Zoom nos cortes:</b> Alternado (parece troca de câmera a cada corte; esconde o “pulo” dos cortes na mesma posição. O trecho fechado corta um pouco as bordas, então rosto e objeto ficam no centro. Se achar forte demais, teste “Suave” no vídeo seguinte)</div>
+        <div style="margin-bottom:6px"><b>Força do zoom:</b> 100% (testado e preferido pelo aluno no nora25; se o rosto borrar, desça para 70%)</div>
+        <div style="margin-bottom:6px"><b>Qualidade do vídeo:</b> Igual à do original (é a única opção)</div>
+        <div style="margin-bottom:6px"><b>Formato do áudio:</b> Automático (igual ao original)</div>
+        <div style="margin-bottom:6px"><b>Nome do arquivo:</b> troque por <span id="silNome">noraNN-cortado</span> (se não deixar editar, renomeie depois)</div>
+        <div><b>Juntar tudo num arquivo só:</b> DESLIGADO (o vídeo já está junto)</div>
+      </div>
+      <div class="mono">Depois</div>
+      <ol style="margin:8px 0 12px;padding-left:20px;line-height:1.6">
+        <li>Suba o vídeo e espere a <b>Prévia</b>. O esperado é perder cerca de 30% da duração (no nora25: 1:20 para 0:54, 25 cortes).</li>
+        <li>Aperte play com <b>Resultado</b> marcado e ouça tudo uma vez. Confira que a primeira palavra do take 1 e a última do CTA não foram cortadas, e que as emendas entre os takes não pulam.</li>
+        <li>Se um corte comeu o fim de uma palavra, arraste a borda dele ou suba a margem de respiro.</li>
+        <li>Clique em <b>Cortar e baixar</b>.</li>
+        <li>No CapCut: abra o vídeo cortado (sem pré-gancho) e ponha os textos da seção seguinte; o primeiro texto entra no segundo 0.</li>
+      </ol>
+      <div class="tip">Se comer o fim das palavras, suba a margem de respiro para 120 ms. Se sobrar silêncio no começo dos takes, baixe “Só corta a partir de” para 0,30 s. Se ficar robótico, troque para “02 · Encurtar o silêncio”.</div>
+    </section>
+
+    <section class="card" id="textotela">
+      <button class="cp" id="copiaTela">Copiar textos de tela</button>
+      <h2>Edição: texto na tela</h2>
+      <p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Já com os takes aprovados (este vídeo não tem pré-gancho), monte o vídeo no editor e ponha os textos abaixo.</p>
+      <div id="telaLinhaW" class="hide"><div class="mono">Resumo: o que aparece na tela, em ordem</div>
+      <ol class="box" id="telaLinha" style="margin:8px 0 14px;padding:12px 12px 12px 32px;line-height:1.55"></ol></div>
+      <div id="mapaTela" class="hide" style="margin:0 0 16px">
+        <div class="mono">Mapa da tela: onde pôr cada texto</div>
+        <p style="color:var(--ink2);margin:6px 0 0;font-size:14.5px">Faixas em % da altura; pixels para o vídeo de 720×1280.</p>
+        <div id="mapaCorpo" style="display:flex;gap:18px;flex-wrap:wrap;margin:12px 0;align-items:flex-start"></div>
+        <div id="mapaCapcut" style="margin:0 0 14px"></div>
+        <div id="mapaEstilos" style="margin:0 0 14px"></div>
+        <ol class="box" id="mapaRegras" style="margin:0;padding:12px 12px 12px 32px;line-height:1.55"></ol>
+      </div>
+      <div class="mono" id="telaPreK">Pré-gancho</div>
+      <div class="box" id="telaPre" style="margin:8px 0 12px;font-size:18px;font-weight:700"></div>
+      <div class="mono">Primeiros segundos do hook</div>
+      <div class="box" id="telaHook" style="margin:8px 0 12px;font-size:20px;font-weight:700"></div>
+      <div id="telaHookQ" style="margin:-4px 0 12px;color:var(--ink2);font-size:14.5px"></div>
+      <div class="box" id="telaAlt" style="margin:0 0 12px"></div>
+      <div class="box" id="telaExtras"></div>
+      <div class="tip hide" id="telaEdicao" style="margin-top:12px"></div>
+    </section>
+
+    <section class="card" id="descricao">
+      <button class="cp" id="copiaInsta">Copiar legenda</button>
+      <h2>Legenda Insta/Face</h2>
+      <div class="box" id="insta"></div>
+    </section>
+
+    <section class="card" id="comentario">
+      <h2>Comentário fixado</h2>
+      <div class="item">
+        <button class="cp" id="copiaPinInsta">Copiar Insta</button>
+        <h3>Instagram</h3>
+        <div class="box" id="pinInsta"></div>
+      </div>
+      <div class="item">
+        <button class="cp" id="copiaPinFace">Copiar Face</button>
+        <h3>Facebook</h3>
+        <div class="box" id="pinFace"></div>
+      </div>
+    </section>
+
+    <section class="card hide" id="pecas">
+      <h2>Nomes e reaproveitamento</h2>
+      <div id="pecasBox"></div>
+    </section>
+
+    <section class="card" id="referencia">
+      <h2>Referência visual</h2>
+      <div id="refs"></div>
+      <ol class="steps" id="refSteps">
+        <li>No Google Flow, anexe <b>só</b> estas imagens (deste personagem).</li>
+        <li><b>Com créditos:</b> agente do Flow. Cole “Copiar todos os prompts” (etapa “Todos os prompts”). Ele gera um item por vez e espera seu "APROVADO".</li>
+        <li><b>Sem créditos:</b> gere item por item, copiando abaixo. Tudo 9:16.</li>
+      </ol>
+    </section>
+
+    <section class="card hide" id="prehook">
+      <h2>Pré-gancho (3 a 4 s)</h2>
+      <div id="preBox"></div>
+    </section>
+
+    <section class="card" id="imagens"><h2>Imagens</h2><div id="listaImg"></div></section>
+
+    <section class="card hide" id="central">
+      <h2>Central do curso: o que preencher</h2>
+      <p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Configuração que vale para todas as cenas. Preencha uma vez, na ordem. Não clique em “Resetar valores” nem em “REGERAR BLOCO”.</p>
+      <div id="cfg"></div>
+    </section>
+
+    <section class="card hide" id="cenas">
+      <h2>As cenas, uma por vez na Central</h2>
+      <p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Em cada cena mudam só 2 campos: a fala e a movimentação.</p>
+      <div id="listaCenas"></div>
+    </section>
+
+    <section class="card hide" id="agente">
+      <h2>No agente do Flow</h2>
+      <p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Cole cada take copiado da Central na caixa da cena. O botão monta a mensagem inteira (aviso + takes na ordem) para colar no agente.</p>
+      <div id="agenteBox"></div>
+    </section>
+
+    <section class="card hide" id="story">
+      <h2>Story (parte 2)</h2>
+      <div id="storyBox"></div>
+    </section>
+
+    <section class="card" id="fala">
+      <button class="cp" id="copiaFalas">Copiar falas</button>
+      <h2>Fala completa</h2>
+      <div class="box" id="falas"></div>
+    </section>
+
+    <section class="card" id="videos"><h2>Vídeos</h2><div id="listaVid"></div></section>
+
+    <section class="card" id="todos">
+      <h2>Todos os prompts</h2>
+      <p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Bloco único para o agente do Flow (já começa com <i>iniciar</i> e duas linhas em branco).</p>
+      <button class="cp big" id="copiaTudo">Copiar todos os prompts</button>
+    </section>
+  </div>
+ </div>
+ <nav class="toc"><b>Nesta página</b>
+   <span id="tocLinks"></span>
+ </nav>
+</div>
+
+<script>
+/* DADOS DO PACOTE: a IA troca só a linha abaixo (null) pelo objeto JSON do pacote. O resto do arquivo não muda. */
+const PACOTE = {"roteiro": {"id": "nora31-WIPE-YOUR-TEARS-NUNCA-FOI-SEU", "titulo": "Enxugue as lágrimas: ele nunca foi o seu", "dor": "2 (o homem que vai embora e só escreve de madrugada), com a de esperar o sinal e reler", "formato": "Formato 1 (problema + crença + solução), 8 takes", "molde_hook": "gancho do campeão B3 (“Wipe your tears… was never your person… your Venus”, 2.551 views) + viral S3 e w3 (sem pré-gancho, objeto de cristal na mão) + cold reading do quiz (“They only text me late at night”)", "duracao_total": 80, "descricao_instagram": "He was never your person. 💔\nPart 2 is in my story. Comment 333. Tap my photo NOW.", "leitura_registro": "21/10/2026: antes de escrever e de montar os prompts reli, com a ferramenta de leitura e neste turno ou no turno anterior desta mesma sessão (21/10, 15h32 do relógio da sessão): `CLAUDE.md` (com P1 a P36, recarregado no início), `00-LEIA-PRIMEIRO.md`, `PROJETO-Dana.md`, `BRIEFING-LOVECHART.md` (nas telas 19 a 22 e no que o reel pode prometer), `LICOES-FLOW-E-PROMPTS.md` (inteiro, com o checklist da seção 1), `DNA Visual - Nora v2.md`, `REGISTRO-DE-PERSONAS.md`, `hooks.md`, `Formatos Narrativos - Problema e Cenario.md`, `Exemplos de Roteiros - 2 Formatos.md`, `ctas.md`, `COMUNICACAO-VISCERAL-E-FALADA.md`, `BIBLIOTECA-BODIES.md`, `BIBLIOTECA-COLD-READING.md`, `BIBLIOTECA-COPY.md`, `BIBLIOTECA-COPY-100-ROTEIROS.md`, `PESQUISA-PUBLICO.md`, `BIBLIOTECA-VIDEOS-VIRAIS.md`, `BIBLIOTECA-PRE-GANCHOS.md`, `BIBLIOTECA-DE-TAKES.md`, `GUIA-CREATIVE-HUB.md`, `PAPEL-AGENTE-FLOW.md`, `CHECKLIST-DE-PRODUCAO.md`, `Prompts.txt`, `EXEMPLO-ROTEIRO-APROVADO-FIGADO.md`, `EXEMPLO-PACOTE-FIGADO.md` (as primeiras 120 linhas), `PASSO-A-PASSO-NORA25-28.md`, `PASSO-A-PASSO-NORA29-30.md`, `PLANO-CREDITOS-NORA29-30.md`, `STORY-NORA25-28-LOVECHART.md` e o roteiro do nora30. **Não reabri neste turno:** `DNA Visual - Dana.md` e `DNA Visual - Nora.md` (v1, não usados aqui), `PLANO-CREDITOS-R004-R005.md`, `PLANO-CREDITOS-NORA25-28.md`, `STORY-R001` a `R003`, `ROTEIRO-R001` a `R005` e `ROTEIRO-NORA25` a `NORA29`, `ROTEIRO-LOVECHART-RESERVA` e o `PAINEL-MODELO.html` (o formato do pacote é o do painel do nora30, que usei como base e conferi no teste do navegador). Decisão de 21/10/2026: este vídeo NÃO tem pré-gancho; começa direto no Take 1, com o texto do hook no segundo 0."}, "perfil": {"nome": "Nora", "teste": "A", "voz": "Voz feminina adulta americana (inglês dos EUA), natural e espontânea, calorosa e firme."}, "refs": ["blueprint da Nora v2 (folha de consistência do personagem, baixada em 1K)"], "trava_referencia": "There is no pet in this project: no animal appears in any scene. MAP OF THE ATTACHED REFERENCE (one character consistency sheet that shows the SAME woman): a large front portrait; front, 3/4 left, 3/4 right, left profile, right profile and back views of the head; four full-body views (front, 3/4, side, back); close-ups of the eyes, expressions, a Venus necklace, the knit fabric and the braided hair; a colour palette and a skin-tone strip. The face in the final image must be the same person as in the large front portrait and the other face views: same face shape, hazel-green eyes, eyebrows, nose, lips, black wavy hair, braid, moon and star gems and earrings. Copy the face from the sheet; do not invent a new face. IDENTITY ANCHOR: Use the supplied character consistency reference sheet as the strict identity reference. Preserve the exact same adult Latina woman shown in it: apparent age 36, golden sun-kissed light-to-medium tan skin with a warm golden undertone, soft oval face with softly rounded cheeks and a soft chin, large hazel-green eyes with a golden ring around the pupil, soft natural eyebrows, a straight nose of medium width, medium natural rosy lips, a warm wide smile that shows her teeth, and a clean forehead with nothing on it. Preserve her exact very long, softly wavy jet-black hair down to her waist with a side part, plus the one thin braid at the front on the right side of the image wrapped with tiny gold rings. Preserve the signature face gems: exactly ONE flat shiny gold crescent-moon gem on the outer edge of the cheekbone near the temple on the left side of the image (her right cheek) with three tiny flat gold star gems trailing diagonally below it. Preserve the long gold star-and-moon drop earrings, the long thin gold chain with a small gold Venus-symbol pendant (a tiny circle with a cross below it), the thin gold bracelets, and her slim-to-average build and average height. Her signature colour is emerald green. Do not redesign, beautify, de-age, age, recolor, lighten or darken her face, hair, eyes or skin. The woman must remain recognizably the exact same living person in every image and every video frame. Avoid CGI, 3D render, illustration, plastic or airbrushed skin, beauty-filter appearance, orange or over-saturated skin, a different skin tone, a different eye colour, brown or yellow eyes, any dot, bindi, gem or jewellery on the forehead, a second moon, extra or missing face gems, straight centre-parted hair, short or shoulder-length hair, heavy dark eyebrows, de-aged or aged face, heavy wrinkles, heavy glam makeup, enlarged lips, exaggerated hourglass body, sexualized pose, theatrical fortune-teller costume, turban, heavy jewelry, luxury-editorial polish and cinematic commercial lighting.", "figurino": "fortune-teller, subtle mystic; deep forest-emerald (dark green with a slight blue tone) waffle-knit top with a smooth matte finish and a round neckline, no print, embroidery or shine; plain dark straight trousers. Clothing is secondary to the contrast of the rose quartz heart stone in the hook. Fixed accessories, always visible: the long gold star-and-moon drop earrings, the long thin gold chain with the small gold Venus-symbol pendant, thin gold bracelets on her left wrist, the gold sun ring and the gold face gems from the reference sheet; a small enamel American flag pin (about 2 cm, red white and blue, no text) on the left chest of her top; no other jewelry, turban, cape or costume", "excecao_estilo": "", "imagens": [{"rotulo": "IMAGEM 1", "cena": "Gerada na Central de imagens (campos no painel)."}], "videos": [{"rotulo": "V1", "cena": "Take 1/8 · Gancho (enxugue as lágrimas)", "duracao": 10, "primeiro_quadro": "IMAGEM 1", "acao": "(ver movimentação)", "b_roll": "", "fala": "Wipe your tears, American woman. The man who keeps leaving was never your person. It's not bad luck. It's your Venus.", "movimentacao": "Throughout the whole 10 seconds her right hand keeps holding the rose quartz heart stone with its flat face toward the lens steady beside her face on the left side of the frame and it never changes hands, never turns away, never drops and never covers her face, her left hand rests out of frame below the bottom edge on her left thigh except when a gesture is described, her eyes stay on the lens, and she gives one slow warm nod during the first sentence of the take, then during the final two sentences she raises her left hand from below the bottom edge to shoulder height on the right side of the frame with the palm open and facing upward, holds it steady for about two seconds and lowers it out of frame, and from the end of the final sentence of the take until the clip ends she keeps her lips closed and silent; everything else in the scene stays completely still and each hand has exactly five fingers.", "arquivo": "nora31-T1-gancho-nunca-foi-seu"}, {"rotulo": "V2", "cena": "Take 2/8 · Cold reading (só escreve de madrugada)", "duracao": 10, "primeiro_quadro": "IMAGEM 1", "acao": "(ver movimentação)", "b_roll": "", "fala": "He only texts you late at night. Then he's gone for days. You reread every word, waiting for a sign.", "movimentacao": "Throughout the whole 10 seconds her right hand keeps holding the rose quartz heart stone with its flat face toward the lens steady beside her face on the left side of the frame and it never changes hands, never turns away, never drops and never covers her face, her left hand rests out of frame below the bottom edge on her left thigh except when a gesture is described, her eyes stay on the lens, and she shakes her head slowly and gently two times with an understanding look during the first two sentences of the take, and keeps her left hand out of frame, and from the end of the final sentence of the take until the clip ends she keeps her lips closed and silent; everything else in the scene stays completely still and each hand has exactly five fingers.", "arquivo": "nora31-T2-corpo-so-escreve-de-noite"}, {"rotulo": "V3", "cena": "Take 3/8 · Virada (você não é demais)", "duracao": 10, "primeiro_quadro": "IMAGEM 1", "acao": "(ver movimentação)", "b_roll": "", "fala": "You're not too much for any man. In astrology, your Venus pattern decides who stays and who walks out.", "movimentacao": "Throughout the whole 10 seconds her right hand keeps holding the rose quartz heart stone with its flat face toward the lens steady beside her face on the left side of the frame and it never changes hands, never turns away, never drops and never covers her face, her left hand rests out of frame below the bottom edge on her left thigh except when a gesture is described, her eyes stay on the lens, and during the first sentence of the take she raises her left hand to shoulder height on the right side of the frame and opens it palm toward the camera, then during the second sentence she turns the hand and points her left index finger at the lens, holds the point for one second and lowers the hand out of frame, and from the end of the final sentence of the take until the clip ends she keeps her lips closed and silent; everything else in the scene stays completely still and each hand has exactly five fingers.", "arquivo": "nora31-T3-corpo-nao-e-demais"}, {"rotulo": "V4", "cena": "Take 4/8 · O padrão tem nome + pedido do story", "duracao": 10, "primeiro_quadro": "IMAGEM 1", "acao": "(ver movimentação)", "b_roll": "", "fala": "Your pattern has a name that explains why he keeps leaving. Tap my photo right now to find yours.", "movimentacao": "Throughout the whole 10 seconds her right hand keeps holding the rose quartz heart stone with its flat face toward the lens steady beside her face on the left side of the frame and it never changes hands, never turns away, never drops and never covers her face, her left hand rests out of frame below the bottom edge on her left thigh except when a gesture is described, her eyes stay on the lens, and during the first sentence of the take she raises one finger of her left hand to shoulder height on the right side of the frame, then during the second sentence she turns her left palm open and slightly upward as if offering something, holds that for about two seconds and lowers the hand out of frame, and from the end of the final sentence of the take until the clip ends she keeps her lips closed and silent; everything else in the scene stays completely still and each hand has exactly five fingers.", "arquivo": "nora31-T4-corpo-padrao-tem-nome-story"}, {"rotulo": "V5", "cena": "Take 5/8 · Desejo (amor à luz do dia)", "duracao": 10, "primeiro_quadro": "IMAGEM 1", "acao": "(ver movimentação)", "b_roll": "", "fala": "Imagine a love that shows up in daylight. Your Venus and the Moon the night you were born may explain why.", "movimentacao": "Throughout the whole 10 seconds her right hand keeps holding the rose quartz heart stone with its flat face toward the lens steady beside her face on the left side of the frame and it never changes hands, never turns away, never drops and never covers her face, her left hand rests out of frame below the bottom edge on her left thigh except when a gesture is described, her eyes stay on the lens, and she takes one slow deep breath through the nose so her shoulders rise slightly and then drop, her expression turns calm and soft with a tiny smile, and her left hand stays out of frame the whole time, and from the end of the final sentence of the take until the clip ends she keeps her lips closed and silent; everything else in the scene stays completely still and each hand has exactly five fingers.", "arquivo": "nora31-T5-corpo-amor-de-dia"}, {"rotulo": "V6", "cena": "Take 6/8 · Escassez e ameaça", "duracao": 10, "primeiro_quadro": "IMAGEM 1", "acao": "(ver movimentação)", "b_roll": "", "fala": "This message is not for everyone. If you scroll past it, the sign goes to someone else. It won't come back.", "movimentacao": "Throughout the whole 10 seconds her right hand keeps holding the rose quartz heart stone with its flat face toward the lens steady beside her face on the left side of the frame and it never changes hands, never turns away, never drops and never covers her face, her left hand rests out of frame below the bottom edge on her left thigh except when a gesture is described, her eyes stay on the lens, and during the first sentence of the take she raises her left hand to shoulder height on the right side of the frame and points her left index finger straight at the lens, then holds a firm steady gaze for the rest of the take and lowers the hand out of frame in the final second, and from the end of the final sentence of the take until the clip ends she keeps her lips closed and silent; everything else in the scene stays completely still and each hand has exactly five fingers.", "arquivo": "nora31-T6-corpo-nao-e-para-todos"}, {"rotulo": "V7", "cena": "Take 7/8 · 6A (o story)", "duracao": 10, "primeiro_quadro": "IMAGEM 1", "acao": "(ver movimentação)", "b_roll": "", "fala": "Your next step is in my story. A free astrology quiz finds your Venus, names your pattern and shows your perfect match.", "movimentacao": "Throughout the whole 10 seconds her right hand keeps holding the rose quartz heart stone with its flat face toward the lens steady beside her face on the left side of the frame and it never changes hands, never turns away, never drops and never covers her face, her left hand rests out of frame below the bottom edge on her left thigh except when a gesture is described, her eyes stay on the lens, and she raises her left hand to shoulder height on the right side of the frame and opens it palm toward the camera with a half smile, holds it open for about three seconds and then gently lowers it out of frame, and from the end of the final sentence of the take until the clip ends she keeps her lips closed and silent; everything else in the scene stays completely still and each hand has exactly five fingers.", "arquivo": "nora31-T7-cta-a-quiz-venus"}, {"rotulo": "V8", "cena": "Take 8/8 · 6B (selo, código e story)", "duracao": 10, "primeiro_quadro": "IMAGEM 1", "acao": "(ver movimentação)", "b_roll": "", "fala": "Send this to yourself. Comment 333 so I know you saw it. Tap my photo and open my story before it disappears.", "movimentacao": "Throughout the whole 10 seconds her right hand keeps holding the rose quartz heart stone with its flat face toward the lens steady beside her face on the left side of the frame and it never changes hands, never turns away, never drops and never covers her face, her left hand rests out of frame below the bottom edge on her left thigh except when a gesture is described, her eyes stay on the lens, and during the first two sentences of the take she moves the heart stone about 10 centimeters closer to the lens with her right hand, keeping it on the left side of the frame without covering her face, then during the final sentence she raises her left hand to shoulder height on the right side of the frame, points her left index finger at the lens and holds a firm gaze until the end, and from the end of the final sentence of the take until the clip ends she keeps her lips closed and silent; everything else in the scene stays completely still and each hand has exactly five fingers.", "arquivo": "nora31-T8-cta-b-comente-333"}], "texto_tela": {"hook": "American women: he was never your person.", "hook_comeca": "Wipe your tears", "hook_termina": "never your person", "hook_alt": "", "extras": []}, "comentario_fixado": {"insta": "PART 2 is in my story. 👆 Tap my photo NOW, it's gone in 24 hours. Comment 333 if you needed to hear this. 🔥", "face": "PART 2 is in my Story. Tap my profile picture NOW, it's gone in 24 hours. Comment 333 if you needed to hear this. 🔥"}, "central": {"imagem_unica": true, "conferir": "Conferir em cada vídeo: é a Nora v2 (rosto, lua com as estrelinhas, trança e roupa iguais à imagem); o coração de quartzo rosa fica na mesma mão do começo ao fim; o resto do cenário fica parado; a fala sai completa, uma vez só, em inglês, com voz americana calorosa; sem texto, legenda ou música; renomeie o arquivo com o nome da lista.", "passos": ["Este vídeo NÃO tem pré-gancho (decisão de 21/10/2026): não gere imagens nem vídeos de pré-gancho. O vídeo começa direto no Take 1, e o texto do hook entra no segundo 0.", "Gere a IMAGEM 1 do vídeo na Central de imagens (seção “Imagem 1 na Central de imagens”, com a caixinha “já tenho o blueprint” marcada), campo por campo. Sem pré-gancho, ela é o primeiro quadro do vídeo e precisa prender o scroll sozinha (rosto grande, objeto bem à vista). Use o prompt que a Central gerar, anexando só o blueprint. Aprove só se for a Nora v2 (olhos verde-avelã, lua dourada com 3 estrelinhas na maçã do rosto, testa limpa, trança com anéis dourados, colar de Vênus) segurando o coração de quartzo rosa na mão direita, com a esquerda livre, e sem carimbo de data nos cantos.", "ANTES de colar a movimentação na Central: me mande a IMAGEM 1 aprovada. As 8 linhas de movimentação abaixo são PROVISÓRIAS: eu as confiro contra a imagem (qual mão segura o objeto, onde ele fica) e devolvo a versão final. Não gere os takes com a linha provisória.", "Na Central do curso, preencha a configuração (seção “Central do curso: o que preencher”) e faça a colagem única do nora31 (a fala inteira de uma vez, 8 takes de 10 s). Clique em GERAR PROMPT DE ANIMAÇÃO e confira a lista de takes. Não clique em “Resetar valores” nem em “REGERAR BLOCO”.", "No agente do Flow, anexe a IMAGEM 1 aprovada (só ela; o blueprint não vai no agente), cole o aviso e, embaixo, o “COPIAR TUDO JUNTO” da Central, sem editar nada. Depois de gerar, renomeie cada arquivo com o nome que o painel mostra. Custo: 120 créditos de takes (sem pré-gancho)."], "config": [{"secao": "1 — Plataforma de animação", "campos": [{"campo": "Plataforma", "valor": "Flow (Google) — vídeo cinematográfico com áudio"}]}, {"secao": "2 — Roteiro", "campos": [{"campo": "Categoria", "valor": "Todas as categorias"}, {"campo": "Busca", "valor": "deixar vazia"}, {"campo": "Lista de roteiros", "valor": "— sem roteiro (só animação) —"}, {"campo": "COLE SUA COPY AQUI", "valor": "colar a fala da colagem (seção “A fala e a movimentação”); cada colagem é uma geração separada"}, {"campo": "Velocidade da fala", "valor": "Média — CTA (155–180 WPM). É a velocidade padrão da Nora (voz calorosa e firme); cada take de 10 s custa 15 créditos."}, {"campo": "Duração de cada take", "valor": "Automática"}, {"campo": "Movimento de câmera", "valor": "Handheld sutil, sem zoom"}, {"campo": "Caixa “Dividir em takes (Flow)”", "valor": "MARCADA (deixar marcada)"}]}, {"secao": "3 — Movimentação do personagem", "campos": [{"campo": "Interruptor da seção", "valor": "LIGADO"}, {"campo": "Movimentação", "valor": "colar as linhas da colagem, uma por take (seção “A fala e a movimentação”)"}]}, {"secao": "4 — Áudio & atmosfera", "campos": [{"campo": "Interruptor da seção", "valor": "LIGADO"}, {"campo": "Padrão de áudio", "valor": "não mexer (texto fixo)"}, {"campo": "Atmosfera / mood", "valor": "Íntimo e confidencial"}]}, {"secao": "5 — Fala / script", "campos": [{"campo": "Interruptor da seção", "valor": "LIGADO"}, {"campo": "O que a pessoa fala no vídeo", "valor": "preenche sozinho com a fala colada; se ficar vazio, cole a fala inteira"}, {"campo": "LIVRE — descreva como você quer o vídeo", "valor": "colar o texto abaixo", "copiar": "Casual handheld smartphone video in a home kitchen at night with warm yellow lamp light. CONTINUITY LOCKS for every take: the woman, her face, her long black wavy hair, her braid with gold rings, her gold moon and star face gems, her star-and-moon earrings, her Venus necklace, her deep forest-emerald waffle-knit top, her flag pin, her gold rings and bracelets stay exactly as in the reference image; she sits upright on a wooden kitchen chair leaning slightly toward the camera, framed from the top of her head to the middle of her chest, her right hand holds the polished rose quartz heart stone with its flat face toward the lens beside her face on the left side of the frame for the whole clip, and the stone never changes hands, never turns away, never tilts and never drops; her left hand rests out of frame below the bottom edge on her left thigh unless a gesture is described; the camera is a handheld phone at chest height about 60 centimeters from her with only a tiny natural sway, no zoom, no cuts and no reframing; the white wall, the white cabinet door, the stone countertop, the small flag in the ceramic jar, the dark window and the warm pendant lamp light stay exactly where they are and never move; no object, person, animal or text appears or disappears; each hand always has exactly five fingers; no on-screen text, no captions, no logos; real quiet kitchen room sound only, no music. SPEECH RULE for every take: she says only the exact words of that take's script, each word exactly once and in order, with no repeated word, no extra word and no added sentence before, between or after; when she finishes the last word she closes her lips, stays silent and keeps a calm still expression until the clip ends."}, {"campo": "Tom de voz", "valor": "Calorosa e tranquilizadora"}, {"campo": "Idioma", "valor": "Inglês"}, {"campo": "Perfil de voz do personagem", "valor": "escolher “✎ LIVRE — montar minha própria voz...” e colar o perfil abaixo no bloco de texto. NÃO clicar em “REGERAR BLOCO A PARTIR DOS CAMPOS”", "copiar": "[Voice and Audio Instructions]\n\nVoice Profile: Woman, mid-30s, American, warm, magnetic and confident voice — sounds like a straight-talking friend who knows astrology and says things plainly, with a bright, high-vibe warmth. Natural General American accent, unhurried diction.\n\nVocal Characteristics: Mid register, natural and slightly textured (not smooth or polished), light warmth in the chest, never nasal or thin.\n\nTone: Warm, confident and firm, with an upbeat, high-vibe energy. Not theatrical, not \"spooky\", no performance — she says things the way a close friend would across a kitchen table. Honest and direct, with occasional soft warmth. Never sugarcoats, never scolds.\n\nDelivery style: Short, clear phrases with a natural pause before the key word. Sounds like she's speaking directly to one person, not performing for a crowd.\n\nNaturalness: The voice must sound as natural and human as possible — real breathing, natural micro-pauses, subtle imperfections, organic intonation shifts. It must NEVER sound robotic, synthetic, flat, or AI-generated. No text-to-speech cadence of any kind.\n\nTechnical Settings: STRICTLY a solo monologue. The speaker is completely ALONE. Absolutely NO background voices, ZERO interviewer noises, and STRICTLY NO agreement sounds (like 'mhm', 'yeah', 'aha', 'uh-huh'). NO background music, NO sound effects, NO automatic subtitles. Output must be a 100% clean, raw voice track. STRICTLY DO NOT imitate or impersonate any famous public figure or celebrity — the voice must be entirely original."}]}, {"secao": "6 — Duração & estilo", "campos": [{"campo": "Interruptor da seção", "valor": "LIGADO"}, {"campo": "Duração (segundos)", "valor": "não mexer (muda sozinha)"}, {"campo": "Estilo visual", "valor": "UGC moderno handheld"}, {"campo": "Continuidade", "valor": "Plano único, sem cortes"}]}, {"secao": "7 — Gerar", "campos": [{"campo": "Botão", "valor": "⚡ GERAR PROMPT DE ANIMAÇÃO"}, {"campo": "Conferir", "valor": "os takes da conferência de cada colagem (10 s cada, seção “A fala e a movimentação”)"}, {"campo": "Copiar", "valor": "o botão “COPIAR TUDO JUNTO” do bloco “TODOS OS PROMPTS”"}, {"campo": "Não clicar", "valor": "“Resetar valores” e “REGERAR BLOCO A PARTIR DOS CAMPOS”"}]}], "agente": {"imagem": "IMAGEM 1", "aviso": "Irei enviar 8 prompts para você. A cada prompt, quero que seja feita uma animação da imagem anexada. Utilize a imagem anexada como frame inicial e frame final, em todos os vídeos que você gerar.", "passos": ["Abra uma conversa nova no agente do Flow.", "Anexe a IMAGEM 1 aprovada (a única imagem; o blueprint não vai no agente).", "Se quiser, cole antes o seu aviso (acima). O bloco da Central já traz as orientações ao agente.", "Embaixo do aviso, cole o bloco copiado com “COPIAR TUDO JUNTO” da Central, sem editar nada.", "Envie. O agente gera os 8 vídeos; confira cada um no painel e me diga qual falhou (clipe e problema)."]}, "colagens": [{"titulo": "nora31 completo (8 takes)", "fala": "Wipe your tears, American woman. The man who keeps leaving was never your person. It's not bad luck. It's your Venus. He only texts you late at night. Then he's gone for days. You reread every word, waiting for a sign. You're not too much for any man. In astrology, your Venus pattern decides who stays and who walks out. Your pattern has a name that explains why he keeps leaving. Tap my photo right now to find yours. Imagine a love that shows up in daylight. Your Venus and the Moon the night you were born may explain why. This message is not for everyone. If you scroll past it, the sign goes to someone else. It won't come back. Your next step is in my story. A free astrology quiz finds your Venus, names your pattern and shows your perfect match. Send this to yourself. Comment 333 so I know you saw it. Tap my photo and open my story before it disappears.", "movimentacao": ["Throughout the whole 10 seconds her right hand keeps holding the rose quartz heart stone with its flat face toward the lens steady beside her face on the left side of the frame and it never changes hands, never turns away, never drops and never covers her face, her left hand rests out of frame below the bottom edge on her left thigh except when a gesture is described, her eyes stay on the lens, and she gives one slow warm nod during the first sentence of the take, then during the final two sentences she raises her left hand from below the bottom edge to shoulder height on the right side of the frame with the palm open and facing upward, holds it steady for about two seconds and lowers it out of frame, and from the end of the final sentence of the take until the clip ends she keeps her lips closed and silent; everything else in the scene stays completely still and each hand has exactly five fingers.", "Throughout the whole 10 seconds her right hand keeps holding the rose quartz heart stone with its flat face toward the lens steady beside her face on the left side of the frame and it never changes hands, never turns away, never drops and never covers her face, her left hand rests out of frame below the bottom edge on her left thigh except when a gesture is described, her eyes stay on the lens, and she shakes her head slowly and gently two times with an understanding look during the first two sentences of the take, and keeps her left hand out of frame, and from the end of the final sentence of the take until the clip ends she keeps her lips closed and silent; everything else in the scene stays completely still and each hand has exactly five fingers.", "Throughout the whole 10 seconds her right hand keeps holding the rose quartz heart stone with its flat face toward the lens steady beside her face on the left side of the frame and it never changes hands, never turns away, never drops and never covers her face, her left hand rests out of frame below the bottom edge on her left thigh except when a gesture is described, her eyes stay on the lens, and during the first sentence of the take she raises her left hand to shoulder height on the right side of the frame and opens it palm toward the camera, then during the second sentence she turns the hand and points her left index finger at the lens, holds the point for one second and lowers the hand out of frame, and from the end of the final sentence of the take until the clip ends she keeps her lips closed and silent; everything else in the scene stays completely still and each hand has exactly five fingers.", "Throughout the whole 10 seconds her right hand keeps holding the rose quartz heart stone with its flat face toward the lens steady beside her face on the left side of the frame and it never changes hands, never turns away, never drops and never covers her face, her left hand rests out of frame below the bottom edge on her left thigh except when a gesture is described, her eyes stay on the lens, and during the first sentence of the take she raises one finger of her left hand to shoulder height on the right side of the frame, then during the second sentence she turns her left palm open and slightly upward as if offering something, holds that for about two seconds and lowers the hand out of frame, and from the end of the final sentence of the take until the clip ends she keeps her lips closed and silent; everything else in the scene stays completely still and each hand has exactly five fingers.", "Throughout the whole 10 seconds her right hand keeps holding the rose quartz heart stone with its flat face toward the lens steady beside her face on the left side of the frame and it never changes hands, never turns away, never drops and never covers her face, her left hand rests out of frame below the bottom edge on her left thigh except when a gesture is described, her eyes stay on the lens, and she takes one slow deep breath through the nose so her shoulders rise slightly and then drop, her expression turns calm and soft with a tiny smile, and her left hand stays out of frame the whole time, and from the end of the final sentence of the take until the clip ends she keeps her lips closed and silent; everything else in the scene stays completely still and each hand has exactly five fingers.", "Throughout the whole 10 seconds her right hand keeps holding the rose quartz heart stone with its flat face toward the lens steady beside her face on the left side of the frame and it never changes hands, never turns away, never drops and never covers her face, her left hand rests out of frame below the bottom edge on her left thigh except when a gesture is described, her eyes stay on the lens, and during the first sentence of the take she raises her left hand to shoulder height on the right side of the frame and points her left index finger straight at the lens, then holds a firm steady gaze for the rest of the take and lowers the hand out of frame in the final second, and from the end of the final sentence of the take until the clip ends she keeps her lips closed and silent; everything else in the scene stays completely still and each hand has exactly five fingers.", "Throughout the whole 10 seconds her right hand keeps holding the rose quartz heart stone with its flat face toward the lens steady beside her face on the left side of the frame and it never changes hands, never turns away, never drops and never covers her face, her left hand rests out of frame below the bottom edge on her left thigh except when a gesture is described, her eyes stay on the lens, and she raises her left hand to shoulder height on the right side of the frame and opens it palm toward the camera with a half smile, holds it open for about three seconds and then gently lowers it out of frame, and from the end of the final sentence of the take until the clip ends she keeps her lips closed and silent; everything else in the scene stays completely still and each hand has exactly five fingers.", "Throughout the whole 10 seconds her right hand keeps holding the rose quartz heart stone with its flat face toward the lens steady beside her face on the left side of the frame and it never changes hands, never turns away, never drops and never covers her face, her left hand rests out of frame below the bottom edge on her left thigh except when a gesture is described, her eyes stay on the lens, and during the first two sentences of the take she moves the heart stone about 10 centimeters closer to the lens with her right hand, keeping it on the left side of the frame without covering her face, then during the final sentence she raises her left hand to shoulder height on the right side of the frame, points her left index finger at the lens and holds a firm gaze until the end, and from the end of the final sentence of the take until the clip ends she keeps her lips closed and silent; everything else in the scene stays completely still and each hand has exactly five fingers."], "takes": [0, 1, 2, 3, 4, 5, 6, 7]}]}, "story": {"prompt_imagem": "VISUAL REFERENCE LOCK: use exclusively the ATTACHED references as identity authorities. Preserve the face, body, hair, proportions and appearance of the human and the pet. Do not mix identities. There is no pet in this project: no animal appears in any scene. MAP OF THE ATTACHED REFERENCE (one character consistency sheet that shows the SAME woman): a large front portrait; front, 3/4 left, 3/4 right, left profile, right profile and back views of the head; four full-body views (front, 3/4, side, back); close-ups of the eyes, expressions, a Venus necklace, the knit fabric and the braided hair; a colour palette and a skin-tone strip. The face in the final image must be the same person as in the large front portrait and the other face views: same face shape, hazel-green eyes, eyebrows, nose, lips, black wavy hair, braid, moon and star gems and earrings. Copy the face from the sheet; do not invent a new face. IDENTITY ANCHOR: Use the supplied character consistency reference sheet as the strict identity reference. Preserve the exact same adult Latina woman shown in it: apparent age 36, golden sun-kissed light-to-medium tan skin with a warm golden undertone, soft oval face with softly rounded cheeks and a soft chin, large hazel-green eyes with a golden ring around the pupil, soft natural eyebrows, a straight nose of medium width, medium natural rosy lips, a warm wide smile that shows her teeth, and a clean forehead with nothing on it. Preserve her exact very long, softly wavy jet-black hair down to her waist with a side part, plus the one thin braid at the front on the right side of the image wrapped with tiny gold rings. Preserve the signature face gems: exactly ONE flat shiny gold crescent-moon gem on the outer edge of the cheekbone near the temple on the left side of the image (her right cheek) with three tiny flat gold star gems trailing diagonally below it. Preserve the long gold star-and-moon drop earrings, the long thin gold chain with a small gold Venus-symbol pendant (a tiny circle with a cross below it), the thin gold bracelets, and her slim-to-average build and average height. Her signature colour is emerald green. Do not redesign, beautify, de-age, age, recolor, lighten or darken her face, hair, eyes or skin. The woman must remain recognizably the exact same living person in every image and every video frame. Avoid CGI, 3D render, illustration, plastic or airbrushed skin, beauty-filter appearance, orange or over-saturated skin, a different skin tone, a different eye colour, brown or yellow eyes, any dot, bindi, gem or jewellery on the forehead, a second moon, extra or missing face gems, straight centre-parted hair, short or shoulder-length hair, heavy dark eyebrows, de-aged or aged face, heavy wrinkles, heavy glam makeup, enlarged lips, exaggerated hourglass body, sexualized pose, theatrical fortune-teller costume, turban, heavy jewelry, luxury-editorial polish and cinematic commercial lighting.\n\nFIXED OUTFIT: fortune-teller, subtle mystic; rich emerald-green fine ribbed knit top with a round neckline, no print, embroidery or shine; plain dark straight trousers. Clothing is secondary to the contrast of the copper pendant in the hook. Fixed accessories, always visible: the long gold star-and-moon drop earrings, the long thin gold chain with the small gold Venus-symbol pendant, thin gold bracelets on her left wrist, the gold sun ring and the gold face gems from the reference sheet; no other jewelry, turban, cape or costume\n\nUGC STYLE LOCK: vertical 9:16 image, photorealistic, shot in an American home with the spontaneous look of a smartphone. Natural light, real skin, fabric and hair textures, casual and slightly imperfect framing. The camera stays out of frame. No text, caption, logo, watermark or advertising look.\n\nSCENE: EDIT of the approved IMAGEM 1 of nora25 (use that IMAGEM 1 as the base image): keep exactly the same woman, the same face, hazel-green eyes, very long black wavy hair with the gold-ringed braid, gold moon and star face gems, earrings, necklace, bracelets, emerald top with no print, dark trousers, the same hallway and the same warm lamp light. Changes: vertical 9:16 medium shot from the top of her head to the middle of her torso, camera at her chest height about 70 cm in front of her, in the same doorway; she leans slightly toward the lens with a direct, firm gaze and a slight knowing smile, shoulders square to the camera. With her RIGHT hand (the hand on the LEFT side of the image) she holds up the round brushed-copper Venus pendant by its thin chain between the pad of her thumb and her index finger, the chain about 8 cm long, the 4.5 cm disc hanging still about 15 cm from the lens at cheek height on the left side of the frame, its engraved Venus symbol (a small circle with a short cross hanging below it) facing the lens and clearly readable, the disc about a third of the frame width and the point of highest contrast, without covering her face. Her LEFT hand (the hand on the RIGHT side of the image) hangs at her side, out of frame. Remove every other object. Leave the top 14 percent and the bottom 25 percent of the frame free of important elements (only wall at the top and floor or torso at the bottom) because the text and the link sticker are added later in the Instagram editor. Each hand has exactly five fingers, a single pendant, no duplicated disc, no text, no logos, no watermark and no date stamp. The engraved symbol is the only mark in the image. Do not rejuvenate or smooth the skin.", "textos": [{"posicao": "Uma frase só, no centro, uma cor (creme #F1E6D3), 1 a 2 linhas", "texto": "Tap below and find your Venus pattern in astrology."}, {"posicao": "PROVISÓRIO: use esta frase (no lugar da de cima) ENQUANTO o Love Chart não estiver no ar. O Gustavo avisou em 19/10, 18h, que o link ainda abre o quiz do Soulmate e que vai trocar sozinho. Quando ele avisar que entrou, volte para a frase do Venus.", "texto": "Tap below and take the free love quiz."}], "adesivos": ["Find my Venus (só com o Love Chart no ar)", "Take the free quiz (provisório, serve para os dois quizzes)", "Open Part 2"]}, "imagem_central": [{"aviso": "SEM PRÉ-GANCHO (decisão de 21/10/2026): esta imagem é o primeiro quadro do vídeo e precisa prender o scroll sozinha: rosto grande e olhar firme, o objeto bem perto da lente e à vista, boa luz. A IMAGEM 1 é gerada na Central de imagens do curso, não com um prompt nosso. Marque a caixinha “já tenho o blueprint”: ela trava só idade, gênero, fenótipo, tom de pele e todo o cabelo; todo o resto fica livre (confirmado pelo aluno em 19/10/2026). Preencha os campos livres com os valores abaixo e pule só os marcados como travados. Esta tela troca a roupa, o cenário e a luz de cada roteiro para os vídeos não ficarem repetitivos. Os sinais dos EUA (bandeirinha, caneca, casa e rua americanas) já estão nos valores. Depois de gerar, olhe os cantos da imagem: se aparecer carimbo de data, texto ou marca d’água, não aprove (aconteceu no nora25); no Estilo final LIVRE, se a Central deixar, acrescente “no date stamp, no text overlay, no watermark”. DETALHE DO OBJETO: o coração de quartzo rosa precisa ser liso, rosa-claro translúcido, brilhante e sem rachaduras, letras ou símbolos. Se vier com marcas, escrita ou duplicado, gere de novo. A mão que segura é a direita dela (o lado ESQUERDO da imagem).", "grupos": [{"titulo": "1. Personagem", "nota": "travados: idade, gênero, fenótipo e tom de pele (pule). Livres: tipo de personagem (cole o texto) e expressão facial (escolha a opção da Central)", "campos": [{"campo": "Idade — TRAVADO pelo blueprint: pule", "valor": "36", "trava": 1}, {"campo": "Gênero — TRAVADO pelo blueprint: pule", "valor": "Feminino (woman)", "trava": 1}, {"campo": "Tipo de personagem (escolher LIVRE e colar)", "valor": "Love astrologer and tarot reader, a radiant high-vibe mystic with a warm, magnetic presence", "copiar": 1}, {"campo": "Fenótipo — TRAVADO pelo blueprint: pule", "valor": "Latino(a)", "trava": 1}, {"campo": "Tom de pele — TRAVADO pelo blueprint: pule", "valor": "Sun-kissed", "trava": 1}, {"campo": "Expressão facial", "valor": "Olhar intenso direto"}]}, {"titulo": "2. Cabelo", "nota": "tudo travado pelo blueprint: pule a seção inteira", "campos": [{"campo": "Estilo de cabelo (escolher LIVRE e colar) — TRAVADO pelo blueprint: pule", "valor": "Very long, loose, softly wavy hair down to her waist with a side part, plus one thin braid at the front on her left side wrapped with tiny gold rings", "copiar": 1, "trava": 1}, {"campo": "Cor do cabelo — TRAVADO pelo blueprint: pule", "valor": "Preto azeviche", "trava": 1}]}, {"titulo": "3. Roupa e acessórios", "nota": "os dois campos são LIVRES: cole os dois textos. Os acessórios levam a lua e as 3 estrelinhas da bochecha, os brincos, o colar de Vênus e os olhos verde-avelã, então não pule", "campos": [{"campo": "Estilo de roupa (escolher LIVRE e colar)", "valor": "A deep forest-emerald (dark green with a slight blue tone) waffle-knit top with a smooth matte finish, a round crew neckline and long fitted sleeves, worn with plain dark charcoal-black straight trousers; a small enamel American flag pin about 2 cm wide (13 red and white stripes and a blue square with white stars, no text) pinned on the left chest of the top, which is the right side of the image; no prints, no embroidery, no logos, no other badges, no scarf, no jacket", "copiar": 1}, {"campo": "Acessórios (escolher LIVRE e colar)", "valor": "Long gold star-and-moon drop earrings (a small gold star above a crescent moon, hanging about 6 cm below each earlobe), a long thin gold chain necklace with a small gold Venus-symbol pendant (a circle about 1 cm wide with a short cross below it) resting on the sweater at the center of the chest, three thin gold bracelets stacked on her LEFT wrist only (none on the right wrist), one small gold sun-symbol ring on the index finger of each hand, exactly ONE small flat shiny gold crescent-moon face gem on the outer edge of the cheekbone on the left side of the image near the temple with three tiny flat gold star gems trailing diagonally below it, a completely clean forehead with nothing on it, and hazel-green eyes with a golden ring around the pupil", "copiar": 1}]}, {"titulo": "4. Pose e objeto", "nota": "muda a cada roteiro", "campos": [{"campo": "Pose / Ação (escolher LIVRE e colar)", "valor": "Vertical 9:16 close-up framed from the top of her head to the middle of her chest (shoulders-up; do NOT show her knees, lap, legs or the table), the camera is a handheld phone at her chest height about 60 cm in front of her, her face large in the upper half of the frame with her eyes at about 30 percent of the frame height. She sits upright on a wooden kitchen chair with her torso leaning slightly towards the camera, shoulders square to the lens, head level, chin slightly down, a warm intense direct gaze into the lens and lips closed in a faint knowing half-smile. Her RIGHT hand (the hand on the LEFT side of the image) is raised beside her face at cheek height, about 20 cm from her cheek and about 35 cm from the lens, elbow bent, forearm angled up, holding the heart stone. Her LEFT hand (the hand on the RIGHT side of the image) is out of frame below the bottom edge, resting on her left thigh. Nothing else is in either hand (no phone, no keys, no second object). Each hand has exactly five fingers with natural proportions", "copiar": 1}, {"campo": "Objeto principal (PROP) (escolher LIVRE e colar)", "valor": "One single polished rose quartz heart stone about 6 cm wide, 5.5 cm tall and 2 cm thick: a smooth puffy heart shape in a soft translucent pale pink with faint lighter milky veins inside, glossy, with no cracks, no chips, no engraving, no letters, no symbols and no numbers on it. It is held with the pad of her right thumb on its front face and her right index and middle fingers behind it, the flat face of the heart turned towards the lens and the point of the heart pointing down, so the whole outline of the heart stays visible and her fingers do not cover it. It is in sharp focus, with a soft highlight from the warm lamp on its upper left curve. No glow, no magic light, no particles, no second stone, no chain or cord", "copiar": 1}]}, {"titulo": "5. Cenário e luz", "nota": "muda a cada roteiro, com sinais dos EUA", "campos": [{"campo": "Cenário (escolher LIVRE e colar)", "valor": "A real American home kitchen at night, seen behind her: a plain white-painted wall; behind her on the left side of the image a white wooden cabinet door with a small brushed-steel handle; behind her on the right side of the image a gray stone countertop with a white ceramic jar that holds a small American flag on a thin wooden stick (flag about 12 cm wide, red white and blue, no text), and above the counter a window of dark glass showing the black night; the only light is a warm yellow pendant lamp just above and in front of her, out of frame at the top, lighting her face softly from above and the front; nothing else in the frame: no people, no pets, no phone, no clock, no appliances with logos, no calendar, no readable text", "copiar": 1}, {"campo": "Horário / Atmosfera", "valor": "Luz de abajur tungstênio"}, {"campo": "Direção / Qualidade da luz", "valor": "Luz mista natural + tungstênio"}, {"campo": "Color grade / Mood", "valor": "Tons mel quentes"}]}, {"titulo": "6. Câmera", "nota": "todos livres; escolha na Central a opção igual ao valor escrito", "campos": [{"campo": "Câmera", "valor": "Câmera de celular (look amador)"}, {"campo": "Lente", "valor": "28mm f/1.7 — grande-angular"}, {"campo": "Abertura (f/)", "valor": "f/4 — médio"}, {"campo": "ISO", "valor": "ISO 800"}, {"campo": "Velocidade do obturador", "valor": "1/60s"}, {"campo": "Emulação de filme", "valor": "Kodak Portra 800 — nostálgico"}, {"campo": "Estilo final", "valor": "Documentário candid / UGC"}]}], "passos": ["Na Central de imagens, marque “já tenho o blueprint” e anexe só a folha da Nora (a versão baixada em 1K).", "Preencha os campos livres na ordem das seis seções abaixo. Onde aparece “escolher LIVRE e colar”, escolha a opção LIVRE e cole o texto.", "Gere o prompt, copie e use onde você gera a imagem, anexando só o blueprint, em 9:16.", "Aprove só se for a Nora (olhos verde-avelã, a lua dourada com as 3 estrelinhas na maçã do rosto, testa limpa, trança com anéis dourados, colar de Vênus) segurando o objeto na mão direita, com a mão esquerda livre."], "titulo": "IMAGEM 1 (Central de imagens)", "nome": "nora31-IMG"}], "edicao_linha": [{"quando": "1. Take 1 (o gancho falado), desde o segundo 0", "texto": "American women: he was never your person.", "como": "Este vídeo NÃO tem pré-gancho (teste de 20/10/2026): o texto entra no segundo 0, em caixa branca no topo. Aparece na frase que começa em “Wipe your tears” e some quando a frase termina em “never your person”."}, {"quando": "2. Do take 1 até o último segundo (o corpo todo)", "texto": "333  e  11:11", "como": "Dois números FIXOS, pequenos, em maiúsculas, brancos com contorno, durante o vídeo inteiro: 333 no canto superior esquerdo e 11:11 no canto superior direito. O 333 é o código que a pessoa digita nos comentários. Estilo dos virais U1, U2, U4, w9 e w10 (par de números no topo). Posição: faixa azul do mapa da tela, abaixo."}, {"quando": "3. Do take 1 até o último segundo", "texto": "Legenda em blocos de 2 a 4 palavras", "como": "POSIÇÃO: faixa verde do mapa da tela, abaixo (60% a 70% da altura, abaixo do queixo e acima do rodapé do app), sempre no mesmo lugar. Legendas automáticas do CapCut, letra grossa, em blocos de 2 a 4 palavras por vez (NÃO uma palavra só por vez: no Face, uma conta teve o post limitado por “baixa qualidade da legenda” com legenda de uma palavra por vez, e o aviso parou quando passou a mostrar frases curtas). Destaque em cor (amarelo ou dourado) nas palavras: person, Venus e pattern."}, {"quando": "4. No pedido final (“Tap my photo and open my story…”)", "texto": "Seta vermelha", "como": "Uma seta vermelha pequena apontando para a foto do perfil, no canto superior esquerdo, só durante essa frase."}], "mapa_tela": {"topo_app": [0, 10], "codigos": [10, 14], "hook": [14, 24], "legenda": [60, 70], "rodape_app": [78, 100], "botoes": {"x": [86, 100], "y": [48, 86]}, "estilos": [{"nome": "Números fixos (222 ou 444 à esquerda, 11:11 à direita)", "fonte": "Poppins Bold (poppins-bd)", "cor": "amarelo-ouro #FFD21F", "tamanho": "12", "contorno": "Traço preto + Sombra preta, sem Plano de fundo. Luz DESLIGADA", "obs": "Os dois do mesmo tamanho e na mesma altura."}, {"nome": "Texto do hook (início do vídeo)", "fonte": "Poppins Bold (poppins-bd)", "cor": "branco #FFFFFF (uma palavra em amarelo-ouro #FFD21F, se quiser)", "tamanho": "12", "contorno": "Traço preto + Sombra preta, sem Plano de fundo. Luz DESLIGADA", "obs": "Centralizado, em 2 linhas."}, {"nome": "Legenda automática (Claude das legendas)", "fonte": "Poppins Bold", "cor": "branco, em MAIÚSCULAS; palavra-chave em amarelo-ouro #FFD21F", "tamanho": "uns 38 px de fonte (vídeo 720×1280)", "contorno": "preto grosso, sem caixa e sem brilho", "obs": "Blocos de 2 a 4 palavras, no máximo 2 linhas, mesma posição o vídeo todo."}], "regras": ["Hook e números ficam em cima; a legenda só na faixa verde. Nada nas faixas vermelhas nem em cima do rosto, da mão que segura o objeto ou do objeto.", "Antes de exportar confira 3 quadros (o primeiro, um com a mão levantada e o do último take). Se a legenda tocar o rosto, a mão ou o objeto, desça no máximo até 74% da altura."]}, "pecas": {"lista": [{"nome": "nora31-IMG", "tipo": "imagem 1 do vídeo", "status": "gerar", "descricao": "Primeiro e último quadro de todos os takes (gancho, corpo e CTA), gerada na Central de imagens. Como este vídeo NÃO tem pré-gancho, ela é o primeiro quadro do vídeo e prende o scroll sozinha: rosto grande, objeto bem à vista.", "serve": "Se este vídeo performar, ela vira o kit de variações com gancho novo."}, {"nome": "nora31-T1-gancho-nunca-foi-seu", "tipo": "gancho", "status": "gerar", "creditos": 15, "descricao": "Take 1, Gancho (enxugue as lágrimas): “Wipe your tears, American woman. The man who keeps leaving was never your person. It's not bad luck. It's your…”", "base": "Gancho direto, com promessa e a virada \"não é azar, é o padrão\" (briefing do Love Chart); molde dos campeões B3 e C4.", "serve": "Só neste vídeo (cada gancho é novo)."}, {"nome": "nora31-T2-corpo-so-escreve-de-noite", "tipo": "corpo", "status": "gerar", "creditos": 15, "descricao": "Take 2, Cold reading (só escreve de madrugada): “He only texts you late at night. Then he's gone for days. You reread every word, waiting for a sign.”", "base": "Corpo de cold reading + mecanismo (Sol x Vênus) + escassez, no molde dos corpos que seguraram até o fim nos seus campeões.", "serve": "Candidato a reaproveitar depois, em variações do mesmo kit, se o vídeo performar."}, {"nome": "nora31-T3-corpo-nao-e-demais", "tipo": "corpo", "status": "gerar", "creditos": 15, "descricao": "Take 3, Virada (você não é demais): “You're not too much for any man. In astrology, your Venus pattern decides who stays and who walks out.”", "base": "Corpo de cold reading + mecanismo (Sol x Vênus) + escassez, no molde dos corpos que seguraram até o fim nos seus campeões.", "serve": "Candidato a reaproveitar depois, em variações do mesmo kit, se o vídeo performar."}, {"nome": "nora31-T4-corpo-padrao-tem-nome-story", "tipo": "corpo", "status": "gerar", "creditos": 15, "descricao": "Take 4, O padrão tem nome + pedido do story: “Your pattern has a name that explains why he keeps leaving. Tap my photo right now to find yours.”", "base": "Corpo de cold reading + mecanismo (Sol x Vênus) + escassez, no molde dos corpos que seguraram até o fim nos seus campeões.", "serve": "Candidato a reaproveitar depois, em variações do mesmo kit, se o vídeo performar."}, {"nome": "nora31-T5-corpo-amor-de-dia", "tipo": "corpo", "status": "gerar", "creditos": 15, "descricao": "Take 5, Desejo (amor à luz do dia): “Imagine a love that shows up in daylight. Your Venus and the Moon the night you were born may explain why.”", "base": "Corpo de cold reading + mecanismo (Sol x Vênus) + escassez, no molde dos corpos que seguraram até o fim nos seus campeões.", "serve": "Candidato a reaproveitar depois, em variações do mesmo kit, se o vídeo performar."}, {"nome": "nora31-T6-corpo-nao-e-para-todos", "tipo": "corpo", "status": "gerar", "creditos": 15, "descricao": "Take 6, Escassez e ameaça: “This message is not for everyone. If you scroll past it, the sign goes to someone else. It won't come back.”", "base": "Corpo de cold reading + mecanismo (Sol x Vênus) + escassez, no molde dos corpos que seguraram até o fim nos seus campeões.", "serve": "Candidato a reaproveitar depois, em variações do mesmo kit, se o vídeo performar."}, {"nome": "nora31-T7-cta-a-quiz-venus", "tipo": "CTA", "status": "gerar", "creditos": 15, "descricao": "Take 7, 6A (o story): “Your next step is in my story. A free astrology quiz finds your Venus, names your pattern and shows your perfe…”", "base": "Fecho validado: mandar para si, comentar a palavra e abrir o story; o código é o do vídeo.", "serve": "Candidato a reaproveitar depois, em variações do mesmo kit, se o vídeo performar."}, {"nome": "nora31-T8-cta-b-comente-333", "tipo": "CTA", "status": "gerar", "creditos": 15, "descricao": "Take 8, 6B (selo, código e story): “Send this to yourself. Comment 333 so I know you saw it. Tap my photo and open my story before it disappears.”", "base": "Fecho validado: mandar para si, comentar a palavra e abrir o story; o código é o do vídeo.", "serve": "Candidato a reaproveitar depois, em variações do mesmo kit, se o vídeo performar."}], "decisao": ["SEM PRÉ-GANCHO (decisão minha de 21/10/2026, para você produzir os 3 vídeos de hoje com tempo): como no nora29 e no nora30, o vídeo começa direto no Take 1 e a IMAGEM 1 prende o scroll sozinha. Se quiser um pré-gancho em um deles, me peça. Custo: 8 takes × 15 = 120 créditos.", "Créditos não são mais um limite (você comprou 1000). Por isso cada vídeo sai completo, com o CTA que combina com o gancho, o objeto e o código dele. Não economizei nada que valesse menos conversão.", "O reaproveitamento fica para depois de gerar, e eu decido peça por peça. Dos seus 24 vídeos, os dois campeões (B3 com 2.551 views e C4 com 1.427) vieram da receita \"corpo e CTA gerados uma vez, só o gancho muda\". Então os melhores candidatos a reaproveitar são sempre o corpo e o CTA de um vídeo que performar.", "O que prende no começo (pré-gancho, gancho e texto na tela) nunca é reaproveitado: nos campeões era gancho direto, com promessa e \"this message is not for everyone\".", "Só reaproveito com a mesma Nora e a mesma imagem de base (o mesmo \"kit\"). Um corpo ou CTA de outro vídeo, com outra roupa e outro objeto na mão, aparece como um corte estranho. Takes da Nora antiga (nora01 a nora24) e da Dana não entram.", "Regra para escolher: depois de 2 a 3 dias de postagem, o vídeo que tiver mais retenção nos 3 s, mais tempo médio e mais comentários vira o \"kit campeão\": o corpo, o CTA e a imagem dele ganham ganchos novos (nora31 em diante, só o gancho de 15 créditos, porque este vídeo não tem pré-gancho)."]}};
+(function(){
+const ESTILO_IMG="UGC STYLE LOCK: vertical 9:16 image, photorealistic, shot in an American home with the spontaneous look of a smartphone. Natural light, real skin, fabric and hair textures, casual and slightly imperfect framing. The camera stays out of frame. No text, caption, logo, watermark or advertising look.";
+const ESTILO_VID="UGC STYLE LOCK: vertical 9:16 video, photorealistic and spontaneous, with natural smartphone movement, real home lighting and close audio. The camera and the phone never appear. No text, captions, logos, music, slow motion, or cinematic or advertising look.";
+const REF_TXT="VISUAL REFERENCE LOCK: use exclusively the ATTACHED references as identity authorities. Preserve the face, body, hair, proportions and appearance of the human and the pet. Do not mix identities.";
+const KEY="painel_ugc_v2";
+const $=id=>document.getElementById(id);
+let pk=null, feitos={}, takes={};
+
+function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+function salvar(){try{localStorage.setItem(KEY,JSON.stringify({json:$('json').value,feitos,takes}))}catch(e){}}
+function carregar(){try{const s=JSON.parse(localStorage.getItem(KEY)||'null');if(s){$('json').value=s.json||'';feitos=s.feitos||{};takes=s.takes||{};if(s.json)montar(true)}}catch(e){}}
+
+function copiar(txt,btn){
+  const fim=()=>{if(!btn)return;const o=btn.textContent;btn.classList.add('ok');btn.textContent='Copiado ✓';setTimeout(()=>{btn.classList.remove('ok');btn.textContent=o},1400)};
+  if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(txt).then(fim,()=>fallback(txt,fim))}else fallback(txt,fim);
+}
+function fallback(txt,fim){const t=document.createElement('textarea');t.value=txt;t.style.position='fixed';t.style.opacity='0';document.body.appendChild(t);t.select();try{document.execCommand('copy')}catch(e){}document.body.removeChild(t);fim()}
+
+function limparJson(s){
+  s=s.trim().replace(/^```(?:json)?\s*/i,'').replace(/```\s*$/,'').trim();
+  const a=s.indexOf('{'),b=s.lastIndexOf('}');
+  if(a<0||b<0)throw new Error('Não achei um bloco que começa com { e termina com }.');
+  return JSON.parse(s.slice(a,b+1));
+}
+
+function estilo(t,fim){
+  const e=(pk.excecao_estilo||'').trim();
+  return e?t.replace(fim+'.',fim+' except '+e+', when visible.'):t;
+}
+function promptImagem(im){
+  return REF_TXT+' '+(pk.trava_referencia||'')+refCapa()+'\n\nFIXED OUTFIT: '+(pk.figurino||'')+'\n\n'+estilo(ESTILO_IMG,'advertising look')+'\n\nSCENE: '+im.cena;
+}
+function refCapa(){return (pk.excecao_estilo||'').trim()?' The official cover is an authority only for the art printed on the physical copy.':''}
+function promptVideo(v){
+  const voz=pk.perfil.voz;
+  const num=v.cena.split('/')[0];
+  const br=(v.b_roll||'').trim();
+  return v.cena+' VIDEO PROMPT — SCENE '+num+' — '+v.duracao+'s — '+v.primeiro_quadro+'\n\n'+estilo(ESTILO_VID,'cinematic or advertising look')+'\n\nACTION: '+v.acao+(br?'\n\nPOV B-ROLL: '+br:'')+'\n\nDIALOGUE: “'+v.fala+'”\n\nVOICE: the person is the only speaker. '+voz;
+}
+function itens(){
+  const a=[];
+  if(pk.pre_gancho&&pk.pre_gancho.etapas){pk.pre_gancho.etapas.forEach((e,i)=>a.push({id:'pre_e'+i,tipo:'pre',titulo:e.titulo,prompt:''}))}
+  else if(pk.pre_gancho){a.push({id:'pre_img',tipo:'pre',titulo:'Imagem do pré-gancho',prompt:''});if(pk.pre_gancho.imagem_final_prompt)a.push({id:'pre_img_fim',tipo:'pre',titulo:'Imagem final do pré-gancho',prompt:''});a.push({id:'pre_vid',tipo:'pre',titulo:'Vídeo do pré-gancho',prompt:''})}
+  if(pk.imagem_reutilizada)a.push({id:'img_reuso',tipo:'reuso',titulo:'IMAGEM 1 anexada',prompt:''});
+  else if(pk.imagem_central)(Array.isArray(pk.imagem_central)?pk.imagem_central:[pk.imagem_central]).forEach((ic,i)=>a.push({id:'img'+(i+1),tipo:'imgc',ic:ic,titulo:ic.titulo||'IMAGEM 1 (Central de imagens)',prompt:''}));
+  else pk.imagens.forEach((im,i)=>a.push({id:'img'+(i+1),tipo:'img',titulo:im.rotulo,prompt:promptImagem(im),rotulo:'PROMPT IMAGEM '+(i+1)}));
+  pk.videos.forEach((v,i)=>a.push({id:'vid'+(i+1),tipo:'vid',titulo:v.rotulo+' · '+(pk.central?'':'cena ')+v.cena,v:v,prompt:pk.central?'':promptVideo(v),rotulo:'PROMPT DE VIDEO '+(i+1)}));
+  return a;
+}
+function blocoCompleto(){return itens().filter(it=>it.tipo!=='pre'&&(!pk.central||it.tipo==='img')).map(it=>it.rotulo+':\n'+it.prompt).join('\n\n')}
+function progresso(){
+  const its=itens();const f=its.filter(i=>feitos[i.id]).length;
+  $('prog').style.width=(100*f/its.length)+'%';
+  $('progtxt').textContent=f+' de '+its.length+' itens gerados e aprovados';
+}
+
+
+function montarCentral(){
+  const c=pk.central;
+  ['central','cenas','agente'].forEach(id=>$(id).classList.toggle('hide',!c));
+  $('story').classList.toggle('hide',!pk.story);
+  $('videos').classList.toggle('hide',!!c);
+  $('todos').querySelector('h2').textContent=c?(c.imagem_unica?'Prompt da imagem (agente do Flow)':'Prompts das imagens (agente do Flow)'):'Todos os prompts';
+  if(c){
+    $('todos').querySelector('p').innerHTML='Bloco para o agente do Flow gerar a imagem (já começa com <i>iniciar</i>). Os vídeos não entram aqui: o prompt dos takes vem da Central do curso.';
+    if(c.passos&&c.passos.length)$('refSteps').innerHTML=c.passos.map(x=>'<li>'+esc(x)+'</li>').join('');
+    $('cfg').innerHTML='';
+    (c.config||[]).forEach(sec=>{
+      const d=document.createElement('div');d.className='item';
+      d.innerHTML='<h3>'+esc(sec.secao)+'</h3>'+(sec.campos||[]).map((k,i)=>'<div style="margin:3px 0"><b>'+esc(k.campo)+':</b> '+esc(k.valor)+'</div>'+(k.copiar?'<div class="box m" style="margin:6px 0 4px">'+esc(k.copiar)+'</div><button class="btn cpi" data-i="'+i+'" style="margin-bottom:8px">Copiar este texto</button>':'')).join('');
+      d.querySelectorAll('.cpi').forEach(b=>{b.onclick=e=>copiar(sec.campos[+b.dataset.i].copiar,e.currentTarget)});
+      $('cfg').appendChild(d);
+    });
+    const wc=s=>s.trim().split(/\s+/).length;
+    const linhaConf=(v,i,n)=>{const w=v.fala.trim().split(/\s+/);return 'TAKE '+(i+1)+'/'+n+' · '+v.duracao+' s · '+w.length+' palavras · começa em “'+w.slice(0,5).join(' ')+'…” · termina em “…'+w.slice(-5).join(' ')+'”'};
+    $('cenas').querySelector('h2').textContent='A fala e a movimentação (tudo de uma vez)';
+    const cols=c.colagens&&c.colagens.length?c.colagens:[{titulo:'',fala:(c.copia||{}).fala_completa||pk.videos.map(v=>v.fala).join(' '),movimentacao:(c.copia||{}).movimentacao||pk.videos.map(v=>v.movimentacao),takes:pk.videos.map((v,i)=>i)}];
+    $('cenas').querySelector('p').textContent=cols.length>1?'São '+cols.length+' colagens separadas na Central. Em cada uma, cole a fala em “COLE SUA COPY AQUI” e as linhas em “MOVIMENTAÇÃO”.':'Cole a fala inteira em “COLE SUA COPY AQUI” e as linhas em “MOVIMENTAÇÃO”. O site deve criar os takes da conferência abaixo, nesta ordem.';
+    const blocos=cols.map((k,j)=>{
+      const conf=k.takes.map((ix,i)=>linhaConf(pk.videos[ix],i,k.takes.length)).join('\n');
+      return '<div class="item"><h3>'+(cols.length>1?'Colagem '+(j+1)+' de '+cols.length+(k.titulo?': '+esc(k.titulo):''):'Colagem')+'</h3>'
+       +'<div style="margin:8px 0"><button class="cp cpF" data-j="'+j+'">Copiar fala</button><b>COLE SUA COPY AQUI</b> <span class="tag">'+wc(k.fala)+' palavras</span></div><div class="box m">'+esc(k.fala)+'</div>'
+       +'<div style="margin:8px 0"><button class="cp cpM" data-j="'+j+'">Copiar movimentação</button><b>MOVIMENTAÇÃO</b> <span class="tag">'+k.movimentacao.length+(k.movimentacao.length===1?' linha':' linhas, uma por take')+'</span></div><div class="box m">'+esc(k.movimentacao.join('\n'))+'</div>'
+       +'<div style="margin:8px 0"><b>Clique em GERAR PROMPT DE ANIMAÇÃO e confira</b></div><div class="box">'+esc(conf)+'</div><div class="tip" style="margin-top:8px">O site deve mostrar exatamente '+k.takes.length+(k.takes.length===1?' take':' takes')+', começando e terminando nas frases acima. Se vier outro número de takes ou um corte diferente, não gere: me mande o print.</div></div>';
+    }).join('');
+    $('listaCenas').innerHTML=blocos
+      +'<div class="item"><h3>Depois que o agente gerar, confira cada vídeo</h3>'+pk.videos.map((v,i)=>{const id='vid'+(i+1);const w=v.fala.trim().split(/\s+/);const arq=v.arquivo||(((pk.roteiro&&pk.roteiro.id)||'').split('-')[0]+'-'+v.rotulo);return '<label class="chk" style="display:flex;margin:8px 0;align-items:flex-start"><input type="checkbox" data-id="'+id+'" '+(feitos[id]?'checked':'')+'> <span><b>'+esc(v.rotulo)+'</b> · '+esc(v.cena)+' · '+v.duracao+' s · renomear no Flow para <b>'+esc(arq)+'</b><br>começa em “'+esc(w.slice(0,6).join(' '))+'…” e termina em “…'+esc(w.slice(-6).join(' '))+'”</span></label>'}).join('')+'<div class="tip" style="margin-top:8px">'+esc(c.conferir||'Conferir em cada vídeo: é a Dana (rosto e roupa iguais à imagem); a fala sai completa, uma vez só, em inglês, com voz americana calma; sem texto, legenda ou música.')+'</div></div>';
+    $('listaCenas').querySelectorAll('.cpF').forEach(b=>{b.onclick=e=>copiar(cols[+b.dataset.j].fala,e.currentTarget)});
+    $('listaCenas').querySelectorAll('.cpM').forEach(b=>{b.onclick=e=>copiar(cols[+b.dataset.j].movimentacao.join('\n'),e.currentTarget)});
+    $('listaCenas').querySelectorAll('input[data-id]').forEach(inp=>{inp.onchange=e=>{feitos[inp.dataset.id]=e.target.checked;progresso();salvar()}});
+    const ag=c.agente||{};
+    $('agente').querySelector('h2').textContent='No agente do Flow (uma conversa só)';
+    $('agente').querySelector('p').textContent='Uma imagem e uma mensagem: anexe a imagem e cole o bloco “COPIAR TUDO JUNTO” da Central, que já traz as orientações ao agente (o seu aviso é opcional).';
+    $('agenteBox').innerHTML='<div class="item"><button class="cp" id="cpAviso">Copiar aviso</button><h3>Seu aviso para o agente <span class="tag">opcional: o prompt da Central já traz as orientações ao agente</span><span class="tag">anexar: '+esc(ag.imagem||'')+'</span></h3><div class="box m">'+esc(ag.aviso||'')+'</div></div>'
+      +(ag.aviso_en?'<div class="item"><button class="cp" id="cpAvisoEn">Copiar aviso em inglês</button><h3>Aviso em inglês <span class="tag">opcional: mesma mensagem, em inglês</span></h3><div class="box m">'+esc(ag.aviso_en)+'</div></div>':'')
+      +'<div class="item"><h3>Passo a passo</h3><ol class="steps">'+(ag.passos||[]).map(x=>'<li>'+esc(x)+'</li>').join('')+'</ol></div>';
+    $('cpAviso').onclick=e=>copiar(ag.aviso||'',e.currentTarget);
+    if(ag.aviso_en)$('cpAvisoEn').onclick=e=>copiar(ag.aviso_en,e.currentTarget);
+  }
+  if(pk.story){
+    const st=pk.story;
+    $('storyBox').innerHTML='<div class="item"><button class="cp" id="cpStImg">Copiar prompt</button><h3>Prompt da imagem do story <span class="tag">9:16</span></h3><div class="box m">'+esc(st.prompt_imagem)+'</div></div>'
+      +'<div class="item"><button class="cp" id="cpStTxt">Copiar textos</button><h3>Texto na tela do story</h3><div class="box">'+(st.textos||[]).map(x=>'<b>'+esc(x.posicao)+':</b> '+esc(x.texto)).join('\n')+'</div></div>'
+      +'<div class="item"><button class="cp" id="cpStAd">Copiar adesivo</button><h3>Adesivo de link (3 a 4 palavras)</h3><div class="box">'+(st.adesivos||[]).map((x,i)=>(i+1)+'. '+esc(x)+(i===0?'  (recomendada)':'')).join('\n')+'</div></div>';
+    $('cpStImg').onclick=e=>copiar(st.prompt_imagem,e.currentTarget);
+    $('cpStTxt').onclick=e=>copiar((st.textos||[]).map(x=>x.posicao+': '+x.texto).join('\n'),e.currentTarget);
+    $('cpStAd').onclick=e=>copiar((st.adesivos||[])[0]||'',e.currentTarget);
+  }
+}
+
+function montarPecas(){
+  const P=pk.pecas;
+  $('pecas').classList.toggle('hide',!P||!P.lista||!P.lista.length);
+  if(!P||!P.lista)return;
+  const gerar=P.lista.filter(x=>x.status==='gerar'),reu=P.lista.filter(x=>x.status==='reutilizar');
+  const cred=gerar.reduce((a,x)=>a+(x.creditos||0),0),eco=reu.reduce((a,x)=>a+(x.creditos||0),0);
+  let h='<p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Cada imagem e cada take tem um <b>nome</b>. Use esse nome para <b>renomear o arquivo no Flow</b> assim que gerar. Quando um take já existe, <b>não gere de novo</b>: pegue o arquivo pelo nome. É assim que não gastamos créditos à toa.</p>'
+   +'<div class="tip" style="margin-bottom:12px"><b>Como ler:</b> <span class="pill g">gerar</span> = você gera agora. <span class="pill r">reutilizar</span> = já foi gerado em outro vídeo, só pegue o arquivo e use na edição. <b>Créditos neste vídeo: '+cred+'</b>'+(eco?' · <b>economia por reaproveitar: '+eco+'</b>':'')+'.</div>';
+  if(P.decisao&&P.decisao.length)h+='<div class="item"><h3>Por que eu decidi assim <span class="tag">com base nas suas métricas</span></h3><ul style="margin:0;padding-left:20px;color:var(--ink2);font-size:14.5px">'+P.decisao.map(x=>'<li>'+esc(x)+'</li>').join('')+'</ul></div>';
+  h+='<div class="item"><h3>As peças deste vídeo</h3><div style="display:grid;gap:10px">'+P.lista.map(x=>'<div class="peca'+(x.status==='reutilizar'?' reuso':'')+'"><div class="row"><span class="nome">'+esc(x.nome)+'</span><span class="tag">'+esc(x.tipo)+'</span><span class="pill '+(x.status==='reutilizar'?'r':'g')+'">'+(x.status==='reutilizar'?'reutilizar':'gerar')+'</span>'+(x.creditos?'<span class="tag">'+x.creditos+' créditos</span>':'')+'</div>'
+    +(x.descricao?'<div style="font-size:14.5px">'+esc(x.descricao)+'</div>':'')
+    +(x.status==='reutilizar'?'<div class="tip" style="font-size:13.5px">Não gere. Use o arquivo <b>'+esc(x.de||x.nome)+'</b> que você já gerou.</div>':'')
+    +(x.base?'<div style="font-size:13.5px;color:var(--ink2)"><b>Base:</b> '+esc(x.base)+'</div>':'')
+    +(x.serve?'<div style="font-size:13.5px;color:var(--ink2)"><b>Serve também em:</b> '+esc(x.serve)+'</div>':'')+'</div>').join('')+'</div></div>';
+  if(P.proximos&&P.proximos.length)h+='<div class="item"><h3>Depois deste vídeo: variações baratas <span class="tag">só gancho novo</span></h3><p style="color:var(--ink2);margin:0 0 8px;font-size:14.5px">'+esc(P.proximos_intro||'')+'</p><div style="display:grid;gap:10px">'+P.proximos.map(x=>'<div class="peca"><div class="row"><span class="nome">'+esc(x.nome)+'</span><span class="tag">'+esc(x.modelo||'')+'</span><span class="tag">≈ '+esc(x.custo||'')+' créditos</span></div><div class="fala">“'+esc(x.gancho)+'”</div><div style="font-size:13.5px;color:var(--ink2)">Texto na tela: '+esc(x.texto||'')+'</div></div>').join('')+'</div></div>';
+  $('pecasBox').innerHTML=h;
+}
+
+function montarPre(){
+  const g=pk.pre_gancho;
+  $('prehook').classList.toggle('hide',!g);
+  if(!g)return;
+  if(g.etapas){
+    $('prehook').querySelector('h2').textContent='Pré-gancho ('+(g.duracao||5)+' s, '+(g.tomadas||2)+' tomadas, com o rosto da avatar)';
+    $('preBox').innerHTML='<p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">'+esc(g.conceito||'')+'</p>'
+      +(g.modo?'<div class="tip" style="margin-bottom:12px">'+esc(g.modo)+'</div>':'')
+      +g.etapas.map((e,i)=>'<div class="item"><button class="cp" data-pe="'+i+'">Copiar prompt</button><h3>'+(i+1)+') '+esc(e.titulo)+' '+(e.nome?'<span class="tag">nome: '+esc(e.nome)+'</span>':'')+'<span class="tag">'+(e.tipo==='vid'?'VÍDEO · '+esc(e.duracao||4)+' s · Frames':'IMAGEM · 9:16')+'</span></h3>'+(e.quadros?'<div class="tip" style="margin:8px 0">'+esc(e.quadros)+'</div>':'')+(e.anexar?'<div style="margin:6px 0;color:var(--ink2);font-size:14px"><b>Anexar:</b> '+esc(e.anexar)+'</div>':'')+'<div class="box m">'+esc(e.prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_e'+i+'" '+(feitos['pre_e'+i]?'checked':'')+'> '+(e.tipo==='vid'?'Vídeo gerado e aprovado':'Imagem gerada e aprovada')+'</label></div>').join('')
+      +(g.montagem?'<div class="tip" style="margin-top:12px"><b>Montagem no CapCut:</b><br>'+esc(g.montagem).replace(/\n/g,'<br>')+'</div>':'');
+    $('preBox').querySelectorAll('button[data-pe]').forEach(b=>{b.onclick=e=>copiar(g.etapas[+b.dataset.pe].prompt,e.currentTarget)});
+    $('preBox').querySelectorAll('input[data-id]').forEach(inp=>{inp.onchange=e=>{feitos[inp.dataset.id]=e.target.checked;progresso();salvar()}});
+    return;
+  }
+  const temFim=!!g.imagem_final_prompt;
+  $('prehook').querySelector('h2').textContent='Pré-gancho ('+(g.duracao||4)+' s'+(g.com_rosto?', com o rosto da avatar':'')+')';
+  $('preBox').innerHTML='<p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">'+esc(g.conceito||'')+'</p>'
+    +'<div class="tip" style="margin-bottom:12px"><b>Modo no Flow: FRAMES</b> (não “Ingredients”/elementos).<br><b>Imagem INICIAL (primeiro quadro):</b> imagem 1 abaixo'+(g.quadro_inicial?' — '+esc(g.quadro_inicial):'')+'.<br><b>Imagem FINAL (último quadro):</b> '+(temFim?'imagem 2 abaixo'+(g.quadro_final?' — '+esc(g.quadro_final):''):'nenhuma (deixe o campo do último quadro vazio)')+'.<br>Duração '+esc(g.duracao||4)+' s, vertical 9:16, com o áudio ambiente ligado.</div>'
+    +'<div class="item"><button class="cp" id="cpPreImg">Copiar prompt</button><h3>1) Imagem do pré-gancho <span class="tag">PRIMEIRO quadro</span>'+(g.nome_img1?'<span class="tag">nome: '+esc(g.nome_img1)+'</span>':'')+'<span class="tag">9:16</span>'+(g.com_rosto?'<span class="tag">com o rosto da avatar: anexe SÓ o blueprint</span>':'<span class="tag">sem referências anexadas</span>')+'</h3><div class="box m">'+esc(g.imagem_prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_img" '+(feitos.pre_img?'checked':'')+'> Imagem gerada e aprovada</label></div>'
+    +(temFim?'<div class="item"><button class="cp" id="cpPreImgFim">Copiar prompt</button><h3>2) Imagem final do pré-gancho <span class="tag">ÚLTIMO quadro</span>'+(g.nome_img2?'<span class="tag">nome: '+esc(g.nome_img2)+'</span>':'')+'<span class="tag">9:16</span><span class="tag">anexe SÓ a imagem 1 aprovada (edição dela)</span></h3><div class="box m">'+esc(g.imagem_final_prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_img_fim" '+(feitos.pre_img_fim?'checked':'')+'> Imagem final gerada e aprovada</label></div>':'')
+    +'<div class="item"><button class="cp" id="cpPreVid">Copiar prompt</button><h3>'+(temFim?'3':'2')+') Vídeo do pré-gancho '+(g.nome_video?'<span class="tag">nome: '+esc(g.nome_video)+'</span>':'')+'<span class="tag">'+esc(g.duracao||4)+' s</span><span class="tag">Frames</span><span class="tag">1º quadro: imagem 1</span>'+(temFim?'<span class="tag">último quadro: imagem 2</span>':'<span class="tag">sem último quadro</span>')+'</h3><div class="box m">'+esc(g.video_prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_vid" '+(feitos.pre_vid?'checked':'')+'> Vídeo gerado e aprovado</label></div>'
+    +'';
+  if(temFim)$('cpPreImgFim').onclick=e=>copiar(g.imagem_final_prompt,e.currentTarget);
+  $('cpPreImg').onclick=e=>copiar(g.imagem_prompt,e.currentTarget);
+  $('cpPreVid').onclick=e=>copiar(g.video_prompt,e.currentTarget);
+  $('preBox').querySelectorAll('input[data-id]').forEach(inp=>{inp.onchange=e=>{feitos[inp.dataset.id]=e.target.checked;progresso();salvar()}});
+}
+
+/* ORDEM DE PRODUÇÃO: as seções seguem o passo a passo do caminho da produção (legenda e comentário fixado por último, antes de postar). */
+function ordenar(){
+  const c=pk.central;
+  const ord=c
+    ?['pecas','referencia','prehook','imagens','todos','central','cenas','agente','silencio','story','textotela','fala','descricao','comentario']
+    :['pecas','referencia','prehook','imagens','videos','todos','silencio','story','textotela','fala','descricao','comentario'];
+  const pn=$('painel');
+  $('todos').classList.toggle('hide',!!pk.imagem_reutilizada||!!pk.imagem_central);
+  $('imagens').querySelector('h2').textContent=pk.imagem_reutilizada?'Imagem 1 (a mesma de outro roteiro, não gerar)':(pk.imagem_central?'Imagem 1 na Central de imagens':'Imagens');
+  ord.forEach(id=>pn.appendChild($(id)));if(c)pn.appendChild($('videos'));
+  let n=0;const links=[];
+  ord.forEach(id=>{
+    const sec=$(id);
+    const h=sec.querySelector('h2');
+    const base=h.textContent.replace(/^\d+\.\s*/,'');
+    if(sec.classList.contains('hide')){h.textContent=base;return}
+    n++;h.textContent=n+'. '+base;
+    links.push('<a href="#'+id+'">'+n+'. '+esc(base)+'</a>');
+  });
+  $('tocLinks').innerHTML='<a href="#entrada">Pacote</a>'+links.join('');
+}
+
+function montar(silencio){
+  const m=$('msg');m.className='msg';m.textContent='';
+  try{
+    const p=limparJson($('json').value);
+    if(!Array.isArray(p.imagens)||p.imagens.length<(p.central&&p.central.imagem_unica?1:2))throw new Error('Faltam as imagens ("imagens").');
+    if(!Array.isArray(p.videos)||!p.videos.length)throw new Error('Faltam os vídeos ("videos").');
+    p.videos.forEach((v,i)=>{(p.central?['cena','duracao','primeiro_quadro','fala','movimentacao']:['cena','duracao','primeiro_quadro','acao','fala']).forEach(k=>{if(v[k]===undefined||v[k]==='')throw new Error('O vídeo '+(i+1)+' está sem "'+k+'".')})});
+    if(!p.perfil||!/^Voz (feminina|masculina) adulta (brasileira|americana)/.test(p.perfil.voz||''))throw new Error('Falta "perfil.voz" ("Voz feminina|masculina adulta brasileira natural e espontânea.").');
+    const n=p.videos.length;
+    if(p.central?(n<2||n>8):(n!==6&&n!==7))throw new Error('O pacote tem '+n+' vídeos; o método usa 6 (5 cenas) ou 7 (6 cenas).');
+    p.videos.forEach((v,i)=>{if([4,6,8,10].indexOf(Number(v.duracao))<0)throw new Error('O vídeo '+(i+1)+' tem duração '+v.duracao+'; só 4, 6, 8 ou 10 s.')});
+    const N=n-1,a=p.videos[n-2].cena,b=p.videos[n-1].cena;
+    if(!p.central&&(a!==N+'A/'+N||b!==N+'B/'+N))throw new Error('Os dois últimos vídeos devem ser '+N+'A/'+N+' e '+N+'B/'+N+' (CTA).');
+    if(!/IMAGEM 1/.test(p.videos[0].primeiro_quadro))throw new Error('O V1 (hook) deve usar a IMAGEM 1 como primeiro quadro.');
+    pk=p;
+  }catch(e){
+    if(!silencio){m.className='msg err';m.textContent='Não consegui ler: '+e.message+' Peça para a IA "entregar o pacote de novo em JSON válido".'}
+    return;
+  }
+  const r=pk.roteiro||{};
+  $('rid').textContent=(r.id||'Roteiro')+((pk.perfil&&pk.perfil.nome)?' · '+pk.perfil.nome+(pk.perfil.teste?' · teste '+pk.perfil.teste:''):'');
+  $('rtitulo').textContent=r.titulo||'';
+  $('avisos').classList.add('hide');
+  $('rmeta').textContent=[r.dor&&('Dor: '+r.dor),r.formato&&('Formato: '+r.formato),r.molde_hook&&('Hook: '+r.molde_hook),r.duracao_total&&(r.duracao_total+' s no total'),r.leitura_registro&&('Leitura obrigatória (registro): '+r.leitura_registro)].filter(Boolean).join(' · ');
+  $('insta').textContent=r.descricao_instagram||'(a IA não entregou a legenda)';
+  const tt=pk.texto_tela||{};
+  $('silNome').textContent=((pk.roteiro&&pk.roteiro.id)||'noraNN').toLowerCase().replace(/[^a-z0-9]+.*$/,'')+'-cortado';
+  $('telaHook').textContent=tt.hook||'(a IA não entregou o texto dos primeiros segundos)';
+  const cf=pk.comentario_fixado||{};
+  $('pinInsta').textContent=cf.insta||'(a IA não entregou o comentário fixado do Instagram)';
+  $('pinFace').textContent=cf.face||'(a IA não entregou o comentário fixado do Facebook)';
+  const pg=pk.pre_gancho||{};
+  $('telaPre').textContent=pg.texto_tela||'';$('telaPre').classList.toggle('hide',!pg.texto_tela);$('telaPreK').classList.toggle('hide',!pg.texto_tela);
+  const el=pk.edicao_linha||[];$('telaLinhaW').classList.toggle('hide',!el.length);
+  $('telaLinha').innerHTML=el.map(x=>'<li style="margin-bottom:8px"><b>'+esc(x.quando)+'</b><br>'+(x.texto?'<span style="font-size:17px;font-weight:700">'+esc(x.texto)+'</span><br>':'')+'<span style="color:var(--ink2)">'+esc(x.como)+'</span></li>').join('');
+  (function(){const mt=pk.mapa_tela;$('mapaTela').classList.toggle('hide',!mt);if(!mt)return;
+    const px=v=>Math.round(v*12.8),W=72,H=128,Z=[
+      {n:'Barra do app (hora, Reels, câmera)',y:mt.topo_app,x:[0,100],c:'#ff6b5b',t:'#ffd0ca'},
+      {n:'Números fixos do código (um no canto esquerdo e um no direito)',y:mt.codigos,x:[0,100],c:'#4f8cff',t:'#cfe0ff'},
+      {n:'Texto do hook (caixa branca)',y:mt.hook,x:[6,94],c:'#ffe14d',t:'#fff3b0'},
+      {n:'Legenda',y:mt.legenda,x:[8,84],c:'#27c27a',t:'#b9f3d6'},
+      {n:'Rodapé do app (nome, descrição, botão)',y:mt.rodape_app,x:[0,100],c:'#ff6b5b',t:'#ffd0ca'}];
+    let sv='<svg viewBox="0 0 '+W+' '+H+'" width="190" style="background:#000;border:1px solid var(--line);border-radius:10px;flex:none">';
+    sv+='<rect x="'+(W*.06)+'" y="'+(H*mt.hook[1]/100)+'" width="'+(W*.88)+'" height="'+(H*(mt.legenda[0]-mt.hook[1])/100)+'" fill="#fff" fill-opacity=".07" stroke="#fff" stroke-opacity=".5" stroke-dasharray="1.4 1.4" stroke-width=".27"/><text x="'+(W/2)+'" y="'+(H*(mt.hook[1]+mt.legenda[0])/200)+'" font-size="3.4" text-anchor="middle" fill="#fff" fill-opacity=".8">rosto e objeto</text><text x="'+(W/2)+'" y="'+(H*(mt.hook[1]+mt.legenda[0])/200+4)+'" font-size="3.4" text-anchor="middle" fill="#fff" fill-opacity=".8">(sem texto)</text>';
+    Z.forEach(z=>{sv+='<rect x="'+(W*z.x[0]/100)+'" y="'+(H*z.y[0]/100)+'" width="'+(W*(z.x[1]-z.x[0])/100)+'" height="'+(H*(z.y[1]-z.y[0])/100)+'" fill="'+z.c+'" fill-opacity=".45" stroke="'+z.c+'" stroke-width=".27"/>'});
+    const b=mt.botoes;sv+='<rect x="'+(W*b.x[0]/100)+'" y="'+(H*b.y[0]/100)+'" width="'+(W*(b.x[1]-b.x[0])/100)+'" height="'+(H*(b.y[1]-b.y[0])/100)+'" fill="#ff6b5b" fill-opacity=".45" stroke="#ff6b5b" stroke-width=".27"/>';
+    sv+='<text x="'+(W*.46)+'" y="'+(H*(mt.legenda[0]+mt.legenda[1])/200+1)+'" font-size="3.8" font-weight="700" text-anchor="middle" fill="#fff">LEGENDA</text></svg>';
+    let rows='<div class="box" style="flex:1;min-width:240px;padding:10px 12px;white-space:normal;word-break:normal">';
+    const lin=(c,n,a)=>'<div style="display:flex;gap:10px;align-items:flex-start;margin:0 0 9px"><span style="flex:none;width:12px;height:12px;border-radius:3px;margin-top:3px;background:'+c+'"></span><div style="white-space:normal;word-break:normal"><b>'+esc(n)+'</b><br><span style="color:var(--ink2)">'+a+'</span></div></div>';
+    Z.forEach(z=>{rows+=lin(z.c,z.n,z.y[0]+'% a '+z.y[1]+'% da altura (de '+px(z.y[0])+' a '+px(z.y[1])+' pixels contados a partir do TOPO)')});
+    rows+=lin('#ff6b5b','Botões do lado direito (curtir, comentar, enviar)','a partir de '+b.x[0]+'% da largura (a partir de '+Math.round(b.x[0]*7.2)+' pixels contados da ESQUERDA), de '+b.y[0]+'% a '+b.y[1]+'% da altura');
+    rows+='</div>';
+    $('mapaCorpo').innerHTML=sv+rows;
+    const cc=(xp,yp,Wp,Hp)=>[Math.round(xp/100*Wp-Wp/2),Math.round(Hp/2-yp/100*Hp)];
+    const ys=(a)=>(a[0]+a[1])/2,P=[
+      ['Número fixo da esquerda (222 ou 444)',12,ys(mt.codigos)],
+      ['Número fixo da direita (11:11)',88,ys(mt.codigos)],
+      ['Texto do hook (caixa branca)',50,ys(mt.hook)],
+      ['LEGENDA',50,ys(mt.legenda)],
+      ['Seta vermelha do pedido final',12,18]];
+    let ct='<div class="mono">No CapCut: o que digitar em X e em Y (posição do CENTRO de cada texto)</div><p style="color:var(--ink2);margin:6px 0 8px;font-size:14.5px">X=0 e Y=0 é o <b>centro</b> do vídeo (720×1280). X negativo é esquerda; Y positivo é para cima.</p><div class="box" style="white-space:normal;word-break:normal;padding:10px 12px"><table style="border-collapse:collapse;width:100%;font-size:13.5px"><tr style="color:var(--ink2)"><td style="padding:4px 10px 6px 0">Texto</td><td style="padding:4px 0 6px 0;white-space:nowrap">Vídeo 720×1280 (X · Y)</td></tr>';
+    P.forEach(r=>{const b=cc(r[1],r[2],720,1280);ct+='<tr><td style="padding:5px 10px 5px 0;vertical-align:top"><b>'+esc(r[0])+'</b></td><td style="padding:5px 0;white-space:nowrap">X '+b[0]+' · Y '+b[1]+'</td></tr>'});
+    ct+='</table></div>';
+    $('mapaCapcut').innerHTML=ct;
+    $('mapaEstilos').innerHTML=(mt.estilos&&mt.estilos.length)?('<div class="mono">Estilo de cada texto (fonte, cor, tamanho, contorno)</div><div class="box" style="white-space:normal;word-break:normal;padding:10px 12px;margin-top:8px">'+mt.estilos.map(e=>'<div style="margin:0 0 12px"><b>'+esc(e.nome)+'</b><div style="color:var(--ink2);margin-top:3px;line-height:1.55">'+['Fonte: '+e.fonte,'Cor: '+e.cor,'Tamanho: '+e.tamanho,'Contorno: '+e.contorno,e.obs].filter(Boolean).map(esc).join('<br>')+'</div></div>').join('')+'</div>'):'';
+    $('mapaRegras').innerHTML=(mt.regras||[]).map(x=>'<li style="margin-bottom:6px">'+esc(x)+'</li>').join('');
+  })();
+  $('telaEdicao').style.whiteSpace='pre-line';
+  $('telaEdicao').textContent=pg.edicao||'';$('telaEdicao').classList.toggle('hide',!pg.edicao);
+  $('telaHookQ').innerHTML=tt.hook_comeca?('Começa em: “'+esc(tt.hook_comeca)+'”'+(tt.hook_termina?' → termina em: “'+esc(tt.hook_termina)+'”':'')):'';
+  $('telaAlt').textContent=tt.hook_alt?'Alternativa: '+tt.hook_alt:'';$('telaAlt').classList.toggle('hide',!tt.hook_alt);
+  $('telaExtras').innerHTML=(tt.extras||[]).map(e=>'<div style="margin-bottom:8px"><b>'+esc(e.texto)+'</b><br><span style="color:var(--ink2)">'+(e.comeca?'Começa em: “'+esc(e.comeca)+'”'+(e.termina?' → termina em: “'+esc(e.termina)+'”':''):esc(e.quando||''))+'</span></div>').join('');$('telaExtras').classList.toggle('hide',!(tt.extras&&tt.extras.length));
+  $('refs').innerHTML=(pk.refs||[]).map(x=>'<span class="chip">'+esc(x)+'</span>').join('')||'<i>(a IA não listou)</i>';
+  $('falas').textContent=pk.videos.map(v=>v.rotulo+' · '+(pk.central?'':'cena ')+v.cena+'\n“'+v.fala+'”').join('\n\n')+((pk.pecas&&pk.pecas.lista||[]).filter(x=>x.status==='reutilizar'&&x.fala).map(x=>'\n\n'+x.nome+' (reutilizado de '+(x.de||'outro vídeo')+')\n“'+x.fala+'”').join(''));
+  $('listaImg').innerHTML='';$('listaVid').innerHTML='';
+  itens().forEach(it=>{
+    if(it.tipo==='reuso'){
+      const ir=pk.imagem_reutilizada;
+      const d=document.createElement('div');d.className='item'+(feitos[it.id]?' done':'');
+      d.innerHTML='<div class="tip"><b>Não gere imagem neste roteiro.</b> '+esc(ir.aviso||('Use o arquivo '+ir.arquivo+'.'))+'</div>'
+        +'<label class="chk"><input type="checkbox" '+(feitos[it.id]?'checked':'')+'> Arquivo '+esc(ir.arquivo||'IMAGEM 1')+' separado para anexar</label>';
+      d.querySelector('input').onchange=e=>{feitos[it.id]=e.target.checked;d.classList.toggle('done',e.target.checked);progresso();salvar()};
+      $('listaImg').appendChild(d);return;
+    }
+    if(it.tipo==='imgc'){
+      const ic=it.ic;
+      const d=document.createElement('div');d.className='item'+(feitos[it.id]?' done':'');
+      let h='<h3>'+esc(it.titulo)+(ic.nome?' <span class="tag">nome: '+esc(ic.nome)+'</span>':'')+' <span class="tag">9:16</span><span class="tag">com o blueprint</span></h3>'
+        +'<p style="color:var(--ink2);margin:0 0 10px;font-size:14.5px">'+esc(ic.aviso||'')+'</p>'
+        +(ic.passos&&ic.passos.length?'<ol class="steps">'+ic.passos.map(x=>'<li>'+esc(x)+'</li>').join('')+'</ol>':'');
+      (ic.grupos||[]).forEach((g,gi)=>{
+        h+='<div class="item" style="margin-top:10px"><h3>'+esc(g.titulo)+(g.nota?' <span class="tag">'+esc(g.nota)+'</span>':'')+'</h3>'
+          +(g.campos||[]).map((k,i)=>'<div style="margin:6px 0"><b>'+esc(k.campo)+':</b> '+(k.copiar?'<button class="btn cpi" data-g="'+gi+'" data-i="'+i+'" style="margin-left:6px">Copiar</button><div class="box m" style="margin-top:6px">'+esc(k.valor)+'</div>':esc(k.valor))+'</div>').join('')+'</div>';
+      });
+      h+='<label class="chk"><input type="checkbox" '+(feitos[it.id]?'checked':'')+'> '+esc(ic.nome||'IMAGEM 1')+' gerada e aprovada</label>';
+      d.innerHTML=h;
+      d.querySelectorAll('.cpi').forEach(b=>{b.onclick=e=>copiar(ic.grupos[+b.dataset.g].campos[+b.dataset.i].valor,e.currentTarget)});
+      d.querySelector('input[type=checkbox]').onchange=e=>{feitos[it.id]=e.target.checked;d.classList.toggle('done',e.target.checked);progresso();salvar()};
+      $('listaImg').appendChild(d);return;
+    }
+    if(it.tipo==='pre'||(pk.central&&it.tipo==='vid'))return;
+    const d=document.createElement('div');d.className='item'+(feitos[it.id]?' done':'');
+    let alerta='';
+    if(it.tipo==='vid'&&/[ÚU]LTIMO QUADRO/i.test(it.v.primeiro_quadro)){
+      alerta='<div class="tip"><b>Atenção:</b> o primeiro quadro deste clipe é o <b>último quadro de um vídeo anterior</b> ('+esc(it.v.primeiro_quadro)+'). Aprove o clipe anterior, baixe o último quadro dele e use como primeiro quadro aqui.</div>';
+    }
+    d.innerHTML='<button class="cp">'+(it.tipo==='img'?'Copiar imagem com trava':'Copiar prompt')+'</button>'
+      +'<h3>'+esc(it.titulo)+(it.tipo==='vid'?' <span class="tag">'+it.v.duracao+' s</span><span class="tag">1º quadro: '+esc(it.v.primeiro_quadro.split(' — ')[0])+'</span>':' <span class="tag">9:16</span>')+'</h3>'
+      +(it.tipo==='vid'?'<div class="fala">Fala: “'+esc(it.v.fala)+'”</div>':'')+alerta
+      +'<div class="box m">'+esc(it.prompt)+'</div>'
+      +'<label class="chk"><input type="checkbox" '+(feitos[it.id]?'checked':'')+'> Gerado e aprovado</label>';
+    d.querySelector('.cp').onclick=e=>copiar(it.prompt,e.currentTarget);
+    d.querySelector('input').onchange=e=>{feitos[it.id]=e.target.checked;d.classList.toggle('done',e.target.checked);progresso();salvar()};
+    $(it.tipo==='img'?'listaImg':'listaVid').appendChild(d);
+  });
+  montarCentral();
+  montarPre();
+  montarPecas();
+  ordenar();
+  $('painel').classList.remove('hide');
+  progresso();salvar();
+}
+
+$('aplicar').onclick=()=>{feitos={};montar(false)};
+$('limpar').onclick=()=>{if(!confirm('Apagar o pacote e as marcações?'))return;$('json').value='';feitos={};pk=null;$('painel').classList.add('hide');salvar()};
+$('copiaTudo').onclick=e=>copiar('iniciar\n\n'+(pk.instrucoes_agente?pk.instrucoes_agente+'\n\n':'')+blocoCompleto(),e.currentTarget);
+$('copiaFalas').onclick=e=>copiar(pk.videos.map(v=>v.rotulo+' ('+v.cena+'): '+v.fala).join('\n'),e.currentTarget);
+$('copiaTela').onclick=e=>{const tt=pk.texto_tela||{};copiar([].concat(pk.pre_gancho&&pk.pre_gancho.texto_tela?['Pré-gancho: '+pk.pre_gancho.texto_tela]:[],['Início do vídeo: '+(tt.hook||'')+(tt.hook_comeca?' | começa em: "'+tt.hook_comeca+'" | termina em: "'+(tt.hook_termina||'')+'"':'')]).concat((tt.extras||[]).map(x=>x.texto+(x.comeca?' | começa em: "'+x.comeca+'" | termina em: "'+(x.termina||'')+'"':(x.quando?' | '+x.quando:'')))).join('\n'),e.currentTarget)};
+$('copiaPinInsta').onclick=e=>copiar((pk.comentario_fixado&&pk.comentario_fixado.insta)||'',e.currentTarget);
+$('copiaPinFace').onclick=e=>copiar((pk.comentario_fixado&&pk.comentario_fixado.face)||'',e.currentTarget);
+$('copiaInsta').onclick=e=>copiar((pk.roteiro&&pk.roteiro.descricao_instagram)||'',e.currentTarget);
+if(PACOTE){try{const s0=JSON.parse(localStorage.getItem(KEY)||'null');if(s0){feitos=s0.feitos||{};takes=s0.takes||{}}}catch(e){}$("entrada").classList.add("hide");$("json").value=JSON.stringify(PACOTE);montar(false);if(!pk)$("entrada").classList.remove("hide");}else{carregar();}
+})();
+</script>
+</body>
+</html>
