@@ -63,3 +63,6 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **21/10/2026 12h21:** nora27 no Instagram com ~22h36: 224 views, 213 viewers, skip 41,6% (ret. 3 s 58,4%), tempo médio 6 s, 0 follows; Índia 58,5%, Turquia 21,0%, Reino Unido 3,1%, Paquistão 1,8%, Grécia 1,3%. Idade: 25-34 41,1%, 35-44 33,9%, 45-54 11,6%, 18-24 5,8%, 55-64 4,0%, 65+ 3,6%.
 
 - **21/10/2026 12h23:** nora28 no Instagram com ~18h51: 104 views, 102 viewers, skip 76,5% (ret. 3 s 23,5%), tempo médio 2 s, 0 follows; Índia 54,8%, Reino Unido 10,6%, EUA 6,7%, Canadá 3,8%, Turquia 2,9%. Idade: 25-34 53,8%, 35-44 28,8%, 45-54 11,5%, 18-24 5,8%.
+
+- **21/10/2026 12h25:** nora29 no Instagram com ~14h40: 107 views, 101 viewers, skip 68,3%, tempo médio 3 s, 0 follows; EUA 54,2%, Índia 15,9%, Canadá 10,3%, Reino Unido 4,7%, Itália 3,7%; idade igual à de 3 h45. Parado em 107.
+- **Hora × Índia (atualizado, 21/10 12h):** 8h35 BRT (17h05 IST) 62,9%; 13h45 (22h15) 58,5%; **17h32 (02h02) 54,8%**; **20h15 (04h45) 16,0%**; **21h45 (06h15) 15,9%**. A Índia só some a partir das ~19h BRT: 17h30 NÃO é seguro; janela = 19h a 21h45 BRT.
