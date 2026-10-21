@@ -290,3 +290,6 @@ Proxy atual da Nora: Proxy-Cheap, provedor Astound, IP 168.235.144.192, Los Ange
 
 ### 21/10/2026 - Congruência confirmada pelo aluno
 O aluno abriu o link do story: ainda abre o Soulmate. Os Take 4 e 7 do nora30, nora31 e nora32 foram reescritos para prometer só o que serve aos dois quizzes (regra P37 no CLAUDE.md). Face: 29 posts com 14 a 70 views (só o nora01 passou de 200) e distribuição ~0; GeeLark segue lento aguardando o suporte.
+
+### 21/10/2026 - Face do aluno (para não perguntar de novo)
+Só existe o perfil pessoal do aluno (mais de 10 anos); ele tinha 6 a 7 páginas e apagou algumas. O nora01 deu 227 views no Face e os demais ficaram entre 14 e 100 (nora28 69, nora25 68). Hipótese a verificar: o 1º vídeo teve views da Índia (no Insta o nora01 teve 44% da Índia e 4% dos EUA); depois que a entrega foi restrita aos EUA, o alcance real caiu. Conferir em Insights > Público (país) do nora01 e quando as restrições de país foram ligadas. Não criar outra página por enquanto. O link do story abre o Soulmate (já registrado no P37).
