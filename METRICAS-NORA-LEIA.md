@@ -59,3 +59,5 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **21/10/2026 11h56:** nora25 no Instagram com ~39h41: 119 views, 112 viewers, skip 75,0%, tempo médio 4 s, 0 follows; países e idade iguais à leitura anterior (EUA 25,2%, Índia 16,0%, Canadá 10,1%, Reino Unido 8,4%, Holanda 3,4%). Parado.
 
 - **21/10/2026 11h59:** nora26 no Instagram com ~27h24: 116 views, 111 viewers, skip 66,7%, tempo médio 4 s, 1 curtida, 0 follows; Índia 62,9%, EUA 3,4%, Sri Lanka 3,4%, Austrália 2,6%, Irã 2,6%. Idade: 25-34 46,6%, 35-44 26,7%, 45-54 13,8%, 18-24 7,8%, 55-64 2,6%, 65+ 1,7%, 13-17 0,9%.
+
+- **21/10/2026 12h21:** nora27 no Instagram com ~22h36: 224 views, 213 viewers, skip 41,6% (ret. 3 s 58,4%), tempo médio 6 s, 0 follows; Índia 58,5%, Turquia 21,0%, Reino Unido 3,1%, Paquistão 1,8%, Grécia 1,3%. Idade: 25-34 41,1%, 35-44 33,9%, 45-54 11,6%, 18-24 5,8%, 55-64 4,0%, 65+ 3,6%.
