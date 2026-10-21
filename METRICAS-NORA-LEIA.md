@@ -43,3 +43,5 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **21/10/2026 01h24, Facebook (Biblioteca de Conteúdo, 28 dias):** nora29 (~3h40): 27 views, 21 visualizadores, tempo médio 27 s, distribuição +0,5x, 8 views de 3 s. nora28 (~7h50): 62 views, 56 visualizadores, 6 s, +0,2x, 23 views de 3 s (37%). nora27: 14 views, 9 s, +0,0x, 6 views de 3 s. nora26: 19 views, 5 s, −0,8x. nora25: 68 views, 5 s, −0,4x. nora24: 27, nora23: 28, nora22: 29. Comentários 1 em todos (o fixado).
 
 - **21/10/2026 01h28:** nora27 no Instagram com ~11h43: 159 views, 148 viewers, tempo médio 7 s, 1 comentário, 0 follows; selo do Instagram "strong hook" (passaram dos 3 s). Índia 65,8%, Turquia 12,0%, Reino Unido 3,8%, Paquistão 2,5%, Grécia 1,9%. Idade: 25-34 47,5%, 35-44 31,6%, 45-54 10,8%, 18-24 4,4%, 65+ 4,4%, 55-64 1,3%.
+
+- **21/10/2026 01h29:** nora28 no Instagram com ~7h57: 103 views, 101 viewers, skip 76,2% (era 82,7% às 4h27), tempo médio 2 s, 1 comentário, 0 follows; países e idade indisponíveis (menos de 100 contas interagiram).
