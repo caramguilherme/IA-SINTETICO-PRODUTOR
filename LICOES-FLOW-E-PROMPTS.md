@@ -272,3 +272,6 @@ Identidade, suéter ameixa, bandeirinha no peito (lado direito da imagem), folha
 - **Não estagnar:** 99% dos que travam só repetem uma copy; modelar o que deu certo é bom, mas variar formatos e testar coisas novas; não existe número fixo de vídeos para descartar um avatar (um aluno validou no vídeo 90); 42 vídeos para engajar uma copy que depois entregou.
 - **Prazo para julgar um vídeo: "3 dias ao mínimo".**
 - **Cuidado com P10/P15:** "se o nome do seu ex começa com A, J, C..." e pedir a inicial nos comentários são ganchos de engajamento do curso, mas o Love Chart não entrega inicial: usar só se o aluno aprovar. Prova social só com material real (nada de depoimento inventado).
+
+### 21/10/2026 - nora30 melhorado (aluno: faça o melhor que achar)
+Take 2: cold reading específico e emocional (relê as mensagens à noite, frio de manhã); Take 4: pedido do story a meio do vídeo (a ~30 s, porque quase ninguém chega ao CTA do fim). Restante igual. Linhas de movimentação do Take 4 ajustadas (palma aberta oferecendo na última frase). Regra para os próximos: o 1º pedido do story vai entre 25 e 35 s; o do fim continua.

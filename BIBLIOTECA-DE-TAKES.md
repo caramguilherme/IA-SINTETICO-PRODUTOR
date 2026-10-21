@@ -75,9 +75,9 @@ O número do vídeo é a ordem de postagem na conta: **nora01 a nora29 já foram
 | `nora30-PRE-A` / `-PRE-B` / `-PRE-V1` / `-PRE-C` / `-PRE-D` / `-PRE-V2` | pré-gancho em 2 tomadas (tapete do carro + louro + sal) | guardado para outro vídeo | NÃO será gerado (teste sem pré-gancho, P30) |
 | `nora30-IMG` | imagem 1 do vídeo (Central de imagens) | variações do mesmo kit, se performar | a gerar |
 | `nora30-T1-gancho-quarto-sinal` | “American women, this is the fourth time the universe has tried to reach you…” | só deste vídeo | a gerar |
-| `nora30-T2-corpo-quente-frio` | “You told yourself it was in your head. It wasn't. He's warm on Monday…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
+| `nora30-T2-corpo-rele-a-noite` | “It's not in your head. At night he rereads your messages…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora30-T3-corpo-padrao-venus` | “It's not bad luck, and it's not you. In astrology, hot and cold is a pattern…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora30-T4-corpo-steady-heart` | “Some Venus patterns chase the spark. Others, like The Steady Heart…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
+| `nora30-T4-corpo-steady-heart-story` | “Some Venus patterns chase the spark. Others, like The Steady Heart…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora30-T5-corpo-sem-adivinhar` | “Picture a love that doesn't make you guess…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora30-T6-corpo-nao-espera` | “If you scroll past this, I can't send it again…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora30-T7-cta-a-quiz-venus` | “Part two is waiting in my story. A free astrology quiz finds your Venus…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
