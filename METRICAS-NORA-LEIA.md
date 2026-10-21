@@ -35,3 +35,5 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **Horário do nora30 (21/10/2026):** o nora29 saiu às 21h45 de 20/10, então o nora30 NÃO vai no mesmo dia (15 min depois). Novo plano: nora30 em 21/10 às 19h30 BRT (3h30 na Índia, dentro da janela 19h a 21h30). Anotar o horário real nas métricas; o par com o nora28 (17h32) já tem horário diferente de qualquer jeito, então comparar pela retenção nos 3 s no mesmo tempo de vida.
 
 - **20/10/2026 ~22h10:** nora27 no Instagram com ~8h25: 144 views, 136 viewers, skip 35,0% (ret. 3 s 65,0%), tempo médio 7 s, 1 comentário, 0 follows; Índia 69,4% (era 77,2% às 3h48), Turquia 6,9%, Reino Unido 4,2%, Paquistão 2,8%, Grécia 1,4%. Idade: 25-34 49,3%, 35-44 30,6%, 45-54 9,7%, 18-24 4,9%, 65+ 4,2%, 55-64 1,4%, 13-17 0%. Seguidores 3,5%.
+
+- **20/10/2026 ~22h28:** nora26 no Instagram com ~13h53: 115 views, skip 66,4%, tempo médio 4 s, 1 curtida, 1 comentário, 0 follows; Índia 62,6%, EUA 3,5%, Sri Lanka 3,5%, Austrália 2,6%, Irã 2,6%. Idade: 25-34 46,1%, 35-44 27,0%, 45-54 13,9%, 18-24 7,8%, 55-64 2,6%, 65+ 1,7%, 13-17 0,9%. Curva parada em ~115 desde ~6 h.
