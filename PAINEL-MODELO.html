@@ -123,6 +123,7 @@ section{scroll-margin-top:16px}
         <p style="color:var(--ink2);margin:6px 0 0;font-size:14.5px">Para nada ficar embaixo do app (Instagram e Facebook) nem em cima do rosto ou do objeto. As faixas são % da altura da tela; os pixels são para o vídeo de 720×1280, que é o que sai da plataforma do curso depois de cortar os silêncios, vai para as legendas do Claude e entra no CapCut.</p>
         <div id="mapaCorpo" style="display:flex;gap:18px;flex-wrap:wrap;margin:12px 0;align-items:flex-start"></div>
         <div id="mapaCapcut" style="margin:0 0 14px"></div>
+        <div id="mapaEstilos" style="margin:0 0 14px"></div>
         <ol class="box" id="mapaRegras" style="margin:0;padding:12px 12px 12px 32px;line-height:1.55"></ol>
       </div>
       <div class="mono" id="telaPreK">Pré-gancho</div>
@@ -465,6 +466,7 @@ function montar(silencio){
     P.forEach(r=>{const b=cc(r[1],r[2],720,1280);ct+='<tr><td style="padding:5px 10px 5px 0;vertical-align:top"><b>'+esc(r[0])+'</b></td><td style="padding:5px 0;white-space:nowrap">X '+b[0]+' · Y '+b[1]+'</td></tr>'});
     ct+='</table></div>';
     $('mapaCapcut').innerHTML=ct;
+    $('mapaEstilos').innerHTML=(mt.estilos&&mt.estilos.length)?('<div class="mono">Estilo de cada texto (fonte, cor, tamanho, contorno)</div><div class="box" style="white-space:normal;word-break:normal;padding:10px 12px;margin-top:8px">'+mt.estilos.map(e=>'<div style="margin:0 0 12px"><b>'+esc(e.nome)+'</b><div style="color:var(--ink2);margin-top:3px;line-height:1.55">'+['Fonte: '+e.fonte,'Cor: '+e.cor,'Tamanho: '+e.tamanho,'Contorno: '+e.contorno,e.obs].filter(Boolean).map(esc).join('<br>')+'</div></div>').join('')+'</div>'):'';
     $('mapaRegras').innerHTML=(mt.regras||[]).map(x=>'<li style="margin-bottom:6px">'+esc(x)+'</li>').join('');
   })();
   $('telaEdicao').style.whiteSpace='pre-line';

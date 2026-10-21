@@ -236,3 +236,6 @@ Itens do checklist: 31 (SPEECH RULE no LIVRE e fim silencioso em toda linha), 32
 
 ### 20/10/2026 (noite) - Tamanho do vídeo é 720×1280
 O aluno mostrou o print do CapCut: o vídeo que ele usa (saída da plataforma do curso, sem silêncios, que vai para as legendas do Claude e para o CapCut) tem largura 720 e altura 1280. O painel dizia 1080×1920 e dava dois tamanhos de tela. Agora o mapa da tela e a tabela X/Y do CapCut usam só 720×1280 (P34). Checklist item 34: conferir a resolução real do vídeo antes de dar qualquer medida em pixels.
+
+### 21/10/2026 - Estilo dos textos na edição
+O aluno mandou 2 quadros do nora29 editado (números 222 e 11:11 em amarelo-ouro nos cantos, hook branco com contorno preto em 2 linhas de 14% a 24%, legenda branca em maiúsculas com contorno a 64%): posições certas. O hook cobre a testa/cabelo e fica a ~2% das sobrancelhas, sem tocar os olhos: aceitável. O mapa da tela agora traz o bloco "Estilo de cada texto" (cor, fonte, tamanho em % da largura, contorno). Não vejo o nome da fonte nem os números do CapCut: pedir o print do painel de texto e gravar como padrão.
