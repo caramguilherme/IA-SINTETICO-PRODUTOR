@@ -275,3 +275,6 @@ Identidade, suéter ameixa, bandeirinha no peito (lado direito da imagem), folha
 
 ### 21/10/2026 - nora30 melhorado (aluno: faça o melhor que achar)
 Take 2: cold reading específico e emocional (relê as mensagens à noite, frio de manhã); Take 4: pedido do story a meio do vídeo (a ~30 s, porque quase ninguém chega ao CTA do fim). Restante igual. Linhas de movimentação do Take 4 ajustadas (palma aberta oferecendo na última frase). Regra para os próximos: o 1º pedido do story vai entre 25 e 35 s; o do fim continua.
+
+### 21/10/2026 - Infra da conta (GeeLark e proxy)
+Proxy atual da Nora: Proxy-Cheap, provedor Astound, IP 168.235.144.192, Los Angeles, ID 2481527. A primeira (Comcast) aparecia como data center; a Proxy-Cheap não troca IP e devolveu o valor em saldo (chamado 173468), usado para comprar a atual. Em 21/10 ~11h o celular na nuvem do GeeLark mostrou latência de 916 ms ("imagem congelada"): é o streaming da tela, não o proxy. Conduta: baixar a resolução, checar a rede local, reconectar; se o Instagram não carregar com a tela fluida, checar o proxy.
