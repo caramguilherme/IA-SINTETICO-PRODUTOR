@@ -72,9 +72,9 @@ O número do vídeo é a ordem de postagem na conta: **nora01 a nora29 já foram
 | `nora29-T6-corpo-nao-passe` | “Don't scroll past this one. If you do, this sign won't reach you again…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora29-T7-cta-a-quiz-venus` | “The next part is in my story. A free astrology quiz finds your Venus…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora29-T8-cta-b-comente-222` | “Send this to yourself. Comment 222 so I know you did it…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora30-IMG` | imagem 1 do vídeo (folha de louro com o símbolo de Vênus, entrada de garagem ao entardecer) | **serve também ao nora31, nora32 e nora33 (série do S3)** | aprovada |
+| `nora30-IMG` | imagem 1 A (cozinha à noite, geodo de ametista grande) | **serve também ao nora31** | a gerar |
 | `nora30-T1-gancho-touro-virgem-capricornio` | “Taurus, Virgo, or Capricorn. Keep your mouth shut after watching this…” | só deste vídeo | a gerar |
-| `nora30-T2-corpo-nao-sei-seu-nome` | “I do not know your name, but do not scroll…” | **corpo da série: serve ao nora31, 32 e 33** | a gerar |
+| `nora30-T2-corpo-nao-sei-seu-nome` | “I do not know your name, but do not scroll… The love portal has opened.” | **corpo da série: serve ao nora31, 32 e 33** | a gerar |
 | `nora30-T3-corpo-homem-guardado` | “The man the universe kept for you is finally being released…” | corpo da série | a gerar |
 | `nora30-T4-corpo-universo-escolheu` | “The universe has chosen you. If you skip now, the energy breaks…” | corpo da série | a gerar |
 | `nora30-T5-corpo-bloqueio-de-amor` | “The love block that was cast on you is going straight back…” | corpo da série | a gerar |
@@ -82,6 +82,8 @@ O número do vídeo é a ordem de postagem na conta: **nora01 a nora29 já foram
 | `nora30-T7-corpo-dois-selos` | “That will be your first seal. Double tap quickly on your screen…” | corpo da série | a gerar |
 | `nora30-T8-cta-a-comente-222-story` | “Type 222 so I can see you did everything. Tap my profile picture…” | CTA da série | a gerar |
 | `nora30-T9-cta-b-parte-dois` | “The second part of this sign is waiting for you there. Don't leave without it.” | CTA da série | a gerar |
+| `nora32-IMG` | imagem 1 B (varanda em dia nublado, quartzo rosa grande) | **serve também ao nora33** | a gerar |
+| `nora32-T2` a `nora32-T9` | o mesmo corpo do nora30 (9 takes), com a imagem B | corpo e CTA da série, serve ao nora33 | a gerar |
 | `nora31-T1-gancho-aries-leao-sagitario` | “Aries, Leo, or Sagittarius. Keep your mouth shut…” | só deste vídeo | a gerar (só este take) |
 | `nora32-T1-gancho-gemeos-libra-aquario` | “Gemini, Libra, or Aquarius. Keep your mouth shut…” | só deste vídeo | a gerar (só este take) |
 | `nora33-T1-gancho-cancer-escorpiao-peixes` | “Cancer, Scorpio, or Pisces. Keep your mouth shut…” | só deste vídeo | a gerar (só este take) |

@@ -1,6 +1,6 @@
-# nora30 a nora33 — SÉRIE DO S3 (Soulmate por signos): corpo copiado do viral, 9 takes (21/10/2026)
+# nora30 a nora33 — SÉRIE DO S3 (por signos): corpo copiado do viral, 9 takes (21/10/2026)
 
-Status: **PARA PRODUZIR** (decisão do aluno em 21/10/2026, depois da conversa com o Eduardo Pinaffi: "do nora30 em diante, copiar o corpo inteiro, mudar uma palavra ou outra"). Persona: **Nora v2** (a IMAGEM 1 do nora30, com a folha de louro, já aprovada). Funil: o link ainda abre o **Soulmate** (P37); o S3 é um corpo de Soulmate, então a fala é congruente com o link de hoje. Falas em inglês dos EUA. **Sem pré-gancho** (teste P30). Os roteiros de cold reading que existiam para estes números ficaram guardados em `RESERVA-ROTEIRO-*.md`.
+Status: **PARA PRODUZIR** (decisão do aluno em 21/10/2026, depois da conversa com o Eduardo Pinaffi: "do nora30 em diante, copiar o corpo inteiro, mudar uma palavra ou outra"). Persona: **Nora v2**, com um **cristal grande na mão** como nos virais. Duas imagens: a **IMAGEM A** (cozinha à noite, geodo de ametista de uns 18 cm, blusa verde-esmeralda) serve ao nora30 e ao nora31; a **IMAGEM B** (varanda em dia nublado, cristal de quartzo rosa de uns 15 cm, blusa azul-marinho) serve ao nora32 e ao nora33. Funil: o link ainda abre o **Soulmate** e vai mudar para o Love Chart em data desconhecida (P37); por isso a fala ficou neutra (“love portal”), sem prometer nada do quiz, e vale para os dois. Falas em inglês dos EUA. **Sem pré-gancho** (teste P30). Os roteiros de cold reading que existiam para estes números ficaram guardados em `RESERVA-ROTEIRO-*.md`.
 
 ## Leitura obrigatória (registro)
 21/10/2026: antes de reescrever (a pedido do aluno) reli neste turno e nesta sessão, com a ferramenta de leitura: `CLAUDE.md` (P1 a P37, recarregado), `LICOES-FLOW-E-PROMPTS.md`, `BIBLIOTECA-VIDEOS-VIRAIS.md` (as seções 13 a 19 do viral S3/w3 a w5 e a nova seção 20 com a transcrição inteira feita hoje), `BIBLIOTECA-DE-TAKES.md`, `PROJETO-Dana.md`, `BRIEFING-LOVECHART.md`, `DNA Visual - Nora v2.md`, `GUIA-CREATIVE-HUB.md`, `PAPEL-AGENTE-FLOW.md`, `CHECKLIST-DE-PRODUCAO.md`, `Prompts.txt`, `EXEMPLO-ROTEIRO-APROVADO-FIGADO.md`, `EXEMPLO-PACOTE-FIGADO.md`, `PASSO-A-PASSO-NORA25-28.md`, `PASSO-A-PASSO-NORA29-30.md`, `PLANO-CREDITOS-NORA29-30.md`, `STORY-NORA25-28-LOVECHART.md`, os métricas e o chat com o Eduardo. **Não reabri neste turno:** `hooks.md`, `Formatos Narrativos…`, `Exemplos de Roteiros…`, `ctas.md`, `COMUNICACAO-VISCERAL…`, `BIBLIOTECA-BODIES/COLD-READING/COPY/COPY-100/PRE-GANCHOS`, `PESQUISA-PUBLICO.md` (lidos inteiros hoje, às 15h32 da sessão, antes de montar os roteiros do nora31 e nora32), os planos de créditos antigos, os DNAs da Dana e da Nora v1, os roteiros antigos e o `PAINEL-MODELO.html`. O corpo deste vídeo é uma cópia do viral S3, a pedido do aluno; não é um roteiro novo. Teste de 20/10/2026 (aprovado pelo aluno): este vídeo NÃO tem pré-gancho; começa direto no Take 1, com o texto do hook no segundo 0.
@@ -8,7 +8,7 @@ Status: **PARA PRODUZIR** (decisão do aluno em 21/10/2026, depois da conversa c
 ## Base do curso usada (registro)
 - **Modelo:** o viral **S3** (avatar dos signos, "Soulmate por signos", 58 s, 175 palavras), transcrito hoje com whisper (seção 20 e 21 de `BIBLIOTECA-VIDEOS-VIRAIS.md`); os três vídeos irmãos w3, w4 e w5 têm o mesmo corpo palavra por palavra e só mudam signos, data e objeto: é a **série por signos**.
 - **Gancho:** signos + "Keep your mouth shut after watching this" + "Not everyone will see this before [data]" (S3, w3 a w5). A data de cada vídeo é a do dia seguinte à postagem.
-- **Corpo:** S3, com poucas mudanças: (1) "The universe chose you" virou "The universe has chosen you" (a Central junta frases curtas se não); (2) tirei "right now" de duas frases para caber em 22 palavras por take; (3) o fecho "the second part of this sign is waiting for you there" ficou num take curto de 8 s, com "Don't leave without it" (biblioteca, seção 15, item 7).
+- **Corpo:** S3, com poucas mudanças: (1) "The soulmate portal has opened" virou "The love portal has opened" (serve ao Soulmate e ao Love Chart); (2) "The universe chose you" virou "The universe has chosen you" (a Central junta frases curtas se não); (3) tirei "right now" de duas frases para caber em 22 palavras por take; (4) o fecho "the second part of this sign is waiting for you there" ficou num take curto de 8 s, com "Don't leave without it" (biblioteca, seção 15, item 7).
 - **CTA:** os selos do S3 (salvar, toque duas vezes), o código **222** e "tap my profile picture and check my stories" (w1 a w9, S3).
 - **P15/P20 usados:** escassez, ameaça ("if you skip now, the energy breaks"), prazo (sete minutos), destino ("the man the universe kept for you is finally being released"), data. **Fora:** depoimento, número de atendidas, celebridade, preço, app, comissão, afiliado, parente falecido, dinheiro como tema.
 
@@ -18,11 +18,11 @@ Dá para imaginar uma cena em cada fala (o portal que se abre, o homem sendo lib
 ## Como é a série
 | Vídeo | Postagem | Signos e data | Hashtag | Código | O que gerar |
 |---|---|---|---|---|---|
-| nora30 | 21/10 18h30 | Touro, Virgem, Capricórnio · "before Thursday, October 22nd" | com | 222 | os 9 takes (T1 a T9) |
-| nora31 | 21/10 21h30 | Áries, Leão, Sagitário · "before Thursday, October 22nd" | sem | 222 | só o Take 1 (corpo do nora30) |
-| nora32 | 22/10 18h30 | Gêmeos, Libra, Aquário · "before Friday, October 23rd" | com | 222 | só o Take 1 |
-| nora33 | 22/10 21h30 | Câncer, Escorpião, Peixes · "before Friday, October 23rd" | sem | 222 | só o Take 1 |
-Créditos: nora30 = 8 × 15 + 12 = 132; cada gancho novo = 15; total 177. **Aviso:** 18h30 nunca foi testado (17h32 deu 54,8% de Índia; 20h15 e 21h45 deram 16%). Anotar o resultado do nora30 e do nora32 nas métricas.
+| nora30 | 21/10 18h30 | Touro, Virgem, Capricórnio · "before Thursday, October 22nd" | com | 222 | IMAGEM A + os 9 takes (T1 a T9) |
+| nora31 | 21/10 21h30 | Áries, Leão, Sagitário · "before Thursday, October 22nd" | sem | 222 | só o Take 1 (imagem A e corpo do nora30) |
+| nora32 | 22/10 18h30 | Gêmeos, Libra, Aquário · "before Friday, October 23rd" | com | 222 | IMAGEM B + os 9 takes (T1 a T9) |
+| nora33 | 22/10 21h30 | Câncer, Escorpião, Peixes · "before Friday, October 23rd" | sem | 222 | só o Take 1 (imagem B e corpo do nora32) |
+Créditos: nora30 = 132; nora31 = 15; nora32 = 132; nora33 = 15; total **294** (de 469; sobram 175). **Aviso:** 18h30 nunca foi testado (17h32 deu 54,8% de Índia; 20h15 e 21h45 deram 16%). Anotar o resultado do nora30 e do nora32 nas métricas.
 
 ## Takes (a fala inteira vai de uma vez na Central; o site divide em takes)
 ### Take 1/9 — Gancho (signos + data) — 10 s (20 palavras)
@@ -34,8 +34,8 @@ Créditos: nora30 = 8 × 15 + 12 = 132; cada gancho novo = 15; total 177. **Avis
 ### Take 2/9 — Segredo e escassez (não é para todos) — 10 s (20 palavras)
 **Nome do arquivo:** `nora30-T2-corpo-nao-sei-seu-nome`
 **Visual:** Ela mantém um olhar firme e sério para a lente.
-**Fala:** "I do not know your name, but do not scroll. This is a final warning. The soulmate portal has opened."
-(PT: Eu não sei o seu nome, mas não role a tela. Este é um aviso final. O portal da alma gêmea se abriu.)
+**Fala:** "I do not know your name, but do not scroll. This is a final warning. The love portal has opened."
+(PT: Eu não sei o seu nome, mas não role a tela. Este é um aviso final. O portal do amor se abriu.)
 
 ### Take 3/9 — O homem que o universo guardou — 10 s (20 palavras)
 **Nome do arquivo:** `nora30-T3-corpo-homem-guardado`
@@ -85,3 +85,6 @@ Créditos: nora30 = 8 × 15 + 12 = 132; cada gancho novo = 15; total 177. **Avis
 - `nora33-T1-gancho-cancer-escorpiao-peixes`: "Cancer, Scorpio, or Pisces. Keep your mouth shut after watching this. Not everyone will see this before Friday, October 23rd."
 
 As linhas de movimentação (uma por take) estão nos painéis, escritas para a IMAGEM 1 aprovada do nora30.
+
+## Corpo do nora32 e do nora33
+O corpo do nora32 tem os mesmos 9 takes (nomes `nora32-T2…T9`) e o nora33 reusa esse corpo com o Take 1 novo (`nora33-T1-gancho-cancer-escorpiao-peixes`).
