@@ -31,3 +31,5 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
   A configuração de idade mínima de 25 anos para a Índia funciona: o nora27 (77% de Índia) tem só 2,4% de 18 a 24, e a Índia que sobra é adulta (84% de 25 a 44). O nora25 (público mais americano) tem público mais velho (58% de 35 anos ou mais).
 
 - **Música (aluno, 21/10/2026):** o mesmo áudio do nora01 ao nora28: "Ambient Mystical Drone" (biblioteca do CapCut), o vídeo todo, a −18 dB. Constante em todas as métricas, não é variável. O nora29 e o nora30 seguem igual. Teste com × sem música: só depois do teste do pré-gancho, em 2 vídeos do mesmo tipo. Conferir se a faixa é de uso comercial.
+
+- **Horário do nora30 (21/10/2026):** o nora29 saiu às 21h45 de 20/10, então o nora30 NÃO vai no mesmo dia (15 min depois). Novo plano: nora30 em 21/10 às 19h30 BRT (3h30 na Índia, dentro da janela 19h a 21h30). Anotar o horário real nas métricas; o par com o nora28 (17h32) já tem horário diferente de qualquer jeito, então comparar pela retenção nos 3 s no mesmo tempo de vida.
