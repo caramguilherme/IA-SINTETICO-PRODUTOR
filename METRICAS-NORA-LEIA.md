@@ -57,3 +57,5 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **Comentários (aluno, 21/10/2026):** quase todos os comentários da conta são do próprio aluno (o comentário fixado que leva ao story, 1 por vídeo). **O "1 comentário" de cada vídeo e os 24 comentários recentes da página não contam como engajamento real.** Engajamento orgânico real até agora: praticamente zero (algumas curtidas soltas). Não usar a coluna de comentários nem o engajamento do Face para comparar vídeos.
 
 - **21/10/2026 11h56:** nora25 no Instagram com ~39h41: 119 views, 112 viewers, skip 75,0%, tempo médio 4 s, 0 follows; países e idade iguais à leitura anterior (EUA 25,2%, Índia 16,0%, Canadá 10,1%, Reino Unido 8,4%, Holanda 3,4%). Parado.
+
+- **21/10/2026 11h59:** nora26 no Instagram com ~27h24: 116 views, 111 viewers, skip 66,7%, tempo médio 4 s, 1 curtida, 0 follows; Índia 62,9%, EUA 3,4%, Sri Lanka 3,4%, Austrália 2,6%, Irã 2,6%. Idade: 25-34 46,6%, 35-44 26,7%, 45-54 13,8%, 18-24 7,8%, 55-64 2,6%, 65+ 1,7%, 13-17 0,9%.
