@@ -6,7 +6,7 @@ Toda imagem e todo take do projeto tem um **nome**. O nome serve para renomear o
 O aluno comprou **1000 créditos** no Google por US$ 1 e eles já entraram. **Créditos não são mais um limite:** cada vídeo é gerado completo (pré-gancho com rosto, gancho, corpo e o CTA dele), com os melhores roteiros possíveis. O reaproveitamento acontece **depois**, peça por peça, conforme eu for decidindo.
 
 ## Numeração (decisão do aluno, 19/10/2026)
-O número do vídeo é a ordem de postagem na conta: **nora01 a nora26 já foram postados** (nora23 = R004, nora24 = R005, nora25 em 19/10/2026 às 20h15, nora26 em 20/10/2026 às 8h35). Em 20/10/2026 saem nora27 (13h30), nora28 (17h), nora29 (19h) e nora30 (21h). O próximo é **nora31**, e assim por diante. A partir daqui o código é sempre `noraNN`.
+O número do vídeo é a ordem de postagem na conta: **nora01 a nora29 já foram postados (nora29 em 20/10/2026 às 21h45, sem pré-gancho, Insta e Face)** (nora23 = R004, nora24 = R005, nora25 em 19/10/2026 às 20h15, nora26 em 20/10/2026 às 8h35). Em 20/10/2026 saem nora27 (13h30), nora28 (17h), nora29 (19h) e nora30 (21h). O próximo é **nora31**, e assim por diante. A partir daqui o código é sempre `noraNN`.
 
 ## Como nomear
 - Pré-gancho: `noraNN-PRE-IMG1` (imagem inicial), `noraNN-PRE-IMG2` (imagem final), `noraNN-PRE` (vídeo).
