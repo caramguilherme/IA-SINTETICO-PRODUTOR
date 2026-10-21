@@ -287,3 +287,6 @@ Proxy atual da Nora: Proxy-Cheap, provedor Astound, IP 168.235.144.192, Los Ange
 - **GeeLark lento:** trocar a proxy (o score cai com o tempo, Coelho e Yuka) ou mudar o celular para Android 16 (Lucas Mascarenhas, mod); a Stefany usa Proxy-Cheap com Android 15 e diz que está suave, e mandou falar com o suporte.
 - **Meta Business Suite:** a flag de IA fica no perfil, não precisa marcar post por post. Insta pedindo RG: o Vitor Kretzer descarta a conta.
 - **Outros:** HeyGen limitou as prévias grátis a umas 30 por mês; Risely pode sair neste fim de semana só para quem for ao evento (notícia na semana que vem); Soulmate: Ryan Soares diz que nada converte, com várias contas e avatares, sem números; no Plano, a fonte para copy citada foi o Claude (melhor em copy) e o GPT (sem restrições).
+
+### 21/10/2026 - Congruência confirmada pelo aluno
+O aluno abriu o link do story: ainda abre o Soulmate. Os Take 4 e 7 do nora30, nora31 e nora32 foram reescritos para prometer só o que serve aos dois quizzes (regra P37 no CLAUDE.md). Face: 29 posts com 14 a 70 views (só o nora01 passou de 200) e distribuição ~0; GeeLark segue lento aguardando o suporte.

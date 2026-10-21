@@ -77,28 +77,28 @@ O número do vídeo é a ordem de postagem na conta: **nora01 a nora29 já foram
 | `nora30-T1-gancho-quarto-sinal` | “American women, this is the fourth time the universe has tried to reach you…” | só deste vídeo | a gerar |
 | `nora30-T2-corpo-rele-a-noite` | “It's not in your head. At night he rereads your messages…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora30-T3-corpo-padrao-venus` | “It's not bad luck, and it's not you. In astrology, hot and cold is a pattern…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora30-T4-corpo-steady-heart-story` | “Some Venus patterns chase the spark. Others, like The Steady Heart…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
+| `nora30-T4-corpo-faisca-story` | “Some women chase the spark. Others need someone who stays. Tap my photo…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora30-T5-corpo-sem-adivinhar` | “Picture a love that doesn't make you guess…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora30-T6-corpo-nao-espera` | “If you scroll past this, I can't send it again…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora30-T7-cta-a-quiz-venus` | “Part two is waiting in my story. A free astrology quiz finds your Venus…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
+| `nora30-T7-cta-a-quiz-venus` | “Part two is in my story. A free quiz shows who your person might be…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora30-T8-cta-b-comente-444` | “Save this video now. Comment 444 so I know you saw it…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora31-IMG` | imagem 1 do vídeo (Central de imagens; cozinha à noite, coração de quartzo rosa) | variações do mesmo kit, se performar | a gerar |
 | `nora31-T1-gancho-nunca-foi-seu` | “Wipe your tears, American woman. The man who keeps leaving was never your person…” | só deste vídeo | a gerar |
 | `nora31-T2-corpo-so-escreve-de-noite` | “He only texts you late at night. Then he's gone for days…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora31-T3-corpo-nao-e-demais` | “You're not too much for any man. In astrology, your Venus pattern decides who stays…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora31-T4-corpo-padrao-tem-nome-story` | “Your pattern has a name that explains why he keeps leaving. Tap my photo right now…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
+| `nora31-T4-corpo-motivo-story` | “There is a reason the same men keep leaving. Tap my photo…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora31-T5-corpo-amor-de-dia` | “Imagine a love that shows up in daylight…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora31-T6-corpo-nao-e-para-todos` | “This message is not for everyone…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora31-T7-cta-a-quiz-venus` | “Your next step is in my story. A free astrology quiz finds your Venus…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
+| `nora31-T7-cta-a-quiz-venus` | “Your next step is in my story. A free quiz shows who your person might be…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora31-T8-cta-b-comente-333` | “Send this to yourself. Comment 333…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora32-IMG` | imagem 1 do vídeo (Central de imagens; varanda de dia nublado, chave de latão com fita vermelha) | variações do mesmo kit, se performar | a gerar |
 | `nora32-T1-gancho-ultimo-sinal` | “American woman, this is the last sign the universe will send you about him…” | só deste vídeo | a gerar |
 | `nora32-T2-corpo-ex-e-tedio` | “He still talks about his ex. He only calls when he's bored…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora32-T3-corpo-mesmo-homem` | “This isn't bad luck or coincidence. In astrology, choosing the same man again…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora32-T4-corpo-espera-pelo-celular-story` | “There's a pattern that keeps you waiting by the phone. It has a name. Tap my photo…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
+| `nora32-T4-corpo-motivo-story` | “There's a reason you keep waiting by the phone. Tap my photo…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora32-T5-corpo-parar-de-esperar` | “Picture the day you stop waiting for his text…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora32-T6-corpo-historia-volta` | “Not everyone will see this video. If you scroll past it…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora32-T7-cta-a-quiz-venus` | “Part two is in my story. A free astrology quiz finds your Venus…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
+| `nora32-T7-cta-a-quiz-venus` | “Part two is in my story. A free quiz shows who your person might be…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora32-T8-cta-b-curta-777` | “Like this video now. Comment 777…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 
 ## Variações baratas (só gancho novo), se o nora25 virar kit campeão

@@ -6,6 +6,8 @@ Status: **PARA APROVAR.** Persona: **Nora v2**. Funil: **Love Chart** (link só 
 > **ATUALIZAÇÃO 20/10/2026 (foco no público americano):** o Take 1, o texto do topo e a legenda passaram a abrir com “American women”. O resto não mudou. A simulação do divisor continua dando exatamente 8 takes.
 > **ATUALIZAÇÃO 21/10/2026 (a pedido do aluno: "faça o melhor que achar"), com base nas métricas e na Oficina de hooks:** (1) Take 2 virou um cold reading específico e emocional ("à noite ele relê as suas mensagens, mas de manhã ele fica frio"), no molde do exemplo do Gustavo; (2) Take 4 passou a trazer um **pedido do story a meio do vídeo** ("Tap my photo to find yours"), porque o tempo médio é de 2 a 7 s e quase ninguém chega ao CTA do fim (3 views do story em ~8 h); o CTA do fim continua; (3) horário: 21/10 às 19h30. O resto não mudou (Take 1 e o hook do B4V "you were right about him", Take 3, 5, 6, 7 e 8).
 
+> **ATUALIZAÇÃO 21/10/2026 (congruência com o link):** o aluno confirmou que o link do story AINDA abre o quiz do **Soulmate**. Por isso o Take 4 e o Take 7 deixaram de prometer Vênus e nome do padrão e passaram a prometer algo que serve aos dois quizzes (“free quiz”, “who your person might be”, “when love might find you”, sempre com “might”). O corpo (Take 2, 3, 5 e 6) continua com a astrologia como explicação, sem prometer nada do quiz. Quando o Love Chart entrar no ar, o Take 7 pode voltar à versão do Vênus.
+
 ## Leitura obrigatória (registro)
 20/10/2026: antes de escrever li, com a ferramenta de leitura e inteiros, neste turno: `CLAUDE.md` (recarregado no início do turno, com P1 a P29), `00-LEIA-PRIMEIRO.md`, `PROJETO-Dana.md`, `BRIEFING-LOVECHART.md` (com a call do Gustavo de 19/10), `LICOES-FLOW-E-PROMPTS.md`, `hooks.md` (com a seção 7), `Formatos Narrativos - Problema e Cenario.md`, `Exemplos de Roteiros - 2 Formatos.md`, `ctas.md`, `COMUNICACAO-VISCERAL-E-FALADA.md`, `BIBLIOTECA-BODIES.md`, `BIBLIOTECA-COLD-READING.md`, `BIBLIOTECA-COPY.md`, `BIBLIOTECA-COPY-100-ROTEIROS.md` (as duas partes), `PESQUISA-PUBLICO.md`, `BIBLIOTECA-VIDEOS-VIRAIS.md` (inteiro, com a seção 19 do lote de 20/10), `BIBLIOTECA-PRE-GANCHOS.md`, `BIBLIOTECA-DE-TAKES.md`, o `ROTEIRO-NORA26` (modelo de formato), o início do `ROTEIRO-NORA28` e as métricas dos campeões B3, C4 e B4V. **Ainda não li neste turno** os arquivos de produção (`Prompts.txt`, `CHECKLIST-DE-PRODUCAO.md`, `PAPEL-AGENTE-FLOW.md`, `GUIA-CREATIVE-HUB.md`, `PLANO-CREDITOS-*`, `PASSO-A-PASSO-*`, `EXEMPLO-*`, `PAINEL-MODELO.html`, `DNA Visual - Nora v2.md`, `REGISTRO-DE-PERSONAS.md`, os roteiros R001 a nora25 e os de reserva): serão lidos na Fase 2, antes de qualquer prompt ou painel, e o painel registra isso.
 **Conferência da seção 9 de COMUNICACAO-VISCERAL e do hook visual:** dá para imaginar uma cena concreta só ouvindo cada fala: sim; soa como conversa (frases curtas, segunda pessoa): sim; a espectadora reconhece uma situação real (reler a conversa, o homem quente na segunda e frio na sexta), não um desejo genérico: sim; o benefício preserva o alcance do fato (o quiz “encontra o Vênus, dá nome ao padrão e mostra o par perfeito”; a Nora não diz que a pessoa existe nem que o amor chega): sim; nenhum depoimento, número de atendidas, preço ou celebridade inventado; o prazo, a data e a escassez são liberados (P15 e P20): sim; os nomes de padrão (The Curious Heart, The Steady Heart) são resultados reais do quiz, segundo o briefing: sim; a promessa fica no story (P6): sim; cada fala tem de 19 a 22 palavras e a simulação do divisor da Central gera exatamente as 8 cenas: sim.
@@ -56,10 +58,10 @@ Continuação do pré-gancho (P26): mesma roupa e mesmo cenário. Gerada na **Ce
 (PT: Não é azar, e não é você. Na astrologia, quente e frio é um padrão que depende do seu Vênus.)
 
 ### Take 4/8 — Nomes de padrão + pedido do story (a meio do vídeo) — 10 s (21 palavras)
-**Nome do arquivo:** `nora30-T4-corpo-steady-heart-story`
+**Nome do arquivo:** `nora30-T4-corpo-faisca-story`
 **Visual:** Ela ergue um dedo e depois dois com a mão esquerda, e termina com a palma aberta, oferecendo.
-**Fala:** "Some Venus patterns chase the spark. Others, like The Steady Heart, need someone who stays. Tap my photo to find yours."
-(PT: Alguns padrões de Vênus perseguem a faísca. Outros, como The Steady Heart, precisam de alguém que fica. Toque na minha foto para achar o seu.)
+**Fala:** "Some women chase the spark. Others need someone who stays. Tap my photo to take the free love quiz in my story."
+(PT: Algumas mulheres perseguem a faísca. Outras precisam de alguém que fica. Toque na minha foto para fazer o quiz grátis de amor no meu story.)
 
 ### Take 5/8 — Desejo (amor sem adivinhar) — 10 s (21 palavras)
 **Nome do arquivo:** `nora30-T5-corpo-sem-adivinhar`
@@ -76,8 +78,8 @@ Continuação do pré-gancho (P26): mesma roupa e mesmo cenário. Gerada na **Ce
 ### Take 7/8 — 6A (o story) — 10 s (22 palavras)
 **Nome do arquivo:** `nora30-T7-cta-a-quiz-venus`
 **Visual:** Ela abre a palma esquerda para a lente, com um meio sorriso.
-**Fala:** "Part two is waiting in my story. A free astrology quiz finds your Venus, names your pattern and shows your perfect match."
-(PT: A parte dois está esperando no meu story. Um quiz grátis de astrologia descobre o seu Vênus, dá nome ao seu padrão e mostra o seu par perfeito.)
+**Fala:** "Part two is in my story. A free quiz shows who your person might be and when love might find you."
+(PT: A parte dois está no meu story. Um quiz grátis mostra quem pode ser a sua pessoa e quando o amor pode te encontrar.)
 
 ### Take 8/8 — 6B (selo, código e story) — 10 s (22 palavras)
 **Nome do arquivo:** `nora30-T8-cta-b-comente-444`
