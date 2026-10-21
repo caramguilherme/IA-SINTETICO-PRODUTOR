@@ -45,3 +45,5 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **21/10/2026 01h28:** nora27 no Instagram com ~11h43: 159 views, 148 viewers, tempo médio 7 s, 1 comentário, 0 follows; selo do Instagram "strong hook" (passaram dos 3 s). Índia 65,8%, Turquia 12,0%, Reino Unido 3,8%, Paquistão 2,5%, Grécia 1,9%. Idade: 25-34 47,5%, 35-44 31,6%, 45-54 10,8%, 18-24 4,4%, 65+ 4,4%, 55-64 1,3%.
 
 - **21/10/2026 01h29:** nora28 no Instagram com ~7h57: 103 views, 101 viewers, skip 76,2% (era 82,7% às 4h27), tempo médio 2 s, 1 comentário, 0 follows; países e idade indisponíveis (menos de 100 contas interagiram).
+
+- **21/10/2026 01h28 (complemento):** nora27 skip 35,3% (ret. 3 s 64,7%), informado pelo aluno.
