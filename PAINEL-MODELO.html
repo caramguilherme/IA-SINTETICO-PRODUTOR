@@ -411,9 +411,9 @@ function montar(silencio){
     p.videos.forEach((v,i)=>{(p.central?['cena','duracao','primeiro_quadro','fala','movimentacao']:['cena','duracao','primeiro_quadro','acao','fala']).forEach(k=>{if(v[k]===undefined||v[k]==='')throw new Error('O vídeo '+(i+1)+' está sem "'+k+'".')})});
     if(!p.perfil||!/^Voz (feminina|masculina) adulta (brasileira|americana)/.test(p.perfil.voz||''))throw new Error('Falta "perfil.voz" ("Voz feminina|masculina adulta brasileira natural e espontânea.").');
     const n=p.videos.length;
-    if(p.central?(n<2||n>8):(n!==6&&n!==7))throw new Error('O pacote tem '+n+' vídeos; o método usa 6 (5 cenas) ou 7 (6 cenas).');
+    if(p.central?(n<1||n>12):(n!==6&&n!==7))throw new Error('O pacote tem '+n+' vídeos; o método usa 6 (5 cenas) ou 7 (6 cenas).');
     p.videos.forEach((v,i)=>{if([4,6,8,10].indexOf(Number(v.duracao))<0)throw new Error('O vídeo '+(i+1)+' tem duração '+v.duracao+'; só 4, 6, 8 ou 10 s.')});
-    const N=n-1,a=p.videos[n-2].cena,b=p.videos[n-1].cena;
+    const N=n-1,a=n>1?p.videos[n-2].cena:'',b=p.videos[n-1].cena;
     if(!p.central&&(a!==N+'A/'+N||b!==N+'B/'+N))throw new Error('Os dois últimos vídeos devem ser '+N+'A/'+N+' e '+N+'B/'+N+' (CTA).');
     if(!/IMAGEM 1/.test(p.videos[0].primeiro_quadro))throw new Error('O V1 (hook) deve usar a IMAGEM 1 como primeiro quadro.');
     pk=p;
