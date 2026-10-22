@@ -19,7 +19,7 @@ Dá para imaginar uma cena em cada fala (o portal que se abre, o homem sendo lib
 | Vídeo | Postagem | Signos e data | Hashtag | Código | O que gerar |
 |---|---|---|---|---|---|
 | nora30 | 21/10 18h30 | Touro, Virgem, Capricórnio · "before Thursday, October 22nd" | com | 222 | IMAGEM A + os 9 takes (T1 a T9) |
-| nora31 | 21/10 21h30 | Áries, Leão, Sagitário · "before Thursday, October 22nd" | sem | 222 | só o Take 1 (imagem A e corpo do nora30) |
+| nora31 | 22/10 (a definir, entre 18h30 e 21h45) | Áries, Leão, Sagitário | com | 222 | **pré-gancho do curativo na calcinha (2 tomadas, só mãos) + IMAGEM C (a Nora segura a calcinha com o curativo, com as duas mãos) + os 9 takes** |
 | nora32 | 22/10 18h30 | Gêmeos, Libra, Aquário · "before Friday, October 23rd" | com | 222 | IMAGEM B + os 9 takes (T1 a T9) |
 | nora33 | 22/10 21h30 | Câncer, Escorpião, Peixes · "before Friday, October 23rd" | sem | 222 | só o Take 1 (imagem B e corpo do nora32) |
 Créditos: nora30 = 132; nora31 = 15; nora32 = 132; nora33 = 15; total **294** (de 469; sobram 175). **Aviso:** 18h30 nunca foi testado (17h32 deu 54,8% de Índia; 20h15 e 21h45 deram 16%). Anotar o resultado do nora30 e do nora32 nas métricas.
@@ -88,3 +88,11 @@ As linhas de movimentação (uma por take) estão nos painéis, escritas para a 
 
 ## Corpo do nora32 e do nora33
 O corpo do nora32 tem os mesmos 9 takes (nomes `nora32-T2…T9`) e o nora33 reusa esse corpo com o Take 1 novo (`nora33-T1-gancho-cancer-escorpiao-peixes`).
+
+## ATUALIZAÇÃO 22/10/2026 — nora31 com o pré-gancho dos virais w1 e w2 (pedido do aluno)
+Depois da conversa com o Adão (o hook visual é o que decide a entrega e precisa de um diferencial), o aluno pediu para copiar o pré-gancho do **curativo colado numa calcinha de renda vermelha** (w1 e w2), "igualzinho". Nos virais **só aparecem as mãos e depois a mulher segurando a calcinha** (ela não a veste); o mesmo vale aqui.
+- **Pré-gancho (2 tomadas de 4 s, só as mãos da Nora, com corte seco, uns 5 s no total):** (1) as duas mãos rasgam o invólucro e tiram o curativo; (2) a mão cola o curativo no centro da calcinha vermelha de cetim e renda e alisa. Texto no topo: "What the hell did you just do?". 4 imagens (A, B, C, D) e 2 vídeos em Frames; 14 créditos.
+- **IMAGEM 1 nova (Central de imagens):** a Nora (suéter marfim, sala americana ao entardecer, bandeirinha na parede) segura a calcinha com o curativo, com as **duas mãos**, na frente do peito, e fala assim o vídeo todo (como nos virais). Por isso o corpo é gerado de novo (132 créditos); a imagem A do nora30 não serve.
+- **Take 1:** "What the hell did you just do? Aries, Leo, or Sagittarius. Keep your mouth shut after watching this." (18 palavras; sem a data). O corpo (Takes 2 a 9) é o mesmo texto do nora30.
+- **Créditos:** nora31 = 14 + 132 = 146. Total da série: nora30 132 + nora31 146 + nora32 132 + nora33 15 = 425; saldo antes: 469; sobram 44.
+- Risco do tema (roupa íntima): a regra do projeto libera (P15); o aluno decide; a restrição de anúncios dele é só da conta de anúncios do perfil pessoal do Facebook, não da Página nem do Instagram.

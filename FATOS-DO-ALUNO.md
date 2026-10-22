@@ -32,3 +32,6 @@ Regra (P38, 22/10/2026): tudo que o aluno confirmar fica aqui no mesmo turno. Nu
 - Eduardo Pinaffi (aluno MVM, 21/10): o problema é gancho e copy, modelar o que já funciona, garimpar em outra conta, 2 vídeos por dia; testar 2 de 5 vídeos só com texto na tela (textos de perfis reais).
 - Adão Gomes (aluno MVM, 22/10): poucas views ainda para ter clique; destravar views primeiro, esquecer cliques e vendas; o hook é a parte principal da entrega e precisa de um diferencial; modelar hooks em alta agora.
 - Série do S3 (nora30 a nora33): corpo copiado do viral S3; nora30 e nora31 com a imagem A (geodo), nora32 e nora33 com a imagem B (quartzo rosa).
+
+## Decisões de 22/10/2026
+- Adão: o hook visual precisa de um diferencial. O aluno pediu para copiar, **igualzinho, o pré-gancho do curativo colado na calcinha de renda vermelha** (virais w1 e w2: só mãos e depois a mulher segurando a calcinha; ela NÃO veste a calcinha). nora31 = esse pré-gancho + corpo do S3 (imagem C, duas mãos seguram a calcinha com o curativo).

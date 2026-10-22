@@ -84,7 +84,10 @@ O número do vídeo é a ordem de postagem na conta: **nora01 a nora29 já foram
 | `nora30-T9-cta-b-parte-dois` | “The second part of this sign is waiting for you there. Don't leave without it.” | CTA da série | a gerar |
 | `nora32-IMG` | imagem 1 B (varanda em dia nublado, quartzo rosa grande) | **serve também ao nora33** | a gerar |
 | `nora32-T2` a `nora32-T9` | o mesmo corpo do nora30 (9 takes), com a imagem B | corpo e CTA da série, serve ao nora33 | a gerar |
-| `nora31-T1-gancho-aries-leao-sagitario` | “Aries, Leo, or Sagittarius. Keep your mouth shut…” | só deste vídeo | a gerar (só este take) |
+| `nora31-PRE-A` / `-PRE-B` / `-PRE-V1` / `-PRE-C` / `-PRE-D` / `-PRE-V2` | pré-gancho do curativo na calcinha (copiado dos virais w1 e w2, só mãos) | só deste vídeo | a gerar |
+| `nora31-IMG` | imagem 1 C (a Nora segura a calcinha com o curativo, duas mãos) | variações do mesmo gancho | a gerar |
+| `nora31-T1-gancho-o-que-voce-fez` | “What the hell did you just do? Aries, Leo, or Sagittarius…” | só deste vídeo | a gerar |
+| `nora31-T2` a `nora31-T9` | o mesmo corpo do nora30, gerado de novo com a imagem C | corpo da série | a gerar |
 | `nora32-T1-gancho-gemeos-libra-aquario` | “Gemini, Libra, or Aquarius. Keep your mouth shut…” | só deste vídeo | a gerar (só este take) |
 | `nora33-T1-gancho-cancer-escorpiao-peixes` | “Cancer, Scorpio, or Pisces. Keep your mouth shut…” | só deste vídeo | a gerar (só este take) |
 
