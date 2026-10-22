@@ -336,3 +336,8 @@ Ao juntar os takes (nora30, 9 takes) a ferramenta pede "Transição entre os ví
 - Ele **não gosta de repetir o mesmo gancho** (viu o aluno replicando muito) e sempre tenta criar novos.
 - O que já destravou contas dele algumas vezes: **trocar o avatar; trocar o formato da conta (POV, texto na tela, vídeos sem hook visual); copys mais curtas e copys mais longas**. Quando um desses acerta, é refazer na mesma pegada. Os formatos não são para ficar para sempre: servem para a conta "dar uma destravada", depois se varia.
 - O aluno disse que trocou a avatar há uns 6 vídeos, fez a verificação facial (que não derrubou a entrega) e que os vídeos de depois bateram 700 a 800 views; a média dos últimos está em 100 a 200.
+
+### 22/10/2026 - Feedback do Ricardo Santana (MVM) ao aluno, 10h51 a 10h53 (relato, não regra)
+- "O vídeo tá massa." Remover a **logo "Clideo.com"** (marca d'água da ferramenta que o aluno usou para comprimir o vídeo abaixo de 20 MB e enviar). Conferir que o arquivo postado NÃO tem essa marca.
+- Testar **hooks visuais novos** e **replicar o que teve mais views**; fazer mais **uma semana postando todo dia**, testando coisas novas. Se não viralizar, **trocar o avatar por uma pessoa mais velha e sem beleza de modelo** (palavras dele). Tem gente que deu certo com 80 vídeos, outros com mais ou menos; não desistir.
+- Quatro conselhos desta semana (Eduardo, Adão, Mattias, Ricardo) apontam o mesmo: hook visual novo e diferente, replicar o que performa, variar o formato, mais tempo de teste.
