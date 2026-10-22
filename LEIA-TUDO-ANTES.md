@@ -11,6 +11,7 @@ Decisão do aluno em 18/10/2026: **antes de TODO roteiro novo e antes de TODO pr
 
 ## A lista (todos, toda vez)
 **Regras e projeto**
+- `FATOS-DO-ALUNO.md` (o que o aluno já confirmou sobre contas, funil e infraestrutura; ler primeiro)
 - `CLAUDE.md` · `00-LEIA-PRIMEIRO.md` · `PROJETO-Dana.md` · `BRIEFING-LOVECHART.md` (funil ativo desde 19/10/2026) · `LICOES-FLOW-E-PROMPTS.md` · `DNA Visual - Dana.md` (R001 a R003, congelados) · `DNA Visual - Nora.md` (avatar a partir do R004) · `REGISTRO-DE-PERSONAS.md`
 
 **Método de roteiro e falas**
