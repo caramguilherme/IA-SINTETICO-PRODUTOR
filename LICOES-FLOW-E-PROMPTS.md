@@ -324,3 +324,9 @@ Ao juntar os takes (nora30, 9 takes) a ferramenta pede "Transição entre os ví
 - **Horário:** Mattias não vê horário certo e posta de noite e de madrugada, sem problema de Índia ("aqui não"); o aluno tem muita Índia fora da janela. "Tudo é teste", "um pouco de sorte também".
 - **Proxy:** Coelho e Yuka: proxy é para o celular separado que roda um Instagram; o Facebook não precisa de proxy e pode ser mexido no PC. Lucas Mascarenhas trocou o proxy de todas as contas e "deu boa" (lentidão do GeeLark); a IP Royal teve uma queda de manhã e voltou (Matheus Baffa). Descartar conta de Instagram sem views: pode manter o mesmo proxy para a próxima, trocando o celular (Mattias).
 - Manifestation só vale até 23/10 para quem não fez as 100 vendas (não é o nosso funil).
+
+### 22/10/2026 - Discord (parte 2, 10h a 10h32): horário, Índia, conta nova, avatar x POV
+- **Lana Gabi:** posta entre 17h e 21h desde o primeiro vídeo da conta, sem bandeira nem nada para fugir da Índia: 0% de Índia; o 2º vídeo bateu 1k, 63% EUA (Canadá, Reino Unido, Austrália e Irlanda nos outros países). Conselho dela ao aluno: "tenta em outra conta postando desde o início nessa faixa". **Mattias (M2M):** "desde o começo elas pegaram % baixa e se mantém até agora"; para uma conta com 9 vídeos e sem views ele descartaria ("sobe outra e marcha"); pode manter o proxy e trocar o celular. Tudo isso são relatos, não regras.
+- **Aluno (30 vídeos):** só uns 3 ou 4 acima de 1k, e foram os que mais deram Índia; "começando a achar que minha conta é uma bosta".
+- **Formato:** avatar é o que mais converte (Mattias); POV tem conversão bem menor (Bruno Freitas); texto na tela converte menos que POV (relato do Gustavo numa call, segundo o Bruno). Um aluno posta só POV e fez 20 mil em setembro.
+- Pergunta sem resposta no canal (Taques__): se o funil do Soulmate já foi trocado pelo Love Chart. Para nós ainda abre o Soulmate (FATOS-DO-ALUNO.md).
