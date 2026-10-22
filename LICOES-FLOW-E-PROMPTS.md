@@ -307,3 +307,8 @@ Dados que o aluno deu: 29 vídeos na conta (avatar antiga e a nova), média ~300
 
 ### 21/10/2026 - Ferramenta de corte de silêncio: "Juntar tudo num arquivo só"
 Ao juntar os takes (nora30, 9 takes) a ferramenta pede "Transição entre os vídeos" (marcada TESTE): Corte seco (sem transição), Fade, Fade para preto, Cortina, Círculo abrindo, Aleatória. Escolha: **Corte seco**, porque os virais são uma tomada só e o silêncio já é cortado; fade e cortina chamam atenção para a emenda. Se o aluno testar outra, anotar o resultado aqui.
+
+### 22/10/2026 - Por que os vídeos "não viralizam mais" (dados do CSV, Instagram)
+- Os 6 vídeos acima de 700 views (nora06 2.551, nora13 1.629, nora10 1.427, nora12 840, nora15 743; mais o nora03 com 244) tinham a **Índia como maior público (34% a 57%)**. Desde que o público passou a ser EUA/UK/Canadá (janela das 19h; nora25, 29, 30 com Índia ~16%), todos os vídeos param em ~105 a 120 views. O alcance de antes era da Índia, que não compra (quiz bloqueado lá).
+- Tempo médio de exibição de 2 a 7 s num vídeo de uns 65 a 90 s: ninguém chega aos selos (salvar, toque duas vezes) nem ao pedido do story, e por isso há 0 curtidas, 0 salvos e 0 compartilhamentos além do comentário do próprio aluno.
+- nora30: 110 views, 37,9% nos 3 s, 7 s de tempo médio, 1 follow (o primeiro). Hipótese para testar no nora31: pedido de engajamento fácil (curtir) já no Take 1.
