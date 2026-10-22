@@ -312,3 +312,8 @@ Ao juntar os takes (nora30, 9 takes) a ferramenta pede "Transição entre os ví
 - Os 6 vídeos acima de 700 views (nora06 2.551, nora13 1.629, nora10 1.427, nora12 840, nora15 743; mais o nora03 com 244) tinham a **Índia como maior público (34% a 57%)**. Desde que o público passou a ser EUA/UK/Canadá (janela das 19h; nora25, 29, 30 com Índia ~16%), todos os vídeos param em ~105 a 120 views. O alcance de antes era da Índia, que não compra (quiz bloqueado lá).
 - Tempo médio de exibição de 2 a 7 s num vídeo de uns 65 a 90 s: ninguém chega aos selos (salvar, toque duas vezes) nem ao pedido do story, e por isso há 0 curtidas, 0 salvos e 0 compartilhamentos além do comentário do próprio aluno.
 - nora30: 110 views, 37,9% nos 3 s, 7 s de tempo médio, 1 follow (o primeiro). Hipótese para testar no nora31: pedido de engajamento fácil (curtir) já no Take 1.
+
+### 22/10/2026 - Discord (vitórias-dólar de 21/10, colado pelo aluno)
+- Ricardo Santana (congruência entre story/DM e a página depois do link) e Wall Estevam (postar entre 17h e 21h, bandeira americana na parede, blusa com símbolo dos EUA, "tira pelo menos a retenção" da Índia): já aplicamos (P37, janela das 19h, bandeirinha no broche e no cenário).
+- Caio1094: "americanizar a copy" com palavras mais comuns nos EUA do que no inglês geral, pedindo a GPT ou Claude para adaptar; ele só começa a testar nos próximos vídeos. Luis Ordonio: limitar a entrega para maiores de 25 já não basta para barrar a Índia (já usamos idade mínima de 25).
+- Relatos de resultado de outros alunos: 100 vendas registradas por um aluno (Lucen), 1k de dólar por dia (Matheus Baffa, "uma hora por dia, todos os dias") e primeira venda de quem entrou na 2ª turma. Nenhum número de views ou de funil usado por eles.
