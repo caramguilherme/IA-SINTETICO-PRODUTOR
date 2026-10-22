@@ -330,3 +330,9 @@ Ao juntar os takes (nora30, 9 takes) a ferramenta pede "Transição entre os ví
 - **Aluno (30 vídeos):** só uns 3 ou 4 acima de 1k, e foram os que mais deram Índia; "começando a achar que minha conta é uma bosta".
 - **Formato:** avatar é o que mais converte (Mattias); POV tem conversão bem menor (Bruno Freitas); texto na tela converte menos que POV (relato do Gustavo numa call, segundo o Bruno). Um aluno posta só POV e fez 20 mil em setembro.
 - Pergunta sem resposta no canal (Taques__): se o funil do Soulmate já foi trocado pelo Love Chart. Para nós ainda abre o Soulmate (FATOS-DO-ALUNO.md).
+
+### 22/10/2026 - Conselho do Mattias (M2M) ao aluno, 10h32 a 10h44 (relato, não regra)
+- 30 vídeos é pouco e já teve alguns de 1k: "não tá tão ruim". Ele tem conta com 200 vídeos estagnada; não é só a conta do aluno.
+- Ele **não gosta de repetir o mesmo gancho** (viu o aluno replicando muito) e sempre tenta criar novos.
+- O que já destravou contas dele algumas vezes: **trocar o avatar; trocar o formato da conta (POV, texto na tela, vídeos sem hook visual); copys mais curtas e copys mais longas**. Quando um desses acerta, é refazer na mesma pegada. Os formatos não são para ficar para sempre: servem para a conta "dar uma destravada", depois se varia.
+- O aluno disse que trocou a avatar há uns 6 vídeos, fez a verificação facial (que não derrubou a entrega) e que os vídeos de depois bateram 700 a 800 views; a média dos últimos está em 100 a 200.
