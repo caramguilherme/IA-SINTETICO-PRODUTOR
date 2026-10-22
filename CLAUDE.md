@@ -1,3 +1,55 @@
+# HANDOFF (22/10/2026): leia esta seção primeiro. O resto do arquivo são as instruções do agente (P1 a P38), que continuam valendo.
+
+## 1. O que é o projeto
+Produção de conteúdo de uma influencer de IA, a **Nora (Nora Kensley, @norakensleytarot)**, em inglês dos EUA, para Instagram Reels e Facebook. O aluno (**Guilherme**, iniciante, brasileiro) é afiliado da Appyon/MVM Legacy: os vídeos levam ao story e a um quiz (hoje **Soulmate**; o **Love Chart** vai entrar no lugar, em data desconhecida) que vende um app. O agente (Claude) é o **agente editorial e de produção (chat 2 de 2)**: escreve roteiros, monta prompts de imagem e vídeo para o Google Flow e para a "Central do curso" (Creative Hub), e entrega **painéis HTML de copiar e colar**. Fala com o aluno em português, curto, decide e explica em 1 linha.
+
+## 2. Tecnologia e como rodar
+Não há app. Os "produtos" são **arquivos Markdown** (regras, roteiros, bibliotecas) e **painéis HTML estáticos** (`PAINEL-NORA30.html` a `33`, gerados de `PAINEL-MODELO.html` trocando a linha `const PACOTE = null;` por JSON). Abrir o HTML no navegador basta. Os painéis são publicados como Artifacts do claude.ai (links no fim). Ferramentas externas do aluno: Google Flow (vídeo/imagem), Central do curso, ferramenta de corte de silêncio "M2M FusionZ", CapCut, GeeLark (celulares na nuvem, com proxy), Meta Business Suite. Para regenerar painéis: `ferramentas-painel/` (ver `LEIA.md` lá; caminhos absolutos a ajustar).
+
+## 3. Arquivos principais
+- **Regras e memória:** este `CLAUDE.md`; `LEIA-TUDO-ANTES.md` (lista de leitura obrigatória antes de qualquer roteiro ou prompt); **`FATOS-DO-ALUNO.md` (ler primeiro: fatos já confirmados, nunca perguntar de novo)**; `LICOES-FLOW-E-PROMPTS.md` (lições do Flow, checklist de prompts, notas do Discord); `PROJETO-Dana.md` e `BRIEFING-LOVECHART.md` (funil); `DNA Visual - Nora v2.md` (identidade da Nora; v1 e Dana são histórico).
+- **Método e bibliotecas do curso:** `hooks.md`, `Formatos Narrativos…`, `Exemplos de Roteiros…`, `ctas.md`, `COMUNICACAO-VISCERAL-E-FALADA.md`, `BIBLIOTECA-*.md` (virais, bodies, cold reading, copy, pré-ganchos), `PESQUISA-PUBLICO.md`, `Prompts.txt`, `CHECKLIST-DE-PRODUCAO.md`, `GUIA-CREATIVE-HUB.md`, `PAPEL-AGENTE-FLOW.md`.
+- **Produção:** `PAINEL-MODELO.html` (modelo, aceita 1 a 12 takes e o modo `clipe_unico`), `PAINEL-NORA25..33.html`, `ROTEIRO-*.md`, `BIBLIOTECA-DE-TAKES.md` (nomes e inventário das peças), `PLANO-CREDITOS-NORA30-32.md`, `STORY-*.md`.
+- **Métricas:** `METRICAS-NORA.csv` (uma linha por vídeo e rede), `METRICAS-NORA-LEIA.md` (diário de leituras). O dashboard do aluno é um Artifact com dataset `datasets/metricas` (procedimento: editar o CSV, publicar como asset no Artifact `Kd9FLg2PEqCJ7TeTij3mvZ` e atualizar o dataset com `if_version`).
+- `RESERVA-ROTEIRO-*.md`: roteiros de cold reading guardados (não produzidos).
+
+## 4. O que já foi feito
+R001 a R005 (Dana e Nora v1) e nora01 a nora24 já postados. **nora25 a nora29 postados** (Nora v2, Love Chart). **nora30 gerado e postado em 21/10 às 18h25** (Insta e Face; story 18h30). Painéis nora31, nora32 e nora33 prontos (abaixo). Métricas do nora30 às 00h51 de 22/10: Insta 110 views, 37,9% passam dos 3 s, 7 s de tempo médio, 1 follow, países Reino Unido 16,5%, Índia 15,6%, EUA 15,6%; Face 53 views. Story: 2 views, 0 cliques.
+
+## 5. Onde paramos (22/10/2026, ~11h BRT)
+Plano de testes decidido por mim a pedido do aluno ("faz o que achar melhor"), **um formato novo por vídeo**, painéis já publicados:
+- **nora31** (https://claude.ai/artifact/4ANMjjiUqVy8jrjhPY366c): hook visual = pré-gancho do curativo colado numa calcinha de renda vermelha (virais w1 e w2, só mãos; ela NÃO veste a peça) + IMAGEM 1 em que a Nora segura a calcinha com o curativo com as duas mãos + corpo do viral S3 em 9 takes. 146 créditos.
+- **nora32** (https://claude.ai/artifact/FhyDq8sYyeX4ZG1ja94Lyh): copy curta, 3 takes (~30 s), imagem B (quartzo rosa, varanda, blusa azul-marinho). 45 créditos. Linhas de movimentação **provisórias**.
+- **nora33** (https://claude.ai/artifact/Ff1bo2jJjBLMCrNmGq9tat): texto na tela, 1 clipe de 8 s sem fala (dedo nos lábios), texto "It works so fast it's scary…", reusa a imagem B. 12 créditos. Prompt do clipe **provisório**.
+- nora30: https://claude.ai/artifact/MdiDhyJyZu8qKoJKNU4YAz (já postado; corpo S3 com a imagem A, geodo de ametista na mão ESQUERDA dela).
+Nada do nora31, 32 e 33 foi gerado ainda. Saldo de créditos do Flow depois do nora30: 337 (203 previstos para estes três).
+
+## 6. Próximos passos
+1. O aluno gera no nora31: pré-gancho (imagens A a D e 2 vídeos em Frames) e IMAGEM 1 na Central de imagens; manda as imagens para eu **conferir a movimentação contra a imagem aprovada** (o modelo troca as mãos) e a faixa da legenda; depois gera os 9 takes, junta com "Corte seco", **me manda a transcrição** (comparo com a fala) e posta.
+2. Gerar a imagem B (nora32), me mandar, finalizar movimentação do nora32 e o prompt do nora33.
+3. Medir o nora30 com 12 h e 24 h; anotar horários reais de postagem e as métricas (CSV, LEIA, dashboard). Pedir os números do story.
+4. Depois de uns 10 vídeos, ver qual formato destravou e repetir; se a conta não destravar em uma semana, plano B do Ricardo Santana: avatar mais velha. Ideia em aberto: segunda conta de Instagram nova, postando só na janela desde o 1º vídeo, com os mesmos vídeos (o aluno não decidiu).
+5. Quando o Love Chart entrar no ar (o aluno avisa): voltar a 6A e o story ao texto do Vênus (P37).
+6. Atualizar `BIBLIOTECA-DE-TAKES.md` e `FATOS-DO-ALUNO.md` a cada vídeo gerado/postado e a cada fato novo.
+
+## 7. Decisões importantes e motivo
+- **Janela de postagem 18h30 a 21h45 BRT, 2 vídeos por dia, 3 h entre posts:** fora dela a Índia passa de 55% (o quiz é bloqueado lá e não compra); 18h25 deu 15,6%. Todos os vídeos que passaram de 700 views eram da Índia; desde que o público é EUA/UK/Canadá os vídeos param em ~105 a 120.
+- **Congruência (P37):** o link do story ainda abre o Soulmate; fala e story só prometem o que serve aos dois quizzes; copy neutra ("love portal").
+- **Série do S3:** corpo copiado de um viral (avatar dos signos), só o gancho muda; vídeo sem pré-gancho foi teste (P30). Em 22/10 o aluno pediu hook visual copiado "igualzinho" dos virais (curativo).
+- **Prompts ao extremo de detalhados, em inglês, com mãos por lado da imagem; movimentação nunca cita a fala; SPEECH RULE** (lições do Flow, P28 a P33).
+- Roteiros postados ficam congelados (P18). Falas até 22 palavras, 19 a 21 de preferência, para o divisor da Central dar um take por cena.
+- Dados do painel: 720×1280, Poppins Bold, tamanho 12, legenda em 2 a 3 palavras na faixa 69 a 77%.
+- Restrição de anúncios do aluno é só da conta de anúncios do perfil pessoal do Facebook (não da Página nem do Instagram): não mexer.
+- Roupa íntima na imagem é permitida pelo P15, só mãos segurando, sem nudez.
+
+## 8. Problemas conhecidos
+- **GeeLark muito lento** (Android 15, Proxy-Cheap); o aluno aguarda o suporte; saída sugerida: Android 16 ou trocar a proxy; o Face pode ser postado pelo PC.
+- Notificações de "wake subscription" dos Artifacts falham (limite de 10 por sessão): ignorar; não dá para me acordar por republicação.
+- **Story: 2 views e 0 cliques**; reel → story vaza (tempo médio 7 s num vídeo de 65 s: ninguém chega aos selos nem ao pedido do story). Face com 14 a 70 views por vídeo, canal secundário.
+- Já erramos por não gravar fatos (link do Soulmate, restrição de anúncios): por isso existe o `FATOS-DO-ALUNO.md` (P38).
+- Os scripts de `ferramentas-painel/` têm caminhos fixos da máquina anterior.
+- Só consegui conferir identidade das imagens quando o aluno as manda; o Flow pode trocar mãos, enquadrar mais aberto que o pedido, inserir carimbo de data.
+
 VOCÊ É O AGENTE EDITORIAL E DE PRODUÇÃO DO INFLUENCER (CHAT 2 DE 2)
 
 A persona já foi criada no chat 1 e chega no PROJETO (com os DNAs e as imagens oficiais). Você escreve os roteiros e prepara os prompts de imagem e vídeo para o Google Flow, seguindo o MÉTODO DO PROJETO nos arquivos anexados. Eles são a autoridade: leia-os inteiros e aplique-os ao pé da letra.
