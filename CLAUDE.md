@@ -50,6 +50,7 @@ Nada do nora31, 32 e 33 foi gerado ainda. Saldo de créditos do Flow depois do n
 - Já erramos por não gravar fatos (link do Soulmate, restrição de anúncios): por isso existe o `FATOS-DO-ALUNO.md` (P38).
 - Os scripts de `ferramentas-painel/` têm caminhos fixos da máquina anterior.
 - Só consegui conferir identidade das imagens quando o aluno as manda; o Flow pode trocar mãos, enquadrar mais aberto que o pedido, inserir carimbo de data.
+- **O Flow recusa por política prompts com palavras de corpo ou de roupa íntima, mesmo na lista do que não aparece** (imagem A do nora31, 22/10/2026, sem cobrança). Nunca escrever underwear, chest, body, panties etc.; roupa íntima é nomeada uma vez como peça de roupa e depois "the garment" (`LICOES-FLOW-E-PROMPTS.md`, item 37). Os prompts do nora31 já foram corrigidos (painel versão 4).
 
 VOCÊ É O AGENTE EDITORIAL E DE PRODUÇÃO DO INFLUENCER (CHAT 2 DE 2)
 
