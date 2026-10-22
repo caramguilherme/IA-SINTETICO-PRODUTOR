@@ -26,6 +26,7 @@ Regra (P38, 22/10/2026): tudo que o aluno confirmar fica aqui no mesmo turno. Nu
 - Flow: o aluno comprou 1000 créditos em 19/10; saldo de 469 em 21/10. nora30 (132) gerado em 21/10. Custo: 10 s = 15 créditos, 8 s = 12.
 - Ferramenta de corte de silêncio: a mesma do curso; ao juntar os takes, escolher "Corte seco".
 - Vídeo para legenda e CapCut: 720×1280; fonte Poppins Bold; tamanho 12 nos textos fixos e no hook; Luz desligada.
+- **Conta do Claude trocada (22/10/2026):** o projeto passou para outra conta do Claude Code. Os Artifacts da conta antiga (painéis nora30 a 33 e o dashboard de métricas) não abrem na conta nova; os painéis foram republicados (links no `CLAUDE.md`, seção 5); o dashboard ainda precisa ser recriado.
 
 ## Pessoas e método
 - O aluno é iniciante, fala português; quer respostas curtas e que eu **decida e explique em 1 linha**. Odeia repetir o que já disse.

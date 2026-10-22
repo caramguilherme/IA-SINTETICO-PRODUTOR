@@ -10,18 +10,18 @@ Não há app. Os "produtos" são **arquivos Markdown** (regras, roteiros, biblio
 - **Regras e memória:** este `CLAUDE.md`; `LEIA-TUDO-ANTES.md` (lista de leitura obrigatória antes de qualquer roteiro ou prompt); **`FATOS-DO-ALUNO.md` (ler primeiro: fatos já confirmados, nunca perguntar de novo)**; `LICOES-FLOW-E-PROMPTS.md` (lições do Flow, checklist de prompts, notas do Discord); `PROJETO-Dana.md` e `BRIEFING-LOVECHART.md` (funil); `DNA Visual - Nora v2.md` (identidade da Nora; v1 e Dana são histórico).
 - **Método e bibliotecas do curso:** `hooks.md`, `Formatos Narrativos…`, `Exemplos de Roteiros…`, `ctas.md`, `COMUNICACAO-VISCERAL-E-FALADA.md`, `BIBLIOTECA-*.md` (virais, bodies, cold reading, copy, pré-ganchos), `PESQUISA-PUBLICO.md`, `Prompts.txt`, `CHECKLIST-DE-PRODUCAO.md`, `GUIA-CREATIVE-HUB.md`, `PAPEL-AGENTE-FLOW.md`.
 - **Produção:** `PAINEL-MODELO.html` (modelo, aceita 1 a 12 takes e o modo `clipe_unico`), `PAINEL-NORA25..33.html`, `ROTEIRO-*.md`, `BIBLIOTECA-DE-TAKES.md` (nomes e inventário das peças), `PLANO-CREDITOS-NORA30-32.md`, `STORY-*.md`.
-- **Métricas:** `METRICAS-NORA.csv` (uma linha por vídeo e rede), `METRICAS-NORA-LEIA.md` (diário de leituras). O dashboard do aluno é um Artifact com dataset `datasets/metricas` (procedimento: editar o CSV, publicar como asset no Artifact `Kd9FLg2PEqCJ7TeTij3mvZ` e atualizar o dataset com `if_version`).
+- **Métricas:** `METRICAS-NORA.csv` (uma linha por vídeo e rede), `METRICAS-NORA-LEIA.md` (diário de leituras). O dashboard do aluno é um Artifact com dataset `datasets/metricas` (procedimento: editar o CSV, publicar como asset no Artifact `Kd9FLg2PEqCJ7TeTij3mvZ` e atualizar o dataset com `if_version`). **Esse dashboard é da conta antiga do Claude e não abre na conta nova (22/10/2026): precisa ser recriado na conta nova a partir do CSV.**
 - `RESERVA-ROTEIRO-*.md`: roteiros de cold reading guardados (não produzidos).
 
 ## 4. O que já foi feito
 R001 a R005 (Dana e Nora v1) e nora01 a nora24 já postados. **nora25 a nora29 postados** (Nora v2, Love Chart). **nora30 gerado e postado em 21/10 às 18h25** (Insta e Face; story 18h30). Painéis nora31, nora32 e nora33 prontos (abaixo). Métricas do nora30 às 00h51 de 22/10: Insta 110 views, 37,9% passam dos 3 s, 7 s de tempo médio, 1 follow, países Reino Unido 16,5%, Índia 15,6%, EUA 15,6%; Face 53 views. Story: 2 views, 0 cliques.
 
 ## 5. Onde paramos (22/10/2026, ~11h BRT)
-Plano de testes decidido por mim a pedido do aluno ("faz o que achar melhor"), **um formato novo por vídeo**, painéis já publicados:
-- **nora31** (https://claude.ai/artifact/4ANMjjiUqVy8jrjhPY366c): hook visual = pré-gancho do curativo colado numa calcinha de renda vermelha (virais w1 e w2, só mãos; ela NÃO veste a peça) + IMAGEM 1 em que a Nora segura a calcinha com o curativo com as duas mãos + corpo do viral S3 em 9 takes. 146 créditos.
-- **nora32** (https://claude.ai/artifact/FhyDq8sYyeX4ZG1ja94Lyh): copy curta, 3 takes (~30 s), imagem B (quartzo rosa, varanda, blusa azul-marinho). 45 créditos. Linhas de movimentação **provisórias**.
-- **nora33** (https://claude.ai/artifact/Ff1bo2jJjBLMCrNmGq9tat): texto na tela, 1 clipe de 8 s sem fala (dedo nos lábios), texto "It works so fast it's scary…", reusa a imagem B. 12 créditos. Prompt do clipe **provisório**.
-- nora30: https://claude.ai/artifact/MdiDhyJyZu8qKoJKNU4YAz (já postado; corpo S3 com a imagem A, geodo de ametista na mão ESQUERDA dela).
+Plano de testes decidido por mim a pedido do aluno ("faz o que achar melhor"), **um formato novo por vídeo**, painéis já publicados (links da conta nova do Claude, republicados em 22/10/2026 a partir dos `PAINEL-NORA*.html`, sem mudança; os links da conta antiga não abrem aqui):
+- **nora31** (https://claude.ai/artifact/5qNx8Eg31rGKUD7tx2C4eY): hook visual = pré-gancho do curativo colado numa calcinha de renda vermelha (virais w1 e w2, só mãos; ela NÃO veste a peça) + IMAGEM 1 em que a Nora segura a calcinha com o curativo com as duas mãos + corpo do viral S3 em 9 takes. 146 créditos.
+- **nora32** (https://claude.ai/artifact/ECjk3fFfdxtaxcwPUcx7QU): copy curta, 3 takes (~30 s), imagem B (quartzo rosa, varanda, blusa azul-marinho). 45 créditos. Linhas de movimentação **provisórias**.
+- **nora33** (https://claude.ai/artifact/ASp38k7Fv8gsXgtAMndkDa): texto na tela, 1 clipe de 8 s sem fala (dedo nos lábios), texto "It works so fast it's scary…", reusa a imagem B. 12 créditos. Prompt do clipe **provisório**.
+- nora30: https://claude.ai/artifact/NZo9Zv4tn2e37estAhv4Za (já postado; corpo S3 com a imagem A, geodo de ametista na mão ESQUERDA dela).
 Nada do nora31, 32 e 33 foi gerado ainda. Saldo de créditos do Flow depois do nora30: 337 (203 previstos para estes três).
 
 ## 6. Próximos passos
