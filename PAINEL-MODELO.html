@@ -316,8 +316,8 @@ function montarCentral(){
     $('listaCenas').querySelectorAll('input[data-id]').forEach(inp=>{inp.onchange=e=>{feitos[inp.dataset.id]=e.target.checked;progresso();salvar()}});
     const ag=c.agente||{};
     $('agente').querySelector('h2').textContent='No agente do Flow (uma conversa só)';
-    $('agente').querySelector('p').textContent='Uma imagem e uma mensagem: anexe a imagem e cole o bloco “COPIAR TUDO JUNTO” da Central, que já traz as orientações ao agente (o seu aviso é opcional).';
-    $('agenteBox').innerHTML='<div class="item"><button class="cp" id="cpAviso">Copiar aviso</button><h3>Seu aviso para o agente <span class="tag">opcional: o prompt da Central já traz as orientações ao agente</span><span class="tag">anexar: '+esc(ag.imagem||'')+'</span></h3><div class="box m">'+esc(ag.aviso||'')+'</div></div>'
+    $('agente').querySelector('p').textContent=ag.intro||'Uma imagem e uma mensagem: anexe a imagem e cole o bloco “COPIAR TUDO JUNTO” da Central, que já traz as orientações ao agente (o seu aviso é opcional).';
+    $('agenteBox').innerHTML='<div class="item"><button class="cp" id="cpAviso">Copiar aviso</button><h3>Seu aviso para o agente <span class="tag">'+esc(ag.aviso_tag||'opcional: o prompt da Central já traz as orientações ao agente')+'</span><span class="tag">anexar: '+esc(ag.imagem||'')+'</span></h3><div class="box m">'+esc(ag.aviso||'')+'</div></div>'
       +(ag.aviso_en?'<div class="item"><button class="cp" id="cpAvisoEn">Copiar aviso em inglês</button><h3>Aviso em inglês <span class="tag">opcional: mesma mensagem, em inglês</span></h3><div class="box m">'+esc(ag.aviso_en)+'</div></div>':'')
       +'<div class="item"><h3>Passo a passo</h3><ol class="steps">'+(ag.passos||[]).map(x=>'<li>'+esc(x)+'</li>').join('')+'</ol></div>';
     $('cpAviso').onclick=e=>copiar(ag.aviso||'',e.currentTarget);
@@ -325,7 +325,7 @@ function montarCentral(){
   }
   if(pk.story){
     const st=pk.story;
-    $('storyBox').innerHTML='<div class="item"><button class="cp" id="cpStImg">Copiar prompt</button><h3>Prompt da imagem do story <span class="tag">9:16</span></h3><div class="box m">'+esc(st.prompt_imagem)+'</div></div>'
+    $('storyBox').innerHTML=(st.nota?'<div class="tip" style="margin-bottom:10px">'+esc(st.nota)+'</div>':'')+'<div class="item"><button class="cp" id="cpStImg">Copiar prompt</button><h3>Prompt da imagem do story <span class="tag">9:16</span></h3><div class="box m">'+esc(st.prompt_imagem)+'</div></div>'
       +'<div class="item"><button class="cp" id="cpStTxt">Copiar textos</button><h3>Texto na tela do story</h3><div class="box">'+(st.textos||[]).map(x=>'<b>'+esc(x.posicao)+':</b> '+esc(x.texto)).join('\n')+'</div></div>'
       +'<div class="item"><button class="cp" id="cpStAd">Copiar adesivo</button><h3>Adesivo de link (3 a 4 palavras)</h3><div class="box">'+(st.adesivos||[]).map((x,i)=>(i+1)+'. '+esc(x)+(i===0?'  (recomendada)':'')).join('\n')+'</div></div>';
     $('cpStImg').onclick=e=>copiar(st.prompt_imagem,e.currentTarget);
@@ -387,7 +387,7 @@ function ordenar(){
     ?['pecas','referencia','prehook','imagens','todos','central','cenas','agente','silencio','story','textotela','fala','descricao','comentario']
     :['pecas','referencia','prehook','imagens','videos','todos','silencio','story','textotela','fala','descricao','comentario'];
   const pn=$('painel');
-  $('todos').classList.toggle('hide',!!pk.imagem_reutilizada||!!pk.imagem_central);
+  $('todos').classList.toggle('hide',!!pk.imagem_reutilizada||!!pk.imagem_central||!!pk.ocultar_bloco_agente_imagem);
   $('imagens').querySelector('h2').textContent=pk.imagem_reutilizada?'Imagem 1 (a mesma de outro roteiro, não gerar)':(pk.imagem_central?'Imagem 1 na Central de imagens':'Imagens');
   ord.forEach(id=>pn.appendChild($(id)));if(c)pn.appendChild($('videos'));
   let n=0;const links=[];

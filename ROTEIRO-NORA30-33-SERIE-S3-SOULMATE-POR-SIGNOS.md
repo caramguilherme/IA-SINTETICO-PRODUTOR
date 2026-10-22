@@ -108,3 +108,12 @@ Total: 203 créditos (saldo depois do nora30: 337; sobram 134). O nora32 antigo 
 - **Take 1 do nora32:** "Gemini, Libra, or Aquarius. Keep your mouth shut after watching this. Not everyone will see this before midnight tonight." (sem data fixa, para postar em qualquer dia).
 - **Pedido de curtir** em "Double tap now if this found you." (S3 e S4), já no fim dos 30 s, onde mais gente chega.
 - **Texto na tela:** vem de um viral real do nicho (w6, w7 e U7), como o Eduardo pediu; se o aluno garimpar textos novos, trocar.
+
+## ATUALIZAÇÃO 22/10/2026 (tarde) — nora31 na versão barata (decisão do aluno: "a barata")
+Substitui o que as duas atualizações acima dizem do nora31 (imagem C nova, corpo gerado de novo, 146 créditos).
+- **Corpo:** os takes 2 a 9 são os do nora30, **sem gerar de novo**. O aluno copia `nora30-T2` a `nora30-T9` e renomeia as cópias para `nora31-T2` a `nora31-T9`, porque a ferramenta de corte (M2M FusionZ) junta os takes pela ordem do nome; "Juntar tudo" ligado, transição Corte seco.
+- **IMAGEM 1 (`nora31-IMG`):** edição da `nora30-IMG` (anexar só ela), e não mais a Central de imagens nem a imagem C: a mesma Nora, a mesma cozinha à noite, a mesma blusa esmeralda e a mesma luz, com a calcinha com o curativo nas duas mãos no lugar do geodo. Assim, no corte do Take 1 para o Take 2 só o objeto muda.
+- **Pré-gancho:** o mesmo do curativo (2 tomadas, só mãos), agora na mesma cozinha à noite e com as mesmas mangas esmeralda do nora30. As imagens A e C são geradas sem anexo (só aparecem as mãos); a B é edição da A e a D é edição da C.
+- **Take 1:** a mesma fala de 18 palavras ("What the hell did you just do? Aries, Leo, or Sagittarius. Keep your mouth shut after watching this."), 10 s, gerado sozinho na Central (1 take: botão COPIAR do take e o aviso do aluno, que aqui é obrigatório).
+- **Créditos:** pré-gancho 14 + Take 1 15 = **29** (economia de 117). Plano dos três testes: nora31 29 + nora32 45 + nora33 12 = 86; saldo 337 → 251.
+- **Conferência:** ouvir a emenda do Take 1 para o Take 2 (a voz deve parecer a mesma). Se a diferença for grande, me avisar antes de postar.

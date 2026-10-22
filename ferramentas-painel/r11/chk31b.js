@@ -1,0 +1,12 @@
+const {chromium}=require('/opt/node22/lib/node_modules/playwright');
+(async()=>{const b=await chromium.launch({executablePath:'/opt/pw-browsers/chromium'});
+const pg=await b.newPage({viewport:{width:430,height:900}});
+const errs=[];pg.on('pageerror',e=>errs.push(String(e)));pg.on('console',m=>{if(m.type()==='error')errs.push(m.text())});
+await pg.goto('file:///home/user/IA-SINTETICO-PRODUTOR/PAINEL-NORA31.html');await pg.waitForTimeout(800);
+const t=await pg.evaluate(()=>document.body.innerText);
+console.log('erros:',errs,'tam:',t.length);
+const ks=['Pré-gancho (uns 4 s, 2 tomadas, só as mãos)','Montagem no CapCut','Irei enviar 1 prompt','LIGADO, transição Corte seco','Créditos neste vídeo: 29','117','nora31-T9','nora30-IMG','Take the free quiz','Find my Venus','com o rosto da avatar','Leitura obrigatória','Imagem 1 na Central de imagens','Todos os prompts','SPEECH RULE','nora31-T1-gancho-o-que-voce-fez'];
+for(const k of ks) console.log(t.includes(k)?'TEM ':'NAO ',k);
+require('fs').writeFileSync('painel31.txt',t);
+await pg.screenshot({path:'nora31b.png',fullPage:false});
+await b.close()})();
