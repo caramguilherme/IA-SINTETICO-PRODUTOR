@@ -82,14 +82,15 @@ O número do vídeo é a ordem de postagem na conta: **nora01 a nora29 já foram
 | `nora30-T7-corpo-dois-selos` | “That will be your first seal. Double tap quickly on your screen…” | corpo da série | a gerar |
 | `nora30-T8-cta-a-comente-222-story` | “Type 222 so I can see you did everything. Tap my profile picture…” | CTA da série | a gerar |
 | `nora30-T9-cta-b-parte-dois` | “The second part of this sign is waiting for you there. Don't leave without it.” | CTA da série | a gerar |
-| `nora32-IMG` | imagem 1 B (varanda em dia nublado, quartzo rosa grande) | **serve também ao nora33** | a gerar |
-| `nora32-T2` a `nora32-T9` | o mesmo corpo do nora30 (9 takes), com a imagem B | corpo e CTA da série, serve ao nora33 | a gerar |
+| `nora32-IMG` | imagem 1 B (varanda em dia nublado, quartzo rosa grande) | serve também ao nora33 (texto na tela) | a gerar |
+| `nora32-T1-gancho-gemeos-libra-aquario` | “Gemini, Libra, or Aquarius. Keep your mouth shut… before midnight tonight.” | só deste vídeo | a gerar |
+| `nora32-T2-corpo-homem-e-correntes` | “The man the universe kept for you is finally being released…” | só deste vídeo | a gerar |
+| `nora32-T3-cta-curtir-222-story` | “Double tap now if this found you. Type 222…” | só deste vídeo | a gerar |
+| `nora33-CLIPE-texto-na-tela` | clipe de 8 s sem fala, texto “It works so fast it's scary…” | só deste vídeo | a gerar |
 | `nora31-PRE-A` / `-PRE-B` / `-PRE-V1` / `-PRE-C` / `-PRE-D` / `-PRE-V2` | pré-gancho do curativo na calcinha (copiado dos virais w1 e w2, só mãos) | só deste vídeo | a gerar |
 | `nora31-IMG` | imagem 1 C (a Nora segura a calcinha com o curativo, duas mãos) | variações do mesmo gancho | a gerar |
 | `nora31-T1-gancho-o-que-voce-fez` | “What the hell did you just do? Aries, Leo, or Sagittarius…” | só deste vídeo | a gerar |
 | `nora31-T2` a `nora31-T9` | o mesmo corpo do nora30, gerado de novo com a imagem C | corpo da série | a gerar |
-| `nora32-T1-gancho-gemeos-libra-aquario` | “Gemini, Libra, or Aquarius. Keep your mouth shut…” | só deste vídeo | a gerar (só este take) |
-| `nora33-T1-gancho-cancer-escorpiao-peixes` | “Cancer, Scorpio, or Pisces. Keep your mouth shut…” | só deste vídeo | a gerar (só este take) |
 
 *(Os roteiros de cold reading que seriam o nora30, nora31 e nora32 ficaram guardados em `RESERVA-ROTEIRO-*.md`; as peças deles não foram geradas.)*
 

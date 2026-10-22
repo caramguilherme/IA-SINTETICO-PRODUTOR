@@ -283,7 +283,7 @@ function progresso(){
 
 function montarCentral(){
   const c=pk.central;
-  ['central','cenas','agente'].forEach(id=>$(id).classList.toggle('hide',!c));
+  ['central','cenas','agente'].forEach(id=>$(id).classList.toggle('hide',!c||!!pk.clipe_unico));
   $('story').classList.toggle('hide',!pk.story);
   $('videos').classList.toggle('hide',!!c);
   $('todos').querySelector('h2').textContent=c?(c.imagem_unica?'Prompt da imagem (agente do Flow)':'Prompts das imagens (agente do Flow)'):'Todos os prompts';
@@ -357,7 +357,7 @@ function montarPre(){
   $('prehook').classList.toggle('hide',!g);
   if(!g)return;
   if(g.etapas){
-    $('prehook').querySelector('h2').textContent='Pré-gancho ('+(g.duracao||5)+' s, '+(g.tomadas||2)+' tomadas, com o rosto da avatar)';
+    $('prehook').querySelector('h2').textContent=g.titulo_secao||('Pré-gancho ('+(g.duracao||5)+' s, '+(g.tomadas||2)+' tomadas, com o rosto da avatar)');
     $('preBox').innerHTML='<p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">'+esc(g.conceito||'')+'</p>'
       +(g.modo?'<div class="tip" style="margin-bottom:12px">'+esc(g.modo)+'</div>':'')
       +g.etapas.map((e,i)=>'<div class="item"><button class="cp" data-pe="'+i+'">Copiar prompt</button><h3>'+(i+1)+') '+esc(e.titulo)+' '+(e.nome?'<span class="tag">nome: '+esc(e.nome)+'</span>':'')+'<span class="tag">'+(e.tipo==='vid'?'VÍDEO · '+esc(e.duracao||4)+' s · Frames':'IMAGEM · 9:16')+'</span></h3>'+(e.quadros?'<div class="tip" style="margin:8px 0">'+esc(e.quadros)+'</div>':'')+(e.anexar?'<div style="margin:6px 0;color:var(--ink2);font-size:14px"><b>Anexar:</b> '+esc(e.anexar)+'</div>':'')+'<div class="box m">'+esc(e.prompt)+'</div><label class="chk"><input type="checkbox" data-id="pre_e'+i+'" '+(feitos['pre_e'+i]?'checked':'')+'> '+(e.tipo==='vid'?'Vídeo gerado e aprovado':'Imagem gerada e aprovada')+'</label></div>').join('')
@@ -435,6 +435,7 @@ function montar(silencio){
   $('pinFace').textContent=cf.face||'(a IA não entregou o comentário fixado do Facebook)';
   const pg=pk.pre_gancho||{};
   $('telaPre').textContent=pg.texto_tela||'';$('telaPre').classList.toggle('hide',!pg.texto_tela);$('telaPreK').classList.toggle('hide',!pg.texto_tela);
+  $('silencio').classList.toggle('hide',!!pk.clipe_unico);
   const el=pk.edicao_linha||[];$('telaLinhaW').classList.toggle('hide',!el.length);
   $('telaLinha').innerHTML=el.map(x=>'<li style="margin-bottom:8px"><b>'+esc(x.quando)+'</b><br>'+(x.texto?'<span style="font-size:17px;font-weight:700">'+esc(x.texto)+'</span><br>':'')+'<span style="color:var(--ink2)">'+esc(x.como)+'</span></li>').join('');
   (function(){const mt=pk.mapa_tela;$('mapaTela').classList.toggle('hide',!mt);if(!mt)return;

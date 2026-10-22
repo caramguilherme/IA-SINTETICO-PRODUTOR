@@ -35,3 +35,4 @@ Regra (P38, 22/10/2026): tudo que o aluno confirmar fica aqui no mesmo turno. Nu
 
 ## Decisões de 22/10/2026
 - Adão: o hook visual precisa de um diferencial. O aluno pediu para copiar, **igualzinho, o pré-gancho do curativo colado na calcinha de renda vermelha** (virais w1 e w2: só mãos e depois a mulher segurando a calcinha; ela NÃO veste a calcinha). nora31 = esse pré-gancho + corpo do S3 (imagem C, duas mãos seguram a calcinha com o curativo).
+- **Plano de testes (22/10/2026, decidido por mim a pedido do aluno):** nora31 = hook visual (curativo), nora32 = copy curta de 3 takes (imagem B), nora33 = texto na tela de 8 s sem fala (imagem B); créditos 203, sobram 134. Depois de uns 10 vídeos, repetir o formato que destravar a conta. Plano B do Ricardo: avatar mais velha (só depois de uma semana de testes).

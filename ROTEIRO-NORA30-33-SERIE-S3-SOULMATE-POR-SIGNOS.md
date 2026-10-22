@@ -96,3 +96,15 @@ Depois da conversa com o Adão (o hook visual é o que decide a entrega e precis
 - **Take 1:** "What the hell did you just do? Aries, Leo, or Sagittarius. Keep your mouth shut after watching this." (18 palavras; sem a data). O corpo (Takes 2 a 9) é o mesmo texto do nora30.
 - **Créditos:** nora31 = 14 + 132 = 146. Total da série: nora30 132 + nora31 146 + nora32 132 + nora33 15 = 425; saldo antes: 469; sobram 44.
 - Risco do tema (roupa íntima): a regra do projeto libera (P15); o aluno decide; a restrição de anúncios dele é só da conta de anúncios do perfil pessoal do Facebook, não da Página nem do Instagram.
+
+## ATUALIZAÇÃO 22/10/2026 (decisão minha, a pedido do aluno: "faz o que achar melhor") — plano de testes, uma variável por vídeo
+Base: Eduardo (gancho e copy; texto na tela em 2 de 5 vídeos), Adão (views primeiro; o hook visual é o principal e precisa de um diferencial), Mattias (trocar o formato: copy curta, texto na tela, sem hook visual; não repetir o mesmo gancho), Ricardo (hooks visuais novos, replicar o que performa, mais uma semana de testes). Os três roteiros abaixo são os que o aluno posta depois do nora30:
+| Vídeo | O que muda em relação ao nora30 | Créditos |
+|---|---|---|
+| nora31 | **hook visual**: pré-gancho do curativo na calcinha (virais w1 e w2) + imagem C + o mesmo corpo do S3 (9 takes) | 146 |
+| nora32 | **copy curta**: 3 takes (uns 30 s), com a imagem B (quartzo rosa); gancho por signos (Gêmeos, Libra, Aquário), corpo condensado e pedido de curtir + 222 + story no fim | 45 |
+| nora33 | **texto na tela**: um clipe de 8 s SEM fala (a Nora com o quartzo rosa põe o dedo nos lábios), com o texto do topo “It works so fast it's scary…” (virais w6, w7 e U7); reusa a imagem B | 12 |
+Total: 203 créditos (saldo depois do nora30: 337; sobram 134). O nora32 antigo (9 takes) e o nora33 antigo (só Take 1) saíram do plano. O corpo longo do S3 fica no nora30 e no nora31. Depois de uns 10 vídeos, olhar qual formato destravou a conta e repetir esse.
+- **Take 1 do nora32:** "Gemini, Libra, or Aquarius. Keep your mouth shut after watching this. Not everyone will see this before midnight tonight." (sem data fixa, para postar em qualquer dia).
+- **Pedido de curtir** em "Double tap now if this found you." (S3 e S4), já no fim dos 30 s, onde mais gente chega.
+- **Texto na tela:** vem de um viral real do nicho (w6, w7 e U7), como o Eduardo pediu; se o aluno garimpar textos novos, trocar.
