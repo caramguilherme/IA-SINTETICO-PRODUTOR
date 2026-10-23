@@ -31,7 +31,7 @@ nora31 gerado e postado (12 créditos); nada do nora32 e do nora33 foi gerado ai
 2. Gerar a imagem B (nora33), me mandar e finalizar a movimentação do nora33 (o nora31 já foi postado).
 3. Medir o nora30 com 12 h e 24 h; anotar horários reais de postagem e as métricas (CSV, LEIA, dashboard). Pedir os números do story.
 4. Depois de uns 10 vídeos, ver qual formato destravou e repetir; se a conta não destravar em uma semana, plano B do Ricardo Santana: avatar mais velha. Ideia em aberto: segunda conta de Instagram nova, postando só na janela desde o 1º vídeo, com os mesmos vídeos (o aluno não decidiu).
-5. Quando o Love Chart entrar no ar (o aluno avisa): voltar a 6A e o story ao texto do Vênus (P37).
+5. Quando o Love Chart entrar no ar (o aluno avisa): voltar a 6A e o story ao texto do Vênus (P37). **23/10: a Appyon avisou que o Love Chart substitui o Soulmate e que os links antigos viram os do Love Chart sozinhos (migração em andamento); falta o aluno ver o link do story abrindo o Love Chart. Ler a apresentação nova (`Love_Chart_Briefing_UGC_v2`, link em `FATOS-DO-ALUNO.md`) assim que o aluno mandar o PDF ou liberar docs.google.com, e salvar em `BRIEFING-LOVECHART.md`.**
 6. Atualizar `BIBLIOTECA-DE-TAKES.md` e `FATOS-DO-ALUNO.md` a cada vídeo gerado/postado e a cada fato novo.
 
 ## 7. Decisões importantes e motivo

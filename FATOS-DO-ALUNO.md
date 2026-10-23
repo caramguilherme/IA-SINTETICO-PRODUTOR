@@ -11,6 +11,7 @@ Regra (P38, 22/10/2026): tudo que o aluno confirmar fica aqui no mesmo turno. Nu
 
 ## Funil
 - **O link do story abre o quiz do Soulmate** (confirmado 21/10 e 22/10). O Love Chart vai entrar no lugar, em data desconhecida; o aluno avisa quando entrar. Enquanto isso, o story usa "Tap below and take the free love quiz." e a fala do CTA não promete Vênus nem nome de padrão (P37).
+- **Aviso da Appyon no Discord (enviado pelo aluno em 23/10/2026):** o **Love Chart substitui o Soulmate** em astrologia e relacionamento e já converte mais (front e assinaturas). Funil: quiz → página de vendas, leitura personalizada de mapa astral para amor; front de US$ 9 (preço nunca entra na fala). **A migração está em andamento: não precisa trocar os links; os antigos viram os do Love Chart sozinhos.** Até o aluno ver o link do story abrindo o Love Chart, a fala e o story continuam neutros (P37). Apresentação nova do Iorhan Ferreira ("Love_Chart_Briefing_UGC_v2": público mulheres solteiras 25–45, EUA, inglês; promessas, ângulos, ganchos, formatos, roteiro e checklist): https://docs.google.com/presentation/d/1jg10y_dsmkiyArf-Qp3TI0xH2Tbj9Tij1xlQNTCQngQ/ (docs.google.com bloqueado neste ambiente em 23/10; ainda não lida).
 - O aluno só vende Soulmate/Love Chart. **Manifestation não vende:** ignorar os virais de Manifestation como oferta (servem só de estrutura).
 - Story de 21/10 18h30: 2 views, 0 cliques (o anel da foto aparece no perfil e o story abre, testado 22/10).
 
