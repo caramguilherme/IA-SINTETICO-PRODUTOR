@@ -19,8 +19,8 @@ Gerada no Flow a partir do blueprint (só ele anexado): a Nora no sofá cinza de
 0–1 s sobrancelhas e cabeça; 1–2 s olha o círculo; 2–4 s aproxima o mapa da lente; 4–5,5 s aceno lento; 5,5–7 s volta o mapa; 7–8 s parada, meio sorriso. Ela não fala.
 
 ## Textos
-- **Topo:** "Different guys. Same ending. It's not bad luck. Look at your 7th house." ("7th house" em amarelo-ouro).
+- **Topo (atualizado em 23/10, dica do Matheus Baffa: signos na tela):** "Cancer, Scorpio, Pisces: different guys, same ending. Look at your 7th house." (1ª linha com os signos em amarelo-ouro). Versão anterior: "Different guys. Same ending. It's not bad luck. Look at your 7th house."
 - **Dos 5 aos 8 s:** "Part 2 is in my story" + seta vermelha.
-- **Legenda (sem hashtag; o nora32 tem):** "If every relationship ends the same way, it's not bad luck. 🔮 / Comment 222. Part 2 is in my story. Tap my photo NOW."
-- **Comentário fixado:** "PART 2 is in my story. 👆 Tap my photo NOW, it's gone in 24 hours. Comment 222 if this is you. 🔥" (Face: "my Story", "my profile picture").
+- **Legenda (com hashtag; o teste com e sem acabou em 23/10):** "Cancer, Scorpio, Pisces: if every relationship ends the same way, it's not bad luck. 🔮 / Comment 222. Part 2 is in my story. Tap my photo NOW. / #astrology #zodiac #usa #usareels". Localização no Insta: Los Angeles, California.
+- **Comentário fixado:** "Cancer, Scorpio, Pisces, this one is yours. 🔥 PART 2 is in my story. 👆 Tap my photo NOW, it's gone in 24 hours. Comment 222." (Face: "my Story", "my profile picture").
 - **Story:** o de 23/10 (18h25): "Tap below and take the love quiz." + adesivo "Take the quiz".

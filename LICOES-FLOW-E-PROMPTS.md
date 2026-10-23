@@ -409,3 +409,9 @@ Depois da segunda renumeração, a lista de Artifacts do aluno tinha dois "Paine
 - **Flow barato:** o plano de 18 meses (Gemini Pro + Flow, 1000 créditos) subiu de US$ 1,35 para US$ 2,50 por conta (Tiaguinho); Bruno Avelino comprou mais de 30 (tutorial no fórum, "COMO CONSEGUIR GEMINI PRO+FLOW").
 - **Agendar:** Face pelo Meta Business Suite funciona (há carregamento em massa); Insta pelo Business Suite dá problema; a T&C agenda no GeeLark com automações próprias feitas com o Claude Code.
 - **Vitórias:** o Matheus Baffa (o aluno conversa com ele por DM) bateu o primeiro dia de R$ 1k; a Camilla fez a 1ª venda em 25 dias depois de um vídeo viralizar; o rodrigo fez a 1ª em menos de 7 dias. O funil de manifestação acaba em 24/10 para quem tem menos de 100 vendas (não afeta o aluno, que vende só o Love Chart).
+
+### 23/10/2026 - Respostas do Matheus Baffa (áudio de 2:19, transcrito pelo aluno)
+- Destravou com uns 15 vídeos (no 11º já fazia 500 a 1000 views). A Nora v2 só tem 9 vídeos até hoje à noite (nora25 a nora33): ainda é cedo para julgar a avatar.
+- Não se apega ao horário; aceita os indianos; hashtag, localização e bandeira dos EUA ajudam. **Aplicado:** janela vira preferência; localização Los Angeles, California e #usa #usareels em todo post.
+- **Gancho na tela com o que a pessoa já acredita:** os signos segmentados escritos no texto do topo (ou o número, a fase da lua), só no gancho. **Aplicado no nora33** (texto da tela virou "Cancer, Scorpio, Pisces: different guys, same ending. Look at your 7th house.", com os signos em amarelo-ouro) e vale para os próximos.
+- CTA: Insta = story pela foto do perfil (mais link na bio, que dá uma venda ou outra); Face = comentário e story. **Decisão:** sem link na bio do Insta (risco de verificação numa conta de avatar de IA); Destaque com o link no lugar.

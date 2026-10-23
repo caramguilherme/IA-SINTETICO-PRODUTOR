@@ -89,7 +89,7 @@ O número do vídeo é a ordem de postagem na conta: **nora01 a nora30 já foram
 | `nora32-T1-gancho-o-que-voce-fez` | “What the hell did you just do? Aries, Leo, or Sagittarius…” | só deste vídeo | a gerar (15 créditos) |
 | `nora32-T2` a `nora32-T9` | **não são gerados (versão barata, decisão do aluno em 22/10/2026):** são cópias renomeadas de `nora30-T2` a `nora30-T9`, só para a ferramenta de corte juntar pela ordem do nome | corpo da série | reaproveitados do nora30 |
 | `nora33-IMG` | a Nora no sofá à noite, blusa ameixa, mapa astral com um círculo vermelho na casa 7 na mão do lado esquerdo da imagem (gerada do blueprint) | outros vídeos de texto na tela | a gerar (23/10) |
-| `nora33-CLIPE-texto-na-tela` | clipe de 8 s sem fala, texto “Different guys. Same ending. It's not bad luck. Look at your 7th house.” | só deste vídeo | a gerar (12 créditos; postar 23/10 21h30) |
+| `nora33-CLIPE-texto-na-tela` | clipe de 8 s sem fala, texto “Cancer, Scorpio, Pisces: different guys, same ending. Look at your 7th house.” | só deste vídeo | a gerar (12 créditos; postar 23/10 21h30) |
 | `nora34-IMG` | imagem 1 B (varanda em dia nublado, quartzo rosa grande) | só o nora34 (copy curta; era nora33 até 23/10 ~12h) | a gerar |
 | `nora34-T1` a `nora34-T3` | copy curta (gancho, corpo, CTA); **a copy antiga sai pelo P39 e será reescrita** antes de gerar | só deste vídeo | a reescrever |
 
