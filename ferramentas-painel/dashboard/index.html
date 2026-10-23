@@ -1,0 +1,459 @@
+<style>
+.nx { display: flex; flex-direction: column; gap: var(--cds-gap-lg); font-family: var(--font-anthropic-sans); font-variant-numeric: tabular-nums; }
+.nx-head { display: flex; flex-direction: column; gap: var(--cds-gap-sm); }
+.nx-toprow { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: var(--cds-gap-md); }
+.nx-title { margin: 0; font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); text-wrap: balance; }
+.nx-controls { display: flex; flex-wrap: wrap; gap: var(--cds-gap-sm); }
+.nx-take { margin: 0; max-width: 72ch; color: var(--color-fg-muted); font-size: var(--cds-font-size-body); }
+.nx-take b { color: var(--color-fg); font-weight: var(--cds-font-weight-medium); }
+.nx-seg { display: inline-flex; gap: 2px; padding: 2px; border: 1px solid var(--color-border-line); border-radius: 999px; background: var(--color-panel); }
+.nx-seg button { appearance: none; border: 0; background: transparent; color: var(--color-fg-muted); font: inherit; font-size: var(--cds-font-size-caption); padding: var(--cds-pad-xs) var(--cds-pad-md); border-radius: 999px; cursor: pointer; }
+.nx-seg button[aria-pressed="true"] { background: var(--color-bg); color: var(--color-fg); box-shadow: 0 0 0 1px var(--color-border-line); }
+.nx-seg button:focus-visible, .nx-table th button:focus-visible, .nx-search:focus-visible { outline: 2px solid var(--color-fg); outline-offset: 2px; }
+.nx-tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 9.5rem), 1fr)); gap: var(--cds-gap-md); }
+.nx-tile { display: flex; flex-direction: column; gap: var(--cds-gap-xs); min-width: 0; padding: var(--cds-pad-lg); background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); }
+.nx-label { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); letter-spacing: .01em; }
+.nx-big { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); line-height: 1.15; min-height: 1.15em; }
+.nx-sub { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+.nx-delta { margin-left: var(--cds-gap-xs); }
+.nx-good { color: var(--color-ok); }
+.nx-bad { color: var(--color-bad); }
+.nx-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr)); gap: var(--cds-gap-md); }
+.nx-card { position: relative; display: flex; flex-direction: column; gap: var(--cds-gap-sm); min-width: 0; padding: var(--cds-pad-lg); background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); }
+.nx-card h2 { margin: 0; font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); }
+.nx-note { margin: 0; font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+.nx-chart { position: relative; min-height: 200px; }
+.nx-chart svg { display: block; }
+.nx-chart .nx-tick { font-size: var(--cds-font-size-caption); fill: var(--color-fg-muted); }
+.nx-chart .nx-val { font-size: var(--cds-font-size-caption); fill: var(--color-fg); }
+.nx-tip { position: absolute; z-index: 2; max-width: 16rem; pointer-events: none; padding: var(--cds-pad-xs) var(--cds-pad-sm); font-size: var(--cds-font-size-caption); background: var(--cds-surface-popover); border: 1px solid var(--cds-border); border-radius: var(--cds-radius); box-shadow: var(--cds-shadow-popover); }
+.nx-tip .nx-t1 { color: var(--cds-text-secondary); }
+.nx-fail { display: flex; align-items: center; justify-content: center; gap: var(--cds-gap-xs); min-height: inherit; color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); }
+.nx-fail::before { content: ""; width: .375rem; height: .375rem; border-radius: 50%; background: var(--color-bad); }
+.nx-cardhead { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: var(--cds-gap-sm); }
+.nx-search { min-width: 0; width: min(100%, 14rem); padding: var(--cds-pad-xs) var(--cds-pad-sm); font: inherit; font-size: var(--cds-font-size-caption); color: var(--color-fg); background: var(--color-bg); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); }
+.nx-tablebox { max-height: 34rem; overflow: auto; }
+.nx-table { width: 100%; border-collapse: collapse; font-size: var(--cds-font-size-caption); }
+.nx-table th { position: sticky; top: 0; z-index: 1; background: var(--color-panel); text-align: left; font-weight: var(--cds-font-weight-medium); color: var(--color-fg-muted); border-bottom: 1px solid var(--color-border-line); padding: 0; white-space: nowrap; }
+.nx-table th button { appearance: none; border: 0; background: transparent; font: inherit; color: inherit; padding: var(--cds-pad-xs) var(--cds-pad-sm); cursor: pointer; text-align: inherit; width: 100%; }
+.nx-table th[aria-sort="ascending"] button::after { content: " ↑"; }
+.nx-table th[aria-sort="descending"] button::after { content: " ↓"; }
+.nx-table td { padding: var(--cds-pad-xs) var(--cds-pad-sm); border-bottom: 1px solid var(--color-border-line); vertical-align: top; }
+.nx-table .nx-n { text-align: right; white-space: nowrap; }
+.nx-table th.nx-n { text-align: right; }
+.nx-table .c-video { min-width: 12rem; }
+.nx-table .c-post { white-space: nowrap; }
+.nx-table .c-lido { min-width: 9rem; color: var(--color-fg-muted); }
+.nx-chip { display: inline-block; padding: 0 var(--cds-pad-xs); border-radius: 999px; border: 1px solid currentColor; line-height: 1.5; }
+.nx-chip.is-in { color: var(--color-ok); }
+.nx-chip.is-out { color: var(--color-warn); }
+.nx-table.is-fb .c-india, .nx-table.is-fb .c-pais { display: none; }
+@media (max-width: 640px) { .nx-table .c-fol, .nx-table .c-pais, .nx-table .c-lido { display: none; } }
+#dash-root [data-dash-source-state=empty] { color: transparent; }
+#dash-root [data-dash-source-state=refreshing] { opacity: .5; transition: opacity var(--cds-dur-slow); }
+</style>
+
+<div class="nx">
+  <header class="nx-head" id="topo">
+    <div class="nx-toprow">
+      <h1 class="nx-title">Métricas da Nora</h1>
+      <div class="nx-controls">
+        <div class="nx-seg" role="group" aria-label="Rede">
+          <button type="button" data-param="rede" data-value="Instagram">Instagram</button>
+          <button type="button" data-param="rede" data-value="Facebook">Facebook</button>
+        </div>
+        <div class="nx-seg" role="group" aria-label="Quais vídeos">
+          <button type="button" data-param="periodo" data-value="v2">Nora nova (nora25+)</button>
+          <button type="button" data-param="periodo" data-value="todos">Todos</button>
+        </div>
+      </div>
+    </div>
+    <p class="nx-take">Último vídeo com leitura no <span class="nx-rede">Instagram</span>: <b id="tk-video" class="dash-skeleton">—</b>, lido em <span id="tk-lido" class="dash-skeleton">—</span>. Janela de postagem: 18h30 a 21h45 (Brasília).</p>
+  </header>
+
+  <section class="nx-tiles" id="ultimo" aria-label="Último vídeo com leitura">
+    <div class="nx-tile" data-slot="0"><span class="nx-label">Views</span><span class="nx-big dash-skeleton">—</span><span class="nx-sub">média dos 5 anteriores: <span class="nx-avg">—</span><span class="nx-delta"></span></span></div>
+    <div class="nx-tile" data-slot="1"><span class="nx-label">Passam dos 3 s</span><span class="nx-big dash-skeleton">—</span><span class="nx-sub">média dos 5 anteriores: <span class="nx-avg">—</span><span class="nx-delta"></span></span></div>
+    <div class="nx-tile" data-slot="2"><span class="nx-label">Tempo médio</span><span class="nx-big dash-skeleton">—</span><span class="nx-sub">média dos 5 anteriores: <span class="nx-avg">—</span><span class="nx-delta"></span></span></div>
+    <div class="nx-tile" data-slot="3"><span class="nx-label">Índia</span><span class="nx-big dash-skeleton">—</span><span class="nx-sub">média dos 5 anteriores: <span class="nx-avg">—</span><span class="nx-delta"></span></span></div>
+    <div class="nx-tile" data-slot="4"><span class="nx-label">Seguidores novos</span><span class="nx-big dash-skeleton">—</span><span class="nx-sub">média dos 5 anteriores: <span class="nx-avg">—</span><span class="nx-delta"></span></span></div>
+  </section>
+
+  <section class="nx-grid" id="graficos">
+    <div class="nx-card" id="card-views">
+      <h2>Views por vídeo</h2>
+      <p class="nx-note">Número do vídeo embaixo de cada barra. Cor forte: Nora nova (nora25 em diante).</p>
+      <div class="nx-chart dash-skeleton" id="ch-views" data-source="videos"></div>
+    </div>
+    <div class="nx-card" id="card-ret">
+      <h2>Passam dos 3 s</h2>
+      <p class="nx-note">Quem viu e não pulou nos 3 primeiros segundos (100% menos o skip).</p>
+      <div class="nx-chart dash-skeleton" id="ch-ret" data-source="videos"></div>
+    </div>
+    <div class="nx-card" id="card-tempo">
+      <h2>Tempo médio assistido</h2>
+      <p class="nx-note">Segundos, em média, por visualização.</p>
+      <div class="nx-chart dash-skeleton" id="ch-tempo" data-source="videos"></div>
+    </div>
+    <div class="nx-card" id="card-india">
+      <h2>Índia × horário da postagem</h2>
+      <p class="nx-note">Instagram, todos os vídeos. Faixa clara: janela das 18h30 às 21h45.</p>
+      <div class="nx-chart dash-skeleton" id="ch-india" data-source="videos"></div>
+    </div>
+  </section>
+
+  <section class="nx-card" id="tabela">
+    <div class="nx-cardhead">
+      <h2>Todos os vídeos</h2>
+      <input id="nx-busca" class="nx-search" type="search" placeholder="Buscar vídeo" aria-label="Buscar vídeo">
+    </div>
+    <p class="nx-note">Uma linha por vídeo na rede escolhida, do mais novo ao mais antigo. Toque no título de uma coluna para ordenar.</p>
+    <div class="nx-tablebox">
+      <table class="nx-table" id="nx-tab" data-source="videos" data-row-key="id">
+        <thead>
+          <tr>
+            <th class="c-video" data-field="video"><button type="button" data-sort="video">Vídeo</button></th>
+            <th class="c-post" data-field="postado"><button type="button" data-sort="postado">Postado</button></th>
+            <th class="c-jan" data-field="janela"><button type="button" data-sort="janela">Janela</button></th>
+            <th class="nx-n" data-field="views"><button type="button" data-sort="views">Views</button></th>
+            <th class="nx-n" data-field="ret3s"><button type="button" data-sort="ret3s">Passam 3 s</button></th>
+            <th class="nx-n" data-field="tempo"><button type="button" data-sort="tempo">Tempo</button></th>
+            <th class="nx-n c-fol" data-field="follows"><button type="button" data-sort="follows">Seguidores</button></th>
+            <th class="nx-n c-india" data-field="india"><button type="button" data-sort="india">Índia</button></th>
+            <th class="c-pais" data-field="pais1"><button type="button" data-sort="pais1">1º país</button></th>
+            <th class="c-lido" data-field="lido"><button type="button" data-sort="lido">Leitura</button></th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+</div>
+
+<script>
+dash.calc('videos', {
+  inputs: ['metricas'],
+  title: 'Vídeos com números limpos',
+  description: 'Uma linha por vídeo e rede: textos viram números, "Passam dos 3 s" é 100 menos o skip quando a planilha não traz, e a % da Índia sai da lista de países.',
+  fn: (metricas) => metricas.map((r) => {
+    const n = (x) => (x === '' || x == null ? null : Number(String(x).replace(',', '.')));
+    const skip = n(r.skip);
+    const ret = n(r.ret3s) ?? (skip == null ? null : Math.round((100 - skip) * 10) / 10);
+    const ind = [r.pais1, r.pais2, r.pais3, r.pais4, r.pais5].find((p) => (p || '').startsWith('India'));
+    const m = /(\d{1,2})h(\d{2})/.exec(r.postado || '');
+    const hora = m ? Number(m[1]) + Number(m[2]) / 60 : null;
+    return {
+      id: r.id, ordem: n(r.ordem), video: r.video, rede: r.rede, funil: r.funil, postado: r.postado,
+      hora, janela: hora == null ? null : (hora >= 18.5 && hora <= 21.75 ? 'dentro' : 'fora'),
+      views: n(r.views), viewers: n(r.viewers), follows: n(r.follows), ret3s: ret, tempo: n(r.tempo),
+      india: ind ? n(ind.replace('India', '').replace('%', '').trim()) : null,
+      pais1: r.pais1 || null, lido: r.print ? r.print.split(' (')[0] : null,
+    };
+  }),
+});
+
+dash.calc('resumo', {
+  inputs: ['videos'],
+  title: 'Média dos 5 vídeos anteriores',
+  description: 'Para cada rede: o último vídeo com leitura e a média dos 5 vídeos com leitura que vieram antes dele.',
+  fn: (videos) => ['Instagram', 'Facebook'].map((rede) => {
+    const lidos = videos.filter((v) => v.rede === rede && v.views != null).sort((a, b) => a.ordem - b.ordem);
+    const antes = lidos.slice(-6, -1);
+    const media = (k, casas) => {
+      const xs = antes.map((v) => v[k]).filter((x) => x != null);
+      if (!xs.length) return null;
+      const p = 10 ** casas;
+      return Math.round((xs.reduce((s, x) => s + x, 0) / xs.length) * p) / p;
+    };
+    return {
+      rede, ultimo: lidos.length ? lidos[lidos.length - 1].id : null,
+      views: media('views', 0), viewers: media('viewers', 0), ret3s: media('ret3s', 1),
+      tempo: media('tempo', 1), india: media('india', 1), follows: media('follows', 1),
+    };
+  }),
+});
+</script>
+
+<script>
+const loc = d3.formatLocale({ decimal: ',', thousands: '.', grouping: [3], currency: ['R$ ', ''] });
+const fInt = loc.format(',d');
+const f1 = loc.format(',.1~f');
+const FMT = {
+  views: fInt, viewers: fInt, follows: f1,
+  ret3s: (x) => f1(x) + '%', india: (x) => f1(x) + '%', tempo: (x) => f1(x) + ' s',
+};
+const show = (k, x) => (x == null || x === '' ? '—' : (FMT[k] ? FMT[k](x) : String(x)));
+const LABEL = { views: 'Views', viewers: 'Visualizadores', ret3s: 'Passam dos 3 s', tempo: 'Tempo médio', india: 'Índia', follows: 'Seguidores novos' };
+const LOWER_IS_BETTER = { india: true };
+const shortName = (v) => v.video.split(' · ')[0];
+const num = (v) => shortName(v).replace('nora', '');
+const isNew = (v) => v.ordem >= 25;
+const enc = (s) => encodeURIComponent(String(s));
+
+const segButtons = Array.from(document.querySelectorAll('.nx-seg button'));
+segButtons.forEach((b) => b.addEventListener('click', () => dash.setParams({ [b.dataset.param]: b.dataset.value })));
+
+function note(box, text) {
+  const p = document.createElement('p');
+  p.className = 'nx-note';
+  p.textContent = text;
+  box.append(p);
+}
+function failLine(box) {
+  box.replaceChildren();
+  box.classList.remove('dash-skeleton');
+  const s = document.createElement('div');
+  s.className = 'nx-fail';
+  s.textContent = 'Failed to load';
+  box.append(s);
+}
+function mark(el, source, field, where) {
+  el.setAttribute('data-source', source);
+  el.setAttribute('data-field', field);
+  el.setAttribute('data-where', where);
+}
+function makeTip(box) {
+  const t = document.createElement('div');
+  t.className = 'nx-tip';
+  t.hidden = true;
+  box.append(t);
+  return t;
+}
+function tipShow(tip, box, ev, v, lines) {
+  tip.replaceChildren();
+  const head = document.createElement('div');
+  head.className = 'nx-t1';
+  head.textContent = v.video;
+  tip.append(head);
+  lines.forEach((txt) => {
+    const d = document.createElement('div');
+    d.textContent = txt;
+    tip.append(d);
+  });
+  tip.hidden = false;
+  const [mx, my] = d3.pointer(ev, box);
+  const w = tip.offsetWidth;
+  const h = tip.offsetHeight;
+  tip.style.left = Math.max(0, Math.min(box.clientWidth - w, mx + 12)) + 'px';
+  tip.style.top = Math.max(0, my - h - 10) + 'px';
+}
+
+function bars(box, rows, key) {
+  box.replaceChildren();
+  box.classList.remove('dash-skeleton');
+  const pts = rows.filter((v) => v[key] != null);
+  if (!pts.length) { note(box, 'Ainda sem números nesta rede.'); return; }
+  const W = Math.max(280, Math.round(box.clientWidth || 560));
+  const H = 200, top = 20, bottom = 24;
+  const svg = d3.select(box).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`)
+    .attr('role', 'img').attr('aria-label', LABEL[key] + ' por vídeo');
+  const y = d3.scaleLinear([0, d3.max(pts, (v) => v[key]) || 1], [H - bottom, top]).nice();
+  const ticks = y.ticks(4);
+  const yl = svg.append('g').selectAll('text').data(ticks).join('text')
+    .attr('class', 'nx-tick').attr('text-anchor', 'end').attr('dy', '0.32em')
+    .text((t) => show(key, t));
+  const left = Math.ceil(d3.max(yl.nodes(), (n) => n.getComputedTextLength()) || 0) + 10;
+  yl.attr('x', left - 6).attr('y', (t) => y(t));
+  svg.insert('g', ':first-child').selectAll('line').data(ticks).join('line')
+    .attr('x1', left).attr('x2', W - 2).attr('y1', (t) => y(t)).attr('y2', (t) => y(t))
+    .style('stroke', (t) => (t === 0 ? 'var(--cds-chart-axis)' : 'var(--cds-chart-grid)'))
+    .style('stroke-width', 1);
+  const x = d3.scaleBand(pts.map((v) => v.id), [left, W - 2]).paddingInner(0.25).paddingOuter(0.1);
+  const bw = Math.min(32, x.bandwidth());
+  const off = (x.bandwidth() - bw) / 2;
+  const tip = makeTip(box);
+  svg.append('g').selectAll('rect').data(pts).join('rect')
+    .attr('x', (v) => x(v.id) + off).attr('width', bw)
+    .attr('y', (v) => y(v[key])).attr('height', (v) => Math.max(0, y(0) - y(v[key])))
+    .attr('rx', Math.min(4, bw / 2))
+    .style('fill', (v) => (isNew(v) ? dash.colors[0] : 'var(--cds-chart-muted)'))
+    .on('mousemove', (ev, v) => tipShow(tip, box, ev, v, [LABEL[key] + ': ' + show(key, v[key]), 'Postado ' + v.postado]))
+    .on('mouseleave', () => { tip.hidden = true; });
+  if (x.step() >= 34) {
+    svg.append('g').selectAll('text').data(pts).join('text')
+      .attr('class', 'nx-val').attr('text-anchor', 'middle')
+      .attr('x', (v) => x(v.id) + x.bandwidth() / 2).attr('y', (v) => y(v[key]) - 5)
+      .text((v) => show(key, v[key]));
+  }
+  const every = Math.max(1, Math.ceil(22 / x.step()));
+  const last = pts.length - 1;
+  svg.append('g').selectAll('text').data(pts.filter((v, i) => (last - i) % every === 0)).join('text')
+    .attr('class', 'nx-tick').attr('text-anchor', 'middle')
+    .attr('x', (v) => x(v.id) + x.bandwidth() / 2).attr('y', H - 6)
+    .text((v) => num(v));
+}
+
+function scatter(box, rows) {
+  box.replaceChildren();
+  box.classList.remove('dash-skeleton');
+  const pts = rows.filter((v) => v.india != null && v.hora != null);
+  if (!pts.length) { note(box, 'Ainda sem países anotados.'); return; }
+  const W = Math.max(280, Math.round(box.clientWidth || 560));
+  const H = 220, top = 20, bottom = 24;
+  const svg = d3.select(box).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`)
+    .attr('role', 'img').attr('aria-label', 'Porcentagem de Índia por horário da postagem');
+  const y = d3.scaleLinear([0, Math.max(70, d3.max(pts, (v) => v.india))], [H - bottom, top]).nice();
+  const ticks = y.ticks(4);
+  const yl = svg.append('g').selectAll('text').data(ticks).join('text')
+    .attr('class', 'nx-tick').attr('text-anchor', 'end').attr('dy', '0.32em')
+    .text((t) => t + '%');
+  const left = Math.ceil(d3.max(yl.nodes(), (n) => n.getComputedTextLength()) || 0) + 10;
+  yl.attr('x', left - 6).attr('y', (t) => y(t));
+  const x = d3.scaleLinear([0, 24], [left + 6, W - 10]);
+  const grid = svg.insert('g', ':first-child');
+  grid.append('rect')
+    .attr('x', x(18.5)).attr('width', x(21.75) - x(18.5)).attr('y', top).attr('height', H - bottom - top)
+    .style('fill', 'var(--cds-chart-reference)').style('fill-opacity', 0.14);
+  grid.selectAll('line').data(ticks).join('line')
+    .attr('x1', left).attr('x2', W - 2).attr('y1', (t) => y(t)).attr('y2', (t) => y(t))
+    .style('stroke', (t) => (t === 0 ? 'var(--cds-chart-axis)' : 'var(--cds-chart-grid)'))
+    .style('stroke-width', 1);
+  svg.append('text').attr('class', 'nx-tick').attr('text-anchor', 'middle')
+    .attr('x', (x(18.5) + x(21.75)) / 2).attr('y', top - 6).text('janela');
+  svg.append('g').selectAll('text').data([0, 6, 12, 18, 24]).join('text')
+    .attr('class', 'nx-tick').attr('text-anchor', 'middle')
+    .attr('x', (t) => x(t)).attr('y', H - 6).text((t) => t + 'h');
+  const tip = makeTip(box);
+  svg.append('g').selectAll('circle').data(pts).join('circle')
+    .attr('cx', (v) => x(v.hora)).attr('cy', (v) => y(v.india)).attr('r', 5)
+    .style('fill', (v) => (isNew(v) ? dash.colors[0] : 'var(--cds-chart-muted)'))
+    .style('stroke', 'var(--color-panel)').style('stroke-width', 1.5)
+    .on('mousemove', (ev, v) => tipShow(tip, box, ev, v, ['Índia: ' + show('india', v.india), 'Postado ' + v.postado]))
+    .on('mouseleave', () => { tip.hidden = true; });
+}
+
+const table = document.getElementById('nx-tab');
+const tbody = table.querySelector('tbody');
+const search = document.getElementById('nx-busca');
+const COLS = [
+  { k: 'video', cls: 'c-video' }, { k: 'postado', cls: 'c-post' }, { k: 'janela', cls: 'c-jan' },
+  { k: 'views', cls: 'nx-n' }, { k: 'ret3s', cls: 'nx-n' }, { k: 'tempo', cls: 'nx-n' },
+  { k: 'follows', cls: 'nx-n c-fol' }, { k: 'india', cls: 'nx-n c-india' },
+  { k: 'pais1', cls: 'c-pais' }, { k: 'lido', cls: 'c-lido' },
+];
+let sort = { k: 'ordem', dir: -1 };
+let tableRows = [];
+table.querySelectorAll('th button').forEach((b) => b.addEventListener('click', () => {
+  const k = b.dataset.sort;
+  sort = sort.k === k ? { k, dir: -sort.dir } : { k, dir: ['views', 'ret3s', 'tempo', 'follows', 'india'].includes(k) ? -1 : 1 };
+  renderTable();
+}));
+search.addEventListener('input', () => renderTable());
+
+function renderTable() {
+  const q = search.value.trim().toLowerCase();
+  const sk = sort.k === 'postado' ? 'ordem' : sort.k;
+  const rows = tableRows
+    .filter((v) => !q || (v.video + ' ' + v.postado).toLowerCase().includes(q))
+    .slice()
+    .sort((a, b) => {
+      const A = a[sk], B = b[sk];
+      if (A == null && B == null) return 0;
+      if (A == null) return 1;
+      if (B == null) return -1;
+      return (typeof A === 'number' ? A - B : String(A).localeCompare(String(B), 'pt-BR')) * sort.dir;
+    });
+  table.querySelectorAll('th').forEach((th) => {
+    const k = th.getAttribute('data-field');
+    if (k === sort.k) th.setAttribute('aria-sort', sort.dir > 0 ? 'ascending' : 'descending');
+    else th.removeAttribute('aria-sort');
+  });
+  tbody.replaceChildren(...rows.map((v) => {
+    const tr = document.createElement('tr');
+    tr.dataset.key = v.id;
+    COLS.forEach((c) => {
+      const td = document.createElement('td');
+      td.className = c.cls;
+      if (c.k === 'janela' && v.janela) {
+        const chip = document.createElement('span');
+        chip.className = 'nx-chip ' + (v.janela === 'dentro' ? 'is-in' : 'is-out');
+        chip.textContent = v.janela;
+        td.append(chip);
+      } else {
+        td.textContent = show(c.k, v[c.k]);
+      }
+      tr.append(td);
+    });
+    return tr;
+  }));
+}
+
+const tiles = Array.from(document.querySelectorAll('.nx-tile'));
+const charts = ['ch-views', 'ch-ret', 'ch-tempo', 'ch-india'].map((id) => document.getElementById(id));
+const tkVideo = document.getElementById('tk-video');
+const tkLido = document.getElementById('tk-lido');
+
+dash.onData(() => {
+  const p = dash.params();
+  const rede = p.rede || 'Instagram';
+  const periodo = p.periodo || 'v2';
+  const cur = { rede, periodo };
+  segButtons.forEach((b) => b.setAttribute('aria-pressed', String(cur[b.dataset.param] === b.dataset.value)));
+  document.querySelectorAll('.nx-rede').forEach((el) => { el.textContent = rede; });
+  table.classList.toggle('is-fb', rede === 'Facebook');
+
+  const d = dash.data('videos');
+  const r = dash.data('resumo');
+  if (d.status !== 'ok') {
+    const failed = d.status === 'error';
+    charts.forEach((box) => { if (failed) failLine(box); else { box.replaceChildren(); box.classList.add('dash-skeleton'); } });
+    tiles.forEach((t) => { const big = t.querySelector('.nx-big'); big.textContent = '—'; big.classList.toggle('dash-skeleton', !failed); });
+    [tkVideo, tkLido].forEach((el) => { el.textContent = '—'; el.classList.toggle('dash-skeleton', !failed); });
+    tableRows = [];
+    renderTable();
+    return;
+  }
+
+  const all = d.data;
+  const daRede = all.filter((v) => v.rede === rede).sort((a, b) => a.ordem - b.ordem);
+  const lidos = daRede.filter((v) => v.views != null);
+  const ult = lidos[lidos.length - 1];
+  const res = r.status === 'ok' ? r.data.find((x) => x.rede === rede) : null;
+
+  [tkVideo, tkLido].forEach((el) => el.classList.remove('dash-skeleton'));
+  if (ult) {
+    const w = 'id=' + enc(ult.id);
+    mark(tkVideo, 'videos', 'video', w);
+    tkVideo.textContent = ult.video;
+    mark(tkLido, 'videos', 'lido', w);
+    tkLido.textContent = ult.lido || '—';
+  }
+
+  const keys = ['views', 'ret3s', 'tempo', rede === 'Instagram' ? 'india' : 'viewers', 'follows'];
+  tiles.forEach((t, i) => {
+    const k = keys[i];
+    t.querySelector('.nx-label').textContent = LABEL[k];
+    const big = t.querySelector('.nx-big');
+    big.classList.remove('dash-skeleton');
+    const avg = t.querySelector('.nx-avg');
+    const delta = t.querySelector('.nx-delta');
+    delta.textContent = '';
+    delta.className = 'nx-delta';
+    if (!ult) { big.textContent = '—'; avg.textContent = '—'; return; }
+    mark(big, 'videos', k, 'id=' + enc(ult.id));
+    big.textContent = show(k, ult[k]);
+    if (res) {
+      mark(avg, 'resumo', k, 'rede=' + enc(rede));
+      avg.textContent = show(k, res[k]);
+      if (ult[k] != null && res[k] != null && ult[k] !== res[k]) {
+        const up = ult[k] > res[k];
+        const good = LOWER_IS_BETTER[k] ? !up : up;
+        delta.textContent = up ? ' ▲' : ' ▼';
+        delta.classList.add(good ? 'nx-good' : 'nx-bad');
+        delta.setAttribute('aria-label', up ? 'acima da média' : 'abaixo da média');
+      }
+    } else {
+      avg.textContent = '—';
+    }
+  });
+
+  const visiveis = daRede.filter((v) => periodo === 'todos' || isNew(v));
+  bars(charts[0], visiveis, 'views');
+  bars(charts[1], visiveis, 'ret3s');
+  bars(charts[2], visiveis, 'tempo');
+  scatter(charts[3], all.filter((v) => v.rede === 'Instagram'));
+
+  tableRows = visiveis;
+  renderTable();
+});
+</script>

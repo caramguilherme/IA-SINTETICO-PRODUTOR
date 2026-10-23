@@ -1,6 +1,6 @@
 # Painel de métricas da Nora
 
-O aluno acompanha as métricas neste painel (link privado): https://claude.ai/artifact/Kd9FLg2PEqCJ7TeTij3mvZ
+O aluno acompanha as métricas neste painel (link privado): https://claude.ai/artifact/LXyXLjNohRDcTcnYwtAZKi (recriado na conta nova em 23/10/2026; o antigo, Kd9FLg2PEqCJ7TeTij3mvZ, era da conta antiga e não abre)
 
 - Os dados vêm de `METRICAS-NORA.csv` (anexado ao painel). Quando o aluno mandar números novos, o agente atualiza o CSV do projeto e **sobe o arquivo novo no painel** (nova versão do dataset `metricas`), com o horário da leitura.
 - Cada leitura registra o horário (os vídeos recentes só entregam depois de 2 a 3 dias).
