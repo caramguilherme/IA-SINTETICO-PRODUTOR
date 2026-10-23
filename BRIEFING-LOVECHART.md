@@ -111,7 +111,8 @@ Por quê: o Love Chart é sobre ela; não desenha, não identifica e não prevê
 | POV com texto na tela | texto grande, música em alta, cenas do dia a dia | 01, 03 |
 Varie: mais de um formato e mais de um ângulo, para ver o que funciona com o público.
 
-## Onde este briefing oficial conflita com as regras do projeto (decisão do aluno pendente em 23/10/2026)
+## Onde este briefing oficial conflita com as regras do projeto
+**Decisão do aluno (23/10/2026): seguir a lista "não diga" nas promessas e manter os ganchos fortes, a escassez, a série por signos e o texto na tela (P39 no `CLAUDE.md`). O nora32 sai como está; vale do nora33 em diante.**
 - **"Free":** o P10 e os stories usam "free quiz" / "Take the free quiz"; a Appyon pede "take the quiz" / "get your Love Chart".
 - **P15 e P20 (copy sem limite):** garantia de resultado, prazo e data exatos, "em 7 minutos", "ele volta", ameaça e maldição, tom de vidente. A Appyon proíbe garantia, data exata, solução instantânea e "fazer ele voltar", e pede tom de amiga, não de vidente ou guru.
 - **Corpo do S3 (nora30, reaproveitado no nora32):** "the man the universe kept for you", "the love block that was cast on you", "in seven minutes you're going to come back" ficam fora do que a Appyon pede para o Love Chart.
