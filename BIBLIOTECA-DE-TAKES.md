@@ -20,6 +20,7 @@ O número do vídeo é a ordem de postagem na conta: **nora01 a nora30 já foram
 4. **Quando decidir:** depois de 2 a 3 dias de postagem, o vídeo com mais retenção nos 3 s, mais tempo médio e mais comentários vira o **kit campeão**: o corpo, o CTA e a imagem dele ganham ganchos novos (nora29 em diante, uns 22 créditos cada: pré-gancho 7 + gancho 15).
 5. **Corpo** só é reaproveitado se o gancho novo leva à mesma ideia (padrão de amor, Vênus). Se o ângulo é outro, o corpo é novo.
 6. O kit campeão ganha a marca “campeão” aqui e é o primeiro a ser reaproveitado.
+7. **Espelhado (Discord, 23/10/2026):** o vídeo que vai bem no Face ganha uma versão espelhada no CapCut (só a camada do vídeo, antes dos textos), postada só no Face, com o nome `noraNN-ESP`. Custa 0 crédito. Depois, se continuar bem, a versão acelerada (1,2x) com filtro.
 
 ## Inventário (nora25 a nora28)
 | Nome | O que é | Pode ser usado em | Status |
