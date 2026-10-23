@@ -360,6 +360,8 @@ O vitórias-dólar não trouxe nada novo (só prints de vendas e o que já está
 - **Insta pedindo telefone ou bloqueando post:** comentar enquanto rola o feed piora; só curtir (Caio1094). Sil_Ntz comprou número virtual para a verificação. Não se aplica agora.
 - **Resposta ao aluno:** Marcelo (MVM, 22/10 16h32) respondeu à mensagem do aluno de 20/10 sobre a Índia ("aqui tá igual, conseguiu resolver?", vídeos de 2k a 3k com mais de 70% de Índia).
 
+> Renumeração de 23/10/2026: o "nora31" das lições de 22/10 abaixo (curativo) é hoje o **nora32**, e o "nora33" (texto na tela) é hoje o **nora31**.
+
 ### 22/10/2026 - Painel do nora31: textos herdados de outro painel
 Na revisão antes de gerar, o painel do nora31 tinha textos copiados de painéis anteriores que não valiam para ele: a aprovação da IMAGEM 1 pedia "objeto na mão direita, esquerda livre" (no nora31 são as duas mãos), o título do pré-gancho dizia "com o rosto da avatar" (é só de mãos), a montagem do pré-gancho estava vazia, o texto na tela citava "Tap my photo and open my story" (a fala é "Tap my profile picture and check my stories") e os números como brancos (o estilo é amarelo-ouro), e o botão do story copiava o adesivo "Find my Venus", que só vale com o Love Chart no ar (P37). Corrigido no nora31; nora32 e nora33 têm o mesmo story e serão corrigidos ao finalizar. **Checklist, item 35:** ao montar um painel a partir de outro, ler o painel renderizado inteiro e conferir cada texto herdado (passos, aprovação, títulos, montagem, texto na tela, story, adesivo) contra o roteiro deste vídeo.
 

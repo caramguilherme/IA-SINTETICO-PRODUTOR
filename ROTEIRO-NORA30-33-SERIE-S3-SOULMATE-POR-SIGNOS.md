@@ -1,5 +1,7 @@
 # nora30 a nora33 — SÉRIE DO S3 (por signos): corpo copiado do viral, 9 takes (21/10/2026)
 
+> **Renumeração (23/10/2026, pedido do aluno):** o número segue a ordem de postagem. O texto na tela (chamado nora33 abaixo) virou **nora31**; o curativo (nora31 abaixo) virou **nora32**; a copy curta (nora32 abaixo) virou **nora33**. O texto deste arquivo é histórico e usa os nomes antigos; os painéis já usam os novos.
+
 Status: **PARA PRODUZIR** (decisão do aluno em 21/10/2026, depois da conversa com o Eduardo Pinaffi: "do nora30 em diante, copiar o corpo inteiro, mudar uma palavra ou outra"). Persona: **Nora v2**, com um **cristal grande na mão** como nos virais. Duas imagens: a **IMAGEM A** (cozinha à noite, geodo de ametista de uns 18 cm, blusa verde-esmeralda) serve ao nora30 e ao nora31; a **IMAGEM B** (varanda em dia nublado, cristal de quartzo rosa de uns 15 cm, blusa azul-marinho) serve ao nora32 e ao nora33. Funil: o link ainda abre o **Soulmate** e vai mudar para o Love Chart em data desconhecida (P37); por isso a fala ficou neutra (“love portal”), sem prometer nada do quiz, e vale para os dois. Falas em inglês dos EUA. **Sem pré-gancho** (teste P30). Os roteiros de cold reading que existiam para estes números ficaram guardados em `RESERVA-ROTEIRO-*.md`.
 
 ## Leitura obrigatória (registro)
@@ -120,3 +122,6 @@ Substitui o que as duas atualizações acima dizem do nora31 (imagem C nova, cor
 
 ## ATUALIZAÇÃO 22/10/2026 (23h30) — nora33 com a imagem do nora30
 O aluno não postou nada em 22/10 e não quis deixar a conta parada. Para postar ainda hoje sem gerar imagem nova, o clipe do nora33 (8 s, sem fala, dedo nos lábios, texto "It works so fast it's scary…") passou a animar a `nora30-IMG` (cozinha à noite, geodo na mão esquerda dela, lado direito da imagem; o dedo vai aos lábios com a mão direita, que sobe pelo lado esquerdo do quadro). A imagem B (quartzo rosa) fica só para o nora32. Story antes do vídeo, com o texto provisório.
+
+## ATUALIZAÇÃO 23/10/2026 — renumeração
+O clipe de texto na tela foi postado em 23/10 às 00h10 e virou o **nora31** (`nora31-CLIPE-texto-na-tela`). O curativo virou o **nora32** (`nora32-PRE-*`, `nora32-IMG`, `nora32-T1-gancho-o-que-voce-fez`, cópias `nora32-T2` a `nora32-T9` dos takes do nora30). A copy curta virou o **nora33** (`nora33-IMG`, `nora33-T1` a `nora33-T3`). Painéis: `PAINEL-NORA31.html`, `PAINEL-NORA32.html` e `PAINEL-NORA33.html`, cada um no mesmo link de antes.

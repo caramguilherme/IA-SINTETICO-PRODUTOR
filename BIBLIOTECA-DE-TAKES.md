@@ -6,7 +6,7 @@ Toda imagem e todo take do projeto tem um **nome**. O nome serve para renomear o
 O aluno comprou **1000 créditos** no Google por US$ 1 e eles já entraram. **Créditos não são mais um limite:** cada vídeo é gerado completo (pré-gancho com rosto, gancho, corpo e o CTA dele), com os melhores roteiros possíveis. O reaproveitamento acontece **depois**, peça por peça, conforme eu for decidindo.
 
 ## Numeração (decisão do aluno, 19/10/2026)
-O número do vídeo é a ordem de postagem na conta: **nora01 a nora30 já foram postados (nora29 em 20/10/2026 às 21h45 e nora30 em 21/10/2026 às 18h25, os dois sem pré-gancho, Insta e Face)** (nora23 = R004, nora24 = R005, nora25 em 19/10/2026 às 20h15, nora26 em 20/10/2026 às 8h35). Em 20/10/2026 saíram nora27, nora28 e nora29 (21h45); em 21/10/2026 saiu o nora30 (18h25). **O nora33 saiu em 23/10/2026 às 00h10** (31º vídeo postado, antes do nora31 e do nora32; os nomes ficam como estão). nora31 e nora32 estão em produção (janela de 18h30 a 21h45, 2 por dia). O próximo número livre é **nora34**, e assim por diante. A partir daqui o código é sempre `noraNN`.
+O número do vídeo é a ordem de postagem na conta: **nora01 a nora30 já foram postados (nora29 em 20/10/2026 às 21h45 e nora30 em 21/10/2026 às 18h25, os dois sem pré-gancho, Insta e Face)** (nora23 = R004, nora24 = R005, nora25 em 19/10/2026 às 20h15, nora26 em 20/10/2026 às 8h35). Em 20/10/2026 saíram nora27, nora28 e nora29 (21h45); em 21/10/2026 saiu o nora30 (18h25). **O nora31 (texto na tela) saiu em 23/10/2026 às 00h10** (chamado nora33 até 23/10; renumerado a pedido do aluno para seguir a ordem de postagem). nora32 (curativo, antes nora31) e nora33 (copy curta, antes nora32) estão em produção (janela de 18h30 a 21h45, 2 por dia). O próximo número livre é **nora34**, e assim por diante. A partir daqui o código é sempre `noraNN`.
 
 ## Como nomear
 - Pré-gancho: `noraNN-PRE-IMG1` (imagem inicial), `noraNN-PRE-IMG2` (imagem final), `noraNN-PRE` (vídeo).
@@ -72,9 +72,9 @@ O número do vídeo é a ordem de postagem na conta: **nora01 a nora30 já foram
 | `nora29-T6-corpo-nao-passe` | “Don't scroll past this one. If you do, this sign won't reach you again…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora29-T7-cta-a-quiz-venus` | “The next part is in my story. A free astrology quiz finds your Venus…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
 | `nora29-T8-cta-b-comente-222` | “Send this to yourself. Comment 222 so I know you did it…” | candidato a reaproveitar em variações do mesmo kit | a gerar |
-| `nora30-IMG` | imagem 1 A (cozinha à noite, geodo de ametista grande) | **serve também ao nora31** | gerada e postada em 21/10 (18h25) |
+| `nora30-IMG` | imagem 1 A (cozinha à noite, geodo de ametista grande) | **serve também ao nora31 (clipe de texto na tela) e ao nora32 (editada para a IMAGEM 1)** | gerada e postada em 21/10 (18h25) |
 | `nora30-T1-gancho-touro-virgem-capricornio` | “Taurus, Virgo, or Capricorn. Keep your mouth shut after watching this…” | só deste vídeo | gerado e postado em 21/10/2026 (18h25) |
-| `nora30-T2-corpo-nao-sei-seu-nome` | “I do not know your name, but do not scroll… The love portal has opened.” | **corpo da série: reaproveitado no nora31 (T2 a T9, versão barata)** | gerado e postado em 21/10/2026 (18h25) |
+| `nora30-T2-corpo-nao-sei-seu-nome` | “I do not know your name, but do not scroll… The love portal has opened.” | **corpo da série: reaproveitado no nora32 (T2 a T9, versão barata)** | gerado e postado em 21/10/2026 (18h25) |
 | `nora30-T3-corpo-homem-guardado` | “The man the universe kept for you is finally being released…” | corpo da série | gerado e postado em 21/10/2026 (18h25) |
 | `nora30-T4-corpo-universo-escolheu` | “The universe has chosen you. If you skip now, the energy breaks…” | corpo da série | gerado e postado em 21/10/2026 (18h25) |
 | `nora30-T5-corpo-bloqueio-de-amor` | “The love block that was cast on you is going straight back…” | corpo da série | gerado e postado em 21/10/2026 (18h25) |
@@ -82,15 +82,15 @@ O número do vídeo é a ordem de postagem na conta: **nora01 a nora30 já foram
 | `nora30-T7-corpo-dois-selos` | “That will be your first seal. Double tap quickly on your screen…” | corpo da série | gerado e postado em 21/10/2026 (18h25) |
 | `nora30-T8-cta-a-comente-222-story` | “Type 222 so I can see you did everything. Tap my profile picture…” | CTA da série | gerado e postado em 21/10/2026 (18h25) |
 | `nora30-T9-cta-b-parte-dois` | “The second part of this sign is waiting for you there. Don't leave without it.” | CTA da série | gerado e postado em 21/10/2026 (18h25) |
-| `nora32-IMG` | imagem 1 B (varanda em dia nublado, quartzo rosa grande) | só o nora32 (o nora33 passou a usar a `nora30-IMG`) | a gerar |
-| `nora32-T1-gancho-gemeos-libra-aquario` | “Gemini, Libra, or Aquarius. Keep your mouth shut… before midnight tonight.” | só deste vídeo | a gerar |
-| `nora32-T2-corpo-homem-e-correntes` | “The man the universe kept for you is finally being released…” | só deste vídeo | a gerar |
-| `nora32-T3-cta-curtir-222-story` | “Double tap now if this found you. Type 222…” | só deste vídeo | a gerar |
-| `nora33-CLIPE-texto-na-tela` | clipe de 8 s sem fala, texto “It works so fast it's scary…”, **com a `nora30-IMG`** (mudança de 22/10, 23h30, para postar sem gerar imagem nova) | só deste vídeo | gerado e postado (23/10 00h10, Insta e Face) |
-| `nora31-PRE-A` / `-PRE-B` / `-PRE-V1` / `-PRE-C` / `-PRE-D` / `-PRE-V2` | pré-gancho do curativo na calcinha (copiado dos virais w1 e w2, só mãos) | só deste vídeo | a gerar |
-| `nora31-IMG` | edição da `nora30-IMG`: a mesma cozinha e a mesma blusa, a Nora segura a calcinha com o curativo com as duas mãos (sem o geodo) | variações do mesmo gancho | a gerar (anexar só a `nora30-IMG`) |
-| `nora31-T1-gancho-o-que-voce-fez` | “What the hell did you just do? Aries, Leo, or Sagittarius…” | só deste vídeo | a gerar (15 créditos) |
-| `nora31-T2` a `nora31-T9` | **não são gerados (versão barata, decisão do aluno em 22/10/2026):** são cópias renomeadas de `nora30-T2` a `nora30-T9`, só para a ferramenta de corte juntar pela ordem do nome | corpo da série | reaproveitados do nora30 |
+| `nora31-CLIPE-texto-na-tela` | clipe de 8 s sem fala, texto “It works so fast it's scary…”, **com a `nora30-IMG`** (mudança de 22/10, 23h30, para postar sem gerar imagem nova; chamado nora33 até 23/10) | só deste vídeo | gerado e postado (23/10 00h10, Insta e Face) |
+| `nora32-PRE-A` / `-PRE-B` / `-PRE-V1` / `-PRE-C` / `-PRE-D` / `-PRE-V2` | pré-gancho do curativo na calcinha (copiado dos virais w1 e w2, só mãos) | só deste vídeo | a gerar |
+| `nora32-IMG` | edição da `nora30-IMG`: a mesma cozinha e a mesma blusa, a Nora segura a calcinha com o curativo com as duas mãos (sem o geodo) | variações do mesmo gancho | a gerar (anexar só a `nora30-IMG`) |
+| `nora32-T1-gancho-o-que-voce-fez` | “What the hell did you just do? Aries, Leo, or Sagittarius…” | só deste vídeo | a gerar (15 créditos) |
+| `nora32-T2` a `nora32-T9` | **não são gerados (versão barata, decisão do aluno em 22/10/2026):** são cópias renomeadas de `nora30-T2` a `nora30-T9`, só para a ferramenta de corte juntar pela ordem do nome | corpo da série | reaproveitados do nora30 |
+| `nora33-IMG` | imagem 1 B (varanda em dia nublado, quartzo rosa grande) | só o nora33 (o nora31, de texto na tela, usou a `nora30-IMG`) | a gerar |
+| `nora33-T1-gancho-gemeos-libra-aquario` | “Gemini, Libra, or Aquarius. Keep your mouth shut… before midnight tonight.” | só deste vídeo | a gerar |
+| `nora33-T2-corpo-homem-e-correntes` | “The man the universe kept for you is finally being released…” | só deste vídeo | a gerar |
+| `nora33-T3-cta-curtir-222-story` | “Double tap now if this found you. Type 222…” | só deste vídeo | a gerar |
 
 *(Os roteiros de cold reading que seriam o nora30, nora31 e nora32 ficaram guardados em `RESERVA-ROTEIRO-*.md`; as peças deles não foram geradas.)*
 
@@ -100,10 +100,10 @@ O corpo (T2 a T6), o CTA e a imagem do nora25 servem com qualquer gancho de padr
 
 | Nome | Modelo | Gancho (fala) | Texto na tela |
 |---|---|---|---|
-| `nora33-T1-gancho-nunca-foi-seu` | modelo B3 (2.551 views) | “Wipe your tears. The man who keeps leaving was never your person. It's not bad luck. It's your Venus.” | He was never your person. |
-| `nora34-T1-gancho-ultimo-sinal` | modelo C4 (1.427 views) | “This is the last sign the universe will send you about him. Don't scroll past it. Your Venus has been telling you.” | Your last sign about him |
-| `nora35-T1-gancho-para-de-olhar` | modelo B1 / R1V | “If you still check his Instagram at night, stop. What I'm about to show you explains why you keep going back.” | Stop checking his Instagram. |
-| `nora36-T1-gancho-nao-era-ele` | modelo B2 / B2V | “He wasn't the one. And in the next few days, you're going to understand why. It starts with your Venus.” | He wasn't the one. |
+| `noraNN-T1-gancho-nunca-foi-seu` | modelo B3 (2.551 views) | “Wipe your tears. The man who keeps leaving was never your person. It's not bad luck. It's your Venus.” | He was never your person. |
+| `noraNN-T1-gancho-ultimo-sinal` | modelo C4 (1.427 views) | “This is the last sign the universe will send you about him. Don't scroll past it. Your Venus has been telling you.” | Your last sign about him |
+| `noraNN-T1-gancho-para-de-olhar` | modelo B1 / R1V | “If you still check his Instagram at night, stop. What I'm about to show you explains why you keep going back.” | Stop checking his Instagram. |
+| `noraNN-T1-gancho-nao-era-ele` | modelo B2 / B2V | “He wasn't the one. And in the next few days, you're going to understand why. It starts with your Venus.” | He wasn't the one. |
 
 O painel de cada variação eu monto quando o aluno pedir.
 
