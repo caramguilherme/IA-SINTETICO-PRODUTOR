@@ -6,7 +6,7 @@ Toda imagem e todo take do projeto tem um **nome**. O nome serve para renomear o
 O aluno comprou **1000 créditos** no Google por US$ 1 e eles já entraram. **Créditos não são mais um limite:** cada vídeo é gerado completo (pré-gancho com rosto, gancho, corpo e o CTA dele), com os melhores roteiros possíveis. O reaproveitamento acontece **depois**, peça por peça, conforme eu for decidindo.
 
 ## Numeração (decisão do aluno, 19/10/2026)
-O número do vídeo é a ordem de postagem na conta: **nora01 a nora30 já foram postados (nora29 em 20/10/2026 às 21h45 e nora30 em 21/10/2026 às 18h25, os dois sem pré-gancho, Insta e Face)** (nora23 = R004, nora24 = R005, nora25 em 19/10/2026 às 20h15, nora26 em 20/10/2026 às 8h35). Em 20/10/2026 saíram nora27, nora28 e nora29 (21h45); em 21/10/2026 saiu o nora30 (18h25). **O nora31 (texto na tela) saiu em 23/10/2026 às 00h10** (chamado nora33 até 23/10; renumerado a pedido do aluno para seguir a ordem de postagem). nora32 (curativo, antes nora31) e nora33 (copy curta, antes nora32) estão em produção (janela de 18h30 a 21h45, 2 por dia). O próximo número livre é **nora34**, e assim por diante. A partir daqui o código é sempre `noraNN`.
+O número do vídeo é a ordem de postagem na conta: **nora01 a nora30 já foram postados (nora29 em 20/10/2026 às 21h45 e nora30 em 21/10/2026 às 18h25, os dois sem pré-gancho, Insta e Face)** (nora23 = R004, nora24 = R005, nora25 em 19/10/2026 às 20h15, nora26 em 20/10/2026 às 8h35). Em 20/10/2026 saíram nora27, nora28 e nora29 (21h45); em 21/10/2026 saiu o nora30 (18h25). **O nora31 (texto na tela) saiu em 23/10/2026 às 00h10** (chamado nora33 até 23/10; renumerado a pedido do aluno para seguir a ordem de postagem). nora32 (curativo, antes nora31) sai em 23/10 às 18h30; **nora33 é o texto na tela da casa 7** (23/10 às 21h30, decidido em 23/10 ~12h) e a copy curta (antes nora32 e nora33) virou **nora34**. O próximo número livre é **nora35**, e assim por diante. A partir daqui o código é sempre `noraNN`.
 
 ## Como nomear
 - Pré-gancho: `noraNN-PRE-IMG1` (imagem inicial), `noraNN-PRE-IMG2` (imagem final), `noraNN-PRE` (vídeo).
@@ -87,10 +87,10 @@ O número do vídeo é a ordem de postagem na conta: **nora01 a nora30 já foram
 | `nora32-IMG` | edição da `nora30-IMG`: a mesma cozinha e a mesma blusa, a Nora segura a calcinha com o curativo com as duas mãos (sem o geodo) | variações do mesmo gancho | a gerar (anexar só a `nora30-IMG`) |
 | `nora32-T1-gancho-o-que-voce-fez` | “What the hell did you just do? Aries, Leo, or Sagittarius…” | só deste vídeo | a gerar (15 créditos) |
 | `nora32-T2` a `nora32-T9` | **não são gerados (versão barata, decisão do aluno em 22/10/2026):** são cópias renomeadas de `nora30-T2` a `nora30-T9`, só para a ferramenta de corte juntar pela ordem do nome | corpo da série | reaproveitados do nora30 |
-| `nora33-IMG` | imagem 1 B (varanda em dia nublado, quartzo rosa grande) | só o nora33 (o nora31, de texto na tela, usou a `nora30-IMG`) | a gerar |
-| `nora33-T1-gancho-gemeos-libra-aquario` | “Gemini, Libra, or Aquarius. Keep your mouth shut… before midnight tonight.” | só deste vídeo | a gerar |
-| `nora33-T2-corpo-homem-e-correntes` | “The man the universe kept for you is finally being released…” | só deste vídeo | a gerar |
-| `nora33-T3-cta-curtir-222-story` | “Double tap now if this found you. Type 222…” | só deste vídeo | a gerar |
+| `nora33-IMG` | a Nora no sofá à noite, blusa ameixa, mapa astral com um círculo vermelho na casa 7 na mão do lado esquerdo da imagem (gerada do blueprint) | outros vídeos de texto na tela | a gerar (23/10) |
+| `nora33-CLIPE-texto-na-tela` | clipe de 8 s sem fala, texto “Different guys. Same ending. It's not bad luck. Look at your 7th house.” | só deste vídeo | a gerar (12 créditos; postar 23/10 21h30) |
+| `nora34-IMG` | imagem 1 B (varanda em dia nublado, quartzo rosa grande) | só o nora34 (copy curta; era nora33 até 23/10 ~12h) | a gerar |
+| `nora34-T1` a `nora34-T3` | copy curta (gancho, corpo, CTA); **a copy antiga sai pelo P39 e será reescrita** antes de gerar | só deste vídeo | a reescrever |
 
 *(Os roteiros de cold reading que seriam o nora30, nora31 e nora32 ficaram guardados em `RESERVA-ROTEIRO-*.md`; as peças deles não foram geradas.)*
 

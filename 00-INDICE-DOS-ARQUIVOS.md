@@ -27,8 +27,8 @@ Atualizado em 19/10/2026. Todos os arquivos estão na mesma pasta. Para o agente
 - `EXEMPLO-ROTEIRO-APROVADO-FIGADO.md` · `EXEMPLO-PACOTE-FIGADO.md` — exemplo real aprovado (formato, não conteúdo).
 
 ## 6. Roteiros e stories
-- Roteiros: `ROTEIRO-R001` a `ROTEIRO-NORA28-*.md` e `ROTEIRO-LOVECHART-RESERVA-SEU-PADRAO-TEM-NOME.md`.
+- Roteiros: `ROTEIRO-R001` a `ROTEIRO-NORA33-*.md` (o `ROTEIRO-NORA33-TEXTO-NA-TELA-CASA-7.md` é o texto na tela de 23/10) e `ROTEIRO-LOVECHART-RESERVA-SEU-PADRAO-TEM-NOME.md`.
 - Stories: `STORY-R001` a `STORY-R003`, `STORY-NORA25-28-LOVECHART.md`, `STORY-LOVECHART-RESERVA.md`; takes novos: `TAKE-NOVO-R001-V6.txt`, `TAKE-NOVO-R002-V6.txt`.
 
 ## 7. Painéis prontos (abrem no navegador)
-- `PAINEL-R001-DANA.html` a `PAINEL-R005-DANA.html` (já postados) e `PAINEL-NORA25.html` a `PAINEL-NORA28.html`.
+- `PAINEL-R001-DANA.html` a `PAINEL-R005-DANA.html` (já postados) e `PAINEL-NORA25.html` a `PAINEL-NORA34.html` (nora33 = texto na tela da casa 7; nora34 = copy curta, a reescrever pelo P39).

@@ -25,7 +25,7 @@ Decisão do aluno em 18/10/2026: **antes de TODO roteiro novo e antes de TODO pr
 
 **O que já foi feito (para não repetir)**
 - `METRICAS-NORA.csv` (métricas dos vídeos, atualizar a cada leitura) · `BIBLIOTECA-DE-TAKES.md` (nomes das peças e regras de reaproveitamento) · `DNA Visual - Nora v2.md`
-- `ROTEIRO-R001-*.md` a `ROTEIRO-NORA30-*.md` · `PLANO-CREDITOS-NORA25-28.md` · `PLANO-CREDITOS-NORA29-30.md` · `PASSO-A-PASSO-NORA25-28.md` · `PASSO-A-PASSO-NORA29-30.md` · `STORY-NORA25-28-LOVECHART.md` · `STORY-R001.md` a `STORY-R003.md` · `ROTEIRO-LOVECHART-RESERVA-SEU-PADRAO-TEM-NOME.md` · `STORY-LOVECHART-RESERVA.md` · `TAKE-NOVO-R001-V6.txt` · `TAKE-NOVO-R002-V6.txt`
+- `ROTEIRO-R001-*.md` a `ROTEIRO-NORA33-*.md` · `PLANO-CREDITOS-NORA25-28.md` · `PLANO-CREDITOS-NORA29-30.md` · `PASSO-A-PASSO-NORA25-28.md` · `PASSO-A-PASSO-NORA29-30.md` · `STORY-NORA25-28-LOVECHART.md` · `STORY-R001.md` a `STORY-R003.md` · `ROTEIRO-LOVECHART-RESERVA-SEU-PADRAO-TEM-NOME.md` · `STORY-LOVECHART-RESERVA.md` · `TAKE-NOVO-R001-V6.txt` · `TAKE-NOVO-R002-V6.txt`
 
 **Só quando o pedido envolver**
 - `FOTO-PERFIL-DANA.md` (foto de perfil)
