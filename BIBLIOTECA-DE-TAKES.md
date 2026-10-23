@@ -88,6 +88,7 @@ O número do vídeo é a ordem de postagem na conta: **nora01 a nora30 já foram
 | `nora32-IMG` | **não será gerada** (23/10): o Flow recusou o vídeo com a calcinha no quadro; o Take 1 usa a `nora30-IMG` | — | cancelada |
 | `nora32-PRE-A` a `-D` | imagens do pré-gancho (mãos, invólucro, calcinha com curativo) | só deste vídeo | geradas e aprovadas (23/10); C e D entram como fotos |
 | `nora32-PRE-V2` | vídeo C→D | — | recusado 2 vezes pelo Flow (reembolso); não gerado |
+| `nora32` (vídeo final) | pré-gancho em 4 fotos (A, B nova, C, D) + Take 1 com a `nora30-IMG` + T2 a T9 do nora30 | — | **postado em 23/10/2026 às 20h28 (Insta e Face)** |
 | `nora32-T1-gancho-o-que-voce-fez` | “What the hell did you just do? Aries, Leo, or Sagittarius, the universe has tried to reach you four times.” (trocado em 23/10: o “Keep your mouth shut” repetia o nora30) | só deste vídeo | a gerar (15 créditos) |
 | `nora32-T2` a `nora32-T9` | **não são gerados (versão barata, decisão do aluno em 22/10/2026):** são cópias renomeadas de `nora30-T2` a `nora30-T9`, só para a ferramenta de corte juntar pela ordem do nome | corpo da série | reaproveitados do nora30 |
 | `nora33-IMG` | a Nora no sofá à noite, blusa ameixa, mapa astral com um círculo vermelho na casa 7 na mão do lado esquerdo da imagem (gerada do blueprint) | outros vídeos de texto na tela | a gerar (23/10) |
