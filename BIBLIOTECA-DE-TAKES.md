@@ -85,7 +85,9 @@ O número do vídeo é a ordem de postagem na conta: **nora01 a nora30 já foram
 | `nora30-T9-cta-b-parte-dois` | “The second part of this sign is waiting for you there. Don't leave without it.” | CTA da série | gerado e postado em 21/10/2026 (18h25) |
 | `nora31-CLIPE-texto-na-tela` | clipe de 8 s sem fala, texto “It works so fast it's scary…”, **com a `nora30-IMG`** (mudança de 22/10, 23h30, para postar sem gerar imagem nova; chamado nora33 até 23/10) | só deste vídeo | gerado e postado (23/10 00h10, Insta e Face) |
 | `nora32-PRE-A` / `-PRE-B` / `-PRE-V1` / `-PRE-C` / `-PRE-D` / `-PRE-V2` | pré-gancho do curativo na calcinha (copiado dos virais w1 e w2, só mãos) | só deste vídeo | a gerar |
-| `nora32-IMG` | edição da `nora30-IMG`: a mesma cozinha e a mesma blusa, a Nora segura a calcinha com o curativo com as duas mãos (sem o geodo) | variações do mesmo gancho | a gerar (anexar só a `nora30-IMG`) |
+| `nora32-IMG` | **não será gerada** (23/10): o Flow recusou o vídeo com a calcinha no quadro; o Take 1 usa a `nora30-IMG` | — | cancelada |
+| `nora32-PRE-A` a `-D` | imagens do pré-gancho (mãos, invólucro, calcinha com curativo) | só deste vídeo | geradas e aprovadas (23/10); C e D entram como fotos |
+| `nora32-PRE-V2` | vídeo C→D | — | recusado 2 vezes pelo Flow (reembolso); não gerado |
 | `nora32-T1-gancho-o-que-voce-fez` | “What the hell did you just do? Aries, Leo, or Sagittarius, the universe has tried to reach you four times.” (trocado em 23/10: o “Keep your mouth shut” repetia o nora30) | só deste vídeo | a gerar (15 créditos) |
 | `nora32-T2` a `nora32-T9` | **não são gerados (versão barata, decisão do aluno em 22/10/2026):** são cópias renomeadas de `nora30-T2` a `nora30-T9`, só para a ferramenta de corte juntar pela ordem do nome | corpo da série | reaproveitados do nora30 |
 | `nora33-IMG` | a Nora no sofá à noite, blusa ameixa, mapa astral com um círculo vermelho na casa 7 na mão do lado esquerdo da imagem (gerada do blueprint) | outros vídeos de texto na tela | a gerar (23/10) |
