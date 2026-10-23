@@ -14,7 +14,7 @@ Não há app. Os "produtos" são **arquivos Markdown** (regras, roteiros, biblio
 - `RESERVA-ROTEIRO-*.md`: roteiros de cold reading guardados (não produzidos).
 
 ## 4. O que já foi feito
-R001 a R005 (Dana e Nora v1) e nora01 a nora24 já postados. **nora25 a nora29 postados** (Nora v2, Love Chart). **nora30 gerado e postado em 21/10 às 18h25** (Insta e Face; story 18h30). **22/10: nenhum vídeo, só o story (~18h).** **nora33 postado em 23/10 às 00h10** (Insta e Face, fora da janela, 08h40 na Índia; 31º vídeo postado). Painéis nora31 e nora32 prontos (abaixo). Métricas do nora30 às 00h51 de 22/10: Insta 110 views, 37,9% passam dos 3 s, 7 s de tempo médio, 1 follow, países Reino Unido 16,5%, Índia 15,6%, EUA 15,6%; Face 53 views. Story: 2 views, 0 cliques.
+R001 a R005 (Dana e Nora v1) e nora01 a nora24 já postados. **nora25 a nora29 postados** (Nora v2, Love Chart). **nora30 gerado e postado em 21/10 às 18h25** (Insta e Face; story 18h30). **22/10: nenhum vídeo, só o story (~18h).** **nora33 postado em 23/10 às 00h10** (Insta e Face, fora da janela, 08h40 na Índia; 31º vídeo postado). Painéis nora31 e nora32 prontos (abaixo). Métricas do nora30 com ~30 h (23/10 ~00h36): Insta 117 views, 37,0% passam dos 3 s, 8 s de tempo médio, 1 follow, países Índia 16,4%, Reino Unido 15,5%, EUA 15,5%; Face 84 views (23/10 00h14). Story: 2 views, 0 cliques.
 
 ## 5. Onde paramos (22/10/2026, ~11h BRT)
 Plano de testes decidido por mim a pedido do aluno ("faz o que achar melhor"), **um formato novo por vídeo**, painéis já publicados (links da conta nova do Claude, republicados em 22/10/2026 a partir dos `PAINEL-NORA*.html`, sem mudança; os links da conta antiga não abrem aqui):
