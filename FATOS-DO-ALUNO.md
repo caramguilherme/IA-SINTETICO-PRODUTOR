@@ -38,7 +38,7 @@ Regra (P38, 22/10/2026): tudo que o aluno confirmar fica aqui no mesmo turno. Nu
 - O aluno é iniciante, fala português; quer respostas curtas e que eu **decida e explique em 1 linha**. Odeia repetir o que já disse.
 - Eduardo Pinaffi (aluno MVM, 21/10): o problema é gancho e copy, modelar o que já funciona, garimpar em outra conta, 2 vídeos por dia; testar 2 de 5 vídeos só com texto na tela (textos de perfis reais).
 - Adão Gomes (aluno MVM, 22/10): poucas views ainda para ter clique; destravar views primeiro, esquecer cliques e vendas; o hook é a parte principal da entrega e precisa de um diferencial; modelar hooks em alta agora.
-- Matheus Baffa (Discord, aluno com bons resultados): o aluno pediu ajuda por DM em 22/10 00h55; ele respondeu em 23/10 00h50 (áudio) pedindo as dúvidas. Mensagem com 5 perguntas sugerida por mim em 23/10 (destravar a conta com público dos EUA, gancho e vídeos dele para modelar, clique no link, celular/proxy, Love Chart). Anotar aqui o que ele responder.
+- Matheus Baffa (Discord, aluno com bons resultados): o aluno pediu ajuda por DM em 22/10 00h55; ele respondeu em 23/10 00h50 (áudio) pedindo as dúvidas. O aluno mandou em 23/10 01h00 o contexto e 3 perguntas (quanto tempo até destravar com público dos EUA e se fez aquecimento; que gancho funciona e 1 ou 2 vídeos dele para modelar; story, bio ou direct e o que faz clicar), e diz que está mandando a mesma mensagem para outras pessoas que têm resultado. Anotar aqui o que ele responder.
 - Série do S3 (nora30 a nora33): corpo copiado do viral S3; nora30 e nora32 com a imagem A (geodo), nora33 com a imagem B (quartzo rosa); nora31 com a `nora30-IMG` desde 22/10 23h30.
 
 ## Decisões de 22/10/2026
