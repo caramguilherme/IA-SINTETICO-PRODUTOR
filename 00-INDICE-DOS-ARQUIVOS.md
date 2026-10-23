@@ -7,7 +7,7 @@ Atualizado em 19/10/2026. Todos os arquivos estão na mesma pasta. Para o agente
 - `00-LEIA-PRIMEIRO.md` — quais regras antigas estão vigentes.
 - `PROJETO-Dana.md` — perfil, funil Soulmate e Love Chart, dores, regras da oferta, VÍDEOS FEITOS (histórico de cada roteiro).
 - `LICOES-FLOW-E-PROMPTS.md` — checklist antes de entregar prompts e todas as falhas já vividas.
-- `BRIEFING-LOVECHART.md` — o briefing do funil Love Chart.
+- `BRIEFING-LOVECHART.md` — o briefing do funil Love Chart (no topo, o briefing oficial da Appyon v2, de 23/10/2026; PDF em `BRIEFING-LOVECHART-APPYON-v2.pdf`).
 - `DNA Visual - Nora.md` (avatar atual) · `DNA Visual - Dana.md` (R001 a R003) · `REGISTRO-DE-PERSONAS.md` · `FOTO-PERFIL-DANA.md`.
 
 ## 2. Método de roteiro e falas

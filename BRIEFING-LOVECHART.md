@@ -1,3 +1,124 @@
+# BRIEFING OFICIAL DA APPYON — Love Chart: Mapa Astral do Amor (v2, enviado pelo aluno em 23/10/2026)
+
+Fonte: apresentação "Love_Chart_Briefing_UGC_v2" (Appyon, feita por Iorhan Ferreira), anunciada no Discord junto com o aviso de que o **Love Chart substitui o Soulmate** e de que os links antigos viram os do Love Chart sozinhos. PDF guardado em `BRIEFING-LOVECHART-APPYON-v2.pdf` (17 slides, lido inteiro em 23/10/2026). **É o briefing oficial do dono da oferta e vem antes da análise de afiliado mais abaixo.** O PDF termina no slide "16 · Formatos"; o "roteiro de exemplo" e o "checklist" que a capa cita não vieram.
+
+**Oferta:** Auraly · Love Chart. **Mercado:** EUA, inglês. **Público:** mulheres solteiras de 25 a 45 anos. Funil: quiz → página de vendas; front de US$ 9; o Auraly é uma **assinatura** (preço e assinatura nunca entram na fala).
+
+## 01 · A oferta em uma frase
+Auraly é o guia astrológico pessoal para amor, relacionamentos, compatibilidade e os próximos ciclos da sua vida. O Love Chart lê o mapa astral completo da usuária e transforma em respostas práticas: por que certos padrões se repetem, que tipo de amor funciona para ela, o que os próximos meses destacam, e um guia pessoal para consultar sempre. Autoconhecimento e bem-estar emocional, com acompanhamento contínuo.
+
+## 02 · Mercado: astrologia já faz parte da vida dela
+46% das mulheres de 18 a 49 nos EUA consultam astrologia ou horóscopo ao menos uma vez por ano (todas as mulheres: 37%). 43% das mulheres de 18 a 49 acreditam em astrologia (homens: 18%). 1 em 3 usam para entender algo, não por diversão. Apps de astrologia: US$ 5,7 bi em 2026, a caminho de US$ 11,7 bi em 2030. O Tinder lançou o Astrology Mode em março de 2026 (perfis com astrologia tiveram quase 20% mais likes de mulheres); 74% dos americanos de 16 a 34 checam o signo de um possível parceiro.
+**No vídeo:** não precisa convencer ninguém de que astrologia "funciona"; mostrar que o mapa inteiro diz muito mais sobre a vida amorosa dela do que o signo solar.
+
+## 03 · Cenário do namoro: cansaço e busca por clareza
+80% das mulheres que usam apps de namoro sentem esgotamento; 94% dizem que namorar é difícil (68% querem um relacionamento); 50% dos americanos de 18 a 34 já viveram um situationship; 2 em 3 solteiros que deram um tempo entenderam melhor o que querem.
+**No vídeo:** ela está cansada de tentar mais. O que atrai é tentar diferente: entender por que as coisas se repetem, saber o que procurar e quando abrir espaço. **Falar de clareza, não de "mais matches" nem de "achar alguém rápido".**
+
+## 04 · Público: solteira, 25 a 45, cansada de repetir a história
+- **Quem é:** americana, 25 a 45, solteira ou saindo de um situationship; trabalha, tem vida própria, já fez terapia e leu sobre estilos de apego; conhece o próprio signo, Lua e Ascendente; já viu vídeo sobre Vênus no TikTok; usa astrologia como bússola (quer entender, não que decidam por ela).
+- **O que já tentou:** apps de namoro, pausas, conselhos de amigas, terapia, horóscopo do dia. Nada explicou por que ela sempre termina no mesmo lugar.
+- **O que pensa e não fala:** "Por que eu sempre me apaixono pelo mesmo tipo?" · "O problema sou eu?" · "Será que eu vou acabar sozinha?" · "Eu nem sei mais o que eu quero num relacionamento."
+- **O que quer sentir:** que existe uma explicação e que não é culpa dela; que pode reconhecer o certo antes de investir meses; que há algo bom chegando e que ela vai saber quando.
+- **Tom de voz:** amiga que entende de astrologia, **não guru nem vidente**. Frases curtas, primeira pessoa, situações reconhecíveis. Vênus e casa 7 entram como prova, sempre explicados.
+
+## 05 · As dores e o ângulo que responde a cada uma
+| Dor | Fontes | Ângulo |
+|---|---|---|
+| Repetir o mesmo tipo e só perceber tarde demais | 5 | 01 · Padrões |
+| Cansaço de namorar e pouco retorno | 5 | 02 · Compatibilidade |
+| Parceiros indisponíveis, situationships, apego ansioso | 4 | 01 e 04 |
+| Checar compatibilidade antes de investir tempo | 4 | 02 · Compatibilidade |
+| Medo de nunca encontrar amor ou acabar sozinha | 3 | 03 · Timeline |
+| Não saber o que precisa num parceiro | 3 | 04 · Blueprint |
+**Como usar:** uma dor por vídeo; ela define o gancho, a história e o ângulo até o CTA.
+
+## 06 · As dores, nas palavras dela (ponto de partida para ganchos)
+- "I think my problem is I don't notice I'm repeating my type until I'm already doing it." (comentário, Dear Wendy)
+- "Why do I keep attracting males who leave me for their ex or are emotionally unavailable?" (Caitlin's Couch, mai/2024)
+- "I feel like I'll never meet someone I want to be with who wants to be with me." (Elsa Elsa, jan/2025)
+- "You're just kind of looking for a guiding compass." (Jennifer, 45, Bustle)
+- "Helping you to realize your own unhealthy behaviors and patterns, and why you might do those things." (review de app, App Store)
+- "I'm not necessarily single by choice, but single due to a lack of choices." (Minda Honey, NPR)
+
+## 07 · Promessa principal
+Descubra o que seu mapa astral revela sobre sua vida amorosa: **com quem você é compatível, como você vive o amor e o que seus próximos ciclos românticos podem trazer.** Clareza sobre: sua natureza amorosa (como ela ama, se apega e se afasta), atração (por quem se sente atraída e por quê), compatibilidade (que parceiro e dinâmica funcionam), ciclos (as fases que vêm pela frente), timing (quando abrir espaço, aprofundar ou encerrar).
+**Títulos ou texto na tela:** "What your birth chart says about your love life." · "What your birth chart says about the next chapter of your life."
+
+## 08 · Quatro benefícios, quatro ângulos (cada vídeo escolhe um, do gancho ao CTA)
+1. **Understand your love patterns · O padrão invisível:** por que certos padrões se repetem e o que o mapa revela sobre eles.
+2. **Discover your real compatibility · O amor que funciona pra você:** que tipo de parceiro, dinâmica e relacionamento combinam com a forma como ela ama.
+3. **See your love timeline · Os próximos meses:** os principais ciclos e momentos que podem marcar a vida amorosa nos próximos meses.
+4. **Get your personal love blueprint · O guia pessoal:** reconhecer oportunidades, identificar red flags e decidir com mais clareza.
+
+## 09 · Ângulo 01 · Love Patterns
+Por que funciona: ela se reconhece na hora; é a dor que mais aparece na pesquisa. Frase: "Entenda por que suas relações parecem começar e terminar do mesmo jeito, mesmo quando as pessoas são diferentes." O mapa revela: por quem ela tende a se sentir atraída, o que a faz se apegar, o que a afasta ou faz perder o interesse, padrões emocionais que se repetem, necessidades que ignora e pontos cegos.
+Ganchos (EN): "I kept dating the same man with a different name. My birth chart showed me why." · "Different guys. Same ending. Turns out the pattern was in my chart the whole time." · "My therapist called it a pattern. My birth chart showed me where it comes from." · "Nobody told me the type I keep falling for is written in my Venus placement." · "If every relationship ends the same way, it's not bad luck. Look at your 7th house."
+Prova e mecanismo: **Vênus** (o que a atrai), **Lua** (o que ela precisa para se sentir segura) e **casa 7** (o parceiro que ela atrai). Mostrar os três pontos na tela.
+
+## 10 · Ângulo 02 · Real Compatibility
+"Descubra o tipo de parceiro e de relacionamento em que você tem maior chance de se sentir amada, segura e você mesma." · "Imagine conhecer alguém novo e, em vez de passar seis meses tentando descobrir, você já sabe quais sinais observar." O produto mostra: como ela precisa receber e demonstrar amor, que personalidade complementa a dela, comunicação e conflito, quanto espaço ou proximidade precisa, green flags e o que gera relações difíceis.
+Ganchos (EN): "Stop asking if he likes you. Ask if he fits the way you love." · "Your Sun sign is the least important part of compatibility. Here's what actually matters." · "Six months to find out it wasn't working. My chart could have told me in week one." · "I finally know what kind of partner makes me feel safe, and it's not who I kept choosing."
+Foco: compatibilidade é sobre ela; **o vídeo não promete mostrar quem é a pessoa, o rosto ou o nome.**
+
+## 11 · Ângulo 03 · Love Timeline
+Pergunta dela: "E agora, o que vem pela frente?" · "Descubra os períodos do seu próximo ciclo em que amor e relacionamento ganham destaque no seu mapa." Mostra: períodos de maior abertura para conhecer alguém, fases de mudança emocional, momentos para aprofundar, períodos de reflexão ou encerramento, conexões do passado que podem voltar.
+Ganchos (EN): "Some months open doors in love. My chart showed me which ones are mine." · "Why love felt stuck this year, and what the next cycle in my chart is pointing to." · "Someone from your past showing up again? There's a season for that in your chart." · "The next few months could be some of the most important for love in your chart."
+Curiosidade e acompanhamento: apontar uma mudança grande e positiva nos **próximos 3 a 4 meses** e mostrar que o Auraly orienta cada fase.
+
+## 12 · Ângulo 04 · Love Blueprint
+Um guia para entender padrões, reconhecer compatibilidade e decidir com clareza; ela consulta de novo sempre que surge dúvida ("Essa pessoa combina comigo?", "Por que isso está me incomodando tanto?", "Estou repetindo um padrão?", "O que eu realmente preciso?", "Que sinais eu deveria observar?").
+Ganchos (EN): "I have a guide I open every time I start talking to someone new." · "Before I reply to his text, I check what my chart says I actually need." · "The red flags I used to ignore are now written in my own love blueprint." · "It's like having an astrologer friend for every 'is this a red flag?' moment." (formato de conversa em tela)
+
+## 13 · Como falar do futuro: forecast, não destino
+Linha do tempo: (1) hoje ela entende o padrão e o tipo de amor que funciona; (2) próximas semanas: orientação conforme os ciclos mudam; (3) próximos 3 a 4 meses: o ciclo que o mapa destaca para o amor. Ela gosta do "quando", mas rejeita previsão rígida ("a weird time marker that I didn't want").
+| Diga | Não diga |
+|---|---|
+| "a period that favors new connections" | "you will meet him in December" |
+| "my chart highlights the next few months" | "on March 3rd everything changes" |
+| "it guides me through each phase" | "guaranteed to find love" |
+
+## 14 · Promessas que o Love Chart não faz
+| Proibida | Não dizer | Diga assim |
+|---|---|---|
+| Soulmate drawing ou sketch | "See a drawing of your soulmate's face" | "Understand the kind of partner that fits the way I love" |
+| Soulmate reading, revelação da alma gêmea | "Find out who your soulmate is" | "Discover my love patterns and real compatibility" |
+| Nome, iniciais, rosto ou signo exato da pessoa | "It revealed his name and initials" | "It showed me the signs of someone truly compatible" |
+| Encontro com data, hora ou lugar | "You'll meet him on May 12 at a coffee shop" | "A period in my chart that favors new connections" |
+| Twin flame, volta do ex, reencontro garantido | "Your twin flame is coming back to you" | "Why people from the past reappear in certain cycles" |
+| Vidência ou leitura psíquica | "A psychic told me exactly what will happen" | "My personal astrology guide for the months ahead" |
+Por quê: o Love Chart é sobre ela; não desenha, não identifica e não prevê uma pessoa específica. Prometer isso atrai o público errado e **é reprovado pelas plataformas**.
+
+## 15 · O que nunca dizer
+| Não diga | Por quê | Diga assim |
+|---|---|---|
+| Que o app mostra quem é a pessoa, o rosto ou o nome | Não é o que entrega | "the kind of partner that actually fits me" |
+| Resultado garantido ("you will find love") | Claim enganoso, reprovado pelas plataformas | "clarity", "understand", "recognize" |
+| Data exata para o amor chegar | Ninguém pode cumprir | "the next few months", "a cycle that favors" |
+| **"Free" ou "one-time payment"** | O Auraly é uma assinatura | **"take the quiz", "get your Love Chart"** |
+| Solução instantânea ("in 2 minutes you'll know") | O Love Chart é um guia contínuo | "start understanding", "my guide for the months ahead" |
+| "Fazer ele voltar", manipular alguém | Fora do tom de autoconhecimento | "why people from the past reappear in certain cycles" |
+| Substituir terapia ou conselho médico | Claim de saúde | "it helped me understand myself" |
+
+## 16 · Formatos para gravar
+| Formato | Como é | Melhor ângulo |
+|---|---|---|
+| UGC confissão | fala para a câmera em primeira pessoa e mostra o app | 01, 02 |
+| Conversa com o astrólogo | tela de chat: pergunta, resposta com Vênus, Lua e casa 7 | 03, 04 |
+| Série por signo | um vídeo por signo ("Scorpio women in love…"), mesma estrutura | 01, 02 |
+| Explicando como amiga | talking head corrigindo um mito ("Sun sign compatibility is not enough") | 02 |
+| Gravação de tela do mapa | rolagem pelo resultado do Love Chart com voz em off | todos |
+| POV com texto na tela | texto grande, música em alta, cenas do dia a dia | 01, 03 |
+Varie: mais de um formato e mais de um ângulo, para ver o que funciona com o público.
+
+## Onde este briefing oficial conflita com as regras do projeto (decisão do aluno pendente em 23/10/2026)
+- **"Free":** o P10 e os stories usam "free quiz" / "Take the free quiz"; a Appyon pede "take the quiz" / "get your Love Chart".
+- **P15 e P20 (copy sem limite):** garantia de resultado, prazo e data exatos, "em 7 minutos", "ele volta", ameaça e maldição, tom de vidente. A Appyon proíbe garantia, data exata, solução instantânea e "fazer ele voltar", e pede tom de amiga, não de vidente ou guru.
+- **Corpo do S3 (nora30, reaproveitado no nora32):** "the man the universe kept for you", "the love block that was cast on you", "in seven minutes you're going to come back" ficam fora do que a Appyon pede para o Love Chart.
+- **O que já bate:** sem rosto, nome, inicial ou data (P10); sem nome do app, preço e assinatura; Vênus e "not your sun sign"; série por signo e texto na tela são formatos da lista; o público 25 a 45 bate com as métricas (25-44 é a maioria em todos os vídeos).
+
+---
+
 # BRIEFING DO FUNIL LOVE CHART (página enviada pelo aluno em 19/10/2026)
 
 Fonte: https://briefing-lovechart.pages.dev/ ("Briefing – Funil 3 — Love Chart (Auraly)"), lida inteira em 19/10/2026 e salva aqui como texto. É a análise de um afiliado que navegou pelo quiz com dados de teste; **os números de prova social e de conversão não foram conferidos**. O aluno avisou em 19/10/2026 que o funil ativo passa a ser o Love Chart a partir do nora25.
