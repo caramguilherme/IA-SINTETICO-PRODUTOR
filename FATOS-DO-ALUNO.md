@@ -16,6 +16,7 @@ Regra (P38, 22/10/2026): tudo que o aluno confirmar fica aqui no mesmo turno. Nu
 - **Em seguida (23/10/2026):** "pode seguir o que está no pdf, com as dicas que eles deram". Quando os **virais do Love Chart** começarem a sair, o aluno manda para analisarmos a copy inteira e, se precisar, mudar e apelar. Objetivo: modelar os virais; até lá, a base é o PDF.
 - O aluno só vende Soulmate/Love Chart. **Manifestation não vende:** ignorar os virais de Manifestation como oferta (servem só de estrutura).
 - Story de 21/10 18h30: 2 views, 0 cliques (o anel da foto aparece no perfil e o story abre, testado 22/10).
+- Story de 22/10 (~18h): 6 views (83% seguidores), 0 cliques, 0 interações (leitura de 23/10 11h42). O aluno reaproveitou a arte com o texto do Vênus e o adesivo "Take the free quiz"; a partir de 23/10 o texto é "Tap below and take the love quiz." e o adesivo "Take the quiz" (P39).
 
 ## Postagem e métricas
 - Janela limpa de Índia: **18h30 a 21h45 BRT** (18h25 deu 15,6% de Índia; 17h32 deu 54,8%; 00h10 deu 44,1% no nora31). 2 vídeos por dia, 3 h entre posts (Eduardo e Adão).
