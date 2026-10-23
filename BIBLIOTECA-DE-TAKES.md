@@ -6,7 +6,7 @@ Toda imagem e todo take do projeto tem um **nome**. O nome serve para renomear o
 O aluno comprou **1000 créditos** no Google por US$ 1 e eles já entraram. **Créditos não são mais um limite:** cada vídeo é gerado completo (pré-gancho com rosto, gancho, corpo e o CTA dele), com os melhores roteiros possíveis. O reaproveitamento acontece **depois**, peça por peça, conforme eu for decidindo.
 
 ## Numeração (decisão do aluno, 19/10/2026)
-O número do vídeo é a ordem de postagem na conta: **nora01 a nora30 já foram postados (nora29 em 20/10/2026 às 21h45 e nora30 em 21/10/2026 às 18h25, os dois sem pré-gancho, Insta e Face)** (nora23 = R004, nora24 = R005, nora25 em 19/10/2026 às 20h15, nora26 em 20/10/2026 às 8h35). Em 20/10/2026 saíram nora27, nora28 e nora29 (21h45); em 21/10/2026 saiu o nora30 (18h25). nora31, nora32 e nora33 estão em produção (janela de 18h30 a 21h45, 2 por dia). O próximo número livre é **nora34**, e assim por diante. A partir daqui o código é sempre `noraNN`.
+O número do vídeo é a ordem de postagem na conta: **nora01 a nora30 já foram postados (nora29 em 20/10/2026 às 21h45 e nora30 em 21/10/2026 às 18h25, os dois sem pré-gancho, Insta e Face)** (nora23 = R004, nora24 = R005, nora25 em 19/10/2026 às 20h15, nora26 em 20/10/2026 às 8h35). Em 20/10/2026 saíram nora27, nora28 e nora29 (21h45); em 21/10/2026 saiu o nora30 (18h25). **O nora33 saiu em 23/10/2026 às 00h10** (31º vídeo postado, antes do nora31 e do nora32; os nomes ficam como estão). nora31 e nora32 estão em produção (janela de 18h30 a 21h45, 2 por dia). O próximo número livre é **nora34**, e assim por diante. A partir daqui o código é sempre `noraNN`.
 
 ## Como nomear
 - Pré-gancho: `noraNN-PRE-IMG1` (imagem inicial), `noraNN-PRE-IMG2` (imagem final), `noraNN-PRE` (vídeo).
@@ -86,7 +86,7 @@ O número do vídeo é a ordem de postagem na conta: **nora01 a nora30 já foram
 | `nora32-T1-gancho-gemeos-libra-aquario` | “Gemini, Libra, or Aquarius. Keep your mouth shut… before midnight tonight.” | só deste vídeo | a gerar |
 | `nora32-T2-corpo-homem-e-correntes` | “The man the universe kept for you is finally being released…” | só deste vídeo | a gerar |
 | `nora32-T3-cta-curtir-222-story` | “Double tap now if this found you. Type 222…” | só deste vídeo | a gerar |
-| `nora33-CLIPE-texto-na-tela` | clipe de 8 s sem fala, texto “It works so fast it's scary…”, **com a `nora30-IMG`** (mudança de 22/10, 23h30, para postar sem gerar imagem nova) | só deste vídeo | a gerar |
+| `nora33-CLIPE-texto-na-tela` | clipe de 8 s sem fala, texto “It works so fast it's scary…”, **com a `nora30-IMG`** (mudança de 22/10, 23h30, para postar sem gerar imagem nova) | só deste vídeo | gerado e postado (23/10 00h10, Insta e Face) |
 | `nora31-PRE-A` / `-PRE-B` / `-PRE-V1` / `-PRE-C` / `-PRE-D` / `-PRE-V2` | pré-gancho do curativo na calcinha (copiado dos virais w1 e w2, só mãos) | só deste vídeo | a gerar |
 | `nora31-IMG` | edição da `nora30-IMG`: a mesma cozinha e a mesma blusa, a Nora segura a calcinha com o curativo com as duas mãos (sem o geodo) | variações do mesmo gancho | a gerar (anexar só a `nora30-IMG`) |
 | `nora31-T1-gancho-o-que-voce-fez` | “What the hell did you just do? Aries, Leo, or Sagittarius…” | só deste vídeo | a gerar (15 créditos) |
