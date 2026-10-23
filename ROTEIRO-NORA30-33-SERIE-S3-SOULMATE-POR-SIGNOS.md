@@ -117,3 +117,6 @@ Substitui o que as duas atualizações acima dizem do nora31 (imagem C nova, cor
 - **Take 1:** a mesma fala de 18 palavras ("What the hell did you just do? Aries, Leo, or Sagittarius. Keep your mouth shut after watching this."), 10 s, gerado sozinho na Central (1 take: botão COPIAR do take e o aviso do aluno, que aqui é obrigatório).
 - **Créditos:** pré-gancho 14 + Take 1 15 = **29** (economia de 117). Plano dos três testes: nora31 29 + nora32 45 + nora33 12 = 86; saldo 337 → 251.
 - **Conferência:** ouvir a emenda do Take 1 para o Take 2 (a voz deve parecer a mesma). Se a diferença for grande, me avisar antes de postar.
+
+## ATUALIZAÇÃO 22/10/2026 (23h30) — nora33 com a imagem do nora30
+O aluno não postou nada em 22/10 e não quis deixar a conta parada. Para postar ainda hoje sem gerar imagem nova, o clipe do nora33 (8 s, sem fala, dedo nos lábios, texto "It works so fast it's scary…") passou a animar a `nora30-IMG` (cozinha à noite, geodo na mão esquerda dela, lado direito da imagem; o dedo vai aos lábios com a mão direita, que sobe pelo lado esquerdo do quadro). A imagem B (quartzo rosa) fica só para o nora32. Story antes do vídeo, com o texto provisório.

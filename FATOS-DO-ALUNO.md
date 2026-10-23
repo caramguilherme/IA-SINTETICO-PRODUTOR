@@ -18,7 +18,7 @@ Regra (P38, 22/10/2026): tudo que o aluno confirmar fica aqui no mesmo turno. Nu
 - Janela limpa de Índia: **18h30 a 21h45 BRT** (18h25 deu 15,6% de Índia; 17h32 deu 54,8%). 2 vídeos por dia, 3 h entre posts (Eduardo e Adão).
 - Os vídeos que passaram de 700 views eram da Índia (34% a 57%); desde que a janela é dos EUA, todos param em ~105 a 120 views.
 - nora30 postado 21/10 18h25 (Insta e Face), story 18h30; leitura 22/10 00h51: 110 views, 37,9% nos 3 s, 7 s de tempo médio, 1 follow.
-- **22/10: nenhum vídeo postado** (o aluno saiu e perdeu a janela de 18h a 21h; às 23h25 não postou, para não pegar a Índia). O story de 21/10 18h30 já expirou. Próximos posts: 23/10 na janela (story antes do primeiro vídeo).
+- **22/10: nenhum vídeo postado** (o aluno saiu e perdeu a janela de 18h a 21h; às 23h25 não postou, para não pegar a Índia). O story de 21/10 18h30 já expirou. Próximos posts: 23/10 na janela (story antes do primeiro vídeo). Às 23h30 o aluno disse que não quer deixar a conta parada ("o pessoal fala pra postar pelo menos 2 vídeos por dia"): o nora33 foi refeito com a imagem do nora30 para ele postar ainda em 22/10.
 - Os comentários dos vídeos são quase todos do próprio aluno (comentário fixado).
 - Música de fundo do CapCut: a mesma em todos (Ambient Mystical Drone, −18 dB).
 
