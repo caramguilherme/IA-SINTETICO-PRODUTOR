@@ -1,5 +1,7 @@
 # PESQUISA DO PÚBLICO E DO ORGÂNICO — curso MVM (Copy Hub)
 
+**Pesquisa oficial da Auraly (Appyon, setembro de 2026: mercado, reviews e compradores) e aula do Iorhan de 23/10/2026: topo de `BRIEFING-LOVECHART.md` (P40). Ela vem antes desta pesquisa do curso quando as duas divergirem.**
+
 Fonte: curso MVM, aba HOOKS/PESQUISA. O aluno informou em 17/10/2026 que o material é validado e aprovado para uso. Este arquivo recebe também o lote PESQUISA quando o aluno enviar.
 
 ## Perfis do orgânico para espionar

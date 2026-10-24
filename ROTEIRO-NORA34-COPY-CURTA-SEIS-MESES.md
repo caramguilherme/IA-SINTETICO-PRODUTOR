@@ -13,6 +13,7 @@ Status: **pronto para gerar** (reescrito pelo P39 em 24/10/2026; a copy antiga, 
 - **Signos:** Gêmeos, Libra e Aquário (grupo Ar, ainda não usado pela Nora v2), só no texto da tela (Matheus).
 - **Visual:** objeto na mão o vídeo todo (S1, S3, S4); sinais dos EUA no cenário.
 - **Fora (P39):** "free", garantia, data, solução instantânea, "ele volta", vidência, alma gêmea.
+- **Conferido contra a aula do Iorhan e a pesquisa Auraly (24/10, P40):** gancho de uma frase com os signos na tela, corpo com prova (Vênus e Lua), CTA que diz o que o quiz mostra ("what kind of partner fits you"); visual de astrologia (quartzo na mão, sem ritual). Nada muda.
 
 ## Imagem (nora34-IMG)
 Gerada no Flow com o blueprint (como o nora33): a Nora no degrau de cima da varanda de uma casa americana, dia nublado, blusa canelada azul-marinho, broche de bandeira; quartzo rosa grande (15 cm) na mão direita dela (lado ESQUERDO da imagem), ao lado do rosto; a outra mão fora do quadro; porta branca e bandeirinha à esquerda, coluna branca e gramado à direita. O aluno me manda antes dos takes; as linhas de movimentação são provisórias até eu conferir a imagem.
