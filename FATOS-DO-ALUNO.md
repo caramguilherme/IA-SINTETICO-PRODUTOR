@@ -16,7 +16,8 @@ Regra (P38, 22/10/2026): tudo que o aluno confirmar fica aqui no mesmo turno. Nu
 - **Em seguida (23/10/2026):** "pode seguir o que está no pdf, com as dicas que eles deram". Quando os **virais do Love Chart** começarem a sair, o aluno manda para analisarmos a copy inteira e, se precisar, mudar e apelar. Objetivo: modelar os virais; até lá, a base é o PDF.
 - O aluno só vende Soulmate/Love Chart. **Manifestation não vende:** ignorar os virais de Manifestation como oferta (servem só de estrutura).
 - Story de 21/10 18h30: 2 views, 0 cliques (o anel da foto aparece no perfil e o story abre, testado 22/10).
-- Story de 22/10 (~18h): 6 views (83% seguidores), 0 cliques, 0 interações (leitura de 23/10 11h42). O aluno reaproveitou a arte com o texto do Vênus e o adesivo "Take the free quiz"; a partir de 23/10 o texto é "Tap below and take the love quiz." e o adesivo "Take the quiz" (P39).
+- Story de 22/10 (~18h): 6 views (83% seguidores), 0 cliques, 0 interações (leitura de 23/10 11h42).
+- Story de 23/10 20h28 ("Tap below and take the love quiz.", adesivo "Take the quiz"): 5 views, 100% seguidores, 0 interações, 0 visitas ao perfil (leitura de 24/10, manhã; o aluno: "todos seguidores"). O aluno reaproveitou a arte com o texto do Vênus e o adesivo "Take the free quiz"; a partir de 23/10 o texto é "Tap below and take the love quiz." e o adesivo "Take the quiz" (P39).
 
 ## Postagem e métricas
 - **Horário (23/10/2026, depois do Matheus Baffa e do Adão):** a janela abaixo vira **preferência, não regra**: se perder a janela, posta assim mesmo (não ficar um dia sem postar como em 22/10). Toda postagem no Insta leva a **localização Los Angeles, California** e as hashtags #astrology #zodiac #usa #usareels (fim do teste com e sem hashtag, que não mostrou diferença). Nos dados da Nora v2 o horário não decidiu as views: na janela 116 a 119; fora dela 105 a 253.
