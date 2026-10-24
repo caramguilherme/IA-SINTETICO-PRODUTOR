@@ -53,7 +53,7 @@ nora31 gerado e postado (12 créditos); nada do nora32, do nora33 e do nora34 fo
 - Já erramos por não gravar fatos (link do Soulmate, restrição de anúncios): por isso existe o `FATOS-DO-ALUNO.md` (P38).
 - Os scripts de `ferramentas-painel/` têm caminhos fixos da máquina anterior.
 - Só consegui conferir identidade das imagens quando o aluno as manda; o Flow pode trocar mãos, enquadrar mais aberto que o pedido, inserir carimbo de data.
-- **O Flow recusa por política prompts com palavras de corpo ou de roupa íntima, mesmo na lista do que não aparece** (imagem A do nora32, 22/10/2026, sem cobrança). Nunca escrever underwear, chest, body, panties etc.; roupa íntima é nomeada uma vez como peça de roupa e depois "the garment" (`LICOES-FLOW-E-PROMPTS.md`, item 37). Os prompts do nora32 já foram corrigidos (painel versão 4).
+- **O Flow recusa por política prompts com palavras de corpo ou de roupa íntima, mesmo na lista do que não aparece** (imagem A do nora32, 22/10/2026, sem cobrança). Em cenas comuns, evitar palavras de corpo que o filtro lê errado ("collarbone height", não "chest"). **Mas não reescrever prompt para passar conteúdo que o filtro quer barrar** (roupa íntima): isso é contornar a política e fica fora dos nossos limites; troca-se a ideia (regra de 24/10/2026 em `LICOES-FLOW-E-PROMPTS.md`, que corrige os itens 37 e 39). Roupa íntima no pré-gancho está suspensa.
 
 VOCÊ É O AGENTE EDITORIAL E DE PRODUÇÃO DO INFLUENCER (CHAT 2 DE 2)
 

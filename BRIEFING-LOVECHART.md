@@ -1,6 +1,6 @@
 # BRIEFING OFICIAL DA APPYON — Love Chart: Mapa Astral do Amor (v2, enviado pelo aluno em 23/10/2026)
 
-Fonte: apresentação "Love_Chart_Briefing_UGC_v2" (Appyon, feita por Iorhan Ferreira), anunciada no Discord junto com o aviso de que o **Love Chart substitui o Soulmate** e de que os links antigos viram os do Love Chart sozinhos. PDF guardado em `BRIEFING-LOVECHART-APPYON-v2.pdf` (17 slides, lido inteiro em 23/10/2026). **É o briefing oficial do dono da oferta e vem antes da análise de afiliado mais abaixo.** O PDF termina no slide "16 · Formatos"; o "roteiro de exemplo" e o "checklist" que a capa cita não vieram.
+Fonte: apresentação "Love_Chart_Briefing_UGC_v2" (Appyon, feita por Iorhan Ferreira), anunciada no Discord junto com o aviso de que o **Love Chart substitui o Soulmate** e de que os links antigos viram os do Love Chart sozinhos. PDF guardado em `BRIEFING-LOVECHART-APPYON-v2.pdf` (17 slides, lido inteiro em 23/10/2026). **É o briefing oficial do dono da oferta e vem antes da análise de afiliado mais abaixo.** O PDF termina no slide "16 · Formatos"; o "roteiro de exemplo" e o "checklist" que a capa cita não vieram (24/10: pedido ao aluno o PDF com os slides depois do 16).
 
 **Oferta:** Auraly · Love Chart. **Mercado:** EUA, inglês. **Público:** mulheres solteiras de 25 a 45 anos. Funil: quiz → página de vendas; front de US$ 9; o Auraly é uma **assinatura** (preço e assinatura nunca entram na fala).
 
