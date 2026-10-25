@@ -23,6 +23,7 @@ Regra (P38, 22/10/2026): tudo que o aluno confirmar fica aqui no mesmo turno. Nu
 - Story de 21/10 18h30: 2 views, 0 cliques (o anel da foto aparece no perfil e o story abre, testado 22/10).
 - Story de 22/10 (~18h): 6 views (83% seguidores), 0 cliques, 0 interações (leitura de 23/10 11h42).
 - Story de 23/10 20h28 ("Tap below and take the love quiz.", adesivo "Take the quiz"): 5 views, 100% seguidores, 0 interações, 0 visitas ao perfil (leitura de 24/10, manhã; o aluno: "todos seguidores"). O aluno reaproveitou a arte com o texto do Vênus e o adesivo "Take the free quiz"; a partir de 23/10 o texto é "Tap below and take the love quiz." e o adesivo "Take the quiz" (P39).
+- Story de 25/10 01h45 (o novo do P40, do painel do nora33: "Tap below: a quick quiz builds your love chart from your birth date.", adesivo "Get my Love Chart"), postado junto com o nora33 (aluno, 25/10). Expira por volta de 01h45 de 26/10: cobre o nora34 (19h) e o nora35 (21h) de 25/10. Pedir os números dele junto com a leitura de 12 h do nora33.
 
 ## Postagem e métricas
 - **Horário (23/10/2026, depois do Matheus Baffa e do Adão):** a janela abaixo vira **preferência, não regra**: se perder a janela, posta assim mesmo (não ficar um dia sem postar como em 22/10). Toda postagem no Insta leva a **localização Los Angeles, California** e as hashtags #astrology #zodiac #usa #usareels (fim do teste com e sem hashtag, que não mostrou diferença). Nos dados da Nora v2 o horário não decidiu as views: na janela 116 a 119; fora dela 105 a 253.
