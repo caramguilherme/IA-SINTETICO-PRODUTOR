@@ -469,3 +469,6 @@ Eu pus o P40 (aula do Iorhan) só do nora35 em diante, com o argumento de que no
 
 ### 25/10/2026 - A seta para a foto do perfil fica embaixo à esquerda no Reels
 Nos 2 reels do Matheus (M1 e M2), a seta vermelha fica **no canto de baixo à esquerda, apontando para baixo**, porque no Reels (Insta e Face) a foto do perfil e o @ ficam embaixo à esquerda, em cima da legenda do post. O painel do nora33 mandava a seta "para a foto do perfil no canto de cima", que é onde a foto fica na página do perfil, não no Reels. **Regra (checklist):** seta para a foto do perfil = canto de baixo à esquerda, apontando para baixo, fora da faixa da legenda. Corrigido no nora33 e no nora34 (ainda não postados).
+
+### 25/10/2026 - O cartão da imagem não dizia o que anexar
+O aluno perguntou se gerava a IMAGEM 1 do nora33 sem anexar nada: o "anexe só o blueprint" estava só nos passos do topo e na "Referência visual", não no cartão da seção Imagens, onde ele copia o prompt. **Correção:** o `PAINEL-MODELO.html` passou a mostrar, em cada cartão de imagem, a linha "Anexar no Flow:" (campo novo `imagens[].anexar` do pacote); nora33 e nora34 já têm. **Regra (checklist):** todo prompt de imagem no painel leva o `anexar` no próprio cartão (o que anexar e o que NÃO anexar), mesmo que os passos já digam.
