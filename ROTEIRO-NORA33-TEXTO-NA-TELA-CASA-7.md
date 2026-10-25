@@ -15,6 +15,8 @@ Status: **pronto para gerar** (decisão minha, a pedido do aluno: "o que vc acha
 ## Imagem (nora33-IMG)
 Gerada no Flow a partir do blueprint (só ele anexado): a Nora no sofá cinza de uma sala americana à noite, blusa canelada ameixa, abajur e bandeirinha numa caneca à direita da imagem, janela escura à esquerda; o mapa (papel creme, um só círculo vermelho, sem letras nem números) na mão direita dela (lado esquerdo da imagem), ao lado do rosto; a outra mão fora do quadro. O aluno me manda antes de gerar o clipe.
 
+**Aprovada em 25/10 (~01h30):** o Flow pôs o mapa na mão esquerda dela (lado DIREITO da imagem); o resto bateu. O prompt do clipe foi reescrito pela imagem (mão do lado direito, o mapa vai para a direita, longe do rosto) e o texto de baixo desceu para 74 a 78% da altura.
+
 ## Clipe (nora33-CLIPE-texto-na-tela, 8 s, Frames, 1º e último quadro = nora33-IMG)
 0–1 s sobrancelhas e cabeça; 1–2 s olha o círculo; 2–4 s aproxima o mapa da lente; 4–5,5 s aceno lento; 5,5–7 s volta o mapa; 7–8 s parada, meio sorriso. Ela não fala.
 
