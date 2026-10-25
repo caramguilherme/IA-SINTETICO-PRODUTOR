@@ -1,6 +1,6 @@
 # nora33-TEXTO-NA-TELA-CASA-7 — texto na tela, clipe de 8 s sem fala (23/10/2026)
 
-Status: **pronto para gerar** (decisão minha, a pedido do aluno: "o que vc acha?"). Postagem: **25/10/2026 por volta de 00h30** (Insta e Face; em 24/10 nada foi postado, e o aluno voltou às 23h52: decisão minha de postar assim mesmo, no mesmo horário do nora31, para comparar). Persona: Nora v2. Formato: POV com texto na tela (briefing da Appyon, seção 16), sem fala. Painel: `PAINEL-NORA33.html` (https://claude.ai/artifact/ECjk3fFfdxtaxcwPUcx7QU; o link era da copy curta, que virou o nora34). Custo: 12 créditos (só o clipe).
+Status: **pronto para gerar** (decisão minha, a pedido do aluno: "o que vc acha?"). Postagem: **25/10/2026 às 19h** (Insta e Face; em 24/10 nada foi postado; às 23h52 eu disse para postar às 00h30, mas mudei em seguida pelo horário do Iorhan: 17h, 19h e 21h). Persona: Nora v2. Formato: POV com texto na tela (briefing da Appyon, seção 16), sem fala. Painel: `PAINEL-NORA33.html` (https://claude.ai/artifact/ECjk3fFfdxtaxcwPUcx7QU; o link era da copy curta, que virou o nora34). Custo: 12 créditos (só o clipe).
 
 ## Leitura obrigatória (registro)
 23/10/2026: antes de montar, li inteiros nesta sessão, com a ferramenta de leitura, todos os arquivos de `LEIA-TUDO-ANTES.md` (parte antes e parte depois do resumo da conversa); `FOTO-PERFIL-DANA.md` não (só vale para foto de perfil). Checklist da seção 1 de `LICOES-FLOW-E-PROMPTS.md` conferido, com os itens 35 (texto herdado) e 37 (palavras de corpo: nenhuma na cena, no clipe nem no figurino).
