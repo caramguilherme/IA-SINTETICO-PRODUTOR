@@ -20,7 +20,7 @@ Gerada no Flow a partir do blueprint (só ele anexado): a Nora no sofá cinza de
 
 ## Textos
 - **Topo (atualizado em 23/10, dica do Matheus Baffa: signos na tela):** "Cancer, Scorpio, Pisces: different guys, same ending. Look at your 7th house." (1ª linha com os signos em amarelo-ouro). Versão anterior: "Different guys. Same ending. It's not bad luck. Look at your 7th house."
-- **Dos 5 aos 8 s (P40, 25/10):** "Your love chart quiz is in my story" + seta vermelha (antes: "Part 2 is in my story").
+- **Dos 5 aos 8 s (P40, 25/10):** "Your love chart quiz is in my story" + seta vermelha no canto de baixo à esquerda, apontando para a foto do perfil (corrigido em 25/10 pelos reels do Matheus; antes "canto de cima"; texto antes: "Part 2 is in my story").
 - **Legenda (com hashtag; o teste com e sem acabou em 23/10):** "Cancer, Scorpio, Pisces: if every relationship ends the same way, it's not bad luck. 🔮 / Comment 222. Tap my photo NOW: a quick quiz builds your love chart. / #astrology #zodiac #usa #usareels" (2ª linha trocada pelo P40 em 25/10). Localização no Insta: Los Angeles, California.
 - **Comentário fixado (P40):** "Cancer, Scorpio, Pisces, this one is yours. 🔥 PART 2 is in my story: a quick quiz that builds your love chart and names your pattern. 👆 Tap my photo NOW, it's gone in 24 hours. Comment 222." (Face: "my Story", "my profile picture").
 - **Story (P40, story NOVO logo antes do nora33, vale também para o nora34):** "Tap below: a quick quiz builds your love chart from your birth date." + adesivo "Get my Love Chart". O link já abre o Love Chart (aluno, 24/10).

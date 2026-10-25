@@ -31,7 +31,7 @@ Simulação do divisor da Central (limites de 22, 23 e 24 palavras): exatamente 
 
 ## Textos
 - **Topo (do segundo 0 ao fim da primeira fala):** "Gemini, Libra, Aquarius: your chart knew he wasn't the one in week one." (1ª linha com os signos em amarelo-ouro).
-- **Fixos:** 222 e 11:11. **Legenda:** blocos de 2 a 4 palavras, destaque em Venus, Moon e quiz. **Seta vermelha** na frase do 222.
+- **Fixos:** 222 e 11:11. **Legenda:** blocos de 2 a 4 palavras, destaque em Venus, Moon e quiz. **Seta vermelha** no canto de baixo à esquerda, apontando para a foto do perfil, no Take 3 inteiro. **Faixa no topo** do Take 2 até o fim: "Your love chart quiz is in my Stories ⭐" (modelo M1 e M2, reels do Matheus, 25/10).
 - **Legenda do post (P40):** "Gemini, Libra, Aquarius: six months to find out he wasn't the one? Again? 🔮 / Comment 222. Tap my photo NOW: a quick quiz shows what kind of partner fits you. / #astrology #zodiac #usa #usareels". Localização no Insta: Los Angeles, California.
 - **Comentário fixado (P40):** "Gemini, Libra, Aquarius, this one is yours. 🔥 PART 2 is in my story: a quick quiz that reads your chart and shows what kind of partner fits you. 👆 Tap my photo NOW, it's gone in 24 hours. Comment 222." (Face: "my Story", "my profile picture").
 - **Story (P40):** o mesmo do nora33 (postado logo antes dele): "Tap below: a quick quiz builds your love chart from your birth date." + adesivo "Get my Love Chart".
