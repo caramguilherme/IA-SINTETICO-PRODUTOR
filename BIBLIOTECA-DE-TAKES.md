@@ -96,7 +96,7 @@ O número do vídeo é a ordem de postagem na conta: **nora01 a nora30 já foram
 | `nora34-IMG` | imagem 1 B (varanda em dia nublado, blusa azul-marinho, quartzo rosa grande na mão do lado esquerdo da imagem), gerada no Flow com o blueprint | só o nora34 (copy curta; era nora33 até 23/10 ~12h) | a gerar (24/10) |
 | `nora34-T1-gancho-seis-meses` | “You spent six months finding out he wasn't the one. Again. Your chart could have told you in week one.” | só deste vídeo | a gerar (15 créditos) |
 | `nora34-T2-corpo-venus-lua` | “Your Venus picks who you fall for. Your Moon picks what makes you feel safe. When they clash, you lose months.” | vídeos de compatibilidade com a mesma imagem | a gerar (15) |
-| `nora34-T3-cta-quiz-222` | “The quiz in my story shows what kind of partner fits you. Comment 222 and tap my photo before it's gone.” | vídeos com a mesma imagem | a gerar (15); postar 24/10 21h30 |
+| `nora34-T3-cta-quiz-222` | “Comment 222, then tap my photo. A quick quiz reads your chart and shows what kind of partner fits you.” (P40, 25/10) | vídeos com a mesma imagem | a gerar (15); postar às 21h30 |
 
 *(Os roteiros de cold reading que seriam o nora30, nora31 e nora32 ficaram guardados em `RESERVA-ROTEIRO-*.md`; as peças deles não foram geradas.)*
 

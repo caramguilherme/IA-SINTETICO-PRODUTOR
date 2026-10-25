@@ -447,3 +447,7 @@ O aluno pediu o pré-gancho do curativo "igualzinho" aos virais w1 e w2. A próp
 
 ### 24/10/2026 - Regra: não contornar o filtro de política do Flow
 Quando o Flow recusa por política um conteúdo que ele quer barrar (roupa íntima no quadro, nora32), **não reescrevo o prompt com outras palavras para passar** ("lingerie", "peça íntima", "red fabric", "the garment", "objeto azul"): isso é enganar o filtro. A conduta é trocar a ideia da cena ou usar uma ferramenta cuja política permita aquele conteúdo, sem disfarce. **Isto corrige os itens 37 e 39**, que ensinavam a trocar as palavras da peça para o Flow aceitar. O que continua valendo do item 37: em cenas comuns, sem nada sensível, evitar palavras de corpo que o filtro lê errado ("chest height" vira "collarbone height"), porque ali o filtro erra e não há nada a esconder.
+
+### 25/10/2026 - Regra nova vale do primeiro vídeo ainda não postado
+Eu pus o P40 (aula do Iorhan) só do nora35 em diante, com o argumento de que nora33 e nora34 "já cumpriam o essencial". O aluno corrigiu: "já pode valer do nora33 pra frente. eu postei até o nora32, já mudou o funil no link". **Regra:** quando entra uma regra nova (ou muda o funil), ela vale para todo vídeo que ainda não foi postado, mesmo que o painel já esteja pronto; só o que já foi postado fica congelado (P18). Antes de dizer "vale do próximo", conferir qual é o último vídeo postado (FATOS e métricas) e reabrir os painéis que ainda não saíram.
+

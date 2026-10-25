@@ -20,7 +20,8 @@ Gerada no Flow a partir do blueprint (só ele anexado): a Nora no sofá cinza de
 
 ## Textos
 - **Topo (atualizado em 23/10, dica do Matheus Baffa: signos na tela):** "Cancer, Scorpio, Pisces: different guys, same ending. Look at your 7th house." (1ª linha com os signos em amarelo-ouro). Versão anterior: "Different guys. Same ending. It's not bad luck. Look at your 7th house."
-- **Dos 5 aos 8 s:** "Part 2 is in my story" + seta vermelha.
-- **Legenda (com hashtag; o teste com e sem acabou em 23/10):** "Cancer, Scorpio, Pisces: if every relationship ends the same way, it's not bad luck. 🔮 / Comment 222. Part 2 is in my story. Tap my photo NOW. / #astrology #zodiac #usa #usareels". Localização no Insta: Los Angeles, California.
-- **Comentário fixado:** "Cancer, Scorpio, Pisces, this one is yours. 🔥 PART 2 is in my story. 👆 Tap my photo NOW, it's gone in 24 hours. Comment 222." (Face: "my Story", "my profile picture").
-- **Story:** o de 23/10 (18h25): "Tap below and take the love quiz." + adesivo "Take the quiz".
+- **Dos 5 aos 8 s (P40, 25/10):** "Your love chart quiz is in my story" + seta vermelha (antes: "Part 2 is in my story").
+- **Legenda (com hashtag; o teste com e sem acabou em 23/10):** "Cancer, Scorpio, Pisces: if every relationship ends the same way, it's not bad luck. 🔮 / Comment 222. Tap my photo NOW: a quick quiz builds your love chart. / #astrology #zodiac #usa #usareels" (2ª linha trocada pelo P40 em 25/10). Localização no Insta: Los Angeles, California.
+- **Comentário fixado (P40):** "Cancer, Scorpio, Pisces, this one is yours. 🔥 PART 2 is in my story: a quick quiz that builds your love chart and names your pattern. 👆 Tap my photo NOW, it's gone in 24 hours. Comment 222." (Face: "my Story", "my profile picture").
+- **Story (P40, story NOVO às 18h25, vale também para o nora34):** "Tap below: a quick quiz builds your love chart from your birth date." + adesivo "Get my Love Chart". O link já abre o Love Chart (aluno, 24/10).
+- **P40 aplicado em 25/10/2026** (o aluno: vale do nora33 em diante). A imagem, o clipe e o texto do topo não mudam (uma frase com os signos e a casa 7 como prova; visual de mapa astral). Leitura obrigatória refeita em 25/10.

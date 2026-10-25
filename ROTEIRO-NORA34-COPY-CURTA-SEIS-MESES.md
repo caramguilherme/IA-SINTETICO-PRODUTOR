@@ -13,7 +13,7 @@ Status: **pronto para gerar** (reescrito pelo P39 em 24/10/2026; a copy antiga, 
 - **Signos:** Gêmeos, Libra e Aquário (grupo Ar, ainda não usado pela Nora v2), só no texto da tela (Matheus).
 - **Visual:** objeto na mão o vídeo todo (S1, S3, S4); sinais dos EUA no cenário.
 - **Fora (P39):** "free", garantia, data, solução instantânea, "ele volta", vidência, alma gêmea.
-- **Conferido contra a aula do Iorhan e a pesquisa Auraly (24/10, P40):** gancho de uma frase com os signos na tela, corpo com prova (Vênus e Lua), CTA que diz o que o quiz mostra ("what kind of partner fits you"); visual de astrologia (quartzo na mão, sem ritual). Nada muda.
+- **P40 aplicado em 25/10/2026 (o aluno: vale do nora33 em diante; o link já abre o Love Chart):** gancho e corpo ficam (uma frase de gancho com os signos na tela; corpo com a prova de Vênus e Lua). **O CTA (Take 3) foi reescrito** para dizer o que acontece depois do toque: um quiz rápido que lê o mapa e mostra que tipo de parceiro combina. Legenda, comentário fixado e story também. Leitura obrigatória refeita em 25/10 (todos os arquivos de `LEIA-TUDO-ANTES.md`).
 
 ## Imagem (nora34-IMG)
 Gerada no Flow com o blueprint (como o nora33): a Nora no degrau de cima da varanda de uma casa americana, dia nublado, blusa canelada azul-marinho, broche de bandeira; quartzo rosa grande (15 cm) na mão direita dela (lado ESQUERDO da imagem), ao lado do rosto; a outra mão fora do quadro; porta branca e bandeirinha à esquerda, coluna branca e gramado à direita. O aluno me manda antes dos takes; as linhas de movimentação são provisórias até eu conferir a imagem.
@@ -23,14 +23,15 @@ Gerada no Flow com o blueprint (como o nora33): a Nora no degrau de cima da vara
    (PT: Você passou seis meses descobrindo que ele não era o cara. De novo. O seu mapa podia ter te contado na primeira semana.)
 2. `nora34-T2-corpo-venus-lua` (21): "Your Venus picks who you fall for. Your Moon picks what makes you feel safe. When they clash, you lose months."
    (PT: O seu Vênus escolhe por quem você se apaixona. A sua Lua escolhe o que te faz sentir segura. Quando eles brigam, você perde meses.)
-3. `nora34-T3-cta-quiz-222` (21): "The quiz in my story shows what kind of partner fits you. Comment 222 and tap my photo before it's gone."
-   (PT: O quiz no meu story mostra que tipo de parceiro combina com você. Comente 222 e toque na minha foto antes que suma.)
+3. `nora34-T3-cta-quiz-222` (20, P40): "Comment 222, then tap my photo. A quick quiz reads your chart and shows what kind of partner fits you."
+   (PT: Comente 222 e depois toque na minha foto. Um quiz rápido lê o seu mapa e mostra que tipo de parceiro combina com você.)
+   (Antes, até 24/10: "The quiz in my story shows what kind of partner fits you. Comment 222 and tap my photo before it's gone.")
 
-Simulação do divisor da Central (limites de 22, 23 e 24 palavras): exatamente estes 3 takes.
+Simulação do divisor da Central (limites de 22, 23 e 24 palavras): exatamente estes 3 takes (20, 21 e 20 palavras). Linha de movimentação do Take 3 refeita (aponta para a lente na primeira frase; sem nenhum par de palavras da fala).
 
 ## Textos
 - **Topo (do segundo 0 ao fim da primeira fala):** "Gemini, Libra, Aquarius: your chart knew he wasn't the one in week one." (1ª linha com os signos em amarelo-ouro).
 - **Fixos:** 222 e 11:11. **Legenda:** blocos de 2 a 4 palavras, destaque em Venus, Moon e quiz. **Seta vermelha** na frase do 222.
-- **Legenda do post:** "Gemini, Libra, Aquarius: six months to find out he wasn't the one? Again? 🔮 / Comment 222. Part 2 is in my story. Tap my photo NOW. / #astrology #zodiac #usa #usareels". Localização no Insta: Los Angeles, California.
-- **Comentário fixado:** "Gemini, Libra, Aquarius, this one is yours. 🔥 PART 2 is in my story. 👆 Tap my photo NOW, it's gone in 24 hours. Comment 222." (Face: "my Story", "my profile picture").
-- **Story:** o das 18h25 de 24/10 ("Tap below and take the love quiz." + adesivo "Take the quiz").
+- **Legenda do post (P40):** "Gemini, Libra, Aquarius: six months to find out he wasn't the one? Again? 🔮 / Comment 222. Tap my photo NOW: a quick quiz shows what kind of partner fits you. / #astrology #zodiac #usa #usareels". Localização no Insta: Los Angeles, California.
+- **Comentário fixado (P40):** "Gemini, Libra, Aquarius, this one is yours. 🔥 PART 2 is in my story: a quick quiz that reads your chart and shows what kind of partner fits you. 👆 Tap my photo NOW, it's gone in 24 hours. Comment 222." (Face: "my Story", "my profile picture").
+- **Story (P40):** o novo das 18h25, o mesmo do nora33: "Tap below: a quick quiz builds your love chart from your birth date." + adesivo "Get my Love Chart".
