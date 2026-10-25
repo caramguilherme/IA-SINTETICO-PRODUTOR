@@ -341,6 +341,7 @@ Ao juntar os takes (nora30, 9 takes) a ferramenta pede "Transição entre os ví
 - "O vídeo tá massa." Remover a **logo "Clideo.com"** (marca d'água da ferramenta que o aluno usou para comprimir o vídeo abaixo de 20 MB e enviar). Conferir que o arquivo postado NÃO tem essa marca.
 - Testar **hooks visuais novos** e **replicar o que teve mais views**; fazer mais **uma semana postando todo dia**, testando coisas novas. Se não viralizar, **trocar o avatar por uma pessoa mais velha e sem beleza de modelo** (palavras dele). Tem gente que deu certo com 80 vídeos, outros com mais ou menos; não desistir.
 - Quatro conselhos desta semana (Eduardo, Adão, Mattias, Ricardo) apontam o mesmo: hook visual novo e diferente, replicar o que performa, variar o formato, mais tempo de teste.
+- **Resposta de 23/10 19h09 (print mandado pelo aluno em 25/10):** à frase do aluno "acho que o principal é o hook visual, senão a pessoa passa o vídeo rápido", o Ricardo respondeu: "Testa novos hooks mano. O segredo é testar." Nada muda: já é um formato e um gancho novo por vídeo. O plano B dele (avatar mais velha e sem beleza) caiu em 24/10 pela aula do Iorhan (P40: avatar mais velha puxa público de 55+, que converte e renova menos).
 
 ### 22/10/2026 - Discord (chat-appyon 21/10 12h42 a 22/10 17h57 e vitórias-dólar até 17h55, colado pelo aluno às ~18h)
 O vitórias-dólar não trouxe nada novo (só prints de vendas e o que já está acima). Do chat-appyon, o que não estava registrado (relatos, não regras):
