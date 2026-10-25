@@ -1,6 +1,6 @@
 # nora33-TEXTO-NA-TELA-CASA-7 — texto na tela, clipe de 8 s sem fala (23/10/2026)
 
-Status: **pronto para gerar** (decisão minha, a pedido do aluno: "o que vc acha?"). Postagem: **23/10/2026 às 21h30** (Insta e Face), 3 h depois do nora32. Persona: Nora v2. Formato: POV com texto na tela (briefing da Appyon, seção 16), sem fala. Painel: `PAINEL-NORA33.html` (https://claude.ai/artifact/ECjk3fFfdxtaxcwPUcx7QU; o link era da copy curta, que virou o nora34). Custo: 12 créditos (só o clipe).
+Status: **pronto para gerar** (decisão minha, a pedido do aluno: "o que vc acha?"). Postagem: **25/10/2026 por volta de 00h30** (Insta e Face; em 24/10 nada foi postado, e o aluno voltou às 23h52: decisão minha de postar assim mesmo, no mesmo horário do nora31, para comparar). Persona: Nora v2. Formato: POV com texto na tela (briefing da Appyon, seção 16), sem fala. Painel: `PAINEL-NORA33.html` (https://claude.ai/artifact/ECjk3fFfdxtaxcwPUcx7QU; o link era da copy curta, que virou o nora34). Custo: 12 créditos (só o clipe).
 
 ## Leitura obrigatória (registro)
 23/10/2026: antes de montar, li inteiros nesta sessão, com a ferramenta de leitura, todos os arquivos de `LEIA-TUDO-ANTES.md` (parte antes e parte depois do resumo da conversa); `FOTO-PERFIL-DANA.md` não (só vale para foto de perfil). Checklist da seção 1 de `LICOES-FLOW-E-PROMPTS.md` conferido, com os itens 35 (texto herdado) e 37 (palavras de corpo: nenhuma na cena, no clipe nem no figurino).
@@ -23,5 +23,5 @@ Gerada no Flow a partir do blueprint (só ele anexado): a Nora no sofá cinza de
 - **Dos 5 aos 8 s (P40, 25/10):** "Your love chart quiz is in my story" + seta vermelha (antes: "Part 2 is in my story").
 - **Legenda (com hashtag; o teste com e sem acabou em 23/10):** "Cancer, Scorpio, Pisces: if every relationship ends the same way, it's not bad luck. 🔮 / Comment 222. Tap my photo NOW: a quick quiz builds your love chart. / #astrology #zodiac #usa #usareels" (2ª linha trocada pelo P40 em 25/10). Localização no Insta: Los Angeles, California.
 - **Comentário fixado (P40):** "Cancer, Scorpio, Pisces, this one is yours. 🔥 PART 2 is in my story: a quick quiz that builds your love chart and names your pattern. 👆 Tap my photo NOW, it's gone in 24 hours. Comment 222." (Face: "my Story", "my profile picture").
-- **Story (P40, story NOVO às 18h25, vale também para o nora34):** "Tap below: a quick quiz builds your love chart from your birth date." + adesivo "Get my Love Chart". O link já abre o Love Chart (aluno, 24/10).
+- **Story (P40, story NOVO logo antes do nora33, vale também para o nora34):** "Tap below: a quick quiz builds your love chart from your birth date." + adesivo "Get my Love Chart". O link já abre o Love Chart (aluno, 24/10).
 - **P40 aplicado em 25/10/2026** (o aluno: vale do nora33 em diante). A imagem, o clipe e o texto do topo não mudam (uma frase com os signos e a casa 7 como prova; visual de mapa astral). Leitura obrigatória refeita em 25/10.
