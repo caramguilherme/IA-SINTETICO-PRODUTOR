@@ -139,7 +139,7 @@ Pré-gancho: `nora36-PRE-A` (pedra fechada), `nora36-PRE-B` (aberta; é também 
 Pré-gancho 1 clipe de 4 s = 7; 10 takes de 10 s = 150. **Total do nora36: 157 créditos.** Conta de 437 (FATOS, 26/10): nora35 12 + nora36 157 + nora37 15 = 184; sobram uns 253. O nora34 (52 com o pré-gancho) sai da conta de 53. Montagem: pré-gancho (~3,5 s) + corpo cortado (10 takes, uns 100 s antes do corte, uns 70 s depois).
 
 ## Postagem
-Hoje (26/10): nora34 às 17h, nora35 (texto na tela) às 19h, nora36 às 21h e nora37 às 23h. O nora36 vai às **21h de 26/10** se ficar pronto; se não, **27/10 às 19h** (aí as datas do Take 1 passam a "27th, 28th or 29th", antes de gerar). Insta: um vídeo por horário. Face: as 3 variações.
+Hoje (26/10): nora34 postado às 18h25 (era 17h); por isso nora35 às 21h, **nora36 às 23h** e nora37 à 01h de 27/10. O nora36 vai às **23h de 26/10** se ficar pronto; se não, **27/10 às 19h** (aí as datas do Take 1 passam a "27th, 28th or 29th", antes de gerar). Insta: um vídeo por horário. Face: as 3 variações.
 
 ## Notas
 - "A cycle that favors new connections" é a frase que a Appyon manda usar (seção 13), sem data e sem garantia.
