@@ -53,6 +53,8 @@ Regra (P38, 22/10/2026): tudo que o aluno confirmar fica aqui no mesmo turno. Nu
 - Vídeo para legenda e CapCut: 720×1280; fonte Poppins Bold; tamanho 12 nos textos fixos e no hook; Luz desligada.
 - **Conta do Claude trocada (22/10/2026):** o projeto passou para outra conta do Claude Code. Os Artifacts da conta antiga (painéis nora30 a 33 e o dashboard de métricas) não abrem na conta nova; os painéis foram republicados (links no `CLAUDE.md`, seção 5); o dashboard foi recriado em 23/10/2026: https://claude.ai/artifact/LXyXLjNohRDcTcnYwtAZKi ("Métricas da Nora"). O dashboard antigo (de 15/10) e a cópia velha com o título "Painel nora33" foram apagados em 23/10 a pedido do aluno: fica só o que se usa.
 
+- **GitHub (26/10/2026):** o aluno tem duas contas do Claude, "Guilherme · Pro" e "gui · Pro"; **esta sessão roda na "gui · Pro"**. Depois que a sessão reiniciou, o envio ao GitHub falhou até ele conectar o GitHub e instalar o Claude GitHub App (repositório IA-SINTETICO-PRODUTOR) **nessa conta**, pelo link com o `org` da sessão. Se o envio falhar de novo, mandar esse link, não o genérico. No GitHub, o trabalho fica no ramo `claude/loving-lamport-uuuom5` (o `main` só tem os arquivos do começo).
+
 ## Pessoas e método
 - O aluno é iniciante, fala português; quer respostas curtas e que eu **decida e explique em 1 linha**. Odeia repetir o que já disse.
 - Eduardo Pinaffi (aluno MVM, 21/10): o problema é gancho e copy, modelar o que já funciona, garimpar em outra conta, 2 vídeos por dia; testar 2 de 5 vídeos só com texto na tela (textos de perfis reais).
