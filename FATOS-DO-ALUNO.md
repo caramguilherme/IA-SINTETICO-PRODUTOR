@@ -49,6 +49,7 @@ Regra (P38, 22/10/2026): tudo que o aluno confirmar fica aqui no mesmo turno. Nu
 ## Infraestrutura
 - GeeLark: celular "#4 GeeLarkPhone|Nora", Android 15, proxy Proxy-Cheap (Astound, Los Angeles). Muito lento; aguardando o suporte do GeeLark (Telegram). O relógio do celular é BRT −4 h (sem AM/PM no print).
 - Flow: o aluno comprou 1000 créditos em 19/10; saldo de 469 em 21/10. nora30 (132) gerado em 21/10. Custo: 10 s = 15 créditos, 8 s = 12.
+- **Saldo do Flow em 26/10/2026 (aluno): 490 créditos em duas contas, 53 numa e 437 na outra.** Plano: o nora34 (45) sai inteiro da conta de 53; o resto (nora35 e a série) sai da de 437, com a mesma imagem subida nela (o corpo e os Takes 1 de um kit ficam na mesma conta).
 - Ferramenta de corte de silêncio: a mesma do curso; ao juntar os takes, escolher "Corte seco".
 - Vídeo para legenda e CapCut: 720×1280; fonte Poppins Bold; tamanho 12 nos textos fixos e no hook; Luz desligada.
 - **Conta do Claude trocada (22/10/2026):** o projeto passou para outra conta do Claude Code. Os Artifacts da conta antiga (painéis nora30 a 33 e o dashboard de métricas) não abrem na conta nova; os painéis foram republicados (links no `CLAUDE.md`, seção 5); o dashboard foi recriado em 23/10/2026: https://claude.ai/artifact/LXyXLjNohRDcTcnYwtAZKi ("Métricas da Nora"). O dashboard antigo (de 15/10) e a cópia velha com o título "Painel nora33" foram apagados em 23/10 a pedido do aluno: fica só o que se usa.
