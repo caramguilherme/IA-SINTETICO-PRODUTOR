@@ -46,55 +46,55 @@ Modelo: x1, x2 e x5 (o mesmo clipe, espelhado no x2), w4 e M1. **Primeiro quadro
 ## Takes (a fala inteira vai de uma vez na Central; o site divide em 10 takes de 10 s)
 
 ### Take 1/10 — Gancho (signos e datas) — 10 s (21 palavras)
-**Nome do arquivo:** `nora36-T1-gancho-touro-virgem-capricornio`
+**Nome do arquivo:** `nora36-T01-gancho-touro-virgem-capricornio`
 **Visual:** ela olha firme para a lente, com as duas metades do geodo nas mãos; um aceno curto no fim.
 **Fala:** "Taurus, Virgo or Capricorn: if this reached you on October 26th, 27th or 28th, it's meant for you. Don't tell anyone."
 (PT: Touro, Virgem ou Capricórnio: se isto chegou até você em 26, 27 ou 28 de outubro, é para você. Não conte a ninguém.)
 
 ### Take 2/10 — "I don't know your name" + o padrão — 10 s (21 palavras)
-**Nome do arquivo:** `nora36-T2-corpo-nao-sei-seu-nome`
+**Nome do arquivo:** `nora36-T02-corpo-nao-sei-seu-nome`
 **Visual:** ela inclina a cabeça de leve, com um olhar de quem entende.
 **Fala:** "I don't know your name or what you've been through, but I can see the pattern you keep repeating in love."
 (PT: Eu não sei o seu nome nem o que você passou, mas consigo ver o padrão que você repete no amor.)
 
 ### Take 3/10 — A dor nas palavras dela + o ciclo — 10 s (21 palavras)
-**Nome do arquivo:** `nora36-T3-corpo-algo-errado-ciclo`
+**Nome do arquivo:** `nora36-T03-corpo-algo-errado-ciclo`
 **Visual:** ela ergue as sobrancelhas de leve e depois olha para o geodo e volta à lente.
 **Fala:** "You know something's off in love, but you can't say what. And I see a cycle opening that favors new connections."
 (PT: Você sabe que algo está errado no amor, mas não consegue dizer o quê. E eu vejo um ciclo se abrindo que favorece novas conexões.)
 
 ### Take 4/10 — A ameaça (uma vez só) — 10 s (19 palavras)
-**Nome do arquivo:** `nora36-T4-corpo-mesma-historia`
+**Nome do arquivo:** `nora36-T04-corpo-mesma-historia`
 **Visual:** ela fica séria e se inclina um pouco para a lente.
 **Fala:** "If you scroll past this, you'll live the same story again with a different man. So take this seriously."
 (PT: Se você passar direto por isto, vai viver a mesma história de novo com outro homem. Então leve isto a sério.)
 
 ### Take 5/10 — A prova (Vênus, Lua e casa 7) — 10 s (21 palavras)
-**Nome do arquivo:** `nora36-T5-corpo-venus-lua-casa-7`
+**Nome do arquivo:** `nora36-T05-corpo-venus-lua-casa-7`
 **Visual:** ela aproxima um pouco as duas metades do geodo da lente e volta.
 **Fala:** "In astrology, your sun sign isn't the problem. Your Venus, your Moon and your 7th house decide who you keep choosing."
 (PT: Na astrologia, o seu signo solar não é o problema. O seu Vênus, a sua Lua e a sua casa 7 decidem quem você continua escolhendo.)
 
 ### Take 6/10 — A virada (não é azar) — 10 s (19 palavras)
-**Nome do arquivo:** `nora36-T6-corpo-nao-e-azar`
+**Nome do arquivo:** `nora36-T06-corpo-nao-e-azar`
 **Visual:** ela balança a cabeça devagar, uma vez.
 **Fala:** "When they clash, you fall for the wrong man and blame yourself. It's not bad luck. It's a pattern."
 (PT: Quando eles brigam, você se apaixona pelo homem errado e se culpa. Não é azar. É um padrão.)
 
 ### Take 7/10 — O desejo + mandar para si — 10 s (21 palavras)
-**Nome do arquivo:** `nora36-T7-corpo-imagine-mande`
+**Nome do arquivo:** `nora36-T07-corpo-imagine-mande`
 **Visual:** ela respira fundo, os ombros baixam, um meio sorriso.
 **Fala:** "Imagine finally understanding why, before you give another year to someone who doesn't fit you. Send this video to yourself now."
 (PT: Imagine finalmente entender o porquê, antes de dar mais um ano a alguém que não combina com você. Mande este vídeo para você mesma agora.)
 
 ### Take 8/10 — Os dois selos — 10 s (22 palavras)
-**Nome do arquivo:** `nora36-T8-cta-selos`
+**Nome do arquivo:** `nora36-T08-cta-selos`
 **Visual:** ela acena com a cabeça a cada selo.
 **Fala:** "Now save this video, that will be your first seal. Double tap quickly on your screen, that will be your second seal."
 (PT: Agora salve este vídeo, esse será o seu primeiro selo. Toque duas vezes na tela rapidinho, esse será o seu segundo selo.)
 
 ### Take 9/10 — 222 e o story — 10 s (21 palavras)
-**Nome do arquivo:** `nora36-T9-cta-222-story`
+**Nome do arquivo:** `nora36-T09-cta-222-story`
 **Visual:** ela olha de relance para o geodo e volta à lente.
 **Fala:** "Comment 222 so I can see you did everything. Then tap my profile picture and check my stories before they disappear."
 (PT: Comente 222 para eu ver que você fez tudo. Depois toque na minha foto de perfil e veja os meus stories antes que sumam.)
@@ -127,11 +127,11 @@ Comment 222. Tap my photo NOW: a quick quiz reads your love chart.
 O mesmo story do P40, repostado antes do vídeo: "Tap below: a quick quiz builds your love chart from your birth date." + adesivo "Get my Love Chart".
 
 ## Nomes e reaproveitamento
-Pré-gancho: `nora36-PRE-A` (pedra fechada), `nora36-PRE-B` (aberta; é também a `nora36-IMG`), `nora36-PRE` (vídeo de 4 s). Takes: `nora36-T1-gancho-touro-virgem-capricornio`, `nora36-T2-corpo-nao-sei-seu-nome`, `nora36-T3-corpo-algo-errado-ciclo`, `nora36-T4-corpo-mesma-historia`, `nora36-T5-corpo-venus-lua-casa-7`, `nora36-T6-corpo-nao-e-azar`, `nora36-T7-corpo-imagine-mande`, `nora36-T8-cta-selos`, `nora36-T9-cta-222-story`, `nora36-T10-cta-quiz-mapa`.
+Pré-gancho: `nora36-PRE-A` (pedra fechada), `nora36-PRE-B` (aberta; é também a `nora36-IMG`), `nora36-PRE` (vídeo de 4 s). Takes: `nora36-T01-gancho-touro-virgem-capricornio`, `nora36-T02-corpo-nao-sei-seu-nome`, `nora36-T03-corpo-algo-errado-ciclo`, `nora36-T04-corpo-mesma-historia`, `nora36-T05-corpo-venus-lua-casa-7`, `nora36-T06-corpo-nao-e-azar`, `nora36-T07-corpo-imagine-mande`, `nora36-T08-cta-selos`, `nora36-T09-cta-222-story`, `nora36-T10-cta-quiz-mapa`.
 **Série (só o Take 1 muda, 15 créditos cada; mesmo pré-gancho, espelhado um sim, um não, como x1 → x2):**
-- `nora37-T1-gancho-cancer-escorpiao-peixes`: "Cancer, Scorpio or Pisces: if this reached you on October [3 datas], it's meant for you. Don't tell anyone."
-- `noraNN-T1-gancho-aries-leao-sagitario`: o mesmo com "Aries, Leo or Sagittarius".
-- `noraNN-T1-gancho-gemeos-libra-aquario`: o mesmo com "Gemini, Libra or Aquarius".
+- `nora37-T01-gancho-cancer-escorpiao-peixes`: "Cancer, Scorpio or Pisces: if this reached you on October [3 datas], it's meant for you. Don't tell anyone."
+- `noraNN-T01-gancho-aries-leao-sagitario`: o mesmo com "Aries, Leo or Sagittarius".
+- `noraNN-T01-gancho-gemeos-libra-aquario`: o mesmo com "Gemini, Libra or Aquarius".
 - Variação de hook sem crédito a mais: num desses, o Take 1 abre com a **palma indo até a lente** (x3), no lugar do geodo.
 **Face (volume, conselho do Lucas):** cada combinação vira 3 posts só no Face (original, `-ESP` com só a camada do vídeo espelhada, `-VEL` a 1,10x), a cada 1 ou 2 h.
 

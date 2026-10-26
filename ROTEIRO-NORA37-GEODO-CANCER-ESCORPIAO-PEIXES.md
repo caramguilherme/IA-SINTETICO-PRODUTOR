@@ -12,7 +12,7 @@ Status: **com painel (26/10/2026, ~15h20): https://claude.ai/artifact/H5WDuiqtoN
 - **Teste:** às 23h é o teste de variação no Insta (conselho do Lucas, no lugar do `-ESP`): mesmo corpo do nora36 das 21h, hook espelhado e signos novos. Comparar as views e o país com o nora36.
 
 ## Take 1/10 — 10 s (21 palavras), `nora36-IMG`
-**Nome:** `nora37-T1-gancho-cancer-escorpiao-peixes`
+**Nome:** `nora37-T01-gancho-cancer-escorpiao-peixes`
 **Fala:** "Cancer, Scorpio or Pisces: if this reached you on October 26th, 27th or 28th, it's meant for you. Don't tell anyone."
 (PT: Câncer, Escorpião ou Peixes: se isto chegou até você em 26, 27 ou 28 de outubro, é para você. Não conte a ninguém.)
 **Movimentação:** a mesma do Take 1 do nora36 (mesma imagem).

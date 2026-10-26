@@ -11,7 +11,7 @@ O número do vídeo é a ordem de postagem na conta: **nora01 a nora30 já foram
 ## Como nomear
 - Pré-gancho: `noraNN-PRE-IMG1` (imagem inicial), `noraNN-PRE-IMG2` (imagem final), `noraNN-PRE` (vídeo).
 - Imagem do vídeo: `noraNN-IMG`.
-- Takes do vídeo: `noraNN-T1-gancho-assunto`, `noraNN-T2-corpo-assunto`, …, `noraNN-T7-cta-a-assunto`, `noraNN-T8-cta-b-assunto` (T1 é sempre o gancho).
+- Takes do vídeo: `noraNN-T01-gancho-assunto`, `noraNN-T02-corpo-assunto`, …, `noraNN-T07-cta-a-assunto`, `noraNN-T08-cta-b-assunto` (T1 é sempre o gancho).
 
 ## Regras de reaproveitamento (o que eu uso para decidir)
 1. **A receita que já deu certo nos seus vídeos:** o corpo e o CTA são gerados uma vez por copy e só o take do gancho (e o texto na tela) muda. Foi assim que saíram o B3 (2.551 views) e o C4 (1.427), os campeões, e os cinco vídeos de venda seguintes.
@@ -102,9 +102,9 @@ O número do vídeo é a ordem de postagem na conta: **nora01 a nora30 já foram
 | `nora35-CLIPE-placa` | clipe de 8 s sem fala: ela empurra a placa até a lente, acena e volta; texto “Don't you dare scroll past this. Your Venus is why love keeps ending the same way.” | só deste vídeo (Face: `-ESP`, `-VEL`) | a gerar (12); postar 26/10 às 19h |
 | `nora36-PRE-A` / `nora36-PRE-B` / `nora36-PRE` | pré-gancho do geodo que racha (x1, x2, x5, w4, M1): pedra cinza fechada (do blueprint) → duas metades com quartzo rosa e símbolo de Vênus dourado (edição da A); 1 clipe de 4 s em Frames (era nora35 até 26/10 15h) | **toda a série por signos (nora37 em diante), espelhado um sim, um não** | a gerar (26/10; 7 créditos) |
 | `nora36-IMG` | edição da `nora36-PRE-B` sem poeira e com o rosto calmo: blusa preta, duas metades do geodo nas duas mãos, quarto à noite, luz rosada, bandeirinha | série por signos (todos os Takes 1) | a gerar |
-| `nora36-T1-gancho-touro-virgem-capricornio` | “Taurus, Virgo or Capricorn: if this reached you on October 26th, 27th or 28th, it's meant for you. Don't tell anyone.” | só deste vídeo | a gerar (15); postar 26/10 às 21h |
-| `nora36-T2` a `nora36-T10` | corpo A dos virais x1/x2/x3/x5 com as promessas do Love Chart (padrão, ciclo, Vênus/Lua/casa 7, selos, 222, quiz no story); nomes no painel | **corpo da série: nora37 em diante refazem só o Take 1 (cópias renomeadas)** | a gerar (135) |
-| `nora37-T1-gancho-cancer-escorpiao-peixes` | “Cancer, Scorpio or Pisces: if this reached you on October 26th, 27th or 28th, it's meant for you. Don't tell anyone.” com a `nora36-IMG`; pré-gancho = `nora36-PRE` espelhado; takes 2 a 10 = cópias do nora36 | só deste vídeo | a gerar (15); postar 26/10 às 23h (teste de variação no Insta) |
+| `nora36-T01-gancho-touro-virgem-capricornio` | “Taurus, Virgo or Capricorn: if this reached you on October 26th, 27th or 28th, it's meant for you. Don't tell anyone.” | só deste vídeo | a gerar (15); postar 26/10 às 21h |
+| `nora36-T02` a `nora36-T10` | corpo A dos virais x1/x2/x3/x5 com as promessas do Love Chart (padrão, ciclo, Vênus/Lua/casa 7, selos, 222, quiz no story); nomes no painel | **corpo da série: nora37 em diante refazem só o Take 1 (cópias renomeadas)** | a gerar (135) |
+| `nora37-T01-gancho-cancer-escorpiao-peixes` | “Cancer, Scorpio or Pisces: if this reached you on October 26th, 27th or 28th, it's meant for you. Don't tell anyone.” com a `nora36-IMG`; pré-gancho = `nora36-PRE` espelhado; takes 2 a 10 = cópias do nora36 | só deste vídeo | a gerar (15); postar 26/10 às 23h (teste de variação no Insta) |
 
 *(Os roteiros de cold reading que seriam o nora30, nora31 e nora32 ficaram guardados em `RESERVA-ROTEIRO-*.md`; as peças deles não foram geradas.)*
 
@@ -114,10 +114,10 @@ O corpo (T2 a T6), o CTA e a imagem do nora25 servem com qualquer gancho de padr
 
 | Nome | Modelo | Gancho (fala) | Texto na tela |
 |---|---|---|---|
-| `noraNN-T1-gancho-nunca-foi-seu` | modelo B3 (2.551 views) | “Wipe your tears. The man who keeps leaving was never your person. It's not bad luck. It's your Venus.” | He was never your person. |
-| `noraNN-T1-gancho-ultimo-sinal` | modelo C4 (1.427 views) | “This is the last sign the universe will send you about him. Don't scroll past it. Your Venus has been telling you.” | Your last sign about him |
-| `noraNN-T1-gancho-para-de-olhar` | modelo B1 / R1V | “If you still check his Instagram at night, stop. What I'm about to show you explains why you keep going back.” | Stop checking his Instagram. |
-| `noraNN-T1-gancho-nao-era-ele` | modelo B2 / B2V | “He wasn't the one. And in the next few days, you're going to understand why. It starts with your Venus.” | He wasn't the one. |
+| `noraNN-T01-gancho-nunca-foi-seu` | modelo B3 (2.551 views) | “Wipe your tears. The man who keeps leaving was never your person. It's not bad luck. It's your Venus.” | He was never your person. |
+| `noraNN-T01-gancho-ultimo-sinal` | modelo C4 (1.427 views) | “This is the last sign the universe will send you about him. Don't scroll past it. Your Venus has been telling you.” | Your last sign about him |
+| `noraNN-T01-gancho-para-de-olhar` | modelo B1 / R1V | “If you still check his Instagram at night, stop. What I'm about to show you explains why you keep going back.” | Stop checking his Instagram. |
+| `noraNN-T01-gancho-nao-era-ele` | modelo B2 / B2V | “He wasn't the one. And in the next few days, you're going to understand why. It starts with your Venus.” | He wasn't the one. |
 
 O painel de cada variação eu monto quando o aluno pedir.
 
