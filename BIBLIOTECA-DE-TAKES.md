@@ -97,6 +97,10 @@ O número do vídeo é a ordem de postagem na conta: **nora01 a nora30 já foram
 | `nora34-T1-gancho-seis-meses` | “You spent six months finding out he wasn't the one. Again. Your chart could have told you in week one.” | só deste vídeo | a gerar (15 créditos) |
 | `nora34-T2-corpo-venus-lua` | “Your Venus picks who you fall for. Your Moon picks what makes you feel safe. When they clash, you lose months.” | vídeos de compatibilidade com a mesma imagem | a gerar (15) |
 | `nora34-T3-cta-quiz-222` | “Comment 222, then tap my photo. A quick quiz reads your chart and shows what kind of partner fits you.” (P40, 25/10) | vídeos com a mesma imagem | a gerar (15); postar 26/10 às 19h |
+| `nora35-PRE-A` / `nora35-PRE-B` / `nora35-PRE` | pré-gancho do geodo que racha (x1, x2, x5, w4, M1): pedra cinza fechada → duas metades com quartzo rosa e símbolo de Vênus dourado; 1 clipe de 4 s em Frames | **toda a série por signos (nora36 a nora38), espelhado um sim, um não** | roteiro para aprovar (26/10); 7 créditos |
+| `nora35-IMG` | é a `nora35-PRE-B` (último quadro do pré-gancho = primeiro quadro dos takes): blusa preta, duas metades do geodo nas duas mãos, quarto à noite, luz rosada, bandeirinha | série por signos | roteiro para aprovar |
+| `nora35-T1-gancho-touro-virgem-capricornio` | “Taurus, Virgo or Capricorn: if this reached you on October 26th, 27th or 28th, it's meant for you. Don't tell anyone.” | só deste vídeo | roteiro para aprovar (15) |
+| `nora35-T2` a `nora35-T10` | corpo A dos virais x1/x2/x3/x5 com as promessas do Love Chart (padrão, ciclo, Vênus/Lua/casa 7, selos, 222, quiz no story) | **corpo da série: nora36 a nora38 refazem só o Take 1** | roteiro para aprovar (135) |
 
 *(Os roteiros de cold reading que seriam o nora30, nora31 e nora32 ficaram guardados em `RESERVA-ROTEIRO-*.md`; as peças deles não foram geradas.)*
 
