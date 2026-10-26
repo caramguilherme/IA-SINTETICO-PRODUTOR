@@ -218,3 +218,9 @@ Manhã calma; as novidades do evento do Legacy ainda não saíram.
 - **Views com poucos cliques (Johnes):** Guizzin0317 tem o mesmo problema e acha que a mensagem automática precisa melhorar (Face). Sem resposta de quem resolveu.
 - **Aquecimento (carol, Paulo Sampaio):** ela seguiu uns 5 perfis em 3 dias e usa a conta um pouco todo dia, mesmo já postando vídeos de venda, para parecer uso normal; no canal já se disse que aquecer antes não é obrigatório. **Para a Nora:** a conta já passou do aquecimento; usar um pouco por dia é opcional (o garimpo continua na conta brasileira, dica do Eduardo).
 - **Outros:** Manifestation saiu para quem não fez 100 vendas e só volta no tier 2 (Khalil; não é o nosso funil); Liz: conta sem monetização do Insta não importa, quem paga é a Appyon (Cassia). Vitórias: parabéns pela placa de R$ 10 milhões do Gustavo e o dia de R$ 2.671 do Lucas.
+
+### 26/10/2026 - Resposta do Adão Gomes (DM, 10h17; print mandado pelo aluno)
+O aluno tinha perguntado em 22/10 que tipo de hook visual está funcionando (contou: pré-gancho de objeto deu 23 a 33% nos 3 s; sem pré-gancho, 32 e 38%; 30 vídeos postados). Resposta:
+- **Sem views destravadas, não se apegar às métricas de retenção:** são poucos dados para análise (o mesmo que o Lucas disse em 25/10).
+- **Hooks e ideias saem do "spy", de perfis virais e de perfis de especialistas do nicho:** ir minerando boas ideias e testando. Bate com o Iorhan (P40: modelar especialistas reais de astrologia) e com a decisão de 26/10 de modelar os virais quase inteiros.
+- **Para a Nora:** nada muda no nora35. O garimpo continua na conta brasileira (dica do Eduardo), agora também em perfis de astrologia da lista de `PESQUISA-PUBLICO.md` (@serenasastrology, @alexieotto) e em #astrology, #zodiac e #venus. Falta saber o que é o "spy" que ele usa (ferramenta de espionar anúncios e perfis); o aluno pode perguntar.
