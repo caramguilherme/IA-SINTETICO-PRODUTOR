@@ -17,7 +17,7 @@ Status: **com painel (https://claude.ai/artifact/YQPugZp8AjVxe7MTPrPivB)**. Post
 - `nora36-CLIPE-placa`: 8 s em Frames (primeiro e último quadro = `nora36-IMG`), sem fala; ela empurra a placa até a lente, acena e volta. 12 créditos (conta de 53).
 
 ## Edição
-Números 222 e 11:11 nos cantos (amarelo-ouro); texto do topo o clipe todo; dos 5 aos 8 s, "The second part is in my story" + seta vermelha embaixo à esquerda; música de sempre (−18 dB).
+Números 222 e 11:11 nos cantos (amarelo-ouro); texto do topo o clipe todo; dos 5 aos 8 s, "The second part is in my story" + seta vermelha embaixo à esquerda; música de sempre (“Ambient Mystical Drone”, da biblioteca do CapCut) (−18 dB).
 
 ## Legenda, comentário e story
 - Legenda do post: "[signos]: if this found you, it's not by chance. 🔮 / Comment 222. Tap my photo NOW: the second part of this sign is in my story. / #manifestation #astrology #zodiac #usa #usareels".
