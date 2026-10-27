@@ -29,6 +29,7 @@ Decisão do aluno em 18/10/2026: **antes de TODO roteiro novo e antes de TODO pr
 
 **Só quando o pedido envolver**
 - `FOTO-PERFIL-DANA.md` (foto de perfil)
+- `PLANO-MVM-LEGACY-APPYON.md` (cópia de 27/10/2026 do doc "Plano MVM Legacy – Appyon" do aluno: curso, Appyon, contas, links, story, Discord; consultar pela seção do assunto, ex.: "Cadastro na Appyon e links", "Funil Manifestation"; os limites de copy dele não valem aqui, P20 e P41)
 - `PROMPT-BLUEPRINT-COMUNIDADE.md` (criar ou ajustar a folha da avatar)
 - `PESQUISA-AURALY-23-10.pdf` e `BRIEFING-LOVECHART-APPYON-v2.pdf` (os PDFs completos; o resumo de cada um já está no `BRIEFING-LOVECHART.md`)
 
