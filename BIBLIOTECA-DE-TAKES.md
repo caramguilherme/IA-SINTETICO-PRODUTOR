@@ -125,3 +125,6 @@ O painel de cada variação eu monto quando o aluno pedir.
 Quando um vídeo for gerado e postado, mudar o status para “gerado (postado em DD/MM)” e anotar views, retenção e vendas quando houver. Se algum kit for campeão, marcar “campeão” e reaproveitar primeiro.
 
 *(21/10/2026: nora30 e a imagem A foram gerados e o nora30 foi postado às 18h25 no Insta e no Face.)*
+
+### nora36 e nora37 na versão Manifestation (27/10/2026, P41; ainda não gerados)
+Os nomes dos takes do nora36 mudaram com a fala nova (12 takes): `nora36-T01-gancho-touro-virgem-capricornio`, `nora36-T02-corpo-segredo-fe`, `nora36-T03-corpo-virada-incomum`, `nora36-T04-corpo-dinheiro-prosperidade`, `nora36-T05-corpo-bencaos-ameaca`, `nora36-T06-corpo-sao-miguel`, `nora36-T07-corpo-correntes`, `nora36-T08-corpo-sete-minutos`, `nora36-T09-corpo-mande-para-si`, `nora36-T10-cta-selos`, `nora36-T11-cta-222-noticia`, `nora36-T12-cta-story`. O nora37 gera só `nora37-T01-gancho-cancer-escorpiao-peixes` e usa cópias dos `nora36-T02` a `T12` renomeadas para `nora37-T02…T12`. Pré-gancho (`nora36-PRE-A`, `-PRE-B`, `-PRE`) e `nora36-IMG` não mudam.
