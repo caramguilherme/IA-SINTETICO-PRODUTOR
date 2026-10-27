@@ -10,7 +10,7 @@ Criado em 26/10/2026, a pedido do aluno ("cada assunto no seu documento"), com a
 **Insta**
 - Até 4 vídeos por dia, **2 h entre eles** (Iorhan: 17h, 19h e 21h; 23h e 01h em teste). Perdeu o horário, vai para o próximo (ou programa no app do Insta). Localização Los Angeles, California e #astrology #zodiac #usa #usareels em todo post.
 - **Cada horário leva um vídeo diferente.** Teste de variação: o nora37 (mesmo corpo do nora36, hook espelhado e signos novos) à 01h de 27/10. Se as views não caírem, o `-ESP` entra no Insta também (o Lucas posta variações no Insta e não viu queda).
-- Story todo dia, antes do primeiro vídeo, que diga o que a pessoa encontra ao clicar (Lucas), e no Destaque "Part 2". Link na bio liberado (verificação facial já feita).
+- Story todo dia, antes do primeiro vídeo, que diga o que a pessoa encontra ao clicar (Lucas), e no Destaque "Part 2". O link fica só no story, no Insta e no Face: sem link na bio nem nos comentários (aluno, 27/10). No Face o comentário não fixa mais: só comentar.
 **Face = volume (Lucas, Bruno)**
 - Cada vídeo vira **3 versões**: o original, o `-ESP` (no CapCut, espelhar **só a camada do vídeo, antes de pôr os textos**, senão o texto fica ao contrário) e o `-VEL` (velocidade **1,1x** no vídeo todo; o Lucas usa 1,10 a 1,15 e o Bruno 1,2x com filtro). Com a versão com hook visual, são 6.
 - **Espelhar primeiro o que já provou** (Bruno): o vídeo que foi melhor que o padrão da conta. Em 26/10, o nora33; depois, o melhor de cada dia.
