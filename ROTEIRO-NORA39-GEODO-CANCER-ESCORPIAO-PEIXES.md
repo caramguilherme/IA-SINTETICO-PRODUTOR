@@ -1,5 +1,8 @@
 # nora37-GEODO-CANCER-ESCORPIAO-PEIXES — série do geodo, só o Take 1 novo (26/10/2026)
 
+> **RENUMERADO em 27/10/2026 ~15h55** (o número segue a ordem de postagem; o aluno vai postar 5 hoje, das 17h à 01h): 17h **nora36** placa Gêmeos/Libra/Aquário · 19h **nora37** curto do geodo Touro/Virgem/Capricórnio · 21h **nora38** placa Áries/Leão/Sagitário · 23h **nora39** curto Câncer/Escorpião/Peixes · 01h **nora40** placa Touro/Virgem/Capricórnio. Este é o **nora39** (era nora37): Take 1 `nora39-T01-gancho-cancer-escorpiao-peixes`, com a `nora37-IMG` e as cópias dos `nora37-T02` e `T03` renomeadas para `nora39-T02` e `T03`. O texto abaixo ainda usa os números antigos.
+
+
 Status: **com painel (26/10/2026, ~15h20): https://claude.ai/artifact/VuLfrzqxYUMF696Ka1kXg9.** (link da conta contatocaram, 26/10/2026 ~22h) Postar em **27/10 à 01h** (Insta e Face; era 23h de 26/10, mudou porque o nora34 saiu às 18h25). Persona: **Nora v2**. Funil: **Love Chart**. Formato: **série por signos**: o pré-gancho do nora36 espelhado + Take 1 novo + Takes 2 a 10 do nora36 (cópias renomeadas). 15 créditos.
 
 ## VERSÃO MANIFESTATION (27/10/2026, P41) — ESTA É A QUE VALE
