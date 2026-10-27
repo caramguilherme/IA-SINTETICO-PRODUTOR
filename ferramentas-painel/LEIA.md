@@ -9,3 +9,6 @@ Python 3 (stdlib + `numpy`/`faster_whisper` só para transcrever virais) e Node 
 
 ## manifestacao/ (26/10/2026)
 `listar.py` monta `lista.json` (93 reels e 73 anúncios do doc de pesquisa de Manifestation, seção 39 de `BIBLIOTECA-VIDEOS-VIRAIS.md`); `baixar_transcrever.sh <pasta>` baixa os reels (yt-dlp) e os anúncios do Drive e chama `transcrever.py` (faster-whisper small, int8). A `<pasta>` precisa ter `gdoc/pesquisa.txt`, `gdoc/folder.html` e `manif/lista.json`; os vídeos e as transcrições ficam fora do repositório. `indice.py` junta as transcrições com as curtidas e datas dos reels em `indice.json` (148 vídeos, 27/10/2026); o `indice.json` está no repositório.
+
+## METRICAS-NORA.csv: como editar sem estragar o arquivo (27/10/2026)
+O CSV tem BOM e fim de linha **CRLF** nos registros (`\r\n`), com `\n` simples dentro das células de várias linhas. Ler e gravar com `newline=''`, `encoding='utf-8-sig'` e `csv.DictWriter(..., lineterminator='\r\n')`. Com `lineterminator='\n'` o git mostra o arquivo inteiro mudado (aconteceu em 27/10 e foi desfeito).
