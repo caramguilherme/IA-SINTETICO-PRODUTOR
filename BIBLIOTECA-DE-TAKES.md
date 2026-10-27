@@ -128,3 +128,9 @@ Quando um vídeo for gerado e postado, mudar o status para “gerado (postado em
 
 ### nora36 e nora37 na versão Manifestation (27/10/2026, P41; ainda não gerados)
 Os nomes dos takes do nora36 mudaram com a fala nova (12 takes): `nora36-T01-gancho-touro-virgem-capricornio`, `nora36-T02-corpo-segredo-fe`, `nora36-T03-corpo-virada-incomum`, `nora36-T04-corpo-dinheiro-prosperidade`, `nora36-T05-corpo-bencaos-ameaca`, `nora36-T06-corpo-sao-miguel`, `nora36-T07-corpo-correntes`, `nora36-T08-corpo-sete-minutos`, `nora36-T09-corpo-mande-para-si`, `nora36-T10-cta-selos`, `nora36-T11-cta-222-noticia`, `nora36-T12-cta-story`. O nora37 gera só `nora37-T01-gancho-cancer-escorpiao-peixes` e usa cópias dos `nora36-T02` a `T12` renomeadas para `nora37-T02…T12`. Pré-gancho (`nora36-PRE-A`, `-PRE-B`, `-PRE`) e `nora36-IMG` não mudam.
+
+### 27/10/2026 ~16h: estratégia de curtos e placas (substitui o bloco de 12 takes acima, que não será gerado)
+- **nora36 (curto, 19h):** `nora36-PRE-A/-B/-PRE` e `nora36-IMG` (geodo) + 3 takes: `nora36-T01-gancho-touro-virgem-capricornio`, `nora36-T02-promessa-dinheiro-bencaos`, `nora36-T03-cta-222-story` (7 + 45 = 52 créditos). Os takes 2 e 3 servem a todos os curtos com a `nora36-IMG`.
+- **nora37 (curto, 21h):** `nora37-T01-gancho-cancer-escorpiao-peixes` (15) + cópias de `nora36-T02` e `T03`; pré-gancho do geodo espelhado.
+- **nora38 (placa, 23h) e nora39 (placa, 01h):** `nora38-IMG`/`nora39-IMG` (edições da `nora35-IMG`, só a placa muda) + `nora38-CLIPE-placa`/`nora39-CLIPE-placa` (12 cada).
+- **Pré-ganchos prontos para colar em curtos (0 crédito):** `nora34-PRE`, `nora25-PRE`, `nora26-PRE`, `nora27-PRE`, `nora28-PRE`, `nora36-PRE`.
