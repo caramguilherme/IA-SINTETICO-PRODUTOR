@@ -34,3 +34,4 @@ Decisão do aluno em 18/10/2026: **antes de TODO roteiro novo e antes de TODO pr
 
 ## Conflitos entre documentos
 Os documentos de origem do Manual e do pet (`Prompts.txt`, `CHECKLIST-DE-PRODUCAO.md`, `Formatos Narrativos…`, `EXEMPLO-*`) mostram a estrutura. Para a Dana valem as adaptações do `CLAUDE.md` (P1 a P17) e as lições do `LICOES-FLOW-E-PROMPTS.md`, que prevalecem: prompts em inglês, imagem única, Central, pré-gancho em Frames, linguagem dos virais liberada.
+- Só para recriar o dashboard de métricas numa conta nova: `ferramentas-painel/dashboard/COMO-RECRIAR.md` (27/10/2026).

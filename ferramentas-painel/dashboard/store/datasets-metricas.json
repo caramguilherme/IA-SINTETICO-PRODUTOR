@@ -1,0 +1,11 @@
+{
+  "description": "A planilha METRICAS-NORA.csv do projeto: uma linha por vídeo e rede (Instagram e Facebook), com views, skip, tempo médio, seguidores, países e a hora de cada leitura, tirados dos prints do aluno.",
+  "source": {
+    "format": "csv",
+    "kind": "file",
+    "name": "metricas-nora.csv",
+    "url": "/_blob/611a948b632d811a9e98cbe883c67e1a"
+  },
+  "title": "Planilha de métricas da Nora",
+  "updated": "2026-10-26T01:26:00-03:00"
+}
