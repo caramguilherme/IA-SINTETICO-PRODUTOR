@@ -44,6 +44,7 @@ Regra (P38, 22/10/2026): tudo que o aluno confirmar fica aqui no mesmo turno. Nu
 - **Link na bio do Insta: sim, junto com o Destaque** (decisão revista em 23/10/2026): primeiro eu disse não, pelo risco de verificação; mas o aluno **já fez a verificação facial do Insta** (contou ao Mattias em 22/10) e os vídeos seguintes fizeram 700 a 800 views, então esse risco já foi vencido. O Matheus tem link na bio e sai uma venda ou outra por lá. Se o Insta pedir verificação de novo, ele faz como da outra vez. No Face: link na resposta ao comentário fixado e story; bio opcional.
 - **Verificação facial do Insta:** já feita pelo aluno (antes de 22/10; contou ao Mattias); os vídeos postados depois bateram 700 a 800 views, então ela não derrubou a entrega.
 - Os comentários dos vídeos são quase todos do próprio aluno (comentário fixado).
+- **26/10/2026 ~23h (aluno): não consegue mais fixar o comentário no Face** (antes conseguia; parou "do nada"). Não parece bloqueio de entrega: o nora34 fez 227 views no Face em ~4 h. Suspeitas em ordem: comentário feito como o perfil pessoal e não como a Página; comentário escondido como spam (texto quase igual em todo post, e o link nas respostas); tentar pelo Business Suite ou pelo GeeLark em vez do facebook.com no PC; moderação da Página; restrição no Status da conta. Esperando o resultado do teste.
 - Música de fundo do CapCut: a mesma em todos (Ambient Mystical Drone, −18 dB).
 
 ## Infraestrutura
