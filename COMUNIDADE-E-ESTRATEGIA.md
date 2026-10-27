@@ -6,6 +6,25 @@ Onde fica o resto: lições do Flow, dos prompts e do painel em `LICOES-FLOW-E-P
 
 Criado em 26/10/2026, a pedido do aluno ("cada assunto no seu documento"), com as seções que estavam no `LICOES-FLOW-E-PROMPTS.md`, sem mudar o texto.
 
+## Regras em vigor (resumo de 27/10/2026; o detalhe e a fonte de cada uma estão nas seções datadas abaixo)
+**Insta**
+- Até 4 vídeos por dia, **2 h entre eles** (Iorhan: 17h, 19h e 21h; 23h e 01h em teste). Perdeu o horário, vai para o próximo (ou programa no app do Insta). Localização Los Angeles, California e #astrology #zodiac #usa #usareels em todo post.
+- **Cada horário leva um vídeo diferente.** Teste de variação: o nora37 (mesmo corpo do nora36, hook espelhado e signos novos) à 01h de 27/10. Se as views não caírem, o `-ESP` entra no Insta também (o Lucas posta variações no Insta e não viu queda).
+- Story todo dia, antes do primeiro vídeo, que diga o que a pessoa encontra ao clicar (Lucas), e no Destaque "Part 2". Link na bio liberado (verificação facial já feita).
+**Face = volume (Lucas, Bruno)**
+- Cada vídeo vira **3 versões**: o original, o `-ESP` (no CapCut, espelhar **só a camada do vídeo, antes de pôr os textos**, senão o texto fica ao contrário) e o `-VEL` (velocidade **1,1x** no vídeo todo; o Lucas usa 1,10 a 1,15 e o Bruno 1,2x com filtro). Com a versão com hook visual, são 6.
+- **Espelhar primeiro o que já provou** (Bruno): o vídeo que foi melhor que o padrão da conta. Em 26/10, o nora33; depois, o melhor de cada dia.
+- Postar ao vivo, a cada 1 ou 2 h, em qualquer horário (a Página só entrega para EUA, Canadá, Reino Unido e Austrália). Meta de agora: 6 por dia; 10 a 12 quando houver 2 copies por dia. **Subir aos poucos** (de 2 para 20 num dia é risco de bloqueio).
+- Só vídeos do nora33 em diante (os antigos têm "free" e promessa de data). O número não muda: `nora33-ESP` continua nora33.
+- Comentário fixado no Face: comentar pelo celular sem link, fixar, e responder ao próprio comentário com o link.
+**Vídeo**
+- **Hook visual pesado em todo vídeo** (Lucas: "tem que tacar hook"), nativo de astrologia ou cristal (P40), modelado de um viral: pedra ou geodo que racha, placa dos signos. Um pré-gancho de 4 s pode ser colado em qualquer corpo (Lucas).
+- **Modelar uns 95% dos virais** recentes (aluno), trocando só as promessas que a Appyon proíbe. Corpo gerado uma vez por kit; série por signos com Take 1 novo.
+- Signos escritos no texto do topo (Matheus); gancho falado novo a cada vídeo (Mattias). Enquadramento bem perto da câmera (Lucas, @antoiinehayes).
+- Texto na tela de 8 s só de vez em quando (aluno). POV = só as mãos, **com voz por cima** (Mattias).
+- Não trocar a avatar antes de uns 100 vídeos; testar só detalhes, como o cabelo (Lucas).
+- Inglês do dia a dia, sem formalidade (Jonas). Retenção não decide nada até as views destravarem (Lucas, Adão): olhar views, países e o story.
+
 ### 20/10/2026 — o link ainda abre o Soulmate
 - Pelo resumo do Discord: na call de 19/10 18h o Gustavo disse que o Love Chart ainda não está no ar e que o link troca sozinho quando entrar. O nora25 (e o 26 a 28) falam de Vênus e do quiz de astrologia; o story que leva ao link precisa ser compatível com os dois quizzes enquanto não trocar. Story provisório nos painéis (nora26 a nora28): “Tap below and take the free love quiz.”, adesivo “Take the free quiz”. Voltar ao texto do Venus quando o Gustavo avisar.
 
