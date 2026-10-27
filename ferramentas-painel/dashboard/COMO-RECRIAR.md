@@ -1,6 +1,6 @@
 # Como recriar o dashboard "Métricas da Nora" numa conta nova do Claude (igual ao de hoje)
 
-**Recriado em 26/10/2026 (~22h) na conta contatocaram:** https://claude.ai/artifact/CTdhXsH5PoQFRCnzpbM4wy (asset do CSV `/_blob/72f11e6890da953a7ac9d33ec2a15fba, versão de 26/10 ~22h20`).
+**Recriado em 26/10/2026 (~22h) na conta contatocaram:** https://claude.ai/artifact/CTdhXsH5PoQFRCnzpbM4wy (asset do CSV `/_blob/ba69ae3fe07478105d717d9f8d4ddd54, versão de 26/10 ~22h25`).
 
 O dashboard é um Artifact do **tipo "Dashboard"** (não é uma página HTML comum). A página e os dados ficam no banco do próprio Artifact, em 4 documentos. Cópia exata de 27/10/2026 (conta antiga, https://claude.ai/artifact/LXyXLjNohRDcTcnYwtAZKi):
 
