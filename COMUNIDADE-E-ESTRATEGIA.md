@@ -177,7 +177,7 @@ O vitórias-dólar não trouxe nada novo (só prints de vendas e o que já está
 
 ### 23/10/2026 - Respostas do Matheus Baffa (áudio de 2:19, transcrito pelo aluno)
 - Destravou com uns 15 vídeos (no 11º já fazia 500 a 1000 views). A Nora v2 só tem 9 vídeos até hoje à noite (nora25 a nora33): ainda é cedo para julgar a avatar.
-- Não se apega ao horário; aceita os indianos; hashtag, localização e bandeira dos EUA ajudam. **Aplicado:** janela vira preferência; localização Los Angeles, California e #usa #usareels em todo post.
+- Não se apega ao horário; aceita os indianos; hashtag, localização e bandeira dos EUA ajudam. **Aplicado:** janela vira preferência; localização Los Angeles, California e #usa #usareels em todo post. **28/10: o aluno nunca pôs a localização (só as hashtags e a bandeira entraram). Teste a partir de 28/10: localização só nas placas (nora38, nora40, nora41); medir o % de EUA contra o nora35 (14,2%) e o nora36 (14,0%), que saíram sem. Os falados (nora37, nora39) saem sem, para não misturar com o teste do Luccas Rosa.**
 - **Gancho na tela com o que a pessoa já acredita:** os signos segmentados escritos no texto do topo (ou o número, a fase da lua), só no gancho. **Aplicado no nora33** (texto da tela virou "Cancer, Scorpio, Pisces: different guys, same ending. Look at your 7th house.", com os signos em amarelo-ouro) e vale para os próximos.
 - CTA: Insta = story pela foto do perfil (mais link na bio, que dá uma venda ou outra); Face = comentário e story. **Decisão:** sem link na bio do Insta (risco de verificação numa conta de avatar de IA); Destaque com o link no lugar.
 
