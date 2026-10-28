@@ -320,3 +320,17 @@ O aluno perguntou em 25/10 00h53 se o POV dele tem voz por cima ou é só texto 
 
 ### 28/10/2026 - Lucas Mascarenhas: como acha os perfis para modelar (áudios de 26/10 18h, transcritos pelo aluno)
 O aluno perguntou como ele achou o @antoiinehayes. Resposta: "apareceu pra mim quando eu comecei a postar; quando aparece, você tem que curtir, comentar, salvar, seguir, que aí começa a aparecer outros. Sem segredo." Ele tem **um perfil só para essa mineração** (não usa o que vende nem o pessoal); rola o feed no tempo livre e curte e segue tudo o que aparece do nicho, "até perfil pequeno". Bate com o Adão (27/10: o "spy" é o próprio feed). **Decisão para a Nora (corrige a sugestão de usar o Insta pessoal):** criar um Insta só de garimpo, em inglês, fora da conta da Nora e do pessoal; semear o feed com os reels do doc "Pesquisa Nicho Manifestação" (93 reels validados, seção 39 de `BIBLIOTECA-VIDEOS-VIRAIS.md`), o @antoiinehayes e a @soma_chhaya; curtir, comentar, salvar e seguir; 10 a 15 min por dia; mandar para mim os vídeos com mais de 50 mil views para modelar.
+
+### 28/10/2026 (14h05) - Lucas Mascarenhas: "placa dá view, mas não converte" (DM, print do aluno às ~15h30)
+O aluno contou (11h58) que passou para o Manifestation, que a placa de 8 s bateu 2,5 mil views 2 vezes seguidas no Insta, que o story teve os 8 primeiros cliques, que no Face fica em 200 a 220 (antes não passava de 100), que a placa não dá para espelhar (a escrita inverte) e perguntou como ele faz as variações do Face. Resposta do Lucas (14h05):
+- "Taca vídeo já no formato, pô. **Esses vídeos assim não vão converter não... pode até gerar views, mas não vai converter.**" (lido como "pô"; se "po" for outra coisa, como POV, o aluno pergunta a ele)
+- **Variações:** "normalmente eu só acelero, filtro e espelho. Somente."
+- **Receita:** "Separa aí um dia, cria vários hooks igual esses que você vê aí. Faz vários bodies com alguma copy validada e taca vídeo."
+
+**Leitura e decisão (minha, 28/10 ~15h35):**
+1. O ponto dele é conversão, não view: quem vê 8 s de placa chega ao story sem ter ouvido a promessa. Os nossos números ainda não desmentem nem confirmam: o dia da placa (27/10) deu 8 cliques, 3 chegaram ao vídeo de venda e 0 checkout; precisa de uns 170 a 200 cliques por venda. **Hoje segue como está** (17h e 21h já são hook + corpo com copy; as placas das 19h, 23h e 01h estão prontas para gerar e custam 12).
+2. **De 29/10 em diante, o falado com copy validada vira o carro-chefe e a placa vira apoio (1 ou 2 por dia, para trazer visita ao perfil)**, seja qual for o número do nora37: a decisão "se o nora37 parar em ~130, 29/10 vira 4 placas e 1 falado" cai. O número do nora37 serve para saber quanto o falado alcança, não para voltar às placas.
+3. **Dia de produção (receita do Lucas):** gerar de uma vez uns 4 a 5 hooks visuais (pré-ganchos de 4 s, 7 créditos cada, modelados dos virais do Manifestation) e 2 a 3 corpos com copy validada (corpo A e corpo B dos virais, ângulo positivo; 3 takes, ~45 créditos cada) na mesma imagem, e combinar: cada post do Insta é uma combinação diferente; cada combinação vira 3 no Face. Custa uns 170 a 200 créditos (conta de 404: ~337 depois de hoje).
+4. **Variações do Face:** além de acelerar (1,1x) e espelhar, **pôr um filtro** do CapCut (leve) em cada versão. Nas placas, só acelerar e filtro (sem espelho).
+5. Medir por dia: cliques do story, Tracker (quiz, vídeo de venda, checkout) e visitas ao perfil, não só views.
+
