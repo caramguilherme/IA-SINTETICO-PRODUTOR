@@ -13,7 +13,7 @@ Status: **com painel (https://claude.ai/artifact/PWCTPWqbrYKXvqzHCJ3PD7)**. Post
 - Texto do topo: "Don't you dare scroll past this, or the universe might skip your blessing." (M2 e a4/a5; "Don't you dare scroll past this," em amarelo-ouro).
 
 ## Peças
-- `nora40-IMG`: **edição da `nora35-IMG`** (anexar só ela), mudando só a placa: **TAURUS, VIRGO, CAPRICORN** (vermelho) e **27, 28 AND 29 OF OCTOBER** (preto). Imagem não gasta crédito.
+- `nora40-IMG`: **edição da `nora35-IMG`** (anexar só ela), mudando só a placa: **TAURUS, VIRGO, CAPRICORN** (vermelho) e **28, 29 AND 30 OF OCTOBER** (preto). Imagem não gasta crédito.
 - `nora40-CLIPE-placa`: 8 s em Frames (primeiro e último quadro = `nora40-IMG`), sem fala; ela empurra a placa até a lente, acena e volta. 12 créditos (conta de 53).
 
 ## Edição

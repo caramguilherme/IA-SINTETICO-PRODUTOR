@@ -6,7 +6,7 @@
 Status: **com painel (26/10/2026, ~15h20): https://claude.ai/artifact/VuLfrzqxYUMF696Ka1kXg9.** (link da conta contatocaram, 26/10/2026 ~22h) Postar em **27/10 à 01h** (Insta e Face; era 23h de 26/10, mudou porque o nora34 saiu às 18h25). Persona: **Nora v2**. Funil: **Love Chart**. Formato: **série por signos**: o pré-gancho do nora36 espelhado + Take 1 novo + Takes 2 a 10 do nora36 (cópias renomeadas). 15 créditos.
 
 ## VERSÃO MANIFESTATION (27/10/2026, P41) — ESTA É A QUE VALE
-- **Take 1 (22 palavras):** "Cancer, Scorpio or Pisces: if this video reached you on October 27th, 28th or 29th, this message is 100% meant for you." (`nora37-T01-gancho-cancer-escorpiao-peixes`, 15 créditos, com a `nora36-IMG`).
+- **Take 1 (22 palavras):** "Cancer, Scorpio or Pisces: if this video reached you on October 28th, 29th or 30th, this message is 100% meant for you." (`nora37-T01-gancho-cancer-escorpiao-peixes`, 15 créditos, com a `nora36-IMG`).
 - **Takes 2 a 12:** cópias dos takes do nora36 (versão Manifestation), renomeadas para `nora37-T02…T12`.
 - Pré-gancho: o do nora36, espelhado. Caixa do topo: "Cancer, Scorpio, Pisces, pay very close attention". Faixa do story do Take 10 ao fim ("The second part is in my Stories ⭐"); seta nos Takes 11 e 12.
 - Legenda do post: "Cancer, Scorpio, Pisces: if this reached you, it's not by chance. 🔮 / Comment 222. Tap my photo NOW: the second part of this sign is in my story. / #manifestation #astrology #zodiac #usa #usareels". Comentário fixado e story iguais aos do nora36, com os signos trocados.
