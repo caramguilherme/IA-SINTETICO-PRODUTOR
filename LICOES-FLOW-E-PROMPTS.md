@@ -316,3 +316,6 @@ Nos painéis do nora37 e do nora39 eu tirei os números fixos porque os virais x
 
 ### 28/10/2026 - Seta vermelha: feita como texto no CapCut
 O aluno não achou a seta no menu do CapCut. Caminho que funcionou: Texto → Adicionar texto → digitar ↓, cor #E53935, tamanho 14, traço preto, Luz desligada (X -317 · Y -333). Ele achou melhor que adesivo. Os painéis 37 a 41 já dizem isso no "Estilo de cada texto"; manter nos próximos.
+
+### 28/10/2026 - Aviso de localização junto da legenda
+O aluno copia a legenda na hora de postar e não lê o passo a passo do topo: a instrução de localização ficava escondida lá e ele nunca a usou. **Regra:** quando um vídeo leva localização (ou qualquer ação extra na hora de postar), o aviso vai na seção "Legenda Insta/Face", logo abaixo da legenda, pelo campo `roteiro.legenda_aviso` (novo no `PAINEL-MODELO.html`; caixa amarela; dizer onde tocar e qual local). Aplicado no nora38, nora40 e nora41 (`ferramentas-painel/r2810/aviso_localizacao.py`).
