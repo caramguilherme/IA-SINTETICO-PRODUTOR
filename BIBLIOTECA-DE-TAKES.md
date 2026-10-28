@@ -140,6 +140,6 @@ Os nomes dos takes do nora36 mudaram com a fala nova (12 takes): `nora36-T01-gan
 - **`nora36-CLIPE-placa` gerado e nora36 postado em 27/10/2026 às 17h20 (Insta e Face)**, 1º vídeo do Manifestation (12 créditos, conta de 53).
 
 ### 28/10/2026: peças do dia (em 27/10 só saiu o nora36)
-- `story-2810`: imagem nova do story do Manifestation, gerada SÓ do blueprint (a Nora à mesa de madeira à noite, suéter esmeralda, 3 cartas de tarô viradas para baixo, verso azul-marinho com borda dourada; faixa de cima livre para o texto, faixa de baixo livre para o adesivo). Imagem não gasta crédito.
+- `story-2810` (**gerada e aprovada em 28/10 ~12h20**: Nora de suéter esmeralda à mesa redonda de madeira, 3 cartas viradas para baixo com verso azul-marinho, borda e estrela douradas, parede verde-escura, abajur e bandeirinha na caneca à direita; topo livre até ~19%, mesa embaixo para o adesivo): imagem nova do story do Manifestation, gerada SÓ do blueprint (a Nora à mesa de madeira à noite, suéter esmeralda, 3 cartas de tarô viradas para baixo, verso azul-marinho com borda dourada; faixa de cima livre para o texto, faixa de baixo livre para o adesivo). Imagem não gasta crédito.
 - `nora41-IMG` e `nora41-CLIPE-placa`: placa de Câncer/Escorpião/Peixes ("CANCER, SCORPIO, PISCES" / "28, 29 AND 30 OF OCTOBER"), edição da `nora35-IMG` na conta de 53 (12 créditos), para a 01h de 29/10.
 - nora37 a nora40 ficam com as mesmas peças e nomes; só mudaram os horários (17h, 19h, 21h, 23h).
