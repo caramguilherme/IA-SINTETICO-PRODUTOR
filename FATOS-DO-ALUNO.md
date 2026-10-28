@@ -56,6 +56,7 @@ Regra (P38, 22/10/2026): tudo que o aluno confirmar fica aqui no mesmo turno. Nu
 ## Infraestrutura
 - GeeLark: celular "#4 GeeLarkPhone|Nora", Android 15, proxy Proxy-Cheap (Astound, Los Angeles). Muito lento; aguardando o suporte do GeeLark (Telegram). O relógio do celular é BRT −4 h (sem AM/PM no print).
 - Flow: o aluno comprou 1000 créditos em 19/10; saldo de 469 em 21/10. nora30 (132) gerado em 21/10. Custo: 10 s = 15 créditos, 8 s = 12.
+- **Saldo do Flow em 28/10/2026 ~13h (aluno): 53 numa conta e 404 na outra** (a de 385 subiu para 404; o aluno não disse se comprou ou se renovou). Plano de hoje: as 3 placas (36) na de 53, que fica com 17; nora37 (52, se o pré-gancho ainda não foi gerado) e nora39 (15) na de 404, que fica com ~337.
 - **Saldo do Flow em 26/10/2026 (aluno): 490 créditos em duas contas, 53 numa e 437 na outra.** Plano: o nora34 (45, ou 52 com o pré-gancho da pedra) sai inteiro da conta de 53; o resto (nora35 e a série) sai da de 437, com a mesma imagem subida nela (o corpo e os Takes 1 de um kit ficam na mesma conta). **Saldo em 26/10 ~22h15 (aluno): 53 numa conta e 385 na outra** (o nora34, 52 com o pré-gancho, saiu da de 437, que virou 385).
 - Ferramenta de corte de silêncio: a mesma do curso; ao juntar os takes, escolher "Corte seco" **26/10/2026 (aluno):** ele baixa os takes separados do Flow e sobe os mesmos takes na ferramenta, que corta os silêncios e junta tudo ("Juntar tudo" ligado).
 - Vídeo para legenda e CapCut: 720×1280; fonte Poppins Bold; tamanho 12 nos textos fixos e no hook; Luz desligada.
