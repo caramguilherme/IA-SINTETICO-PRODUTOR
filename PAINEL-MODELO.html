@@ -326,7 +326,9 @@ function montarCentral(){
     $('cpAviso').onclick=e=>copiar(ag.aviso||'',e.currentTarget);
     if(ag.aviso_en)$('cpAvisoEn').onclick=e=>copiar(ag.aviso_en,e.currentTarget);
   }
-  if(pk.story){
+  if(pk.story&&pk.story.ja_postado){
+    $('storyBox').innerHTML='<div class="tip" style="font-size:15px">'+esc(pk.story.nota||'')+'</div>';
+  }else if(pk.story){
     const st=pk.story;
     $('storyBox').innerHTML=(st.nota?'<div class="tip" style="margin-bottom:10px">'+esc(st.nota)+'</div>':'')+'<div class="item"><button class="cp" id="cpStImg">Copiar prompt</button><h3>Prompt da imagem do story <span class="tag">9:16</span></h3>'+(st.anexar?'<div style="margin:6px 0;color:var(--ink2);font-size:14px"><b>Anexar no Flow:</b> '+esc(st.anexar)+'</div>':'')+'<div class="box m">'+esc(st.prompt_imagem)+'</div></div>'
       +'<div class="item"><button class="cp" id="cpStTxt">Copiar textos</button><h3>Texto na tela do story</h3><div class="box">'+(st.textos||[]).map(x=>'<b>'+esc(x.posicao)+':</b> '+esc(x.texto)).join('\n')+'</div></div>'

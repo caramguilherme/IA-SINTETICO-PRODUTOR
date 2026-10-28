@@ -319,3 +319,6 @@ O aluno não achou a seta no menu do CapCut. Caminho que funcionou: Texto → Ad
 
 ### 28/10/2026 - Aviso de localização junto da legenda
 O aluno copia a legenda na hora de postar e não lê o passo a passo do topo: a instrução de localização ficava escondida lá e ele nunca a usou. **Regra:** quando um vídeo leva localização (ou qualquer ação extra na hora de postar), o aviso vai na seção "Legenda Insta/Face", logo abaixo da legenda, pelo campo `roteiro.legenda_aviso` (novo no `PAINEL-MODELO.html`; caixa amarela; dizer onde tocar e qual local). Aplicado no nora38, nora40 e nora41 (`ferramentas-painel/r2810/aviso_localizacao.py`).
+
+### 28/10/2026 - Story repetido em painel que não precisa de story
+Os painéis do nora38 a nora41 mostravam o prompt, o texto e o adesivo do story inteiros, com só uma nota em cima dizendo que não precisava postar; o aluno achou que tinha de fazer outro story. **Regra:** quando o vídeo usa um story que já está no ar, o pacote leva `story.ja_postado: true` e a `nota` diz em letras claras "NÃO FAÇA STORY NESTE VÍDEO", qual story vale e quando expira; o painel mostra só esse aviso (novo no `PAINEL-MODELO.html`, `ferramentas-painel/r2810/story_ja_postado.py`). O prompt do story fica só no painel do vídeo que posta o story.
