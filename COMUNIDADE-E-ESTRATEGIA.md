@@ -334,3 +334,7 @@ O aluno contou (11h58) que passou para o Manifestation, que a placa de 8 s bateu
 4. **Variações do Face:** além de acelerar (1,1x) e espelhar, **pôr um filtro** do CapCut (leve) em cada versão. Nas placas, só acelerar e filtro (sem espelho).
 5. Medir por dia: cliques do story, Tracker (quiz, vídeo de venda, checkout) e visitas ao perfil, não só views.
 
+**Continuação (14h55 a 14h59):** o aluno respondeu e perguntou se o formato é hook visual + copy longa (~50 s ou mais). Lucas: "te mandei 2 ali em cima, pô. **Exatamente daquele jeito.** Os meus aqui passam 2 minutos, a maioria." (os 2 que ele mandou são o L1, 96 s com o corpo A, e o perfil @antoiinehayes, seções 34 e 35 de `BIBLIOTECA-VIDEOS-VIRAIS.md`). "Formato po" era "formato, pô".
+
+**Decisão (28/10 ~15h50):** volta o **vídeo longo com o corpo A** (a versão de 12 takes de 27/10, pausada em `ROTEIRO-NORA37-GEODO-TOURO-VIRGEM-CAPRICORNIO.md`), como o principal de 29/10, no Insta e no Face. Os falados longos de antes pararam em ~120 views, mas eram copy do Love Chart e quase sem hook; este é a copy que viraliza e vende no Manifestation (x1 a x5, L1), com o hook do geodo. **Barato:** na mesma `nora37-IMG`, Take 1 novo com as datas 29, 30 e 31 (15) + os takes 2 a 10 do corpo A (9 × 15 = 135) + o `nora37-T03` (CTA 222 + story) como fim, sem gerar de novo = **150 créditos** (conta de 404: ~337 depois de hoje → ~187). Mais 3 ou 4 hooks visuais novos (7 cada). Medir pelo Tracker (cliques, vídeo de venda, checkout), não só pelas views.
+
