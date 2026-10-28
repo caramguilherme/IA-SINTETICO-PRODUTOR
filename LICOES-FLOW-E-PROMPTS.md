@@ -322,3 +322,6 @@ O aluno copia a legenda na hora de postar e não lê o passo a passo do topo: a 
 
 ### 28/10/2026 - Story repetido em painel que não precisa de story
 Os painéis do nora38 a nora41 mostravam o prompt, o texto e o adesivo do story inteiros, com só uma nota em cima dizendo que não precisava postar; o aluno achou que tinha de fazer outro story. **Regra:** quando o vídeo usa um story que já está no ar, o pacote leva `story.ja_postado: true` e a `nota` diz em letras claras "NÃO FAÇA STORY NESTE VÍDEO", qual story vale e quando expira; o painel mostra só esse aviso (novo no `PAINEL-MODELO.html`, `ferramentas-painel/r2810/story_ja_postado.py`). O prompt do story fica só no painel do vídeo que posta o story.
+
+### 28/10/2026 - Texto do topo da placa colado no 222 e no 11:11
+No nora38 o texto do topo da placa (3 linhas, tamanho 12) em Y 397 ficou quase encostado nos números fixos (Y 486): a 1ª linha começava logo abaixo do 222 e do 11:11. **Regra das placas:** texto do topo em **X 0 · Y 374** (faixa do hook 16,5% a 25% no `mapa_tela`), logo abaixo dos números, sem encostar; pode tocar o alto do cabelo, nunca os olhos. Aplicado no nora38, nora40 e nora41. A caixa branca de 2 linhas dos falados (tamanho 10) continua em Y 397, onde não encosta.
