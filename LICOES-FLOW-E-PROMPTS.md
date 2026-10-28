@@ -313,3 +313,6 @@ A `nora37-IMG` saiu da cabeça à cintura, mas o LIVRE (escrito antes da imagem)
 
 ### 28/10/2026 - Curtos do geodo saíram sem os números fixos 222 e 11:11
 Nos painéis do nora37 e do nora39 eu tirei os números fixos porque os virais x não usam, e o aluno sentiu falta no "Estilo de cada texto" e no "Resumo: o que aparece na tela". **Regra: todo vídeo da Nora leva os números fixos (222 à esquerda, 11:11 à direita, amarelo-ouro, Poppins Bold 12, traço e sombra pretos, faixa azul do mapa), do primeiro quadro ao fim, também nos que modelam um viral sem números; a caixa do topo fica logo abaixo deles.** Corrigido e republicado nos dois painéis (`ferramentas-painel/r2810/numeros_curtos.py`).
+
+### 28/10/2026 - Seta vermelha: feita como texto no CapCut
+O aluno não achou a seta no menu do CapCut. Caminho que funcionou: Texto → Adicionar texto → digitar ↓, cor #E53935, tamanho 14, traço preto, Luz desligada (X -317 · Y -333). Ele achou melhor que adesivo. Os painéis 37 a 41 já dizem isso no "Estilo de cada texto"; manter nos próximos.
