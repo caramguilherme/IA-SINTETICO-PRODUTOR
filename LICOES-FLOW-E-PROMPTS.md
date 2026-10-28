@@ -310,3 +310,6 @@ O aluno gerou a `nora37-PRE-A` anexando só o blueprint, e o Flow devolveu 5 var
 
 ### 28/10/2026 - O LIVRE da Central tem de descrever a IMAGEM aprovada, não a pedida
 A `nora37-IMG` saiu da cabeça à cintura, mas o LIVRE (escrito antes da imagem) dizia "da cabeça até logo abaixo das clavículas" e citava a trança, que não aparece. Texto e imagem brigando podem fazer o Flow dar zoom, recortar ou inventar a trança. **Regra (checklist, reforça o P32 item 3):** depois da imagem aprovada, reescrever no LIVRE o enquadramento real (onde ficam os olhos e o objeto em %), tirar o que não aparece e conferir se algum gesto da movimentação pode cobrir o rosto (no nora37, "levantar as metades 5 cm" foi trocado por inclinar a cabeça).
+
+### 28/10/2026 - Curtos do geodo saíram sem os números fixos 222 e 11:11
+Nos painéis do nora37 e do nora39 eu tirei os números fixos porque os virais x não usam, e o aluno sentiu falta no "Estilo de cada texto" e no "Resumo: o que aparece na tela". **Regra: todo vídeo da Nora leva os números fixos (222 à esquerda, 11:11 à direita, amarelo-ouro, Poppins Bold 12, traço e sombra pretos, faixa azul do mapa), do primeiro quadro ao fim, também nos que modelam um viral sem números; a caixa do topo fica logo abaixo deles.** Corrigido e republicado nos dois painéis (`ferramentas-painel/r2810/numeros_curtos.py`).
