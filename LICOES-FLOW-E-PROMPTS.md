@@ -325,3 +325,6 @@ Os painéis do nora38 a nora41 mostravam o prompt, o texto e o adesivo do story 
 
 ### 28/10/2026 - Texto do topo da placa colado no 222 e no 11:11
 No nora38 o texto do topo da placa (3 linhas, tamanho 12) em Y 397 ficou quase encostado nos números fixos (Y 486): a 1ª linha começava logo abaixo do 222 e do 11:11. **Regra das placas:** texto do topo em **X 0 · Y 374** (faixa do hook 16,5% a 25% no `mapa_tela`), logo abaixo dos números, sem encostar; pode tocar o alto do cabelo, nunca os olhos. Aplicado no nora38, nora40 e nora41. A caixa branca de 2 linhas dos falados (tamanho 10) continua em Y 397, onde não encosta.
+
+### 29/10/2026 - 888 entra nos números fixos
+O post do @mvmcreators sobre a Scarllet (cartomante de IA, 349 mil seguidores) diz que todo vídeo dela e da Nadia tem **888, 11:11 e 222** na tela ("um sinal que a bolha reconhece na hora"). **Regra nova (do nora40 em diante):** números fixos **222 à esquerda (X -274), 888 no meio (X 0) e 11:11 à direita (X 274)**, todos em Y 486, amarelo-ouro, Poppins Bold 12, traço e sombra pretos, Luz desligada, do primeiro quadro ao fim. Nos virais da Scarllet eles ficam espalhados pelo quadro e piscam; na Nora ficam na faixa azul do mapa, porque a legenda (69 a 77%) e os botões da direita ocupam o resto. Aplicado nos painéis do nora40 ao nora43 (`ferramentas-painel/r2910/numeros_888.py`).

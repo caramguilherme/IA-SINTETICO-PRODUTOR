@@ -20,10 +20,10 @@ Status: **com painel (https://claude.ai/artifact/BRUoE4pFqnWzGVCdhoZLNq)**. Post
 - A `nora41-IMG` é a base do hook do nora42 (edição: só a 1ª linha da placa muda para GEMINI, LIBRA, AQUARIUS).
 
 ## Edição
-Números 222 e 11:11 nos cantos (amarelo-ouro); texto do topo o clipe todo; dos 5 aos 8 s, "The second part is in my story" + seta vermelha embaixo à esquerda; música de sempre ("Ambient Mystical Drone"), **0 dB** (a placa não tem fala). Sem legenda e sem corte de silêncio. A faixa do texto do story (70 a 77%) é provisória até eu ver a `nora41-IMG`.
+Números 222, 888 (no meio, X 0 · Y 486) e 11:11 (amarelo-ouro); texto do topo o clipe todo; dos 5 aos 8 s, "The second part is in my story" + seta vermelha embaixo à esquerda; música de sempre ("Ambient Mystical Drone"), **0 dB** (a placa não tem fala). Sem legenda e sem corte de silêncio. A faixa do texto do story (70 a 77%) é provisória até eu ver a `nora41-IMG`.
 
 ## Legenda, comentário e story
-- Legenda: "Cancer, Scorpio, Pisces: if this found you, November is your month. 🔮 / Comment 222, follow me and tap my photo NOW: part 2 of this sign is in my story. / #manifestation #astrology #zodiac #usa #usareels".
+- Legenda: "Cancer, Scorpio, Pisces: November is your month. 🔮 / Tap my photo and open my story before it disappears. Comment 222 and follow me. / #manifestation #astrology #zodiac #usa #usareels".
 - Comentário (Insta fixado, Face só comentado): "Cancer, Scorpio, Pisces, this one is yours. 🔥 PART 2 of this sign is in my story: pick 3 cards and see what's coming for you. 👆 Tap my photo NOW, it's gone in 24 hours. Comment 222 and follow me so you don't miss your sign's next message."
 - Story: o `story-2810` repostado antes das 16h30 de 29/10 (não fazer outro).
 - Face: versão `-VEL` com filtro leve (placa não espelha).

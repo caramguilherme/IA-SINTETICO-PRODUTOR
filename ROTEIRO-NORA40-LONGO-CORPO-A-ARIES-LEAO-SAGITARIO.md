@@ -74,14 +74,14 @@ Uma linha por take no painel, só rosto, cabeça e olhos (as duas mãos seguram 
 
 ## Edição (CapCut, 720×1280)
 - **Caixa do topo** (do primeiro quadro do hook até o fim do Take 1): "[signos], pay very close attention", caixa branca arredondada, texto preto, "attention" em vermelho, X 0 · Y 397.
-- **222 e 11:11** nos cantos de cima, amarelo-ouro, o vídeo todo.
+- **222, 888 e 11:11** em cima, amarelo-ouro, o vídeo todo (888 no meio, X 0 · Y 486; desde 29/10, post do @mvmcreators sobre a Scarllet).
 - **Legenda automática** do Take 1 ao fim, faixa de Y -294 (73%, confirmada na `nora37-IMG`), destaques: money, prosperity, blessings, seal, follow e 222.
 - **Faixa do story** do Take 2 até o fim, no lugar da caixa: "The second part is in my Stories ⭐" ("my Stories" em vermelho). Decisão de 29/10: o tempo médio dos falados é de 5 a 8 s; quem sai cedo já vê onde está a parte 2.
 - **Seta vermelha** (texto ↓, #E53935, tamanho 14, traço preto, Luz desligada) do Take 10 até o fim, embaixo à esquerda, para a foto do perfil e o botão de seguir.
 - Música de sempre ("Ambient Mystical Drone"), −18 dB. Corte de silêncio com "Juntar tudo" ligado e Corte seco (T01 a T11, 2 dígitos).
 
 ## Legenda, comentário e story
-- Legenda: "Aries, Leo, Sagittarius: if this reached you, it's not by chance. 🔮 / Comment 222, follow me and tap my photo NOW: part 2 of this sign is in my story. / #manifestation #astrology #zodiac #usa #usareels".
+- Legenda (molde da Scarllet: assistir até o fim e abrir o story antes que ele suma): "Aries, Leo, Sagittarius: watch this until the end. 🔮 / Then tap my photo and open my story before it disappears. Comment 222 and follow me. / #manifestation #astrology #zodiac #usa #usareels".
 - Comentário (Insta fixado, Face só comentado): "Aries, Leo, Sagittarius, this one is yours. 🔥 PART 2 of this sign is in my story: pick 3 cards and see what's coming for you. 👆 Tap my photo NOW, it's gone in 24 hours. Comment 222 and follow me so you don't miss your sign's next message."
 - Story: antes das 16h30 de 29/10, repostar o `story-2810` (3 cartas) no Insta e no Face, com o mesmo texto, o mesmo adesivo e os mesmos links (STORYIG e FACE). Vale para o nora40 ao nora43.
 

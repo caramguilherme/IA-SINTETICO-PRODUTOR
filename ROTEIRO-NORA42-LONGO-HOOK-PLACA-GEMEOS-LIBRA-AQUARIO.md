@@ -73,7 +73,7 @@ Status: **com painel (https://claude.ai/artifact/HzVWXJiyNpGHey53cyU8sH)**. Post
 
 ## Edição (CapCut, 720×1280)
 - **Caixa do topo** (do primeiro quadro do hook até o fim do Take 1): "[signos], pay very close attention", caixa branca arredondada, texto preto, "attention" em vermelho, X 0 · Y 397.
-- **222 e 11:11** nos cantos de cima, amarelo-ouro, o vídeo todo.
+- **222, 888 e 11:11** em cima, amarelo-ouro, o vídeo todo (888 no meio, X 0 · Y 486; desde 29/10, post do @mvmcreators sobre a Scarllet).
 - **Legenda automática** do Take 1 ao fim, faixa de Y -294 (73%, confirmada na `nora37-IMG`), destaques: money, prosperity, blessings, seal, follow e 222.
 - **Faixa do story** do Take 2 até o fim, no lugar da caixa: "The second part is in my Stories ⭐" ("my Stories" em vermelho). Decisão de 29/10: o tempo médio dos falados é de 5 a 8 s; quem sai cedo já vê onde está a parte 2.
 - **Seta vermelha** (texto ↓, #E53935, tamanho 14, traço preto, Luz desligada) do Take 10 até o fim, embaixo à esquerda, para a foto do perfil e o botão de seguir.
@@ -81,6 +81,6 @@ Status: **com painel (https://claude.ai/artifact/HzVWXJiyNpGHey53cyU8sH)**. Post
 - No hook (sem fala) não há legenda; a caixa do topo fica em cima do cabelo, acima da placa.
 
 ## Legenda, comentário e story
-- Legenda: "Gemini, Libra, Aquarius: if this reached you, it's not by chance. 🔮 / Comment 222, follow me and tap my photo NOW: part 2 of this sign is in my story. / #manifestation #astrology #zodiac #usa #usareels".
+- Legenda (molde da Scarllet: assistir até o fim e abrir o story antes que ele suma): "Gemini, Libra, Aquarius: watch this until the end. 🔮 / Then tap my photo and open my story before it disappears. Comment 222 and follow me. / #manifestation #astrology #zodiac #usa #usareels".
 - Comentário: o do nora40 com "Gemini, Libra, Aquarius".
 - Story: o `story-2810` repostado antes das 16h30 de 29/10.
