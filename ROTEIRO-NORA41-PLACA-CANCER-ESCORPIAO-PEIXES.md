@@ -12,7 +12,7 @@ Status: **com painel (https://claude.ai/artifact/BRUoE4pFqnWzGVCdhoZLNq)**. Post
 ## Base
 - Viral **M2** (placa escrita à mão com os signos e as datas, cristal desfocado na frente) e o **nora35/nora36** (2.448 e 3.182 views no Insta).
 - **Cena nova** (do blueprint, sem editar outra imagem): quarto à noite, parede azul-marinho escura, luzinhas quentes desfocadas atrás dos ombros, abajur e bandeirinha na caneca à direita, **blusa vinho** de tricô fino, **citrino** (a pedra do dinheiro, Manifestation) desfocado embaixo, no lugar da ametista.
-- **Frase nova do topo:** "If this found you, November will be the most blessed month of your life." ("If this found you," em branco; o resto em amarelo-ouro, X 0 · Y 374).
+- **Frase nova do topo (troca de 29/10 ~12h, com o pedido de envio):** "If this found you, November is your most blessed month. Send it to yourself." ("If this found you," e "Send it to yourself." em branco; "November is your most blessed month." em amarelo-ouro; X 0 · Y 374). As placas quase não são compartilhadas (0 a 1 envio em 2,5 a 3,2 mil views) e o envio é o sinal que mais leva o vídeo a quem não segue; o "send this video to yourself" é o selo dos virais.
 
 ## Peças
 - `nora41-IMG`: gerada do blueprint (anexar só ele). Placa: **CANCER, SCORPIO, PISCES** (vermelho) / **29, 30 AND 31 OF OCTOBER** (preto). O aluno me manda antes do clipe.
@@ -23,7 +23,7 @@ Status: **com painel (https://claude.ai/artifact/BRUoE4pFqnWzGVCdhoZLNq)**. Post
 Números espalhados, cada um de uma cor e de um tamanho (222 rosa-choque 15, 11:11 amarelo-ouro 11, 888 branco 12; lugares provisórios até eu ver a `nora41-IMG`): 222 alto à direita (X 259 · Y 486), 11:11 à esquerda na altura dos olhos (X -295 · Y 230), 888 à direita ao lado do ombro (X 274 · Y 154); texto do topo o clipe todo; dos 5 aos 8 s, "The second part is in my story" + seta vermelha embaixo à esquerda; música de sempre ("Ambient Mystical Drone"), **0 dB** (a placa não tem fala). Sem legenda e sem corte de silêncio. A faixa do texto do story (70 a 77%) é provisória até eu ver a `nora41-IMG`.
 
 ## Legenda, comentário e story
-- Legenda: "Cancer, Scorpio, Pisces: November is your month. 🔮 / Tap my photo and open my story before it disappears. Comment 222 and follow me. / #manifestation #astrology #zodiac #usa #usareels".
-- Comentário (Insta fixado, Face só comentado): "Cancer, Scorpio, Pisces, this one is yours. 🔥 PART 2 of this sign is in my story: pick 3 cards and see what's coming for you. 👆 Tap my photo NOW, it's gone in 24 hours. Comment 222 and follow me so you don't miss your sign's next message."
+- Legenda: "Cancer, Scorpio, Pisces: November is your month. 🔮 / Send this to yourself. Open my story before it disappears. Comment 222 and follow me. / #manifestation #astrology #zodiac #usa #usareels".
+- Comentário (Insta fixado, Face só comentado): "Cancer, Scorpio, Pisces, this one is yours. 🔥 Send it to yourself to claim it. PART 2 of this sign is in my story: pick 3 cards and see what's coming for you. 👆 Tap my photo NOW, it's gone in 24 hours. Comment 222 and follow me so you don't miss your sign's next message."
 - Story: o `story-2810` repostado antes das 16h30 de 29/10 (não fazer outro).
 - Face: versão `-VEL` com filtro leve (placa não espelha).
