@@ -20,7 +20,7 @@ Status: **com painel (https://claude.ai/artifact/BRUoE4pFqnWzGVCdhoZLNq)**. Post
 - A `nora41-IMG` é a base do hook do nora42 (edição: só a 1ª linha da placa muda para GEMINI, LIBRA, AQUARIUS).
 
 ## Edição
-Números espalhados, amarelo-ouro (provisórios até eu ver a `nora41-IMG`): 222 alto à direita (X 259 · Y 486), 11:11 à esquerda na altura dos olhos (X -295 · Y 230), 888 à direita ao lado do ombro (X 274 · Y 154); texto do topo o clipe todo; dos 5 aos 8 s, "The second part is in my story" + seta vermelha embaixo à esquerda; música de sempre ("Ambient Mystical Drone"), **0 dB** (a placa não tem fala). Sem legenda e sem corte de silêncio. A faixa do texto do story (70 a 77%) é provisória até eu ver a `nora41-IMG`.
+Números espalhados, cada um de uma cor e de um tamanho (222 rosa-choque 15, 11:11 amarelo-ouro 11, 888 branco 12; lugares provisórios até eu ver a `nora41-IMG`): 222 alto à direita (X 259 · Y 486), 11:11 à esquerda na altura dos olhos (X -295 · Y 230), 888 à direita ao lado do ombro (X 274 · Y 154); texto do topo o clipe todo; dos 5 aos 8 s, "The second part is in my story" + seta vermelha embaixo à esquerda; música de sempre ("Ambient Mystical Drone"), **0 dB** (a placa não tem fala). Sem legenda e sem corte de silêncio. A faixa do texto do story (70 a 77%) é provisória até eu ver a `nora41-IMG`.
 
 ## Legenda, comentário e story
 - Legenda: "Cancer, Scorpio, Pisces: November is your month. 🔮 / Tap my photo and open my story before it disappears. Comment 222 and follow me. / #manifestation #astrology #zodiac #usa #usareels".

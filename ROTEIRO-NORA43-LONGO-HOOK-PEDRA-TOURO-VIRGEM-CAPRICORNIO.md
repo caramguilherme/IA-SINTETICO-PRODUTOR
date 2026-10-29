@@ -69,7 +69,7 @@ Status: **com painel (https://claude.ai/artifact/SWAxQnxgWc8EAZxKvSVhjH)**. Post
 
 ## Edição (CapCut, 720×1280)
 - **Caixa do topo** (do primeiro quadro do hook até o fim do Take 1): "[signos], pay very close attention", caixa branca arredondada, texto preto, "attention" em vermelho, X 0 · Y 397.
-- **222, 888 e 11:11 espalhados** (amarelo-ouro, parados o vídeo todo, um lugar diferente em cada vídeo, pedido do aluno em 29/10): 888 alto no centro (X 0 · Y 493), 222 no meio à direita (X 252 · Y 179), 11:11 embaixo à esquerda (X -310 · Y -128).
+- **222, 888 e 11:11 espalhados**, cada um de uma cor e de um tamanho (888 rosa-choque tamanho 14, 222 verde-limão 12, 11:11 ciano 11; traço e sombra pretos), parados o vídeo todo, um lugar diferente em cada vídeo, pedido do aluno em 29/10): 888 alto no centro (X 0 · Y 493), 222 no meio à direita (X 252 · Y 179), 11:11 embaixo à esquerda (X -310 · Y -128).
 - **Legenda automática** do Take 1 ao fim, faixa de Y -294 (73%, confirmada na `nora37-IMG`), destaques: money, prosperity, blessings, seal, follow e 222.
 - **Faixa do story** do Take 2 até o fim, no lugar da caixa: "The second part is in my Stories ⭐" ("my Stories" em vermelho). Decisão de 29/10: o tempo médio dos falados é de 5 a 8 s; quem sai cedo já vê onde está a parte 2.
 - **Seta vermelha** (texto ↓, #E53935, tamanho 14, traço preto, Luz desligada) do Take 10 até o fim, embaixo à esquerda, para a foto do perfil e o botão de seguir.
