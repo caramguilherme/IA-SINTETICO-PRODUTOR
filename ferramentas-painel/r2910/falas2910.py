@@ -10,25 +10,29 @@ SIGNOS = {
 def t01(v):
     return SIGNOS[v][0] + ': keep your mouth shut if this video showed up for you on October 29th, 30th or 31st.'
 
-CORPO = [  # (sufixo do arquivo, cena, fala) dos takes 2 a 10 (corpo A dos virais x1 a x5, w3 a w5, L1, a4/a5)
-    ('T02-corpo-segredo-fe', 'Segredo + “the universe saw your faith”',
-     "Don't tell anyone what's about to happen. I don't know your name or what you did, but the universe saw your faith."),
-    ('T03-corpo-virada-incomum', 'A virada nos próximos dias',
-     'A major turnaround is coming your way over the next few days. I see something very unusual happening in your life.'),
-    ('T04-corpo-dinheiro-prosperidade', 'Dinheiro, prosperidade e alguém maravilhoso',
-     "There's money, prosperity and someone incredibly wonderful about to show up unexpectedly. The universe chose you for this."),
-    ('T05-corpo-bencaos-ameaca', 'Se virar as costas (a única ameaça)',
-     'But if you turn your back on this message, the blessings will turn their backs on you too. So take this seriously.'),
-    ('T06-corpo-sao-miguel', 'São Miguel: o pior passou',
-     'Archangel Michael has sent a warning. A phase of victory and prosperity is approaching your life. The worst is finally over.'),
-    ('T07-corpo-correntes', 'As correntes da escassez',
-     'I can already see the chains keeping you trapped in scarcity being broken. Closed financial doors are starting to open.'),
-    ('T08-corpo-sete-minutos', 'Os 7 minutos',
-     'In the next seven minutes, the energy of scarcity that was following you is going to be destroyed forever.'),
-    ('T09-corpo-mande-para-si', 'Mande para você mesma',
-     "So send this video to yourself right now, because in seven minutes you're going to come back and confirm the shift."),
-    ('T10-cta-selos-seguir', 'Os 2 selos: salvar e seguir',
-     'Now save this video, that will be your first seal. Tap the follow button down below, that will be your second seal.'),
+CORPO = [  # (sufixo do arquivo, cena, fala, chave da expressão) dos takes 2 a 11 (corpo A dos virais x1 a x5, w3 a w5, L1, a4/a5).
+    # 29/10 ~12h (pedido do aluno): o Take 2 pede seguir, 222 e enviar logo no começo ("claim this energy" dos virais curtos:
+    # R03/R05, R11 e os reels de manifestação da seção 39), porque quase todo mundo sai antes dos selos do fim; os selos do fim continuam.
+    ('T02-cta-claim-seguir-222-enviar', 'Pedido no começo: seguir, 222 e mandar para si',
+     "Before you scroll, claim this energy: make sure you're following me, comment 222 and send this video to yourself.", 'CLAIM'),
+    ('T03-corpo-segredo-fe', 'Segredo + “the universe saw your faith”',
+     "Don't tell anyone what's about to happen. I don't know your name or what you did, but the universe saw your faith.", 'T02'),
+    ('T04-corpo-virada-incomum', 'A virada nos próximos dias',
+     'A major turnaround is coming your way over the next few days. I see something very unusual happening in your life.', 'T03'),
+    ('T05-corpo-dinheiro-prosperidade', 'Dinheiro, prosperidade e alguém maravilhoso',
+     "There's money, prosperity and someone incredibly wonderful about to show up unexpectedly. The universe chose you for this.", 'T04'),
+    ('T06-corpo-bencaos-ameaca', 'Se virar as costas (a única ameaça)',
+     'But if you turn your back on this message, the blessings will turn their backs on you too. So take this seriously.', 'T05'),
+    ('T07-corpo-sao-miguel', 'São Miguel: o pior passou',
+     'Archangel Michael has sent a warning. A phase of victory and prosperity is approaching your life. The worst is finally over.', 'T06'),
+    ('T08-corpo-correntes', 'As correntes da escassez',
+     'I can already see the chains keeping you trapped in scarcity being broken. Closed financial doors are starting to open.', 'T07'),
+    ('T09-corpo-sete-minutos', 'Os 7 minutos',
+     'In the next seven minutes, the energy of scarcity that was following you is going to be destroyed forever.', 'T08'),
+    ('T10-corpo-mande-para-si', 'Mande para você mesma',
+     "So send this video to yourself right now, because in seven minutes you're going to come back and confirm the shift.", 'T09'),
+    ('T11-cta-selos-seguir', 'Os 2 selos: salvar e seguir',
+     'Now save this video, that will be your first seal. Tap the follow button down below, that will be your second seal.', 'T10'),
 ]
 T11_FALA = 'Comment 222 to claim this energy, then tap my profile picture. The second part of this sign is waiting in my stories.'
 
@@ -39,6 +43,7 @@ ABRE = ('Throughout the whole 10 seconds both of her hands keep holding the two 
 FECHA = (', and from the end of the final sentence of the take until the clip ends she keeps her lips closed and silent; everything else in '
          'the scene stays completely still and each hand has exactly five fingers.')
 EXPR = {  # só rosto, cabeça e olhos (as mãos estão no geodo); nada da fala (P32), de acordo com o sentido (Bruno Freitas)
+    'CLAIM': 'her eyes stay on the lens, and during the first half of the take her eyebrows lift with an urgent, inviting look and she leans her head slightly toward the lens, during the second half she gives two small quick nods with a warm smile',
     'T01': 'her eyes stay on the lens, and during the first half of the take she holds a firm, serious look with her brows slightly lowered, during the second half she gives one short slow nod',
     'T02': 'her eyes stay on the lens, and during the first sentence of the take she leans her head a little toward the lens with a secretive look and her eyes narrow slightly, during the last sentence her face softens into a warm half-smile and she gives one small nod',
     'T03': 'her eyes stay on the lens, and during the first sentence of the take her eyebrows lift slightly with a hopeful look, during the last sentence she tilts her head a little to one side and her eyes widen slightly with quiet amazement',
@@ -56,8 +61,8 @@ def takes(v):
     # lista de (arquivo, cena, fala, movimentacao) dos takes gerados do nora40 (10) ou do Take 1 (nora42, nora43)
     T = [(f'{v}-T01-gancho-{SIGNOS[v][2]}', 'Gancho (signos, segredo e datas)', t01(v), mov('T01'))]
     if v == 'nora40':
-        for suf, cena, fala in CORPO:
-            T.append((f'nora40-{suf}', cena, fala, mov(suf[:3])))
+        for suf, cena, fala, ex in CORPO:
+            T.append((f'nora40-{suf}', cena, fala, mov(ex)))
     return T
 
 wc = lambda s: len(s.split())
