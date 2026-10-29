@@ -161,6 +161,7 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
-- **Insta (por vídeo):** views; contas alcançadas; taxa de pulo (%); tempo médio; curtidas, comentários, salvos, compartilhamentos, reposts; seguidores; visitas ao perfil; países (top 5 com %); a mensagem que o Insta mostra sobre o vídeo, se tiver (ex.: "This reel has a strong hook", acima ou abaixo do reel típico).
+- **Insta (por vídeo):** views; contas alcançadas; taxa de pulo (%); tempo médio; curtidas, comentários, salvos, compartilhamentos, reposts; seguidores; visitas ao perfil; países (top 5 com %); a mensagem que o Insta mostra sobre o vídeo, se tiver (ex.: "This reel has a strong hook", acima ou abaixo do reel típico); **só nos falados e longos:** o segundo em que o gráfico "When people liked your reel" tem o pico (diz qual take engaja). Na placa (8 s) não precisa.
 - **Story do Insta:** views; contas alcançadas; cliques no link; visitas ao perfil.
 - **Face (por vídeo):** views; visualizadores; distribuição; tempo médio; views de 3 s; seguidores novos; comentários.
+- **29/10/2026 ~11h30, INSTA nora38 (placa), gráfico "When people liked your reel" (print do aluno):** as curtidas sobem no fim, com o pico em 0:08 (~28%), o último quadro do clipe. Na placa o gráfico só confirma que curtem no fim; daqui em diante, pedir só nos falados e longos (o segundo do pico).
