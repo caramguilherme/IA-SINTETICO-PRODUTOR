@@ -341,3 +341,6 @@ O aluno pediu para não deixar o 222, o 888 e o 11:11 alinhados numa linha reta:
 
 ### 29/10/2026 - Respostas no Face no fim do painel (pedido do aluno)
 O aluno passou a responder, à mão, quem comenta no Face e a mandar o link no direct. Aprovei os textos dele e acrescentei 2 versões de cada (alternar para não mandar o mesmo texto a todo mundo, o que o Face pode ler como spam); as versões novas dizem o que a pessoa encontra no link ("pick your 3 cards and see what's coming for you"), como o story. O `PAINEL-MODELO.html` ganhou a seção fixa "Respostas no Face (comentário e direct)", a última do painel, com botão de copiar em cada versão (`ferramentas-painel/r2910/patch_modelo_respostas_face.py`). Nunca no Insta (pediu verificação facial) e nunca link na resposta pública do comentário.
+
+### 29/10/2026 - Flow que recusa gerar (Discord, outros alunos)
+Quando o Flow recusa um vídeo: (1) olhar a copy do take (promessa exagerada) e trocar só aquele trecho; (2) nome do avatar no prompt já causou recusa (os nossos prompts não usam "Nora"; manter assim); (3) a imagem pode ser o problema: gerar a imagem de novo, de preferência no mesmo projeto do Flow em que o vídeo vai ser gerado. Continua valendo: não reescrever para passar conteúdo que o filtro barra (roupa íntima) e não repetir o mesmo texto depois de uma recusa; o aluno me manda o print.
