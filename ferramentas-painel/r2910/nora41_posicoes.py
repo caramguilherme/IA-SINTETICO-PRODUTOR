@@ -1,6 +1,6 @@
 # 29/10/2026 ~17h30: nora41-IMG, nora41-FIM e o clipe aprovados. O porta-retrato saiu mais baixo que o pedido
 # (62% a 84% da altura; o cartão de 68% a 78%), então o texto do story sobe para cima do porta-retrato (58%),
-# o 888 desce para o lado do braço (7%, 60%) e a seta vai para (7%, 70%), longe das mãos na mesa.
+# o 888 vai para a borda esquerda (5%, 63%) e a seta vai para (7%, 70%), longe das mãos na mesa.
 import re, json, sys
 BASE = sys.argv[1] if len(sys.argv) > 1 else '.'
 f = f'{BASE}/PAINEL-NORA41.html'
