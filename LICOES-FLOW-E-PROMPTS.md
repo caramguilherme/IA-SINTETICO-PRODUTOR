@@ -63,6 +63,7 @@ Este arquivo junta tudo o que já deu errado ou que o aluno pediu. **Antes de en
 - **Roteiro já postado não se mexe** (R001, R002, R003 e R004; o R005 passa a valer depois de postado). Só o roteiro em produção (R004 e R005) e os próximos recebem as mudanças de método. Se eu mexer por engano, restauro a versão de antes (feito com o R003 em 18/10/2026).
 - Decidir e explicar em uma linha; não perguntar "o que gostaria de fazer?".
 - **Métricas (pedido do aluno, 29/10/2026):** o aluno manda as métricas em texto ou print, pelo modelo do fim de `METRICAS-NORA-LEIA.md`. **Sempre que eu anotar as métricas de um vídeo com 10 curtidas ou mais, eu lembro o aluno de mandar o gráfico "When people liked your reel"** (o segundo do pico), se ele ainda não mandou. O "How long people watched your reel" (retenção) vai sempre nos falados e longos; na placa, só o % no fim.
+- **Contas e avatares (pedido do aluno, 29/10/2026):** decidir insistir, trocar gancho, copy ou avatar, ou descartar uma conta só pela árvore de `VALIDACAO-CONTA-E-AVATAR.md` (portões com números de corte e regras de paciência). Nunca descartar com 10 vídeos; no Insta, medir pelas pessoas dos EUA (lá não há restrição de país).
 - Dizer sempre **quando marcar ou não uma caixa** e entregar o passo a passo seção por seção no painel.
 - Texto na tela: só o texto do início (hook). Story: uma frase só, de 1 a 2 linhas, em uma cor.
 - Painel de cada roteiro com o aviso do agente, os nomes dos arquivos, a lista para marcar o que foi gerado e aprovado.
