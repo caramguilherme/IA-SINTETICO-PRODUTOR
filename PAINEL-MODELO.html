@@ -495,7 +495,7 @@ function montar(silencio){
       ...(NU.length?NU.map(u=>['Número fixo '+u.t+(u.cor_nome?', '+u.cor_nome+', tamanho '+(u.tamanho||12):'')+(u.onde?' ('+u.onde+')':''),u.x,u.y]):[['Número fixo da esquerda (222 ou 444)',12,ys(mt.codigos)],['Número fixo da direita (11:11)',88,ys(mt.codigos)]]),
       ['Texto do hook (texto do topo)',50,ys(mt.hook)],
       [mt.legenda_nome||'Legenda na tela (automática)',50,ys(mt.legenda)],
-      ['Seta vermelha (embaixo à esquerda, apontando para baixo, para a foto do perfil)',6,76]];
+      ['Seta vermelha ('+((mt.seta&&mt.seta.onde)||'embaixo à esquerda, apontando para baixo, para a foto do perfil')+')',(mt.seta?mt.seta.x:6),(mt.seta?mt.seta.y:76)]];
     let ct='<div class="mono">No CapCut: o que digitar em X e em Y (posição do CENTRO de cada texto)</div><p style="color:var(--ink2);margin:6px 0 8px;font-size:14.5px">X=0 e Y=0 é o <b>centro</b> do vídeo (720×1280). X negativo é esquerda; Y positivo é para cima.</p><div class="box" style="white-space:normal;word-break:normal;padding:10px 12px"><table style="border-collapse:collapse;width:100%;font-size:13.5px"><tr style="color:var(--ink2)"><td style="padding:4px 10px 6px 0">Texto</td><td style="padding:4px 0 6px 0;white-space:nowrap">Vídeo 720×1280 (X · Y)</td></tr>';
     P.forEach(r=>{const b=cc(r[1],r[2],720,1280);ct+='<tr><td style="padding:5px 10px 5px 0;vertical-align:top"><b>'+esc(r[0])+'</b></td><td style="padding:5px 0;white-space:nowrap">X '+b[0]+' · Y '+b[1]+'</td></tr>'});
     ct+='</table></div>';
