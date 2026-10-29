@@ -68,3 +68,6 @@ Todas com 3 a 6 s, 2 a 5 cortes e algo novo a cada 0,5 a 1,5 s:
 23. **Compartimento no rodapé com maços de dinheiro (w7)** e **estrado da cama que se rasga e mostra pilhas de notas (w8):** para o Love Chart, trocar o dinheiro por cartas, cartas de amor ou um diário.
 24. **Linha de sal na soleira que pega fogo alto (w9):** ela despeja, acende com isqueiro, o fogo corre e ela passa a mão por cima (mão longe da chama de perto; chama no chão, nunca perto do rosto).
 25. **Ventilador que sopra as cartas da mesa e todas voam menos uma (Garbellotto, hook mudo de 3 a 4 s):** serve de ideia para um vídeo futuro (a regra das cartas, P9, vale no vídeo falado; o pré-gancho é só o efeito).
+
+## Ideia de 29/10/2026 (reel de @daflones_, seção 41 de `BIBLIOTECA-VIDEOS-VIRAIS.md`; adaptação do aluno)
+26. **Fita na boca + porta-retrato dos signos:** ela puxa um pedaço de washi tape esmeralda com estrelinhas e luas douradas, rasga com a mão e cola na boca (o "keep your mouth shut" em imagem); os signos e as datas ficam num porta-retrato em pé na mesa, no lugar da foto. Primeiro quadro com a fita ainda no rolo, último com a fita colada (Frames). Sem tesoura (o Flow erra o corte) e sem letra ou número na fita. Usado no nora41 (8 s, texto na tela) e no hook do nora42 (4 s).

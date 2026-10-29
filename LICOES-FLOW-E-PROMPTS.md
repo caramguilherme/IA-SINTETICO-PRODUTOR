@@ -344,3 +344,6 @@ O aluno passou a responder, à mão, quem comenta no Face e a mandar o link no d
 
 ### 29/10/2026 - Flow que recusa gerar (Discord, outros alunos)
 Quando o Flow recusa um vídeo: (1) olhar a copy do take (promessa exagerada) e trocar só aquele trecho; (2) nome do avatar no prompt já causou recusa (os nossos prompts não usam "Nora"; manter assim); (3) a imagem pode ser o problema: gerar a imagem de novo, de preferência no mesmo projeto do Flow em que o vídeo vai ser gerado. Continua valendo: não reescrever para passar conteúdo que o filtro barra (roupa íntima) e não repetir o mesmo texto depois de uma recusa; o aluno me manda o print.
+
+### 29/10/2026 - Painel de clipe único: a seção Imagens vem antes da seção Clipe
+No modo `clipe_unico` (texto na tela de 8 s), o modelo punha a seção "Clipe" antes de "Imagens", herdado da ordem do pré-gancho; mas o clipe sai da imagem, e no nora41 da fita o clipe tem também uma imagem final que é edição da IMAGEM 1. O `PAINEL-MODELO.html` agora troca a ordem quando o pacote tem `clipe_unico`: Imagens (a IMAGEM 1) → Clipe (a imagem final, se houver, e o vídeo). **Regra:** num clipe único com último quadro, a imagem final entra como etapa `img` do `pre_gancho` (com `anexar`), antes da etapa `vid`, e o passo a passo manda gerar a IMAGEM 1, depois a final, me mandar as duas e só então o vídeo.

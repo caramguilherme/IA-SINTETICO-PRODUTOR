@@ -413,6 +413,8 @@ function ordenar(){
   const ord=c
     ?['pecas','referencia','prehook','imagens','todos','central','cenas','agente','silencio','story','textotela','fala','descricao','comentario','respostasface']
     :['pecas','referencia','prehook','imagens','videos','todos','silencio','story','textotela','fala','descricao','comentario','respostasface'];
+  // clipe único (texto na tela): o clipe sai da imagem, então a seção Imagens vem antes da seção Clipe
+  if(pk.clipe_unico){const a=ord.indexOf('prehook'),b=ord.indexOf('imagens');ord[a]='imagens';ord[b]='prehook'}
   const pn=$('painel');
   $('todos').classList.toggle('hide',!!pk.imagem_reutilizada||!!pk.imagem_central||!!pk.ocultar_bloco_agente_imagem);
   $('imagens').querySelector('h2').textContent=pk.imagem_reutilizada?'Imagem 1 (a mesma de outro roteiro, não gerar)':(pk.imagem_central?'Imagem 1 na Central de imagens':'Imagens');

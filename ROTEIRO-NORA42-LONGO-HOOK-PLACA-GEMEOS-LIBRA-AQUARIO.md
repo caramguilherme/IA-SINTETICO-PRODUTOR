@@ -1,4 +1,6 @@
-# nora42-LONGO-HOOK-PLACA-GEMEOS-LIBRA-AQUARIO — hook da placa + corpo A do nora40 (Manifestation, 29/10/2026)
+# nora42-LONGO-HOOK-FITA-GEMEOS-LIBRA-AQUARIO — hook da fita na boca + corpo A do nora40 (Manifestation, 29/10/2026)
+
+> **29/10/2026 (~13h), ideia do aluno aprovada:** o hook deixou de ser a placa empurrada até a lente e virou **a fita na boca** na cena nova do nora41 (ela rasga a fita com estrelinhas e luas e cola na boca; os signos ficam num porta-retrato na mesa). Mesmo custo. O nome do arquivo continua com "PLACA".
 
 Status: **com painel (https://claude.ai/artifact/HzVWXJiyNpGHey53cyU8sH)**. Postar em **29/10 às 22h** no Insta e no Face, ao vivo, sem localização (é falado). Custo: **22 créditos**: hook de 4 s (7, conta de 53: 41 → 34) + Take 1 (15, conta grande). Takes 2 a 12 = cópias do nora40.
 
@@ -8,12 +10,13 @@ Status: **com painel (https://claude.ai/artifact/HzVWXJiyNpGHey53cyU8sH)**. Post
 **Conferência:** a mesma do nora40 (corpo A, divisor, P32); o Take 1 tem 21 palavras e a simulação dá 1 take de 10 s; a placa do hook diz os mesmos signos da fala.
 
 ## Base do curso usada (registro)
-- **Hook visual:** a placa dos signos (M2) na cena do `nora41`, agora com **GEMINI, LIBRA, AQUARIUS** / 29, 30 AND 31 OF OCTOBER, em 4 s (ela empurra a placa até a lente e fica). A placa segura os 3 s (57 a 60%) e aqui abre o longo, em vez de ser o vídeo todo. Não dá para usar o clipe do nora41: a placa tem de dizer os signos da fala.
+- **Hook visual:** a fita na boca (reel de @daflones_, seção 41 de `BIBLIOTECA-VIDEOS-VIRAIS.md`) na cena do `nora41`, com o porta-retrato dizendo **GEMINI, LIBRA, AQUARIUS** / 29, 30 AND 31 OF OCTOBER, em 4 s (ela puxa a fita, rasga e cola na boca). Corte seco para o Take 1, que diz "keep your mouth shut". Não dá para usar o clipe do nora41: o porta-retrato tem de dizer os signos da fala.
 - **Corpo:** o do nora40 (corpo A), mesma `nora37-IMG` (Lucas: o hook não precisa ser no mesmo lugar; a conta dos x troca hook e signos com o mesmo corpo no mesmo dia).
 
 ## Peças
-- `nora42-PRE-IMG`: edição da `nora41-IMG` (anexar só ela), só a 1ª linha da placa muda.
-- `nora42-PRE`: 4 s em Frames, primeiro quadro = `nora42-PRE-IMG`, sem último quadro. 7 créditos (conta de 53). Plano B: a imagem como foto por 2 s com zoom leve.
+- `nora42-PRE-IMG`: edição da `nora41-IMG` (anexar só ela), só a 1ª linha do cartão do porta-retrato muda.
+- `nora42-PRE-FIM`: edição da `nora42-PRE-IMG` (anexar só ela): a fita colada na boca, os indicadores apertando as pontas, o rolo na mão do lado direito da imagem.
+- `nora42-PRE`: 4 s em Frames, primeiro quadro = `nora42-PRE-IMG`, último quadro = `nora42-PRE-FIM`. 7 créditos (conta de 53). Se o Flow recusar a fita por política: me mandar o print (troca de ideia, sem reescrever para passar).
 
 ## Takes
 ### Take 1/12 · Gancho (signos, segredo e datas) · 21 palavras · GERAR (15)
