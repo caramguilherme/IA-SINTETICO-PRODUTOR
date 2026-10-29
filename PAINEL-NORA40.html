@@ -159,6 +159,12 @@ section{scroll-margin-top:16px}
       </div>
     </section>
 
+    <section class="card" id="respostasface">
+      <h2>Respostas no Face (comentário e direct)</h2>
+      <div class="tip" id="rfAviso" style="margin-bottom:10px;font-size:15px"></div>
+      <div id="rfBox"></div>
+    </section>
+
     <section class="card hide" id="pecas">
       <h2>Nomes e reaproveitamento</h2>
       <div id="pecasBox"></div>
@@ -385,12 +391,28 @@ function montarPre(){
   $('preBox').querySelectorAll('input[data-id]').forEach(inp=>{inp.onchange=e=>{feitos[inp.dataset.id]=e.target.checked;progresso();salvar()}});
 }
 
+const RESP_FACE={
+  aviso:'Só no Face (no Insta o direct pediu verificação facial). Para cada pessoa que comentar: responda o comentário com uma frase (sem link) e mande a mensagem com o link no direct. Vá alternando as versões: não mande o mesmo texto para todo mundo.',
+  link:'https://app.auralyapp.com/6a90ad82719e8d2b35da8a7c?rt_ad=norakensleytarot&utm_source=facebook&utm_content=FACE&aff=dl7zx6ks',
+  comentario:['✨ Just sent you a DM, beautiful! 💖🔮','💖 Check your messages, beautiful! ✨🔮','🔮 Sent you something in your DM, beautiful! ✨'],
+  dm:['✨ Your reading is waiting for you, beautiful! 🔮💖 Tap here to discover the message meant for you:','✨ Your 3 cards are ready, beautiful! 🔮💖 Tap here, pick them and see what\'s coming for you:','💖 Your message is here, beautiful! ✨🔮 Tap below, pick your 3 cards and see what\'s coming for you:']};
+function montarRespFace(){
+  const r=Object.assign({},RESP_FACE,(pk&&pk.respostas_face)||{});
+  $('rfAviso').textContent=r.aviso;
+  const it=(tit,txt,i,pre)=>'<div class="item"><button class="cp" id="'+pre+i+'">Copiar</button><h3>'+esc(tit)+'</h3><div class="box">'+esc(txt)+'</div></div>';
+  const dmTxt=d=>d+'\n\n'+r.link;
+  $('rfBox').innerHTML='<div class="mono">Resposta no comentário (sem link)</div>'+r.comentario.map((c,i)=>it('Versão '+(i+1),c,i,'rfC')).join('')
+    +'<div class="mono" style="margin-top:14px">Mensagem no direct (com o link do Face)</div>'+r.dm.map((d,i)=>it('Versão '+(i+1),dmTxt(d),i,'rfD')).join('');
+  r.comentario.forEach((c,i)=>{$('rfC'+i).onclick=e=>copiar(c,e.currentTarget)});
+  r.dm.forEach((d,i)=>{$('rfD'+i).onclick=e=>copiar(dmTxt(d),e.currentTarget)});
+}
+
 /* ORDEM DE PRODUÇÃO: as seções seguem o passo a passo do caminho da produção (legenda e comentário fixado por último, antes de postar). */
 function ordenar(){
   const c=pk.central;
   const ord=c
-    ?['pecas','referencia','prehook','imagens','todos','central','cenas','agente','silencio','story','textotela','fala','descricao','comentario']
-    :['pecas','referencia','prehook','imagens','videos','todos','silencio','story','textotela','fala','descricao','comentario'];
+    ?['pecas','referencia','prehook','imagens','todos','central','cenas','agente','silencio','story','textotela','fala','descricao','comentario','respostasface']
+    :['pecas','referencia','prehook','imagens','videos','todos','silencio','story','textotela','fala','descricao','comentario','respostasface'];
   const pn=$('painel');
   $('todos').classList.toggle('hide',!!pk.imagem_reutilizada||!!pk.imagem_central||!!pk.ocultar_bloco_agente_imagem);
   $('imagens').querySelector('h2').textContent=pk.imagem_reutilizada?'Imagem 1 (a mesma de outro roteiro, não gerar)':(pk.imagem_central?'Imagem 1 na Central de imagens':'Imagens');
@@ -530,6 +552,7 @@ function montar(silencio){
   montarCentral();
   montarPre();
   montarPecas();
+  montarRespFace();
   ordenar();
   $('painel').classList.remove('hide');
   progresso();salvar();
