@@ -161,6 +161,6 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
-- **Insta (por vídeo):** views; contas alcançadas; taxa de pulo (%); tempo médio; curtidas, comentários, salvos, compartilhamentos, reposts; seguidores; visitas ao perfil; países (top 5 com %).
+- **Insta (por vídeo):** views; contas alcançadas; taxa de pulo (%); tempo médio; curtidas, comentários, salvos, compartilhamentos, reposts; seguidores; visitas ao perfil; países (top 5 com %); a mensagem que o Insta mostra sobre o vídeo, se tiver (ex.: "This reel has a strong hook", acima ou abaixo do reel típico).
 - **Story do Insta:** views; contas alcançadas; cliques no link; visitas ao perfil.
 - **Face (por vídeo):** views; visualizadores; distribuição; tempo médio; views de 3 s; seguidores novos; comentários.
