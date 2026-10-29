@@ -1,3 +1,5 @@
+> **RESERVA (29/10/2026): esta placa nunca foi gerada nem postada.** Era o nora40 de 28/10 (23h) e ficou para trás; em 29/10 o número **nora40** passou para o longo do corpo A (`ROTEIRO-NORA40-LONGO-CORPO-A-ARIES-LEAO-SAGITARIO.md`). Se for usada, troca o número e as datas antes de gerar. O link PWCTPWqbrYKXvqzHCJ3PD7 agora mostra o nora40 longo.
+
 # nora40-PLACA-TOURO-VIRGEM-CAPRICORNIO — texto na tela, a placa (Manifestation, 27/10/2026)
 
 > **RENUMERADO em 27/10/2026 ~15h55** (o número segue a ordem de postagem; o aluno vai postar 5 hoje, das 17h à 01h): 17h **nora40** placa Gêmeos/Libra/Aquário · 19h **nora37** curto do geodo Touro/Virgem/Capricórnio · 21h **nora38** placa Áries/Leão/Sagitário · 23h **nora39** curto Câncer/Escorpião/Peixes · 01h **nora40** placa Touro/Virgem/Capricórnio. Este é o **nora40** (novo), à 01h de 28/10.
