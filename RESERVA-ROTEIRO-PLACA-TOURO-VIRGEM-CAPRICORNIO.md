@@ -1,4 +1,4 @@
-> **RESERVA (29/10/2026): esta placa nunca foi gerada nem postada.** Era o nora40 de 28/10 (23h) e ficou para trás; em 29/10 o número **nora40** passou para o longo do corpo A (`ROTEIRO-NORA40-LONGO-CORPO-A-ARIES-LEAO-SAGITARIO.md`). Se for usada, troca o número e as datas antes de gerar. O link PWCTPWqbrYKXvqzHCJ3PD7 agora mostra o nora40 longo.
+> **RESERVA (29/10/2026): esta placa nunca foi gerada nem postada.** Era o nora40 de 28/10 (23h) e ficou para trás; em 29/10 o número **nora40** passou para o longo do corpo A (`ROTEIRO-NORA40-LONGO-CORPO-A-ARIES-LEAO-SAGITARIO.md`). Se for usada, troca o número e as datas antes de gerar, e os números fixos seguem a regra de 29/10 (222, 888 e 11:11 espalhados, cada um de uma cor e de um tamanho; item 28 do checklist de `LICOES-FLOW-E-PROMPTS.md`). O link PWCTPWqbrYKXvqzHCJ3PD7 agora mostra o nora40 longo.
 
 # nora40-PLACA-TOURO-VIRGEM-CAPRICORNIO — texto na tela, a placa (Manifestation, 27/10/2026)
 

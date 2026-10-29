@@ -472,7 +472,7 @@ O Matheus (DM de 23/10, 17h20) não passa o avatar dele e mandou 2 reels de um p
 3. **Geodo que racha (M1 = w4), candidato a um vídeo seguinte:** o pré-gancho já está escrito no `ROTEIRO-NORA29-…` (não gerado). Versão de amor: dentro, cristais de quartzo rosa e um pingente dourado do símbolo de Vênus (o colar da Nora) no lugar do ouro e dos anéis.
 4. **Duas mãos no objeto, sem gestos**, como nos dois: menos erro de mão no Flow. Avaliar no próximo roteiro.
 5. **Avatar natural:** a avatar dos dois não tem nada no rosto (só a faixa no cabelo). Reforça a ideia de uma Nora com menos acessórios (`CLAUDE.md`, seção 6, item 4).
-6. Testar, num vídeo, os **números piscando** e a **legenda com brilho em arco-íris** (hoje: números fixos em amarelo-ouro nos cantos e legenda branca com contorno preto).
+6. Testar, num vídeo, os **números piscando** e a **legenda com brilho em arco-íris** (desde 29/10: 222, 888 e 11:11 espalhados, cada um de uma cor e de um tamanho, variando por vídeo; legenda branca com contorno preto).
 
 ## 26. O que NÃO copiar
 - A copy inteira: parente falecido (P15), promessa de dinheiro e prosperidade (P40), "in seven minutes" e "tomorrow at eleven AM" (P39), São Miguel e inveja empilhados com ameaça e "não pule" do começo ao fim (gancho infinito, P40). A fala da Nora segue o P39 e o P40; daqui só entram a estrutura (signos no começo, selos, 222, story no fim) e o visual.
