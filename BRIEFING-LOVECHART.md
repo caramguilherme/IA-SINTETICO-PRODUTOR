@@ -1,3 +1,5 @@
+> **29/10/2026 (Matheus Baffa, DM):** o Love Chart converteu "bem baixo" com as copies padrão de Manifestation e Soulmate; para ele, a copy que serve é a de **combinação de signos** ("Gêmeos combina com Libra por causa disso...; quer descobrir com qual signo o seu combina? O mapa astral está no botão abaixo"). A Nora saiu do Love Chart em 26/10 (P41); usar isto se voltar.
+
 # AULA DO IORHAN E PESQUISA AURALY (23/10/2026) — ler antes de qualquer roteiro (P40)
 
 Fontes: aula ao vivo "O guia completo para você fazer R$ 1k de comissão por dia com os novos funis" (Iorhan Ferreira, Appyon, Zoom, 23/10/2026 às 18h, 1h19; transcrição colada pelo aluno em 24/10) e o PDF mostrado na aula, "Auraly – Research" (23 slides, lido inteiro em 24/10/2026, guardado em `PESQUISA-AURALY-23-10.pdf`). Auraly é o app da Appyon ("Aura Liep" e "Aura ali" na transcrição).
