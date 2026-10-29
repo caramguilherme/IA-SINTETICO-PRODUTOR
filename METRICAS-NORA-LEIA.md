@@ -161,6 +161,8 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 
 - **29/10/2026 20h22, FACE (Biblioteca, print do aluno):** **nora40 (longo do corpo A, ~3 h) 205 views, 192 visualizadores, distribuição +0,2x, tempo médio 14 s (o maior da Nora no Face; os falados curtos davam 9 s), 3 views passaram de 1 min**, 67 views de 3 s (33%), 46 min de tempo total; **nora39-VAR (espelho + filtro + 1,1x, ~3h55) 194 views, +0,5x, 5 comentários**, 70 views de 3 s (36%), tempo médio 5 s; **nora41 (fita na boca, ~33 min) 60 views**, −1,3x (cedo), 12 views de 3 s, tempo médio 4 s; nora39 238 (+1,1x, 2 seguidores); nora38 145; nora36 215; nora35 223; nora34 241; nora37 parado em 5; nora36-VEL 26. **Leitura:** (1) o longo segura mais no Face (14 s de média, 3 pessoas além de 1 min) e já entregou ~200 em 3 h, mesmo com distribuição só +0,2x; (2) a variação do nora39 funcionou no Face (194 em 4 h, contra 26 do `nora36-VEL`): a 1ª entrega do original tinha sido boa e a variação herdou; (3) comentários de outras pessoas no nora39-VAR (5), nora36 (5), nora38 (3) e nora39 (3): responder e mandar o direct (seção "Respostas no Face"); (4) o nora41 precisa de mais tempo para ler.
 
+- **29/10/2026 ~20h30 (aluno):** os comentários do Face já estavam respondidos e o direct com o link FACE já tinha sido mandado a quem comentou; nada pendente. Conferir no Tracker de amanhã se aparecem cliques do Face (utm_content=FACE), que estavam em 0 desde 27/10.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
