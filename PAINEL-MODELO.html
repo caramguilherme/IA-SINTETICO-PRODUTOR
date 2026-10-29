@@ -450,22 +450,25 @@ function montar(silencio){
       {n:'Números fixos do código (um no canto esquerdo e um no direito)',y:mt.codigos,x:[0,100],c:'#4f8cff',t:'#cfe0ff'},
       {n:'Texto do hook (texto do topo)',y:mt.hook,x:[6,94],c:'#ffe14d',t:'#fff3b0'},
       {n:mt.legenda_nome||'Legenda na tela (automática)',y:mt.legenda,x:[8,84],c:'#27c27a',t:'#b9f3d6'},
-      {n:'Rodapé do app (nome, descrição, botão)',y:mt.rodape_app,x:[0,100],c:'#ff6b5b',t:'#ffd0ca'}];
+      {n:'Rodapé do app (nome, descrição, botão)',y:mt.rodape_app,x:[0,100],c:'#ff6b5b',t:'#ffd0ca'}].filter(z=>!(mt.numeros&&z.y===mt.codigos));
+    const NU=mt.numeros||[];
     let sv='<svg viewBox="0 0 '+W+' '+H+'" width="190" style="background:#000;border:1px solid var(--line);border-radius:10px;flex:none">';
     sv+='<rect x="'+(W*.06)+'" y="'+(H*mt.hook[1]/100)+'" width="'+(W*.88)+'" height="'+(H*(mt.legenda[0]-mt.hook[1])/100)+'" fill="#fff" fill-opacity=".07" stroke="#fff" stroke-opacity=".5" stroke-dasharray="1.4 1.4" stroke-width=".27"/><text x="'+(W/2)+'" y="'+(H*(mt.hook[1]+mt.legenda[0])/200)+'" font-size="3.4" text-anchor="middle" fill="#fff" fill-opacity=".8">rosto e objeto</text><text x="'+(W/2)+'" y="'+(H*(mt.hook[1]+mt.legenda[0])/200+4)+'" font-size="3.4" text-anchor="middle" fill="#fff" fill-opacity=".8">(sem texto)</text>';
     Z.forEach(z=>{sv+='<rect x="'+(W*z.x[0]/100)+'" y="'+(H*z.y[0]/100)+'" width="'+(W*(z.x[1]-z.x[0])/100)+'" height="'+(H*(z.y[1]-z.y[0])/100)+'" fill="'+z.c+'" fill-opacity=".45" stroke="'+z.c+'" stroke-width=".27"/>'});
     const b=mt.botoes;sv+='<rect x="'+(W*b.x[0]/100)+'" y="'+(H*b.y[0]/100)+'" width="'+(W*(b.x[1]-b.x[0])/100)+'" height="'+(H*(b.y[1]-b.y[0])/100)+'" fill="#ff6b5b" fill-opacity=".45" stroke="#ff6b5b" stroke-width=".27"/>';
-    sv+='<text x="'+(W*.46)+'" y="'+(H*(mt.legenda[0]+mt.legenda[1])/200+1)+'" font-size="3.8" font-weight="700" text-anchor="middle" fill="#fff">'+esc(mt.legenda_curto||'LEGENDA')+'</text></svg>';
+    sv+='<text x="'+(W*.46)+'" y="'+(H*(mt.legenda[0]+mt.legenda[1])/200+1)+'" font-size="3.8" font-weight="700" text-anchor="middle" fill="#fff">'+esc(mt.legenda_curto||'LEGENDA')+'</text>';
+    NU.forEach(u=>{sv+='<text x="'+(W*u.x/100)+'" y="'+(H*u.y/100+1.4)+'" font-size="4" font-weight="700" text-anchor="middle" fill="#FFD21F" stroke="#000" stroke-width=".35" paint-order="stroke">'+esc(u.t)+'</text>'});
+    sv+='</svg>';
     let rows='<div class="box" style="flex:1;min-width:240px;padding:10px 12px;white-space:normal;word-break:normal">';
     const lin=(c,n,a)=>'<div style="display:flex;gap:10px;align-items:flex-start;margin:0 0 9px"><span style="flex:none;width:12px;height:12px;border-radius:3px;margin-top:3px;background:'+c+'"></span><div style="white-space:normal;word-break:normal"><b>'+esc(n)+'</b><br><span style="color:var(--ink2)">'+a+'</span></div></div>';
     Z.forEach(z=>{rows+=lin(z.c,z.n,z.y[0]+'% a '+z.y[1]+'% da altura (de '+px(z.y[0])+' a '+px(z.y[1])+' pixels contados a partir do TOPO)')});
+    NU.forEach(u=>{rows+=lin('#FFD21F','Número fixo '+u.t+(u.onde?' ('+u.onde+')':''),'centro em '+u.x+'% da largura e '+u.y+'% da altura')});
     rows+=lin('#ff6b5b','Botões do lado direito (curtir, comentar, enviar)','a partir de '+b.x[0]+'% da largura (a partir de '+Math.round(b.x[0]*7.2)+' pixels contados da ESQUERDA), de '+b.y[0]+'% a '+b.y[1]+'% da altura');
     rows+='</div>';
     $('mapaCorpo').innerHTML=sv+rows;
     const cc=(xp,yp,Wp,Hp)=>[Math.round(xp/100*Wp-Wp/2),Math.round(Hp/2-yp/100*Hp)];
     const ys=(a)=>(a[0]+a[1])/2,P=[
-      ['Número fixo da esquerda (222 ou 444)',12,ys(mt.codigos)],
-      ['Número fixo da direita (11:11)',88,ys(mt.codigos)],
+      ...(NU.length?NU.map(u=>['Número fixo '+u.t+(u.onde?' ('+u.onde+')':''),u.x,u.y]):[['Número fixo da esquerda (222 ou 444)',12,ys(mt.codigos)],['Número fixo da direita (11:11)',88,ys(mt.codigos)]]),
       ['Texto do hook (texto do topo)',50,ys(mt.hook)],
       [mt.legenda_nome||'Legenda na tela (automática)',50,ys(mt.legenda)],
       ['Seta vermelha (embaixo à esquerda, apontando para baixo, para a foto do perfil)',6,76]];

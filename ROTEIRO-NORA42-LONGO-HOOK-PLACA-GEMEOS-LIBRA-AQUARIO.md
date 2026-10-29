@@ -73,7 +73,7 @@ Status: **com painel (https://claude.ai/artifact/HzVWXJiyNpGHey53cyU8sH)**. Post
 
 ## Edição (CapCut, 720×1280)
 - **Caixa do topo** (do primeiro quadro do hook até o fim do Take 1): "[signos], pay very close attention", caixa branca arredondada, texto preto, "attention" em vermelho, X 0 · Y 397.
-- **222, 888 e 11:11** em cima, amarelo-ouro, o vídeo todo (888 no meio, X 0 · Y 486; desde 29/10, post do @mvmcreators sobre a Scarllet).
+- **222, 888 e 11:11 espalhados** (amarelo-ouro, parados o vídeo todo, um lugar diferente em cada vídeo, pedido do aluno em 29/10): 222 alto à direita (X 259 · Y 486), 11:11 à esquerda em cima da bandeira (X -274 · Y 256), 888 mais embaixo à esquerda (X -295 · Y 51).
 - **Legenda automática** do Take 1 ao fim, faixa de Y -294 (73%, confirmada na `nora37-IMG`), destaques: money, prosperity, blessings, seal, follow e 222.
 - **Faixa do story** do Take 2 até o fim, no lugar da caixa: "The second part is in my Stories ⭐" ("my Stories" em vermelho). Decisão de 29/10: o tempo médio dos falados é de 5 a 8 s; quem sai cedo já vê onde está a parte 2.
 - **Seta vermelha** (texto ↓, #E53935, tamanho 14, traço preto, Luz desligada) do Take 10 até o fim, embaixo à esquerda, para a foto do perfil e o botão de seguir.
