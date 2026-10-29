@@ -163,6 +163,8 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 
 - **29/10/2026 ~20h30 (aluno):** os comentários do Face já estavam respondidos e o direct com o link FACE já tinha sido mandado a quem comentou; nada pendente. Conferir no Tracker de amanhã se aparecem cliques do Face (utm_content=FACE), que estavam em 0 desde 27/10.
 
+- **29/10/2026 20h30, INSTA nora41 (fita na boca + porta-retrato, ~40 min, prints do aluno):** 53 views, 16 viewers, **skip 23,1% (77% passam dos 3 s, o melhor gancho da Nora até hoje; placas 40 a 51%, falados 42 a 50%)**, tempo médio 4 s num clipe de 8 s, 0 curtidas, 0 envios, 0 salvos, 1 comentário (o fixado), 0 visitas ao perfil, 100% não seguidores; curva igual à típica nos primeiros ~30 min; países ainda sem dados. **Leitura (cedo):** a fita prende os 3 primeiros segundos melhor que tudo o que já postamos; o que falta ver com 3 h é se ele passa das ~100 views da curva típica e se aparece algum envio ("Send it to yourself").
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
