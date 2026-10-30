@@ -20,7 +20,7 @@ p = copy.deepcopy(p40)
 r = p['roteiro']
 r.update({'id': 'nora44-LONGO-HOOK-PEDRA-ARIES-LEAO-SAGITARIO',
   'titulo': 'Longo do corpo A (Manifestation), hook da pedra escura: Áries, Leão e Sagitário (o vídeo do nora40 com o hook trocado, 0 crédito)',
-  'formato': 'Hook da pedra escura (nora34-PRE, ~3,5 s) + o vídeo do nora40 inteiro (Take 1 de Áries/Leão/Sagitário + takes 2 a 12), ~100 s. Nada é gerado.',
+  'formato': 'Hook da pedra escura (nora34-PRE, ~3,5 s) + os 12 takes do nora40, já gerados e já cortados (do Take 1 de Áries/Leão/Sagitário ao Take 12), ~100 s. Nenhum take é gerado.',
   'molde_hook': 'pedra escura que racha (viral x5; o hook do nora43, que segurou 69,5% nos 3 s) + corpo A (x1 a x5)',
   'duracao_total': 100,
   'descricao_instagram': "Aries, Leo, Sagittarius: don't scroll past this. 🔮\nThen tap my photo and open my story before it disappears. Comment 222 and follow me.\n#manifestation #astrology #zodiac #usa #usareels",
@@ -30,21 +30,25 @@ p['clipe_unico'] = True  # esconde a Central, o agente e o corte de silêncio: n
 p['imagem_reutilizada'] = {'arquivo': 'nenhuma (o projeto do nora40 no CapCut)',
   'aviso': 'Nada a gerar neste vídeo (0 crédito): abra o projeto do nora40 no CapCut. Não gere imagem nem take.'}
 p['imagens'] = [{'rotulo': 'IMAGEM 1', 'cena': '(não gerar)'}]
-p['videos'] = [{'rotulo': 'V1', 'cena': 'Montagem no CapCut (nada a gerar)', 'duracao': '10', 'primeiro_quadro': 'IMAGEM 1', 'acao': '', 'b_roll': '',
-  'fala': T01, 'movimentacao': '(não gerar: é o Take 1 do nora40)', 'arquivo': 'nora44 (projeto do nora40)'}]
+T12 = 'Comment 222 to claim this energy, then tap my profile picture. The second part of this sign is waiting in my stories.'
+p['videos'] = [{'rotulo': 'T%02d' % (i + 1), 'cena': v['cena'] + ' · JÁ GERADO no nora40 (não gerar)', 'duracao': '10', 'primeiro_quadro': 'IMAGEM 1',
+                'acao': '', 'b_roll': '', 'fala': v['fala'], 'movimentacao': '(já gerado no nora40)', 'arquivo': v['arquivo']} for i, v in enumerate(p40['videos'])]
+p['videos'].append({'rotulo': 'T12', 'cena': 'Take 12/12 · 222 + o story · JÁ GERADO (nora40-T12)', 'duracao': '10', 'primeiro_quadro': 'IMAGEM 1',
+                    'acao': '', 'b_roll': '', 'fala': T12, 'movimentacao': '(já gerado no nora40)', 'arquivo': 'nora40-T12-cta-222-story'})
+assert len(p['videos']) == 12 and p['videos'][0]['fala'] == T01
 p['central'] = {'imagem_unica': True, 'config': [], 'agente': {}, 'conferir': '',
   'colagens': [{'titulo': 'nada a gerar', 'fala': '(nada a gerar)', 'movimentacao': ['(nada a gerar)'], 'takes': [0]}],
   'passos': [
     '1) STORY NOVO primeiro (seção “Story”): gere a imagem no Flow anexando SÓ o blueprint (não gasta crédito). Aprove só se: é a Nora (lua e 3 estrelinhas na bochecha do lado esquerdo da imagem); exatamente 3 cartas viradas para baixo, iguais, sem letras; faixa de cima vazia (parede escura) e faixa de baixo vazia (manta). Renomeie para story-3010.',
     '2) Poste o story no Insta (link STORYIG) e no Face (link FACE), com o texto no topo e o adesivo embaixo. Na prévia, confira que o link do Insta termina em utm_content=STORYIG e o do Face em utm_content=FACE.',
-    '3) nora44 (0 crédito): abra o projeto do nora40 no CapCut e salve uma cópia como nora44. Troque o hook do geodo pela nora34-PRE (veja “Pré-gancho”). Mude só os números fixos (veja “Edição: texto na tela”). Todo o resto fica igual ao nora40.',
-    '4) Confira um quadro do hook (a pedra) e um do corpo (o geodo): nenhum número em cima do rosto, das mãos ou da pedra.',
-    '5) Postar em 30/10 por volta das 18h30 no Insta e no Face, ao vivo, sem localização. Comentário: no Insta, comente e fixe (sem link); no Face, só comente.',
-    '6) Face: se a nora40-VAR ainda não saiu, ela vai entre o nora44 e o nora45 (~19h45).']}
+    '3) nora44 (0 crédito): NÃO gere nenhum take. O nora44 usa os 12 takes do nora40 (nora40-T01 a nora40-T12), os mesmos do vídeo de ontem, já cortados. Abra o projeto do nora40 no CapCut e salve uma cópia como nora44 (se não tiver o projeto, use o arquivo nora40-cortado, os 12 takes já juntos, e refaça os textos pela seção “Edição: texto na tela”).','4) No nora44, troque só duas coisas: o hook do geodo pela nora34-PRE (veja “Pré-gancho”) e os números fixos (veja “Edição: texto na tela”). Caixa do topo, legenda na tela, faixa do story e seta ficam iguais ao nora40.',
+    '5) Confira um quadro do hook (a pedra) e um do corpo (o geodo): nenhum número em cima do rosto, das mãos ou da pedra.',
+    '6) Postar em 30/10 por volta das 18h30 no Insta e no Face, ao vivo, sem localização. Comentário: no Insta, comente e fixe (sem link); no Face, só comente.',
+    '7) Face: se a nora40-VAR ainda não saiu, ela vai entre o nora44 e o nora45 (~19h45).']}
 p['pre_gancho'] = {'titulo_secao': 'Pré-gancho (o do nora34: não gerar)', 'duracao': 4, 'tomadas': 1, 'com_rosto': True, 'etapas': [],
   'conceito': 'A pedra escura que racha do nora34 (viral x5), já gerada: 0 crédito. Foi o hook do nora43, o longo que mais segurou os 3 primeiros segundos (69,5%).',
   'modo': 'Não gere nada aqui. No CapCut, use a nora34-PRE como está (sem espelhar).',
-  'montagem': '1) Abra o projeto do nora40 e salve uma cópia como nora44.\n2) Apague o hook do geodo (nora37-PRE) e ponha a nora34-PRE no lugar, uns 3,5 s (corte logo depois que as metades abrem).\n3) Corte seco para o corpo (o mesmo do nora40).\n4) A caixa do topo continua do primeiro quadro do hook até o fim do Take 1.',
+  'montagem': '1) Abra o projeto do nora40 e salve uma cópia como nora44 (ou use o arquivo nora40-cortado: os 12 takes do nora40 já juntos).\n2) Apague o hook do geodo (nora37-PRE) e ponha a nora34-PRE no lugar, uns 3,5 s (corte logo depois que as metades abrem).\n3) Corte seco para os 12 takes do nora40 (do Take 1 de Áries/Leão/Sagitário ao Take 12), como estão.\n4) A caixa do topo continua do primeiro quadro do hook até o fim do Take 1.',
   'texto_tela': '', 'edicao': ''}
 NUM44 = [
   {'t': '222', 'x': 50, 'y': 11.5, 'onde': 'alto, no centro', 'cor_nome': 'rosa-choque', 'cor': '#FF4FD8', 'tamanho': 15},
@@ -72,8 +76,9 @@ p['pecas'] = {'lista': [
    'descricao': 'Do blueprint: a Nora sentada na cama à noite, blusa creme, 3 cartas viradas para baixo na manta esmeralda, o dedo sobre a do meio. Não gasta crédito.',
    'base': 'O story-2810 caiu de 23,5% para 8,7% de clique e mais da metade de quem vê já segue: imagem e texto novos.', 'serve': 'Story de 30/10 e 31/10.'},
   {'nome': 'nora34-PRE', 'de': 'nora34-PRE', 'tipo': 'pré-gancho (do nora34)', 'status': 'reutilizar', 'creditos': 7, 'descricao': 'A pedra escura que racha, sem espelhar.'},
-  {'nome': 'projeto do nora40', 'de': 'projeto do nora40 no CapCut', 'tipo': 'o vídeo inteiro (Take 1 + takes 2 a 12)', 'status': 'reutilizar', 'creditos': 165,
-   'fala': T01, 'descricao': 'Salve uma cópia como nora44 e troque só o hook e os números.'}],
+  {'nome': 'os 12 takes do nora40 (nora40-T01 a nora40-T12)', 'de': 'nora40-cortado (os 12 takes já juntos) ou o projeto do nora40 no CapCut',
+   'tipo': 'o corpo inteiro: Take 1 de Áries/Leão/Sagitário + takes 2 a 12', 'status': 'reutilizar', 'creditos': 180,
+   'descricao': 'Os mesmos 12 takes do vídeo de ontem (o nora40), já gerados e já cortados. Nenhum take novo: as falas estão em “Fala completa”.'}],
   'decisao': [
     'O dia atrasou: o primeiro vídeo sai sem gerar nada. O nora40 (geodo) e o nora43 (pedra escura) foram os vídeos com mais seguidores (11 e 10), envios (16 e 19) e salvos (20 e 18) da Nora; a pedra segurou mais os 3 s (69,5%).',
     'Combinação nova no Insta (pedra + corpo de Áries/Leão/Sagitário); o Take 1 com 29, 30 e 31 ainda vale hoje.',

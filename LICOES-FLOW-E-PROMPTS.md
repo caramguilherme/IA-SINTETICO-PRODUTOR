@@ -367,3 +367,6 @@ Quando o hook é um clipe pronto (nora34-PRE, nora37-PRE) e o pacote leva `pre_g
 
 ### 30/10/2026 - Tudo pelo painel, nada de instrução solta no chat (pedido do aluno)
 O aluno: "prefiro fazer e me organizar pelos painéis, acho mais didático, do que você ficar falando o que alterar na conversa". Até um vídeo de 0 crédito (o nora44: o projeto do nora40 com outro hook) ganha painel, com a montagem, os números, a legenda, o comentário e o story. Um painel de montagem sem nada para gerar usa `clipe_unico: true` (esconde a Central, o agente e o corte de silêncio), `imagem_reutilizada` e `pre_gancho.etapas: []`; os passos vão em `central.passos`.
+
+### 30/10/2026 - Painel de vídeo montado com takes de outro vídeo: listar os takes reaproveitados, nunca um "Take 1" solto
+No 1º painel do nora44 (o vídeo do nora40 com outro hook), a "Fala completa" mostrava só um "V1" com a fala do Take 1, e as peças diziam "projeto do nora40". O aluno entendeu que teria de gerar um Take 1 novo. **Regra:** quando o vídeo usa os takes de outro vídeo, o painel lista os takes reaproveitados um por um (T01 a T12, "JÁ GERADO no noraNN, não gerar"), os passos dizem em letras claras "NÃO gere nenhum take: use os N takes do noraNN" e a peça reaproveitada diz quais são ("os 12 takes do nora40, nora40-T01 a T12"). Corrigido no nora44.
