@@ -167,3 +167,10 @@ Os nomes dos takes do nora36 mudaram com a fala nova (12 takes): `nora36-T01-gan
 - **nora42 produzido e finalizado (29/10, aluno):** Take 1 `nora42-T01-gancho-gemeos-libra-aquario` (15, conta grande) + cópias dos takes 2 a 12 do nora40 + hook `nora42-PRE` de 0,7 s ao fim. Vai às 22h20 no Insta e no Face.
 - **nora42 postado em 29/10 às 22h40** (aluno; anotado no Insta e no Face, como os outros). Medir com 3 h (~01h40), 12 h e 24 h. O nora43 passa para ~01h10 de 30/10 (2h30 depois).
 - **nora43 postado em 30/10 às 01h15 no Insta e no Face** (aluno): hook `nora34-PRE` (pedra escura, 0 crédito) + `nora43-T01-gancho-touro-virgem-capricornio` (15, conta grande: ~214 → ~199) + cópias dos takes 2 a 12 do nora40. Medir com 3 h (~04h15), 12 h (~13h15) e 24 h. Fecha o dia de 29/10: 4 no Insta (nora40 a nora43) e 5 no Face (+ `nora39-VAR`).
+
+### 30/10/2026: peças do dia (plano refeito às 16h55)
+- **nora44** (0 crédito): `nora34-PRE` + o projeto do nora40 no CapCut (Take 1 de Áries/Leão/Sagitário e takes 2 a 12), números novos.
+- **nora45**: `nora45-IMG` (edição da `nora41-IMG`: cartão TAURUS, VIRGO, CAPRICORN / 30 AND 31 OF OCTOBER, blusa creme), `nora45-FIM` (edição: fita colada), `nora45-CLIPE-fita` (8 s, Frames, 12, conta de 53). A gerar.
+- **`story-3010`**: imagem nova do story (do blueprint: a Nora sentada na cama à noite, blusa creme, 3 cartas viradas para baixo na manta esmeralda, o dedo sobre a do meio); texto "Tap below: pick 3 cards and see what November brings you."; adesivo "Pick my 3 cards". Não gasta crédito. A gerar.
+- **nora46**: `nora46-T01-gancho-cancer-escorpiao-peixes` ("Cancer, Scorpio or Pisces: keep your mouth shut if this video showed up for you on October 30th, 31st or November 1st.", 15, conta grande) + cópias de `nora40-T02` a `T12` + `nora37-PRE` espelhado. A gerar.
+- **nora47** (0 crédito): `nora27-PRE` (esconderijo, 20/10) + o projeto do nora42 no CapCut (Take 1 de Gêmeos/Libra/Aquário e takes 2 a 12), sem o hook da fita.
