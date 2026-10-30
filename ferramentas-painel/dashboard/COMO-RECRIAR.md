@@ -18,4 +18,6 @@ O dashboard é um Artifact do **tipo "Dashboard"** (não é uma página HTML com
 4. Fazer a checagem que o tipo pede (ler `data/users/me`, doc `check`).
 5. Trocar o link do dashboard no `CLAUDE.md` (seção 3) e no `METRICAS-NORA-LEIA.md`.
 
+**30/10/2026:** a página (`files/index.html`, versão 2; cópia em `index.html` aqui) passou a mostrar o número em cima de toda barra em qualquer largura (10 px quando a barra é estreita; na vertical quando é muito estreita) e a se redesenhar quando a janela muda de tamanho (antes só mostrava com a tela larga no momento em que a página abria). Recriar a partir desta cópia.
+
 Para atualizar depois: editar o CSV, subir uma cópia nova sem o BOM como asset e dar `update` em `datasets/metricas` (`source.url`, `source.name`, `updated`) com `if_version`.

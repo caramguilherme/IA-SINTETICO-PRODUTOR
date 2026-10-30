@@ -6,24 +6,22 @@ Onde fica o resto: lições do Flow, dos prompts e do painel em `LICOES-FLOW-E-P
 
 Criado em 26/10/2026, a pedido do aluno ("cada assunto no seu documento"), com as seções que estavam no `LICOES-FLOW-E-PROMPTS.md`, sem mudar o texto.
 
-## Regras em vigor (resumo de 27/10/2026; o detalhe e a fonte de cada uma estão nas seções datadas abaixo)
+## Regras em vigor (resumo atualizado em 30/10/2026; o detalhe e a fonte de cada uma estão nas seções datadas abaixo; a versão de 27/10 ficou no histórico do git)
 **Insta**
-- Até 4 vídeos por dia, **2 h entre eles** (Iorhan: 17h, 19h e 21h; 23h e 01h em teste). Perdeu o horário, vai para o próximo (ou programa no app do Insta). Localização Los Angeles, California e #astrology #zodiac #usa #usareels em todo post.
-- **Cada horário leva um vídeo diferente.** Teste de variação: o nora37 (mesmo corpo do nora36, hook espelhado e signos novos) à 01h de 27/10. Se as views não caírem, o `-ESP` entra no Insta também (o Lucas posta variações no Insta e não viu queda).
-- Story todo dia, antes do primeiro vídeo, que diga o que a pessoa encontra ao clicar (Lucas), e no Destaque "Part 2". O link fica só no story, no Insta e no Face: sem link na bio nem nos comentários (aluno, 27/10). No Face o comentário não fixa mais: só comentar.
-**Face = volume (Lucas, Bruno)**
-- Cada vídeo vira **3 versões**: o original, o `-ESP` (no CapCut, espelhar **só a camada do vídeo, antes de pôr os textos**, senão o texto fica ao contrário) e o `-VEL` (velocidade **1,1x** no vídeo todo; o Lucas usa 1,10 a 1,15 e o Bruno 1,2x com filtro). Com a versão com hook visual, são 6.
-- **Espelhar primeiro o que já provou** (Bruno): o vídeo que foi melhor que o padrão da conta. Em 26/10, o nora33; depois, o melhor de cada dia.
-- Postar ao vivo, a cada 1 ou 2 h, em qualquer horário (a Página só entrega para EUA, Canadá, Reino Unido e Austrália). Meta de agora: 5 a 6 por dia (Vinicius B, 29/10: 3 a 5 por Página é ótima média); a subida para 10 a 12 fica suspensa enquanto o Face não der clique. **Subir aos poucos** (de 2 para 20 num dia é risco de bloqueio).
-- Só vídeos do nora33 em diante (os antigos têm "free" e promessa de data). O número não muda: `nora33-ESP` continua nora33.
-- Comentário fixado no Face: comentar pelo celular sem link, fixar, e responder ao próprio comentário com o link.
+- **4 vídeos por dia, nunca mais de 5** (Ricardo tomou restrição com 6; o Caio1094 perdeu entrega com 6), **2h30 entre eles**, das 17h à ~01h (29/10: 17h20, 19h50, 22h40, 01h15). Ao vivo; se um dia precisar agendar, só pela automação do GeeLark, nunca pelo app do Insta (Wall). Antes das 17h a Índia passa de 55%.
+- **Cada post é uma combinação diferente de hook + corpo.** Hashtags #manifestation #astrology #zodiac #usa #usareels. Localização Los Angeles só nas placas e na fita (teste desde 28/10).
+- **Story todo dia antes do 1º vídeo** (o de 28/10 expira ~16h30 e foi repostado em 29/10), dizendo o que a pessoa encontra ao clicar. **Link só no story** (STORYIG no Insta, FACE no Face); sem link na bio nem nos comentários; **nunca direct com link no Insta** (pediu verificação facial). Comentário fixado sem link. Responder comentário no Insta à mão, sem link e variando o texto: liberado, a testar (30/10).
+**Face = volume**
+- **5 a 6 por dia** (os vídeos do dia + 1 variação), ao vivo, em qualquer horário (a Página só entrega para EUA, Canadá, Reino Unido e Austrália). A subida para 10 a 12 fica suspensa enquanto o Face não der clique (Vinicius B: 3 a 5 por Página é ótima média).
+- **Variação = espelho + filtro "Dias claros" 30% + 1,1x, as três juntas** (`noraNN-VAR`): a `nora39-VAR` fez 232 views (+1,3x, 5 comentários); a `nora36-VEL`, só acelerada, morreu em 26. Espelhar só a camada de vídeo, antes dos textos; filtro "Pele natural" vira o vídeo de ponta-cabeça no CapCut web. Não espelhar vídeo com escrita na imagem (placa, porta-retrato). Fazer a variação do vídeo que já provou no Face.
+- **Comentários:** o Face não fixa mais. Responder à mão (sem link) e mandar o link FACE no direct (3 versões de cada no fim do painel).
+- **A Página está no perfil pessoal do aluno: nunca ligar a monetização do Face** (perfis com monetização caíram; Discord de 29/10). Perfis novos: Página num perfil do Face separado.
 **Vídeo**
-- **Hook visual pesado em todo vídeo** (Lucas: "tem que tacar hook"), nativo de astrologia ou cristal (P40), modelado de um viral: pedra ou geodo que racha, placa dos signos. Um pré-gancho de 4 s pode ser colado em qualquer corpo (Lucas).
-- **Modelar uns 95% dos virais** recentes (aluno), trocando só as promessas que a Appyon proíbe. Corpo gerado uma vez por kit; série por signos com Take 1 novo.
-- Signos escritos no texto do topo (Matheus); gancho falado novo a cada vídeo (Mattias). Enquadramento bem perto da câmera (Lucas, @antoiinehayes).
-- Texto na tela de 8 s só de vez em quando (aluno). POV = só as mãos, **com voz por cima** (Mattias).
-- Não trocar a avatar antes de uns 100 vídeos; testar só detalhes, como o cabelo (Lucas).
-- Inglês do dia a dia, sem formalidade (Jonas). Retenção não decide nada até as views destravarem (Lucas, Adão): olhar views, países e o story.
+- **Carro-chefe = o longo do corpo A** (hook visual + Take 1 de signos e datas + Take 2 com o pedido no começo + corpo A + CTA): é o que mais gera envio, salvo e seguidor (nora40: 5, 7 e 3). Lucas, Adão, Thiago e Eduarda dizem o mesmo: hook visual + copy longa. **Apoio = 1 texto na tela por dia** (a fita ou a placa, com cena ou frase nova), que dá view e EUA (nora41: 888 em 5h30, 24% de EUA).
+- **Hook visual pesado e diferente a cada post** (fita, geodo, pedra); um pré-gancho de 4 s pode ser colado em qualquer corpo (Lucas). A fita é o que mais segura os 3 s (77% no nora41; 59% no nora42).
+- **Modelar uns 95% os virais**; números 222, 888 e 11:11 espalhados, cada um de uma cor e de um tamanho, mudando a cada vídeo; legenda no molde da Scarllet; signos no texto do topo; gancho falado novo (Mattias); enquadramento perto da câmera.
+- **Não trocar a avatar antes de fechar a janela de 40 vídeos com copy validada** (conta do nora36; fecha ~06 a 08/11; `VALIDACAO-CONTA-E-AVATAR.md`).
+- **Não julgar um vídeo com 3 h:** a 2ª onda vem à noite ou de madrugada (nora37, nora40, nora41; o vídeo do Thiago foi de 1 mil a 100 mil em um dia). O que conta: pessoas dos EUA, envios e salvos, visitas ao perfil e cliques no Tracker, não as views.
 
 ### 20/10/2026 — o link ainda abre o Soulmate
 - Pelo resumo do Discord: na call de 19/10 18h o Gustavo disse que o Love Chart ainda não está no ar e que o link troca sozinho quando entrar. O nora25 (e o 26 a 28) falam de Vênus e do quiz de astrologia; o story que leva ao link precisa ser compatível com os dois quizzes enquanto não trocar. Story provisório nos painéis (nora26 a nora28): “Tap below and take the free love quiz.”, adesivo “Take the free quiz”. Voltar ao texto do Venus quando o Gustavo avisar.

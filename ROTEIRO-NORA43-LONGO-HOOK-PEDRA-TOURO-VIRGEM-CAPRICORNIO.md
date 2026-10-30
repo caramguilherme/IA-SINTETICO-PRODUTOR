@@ -9,6 +9,7 @@ Status: **com painel (https://claude.ai/artifact/SWAxQnxgWc8EAZxKvSVhjH)**. Post
 
 ## Base do curso usada (registro)
 - **Hook visual:** a pedra escura que racha do nora34 (`nora34-PRE`, viral x5), sem espelhar, 0 crédito. Abre com quartzo rosa por dentro, como o geodo dos takes.
+- **Por que a pedra (resposta ao aluno, 30/10 ~00h):** (1) 0 crédito, com a conta de 53 em ~34; (2) cada post do Insta leva um hook diferente sobre o mesmo corpo (Lucas): geodo no nora40, fita no nora42, pedra no nora43; (3) foi o hook que mais segurou os 3 s num falado (56% no Insta e 55% no Face no nora34; 227 views no Face em 4 h) e o Lucas usa a mesma pedra; (4) só tinha ido ao ar uma vez, em 26/10, com a copy do Love Chart. Alternativa oferecida: a fita com TAURUS, VIRGO, CAPRICORN (7 créditos).
 - **Corpo:** o do nora40 (corpo A), mesma `nora37-IMG`.
 
 ## Takes
