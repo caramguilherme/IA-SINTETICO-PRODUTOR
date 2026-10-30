@@ -165,3 +165,4 @@ Os nomes dos takes do nora36 mudaram com a fala nova (12 takes): `nora36-T01-gan
 - **nora41 editado e finalizado no CapCut (29/10, aluno).** Vai às 19h50 no Insta (localização Los Angeles) e no Face.
 - **nora41 postado em 29/10 às 19h50 no Insta e no Face** (aluno). Medir com 3 h (~22h50), 12 h e 24 h; comparar compartilhamentos com as placas (0 a 1).
 - **nora42 produzido e finalizado (29/10, aluno):** Take 1 `nora42-T01-gancho-gemeos-libra-aquario` (15, conta grande) + cópias dos takes 2 a 12 do nora40 + hook `nora42-PRE` de 0,7 s ao fim. Vai às 22h20 no Insta e no Face.
+- **nora42 postado em 29/10 às 22h40** (aluno; anotado no Insta e no Face, como os outros). Medir com 3 h (~01h40), 12 h e 24 h. O nora43 passa para ~01h10 de 30/10 (2h30 depois).
