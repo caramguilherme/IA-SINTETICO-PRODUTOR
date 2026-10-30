@@ -243,8 +243,10 @@ function bars(box, rows, key) {
   box.classList.remove('dash-skeleton');
   const pts = rows.filter((v) => v[key] != null);
   if (!pts.length) { note(box, 'Ainda sem números nesta rede.'); return; }
+  box.__last = { rows, key };
   const W = Math.max(280, Math.round(box.clientWidth || 560));
-  const H = 200, top = 20, bottom = 24;
+  const rot = (W - 50) / pts.length < 24;
+  const H = 200, top = rot ? 40 : 20, bottom = 24;
   const svg = d3.select(box).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`)
     .attr('role', 'img').attr('aria-label', LABEL[key] + ' por vídeo');
   const y = d3.scaleLinear([0, d3.max(pts, (v) => v[key]) || 1], [H - bottom, top]).nice();
@@ -269,11 +271,15 @@ function bars(box, rows, key) {
     .style('fill', (v) => (isNew(v) ? dash.colors[0] : 'var(--cds-chart-muted)'))
     .on('mousemove', (ev, v) => tipShow(tip, box, ev, v, [LABEL[key] + ': ' + show(key, v[key]), 'Postado ' + v.postado]))
     .on('mouseleave', () => { tip.hidden = true; });
-  if (x.step() >= 34) {
-    svg.append('g').selectAll('text').data(pts).join('text')
-      .attr('class', 'nx-val').attr('text-anchor', 'middle')
-      .attr('x', (v) => x(v.id) + x.bandwidth() / 2).attr('y', (v) => y(v[key]) - 5)
-      .text((v) => show(key, v[key]));
+  const vals = svg.append('g').selectAll('text').data(pts).join('text')
+    .attr('class', 'nx-val')
+    .text((v) => show(key, v[key]));
+  if (rot) {
+    vals.attr('text-anchor', 'start').attr('dy', '0.32em').style('font-size', '10px')
+      .attr('transform', (v) => `translate(${x(v.id) + x.bandwidth() / 2},${y(v[key]) - 4}) rotate(-90)`);
+  } else {
+    vals.attr('text-anchor', 'middle').style('font-size', x.step() < 34 ? '10px' : null)
+      .attr('x', (v) => x(v.id) + x.bandwidth() / 2).attr('y', (v) => y(v[key]) - 5);
   }
   const every = Math.max(1, Math.ceil(22 / x.step()));
   const last = pts.length - 1;
@@ -381,6 +387,11 @@ function renderTable() {
 const tiles = Array.from(document.querySelectorAll('.nx-tile'));
 const charts = ['ch-views', 'ch-ret', 'ch-tempo', 'ch-india'].map((id) => document.getElementById(id));
 const tkVideo = document.getElementById('tk-video');
+let resizeTimer;
+window.addEventListener('resize', () => {
+  clearTimeout(resizeTimer);
+  resizeTimer = setTimeout(() => charts.slice(0, 3).forEach((b) => { if (b.__last) bars(b, b.__last.rows, b.__last.key); }), 150);
+});
 const tkLido = document.getElementById('tk-lido');
 
 dash.onData(() => {
