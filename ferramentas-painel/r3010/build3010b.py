@@ -97,6 +97,8 @@ gravar('45', p45)
 
 # ======================= nora46: hook reaproveitado sem prompts vazios, horário novo =======================
 p46['pre_gancho']['etapas'] = []
+if 'GERAR' not in p46['videos'][0]['cena']:
+    p46['videos'][0]['cena'] += ' · GERAR (é o único take novo, 15 créditos)'
 p46['story']['nota'] = STORY_JA
 p46['central']['passos'] = [x.replace('por volta das 22h30', 'por volta das 23h30') for x in p46['central']['passos']]
 assert any('23h30' in x for x in p46['central']['passos'])
