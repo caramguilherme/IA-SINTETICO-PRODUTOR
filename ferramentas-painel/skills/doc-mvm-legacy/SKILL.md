@@ -7,9 +7,9 @@ description: "Use quando o Guilherme mandar material do MVM Legacy/Appyon (aula,
 
 O Guilherme está testando o curso MVM Legacy (vender o app Auraly da Appyon como afiliado, com vídeos de avatar de IA no Instagram e no Facebook). Tudo fica num Claude Doc só.
 
-- Doc: https://claude.ai/code/artifact/66360a6e-25af-49e3-927b-64dc74004f01
-- Projeto: 66360a6e-25af-49e3-927b-64dc74004f01 · tab (file) 09119b15-4451 · corpo (node) 71cfeeea-d1cc
-- **Conta nova (30/10/2026):** esse doc é da conta contatocaram. Na conta nova, o doc é recriado a partir de `PLANO-MVM-LEGACY-APPYON.md` (exportado inteiro em 30/10/2026) e o link e os ids acima são trocados pelos do doc novo.
+- Doc: https://claude.ai/artifact/HsK6QVZRWUK1pdD2xi7JfF
+- Projeto: 88988eb0-c12b-42e2-bc72-b0d69b78d02e · tab (file) 7f4e09a9-8dae · corpo (node) 6ed5592c-bf6f
+- **Conta nova (30/10/2026):** este é o doc recriado na conta nova a partir de `PLANO-MVM-LEGACY-APPYON.md` (exportado inteiro em 30/10/2026; conferido linha a linha com o arquivo depois de criado). O doc da conta contatocaram (https://claude.ai/code/artifact/66360a6e-25af-49e3-927b-64dc74004f01, projeto 66360a6e-25af-49e3-927b-64dc74004f01) fica só de histórico e não é mais editado.
 
 ## Quando ele mandar qualquer material
 

@@ -36,9 +36,15 @@ O aluno vai continuar o projeto da Nora em outra conta do Claude Code, que já t
 
 Os vídeos de referência (.mp4) que o aluno mandou ficaram só nesta sessão (são grandes). A análise de cada um está em `BIBLIOTECA-VIDEOS-VIRAIS.md`. Se a sessão nova precisar rever algum, o aluno manda de novo.
 
-## 4. Links desta conta (contatocaram), que continuam abrindo para ver
-- Dashboard Métricas da Nora: https://claude.ai/artifact/CTdhXsH5PoQFRCnzpbM4wy
-- Doc Plano MVM Legacy – Appyon: https://claude.ai/artifact/Dd3bgq9RuSKyoKT2z2bLh6
+## 4. Links
+**Conta nova (recriados em 30/10/2026 ~12h, branch `claude/lucid-planck-zz5ob8`):**
+- Dashboard Métricas da Nora: https://claude.ai/artifact/7ZArpHDLZZcuA8DPEMAZGR (asset do CSV `/_blob/407220399bffc0eada95e89c4dd895af`)
+- Doc Plano MVM Legacy – Appyon: https://claude.ai/artifact/HsK6QVZRWUK1pdD2xi7JfF (conferido linha a linha com `PLANO-MVM-LEGACY-APPYON.md`)
+- Skill `doc-mvm-legacy`: `ferramentas-painel/skills/doc-mvm-legacy.zip`, já com o link do doc novo
+
+**Conta contatocaram (só para ver, não são mais atualizados):**
+- Dashboard: https://claude.ai/artifact/CTdhXsH5PoQFRCnzpbM4wy
+- Doc: https://claude.ai/artifact/Dd3bgq9RuSKyoKT2z2bLh6
 - Painéis: nora35 https://claude.ai/artifact/ERJ4RidnZeZyfj3JNq75FJ · nora36 https://claude.ai/artifact/YQPugZp8AjVxe7MTPrPivB · nora37 https://claude.ai/artifact/3HJDVrNnA5aW6rFt5RkjUx · nora38 https://claude.ai/artifact/XQH3xb4hdfCUucX6wMdhUV · nora39 https://claude.ai/artifact/VuLfrzqxYUMF696Ka1kXg9 · nora40 https://claude.ai/artifact/PWCTPWqbrYKXvqzHCJ3PD7 · nora41 https://claude.ai/artifact/BRUoE4pFqnWzGVCdhoZLNq · nora42 https://claude.ai/artifact/HzVWXJiyNpGHey53cyU8sH · nora43 https://claude.ai/artifact/SWAxQnxgWc8EAZxKvSVhjH
 
 ## 5. Estado em 30/10/2026 ~11h30 (o que a sessão nova pede ao aluno)

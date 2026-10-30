@@ -4,8 +4,11 @@
     "format": "csv",
     "kind": "file",
     "name": "metricas-nora.csv",
-    "url": "/_blob/611a948b632d811a9e98cbe883c67e1a"
+    "url": "/_blob/407220399bffc0eada95e89c4dd895af"
   },
   "title": "Planilha de métricas da Nora",
-  "updated": "2026-10-26T01:26:00-03:00"
+  "updated": {
+    "at": "2026-10-30T11:43:24-03:00",
+    "by": "Claude"
+  }
 }
