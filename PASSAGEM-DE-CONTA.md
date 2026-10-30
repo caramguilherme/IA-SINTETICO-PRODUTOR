@@ -2,6 +2,8 @@
 
 O aluno vai continuar o projeto da Nora em outra conta do Claude Code, que já tem o repositório do GitHub instalado. Este arquivo diz o que a sessão nova faz primeiro. **Todo o conhecimento do projeto está no repositório** (regras, lições, estratégia, fatos, métricas, roteiros, painéis, histórico do Discord). Fora dele ficam só os Artifacts publicados nesta conta (painéis, dashboard e o doc do MVM), que a conta nova não consegue editar e por isso recria a partir dos arquivos daqui.
 
+**30/10/2026 ~11h50 (aluno: "pode"): todo o trabalho também foi levado para a `main`** (fast-forward, sem mudar nada). A sessão nova que começar na `main` já tem tudo; trazer a branch abaixo continua valendo e não muda nada se já estiver igual.
+
 ## 1. Mensagem para colar na sessão nova (o aluno cola isto como primeira mensagem)
 
 > Sou o Guilherme. Estou trazendo o projeto da Nora de outra conta do Claude. Todo o trabalho está na branch `claude/loving-lamport-uuuom5` do repositório `caramguilherme/ia-sintetico-produtor`. Primeiro traga essa branch para a sua: `git fetch origin claude/loving-lamport-uuuom5` e `git merge origin/claude/loving-lamport-uuuom5`. Depois leia o `PASSAGEM-DE-CONTA.md` e a seção 0 do `CLAUDE.md` (o item "ONDE PARAMOS" mais recente) e siga o passo a passo da passagem: recriar o dashboard "Métricas da Nora" igual ao de hoje e recriar o meu doc "Plano MVM Legacy – Appyon". No fim, me diga os links novos e o que falta para o plano de hoje.

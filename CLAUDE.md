@@ -1,6 +1,7 @@
 # HANDOFF (22/10/2026): leia esta seção primeiro. O resto do arquivo são as instruções do agente (P1 a P38), que continuam valendo.
 
 ## 0. TROCA DE CONTA DO CLAUDE (27/10/2026): leia isto antes de tudo
+- **`main` atualizada (30/10/2026 ~11h50, com a permissão do aluno):** a `main` recebeu todo o trabalho da `claude/loving-lamport-uuuom5` (fast-forward).
 - **NOVA TROCA DE CONTA (30/10/2026 ~11h40): o aluno vai continuar em outra conta do Claude Code. A sessão nova começa pelo `PASSAGEM-DE-CONTA.md`** (mensagem para colar, passo a passo: trazer a branch, recriar o dashboard e o doc do MVM, instalar a skill `doc-mvm-legacy`, e o estado do dia 30/10). O doc do MVM foi exportado inteiro para `PLANO-MVM-LEGACY-APPYON.md` (30/10), as conversas do Discord de 20 a 30/10 estão em `HISTORICO-DISCORD/`, a skill em `ferramentas-painel/skills/` e as ferramentas (transcrição, print, Miro) em `ferramentas-painel/ferramentas/`.
 O aluno passou a usar outra conta do Claude (a conta **contatocaram**) a partir de 27/10/2026. Esta seção é a passagem da sessão de 26/10 para a sessão nova.
 - **Todo o trabalho está na branch `claude/loving-lamport-uuuom5`** do repositório `caramguilherme/ia-sintetico-produtor` (ainda não foi para a `main`). A sessão nova começa trazendo essa branch para a dela (`git fetch origin claude/loving-lamport-uuuom5` e `git merge origin/claude/loving-lamport-uuuom5`).
