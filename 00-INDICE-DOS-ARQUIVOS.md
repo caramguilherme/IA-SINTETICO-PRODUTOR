@@ -32,3 +32,10 @@ Atualizado em 19/10/2026. Todos os arquivos estão na mesma pasta. Para o agente
 
 ## 7. Painéis prontos (abrem no navegador)
 - `PAINEL-R001-DANA.html` a `PAINEL-R005-DANA.html` (já postados) e `PAINEL-NORA25.html` a `PAINEL-NORA34.html` (nora33 = texto na tela da casa 7; nora34 = copy curta, a reescrever pelo P39).
+
+## Troca de conta e histórico (30/10/2026)
+- `PASSAGEM-DE-CONTA.md` — o que a sessão de outra conta do Claude faz primeiro (mensagem para colar, dashboard, doc do MVM, skill, estado do dia).
+- `PLANO-MVM-LEGACY-APPYON.md` — o doc do MVM do aluno, exportado inteiro em 30/10.
+- `HISTORICO-DISCORD/` — as conversas do Discord (chat-appyon e vitórias-dólar) de 20 a 30/10, como o aluno mandou.
+- `ferramentas-painel/skills/doc-mvm-legacy/` (+ `.zip`) — a skill do doc, para instalar na conta nova.
+- `ferramentas-painel/ferramentas/` — transcrição de vídeo, print de página e leitura do Miro.

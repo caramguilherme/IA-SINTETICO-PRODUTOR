@@ -29,10 +29,11 @@ Decisão do aluno em 18/10/2026: **antes de TODO roteiro novo e antes de TODO pr
 
 **Só quando o pedido envolver**
 - `FOTO-PERFIL-DANA.md` (foto de perfil)
-- `PLANO-MVM-LEGACY-APPYON.md` (cópia de 27/10/2026 do doc "Plano MVM Legacy – Appyon" do aluno: curso, Appyon, contas, links, story, Discord; consultar pela seção do assunto, ex.: "Cadastro na Appyon e links", "Funil Manifestation"; os limites de copy dele não valem aqui, P20 e P41)
+- `PLANO-MVM-LEGACY-APPYON.md` (cópia de 30/10/2026, exportada inteira, do doc "Plano MVM Legacy – Appyon" do aluno: curso, Appyon, contas, links, story, Discord; consultar pela seção do assunto, ex.: "Cadastro na Appyon e links", "Funil Manifestation"; os limites de copy dele não valem aqui, P20 e P41)
 - `PROMPT-BLUEPRINT-COMUNIDADE.md` (criar ou ajustar a folha da avatar)
 - `PESQUISA-AURALY-23-10.pdf` e `BRIEFING-LOVECHART-APPYON-v2.pdf` (os PDFs completos; o resumo de cada um já está no `BRIEFING-LOVECHART.md`)
 
 ## Conflitos entre documentos
 Os documentos de origem do Manual e do pet (`Prompts.txt`, `CHECKLIST-DE-PRODUCAO.md`, `Formatos Narrativos…`, `EXEMPLO-*`) mostram a estrutura. Para a Dana valem as adaptações do `CLAUDE.md` (P1 a P17) e as lições do `LICOES-FLOW-E-PROMPTS.md`, que prevalecem: prompts em inglês, imagem única, Central, pré-gancho em Frames, linguagem dos virais liberada.
-- Só para recriar o dashboard de métricas numa conta nova: `ferramentas-painel/dashboard/COMO-RECRIAR.md` (27/10/2026).
+- Só para recriar o dashboard de métricas numa conta nova: `ferramentas-painel/dashboard/COMO-RECRIAR.md` (27/10/2026; página atualizada em 30/10).
+- Só na troca de conta do Claude: `PASSAGEM-DE-CONTA.md` (30/10/2026). Consulta, não leitura obrigatória: `HISTORICO-DISCORD/` (conversas inteiras do Discord de 20 a 30/10; o que importa já está no `COMUNIDADE-E-ESTRATEGIA.md`), `LEIA_PRIMEIRO_continuacao.md` (arquivo antigo do aluno citado no P20), `ferramentas-painel/skills/` e `ferramentas-painel/ferramentas/`.
