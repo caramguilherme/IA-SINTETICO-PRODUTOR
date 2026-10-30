@@ -59,7 +59,7 @@ O Juliano perguntou se trocava a avatar ou descartava uma conta de 4 meses que s
 
 ## Para perfis novos (checklist por conta)
 1. Avatar exclusiva (blueprint próprio), um funil por avatar (Patrick Robba, 29/10) e a copy validada desse funil.
-2. Celular próprio no GeeLark com proxy própria dos EUA; Página do Face com restrição de país desde a criação; perfil marcado como IA.
+2. Celular próprio no GeeLark com proxy própria dos EUA; Página do Face com restrição de país desde a criação; perfil marcado como IA. **A Página fica num perfil do Face separado, nunca no perfil pessoal nem no da empresa, e sem a monetização do Face** (Discord de 29/10: bloqueio por Reels derruba o perfil inteiro, com o BM; Vinicius B perdeu 2 de 4 perfis; Arthur Bruno perdeu os 2 com monetização; aula de contingência do Gustavo e do Ricardo).
 3. Aquecimento antes de postar.
 4. Primeiros 10 reels: 1 a 2 por dia, copy validada desde o 1º (texto na tela ou falado). Anotar views (no Insta, também as pessoas dos EUA), retenção nos 3 s e país.
 5. Portão 1 com os 10: até 100 → conta nova com a mesma avatar; 100 a 200 → retenção nos 3 s decide (insistir ou trocar o gancho); acima de 200 → 3 por dia até 40 no total.
