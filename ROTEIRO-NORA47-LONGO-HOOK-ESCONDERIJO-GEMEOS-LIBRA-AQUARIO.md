@@ -1,6 +1,6 @@
 # nora47 — hook do esconderijo (nora27-PRE) + o corpo inteiro do nora42 (Gêmeos, Libra e Aquário) — 30/10/2026, 0 crédito
 
-Status: **sem painel** (instruções no chat). Postar à ~01h de 31/10 (a noite de 30/10 nos EUA) no Insta e no Face, ao vivo, sem localização. Custo: **0 crédito**.
+Status: **NÃO SAI EM 30/10** (aluno, ~17h30: 3 vídeos hoje; fica de reserva, sem painel). Se for usado noutro dia, trocar o Take 1 (as datas "29th, 30th or 31st" vencem) e montar o painel. Planejado antes para a ~01h de 31/10 no Insta e no Face, ao vivo, sem localização. Custo: **0 crédito**.
 
 ## Base
 - Hook pronto da revelação do esconderijo (viral U7: ela arranca o tapete, abre o vão no piso e revela o pacote com a carta), gerado em 20/10 para o nora27, que teve 58,4% nos 3 s (o maior da época). Nunca foi usado no Manifestation. 0 crédito.

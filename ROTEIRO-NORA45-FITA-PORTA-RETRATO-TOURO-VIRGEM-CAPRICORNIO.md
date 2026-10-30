@@ -1,6 +1,6 @@
 # nora45 — a fita na boca e o porta-retrato, Touro, Virgem e Capricórnio (texto na tela, Manifestation) — 30/10/2026
 
-Status: **com painel (https://claude.ai/artifact/WzqX4wBDdeZo9G1dSHc8Bx)**, com o **story novo (`story-3010`)**. Postar em 30/10 por volta das 20h no Insta (com a localização Los Angeles) e no Face, ao vivo. Custo: **12 créditos** (clipe de 8 s, conta de 53: 53 → 41); as imagens não gastam crédito. Script: `ferramentas-painel/r3010/build3010.py`.
+Status: **com painel (https://claude.ai/artifact/WzqX4wBDdeZo9G1dSHc8Bx)**, sem story (o story novo `story-3010` passou para o painel do nora44, 30/10 ~17h30). Postar em 30/10 por volta das 21h no Insta (com a localização Los Angeles) e no Face, ao vivo. Custo: **12 créditos** (clipe de 8 s, conta de 53: 53 → 41); as imagens não gastam crédito. Script: `ferramentas-painel/r3010/build3010.py`.
 
 ## Leitura obrigatória (registro)
 O registro completo e honesto está no pacote do painel (`roteiro.leitura_registro`): em 30/10 li inteiros os arquivos de regras, lições, estratégia, virais, pré-ganchos, inventário, modelo do painel, roteiros do nora40 ao nora43 e as métricas; os arquivos de método de fala e copy, os exemplos e os roteiros antigos (R001 a nora39) ainda não tinham sido relidos hoje quando o painel saiu (o dia atrasou). Este vídeo não tem fala.
