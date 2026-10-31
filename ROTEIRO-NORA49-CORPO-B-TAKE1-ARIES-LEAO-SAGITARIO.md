@@ -25,11 +25,11 @@ O Take 1 sai junto com os outros 2 no painel do nora47 (45 créditos no total). 
 
 ## Texto na tela, números, legenda e comentário
 - Caixa do topo (do 1º quadro do hook até o fim do Take 1, X 0 · Y 397, tamanho 10, 3 linhas, signos em vermelho): ARIES, LEO, SAGITTARIUS / The 11:11 portal is opening. / 3 signs it chose you
-- Números: 11:11 azul royal #1E5BD8, tamanho 12, no alto, no meio, acima da cabeça (entre a barra do app e a caixa do topo); 888 roxo #8E24AA, tamanho 11, à esquerda, na janela; 222 verde-esmeralda #00A86B, tamanho 15, à direita, ao lado do ombro, acima dos botões.
+- Números: os mesmos do nora46 (11:11 vermelho 15, 222 roxo 12, 888 verde-esmeralda 11), só no hook e no Take 1; do Take 2 em diante já vêm no vídeo do nora46.
 - Legenda: Aries, Leo, Sagittarius: the 11:11 portal is opening. 3 signs it chose you. 🔮 / Pick 3 cards in my story and see what your new chapter brings. Follow me + comment 222. / #manifestation #1111portal #aries #leo #sagittarius
 - Comentário (Insta, fixar): Aries, Leo, Sagittarius: if you noticed even one of these signs, your new chapter is already on its way. ✨ Tap my photo, open my story and pick your 3 cards: see what it's bringing you in love and money before 11/11. 🔮 Comment 222 to claim it.
 - Comentário (Face, só comentar): Aries, Leo, Sagittarius: if you noticed even one of these signs, your new chapter is already on its way. ✨ Tap my profile picture, open my Story and pick your 3 cards: see what it's bringing you in love and money before 11/11. 🔮 Comment 222 to claim it.
 - Story: nenhum novo (vale o `story-3110`, do nora46).
 
 ## Montagem (CapCut)
-Duplicar o projeto do nora46 e trocar só o hook (nora37-PRE ESPELHADO (Editar → Espelhar, só no clipe do hook).), o Take 1 (`nora49-T01` cortado sozinho e legendado), a caixa do topo e os números; conferir se os 3 sinais, as imagens do desejo, as avaliações, a faixa do story e a seta continuam nas frases certas.
+31/10 ~13h (aluno: "não tem como duplicar"): projeto novo com o vídeo FINAL do nora46, exportado com tudo (legenda, sinais, fotos do desejo, avaliações, faixa do story, seta, números e música). Dividir no começo do Take 2 ("If you've been working so hard") e apagar o hook e o Take 1 antigos; antes, o hook novo e o Take 1 novo (cortado sozinho e legendado), com a caixa do topo, os 3 números do nora46 e a música só nesse trecho.

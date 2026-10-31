@@ -187,8 +187,8 @@ Os nomes dos takes do nora36 mudaram com a fala nova (12 takes): `nora36-T01-gan
 
 ### 31/10/2026: nora47, nora48 e nora49 (corpo B + Take 1 com signos; painéis às ~11h30)
 - A gerar, juntos no painel do nora47 (1 colagem de 3 takes, 1 mensagem no agente com a `nora46-IMG`, 45 créditos, conta grande ~99 → ~54): `nora47-T01-gancho-portal-touro-virgem-capricornio`, `nora48-T01-gancho-portal-cancer-escorpiao-peixes`, `nora49-T01-gancho-portal-aries-leao-sagitario` ("[signos]: the 11:11 portal is about to open, and if this reached you today, it's not a coincidence.").
-- Reaproveitado (0 crédito): o corpo do nora46 (T02 a T12, já cortado e legendado no projeto do CapCut do nora46, com os sinais, as imagens do desejo e as avaliações). Hooks: nora47 `nora37-PRE` (geodo, sem espelhar), nora48 `nora27-PRE` (esconderijo; se o arquivo sumiu, `nora34-PRE` espelhada), nora49 `nora37-PRE` espelhado. Story: o `story-3110` vale para os 3.
-- Montagem: duplicar o projeto do nora46 e trocar o hook, o Take 1 (cortado sozinho e legendado), a caixa do topo (signos em vermelho) e os números (lugar, cor e tamanho novos).
+- Reaproveitado (0 crédito): o vídeo final do nora46 a partir do Take 2 (com a legenda, os sinais, as imagens do desejo, as avaliações, a faixa do story, a seta, os números e a música). Hooks: nora47 `nora37-PRE` (geodo, sem espelhar), nora48 `nora27-PRE` (esconderijo; se o arquivo sumiu, `nora34-PRE` espelhada), nora49 `nora37-PRE` espelhado. Story: o `story-3110` vale para os 3.
+- Montagem (31/10 ~13h): projeto novo com o vídeo FINAL do nora46 exportado, cortado no começo do Take 2; antes dele, o hook e o Take 1 novos (cortado sozinho e legendado), a caixa do topo (signos em vermelho) e os mesmos números do nora46.
 
 ### Testes só do Face (`faceNN`, regra do aluno de 31/10)
 Fora da numeração do nora. Peças com o nome do teste: `faceNN-IMG`, `faceNN-CLIPE`…

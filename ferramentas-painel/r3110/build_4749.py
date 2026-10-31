@@ -32,10 +32,7 @@ G = [
           'during the second half she gives one slow knowing nod with a warm half-smile, both hands staying on the desk',
   'hook': 'nora37-PRE', 'hook_nome': 'o geodo que racha (nora37-PRE, sem espelhar)', 'espelhar': False, 'corte': 'uns 3,8 s (logo depois que a pedra abre e aparece o quartzo rosa)',
   'hook_conceito': 'O geodo que racha (nora37-PRE), já gerado em 28/10: a pedra cinza fechada abre nas mãos dela e mostra o quartzo rosa com o símbolo de Vênus dourado. 0 crédito. Foi o hook do nora40 (1.382 views no Insta, 11 seguidores, 16 envios). Sem espelhar.',
-  'hook_alt': '',
-  'num': [{'t': '888', 'x': 50, 'y': 11, 'onde': 'no alto, no meio, acima da cabeça (entre a barra do app e a caixa do topo)', 'cor_nome': 'azul royal', 'cor': '#1E5BD8', 'tamanho': 14},
-          {'t': '222', 'x': 84, 'y': 28, 'onde': 'à direita, na parede, ao lado da prateleira', 'cor_nome': 'vermelho', 'cor': '#E53935', 'tamanho': 13},
-          {'t': '11:11', 'x': 14, 'y': 40, 'onde': 'à esquerda, na janela, acima do microfone', 'cor_nome': 'verde-esmeralda', 'cor': '#00A86B', 'tamanho': 11}]},
+  'hook_alt': ''},
  {'n': 48, 'suf': 'cancer-escorpiao-peixes', 'fala_sig': 'Cancer, Scorpio or Pisces', 'lista': 'Cancer, Scorpio, Pisces', 'pt': 'Câncer, Escorpião e Peixes',
   'tags': '#cancer #scorpio #pisces', 'hora': '22h', 'quando': 'hoje (31/10) às 22h',
   'expr': 'her eyes stay on the lens, during the first half of the take she tilts her head slightly to one side with a calm, knowing look and a faint smile, '
@@ -43,20 +40,14 @@ G = [
           'and then lowers it back to the desk',
   'hook': 'nora27-PRE', 'hook_nome': 'o esconderijo (nora27-PRE)', 'espelhar': False, 'corte': 'uns 4 a 5 s (logo depois da revelação do pacote com a carta)',
   'hook_conceito': 'A revelação do esconderijo (nora27-PRE, viral U7), já gerada em 20/10: ela arranca o tapete, abre o vão no piso e revela o pacote com a carta. 0 crédito. Teve 58,4% nos 3 s no nora27 (o maior da época) e nunca foi usada no Manifestation.',
-  'hook_alt': 'Se você não tiver mais o arquivo nora27-PRE, use a nora34-PRE (a pedra escura) espelhada (Editar → Espelhar, só no clipe do hook).',
-  'num': [{'t': '222', 'x': 16, 'y': 12, 'onde': 'alto, à esquerda, na janela', 'cor_nome': 'magenta', 'cor': '#D81B60', 'tamanho': 11},
-          {'t': '11:11', 'x': 84, 'y': 28, 'onde': 'à direita, na parede, ao lado da prateleira', 'cor_nome': 'roxo', 'cor': '#8E24AA', 'tamanho': 16},
-          {'t': '888', 'x': 14, 'y': 40, 'onde': 'à esquerda, na janela, acima do microfone', 'cor_nome': 'laranja', 'cor': '#F4511E', 'tamanho': 12}]},
+  'hook_alt': 'Se você não tiver mais o arquivo nora27-PRE, use a nora34-PRE (a pedra escura) espelhada (Editar → Espelhar, só no clipe do hook).'},
  {'n': 49, 'suf': 'aries-leao-sagitario', 'fala_sig': 'Aries, Leo or Sagittarius', 'lista': 'Aries, Leo, Sagittarius', 'pt': 'Áries, Leão e Sagitário',
   'tags': '#aries #leo #sagittarius', 'hora': '00h30', 'quando': 'à 00h30 de 01/11 (a noite de 31/10)',
   'expr': 'her eyes stay on the lens, during the first half of the take her eyebrows lift slightly with a warm, surprised look as if recognizing someone, '
           'during the second half she gives one slow nod and a confident half-smile, both hands staying on the desk',
   'hook': 'nora37-PRE', 'hook_nome': 'o geodo que racha ESPELHADO (nora37-PRE)', 'espelhar': True, 'corte': 'uns 3,8 s (logo depois que a pedra abre e aparece o quartzo rosa)',
   'hook_conceito': 'O mesmo geodo do nora47 (nora37-PRE), ESPELHADO no CapCut (Editar → Espelhar, só no clipe do hook): 0 crédito. Espelhado, o quadro não fica igual ao das 19h30.',
-  'hook_alt': '',
-  'num': [{'t': '11:11', 'x': 50, 'y': 11, 'onde': 'no alto, no meio, acima da cabeça (entre a barra do app e a caixa do topo)', 'cor_nome': 'azul royal', 'cor': '#1E5BD8', 'tamanho': 12},
-          {'t': '888', 'x': 14, 'y': 28, 'onde': 'à esquerda, na janela', 'cor_nome': 'roxo', 'cor': '#8E24AA', 'tamanho': 11},
-          {'t': '222', 'x': 84, 'y': 44, 'onde': 'à direita, ao lado do ombro, acima dos botões', 'cor_nome': 'verde-esmeralda', 'cor': '#00A86B', 'tamanho': 15}]},
+  'hook_alt': ''},
 ]
 for g in G:
     g['fala'] = g['fala_sig'] + RESTO
@@ -92,16 +83,9 @@ for g in G:
     for pr in PROIBIDAS: assert pr not in f.lower(), ('PROIBIDA', g['n'], pr)
 divisor([g['fala'] for g in G])                         # a colagem dos 3 no nora47
 divisor([G[0]['fala']] + [v['fala'] for v in V46[1:]])  # e a emenda com o corpo
-# números: cada número muda de lugar, de cor e de tamanho de um vídeo para o outro (item 28); um grande, um médio, um pequeno
-ant = {u['t']: u for u in P46['mapa_tela']['numeros']}
-for g in G:
-    tams = sorted(u['tamanho'] for u in g['num'])
-    assert tams[0] == 11 and 12 <= tams[1] <= 13 and 14 <= tams[2] <= 16, (g['n'], tams)
-    assert len({u['cor'] for u in g['num']}) == 3
-    for u in g['num']:
-        a = ant[u['t']]
-        assert (u['x'], u['y']) != (a['x'], a['y']) and u['cor'] != a['cor'] and u['tamanho'] != a['tamanho'], (g['n'], u['t'])
-    ant = {u['t']: u for u in g['num']}
+# Números: os MESMOS do nora46 em todos (31/10 ~13h, aluno: “não tem como duplicar”). O corpo vem do vídeo FINAL do nora46, exportado,
+# que já tem os números queimados; no hook e no Take 1 novos o aluno põe os mesmos 3, para o vídeo ficar igual do começo ao fim.
+for g in G: g['num'] = copy.deepcopy(P46['mapa_tela']['numeros'])
 
 def xy(x, y): return f'X {round(x/100*720-360)} · Y {round(640-y/100*1280)}'
 
@@ -149,7 +133,7 @@ def pacote(g):
       'conceito': g['hook_conceito'] + (' ' + g['hook_alt'] if g['hook_alt'] else ''),
       'modo': f"Não gere nada aqui. No CapCut, use a {g['hook']}{esp}.",
       'montagem': (f"1) {g['hook']}{esp}: {g['corte']}.\n2) Corte seco para o nora{n}-T01 (cortado e legendado).\n"
-                   "3) Corte seco para o Take 2 do nora46 (“If you've been working so hard”) e o resto do corpo, como estão no projeto do nora46.\n"
+                   "3) Corte seco para o vídeo FINAL do nora46 a partir do Take 2 (“If you've been working so hard”), com tudo o que já tem.\n"
                    "4) A caixa do topo já entra no primeiro quadro do hook."),
       'texto_tela': '', 'edicao': ''}
 
@@ -165,7 +149,7 @@ def pacote(g):
           'Agente do Flow: conversa nova, anexe só a nora46-IMG, cole o aviso e, embaixo, o “COPIAR TUDO JUNTO” da Central, sem editar. Renomeie na ordem: o 1º = nora47-T01-gancho-portal-touro-virgem-capricornio, o 2º = nora48-T01-gancho-portal-cancer-escorpiao-peixes, o 3º = nora49-T01-gancho-portal-aries-leao-sagitario.',
           'Me mande a transcrição dos 3 antes de cortar (P33).',
           'Corte de silêncio: só o nora47-T01, sozinho (os valores da seção “Cortar os silêncios”), salvo como nora47-T01-cortado. Legenda automática só desse pedaço (o mesmo estilo do nora46), salva como nora47-T01-legendado. Os takes 2 a 12 já estão cortados e legendados no projeto do nora46: não corte de novo.',
-          'CapCut: duplique o projeto do nora46 e troque só o hook, o Take 1, a caixa do topo e os números (passo a passo na seção de texto na tela).',
+          'CapCut: projeto novo com o vídeo FINAL do nora46 (exportado, com tudo), cortado no começo do Take 2; antes dele, o hook e o Take 1 novos, com a caixa do topo, os números e a música (passo a passo na seção de texto na tela).',
           f"Postar {g['quando']} no Insta e no Face, ao vivo, sem localização (é falado). Story: nada novo (vale o story-3110 do nora46). Comentário: no Insta, comente e fixe (sem link); no Face, só comente."]
         c['agente'] = copy.deepcopy(P46['central']['agente'])
         c['agente']['aviso'] = ('Vou te enviar 3 prompts, cada prompt é um vídeo. Faça todos na ordem, sem pedir minha aprovação entre um e outro, e depois renomeie cada um '
@@ -184,7 +168,7 @@ def pacote(g):
           'Só se não gerou no nora47: Central com a MESMA configuração do nora46 (seção “Central do curso”); cole só a fala e a linha deste take (1 take de 10 s). Agente: anexe a nora46-IMG, cole o aviso de 1 prompt e, embaixo, o prompt do take (botão COPIAR do take). 15 créditos, conta grande.',
           'Me mande a transcrição do Take 1 antes de cortar (P33).',
           f"Corte de silêncio: só o nora{n}-T01, sozinho (os valores da seção “Cortar os silêncios”), salvo como nora{n}-T01-cortado. Legenda automática só desse pedaço (o mesmo estilo do nora46), salva como nora{n}-T01-legendado.",
-          'CapCut: duplique o projeto do nora46 e troque só o hook, o Take 1, a caixa do topo e os números (passo a passo na seção de texto na tela).',
+          'CapCut: projeto novo com o vídeo FINAL do nora46 (exportado, com tudo), cortado no começo do Take 2; antes dele, o hook e o Take 1 novos, com a caixa do topo, os números e a música (passo a passo na seção de texto na tela).',
           f"Postar {g['quando']} no Insta e no Face, ao vivo, sem localização (é falado). Story: nada novo (vale o story-3110 do nora46). Comentário: no Insta, comente e fixe (sem link); no Face, só comente."]
         c['agente'] = {'imagem': 'nora46-IMG',
           'aviso': 'Irei enviar 1 prompt para você. Quero que seja feita uma animação da imagem anexada. Utilize a imagem anexada como frame inicial e frame final do vídeo.',
@@ -204,31 +188,31 @@ def pacote(g):
     est = mp['estilos']
     assert est[0]['nome'].startswith('Números') and est[1]['nome'].startswith('Caixa do topo')
     est[0]['obs'] = ('; '.join(f"{u['t']} {u['cor_nome']} {u['cor']}, tamanho {u['tamanho']}, {u['onde']} ({xy(u['x'], u['y'])})" for u in g['num'])
-                     + '. Lugares, cores e tamanhos novos (diferentes do nora46). Cores fortes porque o fundo é claro.')
+                     + '. Os MESMOS do nora46: o resto do vídeo já vem com eles; ponha só no hook e no Take 1.')
     est[1] = {'nome': f"Caixa do topo: “{sig.upper()}” / “The 11:11 portal is opening.” / “3 signs it chose you”", 'fonte': 'Poppins Bold (poppins-bd)',
               'cor': 'texto preto #000000; a 1ª linha (os signos) em vermelho #E53935', 'tamanho': '10, em 3 linhas (se encostar nas sobrancelhas, 9)',
               'contorno': 'Plano de fundo branco arredondado, sem traço. Luz DESLIGADA',
-              'obs': 'Centralizada no topo (X 0 · Y 397), do primeiro quadro do hook até o fim do Take 1. É a caixa do nora46 com o texto trocado.'}
+              'obs': 'Centralizada no topo (X 0 · Y 397), do primeiro quadro do hook até o fim do Take 1.'}
     mp['regras'] = copy.deepcopy(P46['mapa_tela']['regras'])
     mp['regras'][1] = ('Nada nas faixas vermelhas, em cima do rosto, das mãos ou do microfone. Os números ficam na parede, na janela e acima da cabeça: '
                        'se algum cobrir a cabeça ou o braço do microfone, a bandeirinha ou o cabelo, mova uns 40 no X ou no Y.')
     p['mapa_tela'] = mp
     nums = ' · '.join(u['t'] for u in g['num'])
     p['edicao_linha'] = [
-      {'quando': 'A. Antes de tudo', 'texto': f'Duplique o projeto do nora46 no CapCut e renomeie para nora{n}',
-       'como': 'Na tela inicial do CapCut, nos 3 pontinhos do projeto do nora46 → Duplicar (ou Fazer uma cópia). O corpo cortado e legendado, os 3 sinais, as imagens do desejo, as avaliações, a faixa do story, a seta e a música já estão lá: não mexa neles.'},
-      {'quando': '0. Antes do Take 1', 'texto': f"Hook: troque a nora34-PRE pela {g['hook']}{esp}",
-       'como': f"Apague a nora34-PRE do começo e ponha a {g['hook']} no lugar; corte {g['corte']}. Corte seco para o Take 1. Sem legenda no hook." + (' ' + g['hook_alt'] if g['hook_alt'] else '')},
-      {'quando': '1. Take 1', 'texto': f'Troque o Take 1 pelo nora{n}-T01-legendado',
-       'como': f"No corpo, use Dividir no corte entre o Take 1 e o Take 2 (logo antes de “If you've been working so hard”), apague o pedaço da esquerda (o Take 1 do nora46) e ponha o nora{n}-T01-legendado no lugar, encostado no hook e no Take 2."},
-      {'quando': '2. Depois da troca', 'texto': 'Confira se o resto andou junto',
-       'como': 'O Take 1 novo tem outro tamanho. Os 3 sinais têm de entrar em “Sign one”, as imagens do desejo em “money”, as avaliações em “Over two thousand” e a faixa do story e a seta em “If you noticed”. Se ficaram adiantados ou atrasados, selecione tudo das faixas de cima a partir do Take 2 e arraste junto até encaixar.'},
-      {'quando': '3. Do primeiro quadro do hook até o fim do Take 1', 'texto': g['caixa'],
-       'como': 'Na caixa do topo do nora46, troque o texto (X 0 · Y 397, mesmo estilo, 3 linhas): a 1ª linha (os signos) em vermelho, o resto preto. Termina no fim do Take 1.'},
-      {'quando': '4. O vídeo todo', 'texto': nums,
-       'como': 'Nos 3 números do nora46, troque o lugar (X/Y), a cor e o tamanho pelos da lista de estilos abaixo. Traço e sombra pretos, Luz desligada.'},
-      {'quando': '5. O resto', 'texto': 'Igual ao nora46',
-       'como': 'Legenda (a do Take 1 já vem no arquivo novo), os 3 sinais (Takes 5 a 7), as imagens do desejo (Take 8), as avaliações (Take 9), a faixa do story e a seta (Take 10 ao fim) e a música a −18 dB: tudo como está no projeto do nora46.'}]
+      {'quando': 'A. Antes de tudo', 'texto': f'Projeto novo no CapCut (nora{n}) com o vídeo FINAL do nora46',
+       'como': 'Importe o vídeo do nora46 já exportado, com tudo (fotos do desejo, avaliações, sinais, legenda, faixa do story, seta, números e música). Não junte os takes de novo nem refaça nada disso.'},
+      {'quando': 'B. Cortar o começo antigo', 'texto': 'Dividir no começo do Take 2',
+       'como': "Ache o ponto em que ela começa “If you've been working so hard” (o Take 2), use Dividir e apague o pedaço da esquerda (o hook e o Take 1 do nora46)."},
+      {'quando': '0. No começo', 'texto': f"Hook: {g['hook']}{esp}",
+       'como': f"Arraste a {g['hook']} para o começo da linha do tempo; corte {g['corte']}. Corte seco para o Take 1. Sem legenda no hook." + (' ' + g['hook_alt'] if g['hook_alt'] else '')},
+      {'quando': '1. Logo depois do hook', 'texto': f'nora{n}-T01-legendado',
+       'como': 'Encostado no hook e, do outro lado, no Take 2 (o vídeo do nora46). Ouça a emenda: termina em “it’s not a coincidence” e o Take 2 entra direto.'},
+      {'quando': '2. Do primeiro quadro do hook até o fim do Take 1', 'texto': g['caixa'],
+       'como': 'Caixa do topo (X 0 · Y 397, 3 linhas): a 1ª linha (os signos) em vermelho, o resto preto. Estilo em “Estilo de cada texto”.'},
+      {'quando': '3. Só no hook e no Take 1', 'texto': nums,
+       'como': 'Os mesmos 3 números do nora46 (mesmo lugar, cor e tamanho; lista de estilos abaixo). Do Take 2 em diante eles já estão no vídeo.'},
+      {'quando': '4. Só no hook e no Take 1', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB',
+       'como': 'Do Take 2 em diante a música já está no vídeo do nora46.'}]
 
     L = [{'nome': g['hook'], 'de': g['hook'], 'tipo': 'hook (pronto)', 'status': 'reutilizar', 'descricao': g['hook_conceito']},
          {'nome': 'nora46-IMG', 'de': 'nora46-IMG', 'tipo': 'imagem 1', 'status': 'reutilizar', 'descricao': 'A imagem dos 12 takes do nora46 (blazer creme, estúdio claro, microfone).'}]
@@ -237,14 +221,14 @@ def pacote(g):
                   'descricao': f"Gancho com os signos ({x['pt']}): “{x['fala']}”",
                   'serve': f"O nora{x['n']} ({x['hora']})." + (' Gerado junto com os outros 2, neste painel.' if junto else ' Gerado no painel do nora47, junto com os outros 2.')})
     L += [{'nome': 'nora46-T02 a nora46-T12 (o corpo B)', 'de': 'nora46', 'tipo': 'corpo', 'status': 'reutilizar',
-           'descricao': 'Já cortados, legendados e montados no projeto do nora46 no CapCut, com os 3 sinais, as imagens do desejo e as avaliações. Não gere nem corte de novo.',
+           'descricao': 'O vídeo FINAL do nora46, exportado, a partir do Take 2: já tem a legenda, os sinais, as fotos do desejo, as avaliações, a faixa do story, a seta, os números e a música. Não gere, não corte e não junte de novo.',
            'fala': ' '.join(v['fala'] for v in V46[1:])},
           {'nome': 'story-3110', 'de': 'nora46', 'tipo': 'story', 'status': 'reutilizar', 'descricao': 'O story do nora46 (antes das 17h) vale para este vídeo.'}]
     p['pecas'] = dict({'lista': L, 'decisao': [
       'No Insta, cada post do mesmo corpo leva um Take 1 novo: o nora44, só com o hook trocado, fez 178 views; o nora43, com Take 1 novo, fez 968. Por isso: hook pronto (0) + Take 1 com os signos (15) + o corpo do nora46.',
       'Os 3 Takes 1 de hoje (nora47, nora48, nora49) saem juntos no painel do nora47: uma colagem, uma mensagem no agente, 45 créditos.',
       'Signos na fala e na caixa do topo (série por signos; dica do Matheus). A frase segue a do nora46 (o portal e “não é coincidência”), sem ameaça (P42).',
-      f"Hook: {g['hook_nome']}. Números em lugares, cores e tamanhos novos, para o quadro não repetir o das outras postagens do dia."]}, **PROXIMOS)
+      f"Hook: {g['hook_nome']}. O resto vem do vídeo final do nora46, com os mesmos números: só o começo (hook, Take 1 e caixa) é novo."]}, **PROXIMOS)
     p['ordem'] = ['pecas', 'referencia', 'imagens', 'todos', 'central', 'cenas', 'agente', 'silencio', 'prehook', 'textotela', 'story', 'descricao', 'comentario', 'respostasface', 'fala']
     return p
 
