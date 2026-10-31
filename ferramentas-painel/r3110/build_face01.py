@@ -18,13 +18,15 @@ def gravar(nome, titulo, p):
 
 P45, P40 = ler('PAINEL-NORA45.html'), ler('PAINEL-NORA40.html')
 
+# 31/10 ~12h (print do aluno): o CapCut não quebra a linha sozinho; o texto vem com as quebras prontas (até 44 caracteres por linha) no tamanho 7.
 TEXTO = ('READ THIS BEFORE YOU SCROLL.\n\n'
-         'YOUR GUARDIAN ANGEL HAS BEEN TRYING TO GET YOUR ATTENTION ALL WEEK.\n\n'
-         "THERE'S SOMETHING LEFT FOR YOU THAT YOU STILL HAVEN'T RECEIVED.\n\n"
-         "A BLESSING, A PROTECTION, SOMETHING THAT WAS ALWAYS MEANT FOR YOU AND CAN STILL REACH YOU TODAY, BEFORE THE 11:11 PORTAL OPENS.\n\n"
-         'IT ONLY ARRIVES WHEN YOU CLAIM THIS ENERGY AS YOUR OWN.\n\n'
-         "TO DISCOVER WHAT IT IS, TAP MY PHOTO AND OPEN MY STORY: PICK 3 CARDS AND SEE WHAT'S COMING TO YOU.\n\n"
-         'THEN SEND THIS TO YOURSELF AND COMMENT "222" TO STRENGTHEN IT.')
+         'YOUR GUARDIAN ANGEL HAS BEEN TRYING TO GET\nYOUR ATTENTION ALL WEEK.\n\n'
+         "THERE'S SOMETHING LEFT FOR YOU THAT YOU\nSTILL HAVEN'T RECEIVED.\n\n"
+         'A BLESSING, A PROTECTION, SOMETHING THAT WAS\nALWAYS MEANT FOR YOU AND CAN STILL REACH YOU\nTODAY, BEFORE THE 11:11 PORTAL OPENS.\n\n'
+         'IT ONLY ARRIVES WHEN YOU CLAIM THIS ENERGY\nAS YOUR OWN.\n\n'
+         "TO DISCOVER WHAT IT IS, TAP MY PHOTO AND\nOPEN MY STORY: PICK 3 CARDS AND SEE WHAT'S\nCOMING TO YOU.\n\n"
+         'THEN SEND THIS TO YOURSELF AND COMMENT "222"\nTO STRENGTHEN IT.')
+assert max(len(l) for l in TEXTO.split('\n')) <= 44
 for proib in ('DISAPPEAR', 'PASSED AWAY', 'DIED', 'GUARANTEE', 'MIRACLE', 'LINK'):
     assert proib not in TEXTO, proib
 
@@ -78,7 +80,7 @@ p['roteiro'] = {
 p['refs'] = ['Blueprint da Nora v2 (só ele) na face01-IMG']
 p['imagens'] = [{'rotulo': 'IMAGEM 1 · face01-IMG · APROVADA: a 4ª das 4', 'cena': CENA, 'anexar': 'SÓ o blueprint da Nora v2 (a folha de consistência). Nenhuma outra imagem.'}]
 p['videos'] = [{'rotulo': 'V1', 'cena': 'Clipe único · texto longo na tela (sem fala)', 'duracao': 8, 'primeiro_quadro': 'IMAGEM 1', 'acao': '(ver seção Clipe)', 'b_roll': '',
-                'fala': '(sem fala) texto na tela: ' + TEXTO.replace('\n\n', ' '), 'movimentacao': '(sem Central: o prompt do clipe está na seção Clipe)', 'arquivo': 'face01-CLIPE'}]
+                'fala': '(sem fala) texto na tela: ' + ' '.join(TEXTO.split()), 'movimentacao': '(sem Central: o prompt do clipe está na seção Clipe)', 'arquivo': 'face01-CLIPE'}]
 p['texto_tela'] = {'hook': TEXTO, 'hook_comeca': 'do segundo 0', 'hook_termina': 'o fim do clipe', 'hook_alt': '', 'extras': []}
 p['comentario_fixado'] = {'insta': '— (este vídeo é só do Facebook: não vai no Insta)',
   'face': "Your guardian angel left something for you. ✨ Tap my profile picture, open my Story and pick your 3 cards to see what's coming to you. Comment 222 to claim it 🙏"}
@@ -103,7 +105,7 @@ p['story'] = {'ja_postado': True, 'nota': '✅ NÃO FAÇA STORY PARA ESTE VÍDEO
 p['edicao_linha'] = [
   {'quando': '1. O clipe todo (8 s)', 'texto': 'Escurecer o clipe (para o texto branco ler bem)', 'como': 'CapCut: com o clipe selecionado, (1) à direita, Plano de fundo → Cor → preto; (2) Básico → Opacidade (dentro de Mistura) → 65%: a imagem fica ~35% mais escura. Se escurecer demais, 70%; se ficar clara, 60%. Sem achar a Opacidade: Elementos → Formas → quadrado preto, esticado até cobrir a tela, Opacidade 35%, na faixa acima e com a mesma duração.'},
   {'quando': '2. O clipe todo', 'texto': TEXTO,
-   'como': 'Um bloco só, centralizado (X 0 · Y 0), em MAIÚSCULAS, Poppins Bold (poppins-bd), branco, tamanho 8 (se passar das bordas, 7), Sombra preta, sem Traço grosso, Luz DESLIGADA, uma linha em branco entre as frases, largura de ~90% da tela. Ocupa do ~22% ao ~85% da altura, como no vídeo da Mary.'},
+   'como': 'Cole EXATAMENTE como está acima, com as quebras de linha e as linhas em branco (o CapCut não quebra a linha sozinho). Um bloco só, centralizado (X 0 · Y 40), MAIÚSCULAS, Poppins Bold (poppins-bd), branco, tamanho 7 (se ainda cortar dos lados, 6), Sombra preta, Luz DESLIGADA. Ocupa do ~15% ao ~85% da altura.'},
   {'quando': '3. O clipe todo', 'texto': 'Som do clipe ligado + música de sempre (“Ambient Mystical Drone”), 0 dB', 'como': 'Sem legenda automática (ela não fala), sem números fixos e sem seta (o texto já diz o que fazer).'}]
 p['pecas'] = {'lista': [
   {'nome': 'face01-IMG', 'tipo': 'imagem 1', 'status': 'gerar', 'descricao': 'Do blueprint: a Nora no carro parado ao fim da tarde, olhos fechados, suéter bege, árvores de outono lá fora.',
