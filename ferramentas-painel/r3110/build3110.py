@@ -183,7 +183,7 @@ p['roteiro'] = {
   'duracao_total': 90,
   'descricao_instagram': "The 11:11 portal is opening. 3 signs it chose you. 🔮\nPick 3 cards in my story and see what your new chapter brings. Follow me + comment 222.\n#manifestation #1111portal #astrology #usa #usareels",
   'leitura_registro': LEITURA}
-p['refs'] = ['Blueprint da Nora v2 (só ele) na nora46-IMG e no story', 'Imagens do desejo: sem anexo', 'Avaliações: provas-trustpilot/01 a 03 (prontas)']
+p['refs'] = ['Blueprint da Nora v2 (só ele) na nora46-IMG e no story', 'Imagens do desejo: sem anexo', 'Avaliações: 01-leukia, 02-patricia e 03-darcey (enviadas no chat em 31/10)']
 p['imagens'] = [
   {'rotulo': 'IMAGEM 1 · nora46-IMG (os 12 takes) · APROVADA: a 3ª das 3', 'cena': CENA46, 'anexar': 'SÓ o blueprint da Nora v2 (a folha de consistência). Nenhuma outra imagem.'},
   {'rotulo': 'IMAGEM 2 · nora46-DESEJO-1-dinheiro (Take 8) · APROVADA', 'cena': '(sem a Nora)', 'prompt_completo': D1, 'anexar': 'NADA (imagem sem a Nora).'},
@@ -280,7 +280,7 @@ mp['estilos'] = [
   {'nome': 'Legenda automática (Claude das legendas)', 'fonte': 'Poppins Bold', 'cor': 'branco, em MAIÚSCULAS; palavra-chave em amarelo-ouro #FFD21F',
    'tamanho': 'uns 38 px de fonte (vídeo 720×1280)', 'contorno': 'preto grosso, sem caixa e sem brilho',
    'obs': 'Blocos de 2 a 4 palavras, no máximo 2 linhas. Destaques: portal, 11:11, sign, money, peace, cards, love e 222. Sem legenda no hook e no Take 9 (lá entram as avaliações).'},
-  {'nome': 'Avaliações reais (Take 9)', 'fonte': 'as imagens provas-trustpilot/01-leukia.png, 02-patricia.png e 03-darcey.png (prontas)', 'cor': '—',
+  {'nome': 'Avaliações reais (Take 9)', 'fonte': 'as imagens 01-leukia.png, 02-patricia.png e 03-darcey.png (o Claude mandou no chat em 31/10)', 'cor': '—',
    'tamanho': 'escala ~85% (largura de ~630 px)', 'contorno': 'sem borda; sombra leve se quiser',
    'obs': 'Uma depois da outra, ~2 s cada, centradas em X 0 · Y -200, do começo ao fim do Take 9. No lugar da caixa do topo, no mesmo Take 9: “Rated 4.7 ⭐ by 2,000+ people” (caixa branca, X 0 · Y 397). Confira o número no Trustpilot no dia.'},
   {'nome': 'Faixa do story no topo: “Pick your 3 cards in my story ⭐”', 'fonte': 'Poppins Bold (poppins-bd)', 'cor': 'texto preto #000000, “my story” em vermelho #E53935',
@@ -318,7 +318,7 @@ L = [{'nome': 'nora34-PRE', 'de': 'nora34-PRE', 'tipo': 'hook (do nora34)', 'sta
 for (a, cena, f, m) in T:
     L.append({'nome': a, 'tipo': 'take', 'status': 'gerar', 'creditos': 15, 'descricao': f'{cena}: “{f}”',
               'serve': 'Todos os vídeos do corpo B até 11/11.' + (' Serve também depois do dia 11 (não fala do portal).' if a[7:10] in ('T02', 'T05', 'T06', 'T07', 'T08', 'T09', 'T11') else '')})
-L += [{'nome': 'provas-trustpilot/01-leukia.png, 02-patricia.png, 03-darcey.png', 'de': 'pasta provas-trustpilot do projeto', 'tipo': 'prova real', 'status': 'reutilizar',
+L += [{'nome': 'provas-trustpilot/01-leukia.png, 02-patricia.png, 03-darcey.png', 'de': 'enviadas no chat em 31/10', 'onde': 'Estão no chat: o Claude mandou as 3 imagens em 31/10 (01-leukia, 02-patricia, 03-darcey). Baixe de lá e suba no CapCut.', 'tipo': 'prova real', 'status': 'reutilizar',
        'descricao': 'Avaliações reais (5 estrelas), sem o nome do app.'},
       {'nome': 'story-3110', 'tipo': 'imagem do story', 'status': 'gerar', 'descricao': 'Do blueprint: a Nora de blazer creme à mesa, 3 cartas viradas para baixo, parede verde-esmeralda.', 'serve': 'O story de 31/10.'}]
 p['pecas'] = {'lista': L, 'decisao': [
