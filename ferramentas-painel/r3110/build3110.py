@@ -45,25 +45,26 @@ TAKES = [
   "And if this found you, follow me, comment 222, and send this to yourself so it's waiting for you on the 11th."),
 ]
 
-# Movimentação PROVISÓRIA (P32: a final sai depois da nora46-IMG aprovada). Uma frase por take, sem palavras da fala.
-ABRE = ('Throughout the whole 10 seconds she stays seated at the desk facing the lens, her left hand on the right side of the frame rests flat on the desk '
-        'and never moves, her right hand on the left side of the frame rests on the desk except during the one small gesture described here, which always '
-        'happens at the height of her shoulder on the left side of the frame and never in front of her face or mouth, she never touches or leans toward the '
-        'microphone, and ')
+# Movimentação FINAL (31/10 ~03h, pela nora46-IMG aprovada, a 3ª das 3 variações): o microfone ficou na borda esquerda, junto do braço
+# do lado esquerdo da imagem; por isso quem gesticula é a mão do lado DIREITO da imagem (a esquerda dela). Uma frase por take, sem palavras da fala.
+ABRE = ('Throughout the whole 10 seconds she stays seated at the desk facing the lens, her right hand on the left side of the frame, next to the microphone, '
+        'rests flat on the desk and never moves, her left hand on the right side of the frame rests flat on the desk except during the one small gesture '
+        'described here, which always happens at the height of her shoulder on the right side of the frame and never in front of her face or mouth, '
+        'she never touches or leans toward the microphone, and ')
 FECHA = (', and from the end of the final sentence of the take until the clip ends she keeps her lips closed and silent; everything else in the scene '
          'stays completely still and each hand has exactly five fingers.')
 EXPR = {
  'T01': 'her eyes stay on the lens, during the first half of the take she leans slightly toward the lens with her eyebrows a little raised and an intrigued look, during the second half she gives one slow knowing nod with a warm half-smile, both hands staying on the desk',
  'T02': 'her eyes stay on the lens, during the first half of the take she tilts her head slightly to one side with a soft, understanding look, during the second half her face warms and she gives one small reassuring nod, both hands staying on the desk',
- 'T03': 'her eyes stay on the lens with a calm, confident expert look, during the first half of the take she raises her right hand to the height of her shoulder with the palm open and facing up as if explaining, during the second half she lifts only the index finger of that hand once for a moment and then lowers the hand back to the desk',
- 'T04': 'her eyes stay on the lens, during the first half of the take she holds a calm, assured look, during the second half she raises her right hand to the height of her shoulder with the palm open toward the lens for a moment as if presenting something and then lowers it back to the desk with a small smile',
+ 'T03': 'her eyes stay on the lens with a calm, confident expert look, during the first half of the take she raises her left hand to the height of her shoulder on the right side of the frame with the palm open and facing up as if explaining, during the second half she lifts only the index finger of that hand once for a moment and then lowers the hand back to the desk',
+ 'T04': 'her eyes stay on the lens, during the first half of the take she holds a calm, assured look, during the second half she raises her left hand to the height of her shoulder on the right side of the frame with the palm open toward the lens for a moment as if presenting something and then lowers it back to the desk with a small smile',
  'T05': 'her eyes stay on the lens, during the first half of the take her eyebrows lift with a look of recognition, during the second half she gives two small quick nods with a knowing smile, both hands staying on the desk',
- 'T06': 'her eyes stay on the lens, during the first half of the take she makes one slow, gentle outward wave of her right hand at the height of her shoulder on the left side of the frame as if letting something go, during the second half the hand returns to the desk and she shows a calm, relieved half-smile',
- 'T07': 'her eyes stay on the lens, during the first half of the take she leans slightly toward the lens with a soft, almost secretive look, during the second half she rests her right palm flat at collarbone height on the white blouse for a moment with a warm smile and then lowers the hand back to the desk',
+ 'T06': 'her eyes stay on the lens, during the first half of the take she makes one slow, gentle outward wave of her left hand at the height of her shoulder toward the right edge of the frame as if letting something go, during the second half the hand returns to the desk and she shows a calm, relieved half-smile',
+ 'T07': 'her eyes stay on the lens, during the first half of the take she leans slightly toward the lens with a soft, almost secretive look, during the second half she rests her left palm flat at collarbone height on the white top for a moment with a warm smile and then lowers the hand back to the desk',
  'T08': 'during the first half of the take her eyes glance up and slightly to the side as if picturing something lovely, during the second half her eyes return to the lens and a wide, warm smile grows on her face, both hands staying on the desk',
- 'T09': 'her eyes stay on the lens, during the first half of the take she holds a calm, confident look, during the second half she turns her right palm up at the height of her shoulder and gestures gently down toward the lower part of the frame and then lowers the hand back to the desk',
- 'T10': 'her eyes stay on the lens with an encouraging look, during the first half of the take she gives one small nod, during the second half she points her right index finger down toward the lower left corner of the frame for a moment and then lowers the hand back to the desk',
- 'T11': 'her eyes stay on the lens, during the first half of the take her eyebrows lift with a bright, excited look, during the second half she opens her right hand at the height of her shoulder with the palm up as if offering a gift while a warm smile grows, and then the hand returns to the desk',
+ 'T09': 'her eyes stay on the lens, during the first half of the take she holds a calm, confident look, during the second half she turns her left palm up at the height of her shoulder on the right side of the frame and gestures gently down toward the lower part of the frame and then lowers the hand back to the desk',
+ 'T10': 'her eyes stay on the lens with an encouraging look, during the first half of the take she gives one small nod, during the second half she points her left index finger down toward the bottom of the frame for a moment and then lowers the hand back to the desk',
+ 'T11': 'her eyes stay on the lens, during the first half of the take her eyebrows lift with a bright, excited look, during the second half she opens her left hand at the height of her shoulder on the right side of the frame with the palm up as if offering a gift while a warm smile grows, and then the hand returns to the desk',
  'T12': 'her eyes stay on the lens, during the first half of the take she gives a warm smile and one slow nod, during the second half her eyes glance down toward the lower part of the frame for one moment and come back to the lens with a warm smile, both hands staying on the desk',
 }
 def mov(k): return ABRE + EXPR[k] + FECHA
@@ -202,36 +203,37 @@ p['pre_gancho'] = {'titulo_secao': 'Hook (a pedra escura do nora34: não gerar)'
   'texto_tela': '', 'edicao': ''}
 
 c = copy.deepcopy(P40['central'])
-LIVRE = ('Casual handheld smartphone video in a bright, clean real American home studio during the day, lit by soft window daylight. CONTINUITY LOCKS for every take: '
-  'the woman, her face, her long black wavy hair with the thin gold-ringed braid, her gold moon and star face gems, her star-and-moon earrings, her Venus necklace, her '
-  'thin gold bracelets, her gold sun ring, her open ivory-cream blazer and her plain white blouse stay exactly as in the reference image; she stays seated at the '
-  'light-oak desk facing the lens; the framing is exactly the one of the reference image, from a little above the top of her head down to her waist, with her face '
-  'large and centered in the upper half of the frame and her eyes at about 33 percent of the frame height; her left hand, on the right side of the frame, rests flat '
-  'on the desk for the whole clip; her right hand, on the left side of the frame, rests on the desk and only rises for the one small gesture of each take, always at '
-  'the height of her shoulder on the left side of the frame, never in front of her face or mouth, and then returns to the desk; the black podcast microphone on its '
-  'boom arm on the left side of the frame, the plant, the shelf, the books, the small American flag in the mug and the white wall stay exactly where they are and '
-  'never move; she never touches or leans toward the microphone; the camera is a handheld phone at the height of her collarbones about 70 centimeters from her with '
-  'only a tiny natural sway, no zoom, no cuts and no reframing; no glow and no sparkles; no object, person, animal or text appears or disappears; each hand always '
-  'has exactly five fingers; no on-screen text, no captions, no logos; real quiet room ambient sound only, no music. SPEECH RULE for every take: she says only the '
-  'exact words of that take\'s script, each word exactly once and in order, with no repeated word, no extra word and no added sentence before, between or after; '
-  'numbers are spoken as words (11:11 and 11/11 as "eleven eleven", 222 as "two two two", November 11th as "November eleventh"); when she finishes the last word she '
-  'closes her lips, stays silent and keeps a calm still expression until the clip ends.')
+LIVRE = ('Casual handheld smartphone video in a bright, clean real American home studio during the day, lit by soft daylight from a window at the left edge of the frame. '
+  'CONTINUITY LOCKS for every take: the woman, her face, her long black wavy hair with the thin gold-ringed braid on the right side of the frame, her gold moon and star '
+  'face gems, her drop earrings, her Venus necklace, her bracelets and rings, her open ivory-cream blazer and her plain white round-neck top stay exactly as in the '
+  'reference image; she stays seated at the light-oak desk facing the lens; the framing is exactly the one of the reference image, from a little above the top of her '
+  'head down to the desk, with her face centered in the upper half of the frame and her eyes at about 31 percent of the frame height; her right hand, on the left side '
+  'of the frame next to the microphone, rests flat on the desk for the whole clip; her left hand, on the right side of the frame, rests flat on the desk and only rises '
+  'for the one small gesture of each take, always at the height of her shoulder on the right side of the frame, never in front of her face or mouth, and then returns '
+  'to the desk; the black podcast microphone on its boom arm at the left edge of the frame, the window, the shelf with the books, the small American flag and the mug '
+  'at the upper right, the potted plant at the lower right corner and the white wall stay exactly where they are and never move; she never touches or leans toward '
+  'the microphone; the camera is a handheld phone at the height of her collarbones about 80 centimeters from her with only a tiny natural sway, no zoom, no cuts and '
+  'no reframing; no glow and no sparkles; no object, person, animal or text appears or disappears; each hand always has exactly five fingers; no on-screen text, no '
+  'captions, no logos; real quiet room ambient sound only, no music. SPEECH RULE for every take: she says only the exact words of that take\'s script, each word '
+  'exactly once and in order, with no repeated word, no extra word and no added sentence before, between or after; numbers are spoken as words (11:11 and 11/11 as '
+  '"eleven eleven", 222 as "two two two", November 11th as "November eleventh"); when she finishes the last word she closes her lips, stays silent and keeps a calm '
+  'still expression until the clip ends.')
 achou = False
 for sec in c['config']:
     for k in sec['campos']:
         if k['campo'].startswith('LIVRE'):
-            k['copiar'] = LIVRE; k['valor'] = 'colar o texto abaixo (PROVISÓRIO: eu fecho depois de ver a nora46-IMG)'; achou = True
+            k['copiar'] = LIVRE; k['valor'] = 'colar o texto abaixo (fechado pela nora46-IMG aprovada)'; achou = True
         if k['campo'] == 'Atmosfera / mood':
             k['valor'] = 'Íntimo e confidencial (o mesmo dos outros longos)'
 assert achou
 c['conferir'] = ('Conferir em cada take: é a Nora v2 da nora46-IMG (rosto, lua com as estrelinhas, trança, blazer creme e blusa branca); ela fala uma vez só, em inglês, '
-                 'com "eleven eleven"; a mão do lado direito da imagem fica na mesa; a outra só faz o gesto do take, na altura do ombro; o microfone não se mexe; '
+                 'com "eleven eleven"; a mão do lado do microfone (esquerdo da imagem) fica na mesa; a do lado direito só faz o gesto do take, na altura do ombro; o microfone não se mexe; '
                  'sem texto, legenda ou música. Renomeie com o nome da lista (T01 a T12).')
 c['passos'] = [
-  'Agora (sem crédito): gere a nora46-IMG (seção “Imagens”, IMAGEM 1: anexe SÓ o blueprint) e me mande. A movimentação e o texto LIVRE estão PROVISÓRIOS: eu fecho pela imagem aprovada.',
+  'nora46-IMG APROVADA (31/10 ~03h, a 3ª das 3 variações: janela à esquerda, microfone na borda esquerda, prateleira com a bandeirinha à direita, planta embaixo à direita). Movimentação e texto LIVRE já fechados por ela.',
   'Também sem crédito: as 3 imagens do desejo (IMAGEM 2 a 4, sem anexar nada) e a imagem do story (seção “Story”, anexe SÓ o blueprint). Renomeie: nora46-DESEJO-1-dinheiro, nora46-DESEJO-2-casal, nora46-DESEJO-3-casa e story-3110.',
   'Story novo (story-3110) antes das 18h44 de hoje, quando o story-3010 vence: no Insta com o link STORYIG e no Face com o link FACE (seção “Story”). Confira o link na prévia antes de publicar.',
-  'Depois do meu ok na imagem: Central do curso com a configuração da seção “Central do curso” (o LIVRE é novo) e a fala e a movimentação da seção “A fala e a movimentação”. Confira: 12 takes de 10 s.',
+  'Central do curso com a configuração da seção “Central do curso” (o LIVRE é novo) e a fala e a movimentação da seção “A fala e a movimentação”. Confira: 12 takes de 10 s.',
   'Agente do Flow: anexe só a nora46-IMG, cole o aviso e, embaixo, o “COPIAR TUDO JUNTO” da Central, sem editar. 180 créditos (conta grande: 279 → 99). Renomeie os takes com os nomes do painel (T01 a T12, 2 dígitos).',
   'Se o agente gerar menos de 12, abra um projeto novo no Flow e mande só os que faltaram.',
   'Me mande a transcrição dos 12 takes antes de cortar (P33).',
@@ -260,15 +262,15 @@ p['story'] = {'prompt_imagem': STORY_PROMPT, 'anexar': 'SÓ o blueprint (a folha
 
 # ---------------- mapa da tela e edição ----------------
 mp = copy.deepcopy(P44['mapa_tela'])
-NUM = [{'t': '11:11', 'x': 14, 'y': 11.5, 'onde': 'alto, à esquerda', 'cor_nome': 'branco', 'cor': '#FFFFFF', 'tamanho': 15},
-       {'t': '222', 'x': 84, 'y': 30, 'onde': 'à direita, na altura dos olhos', 'cor_nome': 'ciano', 'cor': '#3DE0FF', 'tamanho': 12},
-       {'t': '888', 'x': 12, 'y': 44, 'onde': 'à esquerda, na altura do ombro, acima do microfone', 'cor_nome': 'laranja', 'cor': '#FF9F1C', 'tamanho': 11}]
+NUM = [{'t': '11:11', 'x': 84, 'y': 12, 'onde': 'alto, à direita, na parede acima da prateleira', 'cor_nome': 'vermelho', 'cor': '#E53935', 'tamanho': 15},
+       {'t': '222', 'x': 12, 'y': 27, 'onde': 'à esquerda, na janela, acima do braço do microfone', 'cor_nome': 'roxo', 'cor': '#8E24AA', 'tamanho': 12},
+       {'t': '888', 'x': 84, 'y': 44, 'onde': 'à direita, ao lado do ombro, acima dos botões', 'cor_nome': 'verde-esmeralda', 'cor': '#00A86B', 'tamanho': 11}]
 mp['numeros'] = NUM
 def xy(x, y): return f'X {round(x/100*720-360)} · Y {round(640-y/100*1280)}'
 mp['estilos'] = [
   {'nome': 'Números fixos espalhados (11:11, 222, 888)', 'fonte': 'Poppins Bold (poppins-bd)', 'cor': 'uma cor para cada número (abaixo)',
    'tamanho': 'um tamanho para cada número (abaixo)', 'contorno': 'Traço preto + Sombra preta, sem Plano de fundo. Luz DESLIGADA',
-   'obs': '; '.join(f"{u['t']} {u['cor_nome']} {u['cor']}, tamanho {u['tamanho']}, {u['onde']} ({xy(u['x'], u['y'])})" for u in NUM) + '. Provisórios até eu ver a nora46-IMG.'},
+   'obs': '; '.join(f"{u['t']} {u['cor_nome']} {u['cor']}, tamanho {u['tamanho']}, {u['onde']} ({xy(u['x'], u['y'])})" for u in NUM) + '. Cores fortes porque o fundo é claro (o branco e o amarelo não leem na parede e na janela).'},
   {'nome': 'Caixa do topo: “The 11:11 portal is opening.” / “3 signs it chose you”', 'fonte': 'Poppins Bold (poppins-bd)',
    'cor': 'texto preto #000000; “chose you” em vermelho #E53935', 'tamanho': '10, em 2 linhas',
    'contorno': 'Plano de fundo branco arredondado, sem traço. Luz DESLIGADA', 'obs': 'Centralizada no topo (X 0 · Y 397), do primeiro quadro do hook até o fim do Take 1.'},
@@ -288,8 +290,8 @@ mp['estilos'] = [
    'obs': 'Do Take 10 até o fim. Embaixo à esquerda, apontando para baixo, para a foto do perfil (X -317 · Y -333).'}]
 mp['seta'] = {'x': 6, 'y': 76, 'onde': 'embaixo à esquerda, apontando para baixo, para a foto do perfil'}
 mp['regras'] = [
-  'Tudo provisório até eu ver a nora46-IMG: números, faixa da legenda (Y -294, 73%) e o lugar das avaliações. Eu confirmo pela imagem.',
-  'Nada nas faixas vermelhas, em cima do rosto, das mãos ou do microfone. Se a legenda tocar as mãos na mesa, suba até 69%.',
+  'Conferido na nora46-IMG: a faixa da legenda (Y -294, 73%) fica nos antebraços, logo acima da borda da mesa, abaixo do microfone e do rosto; as avaliações (X 0 · Y -200) ficam em cima do blazer, sem cobrir o rosto.',
+  'Nada nas faixas vermelhas, em cima do rosto, das mãos ou do microfone. Os números ficam na parede, na janela e ao lado do ombro: se algum cobrir a cabeça do microfone ou a bandeirinha, mova uns 40 no X.',
   'Imagens do desejo (Take 8): tela cheia (720×1280), ~2 s cada, corte seco, na ordem dinheiro, casal, casa. A voz continua por baixo e a legenda por cima.',
   'Avaliações (Take 9): só os prints reais das pastas do projeto, sem mudar o texto; o nome do app não aparece.']
 p['mapa_tela'] = mp
@@ -297,7 +299,7 @@ p['edicao_linha'] = [
   {'quando': '0. Antes do Take 1', 'texto': 'Hook (nora34-PRE, sem espelhar, uns 3,5 s)', 'como': 'Corte seco para o corpo cortado. Sem legenda no hook (sem fala).'},
   {'quando': '1. Do primeiro quadro do hook até o fim do Take 1', 'texto': 'The 11:11 portal is opening.\n3 signs it chose you',
    'como': 'Caixa branca arredondada no topo (X 0 · Y 397), texto preto, “chose you” em vermelho.'},
-  {'quando': '2. O vídeo todo', 'texto': '11:11 · 222 · 888', 'como': 'Espalhados, cada um de uma cor e de um tamanho (estilos abaixo; provisórios até a imagem).'},
+  {'quando': '2. O vídeo todo', 'texto': '11:11 · 222 · 888', 'como': 'Espalhados, cada um de uma cor e de um tamanho (estilos abaixo).'},
   {'quando': '3. Do Take 1 ao fim (menos o Take 9)', 'texto': 'Legenda automática, em blocos de 2 a 4 palavras', 'como': 'Faixa verde do mapa. Destaques em amarelo-ouro: portal, 11:11, sign, money, peace, cards, love e 222.'},
   {'quando': '4. Takes 5, 6 e 7', 'texto': '1. 11:11 everywhere\n2. The wrong people fade out\n3. Something good is coming',
    'como': 'No lugar da caixa do topo (X 0 · Y 397). Cada sinal entra no seu take e fica até o fim do Take 7. Começa em “Sign one”.'},
