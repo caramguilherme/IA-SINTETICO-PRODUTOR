@@ -178,3 +178,6 @@ Os nomes dos takes do nora36 mudaram com a fala nova (12 takes): `nora36-T01-gan
 - **`story-3010` postado em 30/10 às 18h44 no Insta e no Face** (aluno). Vale para o nora44, o nora45 e o nora46.
 - **nora44 postado em 30/10 às 19h06 no Insta e no Face** (aluno): `nora34-PRE` + os 12 takes do nora40, 0 crédito. nora45 e nora46: o aluno ainda não sabe se dá para hoje.
 - **nora45 gerado e postado em 30/10 às 21h35 no Insta (localização LA) e no Face** (aluno): `nora45-IMG`, `nora45-FIM`, `nora45-CLIPE-fita` (12, conta de 53: 53 → 41). Texto do topo no tamanho 9.
+
+### 31/10/2026: corpo B (nora46, portal 11/11), roteiro esperando aprovação
+- Planejado (nada gerado): `nora46-IMG` (do blueprint, visual de especialista: blazer creme, estúdio claro, microfone de podcast) + `nora46-T01-gancho-portal-sinal`, `nora46-T02-qualificacao-vida-parada`, `nora46-T03-autoridade-numerologia`, `nora46-T04-portal-tres-sinais`, `nora46-T05-sinal-1-numeros`, `nora46-T06-sinal-2-abrindo-espaco`, `nora46-T07-sinal-3-algo-bom`, `nora46-T08-imagine-meses`, `nora46-T09-prova-avaliacoes`, `nora46-T10-cta-leitura-story`, `nora46-T11-cta-tres-cartas`, `nora46-T12-seguir-222-mandar` (15 cada, 180, conta grande). Hook `nora34-PRE` (0). Imagens do desejo (3) e `story-3110` (0). Os takes 2, 5 a 9 e 11 não falam do portal e servem depois do dia 11.
