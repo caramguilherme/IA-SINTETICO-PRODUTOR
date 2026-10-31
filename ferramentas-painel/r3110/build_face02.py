@@ -30,33 +30,33 @@ r.update({
   'legenda_aviso': '📘 SÓ NO FACEBOOK. Não poste no Insta. Ao vivo (nunca agendar), ~3 h depois do face01 e fora dos horários dos vídeos nora.',
   'leitura_registro': F1['roteiro']['leitura_registro'].replace('Para este painel li de novo:', 'Para este painel (face02) li de novo o pacote do face01 e:')})
 p['roteiro'] = r
-p['refs'] = ['Nenhuma imagem nova: a 3ª das 4 imagens do carro (já gerada)']
-p['imagem_reutilizada'] = {'arquivo': 'face02-IMG',
-  'aviso': 'Não gere nada. Use a 3ª das 4 imagens do carro (a Nora encostada no banco, quase de perfil, que eu disse que também servia) e renomeie para face02-IMG. Se não tiver mais, use a face01-IMG espelhada no CapCut.'}
-p['imagens'] = [{'rotulo': 'IMAGEM 1 · face02-IMG (já gerada: a 3ª das 4 do carro)', 'cena': '(não gerar)'}]
+p['refs'] = ['Nenhuma imagem nova: a face01-IMG, espelhada no CapCut']
+p['imagem_reutilizada'] = {'arquivo': 'face01-IMG',
+  'aviso': 'Não gere nada. Use a face01-IMG (as outras foram apagadas) e, no CapCut, espelhe SÓ a imagem (Editar → Espelhar), antes de pôr o texto: assim o Face não vê o mesmo quadro do face01.'}
+p['imagens'] = [{'rotulo': 'IMAGEM 1 · face01-IMG espelhada (já gerada)', 'cena': '(não gerar)'}]
 p['videos'] = [{'rotulo': 'V1', 'cena': 'Imagem parada · texto longo na tela (sem fala)', 'duracao': 8, 'primeiro_quadro': 'IMAGEM 1', 'acao': '', 'b_roll': '',
                 'fala': copy.deepcopy(F1['videos'][0]['fala']), 'movimentacao': '(sem Central: não há clipe)', 'arquivo': 'face02'}]
 c = copy.deepcopy(F1['central'])
 c['conferir'] = 'Conferir: a imagem fica parada os 8 s (sem zoom nem movimento); o texto é o mesmo do face01, letra por letra.'
 c['passos'] = [
   'Teste SÓ do Facebook (não posta no Insta). 0 crédito: não gera nada no Flow.',
-  'Imagem: a 3ª das 4 imagens do carro (já gerada), renomeada para face02-IMG. Se não tiver mais, a face01-IMG espelhada.',
-  'CapCut (seção de texto na tela): a face02-IMG parada por 8 s, sem zoom nem movimento; a camada escura; o MESMO texto do face01; a música a 0 dB.',
+  'Imagem: a face01-IMG (as outras foram apagadas), espelhada no CapCut (só a imagem, antes do texto).',
+  'CapCut (seção de texto na tela): a face01-IMG espelhada, parada por 8 s, sem zoom nem movimento; a camada escura; o MESMO texto do face01; a música a 0 dB.',
   'Postar SÓ no Facebook, ao vivo, ~3 h depois do face01 e fora dos horários dos vídeos nora (por exemplo: face01 às 15h, face02 às 18h, nora46 às 22h). Comentário: só comente.',
   'É um teste: imagem parada (face02) x clipe que repete (face01), com o mesmo texto. Me mande os números dos dois no Face com ~3 h e ~12 h (views, views de 3 s, tempo médio, comentários).']
 c['colagens'] = [{'titulo': 'sem fala', 'fala': '(sem fala)', 'movimentacao': ['(sem fala)'], 'takes': [0]}]
 p['central'] = c
 p['edicao_linha'] = [
-  {'quando': '1. Base (8 s)', 'texto': 'face02-IMG parada', 'como': 'Importe a imagem e deixe a duração em 8 s. Sem zoom, sem movimento, sem efeito (é o teste da imagem parada).'},
+  {'quando': '1. Base (8 s)', 'texto': 'face01-IMG espelhada e parada', 'como': 'Importe a face01-IMG, espelhe (Editar → Espelhar) e deixe a duração em 8 s. Sem zoom, sem movimento, sem efeito (é o teste da imagem parada).'},
   {'quando': '2. Os 8 s', 'texto': 'Camada escura', 'como': 'Por cima da imagem, um retângulo preto a 35% de opacidade cobrindo a tela inteira (ou Ajustar → Brilho −25).'},
   {'quando': '3. Os 8 s', 'texto': TEXTO, 'como': 'O MESMO texto e o mesmo estilo do face01: um bloco só, centralizado (X 0 · Y 0), MAIÚSCULAS, Poppins Bold branco, tamanho 8 (ou 7), Sombra preta, Luz DESLIGADA, uma linha em branco entre as frases, largura de ~90%.'},
   {'quando': '4. Os 8 s', 'texto': 'Música de sempre (“Ambient Mystical Drone”), 0 dB', 'como': 'A imagem não tem som: a música é o único áudio. Sem legenda automática, sem números fixos, sem seta.'}]
 p['pecas'] = {'lista': [
-  {'nome': 'face02-IMG', 'de': 'a 3ª das 4 imagens do carro (geradas com o prompt do face01)', 'tipo': 'imagem', 'status': 'reutilizar',
-   'descricao': 'A Nora encostada no banco do motorista, olhos fechados, suéter bege, árvores de outono.'}],
+  {'nome': 'face01-IMG', 'de': 'face01-IMG', 'tipo': 'imagem', 'status': 'reutilizar',
+   'descricao': 'A mesma imagem do face01, espelhada no CapCut (as outras 3 do carro foram apagadas).'}],
   'decisao': [
    'Ideia do aluno (31/10): o vídeo da Mary parece ser uma imagem parada com o texto por cima, não um clipe.',
-   'Teste limpo: o mesmo texto do face01 (clipe que repete) sobre uma imagem parada. Imagem diferente (a 3ª das 4) para o Face não tratar como post repetido.',
+   'Teste limpo: o mesmo texto e a mesma imagem do face01, só que parada (e espelhada, para o Face não ver o mesmo quadro).',
    '0 crédito. Se a imagem parada render igual ou mais, os próximos testes de texto longo no Face saem sem clipe.']}
 p['ordem'] = ['pecas', 'referencia', 'imagens', 'textotela', 'story', 'descricao', 'comentario', 'respostasface', 'fala']
 gravar('PAINEL-FACE02.html', 'Painel face02 (só Face)', p)
