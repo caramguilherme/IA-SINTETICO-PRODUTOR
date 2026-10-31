@@ -480,4 +480,4 @@ Resumo em `FATOS-DO-ALUNO.md` (Mary) e o vídeo dela na seção 42 de `BIBLIOTEC
 **Teste imagem parada x clipe (ideia do aluno, 31/10 ~11h15: "acho que a Mary não usou vídeo, e sim uma imagem"):** face01 (clipe de 8 s que repete) e face02 (imagem parada de 8 s, 0 crédito), com o mesmo texto e imagens diferentes do mesmo ensaio, só no Face, ~3 h entre eles. Medir com ~3 h e ~12 h: views, views de 3 s, tempo médio e comentários. Se a imagem parada render igual ou mais, os próximos textos longos do Face saem sem clipe.
 
 ### 31/10/2026 ~11h30 - Horários fixos (aluno)
-**17h, 19h30, 22h e 00h30** no Insta e no Face (o 1º post do dia às 17h; 2h30 entre eles, como em 29/10). Os `faceNN` (testes só do Face) entram entre eles. Hoje: story-3110 antes das 17h, nora46 às 17h, face01 ~18h15, face02 ~20h45.
+**17h, 19h30, 22h e 00h30** no Insta e no Face (o 1º post do dia às 17h; 2h30 entre eles, como em 29/10). Os vídeos nora ocupam os 4 horários (31/10: nora46 a nora49). Os `faceNN` (testes só do Face) vão **antes das 17h**: o face01 quando o aluno postar, e o face02 na metade do intervalo entre o face01 e as 17h (correção do aluno, 31/10 ~11h40).

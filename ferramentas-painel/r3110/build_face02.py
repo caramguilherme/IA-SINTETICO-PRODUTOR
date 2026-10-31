@@ -27,7 +27,7 @@ r.update({
   'formato': 'Texto longo na tela sobre uma imagem parada de 8 s (a Nora no carro, de olhos fechados); 0 crédito',
   'molde_hook': 'o vídeo da 1ª venda da Mary, que parece ser uma imagem parada com o texto por cima (leitura do aluno, 31/10); mesmo texto do face01',
   'descricao_instagram': "Read this before you scroll. 🙏✨\nYour guardian angel left something for you. Pick your 3 cards in my story. Comment 222.\n#manifestation #1111portal #guardianangel",
-  'legenda_aviso': '📘 SÓ NO FACEBOOK. Não poste no Insta. Ao vivo (nunca agendar), por volta das 20h45 (entre o vídeo das 19h30 e o das 22h).',
+  'legenda_aviso': '📘 SÓ NO FACEBOOK. Não poste no Insta. Ao vivo (nunca agendar), na metade do intervalo entre o face01 e as 17h (eu passo o horário quando você postar o face01).',
   'leitura_registro': F1['roteiro']['leitura_registro'].replace('Para este painel li de novo:', 'Para este painel (face02) li de novo o pacote do face01 e:')})
 p['roteiro'] = r
 p['refs'] = ['Nenhuma imagem nova: a face01-IMG, espelhada no CapCut']
@@ -42,7 +42,7 @@ c['passos'] = [
   'Teste SÓ do Facebook (não posta no Insta). 0 crédito: não gera nada no Flow.',
   'Imagem: a face01-IMG (as outras foram apagadas), espelhada no CapCut (só a imagem, antes do texto).',
   'CapCut (seção de texto na tela): a face01-IMG espelhada, parada por 8 s, sem zoom nem movimento; a camada escura; o MESMO texto do face01; a música a 0 dB.',
-  'Postar SÓ no Facebook, ao vivo, por volta das 20h45 (entre o vídeo das 19h30 e o das 22h; o face01 vai ~18h15). Comentário: só comente.',
+  'Postar SÓ no Facebook, ao vivo, na metade do intervalo entre o face01 e as 17h (o horário eu passo quando você postar o face01). Comentário: só comente.',
   'É um teste: imagem parada (face02) x clipe que repete (face01), com o mesmo texto. Me mande os números dos dois no Face com ~3 h e ~12 h (views, views de 3 s, tempo médio, comentários).']
 c['colagens'] = [{'titulo': 'sem fala', 'fala': '(sem fala)', 'movimentacao': ['(sem fala)'], 'takes': [0]}]
 p['central'] = c
