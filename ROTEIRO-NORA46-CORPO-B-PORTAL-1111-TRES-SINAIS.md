@@ -122,7 +122,7 @@ Visual "especialista" (decisão 3 da aula): **blazer creme sobre blusa branca li
 - **Story novo (`story-3110`):** a mesma Nora de blazer creme, à mesa clara, com 3 cartas viradas para baixo; texto "Tap below: pick 3 cards and see what the 11:11 portal brings you."; adesivo "Pick my 3 cards"; links STORYIG (Insta) e FACE (Face). O `story-3010` vence ~18h44 de 31/10.
 
 ## Créditos e reaproveitamento
-- **12 takes de 10 s = 180 créditos** (conta grande: 249 → 69). Hook 0. Imagens 0.
+- **12 takes de 10 s = 180 créditos** (conta grande: 279 → 99). Hook 0. Imagens 0.
 - O corpo é gerado uma vez e serve aos próximos posts até 11/11 trocando só o hook (0 crédito). Depois do dia 11, para virar um corpo "3 sinais de um novo capítulo" sem data, regerar só os takes com o portal (T01, T03, T04, T10 e T12: 75 créditos); os takes 2, 5 a 9 e 11 não falam do portal.
 
 ## Postagem

@@ -232,7 +232,7 @@ c['passos'] = [
   'Também sem crédito: as 3 imagens do desejo (IMAGEM 2 a 4, sem anexar nada) e a imagem do story (seção “Story”, anexe SÓ o blueprint). Renomeie: nora46-DESEJO-1-dinheiro, nora46-DESEJO-2-casal, nora46-DESEJO-3-casa e story-3110.',
   'Story novo (story-3110) antes das 18h44 de hoje, quando o story-3010 vence: no Insta com o link STORYIG e no Face com o link FACE (seção “Story”). Confira o link na prévia antes de publicar.',
   'Depois do meu ok na imagem: Central do curso com a configuração da seção “Central do curso” (o LIVRE é novo) e a fala e a movimentação da seção “A fala e a movimentação”. Confira: 12 takes de 10 s.',
-  'Agente do Flow: anexe só a nora46-IMG, cole o aviso e, embaixo, o “COPIAR TUDO JUNTO” da Central, sem editar. 180 créditos (conta grande: 249 → 69). Renomeie os takes com os nomes do painel (T01 a T12, 2 dígitos).',
+  'Agente do Flow: anexe só a nora46-IMG, cole o aviso e, embaixo, o “COPIAR TUDO JUNTO” da Central, sem editar. 180 créditos (conta grande: 279 → 99). Renomeie os takes com os nomes do painel (T01 a T12, 2 dígitos).',
   'Se o agente gerar menos de 12, abra um projeto novo no Flow e mande só os que faltaram.',
   'Me mande a transcrição dos 12 takes antes de cortar (P33).',
   'Corte de silêncio (seção “Cortar os silêncios”): nora46-T01 a T12 de uma vez, “Juntar tudo” ligado, Corte seco.',
