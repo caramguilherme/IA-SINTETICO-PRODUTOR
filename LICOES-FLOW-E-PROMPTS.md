@@ -374,3 +374,5 @@ No 1º painel do nora44 (o vídeo do nora40 com outro hook), a "Fala completa" m
 
 ### 31/10/2026 - Texto do topo da fita: linha longa corta nas pontas no tamanho 12
 No nora45 a frase do meio, "November will be the luckiest month of your life" (48 caracteres), cortou nas pontas da tela no tamanho 12; o aluno usou o tamanho 9 nas 3 linhas e ficou bom. No nora41, "November is your most blessed month." (37 caracteres) coube no 12. **Regra:** no texto do topo (fita, placa), cada linha com até ~37 caracteres vai no tamanho 12; linha mais longa vai no tamanho 9 ou é quebrada em duas. Conferir a linha mais longa antes de dar o tamanho no painel. Corrigido no painel do nora45.
+
+- **Imagem sem a Nora no painel (31/10/2026):** imagens de B-roll (as do desejo do corpo B: dinheiro, casal, casa) vão no pacote com `prompt_completo`, sem a trava de identidade nem o blueprint anexado ("anexar: NADA"), sem rosto reconhecível e sem texto. A trava só entra nas imagens da Nora.
