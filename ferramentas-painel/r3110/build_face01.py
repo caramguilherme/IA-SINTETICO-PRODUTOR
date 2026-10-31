@@ -105,7 +105,7 @@ p['story'] = {'ja_postado': True, 'nota': '✅ NÃO FAÇA STORY PARA ESTE VÍDEO
 p['edicao_linha'] = [
   {'quando': '1. O clipe todo (8 s)', 'texto': 'Escurecer o clipe (para o texto branco ler bem)', 'como': 'CapCut: com o clipe selecionado, (1) à direita, Plano de fundo → Cor → preto; (2) Básico → Opacidade (dentro de Mistura) → 65%: a imagem fica ~35% mais escura. Se escurecer demais, 70%; se ficar clara, 60%. Sem achar a Opacidade: Elementos → Formas → quadrado preto, esticado até cobrir a tela, Opacidade 35%, na faixa acima e com a mesma duração.'},
   {'quando': '2. O clipe todo', 'texto': TEXTO,
-   'como': 'Cole EXATAMENTE como está acima, com as quebras de linha e as linhas em branco (o CapCut não quebra a linha sozinho). Um bloco só, centralizado (X 0 · Y 40), MAIÚSCULAS, Poppins Bold (poppins-bd), branco, tamanho 7 (se ainda cortar dos lados, 6), Sombra preta, Luz DESLIGADA. Ocupa do ~15% ao ~85% da altura.'},
+   'como': 'Cole EXATAMENTE como está acima, com as quebras de linha e as linhas em branco (o CapCut não quebra a linha sozinho). Um bloco só, centralizado (X 0 · Y 40), MAIÚSCULAS, Poppins Bold (poppins-bd), branco, tamanho 9, Escala 100% (não aumentar: em 122% corta dos lados), Sombra preta, Luz DESLIGADA. Ocupa do ~15% ao ~80% da altura (conferido pelo aluno em 31/10).'},
   {'quando': '3. O clipe todo', 'texto': 'Som do clipe ligado + música de sempre (“Ambient Mystical Drone”), 0 dB', 'como': 'Sem legenda automática (ela não fala), sem números fixos e sem seta (o texto já diz o que fazer).'}]
 p['pecas'] = {'lista': [
   {'nome': 'face01-IMG', 'tipo': 'imagem 1', 'status': 'gerar', 'descricao': 'Do blueprint: a Nora no carro parado ao fim da tarde, olhos fechados, suéter bege, árvores de outono lá fora.',

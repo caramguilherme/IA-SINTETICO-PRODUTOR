@@ -49,7 +49,7 @@ p['central'] = c
 p['edicao_linha'] = [
   {'quando': '1. Base (8 s)', 'texto': 'face01-IMG espelhada e parada', 'como': 'Importe a face01-IMG, espelhe (Editar → Espelhar) e deixe a duração em 8 s. Sem zoom, sem movimento, sem efeito (é o teste da imagem parada).'},
   {'quando': '2. Os 8 s', 'texto': 'Escurecer a imagem (para o texto branco ler bem)', 'como': 'CapCut: com a imagem selecionada, (1) à direita, Plano de fundo → Cor → preto; (2) Básico → Opacidade (dentro de Mistura) → 65%: a imagem fica ~35% mais escura. Se escurecer demais, 70%; se ficar clara, 60%. Sem achar a Opacidade: Elementos → Formas → quadrado preto, esticado até cobrir a tela, Opacidade 35%, na faixa acima e com a mesma duração da imagem.'},
-  {'quando': '3. Os 8 s', 'texto': TEXTO, 'como': 'O MESMO texto e o mesmo estilo do face01: cole com as quebras de linha e as linhas em branco (o CapCut não quebra sozinho), um bloco só, centralizado (X 0 · Y 40), MAIÚSCULAS, Poppins Bold branco, tamanho 7 (se cortar dos lados, 6), Sombra preta, Luz DESLIGADA.'},
+  {'quando': '3. Os 8 s', 'texto': TEXTO, 'como': 'O MESMO texto e o mesmo estilo do face01: cole com as quebras de linha e as linhas em branco (o CapCut não quebra sozinho), um bloco só, centralizado (X 0 · Y 40), MAIÚSCULAS, Poppins Bold branco, tamanho 9, Escala 100% (em 122% corta dos lados), Sombra preta, Luz DESLIGADA.'},
   {'quando': '4. Os 8 s', 'texto': 'Música de sempre (“Ambient Mystical Drone”), 0 dB', 'como': 'A imagem não tem som: a música é o único áudio. Sem legenda automática, sem números fixos, sem seta.'}]
 p['pecas'] = {'lista': [
   {'nome': 'face01-IMG', 'de': 'face01-IMG', 'tipo': 'imagem', 'status': 'reutilizar',

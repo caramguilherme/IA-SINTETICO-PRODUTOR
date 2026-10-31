@@ -32,7 +32,7 @@ THEN SEND THIS TO YOURSELF AND COMMENT "222" TO STRENGTHEN IT.
 - `face01-CLIPE`: 8 s em Frames, primeiro e último quadro = `face01-IMG` (repete sem pulo): respira devagar, um fio de cabelo mexe, folhas caem lá fora; ela não abre os olhos nem fala. 12 créditos. O mesmo clipe serve a outros textos longos no Face (0 crédito).
 
 ## Edição
-Clipe escurecido (Plano de fundo → Cor → preto; Básico → Opacidade 65%); o texto em um bloco só, já quebrado em linhas de até 44 caracteres (o CapCut não quebra sozinho), centralizado em X 0 · Y 40, MAIÚSCULAS, Poppins Bold branco, tamanho 7 (ou 6), sombra preta; som do clipe e a música de sempre a 0 dB; sem legenda automática, sem números fixos, sem seta.
+Clipe escurecido (Plano de fundo → Cor → preto; Básico → Opacidade 65%); o texto em um bloco só, já quebrado em linhas de até 44 caracteres (o CapCut não quebra sozinho), centralizado em X 0 · Y 40, MAIÚSCULAS, Poppins Bold branco, tamanho 9, Escala 100% (conferido pelo aluno), sombra preta; som do clipe e a música de sempre a 0 dB; sem legenda automática, sem números fixos, sem seta.
 
 ## Legenda e comentário (Face)
 - Legenda: 'Read this before you scroll. Your guardian angel left something for you. 🙏✨\nTap my photo, open my story and pick your 3 cards. Comment 222.\n#manifestation #1111portal #guardianangel'
