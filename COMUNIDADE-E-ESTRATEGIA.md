@@ -481,3 +481,6 @@ Resumo em `FATOS-DO-ALUNO.md` (Mary) e o vídeo dela na seção 42 de `BIBLIOTEC
 
 ### 31/10/2026 ~11h30 - Horários fixos (aluno)
 **17h, 19h30, 22h e 00h30** no Insta e no Face (o 1º post do dia às 17h; 2h30 entre eles, como em 29/10). Os vídeos nora ocupam os 4 horários (31/10: nora46 a nora49). Os `faceNN` (testes só do Face) vão **antes das 17h**: o face01 quando o aluno postar, e o face02 na metade do intervalo entre o face01 e as 17h (correção do aluno, 31/10 ~11h40).
+
+### 31/10/2026 ~11h20 - Teste da localização Los Angeles: encerrado
+Três peças de 8 s com a localização LA no Insta: nora38 5,1% de EUA, nora41 18,2%, nora45 10,7%; sem localização, as placas nora35 e nora36 deram 14,2% e 12,7%. Não há ganho: **a localização sai dos próximos posts** (critério de 30/10: abaixo de ~13%, sai). O que muda a parte dos EUA é o horário (depois das 22h) e o formato, não a localização.
