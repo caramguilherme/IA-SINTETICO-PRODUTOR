@@ -1,6 +1,6 @@
 # 31/10/2026 (~11h30): painéis do nora47, nora48 e nora49 = o corpo B do nora46 (portal 11/11, 3 sinais) com um Take 1 NOVO com signos
 # em cada um (pedido do aluno: "pode trocar o take 1 do nora47 até o nora49"). Motivo: no Insta, o mesmo corpo com o mesmo Take 1 e só o
-# hook trocado não é entregue (nora44: 178 views, contra 1.382 do nora40). Os 3 Takes 1 saem juntos no painel do nora47 (45 créditos).
+# hook trocado não é entregue (nora44: 178 views, contra 1.382 do nora40). Cada painel gera só o seu Take 1 (15 créditos; aluno, 31/10 ~19h).
 # Base: PAINEL-NORA46.html (Central, LIVRE, movimentação, mapa da tela, edição). Uso: python3 -I build_4749.py <pasta do repositório>
 import re, json, copy, sys
 BASE = sys.argv[1] if len(sys.argv) > 1 else '.'
@@ -104,7 +104,7 @@ PROXIMOS = {'proximos_intro': 'Próximos Takes 1 do corpo B (15 cada, na nora46-
     'gancho': 'Sign one: you keep dreaming about a love that feels calm, and for the first time, you believe you deserve it.', 'texto': '3 signs love is on its way'}]}
 
 def pacote(g):
-    n, junto = g['n'], g['n'] == 47
+    n = g['n']
     p = {k: copy.deepcopy(P46[k]) for k in ('perfil', 'trava_referencia', 'figurino', 'excecao_estilo')}
     p['ocultar_bloco_agente_imagem'] = True
     p['roteiro'] = {
@@ -120,7 +120,7 @@ def pacote(g):
     p['imagem_reutilizada'] = {'arquivo': 'nora46-IMG',
       'aviso': 'O Take 1 usa a nora46-IMG, a mesma dos 12 takes do nora46 (blazer creme, estúdio claro, microfone à esquerda). Não gere imagem nova.'}
     p['imagens'] = [{'rotulo': 'IMAGEM 1 · nora46-IMG (já aprovada)', 'cena': '(não gerar)'}]
-    lista_v = G if junto else [g]
+    lista_v = [g]
     p['videos'] = [{'rotulo': f"T01 · nora{x['n']}", 'cena': f"Take 1/12 do nora{x['n']} · Gancho: {x['pt']} + o portal", 'duracao': '10',
                     'primeiro_quadro': 'IMAGEM 1', 'acao': '', 'b_roll': '', 'fala': x['fala'], 'movimentacao': x['mov'], 'arquivo': x['arq']} for x in lista_v]
     p['texto_tela'] = {'hook': g['caixa'], 'hook_comeca': 'o primeiro quadro do hook', 'hook_termina': "it's not a coincidence.", 'hook_alt': '', 'extras': []}
@@ -141,47 +141,27 @@ def pacote(g):
     c['conferir'] = ('Conferir no Take 1: é a Nora da nora46-IMG (rosto, lua com as estrelinhas, trança, blazer creme e blusa branca); ela fala uma vez só, em inglês, '
                      'com os signos certos e "eleven eleven"; a mão do lado do microfone (esquerdo da imagem) fica na mesa; a do lado direito só faz o gesto do take; '
                      'o microfone não se mexe; sem texto, legenda ou música. Ouça a emenda com o Take 2 do nora46.')
-    if junto:
-        c['passos'] = [
-          'Imagem: não gere. Use a nora46-IMG (a mesma dos 12 takes do nora46).',
-          'Os 3 Takes 1 de hoje saem juntos, aqui: nora47 (Touro, Virgem, Capricórnio), nora48 (Câncer, Escorpião, Peixes) e nora49 (Áries, Leão, Sagitário). Uma colagem na Central e uma mensagem no agente: 45 créditos na conta grande (~99 → ~54, depois do nora46). Faça depois dos 12 takes do nora46.',
-          'Central do curso: a MESMA configuração do nora46 (seção “Central do curso”, com o mesmo texto LIVRE). Cole a fala e as 3 linhas de movimentação da seção “A fala e a movimentação”. Gere e confira: 3 takes de 10 s.',
-          'Agente do Flow: conversa nova, anexe só a nora46-IMG, cole o aviso e, embaixo, o “COPIAR TUDO JUNTO” da Central, sem editar. Renomeie na ordem: o 1º = nora47-T01-gancho-portal-touro-virgem-capricornio, o 2º = nora48-T01-gancho-portal-cancer-escorpiao-peixes, o 3º = nora49-T01-gancho-portal-aries-leao-sagitario.',
-          'Me mande a transcrição dos 3 antes de cortar (P33).',
-          'Corte de silêncio: só o nora47-T01, sozinho (os valores da seção “Cortar os silêncios”), salvo como nora47-T01-cortado. Legenda automática só desse pedaço (o mesmo estilo do nora46), salva como nora47-T01-legendado. Os takes 2 a 12 já estão cortados e legendados no projeto do nora46: não corte de novo.',
-          'CapCut: projeto novo com o vídeo FINAL do nora46 (exportado, com tudo), cortado no começo do Take 2; antes dele, o hook e o Take 1 novos, com a caixa do topo, os números e a música (passo a passo na seção de texto na tela).',
-          f"Postar {g['quando']} no Insta e no Face, ao vivo, sem localização (é falado). Story: nada novo (vale o story-3110 do nora46). Comentário: no Insta, comente e fixe (sem link); no Face, só comente."]
-        c['agente'] = copy.deepcopy(P46['central']['agente'])
-        c['agente']['aviso'] = ('Vou te enviar 3 prompts, cada prompt é um vídeo. Faça todos na ordem, sem pedir minha aprovação entre um e outro, e depois renomeie cada um '
-                                'com o devido número. Mantenha a consistência de voz em todos eles e utilize a imagem anexada como frame inicial e frame final em todos os vídeos que você gerar.')
-        c['agente']['passos'] = ['Abra uma conversa nova no agente do Flow.',
-          'Nas configurações do agente, ligue a opção de gerar sem pedir aprovação e salve antes de enviar.',
-          'Anexe só a nora46-IMG.',
-          'Cole o aviso (acima) e, embaixo, o bloco “COPIAR TUDO JUNTO” da Central, sem editar nada.',
-          'Envie. Renomeie na ordem: 1º nora47-T01-gancho-portal-touro-virgem-capricornio, 2º nora48-T01-gancho-portal-cancer-escorpiao-peixes, 3º nora49-T01-gancho-portal-aries-leao-sagitario.',
-          'Se ele gerar menos de 3, gere só o que faltou pelo painel do nora48 ou do nora49 (lá está o aviso de 1 prompt).']
-        c['colagens'] = [{'titulo': 'os 3 Takes 1 de hoje (nora47, nora48, nora49)', 'fala': ' '.join(x['fala'] for x in G),
-                          'movimentacao': [x['mov'] for x in G], 'takes': [0, 1, 2]}]
-    else:
-        c['passos'] = [
-          f"O Take 1 deste vídeo ({g['arq']}) sai junto com o do nora47 e o do nora49, no painel do nora47 (1 colagem, 1 mensagem, 45 créditos). Se já gerou lá, pule a Central e o agente deste painel.",
-          'Só se não gerou no nora47: Central com a MESMA configuração do nora46 (seção “Central do curso”); cole só a fala e a linha deste take (1 take de 10 s). Agente: anexe a nora46-IMG, cole o aviso de 1 prompt e, embaixo, o prompt do take (botão COPIAR do take). 15 créditos, conta grande.',
-          'Me mande a transcrição do Take 1 antes de cortar (P33).',
-          f"Corte de silêncio: só o nora{n}-T01, sozinho (os valores da seção “Cortar os silêncios”), salvo como nora{n}-T01-cortado. Legenda automática só desse pedaço (o mesmo estilo do nora46), salva como nora{n}-T01-legendado.",
-          'CapCut: projeto novo com o vídeo FINAL do nora46 (exportado, com tudo), cortado no começo do Take 2; antes dele, o hook e o Take 1 novos, com a caixa do topo, os números e a música (passo a passo na seção de texto na tela).',
-          f"Postar {g['quando']} no Insta e no Face, ao vivo, sem localização (é falado). Story: nada novo (vale o story-3110 do nora46). Comentário: no Insta, comente e fixe (sem link); no Face, só comente."]
-        c['agente'] = {'imagem': 'nora46-IMG',
-          'aviso': 'Irei enviar 1 prompt para você. Quero que seja feita uma animação da imagem anexada. Utilize a imagem anexada como frame inicial e frame final do vídeo.',
-          'aviso_tag': 'obrigatório: com 1 take o prompt da Central não traz o modo agente',
-          'intro': 'Só se não gerou no nora47. Uma imagem e uma mensagem: anexe a nora46-IMG, cole o aviso e, embaixo, o prompt do Take 1 (botão COPIAR do take na Central; com 1 take não existe o bloco “COPIAR TUDO JUNTO”).',
-          'passos': ['Abra uma conversa nova no agente do Flow.', 'Anexe a nora46-IMG (só ela).', 'Cole o aviso (acima).',
-                     'Embaixo, cole o prompt do Take 1 (botão COPIAR do take na Central).',
-                     f"Envie. Renomeie para {g['arq']}. Confira o vídeo e me diga se falhou (o que saiu errado)."]}
-        c['colagens'] = [{'titulo': f"só o Take 1 do nora{n} (se não saiu no nora47)", 'fala': g['fala'], 'movimentacao': [g['mov']], 'takes': [0]}]
+    # Cada painel gera só o seu Take 1 (aluno, 31/10 ~19h: "é pra ter só o take 1 do nora47; no nora48 só o do nora48").
+    c['passos'] = [
+      'Imagem: não gere. Use a nora46-IMG (a mesma dos 12 takes do nora46).',
+      'Central do curso: a MESMA configuração do nora46 (seção “Central do curso”, com o mesmo texto LIVRE). Cole só a fala e a linha de movimentação deste Take 1 (seção “A fala e a movimentação”). Gere e confira: 1 take de 10 s.',
+      f"Agente do Flow: conversa nova, anexe só a nora46-IMG, cole o aviso de 1 prompt e, embaixo, o prompt do take (botão COPIAR do take na Central). 15 créditos, conta grande. Renomeie para {g['arq']}.",
+      'Me mande a transcrição do Take 1 antes de cortar (P33).',
+      f"Corte de silêncio: só o nora{n}-T01, sozinho (os valores da seção “Cortar os silêncios”), salvo como nora{n}-T01-cortado. Legenda automática só desse pedaço (o mesmo estilo do nora46), salva como nora{n}-T01-legendado.",
+      'CapCut: projeto novo com o vídeo FINAL do nora46 (exportado, com tudo), cortado no começo do Take 2; antes dele, o hook e o Take 1 novos, com a caixa do topo, os números e a música (passo a passo na seção de texto na tela).',
+      f"Postar {g['quando']} no Insta e no Face, ao vivo, sem localização (é falado). Story: nada novo (vale o story-3110 do nora46). Comentário: no Insta, comente e fixe (sem link); no Face, só comente."]
+    c['agente'] = {'imagem': 'nora46-IMG',
+      'aviso': 'Irei enviar 1 prompt para você. Quero que seja feita uma animação da imagem anexada. Utilize a imagem anexada como frame inicial e frame final do vídeo.',
+      'aviso_tag': 'obrigatório: com 1 take o prompt da Central não traz o modo agente',
+      'intro': 'Uma imagem e uma mensagem: anexe a nora46-IMG, cole o aviso e, embaixo, o prompt do Take 1 (botão COPIAR do take na Central; com 1 take não existe o bloco “COPIAR TUDO JUNTO”).',
+      'passos': ['Abra uma conversa nova no agente do Flow.', 'Anexe a nora46-IMG (só ela).', 'Cole o aviso (acima).',
+                 'Embaixo, cole o prompt do Take 1 (botão COPIAR do take na Central).',
+                 f"Envie. Renomeie para {g['arq']}. Confira o vídeo e me diga se falhou (o que saiu errado)."]}
+    c['colagens'] = [{'titulo': f"só o Take 1 do nora{n}", 'fala': g['fala'], 'movimentacao': [g['mov']], 'takes': [0]}]
     p['central'] = c
 
     p['story'] = {'ja_postado': True,
-      'nota': '✅ NÃO FAÇA STORY PARA ESTE VÍDEO. Vale o story-3110 (o do painel do nora46, postado antes das 17h), no Insta e no Face. Se ele ainda não estiver no ar, poste-o antes deste vídeo (imagem, texto, adesivo e links no painel do nora46).'}
+      'nota': '✅ NÃO FAÇA STORY PARA ESTE VÍDEO. Vale o story-3110 (o do painel do nora46, postado em 31/10 às 18h30), no Insta e no Face. Se ele ainda não estiver no ar, poste-o antes deste vídeo (imagem, texto, adesivo e links no painel do nora46).'}
 
     mp = copy.deepcopy(P46['mapa_tela'])
     mp['numeros'] = g['num']
@@ -219,14 +199,14 @@ def pacote(g):
     for x in lista_v:
         L.append({'nome': x['arq'], 'tipo': 'take', 'status': 'gerar', 'creditos': 15,
                   'descricao': f"Gancho com os signos ({x['pt']}): “{x['fala']}”",
-                  'serve': f"O nora{x['n']} ({x['hora']})." + (' Gerado junto com os outros 2, neste painel.' if junto else ' Gerado no painel do nora47, junto com os outros 2.')})
+                  'serve': f"O nora{x['n']} ({x['hora']})."})
     L += [{'nome': 'nora46-T02 a nora46-T12 (o corpo B)', 'de': 'nora46', 'tipo': 'corpo', 'status': 'reutilizar',
            'descricao': 'O vídeo FINAL do nora46, exportado, a partir do Take 2: já tem a legenda, os sinais, as fotos do desejo, as avaliações, a faixa do story, a seta, os números e a música. Não gere, não corte e não junte de novo.',
            'fala': ' '.join(v['fala'] for v in V46[1:])},
           {'nome': 'story-3110', 'de': 'nora46', 'tipo': 'story', 'status': 'reutilizar', 'descricao': 'O story do nora46 (antes das 17h) vale para este vídeo.'}]
     p['pecas'] = dict({'lista': L, 'decisao': [
       'No Insta, cada post do mesmo corpo leva um Take 1 novo: o nora44, só com o hook trocado, fez 178 views; o nora43, com Take 1 novo, fez 968. Por isso: hook pronto (0) + Take 1 com os signos (15) + o corpo do nora46.',
-      'Os 3 Takes 1 de hoje (nora47, nora48, nora49) saem juntos no painel do nora47: uma colagem, uma mensagem no agente, 45 créditos.',
+      'Cada painel gera só o seu Take 1: uma colagem de 1 take na Central e uma mensagem no agente, 15 créditos.',
       'Signos na fala e na caixa do topo (série por signos; dica do Matheus). A frase segue a do nora46 (o portal e “não é coincidência”), sem ameaça (P42).',
       f"Hook: {g['hook_nome']}. O resto vem do vídeo final do nora46, com os mesmos números: só o começo (hook, Take 1 e caixa) é novo."]}, **PROXIMOS)
     p['ordem'] = ['pecas', 'referencia', 'imagens', 'todos', 'central', 'cenas', 'agente', 'silencio', 'prehook', 'textotela', 'story', 'descricao', 'comentario', 'respostasface', 'fala']

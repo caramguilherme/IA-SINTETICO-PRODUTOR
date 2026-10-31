@@ -21,7 +21,7 @@ Movimentação (uma frase, sem palavras da fala): Throughout the whole 10 second
 Emenda: termina em "it's not a coincidence." e o Take 2 do nora46 começa em "If you've been working so hard…".
 
 ## Geração
-Os 3 Takes 1 do dia (nora47, nora48 e nora49) saem juntos **neste painel**: uma colagem na Central (3 takes de 10 s) e uma mensagem no agente com a `nora46-IMG`; 45 créditos na conta grande (~99 → ~54, depois dos 180 do nora46).
+Só o Take 1 deste vídeo, neste painel (aluno, 31/10 ~19h: cada painel gera só o seu): 1 colagem de 1 take na Central e 1 mensagem no agente com a `nora46-IMG` e o aviso de 1 prompt; 15 créditos na conta grande.
 
 ## Texto na tela, números, legenda e comentário
 - Caixa do topo (do 1º quadro do hook até o fim do Take 1, X 0 · Y 397, tamanho 10, 3 linhas, signos em vermelho): TAURUS, VIRGO, CAPRICORN / The 11:11 portal is opening. / 3 signs it chose you
