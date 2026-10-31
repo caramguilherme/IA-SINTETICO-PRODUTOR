@@ -1,0 +1,114 @@
+# chat-appyon — 30/10 11h44 a 20h28
+
+Conversa completa do canal no período (respostas indicadas entre parênteses).
+
+## 30/10 (sexta)
+
+- **11:58 Herick [MVM]** (resp. Falzera, "quando vai sair o app novo?"): No evento falaram que nas próximas semanas
+- **12:10 brunolyra7 [MVM]:** Pessoal, vou criar hoje aqui as páginas do Facebook pela primeira vez. Pra Facebook precisa de alguma configuração extra, tipo Proxy, IP, essas paradas... Não entendo muito essa questão de contingência. Ou por enquanto não precisa nada disso já que serão poucas páginas?
+- **12:17 Gabriela Portela:** Galera do GeeLark sabe como atualizo o tiktok lá para agendar post?
+- **12:19 Paulo Victor Amaral [MVM]** (resp. brunolyra7): Não precisa, mas evite criar mais que 4, 5 páginas no mesmo perfil e faça o mesmo aquecimento do insta antes de começar a postar
+- **12:26 brunolyra7:** Valeu. Vou criar 4 só. Obrigado pela resposta / 12:27 No caso, uso de emulador, Proxy, multilogin, essas paradas todas. É só pra Instagram, correto? Ou se tiver muitas páginas de face?
+- **12:37 Vinicius B** (resp. Mayfair, páginas caindo): sakasasksa td bem / 12:38 aq ta a mesma coisa, to testando agora isolando as paginas em outro ambiente, pra ver se performa melhor... Suspeitando q posso ta cm o IP taggado de alguma forma n sei
+- **12:39 ✅:** Pessoal boa tarde. Qual IA vcs usam para criar os avatares e videos, vi que tem o flow, plano é 1000 reais mes. Tem algum mais barato? Obg
+- **12:51 Guilherme:** responder comentario no insta pelo geelark, manualmente, da algum problema? / alguém faz isso/já fez?
+- **12:57 Gabriel soares [MVM]:** Galera aquele hacker lá do flow pelo telegram, alguém sabe se tá funcionando ainda? Sem estoque desde ontem
+- **13:01 brunolyra7** (resp. Gabriel): Pelo que sei parou de funcionar ontem esse método
+- **13:04 Gabriel soares:** Logo na minha vez kkkk. E agora como vcs estão fazendo? Entrando em rateio msm?
+- **13:06 brunolyra7:** Boa pergunta, tô querendo dicas tbm
+- **13:07 Gabriel soares:** Pq a versão ilimitada low priority só tem disponível pro adm da família. No caso os vídeos só podem ser gerado lá. O ruim e que os projetos fica visível para todos da família que tem acesso a conta do ADM @Gustavo Alves ⛩ @Kadu Sousa
+- **13:12 Gabriel soares:** @Ju Santos
+- **13:13 Kadu Sousa [MVM] (Líder Suporte):** Eita marcou tudo mundo. Poderia ter aberto um ticket kkkkk
+- **13:14 Gabriel soares:** Pensei em abrir kkkk e pq e bom que tira a dúvida de todos que precisar irmão kkkk
+- **13:14 Kadu Sousa:** Primeira vez que vejo essa dúvida / Mas vamos lá tem um esquema de comprar o flow pro / Já viu? / Pegar aqui pra vc
+- **13:15 brunolyra7** (sobre o low priority só pro adm da família): E a qualidade do low tá bem ruim. Nem sei se vale a pena
+- **13:16 Gabriel soares** (resp. Kadu): E a mesma que tá no fórum?
+- **13:17 Cassia Y:** Kadu, cabô o esqueminha
+- **13:17 Kadu Sousa:** Comprei esses dias Geová
+- **13:17 Cassia Y:** cabo ontem,rs
+- **13:17 Kadu Sousa** (resp. Gabriel): Seria
+- **13:17 Ari & Lu - Hope** (resp. Herick, app novo "nas próximas semanas"): uii não era no evento que ia lançar?
+- **13:18 Kadu Sousa:** Ai é foda
+- **13:18 Cassia Y:** muito triste. Mas se alguém achar um esqueminha novo, tô precisando!!!
+- **13:18 Castanho:** Tem estoque hoje já kkkkk / 13:19 Só aumentou o preço / Ta $2,5
+- **13:19 Cassia Y:** ondeeeeee??? Quero!
+- **13:19 Castanho:** Ggsoma / Pelo menos tinha de manhã
+- **13:19 Cassia Y:** No gg? / Se vc tentar comprar vai ver que tem 0 unidades
+- **13:19 Kadu Sousa:** No Telegram né?!
+- **13:20 Cassia Y:** isso!
+- **13:20 Castanho:** Verdade, tentei aqui agora
+- **13:20 Gabriel soares:** Estou por fora. Qual chat e esse?
+- **13:22 Cassia Y:** ggmax, é no telegram, onde tinha gemini pro, mas não tem mais. Tem tópico no forum appyon
+- **13:22 brunolyra7:** Estamos kkkkkkkk. Esperar que alguma alma abençoada dê uma luz
+- **13:23 Cassia Y:** amem!
+- **13:23 Gabriel soares:** Kkkkkkk eu estava precisando urgente
+- **13:24 Gyro [MVM] (Tenente):** Esquema do Google AI Pro foi pro saco mesmo né / 13:25 todos telegram aqui tá off, e sem estoque
+- **13:26 Cassia Y:** sim
+- **13:27 Kadu Sousa:** Logo vamos encontrar uma nova opção galera
+- **13:28 Vinicius Brozeguini:** galera só eu nao estou conseguindo entrar na central?
+- **13:39 Gabriel soares:** Quando a gente faz a compra pelo GG no telegram aonde recebemos o acesso
+- **13:40 Thawam [MVM]:** Assim que vc faz o pagamento eles te mandam o link, vc cola no navegador e faz a ativação / Isso quando tinha ainda kkkk
+- **13:44 Herick [MVM]** (resp. Kadu): com a quantidade de grana que estamos fazendo, cada um aqui vai conseguir pagar o ultra sozinho / 13:45 (e vai ser barato)
+- **13:50 Juliana Kli:** Meus links nos comentarios no face não estão mais ficando fixados no topo, alguém conseguiu reverter isso?
+- **13:51 Walter:** posta pelo metabusines suit, e comenta depois que da certo!
+- **13:51 Kadu Sousa** (resp. Herick): Essa é a forma de pensar
+- **13:52 Juliana Kli:** eu posto pelo meta, e sempre ficou no topo, agora todos foram la pra baixo, mesmo os antigos...
+- **13:56 Lorys Nunes** (resp. Herick): É isso! Eu pago o heygen e o elevenlabs com gosto, porque sei que o investimento vai voltar…
+- **13:58 Dany [MVM]:** Meu sonho vender, sigo firme
+- **14:02 brunolyra7:** Com certeza amigo, a meta é essa mesmo.
+- **14:13 Ju Santos [MVM]** (resp. Vinicius Brozeguini, central): O que acontece quando tenta acessar?
+- **14:31 Joy&Vini:** Galera, Criei perfil no instagram la nos EUA, mas caiu em uma pagina de verificação. falou que vai avaliar o perfil.... Isso é normal?
+- **15:00 Belle [MVM]:** É normal, dá um tempo que pode voltar ou não! Na hora da criação isso né?
+- **15:00 Joy&Vini:** Isso, acabei vendo aqui que deu certo. Obrigado viu
+- **15:17 Cassia Y:** NÃO TESTEI HEIN!!!!!!!!! / 15:18 para quem estiver precisando urgente do gemini, o ggsoma está oferecendo TRÊS MESES por U$ 2,55. É tipo um TRIAL, então tem que ser conta que nunca foi usada antes. TEORICAMENTE não cobra, mas tem que inserir os dados do cartão de crédito
+- **15:24 Wall Estevam [MVM]** (resp. Herick, pagar o Ultra): acho q o ultra n vale mn / as imagens de avatar q o flow ta me gerando
+- **15:24 Wall Estevam:** [print de imagens de avatar geradas no Flow, qualidade ruim]
+- **15:25 Vinicius B:** belissima qualidade! (ironia)
+- **15:26 MJ COMPANY📈:** fala mn, consegue dar uma olhada no pv?
+- **15:31 Fernando Lopes [MVM]:** Pessoal, na automação do facebook ensinada pelo Gustavo não tem mais essa primeira opção ali, pode configurar a segunda opção ali do aviãozinho? [print]
+- **15:32 Juliana Kli:** eu posso mandar o mesmo doc em 2 contas do facebook pra tentar recuperar? @Ju Santos @Suporte
+- **15:37 Caio1094** (resp. Fernando): Pesquisa "comentário para enviar msg" que vc vai achar / Vai no pesquisar nessa página mesmo e escreve isso que aparece
+- **15:40 Ju Santos [MVM]:** Pode sim Ju. Sendo face, você pode
+- **15:41 Eduarda Kelly:** Alguém recebeu isso aqui no Facebook? [print: aviso do Facebook citando as "Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021" (lei da Índia) e um pedido legal para restringir o conteúdo]
+- **15:42 Juliana Kli:** pq eu enviei o meu doc em uma conta e recuperei, agora não sei se pode dar ruim usar o mesmo em outra, que é um outro nome aleatorio, a conta nao ta com o meu nome, da vou mandar o doc com meu nome, será que vale a pena arriscar?
+- **15:43 Ju Santos:** Facebook você pode enviar o mesmo documento sem problema.
+- **15:58 Thawam [MVM]** (resp. Eduarda Kelly): Eu sim, em uma conta nova. Acho que não tem problema nenhum, pelo menos não impactou em nada
+- **16:11 Fernando Lopes:** Pesquisei, não tem, deve ser a segunda opção que marquei lá em cima, Resposta automática.
+- **16:13 Caio1094:** Não man, não é não.. essa é pra quando te mandam DM / 16:14 [print]
+- **16:17 Elton Ferreira [MVM]:** Você já tinha feito uma? Aqui, fiz uma esses dias, quando voltei para criar outra, mas a opção não estava mais disponível. Só permitia alterar a existente.
+- **16:17 Fernando Lopes:** Pronto, então a minha já tá em uso, acho que quando ela fica em uso ela sai da lista principal!
+- **16:17 Caio1094:** Da pra criar várias!!
+- **16:18 Fernando Lopes:** Isso, só que na revisão eu achei que poderia ter escolhido errado!
+- **16:18 Caio1094:** Ela sai do disponível, mas se vc digitar ali em criar automação, e ir na pesquisa, aparece novamente / 16:19 Mas tu foi em Criar Automação, e depois em pesquisar?
+- **16:19 Fernando Lopes:** Exato, obrigado amigo! / quando eu cliquei ali em automação, apareceu a opção dizendo que já estava em uso. / 16:20 [print]
+- **16:20 Caio1094:** Ai clica em criar automação, depois vai aparecer algumas e na pesquisa vc escreve
+- **16:21 Fernando Lopes:** Tendi
+- **16:22 Elton Ferreira:** boa... tava achando que não dava
+- **16:23 Fernando Lopes:** @Caio1094 Agora que criei minha primeira página
+- **16:25 Marcela Zaramella:** Hey people, to quebrando a cabeça aqui tentando achar uma aula que o Gustavo ensinou como colocar meu avatar no video de referencia. sei que é antiga e não lembro o nome, se alguém puder me ajudar ou achar essa aula ou dar uma breve explicação.
+- **16:26 Caio1094** (resp. Fernando): Faz parte Hehe! Se não achar avisa que mando vídeo
+- **16:28 Elton Ferreira [MVM]:** Pessoal que escala as copys, vocês postam a mesma copy ou intercalam com outras? Fiz uma copy com várias variações de gancho, corpo e CTA no Auto Editor, e ele gerou 324 vídeos. Minha dúvida é: posto todos esses vídeos em sequência ou intercalo com outras copys?
+- **16:34 Elton Ferreira** (resp. Marcela): Essa técnica de combinar o seu avatar com um vídeo ou imagem de referência (utilizando tela dividida / split screen e máscara de divisão) é ensinada e demonstrada na AULA 14 - EDIÇÃO, sendo também detalhada na AULA 8 - COPYWRITING + VÍDEOS + GANCHOS e no passo a passo de edição da AULA 1. Veja se ajuda
+- **16:35 Marcela Zaramella:** opaaa, agradecida demais
+- **17:11 Cassia Y:** Pessoal, já aconteceu e/ou está acontecendo isso com vocês no facebook? Tô estranho, a diferença dos posts, um chega a 70 mil e o outro 26. Não é nem a entrega "mínima" [print]
+- **17:12 Cleber Pereira:** Pessoal, o que vocês indicam de alternativa ao Geelark?
+- **17:14 Patrick Robba [MVM]** (resp. Cassia): não sei se é seu caso, mas ontem eu agendei os posts do face e a entrega caiu totalmente
+- **17:15 Cassia Y:** agendei tb / mas não faz sentido agendar e isso acontecer, é ferramenta do pp face...
+- **17:15 Patrick Robba:** observa se não é isso... hoje postei manualmente e melhorou
+- **17:15 Cassia Y:** vou tentar
+- **17:16 Patrick Robba:** mas não sou parâmetro, porque ainda tô na casa das 200-400 views kkkkkkkkk / 17:17 todo mundo fala que não impacta, mas é a segunda vez que observo isso aqui / como nada é regra, acho que pode ter relação
+- **17:19 Cassia Y:** tendi... / sim, não custa tentar! vou fazer esse teste tb, obrigada!
+- **17:29 'breder** (resp. Cleber, alternativa ao GeeLark): tem varios, vmos, ecalc, vsphone
+- **18:17 Karolyne:** como faco para anexar comentarios no face?
+- **18:23 Ari & Lu - Hope** (resp. Eduarda Kelly, aviso do Facebook): Eu tbm! Mas ainda não tentei colocar foto, só daqui há 3 dias, vamos ver.
+- **18:34 Ronald Ferreira [MVM]** (resp. Karolyne): vc sendo o autor do video, automaticamente fica fixado qualquer comentario
+- **18:40 Caio1094** (resp. Cassia, Face 70 mil x 26 views): Aconteceu comigo agendando.. bateu 5 views, e agendei em 3 perfis.. deu a mesma coisa.. Eu acredito que isso melhora com o tempo de conta. Pois tenho perfil fora daqui que agendo e vai d boas mas são 2 anos postando.. quem tá a mto tempo aqui fala que não muda mas eh aquilo tb tem mais tempo de conta
+- **18:49 Cassia Y:** Puxa, então vou ter que me divertir um bocado para postar um por um mas tá bom.... / Obrigada pessoal!!!!
+- **19:06 Juliano:** ainda vai ter a cal[l]?
+- **19:07 Caio Demetrio (Tenente):** use o chatgpt ou o claude pra postar
+- **19:09 Cassia Y:** Tipo fazendo uma extensão?
+- **20:11 Tiaguinho** (resp. Caio Demetrio): Se puder ensinar
+- **20:15 'breder:** gente no aquecimento de vcs, tem uma copy muito especifica que fez vcs viralizarem/ganhar seguidores para engajar a conta ou a conta cresceu conforme foi sendo postado videos de venda?
+- **20:22 Daniel (Sargento)** (resp. Cassia): Isso ai, aqui eu fiz uma com claude. Ele posta sozinho e alterna entre elas tbm
+- **20:27 Cassia Y:** Top, obrigada Daniel!
+- **20:28 Lígia:** @stefanyqs aconteceu comigo ontem tinha mais de 200 views hoje postei de manhã só teve 16
