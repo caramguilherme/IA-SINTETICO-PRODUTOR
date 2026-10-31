@@ -426,6 +426,20 @@ A Eduarda (eduardafernandes022, selo MVM) bateu 100 vendas em 29/10. O aluno per
 **Para a Nora:** é a 2ª pessoa no mesmo dia (com o Thiago) a dizer que o que vende é hook visual + copy longa. Confirma a decisão de 29/10: **o longo do corpo A é o carro-chefe e o texto na tela (a fita, a placa) é apoio**, que dá view e às vezes viraliza. "Mais vídeos por dia" já está no teto do Insta (4, nunca mais de 5: Ricardo e Caio1094); o volume a mais vai no Face. "Testar vários formatos" entra como 1 formato novo por dia, sem largar o que já funciona. Falta saber quantos vídeos por dia e por conta ela posta e se o perfil de texto era outra conta (resposta sugerida ao aluno).
 
 
+### 31/10/2026 (~01h) - Vitor Kretzer respondeu (DM de 30/10 11h23, print do aluno)
+O Vitor (vende no Manifestation desde antes de 14/10; ~170 a 200 cliques por venda) respondeu às 3 perguntas que o aluno mandou em 28/10 11h48:
+1. **O que vende:** "gancho visual do Flow e corpo do HeyGen, avatar falando. Não faço texto na tela."
+2. **Índia e público 45+:** "o público da Índia não vende e é bloqueado no nosso funil"; às vezes um vídeo viraliza lá, ele não achou estratégia, "só continuar postando mesmo"; no Face, restrição de país.
+3. **Volume:** "4 por conta, sempre, no Insta e no Face."
+4. **Vídeo para modelar:** "minerar e ver o que tá viralizando nos últimos dias, não tem muito segredo, porque tá todo mundo replicando."
+
+**Para a Nora:**
+- **É a 4ª pessoa a dizer que vende com hook visual + avatar falando** (Lucas, Thiago, Eduarda e agora o Vitor), e a 2ª a vender **sem nenhum texto na tela** (Lucas: "a placa dá view, mas não converte"). Confirma a decisão de 30/10: o longo do corpo A é o carro-chefe e a fita de 8 s fica em no máximo 1 por dia, só como apoio de view.
+- **HeyGen no corpo:** ele faz o corpo falado no HeyGen, não no Flow. Para nós, é uma saída se os créditos do Flow acabarem (corpo novo de 11 takes = 165 créditos; hoje a conta grande tem ~234). Precisaria criar a Nora como avatar no HeyGen a partir de uma imagem dela, num plano pago (as prévias grátis caíram para ~30 por mês, Discord de 24/10). Não muda nada agora: só se o aluno quiser testar.
+- **Volume:** 4 no Insta (já é o nosso teto) e **4 no Face também**. No Face planejávamos 5 a 6 com variações; com o Vitor (4) e o Vinicius B (3 a 5), **o Face fica em 4 a 5 por dia** (os vídeos do Insta, ao vivo, e 1 variação quando der).
+- **Índia:** nada novo; segue o que fazemos (horários das 17h à 01h, sinais dos EUA na cena, restrição de país no Face). **Reforça a pendência: conferir se a restrição de país da Página da Nora continua ligada** (sumiu de várias páginas, Tiaguinho, 30/10).
+- **Modelar o que viralizou nos últimos dias:** o corpo A saiu de virais de ~26/10 e já foi usado 5 vezes (nora40, nora42, nora43, nora44 e nora46). **Decisão (minha):** o próximo corpo novo (corpo B) sai de virais do Manifestation dos últimos 2 a 3 dias. O aluno minera 3 a 5 (link ou gravação de tela, de perfis de manifestação dos EUA com muitas views recentes) e me manda; eu transcrevo, comparo com o corpo A e monto o corpo B quando houver créditos para ele. Até lá, o corpo A segue (é o que trouxe os 21 seguidores, envios e salvos).
+
 ### 31/10/2026 (~madrugada) - Discord (chat-appyon 29/10 22h54 a 30/10 20h28; vitórias-dólar 30/10 00h21 a 19h56), arquivos do aluno lidos inteiros (`HISTORICO-DISCORD/`)
 - **Pergunta do aluno, sem resposta (30/10 12h51):** "responder comentário no Insta pelo GeeLark, manualmente, dá algum problema?" Ninguém respondeu. Fica a leitura de 30/10: à mão, sem link e variando o texto é baixo risco.
 - **Entrega caindo na semana (Mayfair, Herick, Vinicius B, Lígia, 30/10):** "todas as páginas que tavam performando caíram, e as novas não pegam tração"; Herick sentiu nas 2 últimas semanas ("mudou a política da Meta"); Vinicius B está isolando as páginas em outro ambiente (suspeita de IP marcado); Lígia: 200 views ontem, 16 hoje. **Para a Nora:** é contexto, não diagnóstico. Os nossos números de 29/10 não caíram (nora40 1.382, nora41 2.909, nora43 768 no Insta). Se os de 30 e 31/10 caírem, pode ser a mesma onda, não o formato.
