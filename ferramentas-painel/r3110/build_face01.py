@@ -76,7 +76,7 @@ p['roteiro'] = {
   'legenda_aviso': '📘 SÓ NO FACEBOOK. Não poste no Insta. Ao vivo (nunca agendar), fora dos horários dos vídeos nora (por exemplo, às 15h ou entre dois deles).',
   'leitura_registro': LEITURA}
 p['refs'] = ['Blueprint da Nora v2 (só ele) na face01-IMG']
-p['imagens'] = [{'rotulo': 'IMAGEM 1 · face01-IMG', 'cena': CENA, 'anexar': 'SÓ o blueprint da Nora v2 (a folha de consistência). Nenhuma outra imagem.'}]
+p['imagens'] = [{'rotulo': 'IMAGEM 1 · face01-IMG · APROVADA: a 4ª das 4', 'cena': CENA, 'anexar': 'SÓ o blueprint da Nora v2 (a folha de consistência). Nenhuma outra imagem.'}]
 p['videos'] = [{'rotulo': 'V1', 'cena': 'Clipe único · texto longo na tela (sem fala)', 'duracao': 8, 'primeiro_quadro': 'IMAGEM 1', 'acao': '(ver seção Clipe)', 'b_roll': '',
                 'fala': '(sem fala) texto na tela: ' + TEXTO.replace('\n\n', ' '), 'movimentacao': '(sem Central: o prompt do clipe está na seção Clipe)', 'arquivo': 'face01-CLIPE'}]
 p['texto_tela'] = {'hook': TEXTO, 'hook_comeca': 'do segundo 0', 'hook_termina': 'o fim do clipe', 'hook_alt': '', 'extras': []}
@@ -84,7 +84,7 @@ p['comentario_fixado'] = {'insta': '— (este vídeo é só do Facebook: não va
   'face': "Your guardian angel left something for you. ✨ Tap my profile picture, open my Story and pick your 3 cards to see what's coming to you. Comment 222 to claim it 🙏"}
 p['pre_gancho'] = {'titulo_secao': 'Clipe (8 s, sem fala, Frames)', 'duracao': 8, 'tomadas': 1, 'com_rosto': True, 'nome_video': 'face01-CLIPE',
   'conceito': 'O formato do vídeo que deu a 1ª venda da Mary: um clipe calmo que se repete (a Nora no carro, de olhos fechados, respirando) com um texto longo por cima, para ler.',
-  'modo': 'Gere depois da face01-IMG aprovada (seção “Imagens”) e do meu ok. Um vídeo só, em FRAMES: primeiro E último quadro = face01-IMG (assim ele repete sem pulo). 8 s, 9:16, áudio ligado. 12 créditos (conta de 41: 41 → 29).',
+  'modo': 'A face01-IMG já está aprovada (a 4ª das 4). Um vídeo só, em FRAMES: primeiro E último quadro = face01-IMG (assim ele repete sem pulo). 8 s, 9:16, áudio ligado. 12 créditos (conta de 41: 41 → 29).',
   'etapas': [{'tipo': 'vid', 'titulo': 'Clipe: ela respira de olhos fechados no carro', 'nome': 'face01-CLIPE', 'duracao': 8,
               'quadros': 'Modo FRAMES. Primeiro quadro: face01-IMG. Último quadro: face01-IMG (a mesma). 8 s, 9:16, áudio ligado.', 'prompt': CLIPE}],
   'montagem': '1) Use o clipe inteiro (8 s).\n2) Por cima do clipe, uma camada preta a 35% (ou Ajustar → Brilho −25), para o texto branco ler bem.\n3) O texto longo (seção de texto na tela), o clipe todo.\n4) Som do clipe ligado e a música de sempre (“Ambient Mystical Drone”) a 0 dB. Sem legenda automática (ela não fala) e sem números fixos.\n5) Se ela abrir os olhos ou mexer a boca, refaça uma vez; se falhar de novo, me chame.',
@@ -93,8 +93,8 @@ c = copy.deepcopy(P45['central'])
 c['conferir'] = 'Conferir: é a Nora da face01-IMG; ela fica de olhos fechados e de boca fechada o clipe todo; as mãos não aparecem; nada surge nem some; o último quadro volta igual ao primeiro.'
 c['passos'] = [
   'Teste SÓ do Facebook (não posta no Insta). Vídeo de 8 s sem fala: não usa a Central do curso nem o agente. Conta de 41.',
-  'IMAGEM (seção “Imagens”): no Flow, anexe SÓ o blueprint e cole o prompt (botão “Copiar imagem com trava”). Aprove só se: é a Nora (rosto, lua com as estrelinhas, trança); olhos fechados e meio sorriso; suéter bege de tricô; carro parado com árvores de outono lá fora; as mãos não aparecem; sem texto nem placa legível; sem carimbo de data. Renomeie para face01-IMG e me mande.',
-  'Depois do meu ok: o clipe (seção “Clipe”) em FRAMES, primeiro e último quadro = face01-IMG, 8 s, 9:16, áudio ligado. Renomeie para face01-CLIPE. 12 créditos (conta de 41 → 29).',
+  'face01-IMG APROVADA (31/10 ~11h, a 4ª das 4: cabeça reta, olhos fechados, meio sorriso, cabelo solto, as estrelinhas na bochecha, árvores de outono pelo para-brisa).',
+  'Agora: o clipe (seção “Clipe”) em FRAMES, primeiro e último quadro = face01-IMG, 8 s, 9:16, áudio ligado. Renomeie para face01-CLIPE. 12 créditos (conta de 41 → 29).',
   'CapCut: a camada escura, o texto longo e a música (seção de texto na tela). Sem legenda automática e sem números fixos.',
   'Postar SÓ no Facebook, ao vivo, fora dos horários dos vídeos nora (por exemplo, às 15h ou entre dois deles). Vale o story que estiver no ar (o story-3010 até 18h44; depois, o story-3110). Comentário: só comente (no Face não fixa).']
 c['colagens'] = [{'titulo': 'clipe sem fala', 'fala': '(sem fala)', 'movimentacao': ['(sem fala)'], 'takes': [0]}]
