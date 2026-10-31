@@ -484,3 +484,6 @@ Resumo em `FATOS-DO-ALUNO.md` (Mary) e o vídeo dela na seção 42 de `BIBLIOTEC
 
 ### 31/10/2026 ~11h20 - Teste da localização Los Angeles: encerrado
 Três peças de 8 s com a localização LA no Insta: nora38 5,1% de EUA, nora41 18,2%, nora45 10,7%; sem localização, as placas nora35 e nora36 deram 14,2% e 12,7%. Não há ganho: **a localização sai dos próximos posts** (critério de 30/10: abaixo de ~13%, sai). O que muda a parte dos EUA é o horário (depois das 22h) e o formato, não a localização.
+
+### 31/10/2026 ~11h25 - Variação só de hook não funciona no Insta (nora44)
+O nora44 (o nora40 inteiro, com o mesmo Take 1, só com o hook da pedra no lugar do geodo) fez 178 views no Insta, contra 1.382 do nora40; o nora43 (mesmo corpo, Take 1 novo) fez 768. **Regra: no Insta, cada post do mesmo corpo leva pelo menos um Take 1 novo (outros signos ou outra abertura); trocar só o hook fica para o Face** (lá o nora44 fez 238, normal). Vale para as variações do corpo B (nora47 em diante).
