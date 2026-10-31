@@ -9,6 +9,9 @@ Fonte: https://www.trustpilot.com/review/auralyapp.com — página colada pelo a
 4. **Katrina H. (EUA)** — "This is agoing to be so grand for me. Very insightful, honest and calming. So much peace here. I am going to live this journey. Watch out world here I come!" — https://www.trustpilot.com/reviews/6ae47e2ef35498fd911c17b2
 5. **Mike** — "Very inspirational, I don't know how they knew my situation like they did, it's crazy, I'm amazed. I'm going to follow the advice and I feel better about my choice Already." — perfil: https://www.trustpilot.com/users/6a8d52adc8a70f641013566c
 
+## Prints prontos (31/10/2026)
+Prints do aluno, com o destaque laranja da busca do navegador removido e a linha "Useful / Share" cortada (nada mais mudou: texto, nome, estrelas e data são os originais): `provas-trustpilot/01-leukia.png`, `02-patricia.png`, `03-darcey.png`, `04-katrina.png`. Sem o nome do app. Ficam com o sobrenome (avaliação pública).
+
 ## Não usar
 - "Barbie" ("Thank you Master Aura": lembra o nome do app); "Sally D." ("for an ai reading"); "Elizabeth" ("no way a fake could have known": a palavra "fake" na tela); avaliações de 1 a 3 palavras.
 
