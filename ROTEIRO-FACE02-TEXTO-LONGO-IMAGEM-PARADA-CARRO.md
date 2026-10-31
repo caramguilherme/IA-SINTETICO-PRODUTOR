@@ -10,5 +10,5 @@ Ideia do aluno (31/10 ~11h15): o vídeo da 1ª venda da Mary parece ser uma imag
 
 ## Peças e edição
 - Imagem: a `face01-IMG` (o aluno apagou as outras 3 em 31/10), espelhada no CapCut, só a imagem, antes do texto.
-- CapCut: a imagem parada por 8 s (sem zoom), camada preta a 35%, o texto do face01 igual, música a 0 dB.
+- CapCut: a imagem parada por 8 s (sem zoom), escurecida (Plano de fundo preto + Opacidade 65%), o texto do face01 igual, música a 0 dB.
 - Legenda diferente da do face01 (para não parecer post repetido); o comentário e o texto na tela iguais.

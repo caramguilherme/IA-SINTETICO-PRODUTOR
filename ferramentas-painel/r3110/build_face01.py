@@ -87,7 +87,7 @@ p['pre_gancho'] = {'titulo_secao': 'Clipe (8 s, sem fala, Frames)', 'duracao': 8
   'modo': 'A face01-IMG já está aprovada (a 4ª das 4). Um vídeo só, em FRAMES: primeiro E último quadro = face01-IMG (assim ele repete sem pulo). 8 s, 9:16, áudio ligado. 12 créditos (conta de 41: 41 → 29).',
   'etapas': [{'tipo': 'vid', 'titulo': 'Clipe: ela respira de olhos fechados no carro', 'nome': 'face01-CLIPE', 'duracao': 8,
               'quadros': 'Modo FRAMES. Primeiro quadro: face01-IMG. Último quadro: face01-IMG (a mesma). 8 s, 9:16, áudio ligado.', 'prompt': CLIPE}],
-  'montagem': '1) Use o clipe inteiro (8 s).\n2) Por cima do clipe, uma camada preta a 35% (ou Ajustar → Brilho −25), para o texto branco ler bem.\n3) O texto longo (seção de texto na tela), o clipe todo.\n4) Som do clipe ligado e a música de sempre (“Ambient Mystical Drone”) a 0 dB. Sem legenda automática (ela não fala) e sem números fixos.\n5) Se ela abrir os olhos ou mexer a boca, refaça uma vez; se falhar de novo, me chame.',
+  'montagem': '1) Use o clipe inteiro (8 s).\n2) Escurecer o clipe: Plano de fundo → Cor → preto; Básico → Opacidade 65% (detalhe na seção de texto na tela).\n3) O texto longo (seção de texto na tela), o clipe todo.\n4) Som do clipe ligado e a música de sempre (“Ambient Mystical Drone”) a 0 dB. Sem legenda automática (ela não fala) e sem números fixos.\n5) Se ela abrir os olhos ou mexer a boca, refaça uma vez; se falhar de novo, me chame.',
   'texto_tela': '', 'edicao': ''}
 c = copy.deepcopy(P45['central'])
 c['conferir'] = 'Conferir: é a Nora da face01-IMG; ela fica de olhos fechados e de boca fechada o clipe todo; as mãos não aparecem; nada surge nem some; o último quadro volta igual ao primeiro.'
@@ -95,13 +95,13 @@ c['passos'] = [
   'Teste SÓ do Facebook (não posta no Insta). Vídeo de 8 s sem fala: não usa a Central do curso nem o agente. Conta de 41.',
   'face01-IMG APROVADA (31/10 ~11h, a 4ª das 4: cabeça reta, olhos fechados, meio sorriso, cabelo solto, as estrelinhas na bochecha, árvores de outono pelo para-brisa).',
   'Agora: o clipe (seção “Clipe”) em FRAMES, primeiro e último quadro = face01-IMG, 8 s, 9:16, áudio ligado. Renomeie para face01-CLIPE. 12 créditos (conta de 41 → 29).',
-  'CapCut: a camada escura, o texto longo e a música (seção de texto na tela). Sem legenda automática e sem números fixos.',
+  'CapCut: escurecer o clipe (Plano de fundo preto + Opacidade 65%), o texto longo e a música (seção de texto na tela). Sem legenda automática e sem números fixos.',
   'Postar SÓ no Facebook, ao vivo, ANTES das 17h (o nora46 abre os horários do dia às 17h). Me diga a que horas postou: o face02 vai na metade do intervalo entre o face01 e as 17h. Vale o story que estiver no ar (o story-3010 até 18h44; o story-3110 entra antes das 17h). Comentário: só comente (no Face não fixa).']
 c['colagens'] = [{'titulo': 'clipe sem fala', 'fala': '(sem fala)', 'movimentacao': ['(sem fala)'], 'takes': [0]}]
 p['central'] = c
 p['story'] = {'ja_postado': True, 'nota': '✅ NÃO FAÇA STORY PARA ESTE VÍDEO. Vale o story que estiver no ar no Face (o story-3010 até 18h44; o story-3110, do painel do nora46, entra antes das 17h).'}
 p['edicao_linha'] = [
-  {'quando': '1. O clipe todo (8 s)', 'texto': 'Camada escura', 'como': 'Por cima do clipe, um retângulo preto a 35% de opacidade cobrindo a tela inteira (ou Ajustar → Brilho −25), para o texto branco ler bem.'},
+  {'quando': '1. O clipe todo (8 s)', 'texto': 'Escurecer o clipe (para o texto branco ler bem)', 'como': 'CapCut: com o clipe selecionado, (1) à direita, Plano de fundo → Cor → preto; (2) Básico → Opacidade (às vezes dentro de Mesclar) → 65%: a imagem fica ~35% mais escura. Se escurecer demais, 70%; se ficar clara, 60%. Sem achar a Opacidade: Elementos → Formas → quadrado preto, esticado até cobrir a tela, Opacidade 35%, na faixa acima e com a mesma duração.'},
   {'quando': '2. O clipe todo', 'texto': TEXTO,
    'como': 'Um bloco só, centralizado (X 0 · Y 0), em MAIÚSCULAS, Poppins Bold (poppins-bd), branco, tamanho 8 (se passar das bordas, 7), Sombra preta, sem Traço grosso, Luz DESLIGADA, uma linha em branco entre as frases, largura de ~90% da tela. Ocupa do ~22% ao ~85% da altura, como no vídeo da Mary.'},
   {'quando': '3. O clipe todo', 'texto': 'Som do clipe ligado + música de sempre (“Ambient Mystical Drone”), 0 dB', 'como': 'Sem legenda automática (ela não fala), sem números fixos e sem seta (o texto já diz o que fazer).'}]
