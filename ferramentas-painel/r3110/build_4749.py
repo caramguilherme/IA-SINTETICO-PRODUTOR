@@ -42,11 +42,11 @@ G = [
   'hook_conceito': 'A revelação do esconderijo (nora27-PRE, viral U7), já gerada em 20/10: ela arranca o tapete, abre o vão no piso e revela o pacote com a carta. 0 crédito. Teve 58,4% nos 3 s no nora27 (o maior da época) e nunca foi usada no Manifestation.',
   'hook_alt': 'Se você não tiver mais o arquivo nora27-PRE, use a nora34-PRE (a pedra escura) espelhada (Editar → Espelhar, só no clipe do hook).'},
  {'n': 49, 'suf': 'aries-leao-sagitario', 'fala_sig': 'Aries, Leo or Sagittarius', 'lista': 'Aries, Leo, Sagittarius', 'pt': 'Áries, Leão e Sagitário',
-  'tags': '#aries #leo #sagittarius', 'hora': '17h de 01/11', 'quando': 'amanhã (01/11) às 17h, o 1º horário do dia',
+  'tags': '#aries #leo #sagittarius', 'hora': '17h de 01/11', 'quando': 'amanhã (01/11) às 17h (o 1º horário do dia)',
   'expr': 'her eyes stay on the lens, during the first half of the take her eyebrows lift slightly with a warm, surprised look as if recognizing someone, '
           'during the second half she gives one slow nod and a confident half-smile, both hands staying on the desk',
   'hook': 'nora37-PRE', 'hook_nome': 'o geodo que racha ESPELHADO (nora37-PRE)', 'espelhar': True, 'corte': 'uns 3,8 s (logo depois que a pedra abre e aparece o quartzo rosa)',
-  'hook_conceito': 'O mesmo geodo do nora47 (nora37-PRE), ESPELHADO no CapCut (Editar → Espelhar, só no clipe do hook): 0 crédito. Espelhado, o quadro não fica igual ao das 19h30.',
+  'hook_conceito': 'O mesmo geodo do nora47 (nora37-PRE), ESPELHADO no CapCut (Editar → Espelhar, só no clipe do hook): 0 crédito. Espelhado, o quadro não fica igual ao do nora47.',
   'hook_alt': ''},
 ]
 for g in G:
@@ -161,7 +161,7 @@ def pacote(g):
     p['central'] = c
 
     p['story'] = {'ja_postado': True,
-      'nota': '✅ NÃO FAÇA STORY PARA ESTE VÍDEO. Vale o story-3110 (o do painel do nora46, postado em 31/10 às 18h30), no Insta e no Face. Se ele ainda não estiver no ar, poste-o antes deste vídeo (imagem, texto, adesivo e links no painel do nora46).'}
+      'nota': '✅ NÃO FAÇA STORY PARA ESTE VÍDEO. O story-3110 já está no ar desde 31/10 às 18h30, no Insta e no Face, e vale até ~18h30 de 01/11.'}
 
     mp = copy.deepcopy(P46['mapa_tela'])
     mp['numeros'] = g['num']
@@ -199,16 +199,38 @@ def pacote(g):
     for x in lista_v:
         L.append({'nome': x['arq'], 'tipo': 'take', 'status': 'gerar', 'creditos': 15,
                   'descricao': f"Gancho com os signos ({x['pt']}): “{x['fala']}”",
-                  'serve': f"O nora{x['n']} ({x['hora']})."})
+                  })
     L += [{'nome': 'nora46-T02 a nora46-T12 (o corpo B)', 'de': 'nora46', 'tipo': 'corpo', 'status': 'reutilizar',
            'descricao': 'O vídeo FINAL do nora46, exportado, a partir do Take 2: já tem a legenda, os sinais, as fotos do desejo, as avaliações, a faixa do story, a seta, os números e a música. Não gere, não corte e não junte de novo.',
-           'fala': ' '.join(v['fala'] for v in V46[1:])},
-          {'nome': 'story-3110', 'de': 'nora46', 'tipo': 'story', 'status': 'reutilizar', 'descricao': 'O story do nora46 (antes das 17h) vale para este vídeo.'}]
+           'onde': 'Use o vídeo final do nora46 que você exportou (com tudo), a partir do Take 2.'},
+          {'nome': 'story-3110', 'de': 'nora46', 'tipo': 'story', 'status': 'reutilizar', 'descricao': 'O story do nora46, no ar desde 31/10 às 18h30 (Insta e Face), vale para este vídeo.', 'onde': 'Já está no ar: não poste outro.'}]
     p['pecas'] = dict({'lista': L, 'decisao': [
       'No Insta, cada post do mesmo corpo leva um Take 1 novo: o nora44, só com o hook trocado, fez 178 views; o nora43, com Take 1 novo, fez 968. Por isso: hook pronto (0) + Take 1 com os signos (15) + o corpo do nora46.',
       'Cada painel gera só o seu Take 1: uma colagem de 1 take na Central e uma mensagem no agente, 15 créditos.',
       'Signos na fala e na caixa do topo (série por signos; dica do Matheus). A frase segue a do nora46 (o portal e “não é coincidência”), sem ameaça (P42).',
-      f"Hook: {g['hook_nome']}. O resto vem do vídeo final do nora46, com os mesmos números: só o começo (hook, Take 1 e caixa) é novo."]}, **PROXIMOS)
+      f"Hook: {g['hook_nome']}. O resto vem do vídeo final do nora46, com os mesmos números: só o começo (hook, Take 1 e caixa) é novo."]})
+    # --- só o que se usa neste painel (aluno, 31/10 ~19h30) ---
+    for sec in p['central']['config']:
+        for k in sec['campos']:
+            if k['campo'] == 'COLE SUA COPY AQUI': k['valor'] = 'colar a fala do Take 1 (seção “A fala e a movimentação”)'
+            if k['campo'] == 'Movimentação': k['valor'] = 'colar a linha do Take 1 (seção “A fala e a movimentação”)'
+            if k['campo'] == 'Conferir': k['valor'] = '1 take de 10 s (seção “A fala e a movimentação”)'
+            if k['campo'] == 'Copiar': k['valor'] = 'o botão COPIAR do Take 1 (com 1 take não existe o bloco “COPIAR TUDO JUNTO”)'
+    p['silencio'] = {
+      'intro': f"Só o Take 1 novo (nora{n}-T01) passa por aqui: o resto já vem cortado no vídeo final do nora46. Arraste só o nora{n}-T01 na ferramenta “M2M FusionZ – Cortar e juntar vídeos” e deixe assim:",
+      'nome': f"nora{n}-T01-cortado", 'juntar': 'tanto faz (é 1 arquivo só)', 'transicao': 'não se aplica (1 arquivo só)', 'ordem': 'não se aplica (1 arquivo só)',
+      'depois': [f"Suba o nora{n}-T01 e espere a Prévia.",
+                 f"Aperte play com Resultado marcado: confira que a primeira palavra (“{g['fala_sig'].split(',')[0]}”) e a última (“coincidence”) não foram cortadas.",
+                 'Se um corte comeu o fim de uma palavra, arraste a borda dele ou suba a margem de respiro.',
+                 f"Clique em Cortar e baixar e salve como nora{n}-T01-cortado.",
+                 f"Mande o nora{n}-T01-cortado para o Claude das legendas (o mesmo estilo do nora46, abaixo) e salve como nora{n}-T01-legendado."]}
+    mp = p['mapa_tela']
+    leg = [e for e in mp['estilos'] if e['nome'].startswith('Legenda automática')][0]
+    leg = dict(leg, obs=f"Só no Take 1 (do Take 2 em diante o vídeo do nora46 já vem legendado). Blocos de 2 a 4 palavras, no máximo 2 linhas, na faixa verde (Y -294). Destaques em amarelo-ouro: {sig}, portal e 11:11. Sem legenda no hook.")
+    mp['estilos'] = [mp['estilos'][0], mp['estilos'][1], leg]
+    mp['seta'] = False
+    mp['regras'] = ['Conferido na nora46-IMG: a faixa da legenda (Y -294, 73%) fica nos antebraços, logo acima da borda da mesa, abaixo do microfone e do rosto.',
+                    mp['regras'][1]]
     p['ordem'] = ['pecas', 'referencia', 'imagens', 'todos', 'central', 'cenas', 'agente', 'silencio', 'prehook', 'textotela', 'story', 'descricao', 'comentario', 'respostasface', 'fala']
     return p
 

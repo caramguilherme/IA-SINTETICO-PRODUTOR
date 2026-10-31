@@ -19,6 +19,7 @@ F1 = ler('PAINEL-FACE01.html')
 TEXTO = F1['texto_tela']['hook']
 p = {k: copy.deepcopy(F1[k]) for k in ('perfil', 'trava_referencia', 'excecao_estilo', 'figurino', 'texto_tela', 'comentario_fixado', 'story')}
 p['ocultar_bloco_agente_imagem'] = True
+p['story'] = {'ja_postado': True, 'nota': '✅ NÃO FAÇA STORY PARA ESTE VÍDEO. Vale o story-3110, no ar no Face desde 31/10 às 18h30 (até ~18h30 de 01/11).'}
 p['clipe_unico'] = True
 r = copy.deepcopy(F1['roteiro'])
 r.update({
@@ -27,7 +28,7 @@ r.update({
   'formato': 'Texto longo na tela sobre uma imagem parada de 8 s (a Nora no carro, de olhos fechados); 0 crédito',
   'molde_hook': 'o vídeo da 1ª venda da Mary, que parece ser uma imagem parada com o texto por cima (leitura do aluno, 31/10); mesmo texto do face01',
   'descricao_instagram': "Read this before you scroll. 🙏✨\nYour guardian angel left something for you. Pick your 3 cards in my story. Comment 222.\n#manifestation #1111portal #guardianangel",
-  'legenda_aviso': '📘 SÓ NO FACEBOOK. Não poste no Insta. Ao vivo (nunca agendar), por volta das 14h (o face01 saiu às 11h08).',
+  'legenda_aviso': '📘 SÓ NO FACEBOOK. Não poste no Insta. Ao vivo (nunca agendar), antes das 17h (se não saiu em 31/10, amanhã, 01/11, por volta das 14h).',
   'leitura_registro': F1['roteiro']['leitura_registro'].replace('Para este painel li de novo:', 'Para este painel (face02) li de novo o pacote do face01 e:')})
 p['roteiro'] = r
 p['refs'] = ['Nenhuma imagem nova: a face01-IMG, espelhada no CapCut']
@@ -42,7 +43,7 @@ c['passos'] = [
   'Teste SÓ do Facebook (não posta no Insta). 0 crédito: não gera nada no Flow.',
   'Imagem: a face01-IMG (as outras foram apagadas), espelhada no CapCut (só a imagem, antes do texto).',
   'CapCut (seção de texto na tela): a face01-IMG espelhada, parada por 8 s, sem zoom nem movimento; escurecida (Plano de fundo preto + Opacidade 65%); o MESMO texto do face01; a música a 0 dB.',
-  'Postar SÓ no Facebook, ao vivo, por volta das 14h (o face01 saiu às 11h08: metade do intervalo até o nora46 das 17h). Comentário: só comente.',
+  'Postar SÓ no Facebook, ao vivo, antes das 17h (se não saiu em 31/10, amanhã, 01/11, por volta das 14h). Comentário: só comente.',
   'É um teste: imagem parada (face02) x clipe que repete (face01), com o mesmo texto. Me mande os números dos dois no Face com ~3 h e ~12 h (views, views de 3 s, tempo médio, comentários).']
 c['colagens'] = [{'titulo': 'sem fala', 'fala': '(sem fala)', 'movimentacao': ['(sem fala)'], 'takes': [0]}]
 p['central'] = c
@@ -58,6 +59,6 @@ p['pecas'] = {'lista': [
    'Ideia do aluno (31/10): o vídeo da Mary parece ser uma imagem parada com o texto por cima, não um clipe.',
    'Teste limpo: o mesmo texto e a mesma imagem do face01, só que parada (e espelhada, para o Face não ver o mesmo quadro).',
    '0 crédito. Se a imagem parada render igual ou mais, os próximos testes de texto longo no Face saem sem clipe.']}
-p['ordem'] = ['pecas', 'referencia', 'imagens', 'textotela', 'story', 'descricao', 'comentario', 'respostasface', 'fala']
+p['ordem'] = ['pecas', 'referencia', 'imagens', 'textotela', 'story', 'descricao', 'comentario', 'respostasface']  # sem 'fala': não há fala (o texto já está na seção de texto na tela)
 gravar('PAINEL-FACE02.html', 'Painel face02 (só Face)', p)
 print('ok: PAINEL-FACE02')

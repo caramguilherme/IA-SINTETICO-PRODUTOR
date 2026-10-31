@@ -88,7 +88,7 @@ section{scroll-margin-top:16px}
 
     <section class="card" id="silencio">
       <h2>Cortar os silêncios (ferramenta do curso)</h2>
-      <p style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Faça depois de baixar os takes do corpo (sem o pré-gancho) e ANTES de montar no CapCut e pôr o texto na tela e a legenda (os textos são marcados pela frase, não por segundos, porque o corte muda o tempo). O pré-gancho é outro arquivo: não entra nesta ferramenta, entra no CapCut depois. Arraste todos os takes do corpo de uma vez na ferramenta “M2M FusionZ – Cortar e juntar vídeos”: ela corta os silêncios e junta os takes num vídeo só. Deixe assim:</p>
+      <p id="silIntro" style="color:var(--ink2);margin:0 0 12px;font-size:14.5px">Faça depois de baixar os takes do corpo (sem o pré-gancho) e ANTES de montar no CapCut e pôr o texto na tela e a legenda (os textos são marcados pela frase, não por segundos, porque o corte muda o tempo). O pré-gancho é outro arquivo: não entra nesta ferramenta, entra no CapCut depois. Arraste todos os takes do corpo de uma vez na ferramenta “M2M FusionZ – Cortar e juntar vídeos”: ela corta os silêncios e junta os takes num vídeo só. Deixe assim:</p>
       <div class="box" style="margin-bottom:12px">
         <div style="margin-bottom:6px"><b>Como cortar:</b> 01 · Remover o silêncio</div>
         <div style="margin-bottom:6px"><b>Sensibilidade:</b> −30 dB (o padrão, não mexa)</div>
@@ -99,12 +99,12 @@ section{scroll-margin-top:16px}
         <div style="margin-bottom:6px"><b>Qualidade do vídeo:</b> Igual à do original (é a única opção)</div>
         <div style="margin-bottom:6px"><b>Formato do áudio:</b> Automático (igual ao original)</div>
         <div style="margin-bottom:6px"><b>Nome do arquivo:</b> troque por <span id="silNome">noraNN-cortado</span> (se não deixar editar, renomeie depois)</div>
-        <div style="margin-bottom:6px"><b>Juntar tudo num arquivo só:</b> LIGADO (é a ferramenta que junta os takes)</div>
-        <div style="margin-bottom:6px"><b>Transição entre os vídeos:</b> Corte seco</div>
-        <div><b>Ordem:</b> ela junta pela ordem do nome; confira que o Take 1 vem primeiro e o último take fica no fim</div>
+        <div id="silJuntar" style="margin-bottom:6px"><b>Juntar tudo num arquivo só:</b> LIGADO (é a ferramenta que junta os takes)</div>
+        <div id="silTrans" style="margin-bottom:6px"><b>Transição entre os vídeos:</b> Corte seco</div>
+        <div id="silOrdem"><b>Ordem:</b> ela junta pela ordem do nome; confira que o Take 1 vem primeiro e o último take fica no fim</div>
       </div>
       <div class="mono">Depois</div>
-      <ol style="margin:8px 0 12px;padding-left:20px;line-height:1.6">
+      <ol id="silDepois" style="margin:8px 0 12px;padding-left:20px;line-height:1.6">
         <li>Suba os takes e espere a <b>Prévia</b>. O esperado é perder cerca de 30% da duração (no nora25: 1:20 para 0:54, 25 cortes).</li>
         <li>Aperte play com <b>Resultado</b> marcado e ouça tudo uma vez. Confira que a primeira palavra do take 1 e a última do CTA não foram cortadas, e que as emendas entre os takes não pulam.</li>
         <li>Se um corte comeu o fim de uma palavra, arraste a borda dele ou suba a margem de respiro.</li>
@@ -419,6 +419,7 @@ function ordenar(){
   $('todos').classList.toggle('hide',!!pk.imagem_reutilizada||!!pk.imagem_central||!!pk.ocultar_bloco_agente_imagem);
   $('imagens').querySelector('h2').textContent=pk.imagem_reutilizada?'Imagem 1 (a mesma de outro roteiro, não gerar)':(pk.imagem_central?'Imagem 1 na Central de imagens':'Imagens');
   ord.forEach(id=>pn.appendChild($(id)));if(c)pn.appendChild($('videos'));
+  if(pk.ordem&&pk.ordem.length)pn.querySelectorAll(':scope > section.card').forEach(s=>{if(!ord.includes(s.id)&&s.id!=='videos')s.classList.add('hide')});
   let n=0;const links=[];
   ord.forEach(id=>{
     const sec=$(id);
@@ -459,6 +460,14 @@ function montar(silencio){
   {const av=$('instaAviso');if(r.legenda_aviso){av.textContent=r.legenda_aviso;av.classList.remove('hide')}else av.classList.add('hide');}
   const tt=pk.texto_tela||{};
   $('silNome').textContent=((pk.roteiro&&pk.roteiro.id)||'noraNN').toLowerCase().replace(/[^a-z0-9]+.*$/,'')+'-cortado';
+  {if(!window.SIL0)window.SIL0={i:$('silIntro').innerHTML,j:$('silJuntar').innerHTML,t:$('silTrans').innerHTML,o:$('silOrdem').innerHTML,d:$('silDepois').innerHTML};
+   const sv=pk.silencio||{},S0=window.SIL0;
+   $('silIntro').innerHTML=sv.intro?esc(sv.intro):S0.i;
+   $('silJuntar').innerHTML=sv.juntar?'<b>Juntar tudo num arquivo só:</b> '+esc(sv.juntar):S0.j;
+   $('silTrans').innerHTML=sv.transicao?'<b>Transição entre os vídeos:</b> '+esc(sv.transicao):S0.t;
+   $('silOrdem').innerHTML=sv.ordem?'<b>Ordem:</b> '+esc(sv.ordem):S0.o;
+   $('silDepois').innerHTML=(sv.depois&&sv.depois.length)?sv.depois.map(x=>'<li>'+esc(x)+'</li>').join(''):S0.d;
+   if(sv.nome)$('silNome').textContent=sv.nome;}
   $('telaHook').textContent=tt.hook||'(a IA não entregou o texto dos primeiros segundos)';
   const cf=pk.comentario_fixado||{};
   $('pinInsta').textContent=cf.insta||'(a IA não entregou o comentário fixado do Instagram)';
@@ -495,7 +504,7 @@ function montar(silencio){
       ...(NU.length?NU.map(u=>['Número fixo '+u.t+(u.cor_nome?', '+u.cor_nome+', tamanho '+(u.tamanho||12):'')+(u.onde?' ('+u.onde+')':''),u.x,u.y]):[['Número fixo da esquerda (222 ou 444)',12,ys(mt.codigos)],['Número fixo da direita (11:11)',88,ys(mt.codigos)]]),
       ['Texto do hook (texto do topo)',50,ys(mt.hook)],
       [mt.legenda_nome||'Legenda na tela (automática)',50,ys(mt.legenda)],
-      ['Seta vermelha ('+((mt.seta&&mt.seta.onde)||'embaixo à esquerda, apontando para baixo, para a foto do perfil')+')',(mt.seta?mt.seta.x:6),(mt.seta?mt.seta.y:76)]];
+      ...(mt.seta===false?[]:[['Seta vermelha ('+((mt.seta&&mt.seta.onde)||'embaixo à esquerda, apontando para baixo, para a foto do perfil')+')',(mt.seta?mt.seta.x:6),(mt.seta?mt.seta.y:76)]])];
     let ct='<div class="mono">No CapCut: o que digitar em X e em Y (posição do CENTRO de cada texto)</div><p style="color:var(--ink2);margin:6px 0 8px;font-size:14.5px">X=0 e Y=0 é o <b>centro</b> do vídeo (720×1280). X negativo é esquerda; Y positivo é para cima.</p><div class="box" style="white-space:normal;word-break:normal;padding:10px 12px"><table style="border-collapse:collapse;width:100%;font-size:13.5px"><tr style="color:var(--ink2)"><td style="padding:4px 10px 6px 0">Texto</td><td style="padding:4px 0 6px 0;white-space:nowrap">Vídeo 720×1280 (X · Y)</td></tr>';
     P.forEach(r=>{const b=cc(r[1],r[2],720,1280);ct+='<tr><td style="padding:5px 10px 5px 0;vertical-align:top"><b>'+esc(r[0])+'</b></td><td style="padding:5px 0;white-space:nowrap">X '+b[0]+' · Y '+b[1]+'</td></tr>'});
     ct+='</table></div>';
