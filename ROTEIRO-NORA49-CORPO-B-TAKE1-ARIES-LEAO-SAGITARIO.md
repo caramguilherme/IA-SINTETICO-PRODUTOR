@@ -1,6 +1,6 @@
 # nora49: corpo B (portal 11/11, 3 sinais) com o Take 1 de Áries, Leão e Sagitário (31/10/2026)
 
-Painel: https://claude.ai/artifact/1N7U8uiBXuEgKGwH3hE84s · Script: `ferramentas-painel/r3110/build_4749.py` · Status: **a gerar** (Take 1) · Postar à 00h30 de 01/11 (a noite de 31/10), no Insta e no Face, ao vivo, sem localização.
+Painel: https://claude.ai/artifact/1N7U8uiBXuEgKGwH3hE84s · Script: `ferramentas-painel/r3110/build_4749.py` · Status: **a gerar** (Take 1) · Postar amanhã (01/11) às 17h, o 1º horário do dia, no Insta e no Face, ao vivo, sem localização.
 
 ## Leitura obrigatória (registro)
 31/10/2026: a leitura completa de LEIA-TUDO-ANTES.md foi feita hoje, das ~00h40 às ~01h15, para o corpo B (lista no painel do nora46). Para estes 3 painéis (~11h30), que só trocam o Take 1 (a frase com os signos já estava escrita no painel do nora46, em “Depois deste vídeo”), reli: o pacote do painel do nora46 e o script build3110.py, a seção 1 de LICOES-FLOW-E-PROMPTS.md (checklist, itens 1 a 31), BIBLIOTECA-DE-TAKES.md (hooks prontos), o ROTEIRO-NORA47 antigo (esconderijo), o CLAUDE.md e as leituras do Insta do nora43, do nora44 e do nora45 (METRICAS-NORA.csv). Não reli a lista inteira de novo.

@@ -27,14 +27,14 @@ FECHA = M0[M0.index(', and from the end of the final sentence'):]
 RESTO = ": the 11:11 portal is about to open, and if this reached you today, it's not a coincidence."
 G = [
  {'n': 47, 'suf': 'touro-virgem-capricornio', 'fala_sig': 'Taurus, Virgo or Capricorn', 'lista': 'Taurus, Virgo, Capricorn', 'pt': 'Touro, Virgem e Capricórnio',
-  'tags': '#taurus #virgo #capricorn', 'hora': '19h30', 'quando': 'hoje (31/10) às 19h30',
+  'tags': '#taurus #virgo #capricorn', 'hora': '21h', 'quando': 'hoje (31/10) às 21h (o nora46 saiu às 18h30; 2h30 entre posts)',
   'expr': 'her eyes stay on the lens, during the first half of the take she leans slightly toward the lens with her eyebrows a little raised and an intrigued look, '
           'during the second half she gives one slow knowing nod with a warm half-smile, both hands staying on the desk',
   'hook': 'nora37-PRE', 'hook_nome': 'o geodo que racha (nora37-PRE, sem espelhar)', 'espelhar': False, 'corte': 'uns 3,8 s (logo depois que a pedra abre e aparece o quartzo rosa)',
   'hook_conceito': 'O geodo que racha (nora37-PRE), já gerado em 28/10: a pedra cinza fechada abre nas mãos dela e mostra o quartzo rosa com o símbolo de Vênus dourado. 0 crédito. Foi o hook do nora40 (1.382 views no Insta, 11 seguidores, 16 envios). Sem espelhar.',
   'hook_alt': ''},
  {'n': 48, 'suf': 'cancer-escorpiao-peixes', 'fala_sig': 'Cancer, Scorpio or Pisces', 'lista': 'Cancer, Scorpio, Pisces', 'pt': 'Câncer, Escorpião e Peixes',
-  'tags': '#cancer #scorpio #pisces', 'hora': '22h', 'quando': 'hoje (31/10) às 22h',
+  'tags': '#cancer #scorpio #pisces', 'hora': '23h30', 'quando': 'hoje (31/10) às 23h30',
   'expr': 'her eyes stay on the lens, during the first half of the take she tilts her head slightly to one side with a calm, knowing look and a faint smile, '
           'during the second half she raises her left hand to the height of her shoulder on the right side of the frame with the palm open toward the lens for a moment '
           'and then lowers it back to the desk',
@@ -42,7 +42,7 @@ G = [
   'hook_conceito': 'A revelação do esconderijo (nora27-PRE, viral U7), já gerada em 20/10: ela arranca o tapete, abre o vão no piso e revela o pacote com a carta. 0 crédito. Teve 58,4% nos 3 s no nora27 (o maior da época) e nunca foi usada no Manifestation.',
   'hook_alt': 'Se você não tiver mais o arquivo nora27-PRE, use a nora34-PRE (a pedra escura) espelhada (Editar → Espelhar, só no clipe do hook).'},
  {'n': 49, 'suf': 'aries-leao-sagitario', 'fala_sig': 'Aries, Leo or Sagittarius', 'lista': 'Aries, Leo, Sagittarius', 'pt': 'Áries, Leão e Sagitário',
-  'tags': '#aries #leo #sagittarius', 'hora': '00h30', 'quando': 'à 00h30 de 01/11 (a noite de 31/10)',
+  'tags': '#aries #leo #sagittarius', 'hora': '17h de 01/11', 'quando': 'amanhã (01/11) às 17h, o 1º horário do dia',
   'expr': 'her eyes stay on the lens, during the first half of the take her eyebrows lift slightly with a warm, surprised look as if recognizing someone, '
           'during the second half she gives one slow nod and a confident half-smile, both hands staying on the desk',
   'hook': 'nora37-PRE', 'hook_nome': 'o geodo que racha ESPELHADO (nora37-PRE)', 'espelhar': True, 'corte': 'uns 3,8 s (logo depois que a pedra abre e aparece o quartzo rosa)',
