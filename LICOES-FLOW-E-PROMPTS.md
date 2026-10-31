@@ -370,3 +370,6 @@ O aluno: "prefiro fazer e me organizar pelos painéis, acho mais didático, do q
 
 ### 30/10/2026 - Painel de vídeo montado com takes de outro vídeo: listar os takes reaproveitados, nunca um "Take 1" solto
 No 1º painel do nora44 (o vídeo do nora40 com outro hook), a "Fala completa" mostrava só um "V1" com a fala do Take 1, e as peças diziam "projeto do nora40". O aluno entendeu que teria de gerar um Take 1 novo. **Regra:** quando o vídeo usa os takes de outro vídeo, o painel lista os takes reaproveitados um por um (T01 a T12, "JÁ GERADO no noraNN, não gerar"), os passos dizem em letras claras "NÃO gere nenhum take: use os N takes do noraNN" e a peça reaproveitada diz quais são ("os 12 takes do nora40, nora40-T01 a T12"). Corrigido no nora44.
+
+### 31/10/2026 - Texto do topo da fita: linha longa corta nas pontas no tamanho 12
+No nora45 a frase do meio, "November will be the luckiest month of your life" (48 caracteres), cortou nas pontas da tela no tamanho 12; o aluno usou o tamanho 9 nas 3 linhas e ficou bom. No nora41, "November is your most blessed month." (37 caracteres) coube no 12. **Regra:** no texto do topo (fita, placa), cada linha com até ~37 caracteres vai no tamanho 12; linha mais longa vai no tamanho 9 ou é quebrada em duas. Conferir a linha mais longa antes de dar o tamanho no painel. Corrigido no painel do nora45.

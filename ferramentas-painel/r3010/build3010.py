@@ -150,7 +150,7 @@ NUM45 = [
 p['mapa_tela']['numeros'] = NUM45
 el = p['edicao_linha']
 el[0]['texto'] = TOPO
-el[0]['como'] = 'Texto no topo, em 3 linhas, do segundo 0 ao fim do clipe. “Keep your mouth shut.” em branco; “November will be the luckiest month of your life.” em amarelo-ouro; “Send it to yourself.” em branco.'
+el[0]['como'] = 'Texto no topo, em 3 linhas, tamanho 9, do segundo 0 ao fim do clipe. “Keep your mouth shut.” em branco; “November will be the luckiest month of your life.” em amarelo-ouro; “Send it to yourself.” em branco.'
 el[1]['texto'] = '11:11  ·  888  ·  222  (espalhados)'
 el[1]['como'] = 'Cada número de uma cor e de um tamanho, num lugar, parados do primeiro ao último quadro: ' + num_txt(NUM45)
 for e in p['mapa_tela']['estilos']:
@@ -158,6 +158,7 @@ for e in p['mapa_tela']['estilos']:
         e['nome'] = 'Números fixos espalhados (11:11, 888, 222)'; e['obs'] = num_txt(NUM45)
     if e['nome'].startswith('Texto do topo'):
         e['cor'] = 'branco #FFFFFF; “November will be the luckiest month of your life.” em amarelo-ouro #FFD21F'
+        e['tamanho'] = '9 (com 12 a frase do meio corta nas pontas; conferido pelo aluno em 31/10)'
 p['mapa_tela']['regras'][0] = ('A cena é a mesma do nora41 (edição da imagem), então os lugares dos números saem dos que já foram conferidos lá, trocados de lado e de cor. '
   'Confira na nora45-IMG e na nora45-FIM: se algum número cobrir o rosto, as mãos, a fita ou o porta-retrato, me mande a imagem.')
 p['pecas'] = {'lista': [
