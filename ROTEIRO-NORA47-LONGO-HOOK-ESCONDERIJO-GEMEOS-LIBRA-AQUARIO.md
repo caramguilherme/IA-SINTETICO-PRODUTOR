@@ -1,6 +1,6 @@
 # nora47 — hook do esconderijo (nora27-PRE) + o corpo inteiro do nora42 (Gêmeos, Libra e Aquário) — 30/10/2026, 0 crédito
 
-**31/10/2026: SAIU DO PLANO** (aula do Iorhan de 30/10, regra P42: o corpo A para no nora46; o número nora47 fica para o próximo vídeo que for postado). Guardado só como histórico.
+**31/10/2026: SAIU DO PLANO** (aula do Iorhan de 30/10, regra P42: o corpo A parou no nora44 (o nora46 com o corpo A foi cancelado em 31/10 ~00h30, antes de ser gerado; o número nora46 vai para o 1º vídeo do corpo B)). Guardado só como histórico.
 
 
 Status: **NÃO SAI EM 30/10** (aluno, ~17h30: 3 vídeos hoje; fica de reserva, sem painel). Se for usado noutro dia, trocar o Take 1 (as datas "29th, 30th or 31st" vencem) e montar o painel. Planejado antes para a ~01h de 31/10 no Insta e no Face, ao vivo, sem localização. Custo: **0 crédito**.

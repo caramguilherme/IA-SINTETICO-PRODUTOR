@@ -1,5 +1,8 @@
 # nora46 — hook do geodo espelhado + Take 1 novo + corpo do nora40 (Câncer, Escorpião e Peixes) — 30/10/2026
 
+**31/10/2026 ~00h30: CANCELADO antes de gerar** (o aluno não tinha começado; regra P42, aula do Iorhan: o corpo A sai do plano). Nenhum crédito gasto. O número nora46 vai para o 1º vídeo do corpo B (portal 11/11). O painel W6EBF2bdfPQ6YhCM4MaEF1 fica só como histórico.
+
+
 Status: **com painel (https://claude.ai/artifact/W6EBF2bdfPQ6YhCM4MaEF1)**. Postar em 30/10 por volta das 23h30 no Insta e no Face, ao vivo, sem localização. Custo: **15 créditos** (Take 1, conta grande: 249 → 234). Script: `ferramentas-painel/r3010/build3010.py`.
 
 ## Leitura obrigatória (registro)
