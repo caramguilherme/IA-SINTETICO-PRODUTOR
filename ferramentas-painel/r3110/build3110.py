@@ -185,10 +185,10 @@ p['roteiro'] = {
   'leitura_registro': LEITURA}
 p['refs'] = ['Blueprint da Nora v2 (só ele) na nora46-IMG e no story', 'Imagens do desejo: sem anexo', 'Avaliações: provas-trustpilot/01 a 03 (prontas)']
 p['imagens'] = [
-  {'rotulo': 'IMAGEM 1 · nora46-IMG (os 12 takes)', 'cena': CENA46, 'anexar': 'SÓ o blueprint da Nora v2 (a folha de consistência). Nenhuma outra imagem.'},
-  {'rotulo': 'IMAGEM 2 · nora46-DESEJO-1-dinheiro (Take 8)', 'cena': '(sem a Nora)', 'prompt_completo': D1, 'anexar': 'NADA (imagem sem a Nora).'},
-  {'rotulo': 'IMAGEM 3 · nora46-DESEJO-2-casal (Take 8)', 'cena': '(sem a Nora)', 'prompt_completo': D2, 'anexar': 'NADA (imagem sem a Nora).'},
-  {'rotulo': 'IMAGEM 4 · nora46-DESEJO-3-casa (Take 8)', 'cena': '(sem a Nora)', 'prompt_completo': D3, 'anexar': 'NADA (imagem sem a Nora).'}]
+  {'rotulo': 'IMAGEM 1 · nora46-IMG (os 12 takes) · APROVADA: a 3ª das 3', 'cena': CENA46, 'anexar': 'SÓ o blueprint da Nora v2 (a folha de consistência). Nenhuma outra imagem.'},
+  {'rotulo': 'IMAGEM 2 · nora46-DESEJO-1-dinheiro (Take 8) · APROVADA', 'cena': '(sem a Nora)', 'prompt_completo': D1, 'anexar': 'NADA (imagem sem a Nora).'},
+  {'rotulo': 'IMAGEM 3 · nora46-DESEJO-2-casal (Take 8) · APROVADA', 'cena': '(sem a Nora)', 'prompt_completo': D2, 'anexar': 'NADA (imagem sem a Nora).'},
+  {'rotulo': 'IMAGEM 4 · nora46-DESEJO-3-casa (Take 8) · APROVADA', 'cena': '(sem a Nora)', 'prompt_completo': D3, 'anexar': 'NADA (imagem sem a Nora).'}]
 p['videos'] = [{'rotulo': f'T{i+1:02d}', 'cena': f'Take {i+1}/12 · {c}', 'duracao': '10', 'primeiro_quadro': 'IMAGEM 1', 'acao': '', 'b_roll': '',
                 'fala': f, 'movimentacao': m, 'arquivo': a} for i, (a, c, f, m) in enumerate(T)]
 p['texto_tela'] = {'hook': 'The 11:11 portal is opening.\n3 signs it chose you', 'hook_comeca': 'o primeiro quadro do pré-gancho',
@@ -231,7 +231,7 @@ c['conferir'] = ('Conferir em cada take: é a Nora v2 da nora46-IMG (rosto, lua 
                  'sem texto, legenda ou música. Renomeie com o nome da lista (T01 a T12).')
 c['passos'] = [
   'nora46-IMG APROVADA (31/10 ~03h, a 3ª das 3 variações: janela à esquerda, microfone na borda esquerda, prateleira com a bandeirinha à direita, planta embaixo à direita). Movimentação e texto LIVRE já fechados por ela.',
-  'Também sem crédito: as 3 imagens do desejo (IMAGEM 2 a 4, sem anexar nada) e a imagem do story (seção “Story”, anexe SÓ o blueprint). Renomeie: nora46-DESEJO-1-dinheiro, nora46-DESEJO-2-casal, nora46-DESEJO-3-casa e story-3110.',
+  'Feito (31/10 ~03h30): as 3 imagens do desejo aprovadas (nora46-DESEJO-1-dinheiro, nora46-DESEJO-2-casal, nora46-DESEJO-3-casa) e o story-3110 escolhido (a 4ª das 4 variações).',
   'Story novo (story-3110) antes das 18h44 de hoje, quando o story-3010 vence: no Insta com o link STORYIG e no Face com o link FACE (seção “Story”). Confira o link na prévia antes de publicar.',
   'Central do curso com a configuração da seção “Central do curso” (o LIVRE é novo) e a fala e a movimentação da seção “A fala e a movimentação”. Confira: 12 takes de 10 s.',
   'Agente do Flow: anexe só a nora46-IMG, cole o aviso e, embaixo, o “COPIAR TUDO JUNTO” da Central, sem editar. 180 créditos (conta grande: 279 → 99). Renomeie os takes com os nomes do painel (T01 a T12, 2 dígitos).',
@@ -254,10 +254,10 @@ c['colagens'] = [{'titulo': 'nora46 (12 takes)', 'fala': ' '.join(t[2] for t in 
 p['central'] = c
 
 p['story'] = {'prompt_imagem': STORY_PROMPT, 'anexar': 'SÓ o blueprint (a folha da Nora v2). Nenhuma outra imagem.',
-  'textos': [{'posicao': 'Uma frase só, no topo (na faixa da parede verde-esmeralda), uma cor (creme #F1E6D3), 1 a 2 linhas',
+  'textos': [{'posicao': 'Uma frase só, uma cor (creme #F1E6D3), em 2 linhas, na parede verde acima da cabeça, logo abaixo da barra do Instagram (entre ~11% e ~19% da altura); pode encostar no alto do cabelo, nunca no rosto. Adesivo na mesa, embaixo das cartas',
               'texto': 'Tap below: pick 3 cards and see what the 11:11 portal brings you.'}],
   'adesivos': ['Pick my 3 cards', 'See my new chapter'],
-  'nota': ('STORY NOVO (31/10, story-3110): poste antes das 18h44 (quando o story-3010 vence) e antes do nora46, no Insta e no Face. Ao pôr o adesivo de link, '
+  'nota': ('IMAGEM ESCOLHIDA: a 4ª das 4 variações (sorriso aberto, mãos junto da carta do meio), renomeada para story-3110; não gere outra. STORY NOVO (31/10): poste antes das 18h44 (quando o story-3010 vence) e antes do nora46, no Insta e no Face. Ao pôr o adesivo de link, '
            'cole o link certo de cada rede e confira na prévia. Insta (STORYIG): ' + LINK_IG + ' · Face (FACE): ' + LINK_FB)}
 
 # ---------------- mapa da tela e edição ----------------
@@ -303,7 +303,7 @@ p['edicao_linha'] = [
   {'quando': '3. Do Take 1 ao fim (menos o Take 9)', 'texto': 'Legenda automática, em blocos de 2 a 4 palavras', 'como': 'Faixa verde do mapa. Destaques em amarelo-ouro: portal, 11:11, sign, money, peace, cards, love e 222.'},
   {'quando': '4. Takes 5, 6 e 7', 'texto': '1. 11:11 everywhere\n2. The wrong people fade out\n3. Something good is coming',
    'como': 'No lugar da caixa do topo (X 0 · Y 397). Cada sinal entra no seu take e fica até o fim do Take 7. Começa em “Sign one”.'},
-  {'quando': '5. Take 8', 'texto': '3 imagens do desejo, tela cheia, ~2 s cada', 'como': 'nora46-DESEJO-1-dinheiro, -2-casal e -3-casa, na ordem, com corte seco. Começa em “imagine” e termina em “feels like peace”.'},
+  {'quando': '5. Take 8', 'texto': '3 imagens do desejo, tela cheia, ~2 s cada', 'como': 'nora46-DESEJO-1-dinheiro, -2-casal e -3-casa, na ordem, com corte seco. Começa em “imagine” e termina em “feels like peace”. Na da casa, o “WELCOME” do capacho fica embaixo da interface do app; se incomodar, zoom de 110% subindo a imagem.'},
   {'quando': '6. Take 9', 'texto': 'Rated 4.7 ⭐ by 2,000+ people', 'como': 'Caixa branca no topo (X 0 · Y 397) + as avaliações 01, 02 e 03, ~2 s cada, em X 0 · Y -200 (escala ~85%). Tire a legenda automática deste take.'},
   {'quando': '7. Do Take 10 até o fim', 'texto': 'Pick your 3 cards in my story ⭐', 'como': 'Faixa no topo (X 0 · Y 397), texto preto, “my story” em vermelho. Começa em “If you noticed”.'},
   {'quando': '8. Do Take 10 até o fim', 'texto': 'Seta vermelha (↓)', 'como': 'Embaixo à esquerda (X -317 · Y -333), para a foto do perfil.'},
