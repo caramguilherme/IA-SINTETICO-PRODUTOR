@@ -73,7 +73,7 @@ p['roteiro'] = {
   'molde_hook': 'o vídeo da 1ª venda da Mary (seção 42 de BIBLIOTECA-VIDEOS-VIRAIS.md), com o anjo da guarda no lugar da senhora falecida (P15) e sem "before it disappears" (P42)',
   'duracao_total': 8,
   'descricao_instagram': "Read this before you scroll. Your guardian angel left something for you. 🙏✨\nTap my photo, open my story and pick your 3 cards. Comment 222.\n#manifestation #1111portal #guardianangel",
-  'legenda_aviso': '📘 SÓ NO FACEBOOK. Não poste no Insta. Ao vivo (nunca agendar), fora dos horários dos vídeos nora (por exemplo, às 15h ou entre dois deles).',
+  'legenda_aviso': '📘 SÓ NO FACEBOOK. Não poste no Insta. Ao vivo (nunca agendar), por volta das 15h (o face02 vai ~3 h depois).',
   'leitura_registro': LEITURA}
 p['refs'] = ['Blueprint da Nora v2 (só ele) na face01-IMG']
 p['imagens'] = [{'rotulo': 'IMAGEM 1 · face01-IMG · APROVADA: a 4ª das 4', 'cena': CENA, 'anexar': 'SÓ o blueprint da Nora v2 (a folha de consistência). Nenhuma outra imagem.'}]
@@ -96,7 +96,7 @@ c['passos'] = [
   'face01-IMG APROVADA (31/10 ~11h, a 4ª das 4: cabeça reta, olhos fechados, meio sorriso, cabelo solto, as estrelinhas na bochecha, árvores de outono pelo para-brisa).',
   'Agora: o clipe (seção “Clipe”) em FRAMES, primeiro e último quadro = face01-IMG, 8 s, 9:16, áudio ligado. Renomeie para face01-CLIPE. 12 créditos (conta de 41 → 29).',
   'CapCut: a camada escura, o texto longo e a música (seção de texto na tela). Sem legenda automática e sem números fixos.',
-  'Postar SÓ no Facebook, ao vivo, fora dos horários dos vídeos nora (por exemplo, às 15h ou entre dois deles). Vale o story que estiver no ar (o story-3010 até 18h44; depois, o story-3110). Comentário: só comente (no Face não fixa).']
+  'Postar SÓ no Facebook, ao vivo, por volta das 15h (o face02, a mesma ideia com a imagem parada, vai ~3 h depois; o nora46 às 22h). Vale o story que estiver no ar (o story-3010 até 18h44; depois, o story-3110). Comentário: só comente (no Face não fixa).']
 c['colagens'] = [{'titulo': 'clipe sem fala', 'fala': '(sem fala)', 'movimentacao': ['(sem fala)'], 'takes': [0]}]
 p['central'] = c
 p['story'] = {'ja_postado': True, 'nota': '✅ NÃO FAÇA STORY PARA ESTE VÍDEO. Vale o story que estiver no ar no Face: o story-3010 até 18h44 de hoje; depois, o story-3110 (painel do nora46).'}
