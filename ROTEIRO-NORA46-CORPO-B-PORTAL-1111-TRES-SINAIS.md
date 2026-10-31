@@ -126,7 +126,7 @@ Visual "especialista" (decisão 3 da aula): **blazer creme sobre blusa branca li
 - O corpo é gerado uma vez e serve aos próximos posts até 11/11 trocando só o hook (0 crédito). Depois do dia 11, para virar um corpo "3 sinais de um novo capítulo" sem data, regerar só os takes com o portal (T01, T03, T04, T10 e T12: 75 créditos); os takes 2, 5 a 9 e 11 não falam do portal.
 
 ## Postagem
-Hoje, 31/10, à noite, no Insta e no Face, ao vivo, sem localização (é falado). Horário fechado no painel. Antes de postar: a transcrição dos 12 takes e as emendas (P33).
+Hoje, 31/10, **às 17h** (o 1º horário do dia), no Insta e no Face, ao vivo, sem localização (é falado). O story-3110 vai antes. Antes de postar: a transcrição dos 12 takes e as emendas (P33).
 
 ## Variações
 **Variações do corpo B (pergunta do aluno, 31/10 ~01h40: "esse corpo vai ser usado sempre?"):** não fica igual; varia em camadas, mantendo a ideia: (1) a cada post, outro hook visual (pedra, geodo, geodo espelhado, esconderijo; 0 crédito) e, no Face, a `-VAR` (espelho, filtro e 1,1x); (2) a cada 1 ou 2 dias, um Take 1 novo (15), por exemplo com os signos; (3) se o nora46 levar gente ao story, a versão de amor ou de dinheiro, trocando só os takes 5 a 8 (60); (4) depois do dia 11, a versão sem portal, regerando só T01, T03, T04, T10 e T12 (75).

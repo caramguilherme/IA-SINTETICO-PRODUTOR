@@ -232,14 +232,14 @@ c['conferir'] = ('Conferir em cada take: é a Nora v2 da nora46-IMG (rosto, lua 
 c['passos'] = [
   'nora46-IMG APROVADA (31/10 ~03h, a 3ª das 3 variações: janela à esquerda, microfone na borda esquerda, prateleira com a bandeirinha à direita, planta embaixo à direita). Movimentação e texto LIVRE já fechados por ela.',
   'Feito (31/10 ~03h30): as 3 imagens do desejo aprovadas (nora46-DESEJO-1-dinheiro, nora46-DESEJO-2-casal, nora46-DESEJO-3-casa) e o story-3110 escolhido (a 4ª das 4 variações).',
-  'Story novo (story-3110) antes das 18h44 de hoje, quando o story-3010 vence: no Insta com o link STORYIG e no Face com o link FACE (seção “Story”). Confira o link na prévia antes de publicar.',
+  'Story novo (story-3110) antes das 17h (antes do nora46; o story-3010 vence às 18h44): no Insta com o link STORYIG e no Face com o link FACE (seção “Story”). Confira o link na prévia antes de publicar.',
   'Central do curso com a configuração da seção “Central do curso” (o LIVRE é novo) e a fala e a movimentação da seção “A fala e a movimentação”. Confira: 12 takes de 10 s.',
   'Agente do Flow: anexe só a nora46-IMG, cole o aviso e, embaixo, o “COPIAR TUDO JUNTO” da Central, sem editar. 180 créditos (conta grande: 279 → 99). Renomeie os takes com os nomes do painel (T01 a T12, 2 dígitos).',
   'Se o agente gerar menos de 12, abra um projeto novo no Flow e mande só os que faltaram.',
   'Me mande a transcrição dos 12 takes antes de cortar (P33).',
   'Corte de silêncio (seção “Cortar os silêncios”): nora46-T01 a T12 de uma vez, “Juntar tudo” ligado, Corte seco.',
   'CapCut: nora34-PRE (sem espelhar, ~3,5 s) + o corpo cortado + os textos, as imagens do desejo e as avaliações (seção de texto na tela). Música de sempre a −18 dB.',
-  'Postar hoje (31/10) por volta das 22h no Insta e no Face, ao vivo, sem localização (é falado). Comentário: no Insta, comente e fixe (sem link); no Face, só comente.']
+  'Postar hoje (31/10) às 17h no Insta e no Face (o 1º horário do dia), ao vivo, sem localização (é falado). O story-3110 já tem de estar no ar. Comentário: no Insta, comente e fixe (sem link); no Face, só comente.']
 c['agente'] = copy.deepcopy(P40['central']['agente'])
 c['agente']['imagem'] = 'nora46-IMG'
 c['agente']['aviso'] = ('Vou te enviar 12 prompts, cada prompt é um vídeo. Faça todos na ordem, sem pedir minha aprovação entre um e outro, e depois renomeie cada um '
@@ -257,7 +257,7 @@ p['story'] = {'prompt_imagem': STORY_PROMPT, 'anexar': 'SÓ o blueprint (a folha
   'textos': [{'posicao': 'Uma frase só, uma cor (creme #F1E6D3), em 2 linhas, na parede verde acima da cabeça, logo abaixo da barra do Instagram (entre ~11% e ~19% da altura); pode encostar no alto do cabelo, nunca no rosto. Adesivo na mesa, embaixo das cartas',
               'texto': 'Tap below: pick 3 cards and see what the 11:11 portal brings you.'}],
   'adesivos': ['Pick my 3 cards', 'See my new chapter'],
-  'nota': ('IMAGEM ESCOLHIDA: a 4ª das 4 variações (sorriso aberto, mãos junto da carta do meio), renomeada para story-3110; não gere outra. STORY NOVO (31/10): poste antes das 18h44 (quando o story-3010 vence) e antes do nora46, no Insta e no Face. Ao pôr o adesivo de link, '
+  'nota': ('IMAGEM ESCOLHIDA: a 4ª das 4 variações (sorriso aberto, mãos junto da carta do meio), renomeada para story-3110; não gere outra. STORY NOVO (31/10): poste antes das 17h, antes do nora46, no Insta e no Face. Ao pôr o adesivo de link, '
            'cole o link certo de cada rede e confira na prévia. Insta (STORYIG): ' + LINK_IG + ' · Face (FACE): ' + LINK_FB)}
 
 # ---------------- mapa da tela e edição ----------------
