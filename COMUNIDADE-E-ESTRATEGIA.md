@@ -476,4 +476,4 @@ Correção minha: eu disse que a copy da Scarllet "leva pouca gente ao story", e
 
 ### 31/10/2026 ~10h15 - Mary respondeu o DM (1ª venda com 18 vídeos)
 Resumo em `FATOS-DO-ALUNO.md` (Mary) e o vídeo dela na seção 42 de `BIBLIOTECA-VIDEOS-VIRAIS.md`: texto longo na tela sobre um clipe calmo (mulher no carro), no Facebook, copy da senhora falecida, link nos comentários; 18 vídeos até a 1ª venda; "no começo é copiar". **Leitura:** é 1 venda (não prova um formato), mas é texto na tela no Face, e a Nora ainda não testou texto longo nem o carro. **Proposta (para o aluno decidir):** um texto na tela novo no lugar do slot de 8 s (12 créditos): a Nora no carro, de olhos fechados, com a estrutura da Mary e o anjo da guarda no lugar da falecida, CTA para o story das 3 cartas e o 222 depois; e, no Face, testar o link FACE num comentário, como ela faz (hoje ele vai só no story e no direct).
-
+**Decisão (aluno, 31/10 ~10h30):** o texto longo da Mary é testado **só no Face**, num painel próprio fora da numeração do nora (`face01`); o link no comentário do Face fica fora (o Face não deixa fixar). Regra no `CLAUDE.md`: testes de formato só do Face = `faceNN`.
