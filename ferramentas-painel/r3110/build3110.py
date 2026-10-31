@@ -292,7 +292,7 @@ mp['seta'] = {'x': 6, 'y': 76, 'onde': 'embaixo à esquerda, apontando para baix
 mp['regras'] = [
   'Conferido na nora46-IMG: a faixa da legenda (Y -294, 73%) fica nos antebraços, logo acima da borda da mesa, abaixo do microfone e do rosto; as avaliações (X 0 · Y -200) ficam em cima do blazer, sem cobrir o rosto.',
   'Nada nas faixas vermelhas, em cima do rosto, das mãos ou do microfone. Os números ficam na parede, na janela e ao lado do ombro: se algum cobrir a cabeça do microfone ou a bandeirinha, mova uns 40 no X.',
-  'Imagens do desejo (Take 8): tela cheia (720×1280), ~2 s cada, corte seco, na ordem dinheiro, casal, casa. A voz continua por baixo e a legenda por cima.',
+  'Imagens do desejo (Take 8) e avaliações (Take 9) entram como sobreposição por cima do vídeo: nada pausa, a voz dela continua e a duração do vídeo não muda. Cada imagem entra na palavra que combina com ela (dinheiro, casal, casa; Leukia, Patricia, Darcey).',
   'Avaliações (Take 9): só os prints reais das pastas do projeto, sem mudar o texto; o nome do app não aparece.']
 p['mapa_tela'] = mp
 p['edicao_linha'] = [
@@ -303,8 +303,8 @@ p['edicao_linha'] = [
   {'quando': '3. Do Take 1 ao fim (menos o Take 9)', 'texto': 'Legenda automática, em blocos de 2 a 4 palavras', 'como': 'Faixa verde do mapa. Destaques em amarelo-ouro: portal, 11:11, sign, money, peace, cards, love e 222.'},
   {'quando': '4. Takes 5, 6 e 7', 'texto': '1. 11:11 everywhere\n2. The wrong people fade out\n3. Something good is coming',
    'como': 'No lugar da caixa do topo (X 0 · Y 397). Cada sinal entra no seu take e fica até o fim do Take 7. Começa em “Sign one”.'},
-  {'quando': '5. Take 8', 'texto': '3 imagens do desejo, tela cheia, ~2 s cada', 'como': 'nora46-DESEJO-1-dinheiro, -2-casal e -3-casa, na ordem, com corte seco. Começa em “imagine” e termina em “feels like peace”. Na da casa, o “WELCOME” do capacho fica embaixo da interface do app; se incomodar, zoom de 110% subindo a imagem.'},
-  {'quando': '6. Take 9', 'texto': 'Rated 4.7 ⭐ by 2,000+ people', 'como': 'Caixa branca no topo (X 0 · Y 397) + as avaliações 01, 02 e 03, ~2 s cada, em X 0 · Y -200 (escala ~85%). Tire a legenda automática deste take.'},
+  {'quando': '5. Take 8 (a voz dela continua por baixo; nada pausa)', 'texto': '3 imagens do desejo por cima do vídeo, tela cheia', 'como': 'Sobreposição no CapCut (X 0 · Y 0, aumentada até cobrir a tela). Ela aparece falando “If that’s you, imagine a few months from now”; depois: nora46-DESEJO-1-dinheiro em “money stops being a worry”, nora46-DESEJO-2-casal em “someone stays”, nora46-DESEJO-3-casa em “and home feels like peace” (~1,5 a 2 s cada, corte seco). No take 9 ela volta na tela. Na da casa, o “WELCOME” do capacho fica embaixo da interface do app; se incomodar, zoom de 110% subindo a imagem.'},
+  {'quando': '6. Take 9 (a voz continua; o rosto dela fica visível em cima)', 'texto': 'Rated 4.7 ⭐ by 2,000+ people', 'como': 'Caixa branca no topo (X 0 · Y 397) + as avaliações por cima do vídeo, na metade de baixo (sobreposição em X 0 · Y -200, escala ~85%): 01-leukia em “Over two thousand people have already rated this reading”, 02-patricia em “Here’s what some of them wrote”, 03-darcey em “after picking their cards” (~2 s cada). Tire a legenda automática deste take.'},
   {'quando': '7. Do Take 10 até o fim', 'texto': 'Pick your 3 cards in my story ⭐', 'como': 'Faixa no topo (X 0 · Y 397), texto preto, “my story” em vermelho. Começa em “If you noticed”.'},
   {'quando': '8. Do Take 10 até o fim', 'texto': 'Seta vermelha (↓)', 'como': 'Embaixo à esquerda (X -317 · Y -333), para a foto do perfil.'},
   {'quando': '9. O vídeo todo', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB', 'como': 'Volume baixo, por baixo da voz.'}]
