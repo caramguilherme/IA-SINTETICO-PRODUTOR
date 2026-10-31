@@ -410,7 +410,7 @@ function montarRespFace(){
 /* ORDEM DE PRODUÇÃO: as seções seguem o passo a passo do caminho da produção (legenda e comentário fixado por último, antes de postar). */
 function ordenar(){
   const c=pk.central;
-  const ord=c
+  const ord=(pk.ordem&&pk.ordem.length)?pk.ordem.slice():c
     ?['pecas','referencia','prehook','imagens','todos','central','cenas','agente','silencio','story','textotela','fala','descricao','comentario','respostasface']
     :['pecas','referencia','prehook','imagens','videos','todos','silencio','story','textotela','fala','descricao','comentario','respostasface'];
   // clipe único (texto na tela): o clipe sai da imagem, então a seção Imagens vem antes da seção Clipe

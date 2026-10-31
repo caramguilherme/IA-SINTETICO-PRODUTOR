@@ -196,7 +196,7 @@ p['texto_tela'] = {'hook': 'The 11:11 portal is opening.\n3 signs it chose you',
 p['comentario_fixado'] = {
   'insta': "If you noticed even one of these signs, your new chapter is already on its way. ✨ Tap my photo, open my story and pick your 3 cards: see what it's bringing you in love and money before 11/11. 🔮 Comment 222 to claim it.",
   'face': "If you noticed even one of these signs, your new chapter is already on its way. ✨ Tap my profile picture, open my Story and pick your 3 cards: see what it's bringing you in love and money before 11/11. 🔮 Comment 222 to claim it."}
-p['pre_gancho'] = {'titulo_secao': 'Hook (a pedra escura do nora34: não gerar)', 'duracao': 4, 'tomadas': 1, 'com_rosto': True, 'etapas': [],
+p['pre_gancho'] = {'titulo_secao': 'CapCut: o hook (a pedra escura, já pronta) + o corpo cortado', 'duracao': 4, 'tomadas': 1, 'com_rosto': True, 'etapas': [],
   'conceito': 'A pedra escura que racha (nora34-PRE), já gerada: 0 crédito. Foi o hook que mais segurou num longo (nora43: 69,5% nos 3 s, 19 s de média). Corte seco para o Take 1, que já abre falando do portal.',
   'modo': 'Não gere nada aqui. No CapCut, use a nora34-PRE como está (sem espelhar).',
   'montagem': '1) nora34-PRE: uns 3,5 s (corte logo depois que as metades abrem).\n2) Corte seco para o corpo cortado (nora46-cortado: T01 a T12).\n3) A caixa do topo já entra no primeiro quadro do hook.',
@@ -332,5 +332,7 @@ p['pecas'] = {'lista': L, 'decisao': [
      'gancho': "Taurus, Virgo or Capricorn: the 11:11 portal is about to open, and if this reached you today, it's not a coincidence.", 'texto': 'Taurus, Virgo, Capricorn: the 11:11 portal is opening'},
     {'nome': 'noraNN-T05-sinal-1-amor', 'modelo': 'versão de amor (takes 5 a 8 novos)', 'custo': '60 (4 takes)',
      'gancho': 'Sign one: you keep dreaming about a love that feels calm, and for the first time, you believe you deserve it.', 'texto': '3 signs love is on its way'}]}
+# Ordem do painel = ordem de produção (pedido do aluno, 31/10): imagens → Central → agente → corte → CapCut (hook + corpo) → textos e sobreposições → story → postar.
+p['ordem'] = ['pecas', 'referencia', 'imagens', 'todos', 'central', 'cenas', 'agente', 'silencio', 'prehook', 'textotela', 'story', 'descricao', 'comentario', 'respostasface', 'fala']
 gravar(46, p)
 print('ok: PAINEL-NORA46 (corpo B)'); [print(t[0], wc(t[2])) for t in T]
