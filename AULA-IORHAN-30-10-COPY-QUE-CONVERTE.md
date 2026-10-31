@@ -77,7 +77,8 @@ Placar: 4 verdes, 4 amarelos, 4 vermelhos. Sem autoridade, sem qualificação, s
 3. **Visual mais "especialista":** a imagem do corpo B sai mais profissional (blazer ou camisa social, cenário claro e limpo), com o mesmo rosto, cabelo e marcas da Nora (a avatar não muda antes da janela de 40 vídeos). Tirar a lua do rosto fica para um teste depois, separado.
 4. **O corpo A vai até o nora46** (já em produção) e para; o nora47 (corpo A de novo) sai do plano. Fita e placa: sem "keep your mouth shut" e sem datas no texto do topo.
 5. **Legenda e comentário sem "before it disappears"**; dizem o que a pessoa encontra no story.
-6. **Referências:** o aluno minera 3 a 5 vídeos de especialistas de manifestação de fora da Appyon (YouTube e TikTok, de preferência os de "sinais" e do 11/11) e manda os materiais do Iorhan quando saírem.
+6. **Autorização do aluno (31/10): usar tudo o que o Iorhan sugeriu.** Depoimento na tela = avaliações reais (Trustpilot do app, com o nome cortado; comentários reais da Nora), em tela dividida antes do CTA; autoridade = a Nora como astróloga explicando o mecanismo. Depoimento, cliente e credencial inventados ficam fora (limite do agente; regra P42).
+7. **Referências:** o aluno minera 3 a 5 vídeos de especialistas de manifestação de fora da Appyon (YouTube e TikTok, de preferência os de "sinais" e do 11/11) e manda os materiais do Iorhan quando saírem.
 
 ---
 
