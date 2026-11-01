@@ -24,11 +24,11 @@ Emenda: termina em "it's not a coincidence." e o Take 2 do nora46 começa em "If
 Só o Take 1 deste vídeo, neste painel (aluno, 31/10 ~19h: cada painel gera só o seu): 1 colagem de 1 take na Central e 1 mensagem no agente com a `nora46-IMG` e o aviso de 1 prompt; 15 créditos na conta grande.
 
 ## Texto na tela, números, legenda e comentário
-- Caixa do topo (do 1º quadro do hook até o fim do Take 1, X 0 · Y 397, tamanho 10, 3 linhas, signos em vermelho): ARIES, LEO, SAGITTARIUS / The 11:11 portal is opening. / 3 signs it chose you
+- Caixa do topo (do 1º quadro do hook até o fim do Take 1, X 0 · Y 397, tamanho 10, 3 linhas, signos em vermelho): ARIES, LEO, SAGITTARIUS / 3 signs abundance / is opening up for you (01/11: pela aula, sem "it chose you")
 - Números: os mesmos do nora46 (11:11 vermelho 15, 222 roxo 12, 888 verde-esmeralda 11), só no hook e no Take 1; do Take 2 em diante já vêm no vídeo do nora46.
-- Legenda: Aries, Leo, Sagittarius: the 11:11 portal is opening. 3 signs it chose you. 🔮 / Pick 3 cards in my story and see what your new chapter brings. Follow me + comment 222. / #manifestation #1111portal #aries #leo #sagittarius
-- Comentário (Insta, fixar): Aries, Leo, Sagittarius: if you noticed even one of these signs, your new chapter is already on its way. ✨ Tap my photo, open my story and pick your 3 cards: see what it's bringing you in love and money before 11/11. 🔮 Comment 222 to claim it.
-- Comentário (Face, só comentar): Aries, Leo, Sagittarius: if you noticed even one of these signs, your new chapter is already on its way. ✨ Tap my profile picture, open my Story and pick your 3 cards: see what it's bringing you in love and money before 11/11. 🔮 Comment 222 to claim it.
+- Legenda (01/11, pela aula: sem "chose you" nem 222): Aries, Leo, Sagittarius: if this describes your life, listen before 11/11. 🔮 / 3 signs abundance is opening up for you. Your 11/11 reading starts in my story. / #manifestation #1111portal #aries #leo #sagittarius
+- Comentário (Insta, fixar): Aries, Leo, Sagittarius: which of the 3 signs is yours, 1, 2 or 3? ✨ If you related to any of them, tap my photo and start your 11/11 reading in my story. 🔮
+- Comentário (Face, só comentar): Aries, Leo, Sagittarius: which of the 3 signs is yours, 1, 2 or 3? ✨ If you related to any of them, tap my profile picture and start your 11/11 reading in my Story. 🔮
 - Story: nenhum novo (vale o `story-3110`, do nora46).
 
 ## Montagem (CapCut)

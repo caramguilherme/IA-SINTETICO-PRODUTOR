@@ -53,7 +53,8 @@ for g in G:
     g['fala'] = g['fala_sig'] + RESTO
     g['arq'] = f"nora{g['n']}-T01-gancho-portal-{g['suf']}"
     g['mov'] = ABRE + g['expr'] + FECHA
-    g['caixa'] = g['lista'].upper() + '\nThe 11:11 portal is opening.\n3 signs it chose you'
+    g['aula'] = g['n'] >= 49  # 01/11: materiais da aula do Iorhan (slides 9, 11 e 20) valem do primeiro painel ainda não postado
+    g['caixa'] = g['lista'].upper() + ('\n3 signs abundance\nis opening up for you' if g['aula'] else '\nThe 11:11 portal is opening.\n3 signs it chose you')
 assert G[0]['mov'] == M0  # o nora47 usa a mesma linha do Take 1 do nora46
 
 # ---------------- conferências (as mesmas do nora46) ----------------
@@ -114,7 +115,8 @@ def pacote(g):
       'formato': f"Hook pronto ({g['hook_nome']}) + Take 1 NOVO com os signos ({g['pt']}) + takes 2 a 12 do nora46 (~90 s)",
       'molde_hook': 'série por signos (P17/P23; signos na fala e na tela, dica do Matheus) sobre o Take 1 do corpo B: o portal + a predestinação saudável do Iorhan',
       'duracao_total': 90,
-      'descricao_instagram': f"{g['lista']}: the 11:11 portal is opening. 3 signs it chose you. 🔮\nPick 3 cards in my story and see what your new chapter brings. Follow me + comment 222.\n#manifestation #1111portal {g['tags']}",
+      'descricao_instagram': (f"{g['lista']}: if this describes your life, listen before 11/11. 🔮\n3 signs abundance is opening up for you. Your 11/11 reading starts in my story.\n#manifestation #1111portal {g['tags']}" if g['aula'] else
+                              f"{g['lista']}: the 11:11 portal is opening. 3 signs it chose you. 🔮\nPick 3 cards in my story and see what your new chapter brings. Follow me + comment 222.\n#manifestation #1111portal {g['tags']}"),
       'leitura_registro': LEITURA}
     p['refs'] = ['Nenhuma imagem nova: a nora46-IMG (só ela) no agente']
     p['imagem_reutilizada'] = {'arquivo': 'nora46-IMG',
@@ -125,9 +127,14 @@ def pacote(g):
                     'primeiro_quadro': 'IMAGEM 1', 'acao': '', 'b_roll': '', 'fala': x['fala'], 'movimentacao': x['mov'], 'arquivo': x['arq']} for x in lista_v]
     p['texto_tela'] = {'hook': g['caixa'], 'hook_comeca': 'o primeiro quadro do hook', 'hook_termina': "it's not a coincidence.", 'hook_alt': '', 'extras': []}
     sig = g['lista']
-    p['comentario_fixado'] = {
-      'insta': f"{sig}: if you noticed even one of these signs, your new chapter is already on its way. ✨ Tap my photo, open my story and pick your 3 cards: see what it's bringing you in love and money before 11/11. 🔮 Comment 222 to claim it.",
-      'face': f"{sig}: if you noticed even one of these signs, your new chapter is already on its way. ✨ Tap my profile picture, open my Story and pick your 3 cards: see what it's bringing you in love and money before 11/11. 🔮 Comment 222 to claim it."}
+    if g['aula']:
+        p['comentario_fixado'] = {
+          'insta': f"{sig}: which of the 3 signs is yours, 1, 2 or 3? ✨ If you related to any of them, tap my photo and start your 11/11 reading in my story. 🔮",
+          'face': f"{sig}: which of the 3 signs is yours, 1, 2 or 3? ✨ If you related to any of them, tap my profile picture and start your 11/11 reading in my Story. 🔮"}
+    else:
+        p['comentario_fixado'] = {
+          'insta': f"{sig}: if you noticed even one of these signs, your new chapter is already on its way. ✨ Tap my photo, open my story and pick your 3 cards: see what it's bringing you in love and money before 11/11. 🔮 Comment 222 to claim it.",
+          'face': f"{sig}: if you noticed even one of these signs, your new chapter is already on its way. ✨ Tap my profile picture, open my Story and pick your 3 cards: see what it's bringing you in love and money before 11/11. 🔮 Comment 222 to claim it."}
     esp = ' ESPELHADO (Editar → Espelhar, só no clipe do hook)' if g['espelhar'] else ' (sem espelhar)'
     p['pre_gancho'] = {'titulo_secao': f"CapCut: o hook ({g['hook']}, já pronto) + o Take 1 novo + o corpo do nora46", 'duracao': 4, 'tomadas': 1, 'com_rosto': True, 'etapas': [],
       'conceito': g['hook_conceito'] + (' ' + g['hook_alt'] if g['hook_alt'] else ''),
@@ -169,7 +176,7 @@ def pacote(g):
     assert est[0]['nome'].startswith('Números') and est[1]['nome'].startswith('Caixa do topo')
     est[0]['obs'] = ('; '.join(f"{u['t']} {u['cor_nome']} {u['cor']}, tamanho {u['tamanho']}, {u['onde']} ({xy(u['x'], u['y'])})" for u in g['num'])
                      + '. Os MESMOS do nora46: o resto do vídeo já vem com eles; ponha só no hook e no Take 1.')
-    est[1] = {'nome': f"Caixa do topo: “{sig.upper()}” / “The 11:11 portal is opening.” / “3 signs it chose you”", 'fonte': 'Poppins Bold (poppins-bd)',
+    est[1] = {'nome': 'Caixa do topo: ' + ' / '.join(f'“{x}”' for x in g['caixa'].split('\n')), 'fonte': 'Poppins Bold (poppins-bd)',
               'cor': 'texto preto #000000; a 1ª linha (os signos) em vermelho #E53935', 'tamanho': '10, em 3 linhas (se encostar nas sobrancelhas, 9)',
               'contorno': 'Plano de fundo branco arredondado, sem traço. Luz DESLIGADA',
               'obs': 'Centralizada no topo (X 0 · Y 397), do primeiro quadro do hook até o fim do Take 1.'}
