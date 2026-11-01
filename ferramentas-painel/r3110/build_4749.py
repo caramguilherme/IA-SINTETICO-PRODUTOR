@@ -24,17 +24,20 @@ ABRE = M0[:M0.index('her eyes stay on the lens, during the first half')]
 FECHA = M0[M0.index(', and from the end of the final sentence'):]
 
 # ---------------- os 3 vídeos ----------------
+LINK_IG = 'https://app.auralyapp.com/6a90ad82719e8d2b35da8a7c?rt_ad=norakensleytarot&utm_source=instagram&utm_content=STORYIG&aff=dl7zx6ks'
+LINK_FB = 'https://app.auralyapp.com/6a90ad82719e8d2b35da8a7c?rt_ad=norakensleytarot&utm_source=facebook&utm_content=FACE&aff=dl7zx6ks'
+assert LINK_IG in json.dumps(P46['story'], ensure_ascii=False) and LINK_FB in json.dumps(P46['story'], ensure_ascii=False)
 RESTO = ": the 11:11 portal is about to open, and if this reached you today, it's not a coincidence."
 G = [
  {'n': 47, 'suf': 'touro-virgem-capricornio', 'fala_sig': 'Taurus, Virgo or Capricorn', 'lista': 'Taurus, Virgo, Capricorn', 'pt': 'Touro, Virgem e Capricórnio',
-  'tags': '#taurus #virgo #capricorn', 'hora': '21h', 'quando': 'hoje (31/10) às 21h (o nora46 saiu às 18h30; 2h30 entre posts)',
+  'tags': '#taurus #virgo #capricorn', 'hora': '17h de 01/11', 'quando': 'hoje (01/11) às 17h (o 1º horário do dia)',
   'expr': 'her eyes stay on the lens, during the first half of the take she leans slightly toward the lens with her eyebrows a little raised and an intrigued look, '
           'during the second half she gives one slow knowing nod with a warm half-smile, both hands staying on the desk',
   'hook': 'nora37-PRE', 'hook_nome': 'o geodo que racha (nora37-PRE, sem espelhar)', 'espelhar': False, 'corte': 'uns 3,8 s (logo depois que a pedra abre e aparece o quartzo rosa)',
   'hook_conceito': 'O geodo que racha (nora37-PRE), já gerado em 28/10: a pedra cinza fechada abre nas mãos dela e mostra o quartzo rosa com o símbolo de Vênus dourado. 0 crédito. Foi o hook do nora40 (1.382 views no Insta, 11 seguidores, 16 envios). Sem espelhar.',
   'hook_alt': ''},
  {'n': 48, 'suf': 'cancer-escorpiao-peixes', 'fala_sig': 'Cancer, Scorpio or Pisces', 'lista': 'Cancer, Scorpio, Pisces', 'pt': 'Câncer, Escorpião e Peixes',
-  'tags': '#cancer #scorpio #pisces', 'hora': '23h30', 'quando': 'hoje (31/10) às 23h30',
+  'tags': '#cancer #scorpio #pisces', 'hora': '19h30 de 01/11', 'quando': 'hoje (01/11) às 19h30',
   'expr': 'her eyes stay on the lens, during the first half of the take she tilts her head slightly to one side with a calm, knowing look and a faint smile, '
           'during the second half she raises her left hand to the height of her shoulder on the right side of the frame with the palm open toward the lens for a moment '
           'and then lowers it back to the desk',
@@ -42,7 +45,7 @@ G = [
   'hook_conceito': 'A revelação do esconderijo (nora27-PRE, viral U7), já gerada em 20/10: ela arranca o tapete, abre o vão no piso e revela o pacote com a carta. 0 crédito. Teve 58,4% nos 3 s no nora27 (o maior da época) e nunca foi usada no Manifestation.',
   'hook_alt': 'Se você não tiver mais o arquivo nora27-PRE, use a nora34-PRE (a pedra escura) espelhada (Editar → Espelhar, só no clipe do hook).'},
  {'n': 49, 'suf': 'aries-leao-sagitario', 'fala_sig': 'Aries, Leo or Sagittarius', 'lista': 'Aries, Leo, Sagittarius', 'pt': 'Áries, Leão e Sagitário',
-  'tags': '#aries #leo #sagittarius', 'hora': '17h de 01/11', 'quando': 'amanhã (01/11) às 17h (o 1º horário do dia)',
+  'tags': '#aries #leo #sagittarius', 'hora': '22h de 01/11', 'quando': 'hoje (01/11) às 22h',
   'expr': 'her eyes stay on the lens, during the first half of the take her eyebrows lift slightly with a warm, surprised look as if recognizing someone, '
           'during the second half she gives one slow nod and a confident half-smile, both hands staying on the desk',
   'hook': 'nora37-PRE', 'hook_nome': 'o geodo que racha ESPELHADO (nora37-PRE)', 'espelhar': True, 'corte': 'uns 3,8 s (logo depois que a pedra abre e aparece o quartzo rosa)',
@@ -53,7 +56,7 @@ for g in G:
     g['fala'] = g['fala_sig'] + RESTO
     g['arq'] = f"nora{g['n']}-T01-gancho-portal-{g['suf']}"
     g['mov'] = ABRE + g['expr'] + FECHA
-    g['aula'] = g['n'] >= 49  # 01/11: materiais da aula do Iorhan (slides 9, 11 e 20) valem do primeiro painel ainda não postado
+    g['aula'] = g['n'] >= 47  # 01/11 (nenhum dos 3 saiu): materiais da aula do Iorhan (slides 9, 11 e 20) valem do primeiro painel ainda não postado
     g['caixa'] = g['lista'].upper() + ('\n3 signs abundance\nis opening up for you' if g['aula'] else '\nThe 11:11 portal is opening.\n3 signs it chose you')
 assert G[0]['mov'] == M0  # o nora47 usa a mesma linha do Take 1 do nora46
 
@@ -115,7 +118,7 @@ def pacote(g):
       'formato': f"Hook pronto ({g['hook_nome']}) + Take 1 NOVO com os signos ({g['pt']}) + takes 2 a 12 do nora46 (~90 s)",
       'molde_hook': 'série por signos (P17/P23; signos na fala e na tela, dica do Matheus) sobre o Take 1 do corpo B: o portal + a predestinação saudável do Iorhan',
       'duracao_total': 90,
-      'descricao_instagram': (f"{g['lista']}: if this describes your life, listen before 11/11. 🔮\n3 signs abundance is opening up for you. Your 11/11 reading starts in my story.\n#manifestation #1111portal {g['tags']}" if g['aula'] else
+      'descricao_instagram': (f"{g['lista']}: if this describes your life, listen before 11/11. 🔮\n3 signs abundance is opening up for you. Pick your 3 cards in my story for your private reading.\n#manifestation #1111portal {g['tags']}" if g['aula'] else
                               f"{g['lista']}: the 11:11 portal is opening. 3 signs it chose you. 🔮\nPick 3 cards in my story and see what your new chapter brings. Follow me + comment 222.\n#manifestation #1111portal {g['tags']}"),
       'leitura_registro': LEITURA}
     p['refs'] = ['Nenhuma imagem nova: a nora46-IMG (só ela) no agente']
@@ -129,8 +132,8 @@ def pacote(g):
     sig = g['lista']
     if g['aula']:
         p['comentario_fixado'] = {
-          'insta': f"{sig}: which of the 3 signs is yours, 1, 2 or 3? ✨ If you related to any of them, tap my photo and start your 11/11 reading in my story. 🔮",
-          'face': f"{sig}: which of the 3 signs is yours, 1, 2 or 3? ✨ If you related to any of them, tap my profile picture and start your 11/11 reading in my Story. 🔮"}
+          'insta': f"{sig}: which of the 3 signs is yours, 1, 2 or 3? ✨ If you related to any of them, tap my photo and pick your 3 cards in my story: your private reading starts there. 🔮",
+          'face': f"{sig}: which of the 3 signs is yours, 1, 2 or 3? ✨ If you related to any of them, tap my profile picture and pick your 3 cards in my Story: your private reading starts there. 🔮"}
     else:
         p['comentario_fixado'] = {
           'insta': f"{sig}: if you noticed even one of these signs, your new chapter is already on its way. ✨ Tap my photo, open my story and pick your 3 cards: see what it's bringing you in love and money before 11/11. 🔮 Comment 222 to claim it.",
@@ -156,7 +159,7 @@ def pacote(g):
       'Me mande a transcrição do Take 1 antes de cortar (P33).',
       f"Corte de silêncio: só o nora{n}-T01, sozinho (os valores da seção “Cortar os silêncios”), salvo como nora{n}-T01-cortado. Legenda automática só desse pedaço (o mesmo estilo do nora46), salva como nora{n}-T01-legendado.",
       'CapCut: projeto novo com o vídeo FINAL do nora46 (exportado, com tudo), cortado no começo do Take 2; antes dele, o hook e o Take 1 novos, com a caixa do topo, os números e a música (passo a passo na seção de texto na tela).',
-      f"Postar {g['quando']} no Insta e no Face, ao vivo, sem localização (é falado). Story: nada novo (vale o story-3110 do nora46). Comentário: no Insta, comente e fixe (sem link); no Face, só comente."]
+      f"Postar {g['quando']} no Insta e no Face, ao vivo, sem localização (é falado). " + ("Story NOVO (story-0111, seção Story) até as 18h30, quando o story-3110 vence. " if n == 47 else "Story: nada novo (vale o story-0111, postado com o nora47). ") + "Comentário: no Insta, comente e fixe (sem link); no Face, só comente."]
     c['agente'] = {'imagem': 'nora46-IMG',
       'aviso': 'Irei enviar 1 prompt para você. Quero que seja feita uma animação da imagem anexada. Utilize a imagem anexada como frame inicial e frame final do vídeo.',
       'aviso_tag': 'obrigatório: com 1 take o prompt da Central não traz o modo agente',
@@ -167,8 +170,16 @@ def pacote(g):
     c['colagens'] = [{'titulo': f"só o Take 1 do nora{n}", 'fala': g['fala'], 'movimentacao': [g['mov']], 'takes': [0]}]
     p['central'] = c
 
-    p['story'] = {'ja_postado': True,
-      'nota': '✅ NÃO FAÇA STORY PARA ESTE VÍDEO. O story-3110 já está no ar desde 31/10 às 18h30, no Insta e no Face, e vale até ~18h30 de 01/11.'}
+    if n == 47:
+        p['story'] = {'prompt_imagem': '(Não gere imagem: use a story-3110 de novo, a mesma de ontem. Só o texto e o adesivo mudam.)',
+          'anexar': 'Nada: a imagem é a story-3110, que você já tem.',
+          'textos': [{'posicao': P46['story']['textos'][0]['posicao'], 'texto': 'Tap below: pick 3 cards and get your private reading before 11/11.'}],
+          'adesivos': ['Pick my 3 cards', 'Get my private reading'],
+          'nota': ('STORY NOVO (story-0111): poste hoje (01/11) depois do nora47 e antes das 18h30 (quando o story-3110 vence), no Insta e no Face, com a mesma imagem story-3110. '
+                   'Ao pôr o adesivo de link, cole o link certo de cada rede e confira na prévia. Insta (STORYIG): ' + LINK_IG + ' · Face (FACE): ' + LINK_FB)}
+    else:
+        p['story'] = {'ja_postado': True,
+          'nota': '✅ NÃO FAÇA STORY PARA ESTE VÍDEO. Vale o story-0111 (postado com o nora47 hoje, antes das 18h30), no Insta e no Face.'}
 
     mp = copy.deepcopy(P46['mapa_tela'])
     mp['numeros'] = g['num']
@@ -210,7 +221,8 @@ def pacote(g):
     L += [{'nome': 'nora46-T02 a nora46-T12 (o corpo B)', 'de': 'nora46', 'tipo': 'corpo', 'status': 'reutilizar',
            'descricao': 'O vídeo FINAL do nora46, exportado, a partir do Take 2: já tem a legenda, os sinais, as fotos do desejo, as avaliações, a faixa do story, a seta, os números e a música. Não gere, não corte e não junte de novo.',
            'onde': 'Use o vídeo final do nora46 que você exportou (com tudo), a partir do Take 2.'},
-          {'nome': 'story-3110', 'de': 'nora46', 'tipo': 'story', 'status': 'reutilizar', 'descricao': 'O story do nora46, no ar desde 31/10 às 18h30 (Insta e Face), vale para este vídeo.', 'onde': 'Já está no ar: não poste outro.'}]
+          ({'nome': 'story-0111', 'de': 'story-3110', 'tipo': 'story', 'status': 'reutilizar', 'descricao': 'A imagem da story-3110 com o texto e o adesivo novos (seção Story); poste antes das 18h30.', 'onde': 'Use a imagem story-3110 que você já tem.'} if n == 47 else
+           {'nome': 'story-0111', 'de': 'nora47', 'tipo': 'story', 'status': 'reutilizar', 'descricao': 'O story postado com o nora47 vale para este vídeo.', 'onde': 'Já está no ar: não poste outro.'})]
     p['pecas'] = dict({'lista': L, 'decisao': [
       'No Insta, cada post do mesmo corpo leva um Take 1 novo: o nora44, só com o hook trocado, fez 178 views; o nora43, com Take 1 novo, fez 968. Por isso: hook pronto (0) + Take 1 com os signos (15) + o corpo do nora46.',
       'Cada painel gera só o seu Take 1: uma colagem de 1 take na Central e uma mensagem no agente, 15 créditos.',

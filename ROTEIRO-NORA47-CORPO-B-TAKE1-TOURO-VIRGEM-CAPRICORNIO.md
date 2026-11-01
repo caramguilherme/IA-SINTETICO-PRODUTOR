@@ -1,6 +1,6 @@
 # nora47: corpo B (portal 11/11, 3 sinais) com o Take 1 de Touro, Virgem e Capricórnio (31/10/2026)
 
-Painel: https://claude.ai/artifact/SoyRmVkQWNAEVXQ9mwtg5K · Script: `ferramentas-painel/r3110/build_4749.py` · Status: **a gerar** (Take 1) · Postar hoje (31/10) às 21h (o nora46 saiu às 18h30), no Insta e no Face, ao vivo, sem localização.
+Painel: https://claude.ai/artifact/SoyRmVkQWNAEVXQ9mwtg5K · Script: `ferramentas-painel/r3110/build_4749.py` · Status: **a gerar** (Take 1) · Postar hoje (01/11) às 17h (o 1º horário do dia), no Insta e no Face, ao vivo, sem localização (01/11: o nora47 e o nora48 não saíram em 31/10).
 
 ## Leitura obrigatória (registro)
 31/10/2026: a leitura completa de LEIA-TUDO-ANTES.md foi feita hoje, das ~00h40 às ~01h15, para o corpo B (lista no painel do nora46). Para estes 3 painéis (~11h30), que só trocam o Take 1 (a frase com os signos já estava escrita no painel do nora46, em “Depois deste vídeo”), reli: o pacote do painel do nora46 e o script build3110.py, a seção 1 de LICOES-FLOW-E-PROMPTS.md (checklist, itens 1 a 31), BIBLIOTECA-DE-TAKES.md (hooks prontos), o ROTEIRO-NORA47 antigo (esconderijo), o CLAUDE.md e as leituras do Insta do nora43, do nora44 e do nora45 (METRICAS-NORA.csv). Não reli a lista inteira de novo.
@@ -24,12 +24,12 @@ Emenda: termina em "it's not a coincidence." e o Take 2 do nora46 começa em "If
 Só o Take 1 deste vídeo, neste painel (aluno, 31/10 ~19h: cada painel gera só o seu): 1 colagem de 1 take na Central e 1 mensagem no agente com a `nora46-IMG` e o aviso de 1 prompt; 15 créditos na conta grande.
 
 ## Texto na tela, números, legenda e comentário
-- Caixa do topo (do 1º quadro do hook até o fim do Take 1, X 0 · Y 397, tamanho 10, 3 linhas, signos em vermelho): TAURUS, VIRGO, CAPRICORN / The 11:11 portal is opening. / 3 signs it chose you
+- Caixa do topo (do 1º quadro do hook até o fim do Take 1, X 0 · Y 397, tamanho 10, 3 linhas, signos em vermelho): TAURUS, VIRGO, CAPRICORN / 3 signs abundance / is opening up for you (01/11, pela aula: sem "it chose you")
 - Números: os mesmos do nora46 (11:11 vermelho 15, 222 roxo 12, 888 verde-esmeralda 11), só no hook e no Take 1; do Take 2 em diante já vêm no vídeo do nora46.
-- Legenda: Taurus, Virgo, Capricorn: the 11:11 portal is opening. 3 signs it chose you. 🔮 / Pick 3 cards in my story and see what your new chapter brings. Follow me + comment 222. / #manifestation #1111portal #taurus #virgo #capricorn
-- Comentário (Insta, fixar): Taurus, Virgo, Capricorn: if you noticed even one of these signs, your new chapter is already on its way. ✨ Tap my photo, open my story and pick your 3 cards: see what it's bringing you in love and money before 11/11. 🔮 Comment 222 to claim it.
-- Comentário (Face, só comentar): Taurus, Virgo, Capricorn: if you noticed even one of these signs, your new chapter is already on its way. ✨ Tap my profile picture, open my Story and pick your 3 cards: see what it's bringing you in love and money before 11/11. 🔮 Comment 222 to claim it.
-- Story: nenhum novo (vale o `story-3110`, do nora46).
+- Legenda (01/11, pela aula: sem "chose you" nem 222): Taurus, Virgo, Capricorn: if this describes your life, listen before 11/11. 🔮 / 3 signs abundance is opening up for you. Pick your 3 cards in my story for your private reading. / #manifestation #1111portal #taurus #virgo #capricorn
+- Comentário (Insta, fixar): Taurus, Virgo, Capricorn: which of the 3 signs is yours, 1, 2 or 3? ✨ If you related to any of them, tap my photo and pick your 3 cards in my story: your private reading starts there. 🔮
+- Comentário (Face, só comentar): Taurus, Virgo, Capricorn: which of the 3 signs is yours, 1, 2 or 3? ✨ If you related to any of them, tap my profile picture and pick your 3 cards in my Story: your private reading starts there. 🔮
+- Story: **story-0111** (a imagem story-3110 com o texto "Tap below: pick 3 cards and get your private reading before 11/11." e o adesivo "Pick my 3 cards"), postado com este vídeo antes das 18h30.
 
 ## Montagem (CapCut)
 31/10 ~13h (aluno: "não tem como duplicar"): projeto novo com o vídeo FINAL do nora46, exportado com tudo (legenda, sinais, fotos do desejo, avaliações, faixa do story, seta, números e música). Dividir no começo do Take 2 ("If you've been working so hard") e apagar o hook e o Take 1 antigos; antes, o hook novo e o Take 1 novo (cortado sozinho e legendado), com a caixa do topo, os 3 números do nora46 e a música só nesse trecho.

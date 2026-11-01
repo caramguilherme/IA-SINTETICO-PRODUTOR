@@ -59,3 +59,14 @@ Testar bênção genérica e também um tema por copy (dinheiro ou amor).
 ## 9. Aula "Copy que Converte" do Iorhan (30/10/2026) — complementa este briefing
 Resumo, decisões e transcrição em `AULA-IORHAN-30-10-COPY-QUE-CONVERTE.md` (regra P42). Para o funil: manifestação é oferta de esperança e desejo de futuro; o ângulo positivo é o principal (como na seção 4), com a dor em uma frase só, para qualificar; nada de ameaça, trava, "keep your mouth shut", loop de engajamento antes do CTA, "antes que desapareça", "milagroso", "garantido", inveja ou "bloqueio que lançaram sobre você" (copy "de Brasil"; os clientes são dos EUA, Austrália e Reino Unido). O CTA diz o que a pessoa encontra no story e dá motivos para clicar. **Portal 11/11:** vídeo completo (gancho, corpo e CTA com o portal como mecanismo), não só o gancho trocado. Ângulos: "3 sinais de um novo capítulo", predestinação saudável ("se este vídeo chegou até você hoje..."), contraintuitivo e promessa direta. Referências: especialistas de manifestação de fora da Appyon, com visual profissional, sem estereótipo místico.
 
+## Telas do funil (prints do aluno, 01/11/2026)
+1. "Something POWERFUL wants to speak to you about 2026. These 3 cards will reveal the truth about your year." → tocar em 3 de 7 cartas.
+2. "CONNECTION ESTABLISHED!" (conexão exclusiva, "very few people", "right now") → "GET YOUR SPECIAL MESSAGE".
+3. Chat com a "Aura Solene, Psychic": "Just 3 quick questions, and your reading will be ready."
+4. "What does your heart want most right now?" (Financial abundance, True love, Inner peace, Deep purpose).
+5. "How often do you notice repeating numbers…? Like 11:11 on the clock, 222, or a déjà vu."
+6. "What would you like to see change first?" (A decision I'm stuck on, Unexpected opportunities, Clarity in love, Peace with my path).
+7. "Your 3 cards are ready. I've prepared a reading just for you." → "Reveal my reading".
+8. "PRIVATE READING · PREPARED FOR YOU / Your Final Revelation" → o vídeo de venda (mulher morena de blusa verde-escura, sala à noite com luz roxa, 3 cartas na mesa).
+**Para a copy:** o que a pessoa encontra ao clicar = escolher 3 cartas, responder 3 perguntas (amor, dinheiro, paz, propósito; números repetidos; o que mudar primeiro) e receber a "private reading". Usar esses nomes no CTA e no story (slide 12 da aula).
+
