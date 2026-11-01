@@ -259,3 +259,5 @@ Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, co
 
 - **01/11/2026 (manhã, depois das 09h49; print sem hora), PERFIL DO INSTA:** **47 posts, 105 seguidores** (104 às 01h46), 21 seguindo; **31,3 mil views nos últimos 30 dias** (27,6 mil às 01h46: **+3,7 mil na madrugada e na manhã**, sem post novo; vem da fita nora45, ainda subindo, e da 2ª onda do nora44). Bio igual.
 
+- **01/11/2026 11h59, INSTA nora46 (corpo B, ~17h30 de vida, prints do aluno):** **126 views** (121 às 01h20: parado), 118 viewers, skip 45,8% (54,2% nos 3 s), tempo médio 10 s, 0 follows, 0 visitas ao perfil, 0 curtidas, 5 comentários (2 pessoas, as 2 respostas do aluno e o fixado), 1 envio; 45+ = 61,6%; EUA 21,6%, Índia 16%. Sem 2ª onda até agora (o reel típico está em ~800 com 24 h; o nora44 só dobrou entre 16 h e 30 h). A régua do corpo B fica para a leitura de ~24 a 30 h (18h30 de hoje a 00h30). O plano de hoje não muda: o nora47, o nora48 e o nora49 testam o Take 1 novo, que é onde a curva cai. Dashboard: asset `/_blob/6621f2722f3287583b02967f9df3885d`, dataset na versão 23.
+
