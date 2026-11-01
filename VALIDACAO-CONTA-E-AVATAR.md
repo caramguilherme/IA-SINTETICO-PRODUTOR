@@ -67,3 +67,5 @@ O Juliano perguntou se trocava a avatar ou descartava uma conta de 4 meses que s
 7. **Trilho paralelo:** subir 2 a 5 perfis juntos, com as mesmas copies validadas, para comparar avatares (o Pedro Finoto fazia com 2: aquecia 3 dias, postava e descartava a que pegava menos view; doc do aluno).
 8. No Insta, no máximo 5 posts por dia por conta (Ricardo Santana tomou restrição com 6).
 9. **Um formato por conta (Eduarda Fernandes, 30/10; Vitor Kretzer, 30/10):** quem vende separa o perfil de hook visual + copy longa do perfil de texto na tela; 4 a 5 vídeos por dia em cada conta, no Insta e no Face. Para o aluno: a Nora fica com o hook visual + copy longa e o **2º perfil pode ser só de texto na tela** (placa ou fita de 8 s, 12 créditos por vídeo, o mais barato de rodar); quando ele existir, a fita sai da Nora.
+
+- **Perfil do Face para perfis novos (Discord, 31/10, Patrick Robba):** o perfil pessoal do Face que segura a Página deve ter pelo menos 6 meses; páginas em perfis de 1 semana não estão pegando (Eduardo & Sabrina, Drigues: 4 páginas cada, abaixo de 10 a 100 views).
