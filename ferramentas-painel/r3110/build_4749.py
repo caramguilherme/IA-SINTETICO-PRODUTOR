@@ -144,6 +144,9 @@ def pacote(g):
         p['comentario_fixado'] = {
           'insta': f"{sig}: which of the 3 signs is yours, 1, 2 or 3? ✨ If you related to any of them, tap my photo and pick your 3 cards in my story before the 11:11 portal: your private reading starts there. 🔮",
           'face': f"{sig}: which of the 3 signs is yours, 1, 2 or 3? ✨ If you related to any of them, tap my profile picture and pick your 3 cards in my Story before the 11:11 portal: your private reading starts there. 🔮"}
+        if n == 47:  # teste do link no comentário do Face, comentando como a Página (aluno topou em 01/11 00h20, dica da Mary)
+            p['comentario_fixado']['face'] = (f"{sig}: which of the 3 signs is yours, 1, 2 or 3? ✨ If you related to any of them, pick your 3 cards here "
+                                              f"and get your private reading before the 11:11 portal 🔮 👉 {LINK_FB}")
     else:
         p['comentario_fixado'] = {
           'insta': f"{sig}: if you noticed even one of these signs, your new chapter is already on its way. ✨ Tap my photo, open my story and pick your 3 cards: see what it's bringing you in love and money before 11/11. 🔮 Comment 222 to claim it.",
@@ -169,7 +172,7 @@ def pacote(g):
       'Me mande a transcrição do Take 1 antes de cortar (P33).',
       f"Corte de silêncio: só o nora{n}-T01, sozinho (os valores da seção “Cortar os silêncios”), salvo como nora{n}-T01-cortado. Legenda automática só desse pedaço (o mesmo estilo do nora46), salva como nora{n}-T01-legendado.",
       'CapCut: projeto novo com o vídeo FINAL do nora46 (exportado, com tudo), cortado no começo do Take 2; antes dele, o hook e o Take 1 novos, com a caixa do topo, os números e a música (passo a passo na seção de texto na tela).',
-      f"Postar {g['quando']} no Insta e no Face, ao vivo, sem localização (é falado). " + ("Story NOVO (story-0111, seção Story) até as 18h30, quando o story-3110 vence. " if n == 47 else "Story: nada novo (vale o story-0111, postado com o nora47). ") + "Comentário: no Insta, comente e fixe (sem link); no Face, só comente."]
+      f"Postar {g['quando']} no Insta e no Face, ao vivo, sem localização (é falado). " + ("Story NOVO (story-0111, seção Story) até as 18h30, quando o story-3110 vence. " if n == 47 else "Story: nada novo (vale o story-0111, postado com o nora47). ") + ("Comentário: no Insta, comente e fixe (sem link). No Face, TESTE DO LINK: comente COMO A PÁGINA da Nora (não pelo seu perfil), com o comentário do Face deste painel (já tem o link), e confira por outra conta ou deslogado se ele aparece em cima; me conte o resultado." if n == 47 else "Comentário: no Insta, comente e fixe (sem link); no Face, só comente.")]
     c['agente'] = {'imagem': 'nora46-IMG',
       'aviso': 'Irei enviar 1 prompt para você. Quero que seja feita uma animação da imagem anexada. Utilize a imagem anexada como frame inicial e frame final do vídeo.',
       'aviso_tag': 'obrigatório: com 1 take o prompt da Central não traz o modo agente',
