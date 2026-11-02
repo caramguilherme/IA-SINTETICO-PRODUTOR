@@ -109,6 +109,7 @@ O aluno mandou: "NAO FICA NADA DE FORA, VAMOS USAR TUDO, se o Flow bloquear a ge
 - **Rosto e boca:** o rosto pode envelhecer e a boca parecer falar; repetir "não fala" e "mesma mulher".
 - **Folha do blueprint:** baixar em 1K (2K derrete o meio).
 - **O que o agente do Flow aceita:** um item por vez, sem várias versões.
+- **Recusa nova nos prompts do "Gerador de Animação" (Discord, 02/11/2026, Jemeson; dica do Wall Estevam):** antes de mexer no prompt, limpar o cache do navegador e reiniciar; se o erro voltar, me mandar o print do aviso e o prompt (não reescrever para passar pelo filtro, regra de 24/10).
 - **Custos (créditos do aluno):** 4 s = 7, 6 s = 10, 8 s = 12, 10 s = 15.
 - **Regra de trabalho:** quando o aluno relatar uma falha, eu registro aqui, corrijo o painel em produção e **já aplico a lição nos painéis seguintes** (decisão do aluno em 19/10/2026).
 
