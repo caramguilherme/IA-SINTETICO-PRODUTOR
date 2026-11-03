@@ -6,6 +6,7 @@ Não existe briefing oficial em PDF. Este arquivo junta o que o aluno mandou em 
 - **Discord, 26/10 18h58 (Gustavo):** o funil foi liberado para todos; é o de maior ticket e maior comissão.
 
 ## 1. O funil
+- **Atualização (03/11/2026):** a copy inteira da VSL (inglês e português) chegou com os documentos da call de 07/09; análise e texto em `ANALISE-FUNIL-MANIFESTATION-VSL.md`. Na copy, as 3 cartas são O Louco, A Torre e A Estrela (+ O Hierofante = a guia), a especialista se chama "Sarah Miller, Psychic Sarah" (no funil, "Aura Solene"), o produto é a guia diária de 2026 e a oferta é a "semente energética" de US$ 19 com 7 presentes.
 - **Pré-venda (pré-VSL):** uma página com a headline e **3 cartas**: a pessoa escolhe 3 cartas para **"revelar o que está por vir no seu ano de 2026"**. A promessa da página é ampla (não fala só de dinheiro).
 - **VSL de 25 minutos;** o preço aparece no minuto 16; depois vêm depoimentos, mais promessa e o fechamento. Ticket de entrada de **19 dólares** (o Soulmate é de 9): quanto mais tempo de tela no funil, mais caro dá para cobrar.
 - **Mecanismo (elemento de prova da VSL): as cartas** (simbologia do tarô; ex.: a carta O Louco = "um ciclo que deixa para trás a escassez, as limitações e as travas"). Depois da leitura vem o **"Cosmic Receiver"** (recebedor cósmico): "pela combinação rara das suas cartas, você tem o dom de manifestar; o universo te escolheu". Não é frequência sonora nem oração bíblica (os ciclos anteriores do mercado).
