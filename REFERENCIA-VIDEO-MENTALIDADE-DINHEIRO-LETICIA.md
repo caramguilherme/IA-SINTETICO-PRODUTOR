@@ -1,6 +1,6 @@
 # Vídeo de referência: "mentalidade do dinheiro" da Letícia (YouTube, ~24 min)
 
-Transcrição colada pelo aluno em 03/11/2026 ~02h45 ("vou te enviar a transcrição de um vídeo muito bom para usarmos de base e retirarmos muita informação"), junto com a decisão de usar a aula do Iorhan de 30/10 como base dos roteiros de manifestação (`AULA-IORHAN-30-10-COPY-QUE-CONVERTE.md`, seções 10 e 11). É uma criadora real, brasileira, de 29 anos, que mora nos EUA, falando de dinheiro para mulheres: a referência "fora da bolha" que o Iorhan pediu. O nome e o link do vídeo não vieram; só o primeiro nome dela aparece na fala.
+Transcrição colada pelo aluno em 03/11/2026 ~02h45 ("vou te enviar a transcrição de um vídeo muito bom para usarmos de base e retirarmos muita informação"), junto com a decisão de usar a aula do Iorhan de 30/10 como base dos roteiros de manifestação (`AULA-IORHAN-30-10-COPY-QUE-CONVERTE.md`, seções 10 e 11). É uma criadora real, brasileira, de 29 anos, que mora nos EUA, falando de dinheiro para mulheres: a referência "fora da bolha" que o Iorhan pediu. É o vídeo que o Gustavo achou ao vivo na call de 02/11 ("Como manifestar a prosperidade financeira" no YouTube; ~24:37; `AULA-02-11-DO-MEDO-AO-DESEJO.md`, seção 2), comentado por ele.
 
 ## 1. Como o vídeo é montado (a estrutura)
 | Tempo | Parte | O que ela faz |
