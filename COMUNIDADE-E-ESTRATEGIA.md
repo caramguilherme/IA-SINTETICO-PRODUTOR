@@ -617,3 +617,7 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 
 ### 03/11/2026 - 4º vídeo de base: "How I manifested wealth by reversing my BIG money blocks!" (Genevieve, EUA; análise em `REFERENCIA-VIDEO-MONEY-BLOCKS-GENEVIEVE.md`)
 - Provavelmente o vídeo em inglês da call do Gustavo (mesma 1ª frase). É o 1º de uma criadora dos EUA: dá a fala em inglês nativo para o nora50 ("you keep making it about the money"; "money is an energy of value and security"; "don't compare your timeline") e um corpo próprio, candidato ao nora53 ("What if money were a person who loved you?"). Fora: a história dela, os clientes e os cursos; "money is choosing you" vira "money is looking for you".
+
+### 03/11/2026 - Títulos de YouTube como headline (print do aluno com o vidIQ; recado do Gustavo)
+- O Gustavo disse que estes títulos são muito fortes e servem de headline para o conteúdo e as copies: "Essa história só vai te encontrar quando você estiver pronto." (Bia Carreira, 173 mil em 13 dias, 19,5x), "Sua Versão Antiga É o Motivo da Sua Vida Não Mudar" (Kamily Rebelatto, 72 mil em 4 dias, 1K VPH, 8,3x) e "Deus te Mostrará ESTE VÍDEO pouco antes do seu MILAGRE" (Feitas para Reinar, 736 mil em 3 meses).
+- **Decisão:** banco novo `BANCO-DE-HEADLINES.md` com a versão em inglês de cada um para a Nora, a cor e onde entra (caixa do topo, Take 1, legenda). Critério do garimpo: recente e com "x" alto. "Milagre" sai (P42): vira "next chapter".
