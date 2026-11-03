@@ -32,6 +32,7 @@ Decisão do aluno em 18/10/2026: **antes de TODO roteiro novo e antes de TODO pr
 - `PLANO-MVM-LEGACY-APPYON.md` (cópia exportada inteira, atualizada em 31/10/2026, do doc "Plano MVM Legacy – Appyon" do aluno: curso, Appyon, contas, links, story, Discord; consultar pela seção do assunto, ex.: "Cadastro na Appyon e links", "Funil Manifestation"; os limites de copy dele não valem aqui, P20 e P41)
 - `PROMPT-BLUEPRINT-COMUNIDADE.md` (criar ou ajustar a folha da avatar)
 - `PESQUISA-AURALY-23-10.pdf` e `BRIEFING-LOVECHART-APPYON-v2.pdf` (os PDFs completos; o resumo de cada um já está no `BRIEFING-LOVECHART.md`)
+- `AULA-IORHAN-30-10-SLIDES-VIRALIZACAO-X-CONVERSAO.pdf` (20 slides) e `AULA-IORHAN-30-10-ANALISE-DE-COPY.pdf` (6 páginas): os PDFs originais da aula do Iorhan de 30/10, guardados em 03/11/2026; o texto inteiro já está no apêndice 3 de `AULA-IORHAN-30-10-COPY-QUE-CONVERTE.md` (abrir o PDF só para ver as cores e o layout)
 
 ## Conflitos entre documentos
 Os documentos de origem do Manual e do pet (`Prompts.txt`, `CHECKLIST-DE-PRODUCAO.md`, `Formatos Narrativos…`, `EXEMPLO-*`) mostram a estrutura. Para a Dana valem as adaptações do `CLAUDE.md` (P1 a P17) e as lições do `LICOES-FLOW-E-PROMPTS.md`, que prevalecem: prompts em inglês, imagem única, Central, pré-gancho em Frames, linguagem dos virais liberada.

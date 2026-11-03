@@ -331,6 +331,8 @@ Pela estrutura do slide 7 (gancho → identificação → explicação → benef
 
 ## Apêndice 3: os materiais da aula (2 PDFs do Google Docs e dos slides, enviados pelo aluno em 01/11/2026), transcritos inteiros
 
+Os 2 PDFs originais ficam no repositório desde 03/11/2026 (o aluno mandou de novo na 4ª conta; conferidos iguais ao que está transcrito abaixo): `AULA-IORHAN-30-10-SLIDES-VIRALIZACAO-X-CONVERSAO.pdf` e `AULA-IORHAN-30-10-ANALISE-DE-COPY.pdf`.
+
 ### A. Slides "Viralização x Conversão: Call Appyon Creators 30/10" (20 páginas)
 
 **Slide 1 (capa).** "Call Appyon Creators 30/10. Viralização x Conversão: como criar vídeos que atraem quem realmente compra." Rodapé com os 4 temas: GANCHOS · COPY QUE VENDE · ÂNGULOS · ANÁLISE PRÁTICA.
