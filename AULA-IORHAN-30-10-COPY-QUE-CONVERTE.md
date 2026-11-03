@@ -103,6 +103,38 @@ Pela estrutura do slide 7 (gancho → identificação → explicação → benef
 3. **Falta do aluno:** o nome da leitura como aparece no funil (prints das primeiras telas do link), para usar igual no CTA e no story.
 4. **Checklist do slide 20 entra no nosso checklist** (item 31 de `LICOES-FLOW-E-PROMPTS.md`).
 
+## 10. O que a transcrição limpa acrescenta (03/11/2026; `AULA-IORHAN-30-10-TRANSCRICAO-LIMPA.md`, lida inteira)
+- **O nome do problema: linguagem de afastamento x linguagem de desejo.** A copy da comunidade está "totalmente afastamento" ("quero me afastar de ter tudo travado, de ser azarada"); ele prometeu mandar o manual de "um dos top copywriters do mundo" sobre as duas linguagens. Virou o tema da call "Do medo ao desejo" (02/11, `COMUNIDADE-E-ESTRATEGIA.md`, 03/11).
+- **O visceral negativo é do fim da VSL:** no vídeo, "3 sinais de um novo capítulo, de uma nova fase, de um novo ciclo de abundância, de prosperidade, de renovação"; nunca "3 sinais de que vai tudo travar" nem "remover a sombra da escassez". "A copy tá forte, só não tá absurda."
+- **A promessa vai até o limite do acreditável:** "milagroso" e "garantido" tornam a promessa inacreditável ("parece bom demais para ser verdade"), podem trazer aviso da plataforma e pegam um público "muito iludido". No lugar, depoimento na tela, que é "2 em 1: prova e promessa" (se deu certo para outras como ela, vai dar para ela). **Na Nora: só avaliações reais (P42).**
+- **"Quebrar o clima":** depois de um bloco de desejo bem construído ("portas que não se abriam serão abertas, caminhos ocultos liberados, novos ciclos…"), qualquer frase negativa quebra o clima. E não repetir a mesma promessa (redundância).
+- **Promessa de eliminar o problema é desejo, não medo:** "as correntes que te prendiam à escassez se rompendo" é verde, porque promete o fim do problema. O vermelho é culpar a pessoa ("a energia de escassez que você tinha") ou ameaçar.
+- **Instagram já restringindo top afiliados pelas promessas** (banner, restrição). Quem tem perfil grande: reeducar a audiência no mesmo perfil (outro tipo de conteúdo, rebrand de cenário e de avatar) em vez de jogar o perfil fora.
+- **Expert no perfil e outra no funil não atrapalha** (para a Nora: a Nora astróloga no vídeo e a "Aura Solene, Psychic" no quiz): "se atrapalhasse, não venderia".
+- **UGC não é falta de autoridade:** é a forma nativa do conteúdo. A Nora pode ter o visual de UGC e se apresentar como astróloga. (A autoridade de "quem usou e deu certo" e os exemplos dele, "25 anos de experiência", "treinei atletas, empresários e celebridades", ficam fora para a Nora: HONESTIDADE e P42.)
+- **A cliente-padrão:** "a Karen", americana de 40 a 45 anos. Escrever pensando nela.
+- **Ângulos citados:** sinais, dicas e passos; promessa direta; contraintuitivo; predestinação saudável; conspiracional (só citado); medo (o que todos usam).
+- **Segredo da copy: equilibrar prova e promessa.** Prova = como o expert está apresentado (visual, cenário), depoimentos na tela, dizer quem fala.
+- **Mentalidade:** testar é barato no orgânico; "o próximo nível mora no teste que você não está fazendo". Lista boa (o lago que se pesca) é o que segura a recorrência.
+
+## 11. Base para os roteiros de manifestação (03/11/2026, pedido do aluno: "usar como base para criar roteiros de manifestação")
+O molde junta o slide 7 (estrutura), o slide 8 (6 elementos), o slide 9 (CTA), o slide 11 (trocas) e a nova versão do Exemplo 1, com as regras da Nora (P42, regras do nora50 em diante na seção 0 do `CLAUDE.md`, até 22 palavras por fala). **É o ponto de partida: quando o aluno mandar a transcrição do vídeo que ele vai usar de base, o roteiro modela a estrutura desse vídeo dentro deste molde.**
+
+| Parte | O que faz | Exemplos em inglês (modelos da aula, adaptados à Nora) |
+|---|---|---|
+| 1. Gancho (até 3 s) | Diz para quem é e qual dor ou desejo; signos na frente quando for série | "If you work hard but money is always one step behind, listen before 11:11." · "3 signs a new chapter of abundance is opening up for you." · "The worst way to manifest money is thinking about it all day." (contraintuitivo, justificado depois) · "If this video reached your screen today, your next chapter is already on its way." |
+| 2. Identificação | Cenas da vida dela, a dor em uma frase, sem culpa | "You work, you plan, you give everything, and something still seems to stand between you and the peace you want." |
+| 3. Explicação e reenquadramento | A Nora, como astróloga, explica o mecanismo (portal 11:11, ciclos, padrões): não é só desejar mais dinheiro, é entender que abundância ela está pronta para receber | — |
+| 4. Conteúdo: 3 sinais (ou dicas, ou passos) | Amor, dinheiro e mudança; o 3º com curiosidade natural | "First… Second… And the third sign is the one almost nobody notices…" |
+| 5. Desejo e future pacing | O resultado que ela quer, positivo; imagens de desejo na tela (casal, casa, viagem, dinheiro) | "Imagine waking up and feeling that money finally keeps up with your effort." |
+| 6. Diferencial e quebra de objeção | Por que a leitura é diferente | "This isn't another prediction telling everyone they'll get rich. Your private reading starts with you." |
+| 7. Prova | Real: avaliações do Trustpilot (sem o nome do app) e 2 a 3 s da tela do quiz | — |
+| 8. CTA qualificado | Para quem é + o que fazer + o que encontra + por que agora, com o nome do funil | "If you related to any of these 3 signs, tap my profile picture and pick your 3 cards for your private reading before 11:11." |
+| 9. Fecho | Esperança; engajamento só depois do CTA e opcional; dinâmica que constrói ("say it with me: I receive, I manifest") no lugar do 222 e do "feche a mão" | "Maybe this 11:11 isn't about waiting for your life to change. Maybe it's about finding where your next chapter begins." |
+
+- **Fora:** keep your mouth shut, final warning, final message, "se pular", energia quebrada, inveja e bloqueio lançado, culpar a pessoa, loops antes do CTA, "antes que desapareça", "milagroso", "garantido", datas e horários que prendem o vídeo (fora o portal), credencial, cliente ou depoimento inventados.
+- **Antes de entregar:** pintar a copy (vermelho, amarelo, verde, dourado no CTA), mais verde que vermelho, e o checklist do slide 20 (item 31 de `LICOES-FLOW-E-PROMPTS.md`).
+
 ## Apêndice: transcrição completa (Zoom, `GMT20261030-220125_Recording`, falas do Iorhan, horários do vídeo)
 
 [00:00:01] iorhan ferreira: Nossa, hoje vai ser conteúdo demais, tá? Hoje tem muito tópico para a gente falar. Eu em cinco, esperar mais uns cinco minutos. Aí a gente começa umas sete e quinze e espero a galera entrar aí antes da gente começar, a qual é? Só passa alguns avisos e disclaimers aqui pra vocês, tá sobre funils do Aura e funis do Reiseli. Tá, então, Aura Li é manifestação e astrologia Heiselieppe, saúde e fitness sobre o Aura Liap. Com base nos nossos números e nas análises que a gente tem, tá fazendo. A gente viu que as pessoas estão tendo mais tração e facilidade. Acertividade nos vídeos do funil do Love Region. Tá, então, Love Region. Nada mais é do que um funil de leitura de cartas para a vida amorosa e relacionamentos. Então ele trabalha com amor e relacionamento de maneira mais ampla.
