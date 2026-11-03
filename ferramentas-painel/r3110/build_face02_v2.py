@@ -27,7 +27,7 @@ r = p['roteiro']
 r['titulo'] = 'face02 · Insta e Face: o mesmo texto longo do face01 sobre uma IMAGEM PARADA de 5 s (sem clipe)'
 r['formato'] = 'Texto longo na tela sobre uma imagem parada de 5 s (a Nora no carro, de olhos fechados, espelhada); 0 crédito'
 r['descricao_instagram'] = F1['roteiro']['descricao_instagram']  # a mesma legenda do face01, letra por letra
-r['legenda_aviso'] = '📱📘 INSTA E FACE, ao vivo (nunca agendar). Horário: 00h30 (o fixo da noite) ou o próximo horário fixo (17h). Antes, o story-0111 nos dois.'
+r['legenda_aviso'] = '📱📘 INSTA E FACE, ao vivo (nunca agendar). Horário: 00h30 (o fixo da noite) ou o próximo horário fixo (17h). O story-0111 já está no ar (02/11 21h10).'
 
 p['comentario_fixado'] = {
   'insta': "Your guardian angel left something for you. ✨ Tap my photo and pick your 3 cards in my story: your private reading shows what's coming to you before the 11:11 portal. 🔮",
@@ -39,7 +39,7 @@ st['nota'] = ('STORY-0111: poste ANTES do face02, no Insta e no Face (o story-31
               'Mesma imagem story-3110; só o texto e o adesivo mudam. Ao pôr o adesivo de link, cole o link certo de cada rede e confira na prévia. '
               'Insta (STORYIG): https://app.auralyapp.com/6a90ad82719e8d2b35da8a7c?rt_ad=norakensleytarot&utm_source=instagram&utm_content=STORYIG&aff=dl7zx6ks · '
               'Face (FACE): ' + LINK_FB)
-p['story'] = st
+p['story'] = {'ja_postado': True, 'nota': '✅ NÃO FAÇA STORY PARA ESTE VÍDEO. O story-0111 já está no ar no Insta e no Face desde 02/11 às 21h10 (vence ~21h10 de 03/11).'}
 
 p['videos'][0]['duracao'] = 5
 p['videos'][0]['cena'] = 'Imagem parada · texto longo na tela (sem fala) · 5 s'
@@ -49,7 +49,7 @@ c['conferir'] = 'Conferir: 5 s; a imagem parada e espelhada (só a imagem); o te
 c['passos'] = [
   'Insta e Face (como o face01). 0 crédito: não gera nada no Flow.',
   'Imagem: a face01-IMG espelhada no CapCut (só a imagem, antes do texto), parada por 5 s.',
-  'Story-0111 primeiro, no Insta e no Face (a seção Story deste painel).',
+  'Story: o story-0111 já está no ar (02/11 21h10, Insta e Face); não poste outro.',
   'Postar ao vivo às 00h30 (ou no próximo horário fixo), com a legenda e o comentário deste painel.',
   'Face: faça o comentário COMO A PÁGINA (não como o seu perfil) e confira de outra conta se ele aparece em cima, com o link clicável. É o teste do link que ia no nora47.',
   'Me mande os números do face02 com ~3 h e ~12 h no Insta e no Face (views, views de 3 s, tempo médio, comentários; no Insta, países).']

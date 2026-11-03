@@ -199,3 +199,4 @@ Fora da numeração do nora. Peças com o nome do teste: `faceNN-IMG`, `faceNN-C
 - **`face01-CLIPE` gerado em 31/10 ~11h15** (aluno; 12 créditos, conta de 41 → 29). **face02** (0 crédito): a `face01-IMG` espelhada (o aluno apagou as outras 3), parada por 8 s com o mesmo texto do face01 (teste imagem parada x clipe).
 - **face01 postado em 31/10 às 11h08, só no Facebook** (aluno): `face01-CLIPE` escurecido, texto longo no tamanho 9. face02 ~14h.
 - **face02 montado em 02/11 ~21h** (aluno): a `face01-IMG` parada e espelhada (só a imagem) + o texto e a legenda do face01; 0 crédito; vai só no Face (horário a confirmar).
+- **`story-0111` postado em 02/11 às 21h10 no Insta e no Face** (aluno): imagem story-3110, texto e adesivo novos (painel do nora47). Vence ~21h10 de 03/11.
