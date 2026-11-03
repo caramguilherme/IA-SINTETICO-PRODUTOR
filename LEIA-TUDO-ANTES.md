@@ -18,7 +18,7 @@ Decisão do aluno em 18/10/2026: **antes de TODO roteiro novo e antes de TODO pr
 - `hooks.md` (inteiro, com a seção 7) · `Formatos Narrativos - Problema e Cenario.md` · `Exemplos de Roteiros - 2 Formatos.md` · `ctas.md` (inteiro, com a seção final) · `COMUNICACAO-VISCERAL-E-FALADA.md`
 
 **Bibliotecas do curso e virais**
-- `BIBLIOTECA-BODIES.md` · `BIBLIOTECA-COLD-READING.md` · `BIBLIOTECA-COPY.md` · `BIBLIOTECA-COPY-100-ROTEIROS.md` · `PESQUISA-PUBLICO.md` · `BIBLIOTECA-VIDEOS-VIRAIS.md` · `BIBLIOTECA-PRE-GANCHOS.md`
+- `BIBLIOTECA-BODIES.md` · `BIBLIOTECA-COLD-READING.md` · `BIBLIOTECA-COPY.md` · `BIBLIOTECA-COPY-100-ROTEIROS.md` · `PESQUISA-PUBLICO.md` · `BIBLIOTECA-VIDEOS-VIRAIS.md` · `BIBLIOTECA-PRE-GANCHOS.md` · `REFERENCIA-VIDEO-MENTALIDADE-DINHEIRO-LETICIA.md` (03/11/2026: o vídeo de base dos próximos roteiros de manifestação, com a análise e a transcrição)
 
 **Produção (imagem, vídeo, Central, agente)**
 - `Prompts.txt` · `CHECKLIST-DE-PRODUCAO.md` · `PAPEL-AGENTE-FLOW.md` · `GUIA-CREATIVE-HUB.md` · `PLANO-CREDITOS-R004-R005.md` (e o plano de créditos mais recente) · `PASSO-A-PASSO-*.md` · `EXEMPLO-ROTEIRO-APROVADO-FIGADO.md` · `EXEMPLO-PACOTE-FIGADO.md` · `PAINEL-MODELO.html` (o formato do pacote)
