@@ -31,7 +31,7 @@ Loom (canal gravações): https://www.loom.com/share/849bf4b3d6d946028ebafc2480c
   6. **O primeiro passo (a ponte para o CTA):** "hoje à noite, escolha um desejo; antes de dormir, imagine o momento exato em que ele chega: onde você está, o que você diz; fique na cena até o corpo responder".
   7. **O CTA que ele montou ao vivo:** "vá até a minha foto de perfil e abra o meu story; deixei um presente para você: um quiz que entende a sua situação e depois te dá passos personalizados / um guia, que vão te ajudar a manifestar o que você deseja".
 - **Masha (russa, traduzida pelo ChatGPT):** autoridade logo de cara ("ex-expert internacional…"), "uma técnica para atrair dinheiro rápido", e o CTA de presente com qualificação: "antes de começarmos, um presente: um treinamento para despertar seu potencial máximo; foi criado para empreendedores, **mas mesmo que você seja dona de casa ou trabalhe para outras pessoas**, vai ser muito útil; clique aqui".
-- **Vídeo em inglês:** "a razão de tanta gente ter dificuldade de manifestar dinheiro é reduzir tudo ao objeto físico do dinheiro"; **"você já está manifestando agora mesmo; todo pensamento é uma manifestação"**.
+- **Vídeo em inglês** (provavelmente o da Genevieve, transcrito em `REFERENCIA-VIDEO-MONEY-BLOCKS-GENEVIEVE.md`: mesma 1ª frase): "a razão de tanta gente ter dificuldade de manifestar dinheiro é reduzir tudo ao objeto físico do dinheiro"; **"você já está manifestando agora mesmo; todo pensamento é uma manifestação"**.
 - **"Se você cortar essas três coisas da sua vida, a abundância vai te perseguir."** (título bom de gancho).
 - **Afirmações:** ele já tinha dado uma call de afirmações (com doc) e "ninguém fez vídeo de afirmação"; o formato vai na mesma linha do Iorhan.
 
