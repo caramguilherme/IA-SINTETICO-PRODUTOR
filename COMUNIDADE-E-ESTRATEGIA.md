@@ -698,3 +698,8 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 - **briza (DM, 16h06):** a edição é um **modelo fixo no CapCut**: "deixo o mesmo formato e posição de tudo ali e vou editando por cima, mudo quase nada". **Para a Nora:** um projeto-modelo por corpo (caixa do topo, 3 números, faixa do story, seta e música nas posições já conferidas pelo P43); a cada vídeo, trocar o clipe ("Substituir") e o texto; se o CapCut não duplicar o projeto, copiar as camadas (Ctrl+A, Ctrl+C) para o projeto novo e colar (Ctrl+V), que mantém posição e estilo. Corre junto com o teste da edição automática (ffmpeg), que depende de o aluno mandar um vídeo cortado.
 - **Vitor (DM, 17h25):** "Fechou mano, tamo junto!": conversa fechada (só reagir); voltar só com resultado.
 
+### 03/11/2026 - Gabriel (Cabo), 2ª resposta (DM, 18h36 e 18h52)
+- **Sinal nos 10 vídeos de aquecimento: "1k views mais ou menos".** Para a Nora: os falados do corpo A já chegaram lá (nora40 1.382, nora43 968), então a conta e a avatar passam; o que falta é corpo e CTA (Gustavo, Jessica). Para o 2º perfil: régua de ~1 mil nos 10 de aquecimento, junto com a da árvore do Miro (`VALIDACAO-CONTA-E-AVATAR.md`).
+- **Avatar realista:** ele parte da foto de uma pessoa real (não famosa) e altera um pouco. **Não seguimos essa parte:** sem o consentimento da pessoa é usar o rosto dela para vender; se ela achar, denuncia e a conta cai. O realismo vem do blueprint e dos prompts (pele com textura, poucos acessórios, luz de casa, câmera de celular).
+- Ele fechou ("daqui a pouco é vc postando no vitórias"): agradecer e voltar com o resultado do 2º perfil.
+
