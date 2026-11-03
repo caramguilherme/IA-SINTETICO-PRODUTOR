@@ -4,7 +4,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 
 ## O método (o caminho de quem destravou)
 1. **Primeira mensagem:** parabéns por algo específico do post da pessoa, o contexto em 1 linha com números reais (cliques por dia, views, dias de projeto) e 1 ou 2 perguntas que ela responde em 1 minuto. Nunca "olha meu perfil" a frio.
-2. **Ritmo:** no máximo 1 mensagem por pessoa por dia (todas as linhas juntas com Shift+Enter) e ~15 a 20 min entre pessoas diferentes; se disse "última", cumprir.
+2. **Ritmo:** uma mensagem por vez (todas as linhas juntas com Shift+Enter); só mandar a próxima depois que a pessoa responder, nunca duas seguidas sem resposta; ~15 a 20 min entre pessoas diferentes; se disse "última", cumprir.
 3. **Aplicar:** cada dica vira mudança num vídeo com número (ex.: "CTA novo no nora50"); anotar aqui o que foi aplicado e onde.
 4. **Voltar com resultado** em 2 ou 3 dias: "fiz o que você falou, foi de X pra Y" + 1 pergunta nova. É o que cria o laço.
 5. **Agradecer em público** no #vitórias quando sair a 1ª venda ou uma melhora clara, marcando quem ajudou e dizendo o que ajudou (como o Lucas Mascarenhas, o Kaike e o Adão fizeram em 01/11).
@@ -22,4 +22,5 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | Matheus Baffa | 217 vendas em out. | Signos na tela; localização e hashtag; story | Signos na caixa do topo | Voltar só com resultado | Sim |
 | Adão Gomes | 484 vendas em out. | Views primeiro; hook com diferencial; "alongar a placa com boa copy" | Hooks visuais; placa falada | Voltar só com resultado | Sim |
 | Eduarda Fernandes, Thiago, Mary, Mattias, Marcelo, Eduardo Pinaffi | Já responderam antes (ver FATOS) | Hook visual + copy longa; constância; texto na tela em conta separada; portal 11:11; não repetir gancho | Já aplicado | Voltar só com resultado | Quem tiver ajudado |
-| joao (Sargento), Rodrigo Rechmann, Castanho, Vinicius Almeida, Gabriel (Cabo), Felps, carloscs, Lucas Dusi, Allan Mayer, Kaike de Lima | Fechamentos de outubro | (ainda não chamados) | | Rascunhos prontos (03/11); mandar 3 ou 4 por hora | |
+| Gabriel (Cabo) | 79 vendas em out. com 1 conta, 3 a 4 vídeos por dia | Conta e avatar boas dão sinal cedo; aquecimento certinho; avatar bem realista; nos 10 vídeos de aquecimento, copy validada sem CTA, para testar só conta e avatar | Vai para o checklist do 2º perfil | Rascunho entregue: que sinal ele olha nos 10 de aquecimento | Sim, se ajudar no 2º perfil |
+| joao (Sargento), Rodrigo Rechmann, Castanho, Vinicius Almeida, Felps, carloscs, Lucas Dusi, Allan Mayer, Kaike de Lima | Fechamentos de outubro | (ainda não chamados) | | Rascunhos prontos (03/11); mandar 3 ou 4 por hora | |
