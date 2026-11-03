@@ -41,6 +41,7 @@ Ao ver um CTA "toque na minha foto, abra o story, escolha 3 cartas e veja a sua 
 
 ## 5. Ferramentas e fatos
 - **Escrever com o Claude:** ele usa o Claude Code ("não trava nas copies"; o plano de US$ 20 atende), deixa as referências num arquivo `.md` na pasta do projeto para o Claude sempre consultar (o que o repositório da Nora já faz) e pede "juntar os materiais num `.md` para usar de base nas próximas copies".
+- **Como ele organiza (print da call, mandado pelo aluno em 03/11):** pasta "08 - MANIFESTACAO - roteiros novos (aula 30-10)" com "00 - LEIA PRIMEIRO (Manifestacao)", "01 - Roteiros piloto v1 (10 roteiros EN e PT)" e "02 - O VIDEO da Leticia (dinheiro e mentalidade) - o que aproveitar"; depois, "melhorar os 10 roteiros e criar 6 novos (v2)". Títulos de vídeos do YouTube como gancho dos reels.
 - **Transcrever:** o próprio YouTube dá a transcrição (abaixo do vídeo, "transcrição", copiar tudo); para vídeos longos e calls, o **AssemblyAI Playground** (conta Gmail, US$ 50 grátis, "nunca acaba"); extensões para baixar vídeo do YouTube e do TikTok (os nomes vieram truncados na transcrição; o do TikTok parece "Search for TikTok").
 - **Kwai** também tem conteúdo de manifestação.
 - **Tracker:** "checkout" = a pessoa chegou na hora de pagar e não pagou.
