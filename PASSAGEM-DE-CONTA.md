@@ -74,3 +74,4 @@ Os vídeos e prints que o aluno mandou ficaram só nas sessões antigas; a anál
 - **Cada leitura também vai para o `METRICAS-NORA-LEIA.md`** (uma entrada datada, com a leitura e a decisão), e o aluno manda os números pelo modelo do fim desse arquivo.
 - **Atualizar o dashboard:** `python3 -I ferramentas-painel/dashboard/preparar_csv.py <pasta>` (gera a cópia sem o BOM e o `rows.json`) → `node ferramentas-painel/dashboard/conferir-dados.js ferramentas-painel/dashboard/index.html <pasta>/rows.json` (sem ids repetidos ou vazios) → subir a cópia como asset do dashboard → `update` em `datasets/metricas` (`source.url`, `source.name`, `updated`) com `if_version`.
 
+- **Conversas com outros alunos (P44, 03/11/2026):** a sessão nova segue o método de `CONTATOS-ALUNOS.md` (criar laço, colher dicas, aplicar, voltar com resultado, agradecer em público) e continua o quadro de onde parou.

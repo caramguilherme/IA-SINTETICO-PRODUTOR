@@ -7,6 +7,7 @@ Onde fica o resto: lições do Flow, dos prompts e do painel em `LICOES-FLOW-E-P
 Criado em 26/10/2026, a pedido do aluno ("cada assunto no seu documento"), com as seções que estavam no `LICOES-FLOW-E-PROMPTS.md`, sem mudar o texto.
 
 ## Regras em vigor (resumo atualizado em 03/11/2026; o detalhe e a fonte de cada uma estão nas seções datadas abaixo, no `CLAUDE.md` (P1 a P43 e seção 0) e nas lições; as versões de 27/10 e 30/10 ficaram no histórico do git)
+**Conversas com outros alunos (P44, 03/11):** criar laço, colher dicas, aplicar, voltar com resultado e agradecer em público quando destravar; método e quadro em `CONTATOS-ALUNOS.md`.
 **Insta**
 - **4 vídeos por dia, nos horários fixos 17h, 19h30, 22h e 00h30** (aluno, 31/10), nunca mais de 5; ao vivo (agendar só pela automação do GeeLark, nunca pelo app do Insta). Perdeu um horário, vai no próximo; não compensar com vários seguidos.
 - **Cada post do Insta tem pelo menos um Take 1 novo** (só trocar o hook não funciona no Insta: nora44, 31/10). Hook visual diferente a cada post.
