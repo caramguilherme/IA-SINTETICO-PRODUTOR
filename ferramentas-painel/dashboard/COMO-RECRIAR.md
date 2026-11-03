@@ -21,3 +21,6 @@ O dashboard é um Artifact do **tipo "Dashboard"** (não é uma página HTML com
 **30/10/2026:** a página (`files/index.html`, versão 2; cópia em `index.html` aqui) passou a mostrar o número em cima de toda barra em qualquer largura (10 px quando a barra é estreita; na vertical quando é muito estreita) e a se redesenhar quando a janela muda de tamanho (antes só mostrava com a tela larga no momento em que a página abria). Recriar a partir desta cópia.
 
 Para atualizar depois: editar o CSV, subir uma cópia nova sem o BOM como asset e dar `update` em `datasets/metricas` (`source.url`, `source.name`, `updated`) com `if_version`.
+
+**03/11/2026 (passagem para a 4ª conta):** a página publicada (`files/index.html`) foi lida de volta e é idêntica à `index.html` daqui (sha256 começa com `8e557cc13571`); `dash/meta` e `dash/params` iguais aos de `store/`. O último CSV estava no asset `/_blob/64869fe38eb4e2785b6ada83736434bd` (dataset na versão 26, leituras até 03/11 01h28). **Ferramentas novas aqui:** `preparar_csv.py` (cópia sem o BOM + `rows.json`) e `conferir-dados.js` (confere a planilha contra as contas da página). Depois de recriar na conta nova, ler de volta o `files/index.html` e conferir que é igual a este.
+
