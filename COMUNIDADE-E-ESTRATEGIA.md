@@ -673,3 +673,7 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 ### 03/11/2026 - Gustavo respondeu (DM, 15h34): nada de cartas antes do quiz
 - "Eu não curto falar de cartas antes de chegar no quiz" (pergunta era se tirava do story também); não olha perfis ("pelo tanto de gente que me pede").
 - **Decisão:** do nora50 em diante, nenhuma menção às cartas na fala, na legenda, no comentário, no direct nem no story; o nome que vai é "your private reading" (Iorhan). Nos painéis 47 a 49 (fala do corpo B já gerada, fica): legenda, comentários e directs sem cartas, respostas e directs diferentes por painel com o primeiro nome da pessoa, e o **story-0311** no nora48 às ~21h ("Tap below: your private reading is waiting for you before the 11:11 portal.", adesivo "Open my reading", imagem story-3110). Comparar os cliques do story-0311 com os do story-0111 (que falava das cartas).
+
+### 03/11/2026 - Kobata pede feedback anônimo da mentoria (15h, @everyone; colado pelo aluno)
+- Ele está voltando a cuidar da parte interna, vai voltar a dar aulas (não só de mentalidade) e quer "profissionalizar": copy, vendas, infraestrutura, automações, tech e IA. Pede sinceridade e respostas longas no formulário anônimo "Feedback MVM Legacy" (https://forms.gle/byAXJQ6truEerYjG9; o ambiente não abre docs.google.com).
+- **Para o aluno:** rascunho de respostas abertas entregue em 03/11, a partir do que ele viveu (o que ajudou, o que travou, sugestões); ele confere as perguntas do formulário e adapta.
