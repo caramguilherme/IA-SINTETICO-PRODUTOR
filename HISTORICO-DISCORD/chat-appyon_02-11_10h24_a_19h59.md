@@ -1,0 +1,93 @@
+# chat-appyon — 02/11 10h24 a 19h59
+
+Conversa completa do canal no período (respostas indicadas entre parênteses).
+
+## 02/11 (segunda)
+
+- **10:29 Lari** (resp. Caio1094): Obrigadaa
+- **10:32 Gajo:** alguem me consegue dar uma ajuda por favor? (sobre como produzir vídeo longo, 50s+, pra Auraly)
+- **10:39 Lari** (resp. Gajo): N tô rodando a tanto tempo, mas vc pode usar heygen ou flow, te recomendo ver as aulas do Gustavo sobre produção de vídeos e se precisar pode me chamar / 10:40 É bem tranquilo, mas pode ser que no início vc quebre um pouco a cabeça se não tiver costume com IA / 10:41 https://whimsical.com/mvm-legacy-apps-eua-global-Eio5doppEbxD9AJN34bM4r — procura as aulas sobre produção de vídeo aqui ou tbm na área de membros
+- **10:49 Guilherme:** Alguém tem a transcrição da VSL do Manifestation? Onde consigo encontrar?
+- **10:51 Ju Santos [MVM] (Squad Appyon)** (resp. Guilherme): #🎥︱gravações — está nos documentos dessa call
+- **11:00 Eduardo Pinaffi [MVM] (Major R$1M):** Galera, alguem usa o Trial reels no IG?
+- **11:05 Rafael Carneiro [MVM]:** Rapaziada, quando acontece isso com vcs no Face o que vcs fazem? Já aconteceu isso cmg no passado e quando abria a pagina no celular aparecia um popup de verificação, mas nesse caso específico não tá aparecendo [print]
+- **11:06 Rafael Carneiro** (resp. Eduardo Pinaffi, Trial reels): Aqui eu já testei em alguns vídeos, mas não vi muita diferença não mano
+- **11:06 Eduardo Pinaffi** (resp. Rafael Carneiro): Se tiver a restrição de País vc coloca para mostrar para o BR tb, aí após fazer isso tenta postar dnv e olha o App no celular novamente / Boa vlw
+- **11:08 Rafael Carneiro:** Showw, obrigado
+- **11:16 Juliana Kli** (resp. Baran, MoreLogin): Boa @Baran vou testar, e parabéns pelos resultados!!!
+- **11:18 Ari & Lu - Hope:** Pessoal, o motion clone não está mais disponível?
+- **11:27 Jemeson Da Silva** (resp. mensagem que não carregou): Não sabia que tinha migrado para outro pode me enviar o link novo?
+- **11:32 Phoenix:** Pessoal, bom dia. Pelo que eu entendi, 1 perfil do insta = 1 página do face = 1 proxy, correto? Nesse caso, pensando em quem ta iniciando, tem uma quantidade de perfis/contas que seria interessante começar? Já que face não precisa de proxy, fiquei na dúvida se devo balancear ou ter mais de facebook
+- **11:50 Ari & Lu - Hope** (resp. Phoenix): Olá, isso. Estou iniciando agora e vou balancear
+- **12:25 Wall Estevam [MVM]** (resp. Jemeson): https://t.me/CenterSms_Chatbot (Center SMS, números virtuais)
+- **12:51 David Nunes (Subtenente):** Alguem tá tendo problema ai pra gerar vídeo no flow? / Tá ficando assim [print]
+- **12:59 Gajo** (resp. Lari): obrigado pela ajuda!!! é porque no flow só consigo fazer videos de 8 segundos, então não estava a perceber como faziam videos mais longos
+- **13:00 Vinicius Sugamele:** Galera, querendo retomar o projeto, na experiência de vocês qual o caminho vcs tem seguido pra conseguir postar instagram e Facebook sem dor de cabeça? E focaria nos dois ou um só?
+- **13:08 Lari** (resp. Gajo): No Flow tem que produzir vários e depois juntar na edição. Assiste as aulas que vai te esclarecer melhor! / Tmjj
+- **13:33 Ari & Lu - Hope:** galera, alguem ja criando videos de aquecimento para o risely? estou meio perdida de como fazer
+- **13:48 Jemeson Da Silva** (resp. David Nunes, erro no Flow): o meu está assim desde ontem, se eu enviar 10 prompt's pra ele gerar só de uma vez, com o prompt's do gerador de animação do @Gustavo Alves desses 10 ele gera apenas 6 ou 8 o resto da esse erro, eu fico tentando até ele aceitar, mas eu percebi que isso começou a aparecer depois que os meus créditos do FLOW já estavam no fim. ontem terminou os créditos de uma das minhas contas. tive que usar outra conta. e nessa outra conta também começou a aparecer essa mesma mensagem
+- **13:55 Kassio Nunes (Sargento):** Seis tão sabendo disso aqui?! Era pra ter post no canal de Vitórias e Anúncios [foto pessoal do Kobata, assunto pessoal]
+- **13:56 Pedro⚡:** é IA, ele vai revelar no masterclass
+- **13:57 Vitor Oliveira [MVM]:** Inclusive, na última call que esse safado fez, tínhamos combinado que ele iria anunciar aqui / Esse pilantra
+- **13:58 Jemeson Da Silva** (resp. Wall, bot migrado): QUAL O LINK DO SITE?
+- **13:58 Kassio Nunes:** Né pussivi / 13:59 Eu lembro disso kkkk
+- **13:59 Vitor Oliveira** (resp. Jemeson): Aqui tá normal, Jemeson. As vezes ele nao gera por conta da copy ter algo que "viole as diretrizes" / 14:00 Gerei 5 videos ainda há pouco pelo flow, sem problema
+- **14:00 Kobata (Liderança):** QUE IA O QUE SEUS FDP / AUSHFUASHFUASFH / MIM DEIXEM
+- **14:01 Alessandro [MVM]:** kkkkkkkkkk
+- **14:01 Vitor Oliveira:** APARECEU NÉ SAFADO GKKGKGKKK
+- **14:01 Vitor Oliveira:** Kgkgkkgkgkkk
+- **14:01 Kobata (Liderança):** esse prompt voces nao tem
+- **14:02 Khalil⛩️ [MVM]:** Quarta?
+- **14:02 Vitor Oliveira:** Ele usou o love reading, certeza
+- **14:02 Pedro⚡:** certeza que ele comprou
+- **14:02 Vitor Oliveira** (resp. Kobata): Passa pra nós
+- **14:02 Pedro⚡:** vai entrar um novo funil
+- **14:04 Jemeson Da Silva:** [figurinha]
+- **14:04 Pedro⚡:** ele vai mandar o blueprint na call
+- **14:04 Jemeson Da Silva:** Essa vitória e de todos nós. Te amamos @Kobata / 14:06 estamos sempre torcendo pelo seu sucesso tanto financeiro tanto conjugal @Kobata
+- **14:08 Kassio Nunes:** Cadê o post no canal Vitórias?
+- **14:10 Jemeson Da Silva:** esse casamento eu não vou faltar! rsrs
+- **14:13 Juliana Kli:** Ela é linda, conheci no evento, uma princesinha! Kobata apaixonado. Só pra avisar, não é IA, ela é real!
+- **14:29 Caio:** Geelark esta aparecendo esse erro de conexão do proxy, alguém sabe fazer oq aconteceu aqui e como consertar? [print]
+- **14:54 Cassia Y:** aparentemente é problema com o proxy, não com o geelark
+- **14:56 Cassia Y:** Pessoal que tem tido aquele problema de atividade incomum no flow, tô usando a extensão que o Victor fez e parece que tá ajudando, tá? Quem estiver precisando.... #💬︱chat-appyon [link para mensagem] / não tive mais essa chatice depois que comecei a usar o mailwarmer dele
+- **15:05 Nilson Junior** (resp. mensagem excluída): Esse é louco hein
+- **15:05 Wall Estevam [MVM]:** vai ter como prêmio encontro com kobata nas premiações? / [figurinha] / 15:06 Ou moiou pq ta comprometido?
+- **15:16 Taís:** Boa tarde pessoal, eu estava usando o MUSE gratuito, agora meu acesso acabou, alguém sabe se ainda tem jeito de usar de graça ou se compensa assinar?
+- **15:23 Kadu Sousa [MVM]** (resp. mensagem excluída): [figurinha]
+- **15:32 Stefano** (resp. Wall): tem que ter esse premio aqui [print]
+- **15:32 Felps (Capitão):** Esse eu queria
+- **15:32 Stefano:** tbm
+- **15:34 Lari:** Eu tbmm kkkkkk
+- **15:45 Raiane (Tenente):** Uma dúvida pessoal, se o vídeo não viraliza, vcs repetem ele do mesmo jeito ou troca tudo? ou metade.. tipo, troca copy e mantem cenário / to em dúvida de como metrificar testes e acertos enquanto n sai venda
+- **16:02 Arthur Nardelli [M2M]** (resp. Raiane): Testo o mesmo ângulo por 10/15 vídeos pra ver se pega tração. Mas vou mudando algumas palavras específicas e testando novos hook e cenários. Se não for pra frente. Mudo tudo e testo outros ângulos e formatos
+- **16:09 Diego Lima:** O rolê do flow por 1 dólar acabou.???
+- **16:11 Herick [MVM] (Subtenente)** (resp. Raiane): Boa tardeee, o que eu faria: Vejo a quantidade de views para remover a variável de conta/página flopada... se estiver pegando ao menos umas 300 ou 400 views, eu olharia os insights dos vídeos e veria se o público está saindo do vídeo no começo, no meio ou na CTA / 16:12 Assim dá pra ter uma ideia se você precisa melhorar seus hooks, bodies ou cta / Eu percebi que a maior parte para viralizar é uma copy bem estruturada, cenário, avatar e objetos fazem diferença sim mas eu começaria olhando para a copy... / 16:13 E dá pra fazer vários testes mudando a copy, mudando o cenário, ou até mesmo o avatar... / 16:14 Eu pego sempre uma copy coringa aqui que sempre foi bem nas minhas páginas, aí eu jogo essa copy em um cenário diferente, se não vingar, troco o cenário... e assim vai kkk
+- **16:37 MJ COMPANY📈 (Sargento):** Já aconteceu com alguém de ser bloqueado por limite mensal de comentário com link no facebook? zuckerberg tá querendo que assine o Meta One pra poder colocar link
+- **16:57 Stefany ♡** (resp. Felps): Na hora que eu li eu sabia que vc ia responder KKKKKKKKKKKKKK
+- **16:58 Stefany ♡** (resp. Kadu): Essas coisas só acontecem quando eu não tô aqui né
+- **17:16 Khalil⛩️ [MVM]:** Chegou atrasada, perdeu o recreio
+- **17:17 Kelvin:** iorhan se voce esse chat / voce é irmao do kayky janisweski?
+- **17:28 Chefinho:** O geelark continua sendo o melhor emulador no momento??
+- **17:28 Eduarda Kelly** (resp. Herick): Estou tentando fazer isso, analisando as metricas e melhorando o começo, deixando a copy mais curta, mudando cenários para ver se vinga antes de desistir da copy. Tô no caminho certo?
+- **17:33 Kaike de Lima (Subtenente)** (resp. Raiane): Vou explicar a forma que faço aqui. A minha principal métrica no momento que posto um vídeo é ver a quantidade de comentários X quantidade de views daquele vídeo. Toda copy acho interessante ter um pedido para comentar pra engajar mais a conta. Se por acaso você teve muitos comentários em um vídeo, é muito provavel que as pessoas ficaram até o final do seu vídeo, pois o pedido de comentar fica no bloco da CTA. Se teve boa quantidade de comentários em um vídeo relativamente pequeno em views, eu insistiria em postar mais da mesma copy.
+- **17:39 Robert Oliveira [MVM]:** Boa tarde, galera. Alguém que usa Dreamface consegue me confirmar se no plano PRO de 30 dol eles geram o lip sync da avatar já com as movimentações? Isso pra envio de img + áudio??
+- **18:09 Lu Silva:** boa tarde, ja criei conta no instagram, mas nao consigo ativar pq nao recebo o numero do sms. Fiz pelo que o Gustavo indica, o que devo fazer? Alguem indica outro site?
+- **18:10 brunolyra7 [MVM]:** Pessoal tava indicando outras ferramentas de SMS
+- **18:11 Hosana:** Pessoal, uma dúvida: quando minha proxy vencer, preciso comprar outra ou posso renovar a que já tenho? Se renovar, preciso configurar novamente no geelark? Alguém pode me ajudar?
+- **18:14 Raiane** (resp. Kaike): Obrigadaaa, vou colocar isso em prática, não tinha dado tanta ênfase em comentários
+- **18:16 Wall Estevam [MVM]** (resp. Lu Silva): bot telegram / https://t.me/CenterSms_Chatbot
+- **18:17 Wall Estevam:** barato dms
+- **18:25 Khalil⛩️ [MVM]** (resp. Robert Oliveira): O dreamface só faz o lipsync, não faz movimento
+- **18:26 Stefany ♡** (resp. Kaike): AULAAAAAAAS
+- **18:29 Lu Silva** (resp. Wall): obrigada
+- **18:33 brunolyra7 [MVM]:** Galera tem nenhuma forma de comprar conta de Instagram não né? Tem que subir do zero mesmo?
+- **18:47 Marcia Poletto [MVM] (Sargento)** (resp. Robert Oliveira): Não faz o movimento... Eu tô usando e crio a imagem, depois o vídeo no Veo falando qualquer coisa, só pra ter o movimento mais natural... E depois subo no dreamface o áudio + vídeo. Aí ele faz em loop "indo e voltando"... Não é bom como o Heygen, mas tá quebrando um galho por enquanto.
+- **18:47 Kethelyn:** Boa tarde pessoal, alguém tem um vídeo de referência ensinando como conseguir acesso ao muse? / Vale a pena comprar a conta?
+- **19:27 Diego Lima:** Tem algum outro método pra conseguir o flow por 1 dólar??? / O que estava no fórum não pega mais
+- **19:31 William Lima [MAF]:** Acabou
+- **19:36 Diego Lima:** :/ / Peguei só 6 contas
+- **19:54 Matheus Salgado [MVM]** (resp. Marcia): To fazendo assim tbm, mas antes de levar pro dream face eu vou no CapCut e dou alguns cortes no vídeo pra ele ficar mais natural, as vezes no loop do flow fica mt robotizado
+- **19:56 Marcia Poletto:** Siiim.. eu corto os bugs do finalzinho do flow, que faz umas caretas estranhas... rsss / 19:57 Mesmo que seja um pouco demorado, ainda acho mais rápido que fazer de 8 em 8s no flow
+- **19:57 Herick [MVM]** (resp. William Lima): ó o home aí
+- **19:59 William Lima:** opa, kkk

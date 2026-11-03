@@ -1,0 +1,66 @@
+# vitórias-dólar — 02/11 10h16 a 21h08
+
+Conversa completa do período, com os números de cada print de fechamento de outubro. Parabéns curtos estão resumidos.
+
+## 02/11 (segunda) — continuação do fechamento de outubro
+
+- **11:23 Baran [M2M] (Subtenente R$100k)** (resp. carloscs): Gigante demais, parabens mano
+- **11:33 Felps (Capitão R$500k):** Fechamento do mês de outubro, mais uma vez agradeço a Deus por ter me dado coragem em dar o primeiro passo, gratidão ao @Gustavo Alves ⛩ que está sempre presente na comunidade, não só aqui, mas fora também, sempre ajudando e incentivando todo mundo. VIDA LONGA A APPYON
+  - Print do painel, 01/10 a 31/10: comissão base R$ 61.866,40 · recorrência **R$ 17.149,74** · **comissão R$ 79.016,14** (R$ 67,47 por venda front, ou seja, umas 917 vendas; o print corta antes de cliques e checkouts)
+- **11:36 Guilherme Garbellotto (Tenente R$250k):** Outubro foi um mês onde tomei punição na minha melhor conta, o que fez com que o faturamento caísse drasticamente na segunda quinzena, mas longe de estar ruim! Tivemos uma queda no faturamento se comparado ao mês anterior, mas a recorrência ajudou demais! Isso só me da mais gás para voltar mais forte em Novembro #vidalongaaappyon
+  - Print do painel, 01/10 a 31/10: comissão base R$ 21.976,81 · recorrência **R$ 9.428,45** · **comissão R$ 31.405,26** · cliques 59.887 · views 60.465 · checkouts 3.304 · **vendas 334**
+- **11:52 Leonardo [M2M]:** GOAT!! (carloscs) / Felps é brabo / 11:53 Pra cima irmão (Garbellotto)
+- **12:26 Castanho (Soldado):** Essa conquista significa muito pra mim porque mostra que todo o esforço e as horas dedicadas valeram a pena. Pouco mais de 30 dias de Appyon e já consegui atingir a marca de 100 vendas... Esse projeto é sinistro, vejo um futuro brilhante para todos nós que estamos aqui. Antes mesmo de entrar no MVM eu já confiava no processo, e ter entrado com essa cabeça fez toda a diferença pra alcançar esse resultado num tempo que superou até as minhas expectativas. @Gustavo Alves libera o auto editor aí, bora escalar essa operação!
+  - Print do painel em dólar, últimos 30 dias: comissão base US$ 1.433,64 · recorrência US$ 0 · **comissão US$ 1.433,64** (US$ 12,92 por venda front) · cliques 22.160 · views 22.110 · checkouts 1.072 · **vendas 111**
+- **12:27 Ari & Lu - Hope** (resp. Castanho): Parabéns!! é só o começo!!!
+- **12:37 Ronald Ferreira [MVM]** (resp. Castanho): insano
+- **12:43 Jessica Bento [AIC] (Capitão R$500k):** Boa tarde pessoal! Compartilhando meu resultado de outubro e uma reflexão como sempre. Acima de tudo: gratidão por fazer parte de um movimento tão forte como esse e por Deus nos capacitar todos os dias a fazer nosso trabalho. Quero parabenizar a todos pelos resultados e dizer que é muito bom ver cada vez mais pessoas colhendo os frutos de todo o trabalho e persistência. Sinto que estou vivendo um momento de recomeço. O que é muito bom, pois tenho certeza que o que vem pela frente é muito maior que tudo o que já aconteceu até aqui. Pra cima sempre! E vida longa à Appyon
+  - Print do painel, 01/10 a 31/10: comissão base R$ 39.303,16 · recorrência **R$ 33.778,67** · **comissão R$ 73.081,83** (R$ 64,54 por venda front, ou seja, umas 609 vendas) · cliques 110.248 · views 114.743 (o print corta antes de checkouts e vendas)
+- **12:47 Felps** (resp. Jessica): 33k só de recorrência wtf. GOOOOOAT N1
+- **12:48 Gustavo Alves ⛩** (resp. Felps): monstro!! E essa recorrência irmão? TAPORRAAAAA que delicia papai
+- **12:48 ASAF** (resp. Ronald/Jessica): Nossa, 33 mil de recorrência. Parabéns
+- **12:50 Ari & Lu - Hope** (resp. Jessica): parabéns!!! Inspiração!!!
+- **12:51 Mattias [M2M]** (resp. Jessica): Quando crescer quero ser igual vc Jessica..., parabénssss foda demais
+- **12:52 Gustavo Alves ⛩** (resp. Garbellotto): Você é monstro irmão, e logo vai ter outra conta MVP! Vambora!!! quase 10kzin de recorrencia o.O
+- **12:52 Gustavo Alves** (resp. Castanho): VAMOOOO CARALHO! Tá amassando irmão, agora a escala vemmm
+- **12:56 Gustavo Alves** (resp. Jessica): QUE ISSO. Que recorrência é essa minha filha????? INSANOOOOOOO, VOCÊ É MUITO MUITO BRABAAAA. @everyone em que planeta vcs imaginaram que seria possível fazer quase 34k de RENDA PASSIVA???? Isso com 5 MESES DE PROJETO
+- **12:59 Jordanna Castro [MVM]** (resp. Jessica): É a 01, não tem jeito
+- **13:05 Ozaias:** Simplesmente surreal parabéns por essa grande conquista!!!
+- **13:05 Mateus TTS:** Se não vendesse nada esse mês ainda ganhava 33 mil reais garantido, isso é insano!
+- **13:12 Caio1094 (Cabo):** Primeiro mês de appyon, queria mais, mas o querer faz a gente não parar! Então minha meta pra esse mês é ser MUITO melhor! Pra motivar quem começou e ainda não vendeu.. Apenas 6 vendas mas é o começo, sei que tem gente que levou meses pra ter a primeira ou que levou só dias mas cada tem sua história, o importante é não parar, não desistir e só melhorar. Em busca do mês com as 100 vendas, vambora [print]
+- **13:20 Kaike de Lima** (resp. Jessica): simplesmente 30k de recorrencia! É a top 1 porra
+- **13:20 Jemeson Da Silva** (resp. Gustavo): A mulher tá voando, preciso de um titio na minha operação tbm kkkk
+- **13:21 Kassio Nunes (Sargento):** Resultado de Outubro, ainda bem travado, vendendo quase nada, mas sei que é só questão de tempo pra explodir. Desistir não é uma opção [print]
+- **13:22 Kaike de Lima** (resp. Felps): caralho mano, gostei desse resultado seu É O BRABO!
+- **13:22 Kassio Nunes** (resp. Jessica): É a n°1, n tem jeito, tu é foda
+- **13:23 Kassio Nunes** (resp. Kaike): Braboo irmão! Esse mês é 100K
+- **13:25 Kassio Nunes** (resp. Felps): Surreal irmão, parabéns, tu vai ser o primeiro a fazer 100k no mês escalando fofo com apenas uma conta haha
+- **13:26 Kaike de Lima** (resp. Kassio): Se o sucesso virar regra, o tempo se torna irrelevante. Resultado brabo mano! logo vai ser isso no dia!
+- **13:26 Eric Veiga [MVM] (Subtenente):** Esse mês de Outubro não veio como eu esperava, resultado muito abaixo do mês anterior. Mas sabe oque me chama atenção nessas horas? É o poder da recorrência, é nessas horas que faz uma diferença absurda, e te motiva sempre dar o máximo pro próximo mês vir essa gordurinha. Apesar dos imprevistos, vamos continuar seguindo no objetivo e persistência pra fazer o jogo virar. E vamos EXPULSAR OS INDIANOS kkkkkkkk (um dia ainda descubro isso). Novembro será um mês de Recomeço e Resiliência. [...]
+  - Print do painel, 01/10 a 31/10: comissão base R$ 6.516,49 · recorrência **R$ 3.587,07** · **comissão R$ 10.103,56** · cliques 23.866 · views 24.309 · checkouts 1.638 · **vendas 102**
+- **13:27 Kassio Nunes:** Ai ki diliça parabéns Kaike, esse mês vem o dobro
+- **13:30 Kaike de Lima** (resp. Eric): recorrência delicinha!! Vambora! Você é monstro mano! 10k/dia vai ser nossa realidade
+- **13:31 Leonardo [M2M]** (resp. Jessica): 01
+- **13:33 Felps** (resp. Kassio): Vai voar muito ainda irmão, qualquer coisa chama aí no pv pra gente trocar ideia
+- **13:35 Felps** (resp. Eric, pelo contexto): Monstro demais meu irmão, você é o maior exemplo quando falamos em resiliência aqui, sucesso sempre meu irmão
+- **13:45 Wall Estevam [MVM]:** Surreal Felpzera, parabéns demais! é o 00, Vida longa / Parabéns Jéssica, tá subindo a régua do jogo! Goat
+- **13:50 Kassio Nunes** (resp. Felps): Tmj irmão
+- **14:23 Olivia Patricia [MVM]** (resp. Jessica): Parabéns Jessica! Inspiração para todos nós aqui!
+- **15:09 Jéssica Caruso:** Parabéns, Jéssica. Minha xará
+- **15:35 / 15:36 / 15:38 Wendel:** parabéns ao Eric, ao Kassio e à Jessica ("Essa recorrência ta insana... inspiração TOTAL")
+- **15:38 Allan Mayer [M2M]** (resp. carloscs): Tu é brabo, Carlos! Referência!! / 15:39 (resp. Jessica) MONSTRA! 01 sendo a 01 como sempre
+- **15:50 Allan Mayer [M2M] (Subtenente R$100k):** Fechamento de outubro por aqui... Mesmo sabendo que não dei meu máximo, não tendo estourado de visualizações, sabendo que posso fazer muito mais, ainda assim é ASSUSTADOR ter um resultado como esse 100% LÍQUIDO e ORGÂNICO. Gratidão imensa ao @Gustavo Alves por tornar tudo isso possível! TU É FODA! VIDA LONGA A APPYON!
+  - Print do painel, 01/10 a 01/11: comissão base R$ 19.124,97 · recorrência R$ 2.436,37 · **comissão R$ 21.561,34** (o print corta antes de cliques e vendas)
+- **15:51 / 15:52 gui_soares2504 [M2M]:** parabéns ao Allan e à Jessica
+- **16:02 Herick [MVM]** (resp. Felps): BRABO, você é um cara nota mil, humilde demais sempre ajudando os outros sem pedir nada em troca [...] (O EXÉRCITO DE UM HOMEM SÓ)
+- **16:03 Herick** (resp. Jessica): A 01 É BRABA! Parabéns Jessica por mais um mês absurdo! [...]
+- **16:05 Herick** (resp. mensagem que não carregou): MONSTRO DEMAIS! é uma honra ver você tendo seu melhor resultado (até agora). Desde o começo do projeto você me ajudou muito [...]
+- **16:06 Herick** (resp. Allan): B R A B O!!!! Sempre passando muito ouro para nós [...]
+- **16:08 Allan Mayer** (resp. Herick): Honra ter te conhecido, irmão! No próximo evento estaremos celebrando a placa de 1 MILHÃO!
+- **16:19 Kaike de Lima** (resp. Allan): você é brabo irmão! [...] esse resultado é só a ponta do iceberg [...]
+- **16:24 Allan Mayer** (resp. Kaike): Irmão, privilégio enorme ter te conhecido! Que todo mundo aqui possa ter pelo menos 10 minutos de conversa com você e ter uma aula de appyon. [...]
+- **16:25 Amanda Bartolo (Subtenente):** Estive no começo da appyon e cometi o famoso erro de desistir... mas ver as conquistas de vocês aqui me fez voltar, e esse foi meu primeiro mês postando certinho... ainda não consegui destravar, mas postando aqui meus primeiros passos [print]
+- **16:30 Kaike de Lima** (resp. Amanda): É ISSO AMANDA! É questão de tempo até o 1k/dia se tornar realidade pra ti também! Continue a postar
+- **16:42 Adriano Primo [MVM]** (resp. Jessica): Meus parabéns. Tive a oportunidade de conhecer pessoalmente. Muito obrigado pela conversa, dicas e conselhos. [...] Muito sucesso Top 1
+- **21:06 Baran [M2M]** (resp. Jessica): Absurdoo
+- **21:08 Baran** (resp. mensagem que não carregou, provavelmente Felps): Brabo demais, 60k só de front
