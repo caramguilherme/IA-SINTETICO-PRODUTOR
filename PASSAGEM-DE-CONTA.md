@@ -46,7 +46,7 @@ O aluno vai continuar o projeto da Nora em **outra conta do Claude** (a 4ª; a c
 Os vídeos e prints que o aluno mandou ficaram só nas sessões antigas; a análise de cada um está nos arquivos acima. Se a sessão nova precisar rever algum, o aluno manda de novo.
 
 ## Links da 4ª conta (feita em 03/11/2026 ~02h, os que valem)
-- Dashboard Métricas da Nora: https://claude.ai/artifact/BzjxbGkWRRKcJdBSnUpzyd (asset do CSV `/_blob/0d78aeb9c88e84f66ca833f0f399dc05`, leituras até 04/11 01h47, dataset na versão 4; página conferida igual à do repositório)
+- Dashboard Métricas da Nora: https://claude.ai/artifact/BzjxbGkWRRKcJdBSnUpzyd (asset do CSV `/_blob/2eea2cdfa775d1c3b34f4b4271b7c254`, leituras até 04/11 01h51, dataset na versão 6; página conferida igual à do repositório)
 - Doc Plano MVM Legacy – Appyon: https://claude.ai/artifact/Km3GMYScCPw44sR57wyiLm (projeto 97ea9e11-09da-4f48-8716-9082a424ec1e · tab 196695a6-55f2 · corpo c385a971-4b8e; conferido linha a linha com `PLANO-MVM-LEGACY-APPYON.md`)
 - Painéis: **nora47** https://claude.ai/artifact/SoqFZUhSwEr8SDUQMbCk7a · **nora48** https://claude.ai/artifact/JyeRSyXZzdbCq2h6afNzz7 · **nora49** https://claude.ai/artifact/CsKv1MzDjzcZ4akJGRZ3wM
 - Skill: `ferramentas-painel/skills/doc-mvm-legacy.zip` com o link novo (instalar nesta conta)
