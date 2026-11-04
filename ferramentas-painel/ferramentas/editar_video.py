@@ -58,19 +58,38 @@ def png_texto(W, H, it, k):
 
 
 def png_caixa(W, H, it, k):
+    """linhas: lista de strings (cor da linha em 'cores') ou de listas de segmentos [[texto, cor], ...]."""
     im = Image.new('RGBA', (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
     f = fonte(it['tamanho'] * PX_POR_TAMANHO * k)
-    linhas = it['linhas']; cores = it.get('cores', ['#000000']) + ['#000000'] * len(linhas)
+    cores = it.get('cores', ['#000000']) + ['#000000'] * len(it['linhas'])
+    linhas = [l if isinstance(l, list) else [[l, cores[i]]] for i, l in enumerate(it['linhas'])]
     asc, desc = f.getmetrics(); lh = int((asc + desc) * 1.12)
-    larg = max(d.textlength(l, font=f) for l in linhas)
+    larg_l = [sum(d.textlength(t, font=f) for t, _ in segs) for segs in linhas]
+    larg = max(larg_l)
     pad_x, pad_y = int(18 * k), int(12 * k)
     bw, bh = larg + 2 * pad_x, lh * len(linhas) + 2 * pad_y
     cx, cy = centro(it['x'], it['y'], W, H)
     x0, y0 = cx - bw / 2, cy - bh / 2
     d.rounded_rectangle([x0, y0, x0 + bw, y0 + bh], radius=int(16 * k), fill=it.get('fundo', '#FFFFFF'))
-    for i, l in enumerate(linhas):
-        d.text((cx, y0 + pad_y + lh * i + lh / 2), l, font=f, fill=cores[i], anchor='mm')
+    for i, segs in enumerate(linhas):
+        x = cx - larg_l[i] / 2; y = y0 + pad_y + lh * i + lh / 2
+        for t, cor in segs:
+            d.text((x, y), t, font=f, fill=cor, anchor='lm')
+            x += d.textlength(t, font=f)
     return im, (x0 / W, (x0 + bw) / W)
+
+
+def png_seta(W, H, it, k):
+    """Seta para baixo (vermelha com traço preto), centro em x, y; 'tamanho' como no CapCut."""
+    im = Image.new('RGBA', (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
+    s = it.get('tamanho', 14) * PX_POR_TAMANHO * k
+    cx, cy = centro(it['x'], it['y'], W, H)
+    hw, sh, hh = s * 0.16, s * 0.55, s * 0.45  # meia largura da haste, altura da haste, altura da ponta
+    top = cy - (sh + hh) / 2
+    pts = [(cx - hw, top), (cx + hw, top), (cx + hw, top + sh), (cx + s * 0.42, top + sh),
+           (cx, top + sh + hh), (cx - s * 0.42, top + sh), (cx - hw, top + sh)]
+    d.polygon(pts, fill=it.get('cor', '#E53935'), outline='#000000', width=max(2, int(3 * k)))
+    return im
 
 
 def png_imagem(W, H, it, k):
@@ -142,6 +161,8 @@ def main(spec_path):
             camadas.append((im, it['ini'], it['fim'], it.get('fade', 0)))
         elif t == 'imagem':
             camadas.append((png_imagem(W, H, it, k), it['ini'], it['fim'], it.get('fade', 0.25)))
+        elif t == 'seta':
+            camadas.append((png_seta(W, H, it, k), it['ini'], it['fim'], it.get('fade', 0)))
         elif t == 'legenda':
             dest = {x.upper() for x in it.get('destaques', [])}
             for txt, a, b in blocos_legenda(it['palavras'], it.get('max_palavras', 3)):
@@ -158,7 +179,7 @@ def main(spec_path):
         filtros.append(f"[{ult}][{src}]overlay=0:0:enable='between(t,{a:.3f},{b:.3f})':eof_action=pass[v{i}]"); ult = f'v{i}'
     if filtros:
         args += ['-filter_complex', ';'.join(filtros), '-map', f'[{ult}]', '-map', '0:a?']
-    args += ['-c:v', 'libx264', '-preset', 'medium', '-crf', '18', '-pix_fmt', 'yuv420p', '-c:a', 'copy', '-movflags', '+faststart', sp['saida']]
+    args += ['-c:v', 'libx264', '-preset', sp.get('preset', 'medium'), '-crf', str(sp.get('crf', 18)), '-pix_fmt', 'yuv420p', '-c:a', 'copy', '-movflags', '+faststart', sp['saida']]
     subprocess.check_call(args)
     for a in avisos: print('AVISO:', a)
     print('ok', sp['saida'], f'{len(camadas)} camadas')
