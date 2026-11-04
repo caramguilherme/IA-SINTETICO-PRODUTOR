@@ -75,3 +75,5 @@ Os vídeos e prints que o aluno mandou ficaram só nas sessões antigas; a anál
 - **Atualizar o dashboard:** `python3 -I ferramentas-painel/dashboard/preparar_csv.py <pasta>` (gera a cópia sem o BOM e o `rows.json`) → `node ferramentas-painel/dashboard/conferir-dados.js ferramentas-painel/dashboard/index.html <pasta>/rows.json` (sem ids repetidos ou vazios) → subir a cópia como asset do dashboard → `update` em `datasets/metricas` (`source.url`, `source.name`, `updated`) com `if_version`.
 
 - **Conversas com outros alunos (P44, 03/11/2026):** a sessão nova segue o método de `CONTATOS-ALUNOS.md` (criar laço, colher dicas, aplicar, voltar com resultado, agradecer em público) e continua o quadro de onde parou.
+
+**03/11/2026 noite:** regra P45 (edição automática aqui no Code; `ferramentas-painel/ferramentas/editar_video.py`). Numa sessão nova, reinstalar `faster-whisper` antes do 1º vídeo. Resumo das regras novas da noite no topo da seção 0 do `CLAUDE.md`.

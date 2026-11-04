@@ -6,7 +6,7 @@ Onde fica o resto: lições do Flow, dos prompts e do painel em `LICOES-FLOW-E-P
 
 Criado em 26/10/2026, a pedido do aluno ("cada assunto no seu documento"), com as seções que estavam no `LICOES-FLOW-E-PROMPTS.md`, sem mudar o texto.
 
-## Regras em vigor (resumo atualizado em 03/11/2026; o detalhe e a fonte de cada uma estão nas seções datadas abaixo, no `CLAUDE.md` (P1 a P43 e seção 0) e nas lições; as versões de 27/10 e 30/10 ficaram no histórico do git)
+## Regras em vigor (resumo atualizado em 03/11/2026; o detalhe e a fonte de cada uma estão nas seções datadas abaixo, no `CLAUDE.md` (P1 a P45 e seção 0) e nas lições; as versões de 27/10 e 30/10 ficaram no histórico do git)
 **Conversas com outros alunos (P44, 03/11):** criar laço, colher dicas, aplicar, voltar com resultado e agradecer em público quando destravar; método e quadro em `CONTATOS-ALUNOS.md`.
 **Insta**
 - **4 vídeos por dia, nos horários fixos 17h, 19h30, 22h e 00h30** (aluno, 31/10), nunca mais de 5; ao vivo (agendar só pela automação do GeeLark, nunca pelo app do Insta). Perdeu um horário, vai no próximo; não compensar com vários seguidos.
@@ -21,6 +21,9 @@ Criado em 26/10/2026, a pedido do aluno ("cada assunto no seu documento"), com a
 - **O Face corta as laterais no iPhone (P43):** texto e números entre 8% e 92% da largura (X −302 a +302 no CapCut 720), números com o centro entre X −230 e +230, linhas com até ~84% da largura.
 - **No Face quase tudo para em ~240 a 290 views;** o que separa é o começo: o falado segura 43% a 48% nos 3 s, as fitas ~30%, o texto longo 13% a 16% (03/11).
 **Copy e vídeo**
+- **Uma variável por vez (Allan Mayer, 03/11):** avatar sem venda = copy modelada de viral atual do nicho até as 1as vendas; nunca testar avatar nova e copy nova juntas. O nora50 parte de um viral minerado pelo aluno.
+- **O gancho é o principal (Vinicius Almeida e aula de 07/09, 03/11):** gancho "bizarro" que prende (tsunami no nora47); no Face, 200 a 500 views = gancho fraco. **Gancho que pegou fica; muda o corpo e o CTA** (Gustavo, 03/11).
+- **Edição automática (P45, 03/11):** o aluno manda o vídeo montado com música e sem texto; eu ponho os textos, os números, a legenda e as imagens.
 - **P42 (aula do Iorhan, 30/10):** sem medo, ameaça, "keep your mouth shut", "antes que desapareça" nem loops antes do CTA; qualificação curta (para quem é), desejo e future pacing, explicação da Nora como astróloga, prova real (Trustpilot), CTA com motivo, engajamento só depois; mais verde que vermelho. Corpo A parado desde o nora44; **corpo B** (nora46) em teste; nora47 a nora49 = corpo B com Take 1 novo (só o Take 1 é gerado, 15 cada).
 - **Regras do nora50 em diante (seção 0 do `CLAUDE.md`):** (1) checklist do slide 20; (2) "your private reading" em tudo, sem cartas antes do quiz (Gustavo, 03/11); (3) nada de "chosen", 222, "claim it", rituais nem "antes que desapareça" na caixa, na legenda e no comentário; (4) comentário que qualifica; (5) Take 1 diz para quem é nos 3 s; (6) 2 a 3 s da tela do quiz quando o corpo for novo; (7) margem do Face (P43). **Até 11/11, todo vídeo fecha no portal 11:11.**
 - **A VSL (03/11):** o quiz e a VSL usam 11:11, 222, déjà vu e intuição como sinais e prometem dinheiro, amor, paz e propósito; o corpo B está congruente. Próximo corpo: gancho dos sinais (déjà vu, intuição, 11:11) + dor do Louco e da Torre. Nada dos 18 anos, das 50 mil leituras nem dos prazos da VSL (HONESTIDADE).
