@@ -79,5 +79,5 @@ O Juliano perguntou se trocava a avatar ou descartava uma conta de 4 meses que s
 ## Avatar pela call do Iorhan de 03/11/2026 (`AULA-03-11-TURBINANDO-CRIATIVOS-IORHAN.md`)
 - Avatar como influencer real: visual, voz, cenário e stories com credibilidade; **mais jovem (20 a 35) alcança mais**; **sem estereótipo místico** (roupa mística cara, cenário místico, pintura ou joias no rosto, objeto místico).
 - **Nora:** proposta de testar, depois da janela de 40 vídeos (~06 a 08/11), a versão sem a lua e as estrelinhas no rosto e sem objeto místico, num corpo já validado (uma variável só).
-- **2º perfil:** nasce realista e sem estereótipo; candidato forte ao **Love Reading** (clareza no amor, público feminino; avatar de especialista em relacionamento). Sem a avatar dizer que viveu o resultado com o teste do story (honestidade).
+- **2º perfil:** nasce realista e sem estereótipo; candidato forte ao **Love Reading** (clareza no amor, público feminino; avatar de especialista em relacionamento). Sem a avatar dizer que viveu o resultado com o teste do story (honestidade). **Briefing oficial recebido em 04/11: `BRIEFING-LOVE-READING.md`** (no Love Reading as 3 cartas são o mecanismo e aparecem no vídeo e no story; formato de partida: UGC ou podcast com as cartas na mesa; corpo de 6 a 7 takes, 90 a 105 créditos).
 
