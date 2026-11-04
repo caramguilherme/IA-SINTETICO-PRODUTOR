@@ -16,3 +16,8 @@ Rodam no contêiner do Claude Code (Python e Node já instalados; Playwright e C
 - **`editar_video.py` (03/11/2026):** `python3 -I editar_video.py spec.json` (o formato do spec está no começo do arquivo: caixa, texto, imagem, legenda com as palavras e os tempos da transcrição). Testado num vídeo sintético 720×1280 em 03/11 (caixa, 3 números, imagem com borda e legenda: ok). `PX_POR_TAMANHO` = 2,8 (tamanho do CapCut → px na tela 720) é estimado: calibrar no 1º vídeo real contra um quadro do nora46 final. faster-whisper e o modelo "small" instalados nesta sessão (o contêiner é apagado: reinstalar na sessão nova).
 - **Sem mensagem (aluno, 04/11/2026):** ele só anexa o vídeo com o nome `noraNN-montado`; o número no nome diz qual painel abrir (`PAINEL-NORANN.html`): montagem, caixa do topo, números, estilos, legenda e as frases onde entram as imagens saem dali, e os tempos saem da transcrição. Ele só escreve algo quando fugiu do painel.
 - **Imagens guardadas:** avaliações reais em `provas-trustpilot/` (01-leukia, 02-patricia, 03-darcey, 04-katrina); as do desejo (`nora46-DESEJO-1-dinheiro`, `-2` casal, `-3` casa) entram em `ferramentas-painel/imagens-fixas/` quando o aluno mandar.
+- **Texto fixo que o aluno cola com qualquer vídeo (04/11/2026; nunca muda):**
+  ```
+  Edita este vídeo pela regra P45. O número noraNN no nome do arquivo diz qual painel usar: abre o PAINEL-NORANN.html e põe tudo o que ele pede por cima do vídeo (caixa do topo, números, legenda, imagens do desejo, avaliações, faixa do story e seta), sem mexer no áudio. Transcreve para achar o tempo de cada frase, confere um quadro de cada trecho e me devolve o noraNN-final.
+  ```
+
