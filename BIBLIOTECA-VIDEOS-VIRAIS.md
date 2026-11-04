@@ -689,3 +689,9 @@ Criadora real, brasileira, de espiritualidade e PNL. Análise, ganchos para a No
 
 ## 47. "How I manifested wealth by reversing my BIG money blocks!" (Genevieve, YouTube, EUA, ~20 min; transcrição colada pelo aluno em 03/11/2026)
 Coach de manifestação americana; provavelmente o vídeo em inglês que o Gustavo mostrou na call de 02/11 (mesma 1ª frase). Análise em `REFERENCIA-VIDEO-MONEY-BLOCKS-GENEVIEVE.md` (com a transcrição). Em uma linha: "the biggest reason you struggle to manifest money is you keep making it about the money"; dinheiro é energia de **valor** (sentir-se valiosa, ver quem tem o que você quer como igual, sem inveja) e de **segurança** (imaginar o dinheiro como uma pessoa que cuida de você e não vai embora); "you're not broken"; "don't compare your timeline". Inglês nativo para a fala da Nora. Fora: a história dela (abrigo, Ação de Graças), "my clients", as credenciais e os cursos.
+
+## 48. Gancho do tsunami (descrito pelo Vinicius Almeida em áudio, 03/11/2026; o vídeo ainda não foi visto)
+- **Como é (pela descrição):** um homem num lugar com o mar ao fundo; vem uma onda gigante; ele entra numa cabine e se tranca; a onda bate com tudo; depois ele começa a falar a copy. O Vinicius (83 vendas em outubro, 100% Face) copiou o formato de uma página da Appyon que estourou com ele e usa até hoje.
+- **Por que serve:** "gancho bizarro" prende muita atenção; no Face, ficar entre 200 e 500 views é sinal de gancho fraco (aula de 07/09), e a Nora para em ~240 a 290.
+- **Para usar na Nora:** falta o vídeo de referência (o aluno procura no Face). Adaptar à Nora (mulher, Manifestation) mantendo o 1º quadro e a sequência do viral (P14); copy positiva depois (P42).
+
