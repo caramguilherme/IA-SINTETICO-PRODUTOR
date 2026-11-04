@@ -693,5 +693,6 @@ Coach de manifestação americana; provavelmente o vídeo em inglês que o Gusta
 ## 48. Gancho do tsunami (descrito pelo Vinicius Almeida em áudio, 03/11/2026; o vídeo ainda não foi visto)
 - **Como é (pela descrição):** um homem num lugar com o mar ao fundo; vem uma onda gigante; ele entra numa cabine e se tranca; a onda bate com tudo; depois ele começa a falar a copy. O Vinicius (83 vendas em outubro, 100% Face) copiou o formato de uma página da Appyon que estourou com ele e usa até hoje.
 - **Por que serve:** "gancho bizarro" prende muita atenção; no Face, ficar entre 200 e 500 views é sinal de gancho fraco (aula de 07/09), e a Nora para em ~240 a 290.
-- **Para usar na Nora:** falta o vídeo de referência (o aluno procura no Face). Adaptar à Nora (mulher, Manifestation) mantendo o 1º quadro e a sequência do viral (P14); copy positiva depois (P42).
+- **Descrição do aluno (03/11 ~22h50, "não tem segredo"):** a Nora na praia, vem uma onda gigante atrás dela, ela sai correndo, entra numa espécie de bunker ou cabine, a onda bate na porta e ela começa a falar a copy. Vale como referência (o vídeo em si não é necessário).
+- **Para usar na Nora:** proposta para o nora47 (03/11): 2 tomadas de 4 s (fora: praia, onda atrás, ela corre e entra no bunker; dentro: a porta fecha, a onda bate, a porta treme e espirra água) e o Take 1 falado dentro do bunker. Adaptar à Nora (mulher, Manifestation) mantendo o 1º quadro e a sequência do viral (P14); copy positiva depois (P42).
 
