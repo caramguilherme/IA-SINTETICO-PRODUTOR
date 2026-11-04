@@ -1,5 +1,8 @@
 # nora48: corpo B (portal 11/11, 3 sinais) com o Take 1 de Câncer, Escorpião e Peixes (31/10/2026; Take 1 refeito em 01/11)
 
+> **04/11/2026 ~13h (aprovado pelo aluno): este vídeo MUDOU.** Agora é o gancho do tsunami (o do nora47, pronto) + este mesmo Take 1, gerado na **nora37-IMG** (quarto à noite, geodo; movimentação do T01 do nora40 com o olhar suave no lugar do sério; LIVRE do nora40) + o **corpo A limpo**: os takes do nora40 T03, T04, T05, T07, T08, T11 e T12 (renomeados nora48-T02 a T08), sem o T02, o T06, o T09 e o T10. Caixa: "CANCER, SCORPIO, PISCES / 11:11, the most powerful portal / the worst is finally over". Legenda e comentário novos (sem os "3 sinais"). Postar 04/11 às 19h30. Painel no mesmo link (https://claude.ai/artifact/JyeRSyXZzdbCq2h6afNzz7); script `ferramentas-painel/r0411/patch_nora48_49.py`. O texto abaixo é o plano antigo (corpo B).
+
+
 Painel: https://claude.ai/artifact/CAbhHw2pxw6N3ytWS46Bwj · Script: `ferramentas-painel/r3110/build_4749.py` · Status: **a gerar** (Take 1) · Postar hoje (01/11) às 19h30, no Insta e no Face, ao vivo, sem localização (01/11: nada do nora47 em diante saiu em 31/10).
 
 ## Leitura obrigatória (registro)

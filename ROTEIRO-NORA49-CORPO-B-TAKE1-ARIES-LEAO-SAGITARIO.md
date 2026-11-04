@@ -1,5 +1,8 @@
 # nora49: corpo B (portal 11/11, 3 sinais) com o Take 1 de Áries, Leão e Sagitário (31/10/2026; Take 1 refeito em 01/11)
 
+> **04/11/2026 ~13h (aprovado pelo aluno): o hook mudou para o tsunami do nora47, ESPELHADO** (o resto igual: este Take 1 na nora46-IMG + o corpo B do nora46). Montagem a partir do nora47-montado (sem texto), trocando o Take 1; edição pela P45. Postar 04/11 às 22h. É o par do nora48 (mesmo gancho, corpo A limpo). Painel no mesmo link (https://claude.ai/artifact/CsKv1MzDjzcZ4akJGRZ3wM).
+
+
 Painel: https://claude.ai/artifact/1N7U8uiBXuEgKGwH3hE84s · Script: `ferramentas-painel/r3110/build_4749.py` · Status: **a gerar** (Take 1) · Postar hoje (01/11) às 22h, no Insta e no Face, ao vivo, sem localização (01/11: nada do nora47 em diante saiu em 31/10).
 
 ## Leitura obrigatória (registro)
