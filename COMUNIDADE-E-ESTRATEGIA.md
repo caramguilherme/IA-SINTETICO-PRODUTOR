@@ -703,3 +703,6 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 - **Avatar realista:** ele parte da foto de uma pessoa real (não famosa) e altera um pouco. **Não seguimos essa parte:** sem o consentimento da pessoa é usar o rosto dela para vender; se ela achar, denuncia e a conta cai. O realismo vem do blueprint e dos prompts (pele com textura, poucos acessórios, luz de casa, câmera de celular).
 - Ele fechou ("daqui a pouco é vc postando no vitórias"): agradecer e voltar com o resultado do 2º perfil.
 
+### 03/11/2026 - Garbellotto, 3ª resposta (DM, 19h36)
+- Perguntado quanto tempo os ativos novos levaram para pegar: **"Mano não tem regra. Cada ativo é único".** Para a Nora e o 2º perfil: não há prazo para esperar; o que decide é a régua (árvore do Miro e os ~1 mil views do Gabriel nos 10 de aquecimento, `VALIDACAO-CONTA-E-AVATAR.md`). Conversa fechada: só agradecer.
+
