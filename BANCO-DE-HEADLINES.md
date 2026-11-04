@@ -20,6 +20,10 @@ Criado em 03/11/2026 a partir do recado do Gustavo (call de 02/11 e print mandad
 | 7 | "How I manifested wealth by reversing my BIG money blocks!" (Genevieve, EUA) | "2 MONEY BLOCKS to reverse before 11:11." ("block" = crença dela, não bloqueio lançado por alguém) | Amarelo | Corpo de valor e segurança (nora53) |
 | 8 | Frase da Mabel ("quando você diz 'eu serei', o universo entende 'agora não'") | "When you say 'I WILL be rich,' the universe hears 'NOT NOW.'" | Verde (contraintuitivo) | nora52 |
 
+| 9 | "If you are seeing this, the worst is over" (guia oficial da Appyon: o ângulo do sinal do universo é o mais forte em inglês; palavra de busca dos EUA) | "If this found you today, the worst is over." | Verde (predestinação saudável + fase difícil) | Caixa do topo ou Take 1 de um vídeo da fatia "fase difícil" |
+| 10 | "Como ter tanta sorte que pareça ilegal" (guia oficial; 5,7 mi) | "How to be so lucky it feels illegal." | Verde (sorte, lucky girl) | Caixa de um vídeo da fatia "sorte" |
+| 11 | Estrutura "padrão de um grupo" do material oficial + fatia "manifesta e nada chega" | "Most women who've done the 369 method for months and seen nothing have ONE thing in common." | Verde (quebra de crença, qualificado) | Take 1 do nora50 (candidato) |
+
 ## Para o próximo garimpo (aluno)
 - No YouTube, pesquisar em português e em inglês ("manifest money", "law of attraction", "11:11", "money mindset", "abundance"), filtrar pelos últimos 30 dias e mandar o print com o vidIQ ligado (título, views, idade, VPH e "x"). Os de "x" acima de 5 entram aqui.
 - Mandar também o título dos vídeos de base já transcritos (Letícia, Mariana, Mabel), que ainda faltam.

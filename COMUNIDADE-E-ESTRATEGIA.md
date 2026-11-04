@@ -21,6 +21,7 @@ Criado em 26/10/2026, a pedido do aluno ("cada assunto no seu documento"), com a
 - **O Face corta as laterais no iPhone (P43):** texto e números entre 8% e 92% da largura (X −302 a +302 no CapCut 720), números com o centro entre X −230 e +230, linhas com até ~84% da largura.
 - **No Face quase tudo para em ~240 a 290 views;** o que separa é o começo: o falado segura 43% a 48% nos 3 s, as fitas ~30%, o texto longo 13% a 16% (03/11).
 **Copy e vídeo**
+- **Materiais oficiais da Appyon (call de 03/11; `MATERIAIS-CALL-03-11/`):** gancho curioso + qualificado (uma cena da fatia), corpo diagnóstico → causa → mecanismo → caminho, CTA em 4 partes, "Most women who..." em vez de "eu", vocabulário dela, avatar com imperfeição; checklist no item 36 das lições.
 - **Ângulos (Iorhan, 03/11):** a Nora já usou promessa direta e predestinação; o próximo corpo usa um ângulo novo (contraintuitivo ou conteúdo/camuflagem), modelado do orgânico validado; trocar palavra ou data não é variar. Gancho visual curioso, mas dentro do nicho. Detalhe em `AULA-03-11-TURBINANDO-CRIATIVOS-IORHAN.md`.
 - **Uma variável por vez (Allan Mayer, 03/11):** avatar sem venda = copy modelada de viral atual do nicho até as 1as vendas; nunca testar avatar nova e copy nova juntas. O nora50 parte de um viral minerado pelo aluno.
 - **O gancho é o principal (Vinicius Almeida e aula de 07/09, 03/11):** gancho "bizarro" que prende (tsunami no nora47); no Face, 200 a 500 views = gancho fraco. **Gancho que pegou fica; muda o corpo e o CTA** (Gustavo, 03/11).
