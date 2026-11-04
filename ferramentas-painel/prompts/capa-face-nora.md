@@ -31,3 +31,8 @@ Do NOT include: people, faces, hands or silhouettes; tarot cards or playing card
 ## Texto proposto (eu ponho depois, na área segura, à esquerda do centro)
 - Linha 1 (marfim): If this found you, it was meant to.
 - Linha 2 (dourado, menor): Manifestation ✦ love, abundance & new beginnings
+
+## Feita em 04/11/2026
+- O aluno gerou no ChatGPT (`ferramentas-painel/imagens-fixas/nora-capa-face-original-gpt.webp`, 1536×1024: janela à noite, vela, citrino, quartzo, caderno em branco com caneta dourada, veludo esmeralda, flores secas; sem pessoa, sem carta, sem texto).
+- Cortada aqui (faixa y 300 a 884 do original, ampliada para 1640×624; a lua ficou de fora para caberem a vela, os cristais e o caderno) e com o texto: "If this found you, it was meant to." (Cormorant Garamond SemiBold Italic, marfim #F3EAD7) e "MANIFESTATION ✦ LOVE, ABUNDANCE & NEW BEGINNINGS" (Poppins Medium, dourado #D9B45E, a estrela desenhada), centrados em X 690, dentro da área do celular (16% a 84% da largura) e longe do canto da foto de perfil.
+- Arquivo final: `ferramentas-painel/imagens-fixas/nora-capa-face-1640x624.jpg`. Script: `ferramentas-painel/ferramentas/capa_face.py` (pasta com `capa-gpt.webp` e as 2 fontes).
