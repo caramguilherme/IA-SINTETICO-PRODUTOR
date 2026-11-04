@@ -14,3 +14,13 @@ Rodam no contêiner do Claude Code (Python e Node já instalados; Playwright e C
 - **Ainda não testado com um vídeo real do aluno** (tamanho máximo de anexo no chat a conferir no 1º envio).
 - **Fluxo combinado com o aluno (03/11/2026):** ele corta os silêncios na ferramenta do Gustavo, monta no CapCut só o vídeo (hook + takes na ordem) e a música ("Ambient Mystical Drone", −18 dB; no hook só o som do hook, se o painel pedir), exporta **sem nenhum texto** em 720×1280 (ou 1080×1920) com qualidade alta e me manda; eu ponho caixa do topo, números, legenda, imagens do desejo, avaliações, faixa do story e seta, sem mexer no áudio. As imagens fixas (dinheiro, casal, casa, avaliações) ele manda uma vez só.
 - **`editar_video.py` (03/11/2026):** `python3 -I editar_video.py spec.json` (o formato do spec está no começo do arquivo: caixa, texto, imagem, legenda com as palavras e os tempos da transcrição). Testado num vídeo sintético 720×1280 em 03/11 (caixa, 3 números, imagem com borda e legenda: ok). `PX_POR_TAMANHO` = 2,8 (tamanho do CapCut → px na tela 720) é estimado: calibrar no 1º vídeo real contra um quadro do nora46 final. faster-whisper e o modelo "small" instalados nesta sessão (o contêiner é apagado: reinstalar na sessão nova).
+- **Mensagem padrão que o aluno manda com o vídeo (04/11/2026):**
+  ```
+  edição noraNN
+  - vídeo anexado: noraNN-montado (já com a música)
+  - o que tem: [ex.: gancho + Take 1 + corpo do nora46 a partir do Take 2]
+  - mudou algo do painel? [não / o quê]
+  - imagens novas: [nenhuma / anexadas agora]
+  ```
+  Com isso eu abro o painel do vídeo (`PAINEL-NORANN.html`), pego caixa do topo, números, estilos e as frases onde entram as imagens, transcrevo para achar os tempos e monto o spec do `editar_video.py`.
+
