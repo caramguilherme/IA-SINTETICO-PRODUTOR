@@ -57,6 +57,8 @@ O Juliano perguntou se trocava a avatar ou descartava uma conta de 4 meses que s
 - **Portão 2 e 3:** a janela de 40 vídeos com copy validada conta do nora36 (27/10). Com 4 por dia no Insta, fecha por volta de **06 a 08/11/2026**. **Até lá, nada de trocar a avatar** (as regras de paciência e o Lucas dizem o mesmo). Se no fim da janela não houver tração, a regra é trocar a avatar na MESMA conta (loop B), não abrir conta nova.
 - **Portão 4:** só com 100 mil views num vídeo e mais de 10 vendas consistentes. Antes disso, não "travar" nada nem abrir o Frankenstein de 10 hooks × 10 bodies.
 
+- **Kaike de Lima (DM, 04/11/2026):** a conta que mais vendeu levou **90 vídeos até o 1º boom** e tem 300+; "se a conta pega 3 mil views, a entrega já tá destravada" (a Nora já pegou: nora45 3,7 mil); a validação é uma **peneira** (de ~10 contas, 1 ou 2 pegam) e o foco vai para as melhores. Reforça a janela de 40 vídeos antes de trocar a avatar, e o 2º perfil como parte da peneira.
+
 ## Para perfis novos (checklist por conta)
 1. Avatar exclusiva (blueprint próprio), um funil por avatar (Patrick Robba, 29/10) e a copy validada desse funil.
 2. Celular próprio no GeeLark com proxy própria dos EUA; Página do Face com restrição de país desde a criação; perfil marcado como IA. **A Página fica num perfil do Face separado, nunca no perfil pessoal nem no da empresa, e sem a monetização do Face** (Discord de 29/10: bloqueio por Reels derruba o perfil inteiro, com o BM; Vinicius B perdeu 2 de 4 perfis; Arthur Bruno perdeu os 2 com monetização; aula de contingência do Gustavo e do Ricardo).
