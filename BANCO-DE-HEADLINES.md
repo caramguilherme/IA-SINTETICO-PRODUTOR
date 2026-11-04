@@ -25,4 +25,5 @@ Criado em 03/11/2026 a partir do recado do Gustavo (call de 02/11 e print mandad
 
 ## Para o próximo garimpo (aluno)
 - No YouTube, pesquisar em português e em inglês ("manifest money", "law of attraction", "11:11", "money mindset", "abundance"), filtrar pelos últimos 30 dias e mandar o print com o vidIQ ligado (título, views, idade, VPH e "x"). Os de "x" acima de 5 entram aqui.
+- **Como ligar o vidIQ (pergunta do aluno, 04/11/2026):** só no computador, no Chrome: Chrome Web Store → "vidIQ Vision for YouTube" → Usar no Chrome → criar a conta grátis com o Google (se pedir canal, conectar a conta Google, mesmo sem vídeos) → abrir o youtube.com e pesquisar: o selo com o "x" e o VPH aparece em cima de cada miniatura. Recarregar a página (F5) se não aparecer. No app do celular não aparece. Sem a extensão, dá para estimar à mão: views ÷ horas desde a postagem = VPH; views do vídeo ÷ views dos outros vídeos recentes do canal = "x".
 - Mandar também o título dos vídeos de base já transcritos (Letícia, Mariana, Mabel), que ainda faltam.
