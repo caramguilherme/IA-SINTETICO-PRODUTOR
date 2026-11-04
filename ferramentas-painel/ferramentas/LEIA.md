@@ -20,4 +20,5 @@ Rodam no contêiner do Claude Code (Python e Node já instalados; Playwright e C
   ```
   Edita este vídeo pela regra P45. O número noraNN no nome do arquivo diz qual painel usar: abre o PAINEL-NORANN.html e põe tudo o que ele pede por cima do vídeo (caixa do topo, números, legenda, imagens do desejo, avaliações, faixa do story e seta), sem mexer no áudio. Transcreve para achar o tempo de cada frase, confere um quadro de cada trecho e me devolve o noraNN-final.
   ```
+- **Vídeo com mais de 30 MB (limite do anexo do chat; 04/11/2026):** o aluno sobe o `noraNN-montado.mp4` no Google Drive, compartilha como "Qualquer pessoa com o link" e cola o link aqui junto com o texto fixo; eu baixo com `pip install gdown` e `gdown --fuzzy "<link>" -O <pasta>/` (Drive e Dropbox abrem daqui, testado em 04/11; Dropbox com `?dl=1`). Alternativa: exportar do CapCut em 720p, 30 fps, taxa de bits mais baixa (~2.500 kbps), que deixa ~1,5 min em ~20 MB. O vídeo final volta pelo chat; se passar do limite, eu devolvo em 720p com compressão maior ou em 2 partes.
 
