@@ -19,7 +19,6 @@ Criado em 03/11/2026 a partir do recado do Gustavo (call de 02/11 e print mandad
 | 6 | "Levei 18 anos para aprender o que vou te passar agora em 2 minutos" (as "5 coisas", call de 02/11) | "Most of us take YEARS to learn what I'll tell you in 2 minutes." (sem "levei 18 anos": vivido) | Verde | nora51 |
 | 7 | "How I manifested wealth by reversing my BIG money blocks!" (Genevieve, EUA) | "2 MONEY BLOCKS to reverse before 11:11." ("block" = crença dela, não bloqueio lançado por alguém) | Amarelo | Corpo de valor e segurança (nora53) |
 | 8 | Frase da Mabel ("quando você diz 'eu serei', o universo entende 'agora não'") | "When you say 'I WILL be rich,' the universe hears 'NOT NOW.'" | Verde (contraintuitivo) | nora52 |
-
 | 9 | "If you are seeing this, the worst is over" (guia oficial da Appyon: o ângulo do sinal do universo é o mais forte em inglês; palavra de busca dos EUA) | "If this found you today, the worst is over." | Verde (predestinação saudável + fase difícil) | Caixa do topo ou Take 1 de um vídeo da fatia "fase difícil" |
 | 10 | "Como ter tanta sorte que pareça ilegal" (guia oficial; 5,7 mi) | "How to be so lucky it feels illegal." | Verde (sorte, lucky girl) | Caixa de um vídeo da fatia "sorte" |
 | 11 | Estrutura "padrão de um grupo" do material oficial + fatia "manifesta e nada chega" | "Most women who've done the 369 method for months and seen nothing have ONE thing in common." | Verde (quebra de crença, qualificado) | Take 1 do nora50 (candidato) |
