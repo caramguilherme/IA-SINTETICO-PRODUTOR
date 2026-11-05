@@ -31,6 +31,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | joao (Sargento) (joao00527) | 347 vendas em out. no Manifestation (1º mês zero, 2º R$ 1,5 mil no Soulmate) | DM do aluno em 03/11 14h57: (1) o que fez o Manifestation funcionar (formato, copy, Insta ou Face)? (2) o que põe no story para clicarem? **Sem resposta até 04/11 ~12h** | | Não mandar outra DM; reagir em público; se responder, anotar e responder | |
 | Rodrigo Rechmann (rodrigorechmann) | 1º mês, vendas desde 17/10, 15 vendas, ~120 cliques por dia | DM do aluno em 03/11 15h01: (1) o que mais trouxe clique, Insta ou Face, e qual formato? (2) quantos vídeos por dia? **Sem resposta até 04/11 ~12h** | | Não mandar outra DM; reagir em público; se responder, anotar e responder | |
 | Castanho (cvstv8624) | ~111 vendas em ~30 dias | DM do aluno em 03/11 15h02: o que fez nas 2 primeiras semanas, antes da 1ª venda? Insta ou Face, quantos perfis, quantos vídeos por dia? **Sem resposta até 04/11 ~12h** | | Não mandar outra DM; reagir em público; se responder, anotar e responder | |
+| Letícia (@letipfvr, X) | 1º mês na Appyon: 382 cliques, 21 checkouts, 0 vendas (30 dias até 04/11), só com 4 páginas no Face no orgânico, "99% automático"; vai abrir mais páginas e o Insta | Post público no X (04/11 21h21): volume = número de páginas; "tudo se resume a intensidade" | Conta por página na seção de 04/11 do `COMUNIDADE-E-ESTRATEGIA.md`; reforça o 2º perfil | Resposta pública no X (rascunho abaixo, 05/11); sem resposta, não mandar outra | Quando a Nora destravar, se ela ajudar |
 | Felps, carloscs, Lucas Dusi | Fechamentos de outubro (os grandes) | (não chamar: recebem dezenas de mensagens) | | | |
 
 ## Rascunhos a enviar (04/11/2026; no jeito do aluno; uma mensagem por pessoa, 15 a 20 min entre elas)
@@ -46,3 +47,5 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **Tomas (resposta pública no #chat-appyon, na pergunta das 13h19):** "aqui o insta me pediu verificação facial quando mandei link no direct, aí parei. no face eu respondo o comentário e mando o link no direct à mão, mudando o texto pra cada pessoa"
 - **Day777 (opcional, resposta pública):** "isso que a galera falou, e eu uso sempre o mesmo texto no campo LIVRE (o perfil da voz) e a mesma imagem em todos os takes, aí a voz sai igual"
 
+## Rascunho a enviar (05/11/2026; resposta pública no post da Letícia no X, no jeito do aluno)
+- **Letícia (@letipfvr), resposta ao post dos 30 dias:** "parabéns pelos 30 dias! 21 checkouts com 4 páginas é mt bom, a 1ª venda tá perto. posso perguntar uma coisa? q automação vc usa pra postar no face? aqui toda vez q agendei a entrega caiu"

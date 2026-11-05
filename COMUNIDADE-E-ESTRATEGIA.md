@@ -761,11 +761,18 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 - **Para devolver na comunidade (P44):** (1) **Tomas** perguntou se usam automação de DM no Insta: dá para responder com o que a Nora viveu (o Insta pediu verificação facial quando foi link no direct; no Face, resposta e link no direct à mão, com texto variado); (2) **Day777** perguntou ao aluno como manter a mesma voz; já responderam (gerador de animação da Central); o aluno pode só completar (o mesmo texto LIVRE de voz e a mesma imagem em todos os takes); (3) **Gabriel soares** agradeceu a resposta do aluno.
 - **Decisão:** nada muda no plano; reforço da constância (Lari, Kaike).
 
-### 04/11/2026 20h54 - Painel da Appyon de outra aluna (print mandado pelo aluno; nome não dito)
+### 04/11/2026 20h54 - Painel da Appyon da Letícia (@letipfvr no X; prints do aluno, post dela de 04/11 21h21)
 - **Últimos 30 dias:** 382 cliques, 347 views (visitas à página do quiz), **21 checkouts, 0 vendas**, US$ 0. Ela cresceu muito sobre os 30 dias anteriores (+12.633% nos cliques: antes eram ~3).
 - **Contra a régua dos 16 fechamentos de outubro** (178 cliques por venda, 9,7 checkouts por venda, 5,4% de clique para checkout):
   - Clique para checkout: 21 ÷ 382 = **5,5%**, igual à mediana. O quiz e a VSL fazem a parte deles.
   - Vendas esperadas: ~2 (382 ÷ 178 = 2,1; 21 ÷ 9,7 = 2,2). Zero venda acontece em ~1 de cada 9 casos assim (~10%): azar provável, mas já é o limite.
   - Se passar de ~40 checkouts sem venda, aí sim há algo no fim do funil a investigar (país, idade, copy de medo). Para quem está no pior caso da régua (590 cliques por venda, o Kaike), 0 venda em 382 cliques é o normal (~50%).
   - Volume: **~13 cliques por dia, ~5 vezes a Nora** (~2,5 por dia). Ainda está abaixo dos iniciantes que venderam em outubro (briza e Rechmann, de 60 a 170 por dia).
-- **Para a Nora:** confirma a régua (o problema da Nora é o volume de cliques, não o funil) e mostra o que vem depois: com ~13 cliques por dia, a 1ª venda sai em ~2 semanas. Se o aluno tiver contato com ela, a pergunta que vale (P44): o que mais trouxe clique (Insta ou Face, formato, quantos posts por dia).
+- **Quem é e como fez (post dela no X, 04/11 21h21):** "meus primeiros 30 dias de Appyon do @_diogokobata com **4 páginas no orgânico (fb)**"; "essa semana já devo lançar mais algumas tbm e no insta"; "**99% automático** essa operação". Depois: "galera tá com papo de **50/100 páginas**, acho que tenho que dar um gás aí pra destravar" e "tudo se resume a intensidade".
+- **Conta por página:** 382 cliques ÷ 4 páginas ÷ 30 dias = **~3 cliques por página por dia**. A Nora faz ~2,5 por dia com 1 Insta + 1 Face, quase tudo do Insta (o Face da Nora não dá clique desde 29/10). **Por conta, o Insta da Nora rende o mesmo que uma página dela; o que ela tem a mais é número de contas, e um Face que dá clique.**
+- **Para a Nora (decisões minhas):**
+  1. Confirma a régua: o problema é volume de cliques, não o funil. Com ~13 cliques por dia, a 1ª venda sai em ~2 semanas.
+  2. **Volume vem de mais contas, não só de um vídeo melhor** (o mesmo que a Jessica disse em 03/11: "volume no começo é mais contas"; o Kaike: peneira de contas). O 2º perfil (Love Reading, `BRIEFING-LOVE-READING.md`) é o próximo passo de volume, depois da renovação do GeeLark e da proxy.
+  3. **50 a 100 páginas não é para nós agora:** cada página precisa de um perfil do Face separado, de preferência com 6 meses ou mais (página nova não pega; monetização derruba perfil), e de produção. Primeiro 2 a 3 contas funcionando, depois escala.
+  4. **O Face dela dá clique e o da Nora não:** a diferença provável é volume e automação (o Kaike: "o Face pede volume"). Na Nora o agendamento no Face derrubou a entrega (regra "sempre ao vivo"); a automação dela é a pergunta que vale fazer.
+  5. Pergunta para ela (P44, rascunho em `CONTATOS-ALUNOS.md`): **qual automação usa para postar no Face**, e quantos posts por página por dia.
