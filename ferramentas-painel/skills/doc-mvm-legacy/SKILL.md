@@ -7,9 +7,9 @@ description: "Use quando o Guilherme mandar material do MVM Legacy/Appyon (aula,
 
 O Guilherme está testando o curso MVM Legacy (vender o app Auraly da Appyon como afiliado, com vídeos de avatar de IA no Instagram e no Facebook). Tudo fica num Claude Doc só.
 
-- Doc: https://claude.ai/artifact/Km3GMYScCPw44sR57wyiLm
-- Projeto: 97ea9e11-09da-4f48-8716-9082a424ec1e · tab (file) 196695a6-55f2 · corpo (node) c385a971-4b8e
-- **Conta nova (03/11/2026, 4ª conta):** este é o doc recriado nesta conta a partir de `PLANO-MVM-LEGACY-APPYON.md` (cópia em dia até 03/11; o doc exportado de volta bateu linha a linha com o arquivo). Os docs das contas anteriores (https://claude.ai/artifact/HsK6QVZRWUK1pdD2xi7JfF, de 30/10, e o da contatocaram) ficam só de histórico e não são mais editados.
+- Doc atual: https://claude.ai/artifact/2KP736NhHJUXjF4s4JkANs
+- Projeto: 0aaa260d-18c9-48de-a9f4-eafa2d73e8e0 · node 0d0724eb-ab64 · tab (file) 5b5b5c61-f3e5
+- O doc antigo (projeto 66360a6e-25af-49e3-927b-64dc74004f01) não é mais usado.
 
 ## Quando ele mandar qualquer material
 
@@ -21,6 +21,16 @@ O Guilherme está testando o curso MVM Legacy (vender o app Auraly da Appyon com
 6. Não inventar dado. Se algo não foi confirmado, marcar como dúvida ou "a testar".
 7. Deixar claro o que é oficial (aula, aviso, material da Appyon) e o que é rascunho nosso (personas, ganchos).
 8. Responder curto: o que era, o que importa, onde entrou no doc.
+
+## Como editar rápido
+
+`mcp__Claude_Docs__update` com ref {object:"node",id:"0d0724eb-ab64"}, engine "prose", container {kind:"project",id:"0aaa260d-18c9-48de-a9f4-eafa2d73e8e0"}. Dá pra mandar vários ops numa chamada só:
+- inserir no fim de uma lista: `{"op":"insert","target":{"kind":"blocks","ids":["mr0r4t1kgnk.<lista>"]},"side":"end","source":{"as":"markdown","from":{"kind":"inline","content":"- **...**"}}}`
+- trocar texto: `{"op":"replace","target":{"kind":"find","text":"..."},"with":{"as":"text","from":{"kind":"inline","content":"..."}}}`
+
+Ids das listas (prefixo mr0r4t1kgnk.): 242477 Facebook · 227050 Insta/GeeLark · 281811 Validar/copy · 309140 Postagem e agendamento · 150854 Produção (Nora/Flow) · 178330 HeyGen · 79477 Manifestation (números) · 18244 Love Chart · 334685 Vitórias · 323884 Encurtador · 356180 Campanha · 289866 Índia. Parágrafo "Discord lido até": .4568. Se um id falhar, ler a seção e pegar o id novo.
+
+Exportar: `mcp__Claude_Docs__export` (file 5b5b5c61-f3e5, formato docx ou markdown).
 
 ## Estilo das respostas
 

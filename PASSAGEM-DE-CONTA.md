@@ -47,7 +47,7 @@ Os vídeos e prints que o aluno mandou ficaram só nas sessões antigas; a anál
 
 ## Links da 4ª conta (feita em 03/11/2026 ~02h, os que valem)
 - Dashboard Métricas da Nora: https://claude.ai/artifact/BzjxbGkWRRKcJdBSnUpzyd (asset do CSV `/_blob/28ad542021e3a0cc7dd9a4743eb5acf5`, leituras até 04/11 12h23 (Insights do nora47), dataset na versão 10; página conferida igual à do repositório)
-- Doc Plano MVM Legacy – Appyon: https://claude.ai/artifact/Km3GMYScCPw44sR57wyiLm (projeto 97ea9e11-09da-4f48-8716-9082a424ec1e · tab 196695a6-55f2 · corpo c385a971-4b8e; conferido linha a linha com `PLANO-MVM-LEGACY-APPYON.md`)
+- Doc Plano MVM Legacy – Appyon: **o vivo é https://claude.ai/artifact/2KP736NhHJUXjF4s4JkANs** (projeto 0aaa260d-18c9-48de-a9f4-eafa2d73e8e0 · tab 5b5b5c61-f3e5 · corpo 0d0724eb-ab64; correção do aluno em 05/11). Histórico: https://claude.ai/artifact/Km3GMYScCPw44sR57wyiLm (projeto 97ea9e11-09da-4f48-8716-9082a424ec1e · tab 196695a6-55f2 · corpo c385a971-4b8e; conferido linha a linha com `PLANO-MVM-LEGACY-APPYON.md`)
 - Painéis: **nora47** https://claude.ai/artifact/SoqFZUhSwEr8SDUQMbCk7a · **nora48** https://claude.ai/artifact/JyeRSyXZzdbCq2h6afNzz7 · **nora49** https://claude.ai/artifact/CsKv1MzDjzcZ4akJGRZ3wM
 - Skill: `ferramentas-painel/skills/doc-mvm-legacy.zip` com o link novo (instalar nesta conta)
 - Branch: a mesma, `claude/lucid-planck-zz5ob8`.

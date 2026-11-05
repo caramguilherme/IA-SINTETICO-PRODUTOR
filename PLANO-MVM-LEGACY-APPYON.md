@@ -1,5 +1,7 @@
 # Plano MVM Legacy – Appyon
 
+> Cópia exportada do doc desta sessão do Code (Km3GMYScCPw44sR57wyiLm), com os acréscimos até 05/11. **O doc vivo é https://claude.ai/artifact/2KP736NhHJUXjF4s4JkANs**, mantido também pela conversa do claude.ai: em caso de diferença, vale ele.
+
 Sep 29, 2026 · @Guilherme
 
 ## Status
