@@ -778,7 +778,7 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
   5. Pergunta para ela (P44, rascunho em `CONTATOS-ALUNOS.md`): **qual automação usa para postar no Face**, e quantos posts por página por dia.
 
 ### 05/11/2026 01h10 - Discord, 6ª leitura (chat-appyon 04/11 14h10 a 05/11 00h59; vitórias-dólar 04/11 20h16 a 20h17; `HISTORICO-DISCORD/`)
-- **Possível buraco:** o chat da 5ª leitura parou às 13h55 e este começa às 14h10; o vitórias parou às 13h52 e este só tem 2 mensagens (20h16 e 20h17). Se houver mensagens nesses intervalos, ler na próxima.
+- **Sem buraco (conferido em 05/11):** o chat ficou sem mensagens de 13h55 a 14h10 e o vitórias de 13h52 a 20h16; as leituras de 04/11 e esta cobrem tudo. Daqui em diante, a leitura avisa quando um intervalo grande sem mensagem foi conferido.
 - **O aluno devolveu na comunidade (P44), 14h10 e 14h11:** respondeu ao Tomas (verificação facial com link no direct do Insta; no Face, resposta e link no direct à mão, com texto variado) e ao Day777 (mesmo texto no LIVRE e mesma imagem em todos os takes = mesma voz). Ninguém respondeu de volta.
 - **Escala antes da hora não funciona (Maycon Bezerra, 20h33, e as respostas):** ele criou 10 contas de uma vez (5 Insta, 5 Face, cada Insta com celular e proxy próprios no GeeLark, Face isolado no AdsPower, perfil de IA, aquecimento certinho, tudo postado à mão) e **todas travaram** no aquecimento.
   - Vinicius B: dar uns passos para trás, achar um padrão que funcione em 1 ou 2 contas e só depois expandir; às vezes o perfil do Face é ruim (o da mãe dele nunca subiu, "virou perfil pra guardar página lixo").
