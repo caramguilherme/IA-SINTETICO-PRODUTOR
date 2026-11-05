@@ -21,7 +21,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | Lucas Mascarenhas | 276 vendas em out. | Face = volume; variações; não trocar avatar antes de ~100 vídeos | Face com variações | Voltar só com resultado | Sim |
 | Matheus Baffa | 217 vendas em out. | Signos na tela; localização e hashtag; story | Signos na caixa do topo | Voltar só com resultado | Sim |
 | Adão Gomes | 484 vendas em out. | Views primeiro; hook com diferencial; "alongar a placa com boa copy" | Hooks visuais; placa falada | Voltar só com resultado | Sim |
-| Marcelo [MVM] | Colega no mesmo nível (60+ vídeos, 2k a 3k views, Índia); combinado de 23/10: "o primeiro que destravar avisa o outro" | Constância e teste; idade mínima 25; mais de 1 conta para testar formatos | Idade 25+ já estava ligada | Escreveu em 04/11 12h12 ("conseguiu viralizar algo?"); em 04/11 19h46 contou no #chat-appyon que o Insta caiu de 2 a 3 mil para menos de 200 nos últimos 8 vídeos. Responder o DM dele (rascunho de 05/11 abaixo) | Se ajudar |
+| Marcelo [MVM] | Colega no mesmo nível (60+ vídeos, 2k a 3k views, Índia); combinado de 23/10: "o primeiro que destravar avisa o outro" | Constância e teste; idade mínima 25; mais de 1 conta para testar formatos | Idade 25+ já estava ligada | Escreveu em 04/11 12h12 ("conseguiu viralizar algo?"); **o aluno respondeu às 12h15** (maior vídeo 3,7k, texto na tela dá view com público 45+, 2 a 3 cliques por dia, copy de medo x positiva, gancho bizarro, constância); **o Marcelo respondeu às 13h43** (ver FATOS); às 19h46 contou no #chat-appyon que o Insta caiu para menos de 200. Próximo: 1 resposta com 1 pergunta (rascunho de 05/11 ~02h abaixo) | Se ajudar |
 | Eduarda Fernandes, Thiago, Mary, Mattias, Eduardo Pinaffi | Já responderam antes (ver FATOS) | Hook visual + copy longa; constância; texto na tela em conta separada; portal 11:11; não repetir gancho | Já aplicado | Voltar só com resultado | Quem tiver ajudado |
 | Gabriel (Cabo) | 79 vendas em out. com 1 conta, 3 a 4 vídeos por dia | Conta e avatar boas dão sinal cedo; aquecimento certinho; avatar bem realista; nos 10 vídeos de aquecimento, copy validada sem CTA; sinal = ~1 mil views nesses 10 | Vai para o checklist do 2º perfil (`VALIDACAO-CONTA-E-AVATAR.md`); avatar realista pelo blueprint, sem partir de foto de pessoa real | Fechada por ele em 03/11 18h52: agradecer; voltar com o resultado do 2º perfil | Sim, se ajudar no 2º perfil |
 | Vinicius Almeida | 83 vendas em out., 1º mês que destravou; 100% Facebook | Parar de insistir no formato que não vende; minerar páginas da Appyon no Face (conta de mineração com proxy dos EUA) que estouraram depois de mudar o formato; gancho bizarro (o do tsunami); o gancho é o principal | Gancho bizarro no nora50 (a partir do vídeo de referência); Face trava em ~250 = gancho | Respondeu em 03/11 22h57 (3 por dia por página; continuar no Insta, que já pega view; mudar gancho e formato): agradecer; voltar com o resultado do gancho novo (nora47) | Sim |
@@ -51,9 +51,17 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 ## Rascunho a enviar (05/11/2026; resposta pública no post da Letícia no X, no jeito do aluno)
 - **Letícia (@letipfvr), resposta ao post dos 30 dias:** "parabéns pelos 30 dias! 21 checkouts com 4 páginas é mt bom, a 1ª venda tá perto. posso perguntar uma coisa? q automação vc usa pra postar no face? aqui toda vez q agendei a entrega caiu"
 
-## Rascunho a enviar (05/11/2026; DM do Marcelo [MVM], resposta ao "conseguiu viralizar algo?" de 04/11 12h12; só se o aluno ainda não respondeu)
+## NÃO USAR (o aluno já tinha respondido em 04/11 12h15): rascunho antigo do DM do Marcelo
 - "fala marcelo, desculpa a demora kkk / aqui ainda não vendi, a nora tá entre 150 e 3,7k no insta e uns 2 a 3 cliques por dia / vi teu post no chat da queda pra menos de 200: olha em configurações > status da conta no insta, lá mostra se tem vídeo fora das recomendações / vc mudou alguma coisa nesses 8 vídeos? copy, gancho, horário ou quantos por dia?"
 
 ## FEITO, na versão do aluno (05/11 01h33): DM do Felps, resposta ao "Como está seus avatares mano?" de 04/11 13h32 (o rascunho abaixo não foi usado: "ela é essa aí" dependia de anexar a foto e não ficou claro)
 - Anexar 1 ou 2 imagens da Nora (a `nora46-IMG`, estúdio claro, e a `nora37-IMG`, quarto à noite) e mandar numa mensagem só: "to com uma só por enquanto, a nora (latina, 36, astróloga/cartomante), no insta e no face, rodando o manifestation desde 27/10 / ela é essa aí, em dois cenários / os vídeos com ela no quarto à noite foram os que mais trouxeram seguidor / vc acha que é a avatar que tá travando a ida pro story? tô pensando em tirar a lua e as estrelas do rosto dela"
+
+## Rascunho a enviar (05/11/2026 ~02h; DM do Marcelo, resposta à mensagem dele de 04/11 13h43; uma mensagem só, linhas com Shift+Enter)
+```
+pô mano, 40 mil sem venda é foda kkk
+quantos cliques aquele de 40 mil deu no tracker? to tentando entender se texto na tela dá clique ou só view
+uma coisa que vi esses dias: a média da galera em outubro foi uns 180 cliques pra cada venda, então com 2 a 3 cliques por dia ainda é normal não ter saído
+e vi teu post no chat da queda pra menos de 200, dá uma olhada em configurações > status da conta no insta, lá mostra se tem vídeo fora das recomendações
+```
 
