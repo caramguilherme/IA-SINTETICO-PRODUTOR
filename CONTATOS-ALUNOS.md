@@ -75,7 +75,8 @@ volto aqui com o resultado quando sair
 ```
 valeu demais mano, ajudou mt
 o diferenciado das tuas avatares é o que? idade, estilo, roupa, cenário, sem cara de cartomante?
-pergunto pq a minha tá bem no padrão, cartomante com lua e estrelas no rosto, e to pensando em mudar
-e no face vc posta quantos vídeos por dia em cada página?
+pergunto pq a minha tá bem no padrão, cartomante com lua e estrelas no rosto
+e no face o clique vem de onde? do story, de link no comentário ou de direct?
 ```
+(Versão de 05/11 ~02h25: a última pergunta trocou de "quantos vídeos por dia" para "de onde vem o clique no Face", porque o Face da Nora nunca deu clique real.)
 
