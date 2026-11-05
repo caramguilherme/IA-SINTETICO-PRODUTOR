@@ -760,3 +760,12 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 - **Masterclass do Kobata (14/11, 13h):** os alunos têm acesso (Ju).
 - **Para devolver na comunidade (P44):** (1) **Tomas** perguntou se usam automação de DM no Insta: dá para responder com o que a Nora viveu (o Insta pediu verificação facial quando foi link no direct; no Face, resposta e link no direct à mão, com texto variado); (2) **Day777** perguntou ao aluno como manter a mesma voz; já responderam (gerador de animação da Central); o aluno pode só completar (o mesmo texto LIVRE de voz e a mesma imagem em todos os takes); (3) **Gabriel soares** agradeceu a resposta do aluno.
 - **Decisão:** nada muda no plano; reforço da constância (Lari, Kaike).
+
+### 04/11/2026 20h54 - Painel da Appyon de outra aluna (print mandado pelo aluno; nome não dito)
+- **Últimos 30 dias:** 382 cliques, 347 views (visitas à página do quiz), **21 checkouts, 0 vendas**, US$ 0. Ela cresceu muito sobre os 30 dias anteriores (+12.633% nos cliques: antes eram ~3).
+- **Contra a régua dos 16 fechamentos de outubro** (178 cliques por venda, 9,7 checkouts por venda, 5,4% de clique para checkout):
+  - Clique para checkout: 21 ÷ 382 = **5,5%**, igual à mediana. O quiz e a VSL fazem a parte deles.
+  - Vendas esperadas: ~2 (382 ÷ 178 = 2,1; 21 ÷ 9,7 = 2,2). Zero venda acontece em ~1 de cada 9 casos assim (~10%): azar provável, mas já é o limite.
+  - Se passar de ~40 checkouts sem venda, aí sim há algo no fim do funil a investigar (país, idade, copy de medo). Para quem está no pior caso da régua (590 cliques por venda, o Kaike), 0 venda em 382 cliques é o normal (~50%).
+  - Volume: **~13 cliques por dia, ~5 vezes a Nora** (~2,5 por dia). Ainda está abaixo dos iniciantes que venderam em outubro (briza e Rechmann, de 60 a 170 por dia).
+- **Para a Nora:** confirma a régua (o problema da Nora é o volume de cliques, não o funil) e mostra o que vem depois: com ~13 cliques por dia, a 1ª venda sai em ~2 semanas. Se o aluno tiver contato com ela, a pergunta que vale (P44): o que mais trouxe clique (Insta ou Face, formato, quantos posts por dia).
