@@ -776,3 +776,23 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
   3. **50 a 100 páginas não é para nós agora:** cada página precisa de um perfil do Face separado, de preferência com 6 meses ou mais (página nova não pega; monetização derruba perfil), e de produção. Primeiro 2 a 3 contas funcionando, depois escala.
   4. **O Face dela dá clique e o da Nora não:** a diferença provável é volume e automação (o Kaike: "o Face pede volume"). Na Nora o agendamento no Face derrubou a entrega (regra "sempre ao vivo"); a automação dela é a pergunta que vale fazer.
   5. Pergunta para ela (P44, rascunho em `CONTATOS-ALUNOS.md`): **qual automação usa para postar no Face**, e quantos posts por página por dia.
+
+### 05/11/2026 01h10 - Discord, 6ª leitura (chat-appyon 04/11 14h10 a 05/11 00h59; vitórias-dólar 04/11 20h16 a 20h17; `HISTORICO-DISCORD/`)
+- **Possível buraco:** o chat da 5ª leitura parou às 13h55 e este começa às 14h10; o vitórias parou às 13h52 e este só tem 2 mensagens (20h16 e 20h17). Se houver mensagens nesses intervalos, ler na próxima.
+- **O aluno devolveu na comunidade (P44), 14h10 e 14h11:** respondeu ao Tomas (verificação facial com link no direct do Insta; no Face, resposta e link no direct à mão, com texto variado) e ao Day777 (mesmo texto no LIVRE e mesma imagem em todos os takes = mesma voz). Ninguém respondeu de volta.
+- **Escala antes da hora não funciona (Maycon Bezerra, 20h33, e as respostas):** ele criou 10 contas de uma vez (5 Insta, 5 Face, cada Insta com celular e proxy próprios no GeeLark, Face isolado no AdsPower, perfil de IA, aquecimento certinho, tudo postado à mão) e **todas travaram** no aquecimento.
+  - Vinicius B: dar uns passos para trás, achar um padrão que funcione em 1 ou 2 contas e só depois expandir; às vezes o perfil do Face é ruim (o da mãe dele nunca subiu, "virou perfil pra guardar página lixo").
+  - Woodstock: começou querendo escala e voltou para 2 contas, para entender o que dá resultado.
+  - O Vinicius B também contou que **agendar em massa funcionou e depois parou**; voltou a postar à mão, mudou formato e edição, e a conta destravou com 22 vídeos. O Caio1094: agendando não foi; à mão mudou tudo.
+- **Regras de conta (Ju, Gustavo, Wendi):**
+  - **Até 4 perfis do Face não precisa de multilogin;** acima de 4, isolar (multilogin com proxy). Várias abas no mesmo navegador = mesma digital (IP, navegador, tela, cookies): o Face vê um usuário só. Aquecer 2 por vez.
+  - **Perfil do Face para criar página: mais de 6 meses e sem restrição** (comprado no GGMAX, se for o caso). **Instagram: melhor criar do zero** (Gustavo).
+  - **Aquecimento (Wendi):** se os vídeos não passaram de 100, descarta; entre 100 e 200, insiste mais um pouco (o mesmo da árvore do Miro).
+  - Conta parada há semanas: aquece um pouco e volta a postar (Maycon Douglas: parou 1 mês e voltou bem).
+- **Entrega:** "200 a 293 views é normal" (Gustavo); várias páginas do Face caindo do nada (Douglas: de 200 a 300 para menos de 20; Mary: de 2 mil para 6 num dia). O Face da Nora não é o único oscilando.
+- **Marcelo [MVM] (nosso contato, 19h46):** o Insta dele fazia 2 a 3 mil views e nos últimos 8 vídeos não passou de 200, com quase 100 vídeos na conta; perguntou se é restrição ou shadowban. Ninguém respondeu. É a hora de responder o DM dele de 04/11 12h12 (rascunho em `CONTATOS-ALUNOS.md`).
+- **Outros:** um clone do Auraly ("Lunara", harmonnyhub) com VSL que abre com "keep your mouth shut" (contexto); HeyGen Avatar IV melhor que o III e o 6 caro (77 créditos em 1:35; o HeyGen já está fora da Nora); a ferramenta de transcrição da Central estava instável; perguntas sem resposta: trocar o link do Love Chart para o Love Reading (Sueli), vídeo de 10 s de texto na tela para "dar um up" (Pedro), link de afiliado no vídeo (MELO). No #vitórias: 1ª venda do Manifestation do rodrigo (com o David Nunes) e o Gustavo elogiando a resiliência do Daniel Napoleão (2 meses e meio postando todo dia sem destravar ainda).
+- **Para a Nora (decisões minhas):** nada muda no plano de hoje (nora48 17h, nora49 19h30, sempre ao vivo).
+  1. **Confirma a resposta sobre a Letícia (05/11):** escalar para muitas contas antes de ter um padrão que funcione trava tudo (Maycon Bezerra). O 2º perfil sai quando a Nora tiver o corpo que leva ao perfil (o teste de hoje), e no máximo 2 a 3 contas antes de escalar.
+  2. **Para o 2º perfil:** Insta criado do zero no GeeLark com proxy própria; a Página do Face num perfil do Face com 6+ meses e sem restrição. Com 2 perfis do Face, não precisa de multilogin, mas nunca os 2 abertos no mesmo navegador ao mesmo tempo.
+  3. Postagem sempre à mão, ao vivo (mais 2 relatos hoje).
