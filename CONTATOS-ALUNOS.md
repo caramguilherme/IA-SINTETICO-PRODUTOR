@@ -32,7 +32,8 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | Rodrigo Rechmann (rodrigorechmann) | 1º mês, vendas desde 17/10, 15 vendas, ~120 cliques por dia | DM do aluno em 03/11 15h01: (1) o que mais trouxe clique, Insta ou Face, e qual formato? (2) quantos vídeos por dia? **Sem resposta até 04/11 ~12h** | | Não mandar outra DM; reagir em público; se responder, anotar e responder | |
 | Castanho (cvstv8624) | ~111 vendas em ~30 dias | DM do aluno em 03/11 15h02: o que fez nas 2 primeiras semanas, antes da 1ª venda? Insta ou Face, quantos perfis, quantos vídeos por dia? **Sem resposta até 04/11 ~12h** | | Não mandar outra DM; reagir em público; se responder, anotar e responder | |
 | Letícia (@letipfvr, X) | 1º mês na Appyon: 382 cliques, 21 checkouts, 0 vendas (30 dias até 04/11), só com 4 páginas no Face no orgânico, "99% automático"; vai abrir mais páginas e o Insta | Post público no X (04/11 21h21): volume = número de páginas; "tudo se resume a intensidade" | Conta por página na seção de 04/11 do `COMUNIDADE-E-ESTRATEGIA.md`; reforça o 2º perfil | Resposta pública no X (rascunho abaixo, 05/11); sem resposta, não mandar outra | Quando a Nora destravar, se ela ajudar |
-| Felps, carloscs, Lucas Dusi | Fechamentos de outubro (os grandes) | (não chamar: recebem dezenas de mensagens) | | | |
+| Felps (felps_hori) | Um dos maiores de outubro, com uma conta só (Kassio); dias de ~5 mil cliques | DM do aluno em 03/11 15h08 (o que faz a pessoa sair do reels e ir pro story; "3k, 4k de views e 3 cliques por dia"). **Respondeu em 04/11 13h32: "Como está seus avatares mano?"** | | Responder com a avatar (foto + 1 linha) e 1 pergunta (rascunho de 05/11 abaixo) | Se ajudar |
+| carloscs, Lucas Dusi | Fechamentos de outubro (os grandes) | (não chamar: recebem dezenas de mensagens) | | | |
 
 ## Rascunhos a enviar (04/11/2026; no jeito do aluno; uma mensagem por pessoa, 15 a 20 min entre elas)
 - **Kaike de Lima (DM; ENVIADA pelo aluno em 04/11 de manhã):** "valeu demais kaike, ajudou muito / faz sentido, a nora tem uns 47 vídeos só e ainda parei uns dias essa semana, vou focar na constância / to testando exatamente isso agora: mesmo corpo e pré-hook novo (um tsunami kkk) / uma dúvida rápida: esses pré-hooks diferentes que vc fez eram mais bizarros, fora do nicho, ou coisa do nicho mesmo (cristal, vela, carta etc)?"
@@ -52,3 +53,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 
 ## Rascunho a enviar (05/11/2026; DM do Marcelo [MVM], resposta ao "conseguiu viralizar algo?" de 04/11 12h12; só se o aluno ainda não respondeu)
 - "fala marcelo, desculpa a demora kkk / aqui ainda não vendi, a nora tá entre 150 e 3,7k no insta e uns 2 a 3 cliques por dia / vi teu post no chat da queda pra menos de 200: olha em configurações > status da conta no insta, lá mostra se tem vídeo fora das recomendações / vc mudou alguma coisa nesses 8 vídeos? copy, gancho, horário ou quantos por dia?"
+
+## Rascunho a enviar (05/11/2026; DM do Felps, resposta ao "Como está seus avatares mano?" de 04/11 13h32)
+- Anexar 1 ou 2 imagens da Nora (a `nora46-IMG`, estúdio claro, e a `nora37-IMG`, quarto à noite) e mandar numa mensagem só: "to com uma só por enquanto, a nora (latina, 36, astróloga/cartomante), no insta e no face, rodando o manifestation desde 27/10 / ela é essa aí, em dois cenários / os vídeos com ela no quarto à noite foram os que mais trouxeram seguidor / vc acha que é a avatar que tá travando a ida pro story? tô pensando em tirar a lua e as estrelas do rosto dela"
+
