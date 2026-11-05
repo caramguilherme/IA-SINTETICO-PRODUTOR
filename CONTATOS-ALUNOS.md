@@ -13,7 +13,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 ## Quadro
 | Pessoa | Por que (resultado) | O que já deu | Aplicado na Nora | Próximo passo | Agradecer em público |
 |---|---|---|---|---|---|
-| Jessica Bento | Top 1; R$ 73 mil em out., R$ 33,8 mil de recorrência | Volume no começo = mais contas; ângulo positivo (Iorhan); CTA batido derrubou a ida ao story; qualificar mais; público cansado das mesmas frases; texto na tela converte menos que avatar; Auto Editor ou automação de edição | CTA novo e qualificado no nora50; 2º perfil com avatar; edição automática em teste | Em 2 a 3 dias: resultado + "o que mudou no teu CTA?" | Sim, quando o CTA novo der resultado |
+| Jessica Bento | Top 1; R$ 73 mil em out., R$ 33,8 mil de recorrência | Volume no começo = mais contas; ângulo positivo (Iorhan); CTA batido derrubou a ida ao story; qualificar mais; público cansado das mesmas frases; texto na tela converte menos que avatar; Auto Editor ou automação de edição | CTA novo e qualificado no nora50; 2º perfil com avatar; edição automática em teste | Em 2 a 3 dias: resultado + "o que mudou no teu CTA?" (**decidido em 05/11: voltar em 06/11, com o resultado do teste dos corpos, nora48 x nora49**) | Sim, quando o CTA novo der resultado |
 | Gustavo Alves | Gerente da Appyon, faz as calls | Sem cartas antes do quiz; ida ao story ruim = body e CTA; não olha perfis | Painéis 47 a 49 sem cartas; story-0311; nora50 com foco no corpo e no CTA | Daqui a dias, só com resultado ("mexi no body e no CTA, foi de 3 pra X") | Sim |
 | Guilherme Garbellotto | 334 vendas em out. | Punição por "engajamento fake", recurso perdido; Insta e Face estavam vinculados e caíram juntos; pedia comentário; foi direto para ativos novos; tempo para um ativo novo pegar "não tem regra" | Respostas e directs variados; 222 fora da legenda, do comentário e da fala do nora50 (pedido de comentário só como pergunta de verdade); Insta e Face da Nora já separados (confirmado 03/11); perfis novos nunca vinculados | Fechada em 03/11 19h36 ("não tem regra, cada ativo é único"): agradecer; voltar só com resultado | Se ajudar |
 | briza | 18 vendas, 10 perfis, 1 pegou | 6 a 8 por dia no perfil que pegou; abraçar o cenário validado; 5 vídeos em 5 cenários; HeyGen; edição = modelo fixo no CapCut (mesmas posições, edita por cima) | Cenário validado (quarto à noite) no nora50; variar cenário; modelo fixo de edição no CapCut | Rascunho entregue (agradecer + qual o estilo do CTA para o story hoje) | Sim |
@@ -33,6 +33,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | Castanho (cvstv8624) | ~111 vendas em ~30 dias | DM do aluno em 03/11 15h02: o que fez nas 2 primeiras semanas, antes da 1ª venda? Insta ou Face, quantos perfis, quantos vídeos por dia? **Respondeu em 04/11 16h37:** o que fez vender foi ter **avatares diferenciados**; o resto é "seguindo a manada, remodelando bastante"; vende **só pelo Face** (o Insta não destravou); as 100 vendas vieram de **2 páginas**, hoje tem 4 | Reforça avatar diferente (2º perfil e o teste da Nora sem joias no rosto) e o Face como canal de venda | Responder com 1 ou 2 perguntas (rascunho de 05/11 abaixo) | Se ajudar |
 | Letícia (@letipfvr, X) | 1º mês na Appyon: 382 cliques, 21 checkouts, 0 vendas (30 dias até 04/11), só com 4 páginas no Face no orgânico, "99% automático"; vai abrir mais páginas e o Insta | Post público no X (04/11 21h21): volume = número de páginas; "tudo se resume a intensidade" | Conta por página na seção de 04/11 do `COMUNIDADE-E-ESTRATEGIA.md`; reforça o 2º perfil | Resposta pública no X (rascunho abaixo, 05/11); sem resposta, não mandar outra | Quando a Nora destravar, se ela ajudar |
 | Felps (felps_hori) | Um dos maiores de outubro, com uma conta só (Kassio); dias de ~5 mil cliques | DM do aluno em 03/11 15h08 (o que faz a pessoa sair do reels e ir pro story; "3k, 4k de views e 3 cliques por dia"). **Respondeu em 04/11 13h32: "Como está seus avatares mano?"** O aluno respondeu em 05/11 01h33 (versão dele): "to com uma só por enquanto, no insta e no face, rodando o manifestation desde 27/10 / vc acha que é a avatar que tá travando a ida pro story? / quer ver uma foto dela? ou algum vídeo?" | | Esperar. Se ele pedir: a `nora37-IMG` (quarto à noite) ou a `nora46-IMG` (estúdio) e o `nora47-final.mp4`. Sem resposta, não mandar outra | Se ajudar |
+| Marcus [MVM] | 1ª venda em 05/11 07h50 (#vitórias), depois de 5 avatares flopadas e 72 vídeos na 6ª | | | Parabéns + 1 pergunta em público no #vitórias (rascunho de 05/11 abaixo); DM só se ele responder | Se ajudar |
 | carloscs, Lucas Dusi | Fechamentos de outubro (os grandes) | (não chamar: recebem dezenas de mensagens) | | | |
 
 ## Rascunhos a enviar (04/11/2026; no jeito do aluno; uma mensagem por pessoa, 15 a 20 min entre elas)
@@ -85,5 +86,11 @@ e no face o clique vem de onde? do story, de link no comentário ou de direct?
 caraca lari, parabéns pelas 2 de hoje!! uma no insta e outra no face, bom demais
 faz mt sentido, aqui eu travo justamente na produção e acabo ficando dia sem postar
 uma dúvida: os 6 por dia são vídeos diferentes ou vc faz variação do mesmo vídeo (outro gancho, espelhado etc)?
+```
+
+## Rascunho a enviar (05/11/2026; resposta pública no #vitórias, na mensagem do Marcus de 05/11 07h50)
+```
+parabéns marcus!! 72 vídeos e não desistiu, isso inspira demais
+o que mudou nessa 6ª avatar pras outras 5 que flopar?
 ```
 
