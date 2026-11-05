@@ -796,3 +796,9 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
   1. **Confirma a resposta sobre a Letícia (05/11):** escalar para muitas contas antes de ter um padrão que funcione trava tudo (Maycon Bezerra). O 2º perfil sai quando a Nora tiver o corpo que leva ao perfil (o teste de hoje), e no máximo 2 a 3 contas antes de escalar.
   2. **Para o 2º perfil:** Insta criado do zero no GeeLark com proxy própria; a Página do Face num perfil do Face com 6+ meses e sem restrição. Com 2 perfis do Face, não precisa de multilogin, mas nunca os 2 abertos no mesmo navegador ao mesmo tempo.
   3. Postagem sempre à mão, ao vivo (mais 2 relatos hoje).
+
+### 04/11/2026 20h07 - Aviso do Gustavo (print do aluno, 05/11)
+- **Squad Appyon:** time de suporte "só com os melhores"; a 1ª é a Ju Santos (suporte do ano, quem mais responde ticket).
+- **Clone do Gustavo** (o NotebookLM com o conteúdo dele, link em `PLANO-MVM-LEGACY-APPYON.md`, Aulas, gravações e links) **sendo atualizado com tudo novo; sai em breve.**
+- **Para a Nora:** quando o clone novo sair, as dúvidas abertas do doc (seção Perguntas) vão para ele ou para o ticket, antes de perguntar no chat. Nada muda no plano.
+
