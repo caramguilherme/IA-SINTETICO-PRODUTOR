@@ -400,3 +400,15 @@ No nora45 a frase do meio, "November will be the luckiest month of your life" (4
 - **Localização no Insta (31/10/2026):** o teste da localização Los Angeles acabou sem ganho (EUA 5,1%, 18,2% e 10,7% com ela; 13 a 14% sem). Os painéis novos não pedem mais localização (`legenda_aviso` sem o passo de Los Angeles).
 - **Arquivo do projeto que o aluno usa na edição (31/10/2026, provas do Trustpilot do nora46):** o painel dizia "Use o arquivo pasta provas-trustpilot do projeto que você já gerou", e o aluno não achou: as imagens estavam só no repositório, que ele não abre. Regra: toda peça pronta que mora só no projeto (prints, imagens que eu preparei) eu **mando no chat** (SendUserFile) no mesmo turno em que o painel pede, e a peça no pacote leva o campo `onde` ("Estão no chat: …"), que o `PAINEL-MODELO.html` mostra no lugar de "que você já gerou".
 - **Todo texto na tela tem o seu estilo (31/10/2026, nora46, cobrança do aluno):** a caixa "Rated 4.7 ⭐ by 2,000+ people" do Take 9 só aparecia dentro do estilo das avaliações (que são imagens), sem fonte, tamanho, cor, traço e sombra. Regra: cada texto que aparece na linha do tempo da edição ganha a sua entrada em `mapa_tela.estilos` (fonte, cor, tamanho, contorno, posição e quando), mesmo que dure um take só. Antes de entregar, conferir: todo `texto` de `edicao_linha` que é escrita tem um estilo com o mesmo nome.
+
+## 05/11/2026 — Agente do Flow gera 1 vídeo e para (Discord, #chat-appyon 05/11 09h07 a 09h27)
+- **O problema:** com o prompt da Central para vários takes, o agente gera só o 1º e para (Eduarda Fernandes, mesmo seguindo a aula do Gustavo).
+- **O que resolveu para outros:** (1) abrir um **projeto novo** no Flow quando der bug (Vitor Garcia); (2) o **pré-prompt do Lucas**, colado antes do bloco da Central (em inglês), que pede todos os vídeos de uma vez e em ordem:
+```
+Below, you will find several prompts, each corresponding to a different video. Please generate all the videos in sequential order, from the first prompt to the last.
+Maintain the exact same voice across all videos, ensuring EXACTLY THE SAME VOLUME, with no variations in background, intonation, or vocal clarity. Use the attached image as both the first and last frame of every generated video.
+Please submit ALL generation requests at once and in the correct order, so that all videos can be generated simultaneously.
+If the generation of any video fails, please resubmit ONLY the item that failed until it is successfully generated.
+```
+- **Para a Nora:** usar só quando o agente parar depois de 1 take num corpo de vários takes (o Take 1 sozinho continua com o aviso de 1 prompt dos painéis). Ficou de fora a linha do Lucas "the speech must flow continuously, WITHOUT ANY PAUSES", porque ela briga com a SPEECH RULE da Nora (fechar a boca e ficar em silêncio depois da última palavra) e o corte de silêncio já tira as pausas.
+

@@ -834,3 +834,10 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 - Desafio de **6 vídeos por dia em cada conta** (3 Face + 2 Insta). 1ª venda no Insta; em 04/11, mais 2 (Insta e Face). Antes estava inconstante. Vai baixar o volume para cuidar da copy, que acha igual à de todo mundo.
 - **Para a Nora (decisão minha):** a Nora tem 1 conta e vários dias sem post (01 e 02/11, 04/11 depois das 01h35). O que separa a Lari, o Kaike e a Letícia da Nora é volume e constância, não um vídeo melhor. **De 06/11 em diante: nenhum dia sem os 4 horários fixos no Insta e no Face.** Quando não houver vídeo novo pronto, entra uma variação sem crédito de um vídeo que já foi bem (outro gancho pronto no mesmo corpo, ou espelhado com filtro e 1,1x, só no Face), em vez de deixar o horário vazio. A pergunta para a Lari é como ela produz 6 por dia (vídeos diferentes ou variações).
 
+### 05/11/2026 11h40 - Discord, 7ª leitura (chat-appyon 01h12 a 11h29; vitórias-dólar 07h50 a 09h10; `HISTORICO-DISCORD/`)
+- **Vitórias:** Marcus [MVM] fez a 1ª venda "depois de 5 avatares flopados e exatos 72 vídeos nesse novo avatar". (O vitórias pula de 04/11 20h17 para 05/11 07h50; não veio dito se o intervalo foi conferido.)
+- **Flow:** o agente gerando 1 vídeo e parando; resolveu para outros abrir projeto novo ou colar o pré-prompt do Lucas antes do bloco da Central (texto e ressalva em `LICOES-FLOW-E-PROMPTS.md`, 05/11).
+- **Contas:** aquecimento de 10 vídeos em 3 dias (3, 3, 4; Maycon Bezerra); página nova restringida por falsificação de identidade sem nenhum post (Eduarda Kelly); aquecimento automático do GeeLark segue perfis e não dá para tirar sem editar a automação (`VALIDACAO-CONTA-E-AVATAR.md`).
+- **Ferramentas:** o Fusion Z (corte de silêncio) fica em mentoriam2m.com.br/tools; HeyGen sugere o Avatar 6 (caro) por padrão, trocar para o 3 ou o 4 (o HeyGen está fora da Nora).
+- **Para a Nora:** nada muda. A vitória do Marcus reforça a constância (72 vídeos numa avatar antes da 1ª venda; a Nora tem 12 no Manifestation desde 27/10, 49 posts na conta).
+
