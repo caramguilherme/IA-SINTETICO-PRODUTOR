@@ -841,3 +841,8 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 - **Ferramentas:** o Fusion Z (corte de silêncio) fica em mentoriam2m.com.br/tools; HeyGen sugere o Avatar 6 (caro) por padrão, trocar para o 3 ou o 4 (o HeyGen está fora da Nora).
 - **Para a Nora:** nada muda. A vitória do Marcus reforça a constância (72 vídeos numa avatar antes da 1ª venda; a Nora tem 12 no Manifestation desde 27/10, 49 posts na conta).
 
+### 05/11/2026 12h04 - Marcus [MVM] (#vitórias): o que fez a 6ª avatar vender
+- **Resposta dele à pergunta do aluno:** "Algum elemento marcante, ou fora da curva, no rosto da avatar. Nao fiz nada estilo Mortal Kombat igual o amigo falou em uma call kkk. Fazendo o mais realista e natural possível, tanto em questão de voz e animação da avatar." (12h04) e "Foram bem mais de 72 ne kkk sem contar os flopados" (12h06).
+- **Leitura:** é o mesmo que o Iorhan (03/11), o Castanho e o Allan disseram: avatar que se destaca por um traço **real** do rosto, não por pintura nem fantasia; e realismo na voz e na animação. A lua com as 3 estrelinhas pintada na maçã do rosto da Nora é justamente o "Mortal Kombat" (enfeite, não traço).
+- **Para a Nora:** depois da janela de 40 vídeos (~06 a 08/11), o teste de avatar fica assim: a Nora **sem a lua e as estrelinhas pintadas** e com **um traço real e marcante** (sardas leves no nariz e nas maçãs, ou uma pinta pequena perto da boca), com o resto igual (mesmo corpo validado, mesmo cenário, mesma voz): uma variável só. O 2º perfil já nasce realista, com 1 traço real. Constância: ele passou de 72 vídeos na 6ª avatar antes da 1ª venda.
+- **Contato:** 2ª mensagem enviada no mesmo fio (qual foi o elemento). Quadro em `CONTATOS-ALUNOS.md`.

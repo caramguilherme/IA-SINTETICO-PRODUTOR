@@ -33,7 +33,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | Castanho (cvstv8624) | ~111 vendas em ~30 dias | DM do aluno em 03/11 15h02: o que fez nas 2 primeiras semanas, antes da 1ª venda? Insta ou Face, quantos perfis, quantos vídeos por dia? **Respondeu em 04/11 16h37:** o que fez vender foi ter **avatares diferenciados**; o resto é "seguindo a manada, remodelando bastante"; vende **só pelo Face** (o Insta não destravou); as 100 vendas vieram de **2 páginas**, hoje tem 4 | Reforça avatar diferente (2º perfil e o teste da Nora sem joias no rosto) e o Face como canal de venda | **Resposta enviada em 05/11** (perguntas: o que é diferenciado nas avatares e de onde vem o clique no Face). Esperar | Se ajudar |
 | Letícia (@letipfvr, X) | 1º mês na Appyon: 382 cliques, 21 checkouts, 0 vendas (30 dias até 04/11), só com 4 páginas no Face no orgânico, "99% automático"; vai abrir mais páginas e o Insta | Post público no X (04/11 21h21): volume = número de páginas; "tudo se resume a intensidade" | Conta por página na seção de 04/11 do `COMUNIDADE-E-ESTRATEGIA.md`; reforça o 2º perfil | Resposta pública no X (rascunho abaixo, 05/11); sem resposta, não mandar outra | Quando a Nora destravar, se ela ajudar |
 | Felps (felps_hori) | Um dos maiores de outubro, com uma conta só (Kassio); dias de ~5 mil cliques | DM do aluno em 03/11 15h08 (o que faz a pessoa sair do reels e ir pro story; "3k, 4k de views e 3 cliques por dia"). **Respondeu em 04/11 13h32: "Como está seus avatares mano?"** O aluno respondeu em 05/11 01h33 (versão dele): "to com uma só por enquanto, no insta e no face, rodando o manifestation desde 27/10 / vc acha que é a avatar que tá travando a ida pro story? / quer ver uma foto dela? ou algum vídeo?" | | Esperar. Se ele pedir: a `nora37-IMG` (quarto à noite) ou a `nora46-IMG` (estúdio) e o `nora47-final.mp4`. Sem resposta, não mandar outra | Se ajudar |
-| Marcus [MVM] | 1ª venda em 05/11 07h50 (#vitórias), depois de 5 avatares flopadas e 72 vídeos na 6ª | | | **Parabéns + pergunta em público no #vitórias enviados em 05/11.** DM só se ele responder | Se ajudar |
+| Marcus [MVM] | 1ª venda em 05/11 07h50 (#vitórias), depois de 5 avatares flopadas e "bem mais de 72" vídeos na 6ª (fora os flopados) | Respondeu em público (05/11 12h04 e 12h06): a 6ª avatar tem "algum elemento marcante, ou fora da curva, no rosto", sem nada "estilo Mortal Kombat"; o mais realista e natural possível, na voz e na animação | Teste da Nora sem a lua e as estrelinhas pintadas, com um traço real (sardas ou pinta), depois da janela de 40; 2º perfil realista com 1 traço real | **2ª mensagem (pergunta qual foi o elemento) enviada em 05/11 no mesmo fio do #vitórias.** Esperar; DM só se ele chamar | Se ajudar |
 | carloscs, Lucas Dusi | Fechamentos de outubro (os grandes) | (não chamar: recebem dezenas de mensagens) | | | |
 
 ## Rascunhos a enviar (04/11/2026; no jeito do aluno; uma mensagem por pessoa, 15 a 20 min entre elas)
@@ -92,5 +92,11 @@ uma dúvida: os 6 por dia são vídeos diferentes ou vc faz variação do mesmo 
 ```
 parabéns marcus!! 72 vídeos e não desistiu, isso inspira demais
 o que mudou nessa 6ª avatar pras outras 5 que floparam?
+```
+
+## ENVIADO (05/11/2026; 2ª resposta pública no #vitórias, no fio do Marcus, depois das respostas dele de 12h04 e 12h06)
+```
+valeu demais marcus!! faz mt sentido
+o elemento marcante foi o que? tipo pinta, sardas, cicatriz, olho diferente? pq a minha tem uma lua com estrelas pintada no rosto e to achando que tá mais pro mortal kombat kkk
 ```
 
