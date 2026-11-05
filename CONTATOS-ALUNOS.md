@@ -30,7 +30,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | Lari (Larissa) | 1ª venda anunciada no #vitórias em 04/11 (antes das 10h59), a fase mais parecida com a da Nora; já ofereceu ajuda no chat-appyon ("se precisar pode me chamar", 30/10 e 02/11); usa HeyGen | Parabéns + pergunta em público no #vitórias (aluno, 04/11 11h50). **Ela respondeu às 12h23:** "constância na execução; eu ficava procrastinando querendo entender tudo e que tudo estivesse perfeito; antes, com conversão baixa, eu parava para entender; agora entendi que a mentalidade não é essa" | Reforça postar todo dia nos horários fixos, sem parar para analisar | DM agora, pelo método (rascunho abaixo) | Sim |
 | joao (Sargento) (joao00527) | 347 vendas em out. no Manifestation (1º mês zero, 2º R$ 1,5 mil no Soulmate) | DM do aluno em 03/11 14h57: (1) o que fez o Manifestation funcionar (formato, copy, Insta ou Face)? (2) o que põe no story para clicarem? **Sem resposta até 04/11 ~12h** | | Não mandar outra DM; reagir em público; se responder, anotar e responder | |
 | Rodrigo Rechmann (rodrigorechmann) | 1º mês, vendas desde 17/10, 15 vendas, ~120 cliques por dia | DM do aluno em 03/11 15h01: (1) o que mais trouxe clique, Insta ou Face, e qual formato? (2) quantos vídeos por dia? **Sem resposta até 04/11 ~12h** | | Não mandar outra DM; reagir em público; se responder, anotar e responder | |
-| Castanho (cvstv8624) | ~111 vendas em ~30 dias | DM do aluno em 03/11 15h02: o que fez nas 2 primeiras semanas, antes da 1ª venda? Insta ou Face, quantos perfis, quantos vídeos por dia? **Sem resposta até 04/11 ~12h** | | Não mandar outra DM; reagir em público; se responder, anotar e responder | |
+| Castanho (cvstv8624) | ~111 vendas em ~30 dias | DM do aluno em 03/11 15h02: o que fez nas 2 primeiras semanas, antes da 1ª venda? Insta ou Face, quantos perfis, quantos vídeos por dia? **Respondeu em 04/11 16h37:** o que fez vender foi ter **avatares diferenciados**; o resto é "seguindo a manada, remodelando bastante"; vende **só pelo Face** (o Insta não destravou); as 100 vendas vieram de **2 páginas**, hoje tem 4 | Reforça avatar diferente (2º perfil e o teste da Nora sem joias no rosto) e o Face como canal de venda | Responder com 1 ou 2 perguntas (rascunho de 05/11 abaixo) | Se ajudar |
 | Letícia (@letipfvr, X) | 1º mês na Appyon: 382 cliques, 21 checkouts, 0 vendas (30 dias até 04/11), só com 4 páginas no Face no orgânico, "99% automático"; vai abrir mais páginas e o Insta | Post público no X (04/11 21h21): volume = número de páginas; "tudo se resume a intensidade" | Conta por página na seção de 04/11 do `COMUNIDADE-E-ESTRATEGIA.md`; reforça o 2º perfil | Resposta pública no X (rascunho abaixo, 05/11); sem resposta, não mandar outra | Quando a Nora destravar, se ela ajudar |
 | Felps (felps_hori) | Um dos maiores de outubro, com uma conta só (Kassio); dias de ~5 mil cliques | DM do aluno em 03/11 15h08 (o que faz a pessoa sair do reels e ir pro story; "3k, 4k de views e 3 cliques por dia"). **Respondeu em 04/11 13h32: "Como está seus avatares mano?"** O aluno respondeu em 05/11 01h33 (versão dele): "to com uma só por enquanto, no insta e no face, rodando o manifestation desde 27/10 / vc acha que é a avatar que tá travando a ida pro story? / quer ver uma foto dela? ou algum vídeo?" | | Esperar. Se ele pedir: a `nora37-IMG` (quarto à noite) ou a `nora46-IMG` (estúdio) e o `nora47-final.mp4`. Sem resposta, não mandar outra | Se ajudar |
 | carloscs, Lucas Dusi | Fechamentos de outubro (os grandes) | (não chamar: recebem dezenas de mensagens) | | | |
@@ -69,5 +69,13 @@ e vi teu post no chat da queda pra menos de 200, dá uma olhada em configuraçõ
 ```
 valeu demais allan, vou minerar no face na mão então
 volto aqui com o resultado quando sair
+```
+
+## Rascunho a enviar (05/11/2026; DM do Castanho, resposta à mensagem dele de 04/11 16h37; uma mensagem só)
+```
+valeu demais mano, ajudou mt
+o diferenciado das tuas avatares é o que? idade, estilo, roupa, cenário, sem cara de cartomante?
+pergunto pq a minha tá bem no padrão, cartomante com lua e estrelas no rosto, e to pensando em mudar
+e no face vc posta quantos vídeos por dia em cada página?
 ```
 
