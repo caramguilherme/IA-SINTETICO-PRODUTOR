@@ -91,6 +91,6 @@ uma dúvida: os 6 por dia são vídeos diferentes ou vc faz variação do mesmo 
 ## Rascunho a enviar (05/11/2026; resposta pública no #vitórias, na mensagem do Marcus de 05/11 07h50)
 ```
 parabéns marcus!! 72 vídeos e não desistiu, isso inspira demais
-o que mudou nessa 6ª avatar pras outras 5 que flopar?
+o que mudou nessa 6ª avatar pras outras 5 que floparam?
 ```
 
