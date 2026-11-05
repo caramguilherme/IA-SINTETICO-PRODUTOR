@@ -802,3 +802,8 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 - **Clone do Gustavo** (o NotebookLM com o conteúdo dele, link em `PLANO-MVM-LEGACY-APPYON.md`, Aulas, gravações e links) **sendo atualizado com tudo novo; sai em breve.**
 - **Para a Nora:** quando o clone novo sair, as dúvidas abertas do doc (seção Perguntas) vão para ele ou para o ticket, antes de perguntar no chat. Nada muda no plano.
 
+### 05/11/2026 - Masterclass do Kobata (aviso @everyone colado pelo aluno)
+- Ingresso grátis para aluno (resgate no link; o aluno já resgatou); para o público de fora é pago. Depois do resgate: entrar no grupo da Masterclass (lá chega o link da aula de 14/11, 13h, sem replay) e, se quiser, gerar o link de indicação.
+- Indicação até 14/11, prêmios cumulativos (1 = caixa de prompts realistas; 3 = aula secreta gravada; 10 = R$ 1.000 em crédito no MVM, não sacável; top 5 = Creator Summit 2027; top 1 = acesso vitalício a tudo do MVM). Na aula, oferta de Black Friday para os membros.
+- **Para a Nora (decisões minhas):** o que vale é assistir ao vivo (sem replay) e anotar; a indicação é opcional e não entra no plano. A oferta de Black Friday se avalia depois da aula, contra o que falta hoje (créditos do Flow, proxy e GeeLark do 2º perfil), sem comprar no impulso.
+
