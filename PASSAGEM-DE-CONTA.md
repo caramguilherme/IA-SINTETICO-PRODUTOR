@@ -2,7 +2,7 @@
 
 O aluno usa uma conta do Claude até o limite semanal acabar e passa para outra. Este arquivo diz o que a sessão nova faz primeiro. **Todo o conhecimento do projeto está no repositório** (regras, lições, estratégia, fatos, contatos, métricas, roteiros, painéis, histórico do Discord, aulas, VSL, briefings e a cópia principal do doc do MVM). Fora dele ficam só os Artifacts (painéis, dashboard) e o ambiente do Claude Code, que são de cada conta: a sessão nova recria os dois.
 
-**Branch com tudo:** `claude/lucid-planck-zz5ob8` do repositório `caramguilherme/ia-sintetico-produtor` (a `main` parou em 30/10): a sessão nova traz a branch, como abaixo.
+**Branch com tudo:** `claude/lucid-planck-zz5ob8` do repositório `caramguilherme/ia-sintetico-produtor` (a `main` foi atualizada com ela em 06/11; mesmo assim, a sessão nova traz a branch, como abaixo, para pegar o que veio depois).
 
 ## 1. Antes de colar a mensagem (aluno)
 1. Na conta nova, abrir o Claude Code na nuvem (claude.ai/code) e começar uma sessão **com o repositório `caramguilherme/ia-sintetico-produtor`**.
