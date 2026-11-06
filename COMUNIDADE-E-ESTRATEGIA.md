@@ -860,3 +860,8 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 - **FATOS:** ganhou um resumo do que vale hoje no topo; o 1º item do funil (Love Chart) ficou marcado como histórico; o ambiente do Claude Code vale só nesta conta.
 - **PASSAGEM-DE-CONTA:** o estado aponta para o `CLAUDE.md` (seção 1), e o passo a passo ganhou recriar o ambiente do Claude Code numa conta nova e o download do Drive pelo endereço direto.
 - **LEIA-TUDO-ANTES:** referências velhas corrigidas (Nora v2, histórico do Discord até 06/11, doc do MVM como cópia principal, `HISTORICO-CLAUDE-MD.md` para consulta).
+
+### 06/11/2026 ~03h15 - Aviso da Appyon sobre o Omni 1.2 Flash (colado pelo aluno)
+- **O aviso:** "UPDATES LEGAIS NO OMNI FLASH. Se você ainda usa só HeyGen, vale dar uma testadinha. Com as ferramentas que eu criei pra vocês, fazer vídeos pelo Flow virou a coisa mais fácil do mundo" + o artigo do Google ("Gemini Omni 1.2 Flash: native 15-second video generation and editing, stronger consistency, and 30% lower pricing"). O artigo não abre desta sessão (blog.google fora da rede).
+- **Contra:** no Discord de 05/11 (Fernando Lopes), o Flow mostrou o 1.2 **cobrando o dobro de créditos**. Os 30% menores do Google devem ser o preço por segundo na API, não o crédito do Flow; só o Flow do aluno diz.
+- **Para a Nora (decisão minha):** o nora49 sai no 1.1 (completa o corpo B). O aluno confere no Flow quanto o 1.2 cobra por 10 s e por 15 s; com isso, o 1º take do nora50 testa o 1.2 (um take, antes de um corpo inteiro). Ganho possível: 15 s = ~30 palavras por take, menos cortes e corpo de 8 takes em ~5 ou 6.
