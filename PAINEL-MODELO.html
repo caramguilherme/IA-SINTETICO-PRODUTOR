@@ -392,10 +392,10 @@ function montarPre(){
 }
 
 const RESP_FACE={
-  aviso:'Só no Face (no Insta o direct pediu verificação facial). Para cada pessoa que comentar: responda o comentário com uma frase (sem link) e mande a mensagem com o link no direct. Vá alternando as versões: não mande o mesmo texto para todo mundo.',
+  aviso:'Só no Face (no Insta o direct pediu verificação facial). Para cada pessoa que comentar: responda o comentário com uma frase (sem link) e mande a mensagem com o link no direct, trocando [name] pelo primeiro nome dela. Nunca o mesmo texto duas vezes seguidas.',
   link:'https://app.auralyapp.com/6a90ad82719e8d2b35da8a7c?rt_ad=norakensleytarot&utm_source=facebook&utm_content=FACE&aff=dl7zx6ks',
   comentario:['✨ Just sent you a DM, beautiful! 💖🔮','💖 Check your messages, beautiful! ✨🔮','🔮 Sent you something in your DM, beautiful! ✨'],
-  dm:['✨ Your reading is waiting for you, beautiful! 🔮💖 Tap here to discover the message meant for you:','✨ Your 3 cards are ready, beautiful! 🔮💖 Tap here, pick them and see what\'s coming for you:','💖 Your message is here, beautiful! ✨🔮 Tap below, pick your 3 cards and see what\'s coming for you:']};
+  dm:['✨ Hi [name]! Your private reading is waiting for you 🔮💖 Tap here to discover the message meant for you:','[name], here it is ✨ Your private reading starts with your own situation 🔮 Tap here:','💖 Here\'s your link, [name]! ✨🔮 See what your private reading shows you:']};
 function montarRespFace(){
   const r=Object.assign({},RESP_FACE,(pk&&pk.respostas_face)||{});
   $('rfAviso').textContent=r.aviso;
