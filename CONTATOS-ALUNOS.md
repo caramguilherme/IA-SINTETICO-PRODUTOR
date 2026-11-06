@@ -3,7 +3,7 @@
 Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e colher estratégias e dicas, como os outros alunos fazem: destravam e depois agradecem publicamente; tirar o máximo de quem vende, aplicar e agradecer". Detalhe de cada conversa em `FATOS-DO-ALUNO.md` (linha de cada pessoa); decisões em `COMUNIDADE-E-ESTRATEGIA.md`. Atualizar esta tabela a cada resposta.
 
 ## Pendências (06/11/2026)
-- **Jessica Bento:** voltar hoje (06/11), depois das métricas de ~12 h do nora48, com o resultado do teste dos corpos e 1 pergunta (o que ela mudou no CTA).
+- **Jessica Bento:** voltar hoje (06/11) com o resultado do teste dos corpos (o corpo A limpo venceu: 1.404 x 287 views, 9 x 0 follows, mas só 3 visitas ao perfil) e 1 pergunta (o que ela mudou no CTA). Rascunho a fazer junto com o Tracker de hoje.
 - **Ricardo Santana e Marcus:** voltar em 07 ou 08/11 com o resultado do teste dos corpos ou do gancho.
 - **Esperando resposta (não mandar outra):** Felps, Kaike, Lari, Castanho, Marcelo (respondido em 06/11), Letícia (X), Wall Estevam, Bruno Freitas, rodrigo (#vitórias), Lívia (se o aluno mandou a DM).
 - **Fechados (só voltar com resultado):** Gustavo, Garbellotto, Vitor Kretzer, Gabriel, Vinicius Almeida, Allan Mayer.
