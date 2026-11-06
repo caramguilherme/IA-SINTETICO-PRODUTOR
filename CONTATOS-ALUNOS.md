@@ -5,7 +5,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 ## Pendências (06/11/2026)
 - **Jessica Bento:** voltar hoje (06/11), depois das métricas de ~12 h do nora48, com o resultado do teste dos corpos e 1 pergunta (o que ela mudou no CTA).
 - **Ricardo Santana e Marcus:** voltar em 07 ou 08/11 com o resultado do teste dos corpos ou do gancho.
-- **Esperando resposta (não mandar outra):** Felps, Kaike, Lari, Castanho, Marcelo, Letícia (X), Wall Estevam, Bruno Freitas, rodrigo (#vitórias), Lívia (se o aluno mandou a DM).
+- **Esperando resposta (não mandar outra):** Felps, Kaike, Lari, Castanho, Marcelo (respondido em 06/11), Letícia (X), Wall Estevam, Bruno Freitas, rodrigo (#vitórias), Lívia (se o aluno mandou a DM).
 - **Fechados (só voltar com resultado):** Gustavo, Garbellotto, Vitor Kretzer, Gabriel, Vinicius Almeida, Allan Mayer.
 
 ## O método (o caminho de quem destravou)
@@ -28,7 +28,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | Lucas Mascarenhas | 276 vendas em out. | Face = volume; variações; não trocar avatar antes de ~100 vídeos | Face com variações | Voltar só com resultado | Sim |
 | Matheus Baffa | 217 vendas em out. | Signos na tela; localização e hashtag; story | Signos na caixa do topo | Voltar só com resultado | Sim |
 | Adão Gomes | 484 vendas em out. | Views primeiro; hook com diferencial; "alongar a placa com boa copy" | Hooks visuais; placa falada | Voltar só com resultado | Sim |
-| Marcelo [MVM] | Colega no mesmo nível (60+ vídeos, 2k a 3k views, Índia); combinado de 23/10: "o primeiro que destravar avisa o outro" | Constância e teste; idade mínima 25; mais de 1 conta para testar formatos | Idade 25+ já estava ligada | Escreveu em 04/11 12h12 ("conseguiu viralizar algo?"); **o aluno respondeu às 12h15** (maior vídeo 3,7k, texto na tela dá view com público 45+, 2 a 3 cliques por dia, copy de medo x positiva, gancho bizarro, constância); **o Marcelo respondeu às 13h43** (ver FATOS); às 19h46 contou no #chat-appyon que o Insta caiu para menos de 200. **Resposta enviada em 05/11** (pergunta: quantos cliques o vídeo de 40 mil deu no Tracker). Esperar | Se ajudar |
+| Marcelo [MVM] | Colega no mesmo nível (60+ vídeos, 2k a 3k views, Índia); combinado de 23/10: "o primeiro que destravar avisa o outro" | Constância e teste; idade mínima 25; mais de 1 conta para testar formatos | Idade 25+ já estava ligada | Escreveu em 04/11 12h12 ("conseguiu viralizar algo?"); **o aluno respondeu às 12h15** (maior vídeo 3,7k, texto na tela dá view com público 45+, 2 a 3 cliques por dia, copy de medo x positiva, gancho bizarro, constância); **o Marcelo respondeu às 13h43** (ver FATOS); às 19h46 contou no #chat-appyon que o Insta caiu para menos de 200. **Resposta enviada em 05/11** (pergunta: quantos cliques o vídeo de 40 mil deu no Tracker). **Ele respondeu em 05/11 19h43 e 19h44:** "tamo aí na atividade para recuperar a conta"; "muita gente fala que é depois dos 100 vídeos que a conta melhora"; 96 vídeos e 250 seguidores; o Status da conta do Insta "tá tudo normal". Não disse os cliques. **Resposta enviada em 06/11** (o Caio só vendeu depois de ~100 posts; o tsunami dobrou as views da Nora mas ninguém foi ao perfil; pergunta de novo dos cliques do vídeo de 40 mil). Esperar | Se ajudar |
 | Eduarda Fernandes, Thiago, Mary, Mattias, Eduardo Pinaffi | Já responderam antes (ver FATOS) | Hook visual + copy longa; constância; texto na tela em conta separada; portal 11:11; não repetir gancho | Já aplicado | Voltar só com resultado | Quem tiver ajudado |
 | Gabriel (Cabo) | 79 vendas em out. com 1 conta, 3 a 4 vídeos por dia | Conta e avatar boas dão sinal cedo; aquecimento certinho; avatar bem realista; nos 10 vídeos de aquecimento, copy validada sem CTA; sinal = ~1 mil views nesses 10 | Vai para o checklist do 2º perfil (`VALIDACAO-CONTA-E-AVATAR.md`); avatar realista pelo blueprint, sem partir de foto de pessoa real | Fechada por ele em 03/11 18h52: agradecer; voltar com o resultado do 2º perfil | Sim, se ajudar no 2º perfil |
 | Vinicius Almeida | 83 vendas em out., 1º mês que destravou; 100% Facebook | Parar de insistir no formato que não vende; minerar páginas da Appyon no Face (conta de mineração com proxy dos EUA) que estouraram depois de mudar o formato; gancho bizarro (o do tsunami); o gancho é o principal | Gancho bizarro no nora50 (a partir do vídeo de referência); Face trava em ~250 = gancho | Respondeu em 03/11 22h57 (3 por dia por página; continuar no Insta, que já pega view; mudar gancho e formato): agradecer; voltar com o resultado do gancho novo (nora47) | Sim |
@@ -173,4 +173,13 @@ oi livia, vi teu post no chat
 to rodando manifestation desde 27/10 com uma avatar só, no insta e no face
 bora trocar figurinha sim
 o que tá pegando mais pra vc hoje, view ou clique?
+```
+
+## ENVIADO (06/11/2026; DM do Marcelo, resposta às mensagens dele de 05/11 19h43 e 19h44; uma mensagem só)
+```
+fala mano, desculpa a demora kkk
+que bom que o status tá normal
+96 já tá quase lá, o caio falou ontem no chat que só vendeu depois de uns 100 posts, então tamo no caminho
+aqui testei um gancho bizarro (um tsunami kkk) e dobrou as views do vídeo, de 130 pra 290, mas o povo ainda não vai pro perfil, agora to testando o corpo
+e aquele de 40 mil no texto na tela, lembra quantos cliques deu no tracker?
 ```
