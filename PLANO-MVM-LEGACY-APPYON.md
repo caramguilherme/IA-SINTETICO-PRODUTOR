@@ -1546,7 +1546,7 @@ NEVER generate: a different face, hairstyle, outfit or voice, extra people, extr
 
 | Conta | Login | Situação |
 | --- | --- | --- |
-| GeeLark | e-mail pessoal | Plano Base até 06/12/2026 13h48 (renovado em 06/11) + os minutos que sobraram dos 2.000 (saldo a conferir) |
+| GeeLark | e-mail pessoal | Plano Base até 06/12/2026 13h48 (renovado em 06/11) + 766 minutos do pacote de 2.000 (06/11; ~40 por dia) + 60 bônus por mês do plano |
 | Proxy Cheap | e-mail pessoal | 1 proxy (a 2ª, Astound, IP 168.235.144.192, ID 2481527) até 06/12/2026 14h52 (renovada em 06/11 pelo Extend, mesmo IP). A 1ª foi reembolsada |
 | Gmail da Nora | kensleynora@gmail.com | Só no notebook, pra ler código. Não logar no celular virtual (o Google pede verificação pelo chip e nunca passa) |
 | Instagram da Nora | @norakensleytarot | Criado em 06/10 às 15h40 (2ª tentativa, celular e IP novos). Aquecido de 06 a 08/10, configurado em 09/10, vídeos de aquecimento desde 09/10 |
