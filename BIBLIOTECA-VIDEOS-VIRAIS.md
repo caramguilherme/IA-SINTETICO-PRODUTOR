@@ -708,3 +708,9 @@ Coach de manifestação americana; provavelmente o vídeo em inglês que o Gusta
 4. **Comentários ÷ views de 2,5% ou mais** e muitos salvos e envios: engajamento de quem ficou até o fim, não só view.
 5. **Formato que a Nora faz:** avatar falando para a câmera, copy longa, gancho do nicho (cristal, vela, carta, ritual realista), copy de desejo de preferência (Iorhan, Gustavo, Kaike). Texto na tela, gancho bizarro e copy de ameaça entram só como referência de estrutura (tirando o vermelho).
 
+
+### 49.1 scarlletmorgantarot (352 mil seguidores, 352 vídeos; aba Reels lida em 06/11 17h16)
+- **Grade (9 reels, do mais novo ao mais velho):** pote de canela (rua à noite) 6.031 · placa de selenita com Sri Yantra 3.852 · "THE ELEVEN" (apontando para a câmera) 2.169 · lingerie azul + perfume 8.151 · isqueiro, louro e sal 5.467 · carta The World + estátua de São Miguel 4.093 · Roda da Fortuna + carta de São Miguel 3.291 · **calcinha preta com um adesivo/curativo: 43 mil** · cristal de quartzo, de óculos 5.404.
+- **Média sem o fora da curva:** ~4.800 views (1,4% dos seguidores: conta grande com entrega baixa). **43 mil = ~9x a média** (12% dos seguidores): o único fora da curva. O 2º maior (8.151, 1,7x) também é de roupa íntima: o tema pode ser o motor.
+- **Formato de todos:** a avatar (mesmo rosto, faixa no cabelo) segura **um objeto do ritual perto da câmera** no 1º quadro (canela, isqueiro, carta, cristal, roupa íntima). É o gancho realista do nicho (Marcus, Kaike), o oposto do tsunami.
+- **Escolhidos (etapa 2):** o de 43 mil (principal) e o de 8.151 (para ver se o tema da roupa íntima se repete). A pedir: curtidas, comentários, envios, reposts e a data de cada um, mais a data do mais novo (ritmo de postagem). Salvos não aparecem para quem não é dono.
