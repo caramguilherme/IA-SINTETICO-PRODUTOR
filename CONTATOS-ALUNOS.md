@@ -9,7 +9,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 4. **Voltar com resultado** em 2 ou 3 dias: "fiz o que você falou, foi de X pra Y" + 1 pergunta nova. É o que cria o laço.
 4b. **#vitórias é para resultado e parabéns, não para conversa (aluno, 05/11):** lá vai só o parabéns com 1 pergunta curta; se a pessoa responder em público, reagir com emoji à resposta e seguir a conversa pela DM (a resposta pública dela abre a porta, então a DM não conta como chamada a frio).
 5. **Agradecer em público** no #vitórias quando sair a 1ª venda ou uma melhora clara, marcando quem ajudou e dizendo o que ajudou (como o Lucas Mascarenhas, o Kaike e o Adão fizeram em 01/11).
-6. **Devolver:** reagir e comentar as vitórias de quem ajudou; no #chat-appyon, responder iniciantes com o que já aprendemos (ex.: o Face corta as laterais no iPhone, texto entre 8% e 92% da largura; os números de outubro: ~178 cliques por venda).
+6. **Devolver:** reagir e comentar as vitórias de quem ajudou; no #chat-appyon, responder iniciantes com o que já aprendemos. **Toda leitura do Discord termina com a lista "quem responder", com os textos prontos (lembrete do aluno em 06/11, depois de eu esquecer na 8ª leitura): pergunta sem resposta que a Nora já sabe responder, vitória de quem ajudou ou de quem está na fase da Nora, e pedido de conversa de colega; só o que temos certeza (nada inventado), no máximo 3 a 4 por leitura** (ex.: o Face corta as laterais no iPhone, texto entre 8% e 92% da largura; os números de outubro: ~178 cliques por venda).
 
 ## Quadro
 | Pessoa | Por que (resultado) | O que já deu | Aplicado na Nora | Próximo passo | Agradecer em público |
@@ -36,6 +36,10 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | Felps (felps_hori) | Um dos maiores de outubro, com uma conta só (Kassio); dias de ~5 mil cliques | DM do aluno em 03/11 15h08 (o que faz a pessoa sair do reels e ir pro story; "3k, 4k de views e 3 cliques por dia"). **Respondeu em 04/11 13h32: "Como está seus avatares mano?"** O aluno respondeu em 05/11 01h33 (versão dele): "to com uma só por enquanto, no insta e no face, rodando o manifestation desde 27/10 / vc acha que é a avatar que tá travando a ida pro story? / quer ver uma foto dela? ou algum vídeo?" | | Esperar. Se ele pedir: a `nora37-IMG` (quarto à noite) ou a `nora46-IMG` (estúdio) e o `nora47-final.mp4`. Sem resposta, não mandar outra | Se ajudar |
 | Marcus [MVM] | 1ª venda em 05/11 07h50 (#vitórias), depois de 5 avatares flopadas e "bem mais de 72" vídeos na 6ª (fora os flopados) | Respondeu em público (05/11 12h04 e 12h06): a 6ª avatar tem "algum elemento marcante, ou fora da curva, no rosto", sem nada "estilo Mortal Kombat"; o mais realista e natural possível, na voz e na animação | Teste da Nora sem a lua e as estrelinhas pintadas, com um traço real (sardas ou pinta), depois da janela de 40; 2º perfil realista com 1 traço real | No #vitórias, só reação (emoji); DM do aluno em 05/11 12h20 (com um vídeo da Nora). **Ele respondeu às 12h34 a 12h36:** "Mortal Kombat" são os efeitos absurdos (fogo num monte de sal e brota um goblin); o traço é "alguma coisa do corpo que faça parte da personalidade da avatar"; "pra mim deu mais certo fazer coisa realista"; "td é teste"; sobre pinta, sardas, cicatriz: "a ideia é essa mesmo". Resposta do aluno em 05/11 12h47 (o hook dele é realista ou com efeito?). **Ele, às 12h57:** "sempre realista", às vezes "uns trem nada a ver, mas que seja realista, nesse esquema de ritual"; o hook com a avatar fazendo algo (fogo no sal) "não é regra pra viralizar/vender": **o vídeo que vendeu foi sem, com o hook mais no texto**. 3ª mensagem do aluno em 05/11 13h17 (o texto do hook era "pra quem é" ou curiosidade?); ele, às 13h19: "Isso", "tento de tudo" (testa os dois tipos). **Fechamento enviado em 05/11.** Voltar em 2 ou 3 dias com o resultado do teste dos corpos ou do gancho realista | Se ajudar |
 | Ricardo Santana [MVM] (ricard0_santana) | Vende e responde sempre; usa o Muse AI com o prompt do Flow | DM desde 22/10: tirar a marca d'água do vídeo, testar hooks visuais novos e replicar o que tem mais views, uma semana postando todo dia antes de trocar a avatar (o plano de avatar mais velha caiu em 24/10, P40); 05/11 12h12: Muse com o prompt do Flow, conta por um vídeo do YouTube "sem cartão, sem verificação" | Hooks visuais novos a cada vídeo (placa, geodo, tsunami). **Muse: não seguimos o método de conta** (o Flow fica; o gargalo é o perfil, não a ferramenta) | Resposta do aluno em 05/11 12h46 (obrigado + hook pegou e ninguém vai ao perfil: body ou CTA?). **Ele respondeu às 12h51:** ~290 views é pouco para decidir; só com 800 a 1.000 views e ninguém indo ao story nem clicando ele toma uma decisão. **Fechamento enviado em 05/11.** Voltar em 2 ou 3 dias com o resultado do teste dos corpos | Se ajudar |
+| Wall Estevam [MVM] | Ajuda no chat (pré-prompt do lote, agendamento) | Não agenda no Face ("parece que a plataforma cria ferramenta pra flopar conta"); pré-prompt de lote no Omni | | **Resposta pública enviada em 06/11** à pergunta dele de 05/11 23h03 (descartar conta ou só trocar avatar no Insta), com o quadro de validação. Esperar | |
+| Bruno Freitas | Ajuda sempre no chat (CTA, gestos, restrição de DM de 28 dias) | Gestos de acordo com a copy; restrição de DM no Face não sai com a confirmação de identidade | | **Resposta pública enviada em 06/11** à pergunta dele de 05/11 14h59 (lipsync com a ferramenta do Gustavo), com os ajustes que a Nora usa | Se ajudar |
+| rodrigo (1ª venda do Manifestation, #vitórias 05/11) | 1ª venda no Manifestation | | | **Parabéns enviado em 06/11** no #vitórias, com 1 pergunta (Insta ou Face). Se responder, só reagir | |
+| Lívia | Roda Manifestation; pediu no chat (05/11 19h48) que quem roda chamasse na DM | | | **DM opcional sugerida em 06/11** (colega, troca de igual para igual, como o Marcelo). Se mandar, esperar a resposta | |
 | carloscs, Lucas Dusi | Fechamentos de outubro (os grandes) | (não chamar: recebem dezenas de mensagens) | | | |
 
 ## Rascunhos a enviar (04/11/2026; no jeito do aluno; uma mensagem por pessoa, 15 a 20 min entre elas)
@@ -136,4 +140,31 @@ esse texto do hook era mais tipo pra quem é (signo, situação) ou mais curiosi
 ```
 show, vou testar aqui e te conto como foi
 valeu demais pela ajuda mano 🙏
+```
+
+## ENVIADO (06/11/2026; respostas da 8ª leitura do Discord, no jeito do aluno)
+**1. Wall Estevam, no #chat-appyon (responder a mensagem dele de 05/11 23h03):**
+```
+pelo quadro de validação que passaram aqui no chat é assim:
+depois dos 10 primeiros reels, se ficou até 100 views o problema é a conta, aí descarta e abre outra com a mesma avatar
+se passou de 200 a conta tá saudável, aí posta 3 por dia com copy validada até uns 40 vídeos
+se mesmo assim não pegou, troca a avatar e mantém a conta
+```
+**2. Bruno Freitas, no #chat-appyon (responder a mensagem dele de 05/11 14h59; só se a boca do nora48 ficou no tempo depois do corte):**
+```
+aqui uso ela e o sync ficou certo
+deixo a margem de respiro em 90ms (o padrão é 60, comia o fim das palavras) e só corta a partir de 0,40s
+e junto tudo com corte seco
+```
+**3. rodrigo, no #vitórias (responder a mensagem da 1ª venda do Manifestation, a que a Gessica respondeu às 14h48):**
+```
+parabéns rodrigo!! a primeira do manifestation é a mais difícil
+foi no insta ou no face?
+```
+**4. Lívia, DM (opcional; ela pediu no chat às 19h48 que quem roda manifestation chamasse):**
+```
+oi livia, vi teu post no chat
+to rodando manifestation desde 27/10 com uma avatar só, no insta e no face
+bora trocar figurinha sim
+o que tá pegando mais pra vc hoje, view ou clique?
 ```
