@@ -707,7 +707,7 @@ Coach de manifestação americana; provavelmente o vídeo em inglês que o Gusta
 3. **Recente:** dos últimos 7 a 10 dias (o que está pegando agora; o portal 11:11 vence em 11/11).
 4. **Comentários ÷ views de 2,5% ou mais** e muitos salvos e envios: engajamento de quem ficou até o fim, não só view.
 5. **Formato que a Nora faz:** avatar falando para a câmera, copy longa, gancho do nicho (cristal, vela, carta, ritual realista), copy de desejo de preferência (Iorhan, Gustavo, Kaike). Texto na tela, gancho bizarro e copy de ameaça entram só como referência de estrutura (tirando o vermelho).
-6. **Leitura dos 18 juntos (regra fixa, aluno 06/11):** olhar os 18 reels como um todo (média, mediana, os fora da curva, o que se repete no cenário, no objeto, no texto da tela e no tema), lembrando que os mais novos podem ter pouco tempo de vida. Conta que caiu muito no conjunto (como a Scarllet) fica de lado; conta com vários fora da curva recentes (como a claire_mayaus) é fonte.
+6. **Leitura dos 18 juntos (regra fixa, aluno 06/11):** olhar os 18 reels como um todo (média, mediana, os fora da curva, o que se repete no cenário, no objeto, no texto da tela e no tema), lembrando que os mais novos podem ter pouco tempo de vida: **se os mais novos estiverem com view baixa, perguntar ao aluno há quantos dias saiu cada um** antes de concluir. Conta que caiu muito no conjunto (como a Scarllet) fica de lado; conta com vários fora da curva recentes (como a claire_mayaus) é fonte.
 
 
 ### 49.1 scarlletmorgantarot (352 mil seguidores, 352 vídeos; aba Reels lida em 06/11 17h16)
