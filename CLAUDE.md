@@ -69,4 +69,4 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
 - `editar-video-nora`: a edição automática (P45), do download do Drive à entrega do `noraNN-final`, com a prévia (`ferramentas-painel/ferramentas/previa_edicao.py`) antes do render.
 - `metricas-nora`: anotar métricas no CSV e no diário, atualizar o dashboard e ler os números pelas réguas em vigor.
 - `leitura-discord-nora`: registrar uma leitura do Discord (histórico, decisões, doc do MVM, "quem responder").
-- No claude.ai do aluno: `leitura-discord-mvm` v2 (zip em `ferramentas-painel/skills/`), que faz a leitura no navegador e entrega os .md, o zip de imagens e o resumo.
+- No claude.ai do aluno (conta "gui · Pro"): `leitura-discord-mvm` v2 (**instalada em 06/11**, confirmada no print), que faz a leitura no navegador e entrega os .md, o zip de imagens e o resumo; `doc-mvm-legacy` v2 (zip em `ferramentas-painel/skills/`, a instalar no lugar da v1): o doc do MVM é o arquivo do repositório e, no claude.ai, não se edita doc nenhum.
