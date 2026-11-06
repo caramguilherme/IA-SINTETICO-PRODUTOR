@@ -45,6 +45,12 @@ O aluno vai continuar o projeto da Nora em **outra conta do Claude** (a 5ª). Es
 
 Os vídeos e prints que o aluno mandou ficaram só nas sessões antigas; a análise de cada um está nos arquivos acima. Se a sessão nova precisar rever algum (por exemplo o `nora47-montado`, base do nora49), o aluno manda de novo.
 
+## 5b. Feito na 5ª conta (06/11/2026 ~00h)
+- Dashboard Métricas da Nora: https://claude.ai/artifact/GnvCkx6wnMNqcJE6BVGaUP (asset do CSV `/_blob/06441b1da354ba946b84efdd4042f713`, dataset na versão 1, o mesmo CSV de 04/11 12h23)
+- Painéis: **nora48** https://claude.ai/artifact/QQpxR4dxqovuceqfrsHNU5 · **nora49** https://claude.ai/artifact/GFB4scmCX4tDB54bmhYXv3 (os arquivos como estavam)
+- Doc do MVM: o vivo (2KP736NhHJUXjF4s4JkANs) não abre nesta conta; esperando o aluno compartilhar ou pedir a recriação
+- `faster-whisper` 1.2.1 instalado
+
 ## 5. Links da 4ª conta (03 a 05/11; só a 4ª conta edita; não são mais atualizados depois da passagem)
 - Dashboard Métricas da Nora: https://claude.ai/artifact/BzjxbGkWRRKcJdBSnUpzyd (asset do CSV `/_blob/28ad542021e3a0cc7dd9a4743eb5acf5`, dataset na versão 10, leituras até 04/11 12h23)
 - Doc do MVM: o vivo é https://claude.ai/artifact/2KP736NhHJUXjF4s4JkANs (projeto 0aaa260d-18c9-48de-a9f4-eafa2d73e8e0 · tab 5b5b5c61-f3e5 · corpo 0d0724eb-ab64). Parado: https://claude.ai/artifact/Km3GMYScCPw44sR57wyiLm
