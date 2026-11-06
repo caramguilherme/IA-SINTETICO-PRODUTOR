@@ -3,7 +3,7 @@
 Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e colher estratégias e dicas, como os outros alunos fazem: destravam e depois agradecem publicamente; tirar o máximo de quem vende, aplicar e agradecer". Detalhe de cada conversa em `FATOS-DO-ALUNO.md` (linha de cada pessoa); decisões em `COMUNIDADE-E-ESTRATEGIA.md`. Atualizar esta tabela a cada resposta.
 
 ## Pendências (06/11/2026)
-- **Jessica Bento:** voltar hoje (06/11) com o resultado do teste dos corpos (o corpo A limpo venceu: 1.404 x 287 views, 9 x 0 follows, mas só 3 visitas ao perfil) e 1 pergunta (o que ela mudou no CTA). Rascunho a fazer junto com o Tracker de hoje.
+- **Jessica Bento:** resposta com o resultado do teste dos corpos e a pergunta do CTA **enviada em 06/11** (texto no fim deste arquivo). Esperar.
 - **Ricardo Santana e Marcus:** voltar em 07 ou 08/11 com o resultado do teste dos corpos ou do gancho.
 - **Esperando resposta (não mandar outra):** Felps, Kaike, Lari, Castanho, Marcelo (respondido em 06/11), Letícia (X), Wall Estevam, Bruno Freitas, rodrigo (#vitórias), Lívia (se o aluno mandou a DM).
 - **Fechados (só voltar com resultado):** Gustavo, Garbellotto, Vitor Kretzer, Gabriel, Vinicius Almeida, Allan Mayer.
@@ -20,7 +20,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 ## Quadro
 | Pessoa | Por que (resultado) | O que já deu | Aplicado na Nora | Próximo passo | Agradecer em público |
 |---|---|---|---|---|---|
-| Jessica Bento | Top 1; R$ 73 mil em out., R$ 33,8 mil de recorrência | Volume no começo = mais contas; ângulo positivo (Iorhan); CTA batido derrubou a ida ao story; qualificar mais; público cansado das mesmas frases; texto na tela converte menos que avatar; Auto Editor ou automação de edição | CTA novo e qualificado no nora50; 2º perfil com avatar; edição automática em teste | Em 2 a 3 dias: resultado + "o que mudou no teu CTA?" (**decidido em 05/11: voltar em 06/11, com o resultado do teste dos corpos, nora48 x nora49**) | Sim, quando o CTA novo der resultado |
+| Jessica Bento | Top 1; R$ 73 mil em out., R$ 33,8 mil de recorrência | Volume no começo = mais contas; ângulo positivo (Iorhan); CTA batido derrubou a ida ao story; qualificar mais; público cansado das mesmas frases; texto na tela converte menos que avatar; Auto Editor ou automação de edição | CTA novo e qualificado no nora50; 2º perfil com avatar; edição automática em teste | **Voltou em 06/11** com o resultado do teste dos corpos e a pergunta do CTA (exemplo de frase). Esperar | Sim, quando o CTA novo der resultado |
 | Gustavo Alves | Gerente da Appyon, faz as calls | Sem cartas antes do quiz; ida ao story ruim = body e CTA; não olha perfis | Painéis 47 a 49 sem cartas; story-0311; nora50 com foco no corpo e no CTA | Daqui a dias, só com resultado ("mexi no body e no CTA, foi de 3 pra X") | Sim |
 | Guilherme Garbellotto | 334 vendas em out. | Punição por "engajamento fake", recurso perdido; Insta e Face estavam vinculados e caíram juntos; pedia comentário; foi direto para ativos novos; tempo para um ativo novo pegar "não tem regra" | Respostas e directs variados; 222 fora da legenda, do comentário e da fala do nora50 (pedido de comentário só como pergunta de verdade); Insta e Face da Nora já separados (confirmado 03/11); perfis novos nunca vinculados | Fechada em 03/11 19h36 ("não tem regra, cada ativo é único"): agradecer; voltar só com resultado | Se ajudar |
 | briza | 18 vendas, 10 perfis, 1 pegou | 6 a 8 por dia no perfil que pegou; abraçar o cenário validado; 5 vídeos em 5 cenários; HeyGen; edição = modelo fixo no CapCut (mesmas posições, edita por cima) | Cenário validado (quarto à noite) no nora50; variar cenário; modelo fixo de edição no CapCut | Rascunho entregue (agradecer + qual o estilo do CTA para o story hoje) | Sim |
@@ -210,4 +210,13 @@ ainda não vi aviso de que voltou
 parabéns caio!! 8 em 2 dias é absurdo
 tuas dicas de ontem no chat ajudaram demais aqui
 esses 8 foram mais pelo face ou pelo insta?
+```
+
+## ENVIADO (06/11/2026; DM da Jessica Bento, voltando com o resultado, como combinado em 03/11; uma mensagem só)
+```
+fala jessica, voltando como combinei
+testei 2 corpos com o mesmo gancho: o copiado de um viral, só tirando a parte de ameaça, fez 1.400 views em 10h e 9 seguidores; o que escrevi do zero no formato da aula parou em 570 e 0
+mas só 1 de cada 100 que assistem chega no story, e lá dentro converte bem (3 de 18 clicaram)
+então tô indo mexer no cta agora, como vc falou
+quando vc trocou o cta batidão, que frase colocou no lugar? se puder me dar um exemplo
 ```
