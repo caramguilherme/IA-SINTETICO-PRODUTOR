@@ -1,6 +1,6 @@
 # Plano MVM Legacy – Appyon
 
-> Cópia exportada em 05/11/2026 ~14h (revisão 138) do doc vivo https://claude.ai/artifact/2KP736NhHJUXjF4s4JkANs, mantido também pela conversa do aluno no claude.ai. Em caso de diferença, vale o doc vivo. O Km3GMYScCPw44sR57wyiLm (sessão do Code de 03/11) não é mais editado.
+> Cópia exportada em 05/11/2026 ~14h (revisão 138) do doc vivo https://claude.ai/artifact/2KP736NhHJUXjF4s4JkANs, mantido também pela conversa do aluno no claude.ai. Em caso de diferença, vale o doc vivo. **06/11/2026 ~01h40: o aluno mandou uma exportação nova do doc vivo; o conteúdo é idêntico a esta cópia (só o autor da linha de data mudou para "@gui"), então o doc vivo não mudou desde a revisão 138 e a 8ª leitura do Discord (06/11) ainda não está nele.** O Km3GMYScCPw44sR57wyiLm (sessão do Code de 03/11) não é mais editado.
 
 Oct 19, 2026 · @Guilherme
 
