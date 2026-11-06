@@ -187,6 +187,12 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 
 - **06/11/2026 11h57, TRACKER DA APPYON (prints do aluno):** **06/11 até 11h57: 2 cliques, 2 no quiz, 2 começaram, 2 terminaram (chegaram à VSL), 0 checkout, 0 venda, todos do Insta** (o story do Insta marcou 3 toques no link). **05/11: 0** ("nenhum dado"): o link ficou fora do ar de 04/11 ~22h45 até o repost de 05/11 às 18h23 e não saiu vídeo nesse dia. **04/11: 0.** **Manifestation de 27/10 a 06/11: 19 cliques reais (todos do Insta), 11 no fim do quiz, 0 checkout.** Os 2 de hoje terminaram o quiz (100%); a média da comunidade é ~178 cliques por venda, então o que falta é volume de cliques, e o gargalo está antes do story (1 em cada ~100 que assistem chega lá).
 
+### 06/11/2026 19h31 - nora49 postado (Insta e Face)
+- **O que é:** gancho do tsunami espelhado + Take 1 novo (Áries, Leão, Sagitário) + corpo A limpo (o mesmo do nora48). Editado aqui (P45), 67,8 s. Postado ao vivo às 19h31 (= 14h31 na Califórnia; o nora48 foi às 01h10 = 20h10 na Califórnia).
+- **Para que serve:** 2º dado da fórmula tsunami + corpo A limpo. Comparar com o nora48 no mesmo tempo de vida (~10 h e ~24 h): views, % nos 3 s, follows, visitas ao perfil, comentários de outras pessoas. A diferença de horário pesa: dizer isso na leitura.
+- **Story:** story-0611 no ar desde 18h43 (Insta e Face), com texto e adesivo novos ("You're not here by accident. ✨ / Your private reading is waiting below." + "Your reading 🗝️"): medir toques ÷ viewers contra o story-0311 (3 em 18).
+- **A pedir:** Insta e Face com ~10 h (~05h30 de 07/11; na prática, de manhã) e ~24 h (~19h30 de 07/11); story e Tracker de 06 e 07/11.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
