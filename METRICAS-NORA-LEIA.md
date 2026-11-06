@@ -1,6 +1,6 @@
 # Painel de métricas da Nora
 
-O aluno acompanha as métricas neste painel (link privado): https://claude.ai/artifact/GnvCkx6wnMNqcJE6BVGaUP (recriado na 5ª conta em 06/11/2026 ~00h, igual ao de antes; asset do CSV mais recente `/_blob/8bb2e449d9a7f0d1a7706340e482fe1b` (06/11 11h45, Insta e Face do nora48, dataset na versão 3 desta conta); os anteriores, BzjxbGkWRRKcJdBSnUpzyd da 4ª conta (asset `/_blob/28ad542021e3a0cc7dd9a4743eb5acf5`, versão 10), 7ZArpHDLZZcuA8DPEMAZGR de 30/10, CTdhXsH5PoQFRCnzpbM4wy da contatocaram, LXyXLjNohRDcTcnYwtAZKi de 23/10 e Kd9FLg2PEqCJ7TeTij3mvZ, eram de contas antigas e não são mais atualizados)
+O aluno acompanha as métricas neste painel (link privado): https://claude.ai/artifact/GnvCkx6wnMNqcJE6BVGaUP (recriado na 5ª conta em 06/11/2026 ~00h, igual ao de antes; asset do CSV mais recente `/_blob/3b197fbdd5e7d0d6cd69503fffbc1ec7` (06/11 11h50, Insta e Face do nora48 e Insta do nora47, dataset na versão 4 desta conta); os anteriores, BzjxbGkWRRKcJdBSnUpzyd da 4ª conta (asset `/_blob/28ad542021e3a0cc7dd9a4743eb5acf5`, versão 10), 7ZArpHDLZZcuA8DPEMAZGR de 30/10, CTdhXsH5PoQFRCnzpbM4wy da contatocaram, LXyXLjNohRDcTcnYwtAZKi de 23/10 e Kd9FLg2PEqCJ7TeTij3mvZ, eram de contas antigas e não são mais atualizados)
 
 - Os dados vêm de `METRICAS-NORA.csv` (anexado ao painel). Quando o aluno mandar números novos, o agente atualiza o CSV do projeto e **sobe o arquivo novo no painel** (nova versão do dataset `metricas`), com o horário da leitura.
 - Cada leitura registra o horário (os vídeos recentes só entregam depois de 2 a 3 dias).
