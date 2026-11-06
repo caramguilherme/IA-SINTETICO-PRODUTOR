@@ -707,7 +707,7 @@ Coach de manifestação americana; provavelmente o vídeo em inglês que o Gusta
 3. **Recente:** dos últimos 7 a 10 dias (o que está pegando agora; o portal 11:11 vence em 11/11).
 4. **Comentários ÷ views de 2,5% ou mais** e muitos salvos e envios: engajamento de quem ficou até o fim, não só view.
 5. **Formato que a Nora faz:** avatar falando para a câmera, copy longa, gancho do nicho (cristal, vela, carta, ritual realista), copy de desejo de preferência (Iorhan, Gustavo, Kaike). Texto na tela, gancho bizarro e copy de ameaça entram só como referência de estrutura (tirando o vermelho).
-6. **Conta em subida:** os reels mais novos com mais view que os mais velhos. Conta em queda (como a Scarllet em 06/11) só mostra o que já cansou.
+6. **Conta em subida:** os reels mais novos com mais view que os mais velhos. Conta em queda (como a Scarllet em 06/11) só mostra o que já cansou. **Cuidado (aluno, 06/11):** os 3 ou 4 mais novos podem ser de hoje ou de ontem e ainda estão juntando view: comparar do 5º em diante e, na dúvida, pedir há quantos dias saiu 1 reel do meio (dá o ritmo de posts por dia). Reel com 3 dias ou mais já fez quase toda a view.
 
 
 ### 49.1 scarlletmorgantarot (352 mil seguidores, 352 vídeos; aba Reels lida em 06/11 17h16)
