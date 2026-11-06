@@ -699,7 +699,7 @@ Coach de manifestação americana; provavelmente o vídeo em inglês que o Gusta
 ## 49. Mineração de virais nas contas grandes de IA do nicho (método combinado com o aluno em 06/11/2026; base do nora50)
 **Contas que o aluno segue para minerar (prints de 06/11):** miriamlewistarot · imblairsin · eduardameirelless · agnestarot_ · scarlletmorgantarot (a Scarllet do corpo A) · eleanorsoracle · haileymorga_nn · mysticmillenniumtarot · claire_mayaus · iamlinda.bennett · philjones.p92 · jasonmonroe222 · takedanaomi_ · heathermystic · mhastro_ · celesteblairmystic · cardssvivian · auraavamystic · ameliasage64 · avaokafor · ravenmoon1950.
 
-**Como escolhemos (etapas):** (1) o aluno manda o print da grade de reels com as views + o @ e o número de seguidores da conta; (2) eu escolho os vídeos que valem olhar; (3) ele manda curtidas, comentários, salvos, envios e a data de cada escolhido; (4) eu aprovo; (5) ele manda o vídeo (arquivo ou Drive) e eu transcrevo e separo gancho, corpo, CTA, caixa do topo e edição.
+**Como escolhemos (etapas):** (1) o aluno manda o print da grade de reels com as views + o @ e o número de seguidores da conta; (2) eu escolho os vídeos que valem olhar; (3) ele manda curtidas, comentários, salvos, envios e a data de cada escolhido; (4) eu aprovo; (5) ele manda o vídeo (arquivo ou Drive; desde 06/11 o Insta não entrega reel sem login para este servidor, então o jeito é o SnapInsta no PC, colando o link, ou a gravação de tela com som; o aluno minera numa conta aleatória logada só no celular, sem senha: sem cookies) e eu transcrevo e separo gancho, corpo, CTA, caixa do topo e edição.
 
 **Critérios de escolha (meus):**
 1. **Fora da curva da própria conta:** views bem acima da média dos outros reels da grade (2x a 3x ou mais). Um vídeo de 50 mil numa conta que faz 5 mil vale mais que um de 200 mil numa conta que faz 200 mil.
@@ -724,8 +724,8 @@ Coach de manifestação americana; provavelmente o vídeo em inglês que o Gusta
 
 | Vídeo | Views | Curtidas | Comentários | Envios | Salvos | Reposts | Data |
 |---|---|---|---|---|---|---|---|
-| São Miguel + ametista + vela (blusa marrom) | 1,4 mi | 98,3 mil (7,0%) | **36,6 mil (2,6%)** | 43,4 mil (3,1%) | 48 mil (3,4%) | 2.673 | ~04 ou 05/11 (a confirmar) |
-| The World + estátua + vela, "on Sunday November 1st" | 956 mil | 41,8 mil (4,4%) | 10,6 mil (1,1%) | 18,5 mil (1,9%) | 24,1 mil (2,5%) | 905 | ~31/10 ou 01/11 |
+| São Miguel + ametista + vela (blusa marrom) | 1,4 mi | 98,3 mil (7,0%) | **36,6 mil (2,6%)** | 43,4 mil (3,1%) | 48 mil (3,4%) | 2.673 | **04/11** ("2 dias", aluno) |
+| The World + estátua + vela, "on Sunday November 1st" | 956 mil | 41,8 mil (4,4%) | 10,6 mil (1,1%) | 18,5 mil (1,9%) | 24,1 mil (2,5%) | 905 | **31/10** ("6 dias", aluno) |
 | Gaveta escondida no rodapé do closet com notas | 257 mil | 13,7 mil (5,3%) | 5.449 (2,1%) | 3.567 (1,4%) | 5.586 (2,2%) | 547 | a confirmar |
 | São Miguel + ametista + vela (blusa vinho) | 152 mil | 7.427 (4,9%) | 2.824 (1,9%) | 3.841 (2,5%) | 3.846 (2,5%) | 212 | ~05 ou 06/11 |
 
