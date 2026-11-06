@@ -48,7 +48,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | Caio1094 | Vende no Face e no Insta: 6 vendas em out. (1º mês) e 8 em 2 dias de nov. (06/11) | DM automática no Face (só "responder na DM", 3 automações, mensagem curta, sem promessa), 2 repetidos por dia dos que foram bem, 4 por dia rende melhor que 5 numa conta fraca, mesmo hook com outra copy foi de 800 para 50 mil | Uma variável por vez e variações sem crédito no Face (já em vigor) | **Parabéns enviado no #vitórias em 06/11** (9ª leitura), com 1 pergunta (face ou insta). Se responder, só reagir | Se ajudar |
 | Eduarda Kelly | Pergunta no chat (06/11 09h01) | | | **Resposta pública enviada em 06/11** (9ª leitura). Esperar | |
 | Gustavo M. | Pergunta no chat (06/11 11h08): funil em espanhol | | | **Resposta pública enviada em 06/11** (9ª leitura) | |
-| Lívia | Roda Manifestation; pediu no chat (05/11 19h48) que quem roda chamasse na DM | | | DM do aluno em 06/11 03h14; **ela respondeu às 07h57:** está difícil "um pouco dos dois" (view e clique); teve algumas vendas no mês passado; estranhou o "vídeo enorme" depois do quiz, antes do checkout. **Resposta enviada em 06/11** (a VSL longa é de propósito; números da Nora; pergunta: as vendas foram no Manifestation, Insta ou Face). Esperar | Se ajudar |
+| Lívia | Roda Manifestation; pediu no chat (05/11 19h48) que quem roda chamasse na DM | | | DM do aluno em 06/11 03h14; **ela respondeu às 07h57:** está difícil "um pouco dos dois" (view e clique); teve algumas vendas no mês passado; estranhou o "vídeo enorme" depois do quiz, antes do checkout. Resposta enviada em 06/11 12h04. **Ela, às 12h20:** vendeu no Manifestation pelo Face; tirou a ameaça das copies e as views caíram muito. **2ª resposta enviada em 06/11** (manter o viral quase igual e cortar só o vermelho; pergunta: de onde vem o clique no Face). Esperar | Se ajudar |
 | carloscs, Lucas Dusi | Fechamentos de outubro (os grandes) | (não chamar: recebem dezenas de mensagens) | | | |
 
 ## (Histórico) Rascunhos de 04/11/2026 (todos enviados ou descartados; ver as marcas em cada um)
@@ -237,4 +237,12 @@ o pré-hook bizarro (um tsunami) dobrou as views e trouxe seguidor, mas só 1 em
 quando eu usava pré-hook do nicho (cristal rachando), bem mais gente ia pro perfil pra cada mil views
 vou voltar pro do nicho agora
 os teus eram com a avatar fazendo alguma coisa (ritual, cristal, vela) ou só o objeto?
+```
+
+## ENVIADO (06/11/2026; 2ª DM da Lívia, resposta às mensagens dela das 12h20; uma mensagem só)
+```
+boa, então vc vende pelo face
+aqui o que manteve a view foi deixar o viral quase igual (gancho, ritmo, ordem das frases, o pedido do 222) e só cortar os trechos de ameaça
+quando escrevi uma copy positiva do zero, a view caiu igualzinho a tua
+no face teu clique vem mais da dm automática, do link no comentário ou do story?
 ```
