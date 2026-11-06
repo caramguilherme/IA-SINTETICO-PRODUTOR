@@ -38,7 +38,7 @@ Pra quem tá começando o Gustavo indica o **Soulmate**. Decidido em 01/10: a pr
 - [ ] Comprar o Flow por 1 dólar no bot do Telegram, pagando com Stars pelo celular
 - [ ] Abrir o link do story pelo celular e ver se aparece o aviso de "link não confiável" (Postagem › Cadastro na Appyon e links). Se aparecer, testar o Short.io grátis: criar o link curto do STORYIG, abrir uma vez em aba anônima e ver se o clique cai no Tracker (o dudupm disse em 12/10 que com o Short.io o Tracker não contou nada)
 - [ ] Reels de referência: anotar as views do R01 ao R14 e analisar do R15 ao R26
-- [ ] Renovar antes de vencer: GeeLark (05/11) e proxy (06/11, 14h52), as duas sem renovação automática
+- [ ] Renovar antes de vencer, no dia 05/12: GeeLark (06/12, 13h48) e proxy (06/12, 14h52), as duas sem renovação automática. Renovadas em 06/11 (o GeeLark tinha vencido em 05/11; vencido, ele apaga os dados 7 dias depois)
 - [ ] Mandar as perguntas abertas no Discord (seção Perguntas)
 - [ ] Ver se a Vibe Contabilidade respondeu
 
@@ -1546,7 +1546,7 @@ NEVER generate: a different face, hairstyle, outfit or voice, extra people, extr
 
 | Conta | Login | Situação |
 | --- | --- | --- |
-| GeeLark | e-mail pessoal | Plano Base até 05/11/2026 + 2.000 minutos |
+| GeeLark | e-mail pessoal | Plano Base até 06/12/2026 13h48 (renovado em 06/11) + os minutos que sobraram dos 2.000 (saldo a conferir) |
 | Proxy Cheap | e-mail pessoal | 1 proxy (a 2ª, Astound, IP 168.235.144.192, ID 2481527) até 06/12/2026 14h52 (renovada em 06/11 pelo Extend, mesmo IP). A 1ª foi reembolsada |
 | Gmail da Nora | kensleynora@gmail.com | Só no notebook, pra ler código. Não logar no celular virtual (o Google pede verificação pelo chip e nunca passa) |
 | Instagram da Nora | @norakensleytarot | Criado em 06/10 às 15h40 (2ª tentativa, celular e IP novos). Aquecido de 06 a 08/10, configurado em 09/10, vídeos de aquecimento desde 09/10 |
@@ -2501,7 +2501,7 @@ Custo fixo hoje (atualizado em 09/10): uns R$ 465 por mês com a parcela do curs
 | --- | --- | --- |
 | Google AI Pro (Flow) | Imagens, pré-ganchos e a avatar falando. 1.000 créditos por mês: uns 90 a 130 no 1º vídeo de cada copy (A 91, B 127 com as refações) e uns 12 em cada vídeo que só troca o gancho | R$ 23,99 por mês até 09/01/2027, depois R$ 96,99 (assinado em 09/10 na conta pessoal, Pix recorrente pelo Mercado Pago saindo do Nubank; o Google avisa 7 dias antes; revisar até 02/01/2027) |
 | Proxy Cheap | Proxy ISP dedicada dos EUA (uma por conta) | US$ 3,59 por mês (pago R$ 21,05 em 06/10; renovada em 06/11: o Extend só aceita saldo, então primeiro Top Up e depois Extend de 1 mês; sobrou US$ 1,41 de saldo) |
-| GeeLark | Celular virtual (até 5 no plano base) | US$ 5 por mês (R$ 29,35 com o cupom MVM) + US$ 14 por 2.000 minutos (R$ 78,91, sem renovação) |
+| GeeLark | Celular virtual (até 5 no plano base) | US$ 5 por mês (R$ 29,35 com o cupom MVM em 06/10; em 06/11, sem cupom, US$ 6,25 no Pix, ~R$ 34,30, com a taxa do Pix de 5% + US$ 1) + US$ 14 por 2.000 minutos (R$ 78,91, sem renovação) |
 | MEI | Imposto fixo do CNPJ | uns R$ 80 por mês |
 | HeyGen Creator | Avatar falando com fala contínua | US$ 29 por mês. Não usamos: reprovado em 09/10, a fala da Nora sai no Flow |
 | ElevenLabs | Voz separada | Free (10 mil créditos por mês), conta criada em 09/10. Não usado na Nora |
@@ -2521,7 +2521,7 @@ Custo fixo hoje (atualizado em 09/10): uns R$ 465 por mês com a parcela do curs
 
 No Manifestation o valor por venda quase dobra (R$ 36 → R$ 69). Mas o Soulmate, por ser mais barato, vende mais fácil: tem gente fazendo R$ 1 a 2 mil por dia nele (chat de 30/09).
 
-**Cupons:** GeeLark “MVM” (15%, só em plano), VMOS “kobata”. Nano Banana e Veo 3.1 de graça pelo Google AI Studio. CapCut grátis dá conta. O Pro oficial sai R$ 66 por mês. Conta nova tem 90% de desconto na primeira assinatura: pelo celular, com um e-mail que nunca assinou, uns R$ 6,90 no primeiro mês; cancelar logo pra não renovar cheio (Stefany, fórum).
+**Cupons:** GeeLark “MVM” (15%, só em plano; **não funcionou na renovação de 06/11**, nem o DIEGINFO), VMOS “kobata”. Nano Banana e Veo 3.1 de graça pelo Google AI Studio. CapCut grátis dá conta. O Pro oficial sai R$ 66 por mês. Conta nova tem 90% de desconto na primeira assinatura: pelo celular, com um e-mail que nunca assinou, uns R$ 6,90 no primeiro mês; cancelar logo pra não renovar cheio (Stefany, fórum).
 
 **Planos do Google Flow (vistos em 09/10):** AI Plus R$ 6,50/mês nos 3 primeiros meses (depois R$ 24,99), 200 créditos/mês. AI Pro R$ 23,99/mês nos 3 primeiros meses (depois R$ 96,99), 1.000 créditos/mês. AI Ultra R$ 779,90/mês, 10.000 créditos e o Lower Priority. Pra nós (imagens, pré-ganchos e, desde 09/10, a fala da Nora), o Pro cobre o aquecimento com folga. Atenção pra fase de venda: com uns 40 créditos por vídeo em média (1º vídeo da copy \~90 a 130, os outros \~12), 1.000 créditos dão uns 25 vídeos por mês, e a venda pede 2 a 4 por dia. Saídas: reaproveitar corpos validados (só gancho novo) ou subir de plano. Rever quando a venda começar. Assinar na conta Google em que se usa o Flow, no mensal, e rever antes do 4º mês, quando o preço sobe
 
