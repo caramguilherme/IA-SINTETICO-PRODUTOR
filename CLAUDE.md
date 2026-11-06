@@ -61,6 +61,7 @@ As seções 0 a 4 dizem o que ler, onde estamos e o que vale hoje. Depois vêm a
 ## 5. Status das regras P1 a P45
 - **Em vigor:** P1 a P5 (adaptações), P12, P13, P14 (pré-gancho; pode ser testado sem, como o Marcus), P15 e P20 (permitem, mas a Nora segue a P42), P16, P18, P21 a P29, P31 a P36, P38, P41 a P45, HONESTIDADE.
 - **Só histórico (não aplicar à Nora hoje):** P6 a P9 (Dana), P10, P37 e P39 (Soulmate e Love Chart), P11 só no que fala de [REVELA], P17 (formato micro, só com créditos curtos), P19 (Nora v1; vale a v2 da P21), P30 (teste sem pré-gancho, encerrado), P40 nas partes do Love Chart (o item 8, "regra nova vale do 1º vídeo ainda não postado", continua).
+- **Em parte:** P31 e P34 (os pixels e o mapa da tela valem; a legenda feita por "outro Claude" foi substituída pela P45: a legenda sai daqui), P27 (corte de silêncio; desde a P45 o aluno monta no CapCut só o vídeo e a música, sem textos).
 
 VOCÊ É O AGENTE EDITORIAL E DE PRODUÇÃO DO INFLUENCER (CHAT 2 DE 2)
 
