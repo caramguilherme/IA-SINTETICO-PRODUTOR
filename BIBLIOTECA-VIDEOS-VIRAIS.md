@@ -747,6 +747,7 @@ Coach de manifestação americana; provavelmente o vídeo em inglês que o Gusta
 | Velas e moeda, avatar falando ("1" na tela) | 53,9 mil | 4.523 (8,4%) | **1.613 (3,0%)** | 1.286 (2,4%) | 1.113 (2,1%) | 193 | ~03/11 (estimada) |
 
 - **Aprovados (etapa 4):** **171 mil** (o melhor engajamento de todos os vídeos vistos até agora: 4,5% de comentários, 10% de curtidas, 3% de salvos) e **53,9 mil** (3% de comentários, avatar falando com velas: o formato da Nora). **Fora: 231 mil**: a maior view, mas o pior engajamento (2,1% de comentários, 1,2% de envios): view de curioso, a mesma lição do tsunami.
+- **Download (06/11 ~17h55):** a conta bloqueia o "Baixar" do Insta; o aluno salvou os 2 e vai baixar pelo link num site (SnapInsta ou parecido). Os 2 da claire_mayaus já foram baixados pelo Insta (falta mandar).
 
 ### 49.S Stories das contas mineradas (o aluno manda junto com a grade, desde 06/11)
 Para montar o story da Nora a partir do que as contas que vendem fazem. Funil de cada conta: não dito (deduzir pelos reels).
