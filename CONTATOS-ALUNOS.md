@@ -197,7 +197,7 @@ com 4 min ainda não testei
 ```
 eu manteria a copy e mudaria só o começo
 só 59 de 217 passaram dos 3s, mas depois disso tua curva fica acima da média dos teus reels, então a copy tá segurando
-numa aula o gustavo falou que no face, travou entre 200 e 500 views, é gancho
+na call de análise de funil (07/09) falaram que no face, travou entre 200 e 500 views, é gancho
 troca o gancho/cena de abertura e mantém o resto, aí vc sabe o que fez diferença
 ```
 **3. Gustavo M., no #chat-appyon (responder a pergunta dele das 11h08):**
