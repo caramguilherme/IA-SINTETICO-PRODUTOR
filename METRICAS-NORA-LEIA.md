@@ -183,6 +183,8 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 
 - **06/11/2026 ~12h30, GRADE DO INSTA (views do nora48 para trás):** quase tudo parado desde 04/11 (nora45 3.715, nora41 3.589, nora36 3.320, nora38 2.895, nora35 2.815, nora40 1.416, nora43 983, nora37 693, face01 546, nora44 478, nora42 419, nora33 206, face02 152, nora39 137, nora46 135, nora34 135). O nora48 (1.403 na grade) já é o 5º mais visto da conta e o maior entre os falados longos, em menos de 12 h. Não preciso dos detalhes dos antigos: os Insights de cada um já estão no CSV; o que falta agora é o Tracker de 06/11 e os números do story (viewers e toques no link).
 
+- **06/11/2026 11h56, STORY DO INSTA (story-0311 repostado em 05/11 ~18h23):** 24 views, 18 viewers (58,3% seguidores, 41,7% não seguidores), **3 toques no link (3 de 18 = 17%)**, 0 interação, 0 atividade no perfil; navegação: 11 saíram, 6 avançaram, 1 foi para o próximo story. **Leitura:** o story converte razoável (1 em cada 6 que abre toca no link; 27/10 foi 26%, 29/10 8,7%), mas **quase ninguém chega nele**: o nora48 fez 1.404 views e 3 visitas ao perfil, e o story teve ~8 pessoas de fora. **O gargalo agora é o vídeo levar ao story: o CTA.** Próximo teste (uma variável): o mesmo corpo A limpo com outro CTA, quando houver 2 ou 3 posts com a fórmula de hoje para comparar. Conferir os 3 toques no Tracker de 06/11.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
