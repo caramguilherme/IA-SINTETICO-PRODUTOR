@@ -42,9 +42,12 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | Felps (felps_hori) | Um dos maiores de outubro, com uma conta só (Kassio); dias de ~5 mil cliques | DM do aluno em 03/11 15h08 (o que faz a pessoa sair do reels e ir pro story; "3k, 4k de views e 3 cliques por dia"). **Respondeu em 04/11 13h32: "Como está seus avatares mano?"** O aluno respondeu em 05/11 01h33 (versão dele): "to com uma só por enquanto, no insta e no face, rodando o manifestation desde 27/10 / vc acha que é a avatar que tá travando a ida pro story? / quer ver uma foto dela? ou algum vídeo?" | | Esperar. Se ele pedir: a `nora37-IMG` (quarto à noite) ou a `nora46-IMG` (estúdio) e o `nora47-final.mp4`. Sem resposta, não mandar outra | Se ajudar |
 | Marcus [MVM] | 1ª venda em 05/11 07h50 (#vitórias), depois de 5 avatares flopadas e "bem mais de 72" vídeos na 6ª (fora os flopados) | Respondeu em público (05/11 12h04 e 12h06): a 6ª avatar tem "algum elemento marcante, ou fora da curva, no rosto", sem nada "estilo Mortal Kombat"; o mais realista e natural possível, na voz e na animação | Teste da Nora sem a lua e as estrelinhas pintadas, com um traço real (sardas ou pinta), depois da janela de 40; 2º perfil realista com 1 traço real | No #vitórias, só reação (emoji); DM do aluno em 05/11 12h20 (com um vídeo da Nora). **Ele respondeu às 12h34 a 12h36:** "Mortal Kombat" são os efeitos absurdos (fogo num monte de sal e brota um goblin); o traço é "alguma coisa do corpo que faça parte da personalidade da avatar"; "pra mim deu mais certo fazer coisa realista"; "td é teste"; sobre pinta, sardas, cicatriz: "a ideia é essa mesmo". Resposta do aluno em 05/11 12h47 (o hook dele é realista ou com efeito?). **Ele, às 12h57:** "sempre realista", às vezes "uns trem nada a ver, mas que seja realista, nesse esquema de ritual"; o hook com a avatar fazendo algo (fogo no sal) "não é regra pra viralizar/vender": **o vídeo que vendeu foi sem, com o hook mais no texto**. 3ª mensagem do aluno em 05/11 13h17 (o texto do hook era "pra quem é" ou curiosidade?); ele, às 13h19: "Isso", "tento de tudo" (testa os dois tipos). **Fechamento enviado em 05/11.** Voltar em 2 ou 3 dias com o resultado do teste dos corpos ou do gancho realista | Se ajudar |
 | Ricardo Santana [MVM] (ricard0_santana) | Vende e responde sempre; usa o Muse AI com o prompt do Flow | DM desde 22/10: tirar a marca d'água do vídeo, testar hooks visuais novos e replicar o que tem mais views, uma semana postando todo dia antes de trocar a avatar (o plano de avatar mais velha caiu em 24/10, P40); 05/11 12h12: Muse com o prompt do Flow, conta por um vídeo do YouTube "sem cartão, sem verificação" | Hooks visuais novos a cada vídeo (placa, geodo, tsunami). **Muse: não seguimos o método de conta** (o Flow fica; o gargalo é o perfil, não a ferramenta) | Resposta do aluno em 05/11 12h46 (obrigado + hook pegou e ninguém vai ao perfil: body ou CTA?). **Ele respondeu às 12h51:** ~290 views é pouco para decidir; só com 800 a 1.000 views e ninguém indo ao story nem clicando ele toma uma decisão. **Fechamento enviado em 05/11.** Voltar em 2 ou 3 dias com o resultado do teste dos corpos | Se ajudar |
-| Wall Estevam [MVM] | Ajuda no chat (pré-prompt do lote, agendamento) | Não agenda no Face ("parece que a plataforma cria ferramenta pra flopar conta"); pré-prompt de lote no Omni | | **Resposta pública enviada em 06/11** à pergunta dele de 05/11 23h03 (descartar conta ou só trocar avatar no Insta), com o quadro de validação. Esperar | |
-| Bruno Freitas | Ajuda sempre no chat (CTA, gestos, restrição de DM de 28 dias) | Gestos de acordo com a copy; restrição de DM no Face não sai com a confirmação de identidade | | **Resposta pública enviada em 06/11** à pergunta dele de 05/11 14h59 (lipsync com a ferramenta do Gustavo), com os ajustes que a Nora usa | Se ajudar |
+| Wall Estevam [MVM] | Ajuda no chat (pré-prompt do lote, agendamento) | Não agenda no Face ("parece que a plataforma cria ferramenta pra flopar conta"); pré-prompt de lote no Omni | | **Resposta pública enviada em 06/11 03h10** (o quadro de validação); **ele agradeceu às 10h55** ("perfeito, obrigado irmão"). Fechado | |
+| Bruno Freitas | Ajuda sempre no chat (CTA, gestos, restrição de DM de 28 dias) | Gestos de acordo com a copy; restrição de DM no Face não sai com a confirmação de identidade | | **Resposta pública enviada em 06/11 03h13** (lipsync: os ajustes da Nora). **Ele perguntou às 09h45:** "testou já com arquivo grande tipo de 4 min?". **Resposta enviada em 06/11** (9ª leitura) | Se ajudar |
 | rodrigo (1ª venda do Manifestation, #vitórias 05/11) | 1ª venda no Manifestation | | | **Parabéns enviado em 06/11** no #vitórias, com 1 pergunta (Insta ou Face). Se responder, só reagir | |
+| Caio1094 | Vende no Face e no Insta: 6 vendas em out. (1º mês) e 8 em 2 dias de nov. (06/11) | DM automática no Face (só "responder na DM", 3 automações, mensagem curta, sem promessa), 2 repetidos por dia dos que foram bem, 4 por dia rende melhor que 5 numa conta fraca, mesmo hook com outra copy foi de 800 para 50 mil | Uma variável por vez e variações sem crédito no Face (já em vigor) | **Parabéns enviado no #vitórias em 06/11** (9ª leitura), com 1 pergunta (face ou insta). Se responder, só reagir | Se ajudar |
+| Eduarda Kelly | Pergunta no chat (06/11 09h01) | | | **Resposta pública enviada em 06/11** (9ª leitura). Esperar | |
+| Gustavo M. | Pergunta no chat (06/11 11h08): funil em espanhol | | | **Resposta pública enviada em 06/11** (9ª leitura) | |
 | Lívia | Roda Manifestation; pediu no chat (05/11 19h48) que quem roda chamasse na DM | | | **DM opcional sugerida em 06/11** (colega, troca de igual para igual, como o Marcelo). Se mandar, esperar a resposta | |
 | carloscs, Lucas Dusi | Fechamentos de outubro (os grandes) | (não chamar: recebem dezenas de mensagens) | | | |
 
@@ -182,4 +185,29 @@ que bom que o status tá normal
 96 já tá quase lá, o caio falou ontem no chat que só vendeu depois de uns 100 posts, então tamo no caminho
 aqui testei um gancho bizarro (um tsunami kkk) e dobrou as views do vídeo, de 130 pra 290, mas o povo ainda não vai pro perfil, agora to testando o corpo
 e aquele de 40 mil no texto na tela, lembra quantos cliques deu no tracker?
+```
+
+## ENVIADO (06/11/2026; respostas da 9ª leitura do Discord, no jeito do aluno)
+**1. Bruno Freitas, no #chat-appyon (responder a pergunta dele das 09h45, "testou já com arquivo grande tipo de 4 min?"):**
+```
+não, o maior aqui foi 1 min e pouco (uns 8 takes juntos)
+com 4 min ainda não testei
+```
+**2. Eduarda Kelly, no #chat-appyon (responder a mensagem dela das 09h01, com o print da retenção):**
+```
+eu manteria a copy e mudaria só o começo
+só 59 de 217 passaram dos 3s, mas depois disso tua curva fica acima da média dos teus reels, então a copy tá segurando
+numa aula o gustavo falou que no face, travou entre 200 e 500 views, é gancho
+troca o gancho/cena de abertura e mantém o resto, aí vc sabe o que fez diferença
+```
+**3. Gustavo M., no #chat-appyon (responder a pergunta dele das 11h08):**
+```
+na aula de copy do dia 30/10 o iorhan falou que o funil em espanhol volta nas próximas semanas
+ainda não vi aviso de que voltou
+```
+**4. Caio1094, no #vitórias (responder a mensagem dele das 09h58):**
+```
+parabéns caio!! 8 em 2 dias é absurdo
+tuas dicas de ontem no chat ajudaram demais aqui
+esses 8 foram mais pelo face ou pelo insta?
 ```
