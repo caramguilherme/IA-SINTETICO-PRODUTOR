@@ -1547,7 +1547,7 @@ NEVER generate: a different face, hairstyle, outfit or voice, extra people, extr
 | Conta | Login | Situação |
 | --- | --- | --- |
 | GeeLark | e-mail pessoal | Plano Base até 05/11/2026 + 2.000 minutos |
-| Proxy Cheap | e-mail pessoal | 1 proxy (a 2ª, Astound, IP 168.235.144.192) até 06/11/2026 14h52. A 1ª foi reembolsada |
+| Proxy Cheap | e-mail pessoal | 1 proxy (a 2ª, Astound, IP 168.235.144.192, ID 2481527) até 06/12/2026 14h52 (renovada em 06/11 pelo Extend, mesmo IP). A 1ª foi reembolsada |
 | Gmail da Nora | kensleynora@gmail.com | Só no notebook, pra ler código. Não logar no celular virtual (o Google pede verificação pelo chip e nunca passa) |
 | Instagram da Nora | @norakensleytarot | Criado em 06/10 às 15h40 (2ª tentativa, celular e IP novos). Aquecido de 06 a 08/10, configurado em 09/10, vídeos de aquecimento desde 09/10 |
 
@@ -2500,7 +2500,7 @@ Custo fixo hoje (atualizado em 09/10): uns R$ 465 por mês com a parcela do curs
 | Item | Pra quê | Valor |
 | --- | --- | --- |
 | Google AI Pro (Flow) | Imagens, pré-ganchos e a avatar falando. 1.000 créditos por mês: uns 90 a 130 no 1º vídeo de cada copy (A 91, B 127 com as refações) e uns 12 em cada vídeo que só troca o gancho | R$ 23,99 por mês até 09/01/2027, depois R$ 96,99 (assinado em 09/10 na conta pessoal, Pix recorrente pelo Mercado Pago saindo do Nubank; o Google avisa 7 dias antes; revisar até 02/01/2027) |
-| Proxy Cheap | Proxy ISP dedicada dos EUA (uma por conta) | US$ 3,59 por mês (pago R$ 21,05 em 06/10) |
+| Proxy Cheap | Proxy ISP dedicada dos EUA (uma por conta) | US$ 3,59 por mês (pago R$ 21,05 em 06/10; renovada em 06/11: o Extend só aceita saldo, então primeiro Top Up e depois Extend de 1 mês; sobrou US$ 1,41 de saldo) |
 | GeeLark | Celular virtual (até 5 no plano base) | US$ 5 por mês (R$ 29,35 com o cupom MVM) + US$ 14 por 2.000 minutos (R$ 78,91, sem renovação) |
 | MEI | Imposto fixo do CNPJ | uns R$ 80 por mês |
 | HeyGen Creator | Avatar falando com fala contínua | US$ 29 por mês. Não usamos: reprovado em 09/10, a fala da Nora sai no Flow |
