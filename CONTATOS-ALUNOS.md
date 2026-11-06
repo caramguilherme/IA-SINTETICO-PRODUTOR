@@ -5,7 +5,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 ## Pendências (06/11/2026)
 - **Jessica Bento:** resposta com o resultado do teste dos corpos e a pergunta do CTA **enviada em 06/11** (texto no fim deste arquivo). Esperar.
 - **Ricardo Santana e Marcus:** voltar em 07 ou 08/11 com o resultado do teste dos corpos ou do gancho.
-- **Esperando resposta (não mandar outra):** Felps, Kaike, Lari, Castanho, Marcelo (respondido em 06/11), Letícia (X), Wall Estevam, Bruno Freitas, rodrigo (#vitórias), Lívia (se o aluno mandou a DM).
+- **Esperando resposta (não mandar outra):** Felps, Kaike, Lari, Castanho, Marcelo (respondido em 06/11), Letícia (X), Bruno Freitas, rodrigo (#vitórias), Jessica (06/11), Lívia (respondida em 06/11), Eduarda Kelly, Gustavo M., Caio.
 - **Fechados (só voltar com resultado):** Gustavo, Garbellotto, Vitor Kretzer, Gabriel, Vinicius Almeida, Allan Mayer.
 
 ## O método (o caminho de quem destravou)
@@ -48,7 +48,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | Caio1094 | Vende no Face e no Insta: 6 vendas em out. (1º mês) e 8 em 2 dias de nov. (06/11) | DM automática no Face (só "responder na DM", 3 automações, mensagem curta, sem promessa), 2 repetidos por dia dos que foram bem, 4 por dia rende melhor que 5 numa conta fraca, mesmo hook com outra copy foi de 800 para 50 mil | Uma variável por vez e variações sem crédito no Face (já em vigor) | **Parabéns enviado no #vitórias em 06/11** (9ª leitura), com 1 pergunta (face ou insta). Se responder, só reagir | Se ajudar |
 | Eduarda Kelly | Pergunta no chat (06/11 09h01) | | | **Resposta pública enviada em 06/11** (9ª leitura). Esperar | |
 | Gustavo M. | Pergunta no chat (06/11 11h08): funil em espanhol | | | **Resposta pública enviada em 06/11** (9ª leitura) | |
-| Lívia | Roda Manifestation; pediu no chat (05/11 19h48) que quem roda chamasse na DM | | | **DM opcional sugerida em 06/11** (colega, troca de igual para igual, como o Marcelo). Se mandar, esperar a resposta | |
+| Lívia | Roda Manifestation; pediu no chat (05/11 19h48) que quem roda chamasse na DM | | | DM do aluno em 06/11 03h14; **ela respondeu às 07h57:** está difícil "um pouco dos dois" (view e clique); teve algumas vendas no mês passado; estranhou o "vídeo enorme" depois do quiz, antes do checkout. **Resposta enviada em 06/11** (a VSL longa é de propósito; números da Nora; pergunta: as vendas foram no Manifestation, Insta ou Face). Esperar | Se ajudar |
 | carloscs, Lucas Dusi | Fechamentos de outubro (os grandes) | (não chamar: recebem dezenas de mensagens) | | | |
 
 ## (Histórico) Rascunhos de 04/11/2026 (todos enviados ou descartados; ver as marcas em cada um)
@@ -219,4 +219,13 @@ testei 2 corpos com o mesmo gancho: o copiado de um viral, só tirando a parte d
 mas só 1 de cada 100 que assistem chega no story, e lá dentro converte bem (3 de 18 clicaram)
 então tô indo mexer no cta agora, como vc falou
 quando vc trocou o cta batidão, que frase colocou no lugar? se puder me dar um exemplo
+```
+
+## ENVIADO (06/11/2026; DM da Lívia, resposta à mensagem dela das 07h57; uma mensagem só)
+```
+aqui ainda não vendi, mas o funil tá assim pra mim tb: 3 cartas, umas perguntas e depois o vídeo longo antes do checkout
+numa call de 07/09 falaram que a vsl é longa de propósito, quem chega no checkout já chega preparado, por isso converte mais
+desde 27/10 tive 19 cliques e 11 chegaram no vídeo, 0 checkout, então meu gargalo ainda é clique
+essa semana vi que o corpo copiado de um viral (tirando a parte de ameaça) deu muito mais view que a copy que escrevi do zero
+tuas vendas do mês passado foram no manifestation? insta ou face?
 ```
