@@ -233,8 +233,8 @@ tuas vendas do mês passado foram no manifestation? insta ou face?
 ## ENVIADO (06/11/2026; DM do Kaike, resposta à mensagem dele de 05/11 13h47; uma mensagem só)
 ```
 faz total sentido, e bateu com o que vi aqui
-o pré-hook bizarro (um tsunami) deu 5x mais view e 9 seguidores, mas só 1 em cada 100 foi pro story
-quando eu usava pré-hook do nicho (cristal rachando) vinha menos view, mas mais gente ia pro perfil
+o pré-hook bizarro (um tsunami) dobrou as views e trouxe seguidor, mas só 1 em cada 100 foi pro story
+quando eu usava pré-hook do nicho (cristal rachando), bem mais gente ia pro perfil pra cada mil views
 vou voltar pro do nicho agora
 os teus eram com a avatar fazendo alguma coisa (ritual, cristal, vela) ou só o objeto?
 ```
