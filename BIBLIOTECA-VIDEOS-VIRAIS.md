@@ -696,3 +696,15 @@ Coach de manifestação americana; provavelmente o vídeo em inglês que o Gusta
 - **Descrição do aluno (03/11 ~22h50, "não tem segredo"):** a Nora na praia, vem uma onda gigante atrás dela, ela sai correndo, entra numa espécie de bunker ou cabine, a onda bate na porta e ela começa a falar a copy. Vale como referência (o vídeo em si não é necessário).
 - **Para usar na Nora:** proposta para o nora47 (03/11): 2 tomadas de 4 s (fora: praia, onda atrás, ela corre e entra no bunker; dentro: a porta fecha, a onda bate, a porta treme e espirra água) e o Take 1 falado dentro do bunker. Adaptar à Nora (mulher, Manifestation) mantendo o 1º quadro e a sequência do viral (P14); copy positiva depois (P42).
 
+## 49. Mineração de virais nas contas grandes de IA do nicho (método combinado com o aluno em 06/11/2026; base do nora50)
+**Contas que o aluno segue para minerar (prints de 06/11):** miriamlewistarot · imblairsin · eduardameirelless · agnestarot_ · scarlletmorgantarot (a Scarllet do corpo A) · eleanorsoracle · haileymorga_nn · mysticmillenniumtarot · claire_mayaus · iamlinda.bennett · philjones.p92 · jasonmonroe222 · takedanaomi_ · heathermystic · mhastro_ · celesteblairmystic · cardssvivian · auraavamystic · ameliasage64 · avaokafor · ravenmoon1950.
+
+**Como escolhemos (etapas):** (1) o aluno manda o print da grade de reels com as views + o @ e o número de seguidores da conta; (2) eu escolho os vídeos que valem olhar; (3) ele manda curtidas, comentários, salvos, envios e a data de cada escolhido; (4) eu aprovo; (5) ele manda o vídeo (arquivo ou Drive) e eu transcrevo e separo gancho, corpo, CTA, caixa do topo e edição.
+
+**Critérios de escolha (meus):**
+1. **Fora da curva da própria conta:** views bem acima da média dos outros reels da grade (2x a 3x ou mais). Um vídeo de 50 mil numa conta que faz 5 mil vale mais que um de 200 mil numa conta que faz 200 mil.
+2. **Views ÷ seguidores alto:** sinal de que o algoritmo entregou para fora (público novo, como o da Nora).
+3. **Recente:** dos últimos 7 a 10 dias (o que está pegando agora; o portal 11:11 vence em 11/11).
+4. **Comentários ÷ views de 2,5% ou mais** e muitos salvos e envios: engajamento de quem ficou até o fim, não só view.
+5. **Formato que a Nora faz:** avatar falando para a câmera, copy longa, gancho do nicho (cristal, vela, carta, ritual realista), copy de desejo de preferência (Iorhan, Gustavo, Kaike). Texto na tela, gancho bizarro e copy de ameaça entram só como referência de estrutura (tirando o vermelho).
+
