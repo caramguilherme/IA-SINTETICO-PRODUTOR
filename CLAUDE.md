@@ -47,7 +47,7 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
 - Não julgar com 3 h; régua com ~24 h. Comentários de outras pessoas ÷ views (2,5%+ bom, 1% a 2,5% meio, abaixo de 1% fraco, só com 300+ views). Corpo e CTA só com 800 a 1.000 views somadas. **A medida final é o clique no Tracker** (~178 cliques por venda na comunidade).
 **Avatar e contas**
 - `VALIDACAO-CONTA-E-AVATAR.md`: a Nora passou o Portão 1; a janela de 40 vídeos com copy validada está em 15. Teste de avatar depois: sem a lua e as estrelinhas pintadas, com um traço real (sardas leves ou pinta), o resto igual. 2º perfil (Love Reading, `BRIEFING-LOVE-READING.md`) realista, com Página num perfil do Face separado; nada a partir de foto de pessoa real.
-**Contatos (P44):** criar laço com quem vende, aplicar, voltar com resultado, agradecer em público; mensagens no jeito do aluno, uma por vez, nunca duas sem resposta; toda resposta sugerida conta como enviada; toda leitura do Discord traz "quem responder".
+**Contatos (P44):** criar laço com quem vende, aplicar, voltar com resultado, agradecer em público; mensagens no jeito do aluno (minúsculas, vc, tb, pra, oq, kkk), uma por vez, nunca duas sem resposta; toda resposta sugerida conta como enviada; toda leitura do Discord traz "quem responder".
 **Como responder ao aluno (05/11):** começar pelo que ele faz agora; texto para copiar pronto, com quebras de linha de verdade; dizer antes qual arquivo anexar e de onde; nada de "essa aí" ou "o de cima"; decidir e explicar em 1 linha.
 
 ## 3. O que é o projeto, como roda e onde está cada coisa
