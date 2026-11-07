@@ -226,6 +226,17 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **12 views, 10 viewers** (83,3% seguidores, 16,7% não seguidores: ~2 pessoas de fora), 0 interação (0 curtida, 0 resposta, 0 compartilhamento), 0 atividade no perfil; navegação 7 (4 saíram, 2 avançaram, 1 foi para o próximo story). **0 toques no link** (a linha "Link clicks" não aparece; o aluno confirmou: ninguém clicou).
 - **Leitura:** cedo (6h27; o story-0311 foi lido com ~17h30: 18 viewers, 3 toques). Os viewers são quase todos seguidores, e os 19 follows do nora48 e do nora49 contam como seguidores; das 8 visitas ao perfil do nora49, pouca gente abriu o story. Ler de novo perto de ~17h de 07/11, antes de repostar (vence 18h43).
 
+### 07/11/2026 01h13 - Tracker da Appyon (prints do aluno; última atualização 07/11 01:13:38)
+| Dia | Cliques | View quiz | Começou | Terminou | Checkout | Vendas |
+|---|---|---|---|---|---|---|
+| 05/11 | 0 ("nenhum dado") | | | | | |
+| **06/11 (dia todo)** | **5** | 5 | 3 | 3 | 0 | 0 |
+| 06/11, Insta | 3 | 3 | 2 | 2 | 0 | 0 |
+| 06/11, Face | **2** | 2 | 1 | 1 | 0 | 0 |
+- Às 11h57 de 06/11 eram 2 cliques (os 2 do Insta, os 2 terminaram). Depois disso entraram **+1 no Insta** (antes de 18h23, pelo story-0311, porque o story-0611 marcou 0 toque até 01h10) e **+2 no Face** (depois do story-0611 no Face às ~18h45 e do nora49 às 19h29, com o link no comentário da Página).
+- **Atenção:** os cliques do Face de 27 e 29/10 eram testes do próprio aluno. **Perguntado se ele abriu o link do Face (ou do Insta) para testar em 06/11.** Se não, são **os 1ºs cliques reais do Face** da Nora.
+- **Manifestation de 27/10 a 06/11:** 22 cliques (19 + 3), 12 no fim do quiz (11 + 1), 0 checkout, se os do Face forem reais.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
