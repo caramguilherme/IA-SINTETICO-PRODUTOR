@@ -193,6 +193,16 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **Story:** story-0611 no ar desde 18h43 (Insta e Face), com texto e adesivo novos ("You're not here by accident. ✨ / Your private reading is waiting below." + "Your reading 🗝️"): medir toques ÷ viewers contra o story-0311 (3 em 18).
 - **A pedir:** Insta e Face com ~10 h (~05h30 de 07/11; na prática, de manhã) e ~24 h (~19h30 de 07/11); story e Tracker de 06 e 07/11.
 
+### 07/11/2026 00h56 - Face (Biblioteca de Conteúdo, print do aluno)
+| Vídeo | Vida | Views | % 3 s | Tempo médio | 1 min | Seguidores | Coment. | Distribuição |
+|---|---|---|---|---|---|---|---|---|
+| nora49 (tsunami espelhado + Áries/Leão/Sagitário + corpo A) | ~5h27 | **202** | 46,5% | 8 s | 4 | 1 | 1 | −0,4x |
+| nora48 (tsunami + Câncer/Escorpião/Peixes + corpo A) | ~23h46 | 184 | 51,6% | 10 s | 8 | 1 | 3 | +1,8x |
+| nora47 (tsunami + corpo B) | ~3 dias | 108 | 39,8% | 6 s | 2 | 0 | 1 | −1,2x |
+- Os mais velhos (nora45, face01, nora46, face02) não mudaram desde 06/11 11h36.
+- **Leitura:** com ~5h27 o nora49 já tem mais views no Face que o nora48 com ~24 h. O corpo é o mesmo; mudam o gancho espelhado, o Take 1 e o horário (19h29 = 14h29 na Califórnia, contra 01h10 = 20h10). A retenção do nora49 é um pouco menor (46,5% x 51,6% nos 3 s; 8 s x 10 s). O nora48 quase parou no Face (+17 views em 13 h, ~180). Cedo para julgar o nora49: a régua é com ~24 h (~19h30 de 07/11), e o Insta e o Tracker decidem.
+- **Story-0611:** no Face o story aparece com 0 nas colunas (a Biblioteca não mostra métrica de story); viewers e toques vêm do Insta.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
