@@ -159,7 +159,36 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 
 ---
 
+## R12 (07/11): prova social sem inventar depoimento
+**O que mostrar:** casal feliz com o resultado na **tela do celular, nunca em papel** (o papel faz achar que vai chegar algo impresso; trocar para o celular "virou a chave" da conversão); foto do casal com nome, idade, cidade e signo; imagens do futuro desejado (abraço, viagem, pedido); **avaliações reais do Trustpilot do app**.
+**Onde:** stories e Destaques ("Soulmate", "Couples", "Cases"; caixa de pergunta "Does it work?" / "Is it true?" com o depoimento e o link logo depois); no vídeo, em tela dividida ou por cima enquanto a avatar fala, ou **logo antes do CTA**; depoimentos de 8 a 15 s no quiz e na VSL.
+**Em que parte do vídeo:** nos 3 primeiros segundos (história de cliente como gancho), no corpo (como ilustração) e **antes do CTA** (dá o motivo para ir ao story).
+**Sem inventar:** avaliações reais do Trustpilot, imagens do desejo como demonstração, modelar como o nicho mostra casos reais.
+**Aulas:** 12 (promessa visual, depoimento no gancho, foto de casal com signo), 13 (Destaques e caixa de pergunta), 28 (celular e não papel; Trustpilot), 31 (provas nos Destaques; depoimentos de 8 a 15 s), 65 (prova sutil antes do CTA).
+
+**Para a Nora:**
+1. **Prova real que temos:** 4 avaliações do Trustpilot em `provas-trustpilot/` (com o nome do app cortado, P15). Entram primeiro onde custa 0 crédito: um dos 7 stories do lote ("Is it true?" + a avaliação + o link) e o Destaque "Reviews".
+2. **No vídeo:** uma avaliação real em tela dividida **logo antes do CTA** (aula 65), feita aqui na edição, 0 crédito. É o teste **depois** do nora51 (CTA novo), para medir uma coisa por vez.
+3. **"Celular, não papel", no Manifestation:** a prova do mecanismo é a tela do quiz no celular: 2 a 3 s gravados da 1ª tela (o chat da Aura, "Just 3 quick questions, and your reading will be ready."), sem o nome do app e sem a tela das cartas (regra de 03/11). O aluno grava uma vez quando for fazer esse teste; se abrir pelo link dele, me diz a hora para eu descontar o clique no Tracker.
+4. **Fora (HONESTIDADE):** história de cliente no gancho ("minha cliente pediu reembolso…", aula 12), foto de casal com nome, idade e cidade, Destaque "Cases" com casais: tudo isso seria inventado, e é do Soulmate. Imagens do desejo (casa, viagem, calma) seguem só como ilustração, sem dizer que é resultado de alguém.
+
+---
+
+## R13 (07/11): música e efeito sonoro
+**Pré-gancho (0 a 3 s, até 6):** o som real da ação (ASMR: fogo, moeda caindo, sal, pedra), sem fala e **sem música**; um **riser** (som de tensão subindo) no 1º segundo; um **woosh** na passagem; e, no corte exato do pré-gancho para a fala, um **impact** (som seco de batida) — a aula também cita um "gemidinho" curto. Aulas 12, 19, 32, 40 (Autoeditor), 43, 54.
+**Corpo e CTA:** música emocional, mística, suave ou espiritual ("Emotional Music No Copyright", "Mystic Frequency", "Last Hope", piano lento, coro de anjos), que dê esperança; **20% a 25% do volume máximo**, nunca por cima da voz; entra no começo do corpo, **com fade in logo depois do impact**, e vai até o fim do CTA. Aulas 12, 14 (edição dopaminérgica), 21, 25, 54.
+
+**Para a Nora:**
+1. **Já fazemos:** pré-gancho só com o som do clipe e sem música; música do Take 1 ao fim ("Ambient Mystical Drone", da biblioteca do CapCut, `FATOS-DO-ALUNO.md`).
+2. **Volume:** −18 dB é ~13% do volume; a aula fala em 20% a 25% (~−14 a −12 dB). O drone é mais baixo e mais "liso" que um piano, então fica −18 dB até um teste de música, para não cobrir a voz.
+3. **Efeitos (riser, woosh, impact):** entram num teste próprio, 0 crédito, **depois do teste do CTA**: o impact no corte do pré-gancho para o Take 1 e o riser no pré-gancho. Posso fazer o som aqui na edição (o ffmpeg do contêiner mistura áudio), sem baixar nada, ou o aluno escolhe na biblioteca de efeitos do CapCut na montagem.
+4. **Música emocional** (piano lento ou coro de anjos, com fade in, ~−14 dB) é outro teste, também 0 crédito, depois dos efeitos.
+5. **Fora:** o "gemidinho" (conotação sexual; não combina com a Nora e arrisca a conta).
+
+**Ordem dos testes (uma variável por vez):** nora50 gancho (pedra x tsunami) → nora51 CTA com motivos → prova do Trustpilot antes do CTA → efeitos sonoros → música. Do 3º em diante, tudo a 0 crédito, só na edição.
+
+---
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
-Feitas e respondidas: R1 a R11 (07/11). As próximas, quando ele quiser:
-1. "Que provas sociais as aulas mandam usar no Manifestation (o que mostrar, onde e em que parte do vídeo), sem inventar depoimento? Cite a aula."
-2. "O que as aulas dizem sobre música e efeito sonoro no pré-gancho e no corpo: qual som, em que volume e quando entra? Cite a aula."
+Feitas e respondidas: R1 a R13 (07/11). A próxima, quando ele quiser:
+1. "Quais formatos de vídeo de Manifestation as aulas mostram como validados além da avatar falando (texto na tela, slideshow, POV, faceless, versão curta de 20 a 30 s)? Quero um exemplo de cada e a aula."

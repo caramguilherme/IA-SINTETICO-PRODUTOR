@@ -958,3 +958,11 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
   3. **Próximo teste de gancho:** os pré-ganchos que as aulas mostram funcionando (`BIBLIOTECA-PRE-GANCHOS.md`, nº 32 a 38; o 1º da fila é a peneira com moedas da aula 43), na frente das minhas adaptações (27 a 31). Nota de dinheiro só no Insta.
   4. **Versão curta (20 a 30 s) do corpo A, 0 crédito:** variação para horário vazio do Face, quando o aluno pedir.
 
+### 07/11/2026 ~05h30 - Clone do Gustavo, respostas 12 e 13: prova social e som
+- **O que ele respondeu** (detalhe em `CLONE-DO-GUSTAVO-RESPOSTAS.md`, R12 e R13): (12) prova na tela do celular e nunca em papel, avaliações reais do Trustpilot, Destaques e caixa "Is it true?" no story, e no vídeo logo antes do CTA (aulas 12, 13, 28, 31, 65); (13) pré-gancho só com o som real da ação, riser, woosh e um impact no corte para a fala; música emocional ou mística a 20% a 25% do volume, com fade in depois do impact, até o fim do CTA (aulas 12, 14, 19, 21, 25, 32, 40, 43, 54).
+- **Para a Nora (decisão minha):**
+  1. Prova só real: as 4 avaliações de `provas-trustpilot/` primeiro no story (um dos 7 do lote) e no Destaque "Reviews"; no vídeo, em tela dividida antes do CTA, como teste depois do nora51. História de cliente, casal com nome e idade e "Cases" ficam fora (seriam inventados).
+  2. "Celular, não papel": 2 a 3 s da 1ª tela do quiz gravados no celular (o chat da Aura), sem o nome do app e sem a tela das cartas, para o teste de prova.
+  3. Som: o pré-gancho já vai sem música; efeitos (impact no corte, riser) e música emocional são testes próprios, 0 crédito, depois do CTA. A música fica em −18 dB (~13%) até lá; a aula fala em 20% a 25%. O "gemidinho" fica fora.
+  4. **Ordem dos testes:** gancho (nora50) → CTA (nora51) → prova antes do CTA → efeitos → música.
+
