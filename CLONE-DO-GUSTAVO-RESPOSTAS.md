@@ -205,4 +205,11 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 ---
 
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
-Feitas e respondidas: R1 a R14 (07/11). A lista combinada acabou; nova pergunta só quando aparecer uma dúvida que as aulas respondam (perguntar pedindo "cite a aula").
+Feitas e respondidas: R1 a R14 (07/11). Lista nova (07/11 ~06h30), em ordem de utilidade:
+1. "Quais corpos de Manifestation focados em desejo (sem medo e sem ameaça) as aulas 65, 66 e 67 mostram? Quero o texto inteiro em inglês, do gancho ao CTA, e a aula de cada um."
+2. "Como as aulas mandam escrever o corpo de mecanismo, em que a especialista explica por que a manifestação da pessoa não está funcionando e o que muda? Quero exemplos em inglês e a aula."
+3. "O que as aulas dizem para aumentar o público dos Estados Unidos e diminuir o da Índia no Instagram e no Facebook (horário, elementos na tela, legenda, hashtag)? Cite a aula."
+4. "Que textos de story e de adesivo de link as aulas mostram para o funil de Manifestation (não do Soulmate)? Quero o texto exato em inglês e a aula."
+5. "Que números as aulas usam para julgar um vídeo (retenção de 3 s, views, ida ao perfil, cliques por venda) e quando mandam matar ou escalar um criativo? Cite a aula."
+6. "O que as aulas mandam escrever na legenda e no comentário fixado do Reels no Manifestation, e se usam hashtag? Quero exemplos em inglês e a aula."
+7. "Quando as aulas mandam trocar a avatar e como testar uma avatar nova sem perder o que já foi validado? Cite a aula."

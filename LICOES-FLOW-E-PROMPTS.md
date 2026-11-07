@@ -422,3 +422,11 @@ If the generation of any video fails, please resubmit ONLY the item that failed 
 
 ### 06/11/2026 - Modelo do painel: directs do Face sem cartas
 - O `PAINEL-MODELO.html` tinha, nas respostas padrão do Face, 2 directs com "Your 3 cards are ready" e "pick your 3 cards". Trocados por versões com "your private reading" e o primeiro nome ([name]), como nos painéis do nora48 e do nora49 (regra do Gustavo, 03/11: sem cartas antes do quiz). Os painéis que já trazem `respostas_face` próprias não mudam.
+
+### 07/11/2026 - Clone do Gustavo: o que todo painel confere antes de sair (P46)
+- **Story:** tem o link (adesivo) e é foto da Nora + frase curta; nenhum story sem link na fila.
+- **CTA:** 3 partes (ganho → o que tem do outro lado, nas palavras do funil → a ação); salvar e seguir depois do CTA; sem "free", "claim", 222 falado, "chose you", "so this prediction will become reality", "before they disappear", "Comment X and I'll send it", link na bio.
+- **Pré-gancho:** do nicho, sem cartas na imagem, 3 a 4 s, uma ação; nota de dinheiro só no Insta.
+- **Prova:** só real (`provas-trustpilot/`, nome do app cortado); nada de cliente, casal ou resultado inventado.
+- **Teste:** o painel diz qual é a única variável do vídeo e contra qual vídeo compara (ordem: gancho → CTA → prova → efeitos → música).
+- **Leitura:** o registro de "Leitura obrigatória" do painel cita o `CLONE-DO-GUSTAVO-RESPOSTAS.md`.
