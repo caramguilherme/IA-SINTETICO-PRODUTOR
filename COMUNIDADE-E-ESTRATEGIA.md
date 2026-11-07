@@ -966,3 +966,7 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
   3. Som: o pré-gancho já vai sem música; efeitos (impact no corte, riser) e música emocional são testes próprios, 0 crédito, depois do CTA. A música fica em −18 dB (~13%) até lá; a aula fala em 20% a 25%. O "gemidinho" fica fora.
   4. **Ordem dos testes:** gancho (nora50) → CTA (nora51) → prova antes do CTA → efeitos → música.
 
+### 07/11/2026 ~06h - Clone do Gustavo, resposta 14: formatos além da avatar falando
+- **O que ele respondeu** (tabela em `CLONE-DO-GUSTAVO-RESPOSTAS.md`, R14): texto na tela, slideshow ou carrossel em vídeo, POV de mãos, faceless, versão curta de 20 a 30 s, react e cenário de podcast (aulas 12, 13, 18, 19, 21, 28, 46).
+- **Para a Nora (decisão minha):** horário vazio do Face recebe, nesta ordem, (1) a versão curta de 20 a 30 s do corpo A, (2) slideshow do desejo com headline do banco, (3) o espelho com filtro; tudo a 0 crédito e com painel só quando o aluno pedir. Texto na tela já foi testado (face01: 546 views no Insta; face02: 152) e ficou abaixo do falado. Faceless não cabe no perfil da Nora (é ela o rosto); POV e podcast gastam crédito e ficam para um corpo novo.
+

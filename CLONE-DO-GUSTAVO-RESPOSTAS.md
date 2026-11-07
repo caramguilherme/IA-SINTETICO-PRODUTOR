@@ -189,6 +189,20 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 
 ---
 
+## R14 (07/11): formatos validados além da avatar falando
+| Formato | Como é | Exemplo da aula | Aula | Para a Nora |
+|---|---|---|---|---|
+| Texto na tela (sem avatar) | Vídeo ou imagem de cartas na mesa com headline de promessa, só música ou voz por cima | "There's a love spell in this… The third time this card appears for you" | 21, 12, 18 | Sem cartas (funil): texto na tela sobre um clipe do nicho (pedra, geodo) ou sobre a Nora. **Já testado:** face01 (texto longo sobre o clipe da Nora no carro) teve 546 views no Insta; face02 (imagem parada) 152; o corpo A falado passa de 1.400 |
+| Slideshow / edit / carrossel em vídeo | Imagens ou clipes do desejo em sequência rápida, ou transição lateral imitando carrossel | o "final message" da R7 (promessa falsa: fora) | 21 | Bom para o Face, 0 crédito: imagens do desejo (casa, viagem, calma) + uma headline verde do banco + o CTA para o story |
+| POV de mãos | Só as mãos na mesa, em 1ª pessoa: papel queimando, sal ou canela derramados | "Think of someone right now… Say their name 3 times" (amor: fora) | 21, 12, 13 | É o nosso pré-gancho esticado: mãos com canela, moedas ou cristais (`BIBLIOTECA-PRE-GANCHOS.md` 32 a 37) + texto de desejo na tela. Gasta crédito (clipe novo) |
+| Faceless | Perfil sem rosto: fundo de universo, signos, animais dourados da prosperidade (patinho, touro de ouro) em loop com afirmações | patinho dourado com frase de atração financeira | 18, 46 | Fora do perfil da Nora (ela é o rosto e o personagem precisa ser constante, R5); serviria a um perfil faceless, que é decisão de 2º perfil (adiada) |
+| Versão curta (20 a 30 s) | Gancho de 3 a 5 s + o miolo do corpo (10 a 15 s) + CTA direto | Twin Flame com "so this prediction will become reality" (fora) | 21, 18, 19 | **1º da fila para o Face, 0 crédito:** Take 1 + "I don't know your name…" até "…someone incredibly wonderful about to show up unexpectedly." + o CTA, cortados do vídeo que já existe |
+| React / cabeça flutuante | A especialista por cima de um vídeo de casal ou depoimento, reagindo | — | 21, 12 | Só se for reagir a algo real (um comentário real dela, uma avaliação real); depoimento UGC de outra pessoa não |
+| Cenário de podcast / programa | A especialista com microfone de mesa, em estúdio | — | 12, 28 | Cenário novo = imagem e takes novos; ideia para um corpo novo, não agora |
+
+**Para a Nora:** para os horários vazios do Face, as variações de 0 crédito passam a ser, nesta ordem: (1) a versão curta de 20 a 30 s do corpo A; (2) slideshow de imagens do desejo com headline do banco; (3) o espelho com filtro (o que já existia). No Insta nada muda: cada post leva um Take 1 novo. Painel de cada variação só quando o aluno pedir.
+
+---
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
-Feitas e respondidas: R1 a R13 (07/11). A próxima, quando ele quiser:
-1. "Quais formatos de vídeo de Manifestation as aulas mostram como validados além da avatar falando (texto na tela, slideshow, POV, faceless, versão curta de 20 a 30 s)? Quero um exemplo de cada e a aula."
+Feitas e respondidas: R1 a R14 (07/11). A lista combinada acabou; nova pergunta só quando aparecer uma dúvida que as aulas respondam (perguntar pedindo "cite a aula").
