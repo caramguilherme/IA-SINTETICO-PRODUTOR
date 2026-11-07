@@ -271,6 +271,12 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **Corpo A somado no Insta (atualizado):** 3.331 views, 26 follows, 14 visitas ao perfil (4,2 por 1.000), 64 salvos.
 - Falta: os prints dos comentários dos dois (quantos são de outras pessoas), o story-0611 e o Tracker de 07/11.
 
+### 07/11/2026 09h05 - Story-0611 no Insta (postado em 06/11 18h43, ~14h22 de vida; prints do aluno)
+- **19 views, 18 viewers** (89,5% seguidores, 10,5% não seguidores: ~2 pessoas de fora), 0 interação, 0 atividade no perfil (0 visita, 0 follow); navegação 12 (6 saíram, 3 foram para o próximo story, 3 avançaram). **0 toque no link** (a linha "Link clicks" não aparece = ninguém tocou).
+- **Contra o story-0311** ("Tap below: your private reading is waiting for you before the 11:11 portal.", adesivo "Open my reading"), lido com ~17h30: 18 viewers, 41,7% não seguidores, **3 toques (17%)**. Mesmo número de viewers, e o texto emocional do story-0611 ("You're not here by accident. ✨ / Your private reading is waiting below.", "Your reading 🗝️") deu 0.
+- **Ressalva:** o story-0311 pegou mais gente de fora (41,7% x 10,5%), quem chega pelo vídeo e ainda não viu story nenhum; parte da diferença pode vir daí. Mesmo assim, 0 em 18 com o texto novo, e as aulas (Clone R9 e R18) pedem que o story diga o que fazer e o que tem do outro lado.
+- **Decisão (07/11 ~09h20):** repostar às ~18h com o texto e o adesivo do story-0311 (imagem story-3110), no Insta e no Face; painel do nora50 republicado (`ferramentas-painel/r0711/patch_story_0711.py`). A leitura das 17h não é mais necessária. O lote de 7 stories parte do texto do story-0311 (instrução + "your private reading"), não do emocional.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
