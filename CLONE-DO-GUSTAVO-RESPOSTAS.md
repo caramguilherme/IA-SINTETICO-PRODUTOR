@@ -77,7 +77,47 @@ As versões da Nora entraram no `BANCO-DE-HEADLINES.md` (nº 12 a 17).
 
 ---
 
+## R6 (07/11): erros que fazem o vídeo ter views e não ter clique
+| Erro | O que a aula diz | Aula | A Nora hoje |
+|---|---|---|---|
+| 1. "Gancho infinito" sem qualificação | Promessa atrás de promessa até o fim, sem corpo que diga por que ir ao perfil e o que tem lá: segura pela curiosidade e não cria vontade de clicar | 64 (guia de US$ 1 mil por dia), 65 | **É o corpo A:** virada, dinheiro, alguém maravilhoso, Miguel, correntes, portas, e o CTA não diz o que ela recebe no story (só "the second part of this sign") |
+| 2. Medo, ameaça, agressividade | "Aviso final", "se pular sua vida trava", escassez, maldição: a pessoa se sente pressionada e não clica | 65, 26 | Já fora pela P42; o corpo A limpo ainda tem "Don't tell anyone" e "Archangel Michael has sent a warning" (aviso positivo, mas é a palavra "warning") |
+| 3. Vídeo que não combina com o funil | Tema genérico (dinheiro fácil, saúde) levando a um quiz de outro assunto: chega e abandona | 64, 46 | Ok: Manifestation leva ao quiz de manifestação; "your private reading" igual ao funil |
+| 4. A mesma copy todo dia (saturação) | Repetir o texto que deu certo no mesmo perfil: as views seguem, o clique cai. Variar gancho, formato e avatar | 31 (consistência de vendas), 28 | **Corpo A no 3º post seguido** (nora48, nora49, nora50), com Take 1 novo em cada; o Kaike vendeu repetindo a copy validada e mudando o pré-gancho |
+| 5. Sem prova social | Só promessa, sem prova no vídeo, no story ou nos Destaques: parece spam | 31, 65 | Nenhuma prova ainda; Trustpilot real planejado (story, Destaque "Reviews", tela dividida antes do CTA, Iorhan) |
+| 6. CTA fraco e 1º story sem link | O CTA não dá motivo para sair do feed; e se o 1º story não tem o adesivo, o tráfego se perde | 13, 65 | O story tem link; o CTA não dá motivo (8 visitas ao perfil em 1.456 views no nora49; 0 toque no link do story em ~6 h) |
+
+**Para a Nora:** os erros 1 e 6 explicam o que os números mostram (views boas, quase nenhuma ida ao story). **Decisão:** depois do teste do gancho (nora50), **o nora51 testa o CTA com motivos**, com o corpo A até "Closed financial doors are starting to open." e o fim trocado: o que ela recebe ("your private reading"), por que agora (o portal 11:11), o que fazer (tocar na foto, abrir o story, tocar no link) e o engajamento (salvar, seguir) só depois; sem "claim", sem 222 falado, sem "chose you". Custa ~30 créditos (Take 1 novo + 1 take do CTA). O gancho do nora51 é o que vencer entre o tsunami (nora49) e a pedra (nora50). **Contra a saturação (erro 4):** o corpo novo (`BIBLIOTECA-VIDEOS-VIRAIS.md` seção 49, ganchos 13 e 14 do banco) é preparado em paralelo e entra a partir do nora52. Prova do Trustpilot (erro 5): story e Destaque primeiro (0 crédito), tela dividida no vídeo depois do CTA.
+
+---
+
+## R7 (07/11): estruturas de corpo validadas (gancho, corpo e CTA em inglês)
+| Estrutura | Resumo (gancho → corpo → CTA) | Aula | Para a Nora |
+|---|---|---|---|
+| 1. Data + aparência + Twin Flame | "You are going to meet a dark-haired man with an incredible physique before July 4th…" → "This isn't a random prediction… when the universe gives a date, it's because the encounter is already in motion." → "Comment 'July' below… or check my stories before they disappear." | 19 | Amor e com previsão de encontro: fora. Aproveitável: **"This isn't a random prediction."** para a Nora explicar o mecanismo |
+| 2. "Homem escondendo 2 coisas" + frequência | "There is a man hiding two things from you…" → "your energy wasn't aligned yet… when this energy shifts, the people who enter your life shift too… There is a test that reveals exactly where this misalignment is happening…" → "Comment 'Soulmate'… link in my bio… The test is free because this message was made for you." | 11 (IA Day), 57 | Soulmate: fora. Aproveitável: a lógica "a energia ainda não estava alinhada; quando muda, o que chega muda" e **"a leitura mostra exatamente onde isso está travando"** como motivo do CTA. "Free" fica fora: o quiz é grátis, a leitura é paga (HONESTIDADE) |
+| 3. Carta no fogo + homem do passado | "The card that survives the fire will reveal your romantic future…" → "A man from your past will tell you before the end of this month…" → "Go to my story and take the quick test before it disappears." | 32 (Oficina de hooks) | Amor, cartas e "before it disappears": fora |
+| 4. Faceless "mensagem final" | "This is your final message. The universe is ready to hand this man to you." → "…this man will appear in your life in less than an hour. If you don't accept, it is over…" → "use this sound and interact 3 times. A free personal reading is in my profile." | 21 | Promessa falsa ("menos de uma hora") e ameaça ("it is over"): fora |
+| 5. Arcanjo Miguel + bênção financeira e amorosa | "Keep your mouth shut after watching this. Do not tell anyone. I don't know your name, but don't scroll. If this video appeared to you, this is a sign." → "Archangel Michael is showing me someone entering your life very soon… money, opportunity, and a major financial connection…" → "click on my profile picture and check my stories, because the second part of this sign is waiting for you there." | 54 (HeyGen + Omni Flash) | **É a origem do corpo A** (que ganhou do corpo B em 06/11): o corpo A tirou o "keep your mouth shut" e fechou com os selos e o 222. Confirma que a Nora roda uma estrutura validada; o que falta é o motivo no CTA (R6) |
+
+**Leitura:** quase todas as estruturas são do amor (Soulmate, Twin Flame) e das aulas antigas, com medo, prazo falso ou "before it disappears", que a P42 e o Iorhan tiraram. Para o Manifestation, a única validada é a 5, que já é a base da Nora.
+
+---
+
+## R8 (07/11): pré-gancho visual (aula 32, Oficina de hooks)
+**Regras:** (1) quebrar o padrão do feed com uma ação inesperada, rápida ou de mão (nada da avatar parada segurando algo); (2) 1 a 3 s (no máximo 4 a 6) e corte seco para a fala; (3) **headline curta na tela nos primeiros segundos**, porque muita gente assiste sem som; (4) som ambiente ou ASMR e **efeitos sonoros** (fogo, estalo, riser, impacto); (5) pode ser bizarro só para parar o scroll ou ligado ao tema, de leve.
+**Exemplos da aula:** gatinho pondo a pata numa carta ou puxando a carta com a boca; carta ou foto pegando fogo, com headline; mão tirando pedras de um círculo ou pondo cristais entre as cartas; tirar a carta de um lugar inesperado (areia, vaso, água, caixa); isqueiro num papel escrito "My Ex"; a carta trazida rápido em direção à câmera ("reset de atenção").
+
+**Para a Nora:**
+- Já fazemos: 3 a 4 s, sem fala, caixa do topo desde o 1º quadro, corte seco para o Take 1, pedra e geodo do nicho.
+- **Ligado ao tema, não bizarro:** o Kaike, o Iorhan e o Marcus disseram que o pré-gancho bizarro traz curioso desqualificado, e os nossos números batem (tsunami ~2 visitas por 1.000 views; pedra ~10 no nora43). O nora50 mede isso de novo.
+- **Sem cartas na imagem:** o funil não tem cartas antes do quiz (regra de 03/11, erro 3 da R6); a carta vira cristal, moeda ou chave. Ideias adaptadas no `BIBLIOTECA-PRE-GANCHOS.md` (nº 27 a 31).
+- **Efeito sonoro:** a nossa regra era só o som ambiente do próprio clipe; a aula libera efeito (estalo, impacto). Fica como teste depois, sozinho, a 0 crédito (só na edição), quando o gancho estiver decidido.
+
+---
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
-1. "Quais são os erros mais comuns no funil de Manifestation que fazem o vídeo ter views e não ter clique no link? Cite a aula de cada um."
-2. "Quais estruturas de corpo (body) de Manifestation as aulas mostram como validadas? Quero o texto exato em inglês, do gancho ao CTA, e a aula de onde saiu."
-3. "O que a aula 32 (Oficina de hooks) ensina sobre pré-gancho visual, os primeiros 1 a 3 segundos antes da fala? Quero os exemplos e as regras."
+Feitas e respondidas: R6, R7 e R8 (07/11). As próximas:
+1. "Como as aulas mandam escrever o CTA com motivos (reason why) no funil de Manifestation? Quero exemplos em inglês, a ordem das partes e a aula de onde saiu."
+2. "Quais pré-ganchos visuais as aulas mostram que funcionaram no nicho de Manifestation (dinheiro, abundância, cristais), sem cartas? Exemplos e a aula."
+3. "O que as aulas dizem sobre repetir a mesma copy validada: quantas vezes usar no mesmo perfil e quando trocar o corpo? Cite a aula."

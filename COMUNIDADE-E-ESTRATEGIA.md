@@ -941,3 +941,12 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
   4. **Continua igual:** sem link na bio do Insta (a aula é antiga; a comunidade teve contas travadas por isso: Garbellotto, joaoferraz, Alessandra); post de dia a dia no feed fica para depois, uma coisa por vez.
   5. **Não propor:** automação de comentário no Face e 6 vídeos por dia (adiados pelo aluno), replicar a avatar em outros perfis (2º perfil, adiado).
 
+### 07/11/2026 ~04h30 - Clone do Gustavo, respostas 6 a 8: erros sem clique, corpos validados, pré-gancho (aula 32)
+- **O que ele respondeu** (tabelas e aula de cada ponto em `CLONE-DO-GUSTAVO-RESPOSTAS.md`, R6 a R8): (6) os erros que dão view sem clique: "gancho infinito" sem qualificação, medo e ameaça, vídeo que não combina com o funil, a mesma copy todo dia, sem prova social, CTA sem motivo e 1º story sem link; (7) cinco estruturas de corpo, quase todas do amor e com medo ou prazo falso; a do Manifestation é a do Arcanjo Miguel (aula 54), **a origem do corpo A**; (8) pré-gancho de 1 a 3 s, quebra de padrão, headline na tela, som ambiente e efeito sonoro, bizarro ou ligado ao tema.
+- **Para a Nora (decisão minha):**
+  1. Os erros 1 e 6 batem com os números (1.456 views e 8 visitas ao perfil no nora49; 0 toque no link do story em ~6 h): o corpo A promete muito e o CTA não diz o que ela recebe. **O nora51 testa o CTA com motivos** (corpo A até "Closed financial doors are starting to open." + CTA novo: o que recebe, por que agora, o que fazer; engajamento depois; sem "claim", 222 falado e "chose you"), com o gancho que vencer entre o tsunami e a pedra. ~30 créditos.
+  2. **Saturação (erro 4):** o corpo A vai no 3º post seguido; o corpo novo é preparado em paralelo e entra a partir do nora52.
+  3. **Prova (erro 5):** Trustpilot real no story e no Destaque "Reviews" primeiro (0 crédito).
+  4. **Pré-gancho:** ligado ao tema e sem cartas na imagem; 5 ideias adaptadas da aula 32 no `BIBLIOTECA-PRE-GANCHOS.md` (nº 27 a 31), só depois do resultado do nora50. Efeito sonoro vira teste próprio depois.
+  5. Das estruturas da R7, só entram trechos: "This isn't a random prediction." (mecanismo) e "a leitura mostra onde a energia está travando" (motivo do CTA). "Free" fica fora (a leitura é paga).
+

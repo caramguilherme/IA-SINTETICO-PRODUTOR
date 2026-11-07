@@ -71,3 +71,13 @@ Todas com 3 a 6 s, 2 a 5 cortes e algo novo a cada 0,5 a 1,5 s:
 
 ## Ideia de 29/10/2026 (reel de @daflones_, seção 41 de `BIBLIOTECA-VIDEOS-VIRAIS.md`; adaptação do aluno)
 26. **Fita na boca + porta-retrato dos signos:** ela puxa um pedaço de washi tape esmeralda com estrelinhas e luas douradas, rasga com a mão e cola na boca (o "keep your mouth shut" em imagem); os signos e as datas ficam num porta-retrato em pé na mesa, no lugar da foto. Primeiro quadro com a fita ainda no rolo, último com a fita colada (Frames). Sem tesoura (o Flow erra o corte) e sem letra ou número na fita. Usado no nora41 (8 s, texto na tela) e no hook do nora42 (4 s).
+
+## Ideias da aula 32 (Oficina de hooks), adaptadas ao Manifestation (Clone do Gustavo, R8, 07/11/2026; `CLONE-DO-GUSTAVO-RESPOSTAS.md`)
+Sem cartas na imagem (o funil não tem cartas antes do quiz), ligadas ao tema (dinheiro, abundância, cristais), 3 a 4 s, uma ação "herói" só (lição do R003), caixa do topo desde o 1º quadro. Cada uma custa um vídeo de 10 s no Flow (15 créditos), cortado nos 3 a 4 s bons. Entram só depois do resultado do nora50 (pedra x tsunami), uma por vez.
+27. **Gatinho e o cristal:** um gatinho na mesa escura põe a pata em cima de um citrino entre três pedras e puxa ele para perto da câmera. (Animal fofo da aula, sem carta.)
+28. **Papel que queima numa tigela:** mão solta um papel dobrado numa tigela de cerâmica e ele pega fogo de uma vez, chama alta e laranja, longe de qualquer rosto. A palavra do papel não aparece (o fogo em papel tende a sair melhor no Flow do que no sal do R003).
+29. **Chave dourada na areia:** a mão enfia os dedos numa tigela de areia clara e puxa uma chave dourada, com a areia escorrendo. (Tirar de lugar inesperado; "portas que se abrem".)
+30. **Moeda na água:** a mão tira uma moeda dourada do fundo de uma tigela de água escura; gotas caem e brilham na luz da vela.
+31. **Cristal trazido à câmera:** a mão traz um geodo aberto, rápido, até quase encostar na lente, e para ("reset de atenção"); fundo do quarto à noite.
+Efeito sonoro (estalo, impacto): a aula libera; aqui segue só o som do clipe até um teste próprio, a 0 crédito, na edição.
+
