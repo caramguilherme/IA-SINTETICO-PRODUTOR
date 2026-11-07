@@ -979,3 +979,10 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
   4. **#AuraliTrend:** não aparece em nenhum material nosso e poria o nome do app (P15): fora, até o aluno achar o trecho na fonte. As 5 hashtags do nicho continuam.
   5. **Story:** adesivos "UNLOCK YOUR READING" e "FIND YOUR BLESSING" e o texto da "segunda parte" entram nos candidatos do lote de 7.
   6. **Avatar:** a Nora não está no caso de troca; o teste de avatar planejado no `VALIDACAO-CONTA-E-AVATAR.md` não vai nesta conta (pela aula, avatar nova vai em conta nova, o 2º perfil, adiado).
+
+### 07/11/2026 ~09h10 - A curva do nora49: só ~1 em cada 10 ouve o CTA (decisão minha sobre o nora51)
+- **Dado** (`METRICAS-NORA-LEIA.md`, 07/11 09h02): o nora49 tem 1.727 views, 67,6% nos 3 s e 18 s de média, mas a curva cai para ~25% aos 32 s, ~17% aos 53 s e **~8% a 10% aos 63 s**, quando a Nora diz "Then tap my profile picture". O CTA do corpo A está no fim de um vídeo de 67 s.
+- **Decisão:** o **nora51 testa o CTA novo na versão curta** do corpo A: o gancho que vencer + Take 1 novo + os ~20 s mais fortes do corpo ("I don't know your name…" até "…about to show up unexpectedly.", já gravados) + **o take novo do CTA** (rascunho R9: "Your private reading is ready before 11:11: tap my profile picture, open my story, and answer three quick questions.") + o "save this video / follow" já gravado. Fica com ~35 s, e o CTA entra perto dos 28 s, onde ~25% a 30% ainda assistem (2,5 a 3 vezes mais gente ouvindo). Mesmos 30 créditos.
+- **Por que juntar duração e texto do CTA num teste só:** o que se mede é a ida ao perfil e o clique; com o CTA no fim, só ~170 pessoas por vídeo chegam a ouvi-lo, e com isso nenhum texto de CTA consegue mudar o resultado de forma que dê para ver. As aulas mandam encurtar o corpo longo que vendeu (Clone R11, aulas 18 e 28) e o Iorhan põe o CTA com motivo como peça central (06/11). Se o nora51 subir as visitas por 1.000 views e os cliques, a versão curta vira a base; se não, volta o corpo inteiro e o próximo passo é o corpo novo (nora52).
+- O nora50 (hoje, 19h30) não muda: é o teste do gancho com o corpo A inteiro, contra o nora49.
+

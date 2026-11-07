@@ -252,6 +252,23 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - A Biblioteca mostra todo "Story de foto" com 0: ela não mede story; os números do story vêm do próprio story.
 - **Leitura:** no Face, o corpo A dá ~200 views por vídeo, ~1/7 do Insta; o Face não decide o teste. Quem decide o gancho (nora50) e o CTA (nora51) é o Insta (visitas ao perfil por 1.000 views) e o Tracker.
 
+### 07/11/2026 09h02 - nora49 no Insta, ~13h31 de vida (prints do aluno)
+| | nora49 (~13h31) | nora49 (~5h37) | nora48 (~10h35) |
+|---|---|---|---|
+| Views (viewers) | **1.727** (1.510) | 1.456 (1.275) | 1.404 (1.227) |
+| Passou dos 3 s | 67,6% | 65,9% | 71,2% |
+| Tempo médio | 18 s | 16 s | 20 s |
+| Follows | **16** | 10 | 9 |
+| Visitas ao perfil (por 1.000 views) | 9 (**5,2**) | 8 (5,5) | 3 (2,1) |
+| Comentários / salvos / envios | 26 / 36 / 10 | 15 / 33 / 7 | 26 / 23 / 12 |
+| EUA / Índia | **32,8% / 12,6%** | 35,7% / 11,4% | 19,2% / 31,7% |
+| 45+ | 55,9% | — | 52,4% |
+- "This reel has a strong hook"; 99,2% não seguidores; Tier 1 (EUA, Reino Unido, Canadá, Austrália) = 50,2%. Views quase paradas desde ~5 h (+271 em 8 h).
+- **Achado principal, na curva de retenção:** ~52% ainda assistem aos 9 s, ~32% aos 17 s (fim do Take 1), ~25% aos 32 s, ~17% aos 53 s ("Now save this video") e **só ~8% a 10% aos 63 s, quando a Nora diz "Then tap my profile picture"**. A curva estimada bate com a média de 18 s. Ou seja: **~1 em cada 10 pessoas ouve o CTA**; das ~170 que ouviram, 9 foram ao perfil (~5%).
+- **Corpo A somado no Insta:** nora48 + nora49 = 3.131+ views (acima da régua de 800 a 1.000): traz follows (25), salvos (59) e comentários "222", mas só 12 visitas ao perfil (3,8 por 1.000) e 3 cliques do Insta no Tracker de 06/11.
+- **Leitura:** o gancho segura (68% nos 3 s) e o horário das 19h30 trouxe os EUA; **o gargalo é o CTA, que chega tarde demais (63 s de 67 s)**. Isso muda o nora51: o CTA novo vai **mais cedo**, na versão curta do corpo A (Take 1 + os ~20 s mais fortes + o CTA, ~35 s; Clone R11, caso 3), onde ~25% a 30% ainda assistem, em vez de no fim de 67 s. Decisão em `COMUNIDADE-E-ESTRATEGIA.md` (07/11 ~09h10).
+- Falta: os prints dos comentários (quantos são de outras pessoas), o Insta do nora48 com ~32 h, o story-0611 e o Tracker de 07/11.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
