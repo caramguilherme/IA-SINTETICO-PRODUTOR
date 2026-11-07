@@ -219,7 +219,8 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - "This reel has a strong hook". O gráfico de views quase parou a partir de ~5 h. Curtidas concentradas nos primeiros ~15 s e com um pico perto de ~30 s.
 - **Leitura:** em metade do tempo o nora49 passou o nora48 em views, follows e salvos, e trouxe **2,6 vezes mais visitas ao perfil por 1.000 views**. O corpo é o mesmo e o gancho é o mesmo tsunami (espelhado). O que mais mudou foi **o horário**: às 19h31 (14h31 na Califórnia) o público dos EUA dobrou e o da Índia caiu a um terço. A retenção caiu um pouco (65,9% x 71,2%; 16 s x 20 s).
 - **O que isso muda no teste do gancho (nora50):** o nora43 (pedra escura, do nicho) teve ~10 visitas por 1.000 postado à 01h15, o mesmo horário ruim do nora48 (2,1). Então o gancho pesa, e o horário também. **O nora50 (gancho do nicho) tem de sair perto das 19h30, como o nora49**, para a comparação ser só do gancho: a régua passa a ser o nora49 (5,5 visitas por 1.000).
-- **A pedir:** os comentários do nora49 no Insta (quantos são de outras pessoas e as respostas), o story (viewers e toques no link), o Insta do nora48 com ~24 h e o Tracker de 06 e 07/11.
+- **Comentários (prints de 07/11 ~01h15):** 14 de outras pessoas (12 só "222", 1 "Sag Gang", 1 "Aries Sun 11:11 222 888") = **1,0%** das views, contra 1,8% do nora48. Mais gente foi ao perfil e menos comentou: o "222" é o pedido do Take 8 e não mede qualificação; a régua do teste é visita ao perfil, story e Tracker. Respostas sugeridas a 3 pessoas.
+- **A pedir:** o story (viewers e toques no link), o Insta do nora48 com ~24 h e o Tracker de 06 e 07/11.
 
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
