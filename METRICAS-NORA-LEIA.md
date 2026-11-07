@@ -223,7 +223,7 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **A pedir:** o story (viewers e toques no link), o Insta do nora48 com ~24 h e o Tracker de 06 e 07/11.
 
 ### 07/11/2026 01h10 - Story-0611 no Insta (postado em 06/11 18h43, ~6h27 de vida; prints do aluno)
-- **12 views, 10 viewers** (83,3% seguidores, 16,7% não seguidores: ~2 pessoas de fora), 0 interação (0 curtida, 0 resposta, 0 compartilhamento), 0 atividade no perfil; navegação 7 (4 saíram, 2 avançaram, 1 foi para o próximo story). **A linha de toques no link não aparece nos prints** (no story-0311 ela apareceu com 3): perguntado ao aluno se existe ou se está em 0.
+- **12 views, 10 viewers** (83,3% seguidores, 16,7% não seguidores: ~2 pessoas de fora), 0 interação (0 curtida, 0 resposta, 0 compartilhamento), 0 atividade no perfil; navegação 7 (4 saíram, 2 avançaram, 1 foi para o próximo story). **0 toques no link** (a linha "Link clicks" não aparece; o aluno confirmou: ninguém clicou).
 - **Leitura:** cedo (6h27; o story-0311 foi lido com ~17h30: 18 viewers, 3 toques). Os viewers são quase todos seguidores, e os 19 follows do nora48 e do nora49 contam como seguidores; das 8 visitas ao perfil do nora49, pouca gente abriu o story. Ler de novo perto de ~17h de 07/11, antes de repostar (vence 18h43).
 
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
