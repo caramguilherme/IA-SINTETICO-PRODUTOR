@@ -222,6 +222,10 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **Comentários (prints de 07/11 ~01h15):** 14 de outras pessoas (12 só "222", 1 "Sag Gang", 1 "Aries Sun 11:11 222 888") = **1,0%** das views, contra 1,8% do nora48. Mais gente foi ao perfil e menos comentou: o "222" é o pedido do Take 8 e não mede qualificação; a régua do teste é visita ao perfil, story e Tracker. Respostas sugeridas a 3 pessoas.
 - **A pedir:** o story (viewers e toques no link), o Insta do nora48 com ~24 h e o Tracker de 06 e 07/11.
 
+### 07/11/2026 01h10 - Story-0611 no Insta (postado em 06/11 18h43, ~6h27 de vida; prints do aluno)
+- **12 views, 10 viewers** (83,3% seguidores, 16,7% não seguidores: ~2 pessoas de fora), 0 interação (0 curtida, 0 resposta, 0 compartilhamento), 0 atividade no perfil; navegação 7 (4 saíram, 2 avançaram, 1 foi para o próximo story). **A linha de toques no link não aparece nos prints** (no story-0311 ela apareceu com 3): perguntado ao aluno se existe ou se está em 0.
+- **Leitura:** cedo (6h27; o story-0311 foi lido com ~17h30: 18 viewers, 3 toques). Os viewers são quase todos seguidores, e os 19 follows do nora48 e do nora49 contam como seguidores; das 8 visitas ao perfil do nora49, pouca gente abriu o story. Ler de novo perto de ~17h de 07/11, antes de repostar (vence 18h43).
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
