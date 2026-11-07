@@ -237,6 +237,21 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **O aluno confirmou (07/11 ~01h20): não abriu o link em 06/11. São os 1ºs cliques reais do Face da Nora** (os de 27 e 29/10 eram testes). De onde vieram (todos usam o link FACE): o story-0611 no Face, o comentário da Página no nora48 ou no nora49, ou o direct mandado ao Allan Williams (comentou "222" no nora48 do Face; direct com o link em 06/11 ~12h).
 - **Manifestation de 27/10 a 06/11: 22 cliques reais (20 do Insta, 2 do Face), 12 no fim do quiz, 0 checkout.**
 
+### 07/11/2026 08h51 - Face (Biblioteca de Conteúdo, print do aluno)
+| | nora49 (tsunami espelhado, 19h29) | nora48 (tsunami, 01h10) |
+|---|---|---|
+| Tempo de vida | ~13h22 | ~31h41 |
+| Views (visualizadores) | **222** (209) | 184 (168), igual desde 00h56 |
+| Views de 3 s | 105 (**47,3%**) | 95 (**51,6%**) |
+| Tempo médio | 8 s | 10 s |
+| Views de 1 min | 4 | 8 |
+| Comentários / seguidores | 2 / 1 | 3 / 1 |
+| Distribuição | +0,3x | +1,9x |
+- No mesmo tempo de vida, o nora48 tinha ~167 views (10h26) e parou em 184; **o nora49 está ~30% acima em views, com retenção um pouco menor**. Os dois ficaram abaixo da faixa de ~240 a 320 em que o Face costuma travar. O nora47 (corpo B) segue em 108, parado.
+- O nora49 ganhou **1 comentário novo depois de 00h56** (eram 1, o da Página com o link; agora 2): se for de outra pessoa, responder à mão e mandar o direct com o link FACE (textos do painel do nora49).
+- A Biblioteca mostra todo "Story de foto" com 0: ela não mede story; os números do story vêm do próprio story.
+- **Leitura:** no Face, o corpo A dá ~200 views por vídeo, ~1/7 do Insta; o Face não decide o teste. Quem decide o gancho (nora50) e o CTA (nora51) é o Insta (visitas ao perfil por 1.000 views) e o Tracker.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
