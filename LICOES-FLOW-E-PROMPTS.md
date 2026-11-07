@@ -432,3 +432,7 @@ If the generation of any video fails, please resubmit ONLY the item that failed 
 - **Leitura:** o registro de "Leitura obrigatória" do painel cita o `CLONE-DO-GUSTAVO-RESPOSTAS.md`.
 - **Legenda (R17 e R20):** 3 a 5 hashtags do nicho; sem 222, "claim", "free", link (no Insta) e nome do app.
 - **Fala nova de corpo (R15 e R16):** sem "immediately", "wealth", "gift", "2-minute" e vivência inventada; o mecanismo usa a palavra do funil ("cosmic receiver").
+
+### 07/11/2026 - Antes de dizer "não está registrado", buscar direito (erro meu, o aluno corrigiu)
+- Eu disse que a restrição de país da Página do Face não estava anotada; estava no `FATOS-DO-ALUNO.md` desde 06/11 (print do aluno). Busquei só "restrição de país" seguido de "país", e o registro dizia "restrição de país **conferida**" e "Mostrar somente para certos países".
+- **Regra:** antes de afirmar que um fato não existe (ou de pedir ao aluno), (1) buscar por 3 ou mais palavras diferentes do assunto (o nome em português e em inglês, o nome do menu, um valor provável, como "Tier 1" ou "Canadá"); (2) ler a seção inteira do `FATOS-DO-ALUNO.md` sobre aquilo (Contas, Facebook, Instagram); (3) se ainda não achar, dizer "não achei" e mostrar onde procurei, nunca "não está registrado" (P38: nunca perguntar o que já está lá).

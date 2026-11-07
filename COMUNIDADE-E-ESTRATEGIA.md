@@ -975,8 +975,7 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 - **Para a Nora (decisão minha):**
   1. **Corpo novo (nora52)** sai do corpo C (dor qualificada "tired of worrying about money" → mecanismo com a palavra da nossa VSL, "cosmic receiver" → desejo), com o CTA que vencer no nora51; o "3 sinais" é o formato seguinte. Fala e escolha final na leitura completa.
   2. **0 checkout em 22 cliques** fica abaixo da régua da aula (com 18%, a chance de 0 seria ~1%): confirma falta de qualificação; a régua é do Soulmate e o nosso botão só aparece aos 16:00, mas o nora51 e o público dos EUA atacam isso.
-  3. **Restrição de país na Página do Face:** não está registrada. O aluno confere e manda print; se não tiver, liga EUA, Canadá, Reino Unido, Austrália e Nova Zelândia depois da leitura de 24 h do nora50 no Face (08/11 ~19h30).
+  3. **Restrição de país na Página do Face:** já está ligada (EUA, Canadá, Reino Unido, Austrália e Nova Zelândia), conferida no print do aluno de 06/11 ~11h35 (`FATOS-DO-ALUNO.md`). Nada muda. **Correção (07/11 ~07h15, o aluno avisou):** eu tinha escrito "não está registrada" porque busquei com palavras que não estavam no `FATOS` ("restrição de país"; o registro usa "restrição de país **conferida**" e "Mostrar somente para certos países").
   4. **#AuraliTrend:** não aparece em nenhum material nosso e poria o nome do app (P15): fora, até o aluno achar o trecho na fonte. As 5 hashtags do nicho continuam.
   5. **Story:** adesivos "UNLOCK YOUR READING" e "FIND YOUR BLESSING" e o texto da "segunda parte" entram nos candidatos do lote de 7.
   6. **Avatar:** a Nora não está no caso de troca; o teste de avatar planejado no `VALIDACAO-CONTA-E-AVATAR.md` não vai nesta conta (pela aula, avatar nova vai em conta nova, o 2º perfil, adiado).
-
