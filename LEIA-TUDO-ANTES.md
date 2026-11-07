@@ -36,6 +36,7 @@ Decisão do aluno em 18/10/2026: **antes de TODO roteiro novo e antes de TODO pr
 - `AULA-IORHAN-30-10-SLIDES-VIRALIZACAO-X-CONVERSAO.pdf` (20 slides) e `AULA-IORHAN-30-10-ANALISE-DE-COPY.pdf` (6 páginas): os PDFs originais da aula do Iorhan de 30/10, guardados em 03/11/2026; o texto inteiro já está no apêndice 3 de `AULA-IORHAN-30-10-COPY-QUE-CONVERTE.md` (abrir o PDF só para ver as cores e o layout)
 - `MATERIAIS-CALL-06-11/LEIA.md` (links dos materiais oficiais da call de 06/11: guia de variações, ads de empilhamento, análise de copy, prompts de ads, Love Reading: plano de melhorias; os textos ficam no Google Docs, resumo na aula de 06/11)
 - `AULA-06-11-VARIACOES-E-COPY-COM-IA-IORHAN.md` (call do Iorhan de 06/11: variações de um vídeo validado, empilhamento de gancho, CTA com motivos, Love Reading, minerar fora da Appyon Creators; resumo, a transcrição está no Loom)
+- `CLONE-DO-GUSTAVO-RESPOSTAS.md` (07/11: as perguntas feitas ao NotebookLM "Clone do Gustavo" e as respostas, com a aula de cada ponto e o que vale para a Nora: link no 1º story, lote semanal de stories, ganchos validados de Manifestation, Estrutura Instagram e Facebook, perfil de influenciador, Destaques; e as próximas perguntas)
 - `AULA-IORHAN-30-10-TRANSCRICAO-LIMPA.md` (a mesma aula de 30/10 numa transcrição limpa, mandada pelo aluno em 03/11/2026; o que ela acrescenta e o molde de roteiro de manifestação estão nas seções 10 e 11 de `AULA-IORHAN-30-10-COPY-QUE-CONVERTE.md`, que é a leitura obrigatória; abrir a transcrição só para buscar uma frase)
 
 ## Conflitos entre documentos
