@@ -950,3 +950,11 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
   4. **Pré-gancho:** ligado ao tema e sem cartas na imagem; 5 ideias adaptadas da aula 32 no `BIBLIOTECA-PRE-GANCHOS.md` (nº 27 a 31), só depois do resultado do nora50. Efeito sonoro vira teste próprio depois.
   5. Das estruturas da R7, só entram trechos: "This isn't a random prediction." (mecanismo) e "a leitura mostra onde a energia está travando" (motivo do CTA). "Free" fica fora (a leitura é paga).
 
+### 07/11/2026 ~05h - Clone do Gustavo, respostas 9 a 11: CTA com motivos, pré-ganchos do nicho, quando trocar o corpo
+- **O que ele respondeu** (detalhe em `CLONE-DO-GUSTAVO-RESPOSTAS.md`, R9 a R11): (9) CTA em 3 partes, desejo → motivo dizendo o que tem do outro lado → ação direta, com o modelo da aula 64 ("You will see a quick 2-minute test where you'll receive your personalized astral reading…"); (10) pré-ganchos do Manifestation sem cartas: peneira com moedas (aula 43), sal no chão do banheiro, círculo de cristais, fumaça de incenso ou pêndulo, taça tibetana, maço de notas, canela ou bicarbonato na água; (11) não repetir a mesma copy todo dia no mesmo perfil: 3 a 4 ganchos no mesmo corpo; trocar o corpo quando há views sem clique, ângulo novo, mudança de duração (versão de 20 a 30 s) ou mercado cansado do medo.
+- **Para a Nora (decisão minha):**
+  1. **CTA do nora51** no molde da aula 64, na versão honesta do nosso funil: "three quick questions, and your private reading is ready" (é o que o chat da Aura diz: "Just 3 quick questions, and your reading will be ready."), mais "before 11:11" e a ação (foto, story, link). Um take novo; o "save this video / follow" já gravado vem depois do CTA; saem "Comment 222 to claim this energy" e o fim antigo. 30 créditos com o Take 1.
+  2. **Regra dos 3 a 4 ganchos:** o corpo A chega ao 3º no nora50. Se o nora51 (CTA novo) subir o clique, o corpo A segue com ganchos novos; se não, corpo novo no nora52.
+  3. **Próximo teste de gancho:** os pré-ganchos que as aulas mostram funcionando (`BIBLIOTECA-PRE-GANCHOS.md`, nº 32 a 38; o 1º da fila é a peneira com moedas da aula 43), na frente das minhas adaptações (27 a 31). Nota de dinheiro só no Insta.
+  4. **Versão curta (20 a 30 s) do corpo A, 0 crédito:** variação para horário vazio do Face, quando o aluno pedir.
+

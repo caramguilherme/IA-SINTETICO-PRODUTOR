@@ -81,3 +81,13 @@ Sem cartas na imagem (o funil não tem cartas antes do quiz), ligadas ao tema (d
 31. **Cristal trazido à câmera:** a mão traz um geodo aberto, rápido, até quase encostar na lente, e para ("reset de atenção"); fundo do quarto à noite.
 Efeito sonoro (estalo, impacto): a aula libera; aqui segue só o som do clipe até um teste próprio, a 0 crédito, na edição.
 
+## Pré-ganchos que as aulas mostram funcionando no Manifestation (Clone do Gustavo, R10, 07/11/2026): vêm ANTES das ideias 27 a 31
+Mesmas regras: 3 a 4 s, uma ação só, sem cartas, caixa do topo desde o 1º quadro, 15 créditos cada (vídeo de 10 s no Flow, cortado). Ordem de uso no próximo teste de gancho, depois do resultado do nora50:
+32. **Peneira com moedas** (aula 43): a mão sacode uma peneira de metal sobre a mesa e moedas douradas caem e quicam, com som de metal. Moeda, não nota.
+33. **Canela na tigela de água** (aulas 32, 46, 55): a mão derrama canela em pó numa tigela de água escura e o pó gira e se espalha na superfície. Para 01/12: canela soprada da palma da mão na porta (tendência dos EUA no dia 1º).
+34. **Taça tibetana** (aulas 36, 53): a mão bate a baqueta na borda da taça e passa em volta; o som vibrando é o próprio som do clipe.
+35. **Círculo de cristais que brilham** (aulas 32, 12): cristais claros num círculo na mesa escura; a mão tira um e os outros acendem de leve.
+36. **Fumaça de incenso no quarto** (aulas 36, 53): o quarto à noite tomado por fumaça densa e a mão passando o incenso aceso; ou um pêndulo com pedra luminosa balançando no ar.
+37. **Sal grosso no chão do banheiro** (aulas 54, 43): o sal cai de um pote no piso claro e os dois pés pisam em cima. Sem rosto.
+38. **Maço de notas contado** (aula 26): só no Insta, se for usar; no Face, dinheiro na tela pode contar como promessa de ganho.
+

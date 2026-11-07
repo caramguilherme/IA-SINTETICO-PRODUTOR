@@ -116,8 +116,50 @@ As versões da Nora entraram no `BANCO-DE-HEADLINES.md` (nº 12 a 17).
 
 ---
 
+## R9 (07/11): CTA com motivos (reason why)
+**Ordem das partes:** (1) **desejo ou ganho** (o que vai acontecer de bom: a 2ª parte do sinal, as bênçãos, a leitura); (2) **o motivo, dizendo o que tem do outro lado** (qualifica antes do quiz: "porque a 2ª parte está lá", "um teste rápido que mostra…"); (3) **a ação, direta** (aonde ir e o que tocar). Nada de ordem seca nem urgência falsa.
+| CTA (EN) | Motivo | Aula | Para a Nora |
+|---|---|---|---|
+| "Now pay attention: click on my profile picture and check my stories, because the second part of this sign is waiting for you there." | A 2ª parte do sinal está no story | 54, 65 | É o CTA atual do corpo A. Tem motivo, mas não diz o que ela encontra |
+| "Don't forget to check my stories so this prediction will become reality." | Clicar "faz" a previsão acontecer | 19 | Fora: o clique não faz nada acontecer (HONESTIDADE) |
+| "Tap on my profile picture and check my stories. You will see a quick 2-minute test where you'll receive your personalized astral reading and all the answers for your life." | Diz o que tem do outro lado: teste rápido + leitura | 64 (guia de US$ 1 mil por dia) | **O modelo do nora51**, na versão honesta do nosso funil: o chat da Aura diz "Just 3 quick questions, and your reading will be ready." (`BRIEFING-MANIFESTACAO.md`), então "three quick questions" + "your private reading"; sem "2 minutes" (não medido), sem "all the answers for your life" (promessa grande demais) |
+| "There is a test that reveals exactly where this misalignment is happening. Click on my profile and access the link in my bio. The test is free because this message was meant for you." | O teste mostra onde está o desalinhamento | 11, 57 | Sem "free" (a leitura é paga) e sem link na bio |
+| "Comment 222 to activate all these blessings, and go to my stories to connect correctly and receive your personal reading." | Comentar ativa; o story entrega a leitura | 55, 43 | 222 e "activate/claim" fora desde o nora50; a parte "receive your personal reading" confirma o "your private reading" |
+
+**Rascunho do CTA do nora51** (fala nova: passa pela leitura e pelas regras P28 a P35 antes do painel; até 22 palavras por take):
+- **Take do CTA (19 a 21 palavras), as 3 partes:** desejo + por que agora ("before 11:11") + o que tem lá ("three quick questions, and your private reading is ready") + a ação ("tap my profile picture, open my story, tap the link"). Exemplo de partida: "Your private reading is ready before 11:11: tap my profile picture, open my story, and answer three quick questions." (19 palavras).
+- **Montagem (0 crédito a mais):** corpo A até "Closed financial doors are starting to open." → o take novo do CTA → o trecho já gravado "Now save this video. That will be your first seal. Tap the follow button down below. That will be your second seal." (o engajamento vem depois do CTA, como pede o Iorhan) → fim. Sai do vídeo: "Comment 222 to claim this energy." e "Then tap my profile picture. The second part of this sign is waiting in my stories."
+- **Custo:** Take 1 novo (15) + o take do CTA (15) = 30 créditos.
+
+---
+
+## R10 (07/11): pré-ganchos que funcionaram no Manifestation, sem cartas
+| Pré-gancho | Por que funciona | Aula | Para a Nora |
+|---|---|---|---|
+| Peneira (ou recipiente) e moedas caindo, com som de metal; ou um cifrão brilhando | O desejo de dinheiro no 1º segundo | 43 (14 e 17 mil de comissão) | **1º da fila** para o próximo teste de gancho; moeda, não nota (o Face restringe promessa de dinheiro) |
+| Sal grosso derramado no chão do banheiro (ou numa tigela com água e plantas) e a pessoa pisando com os dois pés | Ritual tátil e real de limpeza | 54, 43 | Bom; pés e sal, sem rosto; o ritual fica na imagem, nunca na caixa do topo |
+| Círculo de pedras e cristais que brilham, a mão tirando ou mudando as pedras de lugar | Brilho e movimento de mão | 32, 12 | Bom; perto da nossa pedra e do geodo |
+| Fumaça densa de incenso no quarto, ou um pêndulo com pedra luminosa no ar | Clima de limpeza, vale para todo o nicho | 36 (ângulos validados), 53 (Central + Flow) | Bom; quarto à noite é o nosso cenário validado |
+| Toque num sino ou numa taça tibetana na mesa | O som vibrando "reseta" a atenção | 36, 53 | Bom; é o efeito sonoro dentro do próprio clipe (não precisa pôr efeito na edição) |
+| Maço de notas sendo contado nos 3 primeiros segundos | "Pressão do dinheiro" | 26 | Só no Insta, se for usar: no Face, dinheiro na tela pode contar como promessa de ganho |
+| Pó de café, canela ou bicarbonato derramado numa tigela de água ou numa superfície | Imita simpatias de dinheiro conhecidas (canela na porta) | 32, 46, 55 | Bom; a canela soprada na porta no dia 1º do mês é tendência nos EUA (para 01/12) |
+
+Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27 a 31** (que eu adaptei da aula 32; estas são as que as aulas mostram funcionando no nicho).
+
+---
+
+## R11 (07/11): repetir a copy validada e quando trocar o corpo
+**No mesmo perfil, não repetir a mesma copy todo dia:** a entrega cai e o público assiste sem clicar. Mantém a estrutura do corpo e testa **3 a 4 ganchos** (troca de gancho, empilhamento, combinação). Para escalar a copy validada: outros perfis com outras avatares (lateralização). Aulas 13, 28, 31.
+**Quando trocar o corpo:** (1) **views sem clique** = corpo fraco ou "gancho infinito": trocar para pôr qualificação, coisa específica e prova (aulas 64, 65); (2) ângulo, mecanismo ou fatia novos (aulas 12, 26, 28); (3) mudar a duração: encurtar um corpo longo que vendeu para 20 a 30 s (os ~20 s mais fortes + o CTA) ou alongar um curto com objeção e prova (aulas 18, 28); (4) mercado cansado do medo: corpo de desejo e de ciclo novo (aulas 65, 66).
+
+**Para a Nora:**
+- O corpo A já teve 3 ganchos (tsunami, tsunami espelhado, pedra no nora50), dentro dos "3 a 4" da aula; e está no caso (1): views boas, quase nenhum clique. Confirma o plano: **nora51 muda o fim (CTA com o que tem do outro lado); se o clique subir, o corpo A segue com ganchos novos; se não subir, o corpo novo entra no nora52**, como já estava.
+- **Versão curta de 20 a 30 s (caso 3), 0 crédito:** Take 1 + os ~20 s mais fortes do corpo A + o CTA, cortados do vídeo que já existe. Serve de variação para os horários vazios do Face no lugar do espelho; painel quando o aluno pedir.
+- Lateralização é o 2º perfil, adiado pelo aluno: não propor.
+
+---
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
-Feitas e respondidas: R6, R7 e R8 (07/11). As próximas:
-1. "Como as aulas mandam escrever o CTA com motivos (reason why) no funil de Manifestation? Quero exemplos em inglês, a ordem das partes e a aula de onde saiu."
-2. "Quais pré-ganchos visuais as aulas mostram que funcionaram no nicho de Manifestation (dinheiro, abundância, cristais), sem cartas? Exemplos e a aula."
-3. "O que as aulas dizem sobre repetir a mesma copy validada: quantas vezes usar no mesmo perfil e quando trocar o corpo? Cite a aula."
+Feitas e respondidas: R1 a R11 (07/11). As próximas, quando ele quiser:
+1. "Que provas sociais as aulas mandam usar no Manifestation (o que mostrar, onde e em que parte do vídeo), sem inventar depoimento? Cite a aula."
+2. "O que as aulas dizem sobre música e efeito sonoro no pré-gancho e no corpo: qual som, em que volume e quando entra? Cite a aula."
