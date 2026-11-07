@@ -234,8 +234,8 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 | 06/11, Insta | 3 | 3 | 2 | 2 | 0 | 0 |
 | 06/11, Face | **2** | 2 | 1 | 1 | 0 | 0 |
 - Às 11h57 de 06/11 eram 2 cliques (os 2 do Insta, os 2 terminaram). Depois disso entraram **+1 no Insta** (antes de 18h23, pelo story-0311, porque o story-0611 marcou 0 toque até 01h10) e **+2 no Face** (depois do story-0611 no Face às ~18h45 e do nora49 às 19h29, com o link no comentário da Página).
-- **Atenção:** os cliques do Face de 27 e 29/10 eram testes do próprio aluno. **Perguntado se ele abriu o link do Face (ou do Insta) para testar em 06/11.** Se não, são **os 1ºs cliques reais do Face** da Nora.
-- **Manifestation de 27/10 a 06/11:** 22 cliques (19 + 3), 12 no fim do quiz (11 + 1), 0 checkout, se os do Face forem reais.
+- **O aluno confirmou (07/11 ~01h20): não abriu o link em 06/11. São os 1ºs cliques reais do Face da Nora** (os de 27 e 29/10 eram testes). De onde vieram (todos usam o link FACE): o story-0611 no Face, o comentário da Página no nora48 ou no nora49, ou o direct mandado ao Allan Williams (comentou "222" no nora48 do Face; direct com o link em 06/11 ~12h).
+- **Manifestation de 27/10 a 06/11: 22 cliques reais (20 do Insta, 2 do Face), 12 no fim do quiz, 0 checkout.**
 
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
