@@ -970,3 +970,13 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 - **O que ele respondeu** (tabela em `CLONE-DO-GUSTAVO-RESPOSTAS.md`, R14): texto na tela, slideshow ou carrossel em vídeo, POV de mãos, faceless, versão curta de 20 a 30 s, react e cenário de podcast (aulas 12, 13, 18, 19, 21, 28, 46).
 - **Para a Nora (decisão minha):** horário vazio do Face recebe, nesta ordem, (1) a versão curta de 20 a 30 s do corpo A, (2) slideshow do desejo com headline do banco, (3) o espelho com filtro; tudo a 0 crédito e com painel só quando o aluno pedir. Texto na tela já foi testado (face01: 546 views no Insta; face02: 152) e ficou abaixo do falado. Faceless não cabe no perfil da Nora (é ela o rosto); POV e podcast gastam crédito e ficam para um corpo novo.
 
+### 07/11/2026 ~07h - Clone do Gustavo, respostas 15 a 21: corpos de desejo, mecanismo, EUA x Índia, story, números, legenda, avatar
+- **O que ele respondeu** (tudo em `CLONE-DO-GUSTAVO-RESPOSTAS.md`, R15 a R21): 3 corpos de desejo (3 sinais, aula 65; as 5 coisas, aula 66, conferido com o nosso resumo; mudança de frequência, aulas 66 e 67); o corpo de mecanismo ("não é azar, o seu lado que recebe está travado"; "Cosmic Receiver"); restrição de país no Face, proxy, pico dos EUA e 3 a 5 hashtags do nicho; textos de story e adesivo do Manifestation; números (checkout de 18% a 20% dos cliques; abaixo de 10% = falta qualificação; matar e escalar); legenda e comentário; trocar a avatar só em conta nova.
+- **Para a Nora (decisão minha):**
+  1. **Corpo novo (nora52)** sai do corpo C (dor qualificada "tired of worrying about money" → mecanismo com a palavra da nossa VSL, "cosmic receiver" → desejo), com o CTA que vencer no nora51; o "3 sinais" é o formato seguinte. Fala e escolha final na leitura completa.
+  2. **0 checkout em 22 cliques** fica abaixo da régua da aula (com 18%, a chance de 0 seria ~1%): confirma falta de qualificação; a régua é do Soulmate e o nosso botão só aparece aos 16:00, mas o nora51 e o público dos EUA atacam isso.
+  3. **Restrição de país na Página do Face:** não está registrada. O aluno confere e manda print; se não tiver, liga EUA, Canadá, Reino Unido, Austrália e Nova Zelândia depois da leitura de 24 h do nora50 no Face (08/11 ~19h30).
+  4. **#AuraliTrend:** não aparece em nenhum material nosso e poria o nome do app (P15): fora, até o aluno achar o trecho na fonte. As 5 hashtags do nicho continuam.
+  5. **Story:** adesivos "UNLOCK YOUR READING" e "FIND YOUR BLESSING" e o texto da "segunda parte" entram nos candidatos do lote de 7.
+  6. **Avatar:** a Nora não está no caso de troca; o teste de avatar planejado no `VALIDACAO-CONTA-E-AVATAR.md` não vai nesta conta (pela aula, avatar nova vai em conta nova, o 2º perfil, adiado).
+

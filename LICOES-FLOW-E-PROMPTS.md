@@ -430,3 +430,5 @@ If the generation of any video fails, please resubmit ONLY the item that failed 
 - **Prova:** só real (`provas-trustpilot/`, nome do app cortado); nada de cliente, casal ou resultado inventado.
 - **Teste:** o painel diz qual é a única variável do vídeo e contra qual vídeo compara (ordem: gancho → CTA → prova → efeitos → música).
 - **Leitura:** o registro de "Leitura obrigatória" do painel cita o `CLONE-DO-GUSTAVO-RESPOSTAS.md`.
+- **Legenda (R17 e R20):** 3 a 5 hashtags do nicho; sem 222, "claim", "free", link (no Insta) e nome do app.
+- **Fala nova de corpo (R15 e R16):** sem "immediately", "wealth", "gift", "2-minute" e vivência inventada; o mecanismo usa a palavra do funil ("cosmic receiver").

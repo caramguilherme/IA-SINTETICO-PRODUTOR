@@ -204,12 +204,76 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 
 ---
 
+## R15 (07/11): corpos de desejo, sem medo (aulas 65, 66, 67)
+**Conferido aqui:** o roteiro B bate com o resumo local da aula 66 (`AULA-02-11-DO-MEDO-AO-DESEJO.md`, as "5 coisas"); o A e o C são do jeito que o notebook contou (ele avisa que pode errar).
+| Corpo | Gancho → corpo → CTA (EN, como o notebook trouxe) | Aula | Para a Nora |
+|---|---|---|---|
+| A. 3 sinais de abundância | "If this video reached your screen today, it is a sign from the universe that your next phase of abundance is coming." → "3 signs that the universe is sending you exactly what you desire. First, you start noticing repetitive numbers like 11:11 or 222 everywhere. Second, unexpected financial gifts or opportunities begin to appear out of nowhere. Third, you feel a deep inner peace and certainty that your dreams are already yours." → "If you want to claim this new cycle, comment 'Abundance' below and go to my stories right now to take your quick personal reading." | 65 | **Candidato a corpo novo** (curto, 4 a 5 takes). Ajustes: "unexpected opportunities/blessings" no lugar de "financial gifts" (Face), sem "claim", o comentário depois do CTA, o CTA do nora51 |
+| B. As 5 coisas | "Most of us take years to learn what I'm going to pass on to you in two minutes. This is how I manifested my dream life." → (1) você não precisa aprender, precisa lembrar (o desejo de criança); (2) a mente só quer o que é familiar; (3) sentir não é fingir: se dói, deixe doer 15 minutos, respire, agradeça e pergunte o que ensina; (4) ninguém bebe água por você: sentir abre o caminho, mas quem anda é você; (5) escolha o desejo nº 3 antes de dormir e imagine o momento exato → "I left a special gift for you in my stories — a quick 2-minute test…" | 66 | Conteúdo de valor, mas longo (~2 min, 8+ takes, 120+ créditos). Fora: "This is how I manifested my dream life" (a Nora não finge vivência, HONESTIDADE; o banco já tem a versão sem isso, nº 6), "gift" e "2-minute" (a leitura é paga; tempo não medido) |
+| C. Mudança de frequência sem esforço | "I know you're tired of constantly worrying about money, but a single shift in your frequency can change everything." → "Wealth isn't about struggling endlessly. It's about aligning your mind with the infinite abundance of the universe. When you bless your own name and release the pressure, financial opportunities begin to flow to you naturally without force or anxiety." → "Comment '222' to lock in this blessing, and check the link in my stories right now to receive your personalized reading." | 67, 66 | **O mais perto da fatia planejada** ("manifesta e nada chega", "STOP CHASING MONEY"): qualifica pela dor ("tired of worrying about money") e vira desejo. Ajustes: sem "wealth", sem "lock in" e 222 falado; "opportunities start finding you" no lugar de dinheiro fluindo (Face) |
+
+**Decisão:** o corpo novo (nora52) sai do **C** (dor qualificada → mecanismo → desejo), com o mecanismo da R16 e o CTA que vencer no nora51; o **A** (3 sinais) é o formato seguinte. A escolha final e a fala são feitas na leitura completa (roteiro novo).
+
+---
+
+## R16 (07/11): corpo de mecanismo (por que não funcionou e o que muda)
+**Como é:** a especialista explica a causa (não é azar nem maldição: o "mecanismo de criar a realidade" da pessoa está travado ou desalinhado) e a solução (ela nasceu para receber, como "co-criadora" ou "Cosmic Receiver"; só precisa ativar). Aulas 26, 11, 46, 64.
+**Exemplos:** "The reason your manifestations haven't worked is not because you lack luck, but because your inner reality creation mechanism is locked. When you align and activate your inner power, everything shifts immediately. The abundance and money that enter your life won't disappear — they simply stay because they match your active frequency. There is a quick test that reveals exactly where this misalignment is happening and shows you how to activate it." · "There is a test that reveals exactly where this energy misalignment is happening. You don't need hard effort or struggle; you just need to activate your Cosmic Receiver device to start receiving endless abundance. Tap on my profile picture and check my stories to access your reading."
+**Para a Nora:** a VSL do nosso funil chama a pessoa de **"cosmic receiver"** (`ANALISE-FUNIL-MANIFESTATION-VSL.md`; `BRIEFING-MANIFESTACAO.md` lista "Cosmic Receiver" e "co-creator" como vocabulário do funil): usar a palavra no corpo novo deixa vídeo e funil iguais (erro 3 da R6). Molde: "não é falta de sorte" → "a pressão de correr atrás fecha o seu lado que recebe" → "quando você solta, as portas começam a abrir" → CTA. Fora: "immediately", "won't disappear", "endless abundance", "device", "free".
+
+---
+
+## R17 (07/11): mais EUA, menos Índia
+| O que a aula manda | Fonte | A Nora hoje | Decisão |
+|---|---|---|---|
+| **Restrição de país na Página do Face** (só EUA, Canadá, Reino Unido, Austrália, Nova Zelândia): de outro país nem aparece | Estrutura Facebook, aula 51 | **Não está registrado** se a Página tem; o Vitor Kretzer (vende) também usa (`FATOS-DO-ALUNO.md`) | O aluno confere nas configurações da Página e manda print; se não tiver, liga **depois da leitura de 24 h do nora50 no Face** (08/11 ~19h30), para não misturar com o teste do gancho |
+| Proxy dos EUA no Insta | Estrutura Instagram, 30, 51 | GeeLark com proxy (renovada até 06/12) | Nada muda |
+| Postar no pico dos EUA (16h a 19h de lá) | Estrutura Instagram, 30, 51 | 16h a 19h na costa leste = 18h a 21h aqui; o nora49 às 19h31 dobrou os EUA (35,7%) | Bate com o nosso dado; os horários seguem. **Programar pelo Business Suite, não:** agendar derrubou a entrega (regra de postagem) |
+| Tirar clickbait de duplo sentido; qualificar na tela e na legenda ("For US residents…") | 28, 64 | Os ganchos são do nicho; "For US residents" na tela soa estranho e não foi testado | Sem mudança; o teste do gancho do nicho (nora50) já ataca isso |
+| 3 a 5 hashtags do nicho em inglês + **"#AuraliTrend", hashtag "obrigatória de tracking"** | Estrutura Facebook, 54 | A legenda já leva 5 do nicho (`#manifestation #1111portal` + os 3 signos) | Seguem as do nicho. **#AuraliTrend não aparece em nenhum material nosso** (aulas, avisos, Central) e poria o nome do app na legenda (P15): fora, até o aluno achar o trecho exato na fonte |
+
+---
+
+## R18 (07/11): textos de story e de adesivo do Manifestation
+**Adesivos citados:** "Find your blessing here" · "Claim your abundance here" / "Claim it here" · "Your financial gift is here" / "Your gift" · "Unlock your reading" · "Click here" / "Tap here".
+**Textos citados:** "Your next phase of abundance is waiting for you. Tap the link below to take your 2-minute personal reading." · "Don't ignore this sign. Claim your financial blessings now." · "Is it possible to manifest money in 24 hours? Take the free test and see for yourself." · "The second part of your prediction is ready. Click the link to reveal what the universe has prepared for you today." Aulas 13, 46, 54, 55.
+**Para a Nora:**
+- **Entram:** os adesivos "UNLOCK YOUR READING", "FIND YOUR BLESSING" e "TAP HERE"; o texto da "segunda parte" (continua o CTA do vídeo, "the second part of this sign is waiting in my stories") e o da "next phase of abundance", com "three quick questions" no lugar de "2-minute".
+- **Ficam fora:** "Claim…", "financial gift" e "gift" (a leitura é paga), "free test", "money in 24 hours", "Don't ignore this sign" (pressão).
+- **Candidatos para o lote de 7** (a escolha sai depois da leitura do story-0611, ~17h de 07/11): "The second part of this sign is ready. ✨ Tap below to see what's opening for you." · "Your next chapter of abundance is waiting. Three quick questions, then your private reading." · "You're not here by accident. ✨ Your private reading is waiting below." (o atual) · "Is it true? ✨" + uma avaliação real do Trustpilot (`provas-trustpilot/`).
+
+---
+
+## R19 (07/11): números para julgar, matar ou escalar
+- **Gancho:** menos de 100 views ou queda nos 3 primeiros segundos = o problema é o gancho.
+- **Conta saudável:** 200 a 300 views por vídeo desde o começo; se os 10 primeiros ficam em 10 a 30, a conta "flopou" e é descartada. Vídeo validado forte: 50 mil a 100 mil+ views com comentários.
+- **Do clique ao checkout:** 18% a 20% é saudável; 25% a 40% nos melhores perfis; **abaixo de 10% = falta qualificação na copy**.
+- **Matar:** conta que não passa de 50 a 200 views depois de 10 vídeos; avatar que, com várias copies validadas, não passa de 300 views nem traz comentário; gancho que fica abaixo de 100 views em posts seguidos.
+- **Escalar:** vídeo com 30 mil a 100 mil views, comentários e vendas: empilhar ou trocar ganchos no mesmo corpo e levar a copy para 10 a 20 avatares em outras contas. Aulas 13, 25, 28, 31, 64.
+
+**Para a Nora:**
+- Gancho e avatar passam: 1.400+ views no Insta, 66% a 71% nos 3 s, comentários reais (nora48: 25). **A conta não é caso de matar nem de trocar a avatar.**
+- **O funil está abaixo da régua:** de 27/10 a 06/11, 22 cliques reais e **0 checkout** (0%). Com 18%, seriam ~4; a chance de dar 0 seria ~1%. Pela aula, é falta de qualificação, o mesmo que a R6 apontou. Ressalva: a régua é das aulas antigas (Soulmate, US$ 9); no Manifestation o botão só aparece aos 16:00 da VSL, então a taxa natural deve ser menor. Mesmo assim, reforça o nora51 (o CTA diz o que tem do outro lado) e o público dos EUA.
+- Escalar fica para quando um vídeo passar de 30 mil.
+
+---
+
+## R20 (07/11): legenda, comentário fixado e hashtag
+**Legendas citadas:** "The universe sent you this message for a reason. Type '222' to claim your financial blessings and tap the link in my bio/stories for your personal reading." · "This 9-word prayer is bringing unexpected money gifts to those who align their energy today. Comment 'YES' to receive and check my stories for the full prediction."
+**Comentário fixado citado:** "Tap here to take your free 2-minute manifestation test and reveal your predictions: [link]" · "Claim your financial blessings now! Click here to access your reading: [link]".
+**Hashtags:** poucas, do nicho (#manifestation, #abundance, #lawofattraction, #moneymanifestation) + "#AuraliTrend". Aulas 43, 54, 55, Estrutura Facebook.
+**Para a Nora:** a legenda atual já segue o molde (o gancho + "Your private reading is waiting in my story." + 5 hashtags do nicho). Fora: 222 e "claim" na legenda, "free", "money gifts", link no comentário do Insta (lá não é clicável; regra de 27/10) e o #AuraliTrend (ver R17). No Face, o comentário da Página com o link FACE continua.
+
+---
+
+## R21 (07/11): quando trocar a avatar e como testar outra
+- **Trocar** quando a conta posta com frequência e os vídeos ficam em 50 a 300 views, sem comentário real, mesmo com copy campeã; ou quando a avatar é caricata (parece muito velha, figurino místico exagerado).
+- **Testar sem perder o validado:** nunca trocar nem tirar uma avatar que já vende; 1 avatar por conta, cada nova numa conta separada; testar 5 a 10 avatares em lote com a mesma copy (1 a 3 engrenam); a campeã vira influenciadora e é replicada. Aulas 13, 18, 19, 28, 31.
+
+**Para a Nora:** ela não está no caso de troca (1.400+ views, comentários reais). O "teste de avatar depois" que estava no `VALIDACAO-CONTA-E-AVATAR.md` (a mesma Nora sem a lua e as estrelinhas pintadas, com um traço real) **não deve ser feito nesta conta**: pela aula, avatar nova vai em conta nova, que é o 2º perfil, adiado pelo aluno. Não propor.
+
+---
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
-Feitas e respondidas: R1 a R14 (07/11). Lista nova (07/11 ~06h30), em ordem de utilidade:
-1. "Quais corpos de Manifestation focados em desejo (sem medo e sem ameaça) as aulas 65, 66 e 67 mostram? Quero o texto inteiro em inglês, do gancho ao CTA, e a aula de cada um."
-2. "Como as aulas mandam escrever o corpo de mecanismo, em que a especialista explica por que a manifestação da pessoa não está funcionando e o que muda? Quero exemplos em inglês e a aula."
-3. "O que as aulas dizem para aumentar o público dos Estados Unidos e diminuir o da Índia no Instagram e no Facebook (horário, elementos na tela, legenda, hashtag)? Cite a aula."
-4. "Que textos de story e de adesivo de link as aulas mostram para o funil de Manifestation (não do Soulmate)? Quero o texto exato em inglês e a aula."
-5. "Que números as aulas usam para julgar um vídeo (retenção de 3 s, views, ida ao perfil, cliques por venda) e quando mandam matar ou escalar um criativo? Cite a aula."
-6. "O que as aulas mandam escrever na legenda e no comentário fixado do Reels no Manifestation, e se usam hashtag? Quero exemplos em inglês e a aula."
-7. "Quando as aulas mandam trocar a avatar e como testar uma avatar nova sem perder o que já foi validado? Cite a aula."
+Feitas e respondidas: R1 a R21 (07/11). Para conferir:
+1. "Em qual fonte aparece a hashtag #AuraliTrend como obrigatória? Copie o trecho exato e diga a aula ou o documento."
