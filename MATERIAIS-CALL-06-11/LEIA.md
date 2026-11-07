@@ -1,0 +1,14 @@
+# Materiais da call de 06/11/2026 (Appyon Creators, Iorhan)
+
+Doc-índice "Materiais Call Appyon Creators 06/11" (link mandado pelo aluno em 07/11 ~03h): https://docs.google.com/document/d/1oUohjCC2kW7gAUTPk9NS9WbmeFVsBPAaJSXMYiIcIw8/edit
+Lidos em 07/11 pela visão `mobilebasic` do Google Docs (o ambiente libera docs.google.com desde 07/11; o `export` redireciona para um host do googleusercontent que não está liberado). **Os textos são material do curso e não ficam copiados no repositório:** o resumo do que serve está em `AULA-06-11-VARIACOES-E-COPY-COM-IA-IORHAN.md` (seção 5b) e em `BRIEFING-LOVE-READING.md`; para reler, abrir o link (`.../document/d/ID/mobilebasic`).
+
+| Material | Link | O que é |
+|---|---|---|
+| Como variar um vídeo viral | https://docs.google.com/document/d/1BNqjMKZqiuKPjK3JUhx8m69N3wivmYSarBTCN3lavow | Guia prático: 4 formas de variar (empilhar gancho antes OU depois, trocar o gancho, novo formato, nova copy na mesma estrutura), formatos e dores/desejos que viralizaram, com views |
+| Ads Empilhamento de Gancho | https://docs.google.com/document/d/1G3uG909_r8kQSScbVBYPfqihNDfl437V1GwyQgp6xas | Lista de 8 vídeos de anúncio com empilhamento (Drive): os links estão abaixo |
+| Análise Copy: Ad Emagrecimento | https://docs.google.com/document/d/1lDuz_pRhcnEcqITAX-NHb4E4dbtcQHSHmOmeyBxquFg | A análise de estrutura feita na call (copy original x blocos) |
+| Prompts de ads (Stefan Georgi) | https://docs.google.com/document/d/1vyS4llcQ9GCu3W6ZNsiaQT0JiTmxoYXNaUBEFMp81so | Prompts de anúncio (tipos de gancho com exemplos reais, em inglês) |
+| Love Reading: plano de melhorias | https://docs.google.com/document/d/1HYg7_5Sjs6X2vDRICuYXIQDw7frYxrbU7XyvPWDf2g8 | Plano oficial do Love Reading para afiliados orgânicos (resumo em `BRIEFING-LOVE-READING.md`) |
+
+Vídeos de empilhamento (Drive, não baixados): video - 1735582943104.mp4 (1P_qh6Ps-VbquRL6DnPf2fCHtc-owqO_a) · novo CB validado [BTI] [3] (1xpH5cBMj1i_ybjdWgehp2clSqJwYwzxQ) · novo CB validado [BTI] (1TVyKwo98XgKfSf83UQBE991m_0EXERT3) · New Validated Clickbait [3] (1uYHjFSRjD0Yy3D4iZIUwlO4PvZBiUETn) · [2] (1QJ8gOo3Bv5Qq57_ZES4OBzooUg1iISWC) · [1] (1neKNWGPL_APx8iHxBA1vOb9PO8VXBq4D) · Empilhamento Webnar (1xK0NtsA_aO2Vbrz75aQddWpPQZuhr4JF) · novo CB validado [BTI] [2] (1jKF954aluiD0Y4Z_XoQHQS1BZbMWQnlR). Baixar pelo `drive.usercontent.google.com/download?id=ID&export=download&confirm=t` quando formos montar o empilhamento da Nora.

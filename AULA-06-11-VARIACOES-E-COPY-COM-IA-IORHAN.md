@@ -33,6 +33,13 @@
 ## 5. Materiais prometidos (a pedir ao aluno quando saírem)
 Slides das variações, o swipe de vídeos de manifestação (os empilhamentos que ele mostrou), o guia de escrita do Love Reading e, no fim de semana, os prompts e skills de copy com IA em "combos", com um doc de como usar.
 
+## 5b. Materiais recebidos (07/11 ~03h; links em `MATERIAIS-CALL-06-11/LEIA.md`)
+- **Guia "Como variar um vídeo viral"** (exemplos de vídeos orgânicos reais do TikTok): "mude uma coisa por vez". O empilhamento pode ir **antes ou depois** do gancho original (fazer um vídeo para cada posição). A troca de gancho tem 4 jeitos: gancho novo, modelado (mesma estrutura de frase), mesmo ângulo, ou um validado de outro vídeo. Ganchos de manifestação com views: "If you're seeing this, it's a sign from the universe that the worst is over" (11,8 mi; **é o "the worst is finally over" da caixa da Nora**), "Money is coming to you like water" (13,5 mi), "You're about to become the reason your family never worries about money again" (12,8 mi), "If you're seeing this, everything will work out for you" (11,3 mi), "When you need urgent and unexpected money:" (1 mi), "Let's manifest 5,000 dollars this week!" (1,4 mi), "You'll become so financially powerful that…" (2,4 mi).
+- **Formatos que viralizaram em manifestação:** mãos embaralhando cartas de tarô com a mensagem escrita; sem rosto, fundo animado (universo, ondas, luz) com a frase no meio ("dinheiro como água", 13,5 mi); ritual na porta de casa (agachada jogando sal ou canela); ritual com objeto (sal no sapato, papel com pedido, vela); afirmação na tela frase por frase (12,8 mi); animação conversando com o universo (14,1 mi).
+- **Nova copy na mesma estrutura:** mesmo gancho, formato e edição; o corpo é reescrito com a mesma ordem e o mesmo tamanho, para outra fatia (mães, 40+) ou outra dor ou desejo (dívidas, casa, viagem).
+- **Ads de empilhamento:** 8 vídeos no Drive (links no `LEIA.md` da pasta). **Prompts de ads (Stefan Georgi):** tipos de gancho com exemplos reais. **Análise da copy de emagrecimento** da call. **Love Reading: plano de melhorias** (resumo em `BRIEFING-LOVE-READING.md`).
+- Ainda a sair: os prompts e skills de copy com IA em "combos" (fim de semana).
+
 ## 6. Conselho final
 "Sejam observadores sedentos do mercado": passar um dia ou um fim de semana no TikTok e no Instagram **fora da Appyon Creators** (influenciadores, especialistas, perfis virais do orgânico), juntar 20 a 30 vídeos, extrair ângulo, transcrição e corpo, montar listas (100 ganchos, ângulos, formatos, arquétipos de avatar, corpos) e combinar: "vou pegar esse gancho com aquele corpo". Ter um perfil só é risco (afiliado grande foi a zero quando o perfil caiu).
 
