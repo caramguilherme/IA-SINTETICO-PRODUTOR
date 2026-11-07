@@ -1,5 +1,7 @@
 # Análise do funil de Manifestation com a VSL (03/11/2026)
 
+> **07/11/2026:** a Appyon publicou no Content Hub a mesma VSL em inglês (e em português), com os blocos marcados, e o "detalhes do funil": o botão da oferta só aparece aos 16:00 de um vídeo de 31 a 37 minutos, e o checkout é US$ 19 hoje e depois US$ 29 a cada 30 dias. Resumo em `BRIEFING-MANIFESTACAO.md` (seção "Detalhes oficiais do funil").
+
 **Fontes (documentos da call "(07/09) Análise de funil c/ @wakezk_", mandados pelo aluno em 03/11/2026):** `COPY_VSL_TAROT_MANIFESTATION.pdf` (36 páginas: a copy da VSL em inglês e a tradução em português; o inglês está inteiro no apêndice A), `VSL_Soulmate_Match.pdf` (VSL do Soulmate, apêndice B, só registro), `Doc_call_07-09.txt` e `EXEMPLOS_DE_PROMPTS.txt` (no apêndice de `AULA-07-09-ANALISE-DE-FUNIL.md`). Telas do funil: prints do aluno de 01/11 (`FATOS-DO-ALUNO.md`). Método: o da call de 07/09 (telas + VSL → o que a pessoa ouve → ângulos).
 
 ## 1. O caminho de quem clica no story da Nora

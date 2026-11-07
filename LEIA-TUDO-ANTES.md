@@ -34,6 +34,7 @@ Decisão do aluno em 18/10/2026: **antes de TODO roteiro novo e antes de TODO pr
 - `PROMPT-BLUEPRINT-COMUNIDADE.md` (criar ou ajustar a folha da avatar)
 - `PESQUISA-AURALY-23-10.pdf`, `BRIEFING-LOVECHART-APPYON-v2.pdf` e `BRIEFING-LOVE-READING-AURALY.pdf` (os PDFs completos; o resumo dos 2 primeiros está no `BRIEFING-LOVECHART.md` e o do Love Reading no `BRIEFING-LOVE-READING.md`)
 - `AULA-IORHAN-30-10-SLIDES-VIRALIZACAO-X-CONVERSAO.pdf` (20 slides) e `AULA-IORHAN-30-10-ANALISE-DE-COPY.pdf` (6 páginas): os PDFs originais da aula do Iorhan de 30/10, guardados em 03/11/2026; o texto inteiro já está no apêndice 3 de `AULA-IORHAN-30-10-COPY-QUE-CONVERTE.md` (abrir o PDF só para ver as cores e o layout)
+- `AULA-06-11-VARIACOES-E-COPY-COM-IA-IORHAN.md` (call do Iorhan de 06/11: variações de um vídeo validado, empilhamento de gancho, CTA com motivos, Love Reading, minerar fora da Appyon Creators; resumo, a transcrição está no Loom)
 - `AULA-IORHAN-30-10-TRANSCRICAO-LIMPA.md` (a mesma aula de 30/10 numa transcrição limpa, mandada pelo aluno em 03/11/2026; o que ela acrescenta e o molde de roteiro de manifestação estão nas seções 10 e 11 de `AULA-IORHAN-30-10-COPY-QUE-CONVERTE.md`, que é a leitura obrigatória; abrir a transcrição só para buscar uma frase)
 
 ## Conflitos entre documentos
