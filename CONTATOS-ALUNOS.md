@@ -5,7 +5,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 ## Pendências (06/11/2026)
 - **Jessica Bento:** resposta com o resultado do teste dos corpos e a pergunta do CTA **enviada em 06/11** (texto no fim deste arquivo). Esperar.
 - **Ricardo Santana e Marcus:** voltar em 07 ou 08/11 com o resultado do teste dos corpos ou do gancho.
-- **Esperando resposta (não mandar outra):** Felps, Kaike, Lari, Castanho, Marcelo (respondido em 06/11), Letícia (X), Bruno Freitas, rodrigo (#vitórias), Jessica (06/11), Lívia (conversa fechada em 06/11 12h33; voltar com resultado novo), Eduarda Kelly, Gustavo M., Caio.
+- **Esperando resposta (não mandar outra):** Felps, Kaike, Lari, Castanho, Marcelo (respondido em 06/11), Letícia (X), Bruno Freitas, rodrigo (#vitórias), Jessica (06/11), Lívia (conversa fechada em 06/11 12h33; voltar com resultado novo), Eduarda Kelly, Gustavo M., Caio, Neto e Cleidiane, Chefinho e Gabriel soares (10ª leitura, 06/11).
 - **Fechados (só voltar com resultado):** Gustavo, Garbellotto, Vitor Kretzer, Gabriel, Vinicius Almeida, Allan Mayer.
 
 ## O método (o caminho de quem destravou)
@@ -49,6 +49,9 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | Eduarda Kelly | Pergunta no chat (06/11 09h01) | | | **Resposta pública enviada em 06/11** (9ª leitura). Esperar | |
 | Gustavo M. | Pergunta no chat (06/11 11h08): funil em espanhol | | | **Resposta pública enviada em 06/11** (9ª leitura) | |
 | Lívia | Roda Manifestation; pediu no chat (05/11 19h48) que quem roda chamasse na DM | | | DM do aluno em 06/11 03h14; **ela respondeu às 07h57:** está difícil "um pouco dos dois" (view e clique); teve algumas vendas no mês passado; estranhou o "vídeo enorme" depois do quiz, antes do checkout. Resposta enviada em 06/11 12h04. **Ela, às 12h20:** vendeu no Manifestation pelo Face; tirou a ameaça das copies e as views caíram muito. **2ª resposta enviada em 06/11 12h24** (manter o viral quase igual e cortar só o vermelho; pergunta: de onde vem o clique no Face). **Ela, às 12h25:** 1 venda de "live reading" no Insta; clique do Face pela DM automática; modela "sem manter tão igual", 300 a 700 views. **3ª resposta enviada em 06/11 12h31.** **Ela, às 12h33:** a venda veio do link do story ("insta é só story mesmo") e "entendi". Conversa fechada; voltar só com resultado novo (nora49 ou nora50) | Se ajudar |
+| Neto e Cleidiane | ~5 vendas em outubro com 2 páginas do Face; o perfil flopou depois; abriram um Insta (chat, 06/11 19h57, pedindo para trocar ideia) | | | **Resposta pública enviada em 06/11** (10ª leitura: oferta de trocar ideia + o que mudou quando flopou). Se responder, seguir pela DM | Se ajudar |
+| Chefinho | Pergunta no chat (06/11 15h24): os 10 de aquecimento vão sem a automação? | | | **Resposta pública enviada em 06/11** (10ª leitura) | |
+| Gabriel soares | Pergunta no chat (06/11 11h18): o funil em espanhol converte bem? | | | **Resposta pública enviada em 06/11** (10ª leitura) | |
 | carloscs, Lucas Dusi | Fechamentos de outubro (os grandes) | (não chamar: recebem dezenas de mensagens) | | | |
 
 ## (Histórico) Rascunhos de 04/11/2026 (todos enviados ou descartados; ver as marcas em cada um)
@@ -254,3 +257,24 @@ aqui no insta ainda não saiu nenhuma kkk
 oq passou de 1.400 em umas 10h foi oq deixei quase igual ao viral, só tirando a ameaça
 essa venda do love reading no insta veio pelo link do story?
 ```
+
+## ENVIADO (06/11/2026; respostas da 10ª leitura do Discord, no jeito do aluno)
+**1. Neto e Cleidiane, no #chat-appyon (responder a mensagem deles das 19h57):**
+```
+bora trocar ideia, to no começo tb (manifestation desde 27/10, ainda sem venda), mas testei bastante coisa essas semanas
+oq mais mudou aqui: o corpo copiado de um viral atual, só tirando a parte de ameaça, deu 5x mais view que a copy que escrevi do zero
+quando teu perfil flopou vc tinha mudado alguma coisa? copy, gancho, horário ou qtd de post?
+```
+**2. Chefinho, no #chat-appyon (responder a mensagem dele das 15h24, "no caso, sem a automação você diz?"):**
+```
+aqui fiz assim: os 10 de aquecimento sem link nenhum e sem automação
+só cta de engajamento (comentar, salvar, seguir)
+o link só entrou depois, nos vídeos de venda
+```
+**3. Gabriel soares, no #chat-appyon (responder a mensagem dele das 11h18, "ele converte bem tbm ne ?"):**
+```
+em outubro ele foi desativado justamente pq mt venda era recusada pelos bancos (aviso de 09/10)
+a galera falava q viralizava mt mas convertia pouco
+agora tão ajustando, aí só vendo qndo voltar
+```
+
