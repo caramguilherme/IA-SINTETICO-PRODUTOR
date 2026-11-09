@@ -1012,3 +1012,15 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 - **Ressalva do horário das 00h30 no Insta:** nos nossos dados, depois da meia-noite a Índia sobe (nora48 à 01h10: Índia 29%, EUA 19%; nora49 às 19h31: EUA 33%, Índia 13%). Fica nos 4 horários da regra; se o das 00h30 vier sempre com Índia alta no Insta, ele passa para as 15h.
 - **Amanhã (10/11):** 19h30 = nora51 (teste do CTA, versão curta, tsunami); 17h, 22h e 00h30 = a fórmula do nora49 (gancho do tsunami ou da pedra + Take 1 novo + corpo A inteiro) com os signos que faltam (terra, água e ar), numerados nora52 a nora54. **O corpo novo passa a ser o nora55**, a partir de 12/11, sem portal.
 
+### 09/11/2026 ~11h15 - 4 vídeos já hoje (decisão do aluno: "hoje vai ser 4 vídeos já, temos créditos pra isso")
+| Horário | Vídeo | O que é |
+|---|---|---|
+| 17h | nora51 | a fórmula do nora49 (tsunami + Take 1 novo + corpo A inteiro), signos de terra (Touro, Virgem, Capricórnio) |
+| 19h30 | **nora50** | o teste do gancho (a pedra) como está no painel, signos de ar; contra o nora49 (19h31 de 06/11) |
+| 22h | nora52 | a fórmula, signos de água (Câncer, Escorpião, Peixes) |
+| 00h30 | nora53 | a fórmula, signos de fogo (Áries, Leão, Sagitário) |
+- Os 3 da fórmula usam o tsunami (normal ou espelhado), para o único com a pedra ser o nora50 e o teste do gancho continuar valendo. Com 4 no dia, os posts disputam entre si (Felps); a régua do teste passa a ser visitas ao perfil por 1.000 views, que pesa menos o alcance.
+- **O teste do CTA (versão curta) passa para amanhã, 10/11 às 19h30, como nora54** (ainda dá para falar "before 11:11"). O corpo novo pega o próximo número livre, a partir de 12/11, sem portal.
+- Antes dos painéis, o aluno manda a leitura do Discord desde 06/11 (canais e conversas com alunos). Painéis nora51 a nora53 (e o nora50, que já existe) no fim. Créditos de hoje: 60 (4 Takes 1).
+- Se os painéis saírem tarde para o das 17h, ele vai no horário seguinte, sem juntar dois seguidos (regra de postagem).
+
