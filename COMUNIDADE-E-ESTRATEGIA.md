@@ -1073,3 +1073,7 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 - **O que ele disse (DM, 07/11 19h41):** confirmou a leitura do tsunami ("exato mano": views sobem, quase ninguém vai ao story) e que os pré-hooks dele são "sempre fazendo alguma coisa com objetos, mas que está dentro do nicho".
 - **Para a Nora (decisão minha):** os próximos pré-ganchos (fila 32 a 38 do `BIBLIOTECA-PRE-GANCHOS.md`) saem com a Nora no quadro fazendo a ação, não só a mão. O nora50 (a pedra rachando nas mãos dela) já segue isso.
 
+### 09/11/2026 ~14h20 - Lari: os 6 por dia eram variações do mesmo vídeo
+- **O que ela disse (DM, 07/11 12h10):** os 6 por dia eram o mesmo vídeo trocando algo no cenário; depois da 1ª venda, passou a trocar mais coisas, a copy também.
+- **Para a Nora (decisão minha):** bate com o que fazemos hoje (o mesmo corpo A com gancho e Take 1 novos em 4 vídeos por dia) e com o corpo novo a partir de 12/11. Nada muda.
+

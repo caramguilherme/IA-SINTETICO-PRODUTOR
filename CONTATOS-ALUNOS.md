@@ -7,7 +7,8 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **Ricardo Santana:** respondeu em 09/11 12h58 (CTA no fim; no meio, pedido de comentário; "a copy tem que ser bem convincente pra pessoa ficar até o final"). Resposta de fechamento enviada; voltar com o resultado do nora54 (versão curta). **Marcus:** voltar com o resultado do nora54 (CTA mais cedo).
 - **11ª leitura (09/11):** respostas a sordisss (Índia: horário) e Eduarda Fernandes (texto do story) enviadas.
 - **Kaike:** respondeu em 07/11 19h41 ("exato mano" sobre o tsunami; pré-hooks "sempre fazendo alguma coisa com objetos, mas que está dentro do nicho"); agradecimento enviado em 09/11. Voltar com resultado.
-- **Esperando resposta (não mandar outra):** Felps, Lari, Castanho, Marcelo (respondido em 06/11), Letícia (X), Bruno Freitas, rodrigo (#vitórias), Jessica (06/11), Lívia (conversa fechada em 06/11 12h33; voltar com resultado novo), Eduarda Kelly, Gustavo M., Caio, Neto e Cleidiane, Chefinho e Gabriel soares (10ª leitura, 06/11).
+- **Lari:** respondeu em 07/11 12h10 (os 6 por dia eram o mesmo vídeo trocando algo no cenário; agora troca mais coisas, a copy também); agradecimento enviado em 09/11. Voltar com resultado.
+- **Esperando resposta (não mandar outra):** Felps, Castanho, Marcelo (respondido em 06/11), Letícia (X), Bruno Freitas, rodrigo (#vitórias), Jessica (06/11), Lívia (conversa fechada em 06/11 12h33; voltar com resultado novo), Eduarda Kelly, Gustavo M., Caio, Neto e Cleidiane, Chefinho e Gabriel soares (10ª leitura, 06/11).
 - **Fechados (só voltar com resultado):** Gustavo, Garbellotto, Vitor Kretzer, Gabriel, Vinicius Almeida, Allan Mayer.
 
 ## O método (o caminho de quem destravou)
@@ -319,5 +320,12 @@ depois te conto qual levou mais gente pro story
 valeu kaike!! vou fazer assim então, ela mexendo nos objetos do nicho
 hoje to testando um assim (uma pedra rachando nas mãos dela) contra o tsunami
 depois te conto o resultado
+```
+
+## ENVIADO (09/11/2026; DM à Lari, depois da resposta dela de 07/11 12h10: "eu tava trocando apenas algo no cenário, mas agora comecei a trocar mais coisas / copy e etc / pq a primeira venda foi só o começo")
+```
+boa demais! aqui to num esquema parecido
+mesmo corpo, troco o gancho e o começo com outros signos, e essa semana entra uma copy nova
+valeu pela troca lari, depois te conto como foi
 ```
 
