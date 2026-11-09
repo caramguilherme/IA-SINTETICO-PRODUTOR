@@ -1024,3 +1024,9 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 - Antes dos painéis, o aluno manda a leitura do Discord desde 06/11 (canais e conversas com alunos). Painéis nora51 a nora53 (e o nora50, que já existe) no fim. Créditos de hoje: 60 (4 Takes 1).
 - Se os painéis saírem tarde para o das 17h, ele vai no horário seguinte, sem juntar dois seguidos (regra de postagem).
 
+### 09/11/2026 ~11h30 - Avisos colados pelo aluno (canais de aviso, de 05/11 até hoje)
+- **Masterclass do Kobata (14/11, 13h):** o mesmo aviso de 05/11 (ingresso já resgatado e check-in feito, `FATOS-DO-ALUNO.md`), com o programa de indicação até 14/11. Nada a fazer.
+- **LegacyTalk do Luigi (05/11):** adiado, sem data nova no aviso.
+- **Call do Iorhan (06/11, 19h):** já registrada (`AULA-06-11-VARIACOES-E-COPY-COM-IA-IORHAN.md`).
+- **NOVO: call do Gustavo hoje, 09/11, às 20h, "Do zero ao vídeo que vende – Step by step":** criar a avatar, blueprint e imagens, animar já com o roteiro e a fala, edição final; sem foco em copy. **Para a Nora:** vale ver ao vivo ou a gravação depois (cai entre o nora50 das 19h30 e o nora52 das 22h): se ele mostrar um jeito mais rápido ou mais barato de animar com a fala ou de editar, entra na nossa esteira (hoje: Flow pela Central + edição aqui, P45). O aluno manda o link do Loom quando sair, e eu resumo.
+
