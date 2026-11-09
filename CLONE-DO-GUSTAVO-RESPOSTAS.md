@@ -1,6 +1,6 @@
 # Clone do Gustavo (NotebookLM): perguntas, respostas e o que vale para a Nora
 
-O "Clone do Gustavo" é o NotebookLM com 31 fontes das aulas do MVM (lista e link em `PLANO-MVM-LEGACY-APPYON.md`, Aulas e links). Ele só abre com o login do aluno: eu escrevo a pergunta, o aluno faz no notebook e cola a resposta aqui. **O próprio notebook avisa que pode errar**, e parte das aulas é antiga (do Soulmate e de setembro): cada resposta vem com o que vale para a Nora, conferido contra as regras mais novas (`CLAUDE.md` seção 2, P42, Iorhan de 30/10 a 06/11, avisos oficiais). Quando a aula antiga bate de frente com uma regra mais nova ou com prova da comunidade, vale a mais nova.
+O "Clone do Gustavo" é o NotebookLM com 31 fontes das aulas do MVM (lista e link em `PLANO-MVM-LEGACY-APPYON.md`, Aulas e links; o link usado desde 07/11 é https://notebook.google.com/notebook/de49b1a0-52fb-4110-a158-6d5ab59a53a1). Ele só abre com o login do aluno: eu escrevo a pergunta, o aluno faz no notebook e cola a resposta aqui. **O próprio notebook avisa que pode errar**, e parte das aulas é antiga (do Soulmate e de setembro): cada resposta vem com o que vale para a Nora, conferido contra as regras mais novas (`CLAUDE.md` seção 2, P42, Iorhan de 30/10 a 06/11, avisos oficiais). Quando a aula antiga bate de frente com uma regra mais nova ou com prova da comunidade, vale a mais nova.
 
 Leitura: obrigatória em roteiro novo e na montagem do `PLAYBOOK-COPY-MANIFESTATION.md`.
 
@@ -253,7 +253,7 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 
 **Para a Nora:**
 - Gancho e avatar passam: 1.400+ views no Insta, 66% a 71% nos 3 s, comentários reais (nora48: 25). **A conta não é caso de matar nem de trocar a avatar.**
-- **(Corrigido em 09/11: a régua oficial do painel novo da Appyon, dos 10% que mais venderam, dá checkout em ~3% dos cliques e venda em 0,30%; com 22 cliques, 0 checkout é o esperado. A régua de 18% a 20% abaixo é das aulas antigas e não vale para os funis de hoje; `COMUNIDADE-E-ESTRATEGIA.md`, 11ª leitura.)** Texto de 07/11: O funil está abaixo da régua: de 27/10 a 06/11, 22 cliques reais e **0 checkout** (0%). Com 18%, seriam ~4; a chance de dar 0 seria ~1%. Pela aula, é falta de qualificação, o mesmo que a R6 apontou. Ressalva: a régua é das aulas antigas (Soulmate, US$ 9); no Manifestation o botão só aparece aos 16:00 da VSL, então a taxa natural deve ser menor. Mesmo assim, reforça o nora51 (o CTA diz o que tem do outro lado) e o público dos EUA.
+- **(Corrigido em 09/11: a régua oficial da Central MVM (aba Appyon, bloco "Seu funil"), dos 10% que mais venderam, dá checkout em ~3% dos cliques e venda em 0,30%; com 22 cliques, 0 checkout é o esperado. A régua de 18% a 20% abaixo é das aulas antigas e não vale para os funis de hoje; `COMUNIDADE-E-ESTRATEGIA.md`, 11ª leitura.)** Texto de 07/11: O funil está abaixo da régua: de 27/10 a 06/11, 22 cliques reais e **0 checkout** (0%). Com 18%, seriam ~4; a chance de dar 0 seria ~1%. Pela aula, é falta de qualificação, o mesmo que a R6 apontou. Ressalva: a régua é das aulas antigas (Soulmate, US$ 9); no Manifestation o botão só aparece aos 16:00 da VSL, então a taxa natural deve ser menor. Mesmo assim, reforça o nora51 (o CTA diz o que tem do outro lado) e o público dos EUA.
 - Escalar fica para quando um vídeo passar de 30 mil.
 
 ---
