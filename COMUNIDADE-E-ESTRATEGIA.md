@@ -1043,3 +1043,7 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 - **Fato:** no seletor do Flow, o Omni 1.1 Flash, o Veo 3.1 Fast e o Veo 3.1 Quality aparecem "Disponível até 5 de dez."; ficam o Omni 1.2 Flash (padrão) e o Veo 3.1 Lite.
 - **Decisão (minha):** até 05/12 tudo segue no 1.1 (metade do preço), trocando à mão em toda geração. Por volta de 25/11, piloto de 1 Take 1 no 1.2 colado num corpo do 1.1, para ver se a Nora fica igual; e o aluno vê o custo do Veo 3.1 Lite. Com isso decido em que modelo saem os corpos de dezembro. O corpo novo desta semana sai no 1.1 (vai rodar ~3 semanas, até lá).
 
+### 09/11/2026 ~12h20 - Omni 1.2 em 360p custa 1/3 (aluno): piloto hoje
+- **Fato:** no 1.2, 15 s custa 60 em 720p e **20 em 360p**. A Dallani (PLANO-MVM, 16/10) gera em 360p e baixa em 720p.
+- **Decisão (minha):** muda a conta da decisão das 12h. **Piloto hoje:** no nora51 (17h), o aluno gera o Take 1 duas vezes, uma no 1.1 em 720p (é a que vai ao ar) e outra no 1.2 em 360p baixada em 720p, e me manda as duas; comparo nitidez do rosto, boca e voz quadro a quadro. **Se o 360p passar, o corpo novo (12/11) sai no Omni 1.2 em 360p com takes de 15 s** (~6 takes × 20 = ~120 créditos, o mesmo do 1.1, menos cortes, e serve depois que o 1.1 sair em 05/12). Se não passar, o corpo novo fica no 1.1 em 720p. Os Takes 1 dos vídeos com o corpo A seguem no 1.1 em 720p (casam com o corpo).
+
