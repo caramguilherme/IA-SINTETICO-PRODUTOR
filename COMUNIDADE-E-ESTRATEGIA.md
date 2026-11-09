@@ -1035,3 +1035,7 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 - **NOVO, 08/11 18h41, "baby steps" (Gustavo):** dominar o processo e acertar antes de escalar, automatizar ou abrir 10 contas. **Para a Nora:** bate com o que fazemos (uma conta, 4 por dia, um teste por vez até o clique aparecer) e com a decisão de não ir a 6 no Insta agora.
 - **NOVO, 08/11 21h06, Creative Hub:** visual novo nos materiais e o Gerador de Animação com a opção de 15 s (Omni Flash 1.2). **Para a Nora:** (1) os painéis foram escritos no visual antigo: se algo não bater, print antes de gerar; (2) os Takes 1 de hoje (nora50 a nora53) ficam em Omni 1.1 Flash e 10 s, iguais ao corpo A; (3) o 1.2 de 15 s fica para o corpo novo, inteiro nele, depois de o aluno ver no Flow quantos créditos ele cobra (pedido de 06/11 ainda sem resposta).
 
+### 09/11/2026 ~12h - Quanto o Omni 1.2 Flash cobra no Flow (lista do aluno) e a decisão
+- **Custo:** 10 s = 30 e 15 s = 60 créditos (3 por segundo até 10 s, 6 por segundo de 11 a 15 s). No 1.1, 10 s = 15. Confirma o print do Fernando Lopes (05/11): o dobro. O "30% mais barato" do anúncio do Google é a API, não o Flow.
+- **Decisão (minha):** **tudo segue no Omni 1.1 Flash, inclusive o corpo novo.** Um corpo de ~170 palavras custa ~120 no 1.1 e de ~240 a ~360 no 1.2; com 4 vídeos por dia, o crédito vale mais em vídeo novo do que em take mais longo. O 1.2 volta à mesa só se o 1.1 falhar na consistência de um corpo inteiro.
+
