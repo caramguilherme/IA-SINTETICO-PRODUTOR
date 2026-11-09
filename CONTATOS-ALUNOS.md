@@ -4,7 +4,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 
 ## Pendências (06/11/2026)
 - **Jessica Bento:** resposta com o resultado do teste dos corpos e a pergunta do CTA **enviada em 06/11** (texto no fim deste arquivo). Esperar.
-- **Ricardo Santana:** volta com o resultado do teste dos corpos e a pergunta do CTA (meio ou fim) **enviada em 09/11** (11ª leitura). Esperar. **Marcus:** voltar com o resultado do nora54 (CTA mais cedo).
+- **Ricardo Santana:** respondeu em 09/11 12h58 (CTA no fim; no meio, pedido de comentário; "a copy tem que ser bem convincente pra pessoa ficar até o final"). Resposta de fechamento enviada; voltar com o resultado do nora54 (versão curta). **Marcus:** voltar com o resultado do nora54 (CTA mais cedo).
 - **11ª leitura (09/11):** respostas a sordisss (Índia: horário) e Eduarda Fernandes (texto do story) enviadas.
 - **Esperando resposta (não mandar outra):** Felps, Kaike, Lari, Castanho, Marcelo (respondido em 06/11), Letícia (X), Bruno Freitas, rodrigo (#vitórias), Jessica (06/11), Lívia (conversa fechada em 06/11 12h33; voltar com resultado novo), Eduarda Kelly, Gustavo M., Caio, Neto e Cleidiane, Chefinho e Gabriel soares (10ª leitura, 06/11).
 - **Fechados (só voltar com resultado):** Gustavo, Garbellotto, Vitor Kretzer, Gabriel, Vinicius Almeida, Allan Mayer.
@@ -305,3 +305,11 @@ o corpo novo que eu tinha feito ficou bem abaixo, uns 570 no melhor
 mas só uns 10% assistem até o cta, que ta no fim (63s)
 vc põe o cta mais pro meio do vídeo ou deixa no fim?
 ```
+
+## ENVIADO (09/11/2026; DM ao Ricardo Santana, depois da resposta dele das 12h58: "eu uso mais no fim cara / no meio ali eu coloco pra pessoa comentar e tals / a copy tem que ser bem convincente pra pessoa ficar até o final")
+```
+faz sentido, valeu mano
+vou testar as duas: uma versão curta com o cta mais cedo e a de sempre com o cta no fim
+depois te conto qual levou mais gente pro story
+```
+

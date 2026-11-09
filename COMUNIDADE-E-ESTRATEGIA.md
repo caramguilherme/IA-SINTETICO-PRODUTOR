@@ -1064,3 +1064,8 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
   5. **Pasta da aula de 04/09:** o aluno pega o link na gravação; vira fonte de virais do Manifestation para o corpo novo (modelar a estrutura e reescrever a fala, aviso de 22/09).
   6. **Teste do 360p:** conferir se baixar em 720p um vídeo gerado em 360p cobra créditos (o 1080p cobra 5).
 - **Quem responder (P44, item 6):** sordisss (Índia no Insta: o nosso dado do horário), Eduarda Fernandes (story 400 → 33: os 2 textos de story que testamos) e o Ricardo Santana na DM (volta com o resultado do teste dos corpos, como combinado em 05/11). Textos em `CONTATOS-ALUNOS.md`. Ficaram de fora por não sabermos: Kelvin (lipsync do 1.2 de 15 s; depois do piloto), Johnes (público 65+ no Face), Lívia (gerador no Muse), Eduardo Pinaffi (documento do Face).
+
+### 09/11/2026 ~14h - Ricardo Santana: CTA no fim, comentário no meio
+- **O que ele disse (DM, 12h58):** usa o CTA no fim; no meio, pede para a pessoa comentar; "a copy tem que ser bem convincente pra pessoa ficar até o final".
+- **Para a Nora (decisão minha):** é um contraponto à versão curta, não um motivo para cancelar: no nora49, só ~8% a 10% chegaram ao CTA dos 63 s. O nora54 (versão curta, CTA perto dos 28 s, amanhã 19h30) testa justamente isso contra o nora49 (CTA no fim), com o mesmo gancho e o mesmo horário. O corpo A já tem o pedido de comentário antes do fim ("Comment 222", que sai na versão curta). Se a versão curta perder, o caminho do Ricardo é segurar até o fim com copy melhor: o corpo novo (nora55 em diante).
+
