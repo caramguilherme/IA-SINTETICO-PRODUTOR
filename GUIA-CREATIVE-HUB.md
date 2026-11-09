@@ -1,5 +1,8 @@
 # GUIA DO CREATIVE HUB (central.mvmcreators.com.br/appyon/creative-hub)
 
+> **Aviso (09/11/2026):** em 08/11 a Central ganhou visual novo e o Gerador de Animação passou a ter a opção de takes de 15 s (Omni Flash 1.2). Este guia descreve o visual antigo: se algo não bater, valer o print do aluno e corrigir aqui.
+
+
 > **Atualização de 18/10/2026:** a velocidade padrão da Dana é a **Média — CTA (155–180 WPM)**, como definido em 17/10/2026. A **Rápida (BODY)** foi exceção só no R003 (para gastar menos créditos; a seção final "Teste do R003 com velocidade Rápida" registra o que aconteceu). Nunca usar a Rápida sem o aluno pedir. Todo prompt para a Central é em inglês.
 
 Este arquivo registra o que o aluno mostrou do site (prints enviados em 17/10/2026). O site é restrito à Turma Legacy; só o que o aluno enviou está aqui. O passo a passo por roteiro será montado depois, a partir deste registro.

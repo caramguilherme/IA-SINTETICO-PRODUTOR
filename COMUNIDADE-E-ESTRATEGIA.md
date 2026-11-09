@@ -1030,3 +1030,8 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 - **Call do Iorhan (06/11, 19h):** já registrada (`AULA-06-11-VARIACOES-E-COPY-COM-IA-IORHAN.md`).
 - **NOVO: call do Gustavo hoje, 09/11, às 20h, "Do zero ao vídeo que vende – Step by step":** criar a avatar, blueprint e imagens, animar já com o roteiro e a fala, edição final; sem foco em copy. **Para a Nora:** vale ver ao vivo ou a gravação depois (cai entre o nora50 das 19h30 e o nora52 das 22h): se ele mostrar um jeito mais rápido ou mais barato de animar com a fala ou de editar, entra na nossa esteira (hoje: Flow pela Central + edição aqui, P45). O aluno manda o link do Loom quando sair, e eu resumo.
 
+### 09/11/2026 ~11h45 - Mais avisos colados pelo aluno (06 a 08/11)
+- **Omni 1.2 Flash** (aviso de 06/11) e **Content Hub** (06/11): já registrados em 06/11.
+- **NOVO, 08/11 18h41, "baby steps" (Gustavo):** dominar o processo e acertar antes de escalar, automatizar ou abrir 10 contas. **Para a Nora:** bate com o que fazemos (uma conta, 4 por dia, um teste por vez até o clique aparecer) e com a decisão de não ir a 6 no Insta agora.
+- **NOVO, 08/11 21h06, Creative Hub:** visual novo nos materiais e o Gerador de Animação com a opção de 15 s (Omni Flash 1.2). **Para a Nora:** (1) os painéis foram escritos no visual antigo: se algo não bater, print antes de gerar; (2) os Takes 1 de hoje (nora50 a nora53) ficam em Omni 1.1 Flash e 10 s, iguais ao corpo A; (3) o 1.2 de 15 s fica para o corpo novo, inteiro nele, depois de o aluno ver no Flow quantos créditos ele cobra (pedido de 06/11 ainda sem resposta).
+
