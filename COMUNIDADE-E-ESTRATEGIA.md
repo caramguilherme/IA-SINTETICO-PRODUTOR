@@ -986,3 +986,9 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 - **Por que juntar duração e texto do CTA num teste só:** o que se mede é a ida ao perfil e o clique; com o CTA no fim, só ~170 pessoas por vídeo chegam a ouvi-lo, e com isso nenhum texto de CTA consegue mudar o resultado de forma que dê para ver. As aulas mandam encurtar o corpo longo que vendeu (Clone R11, aulas 18 e 28) e o Iorhan põe o CTA com motivo como peça central (06/11). Se o nora51 subir as visitas por 1.000 views e os cliques, a versão curta vira a base; se não, volta o corpo inteiro e o próximo passo é o corpo novo (nora52).
 - O nora50 (hoje, 19h30) não muda: é o teste do gancho com o corpo A inteiro, contra o nora49.
 
+### 09/11/2026 ~manhã - Volta depois do fim de semana sem post (decisão minha)
+- **Fato:** nada saiu em 07 e 08/11 (nem o nora50, nem o repost do story); o link do story está fora desde 07/11 18h43.
+- **Ordem da volta:** (1) story agora, com o texto do story-0311 (o que teve 3 toques em 18 viewers); (2) nora50 hoje às 19h30, como estava (teste do gancho, a pedra, contra o nora49); (3) nora51 amanhã, 10/11, às 19h30; (4) a partir de 12/11, nada de portal 11:11.
+- **Mudança no nora51:** em vez de "o gancho que vencer", **usa o tsunami, o mesmo gancho do nora49**. Motivo: o nora51 precisa sair até 10/11 (o CTA fala "before 11:11"), e o resultado do nora50 com ~24 h só sai na hora de postar; e, com o mesmo gancho e o mesmo horário do nora49, o nora51 mede só a mudança do CTA (versão curta + CTA novo).
+- Sem compensar os dias parados com vários posts seguidos (regra de postagem): volta no horário fixo.
+
