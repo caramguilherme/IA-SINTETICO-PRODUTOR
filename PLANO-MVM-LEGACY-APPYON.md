@@ -2720,7 +2720,7 @@ Tudo no canal gravações do Discord. As aulas antes da 10 estão desatualizadas
 - Área de membros: [membros.mvmcreators.com.br](https://membros.mvmcreators.com.br)
 - Central MVM / Painel Appyon: [central.mvmcreators.com.br/appyon](https://central.mvmcreators.com.br/appyon)
 - Roteiros: [central.mvmcreators.com.br/appyon/roteiros](https://central.mvmcreators.com.br/appyon/roteiros)
-- Gerador de prompts: [central.mvmcreators.com.br/appyon/gerador-prompts](https://central.mvmcreators.com.br/appyon/gerador-prompts)
+- Gerador de prompts: [central.mvmcreators.com.br/appyon/gerador-prompts](https://central.mvmcreators.com.br/appyon/gerador-prompts) · **endereço atual (aluno, 09/11):** https://central.mvmcreators.com.br/materiais/creative-hub (Creative Hub com o visual novo de 08/11; o Gerador de Prompts está lá, com a caixa "Já tenho o Blueprint")
 - Protocolos de aquecimento: [central.mvmcreators.com.br/appyon/protocolos-aquecimento](https://central.mvmcreators.com.br/appyon/protocolos-aquecimento)
 - Appyon Creators: [app.appyoncreators.com](https://app.appyoncreators.com/) · [Gestão de afiliado](https://app.appyoncreators.com/gestao-afiliado) · [Funis](https://appyoncreators.com/funis) · [Payments](https://appyoncreators.com/payments)
 - Tutorial de trackeamento: [youtu.be/-Vt4DTlxlqc](https://youtu.be/-Vt4DTlxlqc)

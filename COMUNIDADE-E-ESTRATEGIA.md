@@ -1085,3 +1085,7 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
   3. **Pedido ao aluno (pendente desde 25/10, agora com 2 vendedores apontando o mesmo perfil):** prints da grade da @soma_chhaya e 3 ou 4 reels dela (gravação ou download), para eu descrever os cenários, o enquadramento e a luz da cena nova.
   4. O Wall Estevam perguntou no chat (06/11) um prompt "pra deixar a qualidade do vídeo menos IA e mais parecendo gravação de celular": quando a resposta do Felps chegar, ela também serve para responder ao Wall.
 
+### 09/11/2026 ~14h50 - O aluno quer testar o visual de celular já no nora50 (decisão minha)
+- **Pedido do aluno:** usar o Gerador de Prompts do Creative Hub (com o blueprint) para mudar o cenário e testar o visual de celular "pro nora50 em diante", porque tem créditos e ainda não gerou nada.
+- **Decisão:** os 4 de hoje ficam como estão: o Take 1 tem de sair na mesma cena do corpo A (a emenda Take 1 → corpo mostraria a troca de visual), e o nora50 é o teste do gancho (mudar o visual junto estragaria a comparação). **O que dá para fazer já, a 0 crédito:** a imagem de teste da Nora com cara de celular (Gerador de Prompts com o blueprint + Nano Banana Pro, x4), para eu aprovar o visual antes do corpo novo; os campos estão no `LICOES-FLOW-E-PROMPTS.md` (09/11). O corpo novo (a partir de 12/11) sai nessa cena, com a copy feita depois da leitura completa.
+
