@@ -277,6 +277,18 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **Ressalva:** o story-0311 pegou mais gente de fora (41,7% x 10,5%), quem chega pelo vídeo e ainda não viu story nenhum; parte da diferença pode vir daí. Mesmo assim, 0 em 18 com o texto novo, e as aulas (Clone R9 e R18) pedem que o story diga o que fazer e o que tem do outro lado.
 - **Decisão (07/11 ~09h20):** repostar às ~18h com o texto e o adesivo do story-0311 (imagem story-3110), no Insta e no Face; painel do nora50 republicado (`ferramentas-painel/r0711/patch_story_0711.py`). A leitura das 17h não é mais necessária. O lote de 7 stories parte do texto do story-0311 (instrução + "your private reading"), não do emocional.
 
+### 09/11/2026 10h56 - Tracker da Appyon, 06 a 09/11 (prints do aluno; última atualização 09/11 10:56)
+| Dia | Cliques | View quiz | Começou | Terminou | Checkout | Vendas |
+|---|---|---|---|---|---|---|
+| 06/11 | 5 (Insta 3, Face 2) | 5 | 3 | 3 | 0 | 0 |
+| **07/11** | **0** ("nenhum dado") | | | | | |
+| 08/11 | 0 | | | | | |
+| 09/11 até 10h56 | 0 | | | | | |
+- **06/11 igual à leitura de 07/11 01h13** (nada entrou depois).
+- **07/11 é o dado que importa:** o story-0611 ficou no ar até 18h43 e o nora49 seguiu ganhando views (1.456 → 1.727 no Insta até 09h; 202 → 222 no Face), com o link também no comentário da Página no Face, e deu **0 clique o dia inteiro**. Confirma as duas leituras de 07/11: o texto emocional do story-0611 não leva ao link (0 toque em 18 viewers) e o CTA no fim do corpo A quase não é ouvido (~8% a 10% aos 63 s).
+- 08/11 e 09/11: sem story no ar (venceu em 07/11 18h43) e sem vídeo novo: o 0 não mede nada.
+- **Manifestation de 27/10 a 09/11 10h56: 22 cliques reais (20 Insta, 2 Face), 12 no fim do quiz, 0 checkout, 0 venda.**
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
