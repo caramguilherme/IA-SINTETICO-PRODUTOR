@@ -6,7 +6,8 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **Jessica Bento:** resposta com o resultado do teste dos corpos e a pergunta do CTA **enviada em 06/11** (texto no fim deste arquivo). Esperar.
 - **Ricardo Santana:** respondeu em 09/11 12h58 (CTA no fim; no meio, pedido de comentário; "a copy tem que ser bem convincente pra pessoa ficar até o final"). Resposta de fechamento enviada; voltar com o resultado do nora54 (versão curta). **Marcus:** voltar com o resultado do nora54 (CTA mais cedo).
 - **11ª leitura (09/11):** respostas a sordisss (Índia: horário) e Eduarda Fernandes (texto do story) enviadas.
-- **Esperando resposta (não mandar outra):** Felps, Kaike, Lari, Castanho, Marcelo (respondido em 06/11), Letícia (X), Bruno Freitas, rodrigo (#vitórias), Jessica (06/11), Lívia (conversa fechada em 06/11 12h33; voltar com resultado novo), Eduarda Kelly, Gustavo M., Caio, Neto e Cleidiane, Chefinho e Gabriel soares (10ª leitura, 06/11).
+- **Kaike:** respondeu em 07/11 19h41 ("exato mano" sobre o tsunami; pré-hooks "sempre fazendo alguma coisa com objetos, mas que está dentro do nicho"); agradecimento enviado em 09/11. Voltar com resultado.
+- **Esperando resposta (não mandar outra):** Felps, Lari, Castanho, Marcelo (respondido em 06/11), Letícia (X), Bruno Freitas, rodrigo (#vitórias), Jessica (06/11), Lívia (conversa fechada em 06/11 12h33; voltar com resultado novo), Eduarda Kelly, Gustavo M., Caio, Neto e Cleidiane, Chefinho e Gabriel soares (10ª leitura, 06/11).
 - **Fechados (só voltar com resultado):** Gustavo, Garbellotto, Vitor Kretzer, Gabriel, Vinicius Almeida, Allan Mayer.
 
 ## O método (o caminho de quem destravou)
@@ -311,5 +312,12 @@ vc põe o cta mais pro meio do vídeo ou deixa no fim?
 faz sentido, valeu mano
 vou testar as duas: uma versão curta com o cta mais cedo e a de sempre com o cta no fim
 depois te conto qual levou mais gente pro story
+```
+
+## ENVIADO (09/11/2026; DM ao Kaike de Lima, depois das respostas dele de 07/11 19h41: "kkkkkkkkk exato mano" e "sempre fazendo alguma coisa com objetos / mas que está dentro do nicho")
+```
+valeu kaike!! vou fazer assim então, ela mexendo nos objetos do nicho
+hoje to testando um assim (uma pedra rachando nas mãos dela) contra o tsunami
+depois te conto o resultado
 ```
 

@@ -91,3 +91,6 @@ Mesmas regras: 3 a 4 s, uma ação só, sem cartas, caixa do topo desde o 1º qu
 37. **Sal grosso no chão do banheiro** (aulas 54, 43): o sal cai de um pote no piso claro e os dois pés pisam em cima. Sem rosto.
 38. **Maço de notas contado** (aula 26): só no Insta, se for usar; no Face, dinheiro na tela pode contar como promessa de ganho.
 
+## Kaike (DM, 07/11/2026): a avatar fazendo algo com objetos do nicho
+"Sempre fazendo alguma coisa com objetos, mas que está dentro do nicho" (resposta à pergunta "os teus são com a avatar fazendo alguma coisa ou só o objeto?"). Reforça a decisão de 19/10 (rosto da Nora no quadro, ela fazendo a ação) e a fila 32 a 38: **a Nora aparece fazendo a ação** (sacudindo a peneira, derramando a canela, batendo na taça), não só a mão com o objeto. A pedra do nora50 (`nora34-PRE`, nas mãos dela) já segue isso.
+

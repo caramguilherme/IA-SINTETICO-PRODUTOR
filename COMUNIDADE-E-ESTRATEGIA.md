@@ -1069,3 +1069,7 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 - **O que ele disse (DM, 12h58):** usa o CTA no fim; no meio, pede para a pessoa comentar; "a copy tem que ser bem convincente pra pessoa ficar até o final".
 - **Para a Nora (decisão minha):** é um contraponto à versão curta, não um motivo para cancelar: no nora49, só ~8% a 10% chegaram ao CTA dos 63 s. O nora54 (versão curta, CTA perto dos 28 s, amanhã 19h30) testa justamente isso contra o nora49 (CTA no fim), com o mesmo gancho e o mesmo horário. O corpo A já tem o pedido de comentário antes do fim ("Comment 222", que sai na versão curta). Se a versão curta perder, o caminho do Ricardo é segurar até o fim com copy melhor: o corpo novo (nora55 em diante).
 
+### 09/11/2026 ~14h10 - Kaike: pré-hook com a avatar fazendo algo com objetos do nicho
+- **O que ele disse (DM, 07/11 19h41):** confirmou a leitura do tsunami ("exato mano": views sobem, quase ninguém vai ao story) e que os pré-hooks dele são "sempre fazendo alguma coisa com objetos, mas que está dentro do nicho".
+- **Para a Nora (decisão minha):** os próximos pré-ganchos (fila 32 a 38 do `BIBLIOTECA-PRE-GANCHOS.md`) saem com a Nora no quadro fazendo a ação, não só a mão. O nora50 (a pedra rachando nas mãos dela) já segue isso.
+
