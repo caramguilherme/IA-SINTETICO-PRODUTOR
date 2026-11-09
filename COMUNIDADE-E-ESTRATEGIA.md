@@ -1039,3 +1039,7 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 - **Custo:** 10 s = 30 e 15 s = 60 créditos (3 por segundo até 10 s, 6 por segundo de 11 a 15 s). No 1.1, 10 s = 15. Confirma o print do Fernando Lopes (05/11): o dobro. O "30% mais barato" do anúncio do Google é a API, não o Flow.
 - **Decisão (minha):** **tudo segue no Omni 1.1 Flash, inclusive o corpo novo.** Um corpo de ~170 palavras custa ~120 no 1.1 e de ~240 a ~360 no 1.2; com 4 vídeos por dia, o crédito vale mais em vídeo novo do que em take mais longo. O 1.2 volta à mesa só se o 1.1 falhar na consistência de um corpo inteiro.
 
+### 09/11/2026 ~12h10 - O Omni 1.1 Flash sai do Flow em 05/12 (print do aluno)
+- **Fato:** no seletor do Flow, o Omni 1.1 Flash, o Veo 3.1 Fast e o Veo 3.1 Quality aparecem "Disponível até 5 de dez."; ficam o Omni 1.2 Flash (padrão) e o Veo 3.1 Lite.
+- **Decisão (minha):** até 05/12 tudo segue no 1.1 (metade do preço), trocando à mão em toda geração. Por volta de 25/11, piloto de 1 Take 1 no 1.2 colado num corpo do 1.1, para ver se a Nora fica igual; e o aluno vê o custo do Veo 3.1 Lite. Com isso decido em que modelo saem os corpos de dezembro. O corpo novo desta semana sai no 1.1 (vai rodar ~3 semanas, até lá).
+
