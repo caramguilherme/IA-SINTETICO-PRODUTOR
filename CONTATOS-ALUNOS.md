@@ -8,7 +8,8 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **11ª leitura (09/11):** respostas a sordisss (Índia: horário) e Eduarda Fernandes (texto do story) enviadas.
 - **Kaike:** respondeu em 07/11 19h41 ("exato mano" sobre o tsunami; pré-hooks "sempre fazendo alguma coisa com objetos, mas que está dentro do nicho"); agradecimento enviado em 09/11. Voltar com resultado.
 - **Lari:** respondeu em 07/11 12h10 (os 6 por dia eram o mesmo vídeo trocando algo no cenário; agora troca mais coisas, a copy também); agradecimento enviado em 09/11. Voltar com resultado.
-- **Esperando resposta (não mandar outra):** Felps, Castanho, Marcelo (respondido em 06/11), Letícia (X), Bruno Freitas, rodrigo (#vitórias), Jessica (06/11), Lívia (conversa fechada em 06/11 12h33; voltar com resultado novo), Eduarda Kelly, Gustavo M., Caio, Neto e Cleidiane, Chefinho e Gabriel soares (10ª leitura, 06/11).
+- **Felps:** respondeu em 07/11 10h49 (2 áudios: a avatar parece "muito artificial", com cara de filmagem profissional; ele busca a sensação de vídeo gravado no celular, orgânico, como a Soma Chhaya); resposta com 1 pergunta enviada em 09/11. Esperar.
+- **Esperando resposta (não mandar outra):** Castanho, Marcelo (respondido em 06/11), Letícia (X), Bruno Freitas, rodrigo (#vitórias), Jessica (06/11), Lívia (conversa fechada em 06/11 12h33; voltar com resultado novo), Eduarda Kelly, Gustavo M., Caio, Neto e Cleidiane, Chefinho e Gabriel soares (10ª leitura, 06/11).
 - **Fechados (só voltar com resultado):** Gustavo, Garbellotto, Vitor Kretzer, Gabriel, Vinicius Almeida, Allan Mayer.
 
 ## O método (o caminho de quem destravou)
@@ -327,5 +328,11 @@ depois te conto o resultado
 boa demais! aqui to num esquema parecido
 mesmo corpo, troco o gancho e o começo com outros signos, e essa semana entra uma copy nova
 valeu pela troca lari, depois te conto como foi
+```
+
+## ENVIADO (09/11/2026; DM ao Felps, depois dos 2 áudios dele de 07/11 10h49: a avatar parece "muito artificial", com "filtro de filmagem profissional"; ele busca "a sensação de que foi gravado por um celular", como a Soma Chhaya)
+```
+valeu felps!! faz total sentido, vou puxar pro lado do celular
+vc usa alguma palavra no prompt pra dar esse ar de gravado no celular? tipo luz natural, selfie com o braço, algo assim?
 ```
 

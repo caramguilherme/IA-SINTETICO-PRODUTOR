@@ -1077,3 +1077,11 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 - **O que ela disse (DM, 07/11 12h10):** os 6 por dia eram o mesmo vídeo trocando algo no cenário; depois da 1ª venda, passou a trocar mais coisas, a copy também.
 - **Para a Nora (decisão minha):** bate com o que fazemos hoje (o mesmo corpo A com gancho e Take 1 novos em 4 vídeos por dia) e com o corpo novo a partir de 12/11. Nada muda.
 
+### 09/11/2026 ~14h40 - Felps: a Nora parece "muito artificial"; a referência é vídeo com cara de celular (Soma Chhaya)
+- **O que ele disse (2 áudios, 07/11 10h49, depois de ver 2 fotos da Nora):** "dá pra melhorar essa avatar"; está com cara de "filmagem profissional, de câmera", "qualidade muito alta"; ele busca "a sensação de que foi gravado por um celular", "parece que ela pegou o celular e começou a gravar", orgânico, "igual esses influencers que a gente vê por aí, tipo a Soma Chaya" (@soma_chhaya: o mesmo perfil que o Matheus Baffa modela desde 23/10).
+- **Para a Nora (decisão minha):**
+  1. **A Nora continua a mesma** (rosto, cabelo, acessórios): a regra de não trocar a avatar desta conta segue (Clone R19 e R21). O que muda é **o jeito de filmar** a partir do corpo novo (próximo número livre, a partir de 12/11): a imagem da cena nova sai com cara de foto de celular ("shot on iPhone, casual smartphone photo, everything in focus, no bokeh", pele com textura e poros, sem brilho de filtro: a dica do `PLANO-MVM`, Produção, e o gerador "mais realista" da Central de 12/10), enquadramento de selfie ou de celular apoiado, luz da casa, cenário comum e um pouco bagunçado.
+  2. Os vídeos de hoje (corpo A) não mudam: já estão gerados.
+  3. **Pedido ao aluno (pendente desde 25/10, agora com 2 vendedores apontando o mesmo perfil):** prints da grade da @soma_chhaya e 3 ou 4 reels dela (gravação ou download), para eu descrever os cenários, o enquadramento e a luz da cena nova.
+  4. O Wall Estevam perguntou no chat (06/11) um prompt "pra deixar a qualidade do vídeo menos IA e mais parecendo gravação de celular": quando a resposta do Felps chegar, ela também serve para responder ao Wall.
+
