@@ -998,3 +998,9 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 - **Face:** tem restrição de país (sem Índia) e pede volume; os horários sem vídeo novo levam variação de 0 crédito (espelho + filtro "Dias claros" 30% + 1,1x, feita pelo aluno no CapCut; depois, versão curta e slideshow feitos aqui). Hoje: 17h variação do nora49, 19h30 nora50, 22h variação do nora48 (00h30 se der).
 - **Quando subir:** com mais créditos pelo caminho oficial (assinatura Google AI Pro, ~R$ 23,99 por mês com 1.000 créditos, numa conta dele; `COMUNIDADE`, 03/11) dá para ir a 2 no Insta (19h30 + 22h); e se o nora51 trouxer clique, o volume passa a valer mais. O Plano Primeira Comissão (6 por dia em 2 + 2 contas) continua como meta do curso, sem data.
 
+### 09/11/2026 ~manhã (depois) - Créditos: ~1.440 com os 1.000 de hoje; o Insta sobe para 2 por dia (decisão minha)
+- **Fato (aluno):** 53 + 137 + 250 = 440 créditos, e entram 1.000 hoje na conta de 53 (~1.440 no total).
+- **O que muda:** o crédito era o principal motivo para segurar o Insta em 1 vídeo novo por dia (decisão de hoje cedo, "subir para 2 com mais créditos"). **A partir de amanhã (10/11), o Insta vai a 2 por dia: 19h30 e 22h**, cada um com Take 1 novo (até o limite de 4 a 5 da regra; 6 continua fora pela restrição do Ricardo e pelo "Insta precisa de menos posts" do Kaike). Face nos 4 horários.
+- **10/11:** 19h30 = nora51 (teste do CTA na versão curta, tsunami); 22h = **nora52 = a fórmula do nora49** (tsunami + Take 1 novo de Touro, Virgem e Capricórnio, os signos de terra, sem vídeo desde o nora47 + corpo A inteiro), para volume, sem teste. 45 créditos no dia.
+- **O corpo novo vira nora53** (antes chamado de nora52): sai a partir de 12/11, depois do portal, sem falar do portal; com os créditos, os 8 takes (~120) cabem. Gerar o corpo e os Takes 1 dele na conta dos 1.000 (regra: corpo e Takes 1 de um kit na mesma conta).
+
