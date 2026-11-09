@@ -4,7 +4,8 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 
 ## Pendências (06/11/2026)
 - **Jessica Bento:** resposta com o resultado do teste dos corpos e a pergunta do CTA **enviada em 06/11** (texto no fim deste arquivo). Esperar.
-- **Ricardo Santana e Marcus:** voltar em 07 ou 08/11 com o resultado do teste dos corpos ou do gancho.
+- **Ricardo Santana:** volta com o resultado do teste dos corpos e a pergunta do CTA (meio ou fim) **enviada em 09/11** (11ª leitura). Esperar. **Marcus:** voltar com o resultado do nora54 (CTA mais cedo).
+- **11ª leitura (09/11):** respostas a sordisss (Índia: horário) e Eduarda Fernandes (texto do story) enviadas.
 - **Esperando resposta (não mandar outra):** Felps, Kaike, Lari, Castanho, Marcelo (respondido em 06/11), Letícia (X), Bruno Freitas, rodrigo (#vitórias), Jessica (06/11), Lívia (conversa fechada em 06/11 12h33; voltar com resultado novo), Eduarda Kelly, Gustavo M., Caio, Neto e Cleidiane, Chefinho e Gabriel soares (10ª leitura, 06/11).
 - **Fechados (só voltar com resultado):** Gustavo, Garbellotto, Vitor Kretzer, Gabriel, Vinicius Almeida, Allan Mayer.
 
@@ -278,3 +279,29 @@ a galera falava q viralizava mt mas convertia pouco
 agora tão ajustando, aí só vendo qndo voltar
 ```
 
+## ENVIADO (09/11/2026; 11ª leitura do Discord) — 1. sordisss, no #chat-appyon (responder a mensagem dele de 08/11 10h48, "muito indiano no insta")
+```
+oq mudou aqui foi o horário
+mesmo vídeo, mesmo gancho, 2 horários:
+postado 01h da manhã (br): índia 29%, eua 19%
+postado 19h30 (br): índia 13%, eua 33%
+19h30 aqui é 14h30 na califórnia
+```
+
+## ENVIADO (09/11/2026; 11ª leitura) — 2. Eduarda Fernandes, no #chat-appyon (responder a mensagem dela de 09/11 08h08, "de 400 pessoas que viram os stories no face, só 33 foram pro quiz")
+```
+não sei a referência oficial do story, mas aqui no insta testei 2 textos no mesmo story
+"tap below: your private reading is waiting for you..." (diz oq fazer e oq tem lá): 3 toques em 18 que viram, uns 17%
+um mais emocional, "you're not here by accident": 0 em 18
+e pelo painel que vc mandou vc ta entre os 10% no funil, então eu mexeria só no texto do story
+```
+
+## ENVIADO (09/11/2026; volta com resultado, como combinado em 05/11) — 3. Ricardo Santana, na DM
+```
+fala ricardo, voltando com o resultado como vc falou
+esperei passar de 1 mil views antes de decidir
+o corpo antigo limpo (sem ameaça) foi pra 1,4 mil e 1,7 mil views, 16 follows num deles
+o corpo novo que eu tinha feito ficou bem abaixo, uns 570 no melhor
+mas só uns 10% assistem até o cta, que ta no fim (63s)
+vc põe o cta mais pro meio do vídeo ou deixa no fim?
+```
