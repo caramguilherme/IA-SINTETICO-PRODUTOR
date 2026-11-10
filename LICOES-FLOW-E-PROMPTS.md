@@ -492,3 +492,5 @@ If the generation of any video fails, please resubmit ONLY the item that failed 
 - "The better you treat this video, the bigger the blessing will be" (da Soma Chhaya, 1,2 mi e 453 mil) entrou no kit e o Clone apontou: é barganha, a bênção depende do que a pessoa faz com o vídeo, primo do "se pular, perde a bênção" que a P42 proíbe. **Regra:** engajamento sem condição ("save this and send it to someone you love"). Antes de copiar uma frase de viral, conferir a lista do "Fora" da P42, mesmo em frase positiva.
 - "claim/unlock your private reading" fica fora da fala: a leitura é paga e "claim" soa como grátis (o mesmo motivo do "free").
 
+### 10/11/2026 - Gerador de Prompts: o campo "Objeto principal" não tem "nenhum" (print do aluno, ~18h)
+- A lista do Objeto principal só tem objetos (carta, baralho, pêndulo, geodo…) e, por último, **"LIVRE — escrever…"**. Imagem sem objeto na mão: escolher o LIVRE e escrever "empty hands, no prop, no object anywhere in the frame" (já no painel do nora51, seção da `kitportal-IMG`). Todo painel com imagem sem objeto usa o LIVRE, nunca "escolha qualquer um e apague".

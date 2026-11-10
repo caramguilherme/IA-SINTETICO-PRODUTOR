@@ -190,7 +190,7 @@ IMG_CENTRAL = {
                                                  'large and centered with her eyes at about 30 percent of the image height; her left hand, on the right side of the image, rests '
                                                  'relaxed and empty at the height of her collarbone, with exactly five fingers; she looks straight into the phone camera with her '
                                                  'lips slightly parted, as if about to speak; nothing in her hands'), 'copiar': 1},
-            {'campo': 'Objeto principal', 'valor': 'nenhum (se o campo obrigar, escolha qualquer um e apague do prompt antes de colar no Flow)'}]},
+            {'campo': 'Objeto principal (escolha “LIVRE — escrever…”, a última opção da lista, e cole)', 'valor': 'empty hands, no prop, no object anywhere in the frame', 'copiar': 1}]},
         {'titulo': '4. Cenário e luz', 'campos': [
             {'campo': 'Cenário', 'valor': 'Quarto com cama desfeita'},
             {'campo': 'Horário', 'valor': 'Abajur tungstênio'},
