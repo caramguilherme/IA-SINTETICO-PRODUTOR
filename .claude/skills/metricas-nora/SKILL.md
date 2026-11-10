@@ -13,10 +13,10 @@ description: Use quando o Guilherme mandar métricas da Nora (prints ou texto do
 
 ## Como ler (regras em vigor)
 - Não julgar com 3 h; a régua é com ~24 h. Comparar com o vídeo do mesmo teste no mesmo tempo de vida e, se der, no mesmo horário.
-- **Teste em andamento (ver `CLAUDE.md`, seção 1):** o corpo, com o gancho fixo. Julgar corpo ou CTA só com 800 a 1.000 views somadas do mesmo corpo no Insta, pelas visitas ao perfil, follows, comentários de outras pessoas, viewers do story e cliques no Tracker.
+- **Teste em andamento:** o que a seção 1 do `CLAUDE.md` disser (em 10/11: o kit do portal, curto x longo, contra o nora49). Julgar corpo ou CTA só com 800 a 1.000 views somadas do mesmo corpo no Insta, pelas visitas ao perfil, follows, comentários de outras pessoas, viewers do story e cliques no Tracker.
 - Comentários de outras pessoas ÷ views: 2,5%+ bom, 1% a 2,5% meio, abaixo de 1% fraco (só com 300+ views).
 - Insta: olhar a curva aos 8 s, a % de EUA e de Índia (Índia não compra) e o 45+ (copy de medo puxa público velho). Face: tem restrição de país, nunca atribuir view à Índia; trava entre ~240 e ~320 = gancho.
-- **A medida final é o clique no Tracker** (~178 cliques por venda na comunidade em outubro).
+- **A medida final é o clique no Tracker** (régua oficial da Central MVM: ~330 cliques por venda, 0,30%; ~178 era a média da comunidade em outubro).
 - Vídeo com 10 curtidas ou mais: pedir o gráfico "When people liked your reel".
 
 ## Resposta ao aluno

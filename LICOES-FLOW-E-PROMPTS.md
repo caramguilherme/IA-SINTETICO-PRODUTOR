@@ -425,12 +425,12 @@ If the generation of any video fails, please resubmit ONLY the item that failed 
 
 ### 07/11/2026 - Clone do Gustavo: o que todo painel confere antes de sair (P46)
 - **Story:** tem o link (adesivo) e é foto da Nora + frase curta; nenhum story sem link na fila.
-- **CTA:** 3 partes (ganho → o que tem do outro lado, nas palavras do funil → a ação); salvar e seguir depois do CTA; sem "free", "claim", 222 falado, "chose you", "so this prediction will become reality", "before they disappear", "Comment X and I'll send it", link na bio.
+- **CTA:** 3 partes (ganho → o que tem do outro lado, nas palavras do funil → a ação); salvar e seguir depois do CTA; sem "free", "claim", 222 falado, "chose you", "so this prediction will become reality", "before they disappear", "Comment X and I'll send it", link na bio. **(Revisto em 10/11 ~01h15: o "claim" e o 222 voltam só no engajamento, depois do CTA.)**
 - **Pré-gancho:** do nicho, sem cartas na imagem, 3 a 4 s, uma ação; nota de dinheiro só no Insta.
 - **Prova:** só real (`provas-trustpilot/`, nome do app cortado); nada de cliente, casal ou resultado inventado.
 - **Teste:** o painel diz qual é a única variável do vídeo e contra qual vídeo compara (ordem: gancho → CTA → prova → efeitos → música).
 - **Leitura:** o registro de "Leitura obrigatória" do painel cita o `CLONE-DO-GUSTAVO-RESPOSTAS.md`.
-- **Legenda (R17 e R20):** 3 a 5 hashtags do nicho; sem 222, "claim", "free", link (no Insta) e nome do app.
+- **Legenda (R17 e R20):** 3 a 5 hashtags do nicho; sem "free", link (no Insta) e nome do app. **Revisto em 10/11 ~01h15:** no Insta, a legenda pode pedir comentário com "claim" (palavra diferente a cada vídeo); no Face, sem pedido; na fala, pedido só depois do CTA (`COMUNIDADE-E-ESTRATEGIA.md`, 10/11 ~01h15).
 - **Fala nova de corpo (R15 e R16):** sem "immediately", "wealth", "gift", "2-minute" e vivência inventada; o mecanismo usa a palavra do funil ("cosmic receiver").
 
 ### 07/11/2026 - Antes de dizer "não está registrado", buscar direito (erro meu, o aluno corrigiu)

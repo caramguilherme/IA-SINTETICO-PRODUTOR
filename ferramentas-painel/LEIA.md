@@ -20,3 +20,16 @@ O CSV tem BOM e fim de linha **CRLF** nos registros (`\r\n`), com `\n` simples d
 **Conferências (03/11/2026):** `conferir-painel.js` (abre painéis no Chromium e mostra os erros da página) e, em `dashboard/`, `preparar_csv.py` e `conferir-dados.js` (planilha do dashboard). Uso no começo de cada arquivo.
 
 - `buscar.py` (07/11/2026, P47): pente fino antes de toda resposta. Uso: `python3 -I ferramentas-painel/buscar.py "restrição de país" "países" "Tier 1"`. Procura em todos os .md e no CSV do projeto (raiz, `HISTORICO-DISCORD/`, `MATERIAIS-CALL-*`, `ferramentas-painel/`), sem acento nem maiúscula, na ordem FATOS → CLAUDE → COMUNIDADE → CONTATOS → métricas → Clone → PLANO → regras; `--tudo` mostra todas as linhas.
+
+## Índice das pastas de 27/10 a 10/11/2026 (acrescentado no pente fino de 10/11)
+Cada pasta `rDDMM/` guarda os scripts do dia em que foram usados. **São registros: quase todos reescrevem painéis já postados ou de outra numeração, então não rodar de novo sem ler o script e conferir o painel de saída.** A ferramenta que vale hoje: `PAINEL-MODELO.html` + um script novo do dia, `conferir-painel.js`, `buscar.py`, `ferramentas/` (edição P45) e `dashboard/`.
+- `r2710/`: painéis do nora36 ao nora40 (curtos do geodo, placas, link do story) e `check.js`.
+- `r2810/`: números fixos nos curtos, aviso de localização, conferência do nora38 ao nora41, imagem do nora37.
+- `r3010/`: painéis do nora44 e do nora45 (`build3010.py`, `build3010b.py`).
+- `r0311/`: nora47 (tsunami, Take 1 no estúdio) e a regra "sem cartas antes do quiz" nos painéis.
+- `r0411/`: leituras de métricas do nora46 e do nora47 (`face_…`, `insta_…`, `grade_…`), painéis do nora48 e do nora49, e a 1ª edição automática (`spec-nora47.json`, `transcricao-nora47.json`).
+- `r0511/`: modo Frames no agente (nora48 e nora49), horários e o pente fino dos painéis.
+- `r0611/`: nora49 com o corpo A, story-0611, as specs e transcrições do nora48 e do nora49 e o `transcrever_palavras.py` (usado em toda edição).
+- `r0711/`: painel do nora50 antigo (a pedra; depois nora52, cancelado em 10/11) e o story de 07/11.
+- `r0911/`: painéis do nora51 a nora53 do corpo A (cancelados em 10/11), a renumeração e a edição do nora50 (`spec-nora50.json`, `transcricao-nora50.json`).
+- `r1011/`: registros de 10/11 (12ª leitura do Discord, joao, call do Gustavo de 09/11, Soma Chhaya, revisão do "claim") e o pente fino do projeto (`pente_fino_1011.py` e `_parte2.py`).

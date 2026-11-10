@@ -1167,3 +1167,31 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
   - **Créditos:** ~150 hoje na contatocaram (curto 30 + longo ~90 + curto 30).
   - **Saem do plano:** o teste da pedra (nora52 antigo) e o do CTA curto no corpo A (nora54). Os painéis antigos ficam no histórico do Git.
   - **Legenda:** com o kit novo, o Insta já leva o pedido de comentário com palavra variada (revisão de 10/11 ~01h15); o Face, sem pedido.
+
+### 10/11/2026 ~04h30 - Pente fino do projeto inteiro (pedido do aluno: "encontre tudo o que está quebrado, inconsistente, ineficiente ou não é mais necessário; corrija o que tem certeza e liste o restante")
+- **Conferido e sem problema:** os 454 arquivos do Git; todos os scripts Python e Node compilam; os 14 painéis do nora40 ao nora53 abrem sem erro (`conferir-painel.js`); o `METRICAS-NORA.csv` está íntegro (106 linhas, 26 colunas em todas, BOM, CRLF, nenhum id repetido); as 3 skills do projeto apontam para arquivos que existem.
+- **Corrigido (certo):**
+  1. **`CLAUDE.md` 37% menor (48,5 → ~30 KB), que vai em toda mensagem:** a seção 1 ficou só com o estado atual (kit do portal, o que foi postado, métricas em resumo, créditos, infraestrutura, contatos, pendências); 17 itens superados (planos do corpo A, renumeração de 09/11, o "nora50 = pedra", métricas de 07/11, o plano de volume de 07 a 09/11) e o diário de 06 a 08/11 foram para o `HISTORICO-CLAUDE-MD.md`, palavra por palavra (`ferramentas-painel/r1011/pente_fino_1011.py`).
+  2. **Regras da seção 2 que contradiziam as decisões de 10/11:** a legenda do kit (o pedido de comentário já vale no nora51 a nora54), a data no Take 1 do kit, "uma variável por vez" salvo decisão do aluno, a régua de ~330 cliques por venda no lugar dos ~178, a ordem dos testes depois do kit, o kit sem pré-gancho; saiu a regra do "nora50" que nunca foi gerado.
+  3. **"P1 a P45" → "P1 a P47"** no `REGRAS-DO-AGENTE.md`, no `LEIA-TUDO-ANTES.md` e no `PASSAGEM-DE-CONTA.md`.
+  4. **`CLONE-DO-GUSTAVO-RESPOSTAS.md` na lista principal do `LEIA-TUDO-ANTES.md`** (estava em "Só quando o pedido envolver", mas é obrigatório em todo vídeo, P46).
+  5. **Régua velha marcada como superada:** a P46 (12) (checkout de 18% a 20%) e a skill `metricas-nora` (~178 cliques; e o "teste em andamento" agora remete à seção 1).
+  6. **"Claim" e pedido de comentário:** as duas linhas do `LICOES` (07/11) que diziam "sem claim" ganharam a nota da revisão de 10/11.
+  7. **`00-LEIA-PRIMEIRO.md`** (modelo de origem, UGC Pet e Dana) ganhou o aviso de que é histórico; a P-lista do `REGRAS` dizia que ele mostrava "as regras vigentes".
+  8. **`PASSAGEM-DE-CONTA.md`:** o quadro "Onde está cada coisa" apontava para lugares velhos (regras no topo do Comunidade, Discord "lido até 05/11", base do "nora50"); agora aponta para a seção 2 do `CLAUDE.md`, o marcador do Discord, as aulas de 06 e 09/11, o Clone e o kit.
+  9. **`CONTATOS-ALUNOS.md`:** "voltar com o resultado do nora54" (Ricardo e Marcus) virou "o resultado do kit do portal" (o nora54 do corpo A saiu do plano).
+  10. **`PLANO-MVM`:** o parágrafo "Onde a Nora está (19/10)" ganhou a nota de que é histórico; 2 itens do checklist marcados como superados (esperar o Love Chart; comprar o Flow por 1 dólar).
+  11. **`BIBLIOTECA-DE-TAKES.md`:** o cancelamento do nora51 a nora53 do corpo A e o kit do portal planejado.
+  12. **`ferramentas-painel/LEIA.md`:** faltava o índice das pastas de 27/10 a 10/11 (o que cada uma faz e o aviso de não rodar os scripts velhos).
+  13. **Apagados:** a pasta `undefined/` (3 prints de painéis de 8,4 MB, saídos de um script com caminho vazio em 31/10, sem uso) e 2 arquivos `.pyc`; um `.gitignore` novo evita `__pycache__` de novo.
+- **Para o aluno revisar (não mexi):**
+  1. **`PLAYBOOK-COPY-MANIFESTATION.md` nunca foi criado**, mas o `CLAUDE.md` (06/11) e o Clone mandavam lê-lo primeiro em todo roteiro. Criar agora (uma página com o que vale em gancho, corpo, CTA e story, com as fontes) ou tirar a regra?
+  2. **Arquivos da Dana, do Soulmate e do Love Chart na lista obrigatória de leitura** (`PROJETO-Dana.md`, `00-LEIA-PRIMEIRO.md`, `Prompts.txt`, `EXEMPLO-*-FIGADO`, `BRIEFING-LOVECHART.md`, `ROTEIRO-R001` a `R005`, `STORY-*`, `TAKE-NOVO-*`, `RESERVA-*`, `PLANO-CREDITOS-*`, `PASSO-A-PASSO-*`): mover para uma pasta `arquivo/` e tirar da lista deixaria a leitura completa bem mais barata. As adaptações P1 a P5 ainda citam alguns deles.
+  3. **`COMUNIDADE-E-ESTRATEGIA.md` tem ~310 KB:** separar as entradas antes de 06/11 num `HISTORICO-COMUNIDADE.md`?
+  4. **Scripts velhos:** 19 têm caminhos fixos de sessões antigas (`/tmp/...`) e vários reescrevem painéis já postados (`r6` a `r11`, `r26` a `r30`): mover para `ferramentas-painel/arquivo/`?
+  5. **Prints grandes:** os 17 prints da Soma Chhaya somam ~63 MB em PNG (já estão no histórico do Git, então converter agora não diminui o repositório). Daqui pra frente, salvar prints de referência em JPEG (~10x menores)?
+  6. **Painéis do nora51 a nora53 publicados ainda mostram a fórmula antiga do corpo A**: não usar até eu republicar com o kit (depende da imagem nova e do Clone).
+  7. **Coisas planejadas que nunca saíram:** o lote de 7 stories (Clone R2), os Destaques "About me" e "Reviews" (R5 e R12), a prova do Trustpilot no story; seguem de pé?
+  8. **Checklist do `PLANO-MVM` com itens de outubro** (prints do nora18 ao nora24, reels de referência R01 a R26 do Soulmate, link "não confiável" no story, Vibe Contabilidade): ainda valem?
+  9. **A `main` foi atualizada pela última vez em 06/11:** atualizar com tudo de hoje (com o seu ok)?
+

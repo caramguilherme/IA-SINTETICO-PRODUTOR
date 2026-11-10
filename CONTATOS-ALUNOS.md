@@ -2,9 +2,9 @@
 
 Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e colher estratégias e dicas, como os outros alunos fazem: destravam e depois agradecem publicamente; tirar o máximo de quem vende, aplicar e agradecer". Detalhe de cada conversa em `FATOS-DO-ALUNO.md` (linha de cada pessoa); decisões em `COMUNIDADE-E-ESTRATEGIA.md`. Atualizar esta tabela a cada resposta.
 
-## Pendências (06/11/2026)
+## Pendências (atualizado em 10/11/2026)
 - **Jessica Bento:** resposta com o resultado do teste dos corpos e a pergunta do CTA **enviada em 06/11** (texto no fim deste arquivo). Esperar.
-- **Ricardo Santana:** respondeu em 09/11 12h58 (CTA no fim; no meio, pedido de comentário; "a copy tem que ser bem convincente pra pessoa ficar até o final"). Resposta de fechamento enviada; voltar com o resultado do nora54 (versão curta). **Marcus:** voltar com o resultado do nora54 (CTA mais cedo).
+- **Ricardo Santana:** respondeu em 09/11 12h58 (CTA no fim; no meio, pedido de comentário; "a copy tem que ser bem convincente pra pessoa ficar até o final"). Resposta de fechamento enviada; voltar com o resultado do kit do portal (versão curta x longa, CTA mais cedo; o "nora54 do corpo A" saiu do plano em 10/11). **Marcus:** voltar com o mesmo resultado (CTA mais cedo).
 - **11ª leitura (09/11):** respostas a sordisss (Índia: horário) e Eduarda Fernandes (texto do story) enviadas.
 - **joao (Sargento):** respondeu em 09/11 17h29 (ganchos + texto do story); resposta enviada em 10/11. Esperar.
 - **12ª leitura (10/11):** respostas a João Paulo (CTA de Face e Insta), Paulo Infante (quadro de validação) e Mateus Guisolffi (Insta travado no nome), no #chat-appyon, e parabéns ao Rundouglas no #vitórias: enviadas (toda resposta sugerida conta como enviada). Bruno Freitas e Eduarda Kelly: só reação.

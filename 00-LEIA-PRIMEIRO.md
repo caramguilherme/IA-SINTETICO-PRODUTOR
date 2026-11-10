@@ -1,5 +1,7 @@
 # Leia antes dos documentos de origem
 
+> **Nota de 10/11/2026 (pente fino):** este arquivo é do modelo de origem (Projeto UGC Pet e a Dana) e não descreve a Nora de hoje. As regras vigentes estão no `CLAUDE.md` (seções 2 e 5) e em `REGRAS-DO-AGENTE.md` (P1 a P47); os itens abaixo ficam só como histórico.
+
 Os documentos copiados preservam o histórico do Projeto UGC Pet. Use este arquivo e o playbook para decidir a configuração vigente. Não copie regras superadas como se ainda fossem obrigatórias.
 
 1. O pedido atual do responsável prevalece. Defina nicho, oferta, perfis e linha no arquivo de configuração.
