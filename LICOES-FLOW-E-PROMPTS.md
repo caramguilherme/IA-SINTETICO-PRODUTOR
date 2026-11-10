@@ -488,3 +488,7 @@ If the generation of any video fails, please resubmit ONLY the item that failed 
 ### 10/11/2026 - Painel: seção "Clone do Gustavo (antes de gerar)"
 - A pergunta para o Clone (regra da 11ª leitura) ficava só no chat. **Agora vai no painel:** campo `clone` do pacote, `{"nota": "...", "pergunta": "..."}`, mostrado na seção `clone` (botão "Copiar pergunta"); sem o campo, a seção some. Na ordem padrão ela vem logo depois das peças; no kit do portal, depois da imagem e antes da Central (painel do nora51). Todo painel com fala nova leva a pergunta.
 
+### 10/11/2026 - Copy: bênção condicionada também é ameaça (Clone R22)
+- "The better you treat this video, the bigger the blessing will be" (da Soma Chhaya, 1,2 mi e 453 mil) entrou no kit e o Clone apontou: é barganha, a bênção depende do que a pessoa faz com o vídeo, primo do "se pular, perde a bênção" que a P42 proíbe. **Regra:** engajamento sem condição ("save this and send it to someone you love"). Antes de copiar uma frase de viral, conferir a lista do "Fora" da P42, mesmo em frase positiva.
+- "claim/unlock your private reading" fica fora da fala: a leitura é paga e "claim" soa como grátis (o mesmo motivo do "free").
+

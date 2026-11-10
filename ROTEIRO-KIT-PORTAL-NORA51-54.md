@@ -23,14 +23,14 @@
 | kitportal-T02 | nora51, nora52 | Tomorrow, the 11:11 portal opens, and the next chapter of your life begins with it, in the best way possible. | 20 | 10 s | 15 | verde (desejo com prazo) |
 | kitportal-T02b | nora53 | Tomorrow is 11:11, and the doors that stayed closed for so long are getting ready to open for you. | 19 | 10 s | 15 | verde |
 | kitportal-T02d | nora54 e os de 11/11 | Today the 11:11 portal is open, and the next chapter of your life begins with it, in the best way possible. | 21 | 10 s | 15 | verde |
-| kitportal-T03 | nora52 | Love, peace, purpose, ease, and money that finally stops being a worry: every part of your life is getting an upgrade. | 21 | 10 s | 15 | verde (as 4 áreas do funil) |
-| kitportal-T04 | todos | Your private reading shows what this new chapter is bringing you: tap my photo, open my story, and answer three quick questions. | 22 | 10 s | 15 | dourado (CTA em 3 partes) |
+| kitportal-T03-para-quem-e | nora52 | This is for you if you've done everything right and still feel stuck: that is exactly what this portal is changing. | 21 | 10 s | 15 | verde (filtro: para quem é, a dor em uma frase; Clone R22 e Lucas Dusi) |
+| kitportal-T04 | todos | The second part of this sign is in my story: tap my photo and answer three quick questions for your private reading. | 22 | 10 s | 15 | dourado (CTA em 3 partes com motivo: a 2ª parte do sinal; Clone R22) |
 | kitportal-T05 | nora52 | Now, here's what most people don't know about 11:11, and why you keep seeing it everywhere lately. | 17 | 8 s | 12 | amarelo (curiosidade) |
 | kitportal-T06 | nora52 | When the same numbers keep finding you, I call it being a cosmic receiver: the universe speaks to you through signs. | 21 | 10 s | 15 | verde (mecanismo, palavra da VSL) |
-| kitportal-T07 | nora52 | And 11:11 is a gateway between who you are now and who you're becoming, so the intentions you set now carry further. | 22 | 10 s | 15 | verde |
+| kitportal-T07 | nora52 | Until today, doubt kept that signal quiet, but 11:11 opens the gateway, so the intentions you set now carry further. | 20 | 10 s | 15 | verde (por que travava antes: a dúvida, como a fé da VSL; Clone R22) |
 | kitportal-T08 | nora52 | So tap my photo and open my story: three quick questions, and your private reading is ready for you. | 19 | 10 s | 15 | dourado (CTA de novo) |
-| kitportal-T09 | nora52, nora54 | The better you treat this video, the bigger the blessing will be, so save it and send it to someone you love. | 22 | 10 s | 15 | amarelo (engajamento, depois do CTA) |
-| **Total** | | | | | **201** (contatocaram, 1.050) | 0 vermelho |
+| kitportal-T09 | nora52, nora54 | Save this, and send it to someone you love: this new chapter is meant to be shared. | 17 | 8 s | 12 | verde (engajamento, depois do CTA; sem bênção condicionada, P42 e Clone R22) |
+| **Total** | | | | | **198** (contatocaram, 1.050) | 0 vermelho |
 
 ## Montagem de cada vídeo (sem pré-gancho; a FusionZ junta na ordem do nome)
 - **nora51 · terça 10/11 · 17h · curto (~25 s):** T01b + T02 + T04.
@@ -43,8 +43,8 @@
 - Para quem é nos 3 s: a data do dia + a caixa do topo "if you keep seeing 11:11" (a tela 5 do quiz e os sinais da VSL).
 - Desejo real: a próxima fase da vida, as 4 áreas do funil. Mecanismo: o 11:11 como passagem e o "cosmic receiver" da VSL, dito como palavra da Nora ("I call it"), sem autoridade inventada.
 - Prova: nenhuma neste kit (a prova do Trustpilot é um teste depois). Nada inventado.
-- CTA: o que ela ganha ("your private reading shows what this new chapter is bringing you"), o que tem do outro lado ("three quick questions"), a ação ("tap my photo, open my story"); engajamento só depois.
-- Fora: medo, ameaça, "keep your mouth shut", "chosen", "miracle", "guaranteed", "free", cartas, dinheiro com valor ou hora, "karma", "you must… to receive", link na bio, nome do app.
+- CTA (revisto pelo Clone R22): o motivo ("the second part of this sign is in my story"), a ação ("tap my photo and answer three quick questions") e o que ela recebe ("your private reading"); engajamento só depois (salvar e mandar a alguém).
+- Fora: medo, ameaça, bênção condicionada ("the better you treat this video…"; P42 e Clone R22), "claim/unlock your private reading" (a leitura é paga), "keep your mouth shut", "chosen", "miracle", "guaranteed", "free", cartas, dinheiro com valor ou hora, "karma", "you must… to receive", link na bio, nome do app.
 - Até 22 palavras por fala; números falados por extenso pela SPEECH RULE ("eleven eleven", "November tenth").
 
 ## Legenda e comentário
@@ -59,6 +59,11 @@
 - nora54 https://claude.ai/artifact/65UyAVMwWKzn4hSTqv3UTd: gera T01d e T02d (27).
 - O LIVRE, as 14 movimentações e a posição dos números estão marcados "PROVISÓRIO": fecho pela imagem aprovada e rodo o script de novo (republica nos mesmos links).
 
+## Revisão pelo Clone do Gustavo (10/11 16h36, R22) e pelo Lucas Dusi (10/11 14h49)
+- **Mudou:** T03 (era a lista das 4 áreas, larga demais: agora filtra para quem é), T04 (o motivo era morno: agora "the second part of this sign" + a ação + "your private reading"), T07 (agora diz por que travava antes: a dúvida, congruente com a VSL, que fala de fé e de estar aberta para receber) e T09 ("the better you treat this video, the bigger the blessing" era bênção condicionada, parecida com o "se pular, perde a bênção" da P42: saiu). Total: 198 créditos.
+- **Ficou:** o gancho da data (modelado palavra por palavra dos maiores da Soma Chhaya, 1,2 mi a 222 mil; o T01c do nora53 já é "it's a sign", perto do que o Clone sugeriu) e o kit sem pré-gancho (é a variável em teste contra o nora49, que tem cena antes).
+- **Não entrou:** "claim/unlock your private reading" (a leitura é paga: "claim" soa como grátis) e "Comment '1111' to claim this new cycle" na fala (o pedido de comentário fica na legenda do Insta, com palavra diferente a cada vídeo).
+
 ## Falta
 - A imagem `kitportal-IMG` aprovada (o aluno gera agora, 0 crédito; desde 10/11 ~10h30, com a frase do iPhone no campo Lente LIVRE e, se quiser, uma foto do Pinterest só como referência de luz e enquadramento, com a trava do `LICOES` de 10/11); depois dela, o LIVRE e as 14 linhas de movimentação (P32: escritos pela imagem aprovada) e os painéis do nora51 a nora54 (o do nora51 traz a geração do kit inteiro).
-- A avaliação da fala no Clone do Gustavo (regra da 11ª leitura), antes de gerar.
+- ~~A avaliação da fala no Clone do Gustavo~~: feita em 10/11 16h36 (R22); falas ajustadas.

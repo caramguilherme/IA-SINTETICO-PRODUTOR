@@ -274,8 +274,28 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 
 ---
 
+## R22 (10/11, 16h36): avaliação do kit do portal (nora51 a nora54), com o filtro no corpo e o reason why do CTA
+**Pergunta:** a do painel do nora51 (seção "Clone do Gustavo (antes de gerar)"): o kit inteiro (gancho, promessa, áreas, CTA 1, re-gancho, mecanismo, CTA 2, engajamento) + (1) o corpo filtra o público? (2) o CTA tem motivo forte para tocar agora, sem medo? + 2 versões do CTA 1.
+**Resposta, resumida (colada pelo aluno):**
+1. **Gancho:** a data atrelada ao portal é ângulo validado (aulas 46 e 65). Falta um pré-gancho visual de 1 a 3 s antes da voz (aulas 32 e 43: vela acendendo, incenso com som, cristais, o 11:11 brilhando, riser e impact no corte). "This video will find you" soa passivo; sugestão: "If this video reached your screen on November 10th, it is a direct sign from the universe." (aula 65).
+2. **Corpo (filtra?): não o suficiente.** "Love, peace, purpose, ease, and money…" abre promessas demais e atrai intenções desencontradas (aulas 64 e 65): focar ~80% num benefício (ex.: fim da ansiedade com dinheiro). O cosmic receiver é bom (aulas 26 e 46), mas falta dizer **por que o receptor estava travado até hoje** (aulas 11 e 26: o canal operava na frequência do esforço e da dúvida; alinhado com o 11:11, o bloqueio some).
+3. **CTA (reason why): morno.** "Your private reading shows what this new chapter is bringing you" dá a ação, mas não o motivo para sair do feed agora. Aulas 54, 64 e 65: prometer que a 2ª parte da revelação está pronta e esperando, ou que o teste alinha a frequência do portal; sem responder, a mensagem fica incompleta.
+4. **Engajamento: alerta.** "The better you treat this video, the bigger the blessing will be" beira barganha e ameaça velada (aulas 65 e 66, "Do Medo ao Desejo"); sugestão: "Comment '1111' to claim this new cycle, and share this frequency with someone you love."
+5. **2 versões do CTA 1:** (A) "The second part of this sign is waiting in my story: answer three quick questions and unlock your private reading now." (B) "To align your energy with this new chapter, tap my story: answer three quick questions and claim your private reading today."
+6. **Story (aulas 13 e 54):** adesivo de link no 1º story; texto do adesivo direto em inglês; foto simples da avatar com frase curta convidando para o teste de 3 perguntas.
+
+**Para a Nora (decisão minha, aplicada nos painéis do kit em 10/11 ~17h):**
+- **T03** vira filtro (P42, item 1: para quem é, a dor em uma frase): "This is for you if you've done everything right and still feel stuck: that is exactly what this portal is changing." Sem dinheiro na fala (no Face, sem promessa de dinheiro); a dor de "travada" é a da própria VSL ("you're going to stay stuck").
+- **T04 (CTA 1)** fica com o motivo da versão A e a ação de sempre: "The second part of this sign is in my story: tap my photo and answer three quick questions for your private reading." (22 palavras; sem "unlock" e "claim": a leitura é paga e "claim" soa grátis; sem "now/today", porque o T04 vai também nos posts de 11/11).
+- **T07** diz por que travava: "Until today, doubt kept that signal quiet, but 11:11 opens the gateway, so the intentions you set now carry further." (a dúvida, congruente com a VSL: fé e estar aberta para receber).
+- **T09** sem a bênção condicionada: "Save this, and send it to someone you love: this new chapter is meant to be shared." (17 palavras, 8 s). O pedido de comentário fica na legenda do Insta, com palavra diferente a cada vídeo (o "1111" na fala repetiria a mesma palavra em 2 vídeos).
+- **Ficam:** o gancho da data (palavra por palavra dos maiores da Soma Chhaya, de 1,2 mi a 222 mil; o T01c do nora53 já é "it's a sign") e o kit sem pré-gancho (é a variável em teste: só fala x cena + fala do nora49; resposta ao joao de 10/11). O pré-gancho volta a ser avaliado com o resultado.
+- **Story:** já seguimos (link no 1º story, adesivo "Open my reading", foto simples da Nora).
+
+---
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
-Feitas e respondidas: R1 a R21 (07/11). Para conferir:
+Feitas e respondidas: R1 a R21 (07/11) e R22 (10/11, o kit do portal). Para conferir:
 1. "Em qual fonte aparece a hashtag #AuraliTrend como obrigatória? Copie o trecho exato e diga a aula ou o documento."
 
 **Nota (10/11, 12ª leitura do Discord):** até 09/11 13h57 a fonte 67 do notebook (call de 03/11, Iorhan) tinha a transcrição da aula 66; a Ju corrigiu. As respostas R1 a R21 foram feitas antes: o que citam como "67" veio da 66. **Pergunta sugerida, agora com a fonte certa:** "Na call de 03/11 (Turbinando criativos), o que o Iorhan diz sobre a diferença entre copy que engaja e copy que vende no Manifestation, e que estrutura de corpo ele mostra funcionando? Cite trechos."

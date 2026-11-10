@@ -31,26 +31,26 @@ F = {
     'T02': "Tomorrow, the 11:11 portal opens, and the next chapter of your life begins with it, in the best way possible.",
     'T02b': "Tomorrow is 11:11, and the doors that stayed closed for so long are getting ready to open for you.",
     'T02d': "Today the 11:11 portal is open, and the next chapter of your life begins with it, in the best way possible.",
-    'T03': "Love, peace, purpose, ease, and money that finally stops being a worry: every part of your life is getting an upgrade.",
-    'T04': "Your private reading shows what this new chapter is bringing you: tap my photo, open my story, and answer three quick questions.",
+    'T03': "This is for you if you've done everything right and still feel stuck: that is exactly what this portal is changing.",
+    'T04': "The second part of this sign is in my story: tap my photo and answer three quick questions for your private reading.",
     'T05': "Now, here's what most people don't know about 11:11, and why you keep seeing it everywhere lately.",
     'T06': "When the same numbers keep finding you, I call it being a cosmic receiver: the universe speaks to you through signs.",
-    'T07': "And 11:11 is a gateway between who you are now and who you're becoming, so the intentions you set now carry further.",
+    'T07': "Until today, doubt kept that signal quiet, but 11:11 opens the gateway, so the intentions you set now carry further.",
     'T08': "So tap my photo and open my story: three quick questions, and your private reading is ready for you.",
-    'T09': "The better you treat this video, the bigger the blessing will be, so save it and send it to someone you love.",
+    'T09': "Save this, and send it to someone you love: this new chapter is meant to be shared.",
 }
 NOMES = {
     'T01a': 'kitportal-T01a-data-terca', 'T01b': 'kitportal-T01b-data-terca-se-voce-ve', 'T01c': 'kitportal-T01c-data-terca-e-um-sinal',
     'T01d': 'kitportal-T01d-data-quarta', 'T02': 'kitportal-T02-amanha-o-portal', 'T02b': 'kitportal-T02b-amanha-as-portas',
-    'T02d': 'kitportal-T02d-hoje-o-portal', 'T03': 'kitportal-T03-as-areas-da-vida', 'T04': 'kitportal-T04-cta-reading',
+    'T02d': 'kitportal-T02d-hoje-o-portal', 'T03': 'kitportal-T03-para-quem-e', 'T04': 'kitportal-T04-cta-reading',
     'T05': 'kitportal-T05-regancho-1111', 'T06': 'kitportal-T06-cosmic-receiver', 'T07': 'kitportal-T07-gateway',
     'T08': 'kitportal-T08-cta-de-novo', 'T09': 'kitportal-T09-engajamento',
 }
 CENA = {
     'T01a': 'a data do dia (abertura do longo)', 'T01b': 'a data do dia (abertura do curto das 17h)', 'T01c': 'a data do dia (abertura do curto das 22h)',
     'T01d': 'a data de quarta (abertura do curto da 00h30)', 'T02': 'a promessa: amanhã é o portal', 'T02b': 'a promessa: as portas vão abrir',
-    'T02d': 'a promessa: hoje é o portal (11/11)', 'T03': 'as áreas da vida (as 4 do funil)', 'T04': 'CTA: o que ela ganha, o que tem lá, a ação',
-    'T05': 're-gancho: o que ninguém sabe do 11:11', 'T06': 'mecanismo: cosmic receiver', 'T07': 'mecanismo: a passagem e as intenções',
+    'T02d': 'a promessa: hoje é o portal (11/11)', 'T03': 'filtro: para quem fez tudo certo e se sente travada', 'T04': 'CTA: a 2ª parte do sinal, a ação e a leitura',
+    'T05': 're-gancho: o que ninguém sabe do 11:11', 'T06': 'mecanismo: cosmic receiver', 'T07': 'mecanismo: a dúvida calava o sinal; o 11:11 abre a passagem',
     'T08': 'CTA de novo', 'T09': 'engajamento (depois do CTA)',
 }
 
@@ -61,20 +61,20 @@ BASE_MOV = ('Throughout the whole {d} seconds she keeps an unchanged handheld se
             'stay on the lens, {g}, and from the end of the final sentence of the take until the clip ends she keeps her lips closed and silent; the camera keeps only a tiny '
             'natural handheld sway with no zoom and no cuts, everything else in the room stays still and each hand has exactly five fingers.')
 GESTO = {
-    'T01a': 'during the first half of the take she leans slightly toward the lens with her eyebrows a little raised and an intrigued look, during the second half she gives one slow knowing nod with a warm half-smile',
-    'T01b': 'during the first half of the take she tilts her head slightly with a curious look, during the second half a warm, certain smile appears and she gives one small nod',
-    'T01c': 'during the first half of the take she raises her eyebrows with a look of recognition, during the second half she gives two small quick nods with a knowing smile',
-    'T01d': 'during the first half of the take she leans slightly toward the lens with a bright, excited look, during the second half she gives one slow nod with a wide warm smile',
-    'T02': 'during the first half of the take she raises her left hand to the height of her shoulder with the palm open and facing up as if offering something, during the second half the hand returns to collarbone height and a wide smile grows',
-    'T02b': 'during the first half of the take she holds a calm, reassuring look, during the second half she opens her left hand at the height of her shoulder with the palm turning outward slowly as if opening something, then lowers it',
-    'T02d': 'during the first half of the take her eyebrows lift with a joyful look, during the second half she opens her left hand at the height of her shoulder with the palm up and then lowers it with a warm smile',
-    'T03': 'during the first half of the take she lifts her left hand to the height of her shoulder and counts softly on her fingers, one finger at a time, during the second half the hand returns to collarbone height and she smiles',
-    'T04': 'during the first half of the take she holds a warm, confident look, during the second half she points her left index finger down toward the lower left part of the frame for a moment and then lowers the hand',
-    'T05': 'during the first half of the take she leans slightly toward the lens with a soft, almost secretive look, during the second half she lifts only the index finger of her left hand at shoulder height for a moment and then lowers it',
-    'T06': 'during the first half of the take she raises her left hand to the height of her shoulder with the palm open as if explaining, during the second half she lowers it slowly and gives one calm, confident nod',
-    'T07': 'during the first half of the take her eyes glance up and slightly to the side as if picturing something lovely, during the second half her eyes return to the lens and a calm smile grows',
-    'T08': 'during the first half of the take she gives one small encouraging nod, during the second half she points her left index finger down toward the lower left part of the frame for a moment and then lowers the hand',
-    'T09': 'during the first half of the take she rests her left palm flat at collarbone height for a moment with a warm smile, during the second half she lowers the hand and gives one slow nod',
+    'T01a': 'during the first half of the take she leans slightly toward the lens with her eyebrows a little raised and an intrigued look, in the closing half she gives one slow knowing nod with a warm half-smile',
+    'T01b': 'during the first half of the take she tilts her head slightly with a curious look, in the closing half a warm, certain smile appears and she gives one small nod',
+    'T01c': 'during the first half of the take she raises her eyebrows with a look of recognition, in the closing half she gives two small quick nods with a knowing smile',
+    'T01d': 'during the first half of the take she leans slightly toward the lens with a bright, excited look, in the closing half she gives one slow nod with a wide warm smile',
+    'T02': 'during the first half of the take she raises her left hand to the height of her shoulder with the palm open and facing up as if offering something, in the closing half the hand returns to collarbone height and a wide smile grows',
+    'T02b': 'during the first half of the take she holds a calm, reassuring look, in the closing half she opens her left hand at the height of her shoulder with the palm turning outward slowly as if opening something, then lowers it',
+    'T02d': 'during the first half of the take her eyebrows lift with a joyful look, in the closing half she opens her left hand at the height of her shoulder with the palm up and then lowers it with a warm smile',
+    'T03': 'during the first half of the take she tilts her head slightly with a soft, understanding look, in the closing half she opens her left hand at the height of her shoulder with the palm up for a moment and then lowers it with a warm, reassuring smile',
+    'T04': 'during the first half of the take she holds a warm, confident look, in the closing half she points her left index finger down toward the lower left corner of the frame for a moment and then lowers the hand',
+    'T05': 'during the first half of the take she leans slightly toward the lens with a soft, almost secretive look, in the closing half she lifts only the index finger of her left hand at shoulder height for a moment and then lowers it',
+    'T06': 'during the first half of the take she raises her left hand to the height of her shoulder with the palm open as if explaining, in the closing half she lowers it slowly and gives one calm, confident nod',
+    'T07': 'during the first half of the take her eyes glance up and slightly to the side as if picturing something lovely, in the closing half her eyes return to the lens and a calm smile grows',
+    'T08': 'during the first half of the take she gives one small encouraging nod, in the closing half she points her left index finger down toward the lower left corner of the frame for a moment and then lowers the hand',
+    'T09': 'during the first half of the take she rests her left palm flat at collarbone height for a moment with a warm smile, in the closing half she lowers the hand and gives one slow nod',
 }
 
 
@@ -114,8 +114,8 @@ LIVRE = ('[PROVISÓRIO: confiro e fecho pela kitportal-IMG aprovada antes de voc
 
 # pergunta para o Clone do Gustavo (regra da 11ª leitura: avaliar a fala antes de gerar); reforçada com a resposta do Lucas Dusi de 10/11
 CLONE = {
-    'nota': ('Vale para o kit inteiro (nora51 a nora54). Faça depois da imagem e ANTES de gerar os takes: cole a pergunta no Clone do Gustavo (NotebookLM) e mande a resposta '
-             'aqui no chat do Code junto com as 4 imagens. Se o Clone pedir mudança na fala, eu ajusto neste painel e republico antes de você gerar.'),
+    'nota': ('FEITO em 10/11 16h36: a resposta do Clone está no CLONE-DO-GUSTAVO-RESPOSTAS.md (R22) e as falas deste painel já estão ajustadas (T03, T04, T07 e T09). '
+             'Não precisa colar de novo. A pergunta fica aqui só como registro.'),
     'pergunta': ('Avalie esta copy para o funil de Manifestation (quiz de 3 perguntas e "private reading"). É um kit de vídeos curtos e um longo para o portal 11/11, '
                  'modelado nos virais da Soma Chhaya. Diga o que melhorar no gancho, no corpo e no CTA para levar mais gente ao story e ao clique, citando as aulas.\n\n'
                  f'GANCHO: "{F["T01a"]}"\n'
