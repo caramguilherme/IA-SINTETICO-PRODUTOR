@@ -209,8 +209,10 @@ def agente(n, nomes, um=False):
             'Nas configurações do agente: Omni 1.1 Flash (o Flow abre no 1.2, que cobra o dobro), 9:16, 720p, gerar sem pedir aprovação.',
             'Anexe só a kitportal-IMG.',
             'Cole o aviso (acima) e, embaixo, o bloco “COPIAR TUDO JUNTO” da Central, sem editar nada.' if not um else 'Cole o aviso (acima) e, embaixo, o prompt de cada take (botão COPIAR do take na Central), um por vez.',
-            'Renomeie cada take com o nome da lista: ' + ', '.join(nomes) + '.',
-            'Se o agente gerar só o 1º e parar: cole antes do bloco da Central o texto “pré-prompt do Lucas” (abaixo) e mande de novo só os que faltaram.',
+            'Renomeie cada take com o nome da lista: ' + ', '.join(nomes) + '. O agente costuma dar o número da ordem (1, 2, 3…): o 1 é o 1º nome da lista, o 2 é o 2º, e assim por diante. '
+            'Se ele não renomear, mande na mesma conversa: “Now rename each video with the correct number from the prompt.”',
+            'Se o agente parar no meio (por exemplo, “alta demanda”): responda na MESMA conversa, sem anexar nada: “Please continue and generate videos X to Y from my previous message, in the same order.” '
+            '(troque X e Y pelos números que faltaram; dica da Ari & Lu, 10/11). Se ele gerar só o 1º e parar de novo: cole antes do bloco da Central o texto “pré-prompt do Lucas” (abaixo) e mande de novo só os que faltaram.',
             'Se o agente disser que não dá para usar a imagem como quadro inicial e final com fala: não escolha nenhuma das opções dele. Gere à mão: Vídeo → Frames → 9:16 → Omni 1.1 Flash → 720p → 10 s (ou 8 s, conforme a lista) → x1; Início = kitportal-IMG; Fim = vazio; no prompt, só o texto do prompt daquele take, sem a frase do aviso.',
             'Pré-prompt do Lucas (só se precisar): ' + PRE_LUCAS,
         ],

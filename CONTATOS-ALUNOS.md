@@ -7,6 +7,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **Ricardo Santana:** respondeu em 09/11 12h58 (CTA no fim; no meio, pedido de comentário; "a copy tem que ser bem convincente pra pessoa ficar até o final"). Resposta de fechamento enviada; voltar com o resultado do kit do portal (versão curta x longa, CTA mais cedo; o "nora54 do corpo A" saiu do plano em 10/11). **Marcus:** voltar com o mesmo resultado (CTA mais cedo).
 - **11ª leitura (09/11):** respostas a sordisss (Índia: horário) e Eduarda Fernandes (texto do story) enviadas.
 - **joao (Sargento):** respondeu em 09/11 17h29 (ganchos + texto do story) e em 10/11 00h44 ("depende do gancho": usa com fala e sem fala; o que importa é prender nos primeiros segundos); fechamento enviado em 10/11 (~11h). **Voltar com o resultado do kit do portal (só fala x cena + fala) em ~12/11**, com 1 pergunta nova.
+- **13ª leitura (10/11 ~14h):** resposta ao Adão Gomes (CTA de engajamento e view) no #chat-appyon e parabéns ao Romulo Urbano no #vitórias: enviados (toda resposta sugerida conta como enviada). A pergunta do Bruno Freitas sobre a ferramenta de silêncio com 4 min já tinha sido respondida em 06/11.
 - **12ª leitura (10/11):** respostas a João Paulo (CTA de Face e Insta), Paulo Infante (quadro de validação) e Mateus Guisolffi (Insta travado no nome), no #chat-appyon, e parabéns ao Rundouglas no #vitórias: enviadas (toda resposta sugerida conta como enviada). Bruno Freitas e Eduarda Kelly: só reação.
 - **Kaike:** respondeu em 07/11 19h41 ("exato mano" sobre o tsunami; pré-hooks "sempre fazendo alguma coisa com objetos, mas que está dentro do nicho"); agradecimento enviado em 09/11. Voltar com resultado.
 - **Lari:** respondeu em 07/11 12h10 (os 6 por dia eram o mesmo vídeo trocando algo no cenário; agora troca mais coisas, a copy também); agradecimento enviado em 09/11. Voltar com resultado.
@@ -33,7 +34,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | Vitor Kretzer | ~499 vendas em out. (Manifestation) | Hook do Flow + corpo no HeyGen; 4 por conta; minerar #manifestation; Creator ~50 vídeos | Mineração; HeyGen descartado pelo aluno | Fechada em 03/11 17h25 ("Fechou mano, tamo junto!"): só reagir; voltar só com resultado | Sim |
 | Lucas Mascarenhas | 276 vendas em out. | Face = volume; variações; não trocar avatar antes de ~100 vídeos | Face com variações | Voltar só com resultado | Sim |
 | Matheus Baffa | 217 vendas em out. | Signos na tela; localização e hashtag; story | Signos na caixa do topo | Voltar só com resultado | Sim |
-| Adão Gomes | 484 vendas em out. | Views primeiro; hook com diferencial; "alongar a placa com boa copy" | Hooks visuais; placa falada | Voltar só com resultado | Sim |
+| Adão Gomes | 484 vendas em out. | Views primeiro; hook com diferencial; "alongar a placa com boa copy" | Hooks visuais; placa falada | **Resposta pública enviada em 10/11** (13ª leitura; à pergunta dele das 09h29 sobre copy sem CTA de engajamento: o nosso pedido de 222 fica perto dos ~55 s e a view vem igual; voltar com o resultado dos curtos do kit, sem pedido na fala) | Sim |
 | Marcelo [MVM] | Colega no mesmo nível (60+ vídeos, 2k a 3k views, Índia); combinado de 23/10: "o primeiro que destravar avisa o outro" | Constância e teste; idade mínima 25; mais de 1 conta para testar formatos | Idade 25+ já estava ligada | Escreveu em 04/11 12h12 ("conseguiu viralizar algo?"); **o aluno respondeu às 12h15** (maior vídeo 3,7k, texto na tela dá view com público 45+, 2 a 3 cliques por dia, copy de medo x positiva, gancho bizarro, constância); **o Marcelo respondeu às 13h43** (ver FATOS); às 19h46 contou no #chat-appyon que o Insta caiu para menos de 200. **Resposta enviada em 05/11** (pergunta: quantos cliques o vídeo de 40 mil deu no Tracker). **Ele respondeu em 05/11 19h43 e 19h44:** "tamo aí na atividade para recuperar a conta"; "muita gente fala que é depois dos 100 vídeos que a conta melhora"; 96 vídeos e 250 seguidores; o Status da conta do Insta "tá tudo normal". Não disse os cliques. **Resposta enviada em 06/11** (o Caio só vendeu depois de ~100 posts; o tsunami dobrou as views da Nora mas ninguém foi ao perfil; pergunta de novo dos cliques do vídeo de 40 mil). Esperar | Se ajudar |
 | Eduarda Fernandes, Thiago, Mary, Mattias, Eduardo Pinaffi | Já responderam antes (ver FATOS) | Hook visual + copy longa; constância; texto na tela em conta separada; portal 11:11; não repetir gancho | Já aplicado | Voltar só com resultado | Quem tiver ajudado |
 | Gabriel (Cabo) | 79 vendas em out. com 1 conta, 3 a 4 vídeos por dia | Conta e avatar boas dão sinal cedo; aquecimento certinho; avatar bem realista; nos 10 vídeos de aquecimento, copy validada sem CTA; sinal = ~1 mil views nesses 10 | Vai para o checklist do 2º perfil (`VALIDACAO-CONTA-E-AVATAR.md`); avatar realista pelo blueprint, sem partir de foto de pessoa real | Fechada por ele em 03/11 18h52: agradecer; voltar com o resultado do 2º perfil | Sim, se ajudar no 2º perfil |
@@ -61,6 +62,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | João Paulo | Pergunta no chat (10/11 00h01): vídeos diferentes para Face e Insta? | | | **Resposta pública enviada em 10/11** (12ª leitura) | |
 | Paulo Infante | Pergunta no chat (09/11 20h21): Página do Face com 7 de 12 vídeos acima de 100 views, já pode pôr link? | | | **Resposta pública enviada em 10/11** (12ª leitura) | |
 | Mateus Guisolffi | Pergunta no chat (09/11 20h08): Insta novo travado no "next" do nome | | | **Resposta pública enviada em 10/11** (12ª leitura) | |
+| Romulo Urbano | 1ª venda na Appyon (#vitórias 10/11 06h11; funil não dito) | | | **Parabéns enviado no #vitórias em 10/11** (13ª leitura), com 1 pergunta (insta ou face). Se responder, só reagir | |
 | Rundouglas | 32 vendas em 7 dias (até 08/11), 10.157 cliques, 0,31% de clique em venda | | | **Parabéns enviado no #vitórias em 10/11** (12ª leitura), com 1 pergunta (de onde vieram os cliques). Se responder, só reagir | Se ajudar |
 | carloscs, Lucas Dusi | Fechamentos de outubro (os grandes) | (não chamar: recebem dezenas de mensagens) | | | |
 
@@ -391,5 +393,18 @@ valeu mano!!
 valeu demais felps!! vou fazer exatamente assim, referência do pinterest e reforçando o iphone no prompt
 uma dúvida: a foto do pinterest vai junto com a foto da avatar, ou vc cria a avatar já a partir dela?
 depois te mostro como ficou
+```
+
+## ENVIADO (10/11/2026 ~14h; respostas da 13ª leitura do Discord, no jeito do aluno)
+**1. Adão Gomes, no #chat-appyon (responder a mensagem dele de 10/11 09h29, "alguém conseguindo pegar boas views com copies sem CTA de engajamento?"):**
+```
+aqui o pedido de comentário (222) fica quase no fim, lá pelos 55s, quando só uns 15% ainda tão assistindo
+e os vídeos fazem 1,4 a 2 mil views do mesmo jeito, então pra view oq pesou aqui foi o gancho, não o cta de engajamento
+hj to soltando uns curtos sem pedido nenhum na fala, amanhã te falo se mudou
+```
+**2. Romulo Urbano, no #vitórias (responder a mensagem dele de 10/11 06h11, a da 1ª venda):**
+```
+parabéns romulo!! a primeira é a mais difícil
+foi no insta ou no face?
 ```
 

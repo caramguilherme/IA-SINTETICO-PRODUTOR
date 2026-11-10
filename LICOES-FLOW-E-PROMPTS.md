@@ -479,3 +479,9 @@ If the generation of any video fails, please resubmit ONLY the item that failed 
 - Em 10/11 ~01h50 eu mandei os campos do Gerador da `kitportal-IMG` no chat. O aluno: "é no painel que vc vai ajustar, nao aqui na conversa. quando eu for fazer, eu vou abrir o painel e fazer (do nora51 em diante)". **Regra (reforça a de 30/10):** campos de imagem, prompts, LIVRE, movimentação, passos do agente, montagem, legenda e story vão sempre no painel do vídeo; no chat, só o link do painel e o que mudou. Se algo muda depois de publicado, corrijo no painel e republico no mesmo link.
 - A imagem do kit fica na seção "Imagem 1" do painel do nora51 (campo a campo do Gerador de Prompts, com o botão Copiar nos campos LIVRE, e a trava do Pinterest no grupo 6). O aluno avisa quando for gerar.
 - **Correções no `PAINEL-MODELO.html` (10/11):** a caixa de aviso (`.tip`) agora quebra links longos (antes, o link do story esticava o painel para ~700 px no celular, do nora49 para trás também); a frase do topo da edição não fala mais em pré-gancho como se todo vídeo tivesse um ("Com os takes aprovados (e o pré-gancho, quando o vídeo tiver)…").
+
+### 10/11/2026 - Agente do Flow: parou no meio ou não renomeou (Discord, 13ª leitura)
+- **Parou no meio** (ex.: "alta demanda", no 3º de 15 da Ari & Lu): responder **na mesma conversa**, sem anexar nada: "Please continue and generate videos X to Y from my previous message, in the same order." (X e Y = os números que faltaram). Só se parar de novo: o pré-prompt do Lucas, e projeto novo se o agente travar.
+- **Não renomeou:** "Now rename each video with the correct number from the prompt." O número é a ordem dos prompts; no painel, o 1 é o 1º nome da lista de renomear, e o aluno troca para o nome do painel (a FusionZ junta pela ordem do nome).
+- Já nos painéis do nora51, nora53 e nora54 (`ferramentas-painel/kit-portal/build_kit_portal.py`, função `agente`); vale para todo painel novo com o agente.
+
