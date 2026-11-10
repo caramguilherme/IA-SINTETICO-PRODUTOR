@@ -300,6 +300,11 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **nora48 no Insta, leitura final (09/11 23h04, ~93h54):** 1.633 views (1.410 viewers), 70,1% nos 3 s, 19 s, 10 follows, 5 visitas (3,1 por 1.000), 36 comentários, 29 salvos, 14 envios; Índia 28,7%, EUA 18,7%; 45+ = 54,7%. Parado.
 - **Corpo A no Insta, somado (nora48 + nora49, finais):** 3.644 views, 29 follows, 15 visitas ao perfil (4,1 por 1.000), 71 salvos. É a base de comparação do nora50 (gancho da pedra, 10/11 19h30) e do teste do CTA (11/11 19h30): visitas ao perfil por 1.000 views e cliques no Tracker.
 
+### 10/11/2026 00h11 - nora50 postado (Insta e Face)
+- **nora50 no ar às 00h11 de 10/11** (aluno): tsunami sem espelhar + Take 1 de Áries, Leão e Sagitário + corpo A limpo; 67,05 s, editado aqui (P45). Volume, não teste. Story-0311 no ar desde 09/11 22h55 (vence ~22h55 de 10/11).
+- **Horário:** 00h11 aqui = 19h11 na Califórnia (de 09/11) e 10h41 na Índia: parecido com o nora48 (01h10, Índia ~29%). A comparação justa é com o nora48, não com o nora49 (19h31).
+- **Pedir:** Insta e Face com ~10 h (~10h de 10/11) e ~24 h (00h de 11/11): views, % nos 3 s, tempo médio, visitas ao perfil, follows, comentários e países; Tracker de 10/11.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
