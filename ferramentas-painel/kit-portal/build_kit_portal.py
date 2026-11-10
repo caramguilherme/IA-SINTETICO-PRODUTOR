@@ -261,7 +261,8 @@ def creditos(ks):
 # ------------------------------------------------------------------ cada vídeo
 COMUM_HASH = '#manifestation #1111portal #lawofattraction'
 VIDEOS = {
-    51: dict(hora='assim que ficar pronto (antes das 20h)', dia='10/11 (terça)', tipo='curto', usa=['T01b', 'T02', 'T04'], gera=['T01a', 'T01b', 'T02', 'T03', 'T04', 'T05', 'T06', 'T07', 'T08', 'T09'],
+    51: dict(hora='assim que ficar pronto (antes das 20h)', dia='10/11 (terça)', tipo='curto', usa=['T01b', 'T02', 'T08'],  # T08 no lugar do T04 (10/11 ~19h40: o T04 caiu 5 vezes no filtro de política do Flow)
+             gera=['T01a', 'T01b', 'T02', 'T03', 'T04', 'T05', 'T06', 'T07', 'T08', 'T09'],
              caixa='TUESDAY, NOVEMBER 10TH\nif you keep seeing 11:11,\nthis message is for you', caixa_fim='one hundred percent meant for you.',
              insta=f'If you see this on Tuesday, November 10th, it\'s meant for you. 🔮\nTomorrow is 11:11. Your private reading is waiting in my story.\nComment "I receive" to claim this ✨\n{COMUM_HASH} #manifestingmyreality',
              pergunta='which part of your life do you want to change first: love, peace, purpose or money?',
@@ -337,6 +338,7 @@ def montar(n):
     if n == 54:
         p['story']['nota'] = ('STORY: o repost de hoje às ~22h deixa o story-0311 no ar até ~22h de 11/11; não poste outro agora. '
                               'Em 11/11, perto das 22h, reposte com o texto “Tap below: your private reading is waiting for you on 11:11.” (painel de 11/11).')
+    cta = 'T04' if 'T04' in usa else 'T08'
     mt = copy.deepcopy(P49['mapa_tela'])
     mt['numeros'] = [dict(t=a, x=x, y=y, onde=o, cor_nome=cn, cor=co, tamanho=tm) for (a, x, y, o, cn, co, tm) in v['nums']]
     caixa1 = v['caixa'].split('\n')
@@ -350,9 +352,9 @@ def montar(n):
         {'nome': 'Legenda (eu ponho, P45)', 'fonte': 'Poppins Bold', 'cor': 'branco, em MAIÚSCULAS; palavra-chave em amarelo-ouro #FFD21F', 'tamanho': 'uns 38 px (vídeo 720×1280)',
          'contorno': 'preto grosso', 'obs': 'Do 1º quadro ao fim (não há pré-gancho), blocos de 2 a 4 palavras, abaixo do queixo; confiro a faixa na imagem aprovada.'},
         {'nome': 'Faixa do story: “Your private reading is in my story”', 'fonte': 'Poppins Bold (poppins-bd)', 'cor': 'texto preto, “my story” em vermelho #E53935',
-         'tamanho': '9, em 1 linha', 'contorno': 'Plano de fundo branco arredondado', 'obs': 'Do take do CTA (T04) até o fim, no lugar da caixa do topo (X 0 · Y 397). Eu ponho (P45).'},
+         'tamanho': '9, em 1 linha', 'contorno': 'Plano de fundo branco arredondado', 'obs': f'Do take do CTA ({cta}) até o fim, no lugar da caixa do topo (X 0 · Y 397). Eu ponho (P45).'},
         {'nome': 'Seta vermelha (↓)', 'fonte': '—', 'cor': 'vermelho #E53935 com traço preto', 'tamanho': '14', 'contorno': '—',
-         'obs': 'Do take do CTA (T04) até o fim, embaixo à esquerda (X -288 · Y -333, P43), apontando para a foto do perfil. Eu ponho (P45).'},
+         'obs': f'Do take do CTA ({cta}) até o fim, embaixo à esquerda (X -288 · Y -333, P43), apontando para a foto do perfil. Eu ponho (P45).'},
     ]
     mt['regras'] = ['Posições conferidas na kitportal-IMG (a mão livre gesticula do lado esquerdo da imagem, então do lado esquerdo só há número no alto); confiro de novo na prévia da edição (número longe do rosto, da mão e da caixa).',
                     'Sem pré-gancho: a caixa do topo, os números e a legenda entram desde o 1º quadro.']
