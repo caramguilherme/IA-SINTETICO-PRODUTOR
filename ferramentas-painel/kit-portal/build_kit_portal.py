@@ -169,7 +169,7 @@ IMG_CENTRAL = {
               'Os campos travados pelo blueprint (idade, gênero, fenótipo, tom de pele, cabelo) você pula. Antes de colar no Flow, apague do prompt “porcelain”, '
               '“straight”, a idade e o objeto, se aparecerem. Regra do Felps (10/11): a foto tem de parecer tirada por um iPhone.'),
     'passos': [
-        'Preencha os campos abaixo e gere o prompt no Gerador.',
+        'Preencha os campos abaixo e gere o prompt no Gerador. Campo marcado LIVRE (Roupa, Acessórios, Pose, Objeto, Luz, Color grade, Lente, Emulação de filme): na lista, escolha a última opção, “LIVRE — escrever…”, e cole o texto do botão Copiar.',
         'No Flow: Imagem · 9:16 · Nano Banana Pro · x4. Anexe PRIMEIRO a folha da Nora (a de 1K).',
         'OPCIONAL (o jeito do Felps): procure no Pinterest uma selfie de perto, em casa, à noite, com luz de abajur e cara de celular (ex.: “iphone selfie bedroom night lamp”) e anexe DEPOIS da folha. Aí cole no começo do prompt a trava do grupo 6 (botão Copiar).',
         'Confira cada uma das 4: o rosto é o da Nora (lua com 3 estrelinhas na bochecha do lado esquerdo da imagem, trança com anéis, brincos de estrela e lua, colar de Vênus, testa limpa)? Parece foto de celular? O celular não aparece? Algum texto ou carimbo nos cantos? Se vier outra mulher, gere de novo sem a foto do Pinterest.',
@@ -198,7 +198,7 @@ IMG_CENTRAL = {
                                                 'real phone video at night; no studio light, no ring light'), 'copiar': 1},
             {'campo': 'Color grade (LIVRE)', 'valor': 'natural phone colors, no color grading', 'copiar': 1}]},
         {'titulo': '5. Câmera', 'campos': [
-            {'campo': 'Câmera', 'valor': 'Câmera de celular (amador)'},
+            {'campo': 'Câmera', 'valor': 'Câmera de celular (look amador)'},
             {'campo': 'Lente (LIVRE)', 'valor': IPHONE, 'copiar': 1},
             {'campo': 'Abertura · ISO · Obturador', 'valor': 'f/8 · 800 · 1/60'},
             {'campo': 'Emulação de filme (LIVRE)', 'valor': 'no film emulation, straight smartphone frame, no date stamp, no text, no watermark', 'copiar': 1},
