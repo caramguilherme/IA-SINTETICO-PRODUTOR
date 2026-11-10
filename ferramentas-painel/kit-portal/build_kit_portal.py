@@ -82,6 +82,26 @@ GESTO = {
 # sem o dedo indicador apontando; mão aberta descendo para o canto de baixo à esquerda
 T04_B = ('during the first half of the take she holds a warm, confident look, in the closing half she lowers her right hand with the palm open and turned down toward the '
          'lower left corner of the frame for a moment and then returns it to her upper chest')
+# T04 à mão no modo Frames (10/11 ~19h45): o agente reaproveitava o "prompt 5" da Central, que caiu 5 vezes no filtro.
+# Prompt escrito aqui no formato da Central, sem "intimate/confidential", "bedroom" e "bed" (o clima "Íntimo e confidencial" + quarto + "private" + "my photo" pode puxar o filtro).
+def prompt_t04_manual():
+    voz = VOZ.replace('[Voice and Audio Instructions]', '').strip()
+    return ('Create a single continuous 10-second video clip using the supplied reference image as the first frame. The same woman from the image speaks directly '
+            'to her phone camera in a casual handheld selfie video at home in the evening.\n\n'
+            'SPOKEN DIALOGUE (she says exactly this, once, in this order, with nothing added): "' + F['T04'] + '"\n\n'
+            'VOICE CHARACTERISTICS (LOCKED):\n' + voz + '\n\n'
+            'VOICE PACING: medium pace (155 to 180 words per minute), about 8 seconds of speech; when she finishes the last word she closes her lips and stays silent '
+            'with a calm expression until the clip ends.\n\n'
+            'MOVEMENT: ' + BASE_MOV.format(d=10, g=T04_B) + '\n\n'
+            'VISUAL: realistic casual iPhone front-camera selfie video, warm lamp light and one lit candle in the background, natural skin texture with visible pores, '
+            'slight phone grain, everything in focus, no bokeh, no filter.\n\n'
+            'CAMERA: handheld, only a tiny natural sway, no zoom, no cuts, no reframing.\n\n'
+            'AUDIO: only her voice and quiet room ambience; no music, no other voices, no sound effects.\n\n'
+            'CONTINUITY: her face, long black wavy hair, the thin braid with small gold rings, the small gold crescent moon with three tiny gold stars on her cheek, '
+            'her star-and-moon earrings, her gold Venus necklace, her gold sun ring and bracelets, her plain emerald-green sweatshirt and the room behind her stay '
+            'exactly as in the reference image; no phone, object, person or text appears; each hand has exactly five fingers; no on-screen text, captions or logos.\n\n'
+            'Do not add, remove, repeat, rewrite or paraphrase any spoken words.')
+
 
 def mov(k):
     d = 8 if len(F[k].split()) <= 17 else 10
@@ -261,8 +281,7 @@ def creditos(ks):
 # ------------------------------------------------------------------ cada vídeo
 COMUM_HASH = '#manifestation #1111portal #lawofattraction'
 VIDEOS = {
-    51: dict(hora='assim que ficar pronto (antes das 20h)', dia='10/11 (terça)', tipo='curto', usa=['T01b', 'T02', 'T08'],  # T08 no lugar do T04 (10/11 ~19h40: o T04 caiu 5 vezes no filtro de política do Flow)
-             gera=['T01a', 'T01b', 'T02', 'T03', 'T04', 'T05', 'T06', 'T07', 'T08', 'T09'],
+    51: dict(hora='assim que ficar pronto (antes das 20h)', dia='10/11 (terça)', tipo='curto', usa=['T01b', 'T02', 'T04'],  gera=['T01a', 'T01b', 'T02', 'T03', 'T04', 'T05', 'T06', 'T07', 'T08', 'T09'],
              caixa='TUESDAY, NOVEMBER 10TH\nif you keep seeing 11:11,\nthis message is for you', caixa_fim='one hundred percent meant for you.',
              insta=f'If you see this on Tuesday, November 10th, it\'s meant for you. 🔮\nTomorrow is 11:11. Your private reading is waiting in my story.\nComment "I receive" to claim this ✨\n{COMUM_HASH} #manifestingmyreality',
              pergunta='which part of your life do you want to change first: love, peace, purpose or money?',
@@ -425,7 +444,7 @@ def montar(n):
         p['central'] = {'imagem_unica': True, 'conferir': '', 'passos': passos, 'config': cfg, 'agente': agente(1, []), 'colagens': []}
         p['imagem_reutilizada'] = {'arquivo': 'kitportal-IMG', 'nota': 'gerada no painel do nora51'}
     if n == 51:
-        p['central']['agente']['passos'].append('Se o T04 (vídeo 5 da lista, o CTA) der “Esta geração talvez viole nossas políticas” (o Flow devolve o crédito): mande na MESMA conversa do agente, sem anexar nada: “Video 5 failed with a policy warning. Please generate it again with exactly the same speech, image and settings, changing only the movement to: ' + BASE_MOV.format(d=10, g=T04_B) + '” Renomeie para kitportal-T04-cta-reading. Se falhar de novo, me mande o print.')
+        p['central']['agente']['passos'].append('T04 À MÃO (o agente caiu 5 vezes no filtro com o prompt 5): Vídeo → Frames → 9:16 → Omni 1.1 Flash → 720p → 10 s → x1; Início = kitportal-IMG; Fim = vazio; cole o prompt abaixo e gere (15 créditos). Renomeie para kitportal-T04-cta-reading. Se falhar, me mande o print. PROMPT: ' + prompt_t04_manual())
         p['clone'] = CLONE
         ordem = ['pecas', 'imagens', 'clone', 'central', 'cenas', 'agente', 'silencio', 'textotela', 'story', 'descricao', 'comentario', 'respostasface', 'fala']
     elif gera:
