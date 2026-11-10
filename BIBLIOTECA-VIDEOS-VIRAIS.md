@@ -786,8 +786,17 @@ Coach de manifestação americana; provavelmente o vídeo em inglês que o Gusta
   4. **Cara de celular:** selfie, rosto perto da lente, parede lisa ou escritório em casa, luz de janela, roupa de casa (moletom, camiseta, suéter), unhas escuras e anéis; nada de estúdio. É o visual que o Felps pediu para a Nora.
   5. **Volume em sessão:** ~9 reels por dia; o 1,2 mi, o 548 mil, o 222 mil, o 188 mil e o 92 mil são da mesma sessão (mesma camiseta, mesma luz, 09/11), cada um com outra abertura ou objeto: é a "variação" do Iorhan (call de 06/11).
   6. **Para a Nora:** ela usa carta de tarô em muitos (a Nora não: o funil não tem cartas antes do quiz); fala de dinheiro e "claim" aparecem nas falas antigas da seção 39 (na Nora, sem promessa de dinheiro e sem "claim").
-- **Prints:** `referencias-mineracao/soma_chhaya_2026-11-10/` (perfil e 4 telas da aba Reels).
+- **Prints:** `referencias-mineracao/soma_chhaya_2026-11-10/` (perfil, 4 telas da aba Reels e, do 1,2 mi, os números e a legenda com os comentários).
 - **Escolhidos (etapa 2, 10/11 ~01h10):** **1,2 mi**, **548 mil**, **463 mil**, **453 mil** (os 4 fora da curva) e **201 mil** (o único com gancho de texto diferente da data, "I APOLOGIZE FOR DISRUPTING YOUR SCROLL…", útil depois do 11/11 e para o `BANCO-DE-HEADLINES.md`); se der, o **222 mil** (cristal e vela na mão: objeto do nicho, o pré-gancho do Kaike). Pedido: o vídeo com som (Baixar do Insta ou gravação de tela; acima de 30 MB, Drive), o print dos números (curtidas, comentários, envios, salvos) e a legenda inteira ("mais") de cada um. Eu transcrevo aqui e monto a estrutura do corpo novo.
+- **Números (etapa 3, prints de 10/11 01h00; % sobre ~1,2 mi de views):**
+
+| Vídeo | Views | Curtidas | Comentários | Reposts | Envios | Salvos | Postado |
+|---|---|---|---|---|---|---|---|
+| "if you see this on Monday November 9th" (close, sem objeto, "11:11" no alto) | 1,2 mi | 56,7 mil (4,7%) | 3.057 (0,25%) | 2.752 | **21,7 mil (1,8%)** | 15,2 mil (1,3%) | "há 23 horas" às 01h00 de 10/11 = **~02h de 09/11 em Brasília, meia-noite de segunda na costa leste dos EUA** (o dia escrito no gancho) |
+
+  - **Legenda:** só "Claim this good energy babe ✨". Busca marcada no vídeo: "tarot card reading".
+  - **Comentários do topo:** "I strongly claim this positive energy ❤️❤️ Thank you Universe 🙏🙏🙏" (3.135 curtidas, 24 respostas), "Thank you universe!!! I strongly claim this energy" (1.798), "I claim this energy 🍀🍀✨": a fala deve pedir para comentar "I claim this energy" (confirmar no vídeo).
+  - **Leitura:** muita view e envio, pouco comentário por view (0,25%, contra 2,6% do 1,4 mi da claire_mayaus): conta de pessoa real com 3,3 mi de seguidores, que recebe view da própria base. Para nós, o que vale dela é a **estrutura e o gancho**, não a régua de engajamento. **Ela posta à meia-noite da costa leste com a data daquele dia**: o vídeo vive o dia escrito na tela (para a Nora, a data do Take 1 tem de ser a do dia nos EUA em que ele vai rodar).
 
 ### 49.S Stories das contas mineradas (o aluno manda junto com a grade, desde 06/11)
 Para montar o story da Nora a partir do que as contas que vendem fazem. Funil de cada conta: não dito (deduzir pelos reels).
