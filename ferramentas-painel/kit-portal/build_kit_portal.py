@@ -356,14 +356,13 @@ def montar(n):
             'insta': f'{v["pergunta"].capitalize()} ✨ Tell me below, then tap my photo and open my story: your private reading starts there. 🔮',
             'face': f'{v["pergunta"].capitalize()} ✨ Your private reading is right here 🔮 👉 {FB}'},
         'story': {'ja_postado': True, 'nota': (
-            'STORY: não tem story novo. Reposte o story-0311 (o mesmo de ontem: imagem story-3110, texto “Tap below: your private reading is waiting for you before the 11:11 portal.”, '
-            'adesivo “Open my reading”) ANTES das 22h55 de hoje (10/11), no Insta e no Face, e confira o link de cada rede na prévia. '
+            'STORY: o story-0311 foi repostado em 10/11 às 19h42 no Insta e no Face (vence ~19h42 de 11/11): não poste outro hoje. Links: '
             f'Insta (STORYIG): {STORYIG} · Face (FACE): {FB}')},
         'respostas_face': {'aviso': P49['respostas_face']['aviso'], 'comentario': v['coment'], 'dm': v['dm']},
     }
     if n == 54:
-        p['story']['nota'] = ('STORY: o repost de hoje às ~22h deixa o story-0311 no ar até ~22h de 11/11; não poste outro agora. '
-                              'Em 11/11, perto das 22h, reposte com o texto “Tap below: your private reading is waiting for you on 11:11.” (painel de 11/11).')
+        p['story']['nota'] = ('STORY: o repost de 10/11 às 19h42 deixa o story-0311 no ar até ~19h42 de 11/11; não poste outro agora. '
+                              'Em 11/11, antes das 19h42, reposte com o texto “Tap below: your private reading is waiting for you on 11:11.” (painel de 11/11).')
     cta = 'T04' if 'T04' in usa else 'T08'
     mt = copy.deepcopy(P49['mapa_tela'])
     mt['numeros'] = [dict(t=a, x=x, y=y, onde=o, cor_nome=cn, cor=co, tamanho=tm) for (a, x, y, o, cn, co, tm) in v['nums']]
@@ -414,7 +413,7 @@ def montar(n):
     for k in gera:
         if k not in usa:
             pecas.append({'nome': NOMES[k], 'tipo': 'take', 'status': 'gerar', 'creditos': 12 if dur(k) == '8' else 15, 'descricao': f'Para o nora52 (longo): “{F[k]}”'})
-    pecas.append({'nome': 'story-0311', 'de': 'story-3110', 'tipo': 'story', 'status': 'reutilizar', 'descricao': ('Já repostado às ~22h de 10/11: não poste outro agora (seção Story).' if n == 54 else 'Repost antes das 22h55 de 10/11 (seção Story).')})
+    pecas.append({'nome': 'story-0311', 'de': 'story-3110', 'tipo': 'story', 'status': 'reutilizar', 'descricao': 'Já repostado em 10/11 às 19h42 (vence ~19h42 de 11/11): não poste outro hoje (seção Story).'})
     total = creditos(gera)
     decisao = [f'ESTE VÍDEO USA SÓ {len(usa)} TAKES, nesta ordem: ' + ' + '.join(NOMES[k] for k in usa) + '.' + (' Os outros 7 gerados neste painel são do nora52 (longo); não entram no nora51.' if n == 51 else ''),
                f'Postar em {v["dia"]}, {v["hora"]}, no Insta e no Face, ao vivo.',
