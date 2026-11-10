@@ -192,7 +192,7 @@ IMG_CENTRAL = {
                                                  'lips slightly parted, as if about to speak; nothing in her hands'), 'copiar': 1},
             {'campo': 'Objeto principal (escolha “LIVRE — escrever…”, a última opção da lista, e cole)', 'valor': 'empty hands, no prop, no object anywhere in the frame', 'copiar': 1}]},
         {'titulo': '4. Cenário e luz', 'campos': [
-            {'campo': 'Cenário', 'valor': 'Quarto com cama desfeita'},
+            {'campo': 'Cenário', 'valor': 'Quarto íntimo com cama desfeita'},
             {'campo': 'Horário', 'valor': 'Abajur tungstênio'},
             {'campo': 'Luz (LIVRE)', 'valor': ('only a warm bedside lamp on the right side of the image and one lit white candle on the nightstand behind her, a little uneven, like a '
                                                 'real phone video at night; no studio light, no ring light'), 'copiar': 1},
