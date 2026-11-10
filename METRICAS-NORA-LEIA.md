@@ -312,6 +312,15 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **Respostas no Insta** (à mão, sem link, texto variando; `COMUNIDADE-E-ESTRATEGIA.md`, regra do Insta): sugeridas a wilnas109, jussaradasilvabrito e j3ss3_83, as 3 mais recentes.
 - **Pedir:** o Insights do nora50 agora (~13 h) e com ~24 h (00h de 11/11), o Face e o Tracker de 10/11.
 
+### 10/11/2026 13h34 - nora50 no Insta, ~13h23 de vida (prints do aluno)
+- **1.460 views** (1.236 viewers), **71,7% nos 3 s** (skip 28,3%), "strong hook", 19 s de média, **13 follows** (8,9 por 1.000), **4 visitas ao perfil (2,7 por 1.000)**, 63 curtidas, 15 comentários (14 de outras pessoas = 1,0%), 25 salvos, 13 envios, 0 repost.
+- **Público:** EUA 36,5% (~533 pessoas, a maior fatia até agora), Canadá 6,6%, Austrália 5,8%, Reino Unido 4,1%, Grécia 3,5% (Tier 1 = 53,0%); **Índia fora do top 5**, mesmo postado às 00h11 (o nora48, à 01h10, teve ~29%): o horário de madrugada não explica sozinho a Índia. 45+ = 62,5% (o mais velho até agora).
+- **Ainda subindo forte:** ~690 views com 10 h e ~1.400 com 13 h (gráfico): uma 2ª onda desde ~10h daqui (~8h em Nova York). O nora48 e o nora49 pararam em ~5 h. A leitura com ~24 h (00h de 11/11) diz onde ele para.
+- **Retenção (pixels do gráfico):** ~59% aos 8 s, ~38% aos 17 s, ~26% aos 30 s, ~16% aos 53 s, **~10% no CTA (63 s)**, igual ao nora49. **Curtidas:** picos no gancho e no Take 1 (~8 s a 18 s) e **outro de ~6% no CTA (~63 s)**: quem chega ao CTA reage, mas só ~1 em 10 chega.
+- **Leitura:** mais EUA e mais views que o nora48 no mesmo horário, mas visitas ao perfil baixas (2,7 por 1.000 contra 5,2 do nora49): o corpo A entrega view e não leva ao perfil, porque o CTA fica onde só ~10% chegam. É o motivo do kit do portal (CTA aos ~15 s a 28 s). **Nada muda hoje.**
+- **Corpo A no Insta, somado (nora48 e nora49 finais + nora50 com ~13 h):** 5.104 views, 42 follows (8,2 por 1.000), 19 visitas ao perfil (3,7 por 1.000). É a base do kit: visitas por 1.000 views e cliques no Tracker.
+- **Pedir:** nora50 com ~24 h (Insta e Face), o Face de agora e o Tracker de 10/11.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
