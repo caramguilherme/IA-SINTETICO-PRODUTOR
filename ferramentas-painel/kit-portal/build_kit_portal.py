@@ -78,10 +78,10 @@ GESTO = {
     'T09': 'during the first half of the take she presses her right palm gently flat against her upper chest for a moment with a warm smile, in the closing half she relaxes the hand there and gives one slow nod',
 }
 
-# reserva do T05 se o erro de política voltar (10/11: a 1ª geração caiu no filtro; a 2ª, com o mesmo prompt, passou)
-T05_B = ('during the first half of the take she leans slightly toward the lens with a warm, curious look, in the closing half she lifts her right hand to the height '
-         'of her shoulder with the palm open for a moment and then returns it to her upper chest')
-
+# reserva do T04 (o CTA, usado nos 4 vídeos) se o erro de política continuar (10/11 ~19h20: o T04 caiu no filtro mais de uma vez; o T05 estava certo):
+# sem o dedo indicador apontando; mão aberta descendo para o canto de baixo à esquerda
+T04_B = ('during the first half of the take she holds a warm, confident look, in the closing half she lowers her right hand with the palm open and turned down toward the '
+         'lower left corner of the frame for a moment and then returns it to her upper chest')
 
 def mov(k):
     d = 8 if len(F[k].split()) <= 17 else 10
@@ -423,7 +423,7 @@ def montar(n):
         p['central'] = {'imagem_unica': True, 'conferir': '', 'passos': passos, 'config': cfg, 'agente': agente(1, []), 'colagens': []}
         p['imagem_reutilizada'] = {'arquivo': 'kitportal-IMG', 'nota': 'gerada no painel do nora51'}
     if n == 51:
-        p['central']['agente']['passos'].append('Se o T05 (vídeo 6 da lista) der “Esta geração talvez viole nossas políticas” (o Flow devolve o crédito): 1) clique uma vez no botão de tentar de novo (seta circular) no card do erro; 2) se falhar de novo, mande na MESMA conversa do agente, sem anexar nada: “Video 6 failed with a policy warning. Please generate it again with exactly the same speech, image and settings, changing only the movement to: ' + BASE_MOV.format(d=8, g=T05_B) + '” Renomeie para kitportal-T05-regancho-1111.')
+        p['central']['agente']['passos'].append('Se o T04 (vídeo 5 da lista, o CTA) der “Esta geração talvez viole nossas políticas” (o Flow devolve o crédito): mande na MESMA conversa do agente, sem anexar nada: “Video 5 failed with a policy warning. Please generate it again with exactly the same speech, image and settings, changing only the movement to: ' + BASE_MOV.format(d=10, g=T04_B) + '” Renomeie para kitportal-T04-cta-reading. Se falhar de novo, me mande o print.')
         p['clone'] = CLONE
         ordem = ['pecas', 'imagens', 'clone', 'central', 'cenas', 'agente', 'silencio', 'textotela', 'story', 'descricao', 'comentario', 'respostasface', 'fala']
     elif gera:
