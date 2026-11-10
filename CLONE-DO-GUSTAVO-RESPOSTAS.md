@@ -277,3 +277,5 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 Feitas e respondidas: R1 a R21 (07/11). Para conferir:
 1. "Em qual fonte aparece a hashtag #AuraliTrend como obrigatória? Copie o trecho exato e diga a aula ou o documento."
+
+**Nota (10/11, 12ª leitura do Discord):** até 09/11 13h57 a fonte 67 do notebook (call de 03/11, Iorhan) tinha a transcrição da aula 66; a Ju corrigiu. As respostas R1 a R21 foram feitas antes: o que citam como "67" veio da 66. **Pergunta sugerida, agora com a fonte certa:** "Na call de 03/11 (Turbinando criativos), o que o Iorhan diz sobre a diferença entre copy que engaja e copy que vende no Manifestation, e que estrutura de corpo ele mostra funcionando? Cite trechos."

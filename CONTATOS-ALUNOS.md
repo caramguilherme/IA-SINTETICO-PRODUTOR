@@ -6,6 +6,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **Jessica Bento:** resposta com o resultado do teste dos corpos e a pergunta do CTA **enviada em 06/11** (texto no fim deste arquivo). Esperar.
 - **Ricardo Santana:** respondeu em 09/11 12h58 (CTA no fim; no meio, pedido de comentário; "a copy tem que ser bem convincente pra pessoa ficar até o final"). Resposta de fechamento enviada; voltar com o resultado do nora54 (versão curta). **Marcus:** voltar com o resultado do nora54 (CTA mais cedo).
 - **11ª leitura (09/11):** respostas a sordisss (Índia: horário) e Eduarda Fernandes (texto do story) enviadas.
+- **12ª leitura (10/11):** respostas a João Paulo (CTA de Face e Insta), Paulo Infante (quadro de validação) e Mateus Guisolffi (Insta travado no nome), no #chat-appyon, e parabéns ao Rundouglas no #vitórias: enviadas (toda resposta sugerida conta como enviada). Bruno Freitas e Eduarda Kelly: só reação.
 - **Kaike:** respondeu em 07/11 19h41 ("exato mano" sobre o tsunami; pré-hooks "sempre fazendo alguma coisa com objetos, mas que está dentro do nicho"); agradecimento enviado em 09/11. Voltar com resultado.
 - **Lari:** respondeu em 07/11 12h10 (os 6 por dia eram o mesmo vídeo trocando algo no cenário; agora troca mais coisas, a copy também); agradecimento enviado em 09/11. Voltar com resultado.
 - **Felps:** respondeu em 07/11 10h49 (2 áudios: a avatar parece "muito artificial", com cara de filmagem profissional; ele busca a sensação de vídeo gravado no celular, orgânico, como a Soma Chhaya); resposta com 1 pergunta enviada em 09/11. Esperar.
@@ -56,6 +57,10 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | Neto e Cleidiane | ~5 vendas em outubro com 2 páginas do Face; o perfil flopou depois; abriram um Insta (chat, 06/11 19h57, pedindo para trocar ideia) | | | **Resposta pública enviada em 06/11** (10ª leitura: oferta de trocar ideia + o que mudou quando flopou). Se responder, seguir pela DM | Se ajudar |
 | Chefinho | Pergunta no chat (06/11 15h24): os 10 de aquecimento vão sem a automação? | | | **Resposta pública enviada em 06/11** (10ª leitura) | |
 | Gabriel soares | Pergunta no chat (06/11 11h18): o funil em espanhol converte bem? | | | **Resposta pública enviada em 06/11** (10ª leitura) | |
+| João Paulo | Pergunta no chat (10/11 00h01): vídeos diferentes para Face e Insta? | | | **Resposta pública enviada em 10/11** (12ª leitura) | |
+| Paulo Infante | Pergunta no chat (09/11 20h21): Página do Face com 7 de 12 vídeos acima de 100 views, já pode pôr link? | | | **Resposta pública enviada em 10/11** (12ª leitura) | |
+| Mateus Guisolffi | Pergunta no chat (09/11 20h08): Insta novo travado no "next" do nome | | | **Resposta pública enviada em 10/11** (12ª leitura) | |
+| Rundouglas | 32 vendas em 7 dias (até 08/11), 10.157 cliques, 0,31% de clique em venda | | | **Parabéns enviado no #vitórias em 10/11** (12ª leitura), com 1 pergunta (de onde vieram os cliques). Se responder, só reagir | Se ajudar |
 | carloscs, Lucas Dusi | Fechamentos de outubro (os grandes) | (não chamar: recebem dezenas de mensagens) | | | |
 
 ## (Histórico) Rascunhos de 04/11/2026 (todos enviados ou descartados; ver as marcas em cada um)
@@ -336,3 +341,30 @@ valeu felps!! faz total sentido, vou puxar pro lado do celular
 vc usa alguma palavra no prompt pra dar esse ar de gravado no celular? tipo luz natural, selfie com o braço, algo assim?
 ```
 
+## ENVIADO (10/11/2026; respostas da 12ª leitura do Discord, no jeito do aluno)
+**1. João Paulo, no #chat-appyon (responder a mensagem dele de 10/11 00h01):**
+```
+aqui faço o mesmo vídeo pros dois, sem automação
+o cta manda pro story nos dois, e o link fica no story
+no face eu tb comento como a página com o link, e quem comenta eu respondo e mando o link no direct na mão
+aí não precisa de 2 versões
+```
+**2. Paulo Infante, no #chat-appyon (responder a mensagem dele de 09/11 20h21):**
+```
+pelo quadro de validação que passaram aqui no chat:
+acima de 200 views nos 10 primeiros, a conta tá saudável e já pode ir pros de venda com copy validada
+entre 100 e 200 é zona cinzenta: olha a retenção nos 3s
+se tá acima de 50%, posta mais uns 5 a 10 e reavalia
+se tá abaixo, o problema é o gancho, não a conta
+```
+**3. Mateus Guisolffi, no #chat-appyon (responder a mensagem dele de 09/11 20h08):**
+```
+já passaram essa dica aqui: quando trava no nome, cria pelo navegador do celular em vez do app
+aí ele pede número e foto, mas vai
+```
+**4. Rundouglas, no #vitórias (responder a mensagem dele de 09/11 19h33):**
+```
+parabéns mano!! 32 numa semana é absurdo
+esses cliques vieram mais do story ou da dm?
+```
+**Só reagir com emoji (sem texto):** a mensagem do Bruno Freitas (09/11 20h27) e a da Eduarda Kelly (09/11 13h46) no #vitórias.
