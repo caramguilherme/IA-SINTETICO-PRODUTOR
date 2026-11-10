@@ -109,6 +109,8 @@ def prompt_t04_manual():
 
 
 def mov(k):
+    if k == 'T04':
+        return MOV_T04_SEM_GESTO  # o T04 que foi gerado (10/11, à mão no modo Frames)
     d = 8 if len(F[k].split()) <= 17 else 10
     return BASE_MOV.format(d=d, g=GESTO[k])
 
@@ -449,7 +451,7 @@ def montar(n):
         p['central'] = {'imagem_unica': True, 'conferir': '', 'passos': passos, 'config': cfg, 'agente': agente(1, []), 'colagens': []}
         p['imagem_reutilizada'] = {'arquivo': 'kitportal-IMG', 'nota': 'gerada no painel do nora51'}
     if n == 51:
-        p['central']['agente']['passos'].append('T04 À MÃO (o agente caiu 5 vezes no filtro com o prompt 5): Vídeo → Frames → 9:16 → Omni 1.1 Flash → 720p → 10 s → x1; Início = kitportal-IMG; Fim = vazio; cole o prompt abaixo e gere (15 créditos). Renomeie para kitportal-T04-cta-reading. Se falhar, me mande o print. PROMPT: ' + prompt_t04_manual())
+        p['central']['agente']['passos'].append('FEITO (10/11 ~19h05): o T04 saiu na 9ª tentativa, à mão no modo Frames, com a mão parada no peito. Só se precisar gerar de novo: T04 À MÃO: Vídeo → Frames → 9:16 → Omni 1.1 Flash → 720p → 10 s → x1; Início = kitportal-IMG; Fim = vazio; cole o prompt abaixo e gere (15 créditos). Renomeie para kitportal-T04-cta-reading. Se falhar, me mande o print. PROMPT: ' + prompt_t04_manual())
         p['clone'] = CLONE
         ordem = ['pecas', 'imagens', 'clone', 'central', 'cenas', 'agente', 'silencio', 'textotela', 'story', 'descricao', 'comentario', 'respostasface', 'fala']
     elif gera:
