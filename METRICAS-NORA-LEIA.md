@@ -327,6 +327,16 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **Decisão:** no Face, vídeo que repete o gancho e o corpo de um post anterior só vai com espelho + filtro "Dias claros" 30% + 1,1x (a regra das variações de 28/10), ou fica só no Insta. O kit do portal de hoje é todo novo e não tem esse problema; nos painéis de 11/11 (Take 1 novo + takes do kit), o Face leva a variação. Nada muda nos posts de hoje.
 - **Parados:** nora49 237 (+0,5x), nora48 185 (+1,8x). Story do Face repostado ontem às 22h57 (vence ~22h57 de hoje).
 
+### 10/11/2026 13h39 - Tracker da Appyon, 09 e 10/11 (prints do aluno; últimas atualizações 10/11 13:38 e 13:39)
+| Dia | Cliques | View quiz | Começou | Terminou | Checkout | Vendas |
+|---|---|---|---|---|---|---|
+| 09/11 (dia inteiro) | 1 (Insta) | 1 | 0 | 0 | 0 | 0 |
+| 10/11 até 13h38 | 2 (Insta) | 2 | 1 | 0 | 0 | 0 |
+- **O clique de 09/11 veio depois das 10h56** (a leitura anterior tinha 0 até ali): só pode ser do story-0311, de volta às 22h55. **Desde a volta do story (09/11 22h55) até 10/11 13h38: 3 cliques, todos do Insta, 1 começou o quiz, ninguém terminou ainda.** Face: 0 (o nora50 travou lá com 23 views; o link do Face fica no story e no comentário da Página).
+- **Por 1.000 views:** ~3 cliques para os 1.460 views do nora50 no Insta (~2 por 1.000), com 4 visitas ao perfil. Na régua oficial (~330 cliques por venda) isso daria ~1 venda a cada ~160 mil views: o gargalo continua sendo a ida ao perfil e ao story, que é o que o kit do portal ataca (CTA aos ~15 s a 28 s, onde ainda há ~30% a 40% do público, contra ~10% aos 63 s).
+- **Manifestation de 27/10 a 10/11 13h38: 25 cliques reais (23 Insta, 2 Face), 12 no fim do quiz, 0 checkout, 0 venda.**
+- **Pedir:** antes de o story-0311 de ontem sumir (22h55), o print dele (viewers e toques no link), para a régua do rodízio de 12/11; o Tracker de novo depois do kit (amanhã cedo).
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
