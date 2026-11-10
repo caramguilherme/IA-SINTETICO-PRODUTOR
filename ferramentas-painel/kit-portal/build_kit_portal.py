@@ -200,7 +200,9 @@ IMG_CENTRAL = {
         {'titulo': '5. Câmera', 'campos': [
             {'campo': 'Câmera', 'valor': 'Câmera de celular (look amador)'},
             {'campo': 'Lente (LIVRE)', 'valor': IPHONE, 'copiar': 1},
-            {'campo': 'Abertura · ISO · Obturador', 'valor': 'f/8 · 800 · 1/60'},
+            {'campo': 'Abertura (f/)', 'valor': 'f/8 — paisagem'},
+            {'campo': 'ISO', 'valor': 'ISO 800'},
+            {'campo': 'Velocidade do obturador (1/Xs)', 'valor': '1/60s'},
             {'campo': 'Emulação de filme (LIVRE)', 'valor': 'no film emulation, straight smartphone frame, no date stamp, no text, no watermark', 'copiar': 1},
             {'campo': 'Estilo final', 'valor': 'Documentário candid / UGC'},
             {'campo': 'Realismo', 'valor': 'Extremo'}]},
