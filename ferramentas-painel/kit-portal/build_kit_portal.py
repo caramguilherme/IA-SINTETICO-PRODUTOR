@@ -32,7 +32,7 @@ F = {
     'T02b': "Tomorrow is 11:11, and the doors that stayed closed for so long are getting ready to open for you.",
     'T02d': "Today the 11:11 portal is open, and the next chapter of your life begins with it, in the best way possible.",
     'T03': "This is for you if you've done everything right and still feel stuck: that is exactly what this portal is changing.",
-    'T04': "The rest of this message is in my story: tap my photo and answer three quick questions for your private reading.",  # 10/11 ~19h50: "The second part of this sign" caiu 6 vezes no filtro do Flow (era a única parte que o T08, que passou, não tinha)
+    'T04': "The rest of this message is in my story: tap my photo, three quick questions, and your private reading is ready.",  # 10/11 ~20h: "answer three quick questions for your private reading" também caiu (7ª falha); fim igual ao do T08, que passou  # 10/11 ~19h50: "The second part of this sign" caiu 6 vezes no filtro do Flow (era a única parte que o T08, que passou, não tinha)
     'T05': "Now, here's what most people don't know about 11:11, and why you keep seeing it everywhere lately.",
     'T06': "When the same numbers keep finding you, I call it being a cosmic receiver: the universe speaks to you through signs.",
     'T07': "Until today, doubt kept that signal quiet, but 11:11 opens the gateway, so the intentions you set now carry further.",
