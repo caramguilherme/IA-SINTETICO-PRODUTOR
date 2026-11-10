@@ -337,6 +337,12 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **Manifestation de 27/10 a 10/11 13h38: 25 cliques reais (23 Insta, 2 Face), 12 no fim do quiz, 0 checkout, 0 venda.**
 - **Pedir:** antes de o story-0311 de ontem sumir (22h55), o print dele (viewers e toques no link), para a régua do rodízio de 12/11; o Tracker de novo depois do kit (amanhã cedo).
 
+### 10/11/2026 19h30 - nora51 postado (Insta e Face)
+- **nora51 no ar às 19h30 de 10/11** (aluno): o 1º do kit do portal, versão curta (19,4 s), sem pré-gancho: data do dia + promessa do portal + CTA (T04 novo: "The rest of this message is in my story: tap my photo, three quick questions, and your private reading is ready."), na cena nova com cara de celular (`kitportal-IMG`). Editado aqui (P45). Legenda do Insta com "Comment "I receive""; Face sem.
+- **Horário:** 19h30 aqui = 14h30 na Califórnia e 17h30 em Nova York: o mesmo do nora49 (19h31 de 06/11), o controle do kit.
+- **O que olhar (régua com ~24 h):** % nos 3 s (sem cena antes: a abertura é só a fala), tempo médio contra os 19,4 s, visitas ao perfil por 1.000 views (nora49: 5,2 com ~13 h), comentários de outras pessoas ÷ views (agora com pedido na legenda: comparar só com vídeos com pedido), story (viewers e toques) e Tracker. Com 19 s, a maioria chega ao CTA (12,6 s): se o clique não subir mesmo assim, o gargalo é o CTA ou o story, não a retenção.
+- **Próximos (2h entre os posts):** nora52 (longo) ~21h30, nora53 ~23h30, nora54 ~01h30 de 11/11. Story-0311 repostado antes das 22h55.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
