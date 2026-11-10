@@ -1093,3 +1093,6 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 - **Fato (aluno, 22h41):** nada saiu em 09/11 (nem story, nem vídeo); ele ia fazer o nora50 para postar logo.
 - **Decisão:** **hoje à noite, story agora + o nora53 às 00h30** (o painel dele foi feito para as 00h30; mesmo trabalho: 1 Take 1 + a montagem). **O nora50 não sai à 00h30**: é o teste do gancho contra o nora49 (19h31), e depois da meia-noite a Índia sobe (nora48 à 01h10: Índia 29%, EUA 19%), o que estragaria a comparação. O nora50 vai para 10/11 às 19h30; o teste do CTA (nora54) vai para 11/11 às 19h30, com o CTA falando do portal "aberto hoje".
 
+### 09/11/2026 ~23h15 - Renumeração pela ordem de postagem (pedido do aluno)
+- "Muda o nome do nora53 pra nora50 [...] pro nora50 ser exatamente o que eu vou postar agora 00h30." Para a ordem ficar certinha também amanhã: **nora50** = Áries/Leão/Sagitário com o tsunami (00h30 de 09→10/11), **nora51** = terra (10/11 17h), **nora52** = a pedra, o teste do gancho contra o nora49 (10/11 19h30), **nora53** = água (10/11 22h), **nora54** = o teste do CTA na versão curta (11/11 19h30). Nas entradas anteriores, "nora50 = pedra" passa a ser o nora52.
+
