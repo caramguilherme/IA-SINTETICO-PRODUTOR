@@ -343,6 +343,11 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **O que olhar (régua com ~24 h):** % nos 3 s (sem cena antes: a abertura é só a fala), tempo médio contra os 19,4 s, visitas ao perfil por 1.000 views (nora49: 5,2 com ~13 h), comentários de outras pessoas ÷ views (agora com pedido na legenda: comparar só com vídeos com pedido), story (viewers e toques) e Tracker. Com 19 s, a maioria chega ao CTA (12,6 s): se o clique não subir mesmo assim, o gargalo é o CTA ou o story, não a retenção.
 - **Próximos (2h entre os posts):** nora52 (longo) ~21h30, nora53 ~23h30, nora54 ~01h30 de 11/11. Story-0311 repostado antes das 22h55.
 
+### 10/11/2026 19h35 - Story-0311 no Insta, ~20h40 de vida (repost de 09/11 22h55; prints do aluno)
+- **42 views, 26 viewers**, 81,0% seguidores e 19,0% não seguidores; 0 interações (0 curtida, 0 resposta, 0 compartilhamento); **5 toques no link (5 ÷ 26 = 19%)**; navegação 32 (saiu 15, próximo story 8, avançou 6, voltou 3); atividade no perfil 2 (2 visitas, 0 follow).
+- **Leitura:** o texto do story funciona: 19% de quem vê toca no link (a 1ª versão dele, de 03/11, deu 3 em 18 = 17%; o "you're not here by accident" deu 0 em 18). **O gargalo é a ida do reel ao story:** 26 pessoas viram o story num período em que o nora50 fez ~1.460 views no Insta (~1,8%), e 81% delas já seguiam a Nora. É o que o kit testa (CTA aos ~12 s no curto, contra ~63 s no corpo A). **Régua do rodízio de 12/11:** toques ÷ viewers; o 0311 marca 19%.
+- **Contra o Tracker:** às 13h38 eram 3 cliques do Insta desde a volta do story; o Insta conta 5 toques até 19h35 (pode incluir toque repetido da mesma pessoa). Conferir no Tracker de 11/11.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
