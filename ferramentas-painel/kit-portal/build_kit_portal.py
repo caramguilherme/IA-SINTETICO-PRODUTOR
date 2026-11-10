@@ -388,7 +388,8 @@ def montar(n):
             pecas.append({'nome': NOMES[k], 'tipo': 'take', 'status': 'gerar', 'creditos': 12 if dur(k) == '8' else 15, 'descricao': f'Para o nora52 (longo): “{F[k]}”'})
     pecas.append({'nome': 'story-0311', 'de': 'story-3110', 'tipo': 'story', 'status': 'reutilizar', 'descricao': ('Já repostado às ~22h de 10/11: não poste outro agora (seção Story).' if n == 54 else 'Repost antes das 22h55 de 10/11 (seção Story).')})
     total = creditos(gera)
-    decisao = [f'Postar em {v["dia"]}, {v["hora"]}, no Insta e no Face, ao vivo.',
+    decisao = [f'ESTE VÍDEO USA SÓ {len(usa)} TAKES, nesta ordem: ' + ' + '.join(NOMES[k] for k in usa) + '.' + (' Os outros 7 gerados neste painel são do nora52 (longo); não entram no nora51.' if n == 51 else ''),
+               f'Postar em {v["dia"]}, {v["hora"]}, no Insta e no Face, ao vivo.',
                'Kit do portal (decisão do aluno, 10/11): gancho da data e promessa com prazo, modelados dos maiores reels da Soma Chhaya; sem pré-gancho.',
                ('Comparação: o longo das 20h30 contra o nora49 (corpo A, 19h31, horário parecido); os curtos contra o longo (visitas ao perfil por 1.000 views, story, Tracker).')]
     if gera:
