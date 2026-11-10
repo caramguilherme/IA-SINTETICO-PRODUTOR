@@ -37,7 +37,7 @@
 - **nora52 · terça 10/11 · 19h30 · longo (~75 s, CTA aos ~28 s e no fim):** T01a + T02 + T03 + T04 + T05 + T06 + T07 + T08 + T09. Compara com o nora49 (corpo A, mesmo horário).
 - **nora53 · terça 10/11 · 22h · curto (~25 s):** T01c + T02b + T04.
 - **nora54 · quarta 11/11 · 00h30 · curto (~35 s):** T01d + T02d + T04 + T09.
-- **11/11 (17h, 19h30, 22h):** um Take 1 novo por post (a data de quarta) + T02d + o resto do kit; o longo das 19h30 de 11/11 troca o T02 pelo T02d. Depois de 11/11, kit novo sem portal.
+- **11/11 (17h, 19h30, 22h):** um Take 1 novo por post (a data de quarta) + T02d + o resto do kit; o longo das 19h30 de 11/11 troca o T02 pelo T02d. **No Face, esses posts repetem takes já postados: vão com espelho + filtro "Dias claros" 30% + 1,1x** (o nora50 travou no Face com 23 views por repetir gancho e corpo; `METRICAS-NORA-LEIA.md`, 10/11 13h38). Depois de 11/11, kit novo sem portal.
 
 ## Conferência (checklist do slide 20, item 31 das lições, P46)
 - Para quem é nos 3 s: a data do dia + a caixa do topo "if you keep seeing 11:11" (a tela 5 do quiz e os sinais da VSL).

@@ -1214,3 +1214,8 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 - **Para a Nora (decisão minha): nada muda hoje.** O kit do portal já mede isso: o nora51 a nora54 abrem só com a fala (a data, sem cena antes, como a Soma Chhaya) e o nora49 abria com cena (o tsunami) + fala; a régua é a retenção dos 3 primeiros segundos e as visitas ao perfil por 1.000 views. Os dois formatos continuam valendo: com o resultado (~12/11) decido qual vai nos próximos kits ou se alterno, como ele.
 - **Resposta ao joao:** fechamento curto, sem pergunta nova, prometendo voltar com o resultado (passo 4 do método do `CONTATOS-ALUNOS.md`); a pergunta seguinte vai junto com o resultado.
 
+### 10/11/2026 ~13h40 - Face: post repetido trava (nora50); Insta segue entregando
+- **Números (prints do aluno, 13h34 e 13h38):** nora50 com ~13 h no Insta: 1.460 views, 13 follows, 4 visitas ao perfil, EUA 36,5%, ainda subindo; no Face: **23 views, −2,0x**. O nora48 tinha 167 no Face com ~10 h e o nora49 202 com ~5 h.
+- **Leitura:** o nora50 é o tsunami sem espelhar (o mesmo do nora48) + o corpo A inteiro (o mesmo do nora48 e do nora49); só o Take 1 (~8 s) é novo. O Face já tinha travado a cópia acelerada do nora36 em 28/10 (16 a 26 views). O Insta não pune do mesmo jeito.
+- **Decisão minha:** no Face, vídeo com gancho e corpo de um post anterior só vai com as 3 mudanças da variação (espelho + filtro "Dias claros" 30% + 1,1x) ou fica só no Insta. O kit do portal de hoje (nora51 a nora54) é todo novo. Nos painéis de 11/11, em que cada post tem só o Take 1 novo e repete os takes do kit, o Face leva a variação.
+

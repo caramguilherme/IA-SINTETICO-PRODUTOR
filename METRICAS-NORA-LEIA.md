@@ -321,6 +321,12 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **Corpo A no Insta, somado (nora48 e nora49 finais + nora50 com ~13 h):** 5.104 views, 42 follows (8,2 por 1.000), 19 visitas ao perfil (3,7 por 1.000). É a base do kit: visitas por 1.000 views e cliques no Tracker.
 - **Pedir:** nora50 com ~24 h (Insta e Face), o Face de agora e o Tracker de 10/11.
 
+### 10/11/2026 13h38 - Face (Biblioteca de Conteúdo, print do aluno)
+- **nora50 no Face com ~13h29: só 23 views**, 18 visualizadores, **distribuição −2,0x**, 9 views de 3 s (39,1%), tempo médio 27 s, 1 comentário (deve ser o da Página), 0 seguidor. No mesmo tempo de vida: nora48 167 (10h26), nora49 202 (5h27). No Insta, o mesmo vídeo fez 1.460.
+- **Leitura:** o Face tratou o nora50 como repetido. Ele é o tsunami sem espelhar (o mesmo do nora48) + o mesmo corpo A do nora48 e do nora49; só o Take 1 (~8 s de 67 s) é novo. Já vimos isso em 28/10 com o `nora36-VEL` (a cópia só acelerada fez 16 a 26 views). O nora49, com o tsunami espelhado, ainda passou (237). Outra possibilidade, menor: a Página ficou sem post de 06/11 19h29 a 10/11 00h09.
+- **Decisão:** no Face, vídeo que repete o gancho e o corpo de um post anterior só vai com espelho + filtro "Dias claros" 30% + 1,1x (a regra das variações de 28/10), ou fica só no Insta. O kit do portal de hoje é todo novo e não tem esse problema; nos painéis de 11/11 (Take 1 novo + takes do kit), o Face leva a variação. Nada muda nos posts de hoje.
+- **Parados:** nora49 237 (+0,5x), nora48 185 (+1,8x). Story do Face repostado ontem às 22h57 (vence ~22h57 de hoje).
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
