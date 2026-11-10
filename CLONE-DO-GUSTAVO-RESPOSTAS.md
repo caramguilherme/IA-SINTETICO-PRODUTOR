@@ -262,7 +262,7 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 **Legendas citadas:** "The universe sent you this message for a reason. Type '222' to claim your financial blessings and tap the link in my bio/stories for your personal reading." · "This 9-word prayer is bringing unexpected money gifts to those who align their energy today. Comment 'YES' to receive and check my stories for the full prediction."
 **Comentário fixado citado:** "Tap here to take your free 2-minute manifestation test and reveal your predictions: [link]" · "Claim your financial blessings now! Click here to access your reading: [link]".
 **Hashtags:** poucas, do nicho (#manifestation, #abundance, #lawofattraction, #moneymanifestation) + "#AuraliTrend". Aulas 43, 54, 55, Estrutura Facebook.
-**Para a Nora:** a legenda atual já segue o molde (o gancho + "Your private reading is waiting in my story." + 5 hashtags do nicho). Fora: 222 e "claim" na legenda, "free", "money gifts", link no comentário do Insta (lá não é clicável; regra de 27/10) e o #AuraliTrend (ver R17). No Face, o comentário da Página com o link FACE continua.
+**Para a Nora:** a legenda atual já segue o molde (o gancho + "Your private reading is waiting in my story." + 5 hashtags do nicho). Fora: 222 e "claim" na legenda (**revisto em 10/11: volta na legenda do Insta do corpo novo em diante, com palavra variada; no Face, não**; `COMUNIDADE-E-ESTRATEGIA.md`, 10/11 ~01h15), "free", "money gifts", link no comentário do Insta (lá não é clicável; regra de 27/10) e o #AuraliTrend (ver R17). No Face, o comentário da Página com o link FACE continua.
 
 ---
 
