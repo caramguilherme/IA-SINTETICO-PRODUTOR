@@ -1089,3 +1089,7 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
 - **Pedido do aluno:** usar o Gerador de Prompts do Creative Hub (com o blueprint) para mudar o cenário e testar o visual de celular "pro nora50 em diante", porque tem créditos e ainda não gerou nada.
 - **Decisão:** os 4 de hoje ficam como estão: o Take 1 tem de sair na mesma cena do corpo A (a emenda Take 1 → corpo mostraria a troca de visual), e o nora50 é o teste do gancho (mudar o visual junto estragaria a comparação). **O que dá para fazer já, a 0 crédito:** a imagem de teste da Nora com cara de celular (Gerador de Prompts com o blueprint + Nano Banana Pro, x4), para eu aprovar o visual antes do corpo novo; os campos estão no `LICOES-FLOW-E-PROMPTS.md` (09/11). O corpo novo (a partir de 12/11) sai nessa cena, com a copy feita depois da leitura completa.
 
+### 09/11/2026 22h45 - O dia passou sem post; o que sai hoje à noite (decisão minha)
+- **Fato (aluno, 22h41):** nada saiu em 09/11 (nem story, nem vídeo); ele ia fazer o nora50 para postar logo.
+- **Decisão:** **hoje à noite, story agora + o nora53 às 00h30** (o painel dele foi feito para as 00h30; mesmo trabalho: 1 Take 1 + a montagem). **O nora50 não sai à 00h30**: é o teste do gancho contra o nora49 (19h31), e depois da meia-noite a Índia sobe (nora48 à 01h10: Índia 29%, EUA 19%), o que estragaria a comparação. O nora50 vai para 10/11 às 19h30; o teste do CTA (nora54) vai para 11/11 às 19h30, com o CTA falando do portal "aberto hoje".
+
