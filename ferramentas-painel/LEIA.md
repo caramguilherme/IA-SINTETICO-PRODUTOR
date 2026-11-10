@@ -3,6 +3,7 @@ Só ficam aqui as ferramentas em uso. Os scripts antigos (painéis de 22/10 a 10
 
 ## Painéis
 - `../PAINEL-MODELO.html`: o modelo; todo painel novo é ele com a linha `const PACOTE = …;` trocada pelo pacote do vídeo (formato do pacote: `REGRAS-DO-AGENTE.md`, P12, e o pacote de um painel recente). O script que gera os painéis de um dia é novo e fica em `arquivo/ferramentas-antigas/` depois de usado.
+- `kit-portal/build_kit_portal.py` (10/11, em uso até o fim do kit do portal): gera o PAINEL-NORA51 a 54 a partir do modelo, com as falas do `ROTEIRO-KIT-PORTAL-NORA51-54.md`, a Central e a voz do nora46 e o mapa, o story e as respostas do nora49; confere até 22 palavras por fala e que a movimentação não repete palavras da fala. Uso: `python3 -I ferramentas-painel/kit-portal/build_kit_portal.py` e depois o `conferir-painel.js` nos 4.
 - `conferir-painel.js`: abre painéis no Chromium e mostra os erros ("ERR: nenhum" = abre certo). Uso: `node ferramentas-painel/conferir-painel.js PAINEL-NORA51.html`.
 - `conferir_signos.py`: confere se um painel cita signos de outro vídeo. Uso: `python3 -I ferramentas-painel/conferir_signos.py . 51:Taurus,Virgo,Capricorn`.
 

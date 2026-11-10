@@ -52,6 +52,13 @@
 - **Face:** a mesma legenda sem o pedido de comentário; comentário como a Página com o link FACE.
 - **Comentário fixado do Insta:** uma pergunta de verdade, sem link ("Which part of your life do you want to change first: love, peace, purpose or money? ✨ Your private reading starts in my story.").
 
+## Painéis (publicados em 10/11; `ferramentas-painel/kit-portal/build_kit_portal.py`)
+- nora51 https://claude.ai/artifact/AXQp5m7g6jjn7RvWSQXMQY: a seção "Imagem 1" (Gerador de Prompts, `kitportal-IMG`) e a geração de 10 takes (T01a, T01b, T02 a T09; 144 créditos) + o piloto do 1.2 em 360p.
+- nora52 https://claude.ai/artifact/L36PatLZXAraEnD56kVqiV: só montagem (0 crédito).
+- nora53 https://claude.ai/artifact/6LvW1Pxu3K7DuA9DEU8qbS: gera T01c e T02b (30).
+- nora54 https://claude.ai/artifact/65UyAVMwWKzn4hSTqv3UTd: gera T01d e T02d (27).
+- O LIVRE, as 14 movimentações e a posição dos números estão marcados "PROVISÓRIO": fecho pela imagem aprovada e rodo o script de novo (republica nos mesmos links).
+
 ## Falta
 - A imagem `kitportal-IMG` aprovada (o aluno gera agora, 0 crédito; desde 10/11 ~10h30, com a frase do iPhone no campo Lente LIVRE e, se quiser, uma foto do Pinterest só como referência de luz e enquadramento, com a trava do `LICOES` de 10/11); depois dela, o LIVRE e as 14 linhas de movimentação (P32: escritos pela imagem aprovada) e os painéis do nora51 a nora54 (o do nora51 traz a geração do kit inteiro).
 - A avaliação da fala no Clone do Gustavo (regra da 11ª leitura), antes de gerar.
