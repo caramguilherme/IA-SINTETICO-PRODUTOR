@@ -297,7 +297,8 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 
 ### 09/11/2026 23h03 - nora49 no Insta, leitura final (~75h32; prints do aluno)
 - **2.011 views** (1.739 viewers), 68,2% nos 3 s, 18 s, **19 follows**, **10 visitas ao perfil (5,0 por 1.000)**, 89 curtidas, 31 comentários, 42 salvos, 10 envios, 3 reposts; EUA 30,0% (~603 pessoas), Índia 11,8%; 45+ = 58,1%. Parado desde 07/11 (+284 em ~58 h).
-- **Corpo A no Insta, somado (nora48 + nora49):** 3.615 views, 29 follows, 15 visitas ao perfil (4,1 por 1.000), 70 salvos. É a base de comparação do nora50 (gancho da pedra, 10/11 19h30) e do teste do CTA (11/11 19h30): visitas ao perfil por 1.000 views e cliques no Tracker.
+- **nora48 no Insta, leitura final (09/11 23h04, ~93h54):** 1.633 views (1.410 viewers), 70,1% nos 3 s, 19 s, 10 follows, 5 visitas (3,1 por 1.000), 36 comentários, 29 salvos, 14 envios; Índia 28,7%, EUA 18,7%; 45+ = 54,7%. Parado.
+- **Corpo A no Insta, somado (nora48 + nora49, finais):** 3.644 views, 29 follows, 15 visitas ao perfil (4,1 por 1.000), 71 salvos. É a base de comparação do nora50 (gancho da pedra, 10/11 19h30) e do teste do CTA (11/11 19h30): visitas ao perfil por 1.000 views e cliques no Tracker.
 
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
