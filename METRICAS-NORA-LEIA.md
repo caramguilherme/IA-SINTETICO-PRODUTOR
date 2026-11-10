@@ -295,6 +295,10 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **Comentários novos no Face:** +1 no nora49 e +2 no nora47 desde a última leitura. Se forem de outras pessoas: responder como a Página e mandar o direct com o link FACE (textos do painel de cada vídeo; nunca o mesmo texto).
 - **Leitura:** sem post novo de 06 a 09/11, o Face fica em ~130 a 240 views por vídeo. Nada muda no plano.
 
+### 09/11/2026 23h03 - nora49 no Insta, leitura final (~75h32; prints do aluno)
+- **2.011 views** (1.739 viewers), 68,2% nos 3 s, 18 s, **19 follows**, **10 visitas ao perfil (5,0 por 1.000)**, 89 curtidas, 31 comentários, 42 salvos, 10 envios, 3 reposts; EUA 30,0% (~603 pessoas), Índia 11,8%; 45+ = 58,1%. Parado desde 07/11 (+284 em ~58 h).
+- **Corpo A no Insta, somado (nora48 + nora49):** 3.615 views, 29 follows, 15 visitas ao perfil (4,1 por 1.000), 70 salvos. É a base de comparação do nora50 (gancho da pedra, 10/11 19h30) e do teste do CTA (11/11 19h30): visitas ao perfil por 1.000 views e cliques no Tracker.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
