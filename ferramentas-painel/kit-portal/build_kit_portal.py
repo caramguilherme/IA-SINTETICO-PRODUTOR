@@ -47,8 +47,8 @@ NOMES = {
     'T08': 'kitportal-T08-cta-de-novo', 'T09': 'kitportal-T09-engajamento',
 }
 CENA = {
-    'T01a': 'a data do dia (abertura do longo)', 'T01b': 'a data do dia (abertura do curto das 17h)', 'T01c': 'a data do dia (abertura do curto das 22h)',
-    'T01d': 'a data de quarta (abertura do curto da 00h30)', 'T02': 'a promessa: amanhã é o portal', 'T02b': 'a promessa: as portas vão abrir',
+    'T01a': 'a data do dia (abertura do longo)', 'T01b': 'a data do dia (abertura do curto das ~18h)', 'T01c': 'a data do dia (abertura do curto das 23h)',
+    'T01d': 'a data de quarta (abertura do curto da 01h30)', 'T02': 'a promessa: amanhã é o portal', 'T02b': 'a promessa: as portas vão abrir',
     'T02d': 'a promessa: hoje é o portal (11/11)', 'T03': 'filtro: para quem fez tudo certo e se sente travada', 'T04': 'CTA: a 2ª parte do sinal, a ação e a leitura',
     'T05': 're-gancho: o que ninguém sabe do 11:11', 'T06': 'mecanismo: cosmic receiver', 'T07': 'mecanismo: a dúvida calava o sinal; o 11:11 abre a passagem',
     'T08': 'CTA de novo', 'T09': 'engajamento (depois do CTA)',
@@ -250,28 +250,28 @@ def creditos(ks):
 # ------------------------------------------------------------------ cada vídeo
 COMUM_HASH = '#manifestation #1111portal #lawofattraction'
 VIDEOS = {
-    51: dict(hora='17h', dia='10/11 (terça)', tipo='curto', usa=['T01b', 'T02', 'T04'], gera=['T01a', 'T01b', 'T02', 'T03', 'T04', 'T05', 'T06', 'T07', 'T08', 'T09'],
+    51: dict(hora='~18h', dia='10/11 (terça)', tipo='curto', usa=['T01b', 'T02', 'T04'], gera=['T01a', 'T01b', 'T02', 'T03', 'T04', 'T05', 'T06', 'T07', 'T08', 'T09'],
              caixa='TUESDAY, NOVEMBER 10TH\nif you keep seeing 11:11,\nthis message is for you', caixa_fim='one hundred percent meant for you.',
              insta=f'If you see this on Tuesday, November 10th, it\'s meant for you. 🔮\nTomorrow is 11:11. Your private reading is waiting in my story.\nComment "I receive" to claim this ✨\n{COMUM_HASH} #manifestingmyreality',
              pergunta='which part of your life do you want to change first: love, peace, purpose or money?',
              nums=[('11:11', 82, 10.5, 'alto à direita', 'amarelo-ouro', '#FFD21F', 15), ('222', 18, 30, 'no meio à esquerda', 'rosa-choque', '#FF4FD8', 12), ('888', 82, 46.9, 'à direita, na altura do ombro', 'ciano', '#3DE0FF', 11)],
              coment=['✨ I sent it to your messages, take a look 🔮', '💖 It\'s waiting in your inbox ✨', '🌙 Check your DMs, it\'s there 💫'],
              dm=['✨ [name], your private reading is here 🔮 Open it before 11:11:', '🌙 Hi [name]! Here\'s your private reading 💖 before the 11:11 portal:', '💫 [name], this one is for you ✨ Your private reading:']),
-    52: dict(hora='19h30', dia='10/11 (terça)', tipo='longo', usa=['T01a', 'T02', 'T03', 'T04', 'T05', 'T06', 'T07', 'T08', 'T09'], gera=[],
+    52: dict(hora='20h30', dia='10/11 (terça)', tipo='longo', usa=['T01a', 'T02', 'T03', 'T04', 'T05', 'T06', 'T07', 'T08', 'T09'], gera=[],
              caixa='TUESDAY, NOVEMBER 10TH\ntomorrow is 11:11,\nthis message is for you', caixa_fim='one hundred percent meant for you.',
              insta=f'This video found you on Tuesday, November 10th for a reason. 🔮\nTomorrow the 11:11 portal opens. Your private reading is waiting in my story.\nComment "thank you universe" ✨\n{COMUM_HASH} #spirituality',
              pergunta='what do you want to bring into your next chapter?',
              nums=[('222', 18, 10.5, 'alto à esquerda', 'laranja', '#FF9F1C', 14), ('888', 82, 30, 'no meio à direita', 'verde-limão', '#7CFF4F', 12), ('11:11', 18, 46.9, 'à esquerda, na altura do ombro', 'branco', '#FFFFFF', 11)],
              coment=['🔮 Just sent it to you, check your inbox ✨', '✨ It\'s in your messages now 💖', '💫 Sent! Look in your DMs 🌙'],
              dm=['🔮 [name], here\'s your private reading ✨ before the 11:11 portal:', '💖 [name], I sent this one just for you 🔮 Open it here:', '✨ Hey [name]! Tap here to open your private reading 💫']),
-    53: dict(hora='22h', dia='10/11 (terça)', tipo='curto', usa=['T01c', 'T02b', 'T04'], gera=['T01c', 'T02b'],
+    53: dict(hora='23h', dia='10/11 (terça)', tipo='curto', usa=['T01c', 'T02b', 'T04'], gera=['T01c', 'T02b'],
              caixa='TUESDAY, NOVEMBER 10TH\nif you keep seeing 11:11,\nit\'s a sign', caixa_fim='this message is meant for you.',
              insta=f'If you\'re watching this on Tuesday, November 10th, it\'s a sign. 🔮\nTomorrow is 11:11. Your private reading is waiting in my story.\nComment "I accept" ✨\n{COMUM_HASH} #abundance',
              pergunta='which door are you ready to see open: love, money or peace?',
              nums=[('888', 18, 10.5, 'alto à esquerda', 'rosa-choque', '#FF4FD8', 15), ('11:11', 82, 30, 'no meio à direita', 'ciano', '#3DE0FF', 12), ('222', 18, 46.9, 'à esquerda, na altura do ombro', 'amarelo-ouro', '#FFD21F', 11)],
              coment=['🌙 Sent it to your inbox, beautiful ✨', '✨ Check your messages, it\'s there 🔮', '💖 I just sent it to you 💫'],
              dm=['🌙 [name], your private reading is ready ✨ before 11:11:', '💫 Hi [name]! Open your private reading here 🔮', '✨ [name], open this when you have a quiet minute 💖 Your private reading:']),
-    54: dict(hora='00h30 (já quarta, 11/11)', dia='11/11 (quarta), à 00h30', tipo='curto', usa=['T01d', 'T02d', 'T04', 'T09'], gera=['T01d', 'T02d'],
+    54: dict(hora='01h30 (da noite de 10 para 11/11)', dia='11/11 (quarta)', tipo='curto', usa=['T01d', 'T02d', 'T04', 'T09'], gera=['T01d', 'T02d'],
              caixa='WEDNESDAY, NOVEMBER 11TH\ntoday is 11:11,\nthis message is for you', caixa_fim='one hundred percent meant for you.',
              insta=f'If you see this on Wednesday, November 11th, it\'s meant for you. 🔮\nToday the 11:11 portal is open. Your private reading is waiting in my story.\nComment "I\'m ready" ✨\n{COMUM_HASH} #1111',
              pergunta='today is 11:11: what are you asking the universe for?',
@@ -379,7 +379,7 @@ def montar(n):
     total = creditos(gera)
     decisao = [f'Postar em {v["dia"]} às {v["hora"]}, no Insta e no Face, ao vivo.',
                'Kit do portal (decisão do aluno, 10/11): gancho da data e promessa com prazo, modelados dos maiores reels da Soma Chhaya; sem pré-gancho.',
-               ('Comparação: o longo das 19h30 contra o nora49 (corpo A, mesmo horário); os curtos contra o longo (visitas ao perfil por 1.000 views, story, Tracker).')]
+               ('Comparação: o longo das 20h30 contra o nora49 (corpo A, 19h31, horário parecido); os curtos contra o longo (visitas ao perfil por 1.000 views, story, Tracker).')]
     if gera:
         decisao.append(f'Créditos deste painel: {total} (conta contatocaram).' + (' + o piloto do 1.2 em 360p (~10, não vai ao ar).' if n == 51 else ''))
     else:
