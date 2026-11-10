@@ -8,7 +8,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **Ricardo Santana:** respondeu em 09/11 12h58 (CTA no fim; no meio, pedido de comentário; "a copy tem que ser bem convincente pra pessoa ficar até o final"). Resposta de fechamento enviada; voltar com o resultado do kit do portal (versão curta x longa, CTA mais cedo; o "nora54 do corpo A" saiu do plano em 10/11). **Marcus:** voltar com o mesmo resultado (CTA mais cedo).
 - **11ª leitura (09/11):** respostas a sordisss (Índia: horário) e Eduarda Fernandes (texto do story) enviadas.
 - **joao (Sargento):** respondeu em 09/11 17h29 (ganchos + texto do story) e em 10/11 00h44 ("depende do gancho": usa com fala e sem fala; o que importa é prender nos primeiros segundos); fechamento enviado em 10/11 (~11h). **Voltar com o resultado do kit do portal (só fala x cena + fala) em ~12/11**, com 1 pergunta nova.
-- **Lucas Dusi:** o aluno tinha chamado em 03/11 15h14 (não estava registrado); ele respondeu em 06/11 15h17 só "já vejo a msg, desculpa a demora"; resposta do aluno enviada em 10/11 (sem pressa + a dúvida de novo). Esperar.
+- **Lucas Dusi:** respondeu em 10/11 14h49 (filtrar o público no body + reason why forte no CTA; o negativo convertia mais, mas está saturado); resposta enviada em 10/11 ~16h (pedido de um exemplo de reason why). Esperar; voltar com o resultado do kit.
 - **13ª leitura (10/11 ~14h):** resposta ao Adão Gomes (CTA de engajamento e view) no #chat-appyon e parabéns ao Romulo Urbano no #vitórias: enviados (toda resposta sugerida conta como enviada). A pergunta do Bruno Freitas sobre a ferramenta de silêncio com 4 min já tinha sido respondida em 06/11.
 - **12ª leitura (10/11):** respostas a João Paulo (CTA de Face e Insta), Paulo Infante (quadro de validação) e Mateus Guisolffi (Insta travado no nome), no #chat-appyon, e parabéns ao Rundouglas no #vitórias: enviadas (toda resposta sugerida conta como enviada). Bruno Freitas e Eduarda Kelly: só reação.
 - **Kaike:** respondeu em 07/11 19h41 ("exato mano" sobre o tsunami; pré-hooks "sempre fazendo alguma coisa com objetos, mas que está dentro do nicho"); agradecimento enviado em 09/11. Voltar com resultado.
@@ -67,7 +67,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | Mateus Guisolffi | Pergunta no chat (09/11 20h08): Insta novo travado no "next" do nome | | | **Resposta pública enviada em 10/11** (12ª leitura) | |
 | Romulo Urbano | 1ª venda na Appyon (#vitórias 10/11 06h11; funil não dito) | | | **Parabéns enviado no #vitórias em 10/11** (13ª leitura), com 1 pergunta (insta ou face). Se responder, só reagir | |
 | Rundouglas | 32 vendas em 7 dias (até 08/11), 10.157 cliques, 0,31% de clique em venda | | | **Parabéns enviado no #vitórias em 10/11** (12ª leitura), com 1 pergunta (de onde vieram os cliques). Se responder, só reagir | Se ajudar |
-| Lucas Dusi (lucasdusi) | 553 vendas em out. (R$ 38,6 mil); a melhor conversão dos prints de 02/11 (~109 cliques por venda) | **DM do aluno em 03/11 15h14** (não estava registrada: o quadro dizia "não chamar"): o que ele faz no story ou no fim do vídeo que faz o clique virar venda. **Respondeu em 06/11 15h17:** "Opaa irmão só um momento já vejo a msg / Esses últimos dias foram bem corridos / Desculpa a demora" (sem responder a dúvida) | | O aluno viu só em 10/11. **Resposta enviada em 10/11** (sem pressa + a dúvida de novo, curta). Esperar; sem resposta, não mandar outra | Se ajudar |
+| Lucas Dusi (lucasdusi) | 553 vendas em out. (R$ 38,6 mil); a melhor conversão dos prints de 02/11 (~109 cliques por venda) | **DM do aluno em 03/11 15h14** (não estava registrada: o quadro dizia "não chamar"): o que ele faz no story ou no fim do vídeo que faz o clique virar venda. **Respondeu em 06/11 15h17:** "Opaa irmão só um momento já vejo a msg / Esses últimos dias foram bem corridos / Desculpa a demora" (sem responder a dúvida) | | O aluno viu só em 10/11. **Resposta enviada em 10/11 13h50** (a dúvida de novo, curta). **Respondeu em 10/11 14h49:** a conversão caiu para todo mundo porque todos fazem a mesma coisa; o diferencial é, depois do gancho, **filtrar o público no body e trazer um reason why forte pro CTA**; os vídeos dele que mais converteram eram do **ângulo negativo, com urgência e explicação mística no CTA**, "mas talvez esteja meio saturado". **Resposta enviada em 10/11 ~16h** (obrigado + o nosso teste + pedido de um exemplo de reason why). Esperar; voltar com o resultado do kit | Sim, se ajudar |
 | carloscs | Fechamentos de outubro (os grandes) | (não chamar: recebe dezenas de mensagens) | | | |
 
 ## (Histórico) Rascunhos de 04/11/2026 (todos enviados ou descartados; ver as marcas em cada um)
@@ -418,10 +418,19 @@ tranquilo mano, eu tb só vi agora kkk
 sem pressa nenhuma
 quando der, só aquela dúvida: oq vc faz no story ou no final do vídeo que faz o clique virar venda?
 ```
+**Versão que saiu às 13h50 (print do aluno de 10/11 15h57):** "tranquilo mano, eu tb só vi agora kkk / quando der, só aquela dúvida / oq vc faz no story ou no final do vídeo que faz o clique virar venda?" (sem o "sem pressa nenhuma").
 
 ## ENVIADO (10/11/2026 ~14h20; DM ao Castanho, depois da resposta dele de 07/11 10h40, "3 a 6 por página"; o aluno viu só em 10/11; uma mensagem só)
 ```
 valeu mano!! foi mal a demora, só vi agora
 e o clique no face vem mais de onde? story, link no comentário ou dm?
+```
+
+## ENVIADO (10/11/2026 ~16h; DM ao Lucas Dusi, depois da resposta dele de 10/11 14h49: filtrar no body + reason why forte; uma mensagem só)
+```
+caraca, faz mt sentido, valeu demais mano
+aqui tirei o ângulo negativo e ainda faz 1,4 a 2 mil views, mas o clique tá baixo, então deve ser isso: falta filtro no body e motivo no cta
+hj to soltando um teste, uma versão curta e uma longa que explica antes do cta
+se puder me dar um exemplo de reason why que vc acha forte, ajuda demais
 ```
 

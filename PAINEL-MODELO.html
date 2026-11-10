@@ -159,6 +159,16 @@ section{scroll-margin-top:16px}
       </div>
     </section>
 
+    <section class="card hide" id="clone">
+      <h2>Clone do Gustavo (antes de gerar)</h2>
+      <div class="tip" id="cloneNota" style="margin-bottom:10px;font-size:15px"></div>
+      <div class="item">
+        <button class="cp" id="cpClone">Copiar pergunta</button>
+        <h3>Cole no NotebookLM (Clone do Gustavo)</h3>
+        <div class="box" id="clonePergunta"></div>
+      </div>
+    </section>
+
     <section class="card" id="respostasface">
       <h2>Respostas no Face (comentário e direct)</h2>
       <div class="tip" id="rfAviso" style="margin-bottom:10px;font-size:15px"></div>
@@ -411,8 +421,8 @@ function montarRespFace(){
 function ordenar(){
   const c=pk.central;
   const ord=(pk.ordem&&pk.ordem.length)?pk.ordem.slice():c
-    ?['pecas','referencia','prehook','imagens','todos','central','cenas','agente','silencio','story','textotela','fala','descricao','comentario','respostasface']
-    :['pecas','referencia','prehook','imagens','videos','todos','silencio','story','textotela','fala','descricao','comentario','respostasface'];
+    ?['pecas','clone','referencia','prehook','imagens','todos','central','cenas','agente','silencio','story','textotela','fala','descricao','comentario','respostasface']
+    :['pecas','clone','referencia','prehook','imagens','videos','todos','silencio','story','textotela','fala','descricao','comentario','respostasface'];
   // clipe único (texto na tela): o clipe sai da imagem, então a seção Imagens vem antes da seção Clipe
   if(pk.clipe_unico&&!(pk.ordem&&pk.ordem.length)){const a=ord.indexOf('prehook'),b=ord.indexOf('imagens');ord[a]='imagens';ord[b]='prehook'}
   const pn=$('painel');
@@ -566,6 +576,9 @@ function montar(silencio){
   montarPre();
   montarPecas();
   montarRespFace();
+  (function(){const cl=pk.clone;$('clone').classList.toggle('hide',!(cl&&cl.pergunta));if(!(cl&&cl.pergunta))return;
+    $('cloneNota').textContent=cl.nota||'';$('cloneNota').classList.toggle('hide',!cl.nota);
+    $('clonePergunta').textContent=cl.pergunta;$('cpClone').onclick=e=>copiar(cl.pergunta,e.currentTarget);})();
   ordenar();
   $('painel').classList.remove('hide');
   progresso();salvar();

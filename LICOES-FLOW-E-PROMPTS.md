@@ -485,3 +485,6 @@ If the generation of any video fails, please resubmit ONLY the item that failed 
 - **Não renomeou:** "Now rename each video with the correct number from the prompt." O número é a ordem dos prompts; no painel, o 1 é o 1º nome da lista de renomear, e o aluno troca para o nome do painel (a FusionZ junta pela ordem do nome).
 - Já nos painéis do nora51, nora53 e nora54 (`ferramentas-painel/kit-portal/build_kit_portal.py`, função `agente`); vale para todo painel novo com o agente.
 
+### 10/11/2026 - Painel: seção "Clone do Gustavo (antes de gerar)"
+- A pergunta para o Clone (regra da 11ª leitura) ficava só no chat. **Agora vai no painel:** campo `clone` do pacote, `{"nota": "...", "pergunta": "..."}`, mostrado na seção `clone` (botão "Copiar pergunta"); sem o campo, a seção some. Na ordem padrão ela vem logo depois das peças; no kit do portal, depois da imagem e antes da Central (painel do nora51). Todo painel com fala nova leva a pergunta.
+

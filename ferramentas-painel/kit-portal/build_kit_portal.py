@@ -112,6 +112,26 @@ LIVRE = ('[PROVISÓRIO: confiro e fecho pela kitportal-IMG aprovada antes de voc
          'keeps a calm still expression until the clip ends.')
 
 
+# pergunta para o Clone do Gustavo (regra da 11ª leitura: avaliar a fala antes de gerar); reforçada com a resposta do Lucas Dusi de 10/11
+CLONE = {
+    'nota': ('Vale para o kit inteiro (nora51 a nora54). Faça depois da imagem e ANTES de gerar os takes: cole a pergunta no Clone do Gustavo (NotebookLM) e mande a resposta '
+             'aqui no chat do Code junto com as 4 imagens. Se o Clone pedir mudança na fala, eu ajusto neste painel e republico antes de você gerar.'),
+    'pergunta': ('Avalie esta copy para o funil de Manifestation (quiz de 3 perguntas e "private reading"). É um kit de vídeos curtos e um longo para o portal 11/11, '
+                 'modelado nos virais da Soma Chhaya. Diga o que melhorar no gancho, no corpo e no CTA para levar mais gente ao story e ao clique, citando as aulas.\n\n'
+                 f'GANCHO: "{F["T01a"]}"\n'
+                 f'PROMESSA: "{F["T02"]}"\n'
+                 f'ÁREAS: "{F["T03"]}"\n'
+                 f'CTA 1: "{F["T04"]}"\n'
+                 f'RE-GANCHO: "{F["T05"]}"\n'
+                 f'MECANISMO: "{F["T06"]} {F["T07"]}"\n'
+                 f'CTA 2: "{F["T08"]}"\n'
+                 f'ENGAJAMENTO: "{F["T09"]}"\n\n'
+                 'As versões curtas (~25 s) usam só GANCHO + PROMESSA + CTA 1. A versão longa usa tudo, com o CTA 1 perto dos 28 s.\n\n'
+                 'Em especial: (1) depois do gancho, o corpo filtra o público certo? (2) o CTA tem um motivo forte (reason why) para tocar agora, sem medo e sem ameaça? '
+                 'Sugira 2 versões do CTA 1 com até 22 palavras, mantendo "your private reading" e "three quick questions".'),
+}
+
+
 def config_kit():
     c = copy.deepcopy(CFG)
     for s in c:
@@ -391,7 +411,8 @@ def montar(n):
         p['central'] = {'imagem_unica': True, 'conferir': '', 'passos': passos, 'config': cfg, 'agente': agente(1, []), 'colagens': []}
         p['imagem_reutilizada'] = {'arquivo': 'kitportal-IMG', 'nota': 'gerada no painel do nora51'}
     if n == 51:
-        ordem = ['pecas', 'imagens', 'central', 'cenas', 'agente', 'silencio', 'textotela', 'story', 'descricao', 'comentario', 'respostasface', 'fala']
+        p['clone'] = CLONE
+        ordem = ['pecas', 'imagens', 'clone', 'central', 'cenas', 'agente', 'silencio', 'textotela', 'story', 'descricao', 'comentario', 'respostasface', 'fala']
     elif gera:
         ordem = ['pecas', 'central', 'cenas', 'agente', 'silencio', 'textotela', 'story', 'descricao', 'comentario', 'respostasface', 'fala']
     else:
