@@ -34,14 +34,10 @@ Pra quem tá começando o Gustavo indica o **Soulmate**. Decidido em 01/10: a pr
 - [x] Montagem da Nora (01 a 12/10): avatar e Blueprint, página do Face, GeeLark, proxy, Gmail, Insta @norakensleytarot, 3 dias de aquecimento + dia 4, conta na Appyon e Appyon Pay, Flow Pro, 10 vídeos de aquecimento e página marcada como criadora de IA. Detalhes em Estrutura de contas › Nosso setup real e Funil Soulmate › Roteiros de aquecimento
 - [x] Vídeos de venda desde 13/10 (7 no ar até 15/10) e story com link desde 13/10
 - [x] (superado: o Love Chart entrou em 24/10 e a Nora passou para o Manifestation em 27/10) Esperar o aviso do Gustavo de que o Love Chart entrou no ar (o link troca sozinho, segundo a call de 19/10); até lá o link da Nora ainda leva pro quiz do Soulmate
-- [ ] Mandar os prints do Insta e do Face de cada vídeo, uns 2 dias depois do post, pro Claude atualizar a página Métricas da Nora (faltam os do Insta do nora18 ao nora24)
 - [x] (superado: a promoção de 1 dólar acabou, Discord de 09/11; e não ajudamos a comprar conta de bot) Comprar o Flow por 1 dólar no bot do Telegram, pagando com Stars pelo celular
-- [ ] Abrir o link do story pelo celular e ver se aparece o aviso de "link não confiável" (Postagem › Cadastro na Appyon e links). Se aparecer, testar o Short.io grátis: criar o link curto do STORYIG, abrir uma vez em aba anônima e ver se o clique cai no Tracker (o dudupm disse em 12/10 que com o Short.io o Tracker não contou nada)
-- [ ] Reels de referência: anotar as views do R01 ao R14 e analisar do R15 ao R26
 - [ ] Renovar antes de vencer, no dia 05/12: GeeLark (06/12, 13h48) e proxy (06/12, 14h52), as duas sem renovação automática. Renovadas em 06/11 (o GeeLark tinha vencido em 05/11; vencido, ele apaga os dados 7 dias depois)
 - [ ] **Plano Primeira Comissão (oficial, 07/11):** chegar ao mínimo de 2 Insta + 2 páginas do Face (hoje 1 + 1: o 2º perfil) e a 6 vídeos de venda por dia em cada conta, com 1 h ou mais entre eles (hoje ~1 a 2 por dia). Decisão do aluno sobre o 2º perfil e o novo ritmo (proposta em `COMUNIDADE-E-ESTRATEGIA.md`, 07/11)
 - [ ] Mandar as perguntas abertas no Discord (seção Perguntas)
-- [ ] Ver se a Vibe Contabilidade respondeu
 
 ### Ordem pra Nora depois de criar as contas
 

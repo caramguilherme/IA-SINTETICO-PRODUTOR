@@ -33,7 +33,7 @@ PRIORIDADE = [
     "BRIEFING-MANIFESTACAO.md",
     "HISTORICO-CLAUDE-MD.md",
 ]
-PASTAS = [".", "HISTORICO-DISCORD", "MATERIAIS-CALL-03-11", "MATERIAIS-CALL-06-11", "ferramentas-painel"]
+PASTAS = [".", "HISTORICO-DISCORD", "MATERIAIS-CALL-03-11", "MATERIAIS-CALL-06-11", "ferramentas-painel", "referencias-mineracao", "arquivo"]
 EXTENSOES = (".md", ".csv")
 
 

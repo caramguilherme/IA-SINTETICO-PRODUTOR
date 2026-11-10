@@ -1,0 +1,7 @@
+# Arquivo (desde 10/11/2026, decisão do aluno no pente fino)
+O que já não vale para a Nora de hoje, guardado inteiro para consulta. **Não faz parte da leitura obrigatória** (`LEIA-TUDO-ANTES.md`); o `ferramentas-painel/buscar.py` procura aqui também, então o pente fino (P47) continua achando qualquer coisa.
+
+- **Raiz:** o modelo de origem (`00-LEIA-PRIMEIRO.md`, os `EXEMPLO-*-FIGADO.md`, `REGISTRO-DE-PERSONAS.md`), a Dana (`PROJETO-Dana.md`, `DNA Visual - Dana.md`, `FOTO-PERFIL-DANA.md`), a Nora v1 (`DNA Visual - Nora.md`; a de hoje é a v2, `DNA Visual - Nora v2.md` na raiz do projeto), o Love Chart (`BRIEFING-LOVECHART.md`, com a aula do Iorhan de 23/10 e a pesquisa Auraly no topo; os PDFs `BRIEFING-LOVECHART-APPYON-v2.pdf` e `PESQUISA-AURALY-23-10.pdf`; o que ainda vale da pesquisa está no `FATOS-DO-ALUNO.md`).
+- **`roteiros/`:** R001 a R005 (Soulmate), nora25 a nora35 (Love Chart), os stories e as reservas de amor, os planos de crédito e os passo a passo antigos.
+- **`paineis/`:** PAINEL-NORA25 a PAINEL-NORA35 (os links publicados continuam funcionando; estão no `HISTORICO-CLAUDE-MD.md`).
+- **`ferramentas-antigas/`:** os scripts de 22/10 a 10/11 (`r6` a `r11`, `r2610` a `r3110`, `r0311` a `r1011`) e o guia antigo (`LEIA-ANTIGO.md`). Têm caminhos de sessões antigas e reescreveriam painéis já postados: não rodar sem ler e adaptar.
