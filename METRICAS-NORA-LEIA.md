@@ -289,6 +289,12 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - 08/11 e 09/11: sem story no ar (venceu em 07/11 18h43) e sem vídeo novo: o 0 não mede nada.
 - **Manifestation de 27/10 a 09/11 10h56: 22 cliques reais (20 Insta, 2 Face), 12 no fim do quiz, 0 checkout, 0 venda.**
 
+### 09/11/2026 23h - Face (Biblioteca de Conteúdo, print do aluno) e story de volta
+- **Story-0311 repostado em 09/11 às ~22h55** (a Biblioteca marca 22h57), no Face e no Insta, com o texto "Tap below: your private reading is waiting for you before the 11:11 portal." e o adesivo "Open my reading" (imagem story-3110). O link do story ficou fora de 07/11 18h43 a 09/11 22h55. Vence ~22h55 de 10/11.
+- **nora49:** 236 views (+14 desde 07/11 08h51), 46,6% nos 3 s, 8 s, 3 comentários (+1), 1 seguidor, +0,5x: parou perto de 230. **nora48:** 185, parado. **nora47:** 132 (+24 desde 06/11), 3 comentários (+2), 9 s de média.
+- **Comentários novos no Face:** +1 no nora49 e +2 no nora47 desde a última leitura. Se forem de outras pessoas: responder como a Página e mandar o direct com o link FACE (textos do painel de cada vídeo; nunca o mesmo texto).
+- **Leitura:** sem post novo de 06 a 09/11, o Face fica em ~130 a 240 views por vídeo. Nada muda no plano.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
