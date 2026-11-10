@@ -1884,6 +1884,8 @@ O caminho clique a clique depois dos 3 dias de aquecimento, pra repetir em cada 
 
 **Opções do Gerador de Prompts (vistas em 13/10; todo campo tem LIVRE pra escrever em inglês)**
 
+**Aviso (10/11/2026): os nomes abaixo são resumidos e o Gerador mudou de visual em 08/11.** Não copiar daqui para o painel: os nomes exatos conferidos nos prints do aluno (Objeto, Cenário, Horário / Atmosfera, Câmera, Lente) estão no `LICOES-FLOW-E-PROMPTS.md`, 10/11.
+
 - **Já tenho o Blueprint:** só trava idade, gênero, fenótipo, pele e cabelo e manda a IA copiar a pessoa da imagem anexada no Flow. Não lê a foto: os campos travados mostram valores antigos (35, porcelana, longo liso preto). Conferir se o prompt não traz isso antes de colar
 - **Tipo de personagem:** Cartomante, Fotógrafo, Barista, Chef, Artista, Músico(a), Viajante, Modelo, Empresário(a), Estudante, Escritor(a), Dançarino(a)
 - **Expressão:** Olhar calmo e sábio, Sorriso sedutor, Olhar introspectivo, Sorriso provocante, Olhar intenso direto, Sorriso acolhedor, Meio-sorriso misterioso, Expressão séria focada, Sorriso suave de paz
