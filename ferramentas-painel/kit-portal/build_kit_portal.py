@@ -208,6 +208,8 @@ IMG_CENTRAL = {
             {'campo': 'Realismo', 'valor': 'Extremo'}]},
         {'titulo': '6. Só se anexar a foto do Pinterest', 'nota': 'cole no começo do prompt, antes do texto do Gerador', 'campos': [
             {'campo': 'Trava de identidade', 'valor': TRAVA_PIN, 'copiar': 1}]},
+        {'titulo': '7. Prompt final conferido (cole este no Flow, não o do Gerador)', 'nota': 'conferido em 10/11 ~18h20 a partir do prompt que o Gerador deu', 'campos': [
+            {'campo': 'Prompt da kitportal-IMG', 'valor': (R / 'ferramentas-painel/kit-portal/kitportal-IMG-prompt-conferido.txt').read_text(encoding='utf-8').strip(), 'copiar': 1}]},
     ],
 }
 
