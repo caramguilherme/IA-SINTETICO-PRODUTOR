@@ -305,6 +305,13 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **Horário:** 00h11 aqui = 19h11 na Califórnia (de 09/11) e 10h41 na Índia: parecido com o nora48 (01h10, Índia ~29%). A comparação justa é com o nora48, não com o nora49 (19h31).
 - **Pedir:** Insta e Face com ~10 h (~10h de 10/11) e ~24 h (00h de 11/11): views, % nos 3 s, tempo médio, visitas ao perfil, follows, comentários e países; Tracker de 10/11.
 
+### 10/11/2026 13h32 - nora50 no Insta: comentários (~13h21 de vida; prints do aluno)
+- **14 comentários de outras pessoas** (12 "222", 2 "888"; o fixado não aparece nos prints), todos curtidos. "222" é o pedido do Take 8 do corpo A e "888" é um dos números da tela: medem engajamento, não qualificação.
+- **6 dos 14 chegaram na última hora** (16 min a 1 h atrás): às ~13 h o nora50 ainda está sendo entregue, enquanto o nora48 e o nora49 quase pararam em ~5 h. Bom sinal para views; confirmar no Insights.
+- **Taxa:** falta o print do Insights (views). Referência no mesmo horário de madrugada: nora48 com 25 de outras pessoas em 1.404 views (~10h35) = 1,8%.
+- **Respostas no Insta** (à mão, sem link, texto variando; `COMUNIDADE-E-ESTRATEGIA.md`, regra do Insta): sugeridas a wilnas109, jussaradasilvabrito e j3ss3_83, as 3 mais recentes.
+- **Pedir:** o Insights do nora50 agora (~13 h) e com ~24 h (00h de 11/11), o Face e o Tracker de 10/11.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
