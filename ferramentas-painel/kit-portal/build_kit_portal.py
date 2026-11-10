@@ -80,8 +80,13 @@ GESTO = {
 
 # reserva do T04 (o CTA, usado nos 4 vídeos) se o erro de política continuar (10/11 ~19h20: o T04 caiu no filtro mais de uma vez; o T05 estava certo):
 # sem o dedo indicador apontando; mão aberta descendo para o canto de baixo à esquerda
-T04_B = ('during the first half of the take she holds a warm, confident look, in the closing half she lowers her right hand with the palm open and turned down toward the '
-         'lower left corner of the frame for a moment and then returns it to her upper chest')
+# 10/11 ~19h: 8 falhas seguidas no T04, com 4 falas diferentes; em todas a mão descia para o canto de baixo (colo) num quarto: o filtro pode estar lendo o VÍDEO gerado.
+# Versão sem gesto: a mão fica parada no peito o take inteiro.
+MOV_T04_SEM_GESTO = ('Throughout the whole 10 seconds she keeps an unchanged handheld selfie framing; her left arm on the right side of the frame stays extended toward the camera '
+    'holding the phone out of frame and never moves; her right hand on the left side of the frame stays resting still against her upper chest just below the collarbone for '
+    'the whole clip and never moves down; her eyes stay on the lens; during the first half of the take she holds a warm, confident look, and in the closing half she gives one '
+    'small encouraging nod with a warm smile; from the end of the final sentence until the clip ends she keeps her lips closed and silent; the camera keeps only a tiny natural '
+    'handheld sway with no zoom and no cuts, the braid stays on the right side of the frame, everything else in the room stays still and each hand has exactly five fingers.')
 # T04 à mão no modo Frames (10/11 ~19h45): o agente reaproveitava o "prompt 5" da Central, que caiu 5 vezes no filtro.
 # Prompt escrito aqui no formato da Central, sem "intimate/confidential", "bedroom" e "bed" (o clima "Íntimo e confidencial" + quarto + "private" + "my photo" pode puxar o filtro).
 def prompt_t04_manual():
@@ -92,7 +97,7 @@ def prompt_t04_manual():
             'VOICE CHARACTERISTICS (LOCKED):\n' + voz + '\n\n'
             'VOICE PACING: medium pace (155 to 180 words per minute), about 8 seconds of speech; when she finishes the last word she closes her lips and stays silent '
             'with a calm expression until the clip ends.\n\n'
-            'MOVEMENT: ' + BASE_MOV.format(d=10, g=T04_B) + '\n\n'
+            'MOVEMENT: ' + MOV_T04_SEM_GESTO + '\n\n'
             'VISUAL: realistic casual iPhone front-camera selfie video, warm lamp light and one lit candle in the background, natural skin texture with visible pores, '
             'slight phone grain, everything in focus, no bokeh, no filter.\n\n'
             'CAMERA: handheld, only a tiny natural sway, no zoom, no cuts, no reframing.\n\n'
