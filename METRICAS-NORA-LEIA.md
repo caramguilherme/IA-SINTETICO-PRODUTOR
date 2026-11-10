@@ -348,6 +348,10 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **Leitura:** o texto do story funciona: 19% de quem vê toca no link (a 1ª versão dele, de 03/11, deu 3 em 18 = 17%; o "you're not here by accident" deu 0 em 18). **O gargalo é a ida do reel ao story:** 26 pessoas viram o story num período em que o nora50 fez ~1.460 views no Insta (~1,8%), e 81% delas já seguiam a Nora. É o que o kit testa (CTA aos ~12 s no curto, contra ~63 s no corpo A). **Régua do rodízio de 12/11:** toques ÷ viewers; o 0311 marca 19%.
 - **Contra o Tracker:** às 13h38 eram 3 cliques do Insta desde a volta do story; o Insta conta 5 toques até 19h35 (pode incluir toque repetido da mesma pessoa). Conferir no Tracker de 11/11.
 
+### 10/11/2026 19h36 - Tracker da Appyon, 09 e 10/11 (prints do aluno; atualizações 19:36:28 e 19:36:41)
+- **09/11:** 1 clique, 1 no quiz, 0 começou (Insta). **10/11 até 19h36:** 2 cliques, 2 no quiz, 1 começou, 0 terminou, 0 checkout (Insta). **Igual à leitura de 13h38: nenhum clique novo em 6 h** (o nora51 tinha só 6 min no ar).
+- **Story x Tracker (pergunta do aluno: "5 cliques no story e só 3 no Tracker"):** o Insta conta cada toque no adesivo, inclusive a mesma pessoa tocando 2 vezes e quem toca e volta antes de a página abrir; o Tracker só conta quando a página do link carrega. Em 06/11 foi igual (story 3, Tracker 2). **A medida que vale é a do Tracker** (é a que leva à venda); a diferença de ~1 em 3 é perda no caminho (o navegador do Insta é lento), não erro de link.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
