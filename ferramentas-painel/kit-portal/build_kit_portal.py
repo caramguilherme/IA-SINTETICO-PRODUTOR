@@ -1,6 +1,6 @@
 # Painéis do kit do portal (nora51 a nora54), 10/11/2026. Base: PAINEL-MODELO.html; Central e voz do pacote do nora46;
 # mapa, story e respostas no formato do nora49. Falas: ROTEIRO-KIT-PORTAL-NORA51-54.md.
-# O LIVRE e as movimentações são PROVISÓRIOS até a kitportal-IMG ser aprovada (P32: escritos pela imagem aprovada).
+# O LIVRE e as movimentações foram fechados pela kitportal-IMG aprovada (a 4ª opção, 10/11 ~18h30; P32): kitportal-IMG-escolhida-opcao4.jpg nesta pasta.
 # Uso (raiz do repositório): python3 -I ferramentas-painel/kit-portal/build_kit_portal.py
 import json, copy, re, sys, pathlib
 
@@ -54,27 +54,28 @@ CENA = {
     'T08': 'CTA de novo', 'T09': 'engajamento (depois do CTA)',
 }
 
-# movimentação provisória: selfie, braço direito (lado esquerdo da imagem) segurando o celular fora do quadro, mão esquerda livre
-BASE_MOV = ('Throughout the whole {d} seconds she keeps an unchanged handheld selfie framing, her right arm on the left side of the frame stays raised toward the camera '
-            'holding the phone out of frame and never moves, her left hand on the right side of the frame stays relaxed at collarbone height except during the one small '
-            'gesture described here, which always happens at the height of her shoulder on the right side of the frame and never in front of her face or mouth, and her eyes '
+# movimentação fechada pela kitportal-IMG (4ª opção, 10/11): o braço esquerdo dela (lado DIREITO da imagem) segura o celular fora do quadro e sai pelo canto de baixo à direita;
+# a mão direita dela (lado ESQUERDO da imagem, anel de sol e pulseiras) fica apoiada no alto do peito, logo abaixo da clavícula, e só sai para o gesto do take
+BASE_MOV = ('Throughout the whole {d} seconds she keeps an unchanged handheld selfie framing, her left arm on the right side of the frame stays extended toward the camera '
+            'holding the phone out of frame and never moves, her right hand on the left side of the frame stays resting against her upper chest just below the collarbone except during the one small '
+            'gesture described here, which always happens at the height of her shoulder on the left side of the frame and never in front of her face or mouth, and her eyes '
             'stay on the lens, {g}, and from the end of the final sentence of the take until the clip ends she keeps her lips closed and silent; the camera keeps only a tiny '
-            'natural handheld sway with no zoom and no cuts, everything else in the room stays still and each hand has exactly five fingers.')
+            'natural handheld sway with no zoom and no cuts, the braid stays on the right side of the frame, everything else in the room stays still and each hand has exactly five fingers.')
 GESTO = {
     'T01a': 'during the first half of the take she leans slightly toward the lens with her eyebrows a little raised and an intrigued look, in the closing half she gives one slow knowing nod with a warm half-smile',
     'T01b': 'during the first half of the take she tilts her head slightly with a curious look, in the closing half a warm, certain smile appears and she gives one small nod',
     'T01c': 'during the first half of the take she raises her eyebrows with a look of recognition, in the closing half she gives two small quick nods with a knowing smile',
     'T01d': 'during the first half of the take she leans slightly toward the lens with a bright, excited look, in the closing half she gives one slow nod with a wide warm smile',
-    'T02': 'during the first half of the take she raises her left hand to the height of her shoulder with the palm open and facing up as if offering something, in the closing half the hand returns to collarbone height and a wide smile grows',
-    'T02b': 'during the first half of the take she holds a calm, reassuring look, in the closing half she opens her left hand at the height of her shoulder with the palm turning outward slowly as if opening something, then lowers it',
-    'T02d': 'during the first half of the take her eyebrows lift with a joyful look, in the closing half she opens her left hand at the height of her shoulder with the palm up and then lowers it with a warm smile',
-    'T03': 'during the first half of the take she tilts her head slightly with a soft, understanding look, in the closing half she opens her left hand at the height of her shoulder with the palm up for a moment and then lowers it with a warm, reassuring smile',
-    'T04': 'during the first half of the take she holds a warm, confident look, in the closing half she points her left index finger down toward the lower left corner of the frame for a moment and then lowers the hand',
-    'T05': 'during the first half of the take she leans slightly toward the lens with a soft, almost secretive look, in the closing half she lifts only the index finger of her left hand at shoulder height for a moment and then lowers it',
-    'T06': 'during the first half of the take she raises her left hand to the height of her shoulder with the palm open as if explaining, in the closing half she lowers it slowly and gives one calm, confident nod',
+    'T02': 'during the first half of the take she raises her right hand to the height of her shoulder with the palm open and facing up as if offering something, in the closing half the hand returns to rest on her upper chest and a wide smile grows',
+    'T02b': 'during the first half of the take she holds a calm, reassuring look, in the closing half she lifts her right hand to the height of her shoulder and turns the palm outward slowly as if opening something, then returns it to her upper chest',
+    'T02d': 'during the first half of the take her eyebrows lift with a joyful look, in the closing half she lifts her right hand to the height of her shoulder with the palm up and then returns it to her upper chest with a warm smile',
+    'T03': 'during the first half of the take she tilts her head slightly with a soft, understanding look, in the closing half she lifts her right hand to the height of her shoulder with the palm up for a moment and then returns it to her upper chest with a warm, reassuring smile',
+    'T04': 'during the first half of the take she holds a warm, confident look, in the closing half she points her right index finger down toward the lower left corner of the frame for a moment and then returns the hand to her upper chest',
+    'T05': 'during the first half of the take she leans slightly toward the lens with a soft, almost secretive look, in the closing half she lifts her right hand to shoulder height with only the index finger raised for a moment and then returns it to her upper chest',
+    'T06': 'during the first half of the take she raises her right hand to the height of her shoulder with the palm open as if explaining, in the closing half she returns it slowly to her upper chest and gives one calm, confident nod',
     'T07': 'during the first half of the take her eyes glance up and slightly to the side as if picturing something lovely, in the closing half her eyes return to the lens and a calm smile grows',
-    'T08': 'during the first half of the take she gives one small encouraging nod, in the closing half she points her left index finger down toward the lower left corner of the frame for a moment and then lowers the hand',
-    'T09': 'during the first half of the take she rests her left palm flat at collarbone height for a moment with a warm smile, in the closing half she lowers the hand and gives one slow nod',
+    'T08': 'during the first half of the take she gives one small encouraging nod, in the closing half she points her right index finger down toward the lower left corner of the frame for a moment and then returns the hand to her upper chest',
+    'T09': 'during the first half of the take she presses her right palm gently flat against her upper chest for a moment with a warm smile, in the closing half she relaxes the hand there and gives one slow nod',
 }
 
 
@@ -97,19 +98,21 @@ for k, f in F.items():
     sobra = (bf & bm) - COMUNS
     assert not sobra, (k, sobra)
 
-LIVRE = ('[PROVISÓRIO: confiro e fecho pela kitportal-IMG aprovada antes de você gerar] Casual handheld iPhone front-camera selfie video at night in a real, slightly messy '
-         'American bedroom, looking exactly like a real phone video, lit only by a warm bedside lamp on the right side of the frame and one lit white candle on the nightstand behind her. '
-         'CONTINUITY LOCKS for every take: the woman, her face, her long black wavy hair with the thin gold-ringed braid, the small flat gold crescent moon with three tiny gold stars on her '
-         'cheek, her star-and-moon drop earrings, her Venus necklace, her bracelets and rings and her plain emerald-green sweatshirt stay exactly as in the reference image; the framing is '
-         'exactly the one of the reference image, a close selfie from the middle of her chest up with her face large and centered and her eyes at about 30 percent of the frame height; '
-         'her right arm on the left side of the frame stays raised toward the camera holding the phone out of frame and never moves; her left hand on the right side of the frame stays '
-         'relaxed at collarbone height and only rises for the one small gesture of each take, at the height of her shoulder, never in front of her face or mouth; the unmade bed, the lamp, '
-         'the candle and the wall behind her stay exactly where they are; natural skin texture with visible pores, slight phone grain, everything in focus, no bokeh, no filter, no glow '
-         'and no sparkles; the camera has only a tiny natural handheld sway, no zoom, no cuts and no reframing; no object, person, animal or text appears or disappears; each hand always '
-         'has exactly five fingers; no on-screen text, no captions, no logos; real quiet room ambient sound only, no music. SPEECH RULE for every take: she says only the exact words of '
-         'that take\'s script, each word exactly once and in order, with no repeated word, no extra word and no added sentence before, between or after; numbers are spoken as words '
-         '(11:11 as "eleven eleven", November 10th as "November tenth", November 11th as "November eleventh"); when she finishes the last word she closes her lips, stays silent and '
-         'keeps a calm still expression until the clip ends.')
+LIVRE = ('Casual handheld iPhone front-camera selfie video at night in a real, slightly messy American bedroom, looking exactly like a real phone video, lit only by a warm lamp at '
+         'the right edge of the frame and one lit white candle on the nightstand on the left side of the frame behind her. CONTINUITY LOCKS for every take: the woman, her face, her long '
+         'black wavy hair, the thin braid wrapped with small gold rings hanging down over her chest on the right side of the frame, the small flat gold crescent moon with three tiny gold '
+         'stars on her cheek on the left side of the frame, her star-and-moon drop earrings, her thin gold Venus necklace, the thin gold bracelets on her right wrist, the gold sun ring on '
+         'her right hand and her plain emerald-green sweatshirt stay exactly as in the reference image; the framing is exactly the one of the reference image, a close selfie from about '
+         'her waist up with her face large and centered and her eyes at about one third of the frame height; her left arm on the right side of the frame stays extended toward the camera '
+         'holding the phone out of frame, running off the bottom-right corner, and never moves; her right hand on the left side of the frame rests against her upper chest just below the '
+         'collarbone and only lifts for the one small gesture of each take, at the height of her shoulder on the left side of the frame, never in front of her face or mouth; the unmade bed '
+         'with white sheets and the pillow behind her, the lit candle and the small clutter on the nightstand on the left side of the frame, the lamp at the right edge of the frame and the '
+         'plain beige wall stay exactly where they are, and the candle flame only flickers slightly; natural skin texture with visible pores, slight phone grain, everything in focus, no '
+         'bokeh, no filter, no glow and no sparkles; the camera has only a tiny natural handheld sway, no zoom, no cuts and no reframing; no phone, object, person, animal or text appears '
+         'or disappears; each hand always has exactly five fingers; no on-screen text, no captions, no logos; real quiet room ambient sound only, no music. SPEECH RULE for every take: she '
+         'says only the exact words of that take\'s script, each word exactly once and in order, with no repeated word, no extra word and no added sentence before, between or after; numbers '
+         'are spoken as words (11:11 as "eleven eleven", November 10th as "November tenth", November 11th as "November eleventh"); when she finishes the last word she closes her lips, '
+         'stays silent and keeps a calm still expression until the clip ends.')
 
 
 # pergunta para o Clone do Gustavo (regra da 11ª leitura: avaliar a fala antes de gerar); reforçada com a resposta do Lucas Dusi de 10/11
@@ -137,7 +140,7 @@ def config_kit():
     for s in c:
         for campo in s['campos']:
             if campo['campo'].startswith('LIVRE'):
-                campo['valor'] = 'colar o texto abaixo (PROVISÓRIO até a kitportal-IMG aprovada: eu fecho antes de você gerar)'
+                campo['valor'] = 'colar o texto abaixo (fechado pela kitportal-IMG aprovada, a 4ª opção de 10/11)'
                 campo['copiar'] = LIVRE
             if campo['campo'] == 'COLE SUA COPY AQUI':
                 campo['valor'] = 'colar a fala da colagem (seção “A fala e a movimentação”); cada colagem é uma geração separada'
@@ -173,7 +176,7 @@ IMG_CENTRAL = {
         'No Flow: Imagem · 9:16 · Nano Banana Pro · x4. Anexe PRIMEIRO a folha da Nora (a de 1K).',
         'OPCIONAL (o jeito do Felps): procure no Pinterest uma selfie de perto, em casa, à noite, com luz de abajur e cara de celular (ex.: “iphone selfie bedroom night lamp”) e anexe DEPOIS da folha. Aí cole no começo do prompt a trava do grupo 6 (botão Copiar).',
         'Confira cada uma das 4: o rosto é o da Nora (lua com 3 estrelinhas na bochecha do lado esquerdo da imagem, trança com anéis, brincos de estrela e lua, colar de Vênus, testa limpa)? Parece foto de celular? O celular não aparece? Algum texto ou carimbo nos cantos? Se vier outra mulher, gere de novo sem a foto do Pinterest.',
-        'Mande as 4 aqui no chat do Code. Eu escolho, fecho neste painel o LIVRE e as linhas de movimentação pela imagem aprovada e aviso para você seguir. Renomeie a escolhida para kitportal-IMG.',
+        'FEITO (10/11 ~18h30): escolhida a 4ª opção (cabelo longo com a trança do lado direito, sorriso, mão direita no peito com o anel de sol). Renomeie ela para kitportal-IMG. O LIVRE e as movimentações já estão fechados por ela.',
     ],
     'grupos': [
         {'titulo': '1. Personagem', 'nota': 'travados: idade, gênero, fenótipo, tom de pele (pule)', 'campos': [
@@ -254,28 +257,28 @@ def creditos(ks):
 # ------------------------------------------------------------------ cada vídeo
 COMUM_HASH = '#manifestation #1111portal #lawofattraction'
 VIDEOS = {
-    51: dict(hora='~18h', dia='10/11 (terça)', tipo='curto', usa=['T01b', 'T02', 'T04'], gera=['T01a', 'T01b', 'T02', 'T03', 'T04', 'T05', 'T06', 'T07', 'T08', 'T09'],
+    51: dict(hora='assim que ficar pronto (antes das 20h)', dia='10/11 (terça)', tipo='curto', usa=['T01b', 'T02', 'T04'], gera=['T01a', 'T01b', 'T02', 'T03', 'T04', 'T05', 'T06', 'T07', 'T08', 'T09'],
              caixa='TUESDAY, NOVEMBER 10TH\nif you keep seeing 11:11,\nthis message is for you', caixa_fim='one hundred percent meant for you.',
              insta=f'If you see this on Tuesday, November 10th, it\'s meant for you. 🔮\nTomorrow is 11:11. Your private reading is waiting in my story.\nComment "I receive" to claim this ✨\n{COMUM_HASH} #manifestingmyreality',
              pergunta='which part of your life do you want to change first: love, peace, purpose or money?',
              nums=[('11:11', 82, 10.5, 'alto à direita', 'amarelo-ouro', '#FFD21F', 15), ('222', 18, 30, 'no meio à esquerda', 'rosa-choque', '#FF4FD8', 12), ('888', 82, 46.9, 'à direita, na altura do ombro', 'ciano', '#3DE0FF', 11)],
              coment=['✨ I sent it to your messages, take a look 🔮', '💖 It\'s waiting in your inbox ✨', '🌙 Check your DMs, it\'s there 💫'],
              dm=['✨ [name], your private reading is here 🔮 Open it before 11:11:', '🌙 Hi [name]! Here\'s your private reading 💖 before the 11:11 portal:', '💫 [name], this one is for you ✨ Your private reading:']),
-    52: dict(hora='20h30', dia='10/11 (terça)', tipo='longo', usa=['T01a', 'T02', 'T03', 'T04', 'T05', 'T06', 'T07', 'T08', 'T09'], gera=[],
+    52: dict(hora='~2h depois do nora51 (confirmo o horário quando o nora51 sair)', dia='10/11 (terça)', tipo='longo', usa=['T01a', 'T02', 'T03', 'T04', 'T05', 'T06', 'T07', 'T08', 'T09'], gera=[],
              caixa='TUESDAY, NOVEMBER 10TH\ntomorrow is 11:11,\nthis message is for you', caixa_fim='one hundred percent meant for you.',
              insta=f'This video found you on Tuesday, November 10th for a reason. 🔮\nTomorrow the 11:11 portal opens. Your private reading is waiting in my story.\nComment "thank you universe" ✨\n{COMUM_HASH} #spirituality',
              pergunta='what do you want to bring into your next chapter?',
-             nums=[('222', 18, 10.5, 'alto à esquerda', 'laranja', '#FF9F1C', 14), ('888', 82, 30, 'no meio à direita', 'verde-limão', '#7CFF4F', 12), ('11:11', 18, 46.9, 'à esquerda, na altura do ombro', 'branco', '#FFFFFF', 11)],
+             nums=[('222', 18, 10.5, 'alto à esquerda', 'laranja', '#FF9F1C', 14), ('888', 82, 28, 'no meio à direita', 'verde-limão', '#7CFF4F', 12), ('11:11', 82, 46.9, 'à direita, na altura do ombro', 'branco', '#FFFFFF', 11)],
              coment=['🔮 Just sent it to you, check your inbox ✨', '✨ It\'s in your messages now 💖', '💫 Sent! Look in your DMs 🌙'],
              dm=['🔮 [name], here\'s your private reading ✨ before the 11:11 portal:', '💖 [name], I sent this one just for you 🔮 Open it here:', '✨ Hey [name]! Tap here to open your private reading 💫']),
-    53: dict(hora='23h', dia='10/11 (terça)', tipo='curto', usa=['T01c', 'T02b', 'T04'], gera=['T01c', 'T02b'],
+    53: dict(hora='~2h depois do nora52 (horário a confirmar)', dia='10/11 (terça)', tipo='curto', usa=['T01c', 'T02b', 'T04'], gera=['T01c', 'T02b'],
              caixa='TUESDAY, NOVEMBER 10TH\nif you keep seeing 11:11,\nit\'s a sign', caixa_fim='this message is meant for you.',
              insta=f'If you\'re watching this on Tuesday, November 10th, it\'s a sign. 🔮\nTomorrow is 11:11. Your private reading is waiting in my story.\nComment "I accept" ✨\n{COMUM_HASH} #abundance',
              pergunta='which door are you ready to see open: love, money or peace?',
-             nums=[('888', 18, 10.5, 'alto à esquerda', 'rosa-choque', '#FF4FD8', 15), ('11:11', 82, 30, 'no meio à direita', 'ciano', '#3DE0FF', 12), ('222', 18, 46.9, 'à esquerda, na altura do ombro', 'amarelo-ouro', '#FFD21F', 11)],
+             nums=[('888', 18, 10.5, 'alto à esquerda', 'rosa-choque', '#FF4FD8', 15), ('11:11', 82, 28, 'no meio à direita', 'ciano', '#3DE0FF', 12), ('222', 82, 46.9, 'à direita, na altura do ombro', 'amarelo-ouro', '#FFD21F', 11)],
              coment=['🌙 Sent it to your inbox, beautiful ✨', '✨ Check your messages, it\'s there 🔮', '💖 I just sent it to you 💫'],
              dm=['🌙 [name], your private reading is ready ✨ before 11:11:', '💫 Hi [name]! Open your private reading here 🔮', '✨ [name], open this when you have a quiet minute 💖 Your private reading:']),
-    54: dict(hora='01h30 (da noite de 10 para 11/11)', dia='11/11 (quarta)', tipo='curto', usa=['T01d', 'T02d', 'T04', 'T09'], gera=['T01d', 'T02d'],
+    54: dict(hora='~2h depois do nora53, já na madrugada de 11/11 (horário a confirmar)', dia='11/11 (quarta)', tipo='curto', usa=['T01d', 'T02d', 'T04', 'T09'], gera=['T01d', 'T02d'],
              caixa='WEDNESDAY, NOVEMBER 11TH\ntoday is 11:11,\nthis message is for you', caixa_fim='one hundred percent meant for you.',
              insta=f'If you see this on Wednesday, November 11th, it\'s meant for you. 🔮\nToday the 11:11 portal is open. Your private reading is waiting in my story.\nComment "I\'m ready" ✨\n{COMUM_HASH} #1111',
              pergunta='today is 11:11: what are you asking the universe for?',
@@ -305,7 +308,7 @@ def montar(n):
         'ocultar_bloco_agente_imagem': True,
         'roteiro': {
             'id': f'{nn}-KIT-PORTAL-{v["tipo"].upper()}',
-            'titulo': f'Kit do portal (modelo Soma Chhaya): {v["tipo"]}, {v["dia"]} às {v["hora"]}',
+            'titulo': f'Kit do portal (modelo Soma Chhaya): {v["tipo"]}, {v["dia"]}, {v["hora"]}',
             'dor': 'a próxima fase da vida chegando (amor, paz, propósito, dinheiro sem aperto), com o portal 11:11 como motivo',
             'formato': ('Sem pré-gancho; selfie com cara de celular no quarto à noite (kitportal-IMG); takes do kit: ' + ' + '.join(usa)),
             'molde_hook': 'Gancho da data dos maiores reels da Soma Chhaya (1,2 mi, 548 mil, 463 mil, 453 mil): "This video will find you on [dia]..." / "If you see this on [dia]..."',
@@ -347,7 +350,7 @@ def montar(n):
         {'nome': 'Seta vermelha (↓)', 'fonte': '—', 'cor': 'vermelho #E53935 com traço preto', 'tamanho': '14', 'contorno': '—',
          'obs': 'Do take do CTA (T04) até o fim, embaixo à esquerda (X -288 · Y -333, P43), apontando para a foto do perfil. Eu ponho (P45).'},
     ]
-    mt['regras'] = ['Posições provisórias: confiro todas na kitportal-IMG aprovada e na prévia da edição (número longe do rosto, da mão e da caixa).',
+    mt['regras'] = ['Posições conferidas na kitportal-IMG (a mão livre gesticula do lado esquerdo da imagem, então do lado esquerdo só há número no alto); confiro de novo na prévia da edição (número longe do rosto, da mão e da caixa).',
                     'Sem pré-gancho: a caixa do topo, os números e a legenda entram desde o 1º quadro.']
     p['mapa_tela'] = mt
 
@@ -381,7 +384,7 @@ def montar(n):
             pecas.append({'nome': NOMES[k], 'tipo': 'take', 'status': 'gerar', 'creditos': 12 if dur(k) == '8' else 15, 'descricao': f'Para o nora52 (longo): “{F[k]}”'})
     pecas.append({'nome': 'story-0311', 'de': 'story-3110', 'tipo': 'story', 'status': 'reutilizar', 'descricao': ('Já repostado às ~22h de 10/11: não poste outro agora (seção Story).' if n == 54 else 'Repost antes das 22h55 de 10/11 (seção Story).')})
     total = creditos(gera)
-    decisao = [f'Postar em {v["dia"]} às {v["hora"]}, no Insta e no Face, ao vivo.',
+    decisao = [f'Postar em {v["dia"]}, {v["hora"]}, no Insta e no Face, ao vivo.',
                'Kit do portal (decisão do aluno, 10/11): gancho da data e promessa com prazo, modelados dos maiores reels da Soma Chhaya; sem pré-gancho.',
                ('Comparação: o longo das 20h30 contra o nora49 (corpo A, 19h31, horário parecido); os curtos contra o longo (visitas ao perfil por 1.000 views, story, Tracker).')]
     if gera:
@@ -392,7 +395,7 @@ def montar(n):
 
     passos = []
     if n == 51:
-        passos += ['Imagem: kitportal-IMG no Gerador de Prompts (seção Imagem). Mande as 4 aqui e ESPERE eu fechar o LIVRE e as linhas de movimentação neste painel (estão provisórios).']
+        passos += ['Imagem: kitportal-IMG aprovada (a 4ª opção de 10/11, renomeada). O LIVRE e as movimentações já estão fechados por ela: pode gerar.']
     passos += [f'Central do curso com a configuração desta seção (o LIVRE é o do kit). Cole a fala e a movimentação da colagem (seção “A fala e a movimentação”). Confira: {len(ks)} takes de 8 ou 10 s.',
                'Agente do Flow na contatocaram (seção do agente): anexe só a kitportal-IMG, cole o aviso e o “COPIAR TUDO JUNTO”. Omni 1.1 Flash, 720p.',
                'Renomeie os takes com os nomes da lista (kitportal-…) e me mande a transcrição ou os takes para eu conferir as falas (P33).']
@@ -402,7 +405,7 @@ def montar(n):
         passos = ['Nada para gerar: os 9 takes saem do painel do nora51 (já gerados e renomeados).']
     passos += [f'Corte de silêncio (seção “Cortar os silêncios”): {lista_usa}; Juntar tudo LIGADO, Corte seco → {corte_nome}.',
                f'CapCut: o {corte_nome} + a música de sempre a −18 dB; exporte SEM texto como {nn}-montado e me mande aqui (Drive, se passar de 30 MB).',
-               f'Eu devolvo o {nn}-final. Confira no celular e poste em {v["dia"]} às {v["hora"]}, no Insta e no Face, ao vivo. Legenda: a do Insta tem o pedido de comentário; no Face, sem ele. Comentário: no Insta, comente e fixe (sem link); no Face, comente COMO A PÁGINA (já tem o link).']
+               f'Eu devolvo o {nn}-final. Confira no celular e poste em {v["dia"]}, {v["hora"]}, no Insta e no Face, ao vivo. Legenda: a do Insta tem o pedido de comentário; no Face, sem ele. Comentário: no Insta, comente e fixe (sem link); no Face, comente COMO A PÁGINA (já tem o link).']
     cfg = config_kit()
     if gera:
         p['central'] = {'imagem_unica': True,

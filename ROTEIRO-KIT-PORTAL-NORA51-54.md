@@ -58,7 +58,7 @@
 - nora52 https://claude.ai/artifact/86Jyhq4mszfWEnD2bsaSQS: só montagem (0 crédito).
 - nora53 https://claude.ai/artifact/Mmuaa3uhuLvRqg88G2KRKi: gera T01c e T02b (30).
 - nora54 https://claude.ai/artifact/2HN7pVF2Z5nJCCWbSo2RaG: gera T01d e T02d (27).
-- O LIVRE, as 14 movimentações e a posição dos números estão marcados "PROVISÓRIO": fecho pela imagem aprovada e rodo o script de novo (republica nos mesmos links).
+- O LIVRE, as 14 movimentações e a posição dos números foram fechados pela `kitportal-IMG` aprovada (10/11 ~18h30) e os painéis republicados nos mesmos links.
 
 ## Revisão pelo Clone do Gustavo (10/11 16h36, R22) e pelo Lucas Dusi (10/11 14h49)
 - **Mudou:** T03 (era a lista das 4 áreas, larga demais: agora filtra para quem é), T04 (o motivo era morno: agora "the second part of this sign" + a ação + "your private reading"), T07 (agora diz por que travava antes: a dúvida, congruente com a VSL, que fala de fé e de estar aberta para receber) e T09 ("the better you treat this video, the bigger the blessing" era bênção condicionada, parecida com o "se pular, perde a bênção" da P42: saiu). Total: 198 créditos.
@@ -66,5 +66,5 @@
 - **Não entrou:** "claim/unlock your private reading" (a leitura é paga: "claim" soa como grátis) e "Comment '1111' to claim this new cycle" na fala (o pedido de comentário fica na legenda do Insta, com palavra diferente a cada vídeo).
 
 ## Falta
-- A imagem `kitportal-IMG` aprovada (o aluno gera agora, 0 crédito; desde 10/11 ~10h30, com a frase do iPhone no campo Lente LIVRE e, se quiser, uma foto do Pinterest só como referência de luz e enquadramento, com a trava do `LICOES` de 10/11); depois dela, o LIVRE e as 14 linhas de movimentação (P32: escritos pela imagem aprovada) e os painéis do nora51 a nora54 (o do nora51 traz a geração do kit inteiro).
+- ~~A imagem `kitportal-IMG` aprovada~~ **FEITO em 10/11 ~18h30: a 4ª opção (`ferramentas-painel/kit-portal/kitportal-IMG-escolhida-opcao4.jpg`); LIVRE, movimentações e números fechados por ela e painéis republicados.** Era: a imagem `kitportal-IMG` aprovada (o aluno gera agora, 0 crédito; desde 10/11 ~10h30, com a frase do iPhone no campo Lente LIVRE e, se quiser, uma foto do Pinterest só como referência de luz e enquadramento, com a trava do `LICOES` de 10/11); depois dela, o LIVRE e as 14 linhas de movimentação (P32: escritos pela imagem aprovada) e os painéis do nora51 a nora54 (o do nora51 traz a geração do kit inteiro).
 - ~~A avaliação da fala no Clone do Gustavo~~: feita em 10/11 16h36 (R22); falas ajustadas.
