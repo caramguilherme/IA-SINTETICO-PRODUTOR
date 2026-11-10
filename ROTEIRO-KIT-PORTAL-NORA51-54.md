@@ -53,5 +53,5 @@
 - **Comentário fixado do Insta:** uma pergunta de verdade, sem link ("Which part of your life do you want to change first: love, peace, purpose or money? ✨ Your private reading starts in my story.").
 
 ## Falta
-- A imagem `kitportal-IMG` aprovada (o aluno gera agora, 0 crédito); depois dela, o LIVRE e as 14 linhas de movimentação (P32: escritos pela imagem aprovada) e os painéis do nora51 a nora54 (o do nora51 traz a geração do kit inteiro).
+- A imagem `kitportal-IMG` aprovada (o aluno gera agora, 0 crédito; desde 10/11 ~10h30, com a frase do iPhone no campo Lente LIVRE e, se quiser, uma foto do Pinterest só como referência de luz e enquadramento, com a trava do `LICOES` de 10/11); depois dela, o LIVRE e as 14 linhas de movimentação (P32: escritos pela imagem aprovada) e os painéis do nora51 a nora54 (o do nora51 traz a geração do kit inteiro).
 - A avaliação da fala no Clone do Gustavo (regra da 11ª leitura), antes de gerar.

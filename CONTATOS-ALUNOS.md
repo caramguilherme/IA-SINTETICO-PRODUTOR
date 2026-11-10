@@ -10,7 +10,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **12ª leitura (10/11):** respostas a João Paulo (CTA de Face e Insta), Paulo Infante (quadro de validação) e Mateus Guisolffi (Insta travado no nome), no #chat-appyon, e parabéns ao Rundouglas no #vitórias: enviadas (toda resposta sugerida conta como enviada). Bruno Freitas e Eduarda Kelly: só reação.
 - **Kaike:** respondeu em 07/11 19h41 ("exato mano" sobre o tsunami; pré-hooks "sempre fazendo alguma coisa com objetos, mas que está dentro do nicho"); agradecimento enviado em 09/11. Voltar com resultado.
 - **Lari:** respondeu em 07/11 12h10 (os 6 por dia eram o mesmo vídeo trocando algo no cenário; agora troca mais coisas, a copy também); agradecimento enviado em 09/11. Voltar com resultado.
-- **Felps:** respondeu em 07/11 10h49 (2 áudios: a avatar parece "muito artificial", com cara de filmagem profissional; ele busca a sensação de vídeo gravado no celular, orgânico, como a Soma Chhaya); resposta com 1 pergunta enviada em 09/11 (13h11). **Respondeu em 10/11 10h04 com um áudio de 43 s** (print do aluno); falta o áudio para eu transcrever (o print não tem o som).
+- **Felps:** respondeu em 07/11 10h49 (2 áudios: a avatar parece "muito artificial", com cara de filmagem profissional; ele busca a sensação de vídeo gravado no celular, orgânico, como a Soma Chhaya); resposta com 1 pergunta enviada em 09/11 (13h11). **Respondeu em 10/11 10h04 com um áudio de 43 s** (o aluno colou o texto): pega no Pinterest uma foto natural com as características que quer, leva ao chat e pede a imagem "idêntica, com a mesma iluminação"; e sempre reforça, como regra, que a foto "parece tirada por um iPhone 14, 13 ou 15". Resposta enviada em 10/11 (obrigado + 1 pergunta). Esperar.
 - **Esperando resposta (não mandar outra):** Castanho, Marcelo (respondido em 06/11), Letícia (X), Bruno Freitas, rodrigo (#vitórias), Jessica (06/11), Lívia (conversa fechada em 06/11 12h33; voltar com resultado novo), Eduarda Kelly, Gustavo M., Caio, Neto e Cleidiane, Chefinho e Gabriel soares (10ª leitura, 06/11).
 - **Fechados (só voltar com resultado):** Gustavo, Garbellotto, Vitor Kretzer, Gabriel, Vinicius Almeida, Allan Mayer.
 
@@ -377,3 +377,11 @@ aqui foi igual, quando troquei o gancho a view dobrou
 vou testar esse teu texto no story, o meu tá bem direto, só "toca aqui que tua leitura tá te esperando"
 quando vc fala que aprimorou os ganchos, foi mais a cena do começo ou a frase que a avatar fala?
 ```
+
+## ENVIADO (10/11/2026; DM ao Felps, depois do áudio dele de 10/11 10h04: referência do Pinterest e "parece tirada por um iPhone")
+```
+valeu demais felps!! vou fazer exatamente assim, referência do pinterest e reforçando o iphone no prompt
+uma dúvida: a foto do pinterest vai junto com a foto da avatar, ou vc cria a avatar já a partir dela?
+depois te mostro como ficou
+```
+
