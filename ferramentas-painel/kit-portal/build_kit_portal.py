@@ -71,7 +71,7 @@ GESTO = {
     'T02d': 'during the first half of the take her eyebrows lift with a joyful look, in the closing half she lifts her right hand to the height of her shoulder with the palm up and then returns it to her upper chest with a warm smile',
     'T03': 'during the first half of the take she tilts her head slightly with a soft, understanding look, in the closing half she lifts her right hand to the height of her shoulder with the palm up for a moment and then returns it to her upper chest with a warm, reassuring smile',
     'T04': 'during the first half of the take she holds a warm, confident look, in the closing half she points her right index finger down toward the lower left corner of the frame for a moment and then returns the hand to her upper chest',
-    'T05': 'during the first half of the take she leans slightly toward the lens with a soft, almost secretive look, in the closing half she lifts her right hand to shoulder height with only the index finger raised for a moment and then returns it to her upper chest',
+    'T05': 'during the first half of the take she leans slightly toward the lens with a warm, curious look, in the closing half she lifts her right hand to the height of her shoulder with the palm open for a moment and then returns it to her upper chest',
     'T06': 'during the first half of the take she raises her right hand to the height of her shoulder with the palm open as if explaining, in the closing half she returns it slowly to her upper chest and gives one calm, confident nod',
     'T07': 'during the first half of the take her eyes glance up and slightly to the side as if picturing something lovely, in the closing half her eyes return to the lens and a calm smile grows',
     'T08': 'during the first half of the take she gives one small encouraging nod, in the closing half she points her right index finger down toward the lower left corner of the frame for a moment and then returns the hand to her upper chest',
@@ -418,6 +418,7 @@ def montar(n):
         p['central'] = {'imagem_unica': True, 'conferir': '', 'passos': passos, 'config': cfg, 'agente': agente(1, []), 'colagens': []}
         p['imagem_reutilizada'] = {'arquivo': 'kitportal-IMG', 'nota': 'gerada no painel do nora51'}
     if n == 51:
+        p['central']['agente']['passos'].append('Se o T05 (vídeo 6 da lista) der “Esta geração talvez viole nossas políticas” (o Flow devolve o crédito): 1) clique uma vez no botão de tentar de novo (seta circular) no card do erro; 2) se falhar de novo, mande na MESMA conversa do agente, sem anexar nada: “Video 6 failed with a policy warning. Please generate it again with exactly the same speech, image and settings, changing only the movement to: ' + mov('T05') + '” Renomeie para kitportal-T05-regancho-1111.')
         p['clone'] = CLONE
         ordem = ['pecas', 'imagens', 'clone', 'central', 'cenas', 'agente', 'silencio', 'textotela', 'story', 'descricao', 'comentario', 'respostasface', 'fala']
     elif gera:
