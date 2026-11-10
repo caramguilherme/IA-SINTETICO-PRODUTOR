@@ -458,3 +458,10 @@ If the generation of any video fails, please resubmit ONLY the item that failed 
 - **Modo de 15 s do Creative Hub: não usar** (Wall Estevam, 09/11): ele gera 10 s de fala e deixa 5 s só gastando crédito. Se um corpo sair em takes de 15 s (Omni 1.2 em 360p, depois do piloto), o prompt é escrito aqui com ~30 a 35 palavras de fala por take, para a fala ocupar os 15 s; o Fim continua vazio (com 15 s o Flow não aceita a mesma imagem no início e no fim, Paulo Infante).
 - **Agente do Flow parado** (não responde mesmo com cache limpo e outro navegador): criar um **projeto novo** no Flow, não uma pasta nova (joao, resolveu para o Kleber).
 - **Vários vídeos ao mesmo tempo** com o prompt do Gustavo: não funcionou para ninguém no chat (só começa o 1º). Seguimos 1 take por geração.
+
+### 10/11/2026 - Call do Gustavo de 09/11 ("Do zero ao vídeo que vende"; `AULA-09-11-DO-ZERO-AO-VIDEO-GUSTAVO.md`)
+- **Nomes em ordem para a FusionZ:** ela junta em ordem alfanumérica. Todo painel nomeia as peças na ordem do vídeo: `noraNN-PRE` < `noraNN-T01` < `noraNN-T02`… (com 2 dígitos: T01 a T09, depois T10). Pré-gancho reaproveitado de outro vídeo (ex.: `nora34-PRE`) também tem de cair antes; na dúvida, renomear para `noraNN-00-PRE`. Juntar sem transição (corte seco): com transição a FusionZ desfoca a troca de take.
+- **Recusa por política no Flow:** o aluno me manda o print do erro e a imagem usada; eu devolvo o prompt limpo (o mesmo que o Gustavo faz com o Claude). Antes, uma nova tentativa igual às vezes passa.
+- **Duração:** pedir 15 s não garante 15 s (na aula saiu de 10). Conferir a duração do clipe antes de baixar.
+- **Voz:** continua o perfil de voz no LIVRE (o prompt de voz é o método que o Gustavo recomenda). Personagem do Flow (@Nome) só se a voz variar entre takes do corpo novo; ele vale só na conta do Flow em que foi criado.
+- **Corpo novo:** a imagem do corpo sai da imagem do pré-gancho editada (o "depois" da ação, na mesma cena), para o gancho e o corpo parecerem um vídeo só.
