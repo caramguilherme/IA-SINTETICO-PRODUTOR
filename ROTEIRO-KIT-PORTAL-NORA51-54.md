@@ -53,11 +53,11 @@
 - **Face:** a mesma legenda sem o pedido de comentário; comentário como a Página com o link FACE.
 - **Comentário fixado do Insta:** uma pergunta de verdade, sem link ("Which part of your life do you want to change first: love, peace, purpose or money? ✨ Your private reading starts in my story.").
 
-## Painéis (publicados em 10/11; `ferramentas-painel/kit-portal/build_kit_portal.py`)
-- nora51 https://claude.ai/artifact/AXQp5m7g6jjn7RvWSQXMQY: a seção "Imagem 1" (Gerador de Prompts, `kitportal-IMG`) e a geração de 10 takes (T01a, T01b, T02 a T09; 144 créditos) + o piloto do 1.2 em 360p.
-- nora52 https://claude.ai/artifact/L36PatLZXAraEnD56kVqiV: só montagem (0 crédito).
-- nora53 https://claude.ai/artifact/6LvW1Pxu3K7DuA9DEU8qbS: gera T01c e T02b (30).
-- nora54 https://claude.ai/artifact/65UyAVMwWKzn4hSTqv3UTd: gera T01d e T02d (27).
+## Painéis (publicados na 6ª conta em 10/11 ~17h50; `ferramentas-painel/kit-portal/build_kit_portal.py`; os da 5ª conta estão no `CLAUDE.md`, seção 1)
+- nora51 https://claude.ai/artifact/NFiaeVauh8MXL3FrmyFQep: a seção "Imagem 1" (Gerador de Prompts, `kitportal-IMG`) e a geração de 10 takes (T01a, T01b, T02 a T09; 144 créditos) + o piloto do 1.2 em 360p.
+- nora52 https://claude.ai/artifact/86Jyhq4mszfWEnD2bsaSQS: só montagem (0 crédito).
+- nora53 https://claude.ai/artifact/Mmuaa3uhuLvRqg88G2KRKi: gera T01c e T02b (30).
+- nora54 https://claude.ai/artifact/2HN7pVF2Z5nJCCWbSo2RaG: gera T01d e T02d (27).
 - O LIVRE, as 14 movimentações e a posição dos números estão marcados "PROVISÓRIO": fecho pela imagem aprovada e rodo o script de novo (republica nos mesmos links).
 
 ## Revisão pelo Clone do Gustavo (10/11 16h36, R22) e pelo Lucas Dusi (10/11 14h49)

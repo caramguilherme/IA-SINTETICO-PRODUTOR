@@ -59,6 +59,11 @@ O aluno trocou de conta no meio do dia de post. **Hoje saem 4 vídeos** (decisã
 
 Os vídeos e prints que o aluno mandou ficaram só nas sessões antigas; a análise de cada um está nos arquivos acima. Se a sessão nova precisar rever algum (por exemplo o `nora47-montado`, base do nora49), o aluno manda de novo.
 
+## 5d. Feito na 6ª conta (10/11/2026 ~17h50)
+- Branch trazida (já estava em dia). Ambiente: o "Default" da 6ª conta tem rede sem restrição (Drive, Hugging Face, Google Docs): não foi preciso criar o `ia-sintetico-produtor`; `faster-whisper` e `gdown` instalados por pip.
+- Painéis do kit publicados (como estavam, provisórios no LIVRE, nas movimentações e nos números): nora51 https://claude.ai/artifact/NFiaeVauh8MXL3FrmyFQep · nora52 https://claude.ai/artifact/86Jyhq4mszfWEnD2bsaSQS · nora53 https://claude.ai/artifact/Mmuaa3uhuLvRqg88G2KRKi · nora54 https://claude.ai/artifact/2HN7pVF2Z5nJCCWbSo2RaG
+- Falta: a `kitportal-IMG` aprovada, o fechamento do LIVRE e das movimentações, a republicação nos mesmos links, as edições de hoje e o dashboard.
+
 ## 5c. Links da 5ª conta (06 a 10/11; abrem só logado nela; não são mais atualizados depois da passagem)
 - Dashboard Métricas da Nora: https://claude.ai/artifact/GnvCkx6wnMNqcJE6BVGaUP (asset do CSV `/_blob/c1ddfffe47de0c03bcdab252793aea0e`, dataset na versão 17, leituras até 10/11 13h38)
 - Painéis: nora48 https://claude.ai/artifact/QQpxR4dxqovuceqfrsHNU5 · nora49 https://claude.ai/artifact/GFB4scmCX4tDB54bmhYXv3 · nora50 (postado) https://claude.ai/artifact/55Ak6Ln2biRLw2mrDyoWPi · kit do portal: nora51 https://claude.ai/artifact/AXQp5m7g6jjn7RvWSQXMQY · nora52 https://claude.ai/artifact/L36PatLZXAraEnD56kVqiV · nora53 https://claude.ai/artifact/6LvW1Pxu3K7DuA9DEU8qbS · nora54 https://claude.ai/artifact/65UyAVMwWKzn4hSTqv3UTd (versões de 10/11 ~17h15: horários de hoje, falas revistas pelo Clone R22, LIVRE e movimentações ainda provisórios)
