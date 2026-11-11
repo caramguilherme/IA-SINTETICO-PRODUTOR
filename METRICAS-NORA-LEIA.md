@@ -530,3 +530,6 @@ Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, co
 - **nora56 no ar às 13h50** (aluno): manhã, T01b do relógio, COM a avaliação da Karen (o 1º com prova; o controle é o nora55, sem prova, e o par do T01b sem prova é o nora59). Insta: legenda japonesa; Face: o -FACE com a legenda em inglês e hashtags. **Próximos (3 h depois):** nora57 ~16h50 (+ story novo), nora58 ~19h50, nora59 ~22h50, nora60 ~01h50.
 - **Horário:** 13h50 aqui = 08h50 na Califórnia e 11h50 em Nova York; 22h20 na Índia.
 - **O que olhar (~24 h):** visitas ao perfil por 1.000 views e cliques no Tracker contra o nora55 (prova x sem prova); % do Japão e dos EUA (legenda japonesa).
+
+### 11/11/2026 16h20 - story-1111 postado (Insta e Face)
+- Imagem nova (a Nora na varanda com a caneca) + texto na caixa creme "Tap below: your private reading / is waiting for you on 11:11."; no Face, botão "Saiba mais" (era "Ver mais"). **Comparar com o story-0311** (mesmo texto, imagem story-3110, 19% de toques no Insta): pedir o print do story do Insta com ~20 h (viewers, toques no link, % seguidores) e os cliques com STORYIG e FACE no Tracker de 12/11.
