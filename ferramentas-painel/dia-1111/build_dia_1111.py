@@ -39,9 +39,9 @@ F = {
 # T02 com "o portal mais poderoso do ano" (v20, v21) + "o invisível começa a virar realidade" (v20); T04 com o motivo "é o portal de tudo" (v21)
 # virado para o que o quiz entrega (a área da vida que abre primeiro, tela 4). Os 3 Takes 1 ficam (o teste da prova continua dentro da noite).
 F_CENA = {'noite': {
-    'P': "Today the most powerful portal of the year is open, and what was invisible in your life starts to become real.",
+    'P': "Today the 11:11 portal opens to lift the heavy weight off your shoulders and prepare your path for twenty twenty-seven.",  # Clone R24 (11/11 ~13h): o peso ganha do "invisível" (abstrato); ancorado em 2027
     'Q': "This new chapter doesn't open the same way for every woman, so I left a quick reading in my story.",
-    'K': "Open my story now: three quick questions, and it shows what twenty twenty-seven is bringing into your life.",  # 11/11 ~12h: aviso oficial do Iorhan (11h02): a promessa do funil virou 2027 e a VSL dobrou; o ano escrito por extenso para o Flow falar certo
+    'K': "This shift doesn't happen for every woman. Tap my photo and check my story to see what twenty twenty-seven holds for you.",  # Clone R24: T03 + T04 numa fala só, "what 2027 holds for you", "Tap my photo"; SEM "pick your three cards" (o Gustavo, no DM de 03/11: "não curto falar de cartas antes do quiz")  # 11/11 ~12h: aviso oficial do Iorhan (11h02): a promessa do funil virou 2027 e a VSL dobrou; o ano escrito por extenso para o Flow falar certo
     'E': "And comment 'I'm ready' below, so I know this message reached you.",
 }}
 # 11/11 ~11h50 (lote 5: 8 vídeos de avatares que vendem Appyon; BIBLIOTECA-VIDEOS-VIRAIS 49.11): o CTA de 5 dos 8 é "essa mudança não acontece
@@ -62,8 +62,8 @@ CENA_TXT = {'A': 'a data de quarta + o capítulo novo (reescrito pelo Clone, R23
             'K': 'CTA: alinhar a energia com o portal (o motivo), a ação e a leitura (Clone, R23)',
             'Q': 'o motivo do CTA: o capítulo novo não abre igual para todas, por isso a leitura no story (o CTA dos vendedores da Appyon, lote 5)',
             'E': 'o pedido de comentário, depois do CTA (todos os 8 do lote 5 pedem)'}
-CENA_TXT_NOITE = {'P': 'a promessa: o portal mais poderoso do ano, o invisível vira realidade (vídeos BR de 11/11, lote 4)',
-                  'K': 'CTA: a ação (o story) e o que a leitura mostra (a área da vida que abre primeiro, tela 4 do quiz)'}
+CENA_TXT_NOITE = {'P': 'a promessa: o portal tira o peso e prepara o caminho para 2027 (Clone, R24)',
+                  'K': 'CTA numa fala só: a qualificação, a ação (foto e story) e o que a leitura mostra (2027, tela 1 do funil; Clone, R24)'}
 CAIXA = {'A': ('WEDNESDAY, NOVEMBER 11TH\nif you keep seeing 11:11,\nthis message is for you', 'a new chapter of alignment for you.'),
          'B': ('WEDNESDAY, NOVEMBER 11TH\ntoday is 11:11,\nthis message is for you', 'this is meant for you.'),
          'C': ('WEDNESDAY, NOVEMBER 11TH\nif you keep seeing 11:11,\nthis is your sign', 'this message is meant for you.')}
@@ -267,7 +267,7 @@ def img_central(c, n):
             'Confira cada uma das 4: é a Nora (lua com 3 estrelinhas na bochecha do lado esquerdo da imagem, trança com anéis, brincos de estrela e lua, colar de Vênus, testa limpa)? '
             'A roupa é a pedida, lisa, sem marca? O celular não aparece? Parece foto de celular? Algum texto nos cantos? Mão com 5 dedos?',
             f'Me mande as 4. Eu escolho, ajusto este painel pela escolhida (no mesmo link) e aviso. Renomeie a escolhida para {s["img"]}. Só gere os takes depois disso.',
-        ] + ([f'FEITO: escolhida {s["aprovada"].split(" (")[0]}. Renomeie ela para {s["img"]}; o LIVRE e as movimentações já estão fechados por ela. Pode gerar os {5 if c == "manha" else 7} takes.'] if s['aprovada'] else []),
+        ] + ([f'FEITO: escolhida {s["aprovada"].split(" (")[0]}. Renomeie ela para {s["img"]}; o LIVRE e as movimentações já estão fechados por ela. Pode gerar os 5 takes.'] if s['aprovada'] else []),
         'grupos': [{'titulo': 'Prompt da imagem (cole no Flow)', 'campos': [
             {'campo': f'Prompt da {s["img"]}', 'valor': prompt_img(c), 'copiar': 1}]}],
     }
@@ -327,7 +327,7 @@ def agente(c, ks):
             'Se ele não renomear, mande na mesma conversa: “Now rename each video with the correct number from the prompt.”',
             'Confira na grade, pelo nome, se os 5 saíram. Se um falhar por política: mande na mesma conversa “Please generate video X from my previous message again, with the same prompt.” '
             '(X = o número dele na lista). Se falhar de novo, não insista: me mande o print.',
-            f'Se o T04 (o {5 if c == "manha" else 6}º, o CTA) falhar 1 vez, não peça de novo ao agente: gere à mão: Vídeo → Frames → 9:16 → Omni 1.1 Flash → 720p → 10 s → x1; Início = {s["img"]}; Fim = vazio; cole o prompt abaixo, '
+            f'Se o T04 (o 5º, o CTA) falhar 1 vez, não peça de novo ao agente: gere à mão: Vídeo → Frames → 9:16 → Omni 1.1 Flash → 720p → 10 s → x1; Início = {s["img"]}; Fim = vazio; cole o prompt abaixo, '
             f'inteiro, e gere (15 créditos). Renomeie para {nome(c, "K")}. PROMPT: ' + prompt_k_manual(c),
             'Se o agente parar no meio (por exemplo, “alta demanda”): responda na MESMA conversa, sem anexar nada: “Please continue and generate videos X to Y from my previous message, in the same order.” '
             '(troque X e Y pelos números que faltaram). Se ele gerar só o 1º e parar de novo: cole antes do bloco da Central o “pré-prompt do Lucas” (abaixo) e mande de novo só os que faltaram.',
@@ -349,7 +349,11 @@ LEG_JP = ('#TVアニメ 『11:11 PORTAL』 ✨🔮 宇宙から届く特別な�
           '11:11ポータルに秘められた特別な力も明らかに…👀 あなたの願いはどこから叶い始めるのか!? 💫\n'
           'Your private reading is waiting in my story 🔮')  # a do ChatGPT do aluno (11/11 ~09h35), com a estrutura do Loom (#TVアニメ 『TEMA』), sem a linha solta do fim e com a linha do story
 # 11/11 ~09h40 (decisão do aluno: "essa legenda vai nos 6 vídeos de hoje"): a japonesa no Insta dos 6; o Face segue em inglês (restrição de país).
-LEG_INSTA_POR_VIDEO = {n: LEG_JP for n in range(55, 61)}
+LEG_INSTA_POR_VIDEO = {55: LEG_JP}  # 11/11 ~13h (Clone R24: "atrapalha e contamina a conta"): o japonês fica só no nora55, que já foi
+PALAVRA = {56: '1111', 57: 'ready', 58: 'yes', 59: 'open', 60: '2027'}
+for _n, _w in PALAVRA.items():
+    LEG_INSTA_POR_VIDEO[_n] = ('This 11:11 energy is for you, love ✨\nYour private reading is waiting in my story 🔮\n'
+                               f'Comment "{_w}" to claim it ✨\n#manifestation #1111portal #lawofattraction #abundance')
 # prova: a avaliação real do Trustpilot (provas-trustpilot/, sem a hora relativa) que entra antes do CTA, ou None (o controle)
 PROVA = {'05-karen': ('Karen W.', 'I just feel that for me there are good things about to happen'), '06-younger': ('Younger A. (EUA)', 'Everything she said is happening in my life'),
          '07-karina': ('Karina G. (EUA)', 'Wonderful, I feel so connected, this feels so real'),
@@ -407,8 +411,8 @@ def xy(x, y):
 def montar(n):
     v = VIDEOS[n]; nn = f'nora{n}'; c = v['cena']; s = CENAS[c]
     primeiro = (n == s['primeiro'])
-    usa = [v['k1'], 'P', 'K'] if c == 'manha' else [v['k1'], 'P', 'Q', 'K', 'E']
-    gera = ((['A', 'B', 'C', 'P', 'K'] if c == 'manha' else ['A', 'B', 'C', 'P', 'Q', 'K', 'E']) if primeiro else [])
+    usa = [v['k1'], 'P', 'K']  # 11/11 ~13h (Clone R24): a noite volta a 5 takes (sem o T03 e o T05)
+    gera = ['A', 'B', 'C', 'P', 'K'] if primeiro else []
     irmaos = [m for m in VIDEOS if VIDEOS[m]['cena'] == c]
     caixa, caixa_fim = CAIXA[v['k1']]
     face_var = not primeiro  # o 2º e o 3º da cena repetem o T02 e o T04: no Face vai a variação (regra de 10/11)
@@ -526,8 +530,8 @@ def montar(n):
                + (' Os outros 2 Takes 1 deste painel são do ' + ' e do '.join(f'nora{m} ({VIDEOS[m]["hora"].split(" (")[0]})' for m in outros) + '.' if primeiro else ''),
                f'Postar às {hora_curta} de 11/11, ao vivo. Insta: o {nn}-final. Face: o ' + (f'{nn}-final-FACE (eu mando junto).' if face_var else f'{nn}-final (o mesmo arquivo).'),
                (f'Avaliação do Trustpilot: sim ({PROVA[v["prova"]][0].split()[0]}); eu ponho.' if v['prova'] else 'Avaliação do Trustpilot: não (este é o controle do teste de hoje).')]
-    if n in LEG_INSTA_POR_VIDEO:
-        decisao.append('Legenda do Insta: a japonesa do truque do Loom (#TVアニメ), a mesma nos 6 de hoje. No Face, a legenda em inglês (o Face só mostra para EUA, Canadá, Reino Unido, Austrália e Nova Zelândia).')
+    if n == 55:
+        decisao.append('Legenda do Insta: a japonesa do truque do Loom (#TVアニメ); do nora56 em diante volta o inglês (Clone R24). No Face, a legenda em inglês (o Face só mostra para EUA, Canadá, Reino Unido, Austrália e Nova Zelândia).')
     if gera:
         decisao.append(f'Créditos: {creditos(gera)} (contatocaram).')
     p['pecas'] = {'lista': pecas, 'decisao': decisao, 'titulo_decisao': 'Resumo'}

@@ -305,10 +305,25 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 
 **Para a Nora (aplicado nos 6 painéis do dia 11, 11/11 ~09h25):** as 3 falas novas do Clone entram como estão (T01a, T02 e T04; 19, 18 e 19 palavras, 10 s cada; 75 créditos por cena); o T01b e o T01c ficam. Pré-gancho: hoje, o tsunami curto (só o nora47-PRE-A, ~4 s, 0 crédito; espelhado na cena da noite), porque é o que temos pronto e já segurou 66% a 72%; o pré-gancho de 11:11 do Clone (vela no escuro com "11:11" brilhando, 2 a 3 s) fica para o corpo novo de 12/11, gerado junto com ele. O Trustpilot segue como camada por cima, na parte de baixo, com a Nora falando.
 
+## R24 (11/11, ~13h): copy do nora56 ao nora60, com o funil v1.7 (2027)
+**Pergunta:** o funil de hoje (tela 1 com 2027, as 3 perguntas, VSL de ~24 min), a manhã gerada e a noite proposta (T02 "most powerful portal… invisible becomes real", T03 + T04 + T05 no molde dos vendedores), a posição do Trustpilot e a legenda japonesa; 8 perguntas.
+**Resposta, resumida (colada pelo aluno):**
+1. **Congruência:** o CTA fala só de "three quick questions", mas a tela 1 abre com 3 cartas e 2027; sugeriu "Tap my photo, pick your three cards in my story, and see what 2027 holds for you." (aulas 28 e 64).
+2. **Duração:** o CTA em 3 takes (~39 s) fica longo e confunde ("CTA triplo"); juntar T03 e T04 numa fala de 10 a 12 s e tirar o T05 da fala; fechar em 25 a 28 s (aulas 18, 19 e 21).
+3. **T03:** suave e vago; a exclusividade dos vendedores ("see if you're one of them") não é medo, é curiosidade; "This shift doesn't happen for everyone. Pick your three cards in my story to see if you're ready." (aulas 65 e 66).
+4. **T04:** "what 2027 holds for you" (natural no inglês; "is bringing into your life" soa traduzido) e **"Tap my photo"** (o gesto exato; "open my story" deixa a pessoa procurando) (aulas 13, 54 e 65).
+5. **T05:** rouba o clique (a pessoa abre o teclado e segue no feed); pedido de comentário só na legenda ou no comentário fixado (aula 65).
+6. **T02:** o da manhã (o peso e a paz) segura e converte mais; o da noite é abstrato; para a noite: "Today the 11:11 portal opens to lift the heavy weight off your shoulders before twenty twenty-seven begins." / "…and prepare your path for 2027." (aulas 65 e 68).
+7. **Trustpilot nos últimos 3 s do T02:** lugar certo, camada por cima no terço de baixo, sem parar a fala (aulas 40 e 65).
+8. **Legenda japonesa com #TVアニメ:** "atrapalha gravemente e contamina a conta" (cluster de público asiático/anime, cara de conta hackeada para a americana); voltar ao inglês com as tags do nicho (Estrutura Instagram, Estrutura Facebook, aula 28).
+**Roteiro sugerido para a noite (~24 s):** pré-gancho + T01c + T02 ("…and prepare your path for 2027", com o Trustpilot) + CTA unificado ("This shift doesn't happen for every woman. Tap my photo to choose your three cards and reveal your 2027 reading.").
+
+**Para a Nora (aplicado em 11/11 ~13h05):** noite (58 a 60) volta a 5 takes (75 créditos): T02 "Today the 11:11 portal opens to lift the heavy weight off your shoulders and prepare your path for twenty twenty-seven." e T04 unificado "This shift doesn't happen for every woman. Tap my photo and check my story to see what twenty twenty-seven holds for you." (22 palavras; sai o T03 e o T05). **Uma parte não entrou: as cartas.** O Clone pede "pick your three cards", mas o Gustavo, em pessoa, no DM de 03/11, disse "não curto falar de cartas antes de chegar no quiz", e o story sem cartas (story-0311) foi o que mais teve toques (19%); vale o Gustavo em pessoa. Pedido de comentário sai da fala (só legenda e comentário fixado). Legenda japonesa encerrada: do nora56 em diante, Insta em inglês com pedido de comentário (palavra diferente em cada vídeo) e 4 hashtags do nicho. #AuraliTrend segue fora (R17). Os 3 Takes 1 da noite ficam (teste da prova).
+
 ---
 
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
-**Enviada ao aluno em 11/11 ~12h10 (R24, a responder):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
+**Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 
 Feitas e respondidas: R1 a R21 (07/11) e R22 (10/11, o kit do portal). Para conferir:
 1. "Em qual fonte aparece a hashtag #AuraliTrend como obrigatória? Copie o trecho exato e diga a aula ou o documento."

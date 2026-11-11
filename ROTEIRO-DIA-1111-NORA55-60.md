@@ -66,3 +66,7 @@ nora55 https://claude.ai/artifact/K4WvdkrAHAuiyBMxv9t9WT · nora56 https://claud
 
 ## 11/11 ~12h - T04 da noite com a promessa nova do funil (2027)
 - Aviso oficial do Iorhan (11h02): a promessa do Manifestation virou 2027. **T04 da noite:** "Open my story now: three quick questions, and it shows what twenty twenty-seven is bringing into your life." (o ano por extenso para o Flow falar certo; na legenda eu ponho "2027").
+
+## 11/11 ~13h05 - Clone R24: a noite volta a 5 takes; fim da legenda japonesa
+- **Noite (58 a 60):** T01a/b/c + T02 "Today the 11:11 portal opens to lift the heavy weight off your shoulders and prepare your path for twenty twenty-seven." + T04 "This shift doesn't happen for every woman. Tap my photo and check my story to see what twenty twenty-seven holds for you." 75 créditos. Sem cartas (DM do Gustavo de 03/11), sem T03 e T05.
+- **Legenda do Insta (56 a 60):** "This 11:11 energy is for you, love ✨ / Your private reading is waiting in my story 🔮 / Comment \"X\" to claim it ✨ / #manifestation #1111portal #lawofattraction #abundance" (X: 56 "1111", 57 "ready", 58 "yes", 59 "open", 60 "2027"). O nora55 saiu com a japonesa.
