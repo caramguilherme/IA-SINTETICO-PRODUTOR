@@ -63,3 +63,6 @@ nora55 https://claude.ai/artifact/K4WvdkrAHAuiyBMxv9t9WT · nora56 https://claud
 ## 11/11 ~11h50 - Noite com o CTA dos vendedores da Appyon (`BIBLIOTECA-VIDEOS-VIRAIS.md` 49.11)
 - **Noite (58 a 60): 7 takes, 102 créditos.** T01a, T01b, T01c (iguais, teste da prova) + T02 "Today the most powerful portal of the year is open, and what was invisible in your life starts to become real." + **T03** "This new chapter doesn't open the same way for every woman, so I left a quick reading in my story." + **T04** "Open my story now: three quick questions, and it shows which area of your life opens first for you." + **T05** "And comment 'I'm ready' below, so I know this message reached you." Cada vídeo da noite usa 5: T01x + T02 + T03 + T04 + T05. A prova entra nos últimos ~3 s do T02.
 - **Manhã (56 e 57), 0 crédito:** comentário fixado do Insta: nora56 "What time is it where you are right now?", nora57 "What do you want to leave behind on this 11:11?" (v30).
+
+## 11/11 ~12h - T04 da noite com a promessa nova do funil (2027)
+- Aviso oficial do Iorhan (11h02): a promessa do Manifestation virou 2027. **T04 da noite:** "Open my story now: three quick questions, and it shows what twenty twenty-seven is bringing into your life." (o ano por extenso para o Flow falar certo; na legenda eu ponho "2027").

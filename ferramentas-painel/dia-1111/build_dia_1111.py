@@ -41,7 +41,7 @@ F = {
 F_CENA = {'noite': {
     'P': "Today the most powerful portal of the year is open, and what was invisible in your life starts to become real.",
     'Q': "This new chapter doesn't open the same way for every woman, so I left a quick reading in my story.",
-    'K': "Open my story now: three quick questions, and it shows which area of your life opens first for you.",
+    'K': "Open my story now: three quick questions, and it shows what twenty twenty-seven is bringing into your life.",  # 11/11 ~12h: aviso oficial do Iorhan (11h02): a promessa do funil virou 2027 e a VSL dobrou; o ano escrito por extenso para o Flow falar certo
     'E': "And comment 'I'm ready' below, so I know this message reached you.",
 }}
 # 11/11 ~11h50 (lote 5: 8 vídeos de avatares que vendem Appyon; BIBLIOTECA-VIDEOS-VIRAIS 49.11): o CTA de 5 dos 8 é "essa mudança não acontece

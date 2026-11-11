@@ -77,3 +77,8 @@ Resumo, decisões e transcrição em `AULA-IORHAN-30-10-COPY-QUE-CONVERTE.md` (r
 - **Checkout:** plano "Auraly Reading", US$ 29 riscado, **US$ 19 "Today Only" e depois US$ 29 a cada 30 dias até cancelar** (aba "Cancel subscription"); Google Pay ou cartão; cronômetro de 10:00; 3 depoimentos "Verified purchase"; preço em dólar mesmo no Brasil.
 - **Eventos para medir:** clique, quiz iniciado, quiz concluído, VSL iniciada, passou dos 16:00, clique no checkout, compra. No Tracker da Nora, "Endquiz" = chegou à VSL; quem compra precisa assistir 16 minutos antes de ver o botão.
 - **Para a Nora:** os 12 que chegaram à VSL (27/10 a 06/11) e 0 checkout não são sinal de problema ainda: o botão só aparece aos 16 min de um vídeo de mais de 30. O que a Nora controla é levar mais gente qualificada até lá (gancho e CTA).
+
+
+## Atualização de 11/11/2026 (aviso oficial do Iorhan, 11h02)
+- **Aviso oficial (avisos-appyon, Iorhan Ferreira, 11/11/2026 11h02, print do aluno):** a conversão dos funis de Manifestação (TM) e de Astrologia (Love Reading) está maior, por acertos na copy do funil e porque quem aplica as últimas aulas converte **0,8% a 1,2% no funil** (clique → venda; antes a régua dos 10% melhores era 0,30%), com resultado 2x a 3x maior que quem usa "as velhas estratégias de copy e engajamento". **A promessa do funil de Manifestação foi atualizada para o ano de 2027, e a conversão da VSL dobrou.**
+- A tela 1 do funil falava de 2026 ("Something POWERFUL wants to speak to you about 2026", prints de 01/11); agora a promessa é de 2027. **Copy da Nora:** a leitura "mostra o que 2027 traz"; não abrir o link do story para conferir (conta clique no Tracker): ver no Content Hub.
