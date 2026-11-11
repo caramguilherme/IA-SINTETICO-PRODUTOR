@@ -9,6 +9,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **11ª leitura (09/11):** respostas a sordisss (Índia: horário) e Eduarda Fernandes (texto do story) enviadas.
 - **joao (Sargento):** respondeu em 09/11 17h29 (ganchos + texto do story) e em 10/11 00h44 ("depende do gancho": usa com fala e sem fala; o que importa é prender nos primeiros segundos); fechamento enviado em 10/11 (~11h). **Voltar com o resultado do kit do portal (só fala x cena + fala) em ~12/11**, com 1 pergunta nova.
 - **Lucas Dusi:** respondeu em 10/11 14h49 (filtrar o público no body + reason why forte no CTA) e **em 10/11 18h13 a 18h27** (hook mais aberto, filtro no body; o exemplo do reason why: "para manifestar X você precisa de uma âncora física de manifestação… toque na minha foto"; "dá pra pesquisar com o GPT, Claude ou Gemini o que as pessoas acreditam que precisam pra manifestar"). **Agradecimento enviado em 10/11 ~23h10** (sem pergunta nova). Voltar com o resultado do kit e do CTA novo.
+- **15ª leitura (11/11 ~20h30):** respostas a Resende (página do Face: a régua é 100 views), Taques (quando trocar a avatar) e KAROLLYNE BRAZ (vídeos por dia), no #chat-appyon: enviadas (toda resposta sugerida conta como enviada).
 - **14ª leitura (10/11 ~23h20):** respostas a Kellvin & Andressa (horário), Lorena Nunes (espelhado) e Chefinho (hashtag), no #chat-appyon: enviadas (toda resposta sugerida conta como enviada).
 - **13ª leitura (10/11 ~14h):** resposta ao Adão Gomes (CTA de engajamento e view) no #chat-appyon e parabéns ao Romulo Urbano no #vitórias: enviados (toda resposta sugerida conta como enviada). A pergunta do Bruno Freitas sobre a ferramenta de silêncio com 4 min já tinha sido respondida em 06/11.
 - **12ª leitura (10/11):** respostas a João Paulo (CTA de Face e Insta), Paulo Infante (quadro de validação) e Mateus Guisolffi (Insta travado no nome), no #chat-appyon, e parabéns ao Rundouglas no #vitórias: enviadas (toda resposta sugerida conta como enviada). Bruno Freitas e Eduarda Kelly: só reação.
@@ -66,6 +67,9 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | João Paulo | Pergunta no chat (10/11 00h01): vídeos diferentes para Face e Insta? | | | **Resposta pública enviada em 10/11** (12ª leitura) | |
 | Paulo Infante | Pergunta no chat (09/11 20h21): Página do Face com 7 de 12 vídeos acima de 100 views, já pode pôr link? | | | **Resposta pública enviada em 10/11** (12ª leitura) | |
 | Mateus Guisolffi | Pergunta no chat (09/11 20h08): Insta novo travado no "next" do nome | | | **Resposta pública enviada em 10/11** (12ª leitura) | |
+| Resende ♦ [MVM] | Pergunta no chat (11/11 19h26): página do Face com 12 vídeos sem passar de 200 views, descartar? | | | **Resposta pública enviada em 11/11** (15ª leitura: a régua do Plano Primeira Comissão é 100 views) | |
+| Taques__ | Pergunta no chat (11/11 14h10 e 18h53): 31 vídeos com uma avatar no LR, nenhum com 300 views | | | **Resposta pública enviada em 11/11** (15ª leitura: a régua da avatar das aulas, Clone R19) | |
+| KAROLLYNE BRAZ | Pergunta no chat (11/11 19h47): quantos vídeos por dia? (o Wall respondeu "2 a 6") | | | **Resposta pública enviada em 11/11** (15ª leitura: o nosso dado de 6 por dia numa conta só de Insta) | |
 | Kellvin & Andressa | Pergunta no chat (10/11 13h37): postar a partir das 17h dá bom mesmo? | | | **Resposta pública enviada em 10/11** (14ª leitura: o nosso dado de país por horário) | |
 | Lorena Nunes | Pergunta no chat (10/11 16h30): só posta espelhado se o original pegou muita view? | | | **Resposta pública enviada em 10/11** (14ª leitura) | |
 | Romulo Urbano | 1ª venda na Appyon (#vitórias 10/11 06h11; funil não dito) | | | **Parabéns enviado no #vitórias em 10/11** (13ª leitura), com 1 pergunta (insta ou face). Se responder, só reagir | |
@@ -465,3 +469,25 @@ uso mais pra não deixar horário vazio do que por causa da view do original
 aqui uso 3 a 5 do nicho em todo post, tipo #manifestation #lawofattraction #1111portal
 não uso hashtag com nome do app
 ```
+
+## ENVIADO (11/11/2026 ~20h30; respostas da 15ª leitura do Discord, no jeito do aluno)
+**1. Resende, no #chat-appyon (responder a mensagem dele de 11/11 19h26, "página de facebook que postei 12 vídeos e não passou das 200 visualizações"):**
+```
+pelo plano primeira comissão a régua é 100 views, não 200
+dos 10 primeiros vídeos, se 5 ou mais passaram de 100, segue
+se mais de 5 ficaram abaixo de 100, aí descarta e cria outra página
+```
+**2. Taques__, no #chat-appyon (responder a mensagem dele de 11/11 18h53, "postei 31 vídeos com uma avatar, mas nenhum pegou 300 views"):**
+```
+pelo q o gustavo passa nas aulas, avatar que com copy validada não passa de 300 views nem traz comentário é sinal pra trocar
+com 31 vídeos já dá pra decidir
+só confere antes se a conta não tá com restrição (configurações > status da conta)
+```
+**3. KAROLLYNE BRAZ, no #chat-appyon (responder a mensagem dela de 11/11 19h47, "quantos vídeos tem que postar por dia?"):**
+```
+o wall falou certinho, 2 a 6
+só um dado daqui: com 1 conta só no insta, quando fui pra 6 por dia de 3 em 3h, cada vídeo caiu pra menos de 200 views
+antes, com 1 por dia, fazia 1,4 a 2 mil
+no face os 6 por dia foram de boa, um deles fez o recorde da página
+```
+
