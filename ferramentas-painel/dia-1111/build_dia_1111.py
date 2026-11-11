@@ -350,13 +350,14 @@ LEG_JP = ('#TVアニメ 『11:11 PORTAL』 ✨🔮 宇宙から届く特別な�
           'Your private reading is waiting in my story 🔮')  # a do ChatGPT do aluno (11/11 ~09h35), com a estrutura do Loom (#TVアニメ 『TEMA』), sem a linha solta do fim e com a linha do story
 # 11/11 ~09h40 (decisão do aluno: "essa legenda vai nos 6 vídeos de hoje"): a japonesa no Insta dos 6; o Face segue em inglês (restrição de país).
 LEG_INSTA_POR_VIDEO = {55: LEG_JP}  # (o loop abaixo põe o inglês; 11/11 ~13h55 o aluno decidiu: japonesa nos 6, e o loop é sobrescrito logo depois)  # 11/11 ~13h (Clone R24: "atrapalha e contamina a conta"): o japonês fica só no nora55, que já foi
-PALAVRA = {56: '1111', 57: 'ready', 58: 'yes', 59: 'open', 60: '2027'}
+PALAVRA = {55: '222', 56: '1111', 57: 'ready', 58: 'yes', 59: 'open', 60: '2027'}
 for _n, _w in PALAVRA.items():
     LEG_INSTA_POR_VIDEO[_n] = ('This 11:11 energy is for you, love ✨\nYour private reading is waiting in my story 🔮\n'
                                f'Comment "{_w}" to claim it ✨\n#manifestation #1111portal #lawofattraction #abundance')
 # 11/11 ~13h55, decisão do aluno ("por escolha própria"): a legenda japonesa nos 6 do Insta de hoje, para ver como se sai; a inglesa fica guardada acima para 12/11.
 LEG_INSTA_EN = dict(LEG_INSTA_POR_VIDEO)
-LEG_INSTA_POR_VIDEO = {n: LEG_JP for n in range(55, 61)}
+# 11/11 ~14h30, decisão do aluno: "vou voltar pra legenda em inglês no insta, não tô gostando do desempenho da japonesa": inglês nos 6 (o 55 e o 56 editados no Insta)
+LEG_INSTA_POR_VIDEO = dict(LEG_INSTA_EN)
 # prova: a avaliação real do Trustpilot (provas-trustpilot/, sem a hora relativa) que entra antes do CTA, ou None (o controle)
 PROVA = {'05-karen': ('Karen W.', 'I just feel that for me there are good things about to happen'), '06-younger': ('Younger A. (EUA)', 'Everything she said is happening in my life'),
          '07-karina': ('Karina G. (EUA)', 'Wonderful, I feel so connected, this feels so real'),
@@ -533,8 +534,8 @@ def montar(n):
                + (' Os outros 2 Takes 1 deste painel são do ' + ' e do '.join(f'nora{m} ({VIDEOS[m]["hora"].split(" (")[0]})' for m in outros) + '.' if primeiro else ''),
                f'Postar às {hora_curta} de 11/11, ao vivo. Insta: o {nn}-final. Face: o ' + (f'{nn}-final-FACE (eu mando junto).' if face_var else f'{nn}-final (o mesmo arquivo).'),
                (f'Avaliação do Trustpilot: sim ({PROVA[v["prova"]][0].split()[0]}); eu ponho.' if v['prova'] else 'Avaliação do Trustpilot: não (este é o controle do teste de hoje).')]
-    if n in LEG_INSTA_POR_VIDEO:
-        decisao.append('Legenda do Insta: a japonesa do truque do Loom (#TVアニメ), nos 6 de hoje (decisão do aluno, 11/11 ~13h55, contra a recomendação do Clone R24; teste de 1 dia). No Face, a legenda em inglês (o Face só mostra para EUA, Canadá, Reino Unido, Austrália e Nova Zelândia).')
+    if False:
+        decisao.append('Legenda do Insta: a japonesa (encerrada em 11/11 ~14h30). No Face, a legenda em inglês (o Face só mostra para EUA, Canadá, Reino Unido, Austrália e Nova Zelândia).')
     if gera:
         decisao.append(f'Créditos: {creditos(gera)} (contatocaram).')
     p['pecas'] = {'lista': pecas, 'decisao': decisao, 'titulo_decisao': 'Resumo'}
