@@ -273,12 +273,15 @@ def img_central(c, n):
     }
 
 
-def prompt_k_manual(c):
+K_RESERVA = {'noite': "This shift doesn't happen for every woman. Open my story to see what twenty twenty-seven holds for you."}  # 11/11 ~17h: reserva do T04 da noite com o "open my story" que passou de manhã (C/D), se o "Tap my photo" cair no filtro
+
+
+def prompt_k_manual(c, fala_k=None):
     s = CENAS[c]
     voz = VOZ.replace('[Voice and Audio Instructions]', '').strip()
     return ('Create a single continuous 10-second video clip using the supplied reference image as the first frame. The same woman from the image speaks directly '
             f'to her phone camera in a casual handheld selfie video at home {s["quando"]}.\n\n'
-            'SPOKEN DIALOGUE (she says exactly this, once, in this order, with nothing added): "' + fala(c, 'K') + '"\n\n'
+            'SPOKEN DIALOGUE (she says exactly this, once, in this order, with nothing added): "' + (fala_k or fala(c, 'K')) + '"\n\n'
             'VOICE CHARACTERISTICS (LOCKED):\n' + voz + '\n\n'
             'VOICE PACING: medium pace (155 to 180 words per minute), about 8 seconds of speech; when she finishes the last word she closes her lips and stays silent '
             'with a calm expression until the clip ends.\n\n'
@@ -329,6 +332,7 @@ def agente(c, ks):
             '(X = o número dele na lista). Se falhar de novo, não insista: me mande o print.',
             f'Se o T04 (o 5º, o CTA) falhar 1 vez, não peça de novo ao agente: gere à mão: Vídeo → Frames → 9:16 → Omni 1.1 Flash → 720p → 10 s → x1; Início = {s["img"]}; Fim = vazio; cole o prompt abaixo, '
             f'inteiro, e gere (15 créditos). Renomeie para {nome(c, "K")}. PROMPT: ' + prompt_k_manual(c),
+        ] + ([f'Se o T04 falhar também no Frames: gere no Frames, do mesmo jeito, com este prompt reserva (troca só o “Tap my photo and check my story” por “Open my story”, que passou de manhã), e renomeie para {nome(c, "K")}. Se falhar de novo, me mande o print. PROMPT RESERVA: ' + prompt_k_manual(c, K_RESERVA[c])] if c in K_RESERVA else []) + [
             'Se o agente parar no meio (por exemplo, “alta demanda”): responda na MESMA conversa, sem anexar nada: “Please continue and generate videos X to Y from my previous message, in the same order.” '
             '(troque X e Y pelos números que faltaram). Se ele gerar só o 1º e parar de novo: cole antes do bloco da Central o “pré-prompt do Lucas” (abaixo) e mande de novo só os que faltaram.',
             'Se o agente disser que não dá para usar a imagem como quadro inicial e final com fala: gere à mão: Vídeo → Frames → 9:16 → Omni 1.1 Flash → 720p → 10 s (ou 8 s, conforme a lista) → x1; '
