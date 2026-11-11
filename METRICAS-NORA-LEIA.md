@@ -549,3 +549,7 @@ Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, co
 - **Leitura:** o nora55 é o melhor do Face desde o nora49: em 6 h já passou o nora49 inteiro em views (401 contra 241), com distribuição de +1,7x e **4 seguidores novos** (o nora49 deu 1). O que mudou do kit (21 a 111 views) para ele: o **pré-gancho de volta** (tsunami curto), a **cena nova** (escritório, regata + moletom cinza) e o corpo do Clone (R23). O nora56 (a variação -FACE, com a avaliação) fez 210 em 2h30, mais rápido que qualquer vídeo do kit; o −0,2x com 2h30 ainda não diz nada.
 - **Os stories de foto aparecem com 0 na Biblioteca** (o de hoje 16h19, o de ontem 19h40): é como o Face conta story aqui desde 28/10; o número de toques do story só aparece no Tracker (FACE).
 - **Decisão:** nada muda na noite; o tsunami e a cena nova seguem. Próxima leitura do Face com ~24 h do nora55 (amanhã ~10h20), junto com o Insta.
+
+### 11/11/2026 16h55 - nora57 postado (Insta e Face)
+- **nora57 no ar às 16h55** (aluno): manhã, T01c (situação), sem prova; Insta em inglês ("Comment ready"), Face com o -FACE. 16h55 aqui = 11h55 na Califórnia e 14h55 em Nova York (o melhor horário dos EUA do dia até agora). **Próximos (3 h depois):** nora58 ~19h55, nora59 ~22h55, nora60 ~01h55.
+- **O que olhar (~24 h):** a fatia dos EUA contra o nora55 e o nora56 (postados mais cedo); o T01c contra o T01a e o T01b (todos sem prova: 55, 57; o 56 com prova).
