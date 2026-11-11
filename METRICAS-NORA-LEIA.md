@@ -533,3 +533,19 @@ Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, co
 
 ### 11/11/2026 16h20 - story-1111 postado (Insta e Face)
 - Imagem nova (a Nora na varanda com a caneca) + texto na caixa creme "Tap below: your private reading / is waiting for you on 11:11."; no Face, botão "Saiba mais" (era "Ver mais"). **Comparar com o story-0311** (mesmo texto, imagem story-3110, 19% de toques no Insta): pedir o print do story do Insta com ~20 h (viewers, toques no link, % seguidores) e os cliques com STORYIG e FACE no Tracker de 12/11.
+
+### 11/11/2026 16h23 - FACE (Biblioteca de Conteúdo, print do aluno: "tem um vídeo no Face que tá indo bem")
+| Vídeo | Vida | Views | Visualiz. | 3 s | Tempo médio | Distribuição | Seguidores | Coment. |
+|---|---|---|---|---|---|---|---|---|
+| **nora55** (manhã, tsunami de volta, sem prova) | ~6h | **401** | 300 | 145 (36,2%) | 6 s | **+1,7x** | **4** | 5 |
+| nora56 (-FACE, com a Karen) | ~2h30 | 210 | 190 | 90 (42,9%) | 5 s | −0,2x | 0 | 1 |
+| nora54 (kit, sem pré-gancho) | ~14h45 | 39 | 38 | 14 (35,9%) | 4 s | −0,5x | 0 | 1 |
+| nora53 (kit) | ~16h45 | 107 | 99 | 22 (20,6%) | 3 s | −0,1x | 0 | 1 |
+| nora52 (kit, longo) | ~18h50 | 21 | 20 | 4 (19,0%) | 3 s | −0,6x | 0 | 1 |
+| nora51 (kit) | ~20h50 | 111 | 104 | 37 (33,3%) | 4 s | 0,0x | 0 | 1 |
+| nora50 (tsunami repetido) | ~40h | 25 | 20 | 10 (40%) | 25 s | −0,6x | 0 | 1 |
+| nora49 (referência) | ~4d21h | 241 | 225 | 111 (46,1%) | 8 s | +1,9x | 1 | 3 |
+
+- **Leitura:** o nora55 é o melhor do Face desde o nora49: em 6 h já passou o nora49 inteiro em views (401 contra 241), com distribuição de +1,7x e **4 seguidores novos** (o nora49 deu 1). O que mudou do kit (21 a 111 views) para ele: o **pré-gancho de volta** (tsunami curto), a **cena nova** (escritório, regata + moletom cinza) e o corpo do Clone (R23). O nora56 (a variação -FACE, com a avaliação) fez 210 em 2h30, mais rápido que qualquer vídeo do kit; o −0,2x com 2h30 ainda não diz nada.
+- **Os stories de foto aparecem com 0 na Biblioteca** (o de hoje 16h19, o de ontem 19h40): é como o Face conta story aqui desde 28/10; o número de toques do story só aparece no Tracker (FACE).
+- **Decisão:** nada muda na noite; o tsunami e a cena nova seguem. Próxima leitura do Face com ~24 h do nora55 (amanhã ~10h20), junto com o Insta.
