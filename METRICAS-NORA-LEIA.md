@@ -525,3 +525,8 @@ Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, co
 - **nora55 no ar às 10h20 de 11/11** (aluno; o das 9h, atrasado: pela regra de 11/11, os próximos vão 3 h depois, nora56 ~13h20, nora57 ~16h20, nora58 ~19h20, nora59 ~22h20, nora60 ~01h20). Cena nova da manhã, tsunami curto (só o PRE-A) de volta, T01a + T02 + T04 do Clone, sem prova (controle), 24,0 s. Legenda do Insta em japonês (#TVアニメ); Face em inglês.
 - **Horário:** 10h20 aqui = 05h20 na Califórnia e 08h20 em Nova York; 18h50 na Índia (horário bom para a Índia: olhar a fatia dela).
 - **O que olhar (~24 h):** % nos 3 s com o pré-gancho de volta (o kit sem ele fez 34% a 50%; com o tsunami, 66% a 72%); % do Japão e dos EUA e o número absoluto de pessoas dos EUA (teste da legenda japonesa); visitas ao perfil por 1.000 views; comparar com o nora56 (mesma cena, com a prova) e com o nora58 (o mesmo T01a, com a prova).
+
+### 11/11/2026 13h50 - nora56 postado (Insta e Face)
+- **nora56 no ar às 13h50** (aluno): manhã, T01b do relógio, COM a avaliação da Karen (o 1º com prova; o controle é o nora55, sem prova, e o par do T01b sem prova é o nora59). Insta: legenda japonesa; Face: o -FACE com a legenda em inglês e hashtags. **Próximos (3 h depois):** nora57 ~16h50 (+ story novo), nora58 ~19h50, nora59 ~22h50, nora60 ~01h50.
+- **Horário:** 13h50 aqui = 08h50 na Califórnia e 11h50 em Nova York; 22h20 na Índia.
+- **O que olhar (~24 h):** visitas ao perfil por 1.000 views e cliques no Tracker contra o nora55 (prova x sem prova); % do Japão e dos EUA (legenda japonesa).
