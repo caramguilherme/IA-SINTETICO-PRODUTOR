@@ -368,6 +368,8 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 ---
 
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
+**A fazer (R29, 11/11 ~20h10, "aprovei pra perguntar tudo"):** as dúvidas que a R28 deixou: horários do Insta (16h, 20h e 00h de Brasília x os dele), tsunami de 8 s no curto, 3 posts por dia no Insta sem repetir o corpo e sem estourar crédito, o que vai no Face no lugar do -FACE, a fonte da régua de 15 a 30 visitas por 1.000, como levar do reel ao perfil, o estrago da legenda japonesa na conta e o que fazer com os 2 posts. Texto completo na resposta do agente de 11/11 ~20h10.
+
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 
 Feitas e respondidas: R1 a R21 (07/11) e R22 (10/11, o kit do portal). Para conferir:
