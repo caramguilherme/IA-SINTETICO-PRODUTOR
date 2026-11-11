@@ -82,3 +82,15 @@ Resumo, decisões e transcrição em `AULA-IORHAN-30-10-COPY-QUE-CONVERTE.md` (r
 ## Atualização de 11/11/2026 (aviso oficial do Iorhan, 11h02)
 - **Aviso oficial (avisos-appyon, Iorhan Ferreira, 11/11/2026 11h02, print do aluno):** a conversão dos funis de Manifestação (TM) e de Astrologia (Love Reading) está maior, por acertos na copy do funil e porque quem aplica as últimas aulas converte **0,8% a 1,2% no funil** (clique → venda; antes a régua dos 10% melhores era 0,30%), com resultado 2x a 3x maior que quem usa "as velhas estratégias de copy e engajamento". **A promessa do funil de Manifestação foi atualizada para o ano de 2027, e a conversão da VSL dobrou.**
 - A tela 1 do funil falava de 2026 ("Something POWERFUL wants to speak to you about 2026", prints de 01/11); agora a promessa é de 2027. **Copy da Nora:** a leitura "mostra o que 2027 traz"; não abrir o link do story para conferir (conta clique no Tracker): ver no Content Hub.
+
+
+## Telas do funil v1.7 (lidas em 11/11/2026 ~12h35 do conteúdo público do quiz, sem rodar o rastreador; link mandado pelo aluno)
+O link da Nora (campanha `6a90ad82719e8d2b35da8a7c`) abre hoje o `quiz.auralyapp.com/tm-ing-v1.7-dwtnsal3tq` (antes era o v1.5). O conteúdo de cada tela vem de um arquivo público do funil ("[TM-ING] Tarot Manifest | Organico", gerado em 09/11 19h15 UTC, com as variantes v1 a v1.14, v2, v3 e v4; só a v1.7 é a nossa).
+1. **"Something POWERFUL wants to speak to you about 2027. These 3 cards will reveal the truth about your year."** → tocar em 3 de 7 cartas ("0 of 3 chosen") → "CONNECTION ESTABLISHED!… GET YOUR SPECIAL MESSAGE →". (Era "about 2026".)
+2. Aura Solene, Psychic: "Beautiful choice. I can already feel the energy of your 3 cards. Before I reveal what they mean, I need to tune in to you. **Just 3 quick questions, and your reading will be ready.**"
+3. "What does your heart want most right now? Your first card is already responding to it." (Financial abundance, True love, Inner peace, Deep purpose)
+4. "How often do you notice repeating numbers or feel you've already lived a moment? Like 11:11 on the clock, 222, or a déjà vu." (Almost every day / Sometimes / Rarely)
+5. "What would you like to see change first? I will look for it in your cards." (A decision I'm stuck on, Unexpected opportunities, Clarity in love, Peace with my path)
+6. "I've prepared a reading just for you. Your cards are trying to tell you something important. This one is worth hearing to the end, so get comfortable." → "Reveal my reading"
+7. **VSL** "Private reading · Prepared for you — Your Final Revelation — The truth is about to be revealed." Marcada como **"VSL 24min"** (a de 06/11 tinha 31 a 37 min); o botão agora é **"YES! PLANT MY SEED NOW"** e continua aparecendo aos 16:00 (REVEAL = 960).
+- **Para a copy da Nora:** o CTA "three quick questions, and your reading is ready" é o texto da tela 2; "it shows what 2027 is bringing into your life" casa com a tela 1 ("the truth about your year", 2027); as perguntas das telas 3 e 5 (o que o coração quer; o que mudar primeiro) seguem como motivo de CTA. O quiz continua com cartas: a regra de não falar de cartas antes do quiz fica.
