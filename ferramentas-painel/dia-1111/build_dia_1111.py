@@ -283,7 +283,8 @@ LEG_JP = ('#TVアニメ 『11:11 PORTAL』 ✨🔮 宇宙から届く特別な�
           '願いと宇宙の波動が重なり合う神秘的な瞬間を公開！ さらに、想像を超える未来の変化や願望を引き寄せるチャンスに加え、'
           '11:11ポータルに秘められた特別な力も明らかに…👀 あなたの願いはどこから叶い始めるのか!? 💫\n'
           'Your private reading is waiting in my story 🔮')  # a do ChatGPT do aluno (11/11 ~09h35), com a estrutura do Loom (#TVアニメ 『TEMA』), sem a linha solta do fim e com a linha do story
-LEG_INSTA_POR_VIDEO = {57: LEG_JP}
+# 11/11 ~09h40 (decisão do aluno: "essa legenda vai nos 6 vídeos de hoje"): a japonesa no Insta dos 6; o Face segue em inglês (restrição de país).
+LEG_INSTA_POR_VIDEO = {n: LEG_JP for n in range(55, 61)}
 # prova: a avaliação real do Trustpilot (provas-trustpilot/, sem a hora relativa) que entra antes do CTA, ou None (o controle)
 PROVA = {'05-karen': ('Karen W.', 'I just feel that for me there are good things about to happen'), '06-younger': ('Younger A. (EUA)', 'Everything she said is happening in my life'),
          '07-karina': ('Karina G. (EUA)', 'Wonderful, I feel so connected, this feels so real'),
@@ -460,7 +461,7 @@ def montar(n):
                f'Postar às {hora_curta} de 11/11, ao vivo. Insta: o {nn}-final. Face: o ' + (f'{nn}-final-FACE (eu mando junto).' if face_var else f'{nn}-final (o mesmo arquivo).'),
                (f'Avaliação do Trustpilot: sim ({PROVA[v["prova"]][0].split()[0]}); eu ponho.' if v['prova'] else 'Avaliação do Trustpilot: não (este é o controle do teste de hoje).')]
     if n in LEG_INSTA_POR_VIDEO:
-        decisao.append('Legenda do Insta: o TESTE do truque do Loom (em japonês, com #TVアニメ), só neste vídeo. No Face, a legenda normal (o Face só mostra para EUA, Canadá, Reino Unido, Austrália e Nova Zelândia).')
+        decisao.append('Legenda do Insta: a japonesa do truque do Loom (#TVアニメ), a mesma nos 6 de hoje. No Face, a legenda em inglês (o Face só mostra para EUA, Canadá, Reino Unido, Austrália e Nova Zelândia).')
     if gera:
         decisao.append(f'Créditos: {creditos(gera)} (contatocaram).')
     p['pecas'] = {'lista': pecas, 'decisao': decisao, 'titulo_decisao': 'Resumo'}
