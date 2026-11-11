@@ -99,21 +99,22 @@ CENAS = {
         cam='f/8 aperture, ISO 400, 1/100s shutter speed'),
     'noite': dict(
         img='noite1111-IMG', pre='noite1111', nome='cena da noite', primeiro=58,
-        cel='her left arm on the right side of the frame', canto='bottom-right', livre_mao='her right hand on the left side of the frame', lado_gesto='left', mao='right', aprovada='',
-        img_cel="her left arm, on the right side of the image, is raised toward the camera and is cut off by the bottom-right corner",
+        cel='her right arm on the left side of the frame', canto='bottom-left', livre_mao='her left hand on the right side of the frame', lado_gesto='right', mao='left',
+        aprovada='a 4ª opção de 11/11 ~18h35 (`ferramentas-painel/dia-1111/noite1111-IMG-escolhida-opcao4.jpg`)',  # mesmo lado da manhã: celular no braço direito dela (lado esquerdo da imagem), mão livre no pingente (lado direito)
+        img_cel="her right arm, on the left side of the image, is raised toward the camera and is cut off by the bottom-left corner",
         roupa_pt='regata preta canelada e ajustada, de gola quadrada, alças largas',
         roupa='plain black fitted ribbed square-neck tank top with wide straps, matte, no print, no logo',
         roupa_cont='her plain black fitted square-neck tank top with wide straps',
         repouso='rests at collarbone height with her fingertips lightly touching the small gold Venus pendant',
         volta='the small gold Venus pendant at collarbone height',
         quando='at night', onde='a real, lived-in American living room', luz='lit only by a warm table lamp on the right side of the frame',
-        fundo='the plain warm-grey wall, the sofa behind her and the lamp',
+        fundo='the plain light warm wall, the beige sofa with the throw blanket, the lamp and the small bookshelf behind her',
         visual_t04='warm table lamp light in the background',
         cena_img=('real lived-in American living room at night, a plain warm-grey wall behind her, the corner of a beige sofa with a throw blanket behind her shoulders, '
                   'a small table lamp at the edge of the frame'),
         hora_img='warm tungsten lamp light with soft low-key shadows',
         luz_img='only a warm table lamp on the right side of the image, a little uneven, like a real phone video at night; no studio light, no ring light',
-        mao_img=('her right hand, on the left side of the image, rests at the height of her collarbone with her fingertips lightly touching the small gold Venus pendant, '
+        mao_img=('her left hand, on the right side of the image, rests at the height of her collarbone with her fingertips lightly touching the small gold Venus pendant, '
                  'with exactly five fingers'),
         bagunca='a throw blanket on the sofa, a few books on a side table, ordinary home clutter, any signage or packaging unbranded and unreadable',
         cam='f/8 aperture, ISO 800, 1/60s shutter speed'),
