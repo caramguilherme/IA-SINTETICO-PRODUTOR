@@ -541,3 +541,6 @@ If the generation of any video fails, please resubmit ONLY the item that failed 
 
 ### 11/11/2026 ~16h30 - Texto do story fora do padrão do painel (o aluno cobrou)
 - Pus o texto do `story-1111` numa caixa branca com 2 cores (o estilo da caixa dos vídeos), mas o painel pedia **uma cor só, sem caixa: branco com contorno preto fino, ou preto se a parede for clara** (o padrão dos stories que deram 19% de toques). Refeito em preto. **Regra:** texto de story segue o campo `textos.posicao` do painel; antes de mandar, conferir a imagem contra ele.
+
+## 11/11 ~19h - O CTA sem o "private" passou de primeira na noite
+- Os 5 takes da `noite1111-IMG` (regata sem moletom) saíram de primeira no agente, inclusive o T04 "This shift doesn't happen for every woman. Tap my photo and check my story to see what twenty twenty-seven holds for you.". Confirma a lição de 11/11 ~10h10: o gatilho era a palavra "private" falada, não a roupa nem o "Tap my photo". Na fala de CTA do Flow, seguir sem "private".

@@ -234,6 +234,8 @@ Fora da numeração do nora. Peças com o nome do teste: `faceNN-IMG`, `faceNN-C
 ### noite1111-IMG (11/11/2026 ~18h35)
 - **`noite1111-IMG` aprovada (11/11 ~18h35, a 4ª de 4; `ferramentas-painel/dia-1111/noite1111-IMG-escolhida-opcao4.jpg`):** a mais perto da câmera, como a manhã, com as marcas certas (lua com 3 estrelinhas do lado esquerdo da imagem, trança com anéis do lado direito, brincos, colar de Vênus, anel de sol); a 3ª tem o braço levantado (axila), a 2ª o braço enorme na frente, a 1ª mais longe. Mesmo lado da manhã: celular no braço direito dela (lado esquerdo da imagem), mão livre no pingente (lado direito); parede clara, sofá bege com manta, abajur e estante. LIVRE, movimentações e números da noite fechados por ela; painéis 58 a 60 republicados.
 
+- **Takes da noite (11/11 ~19h, contatocaram, Omni 1.1 Flash, 75 créditos): os 5 saíram de primeira pelo agente** (`noite1111-T01a-se-voce-ve`, `-T01b-relogio`, `-T01c-celular-na-mao`, `-T02-hoje-o-portal`, `-T04-cta-reading`). O T04 com "Tap my photo and check my story" e sem o "private" passou na regata sem moletom: o prompt reserva ("Open my story") não foi usado.
+
 ### manha1111-IMG e takes da manhã (11/11/2026 ~09h30 a ~10h10, contatocaram, Omni 1.1 Flash)
 - `manha1111-IMG` (aprovada 11/11 ~01h55, a 3ª da 2ª rodada): escritório em casa, luz de janela, regata preta canelada de gola quadrada + moletom cinza largo aberto; celular no braço direito dela (canto de baixo à esquerda), mão livre na clavícula, segurando uma mecha do cabelo.
 - Pelo agente (Central): `manha1111-T01a-se-voce-ve`, `manha1111-T01b-relogio`, `manha1111-T01c-celular-na-mao`, `manha1111-T02-hoje-o-portal` (60 créditos).
