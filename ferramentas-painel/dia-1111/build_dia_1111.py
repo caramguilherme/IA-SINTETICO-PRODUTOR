@@ -29,18 +29,18 @@ FB = 'https://app.auralyapp.com/6a90ad82719e8d2b35da8a7c?rt_ad=norakensleytarot&
 
 # ------------------------------------------------------------------ falas (as mesmas nas 2 cenas; cada cena gera as suas)
 F = {
-    'A': "If you see this on Wednesday, November 11th, this message is one hundred percent meant for you.",
+    'A': "If you see this on Wednesday, November 11th, the universe is opening a new chapter of alignment for you.",  # Clone R23 (11/11 ~09h20)
     'B': "If you see this on Wednesday, November 11th, look at the time: if it's before 11:11 p.m., this is meant for you.",
     'C': "If you're holding your phone on Wednesday, November 11th, wondering if things will ever change, this message is meant for you.",
-    'P': "Today the 11:11 portal is open, and the next chapter of your life begins with it, in the best way possible.",
-    'K': "The rest of this message is in my story: tap my photo, three quick questions, and your private reading is ready.",
+    'P': "Today the 11:11 portal opens to lift the heavy weight off your shoulders and restore your inner peace.",  # Clone R23: um benefício só (paz)
+    'K': "To align your energy with today's portal, tap my photo: three quick questions, and your private reading is ready.",  # Clone R23: reason why
 }
 SUF = {'A': 'T01a-se-voce-ve', 'B': 'T01b-relogio', 'C': 'T01c-celular-na-mao', 'P': 'T02-hoje-o-portal', 'K': 'T04-cta-reading'}
 ROT = {'A': 'T01a', 'B': 'T01b', 'C': 'T01c', 'P': 'T02', 'K': 'T04'}
-CENA_TXT = {'A': 'a data de quarta, "if you see this on" (a frase dos maiores da Soma)', 'B': 'a data de quarta + o filtro do relógio (o do nora54)',
-            'C': 'a data de quarta + a situação (celular na mão, esperando a vida mudar; lote 2, v12)', 'P': 'a promessa: hoje é o portal',
-            'K': 'CTA: o resto da mensagem, a ação e a leitura'}
-CAIXA = {'A': ('WEDNESDAY, NOVEMBER 11TH\nif you keep seeing 11:11,\nthis message is for you', 'one hundred percent meant for you.'),
+CENA_TXT = {'A': 'a data de quarta + o capítulo novo (reescrito pelo Clone, R23)', 'B': 'a data de quarta + o filtro do relógio (o do nora54)',
+            'C': 'a data de quarta + a situação (celular na mão, esperando a vida mudar; lote 2, v12)', 'P': 'a promessa: o portal tira o peso e devolve a paz (Clone, R23)',
+            'K': 'CTA: alinhar a energia com o portal (o motivo), a ação e a leitura (Clone, R23)'}
+CAIXA = {'A': ('WEDNESDAY, NOVEMBER 11TH\nif you keep seeing 11:11,\nthis message is for you', 'a new chapter of alignment for you.'),
          'B': ('WEDNESDAY, NOVEMBER 11TH\ntoday is 11:11,\nthis message is for you', 'this is meant for you.'),
          'C': ('WEDNESDAY, NOVEMBER 11TH\nif you keep seeing 11:11,\nthis is your sign', 'this message is meant for you.')}
 
@@ -426,8 +426,8 @@ def montar(n):
                    f'Clique em Cortar e baixar e salve como {corte_nome}. (O texto eu ponho aqui, no fim.)']}
     p['edicao_linha'] = [
         {'quando': 'A. Antes de tudo', 'texto': f'Projeto novo no CapCut com o {corte_nome}', 'como': 'É o vídeo que saiu da FusionZ.'},
-        {'quando': 'B. Pré-gancho no começo (volta em 11/11, pelas métricas do kit)', 'texto': 'O tsunami: nora47-PRE-A + nora47-PRE-B' + (', os dois ESPELHADOS' if c == 'noite' else ''),
-         'como': f'No começo da linha do tempo, antes do {corte_nome}, sem música por baixo (a música entra no Take 1). 0 crédito: são os do nora47 ao nora50.'},
+        {'quando': 'B. Pré-gancho no começo (volta em 11/11, pelas métricas do kit)', 'texto': 'O tsunami curto: só o nora47-PRE-A (a onda), sem o PRE-B' + (', ESPELHADO' if c == 'noite' else ''),
+         'como': f'No começo da linha do tempo, antes do {corte_nome}, sem música por baixo (a música entra no Take 1). Só o PRE-A porque o Clone (R23) diz que 8 s é longo para um vídeo de 20 s. 0 crédito.'},
         {'quando': '1. Do começo ao fim', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB', 'como': 'O vídeo todo, por baixo da voz.'},
         {'quando': '2. Exportar e me mandar', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
          'como': f'720×1280 ou 1080×1920, qualidade alta, nome {nn}-montado (se passar de 30 MB, link do Drive). Eu ponho tudo e devolvo o {nn}-final'
@@ -453,7 +453,7 @@ def montar(n):
     if n == 58:
         pecas.append({'nome': 'story-0311', 'de': 'story-3110', 'tipo': 'story', 'status': 'reutilizar', 'descricao': 'Repostar ~17h50 com o texto do 11:11 (seção Story).'})
     outros = [m for m in irmaos if m != n]
-    decisao = ['Pré-gancho: o tsunami (nora47-PRE-A + nora47-PRE-B' + (', espelhados' if c == 'noite' else '') + ') antes do Take 1, sem música. Voltou pelas métricas do kit: sem ele, só 34% a 50% passam dos 3 s.',
+    decisao = ['Pré-gancho: o tsunami curto, só o nora47-PRE-A' + (' espelhado' if c == 'noite' else '') + ', antes do Take 1, sem música. Voltou pelas métricas do kit (sem ele, só 34% a 50% passam dos 3 s); curto pelo Clone (R23).',
                'Usa só 3 takes, nesta ordem: ' + ' + '.join(nome(c, k) for k in usa) + '.'
                + (' Os outros 2 Takes 1 deste painel são do ' + ' e do '.join(f'nora{m} ({VIDEOS[m]["hora"].split(" (")[0]})' for m in outros) + '.' if primeiro else ''),
                f'Postar às {hora_curta} de 11/11, ao vivo. Insta: o {nn}-final. Face: o ' + (f'{nn}-final-FACE (eu mando junto).' if face_var else f'{nn}-final (o mesmo arquivo).'),

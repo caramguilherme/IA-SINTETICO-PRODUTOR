@@ -294,6 +294,19 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 
 ---
 
+## R23 (11/11, ~09h20): copy dos 6 curtos do dia 11, depois das métricas do kit sem pré-gancho
+**Pergunta:** os dados do kit (34% a 50% nos 3 s sem pré-gancho, contra 66% a 72% com o tsunami), a estrutura (pré-gancho + Take 1 + promessa + CTA, com o Trustpilot em 3 dos 6) e as falas; 5 perguntas (pré-gancho, qual Take 1, promessa focada, CTA com motivo, Trustpilot).
+**Resposta, resumida (colada pelo aluno):**
+1. **Pré-gancho:** o tsunami quebra o padrão, mas 8 s é longo para um vídeo de 20 s e a desconexão com a fala atrai curiosos; ideal de 1 a 3 s (no máximo 4 a 6 s), ligado ao 11:11: vela acesa de perto no escuro ou taça/sino tibetano vibrando ao lado de cristais com "11:11" brilhando, som ASMR/riser e impact no corte (aulas 32, 43 e 68).
+2. **Take 1:** o C (situação, "wondering if things will ever change") segura mais; o B (relógio) vem depois; o A ("100% meant for you") é o mais fraco, genérico. Reescrita do A: "If you see this on Wednesday, November 11th, the universe is opening a new chapter of alignment for you." (aulas 64, 65 e 68).
+3. **Promessa:** ampla e abstrata demais; um benefício só: "Today the 11:11 portal opens to lift the heavy weight off your shoulders and restore your inner peace." (aulas 18, 65 e 68).
+4. **CTA:** "está pronta" não dá motivo para sair do Reels; reason why: "To align your energy with today's portal, tap my photo: three quick questions, and your private reading is ready." (aulas 55, 64 e 68).
+5. **Trustpilot:** ajuda e não quebra o ritmo, se for camada por cima (tela dividida ou print no terço de baixo) com a avatar falando sem parar; funciona como prova + motivo de clique (aulas 28, 40 e 65).
+
+**Para a Nora (aplicado nos 6 painéis do dia 11, 11/11 ~09h25):** as 3 falas novas do Clone entram como estão (T01a, T02 e T04; 19, 18 e 19 palavras, 10 s cada; 75 créditos por cena); o T01b e o T01c ficam. Pré-gancho: hoje, o tsunami curto (só o nora47-PRE-A, ~4 s, 0 crédito; espelhado na cena da noite), porque é o que temos pronto e já segurou 66% a 72%; o pré-gancho de 11:11 do Clone (vela no escuro com "11:11" brilhando, 2 a 3 s) fica para o corpo novo de 12/11, gerado junto com ele. O Trustpilot segue como camada por cima, na parte de baixo, com a Nora falando.
+
+---
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 Feitas e respondidas: R1 a R21 (07/11) e R22 (10/11, o kit do portal). Para conferir:
 1. "Em qual fonte aparece a hashtag #AuraliTrend como obrigatória? Copie o trecho exato e diga a aula ou o documento."
