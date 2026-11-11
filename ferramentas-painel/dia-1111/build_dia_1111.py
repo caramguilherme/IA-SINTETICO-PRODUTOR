@@ -33,7 +33,7 @@ F = {
     'B': "If you see this on Wednesday, November 11th, look at the time: if it's before 11:11 p.m., this is meant for you.",
     'C': "If you're holding your phone on Wednesday, November 11th, wondering if things will ever change, this message is meant for you.",
     'P': "Today the 11:11 portal opens to lift the heavy weight off your shoulders and restore your inner peace.",  # Clone R23: um benefício só (paz)
-    'K': "To align your energy with today's portal, tap my photo: three quick questions, and your private reading is ready.",  # Clone R23: reason why
+    'K': "To align your energy with today's portal, open my story: three quick questions, and your reading is ready.",  # Clone R23: reason why; 11/11 ~10h: sem o "private" e com "open my story" (o "private" falado numa selfie de regata caía no filtro do Flow: 4 falhas; a C passou). O "private reading" fica na faixa do story e na legenda
 }
 SUF = {'A': 'T01a-se-voce-ve', 'B': 'T01b-relogio', 'C': 'T01c-celular-na-mao', 'P': 'T02-hoje-o-portal', 'K': 'T04-cta-reading'}
 ROT = {'A': 'T01a', 'B': 'T01b', 'C': 'T01c', 'P': 'T02', 'K': 'T04'}
@@ -262,7 +262,7 @@ def agente(c, ks):
             'Se ele não renomear, mande na mesma conversa: “Now rename each video with the correct number from the prompt.”',
             'Confira na grade, pelo nome, se os 5 saíram. Se um falhar por política: mande na mesma conversa “Please generate video X from my previous message again, with the same prompt.” '
             '(X = o número dele na lista). Se falhar de novo, não insista: me mande o print.',
-            f'Se o T04 (o 5º, o CTA) falhar 2 vezes: gere à mão: Vídeo → Frames → 9:16 → Omni 1.1 Flash → 720p → 10 s → x1; Início = {s["img"]}; Fim = vazio; cole o prompt abaixo, '
+            f'Se o T04 (o 5º, o CTA) falhar 1 vez, não peça de novo ao agente: gere à mão: Vídeo → Frames → 9:16 → Omni 1.1 Flash → 720p → 10 s → x1; Início = {s["img"]}; Fim = vazio; cole o prompt abaixo, '
             f'inteiro, e gere (15 créditos). Renomeie para {nome(c, "K")}. PROMPT: ' + prompt_k_manual(c),
             'Se o agente parar no meio (por exemplo, “alta demanda”): responda na MESMA conversa, sem anexar nada: “Please continue and generate videos X to Y from my previous message, in the same order.” '
             '(troque X e Y pelos números que faltaram). Se ele gerar só o 1º e parar de novo: cole antes do bloco da Central o “pré-prompt do Lucas” (abaixo) e mande de novo só os que faltaram.',
