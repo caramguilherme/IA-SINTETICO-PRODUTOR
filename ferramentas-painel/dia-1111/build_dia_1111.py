@@ -267,7 +267,9 @@ def agente(c, ks):
 
 COMUM_HASH = '#manifestation #1111portal #lawofattraction'
 # prova: a avaliação real do Trustpilot (provas-trustpilot/, sem a hora relativa) que entra antes do CTA, ou None (o controle)
-PROVA = {'04-katrina': ('Katrina H. (EUA)', 'So much peace here'), '03-darcey': ('Darcey (EUA)', 'very uplifting… she hit bullseye')}
+PROVA = {'05-karen': ('Karen W.', 'I just feel that for me there are good things about to happen'), '06-younger': ('Younger A. (EUA)', 'Everything she said is happening in my life'),
+         '07-karina': ('Karina G. (EUA)', 'Wonderful, I feel so connected, this feels so real'),
+         '04-katrina': ('Katrina H. (EUA)', 'So much peace here'), '03-darcey': ('Darcey (EUA)', 'very uplifting… she hit bullseye')}  # as 2 últimas são reserva
 VIDEOS = {
     55: dict(cena='manha', hora='9h', prova=None, k1='A',
              insta=f'If you see this on Wednesday, November 11th, it\'s meant for you. 🔮\nToday the 11:11 portal is open. Your private reading is waiting in my story.\nComment "ready" ✨\n{COMUM_HASH} #newbeginnings',
@@ -275,7 +277,7 @@ VIDEOS = {
              nums=[('11:11', 82, 10.5, 'alto à direita', 'verde-limão', '#7CFF4F', 16), ('222', 18, 10.5, 'alto à esquerda', 'branco', '#FFFFFF', 13), ('888', 82, 46.9, 'à direita, na altura do ombro', 'laranja', '#FF9F1C', 11)],
              coment=['☀️ Sent it to your messages, take a look ✨', '🔮 It\'s waiting in your inbox, beautiful 💖', '✨ Check your DMs, I just sent it 🌙'],
              dm=['☀️ [name], today is 11:11 ✨ Your private reading is right here:', '🔮 Hi [name]! As promised, here is your private reading 💖', '✨ [name], open this when you have a calm minute today 🌙 Your private reading:']),
-    56: dict(cena='manha', hora='12h', prova='04-katrina', k1='B',
+    56: dict(cena='manha', hora='12h', prova='05-karen', k1='B',
              insta=f'If you see this on Wednesday, November 11th, look at the time. 🔮\nToday the 11:11 portal is open. Your private reading is waiting in my story.\nComment "open" ✨\n{COMUM_HASH} #1111',
              pergunta='what is the first thing you want to see change after today?',
              nums=[('11:11', 82, 10.5, 'alto à direita', 'amarelo-ouro', '#FFD21F', 15), ('888', 18, 10.5, 'alto à esquerda', 'rosa-choque', '#FF4FD8', 12), ('222', 82, 46.9, 'à direita, na altura do ombro', 'ciano', '#3DE0FF', 11)],
@@ -287,7 +289,7 @@ VIDEOS = {
              nums=[('888', 18, 10.5, 'alto à esquerda', 'ciano', '#3DE0FF', 14), ('11:11', 82, 10.5, 'alto à direita', 'rosa-choque', '#FF4FD8', 15), ('222', 82, 46.9, 'à direita, na altura do ombro', 'amarelo-ouro', '#FFD21F', 11)],
              coment=['🌙 Look in your messages, it\'s there 💫', '✨ I sent it to your inbox 💖', '🔮 Check your DMs, beautiful ✨'],
              dm=['🌙 [name], this 11:11 is yours 💫 Your private reading:', '✨ Hey [name]! Here\'s the private reading I told you about 💖', '🔮 [name], three quick questions and it\'s ready ✨ Your private reading:']),
-    58: dict(cena='noite', hora='18h', prova='03-darcey', k1='A',
+    58: dict(cena='noite', hora='18h', prova='06-younger', k1='A',
              insta=f'If you see this on Wednesday, November 11th, this message found you for a reason. 🔮\nThe 11:11 portal is open today. Your private reading is waiting in my story.\nComment "new chapter" ✨\n{COMUM_HASH} #spirituality',
              pergunta='love, peace, purpose or money: where do you want this new chapter to start?',
              nums=[('222', 18, 10.5, 'alto à esquerda', 'laranja', '#FF9F1C', 14), ('888', 82, 28, 'no meio à direita', 'verde-limão', '#7CFF4F', 12), ('11:11', 82, 46.9, 'à direita, na altura do ombro', 'branco', '#FFFFFF', 11)],
@@ -299,7 +301,7 @@ VIDEOS = {
              nums=[('222', 18, 10.5, 'alto à esquerda', 'verde-limão', '#7CFF4F', 14), ('11:11', 82, 10.5, 'alto à direita', 'laranja', '#FF9F1C', 15), ('888', 82, 46.9, 'à direita, na altura do ombro', 'branco', '#FFFFFF', 11)],
              coment=['⭐ Take a look at your messages ✨', '💖 It\'s in your DMs now 🌙', '🔮 Just sent it to you 💫'],
              dm=['⭐ [name], here is your private reading for tonight ✨', '💖 Hi [name]! Your private reading is ready for you 🌙', '🔮 [name], open this tonight, when it\'s quiet 💫 Your private reading:']),
-    60: dict(cena='noite', hora='00h (da noite de 11 para 12/11; 19h na Califórnia, 22h em Nova York: ainda é 11/11 nos EUA)', prova='04-katrina', k1='C',
+    60: dict(cena='noite', hora='00h (da noite de 11 para 12/11; 19h na Califórnia, 22h em Nova York: ainda é 11/11 nos EUA)', prova='07-karina', k1='C',
              insta=f'If you\'re holding your phone tonight, wondering if things will ever change, this is for you. 🔮\nThe 11:11 portal is still open. Your private reading is waiting in my story.\nComment "yes" ✨\n{COMUM_HASH} #manifestingmyreality',
              pergunta='what do you want this new chapter to bring you?',
              nums=[('888', 18, 10.5, 'alto à esquerda', 'rosa-choque', '#FF4FD8', 15), ('11:11', 82, 28, 'no meio à direita', 'ciano', '#3DE0FF', 12), ('222', 82, 46.9, 'à direita, na altura do ombro', 'amarelo-ouro', '#FFD21F', 11)],
@@ -388,7 +390,7 @@ def montar(n):
     ]
     if v['prova']:
         quem, trecho = PROVA[v['prova']]
-        mt['estilos'].append({'nome': f'Avaliação real do Trustpilot: {quem} (“{trecho}”)', 'fonte': f'a imagem provas-trustpilot/{v["prova"]}-sem-hora.png (print real, sem o nome do app; tirei só o “hours ago”, que hoje já não vale)',
+        mt['estilos'].append({'nome': f'Avaliação real do Trustpilot: {quem} (“{trecho}”)', 'fonte': f'a imagem provas-trustpilot/{v["prova"]}-sem-hora.png (print real do aluno, 11/11, sem o nome do app; tirei só a hora relativa, que muda todo dia, e a linha de botões)',
                               'cor': '—', 'tamanho': '~84% da largura (604 px num vídeo de 720)', 'contorno': 'sem borda; cantos arredondados e sombra leve',
                               'obs': 'X 0 · Y -200 (sobre a blusa, longe do rosto), da palavra “begins” até o fim do T02, logo antes do CTA (~3 s); a voz continua por baixo e o vídeo não fica mais longo. Eu ponho (P45).'})
         mt['estilos'].append({'nome': 'Caixa da prova: “Rated 4.8 ★ by 2,200+ people”', 'fonte': 'Poppins Bold (poppins-bd)', 'cor': 'texto preto; “4.8 ★” em vermelho #E53935',

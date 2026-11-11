@@ -8,7 +8,7 @@ Gerador: `ferramentas-painel/dia-1111/build_dia_1111.py` (rodar da raiz; conferi
   - **Cena da manhã (`manha1111-IMG`), 9h, 12h e 15h:** escritório em casa, parede lisa clara, luz de janela; regata preta de gola quadrada + moletom cinza largo, aberto, por cima (a 2ª foto da Soma mandada pelo aluno). Mão livre segurando a beira do moletom na altura da clavícula.
   - **Cena da noite (`noite1111-IMG`), 18h, 21h e 00h:** sala com abajur, parede lisa cinza quente, canto do sofá; regata preta de gola quadrada, alças largas (a 1ª foto da Soma). Mão livre na altura da clavícula, tocando o pingente de Vênus.
   - **Decote leve só (meu ajuste, aceito no mesmo turno):** o filtro do Flow barra palavra de corpo (o T04 caiu 8 vezes em 10/11), então o prompt descreve só a peça ("black square-neck tank top with wide straps"); decote puxa público homem (o perfil indiano do nora52), e quem compra é mulher de 35 a 55+. Olhar a fatia de homens nos Insights destes vídeos. "Sem decote" no `PLANO-MVM` era a definição da Nora v1 (Soulmate), não regra do curso. Sem tatuagem.
-- **Teste a 0 crédito na edição (decisão do aluno, 11/11 ~01h35: "hoje 11/11 vai as avaliações. o teste visual fica pro dia 12/11"):** 12h, 18h e 00h com a prova do Trustpilot antes do CTA (a avaliação real da Katrina no nora56 e no nora60, a da Darcey no nora58; `provas-trustpilot/04-katrina-sem-hora.png` e `03-darcey-sem-hora.png`, da palavra "begins" até o fim do T02, X 0 · Y -200, a legenda some enquanto ela está na tela); 9h, 15h e 21h sem prova (o controle). Visual de agora (caixa branca + números coloridos) em todos; o visual limpo foi para 12/11. Cada Take 1 aparece uma vez com e uma vez sem a prova. Régua: visitas ao perfil por 1.000 views, toques no link do story e cliques no Tracker por horário. Leukia e Patricia ficam fora (falam de cartas); a frase "Over 2,000 people rated…" só entra se o aluno conferir a nota e o total no dia.
+- **Teste a 0 crédito na edição (decisão do aluno, 11/11 ~01h35: "hoje 11/11 vai as avaliações. o teste visual fica pro dia 12/11"):** 12h, 18h e 00h com a prova do Trustpilot antes do CTA (prints novos do aluno, 11/11 ~01h55: a da Karen W. no nora56, a da Younger A. no nora58 e a da Karina G. no nora60, `provas-trustpilot/05-karen-sem-hora.png`, `06-younger-sem-hora.png` e `07-karina-sem-hora.png`; a da Katrina e a da Darcey ficam de reserva; com a caixa "Rated 4.8 ★ by 2,200+ people", número real de 11/11; da palavra "begins" até o fim do T02, X 0 · Y -200, a legenda some enquanto ela está na tela); 9h, 15h e 21h sem prova (o controle). Visual de agora (caixa branca + números coloridos) em todos; o visual limpo foi para 12/11. Cada Take 1 aparece uma vez com e uma vez sem a prova. Régua: visitas ao perfil por 1.000 views, toques no link do story e cliques no Tracker por horário. Leukia e Patricia ficam fora (falam de cartas); a frase "Over 2,000 people rated…" só entra se o aluno conferir a nota e o total no dia.
 - **Face:** o 2º e o 3º vídeo de cada cena repetem o T02 e o T04; no Face vai o `noraNN-final-FACE` (espelhado, mais claro, 1,1x), que eu entrego junto (regra de 10/11).
 - **Story:** repost ~17h50 (antes do post das 18h; o de 10/11 vence ~19h42), imagem story-3110, "Tap below: your private reading / is waiting for you on 11:11.", adesivo "Open my reading" (painel do nora58). Em 12/11, o texto sem portal.
 
@@ -25,11 +25,11 @@ Gerador: `ferramentas-painel/dia-1111/build_dia_1111.py` (rodar da raiz; conferi
 | Vídeo | Hora | Cena | Prova | Takes | Gera |
 |---|---|---|---|---|---|
 | nora55 | 9h | manhã | sem | T01a + T02 + T04 | a `manha1111-IMG` e os 5 takes da manhã (72) |
-| nora56 | 12h | manhã | Katrina | T01b + T02 + T04 | 0 (Face: -FACE) |
+| nora56 | 12h | manhã | Karen | T01b + T02 + T04 | 0 (Face: -FACE) |
 | nora57 | 15h | manhã | sem | T01c + T02 + T04 | 0 (Face: -FACE) |
-| nora58 | 18h | noite | Darcey | T01a + T02 + T04 | a `noite1111-IMG` e os 5 takes da noite (72); story ~17h50 |
+| nora58 | 18h | noite | Younger | T01a + T02 + T04 | a `noite1111-IMG` e os 5 takes da noite (72); story ~17h50 |
 | nora59 | 21h | noite | sem | T01b + T02 + T04 | 0 (Face: -FACE) |
-| nora60 | 00h (12/11; ainda 11/11 nos EUA) | noite | Katrina | T01c + T02 + T04 | 0 (Face: -FACE) |
+| nora60 | 00h (12/11; ainda 11/11 nos EUA) | noite | Karina | T01c + T02 + T04 | 0 (Face: -FACE) |
 
 ## Links (6ª conta, publicados em 11/11 ~00h50)
 nora55 https://claude.ai/artifact/K4WvdkrAHAuiyBMxv9t9WT · nora56 https://claude.ai/artifact/9YcjaBcAQD7ALAw6FPY25a · nora57 https://claude.ai/artifact/98xL8d68aMTufyG9PVFVHc · nora58 https://claude.ai/artifact/VC8eFWzQWEyeZ5sKEaLVE2 · nora59 https://claude.ai/artifact/9RgVMXF9PzAzRmb3tzSNxw · nora60 https://claude.ai/artifact/AqKTeQyWJyXRDcWoeVGynT
