@@ -189,6 +189,44 @@ def prompt_img(c):
             'character consistency: identical face, same skin tone, same hair, same body proportions as the reference image — only wardrobe, environment, and pose change')
 
 
+
+# 11/11 ~10h45 (pedido do aluno): imagem NOVA do story, variando cenário, roupa e momento (Clone R2: a Nora no dia a dia,
+# café na varanda, roupa confortável). Sem cartas (o funil não tem cartas antes do quiz). Faixa de cima livre para o texto,
+# faixa de baixo livre para o adesivo. Foto tirada por outra pessoa (story é foto parada, não selfie).
+STORY_IMG = 'story-1111'
+def prompt_story():
+    return ('RAW photo of the exact same character from the attached reference image, preserving every facial feature, identity, age, ethnicity, skin tone, and hairstyle exactly as shown in the reference,\n'
+            'warm, relaxed, genuine smile with her lips gently closed,\n'
+            'plain oatmeal-beige chunky knit sweater with a relaxed crew neck and slightly long sleeves pushed up to the forearms, plain light-wash straight jeans, both matte, no print, no logo, '
+            'small flat shiny gold crescent moon with three tiny gold stars on the outer edge of her cheekbone near the temple, on the left side of the image; long gold star-and-moon drop earrings; '
+            'thin gold necklace with a small Venus pendant resting on the sweater; thin gold bracelets; gold sun ring; hazel-green eyes; long, loose, softly wavy jet-black hair falling past her shoulders, '
+            'not tied back; one thin braid wrapped with small gold rings clearly visible at the front, on the right side of the image; clean forehead with no jewelry,\n'
+            'casual photo taken by a friend with a phone, from about 1.5 meters away, at the height of her eyes, straight on: she sits on a simple wooden chair on the back porch of an American house, '
+            'facing the camera, holding a plain white ceramic mug with both hands at chest height, steam barely visible, and looks straight into the lens; '
+            'both hands are fully visible around the mug, each with exactly five fingers; framed from the knees up, centered,\n'
+            'FRAMING, in percent of the image height from the top: from 0 to 20 percent only the plain white-painted horizontal wood siding of the house behind her shows, with nothing on it '
+            '(this band stays empty for text); the top of her head is at about 22 percent, her eyes at about 30 percent; from 80 to 100 percent only the plain, empty light-wood porch floor boards '
+            'and the bottom of the chair legs show (this band stays empty for a sticker),\n'
+            'back porch of a real lived-in American suburban house in the late afternoon: white-painted wood siding behind her, a window with white trim at the edge of the frame, '
+            'one green potted plant on the floor beside the chair, a folded cream throw blanket on the chair arm,\n'
+            'late afternoon, around 4 p.m.,\n'
+            'soft warm golden-hour sunlight coming from the left side of the image, a little uneven, like a real phone photo outdoors; no studio light, no ring light, no lens flare,\n'
+            'natural matte skin finish with visible pores and fine skin texture, subtle natural micro-imperfections, faint under-eye texture, natural variation in tone between face, '
+            'neck and hands, delicate peach fuzz, no oily or wet shine and no specular hotspots on the forehead, nose or cheeks, no smoothing, skin tone, age and features exactly as in the reference image,\n'
+            'hair exactly as in the reference image, with a few fine flyaway strands at the hairline and no floating strands, believable fabric weight and natural creases in the knit, all '
+            'clothing unbranded, anatomically correct hands with five natural fingers each, nothing duplicated or floating, lifelike anatomy and proportions with natural facial '
+            'asymmetry, caught in a natural moment rather than posed, eyes with natural moisture and small centred catchlights,\n'
+            'no cards, no crystals, no candles, no text and nothing written anywhere in the frame; the mug is plain white with no print,\n'
+            'shot on a smartphone camera, iPhone 15 main camera: looks exactly like a real casual photo taken with an iPhone, slight phone grain, everything in focus, no bokeh, no filter, '
+            'f/8 aperture, ISO 200, 1/200s shutter speed, natural depth of field, background stays readable, slightly imperfect framing, mild sensor noise in the shadows, '
+            'restrained edge sharpening and modest JPEG softness,\n'
+            'no film emulation, straight smartphone frame, no date stamp, no text, no watermark, natural phone colors, no color grading, natural skin tone preserved separately from the colour grade,\n'
+            'photorealistic, unretouched, candid documentary, UGC style, no studio lighting, no filters, no tattoos, no extra, fused or missing fingers, no duplicated or floating objects, no '
+            'warped reflections or architecture, no readable text, logos, captions or watermarks, no oily, wet, waxy or plastic skin, no beauty retouching or airbrushing, no HDR look '
+            'or over-sharpening, no exaggerated background blur, no fortune-teller costume,\n'
+            'character consistency: identical face, same skin tone, same hair, same body proportions as the reference image — only wardrobe, environment, and pose change')
+
+
 def img_central(c, n):
     s = CENAS[c]; outros = [n + 1, n + 2]
     return {
@@ -371,21 +409,22 @@ def montar(n):
             'face': f'{v["pergunta"][0].upper() + v["pergunta"][1:]} ✨ Your private reading is right here 🔮 👉 {FB}'},
         'respostas_face': {'aviso': P49['respostas_face']['aviso'], 'comentario': v['coment'], 'dm': v['dm']},
     }
-    if n < 58:
-        p['story'] = {'ja_postado': True, 'nota': 'Não poste story agora: o de ontem fica no ar até ~19h42, e o repost de hoje está no painel do nora58 (~17h50).'}
-    elif n == 58:
+    if n < 57:
+        p['story'] = {'ja_postado': True, 'nota': 'Não poste story agora: o de ontem fica no ar até ~19h42, e o repost de hoje, com a imagem nova (story-1111), está no painel do nora57 (~16h20).'}
+    elif n == 57:
         p['story'] = {
-            'prompt_imagem': '(Não gere imagem: use a story-3110 de novo. Só o texto muda.)',
-            'anexar': 'Nada: a imagem é a story-3110, que você já tem.',
-            'textos': [{'posicao': ('Uma frase só, uma cor (creme #F1E6D3), em 2 linhas, na parede acima da cabeça, logo abaixo da barra do Instagram (entre ~11% e ~19% da altura); '
-                                    'pode encostar no alto do cabelo, nunca no rosto. Adesivo de link na mesa, no lugar de sempre'),
+            'prompt_imagem': prompt_story(),
+            'anexar': 'Só a folha da Nora (o blueprint, a de 1K). No Flow (conta contatocaram): Imagem · 9:16 · Nano Banana Pro · x4 (0 crédito).',
+            'textos': [{'posicao': ('Uma frase só, uma cor (branco com contorno preto fino, ou preto se a parede sair bem clara), em 2 linhas, na parede branca acima da cabeça, logo abaixo da barra do Instagram '
+                                    '(entre ~8% e ~19% da altura); pode encostar no alto do cabelo, nunca no rosto. Adesivo de link no chão da varanda, embaixo, no centro. Provisório: eu confirmo pela imagem escolhida.'),
                         'texto': 'Tap below: your private reading\nis waiting for you on 11:11.'}],
             'adesivos': ['Open my reading'],
-            'nota': ('REPOSTE O STORY ~17h50, ANTES DO POST DAS 18h (o de 10/11 vence ~19h42), no Insta e no Face: imagem story-3110, o texto acima em 2 linhas e o adesivo de link '
-                     '“Open my reading”. Ao vivo, sem programar. Confira na prévia o link de cada rede. Em 12/11, o 1º painel do dia troca o texto pelo sem portal. '
+            'nota': ('IMAGEM NOVA DO STORY (story-1111): gere as 4 agora com o prompt abaixo e me mande; eu escolho e confirmo onde vai o texto. '
+                     'REPOSTE O STORY JUNTO COM O POST DO nora57 (~16h20), antes de o de ontem vencer (~19h42), no Insta e no Face: a imagem escolhida, o texto abaixo em 2 linhas e o adesivo de link '
+                     '“Open my reading”. Ao vivo, sem programar. Confira na prévia o link de cada rede. Sem cartas na imagem (o funil não tem cartas antes do quiz). '
                      f'Insta (STORYIG): {STORYIG} · Face (FACE): {FB}')}
     else:
-        p['story'] = {'ja_postado': True, 'nota': 'Não poste story: o de hoje foi repostado no painel do nora58 (~17h50).'}
+        p['story'] = {'ja_postado': True, 'nota': 'Não poste story: o de hoje (story-1111, imagem nova) foi repostado no painel do nora57 (~16h20).'}
 
     mt = copy.deepcopy(P49['mapa_tela'])
     mt['numeros'] = [dict(t=a, x=x, y=y, onde=o, cor_nome=cn, cor=co, tamanho=tm) for (a, x, y, o, cn, co, tm) in v['nums']]
@@ -452,8 +491,8 @@ def montar(n):
             pecas.append({'nome': nome(c, k), 'tipo': 'take', 'status': 'gerar', 'creditos': 12 if dur(k) == '8' else 15, 'descricao': f'Para o nora{dono} ({VIDEOS[dono]["hora"].split(" (")[0]}): “{F[k]}”'})
     if v['prova']:
         pecas.append({'nome': f'avaliação da {PROVA[v["prova"]][0].split()[0]}', 'tipo': 'prova', 'status': 'reutilizar', 'onde': 'Eu ponho na edição, antes do CTA. Você não faz nada.'})
-    if n == 58:
-        pecas.append({'nome': 'story-0311', 'de': 'story-3110', 'tipo': 'story', 'status': 'reutilizar', 'descricao': 'Repostar ~17h50 com o texto do 11:11 (seção Story).'})
+    if n == 57:
+        pecas.append({'nome': STORY_IMG, 'tipo': 'story', 'status': 'gerar', 'creditos': 0, 'descricao': 'Imagem nova do story (varanda, fim de tarde, suéter bege, caneca): gerar x4 agora e me mandar; repostar o story junto com o post do nora57 (~16h20).'})
     outros = [m for m in irmaos if m != n]
     decisao = ['Pré-gancho: o tsunami curto, só o nora47-PRE-A' + (' espelhado' if c == 'noite' else '') + ', antes do Take 1, sem música. Voltou pelas métricas do kit (sem ele, só 34% a 50% passam dos 3 s); curto pelo Clone (R23).',
                'Usa só 3 takes, nesta ordem: ' + ' + '.join(nome(c, k) for k in usa) + '.'
