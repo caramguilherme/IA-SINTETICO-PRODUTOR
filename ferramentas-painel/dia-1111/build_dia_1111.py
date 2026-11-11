@@ -279,9 +279,10 @@ COMUM_HASH = '#manifestation #1111portal #lawofattraction'
 LEG_INSTA = 'Claim this 11:11 energy, love ✨\nYour private reading is waiting in my story 🔮'
 LEG_FACE = 'This 11:11 energy is for you, love ✨\nYour private reading is waiting in my story 🔮'
 # 11/11 ~09h15 (decisão do aluno: "não custa testar a tática"): o truque do Loom (legenda em japonês com #TVアニメ) num vídeo só, o das 15h, só no Insta.
-LEG_JP = ('#TVアニメ 『11:11』 ✨🔮 今日は11月11日、1年でいちばん特別なポータルの日がついに開く!! 🌙 新しい章が始まるこの日、'
-          'あなたの人生はどこから変わり始めるのか…👀 その答えはストーリーの中に。受け取る準備はできていますか!? 💫✨\n'
-          'Your private reading is waiting in my story 🔮')
+LEG_JP = ('#TVアニメ 『11:11 PORTAL』 ✨🔮 宇宙から届く特別なエネルギーと manifest の最新情報がついに解禁!! '
+          '願いと宇宙の波動が重なり合う神秘的な瞬間を公開！ さらに、想像を超える未来の変化や願望を引き寄せるチャンスに加え、'
+          '11:11ポータルに秘められた特別な力も明らかに…👀 あなたの願いはどこから叶い始めるのか!? 💫\n'
+          'Your private reading is waiting in my story 🔮')  # a do ChatGPT do aluno (11/11 ~09h35), com a estrutura do Loom (#TVアニメ 『TEMA』), sem a linha solta do fim e com a linha do story
 LEG_INSTA_POR_VIDEO = {57: LEG_JP}
 # prova: a avaliação real do Trustpilot (provas-trustpilot/, sem a hora relativa) que entra antes do CTA, ou None (o controle)
 PROVA = {'05-karen': ('Karen W.', 'I just feel that for me there are good things about to happen'), '06-younger': ('Younger A. (EUA)', 'Everything she said is happening in my life'),
