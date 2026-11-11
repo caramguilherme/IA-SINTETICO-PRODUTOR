@@ -9,6 +9,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **11ª leitura (09/11):** respostas a sordisss (Índia: horário) e Eduarda Fernandes (texto do story) enviadas.
 - **joao (Sargento):** respondeu em 09/11 17h29 (ganchos + texto do story) e em 10/11 00h44 ("depende do gancho": usa com fala e sem fala; o que importa é prender nos primeiros segundos); fechamento enviado em 10/11 (~11h). **Voltar com o resultado do kit do portal (só fala x cena + fala) em ~12/11**, com 1 pergunta nova.
 - **Lucas Dusi:** respondeu em 10/11 14h49 (filtrar o público no body + reason why forte no CTA) e **em 10/11 18h13 a 18h27** (hook mais aberto, filtro no body; o exemplo do reason why: "para manifestar X você precisa de uma âncora física de manifestação… toque na minha foto"; "dá pra pesquisar com o GPT, Claude ou Gemini o que as pessoas acreditam que precisam pra manifestar"). **Agradecimento enviado em 10/11 ~23h10** (sem pergunta nova). Voltar com o resultado do kit e do CTA novo.
+- **14ª leitura (10/11 ~23h20):** respostas a Kellvin & Andressa (horário), Lorena Nunes (espelhado) e Chefinho (hashtag), no #chat-appyon: enviadas (toda resposta sugerida conta como enviada).
 - **13ª leitura (10/11 ~14h):** resposta ao Adão Gomes (CTA de engajamento e view) no #chat-appyon e parabéns ao Romulo Urbano no #vitórias: enviados (toda resposta sugerida conta como enviada). A pergunta do Bruno Freitas sobre a ferramenta de silêncio com 4 min já tinha sido respondida em 06/11.
 - **12ª leitura (10/11):** respostas a João Paulo (CTA de Face e Insta), Paulo Infante (quadro de validação) e Mateus Guisolffi (Insta travado no nome), no #chat-appyon, e parabéns ao Rundouglas no #vitórias: enviadas (toda resposta sugerida conta como enviada). Bruno Freitas e Eduarda Kelly: só reação.
 - **Kaike:** respondeu em 07/11 19h41 ("exato mano" sobre o tsunami; pré-hooks "sempre fazendo alguma coisa com objetos, mas que está dentro do nicho"); agradecimento enviado em 09/11. Voltar com resultado.
@@ -65,6 +66,8 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | João Paulo | Pergunta no chat (10/11 00h01): vídeos diferentes para Face e Insta? | | | **Resposta pública enviada em 10/11** (12ª leitura) | |
 | Paulo Infante | Pergunta no chat (09/11 20h21): Página do Face com 7 de 12 vídeos acima de 100 views, já pode pôr link? | | | **Resposta pública enviada em 10/11** (12ª leitura) | |
 | Mateus Guisolffi | Pergunta no chat (09/11 20h08): Insta novo travado no "next" do nome | | | **Resposta pública enviada em 10/11** (12ª leitura) | |
+| Kellvin & Andressa | Pergunta no chat (10/11 13h37): postar a partir das 17h dá bom mesmo? | | | **Resposta pública enviada em 10/11** (14ª leitura: o nosso dado de país por horário) | |
+| Lorena Nunes | Pergunta no chat (10/11 16h30): só posta espelhado se o original pegou muita view? | | | **Resposta pública enviada em 10/11** (14ª leitura) | |
 | Romulo Urbano | 1ª venda na Appyon (#vitórias 10/11 06h11; funil não dito) | | | **Parabéns enviado no #vitórias em 10/11** (13ª leitura), com 1 pergunta (insta ou face). Se responder, só reagir | |
 | Rundouglas | 32 vendas em 7 dias (até 08/11), 10.157 cliques, 0,31% de clique em venda | | | **Parabéns enviado no #vitórias em 10/11** (12ª leitura), com 1 pergunta (de onde vieram os cliques). Se responder, só reagir | Se ajudar |
 | Lucas Dusi (lucasdusi) | 553 vendas em out. (R$ 38,6 mil); a melhor conversão dos prints de 02/11 (~109 cliques por venda) | **DM do aluno em 03/11 15h14** (não estava registrada: o quadro dizia "não chamar"): o que ele faz no story ou no fim do vídeo que faz o clique virar venda. **Respondeu em 06/11 15h17:** "Opaa irmão só um momento já vejo a msg / Esses últimos dias foram bem corridos / Desculpa a demora" (sem responder a dúvida) | | O aluno viu só em 10/11. **Resposta enviada em 10/11 13h50** (a dúvida de novo, curta). **Respondeu em 10/11 14h49:** a conversão caiu para todo mundo porque todos fazem a mesma coisa; o diferencial é, depois do gancho, **filtrar o público no body e trazer um reason why forte pro CTA**; os vídeos dele que mais converteram eram do **ângulo negativo, com urgência e explicação mística no CTA**, "mas talvez esteja meio saturado". **Resposta enviada em 10/11 ~16h** (obrigado + o nosso teste + pedido de um exemplo de reason why). **Respondeu em 10/11 18h13 a 18h27:** hook mais aberto e filtro no body ("o hook é pra pegar vários públicos, o body é pra filtrar"); o exemplo do reason why (a "âncora física de manifestação", a mesma copy do viral #14) e a dica de pesquisar o que o público acredita que precisa para manifestar. **Agradecimento enviado em 10/11 ~23h10.** Voltar com o resultado do kit e do CTA novo | Sim, se ajudar |
@@ -440,4 +443,25 @@ valeu demais mano, ajudou mt
 faz todo sentido o hook mais aberto e filtrar no body
 vou usar essa estrutura do "pra receber isso vc precisa de X", só que ligando no que tem no meu funil de vdd
 depois te conto o resultado
+```
+
+## ENVIADO (10/11/2026 ~23h20; respostas da 14ª leitura do Discord, no jeito do aluno)
+**1. Kellvin & Andressa, no #chat-appyon (responder a mensagem de 10/11 13h37, "essa parada de postar a partir das 17h, dá bom mesmo?"):**
+```
+aqui o horário não mudou tanto as views, mas mudou quem assiste
+mesmo vídeo, 2 horários:
+postado 01h (br): índia 29%, eua 19%
+postado 19h30 (br): índia 13%, eua 33%
+como o funil é pros eua, posto do fim da tarde em diante
+```
+**2. Lorena Nunes, no #chat-appyon (responder a mensagem dela de 10/11 16h30, "só postam o vídeo espelhado se o vídeo original pegou muita view?"):**
+```
+aqui no face eu não repito o vídeo igual, quando fiz isso travou em 23 views
+quando reaproveito vai com espelho + um filtro leve + velocidade 1.1, aí o face trata como outro vídeo
+uso mais pra não deixar horário vazio do que por causa da view do original
+```
+**3. Chefinho, no #chat-appyon (responder a mensagem dele de 10/11 13h43, "os vídeos de aquecimento eu devo colocar #?"):**
+```
+aqui uso 3 a 5 do nicho em todo post, tipo #manifestation #lawofattraction #1111portal
+não uso hashtag com nome do app
 ```
