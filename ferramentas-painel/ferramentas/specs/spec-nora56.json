@@ -9,16 +9,14 @@
    "ini": 0,
    "fim": 10.875,
    "x": 0,
-   "y": 397,
-   "tamanho": 10,
+   "y": 458,
+   "tamanho": 9,
    "linhas": [
     "WEDNESDAY, NOVEMBER 11TH",
-    "today is 11:11,",
-    "this message is for you"
+    "today is 11:11, this is for you"
    ],
    "cores": [
     "#E53935",
-    "#000000",
     "#000000"
    ]
   },
@@ -37,7 +35,7 @@
    "ini": 15.1,
    "fim": 18.125,
    "x": 0,
-   "y": 397,
+   "y": 480,
    "tamanho": 9,
    "linhas": [
     [
@@ -61,7 +59,7 @@
    "ini": 18.125,
    "fim": 24.375,
    "x": 0,
-   "y": 397,
+   "y": 480,
    "tamanho": 9,
    "linhas": [
     [
@@ -89,7 +87,7 @@
    "ini": 0,
    "fim": 24.375,
    "x": 230,
-   "y": 506,
+   "y": 282,
    "tamanho": 15,
    "texto": "11:11",
    "cor": "#FFD21F"
@@ -99,7 +97,7 @@
    "ini": 0,
    "fim": 24.375,
    "x": -230,
-   "y": 506,
+   "y": 282,
    "tamanho": 12,
    "texto": "888",
    "cor": "#FF4FD8"
