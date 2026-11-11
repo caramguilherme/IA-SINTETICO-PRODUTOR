@@ -397,6 +397,9 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **Leitura:** o kit perde a pessoa nos 3 primeiros segundos: 34% a 50% passam, contra 66% a 72% dos 4 vídeos com o tsunami; o resto vem daí (o Insta entregou 135 a 804, contra 1.460 a 1.727). O longo (nora52) não ajudou (36% nos 3 s, 5 s de 59 s). Visitas ao perfil: 3 em ~1.280 views (2,3 por 1.000), contra 5,2 do nora49. Quando entrega, o público é bom (nora51: EUA 47,5%, 45+ 66%; nora53: EUA 59%). Entre as aberturas, a do nora51 ("this message is 100% meant for you", 19h30) segurou mais (50%), mas os horários são diferentes. **No Face, o mesmo:** 18% a 34% nos 3 s, contra 46% a 51%.
 - **Decisão (11/11 ~08h40): o pré-gancho volta já nos 6 do dia 11:** o tsunami (nora47-PRE-A + PRE-B, 0 crédito), normal na cena da manhã e espelhado na da noite, sem música. O teste da prova do Trustpilot continua (o pré-gancho é igual em todos). Os takes não mudam. O kit sem pré-gancho (modelo Soma) fica registrado como não validado na Nora.
 
+### 11/11/2026 08h36 - STORY do Insta (story-0311 repostado em 10/11 19h42, ~12h54 de vida)
+- 22 views, **17 viewers** (68,2% seguidores, 31,8% não seguidores), 0 interação, **4 toques no link (4 de 17 = 24%)**, navegação 16 (9 saíram, 5 avançaram, 2 foram ao próximo story), 0 atividade no perfil. O texto do story segue funcionando (19% a 24% de toques); o que falta é gente chegando ao story (17 viewers com ~1.280 views do kit no Insta).
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
