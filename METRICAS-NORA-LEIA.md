@@ -425,6 +425,11 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **Status da conta do Insta (print, ~19h25): tudo verde, inclusive "Recommendation eligibility"**: não é restrição. Fica a divisão da entrega pelo volume e os horários.
 - **Recomendação ao aluno:** conferir o Status da conta do Insta (Recomendações) agora (feito: ok); hoje à noite, no Insta só o nora58 (o horário das 19h30, onde o nora49 fez 2.011), e o nora59 e o nora60 só no Face; em 12/11, com ~24 h do nora58 contra o 55 a 57, decidir o volume do Insta.
 
+### 11/11/2026 19h45, TRACKER DA APPYON (print do aluno, "Hoje")
+- **4 cliques, 4 no quiz, 2 começaram, 1 terminou, 0 checkout, 0 venda.** Por perfil: **norakensleytarot (Instagram) 3 cliques, 3 no quiz, 2 começaram, 1 terminou**; sem perfil ("—") 1 clique e 1 no quiz = **o clique do próprio aluno às ~12h30 no link padrão da campanha (a descontar; `FATOS-DO-ALUNO.md`, funil v1.7)**. **Reais: 3, todos do Insta (STORYIG); Face: 0.**
+- **Leitura:** o Insta trouxe 3 cliques num dia de vídeos abaixo de 200 views (~500 views somadas do nora55 ao nora57 + o nora58 recém-postado): ~6 por 1.000 views, acima dos ~2 por 1.000 do nora50. O Face fez o recorde de views (nora55, 910) e **0 clique** (story com "Saiba mais" desde 16h20, comentário da Página com o link FACE, 8 comentários respondidos): views do Face não estão virando clique (2 cliques do Face em 2 semanas). A régua segue o clique: o Insta é quem leva ao funil.
+- **1 pessoa terminou o quiz** (foi para a VSL de ~24 min; o botão da oferta aparece aos 16:00). 0 checkout com 1 na VSL é o esperado.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
