@@ -29,7 +29,7 @@ Decisão do aluno em 18/10/2026: **antes de TODO roteiro novo e antes de TODO pr
 
 **O que já foi feito (para não repetir)**
 - `METRICAS-NORA.csv` (métricas dos vídeos, atualizar a cada leitura) · `METRICAS-NORA-LEIA.md` (diário das leituras) · `BIBLIOTECA-DE-TAKES.md` (nomes das peças e regras de reaproveitamento) · `DNA Visual - Nora v2.md`
-- `ROTEIRO-NORA36-*.md` a `ROTEIRO-NORA49-*.md`, o `ROTEIRO-KIT-PORTAL-NORA51-54.md` e os `ROTEIRO-FACE*.md` (testes só do Face) · `RESERVA-ROTEIRO-*.md` (os 2 de Manifestation)
+- `ROTEIRO-NORA36-*.md` a `ROTEIRO-NORA49-*.md`, o `ROTEIRO-KIT-PORTAL-NORA51-54.md`, o `ROTEIRO-DIA-1111-NORA55-60.md` e os `ROTEIRO-FACE*.md` (testes só do Face) · `RESERVA-ROTEIRO-*.md` (os 2 de Manifestation)
 
 **Só quando o pedido envolver**
 - `PLANO-MVM-LEGACY-APPYON.md` (desde 06/11/2026, a cópia PRINCIPAL do doc "Plano MVM Legacy – Appyon" do aluno, atualizada aqui a cada leitura do Discord, aula ou aviso: curso, Appyon, contas, links, story, Discord; consultar pela seção do assunto, ex.: "Cadastro na Appyon e links", "Funil Manifestation"; os limites de copy dele não valem aqui, P20 e P41)
