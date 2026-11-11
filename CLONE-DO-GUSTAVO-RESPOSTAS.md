@@ -347,9 +347,27 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 
 ---
 
-## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
-**A fazer (R28, 11/11 ~19h45, pedido do aluno):** queda de views no Insta com 6 por dia. Contexto com os números (1 por dia: 1.460 a 2.011 e 68% a 72% nos 3 s; kit de 10/11 de 2 em 2 h: 135 a 804; 11/11 de 3 em 3 h: os 3 primeiros abaixo de 200; o nora55 recorde no Face com 910; Status da conta verde) e 6 perguntas: volume e intervalo no Insta, Insta x Face, horários para os EUA, pré-gancho só com a onda, vídeo curto x longo e corpo repetido, e o plano de 12/11. Texto completo na resposta do agente de 11/11 ~19h45.
+## R28 (11/11, ~20h): queda de views no Insta com 6 por dia
+**Pergunta:** o contexto com os números (1 por dia: 1.460 a 2.011, 68% a 72% nos 3 s; kit de 10/11 de 2 em 2 h: 135 a 804; 11/11 de 3 em 3 h: os 3 primeiros abaixo de 200; nora55 recorde no Face com 910; -FACE 219 e 31; Status da conta verde; ~25 cliques e 0 venda) e 6 perguntas (volume, Insta x Face, horários, pré-gancho só com a onda, curto x longo e repetição, plano de 12/11).
 
+**Resposta (resumo):**
+1. **6 por dia de 3 em 3 h numa conta só de Insta canibaliza o alcance** (aulas 25 e 31, Estrutura Instagram): o Reels leva ~4 a 8 h para achar o público; post novo por cima corta a distribuição do anterior. Uma conta: **3 a 4 por dia, 4 a 5 h entre eles**. Os 6 a 10 do plano são para várias contas.
+2. **Face aguenta volume** (Estrutura Facebook, aula 43): **Insta 3 por dia, Face 4 a 6.**
+3. Horários (aulas 30, 51, Estrutura Facebook): Insta 11h30–12h, 16h30–17h30 e 20h30–21h30; Face 10h30, 13h, 15h30, 18h, 20h30 e 23h.
+4. Tirar o bunker do pré-gancho "impactou a retenção" (aulas 14 e 32): a micro-história (onda + fuga) segurava; "volte a utilizá-la".
+5. Curto não é punido por ser curto: o que freia é sair aos 4–5 s (aulas 18 e 28). **3 vídeos no mesmo dia com a mesma promessa e o mesmo CTA saturam o público da conta** (aula 31): variar gancho com o mesmo corpo é para dias ou contas diferentes. **A legenda japonesa atrapalhou muito** (a Meta classifica o post nos primeiros 10 a 30 min; trocar depois não recupera).
+6. 12/11: 3 no Insta (12h longo, 17h curto, 21h curto com outro gancho). Réguas: 3 s acima de 60%; tempo médio de 12 a 15 s no de ~25 s e de 18 a 22 s no de ~50 s; **15 a 30 visitas ao perfil por 1.000 views**; toques no link do story.
+
+**Para a Nora (11/11 ~20h):**
+- **Volume (proposto ao aluno, que decidiu os 6 em 10/11):** Insta 3 por dia, Face 6. Bate com o nosso dado (1 por dia: 1.460 a 2.011; 3 em 3 h: abaixo de 200), com o Kaike ("o Insta pede menos, o Face pede volume") e com a restrição do Ricardo com 6.
+- **Horários: os do Insta do Clone não batem com a conta dele mesmo:** 11h30–12h aqui são 9h30–10h em Nova York e 6h30–7h na Califórnia (não é almoço) e 20h–20h30 na Índia; é a faixa dos 3 que flopparam hoje. Fica o pico dos EUA da R17 (16h a 19h em Nova York = 18h a 21h aqui) e o nosso dado (19h30: 30% a 47,5% de EUA; 00h11: 36,5% e Índia fora do top 5). **Proposta: Insta às 16h, 20h e 00h (4 h entre eles); Face às 9h, 12h, 16h, 18h, 20h e 00h (às 16h, 20h e 00h, o mesmo vídeo nos dois).**
+- **Pré-gancho:** o Clone contradiz a R23 ("8 s é longo") e descreve a onda como "estática" (o PRE-A já tem ela correndo para o bunker; o PRE-B é ela lá dentro, calma). Os 3 s saem todos do PRE-A, e no Face o nora55 só com ele foi recorde (43% nos 3 s). Quem decide é o print do Insta (3 s e a curva aos 4–8 s). **Para o corpo novo de 12/11: o tsunami inteiro (PRE-A + PRE-B, 8 s, 68% a 72% validados, 0 crédito)**, para só o corpo mudar (uma variável por vez); a vela/cristais da R26 vira teste separado depois.
+- **Repetição:** confirma o que o Face mostrou (-FACE em 219 e 31): no Insta, nunca o mesmo corpo duas vezes seguidas no dia; o longo e o curto do corpo novo com ganchos diferentes.
+- **Visitas ao perfil:** a régua de 15 a 30 por 1.000 views não aparece em nenhum material nosso (o nora49 fez 5 por 1.000; o nora50, 2,7): anotar como do Clone, sem fonte conferida.
+
+---
+
+## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 
 Feitas e respondidas: R1 a R21 (07/11) e R22 (10/11, o kit do portal). Para conferir:
