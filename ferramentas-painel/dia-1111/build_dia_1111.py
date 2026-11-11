@@ -48,16 +48,19 @@ GESTO = {
     'A': 'during the first half of the take she tilts her head slightly with a curious look, in the closing half a warm, certain smile appears and she gives one small nod',
     'B': 'during the first half of the take she leans slightly toward the lens with a bright, curious look, in the middle her eyes glance briefly down and to the left side of the frame as if checking a clock while her hand stays still, and in the closing half her eyes return to the lens and she gives one slow nod with a warm smile',
     'C': 'during the first half of the take she holds a soft, understanding look with her head tilted slightly, in the closing half she gives one slow nod with a warm, reassuring smile',
-    'P': 'during the first half of the take her eyebrows lift with a joyful look, in the closing half she lifts her right hand to the height of her shoulder with the palm up and then returns it to {volta} with a warm smile',
+    'P': 'during the first half of the take her eyebrows lift with a joyful look, in the closing half she lifts her {mao} hand to the height of her shoulder with the palm up and then returns it to {volta} with a warm smile',
 }
 
 CENAS = {
     'manha': dict(
         img='manha1111-IMG', pre='manha1111', nome='cena da manhã', primeiro=55,
+        cel='her right arm on the left side of the frame', canto='bottom-left', livre_mao='her left hand on the right side of the frame', lado_gesto='right', mao='left',
+        aprovada='a 3ª opção de 11/11 ~01h55 (`ferramentas-painel/dia-1111/manha1111-IMG-escolhida-opcao3.jpg`)',
+        img_cel="her right arm, on the left side of the image, is raised toward the camera and is cut off by the bottom-left corner",
         roupa_pt='regata preta canelada e ajustada, de gola quadrada + moletom cinza bem largo, aberto e meio caído nos ombros',
         roupa='plain black fitted ribbed square-neck tank top worn under a very oversized, slouchy heather-grey zip-up hoodie, left open and hanging loose, slipping slightly down her shoulders, sleeves bunched at the forearms, both matte, no print, no logo',
         roupa_cont='her plain black fitted square-neck tank top and the very oversized, open heather-grey zip-up hoodie hanging loose over it',
-        repouso='lightly holds the edge of the open hoodie at collarbone height', volta='the edge of the hoodie at collarbone height',
+        repouso='rests at collarbone height, her fingers lightly holding a lock of her hair over the edge of the open hoodie', volta='the same spot at collarbone height',
         quando='in the morning', onde='a real, lived-in American home office', luz='lit only by soft daylight from a window on the right side of the frame',
         fundo='the plain light wall, the office chair behind her, the shelf and the window light',
         visual_t04='soft morning daylight from a window in the background',
@@ -65,11 +68,13 @@ CENAS = {
                   'a small green plant and a few books on a shelf at the edge of the frame'),
         hora_img='soft natural morning daylight from a window on the right side of the image',
         luz_img='only soft daylight from a window on the right side of the image, a little uneven, like a real phone photo in the morning; no studio light, no ring light',
-        mao_img='her right hand, on the left side of the image, lightly holds the edge of the open hoodie at the height of her collarbone, with exactly five fingers',
+        mao_img='her left hand, on the right side of the image, lightly holds the edge of the open hoodie at the height of her collarbone, with exactly five fingers',
         bagunca='a mug on the edge of the desk, a few books, ordinary home clutter, any signage or packaging unbranded and unreadable',
         cam='f/8 aperture, ISO 400, 1/100s shutter speed'),
     'noite': dict(
         img='noite1111-IMG', pre='noite1111', nome='cena da noite', primeiro=58,
+        cel='her left arm on the right side of the frame', canto='bottom-right', livre_mao='her right hand on the left side of the frame', lado_gesto='left', mao='right', aprovada='',
+        img_cel="her left arm, on the right side of the image, is raised toward the camera and is cut off by the bottom-right corner",
         roupa_pt='regata preta canelada e ajustada, de gola quadrada, alças largas',
         roupa='plain black fitted ribbed square-neck tank top with wide straps, matte, no print, no logo',
         roupa_cont='her plain black fitted square-neck tank top with wide straps',
@@ -103,17 +108,17 @@ def creditos(ks):
 
 def base_mov(c, d, g):
     s = CENAS[c]
-    return (f'Throughout the whole {d} seconds she keeps an unchanged handheld selfie framing, her left arm on the right side of the frame stays extended toward the camera '
-            f'holding the phone out of frame and never moves, her right hand on the left side of the frame {s["repouso"]} except during the one small '
-            'gesture described here, which always happens at the height of her shoulder on the left side of the frame and never in front of her face or mouth, and her eyes '
+    return (f'Throughout the whole {d} seconds she keeps an unchanged handheld selfie framing, {s["cel"]} stays extended toward the camera '
+            f'holding the phone out of frame and never moves, {s["livre_mao"]} {s["repouso"]} except during the one small '
+            f'gesture described here, which always happens at the height of her shoulder on the {s["lado_gesto"]} side of the frame and never in front of her face or mouth, and her eyes '
             f'stay on the lens, {g}, and from the end of the final sentence of the take until the clip ends she keeps her lips closed and silent; the camera keeps only a tiny '
             'natural handheld sway with no zoom and no cuts, the braid stays on the right side of the frame, everything else in the room stays still and each hand has exactly five fingers.')
 
 
 def mov_k(c):  # o CTA sem gesto de mão (lição do T04 de 10/11: mão descendo = filtro do Flow)
     s = CENAS[c]
-    return ('Throughout the whole 10 seconds she keeps an unchanged handheld selfie framing; her left arm on the right side of the frame stays extended toward the camera '
-            f'holding the phone out of frame and never moves; her right hand on the left side of the frame stays still and {s["repouso"]} for '
+    return (f'Throughout the whole 10 seconds she keeps an unchanged handheld selfie framing; {s["cel"]} stays extended toward the camera '
+            f'holding the phone out of frame and never moves; {s["livre_mao"]} stays still and {s["repouso"]} for '
             'the whole clip and never moves down; her eyes stay on the lens; during the first half of the take she holds a warm, confident look, and in the closing half she gives one '
             'small encouraging nod with a warm smile; from the end of the final sentence until the clip ends she keeps her lips closed and silent; the camera keeps only a tiny natural '
             'handheld sway with no zoom and no cuts, the braid stays on the right side of the frame, everything else in the room stays still and each hand has exactly five fingers.')
@@ -122,7 +127,7 @@ def mov_k(c):  # o CTA sem gesto de mão (lição do T04 de 10/11: mão descendo
 def mov(c, k):
     if k == 'K':
         return mov_k(c)
-    return base_mov(c, 8 if dur(k) == '8' else 10, GESTO[k].format(volta=CENAS[c]['volta']))
+    return base_mov(c, 8 if dur(k) == '8' else 10, GESTO[k].format(volta=CENAS[c]['volta'], mao=CENAS[c]['mao']))
 
 
 COMUNS = {('of', 'the'), ('and', 'the'), ('to', 'the'), ('in', 'the'), ('on', 'the'), ('at', 'the'), ('for', 'a'), ('of', 'her'), ('and', 'her'),
@@ -140,10 +145,10 @@ def livre(c):
     return (f'Casual handheld iPhone front-camera selfie video {s["quando"]} in {s["onde"]}, looking exactly like a real phone video, {s["luz"]}. '
             'CONTINUITY LOCKS for every take: the woman, her face, her long black wavy hair, the thin braid wrapped with small gold rings hanging down on the right side of the frame, '
             'the small flat gold crescent moon with three tiny gold stars on her cheek on the left side of the frame, her star-and-moon drop earrings, her thin gold Venus necklace, '
-            f'the thin gold bracelets on her right wrist, the gold sun ring on her right hand and {s["roupa_cont"]} stay exactly as in the reference image; the framing is exactly '
-            'the one of the reference image, a close selfie with her face large and centered and her eyes at about one third of the frame height; her left arm on the right side '
-            'of the frame stays extended toward the camera holding the phone out of frame, running off the bottom-right corner, and never moves; her right hand on the left side of '
-            f'the frame {s["repouso"]} and only lifts for the one small gesture of a take, at the height of her shoulder on the left side of the frame, never in front of her face '
+            f'the thin gold bracelets on her {s["mao"]} wrist, the gold sun ring on her {s["mao"]} hand and {s["roupa_cont"]} stay exactly as in the reference image; the framing is exactly '
+            f'the one of the reference image, a close selfie with her face large and centered and her eyes at about one third of the frame height; {s["cel"]} '
+            f'stays extended toward the camera holding the phone out of frame, running off the {s["canto"]} corner, and never moves; {s["livre_mao"]} '
+            f'{s["repouso"]} and only lifts for the one small gesture of a take, at the height of her shoulder on the {s["lado_gesto"]} side of the frame, never in front of her face '
             f'or mouth; {s["fundo"]} stay exactly where they are; natural skin texture with visible pores, slight phone grain, everything in focus, no bokeh, no filter, no glow and '
             'no sparkles; the camera has only a tiny natural handheld sway, no zoom, no cuts and no reframing; no phone, object, person, animal or text appears or disappears; '
             'each hand always has exactly five fingers; no on-screen text, no captions, no logos; real quiet room ambient sound only, no music. SPEECH RULE for every take: she '
@@ -159,7 +164,7 @@ def prompt_img(c):
             f'{s["roupa"]}, small flat shiny gold crescent moon with three tiny gold stars on the outer edge of her cheekbone near the temple, on the left side of the image; long gold '
             'star-and-moon drop earrings; thin gold necklace with a small Venus pendant; thin gold bracelets; gold sun ring; hazel-green eyes; long, loose, softly wavy jet-black hair falling past her shoulders, not tied back; '
             'one thin braid wrapped with small gold rings clearly visible at the front, on the right side of the image; clean forehead with no jewelry,\n'
-            "selfie taken with her own phone at arm's length: her left arm, on the right side of the image, is raised toward the camera and is cut off by the bottom-right corner "
+            f"selfie taken with her own phone at arm's length: {s['img_cel']} "
             'of the frame, and the phone itself is not visible; framed from the upper waist up, her face large and centered with her eyes at about 30 percent of the image height; '
             f'{s["mao_img"]}; she looks straight into the phone camera with her lips slightly parted, as if about to speak; no prop, no object in her hands or anywhere in the frame,\n'
             f'{s["cena_img"]},\n'
@@ -197,7 +202,7 @@ def img_central(c, n):
             'Confira cada uma das 4: é a Nora (lua com 3 estrelinhas na bochecha do lado esquerdo da imagem, trança com anéis, brincos de estrela e lua, colar de Vênus, testa limpa)? '
             'A roupa é a pedida, lisa, sem marca? O celular não aparece? Parece foto de celular? Algum texto nos cantos? Mão com 5 dedos?',
             f'Me mande as 4. Eu escolho, ajusto este painel pela escolhida (no mesmo link) e aviso. Renomeie a escolhida para {s["img"]}. Só gere os takes depois disso.',
-        ],
+        ] + ([f'FEITO: escolhida {s["aprovada"].split(" (")[0]}. Renomeie ela para {s["img"]}; o LIVRE e as movimentações já estão fechados por ela. Pode gerar os 5 takes.'] if s['aprovada'] else []),
         'grupos': [{'titulo': 'Prompt da imagem (cole no Flow)', 'campos': [
             {'campo': f'Prompt da {s["img"]}', 'valor': prompt_img(c), 'copiar': 1}]}],
     }
@@ -228,7 +233,8 @@ def config(c):
     for s in cf:
         for campo in s['campos']:
             if campo['campo'].startswith('LIVRE'):
-                campo['valor'] = f'colar o texto abaixo (PROVISÓRIO até a {CENAS[c]["img"]} ser aprovada; eu fecho pela imagem e republico)'
+                campo['valor'] = (f'colar o texto abaixo (fechado pela {CENAS[c]["img"]} aprovada)' if CENAS[c]['aprovada'] else
+                                  f'colar o texto abaixo (PROVISÓRIO até a {CENAS[c]["img"]} ser aprovada; eu fecho pela imagem e republico)')
                 campo['copiar'] = livre(c)
     return cf
 
@@ -276,19 +282,19 @@ VIDEOS = {
     55: dict(cena='manha', hora='9h', prova=None, k1='A',
              insta=f'If you see this on Wednesday, November 11th, it\'s meant for you. 🔮\nToday the 11:11 portal is open. Your private reading is waiting in my story.\nComment "ready" ✨\n{COMUM_HASH} #newbeginnings',
              pergunta='today is 11:11: which part of your life is ready for a new beginning?',
-             nums=[('11:11', 82, 10.5, 'alto à direita', 'verde-limão', '#7CFF4F', 16), ('222', 18, 10.5, 'alto à esquerda', 'branco', '#FFFFFF', 13), ('888', 82, 46.9, 'à direita, na altura do ombro', 'laranja', '#FF9F1C', 11)],
+             nums=[('11:11', 82, 10.5, 'alto à direita', 'verde-limão', '#7CFF4F', 16), ('222', 18, 10.5, 'alto à esquerda', 'branco', '#FFFFFF', 13), ('888', 18, 46.9, 'à esquerda, na altura do ombro', 'laranja', '#FF9F1C', 11)],
              coment=['☀️ Sent it to your messages, take a look ✨', '🔮 It\'s waiting in your inbox, beautiful 💖', '✨ Check your DMs, I just sent it 🌙'],
              dm=['☀️ [name], today is 11:11 ✨ Your private reading is right here:', '🔮 Hi [name]! As promised, here is your private reading 💖', '✨ [name], open this when you have a calm minute today 🌙 Your private reading:']),
     56: dict(cena='manha', hora='12h', prova='05-karen', k1='B',
              insta=f'If you see this on Wednesday, November 11th, look at the time. 🔮\nToday the 11:11 portal is open. Your private reading is waiting in my story.\nComment "open" ✨\n{COMUM_HASH} #1111',
              pergunta='what is the first thing you want to see change after today?',
-             nums=[('11:11', 82, 10.5, 'alto à direita', 'amarelo-ouro', '#FFD21F', 15), ('888', 18, 10.5, 'alto à esquerda', 'rosa-choque', '#FF4FD8', 12), ('222', 82, 46.9, 'à direita, na altura do ombro', 'ciano', '#3DE0FF', 11)],
+             nums=[('11:11', 82, 10.5, 'alto à direita', 'amarelo-ouro', '#FFD21F', 15), ('888', 18, 10.5, 'alto à esquerda', 'rosa-choque', '#FF4FD8', 12), ('222', 18, 46.9, 'à esquerda, na altura do ombro', 'ciano', '#3DE0FF', 11)],
              coment=['💌 Just sent it, check your inbox ✨', '🌟 It\'s in your messages now 🔮', '💖 Sent! Take a look at your DMs ☀️'],
              dm=['💌 [name], here\'s your private reading for today ✨', '🌟 Hi [name]! Your private reading is ready 🔮 Tap here:', '💖 [name], I saved this one for you on 11:11 ☀️ Your private reading:']),
     57: dict(cena='manha', hora='15h', prova=None, k1='C',
              insta=f'Holding your phone on November 11th, wondering if things will ever change? This is for you. 🔮\nToday the 11:11 portal is open. Your private reading is waiting in my story.\nComment "I believe" ✨\n{COMUM_HASH} #universe',
              pergunta='what are you ready to let into your life on this 11:11?',
-             nums=[('888', 18, 10.5, 'alto à esquerda', 'ciano', '#3DE0FF', 14), ('11:11', 82, 10.5, 'alto à direita', 'rosa-choque', '#FF4FD8', 15), ('222', 82, 46.9, 'à direita, na altura do ombro', 'amarelo-ouro', '#FFD21F', 11)],
+             nums=[('888', 18, 10.5, 'alto à esquerda', 'ciano', '#3DE0FF', 14), ('11:11', 82, 10.5, 'alto à direita', 'rosa-choque', '#FF4FD8', 15), ('222', 18, 46.9, 'à esquerda, na altura do ombro', 'amarelo-ouro', '#FFD21F', 11)],
              coment=['🌙 Look in your messages, it\'s there 💫', '✨ I sent it to your inbox 💖', '🔮 Check your DMs, beautiful ✨'],
              dm=['🌙 [name], this 11:11 is yours 💫 Your private reading:', '✨ Hey [name]! Here\'s the private reading I told you about 💖', '🔮 [name], three quick questions and it\'s ready ✨ Your private reading:']),
     58: dict(cena='noite', hora='18h', prova='06-younger', k1='A',
