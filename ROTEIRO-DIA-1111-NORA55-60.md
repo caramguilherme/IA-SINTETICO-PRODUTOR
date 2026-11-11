@@ -55,4 +55,4 @@ nora55 https://claude.ai/artifact/K4WvdkrAHAuiyBMxv9t9WT · nora56 https://claud
 
 
 ## 11/11 ~10h10 - O T04 sem o "private"
-- O T04 do Clone caiu 4 vezes no filtro do Flow (agente, à mão, A e B); passou sem a palavra "private" (C e D). **Fala nova do T04 (manhã e noite):** "To align your energy with today's portal, open my story: three quick questions, and your reading is ready." A C vai nos 3 da manhã (`manha1111-T04-cta-reading`); a D é a reserva. O "private reading" continua na faixa do story e na legenda. Detalhe no `LICOES-FLOW-E-PROMPTS.md` (11/11 ~09h50).
+- O T04 do Clone caiu 4 vezes no filtro do Flow (agente, à mão, A e B); passou sem a palavra "private" (C e D). **Fala nova do T04 (manhã e noite):** "To align your energy with today's portal, open my story: three quick questions, and your reading is ready." A melhor das duas (mesma fala) vai nos 3 da manhã (`manha1111-T04-cta-reading`); a outra é a reserva. O "private reading" continua na faixa do story e na legenda. Detalhe no `LICOES-FLOW-E-PROMPTS.md` (11/11 ~09h50).
