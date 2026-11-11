@@ -2640,6 +2640,9 @@ No Manifestation o valor por venda quase dobra (R$ 36 → R$ 69). Mas o Soulmate
 
 | Data | Aviso |
 | --- | --- |
+| 11/11 15h41 | **Risely com o Kobata, na call das 19h (Gustavo, @everyone):** "por parte da Appyon, já está tudo 100% para o lançamento do novo aplicativo do nicho de saúde; agora dependemos apenas do check da infraestrutura de payouts"; "o app de saúde está mais perto do que nunca"; presença "obrigatória" (quem estiver lá "sai na frente") |
+| 11/11 11h36 | Lembrete da call do Kobata às 19h (Victor Theotonio, @everyone): novidades, mudanças no projeto Appyon e perguntas sobre MVM e Appyon ao vivo |
+| 10/11 10h43 | **"Call comigo quarta" (Kobata): 11/11 às 19h no Legacy**, "BEM importante": mudanças no projeto Appyon, novidades de aula e o futuro do projeto; para quem começa e para quem já vende. O aluno assistiu ao vivo em 11/11 e manda a transcrição depois |
 | 16/10 | Risely (app de emagrecimento/fitness) atrasou: não saiu no começo de outubro como previsto e ainda não tem data (Gustavo) |
 | 08/11 21h06 | **Updates no Creative Hub (Gustavo):** os materiais ganharam identidade visual nova, "mais agradável e organizada"; o **Gerador de Animação** foi atualizado para o update do Flow e ganhou a opção de **takes de 15 s** (Omni Flash 1.2) |
 | 08/11 18h41 | **"Baby steps" (Gustavo, reforço):** "tem muita gente querendo voar sem nem ter criado asas"; dominar os processos e acertar antes de pensar em volume, 10 contas, automação ou delegar; "nosso trabalho não é sorte, tem todo um método e passos a seguir. Quem os segue, aí sim escala" |
