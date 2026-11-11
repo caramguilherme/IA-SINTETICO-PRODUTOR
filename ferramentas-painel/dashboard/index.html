@@ -281,7 +281,7 @@ function bars(box, rows, key) {
     vals.attr('text-anchor', 'middle').style('font-size', x.step() < 34 ? '10px' : null)
       .attr('x', (v) => x(v.id) + x.bandwidth() / 2).attr('y', (v) => y(v[key]) - 5);
   }
-  const every = Math.max(1, Math.ceil(22 / x.step()));
+  const every = Math.max(1, Math.ceil(30 / x.step()));
   const last = pts.length - 1;
   svg.append('g').selectAll('text').data(pts.filter((v, i) => (last - i) % every === 0)).join('text')
     .attr('class', 'nx-tick').attr('text-anchor', 'middle')
