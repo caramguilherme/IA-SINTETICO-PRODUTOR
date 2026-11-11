@@ -340,6 +340,11 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 
 **Para a Nora (11/11 ~13h25):** as 5 falas entram como estão no corpo novo de 12/11 (gerar 5 takes + Takes 1 extras: regra de 3 a 4 ganchos por corpo). **Fora:** o #AuraliTrend (R17: não está em nenhuma fonte nossa e põe o nome do app na legenda) e o link no comentário fixado do **Insta** (lá o link não é clicável e a regra é comentário fixado sem link; no Face, o comentário da Página com o link FACE continua). A legenda dele entra no Insta sem o #AuraliTrend, com "Comment X" no lugar do "save it" se a gente mantiver o pedido de comentário na legenda. O pré-gancho da vela (o do R23) é gerado junto.
 
+## R27 (11/11, ~13h30): #AuraliTrend e link no comentário fixado do Insta
+- **#AuraliTrend: não é mais obrigatória** (aula 54: o Gustavo testou, "não muda nada… não precisa mais usar", e ele nem usa hashtag). Sem hashtag ou 2 a 3 do nicho dá o mesmo resultado.
+- **Link no comentário fixado do Insta: não** (aula 11: "no Instagram não fica clicável, só no Facebook"). No Face, comentário com o link (clicável). No Insta, o caminho é o adesivo de link no 1º story do dia; o Clone cita também o link na bio e o pedido de comentário só com automação de DM.
+- **Para a Nora:** confirma as regras em vigor (#AuraliTrend fora; Insta: comentário fixado sem link; link só no story; Face: comentário da Página com o link FACE). **Link na bio segue fora** (R4: contas da comunidade travadas depois de pôr o link da Appyon na bio). Automação de DM: adiada pelo aluno (não propor). O "Comment X" da legenda do Insta é só engajamento (sem DM), como o da Soma. Hashtags: as 4 do nicho ficam.
+
 ---
 
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
