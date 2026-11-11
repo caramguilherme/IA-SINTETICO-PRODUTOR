@@ -49,7 +49,7 @@
 - Até 22 palavras por fala; números falados por extenso pela SPEECH RULE ("eleven eleven", "November tenth").
 
 ## Legenda e comentário
-- **Insta (revisão de 10/11 ~01h15: pedido com palavra variada):** nora51 "If you see this on November 10th, it's meant for you. 🔮 Tomorrow is 11:11. Your private reading is waiting in my story. Comment "I receive" to claim this ✨" · nora52 "…Comment "thank you universe" ✨" · nora53 "…Comment "I accept" ✨" · nora54 "…Today is 11:11… Comment "I'm ready" ✨"; mais 3 a 5 hashtags do nicho (#manifestation #1111portal #lawofattraction #manifestingmyreality).
+- **Insta (revisão de 10/11 ~01h15: pedido com palavra variada):** nora51 "If you see this on November 10th, it's meant for you. 🔮 Tomorrow is 11:11. Your private reading is waiting in my story. Comment "I receive" to claim this ✨" · nora52 "…Comment "thank you universe" ✨" · nora53 "…Comment "I accept" ✨" · nora54 "…Today the 11:11 portal is open… Comment "1111" ✨" (trocado em 10/11 ~23h58: no dia do portal, a palavra do pedido da Soma, v4 e v7); mais 3 a 5 hashtags do nicho (#manifestation #1111portal #lawofattraction #manifestingmyreality).
 - **Face:** a mesma legenda sem o pedido de comentário; comentário como a Página com o link FACE.
 - **Comentário fixado do Insta:** uma pergunta de verdade, sem link ("Which part of your life do you want to change first: love, peace, purpose or money? ✨ Your private reading starts in my story.").
 

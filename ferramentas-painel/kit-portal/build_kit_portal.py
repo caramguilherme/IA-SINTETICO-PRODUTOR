@@ -311,7 +311,7 @@ VIDEOS = {
              dm=['🌙 [name], your private reading is ready ✨ before 11:11:', '💫 Hi [name]! Open your private reading here 🔮', '✨ [name], open this when you have a quiet minute 💖 Your private reading:']),
     54: dict(hora='~01h30 (da noite de 10 para 11/11)', dia='11/11 (quarta)', tipo='curto', usa=['T01d', 'T02d', 'T04'], gera=['T01d', 'T02d'],  # 10/11 ~22h50: sem o T09, para só a abertura mudar contra o nora51 e o nora53
              caixa='WEDNESDAY, NOVEMBER 11TH\ntoday is 11:11,\nthis message is for you', caixa_fim='one hundred percent meant for you.',
-             insta=f'If you see this on Wednesday, November 11th, it\'s meant for you. 🔮\nToday the 11:11 portal is open. Your private reading is waiting in my story.\nComment "I\'m ready" ✨\n{COMUM_HASH} #1111',
+             insta=f'If you see this on Wednesday, November 11th, it\'s meant for you. 🔮\nToday the 11:11 portal is open. Your private reading is waiting in my story.\nComment "1111" ✨\n{COMUM_HASH} #1111',
              pergunta='today is 11:11: what are you asking the universe for?',
              nums=[('11:11', 82, 10.5, 'alto à direita', 'verde-limão', '#7CFF4F', 16), ('222', 18, 30, 'no meio à esquerda', 'branco', '#FFFFFF', 13), ('888', 82, 46.9, 'à direita, na altura do ombro', 'laranja', '#FF9F1C', 11)],
              coment=['💫 It\'s in your DMs, take a look ✨', '🔥 Check your inbox, I sent it 🔮', '✨ Sent to your messages 💖'],
