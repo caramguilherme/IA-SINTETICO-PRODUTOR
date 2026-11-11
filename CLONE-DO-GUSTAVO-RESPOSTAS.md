@@ -320,6 +320,14 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 
 **Para a Nora (aplicado em 11/11 ~13h05):** noite (58 a 60) volta a 5 takes (75 créditos): T02 "Today the 11:11 portal opens to lift the heavy weight off your shoulders and prepare your path for twenty twenty-seven." e T04 unificado "This shift doesn't happen for every woman. Tap my photo and check my story to see what twenty twenty-seven holds for you." (22 palavras; sai o T03 e o T05). **Uma parte não entrou: as cartas.** O Clone pede "pick your three cards", mas o Gustavo, em pessoa, no DM de 03/11, disse "não curto falar de cartas antes de chegar no quiz", e o story sem cartas (story-0311) foi o que mais teve toques (19%); vale o Gustavo em pessoa. Pedido de comentário sai da fala (só legenda e comentário fixado). Legenda japonesa encerrada: do nora56 em diante, Insta em inglês com pedido de comentário (palavra diferente em cada vídeo) e 4 hashtags do nicho. #AuraliTrend segue fora (R17). Os 3 Takes 1 da noite ficam (teste da prova).
 
+## R25 (11/11, ~13h10): cartas no CTA, story de 12/11 e o ângulo do corpo novo
+**Resposta, resumida (colada pelo aluno):**
+1. **Cartas: não citar** no criativo nem no CTA (aula 66: "eu não colocaria as cartas já na copy… gosto de deixar a pessoa entrar e ver as cartas"; aula 28: CTA amplo com "reading"). A frase "This shift doesn't happen for every woman. Tap my photo and check my story to see what twenty twenty-seven holds for you." está "perfeita" (qualificação sem ameaça, gesto físico, motivo com 2027; aulas 28, 65 e 66).
+2. **Story de 12/11** (aula 13: texto simples, só ponte): opção 1 "Your next chapter is already in motion. / Tap below to see what 2027 holds for you."; opção 2 "The weight is lifting and a new cycle begins. / Your personal 2027 reading is waiting below."; adesivos "See your 2027" e "Open your reading" (aulas 13 e 64).
+3. **Corpo novo:** ângulo "the hardest part is over" + virada de ciclo para 2027 (aulas 55, 65 e 68). Take 1: "If this video finds you on Thursday, November 12th, take a deep breath: the hardest part of your year is finally over." Promessa (clareza e paz): "The heavy fog is clearing right now to give you total peace and direction about what twenty twenty-seven holds for you." Ofereceu o esqueleto do longo (~50 s).
+
+**Para a Nora (11/11 ~13h15):** (1) o T04 da noite fica como está (confirmado; a regra de 03/11, sem cartas, tem agora a aula 66 como fonte). (2) Story de 12/11: a opção 1 com o adesivo "See your 2027", na imagem `story-1111`; em 13/11, a opção 2 com "Open your reading" (rodízio de um por dia, medindo toques ÷ viewers; substitui o rodízio de 10/11 com o texto do joao). (3) O corpo novo de 12/11 nasce com esse ângulo, esse Take 1 e essa promessa; o esqueleto do longo foi pedido ao Clone (o aluno manda), e eu fecho as falas com a leitura completa.
+
 ---
 
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
