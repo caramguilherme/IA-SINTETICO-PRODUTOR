@@ -277,7 +277,7 @@ COMUM_HASH = '#manifestation #1111portal #lawofattraction'
 # 11/11 ~09h (teste do aluno, Loom do Diego Venancio): legenda-base de um viral do nicho, ~70% parecida, a mesma nos 6 vídeos do dia.
 # Base: a legenda do reel de 1,2 mi da Soma Chhaya ("Claim this good energy babe ✨", sem hashtag). No Insta, com a linha do story; no Face, sem o "claim".
 LEG_INSTA = 'Claim this 11:11 energy, love ✨\nYour private reading is waiting in my story 🔮'
-LEG_FACE = 'This 11:11 energy is for you, love ✨\nYour private reading is waiting in my story 🔮'
+LEG_FACE = 'This 11:11 energy is for you, love ✨\nYour private reading is waiting in my story 🔮\n#manifestation #1111portal #lawofattraction #abundance'  # 11/11 ~10h30: as hashtags do nicho voltam no Face (Estrutura Facebook e aula 54, Clone R20; tinham saído com a legenda-base modelada da Soma, sem ser teste)
 # 11/11 ~09h15 (decisão do aluno: "não custa testar a tática"): o truque do Loom (legenda em japonês com #TVアニメ) num vídeo só, o das 15h, só no Insta.
 LEG_JP = ('#TVアニメ 『11:11 PORTAL』 ✨🔮 宇宙から届く特別なエネルギーと manifest の最新情報がついに解禁!! '
           '願いと宇宙の波動が重なり合う神秘的な瞬間を公開！ さらに、想像を超える未来の変化や願望を引き寄せるチャンスに加え、'
