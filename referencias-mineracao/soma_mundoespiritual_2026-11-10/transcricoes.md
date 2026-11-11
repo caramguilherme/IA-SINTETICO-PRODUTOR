@@ -204,3 +204,243 @@ Baixados pelo link da pasta (gdown), transcritos aqui (faster-whisper small, idi
   89.5-  95.3 Você toma posse, escreve aqui, eu tomo posse, manda para uma pessoa que ela tá precisando dessa palavra também, viu?
   95.3-  99.0 E já clica no link da bio que eu preparei o decreto para destravar a tua vida.
 ```
+
+# Lote 2 (6 vídeos novos na mesma pasta, 10/11/2026 ~23h15; os 9 antigos foram pulados pelo md5)
+
+## v10 · homem de óculos (perfil não informado) · 111 s
+- **Cena e edição:** despeja canela num copo d'água na abertura e segura a taça o vídeo todo; 11:11 e 222 pequenos na tela; legenda pequena branca no meio.
+```
+[en]
+   0.0-   3.6 Put cinnamon inside a glass of water before you leave the house.
+   3.6-   7.6 I know it sounds ridiculous, but you'll thank me for the rest of your life.
+   7.6-  11.6 Don't you dare scroll past this or the universe might skip your blessing.
+  11.6-  16.6 The woman who stopped on this video is officially protected from any disappointment for the rest
+  16.6-  22.1 of 2026. I don't know your name, but if this video found you on Tuesday, November 10th,
+  22.1-  24.9 do not scroll. A major turnaround is coming your way.
+  24.9-  27.8 When you receive this blessing, keep your mouth shut.
+  27.8-  31.7 A powerful wave of prosperity, love and money is heading your way.
+  31.7-  36.6 Don't tell anyone, but the abundance portal has opened. The worst is finally over.
+  36.6-  42.3 I see a lot of money, prosperity, and someone incredibly wonderful walking into your life.
+  42.3-  46.1 Before you scroll, close your right hand and listen until the end.
+  46.1-  50.6 This video isn't for everyone, but pay attention. Your connection with this message
+  50.6-  53.5 determines the size of the miracle that's coming.
+  53.6-  57.3 The universe chose you. If you skip right now, the energy breaks.
+  57.3-  59.9 I feel something unusual happening to you right now.
+  59.9-  63.8 I see the chains that were keeping you trapped in scarcity being broken.
+  63.8-  67.4 The love block that was cast on you is going straight back to whoever sent it.
+  67.4-  71.5 In the next seven minutes, the energy of scarcity that was following you
+  71.5-  75.2 is going to be destroyed forever. Now open your hand and send this video
+  75.2-  77.4 to yourself right now, because in seven minutes,
+  77.4-  80.6 you are going to come back to confirm this energetic shift for yourself.
+  80.6-  83.3 Now save this video. That will be your first seal.
+  83.3-  86.7 Tap the follow button down below. That will be your second seal.
+  86.7-  89.8 Comment 222 so I can see that you did everything.
+  89.8-  93.8 If you did everything right, your protection for the rest of the year is guaranteed.
+  93.8-  97.0 But listen closely. This energy is highly sensitive.
+  97.0- 100.2 And if you leave it unprotected, it can easily slip away.
+ 100.2- 104.6 So click my profile picture and go watch my latest story before it disappears.
+ 104.6- 107.1 Almost everyone cries when they see what I left there.
+ 107.1- 110.6 The exact sign you've been waiting for is waiting for you right now.
+```
+
+## v11 · o mesmo homem · 105 s
+- **Cena e edição:** igual ao v10 (canela no copo), data de segunda 9/11.
+```
+[en]
+   0.0-   2.0 Put cinnamon inside a glass of water
+   2.0-   3.3 before you leave the house.
+   3.3-   4.8 I know it sounds ridiculous,
+   4.8-   7.1 but you'll thank me for the rest of your life.
+   7.1-   8.3 Keep your mouth shut.
+   8.3-  11.4 If this video showed up for you on Monday, November 9th,
+  11.4-  13.7 don't tell anyone what's about to happen.
+  13.7-  15.6 I don't know your name or what you did,
+  15.6-  17.4 but the universe saw your faith
+  17.4-  19.5 and a major turnaround is coming into your life
+  19.5-  20.8 over the next few days.
+  20.8-  23.0 Something completely out of the ordinary
+  23.0-  25.0 is about to happen in your life.
+  25.0-  29.2 Money, prosperity, and someone truly special
+  29.3-  32.2 are about to enter your life unexpectedly.
+  32.2-  34.4 If you turn your back on this message,
+  34.4-  36.8 the blessings will turn their back on you too.
+  36.8-  38.6 So take this very seriously.
+  38.6-  40.9 St. Michael the Archangel has sent a warning.
+  40.9-  42.8 A phase of victories and prosperity
+  42.8-  44.4 is about to begin in your life.
+  44.4-  46.2 The worst is finally behind you.
+  46.2-  47.6 I can already see the chains
+  47.6-  50.5 that were keeping you trapped in scarcity, breaking apart.
+  50.5-  52.1 The doors that were once closed to you
+  52.1-  53.7 will finally begin to open.
+  53.7-  55.3 In the next seven minutes,
+  55.3-  58.6 a powerful energy of abundance will surround you
+  58.6-  60.6 and stay with you for the rest of your life.
+  60.6-  62.8 So send this video to yourself right now,
+  62.8-  64.3 because in seven minutes,
+  64.3-  65.6 you're gonna come back to confirm
+  65.6-  67.3 this energetic shift for yourself.
+  67.3-  68.8 Now, save this video,
+  68.8-  70.5 because that will be your first seal.
+  70.5-  72.2 Double tap the screen quickly.
+  72.2-  73.7 That will be your second seal.
+  73.7-  77.1 Comment, I receive, so I know you followed all the steps.
+  77.1-  78.8 If you did everything correctly,
+  78.8-  80.6 tomorrow at 10 in the morning,
+  80.6-  82.8 you'll receive some incredibly good news
+  82.8-  86.0 that will confirm the beginning of this new chapter.
+  86.0-  87.6 But the universe is warning me
+  87.6-  89.3 that this change will only happen
+  89.3-  92.2 for those who are able to manifest it the right way.
+  92.2-  94.9 That's why I left a quick reading in my stories.
+  94.9-  97.4 That will reveal whether you're one of those people.
+  97.4-  99.5 So tap my profile picture down below
+  99.5- 101.3 and go find out right now,
+ 101.3- 103.1 because you could be just one step away
+ 103.1- 105.7 from living everything you've always dreamed of.
+```
+
+## v12 · scarlletmorgantarot (marca d'água @SCARLLETMORGANTAROT) · 131 s
+- **Cena e edição:** segura a carta do Arcanjo Miguel, geodo de ametista na frente; legenda grande em degradê; 888, 222 e 11:11 pequenos; adesivo "AMEN 🙏"; no fim, caixa "Check out the surprise in my Stories. ⭐" no topo e seta vermelha embaixo à esquerda.
+```
+[en]
+   0.0-   9.0 There is a woman lying down right now holding her phone in her hand and she is the woman
+   9.0-  14.7 Archangel Michael asked me to deliver a very important message to today. I don't know your
+  14.7-  20.5 name or what you've done but if this video finds you before Wednesday, November 11th,
+  20.5-  25.8 get ready. The universe has seen your faith and a major turnaround is about to happen in your
+  25.8-  31.3 life. Over the next few days an extraordinary transformation is about to take place in your life.
+  32.0-  38.2 I see money, prosperity and someone incredibly wonderful who is about to come into your life
+  38.2-  43.8 unexpectedly. But if you turn your back on this message the blessings will turn their backs on
+  43.8-  49.4 you too. So take this very seriously. St Michael the Archangel has sent a warning,
+  50.2-  54.7 a season of victory and prosperity is approaching your life. The worst is finally
+  54.7-  60.6 behind you. I can already see the chains that have been keeping you trapped in scarcity, breaking
+  60.6-  67.9 apart, the doors that refuse to open for you will finally begin to open. Within the next seven
+  67.9-  72.7 minutes a powerful energy of abundance will wash over you and remain with you for the rest of
+  72.7-  79.2 your life. So send this video to yourself right now because in seven minutes you'll come back
+  79.3-  85.6 and confirm this energetic shift for yourself. Now save this video because that will be your first
+  85.6-  92.9 seal. Quickly double tap the screen, that will be your second seal. And comment I believe so I
+  92.9-  99.2 can see that you've done everything. If you do everything correctly tomorrow morning at 10 10
+  99.2- 105.0 a.m you'll receive incredibly good news confirming the beginning of this new chapter. But I'm
+ 105.0- 110.9 receiving a warning this shift will only happen for women who have a dormant power of manifestation
+ 110.9- 115.9 within them. That's why I left a quick reading in my stories that will reveal whether you're one of
+ 115.9- 121.7 those women and how to awaken that power. So tap my profile picture below and check it out right
+ 121.7- 128.9 now because you could be just one step away from living everything you've ever dreamed of.
+```
+
+## v13 · scarlletmorgantarot · 148 s
+- **Cena e edição:** segura um caderno escrito "November 11th"; mesma edição do v12.
+```
+[en]
+   0.0-  10.0 Mark your fucking calendars for November 11th, because we are having the craziest manifestation portal we'll see in the next 10 years.
+  10.0-  15.0 This energy is literally so rare and powerful that you can manifest anything you desire.
+  15.0-  20.0 So save this video, send it to a friend, and share these blessings.
+  20.0-  23.0 And I want you to claim this energy for yourself right now.
+  23.0-  26.0 Go ahead and comment, thank you universe.
+  26.0-  31.0 Send gratitude out into the universe because the universe is a mirror.
+  31.0-  35.0 The energy you put out is exactly the energy you get back.
+  35.0-  37.0 The law of return is real.
+  37.0-  40.0 Comment 1111 to seal our connection.
+  40.0-  47.0 On November 11th, it will be the 11th day of the 11th month, also known as the 1111 portal.
+  47.0-  51.0 The 1111 portal happens every year on November 11th.
+  51.0-  55.0 The angel number 1111 is a cosmic gateway.
+  55.0-  59.0 It brings new beginnings and new chapters into your life.
+  59.0-  64.0 Your intuition will become stronger and every intention you set will have the power to manifest.
+  64.0-  72.0 But this year, the 1111 portal will be 10 times more powerful than in any previous year, because we're in 2026.
+  72.0-  78.0 If you add 2 plus 0 plus 2 plus 6, you get 10, which reduces to 1.
+  78.0-  85.0 That additional number 1 combines with 1111, creating 5 ones in a row.
+  85.0-  94.0 This extra one makes the 1111 portal 10 times more powerful, and an alignment like this won't happen again for another 10 years.
+  94.0-  97.0 This is the perfect time for new beginnings.
+  97.0- 104.0 If you want a new car, a new house, a new relationship, or a new opportunity, this is the time to attract it into your life.
+ 104.0- 113.0 You can also manifest something very specific, a particular person, a specific situation, a special opportunity, or a certain amount of money.
+ 113.0- 119.0 And as if all this energy weren't already enough, we're also going to have a meteor shower on November 11th,
+ 119.0- 124.0 which means thousands of shooting stars will be crossing the sky while this energy is active.
+ 124.0- 129.0 So your mission is to make sure you manifest.
+ 129.0- 131.0 Take advantage of this energy.
+ 131.0- 138.0 Go to my stories right now and check out the second part of this blessing, then put it into practice today.
+ 138.0- 143.0 So go ahead and do the 1111 ritual. Happy manifesting.
+```
+
+## v14 · scarlletmorgantarot · 139 s
+- **Cena e edição:** aponta o dedo para a câmera; bandeiras do Reino Unido atrás; mesma edição do v12.
+```
+[en]
+   0.0-  12.6 A deceased member of your family who is in heaven has asked me to deliver a very important message
+  12.6-  21.0 to you. If your answer is yes, accept it and watch this video until the end. Keep your mouth
+  21.9-  28.1 shut after you watch this. Do not tell anyone. Not everyone is going to see this before November
+  29.0-  38.3 8th. I do not know your name but do not scroll because if this reached you today it reached
+  38.3-  45.0 you as a final warning. A powerful wave of prosperity, love and money is heading your way.
+  45.0-  49.7 Don't tell anyone but the abundance portal has opened. The worst is finally over.
+  50.4-  57.2 I see a lot of money, prosperity and someone incredibly wonderful walking into your life.
+  58.1-  68.2 Before you scroll, close your right hand and listen until the end. This video isn't for everyone.
+  68.2-  75.4 The universe chose you. If you skip right now, the energy breaks. I feel something very unusual
+  75.4-  79.9 happening to you right now. I see the chains that were keeping you trapped in scarcity being
+  79.9-  84.2 broken. The love block that was cast on you is going straight back to whoever sent it.
+  84.8-  89.3 In the next seven minutes, the energy of scarcity that was following you
+  89.3-  95.3 is going to be destroyed forever. So send this video to yourself right now because in seven minutes
+  95.3- 100.2 you're going to come back to confirm the energetic shift for yourself. Now open your hand
+ 100.2- 106.4 and save this video. That will be your first seal. Double tap quickly on your screen.
+ 106.4- 112.8 That will be your second seal. Type 222 in the comments so I can see you did everything.
+ 113.4- 119.7 If you did everything right, tomorrow at 11am you're going to receive some incredibly good news.
+ 120.5- 125.0 Pay close attention. This energy is highly sensitive and other people's envy can completely
+ 125.0- 130.7 break it. So tap my profile picture and check my stories before they disappear
+ 130.7- 135.0 because the second part of this sign is waiting for you there.
+```
+
+## v15 · o mesmo homem do v10 · 108 s
+- **Cena e edição:** igual ao v11 com a data de terça 10/11 (só a linha da data muda).
+```
+[en]
+   0.0-   2.6 Put cinnamon inside a glass of water
+   2.6-   4.0 before you leave the house.
+   4.0-   5.6 I know it sounds ridiculous,
+   5.6-   7.7 but you'll thank me for the rest of your life.
+   7.7-   8.8 Keep your mouth shut.
+   8.8-  12.2 If this video showed up for you on Tuesday, November 10th,
+  12.2-  14.5 don't tell anyone what's about to happen.
+  14.5-  16.2 I don't know your name or what you did,
+  16.2-  17.8 but the universe saw your faith
+  17.8-  20.2 and a major turnaround is coming into your life
+  20.2-  21.6 over the next few days.
+  21.6-  24.2 Something completely out of the ordinary
+  24.2-  26.4 is about to happen in your life.
+  26.4-  30.2 Money, prosperity, and someone truly special
+  30.2-  33.1 are about to enter your life unexpectedly.
+  33.1-  34.7 If you turn your back on this message,
+  34.7-  36.8 the blessings will turn their back on you too.
+  36.8-  38.9 So take this very seriously.
+  38.9-  41.6 St. Michael the Archangel has sent a warning.
+  41.6-  43.8 A phase of victories and prosperity
+  43.8-  45.4 is about to begin in your life.
+  45.4-  47.2 The worst is finally behind you.
+  47.2-  48.6 I can already see the chains
+  48.6-  51.6 that were keeping you trapped in scarcity breaking apart.
+  51.6-  53.9 The doors that were once closed to you
+  53.9-  55.8 will finally begin to open.
+  55.8-  57.4 In the next seven minutes,
+  57.4-  60.3 a powerful energy of abundance will surround you
+  60.3-  62.5 and stay with you for the rest of your life.
+  62.5-  65.2 So send this video to yourself right now
+  65.2-  66.4 because in seven minutes,
+  66.4-  67.2 you're gonna come back
+  67.2-  69.7 to confirm this energetic shift for yourself.
+  69.7-  71.0 Now save this video
+  71.0-  72.8 because that will be your first seal.
+  72.8-  74.6 Double tap the screen quickly.
+  74.6-  76.2 That will be your second seal.
+  76.2-  77.8 Comment, I receive.
+  77.8-  79.8 So I know you followed all the steps.
+  79.8-  81.3 If you did everything correctly,
+  81.3-  82.7 tomorrow at 10 in the morning,
+  82.7-  84.7 you'll receive some incredibly good news
+  84.8-  87.0 that will confirm the beginning of this new chapter.
+  87.0-  88.5 But the universe is warning me
+  88.5-  90.6 that this change will only happen
+  90.6-  93.8 for those who are able to manifest it the right way.
+  93.8-  96.8 That's why I left a quick reading in my stories
+  96.8-  99.5 that will reveal whether you're one of those people.
+  99.5- 101.9 So tap my profile picture down below
+ 101.9- 103.6 and go find out right now
+ 103.6- 105.4 because you could be just one step away
+ 105.4- 108.3 from living everything you've always dreamed of.
+```
+
