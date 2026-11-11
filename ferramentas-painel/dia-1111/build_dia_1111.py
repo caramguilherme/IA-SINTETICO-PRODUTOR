@@ -13,7 +13,8 @@ assert MODELO.count('const PACOTE = null;') == 1
 
 
 def pacote(nome):
-    t = (R / nome).read_text(encoding='utf-8')
+    p = R / nome if (R / nome).exists() else R / 'arquivo' / 'paineis' / nome  # os painéis postados foram para o arquivo em 11/11
+    t = p.read_text(encoding='utf-8')
     i = t.index('const PACOTE = ') + len('const PACOTE = '); j = t.index(';\n', i)
     return json.loads(t[i:j])
 

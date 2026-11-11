@@ -50,7 +50,7 @@ O aluno usa uma conta do Claude até o limite semanal acabar e passa para outra.
 | Números de cada vídeo, Tracker e o diário das leituras | `METRICAS-NORA.csv` e `METRICAS-NORA-LEIA.md` |
 | Peças geradas e postadas | `BIBLIOTECA-DE-TAKES.md` |
 | Vídeos de referência, pré-ganchos, provas reais | `BIBLIOTECA-VIDEOS-VIRAIS.md`, `BIBLIOTECA-PRE-GANCHOS.md`, `PROVAS-REAIS-TRUSTPILOT.md` |
-| Roteiros e painéis | `ROTEIRO-NORA*.md`, `PAINEL-NORA*.html`, `PAINEL-FACE01.html`, `PAINEL-FACE02.html`; reserva do próximo corpo em `RESERVA-ROTEIRO-CORPO-C-TEMPO-PASSANDO-PORTAL-1111.md` |
+| Roteiros e painéis | Na raiz, só os dos vídeos ainda em uso (`ROTEIRO-KIT-PORTAL-NORA51-54.md`, `ROTEIRO-DIA-1111-NORA55-60.md`, `PAINEL-NORA51.html` em diante); os dos postados até o nora50 em `arquivo/roteiros/` e `arquivo/paineis/`; reservas em `RESERVA-ROTEIRO-*.md` |
 | Doc do MVM (curso, Appyon, contas, custos, dicas) | `PLANO-MVM-LEGACY-APPYON.md` (cópia do doc vivo de 05/11 ~14h) |
 | Dashboard, skill, ferramentas | `ferramentas-painel/dashboard/`, `ferramentas-painel/skills/`, `ferramentas-painel/ferramentas/LEIA.md` (`editar_video.py`, fonte Poppins, transcrição) |
 | Imagens para a edição | `ferramentas-painel/imagens-fixas/` (as 3 do desejo) e `provas-trustpilot/` (4 avaliações reais) |
