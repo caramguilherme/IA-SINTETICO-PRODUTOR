@@ -362,6 +362,11 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **Horário:** 23h40 aqui = 18h40 na Califórnia e 21h40 em Nova York (8h10 de 11/11 na Índia).
 - **O que olhar (~24 h):** igual ao nora51 (os dois curtos sem o filtro do relógio): % nos 3 s, tempo médio contra os 18,5 s, visitas ao perfil por 1.000 views, comentários ÷ views, Índia x EUA.
 
+### 11/11/2026 01h39 - nora54 postado (Insta e Face)
+- **nora54 no ar às 01h39 de 11/11** (aluno): o 3º curto do kit (20,9 s; T01d com o filtro do relógio + T02d "today the portal is open" + T04), sem pré-gancho. Legenda do Insta com "Comment "1111""; Face sem.
+- **Horário:** 01h39 aqui = 20h39 na Califórnia e 23h39 em Nova York (ainda 10/11 nos EUA, mas a fala diz "Wednesday, November 11th": para quem vê na manhã de 11/11 nos EUA, bate).
+- **O que olhar (~24 h):** a abertura contra o nora51 e o nora53 (% nos 3 s, tempo médio contra os 20,9 s, visitas ao perfil por 1.000 views, comentários ÷ views com "1111"), e a Índia x EUA (postado de madrugada aqui).
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
