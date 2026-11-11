@@ -1290,3 +1290,8 @@ Lidos em 01/11: a página inicial com todas as seções (como funciona, Cortador
   2. **Gancho de situação** (v12) entra como 1 dos 3 a 4 ganchos do corpo novo (Clone R13), sem o Arcanjo: "There's a woman holding her phone right now, wondering if things will ever change. If that's you, this message is meant for you."
   3. **Mecanismo de numerologia** (v13) fica guardado; o portal acaba hoje.
   4. **Nada muda no nora54** (o T04 é o mesmo do kit; o motivo novo vai para o corpo novo).
+
+### 11/11/2026 ~00h10 - Números brancos e simples (ideia do aluno, a partir do v15 do homem da canela)
+- **O aluno:** "nos nossos vídeos os números são coloridos; nesse rapaz são brancos, bem simples… dá para testar, talvez no nora54… para não ficar muito cheio de cor".
+- **Como são no v15** (`referencias-mineracao/soma_mundoespiritual_2026-11-10/numeros-brancos-v15.jpg`): só 2 números (11:11 no alto à direita, 222 no meio à esquerda), brancos, letra grossa com contorno preto fino, pequenos (uns 28 px de altura num vídeo de 720: o nosso tamanho ~9), longe do rosto.
+- **Decisão minha (o aluno pode mudar):** o teste entra a 0 crédito, na edição, **alternado nos 6 posts de 11/11**: 9h, 15h e 21h com os números brancos; 12h, 18h e 00h com os coloridos de sempre. O **nora54 fica com os coloridos**, porque ele já testa a abertura com o relógio contra o nora51 e o nora53; com as duas mudanças juntas, não dá para saber qual fez efeito. Régua: % nos 3 s e tempo médio dos 2 grupos.
