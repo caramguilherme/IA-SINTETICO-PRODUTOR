@@ -405,6 +405,20 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **11/11 até 08h36:** 2 cliques, 2 viram o quiz, 1 começou, **1 terminou o quiz**, 0 checkout, 0 venda (Instagram).
 - **Leitura:** ~5 cliques do Insta com ~1.280 views do kit e o resto do nora50 (~2 a 4 por 1.000 views); o Face segue sem clique. O gargalo continua sendo a quantidade de gente chegando ao story (17 viewers no story do Insta), não o story (4 toques em 17) nem o quiz.
 
+### 11/11/2026 19h14, Face (Biblioteca de Conteúdo, print do aluno)
+| vídeo | vida | views | 3 s | médio | distr. | coment. | seguid. |
+|---|---|---|---|---|---|---|---|
+| nora55 (manhã, original, sem prova) | ~8h53 | **910** | 43% | 7 s | **+3,4x** | 17 | **8** |
+| nora56 (-FACE, com a Karen) | ~5h25 | 219 | 43% | 5 s | +0,1x | 1 | 0 |
+| nora57 (-FACE, sem prova) | ~2h21 | 31 | 26% | 3 s | −0,5x | 1 | 0 |
+| nora54 / nora53 / nora52 / nora51 (kit, sem pré-gancho) | 17 a 24 h | 40 / 108 / 22 / 112 | 18% a 35% | 3 a 4 s | −0,6x a 0,0x | 1 | 0 |
+| nora50 / nora49 / nora48 | 1,8 a 5,8 dias | 26 / 242 / 185 | 38% a 51% | 8 a 25 s | −0,6x / +1,9x / +2,4x | 1 / 3 / 3 | 0 / 1 / 1 |
+
+- **O nora55 virou o maior vídeo da Nora no Face:** de 401 (16h23) a 910 em ~3 h, 8 seguidores novos e 17 comentários (o recorde anterior era o nora49, parado em ~240). Confirma no Face o que o Insta mostrou: pré-gancho de volta + cena nova da manhã + Take 1 do capítulo novo.
+- **As variações -FACE estão bem abaixo do original:** o nora56 parou em ~219 (+9 em 3 h; o nora55 tinha ~401 com ~6 h) e o nora57 abriu em −0,5x. Pode ser a variação (espelho + filtro + 1,1x com o mesmo T02 e T04) ou o nora55, ainda subindo, puxando a entrega da Página. Um dia só: decide com ~24 h.
+- **O teste da prova (Karen) não se lê no Face** (o nora56 do Face é -FACE; o controle é o original): a régua do teste é o Insta.
+- **Decisão:** nada muda na noite (nora58 vai original nos dois; nora59 e nora60 com o -FACE, como no painel). Em 12/11, com ~24 h dos 3 -FACE: se ficarem perto de 1/4 do original, o 2º e o 3º de cada cena no Face mudam (a decidir com o aluno). **Ação:** responder os comentários do nora55 no Face com os textos do painel do nora55 (`respostas_face`), alternando e sem repetir seguido; link FACE só no direct.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
