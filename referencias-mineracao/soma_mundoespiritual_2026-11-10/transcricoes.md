@@ -444,3 +444,161 @@ Baixados pelo link da pasta (gdown), transcritos aqui (faster-whisper small, idi
  105.4- 108.3 from living everything you've always dreamed of.
 ```
 
+# Lote 3 (aluno, 11/11 ~00h18; 4 vídeos novos na mesma pasta)
+
+## v16 · soma_chhaya · 32 s (11/11, o dia do portal)
+- **Cena e edição:** luz vermelha, parede lisa, carta de tarô na mão, unhas pretas; no alto, "Wednesday / Nov 11th" em letra branca pequena, sem caixa; legenda pequena e branca no meio, sem cor.
+```
+[en]
+   0.0-   6.6 If this video found you on Wednesday, November 11th, it is a sign the worst is over. It's done.
+   6.6-  12.2 The hard part is done. Today, your life is going to completely turn around. Your entire life is
+  12.2-  18.4 about to be upgraded because today is the 1111 portal. It's the 11th day of the 11th month.
+  18.4-  24.2 And at exactly 11 11 p.m. today, your life will change. Your life is going to completely
+  24.2-  28.9 turn around. Anything you desire is coming your way. The better you treat this video,
+  28.9-  32.1 the better the 1111 portal treats you.
+```
+
+## v17 · soma_chhaya · 179 s (o original que a Scarllet copiou no v13)
+- **Cena e edição:** escritório em casa, parede lisa clara, cadeira de escritório, luz de janela; regata preta + moletom cinza largo aberto (a roupa do dia da Nora em 11/11); caderno escrito "November 11th" na mão; no alto, "The 11:11 Portal / is now OPEN." em branco, sem caixa; prints de mensagens de seguidores como prova; palavrão.
+```
+[en]
+   0.0-   3.8 Mark your fucking calendars for November 11th
+   3.8-   7.1 because we are having the craziest manifestation portal
+   7.1-   9.9 we will ever see for the next 10 years.
+   9.9-  12.6 Literally, this energy is so rare and so powerful
+  12.6-  14.6 you can manifest anything to happen.
+  14.6-  16.7 So say this video, send it to a friend
+  16.7-  18.5 and spread the blessings.
+  18.5-  20.4 I'm gonna tell you everything you need to know
+  20.4-  21.9 and how to use this energy.
+  21.9-  24.0 And I want you to claim this energy for yourself
+  24.0-  24.9 right now.
+  24.9-  27.7 Go ahead and comment, thank you universe.
+  27.7-  30.4 Put energy of gratitude out there to the universe
+  30.4-  32.6 because the universe is a mirror.
+  32.6-  35.5 Whatever energy you give is the energy that you get.
+  35.5-  36.8 Karma is real.
+  36.8-  39.0 And make sure you are following me.
+  39.0-  40.7 Now here is everything you need to know
+  40.7-  43.5 about November 11th, the craziest portal
+  43.5-  45.8 we have seen for the past 10 years.
+  45.8-  47.5 On November 11th, it is going to be
+  47.5-  49.5 the 11th day of the 11th month,
+  49.5-  52.0 AKA the 1111 portal.
+  52.0-  54.6 The 1111 portal happens every single year
+  54.6-  55.8 on November 11th.
+  55.8-  59.3 The angel number 1111 is a cosmic gateway.
+  59.3-  62.0 It brings in new beginnings, new chapters.
+  62.0-  63.6 Your intuition will be heightened
+  63.6-  67.5 and any intention that you set must manifest.
+  67.5-  70.3 However, this year, the 1111 portal
+  70.3-  74.2 is 10 times more powerful than any other year before
+  74.2-  77.1 because this year is 2026.
+  77.1-  79.5 If you add two plus two plus six,
+  79.5-  81.7 you get an additional one
+  81.7-  84.5 that adds onto the end of 1111,
+  84.5-  87.0 making it five ones in a row.
+  87.0-  90.2 This extra one is making the 1111 portal
+  90.2-  92.0 10 times more powerful
+  92.0-  95.0 and it will not happen again for another 10 years.
+  95.0-  97.7 The 1111 portal is perfect for new beginnings.
+  97.7-  99.4 If you want a new car, a new house,
+  99.4- 101.3 a new relationship, a new opportunity,
+ 101.3- 102.9 this is the time to call it in.
+ 102.9- 105.3 You can also manifest something very specific,
+ 105.3- 107.4 a specific person, a specific situation,
+ 107.4- 110.2 a specific opportunity, a specific amount of money.
+ 110.2- 112.0 No desire is too crazy
+ 112.0- 113.8 because the 1111 portal this year
+ 113.8- 116.6 is powerful enough to handle anything you want.
+ 116.6- 118.6 On top of all of this crazy energy,
+ 118.6- 121.5 we are also going to be having a meteor shower
+ 121.5- 123.0 on November 11th,
+ 123.0- 125.1 which means there are going to be thousands
+ 125.1- 126.8 of shooting stars in the sky
+ 126.8- 128.4 while this energy is happening.
+ 128.4- 130.0 So it is your job to make sure
+ 130.0- 131.9 that you fucking manifest.
+ 131.9- 133.4 Use this energy.
+ 133.4- 135.8 If you skip it, you are going to regret it.
+ 135.8- 139.3 I highly recommend you do the 1111 ritual.
+ 139.3- 141.5 It is a scary, powerful ritual
+ 141.5- 143.3 that was specifically crafted
+ 143.3- 145.9 for the energy of the 1111 portal.
+ 145.9- 149.0 Thousands of people have done this ritual, including myself.
+ 149.0- 150.4 I've literally done this ritual
+ 150.4- 152.2 for the past three years in a row
+ 152.2- 155.5 and everything manifests every single time.
+ 155.5- 157.4 It is literally so scary.
+ 157.4- 159.2 You can see these screenshots for yourself.
+ 159.2- 161.9 Last year, people were blowing up my phone to thank me
+ 161.9- 164.1 because this ritual changed their life.
+ 164.1- 166.0 Go do the 1111 ritual.
+ 166.0- 169.1 The link for it is in my bio, but whatever you do,
+ 169.1- 171.0 do not miss this energy.
+ 171.0- 173.4 This is the most powerful manifestation portal
+ 173.4- 175.4 we will ever see for the next 10 years.
+ 175.4- 178.8 So go do the 1111 ritual and happy manifesting.
+```
+
+## v18 · soma_chhaya · 162 s (de 06/11)
+- **Cena e edição:** ao ar livre, piscina e casa moderna ao fundo, mesa com 3 cartas de tarô; "Nov 6th 2026" pequeno no alto à direita, branco; legenda pequena no meio; prints de mensagens no fim.
+```
+[en]
+   0.0-   5.0 This video is going to find you on November 6th, and if it does, this reading and this
+   5.0-  10.6 message is 100% meant for you. There's no caption. There's no hashtags. This video found you.
+  10.6-  15.1 Your energy is in complete alignment with this reading. In exactly four days,
+  15.1-  19.8 you are about to receive a massive manifestation. There is something that you've been hoping for
+  19.8-  23.7 and praying for that is about to come through for you, and it is about to make your entire
+  23.7-  27.4 life make sense. I think things have been exceptionally difficult recently. Maybe you've
+  27.5-  31.9 had a recent heartbreak or a recent situation that has brought down your energy, but just know
+  31.9-  36.9 in four days, it is all turning around. You are about to experience a massive blessing that turns
+  36.9-  41.2 everything around and everything starts to work in your favor. Because in exactly four days,
+  41.2-  44.7 you are going to be blessed in two different ways. First, you are going to be blessed in your
+  44.7-  48.8 love life. Your love life is about to receive a massive upgrade. I don't know if it's someone
+  48.8-  52.2 who's already in your life or someone new walking into your life, but this is the
+  52.2-  55.4 relationship you have been dreaming of. This is the connection you have been
+  55.4-  60.1 literally longing for. It is going to feel like a connection right out of a fairy tale,
+  60.1-  64.9 right out of a storybook. You two were made for each other. You two were meant to find each other.
+  64.9-  69.1 This is going to be your soulmate, and your career and your success is about to receive
+  69.1-  72.6 an upgrade. There is going to be a massive opportunity that comes your way in the next
+  72.6-  75.7 four days that changes everything for you. Maybe it's something you've already been
+  75.7-  80.0 working for and striving for, but whatever this opportunity is, your life will never be
+  80.0-  83.8 the same. There is going to be an insane amount of money that starts to pour in. There is
+  83.8-  87.8 going to be an insane amount of abundance that pours in. Your life will not be the same.
+  87.8-  91.1 Both of these things are coming forth in the next four days, and that is what's going to
+  91.1-  95.3 create this massive spiral of change for you. This energy is going to be amplified by the
+  95.3- 100.9 1111 portal that we are having in four days. The 1111 portal happens on the 11th day
+ 100.9- 106.0 of the 11th month, creating a cosmic gateway with the angel number 1111. Whatever
+ 106.0- 110.9 intentions and energy you put out right now during this portal have no choice but to manifest.
+ 110.9- 114.8 So if you want to align yourself with this energy, you want to make sure that these things
+ 114.8- 120.2 manifest. You need to do some kind of ritual, some kind of manifestation to harness the 1111
+ 120.2- 124.7 portal energy. It is the 1111 portal that is going to make these things a reality for you.
+ 124.7- 130.5 I highly recommend you do the 1111 ritual. It is a scary powerful ritual that is going to
+ 130.5- 135.4 manifest whatever the fuck you want, including these blessings. Thousands of people have done
+ 135.4- 139.6 this ritual and they have manifested successfully. You can see these screenshots for yourself.
+ 139.6- 145.0 People are constantly messaging me, DMing me, commenting, thanking me because this ritual fucking
+ 145.0- 150.6 works. So do the 1111 ritual. The link for it is in my bio. But whatever you do, stay on this
+ 150.6- 155.7 frequency, stay on this energy. Do not give up, do not lose faith. Your life is changing in four
+ 155.7- 161.8 days and it is going to be 10 times better than anything you could imagine. So get excited and get manifesting.
+```
+
+## v19 · perfil não informado (parece IA) · 60 s (a cópia do v4 da Soma para 11/11)
+- **Cena e edição:** vídeo horizontal dentro do 9:16 com faixas pretas; velas acesas, carta na mão, unhas pretas; "111" e "11:11" bem pequenos e brancos no alto à direita; legenda branca simples embaixo, na faixa preta.
+```
+[en]
+   0.0-   5.8 This video will find you on Wednesday, November 11th, and if it does, stop scrolling.
+   5.8-  12.3 Because tonight, at exactly 11-11 p.m., you are receiving good news.
+  12.3-  18.0 The universe is about to bless you, because tonight is the 11-11 forum.
+  18.0-  26.7 The 11th day of the 11th month at 11-11 p.m., you are receiving good news.
+  26.7-  29.8 This news is going to come in a way that you least expect it.
+  29.8-  34.5 A phone call, a text message, an email, a person, an opportunity, an idea.
+  34.5-  37.9 But this news is going to change your life.
+  37.9-  42.4 This news is going to transform you in ways that you can't even comprehend right now.
+  42.4-  43.4 Claim this energy.
+  43.4-  46.4 Comet the Angel number 1111.
+  46.4-  48.9 Make sure you are following me.
+  48.9-  54.4 Now, send this video to three people to spread the good energy.
+  54.4-  58.3 When you spread good energy, you receive good energy.
+  58.3-  59.4 Karma is real.
+```
