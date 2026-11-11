@@ -40,19 +40,30 @@ F = {
 # virado para o que o quiz entrega (a área da vida que abre primeiro, tela 4). Os 3 Takes 1 ficam (o teste da prova continua dentro da noite).
 F_CENA = {'noite': {
     'P': "Today the most powerful portal of the year is open, and what was invisible in your life starts to become real.",
-    'K': "To see which area of your life opens first today, open my story: three quick questions, and your reading is ready.",
+    'Q': "This new chapter doesn't open the same way for every woman, so I left a quick reading in my story.",
+    'K': "Open my story now: three quick questions, and it shows which area of your life opens first for you.",
+    'E': "And comment 'I'm ready' below, so I know this message reached you.",
 }}
+# 11/11 ~11h50 (lote 5: 8 vídeos de avatares que vendem Appyon; BIBLIOTECA-VIDEOS-VIRAIS 49.11): o CTA de 5 dos 8 é "essa mudança não acontece
+# para todas → por isso deixei uma leitura no story que mostra se você é uma delas → toque na foto"; e todos pedem comentário. Na noite: T03 (a
+# qualificação + o motivo, sem medo e sem "private"), T04 (a ação + o que a leitura mostra, com "open my story", que passou no filtro) e T05
+# (o pedido de comentário, DEPOIS do CTA: regra P42). Os 3 Takes 1 ficam (teste da prova).
 
 
 def fala(c, k):
-    return F_CENA.get(c, {}).get(k, F[k])
+    o = F_CENA.get(c, {})
+    return o[k] if k in o else F[k]
 
 
-SUF = {'A': 'T01a-se-voce-ve', 'B': 'T01b-relogio', 'C': 'T01c-celular-na-mao', 'P': 'T02-hoje-o-portal', 'K': 'T04-cta-reading'}
-ROT = {'A': 'T01a', 'B': 'T01b', 'C': 'T01c', 'P': 'T02', 'K': 'T04'}
+SUF = {'A': 'T01a-se-voce-ve', 'B': 'T01b-relogio', 'C': 'T01c-celular-na-mao', 'P': 'T02-hoje-o-portal', 'Q': 'T03-nem-toda-mulher', 'K': 'T04-cta-reading', 'E': 'T05-comente'}
+ROT = {'A': 'T01a', 'B': 'T01b', 'C': 'T01c', 'P': 'T02', 'Q': 'T03', 'K': 'T04', 'E': 'T05'}
 CENA_TXT = {'A': 'a data de quarta + o capítulo novo (reescrito pelo Clone, R23)', 'B': 'a data de quarta + o filtro do relógio (o do nora54)',
             'C': 'a data de quarta + a situação (celular na mão, esperando a vida mudar; lote 2, v12)', 'P': 'a promessa: o portal tira o peso e devolve a paz (Clone, R23)',
-            'K': 'CTA: alinhar a energia com o portal (o motivo), a ação e a leitura (Clone, R23)'}
+            'K': 'CTA: alinhar a energia com o portal (o motivo), a ação e a leitura (Clone, R23)',
+            'Q': 'o motivo do CTA: o capítulo novo não abre igual para todas, por isso a leitura no story (o CTA dos vendedores da Appyon, lote 5)',
+            'E': 'o pedido de comentário, depois do CTA (todos os 8 do lote 5 pedem)'}
+CENA_TXT_NOITE = {'P': 'a promessa: o portal mais poderoso do ano, o invisível vira realidade (vídeos BR de 11/11, lote 4)',
+                  'K': 'CTA: a ação (o story) e o que a leitura mostra (a área da vida que abre primeiro, tela 4 do quiz)'}
 CAIXA = {'A': ('WEDNESDAY, NOVEMBER 11TH\nif you keep seeing 11:11,\nthis message is for you', 'a new chapter of alignment for you.'),
          'B': ('WEDNESDAY, NOVEMBER 11TH\ntoday is 11:11,\nthis message is for you', 'this is meant for you.'),
          'C': ('WEDNESDAY, NOVEMBER 11TH\nif you keep seeing 11:11,\nthis is your sign', 'this message is meant for you.')}
@@ -62,6 +73,8 @@ GESTO = {
     'B': 'during the first half of the take she leans slightly toward the lens with a bright, curious look, in the middle her eyes glance briefly down and to the left side of the frame as if checking a clock while her hand stays still, and in the closing half her eyes return to the lens and she gives one slow nod with a warm smile',
     'C': 'during the first half of the take she holds a soft, understanding look with her head tilted slightly, in the closing half she gives one slow nod with a warm, reassuring smile',
     'P': 'during the first half of the take her eyebrows lift with a joyful look, in the closing half she lifts her {mao} hand to the height of her shoulder with the palm up and then returns it to {volta} with a warm smile',
+    'Q': 'during the first half of the take she holds a soft, knowing look, in the closing half she tilts her head slightly with a gentle, reassuring smile',
+    'E': 'during the first half of the take she smiles warmly, in the closing half she raises her eyebrows playfully and gives one small nod'
 }
 
 CENAS = {
@@ -112,7 +125,8 @@ def nome(c, k):
 
 
 def dur(k):
-    return '8' if len(F[k].split()) <= 17 else '10'
+    t = F.get(k) or F_CENA['noite'][k]
+    return '8' if len(t.split()) <= 17 else '10'
 
 
 def creditos(ks):
@@ -146,7 +160,7 @@ def mov(c, k):
 COMUNS = {('of', 'the'), ('and', 'the'), ('to', 'the'), ('in', 'the'), ('on', 'the'), ('at', 'the'), ('for', 'a'), ('of', 'her'), ('and', 'her'),
           ('as', 'if'), ('the', 'lens'), ('her', 'left'), ('and', 'then'), ('the', 'hand'), ('she', 'gives'), ('the', 'height')}
 for c in CENAS:
-    for k, f in F.items():
+    for k, f in ({**F, **F_CENA.get(c, {})}).items():
         assert len(f.split()) <= 22, (k, len(f.split()))
         fw = re.findall(r"[a-z']+", f.lower()); mw = re.findall(r"[a-z']+", mov(c, k).lower())
         sobra = (set(zip(fw, fw[1:])) & set(zip(mw, mw[1:]))) - COMUNS
@@ -253,7 +267,7 @@ def img_central(c, n):
             'Confira cada uma das 4: é a Nora (lua com 3 estrelinhas na bochecha do lado esquerdo da imagem, trança com anéis, brincos de estrela e lua, colar de Vênus, testa limpa)? '
             'A roupa é a pedida, lisa, sem marca? O celular não aparece? Parece foto de celular? Algum texto nos cantos? Mão com 5 dedos?',
             f'Me mande as 4. Eu escolho, ajusto este painel pela escolhida (no mesmo link) e aviso. Renomeie a escolhida para {s["img"]}. Só gere os takes depois disso.',
-        ] + ([f'FEITO: escolhida {s["aprovada"].split(" (")[0]}. Renomeie ela para {s["img"]}; o LIVRE e as movimentações já estão fechados por ela. Pode gerar os 5 takes.'] if s['aprovada'] else []),
+        ] + ([f'FEITO: escolhida {s["aprovada"].split(" (")[0]}. Renomeie ela para {s["img"]}; o LIVRE e as movimentações já estão fechados por ela. Pode gerar os {5 if c == "manha" else 7} takes.'] if s['aprovada'] else []),
         'grupos': [{'titulo': 'Prompt da imagem (cole no Flow)', 'campos': [
             {'campo': f'Prompt da {s["img"]}', 'valor': prompt_img(c), 'copiar': 1}]}],
     }
@@ -313,7 +327,7 @@ def agente(c, ks):
             'Se ele não renomear, mande na mesma conversa: “Now rename each video with the correct number from the prompt.”',
             'Confira na grade, pelo nome, se os 5 saíram. Se um falhar por política: mande na mesma conversa “Please generate video X from my previous message again, with the same prompt.” '
             '(X = o número dele na lista). Se falhar de novo, não insista: me mande o print.',
-            f'Se o T04 (o 5º, o CTA) falhar 1 vez, não peça de novo ao agente: gere à mão: Vídeo → Frames → 9:16 → Omni 1.1 Flash → 720p → 10 s → x1; Início = {s["img"]}; Fim = vazio; cole o prompt abaixo, '
+            f'Se o T04 (o {5 if c == "manha" else 6}º, o CTA) falhar 1 vez, não peça de novo ao agente: gere à mão: Vídeo → Frames → 9:16 → Omni 1.1 Flash → 720p → 10 s → x1; Início = {s["img"]}; Fim = vazio; cole o prompt abaixo, '
             f'inteiro, e gere (15 créditos). Renomeie para {nome(c, "K")}. PROMPT: ' + prompt_k_manual(c),
             'Se o agente parar no meio (por exemplo, “alta demanda”): responda na MESMA conversa, sem anexar nada: “Please continue and generate videos X to Y from my previous message, in the same order.” '
             '(troque X e Y pelos números que faltaram). Se ele gerar só o 1º e parar de novo: cole antes do bloco da Central o “pré-prompt do Lucas” (abaixo) e mande de novo só os que faltaram.',
@@ -349,13 +363,13 @@ VIDEOS = {
              dm=['☀️ [name], today is 11:11 ✨ Your private reading is right here:', '🔮 Hi [name]! As promised, here is your private reading 💖', '✨ [name], open this when you have a calm minute today 🌙 Your private reading:']),
     56: dict(cena='manha', hora='12h', prova='05-karen', k1='B',
              insta=f'If you see this on Wednesday, November 11th, look at the time. 🔮\nToday the 11:11 portal is open. Your private reading is waiting in my story.\nComment "open" ✨\n{COMUM_HASH} #1111',
-             pergunta='what is the first thing you want to see change after today?',
+             pergunta='what time is it where you are right now?',  # 11/11 ~11h50: o horário (v30 do lote 5), casa com o T01b do relógio
              nums=[('11:11', 82, 10.5, 'alto à direita', 'amarelo-ouro', '#FFD21F', 15), ('888', 18, 10.5, 'alto à esquerda', 'rosa-choque', '#FF4FD8', 12), ('222', 18, 46.9, 'à esquerda, na altura do ombro', 'ciano', '#3DE0FF', 11)],
              coment=['💌 Just sent it, check your inbox ✨', '🌟 It\'s in your messages now 🔮', '💖 Sent! Take a look at your DMs ☀️'],
              dm=['💌 [name], here\'s your private reading for today ✨', '🌟 Hi [name]! Your private reading is ready 🔮 Tap here:', '💖 [name], I saved this one for you on 11:11 ☀️ Your private reading:']),
     57: dict(cena='manha', hora='15h', prova=None, k1='C',
              insta=f'Holding your phone on November 11th, wondering if things will ever change? This is for you. 🔮\nToday the 11:11 portal is open. Your private reading is waiting in my story.\nComment "I believe" ✨\n{COMUM_HASH} #universe',
-             pergunta='what are you ready to let into your life on this 11:11?',
+             pergunta='what do you want to leave behind on this 11:11?',  # 11/11 ~11h50: o que deixar para trás (v30), casa com o T02 do peso
              nums=[('888', 18, 10.5, 'alto à esquerda', 'ciano', '#3DE0FF', 14), ('11:11', 82, 10.5, 'alto à direita', 'rosa-choque', '#FF4FD8', 15), ('222', 18, 46.9, 'à esquerda, na altura do ombro', 'amarelo-ouro', '#FFD21F', 11)],
              coment=['🌙 Look in your messages, it\'s there 💫', '✨ I sent it to your inbox 💖', '🔮 Check your DMs, beautiful ✨'],
              dm=['🌙 [name], this 11:11 is yours 💫 Your private reading:', '✨ Hey [name]! Here\'s the private reading I told you about 💖', '🔮 [name], three quick questions and it\'s ready ✨ Your private reading:']),
@@ -393,8 +407,8 @@ def xy(x, y):
 def montar(n):
     v = VIDEOS[n]; nn = f'nora{n}'; c = v['cena']; s = CENAS[c]
     primeiro = (n == s['primeiro'])
-    usa = [v['k1'], 'P', 'K']
-    gera = ['A', 'B', 'C', 'P', 'K'] if primeiro else []
+    usa = [v['k1'], 'P', 'K'] if c == 'manha' else [v['k1'], 'P', 'Q', 'K', 'E']
+    gera = ((['A', 'B', 'C', 'P', 'K'] if c == 'manha' else ['A', 'B', 'C', 'P', 'Q', 'K', 'E']) if primeiro else [])
     irmaos = [m for m in VIDEOS if VIDEOS[m]['cena'] == c]
     caixa, caixa_fim = CAIXA[v['k1']]
     face_var = not primeiro  # o 2º e o 3º da cena repetem o T02 e o T04: no Face vai a variação (regra de 10/11)
@@ -414,7 +428,7 @@ def montar(n):
         },
         'refs': [f'Folha da Nora v2 (1K) na geração da {s["img"]}', f'{s["img"]} em todos os takes'],
         'imagens': [{'rotulo': f'IMAGEM 1 · {s["img"]}', 'cena': f'(seção Imagem do painel do nora{s["primeiro"]})', 'anexar': 'a folha da Nora (1K)'}],
-        'videos': [{'rotulo': ROT[k], 'cena': CENA_TXT[k], 'duracao': dur(k), 'primeiro_quadro': f'IMAGEM 1 ({s["img"]})', 'acao': '', 'b_roll': '',
+        'videos': [{'rotulo': ROT[k], 'cena': (CENA_TXT_NOITE.get(k, CENA_TXT[k]) if c == 'noite' else CENA_TXT[k]), 'duracao': dur(k), 'primeiro_quadro': f'IMAGEM 1 ({s["img"]})', 'acao': '', 'b_roll': '',
                     'fala': fala(c, k), 'movimentacao': mov(c, k), 'arquivo': nome(c, k)} for k in (gera if gera else usa)],
         'texto_tela': {'hook': caixa, 'hook_comeca': 'o primeiro quadro do tsunami', 'hook_termina': caixa_fim, 'hook_alt': '', 'extras': []},
         'comentario_fixado': {
@@ -460,21 +474,21 @@ def montar(n):
         quem, trecho = PROVA[v['prova']]
         mt['estilos'].append({'nome': f'Avaliação real do Trustpilot: {quem} (“{trecho}”)', 'fonte': f'a imagem provas-trustpilot/{v["prova"]}-sem-hora.png (print real do aluno, 11/11, sem o nome do app; tirei só a hora relativa, que muda todo dia, e a linha de botões)',
                               'cor': '—', 'tamanho': '~84% da largura (604 px num vídeo de 720)', 'contorno': 'sem borda; cantos arredondados e sombra leve',
-                              'obs': 'X 0 · Y -200 (sobre a blusa, longe do rosto), da palavra “begins” até o fim do T02, logo antes do CTA (~3 s); a voz continua por baixo e o vídeo não fica mais longo. Eu ponho (P45).'})
+                              'obs': 'X 0 · Y -200 (sobre a blusa, longe do rosto), nos últimos ~3 s do T02, logo antes do CTA; a voz continua por baixo e o vídeo não fica mais longo. Eu ponho (P45).'})
         mt['estilos'].append({'nome': 'Caixa da prova: “Rated 4.8 ★ by 2,200+ people”', 'fonte': 'Poppins Bold (poppins-bd)', 'cor': 'texto preto; “4.8 ★” em vermelho #E53935',
                               'tamanho': '9, em 1 linha', 'contorno': 'Plano de fundo branco arredondado',
                               'obs': 'X 0 · Y 397, junto com a avaliação (o topo está livre nesse trecho: a caixa da data já saiu e a faixa do story ainda não entrou). Número real: 4,8 com 2.251 avaliações na página do Trustpilot em 11/11 (aluno). Eu ponho (P45).'})
     mt['regras'] = [('Teste de 11/11 a 0 crédito (decisão do aluno, 11/11 ~01h35): ' + ('este vídeo TEM a prova do Trustpilot antes do CTA' if v['prova'] else 'este vídeo NÃO tem prova (é o controle)') + '. 12h, 18h e 00h com a prova; 9h, 15h e 21h sem. Visual de agora em todos (o visual limpo foi para 12/11). Régua: visitas ao perfil por 1.000 views, toques no link do story e cliques no Tracker de cada horário.'),
                     f'Posições provisórias até a {s["img"]} ser aprovada; confiro de novo na prévia da edição (número longe do rosto, da mão e do texto).',
-                    'Sem pré-gancho: o texto do topo, os números e a legenda entram desde o 1º quadro.']
+                    'Com pré-gancho (o tsunami curto): o texto do topo e os números entram no 1º quadro do tsunami; a legenda, só no Take 1.']
     p['mapa_tela'] = mt
 
     corte_nome = f'{nn}-cortado'
     lista_usa = ', '.join(nome(c, k) for k in usa)
     p['silencio'] = {
-        'intro': f'Arraste na ferramenta “M2M FusionZ – Cortar e juntar vídeos” só estes 3 takes, de uma vez: {lista_usa}. Ela junta pela ordem do nome (já estão em ordem).',
+        'intro': f'Arraste na ferramenta “M2M FusionZ – Cortar e juntar vídeos” só estes {len(usa)} takes, de uma vez: {lista_usa}. Ela junta pela ordem do nome (já estão em ordem).',
         'nome': corte_nome, 'juntar': 'LIGADO', 'transicao': 'Corte seco', 'ordem': 'pela ordem do nome (' + ', '.join(ROT[k] for k in usa) + ')',
-        'depois': ['Suba os 3 takes e espere a Prévia.',
+        'depois': [f'Suba os {len(usa)} takes e espere a Prévia.',
                    'Aperte play com Resultado marcado: confira a primeira palavra do 1º take e a última do último take.',
                    'Se um corte comeu o fim de uma palavra, arraste a borda dele ou suba a margem de respiro.',
                    f'Clique em Cortar e baixar e salve como {corte_nome}. (O texto eu ponho aqui, no fim.)']}
@@ -508,7 +522,7 @@ def montar(n):
         pecas.append({'nome': STORY_IMG, 'tipo': 'story', 'status': 'gerar', 'creditos': 0, 'descricao': 'Imagem nova do story (varanda, fim de tarde, suéter bege, caneca): gerar x4 agora e me mandar; repostar o story junto com o post do nora57 (~16h20).'})
     outros = [m for m in irmaos if m != n]
     decisao = ['Pré-gancho: o tsunami curto, só o nora47-PRE-A' + (' espelhado' if c == 'noite' else '') + ', antes do Take 1, sem música. Voltou pelas métricas do kit (sem ele, só 34% a 50% passam dos 3 s); curto pelo Clone (R23).',
-               'Usa só 3 takes, nesta ordem: ' + ' + '.join(nome(c, k) for k in usa) + '.'
+               f'Usa só {len(usa)} takes, nesta ordem: ' + ' + '.join(nome(c, k) for k in usa) + '.'
                + (' Os outros 2 Takes 1 deste painel são do ' + ' e do '.join(f'nora{m} ({VIDEOS[m]["hora"].split(" (")[0]})' for m in outros) + '.' if primeiro else ''),
                f'Postar às {hora_curta} de 11/11, ao vivo. Insta: o {nn}-final. Face: o ' + (f'{nn}-final-FACE (eu mando junto).' if face_var else f'{nn}-final (o mesmo arquivo).'),
                (f'Avaliação do Trustpilot: sim ({PROVA[v["prova"]][0].split()[0]}); eu ponho.' if v['prova'] else 'Avaliação do Trustpilot: não (este é o controle do teste de hoje).')]
@@ -526,7 +540,7 @@ def montar(n):
                                      'em inglês, com "eleven eleven" e "November eleventh"; o braço do celular não se mexe; a mão livre só faz o gesto do T02, na altura do ombro; '
                                      'sem texto, legenda ou música. Renomeie com o nome da lista.'),
                         'passos': passos, 'config': cf, 'agente': agente(c, gera),
-                        'colagens': [{'titulo': f'{nn}: 5 takes da {s["nome"]} ({", ".join(ROT[k] for k in gera)})', 'fala': ' '.join(fala(c, k) for k in gera),
+                        'colagens': [{'titulo': f'{nn}: {len(gera)} takes da {s["nome"]} ({", ".join(ROT[k] for k in gera)})', 'fala': ' '.join(fala(c, k) for k in gera),
                                       'movimentacao': [mov(c, k) for k in gera], 'takes': list(range(len(gera)))}]}
         p['imagem_central'] = img_central(c, n)
         ordem = ['pecas', 'imagens', 'central', 'cenas', 'agente', 'silencio', 'textotela', 'story', 'descricao', 'comentario', 'respostasface']
