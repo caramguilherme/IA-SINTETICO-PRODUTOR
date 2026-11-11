@@ -70,3 +70,6 @@ nora55 https://claude.ai/artifact/K4WvdkrAHAuiyBMxv9t9WT · nora56 https://claud
 ## 11/11 ~13h05 - Clone R24: a noite volta a 5 takes; fim da legenda japonesa
 - **Noite (58 a 60):** T01a/b/c + T02 "Today the 11:11 portal opens to lift the heavy weight off your shoulders and prepare your path for twenty twenty-seven." + T04 "This shift doesn't happen for every woman. Tap my photo and check my story to see what twenty twenty-seven holds for you." 75 créditos. Sem cartas (DM do Gustavo de 03/11), sem T03 e T05.
 - **Legenda do Insta (56 a 60):** "This 11:11 energy is for you, love ✨ / Your private reading is waiting in my story 🔮 / Comment \"X\" to claim it ✨ / #manifestation #1111portal #lawofattraction #abundance" (X: 56 "1111", 57 "ready", 58 "yes", 59 "open", 60 "2027"). O nora55 saiu com a japonesa.
+
+## 11/11 ~16h10 - `story-1111` escolhida (a 3ª das 4)
+- Texto "Tap below: your private reading / is waiting for you on 11:11." em letra preta, 2 linhas, na parede clara acima da cabeça (~7% a 14%); adesivo "Open my reading" embaixo, no centro, sobre o jeans. Postar junto com o nora57 (~16h50), no Insta (STORYIG) e no Face (FACE). Amanhã (12/11), a mesma imagem com o texto do Clone R25.
