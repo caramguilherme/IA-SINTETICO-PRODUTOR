@@ -278,6 +278,11 @@ COMUM_HASH = '#manifestation #1111portal #lawofattraction'
 # Base: a legenda do reel de 1,2 mi da Soma Chhaya ("Claim this good energy babe ✨", sem hashtag). No Insta, com a linha do story; no Face, sem o "claim".
 LEG_INSTA = 'Claim this 11:11 energy, love ✨\nYour private reading is waiting in my story 🔮'
 LEG_FACE = 'This 11:11 energy is for you, love ✨\nYour private reading is waiting in my story 🔮'
+# 11/11 ~09h15 (decisão do aluno: "não custa testar a tática"): o truque do Loom (legenda em japonês com #TVアニメ) num vídeo só, o das 15h, só no Insta.
+LEG_JP = ('#TVアニメ 『11:11』 ✨🔮 今日は11月11日、1年でいちばん特別なポータルの日がついに開く!! 🌙 新しい章が始まるこの日、'
+          'あなたの人生はどこから変わり始めるのか…👀 その答えはストーリーの中に。受け取る準備はできていますか!? 💫✨\n'
+          'Your private reading is waiting in my story 🔮')
+LEG_INSTA_POR_VIDEO = {57: LEG_JP}
 # prova: a avaliação real do Trustpilot (provas-trustpilot/, sem a hora relativa) que entra antes do CTA, ou None (o controle)
 PROVA = {'05-karen': ('Karen W.', 'I just feel that for me there are good things about to happen'), '06-younger': ('Younger A. (EUA)', 'Everything she said is happening in my life'),
          '07-karina': ('Karina G. (EUA)', 'Wonderful, I feel so connected, this feels so real'),
@@ -351,7 +356,7 @@ def montar(n):
             'id': f'{nn}-DIA-1111-{c.upper()}-' + ('PROVA' if v['prova'] else 'SEM-PROVA'),
             'titulo': f'{nn} · 11/11 (quarta), {hora_curta} · {s["nome"]} · ' + (f'com a avaliação da {PROVA[v["prova"]][0].split()[0]}' if v['prova'] else 'sem avaliação'),
             'duracao_total': 20,
-            'descricao_instagram': LEG_INSTA,
+            'descricao_instagram': LEG_INSTA_POR_VIDEO.get(n, LEG_INSTA),
             'descricao_face': LEG_FACE,
         },
         'refs': [f'Folha da Nora v2 (1K) na geração da {s["img"]}', f'{s["img"]} em todos os takes'],
@@ -453,6 +458,8 @@ def montar(n):
                + (' Os outros 2 Takes 1 deste painel são do ' + ' e do '.join(f'nora{m} ({VIDEOS[m]["hora"].split(" (")[0]})' for m in outros) + '.' if primeiro else ''),
                f'Postar às {hora_curta} de 11/11, ao vivo. Insta: o {nn}-final. Face: o ' + (f'{nn}-final-FACE (eu mando junto).' if face_var else f'{nn}-final (o mesmo arquivo).'),
                (f'Avaliação do Trustpilot: sim ({PROVA[v["prova"]][0].split()[0]}); eu ponho.' if v['prova'] else 'Avaliação do Trustpilot: não (este é o controle do teste de hoje).')]
+    if n in LEG_INSTA_POR_VIDEO:
+        decisao.append('Legenda do Insta: o TESTE do truque do Loom (em japonês, com #TVアニメ), só neste vídeo. No Face, a legenda normal (o Face só mostra para EUA, Canadá, Reino Unido, Austrália e Nova Zelândia).')
     if gera:
         decisao.append(f'Créditos: {creditos(gera)} (contatocaram).')
     p['pecas'] = {'lista': pecas, 'decisao': decisao, 'titulo_decisao': 'Resumo'}
