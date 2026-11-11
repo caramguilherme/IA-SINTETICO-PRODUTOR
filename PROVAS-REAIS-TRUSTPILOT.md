@@ -12,6 +12,10 @@ Fonte: https://www.trustpilot.com/review/auralyapp.com — página colada pelo a
 ## Prints prontos (31/10/2026)
 Prints do aluno, com o destaque laranja da busca do navegador removido e a linha "Useful / Share" cortada (nada mais mudou: texto, nome, estrelas e data são os originais): `provas-trustpilot/01-leukia.png`, `02-patricia.png`, `03-darcey.png`, `04-katrina.png`. Sem o nome do app. Ficam com o sobrenome (avaliação pública).
 
+## Página em 11/11/2026 ~01h45 (colada pelo aluno)
+- **Nota 4,8, 2.251 avaliações** (2.248 nos últimos 12 meses), 90% com 5 estrelas, 4% com 4, 5% com 1 (há queixa de cobrança). Frase que pode ir na tela: **"Rated 4.8 ★ by 2,200+ people"** (conferir de novo antes de cada dia de vídeos).
+- **Candidatas novas (sem cartas, EUA, tom de manifestação; pedir o print ao aluno):** Karen Whyte ("Already feeling my resolve strengthening. I just feel that for me there are good things about to happen."), Younger Acebedo, US ("Everything she said is happening in my life She's truly amazing."), Karina Gomez, US ("Wonderful, I feel so connected, this feels so real" / "Wonderful, genuine experience. I love the guidance of the journey."), Sharon M, US ("I've wanted something like this as I start a new, fruitful career…"). **Fora:** as que falam de cartas ou tarô (Mark Ward, Ladonna Jones, Devone Lewis, Cameron Weiland, Brandy Marie Huber), as que dizem "app" no texto (Betty Halterman, Ginamae Figueroa) e o bloco "Reply from Auraly app" (nome do app).
+
 ## Versões sem a hora relativa (11/11/2026)
 `provas-trustpilot/03-darcey-sem-hora.png` e `04-katrina-sem-hora.png`: os mesmos prints, só sem o "11 hours ago"/"14 hours ago" do canto (hoje seria falso); a data original (October 30, 2026) fica. São as usadas a partir de 11/11.
 **Desde 03/11 (Gustavo: nada de cartas antes do quiz), a da Leukia ("all 3 cards that I selected") e a da Patricia ("The cards for both of my readings") ficam fora do vídeo e do story.** Valem a da Katrina e a da Darcey (e a do Mike, sem print).

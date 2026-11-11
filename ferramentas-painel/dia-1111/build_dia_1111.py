@@ -391,6 +391,9 @@ def montar(n):
         mt['estilos'].append({'nome': f'Avaliação real do Trustpilot: {quem} (“{trecho}”)', 'fonte': f'a imagem provas-trustpilot/{v["prova"]}-sem-hora.png (print real, sem o nome do app; tirei só o “hours ago”, que hoje já não vale)',
                               'cor': '—', 'tamanho': '~84% da largura (604 px num vídeo de 720)', 'contorno': 'sem borda; cantos arredondados e sombra leve',
                               'obs': 'X 0 · Y -200 (sobre a blusa, longe do rosto), da palavra “begins” até o fim do T02, logo antes do CTA (~3 s); a voz continua por baixo e o vídeo não fica mais longo. Eu ponho (P45).'})
+        mt['estilos'].append({'nome': 'Caixa da prova: “Rated 4.8 ★ by 2,200+ people”', 'fonte': 'Poppins Bold (poppins-bd)', 'cor': 'texto preto; “4.8 ★” em vermelho #E53935',
+                              'tamanho': '9, em 1 linha', 'contorno': 'Plano de fundo branco arredondado',
+                              'obs': 'X 0 · Y 397, junto com a avaliação (o topo está livre nesse trecho: a caixa da data já saiu e a faixa do story ainda não entrou). Número real: 4,8 com 2.251 avaliações na página do Trustpilot em 11/11 (aluno). Eu ponho (P45).'})
     mt['regras'] = [('Teste de 11/11 a 0 crédito (decisão do aluno, 11/11 ~01h35): ' + ('este vídeo TEM a prova do Trustpilot antes do CTA' if v['prova'] else 'este vídeo NÃO tem prova (é o controle)') + '. 12h, 18h e 00h com a prova; 9h, 15h e 21h sem. Visual de agora em todos (o visual limpo foi para 12/11). Régua: visitas ao perfil por 1.000 views, toques no link do story e cliques no Tracker de cada horário.'),
                     f'Posições provisórias até a {s["img"]} ser aprovada; confiro de novo na prévia da edição (número longe do rosto, da mão e do texto).',
                     'Sem pré-gancho: o texto do topo, os números e a legenda entram desde o 1º quadro.']
@@ -437,7 +440,7 @@ def montar(n):
                f'Postar em 11/11 (quarta), {v["hora"]}, no Insta e no Face, ao vivo.',
                (f'Dia 11 (decisão do aluno, 10/11 ~23h55 e 11/11 ~00h30): 6 por dia, de 3 em 3 h; {s["nome"]} ({s["roupa_pt"]}) para '
                 + ', '.join(VIDEOS[m]['hora'].split(' (')[0] for m in irmaos) + '. Rosto e marcas da Nora iguais; cenário e roupa mudam de um dia para o outro (como a Soma), nunca dentro do vídeo.'),
-               ((f'COM A PROVA (teste de 11/11, decisão do aluno): a avaliação real de {PROVA[v["prova"]][0]} no Trustpilot aparece da palavra “begins” até o fim do T02, logo antes do CTA. Eu ponho na edição (0 crédito); você não precisa mandar nada.')
+               ((f'COM A PROVA (teste de 11/11, decisão do aluno): a avaliação real de {PROVA[v["prova"]][0]} no Trustpilot aparece da palavra “begins” até o fim do T02, logo antes do CTA, com a caixa “Rated 4.8 ★ by 2,200+ people” no topo (número real de 11/11). Eu ponho na edição (0 crédito); você não precisa mandar nada.')
                 if v['prova'] else
                 'SEM PROVA (o controle do teste de 11/11: 12h, 18h e 00h têm a avaliação do Trustpilot antes do CTA; este não). Visual de agora (caixa branca e números coloridos) em todos; o visual limpo foi para 12/11.'),
                ('Face: este vídeo repete o T02 e o T04 do post anterior da cena, e o Face trava post repetido (regra de 10/11). Eu entrego também o '
