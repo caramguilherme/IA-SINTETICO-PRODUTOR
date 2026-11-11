@@ -419,6 +419,11 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **O teste da prova (Karen) não se lê no Face** (o nora56 do Face é -FACE; o controle é o original): a régua do teste é o Insta.
 - **Decisão:** nada muda na noite (nora58 vai original nos dois; nora59 e nora60 com o -FACE, como no painel). Em 12/11, com ~24 h dos 3 -FACE: se ficarem perto de 1/4 do original, o 2º e o 3º de cada cena no Face mudam (a decidir com o aluno). **Ação:** os 8 comentários do nora55 no Face já foram respondidos pelo aluno (11/11 ~19h25).
 
+### 11/11/2026 ~19h20, Insta (aluno, sem print): "nenhum passou de 200 views hoje" (nora55 ~9 h, nora56 ~5h30, nora57 ~2h20)
+- **O vídeo não é o problema:** o mesmo nora55 é o recorde da Nora no Face (910, +3,4x). No Insta, 1 post por dia (nora48 a nora50) fez 1.460 a 2.011; desde 10/11 19h30 foram 7 posts em ~21 h: o 1º depois da pausa (nora51, 19h30) fez 804, os que vieram 2 a 3 h depois ficaram em 135 a 200, e os 3 de hoje abaixo de 200 (de manhã e à tarde no Brasil = madrugada e manhã nos EUA; o 55 e o 56 saíram com a legenda japonesa).
+- **Leitura:** o Insta está dividindo a entrega entre posts muito próximos (o risco dito em 10/11 ~23h40: o Ricardo tomou restrição com 6); falta o Status da conta e os Insights dos 3 (3 s, países, não seguidores) para fechar.
+- **Recomendação ao aluno:** conferir o Status da conta do Insta (Recomendações) agora; hoje à noite, no Insta só o nora58 (o horário das 19h30, onde o nora49 fez 2.011), e o nora59 e o nora60 só no Face; em 12/11, com ~24 h do nora58 contra o 55 a 57, decidir o volume do Insta.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
