@@ -367,9 +367,27 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 
 ---
 
-## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
-**A fazer (R29, 11/11 ~20h10, "aprovei pra perguntar tudo"):** as dúvidas que a R28 deixou: horários do Insta (16h, 20h e 00h de Brasília x os dele), tsunami de 8 s no curto, 3 posts por dia no Insta sem repetir o corpo e sem estourar crédito, o que vai no Face no lugar do -FACE, a fonte da régua de 15 a 30 visitas por 1.000, como levar do reel ao perfil, o estrago da legenda japonesa na conta e o que fazer com os 2 posts. Texto completo na resposta do agente de 11/11 ~20h10.
+## R29 (11/11, ~20h20): as dúvidas da R28
+**Pergunta:** horários do Insta (16h, 20h e 00h de Brasília?), tsunami de 8 s no longo e no curto, 3 por dia no Insta sem repetir o corpo, o que vai no Face no lugar do -FACE, a fonte das 15 a 30 visitas por 1.000, como levar do reel ao perfil, o estrago da legenda japonesa e o que fazer com os 2 posts.
 
+**Resposta (resumo):**
+1. **Confirma 16h, 20h e 00h de Brasília** (14h, 18h e 22h em Nova York; aulas 30 e 51). A manhã daqui é madrugada/manhã nos EUA e noite na Índia. (Fala também em programar pelo Business Suite: fora, agendar derruba a entrega.)
+2. **Longo: o tsunami inteiro (8 s). Curto: pré-gancho místico de 2 a 3 s (vela de perto, cristais com som ASMR) com corte seco** (aula 32).
+3. **O longo e o curto do mesmo corpo podem sair no mesmo dia, com Takes 1 diferentes** (aulas 28 e 68). O 3º do dia: outro formato, sem avatar: texto na tela sobre fundo místico/céu estrelado com headline, música e chamada para o story (aulas 12, 18, 21). (Fala também em "cartas na mesa": fora, sem cartas antes do quiz.)
+4. **Face: o -FACE no mesmo dia não engana o público** (é o mesmo vídeo para quem vê). Os 6 do dia com conteúdos variados (avatar falando, texto na tela; fala também de oração para comentar "Amém" e rituais: fora, P42 e isca de engajamento). **Repostar um vídeo que foi bem só depois de 3 a 5 dias** (aula 58).
+5. A fonte citada (aula 21) é de 100 views no story para 30 cliques no quiz, **não de visitas ao perfil por 1.000 views: a régua de 15 a 30 fica sem fonte.** Para levar ao perfil: a fala com o gesto ("Tap my photo and check my story…", já no T04 da noite), seta para a foto do perfil nos últimos segundos (aula 40; já usamos), uma faixa "Tap my photo for your 2027 reading" e o comentário fixado com a instrução ("Tap my profile picture above to see what 2027 holds for you in my stories ✨").
+6. A legenda japonesa prejudicou só os 2 vídeos (aulas 25 e 35); os próximos em inglês recalibram em 24 a 48 h.
+7. **Nunca apagar post (aula 35); arquivar se precisar.**
+
+**Para a Nora (11/11 ~20h20):**
+- **Grade a partir de 12/11 (R28 + R29): Insta 3 por dia, às 16h, 20h e 00h; Face 6, às 9h, 12h, 16h, 18h, 20h e 00h** (às 16h, 20h e 00h, o mesmo vídeo nos dois). Cada dia: 16h o longo (tsunami inteiro + corpo), 20h o curto (pré-gancho da vela + outro Take 1), 00h o texto na tela sobre fundo místico (0 crédito, sem cartas). No Face, às 9h, 12h e 18h: formatos sem avatar ou repost de vídeo com 3 a 5 dias ou mais; **nada de -FACE no mesmo dia** (hoje à noite o nora59 e o nora60 seguem como estão).
+- **Do corpo novo em diante:** faixa do story "Tap my photo: your 2027 reading is in my story" e comentário fixado do Insta com a instrução do Clone.
+- **Os 2 posts da legenda japonesa ficam** (já estão em inglês desde 14h30); nunca apagar.
+- **O teste do visual limpo (marcado para 12/11) não cabe amanhã:** os 3 do Insta são de formatos diferentes, não há par para comparar; fica para quando houver 2 do mesmo formato.
+
+---
+
+## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 
 Feitas e respondidas: R1 a R21 (07/11) e R22 (10/11, o kit do portal). Para conferir:
