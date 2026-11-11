@@ -1,0 +1,4 @@
+nora54: o Flow repetiu "look at the time" no T01d ("...November 11th, look at the time. Look at the time. If it's before 11:11 p.m...").
+Cortado o 1º "look at the time" do montado: [3,0833 s, 3,875 s). O início do corte cai no corte da FusionZ (3,083 s), então a troca de zoom que já existia esconde o pulo; o fim cai no silêncio antes do 2º "Look" (3,84 a 3,92 s). Fade de 12 ms no áudio.
+[0:v]trim=0:3.0833,setpts=PTS-STARTPTS,setsar=1[v0];[0:v]trim=start=3.875,setpts=PTS-STARTPTS,setsar=1[v1];[0:a]atrim=0:3.0833,asetpts=PTS-STARTPTS,afade=t=out:st=3.0713:d=0.012[a0];[0:a]atrim=start=3.875,asetpts=PTS-STARTPTS,afade=t=in:st=0:d=0.012[a1];[v0][a0][v1][a1]concat=n=2:v=1:a=1[v][a]
+(crf 14 no intermediário nora54-cortado.mp4; depois editar_video.py com a spec-nora54.json)
