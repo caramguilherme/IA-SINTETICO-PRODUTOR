@@ -54,9 +54,9 @@ GESTO = {
 CENAS = {
     'manha': dict(
         img='manha1111-IMG', pre='manha1111', nome='cena da manhã', primeiro=55,
-        roupa_pt='regata preta de gola quadrada + moletom cinza largo, aberto, por cima',
-        roupa='plain black square-neck cotton tank top worn under a loose, open heather-grey zip-up hoodie, both matte, no print, no logo',
-        roupa_cont='her plain black square-neck tank top and the loose, open heather-grey zip-up hoodie over it',
+        roupa_pt='regata preta canelada e ajustada, de gola quadrada + moletom cinza bem largo, aberto e meio caído nos ombros',
+        roupa='plain black fitted ribbed square-neck tank top worn under a very oversized, slouchy heather-grey zip-up hoodie, left open and hanging loose, slipping slightly down her shoulders, sleeves bunched at the forearms, both matte, no print, no logo',
+        roupa_cont='her plain black fitted square-neck tank top and the very oversized, open heather-grey zip-up hoodie hanging loose over it',
         repouso='lightly holds the edge of the open hoodie at collarbone height', volta='the edge of the hoodie at collarbone height',
         quando='in the morning', onde='a real, lived-in American home office', luz='lit only by soft daylight from a window on the right side of the frame',
         fundo='the plain light wall, the office chair behind her, the shelf and the window light',
@@ -70,9 +70,9 @@ CENAS = {
         cam='f/8 aperture, ISO 400, 1/100s shutter speed'),
     'noite': dict(
         img='noite1111-IMG', pre='noite1111', nome='cena da noite', primeiro=58,
-        roupa_pt='regata preta de gola quadrada, alças largas',
-        roupa='plain black square-neck cotton tank top with wide straps, matte, no print, no logo',
-        roupa_cont='her plain black square-neck tank top with wide straps',
+        roupa_pt='regata preta canelada e ajustada, de gola quadrada, alças largas',
+        roupa='plain black fitted ribbed square-neck tank top with wide straps, matte, no print, no logo',
+        roupa_cont='her plain black fitted square-neck tank top with wide straps',
         repouso='rests at collarbone height with her fingertips lightly touching the small gold Venus pendant',
         volta='the small gold Venus pendant at collarbone height',
         quando='at night', onde='a real, lived-in American living room', luz='lit only by a warm table lamp on the right side of the frame',
@@ -157,8 +157,8 @@ def prompt_img(c):
     return ('RAW photo of the exact same character from the attached reference image, preserving every facial feature, identity, age, ethnicity, skin tone, and hairstyle exactly as shown in the reference,\n'
             'peaceful soft smile,\n'
             f'{s["roupa"]}, small flat shiny gold crescent moon with three tiny gold stars on the outer edge of her cheekbone near the temple, on the left side of the image; long gold '
-            'star-and-moon drop earrings; thin gold necklace with a small Venus pendant; thin gold bracelets; gold sun ring; hazel-green eyes; one thin braid with small gold rings '
-            'on the right side of the image; clean forehead with no jewelry,\n'
+            'star-and-moon drop earrings; thin gold necklace with a small Venus pendant; thin gold bracelets; gold sun ring; hazel-green eyes; long, loose, softly wavy jet-black hair falling past her shoulders, not tied back; '
+            'one thin braid wrapped with small gold rings clearly visible at the front, on the right side of the image; clean forehead with no jewelry,\n'
             "selfie taken with her own phone at arm's length: her left arm, on the right side of the image, is raised toward the camera and is cut off by the bottom-right corner "
             'of the frame, and the phone itself is not visible; framed from the upper waist up, her face large and centered with her eyes at about 30 percent of the image height; '
             f'{s["mao_img"]}; she looks straight into the phone camera with her lips slightly parted, as if about to speak; no prop, no object in her hands or anywhere in the frame,\n'
