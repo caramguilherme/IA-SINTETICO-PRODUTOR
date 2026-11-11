@@ -328,6 +328,18 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 
 **Para a Nora (11/11 ~13h15):** (1) o T04 da noite fica como está (confirmado; a regra de 03/11, sem cartas, tem agora a aula 66 como fonte). (2) Story de 12/11: a opção 1 com o adesivo "See your 2027", na imagem `story-1111`; em 13/11, a opção 2 com "Open your reading" (rodízio de um por dia, medindo toques ÷ viewers; substitui o rodízio de 10/11 com o texto do joao). (3) O corpo novo de 12/11 nasce com esse ângulo, esse Take 1 e essa promessa; o esqueleto do longo foi pedido ao Clone (o aluno manda), e eu fecho as falas com a leitura completa.
 
+## R26 (11/11, ~13h20): esqueleto do corpo novo de 12/11 ("the hardest part is over" + 2027)
+**Longo (~50 s, 5 takes):** pré-gancho de 2 a 3 s (vela acendendo de perto ou cristais brilhando, som ASMR, corte seco com impacto) +
+- T1: "If this video finds you on Thursday, November 12th, take a deep breath: the hardest part of your year is over."
+- T2: "You carried heavy emotional weight for months, quietly wondering if anyone truly understood the quiet battles you fought."
+- T3: "Today that heavy fog is finally clearing, making room for true inner peace, clarity, and genuine emotional ease."
+- T4: "When your energy aligns with this new chapter, everything you desire begins to meet you with gentle grace." (Trustpilot nos últimos 3 s)
+- T5: "This shift doesn't happen for every woman. Tap my photo and check my story to see what twenty twenty-seven holds for you."
+**Curto (~25 s):** pré-gancho + T1 + T3 (com o Trustpilot nos últimos 3 s) + T5.
+**Legenda e comentário sugeridos:** "Take a deep breath… your hardest battles are behind you. If this message resonated with you, save it for peace and tap my photo to see what 2027 holds for you in my story. ✨ #AuraliTrend #manifestation #innerpeace #newchapter"; comentário fixado com o link.
+
+**Para a Nora (11/11 ~13h25):** as 5 falas entram como estão no corpo novo de 12/11 (gerar 5 takes + Takes 1 extras: regra de 3 a 4 ganchos por corpo). **Fora:** o #AuraliTrend (R17: não está em nenhuma fonte nossa e põe o nome do app na legenda) e o link no comentário fixado do **Insta** (lá o link não é clicável e a regra é comentário fixado sem link; no Face, o comentário da Página com o link FACE continua). A legenda dele entra no Insta sem o #AuraliTrend, com "Comment X" no lugar do "save it" se a gente mantiver o pedido de comentário na legenda. O pré-gancho da vela (o do R23) é gerado junto.
+
 ---
 
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
