@@ -606,7 +606,7 @@ function enxugar(){
    s.querySelectorAll('.mono').forEach(m=>{if(/primeiros segundos/i.test(m.textContent))m.classList.add('hide')});
    const lw=$('telaLinhaW').querySelector('.mono');if(lw)lw.textContent='Passo a passo';}
   // peças: sem o parágrafo longo; o resumo no lugar do "por que eu decidi"
-  {const b=$('pecasBox');const p0=b.querySelector('p');if(p0)p0.remove();
+  {const b=$('pecasBox');const p0=b.querySelector('p');if(p0)p0.remove();const t0=b.querySelector(':scope > .tip');if(t0&&/Como ler/.test(t0.textContent))t0.remove();
    b.querySelectorAll('h3').forEach(h=>{if(/Por que eu decidi/.test(h.textContent))h.textContent=(pk.pecas&&pk.pecas.titulo_decisao)||'Resumo';});}
   // a lista "depois que o agente gerar" repete o que já está na conferência, nas peças e no agente
   $('listaCenas').querySelectorAll('.item').forEach(it=>{const h=it.querySelector('h3');if(h&&/Depois que o agente gerar/.test(h.textContent))it.remove();});

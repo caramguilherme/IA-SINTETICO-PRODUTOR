@@ -189,9 +189,10 @@ def img_central(c, n):
     return {
         'titulo': f'IMAGEM · {s["img"]} (a mesma para os takes do nora{n}, nora{outros[0]} e nora{outros[1]})',
         'nome': s['img'],
-        'aviso': f'Roupa: {s["roupa_pt"]}. Rosto e marcas da Nora iguais; sem tatuagem. Não precisa do Gerador de Prompts.',
+        'aviso': (f'Roupa: {s["roupa_pt"]}. Rosto e marcas da Nora iguais; sem tatuagem. Não precisa passar pela Central de imagens (Gerador de Prompts, com “Já tenho o Blueprint”): '
+                  'o prompt abaixo já é o que ela daria, com as correções que o dela sempre precisa (sem “fortune teller”, sem “taken by a friend”). Vai direto para o Flow.'),
         'passos': [
-            'No Flow (conta contatocaram): Imagem · 9:16 · Nano Banana Pro · x4. Anexe só a folha da Nora (a de 1K).',
+            'No Flow (conta contatocaram): Imagem · 9:16 · Nano Banana Pro · x4. Anexe só a folha da Nora (o blueprint, a de 1K).',
             'Cole o prompt do botão Copiar abaixo, inteiro, e gere.',
             'Confira cada uma das 4: é a Nora (lua com 3 estrelinhas na bochecha do lado esquerdo da imagem, trança com anéis, brincos de estrela e lua, colar de Vênus, testa limpa)? '
             'A roupa é a pedida, lisa, sem marca? O celular não aparece? Parece foto de celular? Algum texto nos cantos? Mão com 5 dedos?',
