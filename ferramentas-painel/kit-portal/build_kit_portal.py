@@ -302,7 +302,7 @@ VIDEOS = {
              nums=[('222', 18, 10.5, 'alto à esquerda', 'laranja', '#FF9F1C', 14), ('888', 82, 28, 'no meio à direita', 'verde-limão', '#7CFF4F', 12), ('11:11', 82, 46.9, 'à direita, na altura do ombro', 'branco', '#FFFFFF', 11)],
              coment=['🔮 Just sent it to you, check your inbox ✨', '✨ It\'s in your messages now 💖', '💫 Sent! Look in your DMs 🌙'],
              dm=['🔮 [name], here\'s your private reading ✨ before the 11:11 portal:', '💖 [name], I sent this one just for you 🔮 Open it here:', '✨ Hey [name]! Tap here to open your private reading 💫']),
-    53: dict(hora='~23h30', dia='10/11 (terça)', tipo='curto', usa=['T01c', 'T02b', 'T04'], gera=['T01c', 'T02b'],
+    53: dict(hora='23h40 (POSTADO no Insta e no Face)', dia='10/11 (terça)', tipo='curto', usa=['T01c', 'T02b', 'T04'], gera=['T01c', 'T02b'],
              caixa='TUESDAY, NOVEMBER 10TH\nif you keep seeing 11:11,\nit\'s a sign', caixa_fim='this message is meant for you.',
              insta=f'If you\'re watching this on Tuesday, November 10th, it\'s a sign. 🔮\nTomorrow is 11:11. Your private reading is waiting in my story.\nComment "I accept" ✨\n{COMUM_HASH} #abundance',
              pergunta='which door are you ready to see open: love, money or peace?',
