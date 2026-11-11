@@ -19,7 +19,7 @@
 | kitportal-T01a | nora52 (longo) | This video will find you on Tuesday, November 10th, and if it does, this message is one hundred percent meant for you. | 22 | 10 s | 15 | verde (predestinação; data do portal) |
 | kitportal-T01b | nora51 (curto) | If you see this on Tuesday, November 10th, this message is one hundred percent meant for you. | 17 | 8 s | 12 | verde |
 | kitportal-T01c | nora53 (curto) | If you're watching this on Tuesday, November 10th, it's a sign, and this message is meant for you. | 18 | 10 s | 15 | verde |
-| kitportal-T01d | nora54 (00h30, já 11/11) | If you see this on Wednesday, November 11th, this message is one hundred percent meant for you. | 17 | 8 s | 12 | verde |
+| kitportal-T01d | nora54 (~01h30, já 11/11) | If you see this on Wednesday, November 11th, look at the time: if it's before 11:11 p.m., this is meant for you. (10/11 ~22h50: filtro do relógio da Soma, v7 e v8 da `BIBLIOTECA-VIDEOS-VIRAIS.md` 49.7) | 22 | 10 s | 15 | verde (filtro sem medo) |
 | kitportal-T02 | nora51, nora52 | Tomorrow, the 11:11 portal opens, and the next chapter of your life begins with it, in the best way possible. | 20 | 10 s | 15 | verde (desejo com prazo) |
 | kitportal-T02b | nora53 | Tomorrow is 11:11, and the doors that stayed closed for so long are getting ready to open for you. | 19 | 10 s | 15 | verde |
 | kitportal-T02d | nora54 e os de 11/11 | Today the 11:11 portal is open, and the next chapter of your life begins with it, in the best way possible. | 21 | 10 s | 15 | verde |
@@ -37,7 +37,7 @@
 - **nora51 · terça 10/11 · ~18h (era 17h) · curto (~25 s):** T01b + T02 + T04.
 - **nora52 · terça 10/11 · 20h30 (era 19h30) · longo (~75 s, CTA aos ~28 s e no fim):** T01a + T02 + T03 + T04 + T05 + T06 + T07 + T08 + T09. Compara com o nora49 (corpo A, mesmo horário).
 - **nora53 · terça 10/11 · 23h (era 22h) · curto (~25 s):** T01c + T02b + T04.
-- **nora54 · quarta 11/11 · 01h30 (era 00h30) · curto (~35 s):** T01d + T02d + T04 + T09.
+- **nora54 · quarta 11/11 · ~01h30 · curto (~25 s):** T01d (com o filtro do relógio) + T02d + T04. Sem o T09 desde 10/11 ~22h50, para só a abertura mudar contra o nora51 e o nora53.
 - **11/11 (17h, 19h30, 22h):** um Take 1 novo por post (a data de quarta) + T02d + o resto do kit; o longo das 19h30 de 11/11 troca o T02 pelo T02d. **No Face, esses posts repetem takes já postados: vão com espelho + filtro "Dias claros" 30% + 1,1x** (o nora50 travou no Face com 23 views por repetir gancho e corpo; `METRICAS-NORA-LEIA.md`, 10/11 13h38). Depois de 11/11, kit novo sem portal.
 
 ## Conferência (checklist do slide 20, item 31 das lições, P46)

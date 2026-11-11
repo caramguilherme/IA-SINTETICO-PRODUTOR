@@ -27,7 +27,7 @@ F = {
     'T01a': "This video will find you on Tuesday, November 10th, and if it does, this message is one hundred percent meant for you.",
     'T01b': "If you see this on Tuesday, November 10th, this message is one hundred percent meant for you.",
     'T01c': "If you're watching this on Tuesday, November 10th, it's a sign, and this message is meant for you.",
-    'T01d': "If you see this on Wednesday, November 11th, this message is one hundred percent meant for you.",
+    'T01d': "If you see this on Wednesday, November 11th, look at the time: if it's before 11:11 p.m., this is meant for you.",  # 10/11 ~22h50: filtro do relógio da Soma (v7, v8)
     'T02': "Tomorrow, the 11:11 portal opens, and the next chapter of your life begins with it, in the best way possible.",
     'T02b': "Tomorrow is 11:11, and the doors that stayed closed for so long are getting ready to open for you.",
     'T02d': "Today the 11:11 portal is open, and the next chapter of your life begins with it, in the best way possible.",
@@ -48,7 +48,7 @@ NOMES = {
 }
 CENA = {
     'T01a': 'a data do dia (abertura do longo)', 'T01b': 'a data do dia (abertura do curto das ~18h)', 'T01c': 'a data do dia (abertura do curto das 23h)',
-    'T01d': 'a data de quarta (abertura do curto da 01h30)', 'T02': 'a promessa: amanhã é o portal', 'T02b': 'a promessa: as portas vão abrir',
+    'T01d': 'a data de quarta + o filtro do relógio (abertura do curto da 01h30)', 'T02': 'a promessa: amanhã é o portal', 'T02b': 'a promessa: as portas vão abrir',
     'T02d': 'a promessa: hoje é o portal (11/11)', 'T03': 'filtro: para quem fez tudo certo e se sente travada', 'T04': 'CTA: a 2ª parte do sinal, a ação e a leitura',
     'T05': 're-gancho: o que ninguém sabe do 11:11', 'T06': 'mecanismo: cosmic receiver', 'T07': 'mecanismo: a dúvida calava o sinal; o 11:11 abre a passagem',
     'T08': 'CTA de novo', 'T09': 'engajamento (depois do CTA)',
@@ -65,7 +65,7 @@ GESTO = {
     'T01a': 'during the first half of the take she leans slightly toward the lens with her eyebrows a little raised and an intrigued look, in the closing half she gives one slow knowing nod with a warm half-smile',
     'T01b': 'during the first half of the take she tilts her head slightly with a curious look, in the closing half a warm, certain smile appears and she gives one small nod',
     'T01c': 'during the first half of the take she raises her eyebrows with a look of recognition, in the closing half she gives two small quick nods with a knowing smile',
-    'T01d': 'during the first half of the take she leans slightly toward the lens with a bright, excited look, in the closing half she gives one slow nod with a wide warm smile',
+    'T01d': 'during the first half of the take she leans slightly toward the lens with a bright, curious look, in the middle her eyes glance briefly down and to the left side of the frame as if checking a clock while her hand stays still, and in the closing half her eyes return to the lens and she gives one slow nod with a warm smile',
     'T02': 'during the first half of the take she raises her right hand to the height of her shoulder with the palm open and facing up as if offering something, in the closing half the hand returns to rest on her upper chest and a wide smile grows',
     'T02b': 'during the first half of the take she holds a calm, reassuring look, in the closing half she lifts her right hand to the height of her shoulder and turns the palm outward slowly as if opening something, then returns it to her upper chest',
     'T02d': 'during the first half of the take her eyebrows lift with a joyful look, in the closing half she lifts her right hand to the height of her shoulder with the palm up and then returns it to her upper chest with a warm smile',
@@ -309,7 +309,7 @@ VIDEOS = {
              nums=[('888', 18, 10.5, 'alto à esquerda', 'rosa-choque', '#FF4FD8', 15), ('11:11', 82, 28, 'no meio à direita', 'ciano', '#3DE0FF', 12), ('222', 82, 46.9, 'à direita, na altura do ombro', 'amarelo-ouro', '#FFD21F', 11)],
              coment=['🌙 Sent it to your inbox, beautiful ✨', '✨ Check your messages, it\'s there 🔮', '💖 I just sent it to you 💫'],
              dm=['🌙 [name], your private reading is ready ✨ before 11:11:', '💫 Hi [name]! Open your private reading here 🔮', '✨ [name], open this when you have a quiet minute 💖 Your private reading:']),
-    54: dict(hora='~01h30 (da noite de 10 para 11/11)', dia='11/11 (quarta)', tipo='curto', usa=['T01d', 'T02d', 'T04', 'T09'], gera=['T01d', 'T02d'],
+    54: dict(hora='~01h30 (da noite de 10 para 11/11)', dia='11/11 (quarta)', tipo='curto', usa=['T01d', 'T02d', 'T04'], gera=['T01d', 'T02d'],  # 10/11 ~22h50: sem o T09, para só a abertura mudar contra o nora51 e o nora53
              caixa='WEDNESDAY, NOVEMBER 11TH\ntoday is 11:11,\nthis message is for you', caixa_fim='one hundred percent meant for you.',
              insta=f'If you see this on Wednesday, November 11th, it\'s meant for you. 🔮\nToday the 11:11 portal is open. Your private reading is waiting in my story.\nComment "I\'m ready" ✨\n{COMUM_HASH} #1111',
              pergunta='today is 11:11: what are you asking the universe for?',
@@ -343,7 +343,7 @@ def montar(n):
             'dor': 'a próxima fase da vida chegando (amor, paz, propósito, dinheiro sem aperto), com o portal 11:11 como motivo',
             'formato': ('Sem pré-gancho; selfie com cara de celular no quarto à noite (kitportal-IMG); takes do kit: ' + ' + '.join(usa)),
             'molde_hook': 'Gancho da data dos maiores reels da Soma Chhaya (1,2 mi, 548 mil, 463 mil, 453 mil): "This video will find you on [dia]..." / "If you see this on [dia]..."',
-            'duracao_total': 75 if v['tipo'] == 'longo' else (35 if n == 54 else 25),
+            'duracao_total': 75 if v['tipo'] == 'longo' else 25,
             'descricao_instagram': v['insta'],
             'legenda_aviso': 'No Face, use a mesma legenda SEM a linha do “Comment …” (o Face entrega menos post com pedido de comentário).',
             'leitura_registro': LEITURA,
