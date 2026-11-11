@@ -12,6 +12,10 @@ Fonte: https://www.trustpilot.com/review/auralyapp.com — página colada pelo a
 ## Prints prontos (31/10/2026)
 Prints do aluno, com o destaque laranja da busca do navegador removido e a linha "Useful / Share" cortada (nada mais mudou: texto, nome, estrelas e data são os originais): `provas-trustpilot/01-leukia.png`, `02-patricia.png`, `03-darcey.png`, `04-katrina.png`. Sem o nome do app. Ficam com o sobrenome (avaliação pública).
 
+## Versões sem a hora relativa (11/11/2026)
+`provas-trustpilot/03-darcey-sem-hora.png` e `04-katrina-sem-hora.png`: os mesmos prints, só sem o "11 hours ago"/"14 hours ago" do canto (hoje seria falso); a data original (October 30, 2026) fica. São as usadas a partir de 11/11.
+**Desde 03/11 (Gustavo: nada de cartas antes do quiz), a da Leukia ("all 3 cards that I selected") e a da Patricia ("The cards for both of my readings") ficam fora do vídeo e do story.** Valem a da Katrina e a da Darcey (e a do Mike, sem print).
+
 ## Não usar
 - "Barbie" ("Thank you Master Aura": lembra o nome do app); "Sally D." ("for an ai reading"); "Elizabeth" ("no way a fake could have known": a palavra "fake" na tela); avaliações de 1 a 3 palavras.
 

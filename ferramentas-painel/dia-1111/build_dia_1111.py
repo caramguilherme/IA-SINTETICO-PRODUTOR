@@ -1,7 +1,8 @@
 # Painéis do dia 11/11/2026 (nora55 a nora60): 6 posts (9h, 12h, 15h, 18h, 21h, 00h), Insta e Face, em 2 cenas novas (decisão do aluno, 11/11 ~00h30):
 # manhã = escritório em casa com luz de janela, regata preta de gola quadrada + moletom cinza largo aberto (9h, 12h, 15h);
 # noite = sala com abajur, regata preta de gola quadrada (18h, 21h, 00h). Falas: ROTEIRO-DIA-1111-NORA55-60.md.
-# Teste a 0 crédito na edição (COMUNIDADE, 10/11 ~23h35): 9h, 15h e 21h = visual limpo; 12h, 18h e 00h = visual atual.
+# Teste a 0 crédito na edição (decisão do aluno, 11/11 ~01h35): prova do Trustpilot antes do CTA em 12h, 18h e 00h; sem prova em 9h, 15h e 21h;
+# visual atual (caixa branca + números coloridos) em todos; o teste do visual limpo foi para 12/11.
 # O LIVRE e as movimentações são PROVISÓRIOS até a imagem de cada cena ser aprovada (P32): fechar pela imagem e rodar de novo.
 # Uso (raiz do repositório): python3 -I ferramentas-painel/dia-1111/build_dia_1111.py
 import json, copy, re, pathlib
@@ -265,39 +266,40 @@ def agente(c, ks):
 
 
 COMUM_HASH = '#manifestation #1111portal #lawofattraction'
-# visual: 'limpo' (texto do topo sem caixa, só 11:11 e 222 brancos e pequenos) ou 'atual' (caixa branca + 3 números coloridos)
+# prova: a avaliação real do Trustpilot (provas-trustpilot/, sem a hora relativa) que entra antes do CTA, ou None (o controle)
+PROVA = {'04-katrina': ('Katrina H. (EUA)', 'So much peace here'), '03-darcey': ('Darcey (EUA)', 'very uplifting… she hit bullseye')}
 VIDEOS = {
-    55: dict(cena='manha', hora='9h', visual='limpo', k1='A',
+    55: dict(cena='manha', hora='9h', prova=None, k1='A',
              insta=f'If you see this on Wednesday, November 11th, it\'s meant for you. 🔮\nToday the 11:11 portal is open. Your private reading is waiting in my story.\nComment "ready" ✨\n{COMUM_HASH} #newbeginnings',
              pergunta='today is 11:11: which part of your life is ready for a new beginning?',
-             nums=[('11:11', 82, 10.5, 'alto à direita', 'branco', '#FFFFFF', 9), ('222', 18, 10.5, 'alto à esquerda', 'branco', '#FFFFFF', 9)],
+             nums=[('11:11', 82, 10.5, 'alto à direita', 'verde-limão', '#7CFF4F', 16), ('222', 18, 10.5, 'alto à esquerda', 'branco', '#FFFFFF', 13), ('888', 82, 46.9, 'à direita, na altura do ombro', 'laranja', '#FF9F1C', 11)],
              coment=['☀️ Sent it to your messages, take a look ✨', '🔮 It\'s waiting in your inbox, beautiful 💖', '✨ Check your DMs, I just sent it 🌙'],
              dm=['☀️ [name], today is 11:11 ✨ Your private reading is right here:', '🔮 Hi [name]! As promised, here is your private reading 💖', '✨ [name], open this when you have a calm minute today 🌙 Your private reading:']),
-    56: dict(cena='manha', hora='12h', visual='atual', k1='B',
+    56: dict(cena='manha', hora='12h', prova='04-katrina', k1='B',
              insta=f'If you see this on Wednesday, November 11th, look at the time. 🔮\nToday the 11:11 portal is open. Your private reading is waiting in my story.\nComment "open" ✨\n{COMUM_HASH} #1111',
              pergunta='what is the first thing you want to see change after today?',
              nums=[('11:11', 82, 10.5, 'alto à direita', 'amarelo-ouro', '#FFD21F', 15), ('888', 18, 10.5, 'alto à esquerda', 'rosa-choque', '#FF4FD8', 12), ('222', 82, 46.9, 'à direita, na altura do ombro', 'ciano', '#3DE0FF', 11)],
              coment=['💌 Just sent it, check your inbox ✨', '🌟 It\'s in your messages now 🔮', '💖 Sent! Take a look at your DMs ☀️'],
              dm=['💌 [name], here\'s your private reading for today ✨', '🌟 Hi [name]! Your private reading is ready 🔮 Tap here:', '💖 [name], I saved this one for you on 11:11 ☀️ Your private reading:']),
-    57: dict(cena='manha', hora='15h', visual='limpo', k1='C',
+    57: dict(cena='manha', hora='15h', prova=None, k1='C',
              insta=f'Holding your phone on November 11th, wondering if things will ever change? This is for you. 🔮\nToday the 11:11 portal is open. Your private reading is waiting in my story.\nComment "I believe" ✨\n{COMUM_HASH} #universe',
              pergunta='what are you ready to let into your life on this 11:11?',
-             nums=[('11:11', 82, 10.5, 'alto à direita', 'branco', '#FFFFFF', 9), ('222', 18, 10.5, 'alto à esquerda', 'branco', '#FFFFFF', 9)],
+             nums=[('888', 18, 10.5, 'alto à esquerda', 'ciano', '#3DE0FF', 14), ('11:11', 82, 10.5, 'alto à direita', 'rosa-choque', '#FF4FD8', 15), ('222', 82, 46.9, 'à direita, na altura do ombro', 'amarelo-ouro', '#FFD21F', 11)],
              coment=['🌙 Look in your messages, it\'s there 💫', '✨ I sent it to your inbox 💖', '🔮 Check your DMs, beautiful ✨'],
              dm=['🌙 [name], this 11:11 is yours 💫 Your private reading:', '✨ Hey [name]! Here\'s the private reading I told you about 💖', '🔮 [name], three quick questions and it\'s ready ✨ Your private reading:']),
-    58: dict(cena='noite', hora='18h', visual='atual', k1='A',
+    58: dict(cena='noite', hora='18h', prova='03-darcey', k1='A',
              insta=f'If you see this on Wednesday, November 11th, this message found you for a reason. 🔮\nThe 11:11 portal is open today. Your private reading is waiting in my story.\nComment "new chapter" ✨\n{COMUM_HASH} #spirituality',
              pergunta='love, peace, purpose or money: where do you want this new chapter to start?',
              nums=[('222', 18, 10.5, 'alto à esquerda', 'laranja', '#FF9F1C', 14), ('888', 82, 28, 'no meio à direita', 'verde-limão', '#7CFF4F', 12), ('11:11', 82, 46.9, 'à direita, na altura do ombro', 'branco', '#FFFFFF', 11)],
              coment=['🕯️ Sent it to your inbox ✨', '💫 It\'s waiting in your messages 🔮', '🌙 Check your DMs, I sent it 💖'],
              dm=['🕯️ [name], your private reading is here, on this 11:11 ✨', '💫 Hi [name]! Open your private reading here 🔮', '🌙 [name], this one is for your new chapter 💖 Your private reading:']),
-    59: dict(cena='noite', hora='21h', visual='limpo', k1='B',
+    59: dict(cena='noite', hora='21h', prova=None, k1='B',
              insta=f'November 11th: look at the time. If it\'s before 11:11 p.m., this is meant for you. 🔮\nYour private reading is waiting in my story.\nComment "thank you" ✨\n{COMUM_HASH} #abundance',
              pergunta='what are you asking the universe for tonight?',
-             nums=[('11:11', 82, 10.5, 'alto à direita', 'branco', '#FFFFFF', 9), ('222', 18, 10.5, 'alto à esquerda', 'branco', '#FFFFFF', 9)],
+             nums=[('222', 18, 10.5, 'alto à esquerda', 'verde-limão', '#7CFF4F', 14), ('11:11', 82, 10.5, 'alto à direita', 'laranja', '#FF9F1C', 15), ('888', 82, 46.9, 'à direita, na altura do ombro', 'branco', '#FFFFFF', 11)],
              coment=['⭐ Take a look at your messages ✨', '💖 It\'s in your DMs now 🌙', '🔮 Just sent it to you 💫'],
              dm=['⭐ [name], here is your private reading for tonight ✨', '💖 Hi [name]! Your private reading is ready for you 🌙', '🔮 [name], open this tonight, when it\'s quiet 💫 Your private reading:']),
-    60: dict(cena='noite', hora='00h (da noite de 11 para 12/11; 19h na Califórnia, 22h em Nova York: ainda é 11/11 nos EUA)', visual='atual', k1='C',
+    60: dict(cena='noite', hora='00h (da noite de 11 para 12/11; 19h na Califórnia, 22h em Nova York: ainda é 11/11 nos EUA)', prova='04-katrina', k1='C',
              insta=f'If you\'re holding your phone tonight, wondering if things will ever change, this is for you. 🔮\nThe 11:11 portal is still open. Your private reading is waiting in my story.\nComment "yes" ✨\n{COMUM_HASH} #manifestingmyreality',
              pergunta='what do you want this new chapter to bring you?',
              nums=[('888', 18, 10.5, 'alto à esquerda', 'rosa-choque', '#FF4FD8', 15), ('11:11', 82, 28, 'no meio à direita', 'ciano', '#3DE0FF', 12), ('222', 82, 46.9, 'à direita, na altura do ombro', 'amarelo-ouro', '#FFD21F', 11)],
@@ -306,7 +308,7 @@ VIDEOS = {
 }
 
 LEITURA = ('11/11/2026 ~00h40, painéis do dia 11 (continuação do kit do portal): a leitura focada ampliada de 10/11 (lista no ROTEIRO-KIT-PORTAL-NORA51-54.md) + '
-           'COMUNIDADE de 10/11 22h40 a 23h35 (9 vídeos da Soma e do @mundoespiritualbrasil, Lucas Dusi, 14ª leitura, volume de 6 por dia, lote 2, visual limpo), '
+           'COMUNIDADE de 10/11 22h40 a 23h35 (9 vídeos da Soma e do @mundoespiritualbrasil, Lucas Dusi, 14ª leitura, volume de 6 por dia, lote 2, visual limpo, adiado para 12/11) + PROVAS-REAIS-TRUSTPILOT.md (só as avaliações sem cartas: Katrina e Darcey), '
            'BIBLIOTECA-VIDEOS-VIRAIS 49.6 a 49.8 (a Soma grava vários no mesmo dia com a mesma roupa e troca no outro dia), LICOES de 10/11 (o T04 e o filtro do Flow, '
            'nomes do Gerador, prompt do Gerador conferido, repetições do Flow), FATOS (story-0311, créditos), DNA Visual - Nora v2 (figurino varia, liso, sem estampa; '
            'rosto e marcas fixos), PLANO-MVM (cenário e roupa mudam de um vídeo para o outro, não dentro do mesmo; "sem decote" era só do perfil antigo da Nora v1).')
@@ -329,8 +331,8 @@ def montar(n):
         'trava_referencia': P46['trava_referencia'], 'figurino': s['roupa'], 'excecao_estilo': '',
         'ocultar_bloco_agente_imagem': True,
         'roteiro': {
-            'id': f'{nn}-DIA-1111-{c.upper()}-{v["visual"].upper()}',
-            'titulo': f'Dia 11/11 ({s["nome"]}): curto, 11/11 (quarta), {v["hora"].split(" (")[0]}, visual {v["visual"]}',
+            'id': f'{nn}-DIA-1111-{c.upper()}-' + ('PROVA' if v['prova'] else 'SEM-PROVA'),
+            'titulo': f'Dia 11/11 ({s["nome"]}): curto, 11/11 (quarta), {v["hora"].split(" (")[0]}, ' + ('com a prova do Trustpilot' if v['prova'] else 'sem prova (controle)'),
             'dor': 'a próxima fase da vida chegando (amor, paz, propósito, dinheiro sem aperto), com o portal 11:11 de hoje como motivo',
             'formato': f'Sem pré-gancho; selfie com cara de celular, {s["nome"]} ({s["img"]}); takes: ' + ' + '.join(ROT[k] for k in usa),
             'molde_hook': 'Gancho da data dos maiores reels da Soma Chhaya ("If you see this on [dia]..."), com a variação do relógio e a da situação',
@@ -370,29 +372,26 @@ def montar(n):
     mt = copy.deepcopy(P49['mapa_tela'])
     mt['numeros'] = [dict(t=a, x=x, y=y, onde=o, cor_nome=cn, cor=co, tamanho=tm) for (a, x, y, o, cn, co, tm) in v['nums']]
     linhas = caixa.split('\n')
-    if v['visual'] == 'limpo':
-        topo = {'nome': 'Texto do topo SEM caixa (visual limpo): ' + ' / '.join(f'“{l}”' for l in linhas), 'fonte': 'Poppins Bold (poppins-bd)',
-                'cor': 'branco, a data também', 'tamanho': '10, em 3 linhas (até ~84% da largura)', 'contorno': 'Traço preto fino + sombra, sem Plano de fundo',
-                'obs': 'X 0 · Y 397, do 1º quadro até o fim do 1º take (a data). As mesmas palavras do visual atual; só sai a caixa branca. Eu ponho (P45).'}
-        numeros = {'nome': 'Só 2 números, brancos e pequenos (11:11 e 222; visual limpo)', 'fonte': 'Poppins Bold (poppins-bd)', 'cor': 'branco #FFFFFF', 'tamanho': '9',
-                   'contorno': 'Traço preto fino, sem Plano de fundo',
-                   'obs': 'Provisório: ' + '; '.join(f'{a} {xy(x, y)}' for (a, x, y, o, cn, co, tm) in v['nums']) + '. Confiro na imagem aprovada e na prévia (longe do rosto, da mão e do texto). Eu ponho (P45).'}
-    else:
-        topo = {'nome': 'Caixa do topo (visual atual): ' + ' / '.join(f'“{l}”' for l in linhas), 'fonte': 'Poppins Bold (poppins-bd)',
-                'cor': 'texto preto; a 1ª linha (a data) em vermelho #E53935', 'tamanho': '10, em 3 linhas (até ~84% da largura)', 'contorno': 'Plano de fundo branco arredondado',
-                'obs': 'X 0 · Y 397, do 1º quadro até o fim do 1º take (a data). Eu ponho (P45).'}
-        numeros = {'nome': 'Números fixos espalhados (11:11, 888, 222; visual atual)', 'fonte': 'Poppins Bold (poppins-bd)', 'cor': 'uma cor para cada número',
-                   'tamanho': 'um tamanho para cada número', 'contorno': 'Traço preto + Sombra preta, sem Plano de fundo',
-                   'obs': 'Provisório: ' + '; '.join(f'{a} {cn}, {tm}, {xy(x, y)}' for (a, x, y, o, cn, co, tm) in v['nums']) + '. Confiro na imagem aprovada e na prévia. Eu ponho (P45).'}
+    topo = {'nome': 'Caixa do topo: ' + ' / '.join(f'“{l}”' for l in linhas), 'fonte': 'Poppins Bold (poppins-bd)',
+            'cor': 'texto preto; a 1ª linha (a data) em vermelho #E53935', 'tamanho': '10, em 3 linhas (até ~84% da largura)', 'contorno': 'Plano de fundo branco arredondado',
+            'obs': 'X 0 · Y 397, do 1º quadro até o fim do 1º take (a data). Eu ponho (P45).'}
+    numeros = {'nome': 'Números fixos espalhados (11:11, 888, 222)', 'fonte': 'Poppins Bold (poppins-bd)', 'cor': 'uma cor para cada número',
+               'tamanho': 'um tamanho para cada número', 'contorno': 'Traço preto + Sombra preta, sem Plano de fundo',
+               'obs': 'Provisório: ' + '; '.join(f'{a} {cn}, {tm}, {xy(x, y)}' for (a, x, y, o, cn, co, tm) in v['nums']) + '. Confiro na imagem aprovada e na prévia. Eu ponho (P45).'}
     mt['estilos'] = [numeros, topo,
         {'nome': 'Legenda (eu ponho, P45)', 'fonte': 'Poppins Bold', 'cor': 'branco, em MAIÚSCULAS; palavra-chave em amarelo-ouro #FFD21F', 'tamanho': 'uns 38 px (vídeo 720×1280)',
-         'contorno': 'preto grosso', 'obs': 'Do 1º quadro ao fim (não há pré-gancho), blocos de 2 a 4 palavras, abaixo do queixo. Igual nos dois visuais.'},
+         'contorno': 'preto grosso', 'obs': 'Do 1º quadro ao fim (não há pré-gancho), blocos de 2 a 4 palavras, abaixo do queixo.' + (' Some enquanto a avaliação está na tela.' if v['prova'] else '')},
         {'nome': 'Faixa do story: “Your private reading is in my story”', 'fonte': 'Poppins Bold (poppins-bd)', 'cor': 'texto preto, “my story” em vermelho #E53935',
-         'tamanho': '9, em 1 linha', 'contorno': 'Plano de fundo branco arredondado', 'obs': 'Do T04 (o CTA) até o fim, X 0 · Y 397. Igual nos dois visuais (o CTA não muda). Eu ponho (P45).'},
+         'tamanho': '9, em 1 linha', 'contorno': 'Plano de fundo branco arredondado', 'obs': 'Do T04 (o CTA) até o fim, X 0 · Y 397. Eu ponho (P45).'},
         {'nome': 'Seta vermelha (↓)', 'fonte': '—', 'cor': 'vermelho #E53935 com traço preto', 'tamanho': '14', 'contorno': '—',
-         'obs': 'Do T04 até o fim, embaixo à esquerda (X -288 · Y -333, P43), apontando para a foto do perfil. Igual nos dois visuais. Eu ponho (P45).'},
+         'obs': 'Do T04 até o fim, embaixo à esquerda (X -288 · Y -333, P43), apontando para a foto do perfil. Eu ponho (P45).'},
     ]
-    mt['regras'] = [f'Teste de 11/11 a 0 crédito (COMUNIDADE, 10/11 ~23h35): este vídeo é do visual {v["visual"].upper()}. 9h, 15h e 21h = limpo; 12h, 18h e 00h = atual. Régua: % nos 3 s e tempo médio dos 2 grupos.',
+    if v['prova']:
+        quem, trecho = PROVA[v['prova']]
+        mt['estilos'].append({'nome': f'Avaliação real do Trustpilot: {quem} (“{trecho}”)', 'fonte': f'a imagem provas-trustpilot/{v["prova"]}-sem-hora.png (print real, sem o nome do app; tirei só o “hours ago”, que hoje já não vale)',
+                              'cor': '—', 'tamanho': '~84% da largura (604 px num vídeo de 720)', 'contorno': 'sem borda; cantos arredondados e sombra leve',
+                              'obs': 'X 0 · Y -200 (sobre a blusa, longe do rosto), da palavra “begins” até o fim do T02, logo antes do CTA (~3 s); a voz continua por baixo e o vídeo não fica mais longo. Eu ponho (P45).'})
+    mt['regras'] = [('Teste de 11/11 a 0 crédito (decisão do aluno, 11/11 ~01h35): ' + ('este vídeo TEM a prova do Trustpilot antes do CTA' if v['prova'] else 'este vídeo NÃO tem prova (é o controle)') + '. 12h, 18h e 00h com a prova; 9h, 15h e 21h sem. Visual de agora em todos (o visual limpo foi para 12/11). Régua: visitas ao perfil por 1.000 views, toques no link do story e cliques no Tracker de cada horário.'),
                     f'Posições provisórias até a {s["img"]} ser aprovada; confiro de novo na prévia da edição (número longe do rosto, da mão e do texto).',
                     'Sem pré-gancho: o texto do topo, os números e a legenda entram desde o 1º quadro.']
     p['mapa_tela'] = mt
@@ -428,6 +427,8 @@ def montar(n):
         if k not in usa:
             dono = [m for m in irmaos if VIDEOS[m]['k1'] == k][0]
             pecas.append({'nome': nome(c, k), 'tipo': 'take', 'status': 'gerar', 'creditos': 12 if dur(k) == '8' else 15, 'descricao': f'Para o nora{dono} ({VIDEOS[dono]["hora"].split(" (")[0]}): “{F[k]}”'})
+    if v['prova']:
+        pecas.append({'nome': f'{v["prova"]}-sem-hora', 'de': 'provas-trustpilot/ (no projeto; eu ponho)', 'tipo': 'prova', 'status': 'reutilizar', 'descricao': f'Avaliação real do Trustpilot ({PROVA[v["prova"]][0]}), antes do CTA. 0 crédito; você não precisa fazer nada.'})
     pecas.append({'nome': 'story-0311', 'de': 'story-3110', 'tipo': 'story', 'status': 'reutilizar',
                   'descricao': 'Repostar ~17h50 com o texto do 11:11 (seção Story deste painel).' if n == 58 else 'No ar; o repost de hoje é no painel do nora58 (~17h50).'})
     hora_curta = v['hora'].split(' (')[0]
@@ -436,9 +437,9 @@ def montar(n):
                f'Postar em 11/11 (quarta), {v["hora"]}, no Insta e no Face, ao vivo.',
                (f'Dia 11 (decisão do aluno, 10/11 ~23h55 e 11/11 ~00h30): 6 por dia, de 3 em 3 h; {s["nome"]} ({s["roupa_pt"]}) para '
                 + ', '.join(VIDEOS[m]['hora'].split(' (')[0] for m in irmaos) + '. Rosto e marcas da Nora iguais; cenário e roupa mudam de um dia para o outro (como a Soma), nunca dentro do vídeo.'),
-               ('Visual LIMPO (teste de 11/11): texto do topo sem a caixa branca, letra branca com contorno; só 11:11 e 222, brancos e pequenos. A faixa do story e a seta são as de sempre.'
-                if v['visual'] == 'limpo' else
-                'Visual ATUAL (teste de 11/11): caixa branca com a data em vermelho e 3 números coloridos, como no kit.'),
+               ((f'COM A PROVA (teste de 11/11, decisão do aluno): a avaliação real de {PROVA[v["prova"]][0]} no Trustpilot aparece da palavra “begins” até o fim do T02, logo antes do CTA. Eu ponho na edição (0 crédito); você não precisa mandar nada.')
+                if v['prova'] else
+                'SEM PROVA (o controle do teste de 11/11: 12h, 18h e 00h têm a avaliação do Trustpilot antes do CTA; este não). Visual de agora (caixa branca e números coloridos) em todos; o visual limpo foi para 12/11.'),
                ('Face: este vídeo repete o T02 e o T04 do post anterior da cena, e o Face trava post repetido (regra de 10/11). Eu entrego também o '
                 f'{nn}-final-FACE (espelhado, mais claro, 1,1x): no Face, poste o -FACE.' if face_var else
                 'Face: o mesmo arquivo do Insta (1º vídeo da cena).')]
@@ -478,7 +479,7 @@ def montar(n):
     html = MODELO.replace('const PACOTE = null;', 'const PACOTE = ' + json.dumps(p, ensure_ascii=False) + ';')
     html = re.sub(r'<title>[^<]*</title>', f'<title>Painel {nn} · dia 11/11</title>', html, count=1)
     (R / f'PAINEL-NORA{n}.html').write_text(html, encoding='utf-8')
-    print('ok', nn, c, v['visual'], 'usa', [ROT[k] for k in usa], 'gera', len(gera), 'créditos', creditos(gera))
+    print('ok', nn, c, 'prova' if v['prova'] else 'sem prova', 'usa', [ROT[k] for k in usa], 'gera', len(gera), 'créditos', creditos(gera))
 
 
 for n in VIDEOS:
