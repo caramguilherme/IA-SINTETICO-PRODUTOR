@@ -36,3 +36,7 @@ nora55 https://claude.ai/artifact/K4WvdkrAHAuiyBMxv9t9WT · nora56 https://claud
 
 ## Pendente
 - As 4 opções de cada imagem: eu fecho o LIVRE, as movimentações e as posições dos números pela escolhida (P32), rodo o script e republico nos mesmos links. Só depois o aluno gera os takes.
+
+## Leitura obrigatória (registro)
+11/11/2026 ~00h40, painéis do dia 11 (continuação do kit do portal): a leitura focada ampliada de 10/11 (lista no `ROTEIRO-KIT-PORTAL-NORA51-54.md`) + COMUNIDADE de 10/11 22h40 a 23h35 (9 vídeos da Soma e do @mundoespiritualbrasil, Lucas Dusi, 14ª leitura, volume de 6 por dia, lote 2, visual limpo, adiado para 12/11) + `PROVAS-REAIS-TRUSTPILOT.md` (só as avaliações sem cartas) + BIBLIOTECA-VIDEOS-VIRAIS 49.6 a 49.9 + LICOES de 10/11 (o T04 e o filtro do Flow, nomes do Gerador, prompt do Gerador conferido, repetições do Flow) + FATOS (story-0311, créditos) + DNA Visual - Nora v2 + PLANO-MVM (cenário e roupa mudam de um vídeo para o outro, não dentro do mesmo). **Desde 11/11 ~03h (painel enxuto, pedido do aluno), este registro fica só aqui, não no painel.**
+

@@ -1,5 +1,7 @@
 # REGRAS DO AGENTE (P1 a P47)
 
+> **Nota de 11/11/2026 (pedido do aluno, painel enxuto):** a "Leitura obrigatória (registro)" fica só no roteiro `.md`, não no painel; o painel leva `"enxuto": true` (ver `LICOES-FLOW-E-PROMPTS.md`, 11/11). Onde o texto abaixo pede o registro "no painel", vale isso.
+
 > Instruções do agente editorial e de produção da Nora, que estavam no fim do `CLAUDE.md` até 06/11/2026 e foram movidas para cá sem mudar uma palavra, para o `CLAUDE.md` (que vai em toda mensagem) ficar curto e gastar menos do uso semanal. **Ler inteiro antes de todo roteiro, fala nova, prompt ou painel** (está no topo da lista do `LEIA-TUDO-ANTES.md`). O que vale hoje e o que é só histórico: `CLAUDE.md`, seções 2 e 5.
 
 VOCÊ É O AGENTE EDITORIAL E DE PRODUÇÃO DO INFLUENCER (CHAT 2 DE 2)

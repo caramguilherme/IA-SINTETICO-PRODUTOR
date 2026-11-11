@@ -189,17 +189,15 @@ def img_central(c, n):
     return {
         'titulo': f'IMAGEM · {s["img"]} (a mesma para os takes do nora{n}, nora{outros[0]} e nora{outros[1]})',
         'nome': s['img'],
-        'aviso': ('Não precisa do Gerador de Prompts: o prompt abaixo já está no formato dele, conferido (sem "fortune teller", sem "friend", sem objeto). '
-                  f'Roupa: {s["roupa_pt"]}. O rosto e as marcas da Nora não mudam (Clone R19 e R21); sem tatuagem.'),
+        'aviso': f'Roupa: {s["roupa_pt"]}. Rosto e marcas da Nora iguais; sem tatuagem. Não precisa do Gerador de Prompts.',
         'passos': [
             'No Flow (conta contatocaram): Imagem · 9:16 · Nano Banana Pro · x4. Anexe só a folha da Nora (a de 1K).',
             'Cole o prompt do botão Copiar abaixo, inteiro, e gere.',
             'Confira cada uma das 4: é a Nora (lua com 3 estrelinhas na bochecha do lado esquerdo da imagem, trança com anéis, brincos de estrela e lua, colar de Vênus, testa limpa)? '
             'A roupa é a pedida, lisa, sem marca? O celular não aparece? Parece foto de celular? Algum texto nos cantos? Mão com 5 dedos?',
-            f'Me mande as 4 (print ou os arquivos). Eu escolho com você, fecho o LIVRE e as movimentações pela escolhida (P32) e republico este painel no mesmo link. '
-            f'Renomeie a escolhida para {s["img"]}. Só gere os takes depois disso.',
+            f'Me mande as 4. Eu escolho, ajusto este painel pela escolhida (no mesmo link) e aviso. Renomeie a escolhida para {s["img"]}. Só gere os takes depois disso.',
         ],
-        'grupos': [{'titulo': 'Prompt da imagem (cole no Flow)', 'nota': 'conferido em 11/11 ~00h40', 'campos': [
+        'grupos': [{'titulo': 'Prompt da imagem (cole no Flow)', 'campos': [
             {'campo': f'Prompt da {s["img"]}', 'valor': prompt_img(c), 'copiar': 1}]}],
     }
 
@@ -244,6 +242,8 @@ def agente(c, ks):
     s = CENAS[c]; nomes = [nome(c, k) for k in ks]
     return {
         'imagem': s['img'],
+        'intro': 'Anexe a imagem, cole o aviso e, embaixo dele, o bloco “COPIAR TUDO JUNTO” da Central.',
+        'aviso_tag': 'cole antes do bloco da Central',
         'aviso': (f'Vou te enviar {len(ks)} prompts, cada prompt é um vídeo. Faça todos na ordem, sem pedir minha aprovação entre um e outro, e depois renomeie cada um com o devido '
                   'número. Mantenha a consistência de voz em todos eles e utilize a imagem anexada como frame inicial e frame final em todos os vídeos que você gerar.'),
         'passos': [
@@ -329,20 +329,19 @@ def montar(n):
     irmaos = [m for m in VIDEOS if VIDEOS[m]['cena'] == c]
     caixa, caixa_fim = CAIXA[v['k1']]
     face_var = not primeiro  # o 2º e o 3º da cena repetem o T02 e o T04: no Face vai a variação (regra de 10/11)
+    perfil = copy.deepcopy(P46['perfil']); perfil.pop('teste', None)
+    hora_curta = v['hora'].split(' (')[0]
     p = {
-        'perfil': copy.deepcopy(P46['perfil']),
+        'enxuto': True, 'imagens_titulo': f'Imagem da {s["nome"]} (no Flow)',
+        'perfil': perfil,
         'trava_referencia': P46['trava_referencia'], 'figurino': s['roupa'], 'excecao_estilo': '',
         'ocultar_bloco_agente_imagem': True,
         'roteiro': {
             'id': f'{nn}-DIA-1111-{c.upper()}-' + ('PROVA' if v['prova'] else 'SEM-PROVA'),
-            'titulo': f'Dia 11/11 ({s["nome"]}): curto, 11/11 (quarta), {v["hora"].split(" (")[0]}, ' + ('com a prova do Trustpilot' if v['prova'] else 'sem prova (controle)'),
-            'dor': 'a próxima fase da vida chegando (amor, paz, propósito, dinheiro sem aperto), com o portal 11:11 de hoje como motivo',
-            'formato': f'Sem pré-gancho; selfie com cara de celular, {s["nome"]} ({s["img"]}); takes: ' + ' + '.join(ROT[k] for k in usa),
-            'molde_hook': 'Gancho da data dos maiores reels da Soma Chhaya ("If you see this on [dia]..."), com a variação do relógio e a da situação',
-            'duracao_total': 25,
+            'titulo': f'{nn} · 11/11 (quarta), {hora_curta} · {s["nome"]} · ' + (f'com a avaliação da {PROVA[v["prova"]][0].split()[0]}' if v['prova'] else 'sem avaliação'),
+            'duracao_total': 20,
             'descricao_instagram': v['insta'],
-            'legenda_aviso': 'No Face, use a mesma legenda SEM a linha do “Comment …” (o Face entrega menos post com pedido de comentário).',
-            'leitura_registro': LEITURA,
+            'descricao_face': '\n'.join(l for l in v['insta'].split('\n') if not l.startswith('Comment')),
         },
         'refs': [f'Folha da Nora v2 (1K) na geração da {s["img"]}', f'{s["img"]} em todos os takes'],
         'imagens': [{'rotulo': f'IMAGEM 1 · {s["img"]}', 'cena': f'(seção Imagem do painel do nora{s["primeiro"]})', 'anexar': 'a folha da Nora (1K)'}],
@@ -355,8 +354,7 @@ def montar(n):
         'respostas_face': {'aviso': P49['respostas_face']['aviso'], 'comentario': v['coment'], 'dm': v['dm']},
     }
     if n < 58:
-        p['story'] = {'ja_postado': True, 'nota': ('STORY: o story-0311 está no ar até ~19h42 de hoje (repost de 10/11 às 19h42). Não poste outro agora: o repost de hoje está no painel '
-                                                   f'do nora58 (~17h50, antes do post das 18h). Links: Insta (STORYIG): {STORYIG} · Face (FACE): {FB}')}
+        p['story'] = {'ja_postado': True, 'nota': 'Não poste story agora: o de ontem fica no ar até ~19h42, e o repost de hoje está no painel do nora58 (~17h50).'}
     elif n == 58:
         p['story'] = {
             'prompt_imagem': '(Não gere imagem: use a story-3110 de novo. Só o texto muda.)',
@@ -369,8 +367,7 @@ def montar(n):
                      '“Open my reading”. Ao vivo, sem programar. Confira na prévia o link de cada rede. Em 12/11, o 1º painel do dia troca o texto pelo sem portal. '
                      f'Insta (STORYIG): {STORYIG} · Face (FACE): {FB}')}
     else:
-        p['story'] = {'ja_postado': True, 'nota': ('STORY: repostado no painel do nora58 (~17h50 de 11/11; vence ~17h50 de 12/11). Não poste outro hoje. '
-                                                   f'Links: Insta (STORYIG): {STORYIG} · Face (FACE): {FB}')}
+        p['story'] = {'ja_postado': True, 'nota': 'Não poste story: o de hoje foi repostado no painel do nora58 (~17h50).'}
 
     mt = copy.deepcopy(P49['mapa_tela'])
     mt['numeros'] = [dict(t=a, x=x, y=y, onde=o, cor_nome=cn, cor=co, tamanho=tm) for (a, x, y, o, cn, co, tm) in v['nums']]
@@ -434,38 +431,19 @@ def montar(n):
             dono = [m for m in irmaos if VIDEOS[m]['k1'] == k][0]
             pecas.append({'nome': nome(c, k), 'tipo': 'take', 'status': 'gerar', 'creditos': 12 if dur(k) == '8' else 15, 'descricao': f'Para o nora{dono} ({VIDEOS[dono]["hora"].split(" (")[0]}): “{F[k]}”'})
     if v['prova']:
-        pecas.append({'nome': f'{v["prova"]}-sem-hora', 'de': 'provas-trustpilot/ (no projeto; eu ponho)', 'tipo': 'prova', 'status': 'reutilizar', 'descricao': f'Avaliação real do Trustpilot ({PROVA[v["prova"]][0]}), antes do CTA. 0 crédito; você não precisa fazer nada.'})
-    pecas.append({'nome': 'story-0311', 'de': 'story-3110', 'tipo': 'story', 'status': 'reutilizar',
-                  'descricao': 'Repostar ~17h50 com o texto do 11:11 (seção Story deste painel).' if n == 58 else 'No ar; o repost de hoje é no painel do nora58 (~17h50).'})
-    hora_curta = v['hora'].split(' (')[0]
-    decisao = [f'ESTE VÍDEO USA SÓ 3 TAKES, nesta ordem: ' + ' + '.join(nome(c, k) for k in usa) + '.'
-               + (f' Os outros 2 Takes 1 gerados neste painel são do ' + ' e do '.join(f'nora{m} ({VIDEOS[m]["hora"].split(" (")[0]})' for m in irmaos if m != n) + '.' if primeiro else ''),
-               f'Postar em 11/11 (quarta), {v["hora"]}, no Insta e no Face, ao vivo.',
-               (f'Dia 11 (decisão do aluno, 10/11 ~23h55 e 11/11 ~00h30): 6 por dia, de 3 em 3 h; {s["nome"]} ({s["roupa_pt"]}) para '
-                + ', '.join(VIDEOS[m]['hora'].split(' (')[0] for m in irmaos) + '. Rosto e marcas da Nora iguais; cenário e roupa mudam de um dia para o outro (como a Soma), nunca dentro do vídeo.'),
-               ((f'COM A PROVA (teste de 11/11, decisão do aluno): a avaliação real de {PROVA[v["prova"]][0]} no Trustpilot aparece da palavra “begins” até o fim do T02, logo antes do CTA, com a caixa “Rated 4.8 ★ by 2,200+ people” no topo (número real de 11/11). Eu ponho na edição (0 crédito); você não precisa mandar nada.')
-                if v['prova'] else
-                'SEM PROVA (o controle do teste de 11/11: 12h, 18h e 00h têm a avaliação do Trustpilot antes do CTA; este não). Visual de agora (caixa branca e números coloridos) em todos; o visual limpo foi para 12/11.'),
-               ('Face: este vídeo repete o T02 e o T04 do post anterior da cena, e o Face trava post repetido (regra de 10/11). Eu entrego também o '
-                f'{nn}-final-FACE (espelhado, mais claro, 1,1x): no Face, poste o -FACE.' if face_var else
-                'Face: o mesmo arquivo do Insta (1º vídeo da cena).')]
-    decisao.append(f'Créditos deste painel: {creditos(gera)} (conta contatocaram). Os outros 2 painéis da cena: 0.' if gera else f'0 crédito: os takes saem do painel do nora{s["primeiro"]}.')
-    p['pecas'] = {'lista': pecas, 'decisao': decisao}
-
-    if primeiro:
-        passos = [f'Imagem: gere a {s["img"]} (seção Imagem 1) e me mande as 4 opções. Eu fecho o LIVRE e as movimentações pela escolhida e republico este painel no mesmo link. Só depois gere os takes.',
-                  f'Central do curso com a configuração desta seção (o LIVRE é o desta cena). Cole a fala e a movimentação da colagem (seção “A fala e a movimentação”). Confira: 5 takes de 8 ou 10 s.',
-                  f'Agente do Flow na contatocaram (seção do agente): anexe só a {s["img"]}, cole o aviso e o “COPIAR TUDO JUNTO”. Omni 1.1 Flash, 720p.',
-                  f'Renomeie os 5 takes com os nomes da lista ({s["pre"]}-…). Ao baixar, ouça o 1º: a data tem de sair “Wednesday, November eleventh”.']
-    else:
-        passos = [f'Nada para gerar: os 3 takes saem do painel do nora{s["primeiro"]} (já gerados e renomeados).']
-    passos += [f'Corte de silêncio (seção “Cortar os silêncios”): {lista_usa}; Juntar tudo LIGADO, Corte seco → {corte_nome}.',
-               f'CapCut: o {corte_nome} + a música de sempre a −18 dB; exporte SEM texto como {nn}-montado e me mande aqui (Drive, se passar de 30 MB).',
-               (f'Eu devolvo o {nn}-final' + (f' e o {nn}-final-FACE' if face_var else '') + f'. Confira no celular e poste em 11/11, {hora_curta}, ao vivo: no Insta o {nn}-final, no Face o '
-                + (f'{nn}-final-FACE' if face_var else f'{nn}-final') + '. Legenda: a do Insta tem o pedido de comentário; no Face, sem ele. Comentário: no Insta, comente e fixe (sem link); '
-                'no Face, comente COMO A PÁGINA (já tem o link).')]
+        pecas.append({'nome': f'avaliação da {PROVA[v["prova"]][0].split()[0]}', 'tipo': 'prova', 'status': 'reutilizar', 'onde': 'Eu ponho na edição, antes do CTA. Você não faz nada.'})
     if n == 58:
-        passos.insert(0, 'STORY primeiro: ~17h50, antes do post das 18h, reposte o story (seção Story).')
+        pecas.append({'nome': 'story-0311', 'de': 'story-3110', 'tipo': 'story', 'status': 'reutilizar', 'descricao': 'Repostar ~17h50 com o texto do 11:11 (seção Story).'})
+    outros = [m for m in irmaos if m != n]
+    decisao = ['Usa só 3 takes, nesta ordem: ' + ' + '.join(nome(c, k) for k in usa) + '.'
+               + (' Os outros 2 Takes 1 deste painel são do ' + ' e do '.join(f'nora{m} ({VIDEOS[m]["hora"].split(" (")[0]})' for m in outros) + '.' if primeiro else ''),
+               f'Postar às {hora_curta} de 11/11, ao vivo. Insta: o {nn}-final. Face: o ' + (f'{nn}-final-FACE (eu mando junto).' if face_var else f'{nn}-final (o mesmo arquivo).'),
+               (f'Avaliação do Trustpilot: sim ({PROVA[v["prova"]][0].split()[0]}); eu ponho.' if v['prova'] else 'Avaliação do Trustpilot: não (este é o controle do teste de hoje).')]
+    if gera:
+        decisao.append(f'Créditos: {creditos(gera)} (contatocaram).')
+    p['pecas'] = {'lista': pecas, 'decisao': decisao, 'titulo_decisao': 'Resumo'}
+
+    passos = []  # 11/11: o painel não mostrava estes passos (seção sem lugar na ordem); o que importa foi para o Resumo
     cf = config(c)
     if gera:
         p['central'] = {'imagem_unica': True,
@@ -476,11 +454,11 @@ def montar(n):
                         'colagens': [{'titulo': f'{nn}: 5 takes da {s["nome"]} ({", ".join(ROT[k] for k in gera)})', 'fala': ' '.join(F[k] for k in gera),
                                       'movimentacao': [mov(c, k) for k in gera], 'takes': list(range(len(gera)))}]}
         p['imagem_central'] = img_central(c, n)
-        ordem = ['pecas', 'imagens', 'central', 'cenas', 'agente', 'silencio', 'textotela', 'story', 'descricao', 'comentario', 'respostasface', 'fala']
+        ordem = ['pecas', 'imagens', 'central', 'cenas', 'agente', 'silencio', 'textotela', 'story', 'descricao', 'comentario', 'respostasface']
     else:
         p['central'] = {'imagem_unica': True, 'conferir': '', 'passos': passos, 'config': cf, 'agente': agente(c, ['A']), 'colagens': []}
         p['imagem_reutilizada'] = {'arquivo': s['img'], 'nota': f'gerada no painel do nora{s["primeiro"]}'}
-        ordem = ['pecas', 'silencio', 'textotela', 'story', 'descricao', 'comentario', 'respostasface', 'fala']
+        ordem = ['pecas', 'silencio', 'textotela', 'story', 'descricao', 'comentario', 'respostasface']
     p['ordem'] = ordem
     html = MODELO.replace('const PACOTE = null;', 'const PACOTE = ' + json.dumps(p, ensure_ascii=False) + ';')
     html = re.sub(r'<title>[^<]*</title>', f'<title>Painel {nn} · dia 11/11</title>', html, count=1)

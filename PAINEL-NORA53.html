@@ -427,7 +427,8 @@ function ordenar(){
   if(pk.clipe_unico&&!(pk.ordem&&pk.ordem.length)){const a=ord.indexOf('prehook'),b=ord.indexOf('imagens');ord[a]='imagens';ord[b]='prehook'}
   const pn=$('painel');
   $('todos').classList.toggle('hide',!!pk.imagem_reutilizada||!!pk.imagem_central||!!pk.ocultar_bloco_agente_imagem);
-  $('imagens').querySelector('h2').textContent=pk.imagem_reutilizada?'Imagem 1 (a mesma de outro roteiro, não gerar)':(pk.imagem_central?'Imagem 1 na Central de imagens':'Imagens');
+  $('imagens').querySelector('h2').textContent=pk.imagens_titulo||(pk.imagem_reutilizada?'Imagem 1 (a mesma de outro roteiro, não gerar)':(pk.imagem_central?'Imagem 1 na Central de imagens':'Imagens'));
+  if(pk.enxuto){const h=$('story').querySelector('h2');if(h)h.textContent='Story';}
   ord.forEach(id=>pn.appendChild($(id)));if(c)pn.appendChild($('videos'));
   if(pk.ordem&&pk.ordem.length)pn.querySelectorAll(':scope > section.card').forEach(s=>{if(!ord.includes(s.id)&&s.id!=='videos')s.classList.add('hide')});
   let n=0;const links=[];
@@ -579,9 +580,40 @@ function montar(silencio){
   (function(){const cl=pk.clone;$('clone').classList.toggle('hide',!(cl&&cl.pergunta));if(!(cl&&cl.pergunta))return;
     $('cloneNota').textContent=cl.nota||'';$('cloneNota').classList.toggle('hide',!cl.nota);
     $('clonePergunta').textContent=cl.pergunta;$('cpClone').onclick=e=>copiar(cl.pergunta,e.currentTarget);})();
+  enxugar();
   ordenar();
   $('painel').classList.remove('hide');
   progresso();salvar();
+}
+
+// Painel enxuto (11/11/2026, pedido do aluno): com pk.enxuto, o painel mostra só o que ele usa para criar.
+function enxugar(){
+  const r=pk.roteiro||{};
+  if(pk.imagens_titulo){const h=$('imagens').querySelector('h2');if(h)h.textContent=pk.imagens_titulo;}
+  // legenda do Face pronta (sem a linha do pedido de comentário)
+  {let fb=$('instaFace');if(fb)fb.remove();let fk=$('instaFaceK');if(fk)fk.remove();
+   if(r.descricao_face){const sec=$('descricao');
+     const k=document.createElement('div');k.id='instaFaceK';k.style.margin='12px 0 6px';k.innerHTML='<button class="cp" id="copiaFaceLeg">Copiar legenda do Face</button><b>FACEBOOK</b>';
+     const d=document.createElement('div');d.className='box';d.id='instaFace';d.textContent=r.descricao_face;
+     sec.appendChild(k);sec.appendChild(d);$('copiaFaceLeg').onclick=e=>copiar(r.descricao_face,e.currentTarget);
+     $('instaAviso').classList.add('hide');
+     const h=sec.querySelector('h2');if(h)h.textContent='Legenda Insta/Face';$('copiaInsta').textContent='Copiar legenda do Insta';}}
+  if(!pk.enxuto)return;
+  // edição: os textos são meus (P45); fica só o passo a passo da montagem
+  {const s=$('textotela');s.querySelector('h2').textContent='Montar no CapCut e me mandar';
+   s.querySelector('p').textContent='Os textos (caixa do topo, números, legenda, avaliação, faixa do story e seta) eu ponho aqui. Você só monta o vídeo e a música e me manda.';
+   ['copiaTela','mapaTela','telaPreK','telaPre','telaHook','telaHookQ','telaAlt','telaExtras','telaEdicao'].forEach(i=>{const e=$(i);if(e)e.classList.add('hide')});
+   s.querySelectorAll('.mono').forEach(m=>{if(/primeiros segundos/i.test(m.textContent))m.classList.add('hide')});
+   const lw=$('telaLinhaW').querySelector('.mono');if(lw)lw.textContent='Passo a passo';}
+  // peças: sem o parágrafo longo; o resumo no lugar do "por que eu decidi"
+  {const b=$('pecasBox');const p0=b.querySelector('p');if(p0)p0.remove();
+   b.querySelectorAll('h3').forEach(h=>{if(/Por que eu decidi/.test(h.textContent))h.textContent=(pk.pecas&&pk.pecas.titulo_decisao)||'Resumo';});}
+  // a lista "depois que o agente gerar" repete o que já está na conferência, nas peças e no agente
+  $('listaCenas').querySelectorAll('.item').forEach(it=>{const h=it.querySelector('h3');if(h&&/Depois que o agente gerar/.test(h.textContent))it.remove();});
+  // passos longos do agente (prompt de reserva) recolhidos, com botão de copiar
+  $('agenteBox').querySelectorAll('ol.steps li').forEach((li,i)=>{const t=li.textContent;const m=t.match(/^([\s\S]*?)(PROMPT: |\(só se precisar\): )([\s\S]{300,})$/);if(!m)return;
+    li.innerHTML=esc(m[1].trim())+' <details style="margin-top:6px"><summary style="cursor:pointer;color:var(--ink2)">ver o texto para colar</summary><button class="cp cpRes" data-i="'+i+'" style="margin:6px 0">Copiar</button><div class="box m">'+esc(m[3])+'</div></details>';
+    li.querySelector('.cpRes').onclick=e=>copiar(m[3],e.currentTarget);});
 }
 
 $('aplicar').onclick=()=>{feitos={};montar(false)};
