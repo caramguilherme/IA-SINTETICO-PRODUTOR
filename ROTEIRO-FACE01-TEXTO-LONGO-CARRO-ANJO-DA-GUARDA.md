@@ -1,6 +1,6 @@
 # face01 — teste SÓ do Facebook: texto longo na tela, a Nora no carro (31/10/2026)
 
-Status: **com painel** (link no `CLAUDE.md`). Fora da numeração noraNN (pedido do aluno, 31/10: os painéis nora são os vídeos do Insta e do Face a partir das 17h; os testes de formato só do Face ganham painel próprio, `face01`, `face02`…). Postar **só no Facebook**, ao vivo, fora dos horários dos vídeos nora. Custo: **12 créditos** (clipe de 8 s, conta de 41 → 29); a imagem não gasta. Script: `ferramentas-painel/r3110/build_face01.py`.
+Status: **com painel** (link no `CLAUDE.md`). Fora da numeração noraNN (pedido do aluno, 31/10: os painéis nora são os vídeos do Insta e do Face a partir das 17h; os testes de formato só do Face ganham painel próprio, `face01`, `face02`…). Postar **só no Facebook**, ao vivo, fora dos horários dos vídeos nora. Custo: **12 créditos** (clipe de 8 s, conta de 41 → 29); a imagem não gasta. Script: `arquivo/ferramentas-antigas/r3110/build_face01.py`.
 
 ## Leitura obrigatória (registro)
 31/10/2026: a leitura completa de LEIA-TUDO-ANTES.md foi feita hoje, das ~00h40 às ~01h15, nesta sessão (registro no roteiro do nora46). Para este painel li de novo: a seção 42 de BIBLIOTECA-VIDEOS-VIRAIS.md (o vídeo da Mary, escrita hoje), as regras P15 e P42 do CLAUDE.md, as lições de clipe único e de texto na tela (LICOES-FLOW-E-PROMPTS.md) e o pacote do painel do nora45 (clipe único sem fala).

@@ -3,7 +3,7 @@
 **31/10/2026 ~00h30: CANCELADO antes de gerar** (o aluno não tinha começado; regra P42, aula do Iorhan: o corpo A sai do plano). Nenhum crédito gasto. O número nora46 vai para o 1º vídeo do corpo B (portal 11/11). Roteiro novo: `ROTEIRO-NORA46-CORPO-B-PORTAL-1111-TRES-SINAIS.md`. O painel W6EBF2bdfPQ6YhCM4MaEF1 fica só como histórico.
 
 
-Status: **com painel (https://claude.ai/artifact/W6EBF2bdfPQ6YhCM4MaEF1)**. Postar em 30/10 por volta das 23h30 no Insta e no Face, ao vivo, sem localização. Custo: **15 créditos** (Take 1, conta grande: 249 → 234). Script: `ferramentas-painel/r3010/build3010.py`.
+Status: **com painel (https://claude.ai/artifact/W6EBF2bdfPQ6YhCM4MaEF1)**. Postar em 30/10 por volta das 23h30 no Insta e no Face, ao vivo, sem localização. Custo: **15 créditos** (Take 1, conta grande: 249 → 234). Script: `arquivo/ferramentas-antigas/r3010/build3010.py`.
 
 ## Leitura obrigatória (registro)
 O mesmo do nora45 (no pacote do painel). Este painel só gera o Take 1, no molde dos Takes 1 do nora40, do nora42 e do nora43 (mesma configuração da Central e a mesma linha de movimentação); o corpo é o do nora40. Fala do Take 1 com 22 palavras (1 take de 10 s); a movimentação não repete nenhuma sequência de 2 palavras da fala.

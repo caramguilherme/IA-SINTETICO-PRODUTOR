@@ -1,6 +1,6 @@
 # face02 — teste SÓ do Facebook: o texto longo do face01 sobre uma imagem parada (31/10/2026)
 
-Status: **com painel** (https://claude.ai/artifact/KeXyFoszrLZx7BZr42765U). 0 crédito. Script: `ferramentas-painel/r3110/build_face02.py`.
+Status: **com painel** (https://claude.ai/artifact/KeXyFoszrLZx7BZr42765U). 0 crédito. Script: `arquivo/ferramentas-antigas/r3110/build_face02.py`.
 
 ## Leitura obrigatória (registro)
 A mesma do face01 (leitura completa de 31/10, das ~00h40 às ~01h15, registrada no roteiro do nora46), mais o pacote do painel do face01.

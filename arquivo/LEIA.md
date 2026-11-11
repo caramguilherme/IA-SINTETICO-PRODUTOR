@@ -3,5 +3,6 @@ O que já não vale para a Nora de hoje, guardado inteiro para consulta. **Não 
 
 - **Raiz:** o modelo de origem (`00-LEIA-PRIMEIRO.md`, os `EXEMPLO-*-FIGADO.md`, `REGISTRO-DE-PERSONAS.md`), a Dana (`PROJETO-Dana.md`, `DNA Visual - Dana.md`, `FOTO-PERFIL-DANA.md`), a Nora v1 (`DNA Visual - Nora.md`; a de hoje é a v2, `DNA Visual - Nora v2.md` na raiz do projeto), o Love Chart (`BRIEFING-LOVECHART.md`, com a aula do Iorhan de 23/10 e a pesquisa Auraly no topo; os PDFs `BRIEFING-LOVECHART-APPYON-v2.pdf` e `PESQUISA-AURALY-23-10.pdf`; o que ainda vale da pesquisa está no `FATOS-DO-ALUNO.md`).
 - **`roteiros/`:** R001 a R005 (Soulmate), nora25 a nora35 (Love Chart), os stories e as reservas de amor, os planos de crédito e os passo a passo antigos.
-- **`paineis/`:** PAINEL-NORA25 a PAINEL-NORA35 (os links publicados continuam funcionando; estão no `HISTORICO-CLAUDE-MD.md`).
+- **`paineis/`:** PAINEL-NORA25 a PAINEL-NORA35 e os da Dana (PAINEL-R001 a R005-DANA, movidos da raiz no pente fino de 11/11) (os links publicados continuam funcionando; estão no `HISTORICO-CLAUDE-MD.md`).
+- **`00-INDICE-DOS-ARQUIVOS.md`:** o índice de 19/10 (Dana e Love Chart), movido da raiz em 11/11; o índice de hoje é a seção 3 do `CLAUDE.md` e o `LEIA-TUDO-ANTES.md`.
 - **`ferramentas-antigas/`:** os scripts de 22/10 a 10/11 (`r6` a `r11`, `r2610` a `r3110`, `r0311` a `r1011`) e o guia antigo (`LEIA-ANTIGO.md`). Têm caminhos de sessões antigas e reescreveriam painéis já postados: não rodar sem ler e adaptar.

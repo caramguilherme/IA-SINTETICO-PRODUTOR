@@ -75,7 +75,7 @@ Status: **com painel (https://claude.ai/artifact/PWCTPWqbrYKXvqzHCJ3PD7, o mesmo
 (PT: Comente 222 para receber esta energia e toque na minha foto de perfil. A segunda parte deste sinal está esperando nos meus stories.)
 
 ## Movimentação
-Uma linha por take no painel, só rosto, cabeça e olhos (as duas mãos seguram as metades do geodo o take todo): firmeza no T01, convite urgente e dois acenos no T02, segredo no T03, esperança no T04, sorriso no T05, aviso sério no T06, alívio no fim do T07, foco e esperança no T08, aceno decidido no T09, urgência no T10 e um olhar para baixo (o botão de seguir) no T11. Todas terminam de lábios fechados até o fim do clipe. Script: `ferramentas-painel/r2910/falas2910.py`.
+Uma linha por take no painel, só rosto, cabeça e olhos (as duas mãos seguram as metades do geodo o take todo): firmeza no T01, convite urgente e dois acenos no T02, segredo no T03, esperança no T04, sorriso no T05, aviso sério no T06, alívio no fim do T07, foco e esperança no T08, aceno decidido no T09, urgência no T10 e um olhar para baixo (o botão de seguir) no T11. Todas terminam de lábios fechados até o fim do clipe. Script: `arquivo/ferramentas-antigas/r2910/falas2910.py`.
 
 ## Edição (CapCut, 720×1280)
 - **Caixa do topo** (do primeiro quadro do hook até o fim do Take 1): "[signos], pay very close attention", caixa branca arredondada, texto preto, "attention" em vermelho, X 0 · Y 397.
