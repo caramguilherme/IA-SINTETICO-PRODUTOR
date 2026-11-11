@@ -384,6 +384,19 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 
 - **Leitura:** no Face, os 4 do kit seguram bem menos nos 3 s (18% a 34%, contra 46% a 51% dos vídeos com o tsunami) e o tempo médio cai para 3 a 4 s (contra 8 a 10 s). O nora49, com ~5h27, tinha 202 views; o nora51, com quase 13 h, tem 108. Comentário em todos: só o da Página. O sinal aponta para a abertura (sem pré-gancho, a pessoa passa antes dos 3 s), mas a decisão sai com o Insta (que pesa mais e mostra a curva).
 
+### 11/11/2026 08h31 a 08h35 - INSTA do kit do portal (prints do aluno) e a decisão
+| Vídeo | Idade | Views | Passam dos 3 s | Tempo médio | Follows | Visitas ao perfil | EUA / Índia |
+|---|---|---|---|---|---|---|---|
+| nora51 (curto 19 s, 19h30) | ~13h | 804 | 50,3% | 6 s | 4 | 2 | 47,5% / — |
+| nora52 (longo 59 s, 21h35) | ~11h | 141 | 36,4% | 5 s | 1 | 0 | 22,7% / 43,3% |
+| nora53 (curto 18,5 s, 23h40) | ~9h | 135 | 40,8% | 5 s | 0 | 1 | 59,3% / 20% |
+| nora54 (curto 21 s, 01h39) | ~7h | 197 | 33,9% | 5 s | 0 | 0 | 22,7% / 33,5% |
+| **nora49** (tsunami + corpo A, 19h31) | ~13h31 | **1.727** | **67,6%** | 18 s | 16 | 9 | 32,8% / 12,6% |
+| **nora50** (tsunami + corpo A, 00h11) | ~13h23 | **1.460** | **71,7%** | 19 s | 13 | 4 | 36,5% / — |
+
+- **Leitura:** o kit perde a pessoa nos 3 primeiros segundos: 34% a 50% passam, contra 66% a 72% dos 4 vídeos com o tsunami; o resto vem daí (o Insta entregou 135 a 804, contra 1.460 a 1.727). O longo (nora52) não ajudou (36% nos 3 s, 5 s de 59 s). Visitas ao perfil: 3 em ~1.280 views (2,3 por 1.000), contra 5,2 do nora49. Quando entrega, o público é bom (nora51: EUA 47,5%, 45+ 66%; nora53: EUA 59%). Entre as aberturas, a do nora51 ("this message is 100% meant for you", 19h30) segurou mais (50%), mas os horários são diferentes. **No Face, o mesmo:** 18% a 34% nos 3 s, contra 46% a 51%.
+- **Decisão (11/11 ~08h40): o pré-gancho volta já nos 6 do dia 11:** o tsunami (nora47-PRE-A + PRE-B, 0 crédito), normal na cena da manhã e espelhado na da noite, sem música. O teste da prova do Trustpilot continua (o pré-gancho é igual em todos). Os takes não mudam. O kit sem pré-gancho (modelo Soma) fica registrado como não validado na Nora.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.

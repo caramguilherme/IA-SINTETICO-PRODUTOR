@@ -354,7 +354,7 @@ def montar(n):
         'imagens': [{'rotulo': f'IMAGEM 1 · {s["img"]}', 'cena': f'(seção Imagem do painel do nora{s["primeiro"]})', 'anexar': 'a folha da Nora (1K)'}],
         'videos': [{'rotulo': ROT[k], 'cena': CENA_TXT[k], 'duracao': dur(k), 'primeiro_quadro': f'IMAGEM 1 ({s["img"]})', 'acao': '', 'b_roll': '',
                     'fala': F[k], 'movimentacao': mov(c, k), 'arquivo': nome(c, k)} for k in (gera if gera else usa)],
-        'texto_tela': {'hook': caixa, 'hook_comeca': 'o primeiro quadro', 'hook_termina': caixa_fim, 'hook_alt': '', 'extras': []},
+        'texto_tela': {'hook': caixa, 'hook_comeca': 'o primeiro quadro do tsunami', 'hook_termina': caixa_fim, 'hook_alt': '', 'extras': []},
         'comentario_fixado': {
             'insta': f'{v["pergunta"][0].upper() + v["pergunta"][1:]} ✨ Tell me below, then tap my photo and open my story: your private reading starts there. 🔮',
             'face': f'{v["pergunta"][0].upper() + v["pergunta"][1:]} ✨ Your private reading is right here 🔮 👉 {FB}'},
@@ -416,7 +416,9 @@ def montar(n):
                    'Se um corte comeu o fim de uma palavra, arraste a borda dele ou suba a margem de respiro.',
                    f'Clique em Cortar e baixar e salve como {corte_nome}. (O texto eu ponho aqui, no fim.)']}
     p['edicao_linha'] = [
-        {'quando': 'A. Antes de tudo', 'texto': f'Projeto novo no CapCut com o {corte_nome}', 'como': 'É o vídeo que saiu da FusionZ (sem pré-gancho: começa direto na data).'},
+        {'quando': 'A. Antes de tudo', 'texto': f'Projeto novo no CapCut com o {corte_nome}', 'como': 'É o vídeo que saiu da FusionZ.'},
+        {'quando': 'B. Pré-gancho no começo (volta em 11/11, pelas métricas do kit)', 'texto': 'O tsunami: nora47-PRE-A + nora47-PRE-B' + (', os dois ESPELHADOS' if c == 'noite' else ''),
+         'como': f'No começo da linha do tempo, antes do {corte_nome}, sem música por baixo (a música entra no Take 1). 0 crédito: são os do nora47 ao nora50.'},
         {'quando': '1. Do começo ao fim', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB', 'como': 'O vídeo todo, por baixo da voz.'},
         {'quando': '2. Exportar e me mandar', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
          'como': f'720×1280 ou 1080×1920, qualidade alta, nome {nn}-montado (se passar de 30 MB, link do Drive). Eu ponho tudo e devolvo o {nn}-final'
@@ -442,7 +444,8 @@ def montar(n):
     if n == 58:
         pecas.append({'nome': 'story-0311', 'de': 'story-3110', 'tipo': 'story', 'status': 'reutilizar', 'descricao': 'Repostar ~17h50 com o texto do 11:11 (seção Story).'})
     outros = [m for m in irmaos if m != n]
-    decisao = ['Usa só 3 takes, nesta ordem: ' + ' + '.join(nome(c, k) for k in usa) + '.'
+    decisao = ['Pré-gancho: o tsunami (nora47-PRE-A + nora47-PRE-B' + (', espelhados' if c == 'noite' else '') + ') antes do Take 1, sem música. Voltou pelas métricas do kit: sem ele, só 34% a 50% passam dos 3 s.',
+               'Usa só 3 takes, nesta ordem: ' + ' + '.join(nome(c, k) for k in usa) + '.'
                + (' Os outros 2 Takes 1 deste painel são do ' + ' e do '.join(f'nora{m} ({VIDEOS[m]["hora"].split(" (")[0]})' for m in outros) + '.' if primeiro else ''),
                f'Postar às {hora_curta} de 11/11, ao vivo. Insta: o {nn}-final. Face: o ' + (f'{nn}-final-FACE (eu mando junto).' if face_var else f'{nn}-final (o mesmo arquivo).'),
                (f'Avaliação do Trustpilot: sim ({PROVA[v["prova"]][0].split()[0]}); eu ponho.' if v['prova'] else 'Avaliação do Trustpilot: não (este é o controle do teste de hoje).')]
