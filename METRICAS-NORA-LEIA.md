@@ -352,6 +352,11 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **09/11:** 1 clique, 1 no quiz, 0 começou (Insta). **10/11 até 19h36:** 2 cliques, 2 no quiz, 1 começou, 0 terminou, 0 checkout (Insta). **Igual à leitura de 13h38: nenhum clique novo em 6 h** (o nora51 tinha só 6 min no ar).
 - **Story x Tracker (pergunta do aluno: "5 cliques no story e só 3 no Tracker"):** o Insta conta cada toque no adesivo, inclusive a mesma pessoa tocando 2 vezes e quem toca e volta antes de a página abrir; o Tracker só conta quando a página do link carrega. Em 06/11 foi igual (story 3, Tracker 2). **A medida que vale é a do Tracker** (é a que leva à venda); a diferença de ~1 em 3 é perda no caminho (o navegador do Insta é lento), não erro de link.
 
+### 10/11/2026 21h35 - nora52 postado (Insta e Face)
+- **nora52 no ar às 21h35 de 10/11** (aluno): o longo do kit do portal (59,2 s), sem pré-gancho, CTA aos ~21 s e de novo aos ~49 s; 2 repetições do Flow cortadas na edição. Legenda do Insta com "Comment "thank you universe""; Face sem.
+- **Horário:** 21h35 aqui = 16h35 na Califórnia e 19h35 em Nova York; 2h05 depois do nora51. A comparação com o nora49 (19h31) tem 2 h de diferença de horário: olhar a fatia de EUA x Índia antes de comparar views.
+- **O que olhar (~24 h):** % nos 3 s, retenção aos ~21 s (o CTA 1), tempo médio, visitas ao perfil por 1.000 views contra o nora51 (curto) e o nora49, comentários de outras pessoas ÷ views (com pedido na legenda), story e Tracker.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.

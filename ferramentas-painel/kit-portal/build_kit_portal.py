@@ -295,7 +295,7 @@ VIDEOS = {
              nums=[('11:11', 82, 10.5, 'alto à direita', 'amarelo-ouro', '#FFD21F', 15), ('222', 18, 30, 'no meio à esquerda', 'rosa-choque', '#FF4FD8', 12), ('888', 82, 46.9, 'à direita, na altura do ombro', 'ciano', '#3DE0FF', 11)],
              coment=['✨ I sent it to your messages, take a look 🔮', '💖 It\'s waiting in your inbox ✨', '🌙 Check your DMs, it\'s there 💫'],
              dm=['✨ [name], your private reading is here 🔮 Open it before 11:11:', '🌙 Hi [name]! Here\'s your private reading 💖 before the 11:11 portal:', '💫 [name], this one is for you ✨ Your private reading:']),
-    52: dict(hora='~21h30 (2h depois do nora51, postado às 19h30)', dia='10/11 (terça)', tipo='longo', usa=['T01a', 'T02', 'T03', 'T04', 'T05', 'T06', 'T07', 'T08', 'T09'], gera=[],
+    52: dict(hora='21h35 (POSTADO no Insta e no Face)', dia='10/11 (terça)', tipo='longo', usa=['T01a', 'T02', 'T03', 'T04', 'T05', 'T06', 'T07', 'T08', 'T09'], gera=[],
              caixa='TUESDAY, NOVEMBER 10TH\ntomorrow is 11:11,\nthis message is for you', caixa_fim='one hundred percent meant for you.',
              insta=f'This video found you on Tuesday, November 10th for a reason. 🔮\nTomorrow the 11:11 portal opens. Your private reading is waiting in my story.\nComment "thank you universe" ✨\n{COMUM_HASH} #spirituality',
              pergunta='what do you want to bring into your next chapter?',
