@@ -35,6 +35,19 @@ F = {
     'P': "Today the 11:11 portal opens to lift the heavy weight off your shoulders and restore your inner peace.",  # Clone R23: um benefício só (paz)
     'K': "To align your energy with today's portal, open my story: three quick questions, and your reading is ready.",  # Clone R23: reason why; 11/11 ~10h: sem o "private" e com "open my story" (o "private" falado numa selfie de regata caía no filtro do Flow: 4 falhas; a C passou). O "private reading" fica na faixa do story e na legenda
 }
+# 11/11 ~11h10: corpo da NOITE (58 a 60) a partir dos 3 vídeos brasileiros de 11/11 (v20 a v22 da pasta do aluno; BIBLIOTECA-VIDEOS-VIRAIS 49.10):
+# T02 com "o portal mais poderoso do ano" (v20, v21) + "o invisível começa a virar realidade" (v20); T04 com o motivo "é o portal de tudo" (v21)
+# virado para o que o quiz entrega (a área da vida que abre primeiro, tela 4). Os 3 Takes 1 ficam (o teste da prova continua dentro da noite).
+F_CENA = {'noite': {
+    'P': "Today the most powerful portal of the year is open, and what was invisible in your life starts to become real.",
+    'K': "To see which area of your life opens first today, open my story: three quick questions, and your reading is ready.",
+}}
+
+
+def fala(c, k):
+    return F_CENA.get(c, {}).get(k, F[k])
+
+
 SUF = {'A': 'T01a-se-voce-ve', 'B': 'T01b-relogio', 'C': 'T01c-celular-na-mao', 'P': 'T02-hoje-o-portal', 'K': 'T04-cta-reading'}
 ROT = {'A': 'T01a', 'B': 'T01b', 'C': 'T01c', 'P': 'T02', 'K': 'T04'}
 CENA_TXT = {'A': 'a data de quarta + o capítulo novo (reescrito pelo Clone, R23)', 'B': 'a data de quarta + o filtro do relógio (o do nora54)',
@@ -251,7 +264,7 @@ def prompt_k_manual(c):
     voz = VOZ.replace('[Voice and Audio Instructions]', '').strip()
     return ('Create a single continuous 10-second video clip using the supplied reference image as the first frame. The same woman from the image speaks directly '
             f'to her phone camera in a casual handheld selfie video at home {s["quando"]}.\n\n'
-            'SPOKEN DIALOGUE (she says exactly this, once, in this order, with nothing added): "' + F['K'] + '"\n\n'
+            'SPOKEN DIALOGUE (she says exactly this, once, in this order, with nothing added): "' + fala(c, 'K') + '"\n\n'
             'VOICE CHARACTERISTICS (LOCKED):\n' + voz + '\n\n'
             'VOICE PACING: medium pace (155 to 180 words per minute), about 8 seconds of speech; when she finishes the last word she closes her lips and stays silent '
             'with a calm expression until the clip ends.\n\n'
@@ -402,7 +415,7 @@ def montar(n):
         'refs': [f'Folha da Nora v2 (1K) na geração da {s["img"]}', f'{s["img"]} em todos os takes'],
         'imagens': [{'rotulo': f'IMAGEM 1 · {s["img"]}', 'cena': f'(seção Imagem do painel do nora{s["primeiro"]})', 'anexar': 'a folha da Nora (1K)'}],
         'videos': [{'rotulo': ROT[k], 'cena': CENA_TXT[k], 'duracao': dur(k), 'primeiro_quadro': f'IMAGEM 1 ({s["img"]})', 'acao': '', 'b_roll': '',
-                    'fala': F[k], 'movimentacao': mov(c, k), 'arquivo': nome(c, k)} for k in (gera if gera else usa)],
+                    'fala': fala(c, k), 'movimentacao': mov(c, k), 'arquivo': nome(c, k)} for k in (gera if gera else usa)],
         'texto_tela': {'hook': caixa, 'hook_comeca': 'o primeiro quadro do tsunami', 'hook_termina': caixa_fim, 'hook_alt': '', 'extras': []},
         'comentario_fixado': {
             'insta': f'{v["pergunta"][0].upper() + v["pergunta"][1:]} ✨ Tell me below, then tap my photo and open my story: your private reading starts there. 🔮',
@@ -482,13 +495,13 @@ def montar(n):
         pecas.append({'nome': s['img'], 'de': f'{s["img"]} (do painel do nora{s["primeiro"]})', 'tipo': 'imagem 1', 'status': 'reutilizar', 'descricao': f'A imagem da {s["nome"]}, gerada no painel do nora{s["primeiro"]}.'})
     for k in usa:
         if k in gera:
-            pecas.append({'nome': nome(c, k), 'tipo': 'take', 'status': 'gerar', 'creditos': 12 if dur(k) == '8' else 15, 'descricao': f'“{F[k]}”'})
+            pecas.append({'nome': nome(c, k), 'tipo': 'take', 'status': 'gerar', 'creditos': 12 if dur(k) == '8' else 15, 'descricao': f'“{fala(c, k)}”'})
         else:
-            pecas.append({'nome': nome(c, k), 'de': f'{nome(c, k)} (do painel do nora{s["primeiro"]})', 'tipo': 'take', 'status': 'reutilizar', 'descricao': f'“{F[k]}”', 'fala': F[k]})
+            pecas.append({'nome': nome(c, k), 'de': f'{nome(c, k)} (do painel do nora{s["primeiro"]})', 'tipo': 'take', 'status': 'reutilizar', 'descricao': f'“{fala(c, k)}”', 'fala': fala(c, k)})
     for k in gera:
         if k not in usa:
             dono = [m for m in irmaos if VIDEOS[m]['k1'] == k][0]
-            pecas.append({'nome': nome(c, k), 'tipo': 'take', 'status': 'gerar', 'creditos': 12 if dur(k) == '8' else 15, 'descricao': f'Para o nora{dono} ({VIDEOS[dono]["hora"].split(" (")[0]}): “{F[k]}”'})
+            pecas.append({'nome': nome(c, k), 'tipo': 'take', 'status': 'gerar', 'creditos': 12 if dur(k) == '8' else 15, 'descricao': f'Para o nora{dono} ({VIDEOS[dono]["hora"].split(" (")[0]}): “{fala(c, k)}”'})
     if v['prova']:
         pecas.append({'nome': f'avaliação da {PROVA[v["prova"]][0].split()[0]}', 'tipo': 'prova', 'status': 'reutilizar', 'onde': 'Eu ponho na edição, antes do CTA. Você não faz nada.'})
     if n == 57:
@@ -513,7 +526,7 @@ def montar(n):
                                      'em inglês, com "eleven eleven" e "November eleventh"; o braço do celular não se mexe; a mão livre só faz o gesto do T02, na altura do ombro; '
                                      'sem texto, legenda ou música. Renomeie com o nome da lista.'),
                         'passos': passos, 'config': cf, 'agente': agente(c, gera),
-                        'colagens': [{'titulo': f'{nn}: 5 takes da {s["nome"]} ({", ".join(ROT[k] for k in gera)})', 'fala': ' '.join(F[k] for k in gera),
+                        'colagens': [{'titulo': f'{nn}: 5 takes da {s["nome"]} ({", ".join(ROT[k] for k in gera)})', 'fala': ' '.join(fala(c, k) for k in gera),
                                       'movimentacao': [mov(c, k) for k in gera], 'takes': list(range(len(gera)))}]}
         p['imagem_central'] = img_central(c, n)
         ordem = ['pecas', 'imagens', 'central', 'cenas', 'agente', 'silencio', 'textotela', 'story', 'descricao', 'comentario', 'respostasface']

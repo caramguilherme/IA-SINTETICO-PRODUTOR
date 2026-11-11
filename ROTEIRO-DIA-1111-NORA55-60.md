@@ -56,3 +56,6 @@ nora55 https://claude.ai/artifact/K4WvdkrAHAuiyBMxv9t9WT · nora56 https://claud
 
 ## 11/11 ~10h10 - O T04 sem o "private"
 - O T04 do Clone caiu 4 vezes no filtro do Flow (agente, à mão, A e B); passou sem a palavra "private" (C e D). **Fala nova do T04 (manhã e noite):** "To align your energy with today's portal, open my story: three quick questions, and your reading is ready." A melhor das duas (mesma fala) vai nos 3 da manhã (`manha1111-T04-cta-reading`); a outra é a reserva. O "private reading" continua na faixa do story e na legenda. Detalhe no `LICOES-FLOW-E-PROMPTS.md` (11/11 ~09h50).
+
+## 11/11 ~11h10 - Corpo novo só na noite (vídeos brasileiros do portal, `BIBLIOTECA-VIDEOS-VIRAIS.md` 49.10)
+- **Noite (nora58 a nora60), ainda não gerada:** T02 "Today the most powerful portal of the year is open, and what was invisible in your life starts to become real."; T04 "To see which area of your life opens first today, open my story: three quick questions, and your reading is ready.". Os 3 Takes 1 iguais aos da manhã (o teste da prova continua: 58 e 60 com, 59 sem). Mesmos 75 créditos. A manhã (55 a 57) fica com o corpo do Clone (R23).
