@@ -538,3 +538,6 @@ If the generation of any video fails, please resubmit ONLY the item that failed 
 
 ### 11/11/2026 ~13h40 - A caixa do topo cobria os olhos na selfie de perto (o aluno reparou no nora56)
 - Na `manha1111-IMG` (selfie de perto, rosto grande), os olhos ficam entre **20% e 23% da altura**; a caixa de 3 linhas no tamanho 10 (Y 397) ia de 12,8% a 25,2% e cobria os olhos no Take 1 (o nora55 saiu assim). **Regra para selfie de perto:** caixa do topo em **2 linhas, tamanho 9, Y 458** (10% a 18%: a data em vermelho + uma linha curta); faixas de 1 linha ("Rated…", "Your private reading is in my story") em **Y 480** (10% a 15%); os números das pontas de cima descem para **Y 282** (26% a 30%, ao lado do cabelo), porque a caixa ocupa a faixa deles. Na prévia, conferir sempre um quadro do Take 1 com os olhos livres.
+
+### 11/11/2026 ~16h30 - Texto do story fora do padrão do painel (o aluno cobrou)
+- Pus o texto do `story-1111` numa caixa branca com 2 cores (o estilo da caixa dos vídeos), mas o painel pedia **uma cor só, sem caixa: branco com contorno preto fino, ou preto se a parede for clara** (o padrão dos stories que deram 19% de toques). Refeito em preto. **Regra:** texto de story segue o campo `textos.posicao` do painel; antes de mandar, conferir a imagem contra ele.
