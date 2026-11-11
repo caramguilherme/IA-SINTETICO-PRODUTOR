@@ -400,6 +400,11 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 ### 11/11/2026 08h36 - STORY do Insta (story-0311 repostado em 10/11 19h42, ~12h54 de vida)
 - 22 views, **17 viewers** (68,2% seguidores, 31,8% não seguidores), 0 interação, **4 toques no link (4 de 17 = 24%)**, navegação 16 (9 saíram, 5 avançaram, 2 foram ao próximo story), 0 atividade no perfil. O texto do story segue funcionando (19% a 24% de toques); o que falta é gente chegando ao story (17 viewers com ~1.280 views do kit no Insta).
 
+### 11/11/2026 08h36 - TRACKER da Appyon (prints do aluno)
+- **10/11 (dia inteiro):** 3 cliques, 3 viram o quiz, 2 começaram, 0 terminaram, 0 checkout, 0 venda (todos do Instagram).
+- **11/11 até 08h36:** 2 cliques, 2 viram o quiz, 1 começou, **1 terminou o quiz**, 0 checkout, 0 venda (Instagram).
+- **Leitura:** ~5 cliques do Insta com ~1.280 views do kit e o resto do nora50 (~2 a 4 por 1.000 views); o Face segue sem clique. O gargalo continua sendo a quantidade de gente chegando ao story (17 viewers no story do Insta), não o story (4 toques em 17) nem o quiz.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
