@@ -823,6 +823,9 @@ Coach de manifestação americana; provavelmente o vídeo em inglês que o Gusta
   4. **No longo, o engajamento vem cedo (~32 s) e o re-gancho segura** ("Now here's everything you need to know…"); o produto fica no fim, com prova real (prints de clientes).
   5. **Fora da Nora:** promessa de dinheiro com hora ("13 minutes after watching this video, you will receive money", "get paid by the universe": o Face restringe promessa de ganho e é a "alegação enganosa" do Felps), "karma is real" e "you must… in order to receive" (pressão), palavrão, "massive miracle" (o Iorhan: "milagroso" levanta resistência), "link in my bio" (regra da Nora) e o print de depoimento (só Trustpilot real, P46).
 
+### 49.7 mundoespiritualbrasil (pessoa real, não avatar, como a Soma Chhaya; perfil brasileiro; **não vende Appyon** (aluno, 10/11 ~22h15))
+- O aluno vai mandar vídeos inteiros dele e da Soma Chhaya (10/11 ~22h15) para análise completa: gancho, corpo, CTA, cena, edição, legenda e o modelo. Como não vende Appyon, o aviso de 22/09 ("não copiar vídeo de quem vende Appyon") não se aplica; a regra de sempre continua: modelar a estrutura e escrever a fala da Nora em inglês, com a P42 e a HONESTIDADE. Números e falas entram aqui quando os vídeos chegarem.
+
 ### 49.S Stories das contas mineradas (o aluno manda junto com a grade, desde 06/11)
 Para montar o story da Nora a partir do que as contas que vendem fazem. Funil de cada conta: não dito (deduzir pelos reels).
 
