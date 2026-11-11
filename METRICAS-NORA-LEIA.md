@@ -371,6 +371,19 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **nora51 ~300 views com ~6h20** (postado 19h30); **nora52 e nora53 ~100 cada** (com ~4h e ~2h). No mesmo horário e idade, o **nora49 tinha 1.456 com ~5h37** (19h31, tsunami + corpo A): o curto do kit fez ~1/5. Horário igual, então não é o horário.
 - **Hipótese do aluno:** falta o pré-gancho (hook visual); o kit foi feito sem, como os maiores da Soma. Outras: a cena nova, o vídeo curto, o tema do portal. **O que separa:** a % nos 3 s do nora51 contra os 66% a 71% dos vídeos com o tsunami; se cair para ~55% ou menos, o pré-gancho volta já no dia 11 (em todos os 6, para não mexer no teste do Trustpilot). Pedido ao aluno: a % nos 3 s e o tempo médio do nora51 agora.
 
+### 11/11/2026 08h23 - FACE do kit do portal (print da Biblioteca de Conteúdo, 28 dias)
+| Vídeo | Idade | Views | Views de 3 s | Tempo médio | Distribuição |
+|---|---|---|---|---|---|
+| nora51 (curto, 19h32) | ~12h51 | 108 | 37 (34%) | 4 s | 0,0x |
+| nora52 (longo, 21h35) | ~10h48 | 20 | 4 (20%) | 3 s | −0,6x |
+| nora53 (curto, 23h39) | ~8h44 | 94 | 17 (18%) | 3 s | −0,6x |
+| nora54 (curto, 01h37) | ~6h46 | 36 | 12 (33%) | 4 s | −0,5x |
+| nora50 (tsunami + corpo A, 00h09 de 10/11) | ~32h14 | 24 | 10 (42%) | 26 s | −0,6x |
+| **nora49** (tsunami + corpo A, 19h29 de 06/11, final) | — | 241 | 111 (46%) | 8 s | +1,9x |
+| **nora48** (tsunami + corpo A, 01h10 de 06/11, final) | — | 185 | 95 (51%) | 10 s | +2,5x |
+
+- **Leitura:** no Face, os 4 do kit seguram bem menos nos 3 s (18% a 34%, contra 46% a 51% dos vídeos com o tsunami) e o tempo médio cai para 3 a 4 s (contra 8 a 10 s). O nora49, com ~5h27, tinha 202 views; o nora51, com quase 13 h, tem 108. Comentário em todos: só o da Página. O sinal aponta para a abertura (sem pré-gancho, a pessoa passa antes dos 3 s), mas a decisão sai com o Insta (que pesa mais e mostra a curva).
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
