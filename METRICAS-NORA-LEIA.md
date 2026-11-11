@@ -367,6 +367,10 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **Horário:** 01h39 aqui = 20h39 na Califórnia e 23h39 em Nova York (ainda 10/11 nos EUA, mas a fala diz "Wednesday, November 11th": para quem vê na manhã de 11/11 nos EUA, bate).
 - **O que olhar (~24 h):** a abertura contra o nora51 e o nora53 (% nos 3 s, tempo médio contra os 20,9 s, visitas ao perfil por 1.000 views, comentários ÷ views com "1111"), e a Índia x EUA (postado de madrugada aqui).
 
+### 11/11/2026 ~01h50 - Kit do portal cedo (aluno, de cabeça, sem print)
+- **nora51 ~300 views com ~6h20** (postado 19h30); **nora52 e nora53 ~100 cada** (com ~4h e ~2h). No mesmo horário e idade, o **nora49 tinha 1.456 com ~5h37** (19h31, tsunami + corpo A): o curto do kit fez ~1/5. Horário igual, então não é o horário.
+- **Hipótese do aluno:** falta o pré-gancho (hook visual); o kit foi feito sem, como os maiores da Soma. Outras: a cena nova, o vídeo curto, o tema do portal. **O que separa:** a % nos 3 s do nora51 contra os 66% a 71% dos vídeos com o tsunami; se cair para ~55% ou menos, o pré-gancho volta já no dia 11 (em todos os 6, para não mexer no teste do Trustpilot). Pedido ao aluno: a % nos 3 s e o tempo médio do nora51 agora.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
