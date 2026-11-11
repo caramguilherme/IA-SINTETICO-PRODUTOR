@@ -348,6 +348,8 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 ---
 
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
+**A fazer (R28, 11/11 ~19h45, pedido do aluno):** queda de views no Insta com 6 por dia. Contexto com os números (1 por dia: 1.460 a 2.011 e 68% a 72% nos 3 s; kit de 10/11 de 2 em 2 h: 135 a 804; 11/11 de 3 em 3 h: os 3 primeiros abaixo de 200; o nora55 recorde no Face com 910; Status da conta verde) e 6 perguntas: volume e intervalo no Insta, Insta x Face, horários para os EUA, pré-gancho só com a onda, vídeo curto x longo e corpo repetido, e o plano de 12/11. Texto completo na resposta do agente de 11/11 ~19h45.
+
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 
 Feitas e respondidas: R1 a R21 (07/11) e R22 (10/11, o kit do portal). Para conferir:
