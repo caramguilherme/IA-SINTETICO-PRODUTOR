@@ -274,6 +274,10 @@ def agente(c, ks):
 
 
 COMUM_HASH = '#manifestation #1111portal #lawofattraction'
+# 11/11 ~09h (teste do aluno, Loom do Diego Venancio): legenda-base de um viral do nicho, ~70% parecida, a mesma nos 6 vídeos do dia.
+# Base: a legenda do reel de 1,2 mi da Soma Chhaya ("Claim this good energy babe ✨", sem hashtag). No Insta, com a linha do story; no Face, sem o "claim".
+LEG_INSTA = 'Claim this 11:11 energy, love ✨\nYour private reading is waiting in my story 🔮'
+LEG_FACE = 'This 11:11 energy is for you, love ✨\nYour private reading is waiting in my story 🔮'
 # prova: a avaliação real do Trustpilot (provas-trustpilot/, sem a hora relativa) que entra antes do CTA, ou None (o controle)
 PROVA = {'05-karen': ('Karen W.', 'I just feel that for me there are good things about to happen'), '06-younger': ('Younger A. (EUA)', 'Everything she said is happening in my life'),
          '07-karina': ('Karina G. (EUA)', 'Wonderful, I feel so connected, this feels so real'),
@@ -347,8 +351,8 @@ def montar(n):
             'id': f'{nn}-DIA-1111-{c.upper()}-' + ('PROVA' if v['prova'] else 'SEM-PROVA'),
             'titulo': f'{nn} · 11/11 (quarta), {hora_curta} · {s["nome"]} · ' + (f'com a avaliação da {PROVA[v["prova"]][0].split()[0]}' if v['prova'] else 'sem avaliação'),
             'duracao_total': 20,
-            'descricao_instagram': v['insta'],
-            'descricao_face': '\n'.join(l for l in v['insta'].split('\n') if not l.startswith('Comment')),
+            'descricao_instagram': LEG_INSTA,
+            'descricao_face': LEG_FACE,
         },
         'refs': [f'Folha da Nora v2 (1K) na geração da {s["img"]}', f'{s["img"]} em todos os takes'],
         'imagens': [{'rotulo': f'IMAGEM 1 · {s["img"]}', 'cena': f'(seção Imagem do painel do nora{s["primeiro"]})', 'anexar': 'a folha da Nora (1K)'}],
