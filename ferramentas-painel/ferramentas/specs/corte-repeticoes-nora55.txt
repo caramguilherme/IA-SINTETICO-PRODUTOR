@@ -1,0 +1,5 @@
+nora55: o Flow repetiu "your reading is" no T04 ("...three quick questions and your reading is your reading is ready").
+Cortado o 1º "your reading is" do montado: [22,7917 s, 23,7917 s) (1,0 s, quadros 547 a 571). Sem corte da FusionZ por perto (o último é 20,208 s), então o trecho seguinte vai com zoom 1,08 até o fim para esconder o pulo. Os 2 pontos caem em silêncio (22,64 a 22,90 s e 23,76 a 23,80 s). Fade de 12 ms no áudio.
+O vídeo do montado começa em 0,083 s e o áudio em 0 (o CapCut exporta assim): o áudio do 1º trecho começa em 0,083 s para não atrasar a voz 2 quadros (o nora52 e o nora54 saíram com esse atraso de 83 ms).
+[0:v]trim=0:22.7917,setpts=PTS-STARTPTS,setsar=1[v0];[0:v]trim=start=23.7917,setpts=PTS-STARTPTS,scale=iw*1.08:ih*1.08,crop=1080:1920,setsar=1[v1];[0:a]atrim=0.083:22.7917,asetpts=PTS-STARTPTS,afade=t=out:st=22.6967:d=0.012[a0];[0:a]atrim=start=23.7917,asetpts=PTS-STARTPTS,afade=t=in:st=0:d=0.012[a1];[v0][a0][v1][a1]concat=n=2:v=1:a=1[v][a]
+(crf 14 no intermediário nora55-cortado.mp4; depois editar_video.py com a spec-nora55.json)
