@@ -421,6 +421,23 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 
 ---
 
+## R32 (12/11, ~11h30): modelar o nora55 (2.033 no Face), o pré-gancho do curto e as datas fortes
+**Pergunta:** o nora55 (tsunami curto + escritório + 3 takes em 24 s, sem prova) fez 2.033 no Face e 132 no Insta; a fala é datada. (1) O curto de hoje mantém o tsunami curto em vez da vela? Abrir o longo (16h) e o curto (20h) com o tsunami satura? (2) Que variações do nora55 valem? (3) Kit para o 12/12? Que outras datas pesam?
+
+**Resposta (resumo):**
+1. **O que validou numa rede se mantém nela** (aulas 28, 43, 68/69): **no Face, o curto das 20h sai com o tsunami curto**. **No Insta, abrir os dois do dia com o tsunami satura** (uma conta só, a mesma fatia de público; o espelho engana a máquina, não a pessoa; aulas 28 e 31): **no Insta, o curto das 20h sai com a vela/ritual ASMR de 2 a 3 s** (aula 32), o que também vira um teste de pré-gancho no Insta.
+2. **Variações do nora55** (aulas 28, 55, 68/69): manter o esqueleto de 3 takes e trocar (a) o gatilho de tempo do Take 1 (a data do dia, "before this weekend begins", "before midnight"); (b) empilhamento de 3 a 5 s antes do Take 1 ("There is a reason this video reached your screen today…"); (c) a promessa por fatia (amor; dinheiro: "Today the universe is removing the quiet financial burdens you carried all year long."); (d) POV com o áudio do nora55 sobre paisagem (aulas 12, 40, 70).
+3. **Kit do 12/12: sim** (aulas 46 e 65: ofertas escalam surfando datas e portais; roteiro inteiro em torno do portal, não só a data no gancho). Outras datas: **12/12** (último portal espelhado do ano), **solstício de inverno (21/12)**, **1º de dezembro e 1º de janeiro** ("December will be the most blessed month of your life"), **a virada (28/12 a 02/01)**, o "público emocionado da virada", com "What 2027 holds for you" e "Leaving the heavy baggage in 2026", e **as luas nova e cheia** (aulas 21, 36, 55, 66, 68/69).
+
+**Para a Nora (12/11 ~11h35):**
+- **Hoje, o curto das 20h sai em 2 versões (0 crédito a mais): Insta com a vela (gerada no Flow, 15 créditos, já no plano) e Face com o tsunami curto + a faixa para o comentário (R31).** O longo das 16h abre com o tsunami inteiro nas duas redes.
+- **O POV com o áudio do nora55 não serve:** a fala é toda datada (quarta e o portal de "today"). O POV de amor das 00h segue com narração nova (R31).
+- **Promessa de amor "before twenty twenty-seven begins" sai suavizada** (prazo de amor é promessa agressiva: chargeback, Kobata 11/11; HONESTIDADE): sem prazo ("…is opening to bring you a love that feels like home").
+- **Datas (dias da semana conferidos):** **13/11 é sexta-feira 13** (não está nas respostas do Clone; nos EUA é o "dia do azar": gancho de data forte com ângulo positivo, "this day is not unlucky for you", sem medo, P42); 01/12 (terça), **12/12 (sábado, portal)**, 21/12 (segunda, solstício), 28/12 a 02/01 (virada para 2027). As luas só com a data real conferida (regra do `PLANO`: "só eventos reais do calendário").
+- Fontes citadas e não conferidas aqui: aulas 12, 21, 28, 31, 32, 36, 40, 43, 46, 55, 65, 66, 68/69 e 70.
+
+---
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 
