@@ -507,6 +507,13 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **Leitura:** o story só chegou a seguidores porque os reels do dia quase não levaram ninguém ao perfil (1 visita em ~530 views). O gargalo continua sendo a ida do reel ao perfil, não o texto do story. Os 3 cliques do Insta de 11/11 (Tracker até 19h45) devem ter vindo do story-0311, que ficou no ar até 19h42 com o mesmo link STORYIG.
 - **Próximo story:** repostar antes de ~16h20 de 12/11 com o texto de 2027 do Clone R25 ("Your next chapter is already in motion. / Tap below to see what 2027 holds for you.", adesivo "See your 2027"), junto com o longo das 16h.
 
+### 12/11/2026 01h42 e 01h45, TRACKER DA APPYON (prints do aluno: 10/11 e 11/11, dias inteiros)
+- **10/11 (fechado):** 3 cliques, 3 no quiz, 2 começaram, 0 terminaram, 0 checkout, 0 venda, todos do Instagram (igual à leitura de 11/11 08h36).
+- **11/11 (fechado): 7 cliques, 7 no quiz, 3 começaram, 2 terminaram, 0 checkout, 0 venda.** Por perfil: **Instagram 3/3/2/1** (igual às 19h45: nada depois do nora58); **Facebook 3/3/1/1** (às 19h45 era 0); sem perfil ("—") 1/1/0/0 = o clique do próprio aluno às ~12h30 (a descontar). **Reais: 6 (3 Insta, 3 Face); 2 terminaram o quiz (1 de cada rede) e foram para a VSL; 0 checkout.**
+- **Leitura:** **o Face trouxe 3 cliques depois das 19h45, mais que as 2 semanas anteriores somadas (2 cliques de 27/10 a 10/11).** Nesse intervalo entraram 3 coisas: os 8 directs com o link FACE (15h44 a ~19h50, para quem comentou no nora55), o nora58 no Face às 19h25 (com o comentário da Página com o link) e o story-1111 com o "Saiba mais". O Tracker não diz qual trouxe o clique, mas os directs são o que mudou no dia: **a régua "Face com 0 = parar os directs" não se aplica; os directs continuam**, com os cuidados do `FATOS-DO-ALUNO.md` (primeiro nome, texto diferente em cada um, nunca 5 seguidos em 2 minutos, só para quem comentou). A 2ª leva (para todos os comentários do nora55, ~01h de 12/11) aparece no Tracker de 12/11: é a próxima conferência.
+- **Por 1.000 views:** Insta ~6 (3 cliques com ~530 views do dia); Face ~1 (3 cliques com ~2.700 views do dia, 2.033 só do nora55). O Face entrega mais, o Insta converte mais; os dois somaram o melhor dia em cliques desde a volta do story (09/11).
+- **Funil:** 2 de 6 terminaram o quiz (33%; ~50% em 10/11 a 11/11 somados com o 08h36); 0 checkout com 2 na VSL é o esperado (o botão da oferta só aparece aos 16:00 de ~24 min).
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
