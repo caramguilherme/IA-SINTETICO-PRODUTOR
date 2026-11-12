@@ -2646,6 +2646,7 @@ No Manifestation o valor por venda quase dobra (R$ 36 → R$ 69). Mas o Soulmate
 
 | Data | Aviso |
 | --- | --- |
+| 11/11 (colado pelo aluno em 12/11) | **Área de membros do MVM Legacy de cara nova (Equipe MVM, @everyone):** capas e identidade visual novas, conteúdos organizados numa sequência de "missões" (dos fundamentos às estratégias avançadas), navegação mais clara; **as aulas não sumiram**, só mudaram de lugar e de visual. Os números das aulas citados no projeto (aulas 12 a 68, Clone do Gustavo) podem não bater com a ordem nova: procurar pelo título |
 | 11/11 15h41 | **Risely com o Kobata, na call das 19h (Gustavo, @everyone):** "por parte da Appyon, já está tudo 100% para o lançamento do novo aplicativo do nicho de saúde; agora dependemos apenas do check da infraestrutura de payouts"; "o app de saúde está mais perto do que nunca"; presença "obrigatória" (quem estiver lá "sai na frente") |
 | 11/11 11h36 | Lembrete da call do Kobata às 19h (Victor Theotonio, @everyone): novidades, mudanças no projeto Appyon e perguntas sobre MVM e Appyon ao vivo |
 | 10/11 10h43 | **"Call comigo quarta" (Kobata): 11/11 às 19h no Legacy**, "BEM importante": mudanças no projeto Appyon, novidades de aula e o futuro do projeto; para quem começa e para quem já vende. O aluno assistiu ao vivo em 11/11 e manda a transcrição depois |
