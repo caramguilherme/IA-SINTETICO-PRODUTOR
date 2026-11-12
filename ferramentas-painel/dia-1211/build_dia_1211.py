@@ -391,15 +391,19 @@ def montar(n):
 
     # ---------------- peças e resumo
     pecas = [{'nome': 'manha1111-IMG', 'de': 'manha1111-IMG (do painel do nora55)', 'tipo': 'imagem 1', 'status': 'reutilizar', 'descricao': 'A imagem da manhã de ontem, a do nora55.'}]
+    # 12/11 14h30 (aluno): os 9 takes saíram de primeira numa sessão só do agente e já foram renomeados: no painel do nora59 aparecem
+    # como "reutilizar" (verde), com o nome do arquivo baixado.
+    GERADOS = {'H': 'b7f051b0', 'W': 'b09aec50', 'G': '8c494057', 'D': '719756a6', 'K': '739908d7', 'S': 'db66b70d', 'L1': '72789190', 'L2': 'f2b5aa65', 'L3': '1b5006f3'}
+    feito = lambda k: f'Já gerado em 12/11 (de primeira) e renomeado: {nome(k)}_{GERADOS[k]}_1080p.'
     for k in usa:
         if gera:
-            pecas.append({'nome': nome(k), 'tipo': 'take', 'status': 'gerar', 'creditos': 12 if dur(k) == '8' else 15, 'descricao': f'“{F[k]}”'})
+            pecas.append({'nome': nome(k), 'tipo': 'take', 'status': 'reutilizar', 'onde': feito(k), 'descricao': f'“{F[k]}”'})
         else:
             pecas.append({'nome': nome(k), 'de': f'{nome(k)} (do painel do nora59)', 'tipo': 'take', 'status': 'reutilizar', 'descricao': f'“{F[k]}”', 'fala': F[k]})
     for k in gera:
         if k not in usa:
             dono = 60 if k == 'S' else 61
-            pecas.append({'nome': nome(k), 'tipo': 'take', 'status': 'gerar', 'creditos': 12 if dur(k) == '8' else 15, 'descricao': f'Para o nora{dono}: “{F[k]}”'})
+            pecas.append({'nome': nome(k), 'tipo': 'take', 'status': 'reutilizar', 'onde': feito(k), 'descricao': f'Para o nora{dono}: “{F[k]}”'})
     if n == 59:
         # 12/11 ~14h15 (aluno): as 3 peças à mão já foram feitas e mandadas; aparecem como "reutilizar" (verde).
         pecas += [{'nome': 'd1211-PRE-envelope-IMG e d1211-PRE-envelope', 'tipo': 'pré-gancho', 'status': 'reutilizar',
