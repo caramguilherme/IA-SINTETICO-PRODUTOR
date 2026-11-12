@@ -445,6 +445,12 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **O nora59 e o nora60 não foram postados (aluno, 00h59):** o último post do dia 11 foi o nora58, nos dois.
 - **Comentários do nora55:** 38 no total (às 19h14 eram 17, com as 8 respostas do aluno e o da Página): há comentários novos para responder (sem link no comentário; o direct com link espera o Tracker de 12/11).
 
+### 12/11/2026 01h08, INSTA nora58 (sozinho no Insta desde 19h25; ~5h43; prints do aluno)
+- **130 views, 117 viewers, 52,5% nos 3 s (skip 47,5%), tempo médio 5 s (vídeo de 24 s), 1 follow, 0 visitas ao perfil**, 3 curtidas, 1 comentário (o fixado), 0 salvos e envios; 96,1% não seguidores; **EUA 25,8%, Canadá 13,3%, Reino Unido 10,9%, sem Índia** (o melhor mix de países até agora); 45+ = 61,7%.
+- Curva: perde ~35% já nos 3 primeiros segundos (ainda na onda, antes do corte para a Nora), ~50% aos 5 s, ~20% aos 11 s.
+- **Leitura:** sozinho no horário bom, o nora58 ainda está **abaixo do reel típico da conta** (~160 às 6 h). Então o volume não explica tudo: **a abertura está segurando menos** (52,5% nos 3 s contra 68% a 72% do nora48 ao nora50, com o mesmo começo da onda). O que mudou nos 3 primeiros segundos: a caixa do topo ("WEDNESDAY, NOVEMBER 11TH / if you keep seeing 11:11…" no lugar dos signos, "Aries, Leo, Sagittarius: …", que qualificava quem é) e, nos que ainda não tinham a onda, o gancho. Cedo para fechar: o reel típico tem 2ª onda perto de 12 h; régua com ~24 h (19h25 de 12/11).
+- **Para o corpo novo de 12/11 (decisão minha):** a caixa do topo e o Take 1 voltam a **dizer para quem é** (signo ou situação) logo no 1º quadro, como no nora48 ao nora50; o tsunami inteiro fica (R29).
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
