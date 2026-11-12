@@ -2681,6 +2681,7 @@ No Manifestation o valor por venda quase dobra (R$ 36 → R$ 69). Mas o Soulmate
 | 21/09 | Venda do primeiro clique, 30 dias |
 | 13/09 | Todo perfil precisa de link cadastrado |
 | 05/09 | Uns 1.000 alunos rodando. Gustavo não analisa conta no privado |
+- **Aviso oficial de 12/11/2026 (@everyone, colado pelo aluno às 16h27; "2027 JÁ COMEÇOU?? O MVM SAIU NA FRENTE!"):** as vendas subiram muito nos últimos dias no MVM inteiro. **No Legacy (Appyon):** funis com a promessa de 2027 ("ano novo") validados, e a VSL do Manifestation "praticamente dobrou a conversão" (confirma o aviso do Iorhan de 11/11). Quem aplicou as últimas aulas ao vivo vende 1,8x a 2,7x mais. Funis novos de amor "começando a dar bom". O espanhol voltou e está vendendo. Campanha nova já no ar e app novo saindo neste mês. Quem foi ao Legacy XP está com a recorrência dobrada por pelo menos 45 dias. Dois prints de GMV sem rótulo: R$ 3,81 mi (+76,3%; lives R$ 1,19 mi, vídeos R$ 2,62 mi), provavelmente o MVM Brasil, e R$ 155,7 mil (+17,9%; front R$ 58,5 mil, upsell R$ 33,1 mil, recorrência R$ 64,1 mil), provavelmente o Legacy. "Modo caverna" até o fim do ano. **LegacyTalk #10, "2027 TÁ NA PORTA", hoje (12/11) às 20h**, com quem está "explodindo agora" (evento no Discord).
 
 ## Perguntas
 

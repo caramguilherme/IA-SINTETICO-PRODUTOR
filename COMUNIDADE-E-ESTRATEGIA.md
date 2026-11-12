@@ -1417,3 +1417,8 @@ Arquivos: `HISTORICO-DISCORD/chat-appyon_12-11-madrugada.md`, `vitorias-dolar_12
   2. **Os ~6% de clique das DMs do gabrielbfrota são a régua para os nossos directs em 2 passos:** a conta é cliques do Face no Tracker ÷ links entregues. Isso entra na decisão dos directs com o Tracker fechado de 12/11.
   3. **O "lower priority" do Flow fica para o aluno conferir** (se aparece no Flow dele e quanto custa). Se custar menos que os 10 créditos do Omni 1.2 em 360p, testar 1 take. Nada muda nos painéis de amanhã.
   4. **Público:** a Nora tem 45+ = 65% no Insta, e o público do Manifestation é mulher de 35 a 65. A avatar não muda (Clone R19 e R21). Vigiar a fatia de homens nos prints.
+
+### 12/11/2026 16h27 - Aviso oficial "2027 JÁ COMEÇOU" e LegacyTalk #10 hoje às 20h
+- O que diz está no `PLANO-MVM-LEGACY-APPYON.md` (avisos oficiais, 12/11): promessa de 2027 validada, a VSL do Manifestation dobrou a conversão, quem aplica as aulas vende 1,8x a 2,7x mais, funis de amor começando a vender, espanhol de volta, campanha e app novos neste mês.
+- **Para a Nora (decisão minha):** confirma o caminho de hoje (o corpo novo, o story e as faixas em cima de 2027). O POV de amor das 00h fala de amor, mas leva ao mesmo funil do Manifestation. O funil de amor e o espanhol ficam só no registro: o 2º perfil segue adiado pelo aluno. **A call das 20h bate com o nora60:** postar às 20h05, ao vivo (leva poucos minutos), e entrar na call em seguida. Pedir o Loom ou a transcrição depois, para eu registrar.
+
