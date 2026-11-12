@@ -459,6 +459,19 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **150 views, 62,1% nos 3 s (o Insta marcou "strong hook"), tempo médio 8 s, 0 follows, 0 visitas ao perfil**; 4 curtidas e 4 comentários (3,0% cada: o melhor engajamento do dia), 1 repost, 1 salvo; **Índia 35,9%**, EUA 15,2%, Canadá 7,6%; 45+ = 72,4%.
 - A abertura do nora56 segurou mais (T01b "look at the time" + a caixa refeita acima dos olhos), mas a entrega parou em ~150 com ~3 h, com a Índia em 1º (legenda japonesa e horário da tarde) e 0 visita ao perfil.
 
+### 12/11/2026 01h12, INSTA nora55 e o dia 11 inteiro no Insta (prints do aluno)
+| vídeo | postado | vida | views | 3 s | médio | visitas | Índia | EUA |
+|---|---|---|---|---|---|---|---|---|
+| nora55 (T01a, sem prova) | 10h20 | ~14h50 | 132 | 49,6% | 5 s | 1 | **41,7%** | 15,9% |
+| nora56 (T01b relógio, Karen) | 13h50 | ~11h20 | 150 | **62,1%** | 8 s | 0 | 35,9% | 15,2% |
+| nora57 (T01c, sem prova) | 16h55 | ~8h15 | 116 | 47,6% | 7 s | 0 | 6,4% | 19,1% |
+| nora58 (T01a noite, Younger) | 19h25 | ~5h40 | 130 | 52,5% | 5 s | 0 | 0% | **25,8%** |
+
+- **O dia 11 no Insta: ~530 views somadas e 1 visita ao perfil** (o nora49 sozinho fez 2.011 e 10 visitas). Os 4 pararam de receber entrega entre ~1h30 e ~3 h de vida, em ~115 a ~150 views.
+- **O horário decide o país:** de manhã (10h20) a Índia foi 41,7%; às 13h50, 35,9%; às 16h55, 6,4%; às 19h25, 0% (EUA + Canadá + Reino Unido = 50%). Confirma a grade de 12/11 (16h, 20h e 00h).
+- **O mesmo nora55 fez 132 no Insta e 2.033 no Face:** o vídeo não é ruim; no Insta, o teste das primeiras horas não passa (abertura em ~50% nos 3 s, tempo médio de 5 a 8 s num vídeo de 24 s, quase nenhum envio ou salvo).
+- **O que muda no corpo novo de 12/11 (decisão minha, sem montar painel até o aluno liberar):** (1) o tsunami inteiro (8 s) no longo, como no nora48 ao nora50 (68% a 72% nos 3 s); (2) a caixa do topo e o Take 1 dizendo para quem é desde o 1º quadro (signo ou situação), no lugar da data; (3) o longo (~50 s) às 16h, com as perguntas de desejo e o motivo antes do CTA, para o tempo médio voltar a 15 s ou mais; (4) 3 por dia no Insta, só à tarde e à noite.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
