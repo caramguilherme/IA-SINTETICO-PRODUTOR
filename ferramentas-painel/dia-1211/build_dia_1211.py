@@ -369,7 +369,7 @@ def montar(n):
     if v['tipo'] == 'longo':
         p['edicao_linha'] = [
             {'quando': 'A. Antes de tudo', 'texto': f'Projeto novo no CapCut com o {corte}', 'como': 'É o vídeo que saiu da FusionZ.'},
-            {'quando': 'B. Pré-gancho no começo', 'texto': 'O tsunami INTEIRO: nora47-PRE-A + nora47-PRE-B, sem espelhar',
+            {'quando': 'B. Pré-gancho no começo', 'texto': 'O tsunami INTEIRO já montado: nora47-PRE-tsunami-inteiro-A+B.mp4 (7,85 s, que eu te mandei), sem espelhar',
              'como': f'No começo da linha do tempo, antes do {corte}, sem música por baixo. É o do nora49 e do nora50 (68% a 72% nos 3 s; Clone R29). 0 crédito.'},
             {'quando': '1. Do Take 1 ao fim', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB', 'como': 'Começa no Take 1 (no tsunami, só o som dele).'},
             {'quando': '2. Exportar e me mandar', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
@@ -379,7 +379,7 @@ def montar(n):
             {'quando': 'A. Antes de tudo', 'texto': f'Projeto novo no CapCut com o {corte}', 'como': 'É o vídeo que saiu da FusionZ.'},
             {'quando': 'B. Versão do INSTA', 'texto': 'Pré-gancho: o envelope já cortado (d1211-PRE-envelope-0.8a4.2.mp4, ~3,4 s, que eu te mandei), corte seco',
              'como': 'No começo, antes do Take 1 (o d1211-T01b-curto-celular, do 1.1), sem música por baixo. Exporte SEM texto como ' + f'{nn}-montado-INSTA.'},
-            {'quando': 'C. Versão do FACE', 'texto': 'Duplique o projeto e troque o começo: o tsunami curto, nora47-PRE-A ESPELHADO (~4 s), e o Take 1 pelo piloto d1211-T01b-PILOTO-12-360p (mesma fala, Omni 1.2)',
+            {'quando': 'C. Versão do FACE', 'texto': 'Duplique o projeto e troque o começo: o tsunami curto já espelhado, nora47-PRE-A-espelhado.mp4 (3,9 s, que eu te mandei), e o Take 1 pelo piloto d1211-T01b-PILOTO-12-360p (mesma fala, Omni 1.2)',
              'como': 'O que fez o nora55 virar o maior do Face (Clone R32); espelhado para não abrir igual ao longo das 16h. Exporte SEM texto como ' + f'{nn}-montado-FACE.'},
             {'quando': '1. Nas duas versões', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB, a partir do Take 1', 'como': 'No pré-gancho, só o som dele.'},
             {'quando': '2. Me mandar', 'texto': 'Os 2 arquivos aqui no chat do Code (ou link do Drive)', 'como': f'Eu ponho os textos e devolvo o {nn}-final (Insta) e o {nn}-final-FACE.'}]
@@ -419,11 +419,11 @@ def montar(n):
     tot = creditos(GERA) + 12 + 24 + 10  # a vela (12, já gerada) + o envelope x2 (24) + o piloto (10)
     decisao = {
         'longo': [f'GERAR AGORA, numa sessão só do agente (contatocaram): os {len(GERA)} takes do dia (o longo, o Take 1 do curto e as 3 falas do POV de amor), mais as 4 peças à mão. Créditos: ~{tot}.',
-                  'Montar: o tsunami INTEIRO + T01 a T05. A avaliação da Karina e as imagens do desejo eu ponho no T04.',
+                  'Montar: o nora47-PRE-tsunami-inteiro-A+B.mp4 + T01 a T05. A avaliação da Karina e as imagens do desejo eu ponho no T04.',
                   'Postar às 16h, ao vivo, no Insta (o nora59-final) e no Face (o nora59-final-FACE). No Face, logo depois, o comentário da Página com o link.',
                   'É o 1º post no Insta depois de ~20 h: se passar de 300 views, a conta não está no “limbo” (aula 39). Me mande os prints com ~3 h.'],
         'curto': ['Usa 3 takes do painel do nora59: T01b + T03 + T05 (~25 s), sem avaliação (como o nora55, Clone R32).',
-                  'Duas versões: Insta com o envelope de ~3 s (a luz crescendo e explodindo; a vela saiu fraca); Face com o tsunami curto espelhado (o que ganhou lá).',
+                  'Duas versões: Insta com o envelope, d1211-PRE-envelope-0.8a4.2.mp4 (~3,4 s, a luz crescendo e explodindo; a vela saiu fraca); Face com o tsunami curto espelhado, nora47-PRE-A-espelhado.mp4 (o que ganhou lá).',
                   'Postar às 20h, ao vivo: Insta o nora60-final; Face o nora60-final-FACE e, logo depois, o comentário da Página com o link.'],
         'pov': ['Usa as 3 falas de amor do painel do nora59 (L1 + L2 + L3, ~28 s), só a voz, sobre as paisagens do lago.',
                 'Eu monto o POV inteiro (fundo, legenda, faixa); você só põe a música no fim.',
