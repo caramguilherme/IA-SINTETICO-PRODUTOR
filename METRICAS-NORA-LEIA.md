@@ -547,6 +547,10 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **Abaixo do reel típico da conta** (a linha tracejada chega a ~200 com 24 h). A curva cai para ~50% aos 5 s e para ~10% aos 12 s: o gancho segura, o corpo do dia 11 não.
 - **Para o nora59 (16h):** a régua é ele passar de 300 views, como o nora50 e o nora51, que vieram depois de pausas. Também tem de fazer mais de 0 visitas ao perfil e tempo médio de 15 s ou mais (o corpo novo é longo, com tsunami inteiro). Abaixo de 200 com o espaço novo, a dúvida do limbo vai para o Clone. Nada muda nos posts de hoje.
 
+### 12/11/2026 16h05 - nora59 postado (Insta e Face)
+- O longo do corpo novo, 42,4 s, ao vivo às 16h05 nas duas redes, ~20h40 depois do último post no Insta (o nora58). Insta com a faixa do story e a seta; Face com a faixa do comentário e o comentário da Página com o link FACE. Primeiro vídeo com estilo variável (névoa-taupe) e com riser e impact.
+- **Régua (12/11 16h02):** 300 views ou mais no Insta (não é limbo), alguma visita ao perfil e tempo médio de 15 s ou mais. Prints com ~3 h (por volta das 19h) e com ~24 h.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
