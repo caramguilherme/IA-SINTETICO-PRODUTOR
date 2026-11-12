@@ -378,8 +378,8 @@ def montar(n):
         p['edicao_linha'] = [
             {'quando': 'A. Antes de tudo', 'texto': f'Projeto novo no CapCut com o {corte}', 'como': 'É o vídeo que saiu da FusionZ.'},
             {'quando': 'B. Versão do INSTA', 'texto': 'Pré-gancho: o envelope já cortado (d1211-PRE-envelope-0.8a4.2.mp4, ~3,4 s, que eu te mandei), corte seco',
-             'como': 'No começo, antes do Take 1 (o d1211-T01b-curto-celular, do 1.1), sem música por baixo. Exporte SEM texto como ' + f'{nn}-montado-INSTA.'},
-            {'quando': 'C. Versão do FACE', 'texto': 'Duplique o projeto e troque o começo: o tsunami curto já espelhado, nora47-PRE-A-espelhado.mp4 (3,9 s, que eu te mandei), e o Take 1 pelo piloto d1211-T01b-PILOTO-12-360p (mesma fala, Omni 1.2)',
+             'como': 'No começo, antes do Take 1, sem música por baixo. Take 1 = o piloto d1211-T01b-PILOTO-12-360p (o d1211-T01b-curto-celular do 1.1 saiu com o fundo trocado por um jardim depois de 1 s: não usar). Exporte SEM texto como ' + f'{nn}-montado-INSTA.'},
+            {'quando': 'C. Versão do FACE', 'texto': 'Duplique o projeto e troque o começo: o tsunami curto já espelhado, nora47-PRE-A-espelhado.mp4 (3,9 s, que eu te mandei), e o mesmo Take 1, o piloto d1211-T01b-PILOTO-12-360p (mesma fala, Omni 1.2)',
              'como': 'O que fez o nora55 virar o maior do Face (Clone R32); espelhado para não abrir igual ao longo das 16h. Exporte SEM texto como ' + f'{nn}-montado-FACE.'},
             {'quando': '1. Nas duas versões', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB, a partir do Take 1', 'como': 'No pré-gancho, só o som dele.'},
             {'quando': '2. Me mandar', 'texto': 'Os 2 arquivos aqui no chat do Code (ou link do Drive)', 'como': f'Eu ponho os textos e devolvo o {nn}-final (Insta) e o {nn}-final-FACE.'}]
