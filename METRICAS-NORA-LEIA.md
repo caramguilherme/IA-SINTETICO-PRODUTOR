@@ -497,6 +497,11 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 
 - **Para 12/11:** a grade de 3 por dia com 4 h entre eles (16h, 20h, 00h) é o principal ajuste; a abertura mais forte (tsunami inteiro + para quem é) vem junto. Com 1 dia de pausa no Insta (o último foi o nora58, 19h25 de 11/11), o longo das 16h de 12/11 chega como o nora51: depois de ~20 h sem post.
 
+### 12/11/2026 01h20, INSTA nora50 FINAL (10/11 00h11, ~49 h)
+- **1.674 views, 71,5% nos 3 s, tempo médio 21 s (67 s), 17 follows, 6 visitas ao perfil, 80 curtidas (5,5%), 22 comentários, 17 envios, 30 salvos; EUA 38,9% + Canadá, Austrália e Reino Unido (sem Índia); 45+ = 65,2%.** Três vezes o reel típico da conta (~550).
+- **O molde que funciona, lado a lado:** os 4 melhores do Insta (nora48 1.633, nora49 2.011, nora50 1.674, nora51 889) saíram **depois de 18 h ou mais sem post**. Entre eles, os 3 de 1.600 a 2.000 tinham **o tsunami inteiro + a caixa do topo com os signos + o corpo A longo (67 s)**: 68% a 72% nos 3 s e ~20 s de tempo médio, com envios e salvos. O nora51 (pausa, mas sem pré-gancho, a data no topo, 19 s) fez 889 com 48,7% e 6 s. **Os dois fatores pesam: espaço entre posts (o maior) e abertura + corpo (o que dobra).**
+- **Para o corpo novo de 12/11:** é exatamente a fórmula do nora50 com o corpo novo: tsunami inteiro, caixa do topo com para quem é (signos ou situação), o longo às 16h, 4 h entre os 3 do dia.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
