@@ -9,6 +9,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **11ª leitura (09/11):** respostas a sordisss (Índia: horário) e Eduarda Fernandes (texto do story) enviadas.
 - **joao (Sargento):** respondeu em 09/11 17h29 (ganchos + texto do story) e em 10/11 00h44 ("depende do gancho": usa com fala e sem fala; o que importa é prender nos primeiros segundos); fechamento enviado em 10/11 (~11h). **Voltar com o resultado do kit do portal (só fala x cena + fala) em ~12/11**, com 1 pergunta nova.
 - **Lucas Dusi:** respondeu em 10/11 14h49 (filtrar o público no body + reason why forte no CTA) e **em 10/11 18h13 a 18h27** (hook mais aberto, filtro no body; o exemplo do reason why: "para manifestar X você precisa de uma âncora física de manifestação… toque na minha foto"; "dá pra pesquisar com o GPT, Claude ou Gemini o que as pessoas acreditam que precisam pra manifestar"). **Agradecimento enviado em 10/11 ~23h10** (sem pergunta nova). Voltar com o resultado do kit e do CTA novo.
+- **12/11 ~16h30, voltas com resultado (DM, pedido do aluno: "faz tempo que não conversamos com alguém"):** joao (o teste só com fala x cena), Kaike (o tsunami de volta, 3,9 mil no Face; a pedra não chegou a ser testada) e Lari (6 por dia: Face bem, Insta caiu): enviadas (toda resposta sugerida conta como enviada). Esperar resposta de cada um; Ricardo e Marcus ficam para quando o nora59 tiver número (CTA novo).
 - **17ª leitura (12/11 ~16h25):** respostas a th (duração dos vídeos), gabrielbfrota (taxa de clique das DMs no Face) e Wall (Flow implicando com a copy), no #chat-appyon, e parabéns ao Evair no #vitórias: enviadas (toda resposta sugerida conta como enviada).
 - **16ª leitura (12/11 ~01h):** resposta ao Vini BR (volume: 4 a 6 por dia com 2 h), no #chat-appyon: enviada (toda resposta sugerida conta como enviada).
 - **15ª leitura (11/11 ~20h30):** respostas a Resende (página do Face: a régua é 100 views), Taques (quando trocar a avatar) e KAROLLYNE BRAZ (vídeos por dia), no #chat-appyon: enviadas (toda resposta sugerida conta como enviada).
@@ -530,5 +531,30 @@ e teve take q travou pela mão descendo pro colo na movimentação, deixei a mã
 ```
 parabéns mano!! 1 dia de post e já veio, insano
 foi no insta ou no face?
+```
+
+## ENVIADO (12/11/2026 ~16h30; DMs de volta com resultado, no jeito do aluno; uma mensagem só para cada)
+**1. joao (Sargento), na DM (depois do "daqui uns dias te falo qual prendeu mais" de 10/11):**
+```
+salve joao, voltando com o resultado do teste
+o vídeo só com a avatar falando logo de cara segurou 34 a 50% nos 3 primeiros segundos
+com a cena no começo (um tsunami) segura 66 a 72%
+então aqui a cena ganhou fácil, voltei com ela em tudo
+uma dúvida: no teu cta vc manda pro story no fim do vídeo ou já fala disso mais pro meio?
+```
+**2. Kaike de Lima, na DM (depois do "depois te conto o resultado" de 09/11):**
+```
+salve kaike, voltando com o resultado
+a pedra acabou ficando pra depois, mas testei sem pré-hook nenhum e caiu pela metade quem fica nos 3s
+voltei com o tsunami e um deles fez 3,9 mil no face, o maior da página até agora
+vc repete o mesmo pré-hook em vários vídeos ou troca toda vez?
+```
+**3. Lari, na DM (depois do "depois te conto como foi" de 09/11):**
+```
+oi lari, voltando com o resultado
+fiz o desafio dos 6 por dia: no face foi bem, um deles fez 3,9 mil
+mas no insta cada vídeo caiu pra menos de 200 views, antes com 1 por dia fazia 1,4 a 2 mil
+voltei pra 3 por dia no insta e hoje entrou a copy nova
+no teu insta os 6 por dia seguraram ou vc sentiu isso tb?
 ```
 
