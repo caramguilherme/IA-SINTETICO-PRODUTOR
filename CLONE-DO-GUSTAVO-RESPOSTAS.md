@@ -406,6 +406,21 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 
 ---
 
+## R31 (12/11, ~02h20; colada às 11h03): saturação do 00h e a faixa do Face
+**Pergunta:** (1) o POV das 00h com o trecho do corpo A ("the worst is finally over", dinheiro e prosperidade, "the second part of this sign is waiting in my stories") satura no dia do corpo novo ("the hardest part of your year is finally over")? (2) No Face, "Tap my photo and check my story" leva ao story da Página no Reels, ou a faixa da versão do Face deve apontar para o comentário com o link?
+
+**Resposta (resumo):**
+1. **Satura:** o mesmo estado emocional no mesmo dia ("hardest part is over" às 16h e 20h, "worst is finally over" às 00h) deixa o público em dormência (aulas 26, 31 e 65); e "the second part of this sign is waiting in my stories" já foi criticado como curiosidade vazia. **O 00h deve trocar a promessa para amor e relacionamento** (o funil vende os dois; a dor do amor pesa mais de madrugada; aulas 46 e 69), com o CTA "Tap my photo and check my story to see what twenty twenty-seven is bringing to your love life."
+2. **No Face Reels quase ninguém vai ao story da Página** pela foto (sobretudo as mais velhas dos EUA); o link clicável no comentário fixado é o que converte no Face (Estrutura Facebook, aula 11, "71% das vendas da operação vêm do Facebook"). **Manter a fala e trocar só a faixa da versão do Face:** "Your 2027 reading is in the first comment ⬇️" (ou "Tap the link in the first comment below ⬇️"), com o comentário da Página com o link logo depois de postar. (Fala também em "link encurtado limpo": fora, o link é sempre inteiro.)
+
+**Para a Nora (12/11 ~11h10):**
+- **O trecho do corpo A sai do 00h.** O 00h vira **POV de amor com narração nova** (não há fala antiga de amor sem data: o corpo B tem cartas e o 11/11; o Take 1 do nora48 tem o portal): 2 a 3 takes no Flow na mesma imagem do corpo novo (~30 a 45 créditos), usados só pelo áudio sobre paisagem; os mesmos takes podem virar um vídeo da Nora falando noutro dia.
+- **Faixa do Face aponta para o comentário** em todo vídeo que vai para o Face (16h, 20h, 00h e os horários sem avatar), 0 crédito, na edição (a versão do Insta fica com a faixa do story). É teste: o comentário com o link estava em todo post desde outubro, mas nenhum vídeo dizia para olhar lá; o Tracker do FACE decide.
+- **O trecho do corpo A ainda serve para o Face sem avatar** (9h, 12h ou 18h), sem "The worst is finally over" e sem o CTA fraco: termina em "closed financial doors are starting to open" e a faixa leva ao comentário. Promessa de dinheiro, diferente do alívio (16h/20h) e do amor (00h).
+- Cita aulas 11, 26, 31, 46, 65, 69 e a Estrutura Facebook; o "71%" não tem trecho conferido.
+
+---
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 
