@@ -502,6 +502,11 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **O molde que funciona, lado a lado:** os 4 melhores do Insta (nora48 1.633, nora49 2.011, nora50 1.674, nora51 889) saíram **depois de 18 h ou mais sem post**. Entre eles, os 3 de 1.600 a 2.000 tinham **o tsunami inteiro + a caixa do topo com os signos + o corpo A longo (67 s)**: 68% a 72% nos 3 s e ~20 s de tempo médio, com envios e salvos. O nora51 (pausa, mas sem pré-gancho, a data no topo, 19 s) fez 889 com 48,7% e 6 s. **Os dois fatores pesam: espaço entre posts (o maior) e abertura + corpo (o que dobra).**
 - **Para o corpo novo de 12/11:** é exatamente a fórmula do nora50 com o corpo novo: tsunami inteiro, caixa do topo com para quem é (signos ou situação), o longo às 16h, 4 h entre os 3 do dia.
 
+### 12/11/2026 01h22, STORY-1111 no Insta (postado 11/11 16h20, ~9 h; prints do aluno)
+- **11 views, 11 viewers, 100% seguidores, 1 curtida, 0 respostas, 0 envios, 0 atividade no perfil**; navegação 10 (avançou 5, próximo story 4, saiu 1). **Nenhum toque no link aparece nos prints** (no story-0311, com ~20h40, eram 26 viewers e 5 toques = 19%).
+- **Leitura:** o story só chegou a seguidores porque os reels do dia quase não levaram ninguém ao perfil (1 visita em ~530 views). O gargalo continua sendo a ida do reel ao perfil, não o texto do story. Os 3 cliques do Insta de 11/11 (Tracker até 19h45) devem ter vindo do story-0311, que ficou no ar até 19h42 com o mesmo link STORYIG.
+- **Próximo story:** repostar antes de ~16h20 de 12/11 com o texto de 2027 do Clone R25 ("Your next chapter is already in motion. / Tap below to see what 2027 holds for you.", adesivo "See your 2027"), junto com o longo das 16h.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
