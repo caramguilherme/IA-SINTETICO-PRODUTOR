@@ -42,7 +42,7 @@ COM_ESTILO = False
 # 1º quadro da fala. Mixkit, licença grátis de efeitos sonoros (sons/LEIA.md). db = pico do som em relação à referência: o mais alto
 # entre a voz e o som do pré-gancho (o pré-gancho costuma vir ~10 dB acima da voz; com a voz de referência, o riser sumia no tsunami).
 SONS_DIR = os.path.join(AQUI, 'sons')
-SONS = {'riser': ('riser-nora.wav', 0), 'impact': ('impact-nora.wav', 0), 'whoosh': ('whoosh-nora.wav', -8), 'sparkle': ('sparkle-nora.wav', -12)}
+SONS = {'riser': ('riser-nora.wav', 0), 'impact': ('impact-nora.wav', 4), 'whoosh': ('whoosh-nora.wav', -8), 'sparkle': ('sparkle-nora.wav', -12)}
 
 
 def sonda(arq):
@@ -204,11 +204,13 @@ def blocos_legenda(palavras, max_pal=3):
     return res
 
 
-def janelas_db(arq, ini=0.0, fim=None, sr=16000, w=0.05):
-    """Nível (dBFS) do áudio em janelas de 50 ms, de ini a fim."""
+def janelas_db(arq, ini=0.0, fim=None, sr=16000, w=0.05, hp=250):
+    """Nível (dBFS) do áudio em janelas de 50 ms, de ini a fim. hp: passa-alta (250 Hz ~ o que o alto-falante do celular toca;
+    o grave do impact some no celular, então o volume é medido sem ele; hp=0 mede tudo)."""
     import numpy as np
     dur = ['-t', f'{fim - ini:.3f}'] if fim else []
-    raw = subprocess.run(['ffmpeg', '-v', 'error', '-ss', f'{ini:.3f}'] + dur + ['-i', arq, '-vn', '-ac', '1', '-ar', str(sr), '-f', 's16le', '-'],
+    af = ['-af', f'highpass=f={hp}'] if hp else []
+    raw = subprocess.run(['ffmpeg', '-v', 'error', '-ss', f'{ini:.3f}'] + dur + ['-i', arq, '-vn'] + af + ['-ac', '1', '-ar', str(sr), '-f', 's16le', '-'],
                          capture_output=True, check=True).stdout
     a = np.frombuffer(raw, dtype=np.int16).astype(float) / 32768; n = int(sr * w)
     return np.array([20 * np.log10(np.sqrt(np.mean(a[i:i + n] ** 2)) + 1e-9) for i in range(0, len(a) - n, n)]), w
@@ -231,8 +233,8 @@ def filtros_sons(sp, idx0):
         arq, db_pad = SONS[s['som']] if s.get('som') in SONS else (s['arquivo'], -10)
         arq = arq if os.path.isabs(arq) else os.path.join(SONS_DIR, arq)
         pe = s['pico_em']
-        if pe == 'corte':
-            corte = corte if corte is not None else achar_corte(sp['entrada']); pe = corte
+        if isinstance(pe, str) and pe.startswith('corte'):  # "corte" ou "corte-0.08" (antes do corte)
+            corte = corte if corte is not None else achar_corte(sp['entrada']); pe = corte + float(pe[5:] or 0)
         if ref is None:  # o mais alto entre a voz (depois do corte) e o som do pré-gancho (antes), percentil 90 das janelas
             import numpy as np
             e, _ = janelas_db(sp['entrada'], ini=corte if corte is not None else 0.0)
@@ -240,8 +242,9 @@ def filtros_sons(sp, idx0):
             if corte is not None and corte > 1:
                 e, _ = janelas_db(sp['entrada'], ini=0.0, fim=corte)
                 ref = max(ref, float(np.percentile(e[e > -60], 90)))
-        e, w = janelas_db(arq); pico_arq = int(e.argmax()) * w; mx = float(e.max())
-        ganho = ref + s.get('db', db_pad) - mx
+        e, w = janelas_db(arq, hp=0); pico_arq = int(e.argmax()) * w; mx_cheio = float(e.max())  # o pico de verdade (com o grave)
+        mx = float(janelas_db(arq)[0].max())  # o nível que o celular toca
+        ganho = min(ref + s.get('db', db_pad) - mx, -3 - mx_cheio)  # sem passar de -3 dBFS com o grave
         atraso = pe - pico_arq
         cad = 'aformat=sample_rates=48000:channel_layouts=stereo'
         if atraso < 0: cad += f',atrim=start={-atraso:.3f},asetpts=PTS-STARTPTS,afade=t=in:st=0:d=0.15'
@@ -249,7 +252,11 @@ def filtros_sons(sp, idx0):
         ins += ['-i', arq]
         fs.append(f'[{idx0 + j}:a]{cad},volume={ganho:.1f}dB[s{j}]'); labs.append(f'[s{j}]')
         rel.append(f"{s.get('som', os.path.basename(arq))} pico em {pe:.2f}s ({s.get('db', db_pad)} dB da referência, {ref:.0f} dBFS)")
-    fs.append(f"[0:a]aformat=sample_rates=48000:channel_layouts=stereo[a0];[a0]{''.join(labs)}amix=inputs={len(labs) + 1}:normalize=0:duration=first,alimiter=limit=0.95[aout]")
+    resp = ''  # "respiro": o som do montado baixa nos últimos segundos antes do corte, para o impact bater depois de um vazio
+    if sp.get('respiro') and corte is not None:
+        r = float(sp['respiro']); resp = f",volume=0.2:enable='between(t,{corte - r:.3f},{corte:.3f})'"
+        rel.append(f'respiro de {r:.2f}s antes do corte ({corte:.2f}s)')
+    fs.append(f"[0:a]aformat=sample_rates=48000:channel_layouts=stereo{resp}[a0];[a0]{''.join(labs)}amix=inputs={len(labs) + 1}:normalize=0:duration=first,alimiter=limit=0.95[aout]")
     return ins, fs, rel
 
 
