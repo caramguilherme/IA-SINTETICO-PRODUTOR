@@ -36,6 +36,8 @@ def quadro(sp, t, W, H, k, tmp):
 
 def main():
     sp = json.load(open(sys.argv[1], encoding='utf-8'))
+    if sp.get('estilo'):  # 12/11: o mesmo estilo do render (editar_video.py)
+        ev.TEMA = ev.EST.tema(sp['estilo']); ev.COM_ESTILO = True
     saida = sys.argv[2]
     tempos = [float(x) for x in sys.argv[3:11]]
     W, H = ev.sonda(sp['entrada']); k = W / 720.0
