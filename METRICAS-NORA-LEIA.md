@@ -542,6 +542,11 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 ### 12/11/2026 15h57 - Insta (grade do perfil, só views), antes do nora59
 - Parados desde as 11h50: nora58 167 (era 157), nora56 191 (187), nora55 138, nora57 118, nora54 219, nora53 146, nora52 151, nora51 889, nora50 1.676. O Insta ficou ~20h30 sem post: o nora59 das 16h é o teste do limbo (300 views ou mais = não é limbo). Detalhado só o nora58 (a base do nora59). Dashboard na versão 18.
 
+### 12/11/2026 16h02 - Insta, nora58 detalhado (~20h37 de vida; a base do nora59)
+- **168 views, 155 viewers, 53,8% nos 3 s ("strong hook"), 5 s de tempo médio, 0 visitas ao perfil, 1 follow**, 3 likes, 1 comentário, 0 salvos e 0 envios. 95,8% não seguidores. Países: EUA 24,1%, Canadá 10,2%, Reino Unido 10,2%, Irã 4,2%, Sérvia 4,2% (sem Índia). Público 45+ = 65,7%.
+- **Abaixo do reel típico da conta** (a linha tracejada chega a ~200 com 24 h). A curva cai para ~50% aos 5 s e para ~10% aos 12 s: o gancho segura, o corpo do dia 11 não.
+- **Para o nora59 (16h):** a régua é ele passar de 300 views, como o nora50 e o nora51, que vieram depois de pausas. Também tem de fazer mais de 0 visitas ao perfil e tempo médio de 15 s ou mais (o corpo novo é longo, com tsunami inteiro). Abaixo de 200 com o espaço novo, a dúvida do limbo vai para o Clone. Nada muda nos posts de hoje.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
