@@ -377,9 +377,9 @@ def montar(n):
     elif v['tipo'] == 'curto':
         p['edicao_linha'] = [
             {'quando': 'A. Antes de tudo', 'texto': f'Projeto novo no CapCut com o {corte}', 'como': 'É o vídeo que saiu da FusionZ.'},
-            {'quando': 'B. Versão do INSTA', 'texto': 'Pré-gancho: o envelope (d1211-PRE-envelope, o que eu escolher dos 2), ~3 s, corte seco',
-             'como': 'No começo, antes do Take 1, sem música por baixo. Eu te digo o trecho exato (a luz crescendo até a explosão; o corte logo depois que a luz explode). Exporte SEM texto como ' + f'{nn}-montado-INSTA.'},
-            {'quando': 'C. Versão do FACE', 'texto': 'Duplique o projeto e troque só o começo: o tsunami curto, nora47-PRE-A ESPELHADO (~4 s)',
+            {'quando': 'B. Versão do INSTA', 'texto': 'Pré-gancho: o envelope já cortado (d1211-PRE-envelope-0.8a4.2.mp4, ~3,4 s, que eu te mandei), corte seco',
+             'como': 'No começo, antes do Take 1 (o d1211-T01b-curto-celular, do 1.1), sem música por baixo. Exporte SEM texto como ' + f'{nn}-montado-INSTA.'},
+            {'quando': 'C. Versão do FACE', 'texto': 'Duplique o projeto e troque o começo: o tsunami curto, nora47-PRE-A ESPELHADO (~4 s), e o Take 1 pelo piloto d1211-T01b-PILOTO-12-360p (mesma fala, Omni 1.2)',
              'como': 'O que fez o nora55 virar o maior do Face (Clone R32); espelhado para não abrir igual ao longo das 16h. Exporte SEM texto como ' + f'{nn}-montado-FACE.'},
             {'quando': '1. Nas duas versões', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB, a partir do Take 1', 'como': 'No pré-gancho, só o som dele.'},
             {'quando': '2. Me mandar', 'texto': 'Os 2 arquivos aqui no chat do Code (ou link do Drive)', 'como': f'Eu ponho os textos e devolvo o {nn}-final (Insta) e o {nn}-final-FACE.'}]
@@ -401,9 +401,15 @@ def montar(n):
             dono = 60 if k == 'S' else 61
             pecas.append({'nome': nome(k), 'tipo': 'take', 'status': 'gerar', 'creditos': 12 if dur(k) == '8' else 15, 'descricao': f'Para o nora{dono}: “{F[k]}”'})
     if n == 59:
-        pecas += [{'nome': 'd1211-PRE-envelope-IMG e d1211-PRE-envelope', 'tipo': 'pré-gancho', 'status': 'gerar', 'creditos': 24, 'descricao': 'O envelope selado que se abre sozinho numa explosão de luz dourada (só para o curto do Insta, nora60; no lugar da vela).'},
-                  {'nome': 'd1211-POV-lago-1 a 4', 'tipo': 'imagem', 'status': 'gerar', 'creditos': 0, 'descricao': 'As paisagens do POV de amor (nora61).'},
-                  {'nome': 'd1211-T01b-PILOTO-12-360p', 'tipo': 'piloto', 'status': 'gerar', 'creditos': 10, 'descricao': 'O Take 1 do curto no Omni 1.2 em 360p, para comparar.'}]
+        # 12/11 ~14h15 (aluno): as 3 peças à mão já foram feitas e mandadas; aparecem como "reutilizar" (verde).
+        pecas += [{'nome': 'd1211-PRE-envelope-IMG e d1211-PRE-envelope', 'tipo': 'pré-gancho', 'status': 'reutilizar',
+                   'onde': 'Já feito (a 3ª imagem; o vídeo aprovado). Eu te mandei o trecho cortado, d1211-PRE-envelope-0.8a4.2.mp4: é ele que vai no começo do nora60 do Insta.',
+                   'descricao': 'O envelope selado que se abre sozinho numa explosão de luz dourada (só para o curto do Insta, nora60; no lugar da vela).'},
+                  {'nome': 'd1211-POV-lago-1 a 4', 'tipo': 'imagem', 'status': 'reutilizar', 'onde': 'Já feitas e mandadas: as 4 estão comigo para montar o nora61.',
+                   'descricao': 'As paisagens do POV de amor (nora61).'},
+                  {'nome': 'd1211-T01b-PILOTO-12-360p', 'tipo': 'piloto', 'status': 'reutilizar',
+                   'onde': 'Já feito e aprovado (10 créditos; voz igual). Ele vira o Take 1 da versão do FACE do nora60.',
+                   'descricao': 'O Take 1 do curto no Omni 1.2 em 360p.'}]
     if v['prova']:
         pecas.append({'nome': 'avaliação da Karina', 'tipo': 'prova', 'status': 'reutilizar', 'onde': 'Eu ponho na edição, nos últimos 3 s do T04. Você não faz nada.'})
     tot = creditos(GERA) + 12 + 24 + 10  # a vela (12, já gerada) + o envelope x2 (24) + o piloto (10)
