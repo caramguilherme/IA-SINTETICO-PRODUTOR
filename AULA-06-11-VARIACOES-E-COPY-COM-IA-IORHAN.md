@@ -58,3 +58,12 @@ Transcrições: `MATERIAIS-CALL-06-11/videos-empilhamento-transcricoes.md`; quad
 - **Palavras de desejo claras:** "money", "abundance", "the life/love you want" sim; promessa de ganho e prazo de dinheiro continuam fora (restrição do Face, Maycon, 03/11).
 - **Mineração:** o conselho dele (fora da Appyon Creators) bate com o aviso oficial de 22/09 ("não copiar vídeo de quem vende Appyon"). As contas mineradas em 06/11 servem de formato e estrutura; as próximas devem incluir criadores reais de manifestação (TikTok, Instagram, YouTube).
 - **Love Reading:** reforça o 2º perfil no Love Reading (decisão adiada pelo aluno em 07/11 ~00h10; não propor de novo até ele trazer).
+
+## 8. Conferência com a transcrição inteira (o aluno colou de novo em 12/11 ~00h50)
+O resumo acima bate com a transcrição. O que tinha passado batido:
+1. **"Nem toda mulher vai ver esse vídeo hoje… se ele chegou até você, não passa: você foi escolhida"** e **"os seus pedidos, os seus sonhos vão ser respondidos"**: ele leu as duas frases numa variação feita pela IA e disse "funciona bem demais em manifestação, muito validado". O que ele condena (30/10, slide 8) é a predestinação com ameaça ("se não clicar, acabou tudo") e o "só para as escolhidas". **Para a Nora:** a predestinação saudável fica liberada no Take 1 e no CTA ("Not every woman will see this video today. If it found you, it's not by chance."), nunca com exclusão ou ameaça; o "chosen" da regra de copy passa a valer só nessa forma.
+2. **"Você sabe exatamente do que eu tô falando"**: a frase não nomeia a área (dinheiro, amor, trabalho) de propósito, para cada pessoa pôr o próprio desejo ("deixa genérico pra abraçar todo mundo"). **Para a Nora:** combina com o funil (o quiz mostra a área da vida que abre primeiro); entra no corpo novo.
+3. **"Vocês vão acertar mais empilhamento do que substituição"** (a substituição troca o coração do vídeo). **Para a Nora:** nos horários a 0 crédito, o empilhamento vem antes da troca de gancho.
+4. Formato interativo que vendeu muito entre os alunos: **"feche os olhos e respire fundo antes de ver esse vídeo"** (bate com o Take 1 do corpo novo da R25, "take a deep breath"). Numerologia (999, 222, 2027, 11/11) com chamada para o story também citada.
+5. A dor leve que ele preferiu à copy pesada dos alunos: **"dinheiro que entra e some"**, cansaço sem motivo ("essa segmentação de dor talvez funcione melhor que a que vocês estão usando, muito negativa e pesada"); "alguém torcendo contra você" fica fora na Nora (é olho gordo, medo).
+
