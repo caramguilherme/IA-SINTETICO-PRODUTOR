@@ -481,6 +481,22 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 ### 12/11/2026 01h16, INSTA nora52 (kit, o longo de 59 s, sem pré-gancho; 10/11 21h35, ~27h40)
 - **146 views, 36,5% nos 3 s, tempo médio 5 s num vídeo de 59 s, 0 visitas ao perfil**, 4 comentários; **Índia 45,2%**, EUA 21,9%; **45+ = 31,5% e 25-34 = 37,7%** (o público mais novo da Nora: sem o pré-gancho e com a abertura da data, o Insta testou com gente que não compra). O longo sem pré-gancho não segurou ninguém até o corpo: o tamanho do vídeo não ajuda se a abertura não prende.
 
+### 12/11/2026 01h18, INSTA nora51 e a conclusão dos 8 vídeos (nora51 a nora58)
+- **nora51 (10/11 19h30, ~29h50): 889 views, 48,7% nos 3 s, 6 s, 4 follows, 2 visitas ao perfil, 16 curtidas, 8 salvos; EUA 47,0%**; acima do reel típico da conta (~750). Foi o 1º post depois de ~19 h sem postar.
+- **Correção da leitura de 01h08:** o nora51 segurou nos 3 s o mesmo que o nora58 (48,7% x 52,5%) e fez 889 contra 130. **Com a mesma abertura, o que separa os dois é a sequência:** o nora51 veio depois de uma pausa; do nora52 em diante, cada vídeo saiu 2 a 3 h depois do outro (7 em ~24 h) e todos travaram entre 115 e 220. **O volume pesa, e muito**; a abertura em ~50% (contra 68% a 72% do nora48 ao nora50) é o 2º problema, não o 1º.
+| vídeo | postado | depois de | views | 3 s | EUA |
+|---|---|---|---|---|---|
+| nora51 | 10/11 19h30 | ~19 h de pausa | **889** | 48,7% | 47,0% |
+| nora52 | 21h35 | 2 h | 146 | 36,5% | 21,9% |
+| nora53 | 23h40 | 2 h | 146 | 41,7% | 55,5% |
+| nora54 | 11/11 01h39 | 2 h | 219 | 34,2% | 22,0% |
+| nora55 | 10h20 | 8h40 | 132 | 49,6% | 15,9% |
+| nora56 | 13h50 | 3h30 | 150 | 62,1% | 15,2% |
+| nora57 | 16h55 | 3 h | 116 | 47,6% | 19,1% |
+| nora58 | 19h25 | 2h30 | 130 | 52,5% | 25,8% |
+
+- **Para 12/11:** a grade de 3 por dia com 4 h entre eles (16h, 20h, 00h) é o principal ajuste; a abertura mais forte (tsunami inteiro + para quem é) vem junto. Com 1 dia de pausa no Insta (o último foi o nora58, 19h25 de 11/11), o longo das 16h de 12/11 chega como o nora51: depois de ~20 h sem post.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
