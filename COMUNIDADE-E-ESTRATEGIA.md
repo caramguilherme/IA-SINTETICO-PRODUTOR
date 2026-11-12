@@ -1365,3 +1365,7 @@ Arquivos: `HISTORICO-DISCORD/chat-appyon_11-11.md`, `vitorias-dolar_11-11.md`, i
 6. **O longo continua às 16h** (Caio1094: copy de 1 min 20 s para cima rendeu mais que 50 s a 1 min; o nosso longo de 67 s fez 1.460 a 2.011 no Insta).
 7. **Quem responder (3):** Resende (a régua do Plano Primeira Comissão é 100 views, não 200), Taques (a régua da avatar das aulas, Clone R19) e KAROLLYNE BRAZ (o nosso dado de 6 por dia numa conta só). Textos em `CONTATOS-ALUNOS.md` (11/11 ~20h30).
 
+### 12/11/2026 ~00h45 - Materiais da call de 06/11 (Iorhan) mandados pelo aluno: os 6 .md e os 8 vídeos de empilhamento
+- Os textos já estavam resumidos desde 07/11 (`AULA-06-11-VARIACOES-E-COPY-COM-IA-IORHAN.md`, 5b); agora ficam na pasta `MATERIAIS-CALL-06-11/`. Novos para nós: os **8 vídeos** (nunca baixados) e os **18 tipos de gancho do Stefan Georgi**. Análise na seção 5c da aula; 6 ganchos novos no `BANCO-DE-HEADLINES.md` (20 a 25).
+- **Para a Nora (decisão minha):** Takes 1 do corpo novo pelos tipos de gancho honestos (pergunta relevante, "this is why", erro comum sem medo, oportuno com a data, autoteste, curiosidade), virados para 2027; o longo ganha as perguntas de future pacing e o "that's exactly why" antes do CTA; o empilhamento (2 a 4 s de imagem do desejo + frase grande no alto, antes de um vídeo validado com 3 dias ou mais) preenche os horários sem avatar do Face (9h, 12h, 18h), sem nota de dinheiro no Face; legenda em caixa amarela fica para teste depois.
+

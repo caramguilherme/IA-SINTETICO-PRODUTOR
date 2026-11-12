@@ -887,6 +887,9 @@ Transcrições e folhas em `referencias-mineracao/soma_mundoespiritual_2026-11-1
 - **Fora:** "keep your mouth shut", "don't tell anyone", ameaça ("the blessings will turn their backs", "the energy breaks", "warning"), São Miguel, "the universe chose you", "in 7 minutes", os selos antes do CTA, "tomorrow at 11:11 a.m. you'll receive good news" (promessa), "free", "before they disappear", "the second part of this sign" (caiu no filtro do Flow em 10/11), cartas de tarô, "in a dormant power" (promessa de poder).
 - **Para depois (testes de visual, 0 ou poucos créditos):** o **papel com a data escrita à mão** (v23) como objeto numa cena nova (risco: o Flow deformar o texto); a legenda grande colorida no meio da tela (v25, v29) num teste de legenda; pré-gancho de ritual da casa (canela no copo, cúrcuma na pia, bueiro) já está na fila do `BIBLIOTECA-PRE-GANCHOS.md` em outra forma.
 
+### 49.12 Os 8 vídeos de empilhamento da call de 06/11 (Iorhan), baixados em 12/11 ~00h45
+Anúncios pagos de uma especialista de manifestação dos EUA (masterclass grátis; não vende Appyon). O mesmo corpo com 8 ganchos empilhados de 2 a 4 s (imagem de dinheiro com movimento + frase grande no alto). Ganchos, corpo e o que entra na Nora: `AULA-06-11-VARIACOES-E-COPY-COM-IA-IORHAN.md`, seção 5c; transcrições em `MATERIAIS-CALL-06-11/videos-empilhamento-transcricoes.md`.
+
 ### 49.S Stories das contas mineradas (o aluno manda junto com a grade, desde 06/11)
 Para montar o story da Nora a partir do que as contas que vendem fazem. Funil de cada conta: não dito (deduzir pelos reels).
 
