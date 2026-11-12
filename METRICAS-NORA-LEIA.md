@@ -555,6 +555,10 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **20 views, 20 viewers, 100% seguidores, 1 interação (1 curtida), 0 respostas, 0 envios, 0 atividade no perfil.** Navegação 19: próximo story 9 (foram para o `story-1211`, que tinha 3 viewers na hora), avançou 6, saiu 4. **Nenhum toque no link** (não aparece "link clicks" nas interações).
 - **Leitura:** igual à de 01h22. O story só chegou a seguidores, porque os reels do dia 11 levaram 1 pessoa ao perfil em ~530 views. O story-0311 (26 viewers, 5 toques = 19%) tinha o nora50 trazendo gente nova. **O gargalo continua sendo a ida do reel ao perfil:** o nora59 tem de trazer visitas ao perfil. Aí o `story-1211` (2027) mostra se o texto novo converte.
 
+### 12/11/2026 16h10, TRACKER DA APPYON (hoje, até 16h10; print do aluno)
+- **"Nenhum dado encontrado para o período selecionado": 0 clique em 12/11 até 16h10**, nas duas redes. Não vieram cliques da 2ª leva de directs com o link (~01h de 12/11), do link mandado à Abby no passo 2 (~11h40), dos reels parados do dia 11 nem dos stories (o `story-1111` fechou com 0 toque).
+- **Leitura:** a manhã e a tarde ficaram sem post novo no Insta (o nora59 saiu às 16h05), e o Face teve só o slideshow (4 views). Ainda não dá para julgar os directs em 2 passos (começaram às 11h30, 1 link entregue). **A decisão dos directs fica para o Tracker fechado de 12/11** (madrugada de 13/11), com o nora59, o nora60 e o nora61 no ar. Pela 15ª leitura, 0 do Face no dia fechado = parar os directs.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
