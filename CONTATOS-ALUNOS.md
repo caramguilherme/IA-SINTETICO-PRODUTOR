@@ -558,3 +558,12 @@ voltei pra 3 por dia no insta e hoje entrou a copy nova
 no teu insta os 6 por dia seguraram ou vc sentiu isso tb?
 ```
 
+## ENVIADO (12/11/2026 ~16h30; DM do Lucas Dusi, resposta à mensagem dele de 12/11 13h17 sobre os reason whys dos EUA; uma mensagem só)
+```
+opa mano, tudo certo e vc?
+faz mt sentido, aqui bateu com isso
+o corpo novo q postei hj vai nessa linha: o peso que ela carregou o ano todo e quando a energia dela alinha com esse novo capítulo, o que ela deseja começa a chegar
+e o cta fala de 2027, que o pessoal da appyon disse que dobrou a conversão da vsl
+assim q tiver número te mando
+```
+
