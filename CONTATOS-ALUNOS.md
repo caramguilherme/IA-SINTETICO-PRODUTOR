@@ -9,6 +9,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **11ª leitura (09/11):** respostas a sordisss (Índia: horário) e Eduarda Fernandes (texto do story) enviadas.
 - **joao (Sargento):** respondeu em 09/11 17h29 (ganchos + texto do story) e em 10/11 00h44 ("depende do gancho": usa com fala e sem fala; o que importa é prender nos primeiros segundos); fechamento enviado em 10/11 (~11h). **Voltar com o resultado do kit do portal (só fala x cena + fala) em ~12/11**, com 1 pergunta nova.
 - **Lucas Dusi:** respondeu em 10/11 14h49 (filtrar o público no body + reason why forte no CTA) e **em 10/11 18h13 a 18h27** (hook mais aberto, filtro no body; o exemplo do reason why: "para manifestar X você precisa de uma âncora física de manifestação… toque na minha foto"; "dá pra pesquisar com o GPT, Claude ou Gemini o que as pessoas acreditam que precisam pra manifestar"). **Agradecimento enviado em 10/11 ~23h10** (sem pergunta nova). Voltar com o resultado do kit e do CTA novo.
+- **17ª leitura (12/11 ~16h25):** respostas a th (duração dos vídeos), gabrielbfrota (taxa de clique das DMs no Face) e Wall (Flow implicando com a copy), no #chat-appyon, e parabéns ao Evair no #vitórias: enviadas (toda resposta sugerida conta como enviada).
 - **16ª leitura (12/11 ~01h):** resposta ao Vini BR (volume: 4 a 6 por dia com 2 h), no #chat-appyon: enviada (toda resposta sugerida conta como enviada).
 - **15ª leitura (11/11 ~20h30):** respostas a Resende (página do Face: a régua é 100 views), Taques (quando trocar a avatar) e KAROLLYNE BRAZ (vídeos por dia), no #chat-appyon: enviadas (toda resposta sugerida conta como enviada).
 - **14ª leitura (10/11 ~23h20):** respostas a Kellvin & Andressa (horário), Lorena Nunes (espelhado) e Chefinho (hashtag), no #chat-appyon: enviadas (toda resposta sugerida conta como enviada).
@@ -55,7 +56,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | Felps (felps_hori) | Um dos maiores de outubro, com uma conta só (Kassio); dias de ~5 mil cliques | DM do aluno em 03/11 15h08 (o que faz a pessoa sair do reels e ir pro story; "3k, 4k de views e 3 cliques por dia"). **Respondeu em 04/11 13h32: "Como está seus avatares mano?"** O aluno respondeu em 05/11 01h33 (versão dele): "to com uma só por enquanto, no insta e no face, rodando o manifestation desde 27/10 / vc acha que é a avatar que tá travando a ida pro story? / quer ver uma foto dela? ou algum vídeo?" | | Esperar. Se ele pedir: a `nora37-IMG` (quarto à noite) ou a `nora46-IMG` (estúdio) e o `nora47-final.mp4`. Sem resposta, não mandar outra | Se ajudar |
 | Marcus [MVM] | 1ª venda em 05/11 07h50 (#vitórias), depois de 5 avatares flopadas e "bem mais de 72" vídeos na 6ª (fora os flopados) | Respondeu em público (05/11 12h04 e 12h06): a 6ª avatar tem "algum elemento marcante, ou fora da curva, no rosto", sem nada "estilo Mortal Kombat"; o mais realista e natural possível, na voz e na animação | Teste da Nora sem a lua e as estrelinhas pintadas, com um traço real (sardas ou pinta), depois da janela de 40; 2º perfil realista com 1 traço real | No #vitórias, só reação (emoji); DM do aluno em 05/11 12h20 (com um vídeo da Nora). **Ele respondeu às 12h34 a 12h36:** "Mortal Kombat" são os efeitos absurdos (fogo num monte de sal e brota um goblin); o traço é "alguma coisa do corpo que faça parte da personalidade da avatar"; "pra mim deu mais certo fazer coisa realista"; "td é teste"; sobre pinta, sardas, cicatriz: "a ideia é essa mesmo". Resposta do aluno em 05/11 12h47 (o hook dele é realista ou com efeito?). **Ele, às 12h57:** "sempre realista", às vezes "uns trem nada a ver, mas que seja realista, nesse esquema de ritual"; o hook com a avatar fazendo algo (fogo no sal) "não é regra pra viralizar/vender": **o vídeo que vendeu foi sem, com o hook mais no texto**. 3ª mensagem do aluno em 05/11 13h17 (o texto do hook era "pra quem é" ou curiosidade?); ele, às 13h19: "Isso", "tento de tudo" (testa os dois tipos). **Fechamento enviado em 05/11.** Voltar em 2 ou 3 dias com o resultado do teste dos corpos ou do gancho realista | Se ajudar |
 | Ricardo Santana [MVM] (ricard0_santana) | Vende e responde sempre; usa o Muse AI com o prompt do Flow | DM desde 22/10: tirar a marca d'água do vídeo, testar hooks visuais novos e replicar o que tem mais views, uma semana postando todo dia antes de trocar a avatar (o plano de avatar mais velha caiu em 24/10, P40); 05/11 12h12: Muse com o prompt do Flow, conta por um vídeo do YouTube "sem cartão, sem verificação" | Hooks visuais novos a cada vídeo (placa, geodo, tsunami). **Muse: não seguimos o método de conta** (o Flow fica; o gargalo é o perfil, não a ferramenta) | Resposta do aluno em 05/11 12h46 (obrigado + hook pegou e ninguém vai ao perfil: body ou CTA?). **Ele respondeu às 12h51:** ~290 views é pouco para decidir; só com 800 a 1.000 views e ninguém indo ao story nem clicando ele toma uma decisão. **Fechamento enviado em 05/11.** Voltar em 2 ou 3 dias com o resultado do teste dos corpos | Se ajudar |
-| Wall Estevam [MVM] | Ajuda no chat (pré-prompt do lote, agendamento) | Não agenda no Face ("parece que a plataforma cria ferramenta pra flopar conta"); pré-prompt de lote no Omni | | **Resposta pública enviada em 06/11 03h10** (o quadro de validação); **ele agradeceu às 10h55** ("perfeito, obrigado irmão"). Fechado | |
+| Wall Estevam [MVM] | Ajuda no chat (pré-prompt do lote, agendamento; 12/11 14h55 perguntou como deixar o Flow menos implicante com a copy: **resposta pública enviada na 17ª leitura**) | Não agenda no Face ("parece que a plataforma cria ferramenta pra flopar conta"); pré-prompt de lote no Omni | | **Resposta pública enviada em 06/11 03h10** (o quadro de validação); **ele agradeceu às 10h55** ("perfeito, obrigado irmão"). Fechado | |
 | Bruno Freitas | Ajuda sempre no chat (CTA, gestos, restrição de DM de 28 dias) | Gestos de acordo com a copy; restrição de DM no Face não sai com a confirmação de identidade | | **Resposta pública enviada em 06/11 03h13** (lipsync: os ajustes da Nora). **Ele perguntou às 09h45:** "testou já com arquivo grande tipo de 4 min?". **Resposta enviada em 06/11** (9ª leitura) | Se ajudar |
 | rodrigo (1ª venda do Manifestation, #vitórias 05/11) | 1ª venda no Manifestation | | | **Parabéns enviado em 06/11** no #vitórias, com 1 pergunta (Insta ou Face). Se responder, só reagir | |
 | Caio1094 | Vende no Face e no Insta: 6 vendas em out. (1º mês) e 8 em 2 dias de nov. (06/11) | DM automática no Face (só "responder na DM", 3 automações, mensagem curta, sem promessa), 2 repetidos por dia dos que foram bem, 4 por dia rende melhor que 5 numa conta fraca, mesmo hook com outra copy foi de 800 para 50 mil | Uma variável por vez e variações sem crédito no Face (já em vigor) | **Parabéns enviado no #vitórias em 06/11** (9ª leitura), com 1 pergunta (face ou insta). Se responder, só reagir | Se ajudar |
@@ -68,6 +69,9 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | João Paulo | Pergunta no chat (10/11 00h01): vídeos diferentes para Face e Insta? | | | **Resposta pública enviada em 10/11** (12ª leitura) | |
 | Paulo Infante | Pergunta no chat (09/11 20h21): Página do Face com 7 de 12 vídeos acima de 100 views, já pode pôr link? | | | **Resposta pública enviada em 10/11** (12ª leitura) | |
 | Mateus Guisolffi | Pergunta no chat (09/11 20h08): Insta novo travado no "next" do nome | | | **Resposta pública enviada em 10/11** (12ª leitura) | |
+| th [MVM] | Pergunta no chat (12/11 16h02): qual a média de duração dos vídeos? | | | **Resposta pública enviada em 12/11** (17ª leitura: o nosso dado de 67 s x 20 s) | |
+| gabrielbfrota [MVM] | Pergunta no chat (12/11 13h13): 95 DMs no Face deram 6 cliques, é normal? | | | **Resposta pública enviada em 12/11** (17ª leitura: os nossos directs em 2 passos) | |
+| Evair | 1ª venda (#vitórias 12/11 13h30), 1 dia depois do 1º post, voltando de uma pausa desde maio; funil não dito | | | **Parabéns enviado no #vitórias em 12/11** (17ª leitura), com 1 pergunta (insta ou face). Se responder, só reagir | |
 | Vini BR | Pergunta no chat (11/11 21h27): posta 4 a 6 por dia com 2 h de intervalo, deveria postar menos? | | | **Resposta pública enviada em 12/11** (16ª leitura: o nosso dado de 6 por dia numa conta só de Insta) | |
 | Resende ♦ [MVM] | Pergunta no chat (11/11 19h26): página do Face com 12 vídeos sem passar de 200 views, descartar? | | | **Resposta pública enviada em 11/11** (15ª leitura: a régua do Plano Primeira Comissão é 100 views) | |
 | Taques__ | Pergunta no chat (11/11 14h10 e 18h53): 31 vídeos com uma avatar no LR, nenhum com 300 views | | | **Resposta pública enviada em 11/11** (15ª leitura: a régua da avatar das aulas, Clone R19) | |
@@ -500,5 +504,31 @@ aqui no insta, com 1 conta só, quando fui pra 6 por dia de 3 em 3h, cada vídeo
 antes, com 1 por dia, fazia 1,4 a 2 mil
 perguntei pro clone do gustavo e ele falou q numa conta só o insta divide a entrega entre posts próximos, o ideal seria uns 3 por dia com 4 a 5h entre eles
 no face os 6 por dia foram de boa
+```
+
+## ENVIADO (12/11/2026 ~16h25; respostas da 17ª leitura do Discord, no jeito do aluno)
+**1. th, no #chat-appyon (responder a mensagem dele de 12/11 16h02, "qual a média de duração dos vídeos de vocês?"):**
+```
+aqui os que mais deram view no insta tinham uns 67s, fizeram 1,6 a 2 mil views com tempo médio de 20s
+os curtos de 20s ficaram bem abaixo, mas eles tavam sem pré-gancho tb, então n dá pra culpar só a duração
+hoje tô testando um de 42s com tsunami de pré-gancho
+```
+**2. gabrielbfrota, no #chat-appyon (responder a mensagem dele de 12/11 13h13, "95 DMs enviadas e somente 6 clicks"):**
+```
+aqui no dia q mandei 8 dm no face vieram 3 cliques do face, mas tinha vídeo e story no ar junto, então n sei quanto foi só da dm
+agora tô mandando em 2 passos: a 1ª msg sem link, perguntando se ela quer a leitura, e o link só pra quem responde sim
+faço no máx uns 10 por hora, só pra mulher que comentou, cada texto diferente, pq tem gente tomando trava no messenger por atividade incomum
+```
+**3. Wall Estevam, no #chat-appyon (responder a mensagem dele de 12/11 14h55, "alguém sabe uma forma de ele ficar menos implicativo pra passar as copys?"):**
+```
+aqui o q travava era palavra específica, não a copy toda
+"private" numa selfie de regata não passava, troquei por "your reading" e foi
+frase de perda tipo "don't wait" e "this window closes" tb barrava
+e teve take q travou pela mão descendo pro colo na movimentação, deixei a mão parada no peito e passou
+```
+**4. Evair, no #vitórias-dólar (responder a mensagem dele de 12/11 13h30, a 1ª venda):**
+```
+parabéns mano!! 1 dia de post e já veio, insano
+foi no insta ou no face?
 ```
 
