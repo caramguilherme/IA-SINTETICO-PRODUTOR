@@ -2776,7 +2776,7 @@ Tudo no canal gravações do Discord. As aulas antes da 10 estão desatualizadas
 - Pasta PROSPERIDADE (anúncios de manifestação): [Google Drive](https://drive.google.com/drive/folders/1TyyV-KpfI87alfqbQRT1F5PDZ5-ZsdMf)
 - Copies do Copy day 30/09 (PDF): [Google Drive](https://drive.google.com/file/d/1XtAhvUMsxgBneGtIKZCl-wF1yOhXGbFv/view)
 - Transcrição das VSLs: [Manifestation](https://drive.google.com/file/d/1VfVxpReZxvY73ibSb5LVowfQ6iZgdxjf/view) · [Soulmate](https://drive.google.com/file/d/1LmDtHRqWFsxUcjRkop0F0PNx4YXgBrB0/view)
-- Mapa mental original: [whimsical.com](https://whimsical.com/mvm-legacy-apps-eua-global-Eio5doppEbxD9AJN34bM4r)
+- **Desde 12/11 o mapa das aulas é interno, no Arsenal de Materiais Appyon (https://central.mvmcreators.com.br/appyon), com busca pelo "Sumário"; os links do Whimsical abaixo foram aposentados.** Mapa mental original (antigo): [whimsical.com](https://whimsical.com/mvm-legacy-apps-eua-global-Eio5doppEbxD9AJN34bM4r)
 - Checar IP: [ipinfo.io](https://ipinfo.io/) · [IP2Location](https://www.ip2location.com/) · [Scamalytics](https://scamalytics.com/) · [mylocation.org](https://mylocation.org/)
 - Número pra verificação: [SMS Bear](https://smsbear.net/) · Suporte da Proxy Cheap (chamado): [formulário](https://support.proxy-cheap.com/hc/en-us/requests/new)
 - Proxy em uso: [Proxy Cheap](https://www.proxy-cheap.com/) (ISP static residential dedicated, EUA)
