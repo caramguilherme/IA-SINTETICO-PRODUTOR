@@ -201,19 +201,26 @@ def agente(ks):
     }
 
 
-# ------------------------------------------------------------------ peças fora do agente (pré-gancho da vela, paisagens do POV, piloto do 1.2)
-VELA_IMG = ('RAW photo, extreme close-up taken with a phone held about 25 centimeters away at the height of a light wooden home-office desk: a single plain white pillar candle '
-            'with an unlit black wick stands on the desk, a very thin wisp of smoke barely rising from the wick; beside it, two small clear quartz crystals lie still on the wood; '
-            'the room is dim, the daylight behind is softened by a sheer curtain on the right side of the image, cool grey light with deep soft shadows; the candle stands in the '
-            'lower middle of the image with the tip of the wick at about 45 percent of the image height; looks exactly like a real casual iPhone photo, slight phone grain, '
-            'everything in focus, no bokeh, no filter, natural colors; no person, no hand, no match, no lighter, no cards, no text, no logo, no watermark; '
-            'photorealistic, unretouched, candid, UGC style, vertical 9:16')
-VELA_VID = ('Use the supplied image as the first frame. Locked extreme close-up of the white pillar candle on the wooden desk, the phone held still with only a tiny natural handheld '
-            'sway, no zoom, no cuts. In the very first second a tiny golden spark crackles on the black wick by itself; at about one second the wick catches and a bright flame '
-            'blooms upward to about four centimeters tall with a soft whoosh, then keeps dancing and flickering, its warm amber glow spreading over the desk and making the two clear '
-            'quartz crystals beside it sparkle; the flame keeps moving in every second until the clip ends. No person, no hand, no match and no lighter appear; nothing else appears '
-            'or disappears; the candle and the crystals stay in place. AUDIO: close ASMR sound of the tiny spark crackle, a soft whoosh as the flame blooms, then a quiet wick '
-            'crackle; no music, no voice. Realistic phone video, natural colors, slight phone grain, no text, no captions, no logos.')
+# ------------------------------------------------------------------ peças fora do agente (pré-gancho do envelope, paisagens do POV, piloto do 1.2)
+# 12/11 ~13h30: a vela (d1211-PRE-vela) saiu fraca ("achei bem bosta, não prende atenção, não causa sensação de esperar o que vai acontecer"):
+# plano aberto em luz de dia, chama pequena, tudo acontece no 1º segundo e depois nada (furava as regras do BIBLIOTECA-PRE-GANCHOS: cena escura
+# em que o efeito é a luz, efeito grande, algo novo a cada segundo, macro). No lugar: o envelope selado com a luz dourada vazando, que cresce
+# e explode para fora (suspense → revelação; combina com "your 2027 reading is waiting"); um efeito só, que já começa no 1º quadro.
+ENV_IMG = ('RAW photo, extreme close-up taken at night with a phone held about 20 centimeters above a dark walnut wooden table: a single sealed cream-colored paper '
+           'envelope lies flat on the table, closed with a round golden wax seal in the middle of the flap; a warm golden light glows softly through the paper from inside '
+           'the envelope, and a thin bright golden line of light leaks out along the edge of the closed flap; the room around is almost completely dark, the only light '
+           'comes from inside the envelope, deep black shadows around it, a few tiny golden dust specks floating in the air; the envelope fills the middle of the image, '
+           'with the wax seal at about 50 percent of the image height; looks exactly like a real casual iPhone photo taken at night, slight phone grain, natural colors, '
+           'everything in focus, no bokeh; no person, no hand, no writing, no letters, no symbols, no stamp, no cards, no text, no logo, no watermark; photorealistic, '
+           'unretouched, candid, vertical 9:16')
+ENV_VID = ('Use the supplied image as the first frame. Locked extreme close-up of the sealed envelope on the dark wooden table, the phone held still with only a tiny '
+           'natural handheld sway, no zoom, no cuts. From the very first second the golden light inside the envelope pulses and grows brighter every second, the thin line '
+           'of light along the flap gets wider and brighter, and the paper trembles slightly as if something inside wants to come out; at about three seconds the golden '
+           'wax seal cracks in two by itself with a sharp snap, the flap flips open on its own and a powerful burst of warm golden light rays shoots up out of the '
+           'envelope toward the camera, lighting up the whole dark table, with glowing golden dust swirling and sparkling in the air until the clip ends. No person and no '
+           'hand appear; nothing else appears; the envelope stays in the same place. AUDIO: close ASMR sound of the paper trembling and a low humming tension that rises, '
+           'a sharp crack of wax at the snap, then a soft magical shimmer; no music, no voice. Realistic phone video at night, natural colors, slight phone grain, no text, '
+           'no captions, no logos, no writing on the envelope.')
 LAGO_IMG = ('RAW photo taken with a phone at golden hour: a quiet lake in the American countryside at sunset, calm water reflecting a soft peach and lavender sky, a small old wooden '
             'dock in the lower part of the image, tall grass at the edges, the warm low sun near the horizon on the left side of the image, a gentle haze; peaceful, romantic and '
             'hopeful mood; the upper 25 percent of the image is plain open sky with nothing in it; vertical 9:16; looks exactly like a real casual iPhone photo, slight phone grain, '
@@ -222,15 +229,15 @@ PILOTO = prompt_manual(F['S'], base_mov(10, GESTO['S'].format(volta=C['volta'], 
 
 EXTRAS = {
     'titulo_secao': 'Peças fora do agente (Flow, à mão)',
-    'conceito': ('Quatro peças rápidas, no mesmo projeto do Flow: a vela do pré-gancho do curto no Insta, as paisagens do POV de amor das 00h e o piloto do Omni 1.2 em 360p. '
+    'conceito': ('Quatro peças rápidas, no mesmo projeto do Flow: o envelope do pré-gancho do curto no Insta (no lugar da vela, que saiu fraca), as paisagens do POV de amor das 00h e o piloto do Omni 1.2 em 360p. '
                  'As imagens custam 0 crédito.'),
     'modo': 'Imagem: Flow → Imagem · 9:16 · Nano Banana Pro · x4, sem anexar nada. Vídeo: Flow → Vídeo → Frames → 9:16; Início = a imagem indicada; Fim = vazio.',
     'etapas': [
-        {'titulo': 'Imagem da vela (pré-gancho do curto no Insta)', 'nome': 'd1211-PRE-vela-IMG', 'tipo': 'img', 'anexar': 'nada',
-         'quadros': 'x4, 0 crédito. Escolha você mesmo a que tiver a vela mais nítida, o pavio bem visível e nenhuma mão ou texto; renomeie para d1211-PRE-vela-IMG.',
-         'prompt': VELA_IMG},
-        {'titulo': 'Vídeo da vela acendendo sozinha (8 s)', 'nome': 'd1211-PRE-vela', 'tipo': 'vid', 'duracao': 8,
-         'quadros': 'Omni 1.1 Flash · 720p · 8 s · x1 (12 créditos). Início = d1211-PRE-vela-IMG; Fim = vazio. Eu uso só 2 a 3 s dele.', 'prompt': VELA_VID},
+        {'titulo': 'Imagem do envelope (pré-gancho do curto no Insta; no lugar da vela)', 'nome': 'd1211-PRE-envelope-IMG', 'tipo': 'img', 'anexar': 'nada',
+         'quadros': 'x4, 0 crédito. Escolha a que tiver o quarto mais escuro, a luz dourada vazando pela aba e nenhuma mão, letra ou desenho no envelope; renomeie para d1211-PRE-envelope-IMG.',
+         'prompt': ENV_IMG},
+        {'titulo': 'Vídeo do envelope que se abre sozinho com a luz (8 s)', 'nome': 'd1211-PRE-envelope', 'tipo': 'vid', 'duracao': 8,
+         'quadros': 'Omni 1.1 Flash · 720p · 8 s · x2 (24 créditos: o efeito é difícil, 2 chances). Início = d1211-PRE-envelope-IMG; Fim = vazio. Mande os 2: eu escolho e uso ~3 s (a luz crescendo e a explosão).', 'prompt': ENV_VID},
         {'titulo': 'Paisagens do POV de amor (00h)', 'nome': 'd1211-POV-lago-1 a 4', 'tipo': 'img', 'anexar': 'nada',
          'quadros': 'x4, 0 crédito. Baixe as 4 (se alguma tiver pessoa, texto ou defeito, gere de novo). Eu monto o POV com elas.', 'prompt': LAGO_IMG},
         {'titulo': 'Piloto do Omni 1.2 em 360p (o Take 1 do curto, duplicado)', 'nome': 'd1211-T01b-PILOTO-12-360p', 'tipo': 'vid', 'duracao': 10,
@@ -303,7 +310,7 @@ def montar(n):
         'ocultar_bloco_agente_imagem': True,
         'roteiro': {'id': f'{nn}-DIA-1211-{v["tipo"].upper()}',
                     'titulo': f'{nn} · 12/11 (quinta), {hora_curta} · ' + {'longo': 'o longo do corpo novo (tsunami inteiro, com a avaliação da Karina)',
-                                                                           'curto': 'o curto do corpo novo (2 versões: vela no Insta, tsunami no Face)',
+                                                                           'curto': 'o curto do corpo novo (2 versões: envelope no Insta, tsunami no Face)',
                                                                            'pov': 'POV de amor (só a voz da Nora sobre paisagem)'}[v['tipo']],
                     'duracao_total': {'longo': 50, 'curto': 25, 'pov': 28}[v['tipo']],
                     'descricao_instagram': v['insta'], 'descricao_face': v['face']},
@@ -370,8 +377,8 @@ def montar(n):
     elif v['tipo'] == 'curto':
         p['edicao_linha'] = [
             {'quando': 'A. Antes de tudo', 'texto': f'Projeto novo no CapCut com o {corte}', 'como': 'É o vídeo que saiu da FusionZ.'},
-            {'quando': 'B. Versão do INSTA', 'texto': 'Pré-gancho: a vela (d1211-PRE-vela), só 2 a 3 s, corte seco',
-             'como': 'No começo, antes do Take 1, sem música por baixo. Use o trecho em que a chama acende (o 1º ao 3º segundo). Exporte SEM texto como ' + f'{nn}-montado-INSTA.'},
+            {'quando': 'B. Versão do INSTA', 'texto': 'Pré-gancho: o envelope (d1211-PRE-envelope, o que eu escolher dos 2), ~3 s, corte seco',
+             'como': 'No começo, antes do Take 1, sem música por baixo. Eu te digo o trecho exato (a luz crescendo até a explosão; o corte logo depois que a luz explode). Exporte SEM texto como ' + f'{nn}-montado-INSTA.'},
             {'quando': 'C. Versão do FACE', 'texto': 'Duplique o projeto e troque só o começo: o tsunami curto, nora47-PRE-A ESPELHADO (~4 s)',
              'como': 'O que fez o nora55 virar o maior do Face (Clone R32); espelhado para não abrir igual ao longo das 16h. Exporte SEM texto como ' + f'{nn}-montado-FACE.'},
             {'quando': '1. Nas duas versões', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB, a partir do Take 1', 'como': 'No pré-gancho, só o som dele.'},
@@ -394,19 +401,19 @@ def montar(n):
             dono = 60 if k == 'S' else 61
             pecas.append({'nome': nome(k), 'tipo': 'take', 'status': 'gerar', 'creditos': 12 if dur(k) == '8' else 15, 'descricao': f'Para o nora{dono}: “{F[k]}”'})
     if n == 59:
-        pecas += [{'nome': 'd1211-PRE-vela-IMG e d1211-PRE-vela', 'tipo': 'pré-gancho', 'status': 'gerar', 'creditos': 12, 'descricao': 'A vela acendendo sozinha (só para o curto do Insta, nora60).'},
+        pecas += [{'nome': 'd1211-PRE-envelope-IMG e d1211-PRE-envelope', 'tipo': 'pré-gancho', 'status': 'gerar', 'creditos': 24, 'descricao': 'O envelope selado que se abre sozinho numa explosão de luz dourada (só para o curto do Insta, nora60; no lugar da vela).'},
                   {'nome': 'd1211-POV-lago-1 a 4', 'tipo': 'imagem', 'status': 'gerar', 'creditos': 0, 'descricao': 'As paisagens do POV de amor (nora61).'},
                   {'nome': 'd1211-T01b-PILOTO-12-360p', 'tipo': 'piloto', 'status': 'gerar', 'creditos': 10, 'descricao': 'O Take 1 do curto no Omni 1.2 em 360p, para comparar.'}]
     if v['prova']:
         pecas.append({'nome': 'avaliação da Karina', 'tipo': 'prova', 'status': 'reutilizar', 'onde': 'Eu ponho na edição, nos últimos 3 s do T04. Você não faz nada.'})
-    tot = creditos(GERA) + 12 + 10
+    tot = creditos(GERA) + 12 + 24 + 10  # a vela (12, já gerada) + o envelope x2 (24) + o piloto (10)
     decisao = {
         'longo': [f'GERAR AGORA, numa sessão só do agente (contatocaram): os {len(GERA)} takes do dia (o longo, o Take 1 do curto e as 3 falas do POV de amor), mais as 4 peças à mão. Créditos: ~{tot}.',
                   'Montar: o tsunami INTEIRO + T01 a T05. A avaliação da Karina e as imagens do desejo eu ponho no T04.',
                   'Postar às 16h, ao vivo, no Insta (o nora59-final) e no Face (o nora59-final-FACE). No Face, logo depois, o comentário da Página com o link.',
                   'É o 1º post no Insta depois de ~20 h: se passar de 300 views, a conta não está no “limbo” (aula 39). Me mande os prints com ~3 h.'],
         'curto': ['Usa 3 takes do painel do nora59: T01b + T03 + T05 (~25 s), sem avaliação (como o nora55, Clone R32).',
-                  'Duas versões: Insta com a vela de 2 a 3 s; Face com o tsunami curto espelhado (o que ganhou lá).',
+                  'Duas versões: Insta com o envelope de ~3 s (a luz crescendo e explodindo; a vela saiu fraca); Face com o tsunami curto espelhado (o que ganhou lá).',
                   'Postar às 20h, ao vivo: Insta o nora60-final; Face o nora60-final-FACE e, logo depois, o comentário da Página com o link.'],
         'pov': ['Usa as 3 falas de amor do painel do nora59 (L1 + L2 + L3, ~28 s), só a voz, sobre as paisagens do lago.',
                 'Eu monto o POV inteiro (fundo, legenda, faixa); você só põe a música no fim.',

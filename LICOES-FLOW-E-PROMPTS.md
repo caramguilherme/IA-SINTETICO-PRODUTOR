@@ -545,3 +545,6 @@ If the generation of any video fails, please resubmit ONLY the item that failed 
 
 ## 11/11 ~19h - O CTA sem o "private" passou de primeira na noite
 - Os 5 takes da `noite1111-IMG` (regata sem moletom) saíram de primeira no agente, inclusive o T04 "This shift doesn't happen for every woman. Tap my photo and check my story to see what twenty twenty-seven holds for you.". Confirma a lição de 11/11 ~10h10: o gatilho era a palavra "private" falada, não a roupa nem o "Tap my photo". Na fala de CTA do Flow, seguir sem "private".
+
+## 12/11/2026 ~13h30, pré-gancho da vela: efeito pequeno, em luz de dia e resolvido no 1º segundo
+O `d1211-PRE-vela` (Omni 1.1 Flash, 8 s) fez o que o prompt pedia (a vela acendeu sozinha no 1º segundo) e não prendeu ninguém: o prompt pôs a vela numa mesa com luz de dia atrás da cortina, num plano em que a chama ocupa pouco do quadro, e não pediu nada depois da chama acender. O áudio veio quase mudo. **Para pré-gancho: quarto escuro em que o efeito é a única luz, o objeto enchendo o meio do quadro, a tensão crescendo a cada segundo e a revelação por volta do 3º segundo (o trecho que eu uso termina nela), e 2 gerações (x2) quando o efeito é difícil.** Detalhe em `BIBLIOTECA-PRE-GANCHOS.md` (12/11).
