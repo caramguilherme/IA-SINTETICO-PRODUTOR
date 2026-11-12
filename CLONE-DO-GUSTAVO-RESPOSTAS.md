@@ -467,7 +467,7 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 - **1º teste (13/11, sexta-feira 13, no longo): só riser + impact no começo**, como a aula ensina; o metálico na promessa e o sparkle ficam para um teste depois, se o 1º ajudar (uma variável por vez; menos é mais). **Medida: % que fica nos 3 s** (é o que o riser promete subir), contra os anteriores com o mesmo pré-gancho.
 - **Tempo:** o riser termina no quadro do corte (pico = corte). Tsunami curto (~4 s): riser de ~3 s, começando ~1 s depois do início; vela (2 a 3 s): o pré-gancho inteiro. **Impact** colado no fim do riser, no 1º quadro da fala; o woosh fica de alternativa (não os dois juntos). O "moan" segue fora (R13).
 - **Volume:** riser e impact um pouco acima da música; a música (o drone de sempre) entra depois do impact, com fade in de ~1 s, e fica em −18 dB até o teste de música (R13, item 2).
-- **Quem põe:** o aluno, no CapCut, na montagem (biblioteca de efeitos, como a aula ensina), já que ele monta lá o pré-gancho e a música; sem arquivo para transferir. Eu confiro no `montado` onde caem o pico e o impact (forma de onda pelo ffmpeg) antes de editar. Se ele preferir, eu ponho aqui com os mp3 de outubro.
+- ~~Quem põe: o aluno, no CapCut~~ **Corrigido (aluno, 12/11 ~13h05: "quem vai pôr o riser é você, eu não vou fazer nada no CapCut de riser"): eu ponho na edição (P45)**, com os sons grátis do Mixkit (`ferramentas-painel/ferramentas/sons/LEIA.md`), e **já em 12/11** (aluno: "já devemos usar os risers hoje, visto que não gerei nenhum vídeo/take ainda"), não em 13/11.
 
 ---
 

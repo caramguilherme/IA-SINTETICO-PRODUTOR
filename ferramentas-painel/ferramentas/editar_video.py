@@ -16,8 +16,14 @@ spec.json:
   {"tipo":"texto","ini":0,"fim":15.2,"x":245,"y":486,"tamanho":15,"texto":"11:11","cor":"#E53935"},
   {"tipo":"imagem","ini":20,"fim":24,"arquivo":"casal.jpg","x":0,"y":150,"largura":560,"fade":0.25,"borda":12},
   {"tipo":"legenda","ini":7.4,"fim":15.2,"palavras":[["TAURUS",7.4,7.9],["VIRGO",7.9,8.3]],"destaques":["TAURUS","VIRGO"],"y":-294,"tamanho_px":38}
- ]
+ ],
+ "sons": [{"som":"riser","pico_em":"corte"}, {"som":"impact","pico_em":"corte"}]
 }
+
+"sons" (12/11/2026, Clone R34; opcional): efeitos misturados ao áudio do montado, no tempo certo. "pico_em" é o segundo do
+vídeo em que cai o pico do som (o fim do riser, a batida do impact); "corte" acha sozinho o corte do pré-gancho para a fala
+(1ª troca de cena forte entre 1 e 9 s). "db" (opcional) é o volume do pico em relação à referência (a voz ou o pré-gancho, o mais alto; padrão em SONS). Sons em sons/.
+Sem "sons", o áudio é copiado sem mexer.
 """
 import importlib.util, json, os, re, subprocess, sys, tempfile
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
@@ -32,6 +38,11 @@ _spec = importlib.util.spec_from_file_location('estilos_video', os.path.join(AQU
 EST = importlib.util.module_from_spec(_spec); _spec.loader.exec_module(EST)
 TEMA = EST.tema(None)
 COM_ESTILO = False
+# Efeitos sonoros (Clone R34, 12/11/2026): riser de ~2,5 s que termina no corte do pré-gancho + impact (whoosh grave com batida) no
+# 1º quadro da fala. Mixkit, licença grátis de efeitos sonoros (sons/LEIA.md). db = pico do som em relação à referência: o mais alto
+# entre a voz e o som do pré-gancho (o pré-gancho costuma vir ~10 dB acima da voz; com a voz de referência, o riser sumia no tsunami).
+SONS_DIR = os.path.join(AQUI, 'sons')
+SONS = {'riser': ('riser-nora.wav', 0), 'impact': ('impact-nora.wav', 0), 'whoosh': ('whoosh-nora.wav', -8), 'sparkle': ('sparkle-nora.wav', -12)}
 
 
 def sonda(arq):
@@ -193,6 +204,55 @@ def blocos_legenda(palavras, max_pal=3):
     return res
 
 
+def janelas_db(arq, ini=0.0, fim=None, sr=16000, w=0.05):
+    """Nível (dBFS) do áudio em janelas de 50 ms, de ini a fim."""
+    import numpy as np
+    dur = ['-t', f'{fim - ini:.3f}'] if fim else []
+    raw = subprocess.run(['ffmpeg', '-v', 'error', '-ss', f'{ini:.3f}'] + dur + ['-i', arq, '-vn', '-ac', '1', '-ar', str(sr), '-f', 's16le', '-'],
+                         capture_output=True, check=True).stdout
+    a = np.frombuffer(raw, dtype=np.int16).astype(float) / 32768; n = int(sr * w)
+    return np.array([20 * np.log10(np.sqrt(np.mean(a[i:i + n] ** 2)) + 1e-9) for i in range(0, len(a) - n, n)]), w
+
+
+def achar_corte(arq):
+    """O corte do pré-gancho para a fala: a 1ª troca de cena forte (score > 0,4) entre 1 e 9 s."""
+    log = subprocess.run(['ffmpeg', '-hide_banner', '-t', '9', '-i', arq, '-vf', "select='gt(scene,0.4)',metadata=print", '-an', '-f', 'null', '-'],
+                         capture_output=True, text=True).stderr
+    for t in re.findall(r'pts_time:([0-9.]+)', log):
+        if float(t) >= 1.0: return float(t)
+    sys.exit('sons: não achei o corte do pré-gancho; ponha "pico_em" em segundos no spec')
+
+
+def filtros_sons(sp, idx0):
+    """Entradas e filtros do ffmpeg para misturar os efeitos ao áudio do montado (entrada 0)."""
+    corte = None; ins, fs, labs, rel = [], [], [], []
+    ref = None
+    for j, s in enumerate(sp['sons']):
+        arq, db_pad = SONS[s['som']] if s.get('som') in SONS else (s['arquivo'], -10)
+        arq = arq if os.path.isabs(arq) else os.path.join(SONS_DIR, arq)
+        pe = s['pico_em']
+        if pe == 'corte':
+            corte = corte if corte is not None else achar_corte(sp['entrada']); pe = corte
+        if ref is None:  # o mais alto entre a voz (depois do corte) e o som do pré-gancho (antes), percentil 90 das janelas
+            import numpy as np
+            e, _ = janelas_db(sp['entrada'], ini=corte if corte is not None else 0.0)
+            ref = float(np.percentile(e[e > -60], 90))
+            if corte is not None and corte > 1:
+                e, _ = janelas_db(sp['entrada'], ini=0.0, fim=corte)
+                ref = max(ref, float(np.percentile(e[e > -60], 90)))
+        e, w = janelas_db(arq); pico_arq = int(e.argmax()) * w; mx = float(e.max())
+        ganho = ref + s.get('db', db_pad) - mx
+        atraso = pe - pico_arq
+        cad = 'aformat=sample_rates=48000:channel_layouts=stereo'
+        if atraso < 0: cad += f',atrim=start={-atraso:.3f},asetpts=PTS-STARTPTS,afade=t=in:st=0:d=0.15'
+        else: cad += f',adelay={int(round(atraso * 1000))}:all=1'
+        ins += ['-i', arq]
+        fs.append(f'[{idx0 + j}:a]{cad},volume={ganho:.1f}dB[s{j}]'); labs.append(f'[s{j}]')
+        rel.append(f"{s.get('som', os.path.basename(arq))} pico em {pe:.2f}s ({s.get('db', db_pad)} dB da referência, {ref:.0f} dBFS)")
+    fs.append(f"[0:a]aformat=sample_rates=48000:channel_layouts=stereo[a0];[a0]{''.join(labs)}amix=inputs={len(labs) + 1}:normalize=0:duration=first,alimiter=limit=0.95[aout]")
+    return ins, fs, rel
+
+
 def main(spec_path):
     global TEMA, COM_ESTILO
     sp = json.load(open(spec_path, encoding='utf-8'))
@@ -228,10 +288,15 @@ def main(spec_path):
         if fade:
             filtros.append(f'[{src}]format=rgba,fade=t=in:st={a:.3f}:d={fade}:alpha=1,fade=t=out:st={max(a, b - fade):.3f}:d={fade}:alpha=1[f{i}]'); src = f'f{i}'
         filtros.append(f"[{ult}][{src}]overlay=0:0:enable='between(t,{a:.3f},{b:.3f})':eof_action=pass[v{i}]"); ult = f'v{i}'
+    audio = ['-c:a', 'copy']; rel = []
+    if sp.get('sons'):
+        ins, fs_a, rel = filtros_sons(sp, len(camadas) + 1)
+        args += ins; filtros += fs_a; audio = ['-c:a', 'aac', '-b:a', '192k']
     if filtros:
-        args += ['-filter_complex', ';'.join(filtros), '-map', f'[{ult}]', '-map', '0:a?']
-    args += ['-c:v', 'libx264', '-preset', sp.get('preset', 'medium'), '-crf', str(sp.get('crf', 18)), '-pix_fmt', 'yuv420p', '-c:a', 'copy', '-movflags', '+faststart', sp['saida']]
+        args += ['-filter_complex', ';'.join(filtros), '-map', f'[{ult}]' if camadas else '0:v', '-map', '[aout]' if sp.get('sons') else '0:a?']
+    args += ['-c:v', 'libx264', '-preset', sp.get('preset', 'medium'), '-crf', str(sp.get('crf', 18)), '-pix_fmt', 'yuv420p'] + audio + ['-movflags', '+faststart', sp['saida']]
     subprocess.check_call(args)
+    for r in rel: print('som:', r)
     for a in avisos: print('AVISO:', a)
     print('ok', sp['saida'], f'{len(camadas)} camadas', 'estilo:', sp.get('estilo', 'branco-classico (padrão antigo)') if isinstance(sp.get('estilo'), (str, type(None))) else 'sob-medida')
 
