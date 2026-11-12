@@ -569,4 +569,5 @@ def montar(n):
 
 
 for n in VIDEOS:
-    montar(n)
+    if n <= 58:  # 12/11: o nora59 e o nora60 de 11/11 não foram postados; os números 59 e 60 passaram para o dia 12 (build_dia_1211.py)
+        montar(n)

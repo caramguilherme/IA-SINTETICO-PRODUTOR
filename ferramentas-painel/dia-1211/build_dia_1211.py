@@ -1,8 +1,10 @@
-# Painéis do dia 12/11/2026 (quinta): nora61 (16h, o longo), nora62 (20h, o curto, 2 versões) e nora63 (00h, POV de amor).
+# Painéis do dia 12/11/2026 (quinta): nora59 (16h, o longo), nora60 (20h, o curto, 2 versões) e nora61 (00h, POV de amor).
+# 12/11 ~13h (pedido do aluno): os números seguem a ordem de postagem; o nora59 e o nora60 de 11/11 não foram postados, então hoje é 59, 60 e 61
+# (os painéis vão nos mesmos links do nora59 e do nora60 de 11/11; o nora61 no link que era do longo).
 # Grade nova (Clone R28 e R29): Insta 3 por dia (16h, 20h, 00h), o mesmo vídeo no Face nessas horas.
 # Corpo novo "the hardest part is over" + 2027 (Clone R25, R26), falas novas revisadas pelo Clone (R33).
 # Cena: a manha1111-IMG (a do nora55, o maior do Face; decisão de 12/11 ~12h05, R32: o que validou se mantém).
-# Todas as falas do dia saem numa sessão só do agente, no painel do nora61.
+# Todas as falas do dia saem numa sessão só do agente, no painel do nora59.
 # Uso (raiz do repositório): python3 -I ferramentas-painel/dia-1211/build_dia_1211.py
 import json, copy, re, pathlib
 
@@ -241,14 +243,14 @@ EXTRAS = {
 # ------------------------------------------------------------------ textos
 HASH = '#manifestation #lawofattraction #innerpeace #newchapter'
 VIDEOS = {
-    61: dict(hora='16h', tipo='longo', usa=['H', 'W', 'G', 'D', 'K'], prova='07-karina',
+    59: dict(hora='16h', tipo='longo', usa=['H', 'W', 'G', 'D', 'K'], prova='07-karina',
              caixa=('THURSDAY, NOVEMBER 12TH\nif this year felt heavy,\nthis message is for you', 'the hardest part of your year is over.'),
              insta=('If this video finds you on Thursday, November 12th, take a deep breath ✨\nThe hardest part of your year is over. Your private reading is waiting in my story 🔮\n'
                     f'Comment "peace" to claim it ✨\n{HASH}'),
              face=('The hardest part of your year is over, love ✨\nSee what 2027 holds for you: the link is in the comments 🔮\n' + HASH),
              fix_insta='Tap my profile picture above to see what 2027 holds for you in my stories ✨',
              fix_face=f'See what 2027 holds for you here ✨ 👉 {FB}'),
-    62: dict(hora='20h', tipo='curto', usa=['S', 'G', 'K'], prova=None,
+    60: dict(hora='20h', tipo='curto', usa=['S', 'G', 'K'], prova=None,
              caixa=('THURSDAY, NOVEMBER 12TH\nif you\'re waiting for\nthings to get lighter', 'this is for you.'),
              insta=('Holding your phone on Thursday, wondering if things will get lighter? This is for you ✨\nYour private reading is waiting in my story 🔮\n'
                     'Comment "lighter" to claim it ✨\n#manifestation #lawofattraction #newbeginnings #2027'),
@@ -256,7 +258,7 @@ VIDEOS = {
                    '#manifestation #lawofattraction #newbeginnings #innerpeace'),
              fix_insta='Tap my profile picture above to see what 2027 holds for you in my stories ✨',
              fix_face=f'Your 2027 reading is right here 🔮 👉 {FB}'),
-    63: dict(hora='00h (da noite de 12 para 13/11; 22h em Nova York, ainda quinta)', tipo='pov', usa=['L1', 'L2', 'L3'], prova=None,
+    61: dict(hora='00h (da noite de 12 para 13/11; 22h em Nova York, ainda quinta)', tipo='pov', usa=['L1', 'L2', 'L3'], prova=None,
              caixa=('if you\'re still hoping\nfor real love,\nthis is for you', 'hasn\'t forgotten you.'),
              insta=('The love you\'ve been hoping for hasn\'t forgotten you 💜\nYour private reading is waiting in my story 🔮\n'
                     'Comment "love" to claim it ✨\n#manifestation #lovemanifestation #soulmate #2027'),
@@ -286,12 +288,12 @@ def xy(x, y):
     return f'X {round(x / 100 * 720 - 360)} · Y {round(640 - y / 100 * 1280)}'
 
 
-NUMS = {61: [('222', 18, 10.5, 'alto à esquerda', 'branco', '#FFFFFF', 13), ('11:11', 82, 10.5, 'alto à direita', 'verde-limão', '#7CFF4F', 16), ('888', 18, 46.9, 'à esquerda, na altura do ombro', 'laranja', '#FF9F1C', 11)],
-        62: [('11:11', 82, 10.5, 'alto à direita', 'amarelo-ouro', '#FFD21F', 15), ('888', 18, 10.5, 'alto à esquerda', 'rosa-choque', '#FF4FD8', 12), ('222', 18, 46.9, 'à esquerda, na altura do ombro', 'ciano', '#3DE0FF', 11)]}
+NUMS = {59: [('222', 18, 10.5, 'alto à esquerda', 'branco', '#FFFFFF', 13), ('11:11', 82, 10.5, 'alto à direita', 'verde-limão', '#7CFF4F', 16), ('888', 18, 46.9, 'à esquerda, na altura do ombro', 'laranja', '#FF9F1C', 11)],
+        60: [('11:11', 82, 10.5, 'alto à direita', 'amarelo-ouro', '#FFD21F', 15), ('888', 18, 10.5, 'alto à esquerda', 'rosa-choque', '#FF4FD8', 12), ('222', 18, 46.9, 'à esquerda, na altura do ombro', 'ciano', '#3DE0FF', 11)]}
 
 
 def montar(n):
-    v = VIDEOS[n]; nn = f'nora{n}'; usa = v['usa']; gera = GERA if n == 61 else []
+    v = VIDEOS[n]; nn = f'nora{n}'; usa = v['usa']; gera = GERA if n == 59 else []
     hora_curta = v['hora'].split(' (')[0]
     perfil = copy.deepcopy(P46['perfil']); perfil.pop('teste', None)
     caixa, caixa_fim = v['caixa']
@@ -342,7 +344,7 @@ def montar(n):
                     'cor': '—', 'tamanho': 'cartão ~60% da largura', 'contorno': 'cantos arredondados e sombra leve',
                     'obs': 'No começo do T04 (“everything you desire begins to meet you”), ~1,5 s cada, antes da avaliação. Eu ponho (P45).'})
     if v['tipo'] == 'pov':
-        est.append({'nome': 'Fundo do POV', 'fonte': 'as 4 paisagens do lago (d1211-POV-lago-1 a 4), geradas no painel do nora61', 'cor': '—', 'tamanho': 'tela cheia, zoom lento',
+        est.append({'nome': 'Fundo do POV', 'fonte': 'as 4 paisagens do lago (d1211-POV-lago-1 a 4), geradas no painel do nora59', 'cor': '—', 'tamanho': 'tela cheia, zoom lento',
                     'contorno': '—', 'obs': 'Uma paisagem por frase (~7 s cada), troca com fusão curta. Sem a Nora na tela: só a voz. Eu monto tudo (P45).'})
     mt['estilos'] = est
     mt['regras'] = ['Hoje só o corpo muda (uma variável): os textos e os números seguem o visual de sempre.',
@@ -377,7 +379,7 @@ def montar(n):
     else:
         p['edicao_linha'] = [
             {'quando': '1. Só o corte', 'texto': f'Mande o {corte} (a voz) e as 4 paisagens do lago aqui no chat', 'como': 'Não precisa CapCut agora: eu monto o POV (paisagem + voz + legenda + faixa) e devolvo as 2 versões.'},
-            {'quando': '2. Música (depois que eu devolver)', 'texto': 'No CapCut: abra o nora63-final, ponha a música de sempre a −18 dB e exporte; o mesmo no nora63-final-FACE',
+            {'quando': '2. Música (depois que eu devolver)', 'texto': f'No CapCut: abra o {nn}-final, ponha a música de sempre a −18 dB e exporte; o mesmo no {nn}-final-FACE',
              'como': 'É o único passo seu na montagem do POV.'}]
 
     # ---------------- peças e resumo
@@ -386,14 +388,14 @@ def montar(n):
         if gera:
             pecas.append({'nome': nome(k), 'tipo': 'take', 'status': 'gerar', 'creditos': 12 if dur(k) == '8' else 15, 'descricao': f'“{F[k]}”'})
         else:
-            pecas.append({'nome': nome(k), 'de': f'{nome(k)} (do painel do nora61)', 'tipo': 'take', 'status': 'reutilizar', 'descricao': f'“{F[k]}”', 'fala': F[k]})
+            pecas.append({'nome': nome(k), 'de': f'{nome(k)} (do painel do nora59)', 'tipo': 'take', 'status': 'reutilizar', 'descricao': f'“{F[k]}”', 'fala': F[k]})
     for k in gera:
         if k not in usa:
-            dono = 62 if k == 'S' else 63
+            dono = 60 if k == 'S' else 61
             pecas.append({'nome': nome(k), 'tipo': 'take', 'status': 'gerar', 'creditos': 12 if dur(k) == '8' else 15, 'descricao': f'Para o nora{dono}: “{F[k]}”'})
-    if n == 61:
-        pecas += [{'nome': 'd1211-PRE-vela-IMG e d1211-PRE-vela', 'tipo': 'pré-gancho', 'status': 'gerar', 'creditos': 12, 'descricao': 'A vela acendendo sozinha (só para o curto do Insta, nora62).'},
-                  {'nome': 'd1211-POV-lago-1 a 4', 'tipo': 'imagem', 'status': 'gerar', 'creditos': 0, 'descricao': 'As paisagens do POV de amor (nora63).'},
+    if n == 59:
+        pecas += [{'nome': 'd1211-PRE-vela-IMG e d1211-PRE-vela', 'tipo': 'pré-gancho', 'status': 'gerar', 'creditos': 12, 'descricao': 'A vela acendendo sozinha (só para o curto do Insta, nora60).'},
+                  {'nome': 'd1211-POV-lago-1 a 4', 'tipo': 'imagem', 'status': 'gerar', 'creditos': 0, 'descricao': 'As paisagens do POV de amor (nora61).'},
                   {'nome': 'd1211-T01b-PILOTO-12-360p', 'tipo': 'piloto', 'status': 'gerar', 'creditos': 10, 'descricao': 'O Take 1 do curto no Omni 1.2 em 360p, para comparar.'}]
     if v['prova']:
         pecas.append({'nome': 'avaliação da Karina', 'tipo': 'prova', 'status': 'reutilizar', 'onde': 'Eu ponho na edição, nos últimos 3 s do T04. Você não faz nada.'})
@@ -401,14 +403,14 @@ def montar(n):
     decisao = {
         'longo': [f'GERAR AGORA, numa sessão só do agente (contatocaram): os {len(GERA)} takes do dia (o longo, o Take 1 do curto e as 3 falas do POV de amor), mais as 4 peças à mão. Créditos: ~{tot}.',
                   'Montar: o tsunami INTEIRO + T01 a T05. A avaliação da Karina e as imagens do desejo eu ponho no T04.',
-                  'Postar às 16h, ao vivo, no Insta (o nora61-final) e no Face (o nora61-final-FACE). No Face, logo depois, o comentário da Página com o link.',
+                  'Postar às 16h, ao vivo, no Insta (o nora59-final) e no Face (o nora59-final-FACE). No Face, logo depois, o comentário da Página com o link.',
                   'É o 1º post no Insta depois de ~20 h: se passar de 300 views, a conta não está no “limbo” (aula 39). Me mande os prints com ~3 h.'],
-        'curto': ['Usa 3 takes do painel do nora61: T01b + T03 + T05 (~25 s), sem avaliação (como o nora55, Clone R32).',
+        'curto': ['Usa 3 takes do painel do nora59: T01b + T03 + T05 (~25 s), sem avaliação (como o nora55, Clone R32).',
                   'Duas versões: Insta com a vela de 2 a 3 s; Face com o tsunami curto espelhado (o que ganhou lá).',
-                  'Postar às 20h, ao vivo: Insta o nora62-final; Face o nora62-final-FACE e, logo depois, o comentário da Página com o link.'],
-        'pov': ['Usa as 3 falas de amor do painel do nora61 (L1 + L2 + L3, ~28 s), só a voz, sobre as paisagens do lago.',
+                  'Postar às 20h, ao vivo: Insta o nora60-final; Face o nora60-final-FACE e, logo depois, o comentário da Página com o link.'],
+        'pov': ['Usa as 3 falas de amor do painel do nora59 (L1 + L2 + L3, ~28 s), só a voz, sobre as paisagens do lago.',
                 'Eu monto o POV inteiro (fundo, legenda, faixa); você só põe a música no fim.',
-                'Postar às 00h, ao vivo: Insta o nora63-final; Face o nora63-final-FACE e o comentário da Página com o link.'],
+                'Postar às 00h, ao vivo: Insta o nora61-final; Face o nora61-final-FACE e o comentário da Página com o link.'],
     }[v['tipo']]
     p['pecas'] = {'lista': pecas, 'decisao': decisao, 'titulo_decisao': 'Resumo'}
 

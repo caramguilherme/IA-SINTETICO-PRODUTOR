@@ -1,4 +1,6 @@
-# Roteiro do dia 12/11/2026 (quinta): nora61 a nora63 + o Face das 13h
+# Roteiro do dia 12/11/2026 (quinta): nora59 a nora61 + o Face das 13h
+
+**Numeração (pedido do aluno, 12/11 ~13h):** os números seguem a ordem de postagem. O nora59 e o nora60 de 11/11 não foram postados, então hoje é nora59 (16h), nora60 (20h) e nora61 (00h), nos links que eram do nora59 e do nora60 de 11/11 e no do longo; os artefatos de 12h35 com os números 62 e 63 foram excluídos.
 
 ## Leitura obrigatória (registro)
 12/11/2026 ~12h: painéis que trocam peças dentro de fórmulas testadas (a cena do nora55, o tsunami, a estrutura de 3 takes do nora55, o corpo do R26 já aprovado pelo Clone), então leitura focada (exceção 0 do `LEIA-TUDO-ANTES.md`), feita nesta sessão: `CLAUDE.md` inteiro; `LEIA-TUDO-ANTES.md`; `CLONE-DO-GUSTAVO-RESPOSTAS.md` R23 a R33; `FATOS-DO-ALUNO.md` (link e respostas, créditos, directs, links STORYIG e FACE); `METRICAS-NORA-LEIA.md` de 11/11 08h31 a 12/11 ~12h50; `ROTEIRO-DIA-1111-NORA55-60.md` (as falas e o que passou no filtro do Flow); `ferramentas-painel/dia-1111/build_dia_1111.py` inteiro (a cena da manhã, o LIVRE, a movimentação e o agente); `LICOES-FLOW-E-PROMPTS.md` (regras 16, 19, 23, 26, 27, a do "private" e a do CTA sem gesto); `BIBLIOTECA-PRE-GANCHOS.md` (regras de um efeito só e da vela); `BANCO-DE-HEADLINES.md` 20 a 25; `BRIEFING-MANIFESTACAO.md` (telas do funil v1.7 e 2027); as aulas 37, 39, 45 e a do Kobata de 11/11 (resumos desta sessão); `PAINEL-MODELO.html` (respostas do Face e pré-gancho).
@@ -7,12 +9,12 @@
 | Hora | Onde | Peça | Painel |
 |---|---|---|---|
 | 13h | Face | slideshow do desejo (chaves de casa e o casal), headline "Will trying harder bring you the life you want?" → "It's not about trying harder. It's about being ready to receive." → "Your 2027 reading: link in the comments" (0 crédito; eu fiz, o aluno põe a música) | `ferramentas-painel/dia-1211/slideshow/` |
-| 16h | Insta e Face | nora61, o longo: tsunami inteiro + T01 a T05, avaliação da Karina e imagens do desejo no T04 | https://claude.ai/artifact/DPohDaTejJbPSfEQXKQVUZ |
+| 16h | Insta e Face | nora59, o longo: tsunami inteiro + T01 a T05, avaliação da Karina e imagens do desejo no T04 | https://claude.ai/artifact/9RgVMXF9PzAzRmb3tzSNxw |
 | 18h | Face | empilhamento com o trecho do corpo A (sem data), quando o aluno mandar o `nora49-final` | (a fazer) |
-| 20h | Insta e Face | nora62, o curto: T01b + T03 + T05; Insta com a vela, Face com o tsunami curto espelhado | https://claude.ai/artifact/HfixC5TxtDMU6jAE9oCUYy |
-| 00h | Insta e Face | nora63, POV de amor: L1 + L2 + L3, só a voz, sobre 4 paisagens do lago | https://claude.ai/artifact/6tqdnwYUqvbNLqCgcJB7ge |
+| 20h | Insta e Face | nora60, o curto: T01b + T03 + T05; Insta com a vela, Face com o tsunami curto espelhado | https://claude.ai/artifact/AqKTeQyWJyXRDcWoeVGynT |
+| 00h | Insta e Face | nora61, POV de amor: L1 + L2 + L3, só a voz, sobre 4 paisagens do lago | https://claude.ai/artifact/DPohDaTejJbPSfEQXKQVUZ |
 
-## As falas (todas na `manha1111-IMG`, numa sessão só do agente, no painel do nora61)
+## As falas (todas na `manha1111-IMG`, numa sessão só do agente, no painel do nora59)
 | Take | Fala | Fonte |
 |---|---|---|
 | T01 | If this video finds you on Thursday, November 12th, take a deep breath: the hardest part of your year is over. | R25, R26 |

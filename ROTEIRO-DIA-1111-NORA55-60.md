@@ -73,3 +73,5 @@ nora55 https://claude.ai/artifact/K4WvdkrAHAuiyBMxv9t9WT · nora56 https://claud
 
 ## 11/11 ~16h10 - `story-1111` escolhida (a 3ª das 4)
 - Texto "Tap below: your private reading / is waiting for you on 11:11." em letra preta, 2 linhas, na parede clara acima da cabeça (~7% a 14%); adesivo "Open my reading" embaixo, no centro, sobre o jeans. Postar junto com o nora57 (~16h50), no Insta (STORYIG) e no Face (FACE). Amanhã (12/11), a mesma imagem com o texto do Clone R25.
+
+**12/11/2026 ~13h:** o nora59 e o nora60 deste dia não foram postados; os números passaram para os vídeos de 12/11 (`ROTEIRO-DIA-1211-NORA59-61.md`), nos mesmos links.
