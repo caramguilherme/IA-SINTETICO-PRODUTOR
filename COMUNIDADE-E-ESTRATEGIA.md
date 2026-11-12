@@ -1374,3 +1374,12 @@ Arquivos: `HISTORICO-DISCORD/chat-appyon_11-11.md`, `vitorias-dolar_11-11.md`, i
 - **09/11:** nada tinha passado; reforço do "texto na tela converte pouco" (o 3º do Insta às 00h volta a vídeo falado se não trouxer clique).
 - **11/11 (Kobata, nova):** `AULA-11-11-CALL-KOBATA-O-FUTURO.md`. Conversão vale mais que volume ("postar qualquer coisa: mais trabalho e menos resultado"); todos iniciantes em copy, aulas por trilha com o Iorhan; contingência (aula a vir); o Risely espera o payout próprio (chargeback alto, 25% retidos, multa de US$ 20 por chargeback); nota/invoice e imposto em dia. **Para a Nora:** confirma a grade de 12/11 e a regra de honestidade (promessa agressiva gera chargeback).
 
+### 12/11/2026 ~01h - Discord, 16ª leitura (chat-appyon de 11/11 20h21 a 12/11 00h08, 56 mensagens; vitórias-dólar sem mensagem nova desde 10/11 19h19, conferido até 12/11 00h45)
+Arquivos: `HISTORICO-DISCORD/chat-appyon_12-11-madrugada.md`, `vitorias-dolar_12-11-madrugada.md`, imagens em `HISTORICO-DISCORD/imagens/12-11-madrugada/` (7).
+- **Área de membros nova ("missões"):** Missão 01 Conheça o MVM, 02 Construa sua mentalidade, 03 Desenvolvendo a arte de vender, 05 Execução na prática (ex.: "Aula 3 - Animando o avatar e fazendo Lip Sync"), Alto escalão (mentorias), **Contabilidade para vendas nos EUA**. Módulo da Appyon sumido para alguns: atualizar a página (Kadu).
+- **Verificação por selfie em vídeo:** Insta pedindo "Confirm you're a real person with a video selfie" (com "Upload photo instead"); copyzilla: acontece mais no começo da conta, fazer a selfie em vídeo. Face só com webcam e recusando (Bruno Freitas); Wall: iVCam. **Para a Nora:** se pedir, é com o rosto do aluno (nunca a avatar nem documento falso); avisar antes.
+- **Vini BR (21h27):** posta 4 a 6 por dia com 2 h entre eles e pergunta se deveria postar menos com mais qualidade, "vide a call de hoje" (o Kobata). Sem resposta: é a nossa fase.
+- Perfil do Insta como conta Profissional: "orientação recomendada" (Kadu). Copy brasileira do portal circulando: "Acorda viu! 11/11 chegando… ele tá te avisando que o pior já passou" (Eric Veiga).
+
+**Para a Nora (decisão minha):** nada muda; a grade de 12/11 fica. **Quem responder (1):** Vini BR, com o nosso dado de volume (texto em `CONTATOS-ALUNOS.md`, 12/11 ~01h).
+
