@@ -455,6 +455,10 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **116 views, 47,6% nos 3 s (skip 52,4%), tempo médio 7 s, 0 follows, 0 visitas ao perfil**, 1 curtida, 2 comentários; 98,2% não seguidores; EUA 19,1%, Reino Unido 12,7%, Índia 6,4%; 45+ = 56,4%.
 - **O Insta parou de entregar com ~1h30 de vida** (views travados em ~115; o reel típico da conta chega a ~220 com 8 h). Mesmo padrão do nora58: a abertura segura ~50% nos 3 s e quase ninguém chega ao CTA; sem visita ao perfil, não há clique.
 
+### 12/11/2026 01h11, INSTA nora56 (13h50, ~11h20; prints do aluno; com a avaliação da Karen; legenda japonesa nas primeiras horas)
+- **150 views, 62,1% nos 3 s (o Insta marcou "strong hook"), tempo médio 8 s, 0 follows, 0 visitas ao perfil**; 4 curtidas e 4 comentários (3,0% cada: o melhor engajamento do dia), 1 repost, 1 salvo; **Índia 35,9%**, EUA 15,2%, Canadá 7,6%; 45+ = 72,4%.
+- A abertura do nora56 segurou mais (T01b "look at the time" + a caixa refeita acima dos olhos), mas a entrega parou em ~150 com ~3 h, com a Índia em 1º (legenda japonesa e horário da tarde) e 0 visita ao perfil.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
