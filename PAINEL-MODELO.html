@@ -410,11 +410,15 @@ function montarRespFace(){
   const r=Object.assign({},RESP_FACE,(pk&&pk.respostas_face)||{});
   $('rfAviso').textContent=r.aviso;
   const it=(tit,txt,i,pre)=>'<div class="item"><button class="cp" id="'+pre+i+'">Copiar</button><h3>'+esc(tit)+'</h3><div class="box">'+esc(txt)+'</div></div>';
-  const dmTxt=d=>d+'\n\n'+r.link;
+  const dois=Array.isArray(r.dm2);  // 12/11 (Clone R30): direct em 2 passos (1º sem link; o link só quando ela responder)
+  const dmTxt=d=>dois?d:d+'\n\n'+r.link;
+  const dm2Txt=d=>d.split('{link}').join(r.link);
   $('rfBox').innerHTML='<div class="mono">Resposta no comentário (sem link)</div>'+r.comentario.map((c,i)=>it('Versão '+(i+1),c,i,'rfC')).join('')
-    +'<div class="mono" style="margin-top:14px">Mensagem no direct (com o link do Face)</div>'+r.dm.map((d,i)=>it('Versão '+(i+1),dmTxt(d),i,'rfD')).join('');
+    +'<div class="mono" style="margin-top:14px">'+(dois?'Direct, passo 1 (sem link; troque [name] pelo primeiro nome)':'Mensagem no direct (com o link do Face)')+'</div>'+r.dm.map((d,i)=>it('Versão '+(i+1),dmTxt(d),i,'rfD')).join('')
+    +(dois?'<div class="mono" style="margin-top:14px">Direct, passo 2 (só depois que ela responder; com o link FACE inteiro)</div>'+r.dm2.map((d,i)=>it('Versão '+(i+1),dm2Txt(d),i,'rfE')).join(''):'');
   r.comentario.forEach((c,i)=>{$('rfC'+i).onclick=e=>copiar(c,e.currentTarget)});
   r.dm.forEach((d,i)=>{$('rfD'+i).onclick=e=>copiar(dmTxt(d),e.currentTarget)});
+  if(dois)r.dm2.forEach((d,i)=>{$('rfE'+i).onclick=e=>copiar(dm2Txt(d),e.currentTarget)});
 }
 
 /* ORDEM DE PRODUÇÃO: as seções seguem o passo a passo do caminho da produção (legenda e comentário fixado por último, antes de postar). */

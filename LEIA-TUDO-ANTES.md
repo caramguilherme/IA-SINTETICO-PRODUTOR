@@ -32,7 +32,7 @@ Decisão do aluno em 18/10/2026: **antes de TODO roteiro novo e antes de TODO pr
 
 **O que já foi feito (para não repetir)**
 - `METRICAS-NORA.csv` (métricas dos vídeos, atualizar a cada leitura) · `METRICAS-NORA-LEIA.md` (diário das leituras) · `BIBLIOTECA-DE-TAKES.md` (nomes das peças e regras de reaproveitamento) · `DNA Visual - Nora v2.md`
-- O `ROTEIRO-KIT-PORTAL-NORA51-54.md` e o `ROTEIRO-DIA-1111-NORA55-60.md` (os roteiros dos vídeos postados até o nora50, do nora36 ao nora49 e os testes do Face, foram para `arquivo/roteiros/` em 11/11; o resumo de cada vídeo está na `BIBLIOTECA-DE-TAKES.md` e os números no `METRICAS-NORA.csv`) · `RESERVA-ROTEIRO-*.md` (os 2 de Manifestation)
+- O `ROTEIRO-DIA-1211-NORA61-63.md` (12/11: o corpo novo "the hardest part is over" + 2027, o curto em 2 versões e o POV de amor; gerador em `ferramentas-painel/dia-1211/`), o `ROTEIRO-KIT-PORTAL-NORA51-54.md` e o `ROTEIRO-DIA-1111-NORA55-60.md` (os roteiros dos vídeos postados até o nora50, do nora36 ao nora49 e os testes do Face, foram para `arquivo/roteiros/` em 11/11; o resumo de cada vídeo está na `BIBLIOTECA-DE-TAKES.md` e os números no `METRICAS-NORA.csv`) · `RESERVA-ROTEIRO-*.md` (os 2 de Manifestation)
 
 **Só quando o pedido envolver**
 - `PLANO-MVM-LEGACY-APPYON.md` (desde 06/11/2026, a cópia PRINCIPAL do doc "Plano MVM Legacy – Appyon" do aluno, atualizada aqui a cada leitura do Discord, aula ou aviso: curso, Appyon, contas, links, story, Discord; consultar pela seção do assunto, ex.: "Cadastro na Appyon e links", "Funil Manifestation"; os limites de copy dele não valem aqui, P20 e P41)
