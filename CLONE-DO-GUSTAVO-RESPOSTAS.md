@@ -387,6 +387,25 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 
 ---
 
+## R30 (12/11, ~01h50): limbo, directs no Face, POV narrado e repost no Insta
+**Pergunta:** o contexto (nora50 1.674 e nora51 889; os 4 do Insta de 11/11 travados em 115 a 150; grade nova; Tracker de 11/11 com 3 cliques do Insta e 3 do Face depois dos directs) e 4 perguntas: o "limbo" do Dudu (aula 39) x saturação; limite e forma dos directs no Face; POV narrado x texto na tela e reaproveitar o áudio de uma fala já postada; repostar igual um reel que foi bem.
+
+**Resposta (resumo):**
+1. **Limbo x saturação:** o limbo de verdade é de conta que nasce travada (nunca passa de 10 a 50 views ou trava em ~100 nos primeiros 10 a 30 vídeos). A Nora já provou entrega (1.674 e 889): o dia 11 foi **saturação** (o ciclo de entrega de 4 a 8 h interrompido pelo post seguinte). **Insistir mais 10 vídeos na grade espaçada (3 a 4 dias); se 10 a 12 vídeos espaçados, com ganchos variados e boa retenção nos 3 s, ficarem cravados abaixo de 100 a 150 sem oscilar para cima, a conta estagnou** (aula 25; também 11, 31, 55). Antes de descartar: guardar o acervo e abrir **conta nova com a mesma Nora** (3 dias de aquecimento, 10 vídeos sem link; aulas 13 e 28).
+2. **Directs no Face:** ações em lote acionam o robô de spam (aula 35, Ricardo). **Limite manual: 8 a 12 por hora, no máximo 30 a 40 por dia, espaçados.** **Perguntar antes é melhor** ("Can I send you your reading?"): quando a pessoa responde, a Meta lê como conversa humana; link na 1ª mensagem a frio aumenta denúncia de golpe entre mulheres mais velhas dos EUA (Estrutura Facebook). O que mais converte no Face, segundo ele: o comentário da Página com o link (volume), o direct (a maior taxa) e o story (complementar, só seguidores) (Estrutura Facebook, aulas 11 e 35).
+3. **POV narrado converte "com folga" mais que texto na tela** (aula 70: "o texto na tela nunca converteu bem; é mais para viralizar a conta"). **Reaproveitar o áudio de um corpo já postado sobre visual novo não vira repetido**: é o método do AutoEditor (aulas 40, 57 e 28).
+4. **Repostar o arquivo idêntico no Insta: não** (o Gustavo tomou restrição postando o mesmo vídeo 5 ou 6 vezes; o Insta reconhece a republicação). Para reaproveitar: trocar a música (mantendo a voz), mudar a fonte ou a cor da legenda, cortar 1 s do fim ou ajustar o pré-gancho (aulas 14 e 28, Estrutura Facebook).
+
+**Para a Nora (12/11 ~02h):**
+- **Limbo: decisão em ~15/11, depois de 10 vídeos na grade nova** (16h, 20h e 00h de 12 a 15/11). O 1º sinal continua sendo o longo das 16h de hoje (300 ou mais: não é limbo). Conta nova com a mesma Nora só se a conta estagnar, e **com o aluno decidindo** (o 2º perfil está adiado por ele; e a Jessica contou na aula 45 que replicar avatar validado em outras contas deu errado para ela: o Clone e ela discordam).
+- **Directs no Face (adotado a partir de 12/11): em 2 passos.** 1ª mensagem sem link, perguntando se ela quer a leitura; o link FACE só quando ela responder. **No máximo ~10 por hora e 30 a 40 por dia, espaçados** (os números são do Clone, sem trecho citado; a regra de nunca 5 em 2 minutos continua). Modelos em `FATOS-DO-ALUNO.md` (Link e respostas).
+- **"O comentário da Página é o campeão" não bate com o nosso dado:** o comentário com o link FACE está em todo post do Face desde o fim de outubro e deu ~2 cliques em 2 semanas; os 3 de 11/11 vieram depois dos directs. O comentário fica (custa nada); quem decide é o Tracker.
+- **00h do Insta e horários sem avatar do Face: POV narrado no lugar do texto mudo** (aula 70 + Jessica, aula 45 + Gustavo, 09/11): paisagem ou céu + o áudio de um corpo que **não** foi ao ar nos últimos 3 a 5 dias naquela rede (nunca o corpo do dia, que satura: R28) + legenda; 0 crédito. Qual áudio e se a fala ainda bate com o funil de 2027 (sem cartas, sem portal 11:11 depois de 11/11) eu confiro na hora do painel. **"Não vira repetido" é afirmação do Clone:** o Face travou o nora50 (tsunami e corpo A iguais aos do nora48) em 23 views; o visual novo deve resolver, mas o 1º POV é teste e se olha a entrega no Face nas 3 primeiras horas.
+- **Repost de quem foi bem (nora50):** nunca o arquivo igual; se entrar, com a variação do Clone (música trocada, legenda com outra fonte, 1 s a menos, pré-gancho espelhado), e só como reserva das 00h quando não houver POV.
+- Fontes citadas e não conferidas aqui (o notebook só abre com o login do aluno): aulas 11, 13, 14, 25, 28, 31, 35, 40, 55, 57, 70 e Estrutura Facebook.
+
+---
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 
