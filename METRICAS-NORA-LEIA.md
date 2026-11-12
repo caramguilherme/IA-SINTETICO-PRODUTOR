@@ -533,6 +533,12 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **A conta ficou parada a madrugada toda:** nenhum vídeo do dia 11 passou de 190, e os do kit e o nora50 não se mexeram. A grade vai do nora58 (157) ao nora50 (1.676) (o aluno corrigiu o rótulo na hora).
 - Os detalhes desses (retenção, países, visitas) não mudam a decisão: o teste limpo é o longo das 16h, o 1º depois de ~20 h sem post no Insta (régua do limbo: 300 ou mais). Pedir os prints dele com ~3 h e ~24 h.
 
+### 12/11/2026 15h55 - Face (Biblioteca), antes do nora59 das 16h
+- **nora55: 3.992 views (+8,0x), 3.372 visualizadores, 40 seguidores, 56 comentários, 220 engajamentos, 53,5% nos 3 s, 8 s de tempo médio, ~29h34 de vida.** Ainda sobe, mas mais devagar (3.656 às 11h42: +336 em ~4 h).
+- **`slide1211` (o slideshow do desejo das 13h07): 4 views em ~2h48 (−0,6x)**, 2 visualizadores, 2 views de 3 s. **O slideshow sem avatar não pegou no Face.** Nos horários sem avatar do Face (9h, 12h, 18h), ele sai da fila. No lugar entram o POV narrado (o nora61 de hoje testa o formato) e o empilhamento. O slideshow só volta se o POV também não pegar.
+- **Parados:** o nora58 em 324 (~20h32, −0,1x, 42,9% nos 3 s), o nora56 em 258 (−0,3x), o nora57 em 153 (−0,2x) e o kit (nora51 113, nora52 24, nora53 111, nora54 43).
+- **Nada muda nos posts de hoje:** o nora59 (16h) e o nora60 (20h) já seguem o que fez o nora55 crescer (a `manha1111-IMG`, o tsunami e o Take 1 de data). Dashboard na versão 17.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
