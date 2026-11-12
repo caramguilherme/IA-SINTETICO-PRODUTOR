@@ -514,6 +514,20 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **Por 1.000 views:** Insta ~6 (3 cliques com ~530 views do dia); Face ~1 (3 cliques com ~2.700 views do dia, 2.033 só do nora55). O Face entrega mais, o Insta converte mais; os dois somaram o melhor dia em cliques desde a volta do story (09/11).
 - **Funil:** 2 de 6 terminaram o quiz (33%; em 10/11, 0 de 3); 0 checkout com 2 na VSL é o esperado (o botão da oferta só aparece aos 16:00 de ~24 min).
 
+### 12/11/2026 11h42, Face (Biblioteca de Conteúdo, print do aluno)
+| vídeo | vida | views | 3 s | médio | distr. | coment. | seguid. |
+|---|---|---|---|---|---|---|---|
+| nora55 (manhã, original, sem prova) | ~25h21 | **3.656** | **53,2%** | 8 s | **+7,7x** | 52 | **39** |
+| nora58 (noite, original, com a Younger) | ~16h17 | 322 | 42,9% | 6 s | −0,1x | 1 | 1 |
+| nora56 (-FACE, com a Karen) | ~21h53 | 258 | 41,9% | 5 s | −0,3x | 1 | 0 |
+| nora57 (-FACE) | ~18h49 | 152 | 43,4% | 5 s | −0,2x | 1 | 0 |
+| kit (nora51 a nora54) | 34 a 40 h | 113 / 24 / 111 / 43 | 17% a 33% | 3 a 4 s | −0,3x a −1,0x | 1 | 0 |
+| nora50 | ~59h33 | 28 | 35,7% | 22 s | −1,0x | 1 | 0 |
+
+- **O nora55 segue subindo: 2.033 → 3.656 em ~11 h** (+1.623), 39 seguidores novos (28 às 00h59), 52 comentários, 209 de engajamento; **os 3 s subiram de 45% para 53%** com o público mais largo. É, de longe, o maior vídeo da Nora em qualquer rede.
+- **O nora58 parou em ~320** (282 com ~5h30): o original da noite, com a prova, não repetiu o nora55. Diferenças: a cena (noite x manhã), a prova da Younger antes do CTA, o T02 e o T04 da noite e o horário (19h25 x 10h20; o nora55 foi o 1º do Face depois de ~8h30 sem post). Um par só não separa a causa; **o que se mantém é o que o nora55 tinha (R32): a `manha1111-IMG`, o tsunami curto no Face, 3 takes em ~24 s, sem prova.**
+- Os -FACE e o kit pararam. Nada muda nos painéis de hoje: a versão do Face do curto das 20h modela o nora55 (R32).
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
