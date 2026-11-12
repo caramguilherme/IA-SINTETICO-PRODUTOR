@@ -539,6 +539,9 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **Parados:** o nora58 em 324 (~20h32, −0,1x, 42,9% nos 3 s), o nora56 em 258 (−0,3x), o nora57 em 153 (−0,2x) e o kit (nora51 113, nora52 24, nora53 111, nora54 43).
 - **Nada muda nos posts de hoje:** o nora59 (16h) e o nora60 (20h) já seguem o que fez o nora55 crescer (a `manha1111-IMG`, o tsunami e o Take 1 de data). Dashboard na versão 17.
 
+### 12/11/2026 15h57 - Insta (grade do perfil, só views), antes do nora59
+- Parados desde as 11h50: nora58 167 (era 157), nora56 191 (187), nora55 138, nora57 118, nora54 219, nora53 146, nora52 151, nora51 889, nora50 1.676. O Insta ficou ~20h30 sem post: o nora59 das 16h é o teste do limbo (300 views ou mais = não é limbo). Detalhado só o nora58 (a base do nora59). Dashboard na versão 18.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
