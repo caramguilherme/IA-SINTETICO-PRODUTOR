@@ -431,6 +431,20 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **1 pessoa terminou o quiz** (foi para a VSL de ~24 min; o botão da oferta aparece aos 16:00). 0 checkout com 1 na VSL é o esperado.
 - **Directs do Face (aluno, 11/11 ~19h50): o link FACE foi no direct para as 8 pessoas que comentaram no nora55** (respostas do painel, antes de ~19h25). Até 19h45: **0 clique do Face.** Cedo (minutos a ~2 h), e direct de Página para quem nunca falou com ela pode cair em "Solicitações de mensagem". **Régua:** se o Tracker de 12/11 seguir com 0 do Face, os directs com link param (risco de bloqueio de 28 dias no Messenger sem retorno) e o link no Face fica só no story e no comentário da Página.
 
+### 12/11/2026 00h59, Face (Biblioteca de Conteúdo, print do aluno)
+| vídeo | vida | views | 3 s | médio | distr. | coment. | seguid. |
+|---|---|---|---|---|---|---|---|
+| nora55 (manhã, original, sem prova) | ~14h38 | **2.033** | 45% | 8 s | **+7,7x** | 38 | **28** |
+| nora58 (noite, original, com a Younger) | ~5h36 | 282 | 42% | 6 s | +0,3x | 1 | 1 |
+| nora56 (-FACE, com a Karen) | ~11h10 | 245 | 42% | 5 s | +0,2x | 1 | 0 |
+| nora57 (-FACE) | ~8h06 | 97 | 39% | 5 s | +0,0x | 1 | 0 |
+| kit (nora51 a nora54) | 23 a 29 h | 113 / 24 / 111 / 43 | 17% a 33% | 3 a 4 s | −0,6x a 0,0x | 1 | 0 |
+
+- **O nora55 dobrou desde 19h14 (910 → 2.033) e segue subindo (+7,7x):** o maior vídeo da Nora no Face, de longe, com 28 seguidores novos. O original da manhã (tsunami curto + cena nova + T01a do capítulo novo, sem prova) é o vídeo a repetir no Face com outro gancho a partir de 14/11 (3 dias, regra da R29).
+- **O nora58 (original da noite) começou melhor que os -FACE:** 282 com ~5h30 contra 219 e 31 deles. Os -FACE ficaram em 245 e 97: confirmam a R29 (variação no mesmo dia não pega).
+- **O nora59 e o nora60 não foram postados (aluno, 00h59):** o último post do dia 11 foi o nora58, nos dois.
+- **Comentários do nora55:** 38 no total (às 19h14 eram 17, com as 8 respostas do aluno e o da Página): há comentários novos para responder (sem link no comentário; o direct com link espera o Tracker de 12/11).
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
