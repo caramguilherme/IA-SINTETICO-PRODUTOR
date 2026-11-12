@@ -451,6 +451,10 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **Leitura:** sozinho no horário bom, o nora58 ainda está **abaixo do reel típico da conta** (~160 às 6 h). Então o volume não explica tudo: **a abertura está segurando menos** (52,5% nos 3 s contra 68% a 72% do nora48 ao nora50, com o mesmo começo da onda). O que mudou nos 3 primeiros segundos: a caixa do topo ("WEDNESDAY, NOVEMBER 11TH / if you keep seeing 11:11…" no lugar dos signos, "Aries, Leo, Sagittarius: …", que qualificava quem é) e, nos que ainda não tinham a onda, o gancho. Cedo para fechar: o reel típico tem 2ª onda perto de 12 h; régua com ~24 h (19h25 de 12/11).
 - **Para o corpo novo de 12/11 (decisão minha):** a caixa do topo e o Take 1 voltam a **dizer para quem é** (signo ou situação) logo no 1º quadro, como no nora48 ao nora50; o tsunami inteiro fica (R29).
 
+### 12/11/2026 01h10, INSTA nora57 (16h55, ~8h15; prints do aluno)
+- **116 views, 47,6% nos 3 s (skip 52,4%), tempo médio 7 s, 0 follows, 0 visitas ao perfil**, 1 curtida, 2 comentários; 98,2% não seguidores; EUA 19,1%, Reino Unido 12,7%, Índia 6,4%; 45+ = 56,4%.
+- **O Insta parou de entregar com ~1h30 de vida** (views travados em ~115; o reel típico da conta chega a ~220 com 8 h). Mesmo padrão do nora58: a abertura segura ~50% nos 3 s e quase ninguém chega ao CTA; sem visita ao perfil, não há clique.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
