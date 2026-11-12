@@ -475,6 +475,9 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 ### 12/11/2026 01h14, INSTA nora54 (kit, sem pré-gancho; 11/11 01h39, ~23h35: quase a régua de 24 h)
 - **219 views, 34,2% nos 3 s, tempo médio 5 s, 0 follows, 0 visitas ao perfil**; Índia 34,4%, EUA 22,0%; 45+ = 44,9%. Parou em ~220 desde a manhã de 11/11 (o reel típico chega a ~550 em 24 h). Fecha o kit sem pré-gancho como o pior bloco em retenção (34% nos 3 s).
 
+### 12/11/2026 01h15, INSTA nora53 (kit, curto, sem pré-gancho; 10/11 23h40, ~25h35)
+- **146 views, 41,7% nos 3 s, tempo médio 4 s, 1 visita ao perfil, 0 follows; EUA 55,5%** (a maior fatia de EUA da Nora, postado às 23h40), Índia 21,9%. Parou em ~140 logo no começo; o reel típico da conta naquela altura chegava a ~750 em 24 h.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
