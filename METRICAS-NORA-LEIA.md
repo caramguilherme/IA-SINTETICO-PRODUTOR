@@ -472,6 +472,9 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **O mesmo nora55 fez 132 no Insta e 2.033 no Face:** o vídeo não é ruim; no Insta, o teste das primeiras horas não passa (abertura em ~50% nos 3 s, tempo médio de 5 a 8 s num vídeo de 24 s, quase nenhum envio ou salvo).
 - **O que muda no corpo novo de 12/11 (decisão minha, sem montar painel até o aluno liberar):** (1) o tsunami inteiro (8 s) no longo, como no nora48 ao nora50 (68% a 72% nos 3 s); (2) a caixa do topo e o Take 1 dizendo para quem é desde o 1º quadro (signo ou situação), no lugar da data; (3) o longo (~50 s) às 16h, com as perguntas de desejo e o motivo antes do CTA, para o tempo médio voltar a 15 s ou mais; (4) 3 por dia no Insta, só à tarde e à noite.
 
+### 12/11/2026 01h14, INSTA nora54 (kit, sem pré-gancho; 11/11 01h39, ~23h35: quase a régua de 24 h)
+- **219 views, 34,2% nos 3 s, tempo médio 5 s, 0 follows, 0 visitas ao perfil**; Índia 34,4%, EUA 22,0%; 45+ = 44,9%. Parou em ~220 desde a manhã de 11/11 (o reel típico chega a ~550 em 24 h). Fecha o kit sem pré-gancho como o pior bloco em retenção (34% nos 3 s).
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
