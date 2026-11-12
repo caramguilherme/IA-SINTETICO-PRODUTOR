@@ -438,6 +438,21 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 
 ---
 
+## R33 (12/11, ~11h50): falas novas de hoje revisadas (curto das 20h, POV de amor, sexta-feira 13)
+**Pergunta:** avaliar, antes de gerar, o Take 1 do curto das 20h (A predestinação x B situação), a narração do POV de amor das 00h (L1 a L3) e um Take 1 da sexta-feira 13, com as regras da conta (sem cartas, portal, prazo, medo, pedido de comentário na fala nem "private").
+
+**Resposta (resumo):**
+1. **Curto das 20h: a B** (estado emocional concreto, "holding your phone… wondering if…", em vez do clichê de predestinação; e o "lighter" casa com a névoa que sai no T3; aulas 18, 65, 68/69). Final: **"If you're holding your phone on Thursday, November 12th, wondering if things will get lighter, this is for you."**
+2. **POV de amor: congruente com o funil** (tela 3 do quiz: "What does your heart want most right now?", com amor e paz; aulas 18, 46, 65, 68/69). Finais: L1 **"If this finds you tonight, take a breath: the love you've been quietly hoping for hasn't forgotten you."** · L2 **"Imagine waking up next to someone who stays, who chooses you every day, and makes home finally feel like peace."** · L3 **"Tap my photo and check my story: three quick questions show what twenty twenty-seven brings to your love life."** (a ação vem primeiro).
+3. **Sexta-feira 13: funciona, mas sem "don't worry… not unlucky"** (planta o medo antes de desfazer; aulas 46, 65, 66). Final: **"If you see this on Friday the 13th, take a breath: today is where your luck finally turns around."**
+
+**Para a Nora (12/11 ~11h55):**
+- **As falas entram como o Clone devolveu, com 2 ajustes meus:** (a) **L1 sem o "take a breath"**, porque o longo das 16h abre com "take a deep breath" e o mesmo estado no mesmo dia satura (R31): **"If this finds you tonight, the love you've been quietly hoping for hasn't forgotten you."**; (b) **L2 com uma reserva** se o filtro do Flow barrar o "waking up next to someone" (o filtro já barrou cama e quarto no prompt em 10/11): **"Imagine someone who stays, who chooses you every single day, and makes your home finally feel like peace."**
+- Conferidas contra as regras: sem cartas, sem portal, sem "private", sem prazo de resultado, CTA em 3 partes no L3 (a ação, o texto do funil, o que ela ganha).
+- **A sexta-feira 13 fica para os Takes 1 de amanhã** (16h e 20h de 13/11); a 00h de 13/11 aqui ainda é quinta nos EUA.
+
+---
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 
