@@ -453,6 +453,24 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 
 ---
 
+## R34 (12/11, ~12h58): risers (importância, quais, em que momento)
+**Pergunta (do aluno):** "qual a importância de usar o som 'risers' nos vídeos? quais usar? em quais momentos? o que você tem sobre isso?"
+
+**Resposta (resumo):**
+1. **Por quê:** tensão e expectativa que sobem até um pico; é "scroll stopper" e sobe o hook rate (vídeo que começa seco, só com o avatar falando, perde retenção; o combo efeito visual + efeito sonoro no começo foi um divisor de águas); prepara o cérebro para a revelação no pico.
+2. **Quando (a fórmula):** pré-gancho com riser → transição com impact → corpo com trilha. O riser entra no 1º segundo (pré-gancho ou começo do gancho, junto da headline), dura **1 a 3 s**, e **no pico vem o corte**: o riser acaba e entra um **impact** (som seco, "pum") ou um efeito curto de transição (woosh ou "moan"); aí a avatar começa a falar. A música mística ou emocional não compete com o riser: entra logo depois do corte e do impact, suave, por baixo da fala. Aulas 19, 40 (AutoEditor), 54 (HeyGen + Omni Flash), 57 e Estrutura Facebook.
+3. **Quais:** os grátis bastam. CapCut → Áudio → Efeitos sonoros, buscar "Riser" (ou "Rising") e "Impact"; YouTube: "Riser Sound Effect", "Riser Effect No Copyright", "Impact Sound Effect". Risers curtos, atmosféricos, de **2 a 4 s**; acima de 6 s cansa antes da fala.
+4. **Volume:** riser e impact um pouco acima da trilha, para o contraste; a música que entra depois a 20% a 25% do máximo, sem abafar a voz. Aulas 25, 54 e 57.
+
+**Para a Nora (12/11 ~13h):**
+- **Bate com a R13 e com o que a Nora fazia em outubro** (`PLANO-MVM`, "Fazer os vídeos"). O que muda: o Clone fala de **um riser só, no começo**; o riser metálico na promessa e o sparkle do mapa de 12/11 ~12h55 (`COMUNIDADE`) não aparecem nas aulas.
+- **1º teste (13/11, sexta-feira 13, no longo): só riser + impact no começo**, como a aula ensina; o metálico na promessa e o sparkle ficam para um teste depois, se o 1º ajudar (uma variável por vez; menos é mais). **Medida: % que fica nos 3 s** (é o que o riser promete subir), contra os anteriores com o mesmo pré-gancho.
+- **Tempo:** o riser termina no quadro do corte (pico = corte). Tsunami curto (~4 s): riser de ~3 s, começando ~1 s depois do início; vela (2 a 3 s): o pré-gancho inteiro. **Impact** colado no fim do riser, no 1º quadro da fala; o woosh fica de alternativa (não os dois juntos). O "moan" segue fora (R13).
+- **Volume:** riser e impact um pouco acima da música; a música (o drone de sempre) entra depois do impact, com fade in de ~1 s, e fica em −18 dB até o teste de música (R13, item 2).
+- **Quem põe:** o aluno, no CapCut, na montagem (biblioteca de efeitos, como a aula ensina), já que ele monta lá o pré-gancho e a música; sem arquivo para transferir. Eu confiro no `montado` onde caem o pico e o impact (forma de onda pelo ffmpeg) antes de editar. Se ele preferir, eu ponho aqui com os mp3 de outubro.
+
+---
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 

@@ -1401,3 +1401,4 @@ Arquivos: `HISTORICO-DISCORD/chat-appyon_12-11-madrugada.md`, `vitorias-dolar_12
   - POV sem avatar e slideshow: **transition SFX/whoosh** entre as paisagens ou telas + sparkle no texto que entra.
   - **Fora:** boom/bass drop e sub drop (o guia os liga a notícia pesada, revelação triste), heartbeat (tensão e ansiedade; P42), reverse (estranheza, jumpscare), glitch (cyberpunk).
 - **Quando:** teste próprio, a partir de 13/11 (sexta-feira 13), no longo; em 12/11 o nora59 já testa o corpo novo e o estilo visual (uma variável por vez, Clone R13: efeitos depois do visual).
+- **Atualizado às ~13h pela Clone R34:** o 1º teste é só riser + impact no começo, postos pelo aluno no CapCut na montagem; o riser metálico na promessa e o sparkle ficam para um teste depois (`CLONE-DO-GUSTAVO-RESPOSTAS.md`, R34).
