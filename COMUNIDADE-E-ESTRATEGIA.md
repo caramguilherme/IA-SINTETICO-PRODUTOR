@@ -1383,3 +1383,10 @@ Arquivos: `HISTORICO-DISCORD/chat-appyon_12-11-madrugada.md`, `vitorias-dolar_12
 
 **Para a Nora (decisão minha):** nada muda; a grade de 12/11 fica. **Quem responder (1):** Vini BR, com o nosso dado de volume (texto em `CONTATOS-ALUNOS.md`, 12/11 ~01h).
 
+### 12/11/2026 ~02h - Aulas 37, 39, 45 e 46 (Loom colado pelo aluno; as 3 primeiras o Clone não tem)
+- **Arquivos:** `AULA-10-08-ESTRUTURA-INSTAGRAM.md` (37), `AULA-13-08-TALKYON-INSTAGRAM.md` (39), `AULA-03-09-ENTREVISTA-JESSICA-BENTO.md` (45). A 46 (04/09, funil de Manifestação) já estava toda no `BRIEFING-MANIFESTACAO.md`; o link da pasta de criativos não está na transcrição (foi no chat da call).
+- **O que confirma a grade de 12/11:** o Kaique ("às 17h, 18h dificilmente pega a Índia"); "o Instagram entrega em lotes" (mesmo mecanismo da Clone R28); a Jessica produziu demais e as vendas caíram (o volume não salva, como o Kobata disse em 11/11); as copies longas foram as melhores dela (o longo das 16h).
+- **Sinal a vigiar:** o "limbo" do Dudu (conta que trava em 100 a 150 views, faça o que fizer, se descarta). Os 4 do dia 11 travaram em 115 a 150, mas o nora50 e o nora51 vieram antes com 1.674 e 889: volume, não limbo. Teste: o longo das 16h de 12/11 (300+ = não é limbo; abaixo de 200 com o espaço novo = levar ao aluno e ao Clone; a avatar não muda, R19 e R21).
+- **Proposta (para quando o aluno liberar os painéis):** o 00h do Insta e os horários sem avatar do Face como **POV narrado** (paisagem + a voz da copy + legenda, o formato que vendeu no 1º dia para a Jessica), a 0 crédito com o áudio de um corpo já gerado, em vez de texto mudo (o Gustavo, 09/11: texto na tela converte pouco).
+- **Fica fora (dados mais novos contra):** agendar (Bruno, Brisa) e o Short.io (aula 37); tom de ameaça (a Jessica viu que gera comentário, mas P42, ângulo positivo renova mais e promessa agressiva dá chargeback); Instagram Plus (só registro).
+- **Opcional, com o ok do aluno:** 2 fatores no Insta da Nora (por app autenticador, códigos de recuperação guardados fora do GeeLark), como o Bruno faz no fim do aquecimento.
