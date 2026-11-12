@@ -17,7 +17,8 @@ spec.json:
   {"tipo":"imagem","ini":20,"fim":24,"arquivo":"casal.jpg","x":0,"y":150,"largura":560,"fade":0.25,"borda":12},
   {"tipo":"legenda","ini":7.4,"fim":15.2,"palavras":[["TAURUS",7.4,7.9],["VIRGO",7.9,8.3]],"destaques":["TAURUS","VIRGO"],"y":-294,"tamanho_px":38}
  ],
- "sons": [{"som":"riser","pico_em":"corte"}, {"som":"impact","pico_em":"corte"}]
+ "respiro": 0.1,
+ "sons": [{"som":"riser","pico_em":"corte-0.1"}, {"som":"impact","pico_em":"corte"}]
 }
 
 "sons" (12/11/2026, Clone R34; opcional): efeitos misturados ao áudio do montado, no tempo certo. "pico_em" é o segundo do
@@ -42,7 +43,10 @@ COM_ESTILO = False
 # 1º quadro da fala. Mixkit, licença grátis de efeitos sonoros (sons/LEIA.md). db = pico do som em relação à referência: o mais alto
 # entre a voz e o som do pré-gancho (o pré-gancho costuma vir ~10 dB acima da voz; com a voz de referência, o riser sumia no tsunami).
 SONS_DIR = os.path.join(AQUI, 'sons')
-SONS = {'riser': ('riser-nora.wav', 0), 'impact': ('impact-nora.wav', 4), 'whoosh': ('whoosh-nora.wav', -8), 'sparkle': ('sparkle-nora.wav', -12)}
+# Escolhidos pelo aluno em 12/11 ~13h40 (teste de 5 risers e 3 impacts no nora55): riser = o 2 (orquestra dramática, tensão que explode no
+# fim), riser-lento = o 4 (o "riser sound effect" de outubro do aluno), alternados entre posts seguidos da mesma rede; impact = o B ajustado.
+SONS = {'riser': ('riser-nora.wav', 0), 'riser-lento': ('riser-lento-nora.wav', 0), 'impact': ('impact-nora.wav', 1),
+        'whoosh': ('whoosh-nora.wav', -8), 'sparkle': ('sparkle-nora.wav', -12)}
 
 
 def sonda(arq):
