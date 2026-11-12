@@ -1,0 +1,54 @@
+{
+ "entrada": "/tmp/claude-0/-home-user-IA-SINTETICO-PRODUTOR/6ef474f7-381e-57e0-a979-e45ed783b267/scratchpad/n49/emp-base.mp4",
+ "saida": "/tmp/claude-0/-home-user-IA-SINTETICO-PRODUTOR/6ef474f7-381e-57e0-a979-e45ed783b267/scratchpad/n49/face18h-1211-empilhamento.mp4",
+ "crf": 21,
+ "preset": "medium",
+ "estilo": {
+  "base": "noite-dourado",
+  "caixa": {
+   "fundo": [
+    36,
+    26,
+    24,
+    255
+   ]
+  }
+ },
+ "corte": 3.0,
+ "respiro": 0.0,
+ "sons": [
+  {
+   "som": "riser-lento",
+   "pico_em": "corte-0.1"
+  },
+  {
+   "som": "impact",
+   "pico_em": "corte"
+  }
+ ],
+ "itens": [
+  {
+   "tipo": "caixa",
+   "ini": 0,
+   "fim": 3.0,
+   "x": 0,
+   "y": 420,
+   "tamanho": 12,
+   "linhas": [
+    "There's a reason this video",
+    "reached your screen [today]"
+   ]
+  },
+  {
+   "tipo": "caixa",
+   "ini": 3.0,
+   "fim": 27.09,
+   "x": 0,
+   "y": 397,
+   "tamanho": 9,
+   "linhas": [
+    "Your 2027 reading: [link in the comments]"
+   ]
+  }
+ ]
+}
