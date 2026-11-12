@@ -231,7 +231,7 @@ def achar_corte(arq):
 
 def filtros_sons(sp, idx0):
     """Entradas e filtros do ffmpeg para misturar os efeitos ao áudio do montado (entrada 0)."""
-    corte = None; ins, fs, labs, rel = [], [], [], []
+    corte = sp.get('corte'); ins, fs, labs, rel = [], [], [], []  # "corte" na spec: o segundo exato (quando o pré-gancho tem um corte interno, como o tsunami A+B)
     ref = None
     for j, s in enumerate(sp['sons']):
         arq, db_pad = SONS[s['som']] if s.get('som') in SONS else (s['arquivo'], -10)

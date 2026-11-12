@@ -1,0 +1,4 @@
+nora59: o Flow repetiu "to see what" no T05 ("...check my story to see what to see what twenty twenty-seven holds for you").
+Cortado o 1º "to see what" do montado: [39,87 s, 40,36 s), os dois pontos no vale de energia antes de um "t". Sem corte da FusionZ perto: zoom de 1,08 no trecho seguinte até o fim. Áudio do 1º trecho a partir de 0,083 s (início do vídeo do CapCut). Fade de 12 ms.
+[0:v]trim=0:39.87,setpts=PTS-STARTPTS,setsar=1[v0];[0:v]trim=start=40.36,setpts=PTS-STARTPTS,scale=iw*1.08:ih*1.08,crop=1080:1920,setsar=1[v1];[0:a]aresample=48000,atrim=0.083:39.87,asetpts=PTS-STARTPTS,afade=t=out:st=39.775:d=0.012[a0];[0:a]aresample=48000,atrim=start=40.36,asetpts=PTS-STARTPTS,afade=t=in:st=0:d=0.012[a1];[v0][a0][v1][a1]concat=n=2:v=1:a=1[v][a]
+(crf 14 no intermediário nora59-cortado.mp4, 42,40 s; depois editar_video.py com spec-nora59.json e spec-nora59-FACE.json)
