@@ -245,7 +245,8 @@ def filtros_sons(sp, idx0):
             ref = float(np.percentile(e[e > -60], 90))
             if corte is not None and corte > 1:
                 e, _ = janelas_db(sp['entrada'], ini=0.0, fim=corte)
-                ref = max(ref, float(np.percentile(e[e > -60], 90)))
+                if (e > -60).any():  # no POV o começo é só paisagem, sem som
+                    ref = max(ref, float(np.percentile(e[e > -60], 90)))
         e, w = janelas_db(arq, hp=0); pico_arq = int(e.argmax()) * w; mx_cheio = float(e.max())  # o pico de verdade (com o grave)
         mx = float(janelas_db(arq)[0].max())  # o nível que o celular toca
         ganho = min(ref + s.get('db', db_pad) - mx, -3 - mx_cheio)  # sem passar de -3 dBFS com o grave

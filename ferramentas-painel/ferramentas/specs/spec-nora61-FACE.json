@@ -1,0 +1,343 @@
+{
+ "entrada": "/tmp/claude-0/-home-user-IA-SINTETICO-PRODUTOR/6ef474f7-381e-57e0-a979-e45ed783b267/scratchpad/n61/pov-base.mp4",
+ "saida": "/tmp/claude-0/-home-user-IA-SINTETICO-PRODUTOR/6ef474f7-381e-57e0-a979-e45ed783b267/scratchpad/n61/nora61-final-FACE.mp4",
+ "crf": 21,
+ "preset": "medium",
+ "estilo": "areia-rose",
+ "corte": 1.5,
+ "respiro": 0.0,
+ "sons": [
+  {
+   "som": "riser",
+   "pico_em": "corte-0.1"
+  },
+  {
+   "som": "impact",
+   "pico_em": "corte"
+  },
+  {
+   "som": "whoosh",
+   "pico_em": 6.04
+  },
+  {
+   "som": "whoosh",
+   "pico_em": 8.46
+  },
+  {
+   "som": "whoosh",
+   "pico_em": 12.33
+  }
+ ],
+ "itens": [
+  {
+   "tipo": "caixa",
+   "ini": 0,
+   "fim": 6.04,
+   "x": 0,
+   "y": 458,
+   "tamanho": 9,
+   "linhas": [
+    "if you're still hoping for real love,",
+    "[this is for you]"
+   ]
+  },
+  {
+   "tipo": "legenda",
+   "ini": 1.5,
+   "fim": 17.81,
+   "palavras": [
+    [
+     "If",
+     1.5,
+     1.66
+    ],
+    [
+     "this",
+     1.66,
+     1.9
+    ],
+    [
+     "finds",
+     1.9,
+     2.14
+    ],
+    [
+     "you",
+     2.14,
+     2.36
+    ],
+    [
+     "tonight,",
+     2.36,
+     2.72
+    ],
+    [
+     "the",
+     2.92,
+     3.02
+    ],
+    [
+     "love",
+     3.02,
+     3.26
+    ],
+    [
+     "you've",
+     3.26,
+     3.52
+    ],
+    [
+     "been",
+     3.52,
+     3.64
+    ],
+    [
+     "quietly",
+     3.64,
+     4.08
+    ],
+    [
+     "hoping",
+     4.08,
+     4.48
+    ],
+    [
+     "for",
+     4.48,
+     4.92
+    ],
+    [
+     "hasn't",
+     4.92,
+     5.36
+    ],
+    [
+     "forgotten",
+     5.36,
+     5.64
+    ],
+    [
+     "you.",
+     5.64,
+     6.0
+    ],
+    [
+     "Imagine",
+     6.1,
+     6.36
+    ],
+    [
+     "waking",
+     6.36,
+     6.7
+    ],
+    [
+     "up",
+     6.7,
+     6.96
+    ],
+    [
+     "next",
+     6.96,
+     7.14
+    ],
+    [
+     "to",
+     7.14,
+     7.34
+    ],
+    [
+     "someone",
+     7.34,
+     7.58
+    ],
+    [
+     "who",
+     7.58,
+     7.76
+    ],
+    [
+     "stays,",
+     7.76,
+     8.08
+    ],
+    [
+     "who",
+     8.46,
+     8.56
+    ],
+    [
+     "chooses",
+     8.56,
+     8.92
+    ],
+    [
+     "you",
+     8.92,
+     9.2
+    ],
+    [
+     "every",
+     9.2,
+     9.56
+    ],
+    [
+     "day",
+     9.56,
+     9.86
+    ],
+    [
+     "and",
+     9.86,
+     10.14
+    ],
+    [
+     "makes",
+     10.14,
+     10.36
+    ],
+    [
+     "home",
+     10.36,
+     10.68
+    ],
+    [
+     "finally",
+     10.68,
+     11.2
+    ],
+    [
+     "feel",
+     11.2,
+     11.5
+    ],
+    [
+     "like",
+     11.5,
+     11.72
+    ],
+    [
+     "peace.",
+     11.72,
+     12.02
+    ],
+    [
+     "Tap",
+     12.36,
+     12.52
+    ],
+    [
+     "my",
+     12.52,
+     12.74
+    ],
+    [
+     "photo",
+     12.74,
+     13.02
+    ],
+    [
+     "and",
+     13.02,
+     13.3
+    ],
+    [
+     "check",
+     13.3,
+     13.52
+    ],
+    [
+     "my",
+     13.52,
+     13.66
+    ],
+    [
+     "story.",
+     13.66,
+     14.06
+    ],
+    [
+     "Three",
+     14.36,
+     14.58
+    ],
+    [
+     "quick",
+     14.58,
+     14.8
+    ],
+    [
+     "questions",
+     14.8,
+     15.3
+    ],
+    [
+     "show",
+     15.3,
+     15.66
+    ],
+    [
+     "what",
+     15.66,
+     15.82
+    ],
+    [
+     "2027",
+     15.82,
+     16.46
+    ],
+    [
+     "brings",
+     16.46,
+     16.94
+    ],
+    [
+     "to",
+     16.94,
+     17.16
+    ],
+    [
+     "your",
+     17.16,
+     17.28
+    ],
+    [
+     "love",
+     17.28,
+     17.48
+    ],
+    [
+     "life.",
+     17.48,
+     17.74
+    ]
+   ],
+   "destaques": [
+    "TONIGHT,",
+    "LOVE",
+    "FORGOTTEN",
+    "STAYS,",
+    "CHOOSES",
+    "PEACE.",
+    "PHOTO",
+    "STORY.",
+    "2027",
+    "LOVE"
+   ],
+   "y": -310,
+   "tamanho_px": 38
+  },
+  {
+   "tipo": "caixa",
+   "ini": 12.33,
+   "fim": 17.81,
+   "x": 0,
+   "y": 470,
+   "tamanho": 9,
+   "linhas": [
+    "Your 2027 love reading:",
+    "[link in the comments]"
+   ]
+  }
+ ]
+}
