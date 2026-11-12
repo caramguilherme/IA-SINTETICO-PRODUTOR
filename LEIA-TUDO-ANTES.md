@@ -36,7 +36,7 @@ Decisão do aluno em 18/10/2026: **antes de TODO roteiro novo e antes de TODO pr
 - `PROMPT-BLUEPRINT-COMUNIDADE.md` (criar ou ajustar a folha da avatar)
 - `BRIEFING-LOVE-READING-AURALY.pdf` (o PDF completo; o resumo está no `BRIEFING-LOVE-READING.md`)
 - `AULA-IORHAN-30-10-SLIDES-VIRALIZACAO-X-CONVERSAO.pdf` (20 slides) e `AULA-IORHAN-30-10-ANALISE-DE-COPY.pdf` (6 páginas): os PDFs originais da aula do Iorhan de 30/10, guardados em 03/11/2026; o texto inteiro já está no apêndice 3 de `AULA-IORHAN-30-10-COPY-QUE-CONVERTE.md` (abrir o PDF só para ver as cores e o layout)
-- `MATERIAIS-CALL-06-11/LEIA.md` (links dos materiais oficiais da call de 06/11: guia de variações, ads de empilhamento, análise de copy, prompts de ads, Love Reading: plano de melhorias; os textos ficam no Google Docs, resumo na aula de 06/11)
+- `MATERIAIS-CALL-06-11/` (materiais oficiais da call de 06/11, desde 12/11 com os textos na pasta: `LEIA.md` (índice), guia de variações, ads de empilhamento, análise de copy, **`Prompts-de-Ads-Stefan-Georgi.md` (os 18 tipos de gancho com exemplos reais e o prompt de 20 ganchos: usar ao escrever os Takes 1)**, Love Reading: plano de melhorias; resumo e a análise dos 8 vídeos de empilhamento na aula de 06/11, seção 5c)
 - `AULA-IORHAN-30-10-TRANSCRICAO-LIMPA.md` (a mesma aula de 30/10 numa transcrição limpa, mandada pelo aluno em 03/11/2026; o que ela acrescenta e o molde de roteiro de manifestação estão nas seções 10 e 11 de `AULA-IORHAN-30-10-COPY-QUE-CONVERTE.md`, que é a leitura obrigatória; abrir a transcrição só para buscar uma frase)
 
 **Fora da lista: a pasta `arquivo/` (desde 10/11/2026, decisão do aluno)**

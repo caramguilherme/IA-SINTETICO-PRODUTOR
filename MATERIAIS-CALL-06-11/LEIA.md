@@ -1,7 +1,7 @@
 # Materiais da call de 06/11/2026 (Appyon Creators, Iorhan)
 
 Doc-índice "Materiais Call Appyon Creators 06/11" (link mandado pelo aluno em 07/11 ~03h): https://docs.google.com/document/d/1oUohjCC2kW7gAUTPk9NS9WbmeFVsBPAaJSXMYiIcIw8/edit
-Lidos em 07/11 pela visão `mobilebasic` do Google Docs (o ambiente libera docs.google.com desde 07/11; o `export` redireciona para um host do googleusercontent que não está liberado). **Os textos são material do curso e não ficam copiados no repositório:** o resumo do que serve está em `AULA-06-11-VARIACOES-E-COPY-COM-IA-IORHAN.md` (seção 5b) e em `BRIEFING-LOVE-READING.md`; para reler, abrir o link (`.../document/d/ID/mobilebasic`).
+**Desde 12/11/2026 ~00h45 os textos estão também nesta pasta** (o aluno mandou os .md: `Como-variar-um-video-viral-Guia-pratico.md`, `Ads-Empilhamento-de-Gancho.md`, `Analise-Copy-Ad-Emagrecimento-Iorhan.md`, `Prompts-de-Ads-Stefan-Georgi.md`, `Love-Reading-Plano-de-melhorias.md`, `Materiais-Call-Appyon-Creators-06-11.md` com o print do exemplo de prompt de modelagem em `Materiais-Call-exemplo-prompt-modelagem.png`) e **os 8 vídeos de empilhamento foram baixados e analisados** (resumo e transcrições na seção 5c de `AULA-06-11-VARIACOES-E-COPY-COM-IA-IORHAN.md`). Antes: lidos em 07/11 pela visão `mobilebasic` do Google Docs (o ambiente libera docs.google.com desde 07/11; o `export` redireciona para um host do googleusercontent que não está liberado). **Os textos são material do curso e não ficam copiados no repositório:** o resumo do que serve está em `AULA-06-11-VARIACOES-E-COPY-COM-IA-IORHAN.md` (seção 5b) e em `BRIEFING-LOVE-READING.md`; para reler, abrir o link (`.../document/d/ID/mobilebasic`).
 
 | Material | Link | O que é |
 |---|---|---|
