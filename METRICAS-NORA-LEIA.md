@@ -528,7 +528,7 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **O nora58 parou em ~320** (282 com ~5h30): o original da noite, com a prova, não repetiu o nora55. Diferenças: a cena (noite x manhã), a prova da Younger antes do CTA, o T02 e o T04 da noite e o horário (19h25 x 10h20; o nora55 foi o 1º do Face depois de ~8h30 sem post). Um par só não separa a causa; **o que se mantém é o que o nora55 tinha (R32): a `manha1111-IMG`, o tsunami curto no Face, 3 takes em ~24 s, sem prova.**
 - Os -FACE e o kit pararam. Nada muda nos painéis de hoje: a versão do Face do curto das 20h modela o nora55 (R32).
 
-### 12/11/2026 ~12h50, INSTA (grade do perfil, só views; print do aluno)
+### 12/11/2026 ~11h50, INSTA (grade do perfil, só views; print do aluno)
 - nora58 157 (era 130 à ~01h) · nora57 118 (116) · nora56 187 (150) · nora55 138 (132) · nora54 219 (219) · nora53 146 (146) · nora52 151 (146) · nora51 889 · nora50 1.676 (1.674).
 - **A conta ficou parada a madrugada toda:** nenhum vídeo do dia 11 passou de 190, e os do kit e o nora50 não se mexeram. A grade vai do nora58 (157) ao nora50 (1.676) (o aluno corrigiu o rótulo na hora).
 - Os detalhes desses (retenção, países, visitas) não mudam a decisão: o teste limpo é o longo das 16h, o 1º depois de ~20 h sem post no Insta (régua do limbo: 300 ou mais). Pedir os prints dele com ~3 h e ~24 h.
