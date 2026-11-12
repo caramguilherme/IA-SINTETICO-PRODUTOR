@@ -548,3 +548,12 @@ If the generation of any video fails, please resubmit ONLY the item that failed 
 
 ## 12/11/2026 ~13h30, pré-gancho da vela: efeito pequeno, em luz de dia e resolvido no 1º segundo
 O `d1211-PRE-vela` (Omni 1.1 Flash, 8 s) fez o que o prompt pedia (a vela acendeu sozinha no 1º segundo) e não prendeu ninguém: o prompt pôs a vela numa mesa com luz de dia atrás da cortina, num plano em que a chama ocupa pouco do quadro, e não pediu nada depois da chama acender. O áudio veio quase mudo. **Para pré-gancho: quarto escuro em que o efeito é a única luz, o objeto enchendo o meio do quadro, a tensão crescendo a cada segundo e a revelação por volta do 3º segundo (o trecho que eu uso termina nela), e 2 gerações (x2) quando o efeito é difícil.** Detalhe em `BIBLIOTECA-PRE-GANCHOS.md` (12/11).
+
+### 12/11/2026 14h07, piloto do Omni 1.2 em 360p (baixado em 720p): passou, com 1 ressalva na marca do rosto
+- **Peça:** `d1211-T01b-PILOTO-12-360p` (o Take 1 do curto, "If you're holding your phone on Thursday, November 12th, wondering if things will get lighter, this is for you.", na `manha1111-IMG`, 10 s, 720×1280, 24 fps).
+- **Fala:** 100% certa na transcrição (0,84 a 8,04 s; sobram ~2 s no fim, que a FusionZ corta).
+- **Nitidez no rosto (variância do Laplaciano, 720 px):** 470 a 570 no piloto contra 456 a 475 no nora55 (1.1 Flash, mesma cena): **não ficou mole**. O moletom ganha uma textura meio "acolchoada" de ampliação, que no celular não aparece.
+- **Voz:** mesmo tom (frequência mediana 186 Hz contra 193 Hz no nora55); o timbre o aluno confere de ouvido.
+- **Rosto:** a mesma mulher do começo ao fim, expressiva (fecha os olhos, sorri), mas um pouco mais jovem e mais maquiada (delineado) que a `manha1111-IMG`, olhos mais escuros. **Ressalva: as 3 estrelinhas da marca viraram 3 bolinhas** (a lua ficou; o 1.1 Flash manteve as estrelas). No próximo prompt do 1.2, reforçar: "three tiny gold five-pointed STAR shapes (not dots, not circles)".
+- **Conclusão:** o 1.2 em 360p serve para a Nora (mais barato por segundo que o 1.1 em 720p e continua depois de 05/12). Próximo passo: os Takes 1 de um dia no 1.2/360p com a marca reforçada; se as estrelas voltarem e o aluno aprovar a voz, o próximo corpo sai nele, em takes de 15 s (~30 a 35 palavras).
+
