@@ -1,0 +1,395 @@
+{
+ "entrada": "/tmp/claude-0/-home-user-IA-SINTETICO-PRODUTOR/6ef474f7-381e-57e0-a979-e45ed783b267/scratchpad/n60/nora60-cortado-INSTA.mp4",
+ "saida": "/tmp/claude-0/-home-user-IA-SINTETICO-PRODUTOR/6ef474f7-381e-57e0-a979-e45ed783b267/scratchpad/n60/nora60-final.mp4",
+ "crf": 21,
+ "preset": "medium",
+ "estilo": "salvia-creme",
+ "corte": 3.458,
+ "respiro": 0.1,
+ "sons": [
+  {
+   "som": "riser-lento",
+   "pico_em": "corte-0.1"
+  },
+  {
+   "som": "impact",
+   "pico_em": "corte"
+  }
+ ],
+ "itens": [
+  {
+   "tipo": "caixa",
+   "ini": 0,
+   "fim": 8.583,
+   "x": 0,
+   "y": 458,
+   "tamanho": 9,
+   "linhas": [
+    "[THURSDAY, NOVEMBER 12TH]",
+    "if you're waiting for things to get lighter"
+   ]
+  },
+  {
+   "tipo": "texto",
+   "ini": 0,
+   "fim": 22.708,
+   "x": 230,
+   "y": 282,
+   "tamanho": 15,
+   "texto": "11:11",
+   "cor": "#FFFFFF"
+  },
+  {
+   "tipo": "texto",
+   "ini": 0,
+   "fim": 22.708,
+   "x": -230,
+   "y": 282,
+   "tamanho": 12,
+   "texto": "888",
+   "cor": "#FFFFFF"
+  },
+  {
+   "tipo": "texto",
+   "ini": 0,
+   "fim": 22.708,
+   "x": -230,
+   "y": 40,
+   "tamanho": 11,
+   "texto": "222",
+   "cor": "#FFFFFF"
+  },
+  {
+   "tipo": "legenda",
+   "ini": 3.458,
+   "fim": 22.708,
+   "palavras": [
+    [
+     "If",
+     3.488,
+     3.608
+    ],
+    [
+     "you're",
+     3.58,
+     3.74
+    ],
+    [
+     "holding",
+     3.74,
+     3.98
+    ],
+    [
+     "your",
+     3.98,
+     4.16
+    ],
+    [
+     "phone",
+     4.16,
+     4.46
+    ],
+    [
+     "on",
+     4.46,
+     4.66
+    ],
+    [
+     "Thursday,",
+     4.66,
+     4.96
+    ],
+    [
+     "November",
+     5.26,
+     5.42
+    ],
+    [
+     "12,",
+     5.42,
+     5.92
+    ],
+    [
+     "wondering",
+     6.1,
+     6.4
+    ],
+    [
+     "if",
+     6.4,
+     6.68
+    ],
+    [
+     "things",
+     6.68,
+     6.9
+    ],
+    [
+     "will",
+     6.9,
+     7.08
+    ],
+    [
+     "get",
+     7.08,
+     7.24
+    ],
+    [
+     "lighter,",
+     7.24,
+     7.56
+    ],
+    [
+     "this",
+     7.8,
+     7.94
+    ],
+    [
+     "is",
+     7.94,
+     8.08
+    ],
+    [
+     "for",
+     8.08,
+     8.28
+    ],
+    [
+     "you.",
+     8.28,
+     8.44
+    ],
+    [
+     "Today,",
+     8.64,
+     8.84
+    ],
+    [
+     "that",
+     9.04,
+     9.12
+    ],
+    [
+     "heavy",
+     9.12,
+     9.42
+    ],
+    [
+     "fog",
+     9.42,
+     9.72
+    ],
+    [
+     "is",
+     9.72,
+     9.96
+    ],
+    [
+     "finally",
+     9.96,
+     10.32
+    ],
+    [
+     "clearing,",
+     10.32,
+     10.78
+    ],
+    [
+     "making",
+     11.16,
+     11.36
+    ],
+    [
+     "room",
+     11.36,
+     11.72
+    ],
+    [
+     "for",
+     11.72,
+     11.96
+    ],
+    [
+     "true",
+     11.96,
+     12.4
+    ],
+    [
+     "inner",
+     12.4,
+     12.7
+    ],
+    [
+     "peace,",
+     12.7,
+     13.12
+    ],
+    [
+     "clarity",
+     13.48,
+     13.74
+    ],
+    [
+     "and",
+     13.74,
+     14.34
+    ],
+    [
+     "genuine",
+     14.34,
+     14.78
+    ],
+    [
+     "emotional",
+     14.78,
+     15.32
+    ],
+    [
+     "ease.",
+     15.32,
+     15.76
+    ],
+    [
+     "This",
+     16.24,
+     16.36
+    ],
+    [
+     "shift",
+     16.36,
+     16.62
+    ],
+    [
+     "doesn't",
+     16.62,
+     17.02
+    ],
+    [
+     "happen",
+     17.02,
+     17.32
+    ],
+    [
+     "for",
+     17.32,
+     17.56
+    ],
+    [
+     "every",
+     17.56,
+     17.82
+    ],
+    [
+     "woman.",
+     17.82,
+     18.16
+    ],
+    [
+     "Tap",
+     18.48,
+     18.58
+    ],
+    [
+     "my",
+     18.58,
+     18.8
+    ],
+    [
+     "photo",
+     18.8,
+     19.08
+    ],
+    [
+     "and",
+     19.08,
+     19.36
+    ],
+    [
+     "check",
+     19.36,
+     19.56
+    ],
+    [
+     "my",
+     19.56,
+     19.72
+    ],
+    [
+     "story",
+     19.72,
+     20.06
+    ],
+    [
+     "to",
+     20.06,
+     20.28
+    ],
+    [
+     "see",
+     20.28,
+     20.46
+    ],
+    [
+     "what",
+     20.46,
+     20.64
+    ],
+    [
+     "2027",
+     20.64,
+     21.04
+    ],
+    [
+     "holds",
+     21.72,
+     22.1
+    ],
+    [
+     "for",
+     22.1,
+     22.36
+    ],
+    [
+     "you.",
+     22.36,
+     22.52
+    ]
+   ],
+   "destaques": [
+    "THURSDAY,",
+    "NOVEMBER",
+    "12,",
+    "PHONE",
+    "LIGHTER,",
+    "PEACE,",
+    "CLEARING,",
+    "2027",
+    "PHOTO",
+    "STORY",
+    "WOMAN."
+   ],
+   "y": -310,
+   "tamanho_px": 38
+  },
+  {
+   "tipo": "caixa",
+   "ini": 16.0,
+   "fim": 22.708,
+   "x": 0,
+   "y": 470,
+   "tamanho": 9,
+   "linhas": [
+    "Tap my photo:",
+    "your 2027 reading is in [my story]"
+   ]
+  },
+  {
+   "tipo": "seta",
+   "ini": 16.0,
+   "fim": 22.708,
+   "x": -288,
+   "y": -333,
+   "tamanho": 14
+  }
+ ]
+}

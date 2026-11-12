@@ -1,0 +1,5 @@
+nora60 (INSTA e FACE): o mesmo T05 do nora59, com a mesma repetição do Flow ("to see what to see what"). Cortado o 1º "to see what" nos dois montados, nos mesmos pontos relativos do nora59 (INSTA [20,20 s, 20,69 s); FACE [20,66 s, 21,15 s), o FACE 0,46 s depois por causa do pré-gancho mais longo); zoom de 1,08 no trecho seguinte até o fim; áudio do 1º trecho a partir de 0,083 s; fade de 12 ms.
+INSTA:
+[0:v]trim=0:20.20,setpts=PTS-STARTPTS,setsar=1[v0];[0:v]trim=start=20.69,setpts=PTS-STARTPTS,scale=iw*1.08:ih*1.08,crop=1080:1920,setsar=1[v1];[0:a]aresample=48000,atrim=0.083:20.20,asetpts=PTS-STARTPTS,afade=t=out:st=20.105:d=0.012[a0];[0:a]aresample=48000,atrim=start=20.69,asetpts=PTS-STARTPTS,afade=t=in:st=0:d=0.012[a1];[v0][a0][v1][a1]concat=n=2:v=1:a=1[v][a]
+FACE:
+[0:v]trim=0:20.66,setpts=PTS-STARTPTS,setsar=1[v0];[0:v]trim=start=21.15,setpts=PTS-STARTPTS,scale=iw*1.08:ih*1.08,crop=1080:1920,setsar=1[v1];[0:a]aresample=48000,atrim=0.083:20.66,asetpts=PTS-STARTPTS,afade=t=out:st=20.565:d=0.012[a0];[0:a]aresample=48000,atrim=start=21.15,asetpts=PTS-STARTPTS,afade=t=in:st=0:d=0.012[a1];[v0][a0][v1][a1]concat=n=2:v=1:a=1[v][a]
