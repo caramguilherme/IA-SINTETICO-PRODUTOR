@@ -615,6 +615,9 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
   1. **O Face de hoje está fraco nos dois posts (−0,4x e −0,5x)**, e os 2 abriram com menos de 25% nos 3 s. Os que seguram de 42% a 54% nos 3 s abrem com a Nora de frente ou o tsunami desde o 1º quadro (nora55, nora56 a nora58, nora60-FACE); o POV (paisagem) e o hook do bicarbonato abrem com a Nora olhando para baixo, num plano aberto de cozinha, e o empilhamento abre parado (21,7%). Ainda é cedo para julgar o nora62 (régua com ~24 h), mas o sinal do começo é o mesmo do empilhamento.
   2. **Para o hook da canela (0h, Insta e Face):** o 1º quadro abre já no movimento mais forte (a canela caindo e se abrindo na água), sem o instante parado de antes da ação; a caixa amarela no 1º quadro. A canela continua (modelada do viral nº 3; uma variável por vez, e o Insta é outro público). O nora62 com ~24 h (amanhã ~13h) decide se o hook de produto na cozinha fica no Face.
 
+### 13/11/2026 16h39 - story-1211 repostado (Insta e Face)
+- A mesma imagem de 12/11 ("Your next chapter is already in motion." / "Tap below to see what 2027 holds for you."), adesivo "See your 2027" (STORYIG no Insta, FACE no Face). Ficou fora do ar de ~12h00 a 16h39 (venceu antes do repost). Vence ~16h39 de 14/11. Os prints da 1ª postagem não vieram.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
