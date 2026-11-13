@@ -537,7 +537,24 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 ## R38 (pergunta pronta em 12/11 ~23h45, pedido do aluno: "por que o Plano Primeira Comissão fala de 6 por dia, por que vários alunos postam 3 a 4, e se o horário é 19h30 e 0h, onde vão os demais?"; resposta a colar): volume x janela do Insta
 **Pergunta:** "Estou confuso com o volume e quero entender antes de seguir. O Plano Primeira Comissão (material oficial da Central, v1.1) diz 6 vídeos de venda por dia em cada conta, com 1 h ou mais entre eles, e no mínimo 4 contas (2 Insta + 2 páginas do Face). Vários alunos no Discord postam de 3 a 4 por dia no Insta. Mas você me orientou a fazer 3 por dia e agora 2 por dia no Insta, às 19h30 e à 0h, porque é a janela em que a Índia some na minha conta (a manhã e a tarde caem na Índia). Hoje eu tenho só 1 conta de Insta e 1 página do Face, as duas com a mesma avatar. (1) Como esses números se encaixam? O 6 por dia do plano vale para conta de Insta saudável, só para o Face, ou pressupõe as 4 contas? (2) Se a janela boa do Insta é só das 19h30 à 0h30, onde iriam os outros vídeos do dia: no Face, numa 2ª conta de Insta, ou na mesma conta com 1 h entre eles dentro dessa janela? (3) Os alunos que postam 3 a 4 por dia no Insta e não travam fazem diferente de mim em quê (mais contas, horários, formatos variados, vídeos repetidos)? (4) Os 2 por dia são só para a recuperação desta conta ou o teto dela daqui pra frente? Qual é a rotina final que você recomenda para 1 Insta + 1 página do Face (quantos por dia e em que horários em cada um), e quando eu passo da recuperação para ela?"
 
-**Resposta:** (colar aqui)
+**Resposta (resumo; colada pelo aluno em 12/11 ~23h50):**
+1. **Os números se completam.** O "6 por dia com 1 h entre eles" da Central é teto de escala para o ecossistema completo. **No Face**, 4 a 6 por dia funciona mesmo numa página só (tolera volume e tem link clicável). **No Insta**, 6 por dia numa conta só, nova ou recente, faz os vídeos colidirem e trava em 100 a 200 views (aulas 25, 31 e 55). As 4 contas do plano servem para diluir o volume: quem posta 6 a 10 por dia distribui entre 2 ou 3 perfis, ~2 em cada. **Em resumo: 6 por dia numa conta só é estável no Face; no Insta pressupõe várias contas ou um perfil antigo com muita tração.**
+2. **Os outros vídeos do dia vão para o Face** (4 a 6 ao longo do dia; a restrição de país tira a Índia) **ou para uma 2ª conta de Insta, quando existir** (aulas 13, 28 e 51). Não vão para a mesma conta com 1 h de intervalo dentro da janela da noite: 19h30, 20h30, 21h30 e 22h30 canibalizariam na hora.
+3. **Quem posta 3 a 4 por dia no Insta sem travar faz 4 coisas** (aulas 18, 21, 28, 31 e 70): (a) **varia o formato** no mesmo dia (avatar falando + POV narrado + texto na tela, que para o Reels são categorias diferentes); (b) **deixa 4 a 5 h entre os posts** (por exemplo 12h, 16h30, 20h30 e 0h30); (c) tem conta mais antiga, com 30 a 50+ vídeos e base americana engajada; (d) **muda o gancho e o ângulo em cada post** (peso emocional, amor, dinheiro), sem repetir a mesma promessa do dia.
+4. **Os 2 por dia são só da recuperação.**
+   - **Fase 1, recuperação (4 a 5 dias):** Insta 2 por dia, às 19h30 e à 0h00. Face 4 a 6 por dia, espalhados (10h30, 13h, 16h, 18h30, 21h e 23h30).
+   - **Passagem para a rotina final:** 3 a 4 vídeos seguidos acima de 500 a 800 views, com menos de 20% de Índia e os EUA no topo.
+   - **Fase 2, rotina final (1 Insta + 1 página):** Insta 3 por dia: ~15h30/16h, o curto (~25 s) ou o POV; 19h30, a âncora (a Nora falando, 40 a 50 s); 0h00, o curto ou um formato alternativo (amor). Face 6 por dia: os mesmos 3 do Insta nos horários equivalentes, mais 3 de manhã e à tarde (variações dos campeões, POV ou texto na tela), sempre com o link nos comentários e no story.
+
+**Para a Nora (12/11 23h45, decisão minha):**
+- **Recuperação, a partir de 14/11:** Insta às 19h30 (a Nora falando, a âncora) e à 0h00 (outro formato ou outro ângulo, nunca 2 cabeças falantes com a mesma promessa). **Face 6 por dia: 9h, 12h, 16h, 19h30, 21h30 e 0h00.** Às 19h30 e à 0h, o mesmo vídeo do Insta, na versão do Face. Às 9h, 12h, 16h e 21h30, POV, empilhamento ou variação de campeão com 3 a 5 dias ou mais. Em 13/11 (dia da pausa do Insta), o Face segue a grade normal.
+- **Passagem para a rotina final:** 3 a 4 Reels seguidos com 500+ views, Índia abaixo de 20% e os EUA no topo. **Ressalva:** na rotina final, o Clone põe o 3º do Insta às ~15h30/16h, mas na R37 ele disse que a tarde cai na Índia, e o nosso nora59 das 16h05 teve 43,6% de Índia. Já o nora57, das 16h55, teve só 6,4%. Na volta, o 3º sai às ~16h30 a 17h, e a % da Índia decide se fica ou vai para dentro da noite.
+- **Cada post do dia com formato e ângulo diferentes:** a âncora fala de um tema (alívio, sorte de sexta-feira 13), o 2º de outro (amor, dinheiro). É o que os alunos que sustentam 3 a 4 por dia fazem.
+- **2ª conta de Insta:** é o jeito das aulas de ter mais volume no Insta. A decisão é do aluno (o 2º perfil está adiado por ele); fica registrado, sem proposta minha.
+
+---
+
+
 
 ---
 
