@@ -329,7 +329,7 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 **Para a Nora (11/11 ~13h15):** (1) o T04 da noite fica como está (confirmado; a regra de 03/11, sem cartas, tem agora a aula 66 como fonte). (2) Story de 12/11: a opção 1 com o adesivo "See your 2027", na imagem `story-1111`; em 13/11, a opção 2 com "Open your reading" (rodízio de um por dia, medindo toques ÷ viewers; substitui o rodízio de 10/11 com o texto do joao). (3) O corpo novo de 12/11 nasce com esse ângulo, esse Take 1 e essa promessa; o esqueleto do longo foi pedido ao Clone (o aluno manda), e eu fecho as falas com a leitura completa.
 
 ## R26 (11/11, ~13h20): esqueleto do corpo novo de 12/11 ("the hardest part is over" + 2027)
-**Longo (~50 s, 5 takes):** pré-gancho de 2 a 3 s (vela acendendo de perto ou cristais brilhando, som ASMR, corte seco com impacto) +
+**[13/11: a vela e os cristais brilhando reprovaram (objeto parado, sem a Nora); ver o topo da `BIBLIOTECA-PRE-GANCHOS.md`.]** **Longo (~50 s, 5 takes):** pré-gancho de 2 a 3 s (vela acendendo de perto ou cristais brilhando, som ASMR, corte seco com impacto) +
 - T1: "If this video finds you on Thursday, November 12th, take a deep breath: the hardest part of your year is over."
 - T2: "You carried heavy emotional weight for months, quietly wondering if anyone truly understood the quiet battles you fought."
 - T3: "Today that heavy fog is finally clearing, making room for true inner peace, clarity, and genuine emotional ease."

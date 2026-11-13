@@ -3,7 +3,7 @@
 Decisão do aluno em 18/10/2026: **antes de TODO roteiro novo e antes de TODO prompt (imagem, pré-gancho, story, Central, agente), eu sou OBRIGADO a abrir e ler inteiros, com a ferramenta de leitura, todos os documentos desta lista.** Não vale "lembrar", resumir de memória nem ler só os arquivos que parecem relevantes: prompt ruim gasta crédito do aluno à toa.
 
 ## Como cumprir
-0. **Exceção (decisão do aluno, 07/11/2026):** painel que só troca peças dentro de uma fórmula já testada (pré-gancho pronto, Take 1 novo no mesmo molde, corpo reaproveitado) usa a leitura focada da seção 4 do `CLAUDE.md` (07/11), que inclui o `CLONE-DO-GUSTAVO-RESPOSTAS.md` desde 07/11 ~06h30. Roteiro novo continua com a lista inteira.
+0. **Exceção (decisão do aluno, 07/11/2026):** painel que só troca peças dentro de uma fórmula já testada (pré-gancho pronto, Take 1 novo no mesmo molde, corpo reaproveitado) usa a leitura focada da seção 4 do `CLAUDE.md` (07/11), que inclui o `CLONE-DO-GUSTAVO-RESPOSTAS.md` desde 07/11 ~06h30. Roteiro novo continua com a lista inteira. **(13/11/2026, depois da vela e do envelope: a exceção NÃO vale para pré-gancho novo, fala nova ou ideia do Clone que ainda não foi testada; esses pedem a leitura completa e o roteiro do pré-gancho em batidas de 0,5 s comparado com os virais.)**
 1. Abrir cada arquivo da lista com a ferramenta de leitura (os grandes, em partes, até o fim). Se o contexto não comportar tudo de uma vez, ler em etapas, mas ler tudo antes de entregar.
 2. Conferir o que o aluno pediu agora contra TODOS eles (regras, lições, virais, funil).
 3. Todo roteiro e todo painel traz, no começo, a seção **"Leitura obrigatória (registro)"** com a data e a lista dos arquivos lidos. Sem esse registro, o item não é entregue.

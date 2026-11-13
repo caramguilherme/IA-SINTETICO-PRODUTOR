@@ -15,7 +15,7 @@ Este arquivo junta tudo o que já deu errado ou que o aluno pediu. **Antes de en
 7. **O objeto do hook aparece no pré-gancho e fica no quadro** (continuidade).
 8. **O Flow é literal:** descrever o estado físico, a ação e o que NÃO acontece. Carta nunca vira, levanta nem aparece do nada (P9).
 9. **Objeto segurado em uma das mãos o vídeo todo**, em primeiro plano. Nada "em pé sozinho".
-10. **Sem marca nem logo** no prompt (celular sem logo, rótulo genérico). Sem texto na imagem (exceto o que o aluno pedir).
+10. **Sem marca nem logo** no prompt (celular sem logo, rótulo genérico), **menos o produto famoso dos EUA do pré-gancho** (13/11: ele tem de ser reconhecível; se o Flow recusar o nome, descrever a embalagem). Sem texto na imagem (exceto o que o aluno pedir).
 11. **Fala:** inglês dos EUA, no máximo 22 palavras por fala, "possible/might" para o que o quiz mostra, sem app, preço, pagamento, comissão ou afiliado.
 12. **Custo conferido** (desde 12/11, Omni 1.2 Flash em 360p: 10 s = 10 créditos, 15 s = 20, baixando em 720p de graça; os valores antigos do 1.1 Flash eram 4 s = 7, 6 s = 10, 8 s = 12, 10 s = 15) e a sobra para refazer anotada.
 13. **O painel diz o que marcar e o que não marcar**, seção por seção, e os nomes dos arquivos para renomear no Flow.
