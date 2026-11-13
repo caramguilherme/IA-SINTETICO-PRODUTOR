@@ -10,6 +10,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **joao (Sargento):** respondeu em 09/11 17h29 (ganchos + texto do story) e em 10/11 00h44 ("depende do gancho": usa com fala e sem fala; o que importa é prender nos primeiros segundos); fechamento enviado em 10/11 (~11h). Volta com o resultado (só fala x cena + fala) enviada em 12/11 16h27, com a pergunta do CTA. **Respondeu em 12/11 16h51:** "Jogo pro storys irmão, só no fim do vídeo, a última frase do vídeo sempre, nunca testei antes disso". Mensagem enviada em 13/11 00h24 (pergunta se ele pede comentário no vídeo). **Respondeu em 13/11 00h24: "Sempre peço pra comentar mano. É importante pro engajamento."** Como o story é sempre a última frase dele, o pedido de comentário vem antes do story (o contrário da R40). Mensagem enviada em 13/11 00h28 (só a pergunta da ordem). **Respondeu em 13/11 00h29: "Isso mano"** (o comentário vem antes, o story por último). **Fechamento enviado em 13/11 00h30.** Ele respondeu às 00h30: "Pra cima irmão / Precisando tamo ai" (conversa fechada; só uma reação, sem mensagem nova). Voltar com o resultado do vídeo da volta (~15/11).
 - **Lucas Dusi:** respondeu em 10/11 14h49 (filtrar o público no body + reason why forte no CTA) e **em 10/11 18h13 a 18h27** (hook mais aberto, filtro no body; o exemplo do reason why: "para manifestar X você precisa de uma âncora física de manifestação… toque na minha foto"; "dá pra pesquisar com o GPT, Claude ou Gemini o que as pessoas acreditam que precisam pra manifestar"). **Agradecimento enviado em 10/11 ~23h10** (sem pergunta nova). Voltar com o resultado do kit e do CTA novo. **12/11 13h17:** mandou os reason whys que funcionam nos EUA (lá não acreditam muito em inveja; acreditam em vibração da escassez, campo vibracional, subconsciente e ação física para manifestar); resposta enviada às 16h34. **Respondeu em 12/11 19h58:** "parece dar bom mesmo, o povo que acredita nisso acredita mto em datas e períodos"; "a conversão aqui tava bem baixa, mas aumentou conforme eu fui mudando o formato igual eles pediram"; mantém as mesmas copies e quer aprender copy. **Resposta sugerida em 13/11 00h25** (pergunta qual formato ele mudou + o achado do "comment 222" depois do CTA). Esperar.
 - **12/11 ~16h30, voltas com resultado (DM, pedido do aluno: "faz tempo que não conversamos com alguém"):** joao (o teste só com fala x cena), Kaike (o tsunami de volta, 3,9 mil no Face; a pedra não chegou a ser testada) e Lari (6 por dia: Face bem, Insta caiu): enviadas (toda resposta sugerida conta como enviada). Esperar resposta de cada um; Ricardo e Marcus ficam para quando o nora59 tiver número (CTA novo).
+- **18ª leitura (13/11 ~00h40):** respostas ao xand (o espanhol não é para todos) e ao Caio (o Scoped serve para a Appyon), no #chat-appyon, com o que a LegacyTalk #10 disse. O Evair respondeu "No face mano" (só reagir).
 - **17ª leitura (12/11 ~16h25):** respostas a th (duração dos vídeos), gabrielbfrota (taxa de clique das DMs no Face) e Wall (Flow implicando com a copy), no #chat-appyon, e parabéns ao Evair no #vitórias: enviadas (toda resposta sugerida conta como enviada).
 - **16ª leitura (12/11 ~01h):** resposta ao Vini BR (volume: 4 a 6 por dia com 2 h), no #chat-appyon: enviada (toda resposta sugerida conta como enviada).
 - **15ª leitura (11/11 ~20h30):** respostas a Resende (página do Face: a régua é 100 views), Taques (quando trocar a avatar) e KAROLLYNE BRAZ (vídeos por dia), no #chat-appyon: enviadas (toda resposta sugerida conta como enviada).
@@ -72,7 +73,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | Mateus Guisolffi | Pergunta no chat (09/11 20h08): Insta novo travado no "next" do nome | | | **Resposta pública enviada em 10/11** (12ª leitura) | |
 | th [MVM] | Pergunta no chat (12/11 16h02): qual a média de duração dos vídeos? | | | **Resposta pública enviada em 12/11** (17ª leitura: o nosso dado de 67 s x 20 s) | |
 | gabrielbfrota [MVM] | Pergunta no chat (12/11 13h13): 95 DMs no Face deram 6 cliques, é normal? | | | **Resposta pública enviada em 12/11** (17ª leitura: os nossos directs em 2 passos) | |
-| Evair | 1ª venda (#vitórias 12/11 13h30), 1 dia depois do 1º post, voltando de uma pausa desde maio; funil não dito | | | **Parabéns enviado no #vitórias em 12/11** (17ª leitura), com 1 pergunta (insta ou face). Se responder, só reagir | |
+| Evair | 1ª venda (#vitórias 12/11 13h30), 1 dia depois do 1º post, voltando de uma pausa desde maio; funil não dito | | | **Parabéns enviado no #vitórias em 12/11** (17ª leitura), com 1 pergunta (insta ou face). Se responder, só reagir. **Respondeu em 12/11 16h45: "No face mano"** (só reagir). | |
 | Vini BR | Pergunta no chat (11/11 21h27): posta 4 a 6 por dia com 2 h de intervalo, deveria postar menos? | | | **Resposta pública enviada em 12/11** (16ª leitura: o nosso dado de 6 por dia numa conta só de Insta) | |
 | Resende ♦ [MVM] | Pergunta no chat (11/11 19h26): página do Face com 12 vídeos sem passar de 200 views, descartar? | | | **Resposta pública enviada em 11/11** (15ª leitura: a régua do Plano Primeira Comissão é 100 views) | |
 | Taques__ | Pergunta no chat (11/11 14h10 e 18h53): 31 vídeos com uma avatar no LR, nenhum com 300 views | | | **Resposta pública enviada em 11/11** (15ª leitura: a régua da avatar das aulas, Clone R19) | |
@@ -603,5 +604,16 @@ depois te conto como foi a volta
 ```
 fechou, valeu mano!
 depois te conto como foi a volta
+```
+
+## ENVIADO (13/11/2026 ~00h40; 18ª leitura, no #chat-appyon; uma mensagem para cada)
+**1. xand, respondendo a mensagem dele de 12/11 18h40 ("o funil espanhol é liberado para todos?"):**
+```
+não, na legacytalk de ontem falaram q vai ser liberado só pra quem bater uma meta de vendas q eles vão definir
+```
+**2. Caio, respondendo a mensagem dele de 13/11 00h18 ("O Scoped serve pra quem roda só Appyon?"):**
+```
+serve sim, na legacytalk de ontem o luigi mostrou: tem os vídeos virais da appyon com a copy e um agente q modela a copy pro funil q vc escolher (ele modelou pro love reading)
+tem conta grátis em scoped.com.br pra testar
 ```
 
