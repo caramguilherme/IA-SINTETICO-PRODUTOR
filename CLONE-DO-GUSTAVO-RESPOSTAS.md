@@ -534,6 +534,13 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 
 ---
 
+## R38 (pergunta pronta em 12/11 ~23h45, pedido do aluno: "por que o Plano Primeira Comissão fala de 6 por dia, por que vários alunos postam 3 a 4, e se o horário é 19h30 e 0h, onde vão os demais?"; resposta a colar): volume x janela do Insta
+**Pergunta:** "Estou confuso com o volume e quero entender antes de seguir. O Plano Primeira Comissão (material oficial da Central, v1.1) diz 6 vídeos de venda por dia em cada conta, com 1 h ou mais entre eles, e no mínimo 4 contas (2 Insta + 2 páginas do Face). Vários alunos no Discord postam de 3 a 4 por dia no Insta. Mas você me orientou a fazer 3 por dia e agora 2 por dia no Insta, às 19h30 e à 0h, porque é a janela em que a Índia some na minha conta (a manhã e a tarde caem na Índia). Hoje eu tenho só 1 conta de Insta e 1 página do Face, as duas com a mesma avatar. (1) Como esses números se encaixam? O 6 por dia do plano vale para conta de Insta saudável, só para o Face, ou pressupõe as 4 contas? (2) Se a janela boa do Insta é só das 19h30 à 0h30, onde iriam os outros vídeos do dia: no Face, numa 2ª conta de Insta, ou na mesma conta com 1 h entre eles dentro dessa janela? (3) Os alunos que postam 3 a 4 por dia no Insta e não travam fazem diferente de mim em quê (mais contas, horários, formatos variados, vídeos repetidos)? (4) Os 2 por dia são só para a recuperação desta conta ou o teto dela daqui pra frente? Qual é a rotina final que você recomenda para 1 Insta + 1 página do Face (quantos por dia e em que horários em cada um), e quando eu passo da recuperação para ela?"
+
+**Resposta:** (colar aqui)
+
+---
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 
