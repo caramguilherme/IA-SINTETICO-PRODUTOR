@@ -115,3 +115,8 @@ Produto famoso: **o pote de canela em pó da McCormick (Ground Cinnamon), com o 
 - 3,5 s: a nuvem cobre o quadro (corte para o Take 1).
 Sem mágica (moeda que cai do nada): os virais são rituais reais, feitos na frente da câmera. Áudio só do ambiente (o pó caindo, a colher no vidro, o sopro). Gerar com frame inicial (ela segurando o pote) e final (a nuvem na frente da lente).
 
+### 13/11/2026 15h51, o aluno preferiu o hook da canela ao do bicarbonato ("gostei mais desse hook")
+- **Canela (`d1311-PRE-canela-HOOK`, nora63):** movimento desde o 1º quadro (a canela já caindo na água), 4 trocas em 3,8 s e um fim que vem para cima de quem assiste (o sopro, com a nuvem cobrindo a tela e a Nora de frente para a lente), com o corte para o Take 1 no pico.
+- **Bicarbonato (`d1311-PRE-bic-HOOK`, nora62):** o 1º instante mais parado (a colher ainda sobre o copo), a Nora olhando para baixo num plano aberto e o fim num sorriso calmo; no Face abriu com 24,1% nos 3 s (13/11 15h32, ~2h30).
+- **Para os próximos hooks:** começar no meio da ação, terminar com algo vindo na direção da câmera (soprar, jogar, derramar para a lente) com a Nora de frente, e cortar para a fala no pico.
+
