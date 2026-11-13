@@ -36,3 +36,7 @@ Estilo novo que funcionar entra na tabela e no `ESTILOS` do script, com a paleta
 - Não voltar à caixa branca com preto e vermelho por padrão.
 - Não usar cor que some no fundo (contraste baixo) nem mais de 2 fontes no mesmo vídeo.
 - Não pôr efeito animado nem mudar o estilo no meio do vídeo.
+
+## Regra de 12/11/2026 23h25 (dados do Face): a caixa do topo lê em 1 segundo
+O nora59 (`nevoa-taupe`, caixa clara sobre o céu cinza do tsunami, data em itálico fino) segurou 27% nos 3 s no Face. Com o mesmo tsunami, os anteriores seguraram ~42% a 54%. **Na caixa do topo, que aparece nos 3 primeiros segundos, o contraste vem antes da beleza:** caixa sólida (opacidade alta), texto em negrito, a 1ª linha (data ou para quem é) em negrito e numa cor forte, sem itálico fino. Escolher o estilo pela cor do pré-gancho (o 1º quadro), não só pela cena da Nora. As outras caixas (faixa do CTA, prova) podem levar o itálico de destaque.
+
