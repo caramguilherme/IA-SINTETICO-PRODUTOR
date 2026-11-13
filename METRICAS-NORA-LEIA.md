@@ -598,6 +598,14 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
   2. **A Índia veio em 55% mesmo às 23h19**, dentro da janela da R37. Com um começo que não segura, o Reels não passa da amostra inicial e cai para a Índia; o horário sozinho não protege. A âncora da volta precisa de um começo forte (a peneira com movimento desde o 1º quadro, a caixa amarela de alto contraste) além do horário.
   3. Nada muda no plano: pausa até 23h20, volta à 0h com a Nora falando.
 
+### 13/11/2026 10h32, INSTA nora59 (12/11 16h05, ~18h27; Insights do aluno)
+- **149 views, 137 viewers, skip 55,8% (44,2% nos 3 s), selo "strong hook", tempo médio 6 s num vídeo de 42 s, 1 follow, 0 visitas ao perfil**, 1 curtida, 1 comentário (provavelmente o fixado), 1 salvo; 6,1% seguidores; 45+ = 47,6%; **Índia 43,5%, EUA 7,5%**. Curva: ~60% aos 2 s, ~45% aos 4 s, ~25% aos 10 s, ~10% aos 15 s; parado desde ~4 h.
+- **O que mostra:**
+  1. **O tsunami ainda segura o começo** (44% com a conta saturada; o envelope do nora60 fez 27,7% no dia seguinte). Mas, depois de 9 usos, ele sai do Insta na volta (R39); a peneira estreia hoje.
+  2. **O corpo de 2027 ("the hardest part of your year is over") não segurou:** só ~10% chegam aos 15 s e ninguém visitou o perfil. Com a conta saturada não dá para condenar o corpo (os 3 campeões fizeram 19 a 21 s de tempo médio com a conta sem saturação), mas o vídeo da volta já usa outro corpo (o de sexta-feira 13, da R39), com 4 falas mais curtas e o pedido do 222 no fim.
+  3. **A Índia em 43,5% às 16h05** confirma a R37: tarde no Insta puxa a Índia. A grade das 19h30 e da 0h fica.
+- Régua do nora59 (12/11 16h02: 300+ views, alguma visita, tempo médio de 15 s ou mais): **não passou** em nenhum dos três, como esperado com a saturação.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
