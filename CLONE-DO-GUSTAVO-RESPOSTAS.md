@@ -496,6 +496,13 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 
 ---
 
+## R36 (pergunta pronta em 12/11 ~23h45; resposta a colar): a correção da R35, o 1º post depois da pausa e a headline de sexta-feira 13
+**Pergunta:** "Uma correção na minha pergunta anterior: em 11/11 postei 4 vídeos, não 6 (10h20, 13h50, 16h55 e 19h25). Somando os 4 da noite de 10/11 (19h30, 21h35, 23h40 e 01h39), foram 8 vídeos em ~24 h, e não 10 em 30 h. E já postei mais um hoje, 12/11, às 23h19 (o curto, com outro pré-gancho). (1) Com esse número certo, o diagnóstico e o plano mudam (pausa de 24 h no Insta, depois 1 a 2 por dia às 20h e à 0h de Brasília)? A pausa de 24 h conta a partir desse post das 23h19? (2) O 1º post depois da pausa ia ser um POV de amor: paisagem de lago ao pôr do sol, só a voz da avatar, legenda e a caixa do topo, à 0h de 13 para 14/11. É melhor ele ou um vídeo com a avatar falando, no formato que já fez 1,4 mil a 2 mil? (3) Amanhã é sexta-feira 13, e o Take 1 aprovado é: 'If you see this on Friday the 13th, take a breath: today is where your luck finally turns around.' Me dá 3 opções de headline curta em inglês para a caixa do topo, específicas como o 'if you keep seeing 11:11' (que segurou 70%), com as cores e o estilo de caixa que as aulas recomendam, e algum elemento que puxe o público dos EUA sem afastar o resto do Tier 1."
+
+**Resposta:** (colar aqui)
+
+---
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 
