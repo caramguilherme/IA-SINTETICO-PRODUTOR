@@ -631,3 +631,10 @@ vou testar desse jeito, pra si mesma e dps pra alguém de confiança
 aqui o hook visual ainda segura, sem ele perdi metade no começo, mas vou caçar hook de copy no tiktok tb
 qnd sair o resultado te falo
 ```
+Versão 2 (13/11 15h25, pedido do aluno: perguntar como ele pesquisa no TikTok), no lugar da 1ª se ela ainda não foi; se a 1ª já foi, a pergunta vai só depois da resposta dele (nunca duas sem resposta):
+```
+show, valeu mano
+vou testar desse jeito, pra si mesma e dps pra alguém de confiança
+aqui o hook visual ainda segura, sem ele perdi metade no começo
+e no tiktok vc pesquisa como? pela palavra manifestation ou tem outra q acha mais coisa?
+```
