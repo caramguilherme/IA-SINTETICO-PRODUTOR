@@ -587,6 +587,10 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
   4. **O Face também travou para tudo o que não é o nora55** (todos entre −1,2x e 0,0x, 150 a 330 views): o nora55 foi o 1º do dia 11, depois de ~9 h sem post no Face; os seguintes vieram de 3 em 3 h, com o mesmo corpo do dia. Na grade de hoje o Face fica com no máximo 4 a 5 posts e cada um com outro ângulo.
 - Dashboard atualizado com esta leitura (versão no `CLAUDE.md`, seção 1).
 
+### 13/11/2026 10h28, INSTA (grade do perfil, só views; print do aluno)
+- **nora60 (12/11 23h19, ~11 h): 171 views** (o envelope como pré-gancho, 1º teste dele no Insta); **nora59: 149** com ~18h20 (era 141 com ~7 h: quase parado). Os outros quase não mexeram desde 12/11 ~11h50 (nora58 171, nora57 120, nora56 192, nora55 140; kit 151 a 889; nora50 1.678, nora49 2.043, nora48 1.638).
+- **Leitura:** o nora60 saiu depois de ~7 h sem post no Insta e, com ~11 h, está no mesmo patamar dos travados (120 a 220). Confirma a saturação da R35 e a pausa até 23h20 de hoje. Pedidos ao aluno os detalhados do nora60 e do nora59 (3 s, tempo médio, visitas ao perfil, comentários, Índia), que decidem se o envelope segura melhor que o tsunami nos 3 s.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
