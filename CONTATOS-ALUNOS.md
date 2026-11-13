@@ -17,7 +17,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **13ª leitura (10/11 ~14h):** resposta ao Adão Gomes (CTA de engajamento e view) no #chat-appyon e parabéns ao Romulo Urbano no #vitórias: enviados (toda resposta sugerida conta como enviada). A pergunta do Bruno Freitas sobre a ferramenta de silêncio com 4 min já tinha sido respondida em 06/11.
 - **12ª leitura (10/11):** respostas a João Paulo (CTA de Face e Insta), Paulo Infante (quadro de validação) e Mateus Guisolffi (Insta travado no nome), no #chat-appyon, e parabéns ao Rundouglas no #vitórias: enviadas (toda resposta sugerida conta como enviada). Bruno Freitas e Eduarda Kelly: só reação.
 - **Kaike:** respondeu em 07/11 19h41 ("exato mano" sobre o tsunami; pré-hooks "sempre fazendo alguma coisa com objetos, mas que está dentro do nicho"); agradecimento enviado em 09/11. Voltar com resultado.
-- **Lari:** respondeu em 07/11 12h10 (os 6 por dia eram o mesmo vídeo trocando algo no cenário; agora troca mais coisas, a copy também); agradecimento enviado em 09/11. Volta com resultado enviada em 12/11 16h29 (6 por dia: Face bem, Insta abaixo de 200). **Respondeu em 12/11 16h29 a 16h30: "Oii" e 3 áudios (11 s, 32 s e 38 s), ainda não ouvidos (print do aluno em 13/11 00h24): pedir os áudios para transcrever antes de responder.**
+- **Lari:** respondeu em 07/11 12h10 (os 6 por dia eram o mesmo vídeo trocando algo no cenário; agora troca mais coisas, a copy também); agradecimento enviado em 09/11. Volta com resultado enviada em 12/11 16h29 (6 por dia: Face bem, Insta abaixo de 200). **Respondeu em 12/11 16h29 a 16h30: "Oii" e 3 áudios (11 s, 32 s e 38 s); o aluno passou o conteúdo em 13/11 00h26:** uns vídeos dela foram bem no Insta e outros no Face; foi mudando uma coisa por vez e alguns acertaram nas duas redes; está reformulando a estratégia porque a conversão não estava boa; acha que o problema do Insta da Nora não é só a quantidade de posts ("pode estar influenciando"), e sim testar copies novas ("você sempre fala que está testando uma copy só"); no Face, postar 1 ou 2 por dia do que já estava dando certo. **Resposta sugerida em 13/11 00h28** (pergunta o que ela vai mudar para melhorar a conversão). Esperar.
 - **Felps:** respondeu em 07/11 10h49 (2 áudios: a avatar parece "muito artificial", com cara de filmagem profissional; ele busca a sensação de vídeo gravado no celular, orgânico, como a Soma Chhaya); resposta com 1 pergunta enviada em 09/11 (13h11). **Respondeu em 10/11 10h04 com um áudio de 43 s** (o aluno colou o texto): pega no Pinterest uma foto natural com as características que quer, leva ao chat e pede a imagem "idêntica, com a mesma iluminação"; e sempre reforça, como regra, que a foto "parece tirada por um iPhone 14, 13 ou 15". Resposta enviada em 10/11 (obrigado + 1 pergunta). Esperar.
 - **Castanho:** respondeu em 07/11 10h40 ("3 a 6 por página"); o aluno viu em 10/11 e respondeu (de onde vem o clique no Face). Esperar.
 - **Esperando resposta (não mandar outra):** Marcelo (respondido em 06/11), Letícia (X), Bruno Freitas, rodrigo (#vitórias), Jessica (06/11), Lívia (conversa fechada em 06/11 12h33; voltar com resultado novo), Eduarda Kelly, Gustavo M., Caio, Neto e Cleidiane, Chefinho e Gabriel soares (10ª leitura, 06/11).
@@ -582,5 +582,13 @@ boa, valeu joao
 aqui tb tá no fim, é a ultima coisa q ela fala
 e vc pede pra comentar alguma coisa no vídeo (tipo 222) ou deixa só o story?
 to voltando a pedir o comentário hj, logo depois do cta, pq meus 3 melhores tinham isso
+```
+
+## ENVIADO (13/11/2026 00h28; DM à Lari, depois dos 3 áudios de 12/11 16h30: testar copies novas no Insta e manter 1 ou 2 do que já deu certo no Face; uma mensagem só)
+```
+faz mt sentido lari, valeu demais
+vi isso nas aulas tb, o iorhan fala q a mesma copy todo dia para de funcionar em uns 7 a 10 dias
+agora to fazendo cada vídeo do dia com outro assunto ou formato, e no face mantenho 1 ou 2 do q já deu certo
+e na conversão, oq vc ta pensando em mudar? o cta, o story ou o vídeo em si?
 ```
 
