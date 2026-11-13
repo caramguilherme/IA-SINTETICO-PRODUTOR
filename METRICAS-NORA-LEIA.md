@@ -591,6 +591,13 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **nora60 (12/11 23h19, ~11 h): 171 views** (o envelope como pré-gancho, 1º teste dele no Insta); **nora59: 149** com ~18h20 (era 141 com ~7 h: quase parado). Os outros quase não mexeram desde 12/11 ~11h50 (nora58 171, nora57 120, nora56 192, nora55 140; kit 151 a 889; nora50 1.678, nora49 2.043, nora48 1.638).
 - **Leitura:** o nora60 saiu depois de ~7 h sem post no Insta e, com ~11 h, está no mesmo patamar dos travados (120 a 220). Confirma a saturação da R35 e a pausa até 23h20 de hoje. Pedidos ao aluno os detalhados do nora60 e do nora59 (3 s, tempo médio, visitas ao perfil, comentários, Índia), que decidem se o envelope segura melhor que o tsunami nos 3 s.
 
+### 13/11/2026 10h30, INSTA nora60 (12/11 23h19, ~11h11; Insights do aluno)
+- **171 views, 166 viewers, skip 72,3% (só 27,7% passam dos 3 s), tempo médio 3 s, 0 follows, 0 visitas ao perfil**, 3 curtidas (no 1º segundo e aos ~2 s), 1 comentário (provavelmente o fixado), 2 salvos; 100% não seguidores; 25-34 = 42,7% (público mais novo que o de costume); **Índia 55,0%, EUA 14,6%**, Canadá 5,8%, Irã 4,7%, Austrália 1,8%. Curva: ~40% aos 2 s e ~20% aos 4 s; no Face, a versão com o tsunami espelhado segurou 44,3%.
+- **O que mostra:**
+  1. **O envelope reprovou como pré-gancho no Insta:** 27,7% nos 3 s, contra 42% do nora59 (tsunami, mesmo dia, conta saturada) e 53,8% do nora58. Some da fila de pré-ganchos do Insta e **a versão do Face do vídeo da volta (0h de hoje) vai com o tsunami espelhado no lugar do envelope** (o que segurou 44,3% no Face ontem); o Insta vai com a peneira de moedas, como decidido.
+  2. **A Índia veio em 55% mesmo às 23h19**, dentro da janela da R37. Com um começo que não segura, o Reels não passa da amostra inicial e cai para a Índia; o horário sozinho não protege. A âncora da volta precisa de um começo forte (a peneira com movimento desde o 1º quadro, a caixa amarela de alto contraste) além do horário.
+  3. Nada muda no plano: pausa até 23h20, volta à 0h com a Nora falando.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
