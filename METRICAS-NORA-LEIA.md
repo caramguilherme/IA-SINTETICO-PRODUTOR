@@ -562,6 +562,9 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 ### 12/11/2026 17h57 - emp1211 postado (só Face, o horário das 18h)
 - Empilhamento de 27,1 s: 3 s da casa com "There's a reason this video reached your screen today" + o trecho do corpo A do nora49 sem data (1,1x, filtro leve), com a faixa do comentário. É o 1º teste do empilhamento no Face, depois do slideshow (4 views). A régua é ficar acima de ~240 a 320 views (onde o Face trava quando o gancho não pega) e comparar com o nora58 no Face (324).
 
+### 12/11/2026 23h19 - nora60 postado (Insta e Face)
+- O curto do corpo novo, ao vivo às 23h19 (era 20h; 21h19 em Nova York, ainda quinta). Insta (22,7 s) com o envelope de pré-gancho, Face (23,2 s) com o tsunami curto espelhado, o do nora55. Take 1 = o piloto do Omni 1.2. ~7h15 depois do nora59 no Insta. **Mede:** o envelope contra o tsunami nos 3 s (Insta x Face, com ressalva: redes diferentes) e o Omni 1.2 no ar pela 1ª vez.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
