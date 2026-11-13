@@ -606,6 +606,15 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
   3. **A Índia em 43,5% às 16h05** confirma a R37: tarde no Insta puxa a Índia. A grade das 19h30 e da 0h fica.
 - Régua do nora59 (12/11 16h02: 300+ views, alguma visita, tempo médio de 15 s ou mais): **não passou** em nenhum dos três, como esperado com a saturação.
 
+### 13/11/2026 15h32, FACE (Biblioteca; print do aluno)
+- **nora62 (o bicarbonato, 13h03, ~2h29): 108 views, 72 visualizadores, 26 views de 3 s (24,1%), tempo médio 4 s, distribuição −0,4x, 1 seguidor novo, 2 engajamentos, 1 comentário (o da Página).** Views 1,5 vezes os visualizadores (o vídeo de 20 s está repetindo em loop para parte de quem vê).
+- nora61 (POV de amor, 10h20, ~5h12): 55 views, 20,0% nos 3 s, 3 s de tempo médio, −0,5x.
+- nora60-FACE (12/11 23h19, ~16h): 199 views (era 185), 47,7% nos 3 s, 6 s de tempo médio, −0,1x: o melhor começo dos vídeos novos no Face.
+- emp1211 212 (21,7%), nora59-FACE 160 (30,0%), slideshow 9, nora56 a nora58 iguais (258, 153, 328); **nora55 4.231** (+8,6x, 44 seguidores, 58 comentários; quase parou desde as 10h23).
+- **O que mostra:**
+  1. **O Face de hoje está fraco nos dois posts (−0,4x e −0,5x)**, e os 2 abriram com menos de 25% nos 3 s. Os que seguram de 42% a 54% nos 3 s abrem com a Nora de frente ou o tsunami desde o 1º quadro (nora55, nora56 a nora58, nora60-FACE); o POV (paisagem) e o hook do bicarbonato abrem com a Nora olhando para baixo, num plano aberto de cozinha, e o empilhamento abre parado (21,7%). Ainda é cedo para julgar o nora62 (régua com ~24 h), mas o sinal do começo é o mesmo do empilhamento.
+  2. **Para o hook da canela (0h, Insta e Face):** o 1º quadro abre já no movimento mais forte (a canela caindo e se abrindo na água), sem o instante parado de antes da ação; a caixa amarela no 1º quadro. A canela continua (modelada do viral nº 3; uma variável por vez, e o Insta é outro público). O nora62 com ~24 h (amanhã ~13h) decide se o hook de produto na cozinha fica no Face.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
