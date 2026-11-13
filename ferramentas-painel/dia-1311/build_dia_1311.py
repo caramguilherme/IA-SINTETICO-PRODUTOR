@@ -218,10 +218,10 @@ _FIM_IMG = ('looks exactly like a real casual iPhone photo, slight phone grain, 
             'photorealistic, unretouched, vertical 9:16')
 BIC_REF = ('Use the attached images as references: ' + _NORA + 'her plain black fitted square-neck tank top and the very oversized open heather-grey zip-up hoodie exactly the same); '
            'the second image is the real Arm & Hammer Pure Baking Soda box; the third is the real Heinz All Natural Distilled White Vinegar bottle. RAW photo taken in the '
-           'daytime with a phone propped on a kitchen counter about 70 centimeters in front of her: the same woman stands behind a real lived-in American kitchen counter in '
+           'daytime from about 70 centimeters in front of her, at chest height (no phone, phone stand or tripod anywhere in the image): the same woman stands behind a real lived-in American kitchen counter in '
            'bright daylight from a window, white cabinets behind her; ')
 CAN_REF = ('Use the attached images as references: ' + _NORA + 'her plain black fitted square-neck tank top with wide straps exactly the same); the second image is the real '
-           'McCormick Ground Cinnamon bottle. RAW photo taken at night with a phone propped on a kitchen counter about 70 centimeters in front of her: the same woman stands '
+           'McCormick Ground Cinnamon bottle. RAW photo taken at night from about 70 centimeters in front of her, at chest height (no phone, phone stand or tripod anywhere in the image): the same woman stands '
            'behind a real lived-in American kitchen counter at night, warm light from a pendant lamp above, dark cabinets behind her; ')
 BOX = 'the exact Arm & Hammer Pure Baking Soda box from the reference photo (orange and yellow box, the arm-and-hammer logo in the red circle, "pure Baking Soda")'
 HEINZ = 'the exact Heinz Distilled White Vinegar bottle from the reference photo'
@@ -267,7 +267,7 @@ IMGS = {
 
 
 def _vid(luz, acao, som, trava):
-    return (f'Use the supplied image as the first frame. Real phone video {luz}, the phone propped on the counter, steady, no zoom, real speed, no slow motion. The action '
+    return (f'Use the supplied image as the first frame. Real casual video {luz} from a static camera at chest height, steady, no zoom, real speed, no slow motion; no phone, phone stand or tripod ever appears in the frame. The action '
             f'starts in the very first frame: {acao} Then everything holds still until the clip ends. {trava} The labels stay exactly as in the first frame, sharp and '
             'unchanged; each hand has exactly five fingers; nothing else appears or disappears. AUDIO: close ASMR kitchen sounds only: ' + som + '; no music, no voice, '
             'she does not speak. No on-screen text, no captions.')
@@ -444,7 +444,7 @@ def montar(n):
     p['edicao_linha'] = [
         {'quando': 'A. Antes de tudo', 'texto': f'Projeto novo no CapCut com o {corte}', 'como': 'É o vídeo que saiu da FusionZ.'},
         {'quando': 'B. Pré-gancho: NÃO põe no CapCut', 'texto': f'Os {nv} vídeos do pré-gancho ({pre}-…, os 2 de cada, -a e -b): mande todos para mim junto com o montado',
-         'como': 'Eu corto o melhor ~0,8 s de cada, junto o pré-gancho (~3,8 s) e ponho no começo, antes do Take 1, com o riser e o impact. O montado começa direto no Take 1.'},
+         'como': 'Descarte imagem com celular ou suporte no quadro. Eu corto o melhor ~0,8 s de cada, junto o pré-gancho (~3,8 s) e ponho no começo, antes do Take 1, com o riser e o impact. O montado começa direto no Take 1.'},
         {'quando': '1. Do Take 1 ao fim', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB', 'como': 'Começa no 1º quadro do montado (o Take 1).'},
         {'quando': '2. Exportar e me mandar', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
          'como': f'1080×1920, qualidade alta, nome {nn}-montado (acima de 30 MB, link do Drive). Eu ponho tudo e devolvo ' + (f'o {nn}-final-FACE.' if v['tipo'] == 'face' else f'o {nn}-final (Insta: T01 a T05, com o 222) e o {nn}-final-FACE (T01 a T03 + o T06, com a faixa do comentário).')}]
