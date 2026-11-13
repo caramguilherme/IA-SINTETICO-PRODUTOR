@@ -1,0 +1,373 @@
+{
+ "entrada": "/tmp/claude-0/-home-user-IA-SINTETICO-PRODUTOR/6ef474f7-381e-57e0-a979-e45ed783b267/scratchpad/ed62/nora62-montado.mp4",
+ "saida": "/tmp/claude-0/-home-user-IA-SINTETICO-PRODUTOR/6ef474f7-381e-57e0-a979-e45ed783b267/scratchpad/ed62/nora62-final-FACE.mp4",
+ "crf": 21,
+ "preset": "medium",
+ "estilo": "nevoa-taupe",
+ "corte": 3.875,
+ "respiro": 0.1,
+ "sons": [
+  {
+   "som": "riser-lento",
+   "pico_em": "corte-0.1"
+  },
+  {
+   "som": "impact",
+   "pico_em": "corte"
+  }
+ ],
+ "itens": [
+  {
+   "tipo": "caixa",
+   "ini": 0,
+   "fim": 8.417,
+   "x": 0,
+   "y": 458,
+   "tamanho": 9,
+   "linhas": [
+    "FRIDAY 13TH:",
+    "THE BAKING SODA TRICK"
+   ],
+   "caixa": {
+    "fundo": [
+     255,
+     215,
+     0,
+     255
+    ],
+    "texto": "#000000",
+    "destaque": "#000000",
+    "fonte": "bold",
+    "destaque_fonte": "bold",
+    "sombra": "#000000"
+   }
+  },
+  {
+   "tipo": "texto",
+   "ini": 0,
+   "fim": 20.12,
+   "x": 230,
+   "y": 282,
+   "tamanho": 15,
+   "texto": "11:11",
+   "cor": "#FFD21F"
+  },
+  {
+   "tipo": "texto",
+   "ini": 0,
+   "fim": 20.12,
+   "x": -230,
+   "y": 282,
+   "tamanho": 13,
+   "texto": "222",
+   "cor": "#FFFFFF"
+  },
+  {
+   "tipo": "texto",
+   "ini": 0,
+   "fim": 20.12,
+   "x": -230,
+   "y": 40,
+   "tamanho": 11,
+   "texto": "888",
+   "cor": "#7CFF4F"
+  },
+  {
+   "tipo": "legenda",
+   "ini": 3.875,
+   "fim": 20.12,
+   "palavras": [
+    [
+     "Drop",
+     3.92,
+     3.84
+    ],
+    [
+     "baking",
+     3.84,
+     4.4
+    ],
+    [
+     "soda",
+     4.4,
+     4.74
+    ],
+    [
+     "in",
+     4.74,
+     4.96
+    ],
+    [
+     "water",
+     4.96,
+     5.26
+    ],
+    [
+     "this",
+     5.26,
+     5.54
+    ],
+    [
+     "Friday",
+     5.54,
+     5.8
+    ],
+    [
+     "the",
+     5.8,
+     6.02
+    ],
+    [
+     "13th.",
+     6.02,
+     6.66
+    ],
+    [
+     "Your",
+     6.72,
+     6.8
+    ],
+    [
+     "luck",
+     6.8,
+     7.1
+    ],
+    [
+     "is",
+     7.1,
+     7.4
+    ],
+    [
+     "about",
+     7.4,
+     7.6
+    ],
+    [
+     "to",
+     7.6,
+     7.78
+    ],
+    [
+     "change.",
+     7.78,
+     8.12
+    ],
+    [
+     "Today",
+     8.44,
+     8.68
+    ],
+    [
+     "a",
+     8.68,
+     8.88
+    ],
+    [
+     "financial",
+     8.88,
+     9.22
+    ],
+    [
+     "door",
+     9.22,
+     9.56
+    ],
+    [
+     "that",
+     9.56,
+     9.72
+    ],
+    [
+     "was",
+     9.72,
+     9.84
+    ],
+    [
+     "locked",
+     9.84,
+     10.14
+    ],
+    [
+     "all",
+     10.14,
+     10.4
+    ],
+    [
+     "year",
+     10.4,
+     10.68
+    ],
+    [
+     "is",
+     10.68,
+     10.96
+    ],
+    [
+     "finally",
+     10.96,
+     11.4
+    ],
+    [
+     "opening",
+     11.4,
+     11.86
+    ],
+    [
+     "to",
+     11.86,
+     12.2
+    ],
+    [
+     "bring",
+     12.2,
+     12.42
+    ],
+    [
+     "unexpected",
+     12.42,
+     12.94
+    ],
+    [
+     "ease",
+     12.94,
+     13.5
+    ],
+    [
+     "to",
+     13.5,
+     13.74
+    ],
+    [
+     "your",
+     13.74,
+     13.86
+    ],
+    [
+     "family.",
+     13.86,
+     14.2
+    ],
+    [
+     "This",
+     14.48,
+     14.62
+    ],
+    [
+     "blessing",
+     14.62,
+     15.0
+    ],
+    [
+     "doesn't",
+     15.0,
+     15.46
+    ],
+    [
+     "happen",
+     15.46,
+     15.76
+    ],
+    [
+     "for",
+     15.76,
+     16.04
+    ],
+    [
+     "everyone.",
+     16.04,
+     16.46
+    ],
+    [
+     "Look",
+     16.76,
+     16.88
+    ],
+    [
+     "in",
+     16.88,
+     17.0
+    ],
+    [
+     "the",
+     17.0,
+     17.08
+    ],
+    [
+     "comments",
+     17.08,
+     17.36
+    ],
+    [
+     "below",
+     17.36,
+     17.74
+    ],
+    [
+     "to",
+     17.74,
+     17.96
+    ],
+    [
+     "see",
+     17.96,
+     18.16
+    ],
+    [
+     "what",
+     18.16,
+     18.32
+    ],
+    [
+     "2027",
+     18.32,
+     19.06
+    ],
+    [
+     "holds",
+     19.06,
+     19.48
+    ],
+    [
+     "for",
+     19.48,
+     19.72
+    ],
+    [
+     "you.",
+     19.72,
+     19.92
+    ]
+   ],
+   "destaques": [
+    "BAKING",
+    "SODA",
+    "FRIDAY",
+    "13TH.",
+    "LUCK",
+    "CHANGE.",
+    "FINANCIAL",
+    "DOOR",
+    "FINALLY",
+    "EASE",
+    "BLESSING",
+    "EVERYONE.",
+    "COMMENTS",
+    "2027"
+   ],
+   "y": -310,
+   "tamanho_px": 38
+  },
+  {
+   "tipo": "caixa",
+   "ini": 14.458,
+   "fim": 20.12,
+   "x": 0,
+   "y": 470,
+   "tamanho": 9,
+   "linhas": [
+    "Your 2027 reading:",
+    "[link in the comments]"
+   ]
+  }
+ ]
+}
