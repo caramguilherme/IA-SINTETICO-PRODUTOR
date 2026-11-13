@@ -5,6 +5,7 @@ Este arquivo junta tudo o que já deu errado ou que o aluno pediu. **Antes de en
 > **Desde 26/10/2026, as notas do Discord, os conselhos de outros alunos (DMs), as aulas e as decisões de estratégia (horário, volume no Face, avatar) ficam em `COMUNIDADE-E-ESTRATEGIA.md`.** Aqui ficam só as lições do Flow, dos prompts e do painel.
 
 ## 1. Checklist antes de entregar (marcar mentalmente cada item)
+0. **Pré-gancho (trava tudo; aluno, 13/11/2026 10h38):** a Nora no quadro desde o 1º quadro, fazendo um ritual ou fugindo de algo grande; uma coisa nova e visível a cada 0,5 s; o roteiro do pré-gancho escrito em batidas de 0,5 s e conferido com os virais do aluno antes de ir para o painel. Objeto que só brilha ou acende (vela, carta, envelope) e efeito só de mão não vão. Detalhe no topo da `BIBLIOTECA-PRE-GANCHOS.md`.
 1. **Espelha um viral?** Pré-gancho, gancho, objeto, texto do topo e edição saem de um vídeo de `BIBLIOTECA-VIDEOS-VIRAIS.md`, e o roteiro diz qual. Nada inventado. Se nenhum serve, dizer antes.
 2. **Tem movimento e efeito visível do começo ao fim?** Um efeito grande e fácil de ver (sal caindo, fumaça, esconderijo, pó soprado), não um gesto parado.
 3. **Só um efeito.** Sem cadeia de efeitos.
