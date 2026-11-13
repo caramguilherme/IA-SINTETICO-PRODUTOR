@@ -8,7 +8,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **Ricardo Santana:** respondeu em 09/11 12h58 (CTA no fim; no meio, pedido de comentário; "a copy tem que ser bem convincente pra pessoa ficar até o final"). Resposta de fechamento enviada; voltar com o resultado do kit do portal (versão curta x longa, CTA mais cedo; o "nora54 do corpo A" saiu do plano em 10/11). **Marcus:** voltar com o mesmo resultado (CTA mais cedo).
 - **11ª leitura (09/11):** respostas a sordisss (Índia: horário) e Eduarda Fernandes (texto do story) enviadas.
 - **joao (Sargento):** respondeu em 09/11 17h29 (ganchos + texto do story) e em 10/11 00h44 ("depende do gancho": usa com fala e sem fala; o que importa é prender nos primeiros segundos); fechamento enviado em 10/11 (~11h). **Voltar com o resultado do kit do portal (só fala x cena + fala) em ~12/11**, com 1 pergunta nova.
-- **Lucas Dusi:** respondeu em 10/11 14h49 (filtrar o público no body + reason why forte no CTA) e **em 10/11 18h13 a 18h27** (hook mais aberto, filtro no body; o exemplo do reason why: "para manifestar X você precisa de uma âncora física de manifestação… toque na minha foto"; "dá pra pesquisar com o GPT, Claude ou Gemini o que as pessoas acreditam que precisam pra manifestar"). **Agradecimento enviado em 10/11 ~23h10** (sem pergunta nova). Voltar com o resultado do kit e do CTA novo.
+- **Lucas Dusi:** respondeu em 10/11 14h49 (filtrar o público no body + reason why forte no CTA) e **em 10/11 18h13 a 18h27** (hook mais aberto, filtro no body; o exemplo do reason why: "para manifestar X você precisa de uma âncora física de manifestação… toque na minha foto"; "dá pra pesquisar com o GPT, Claude ou Gemini o que as pessoas acreditam que precisam pra manifestar"). **Agradecimento enviado em 10/11 ~23h10** (sem pergunta nova). Voltar com o resultado do kit e do CTA novo. **12/11 13h17:** mandou os reason whys que funcionam nos EUA (lá não acreditam muito em inveja; acreditam em vibração da escassez, campo vibracional, subconsciente e ação física para manifestar); resposta enviada às 16h34. **Respondeu em 12/11 19h58:** "parece dar bom mesmo, o povo que acredita nisso acredita mto em datas e períodos"; "a conversão aqui tava bem baixa, mas aumentou conforme eu fui mudando o formato igual eles pediram"; mantém as mesmas copies e quer aprender copy. **Resposta sugerida em 13/11 00h25** (pergunta qual formato ele mudou + o achado do "comment 222" depois do CTA). Esperar.
 - **12/11 ~16h30, voltas com resultado (DM, pedido do aluno: "faz tempo que não conversamos com alguém"):** joao (o teste só com fala x cena), Kaike (o tsunami de volta, 3,9 mil no Face; a pedra não chegou a ser testada) e Lari (6 por dia: Face bem, Insta caiu): enviadas (toda resposta sugerida conta como enviada). Esperar resposta de cada um; Ricardo e Marcus ficam para quando o nora59 tiver número (CTA novo).
 - **17ª leitura (12/11 ~16h25):** respostas a th (duração dos vídeos), gabrielbfrota (taxa de clique das DMs no Face) e Wall (Flow implicando com a copy), no #chat-appyon, e parabéns ao Evair no #vitórias: enviadas (toda resposta sugerida conta como enviada).
 - **16ª leitura (12/11 ~01h):** resposta ao Vini BR (volume: 4 a 6 por dia com 2 h), no #chat-appyon: enviada (toda resposta sugerida conta como enviada).
@@ -565,5 +565,14 @@ faz mt sentido, aqui bateu com isso
 o corpo novo q postei hj vai nessa linha: o peso que ela carregou o ano todo e quando a energia dela alinha com esse novo capítulo, o que ela deseja começa a chegar
 e o cta fala de 2027, que o pessoal da appyon disse que dobrou a conversão da vsl
 assim q tiver número te mando
+```
+
+## ENVIADO (13/11/2026 00h25; DM ao Lucas Dusi, depois da resposta dele de 12/11 19h58: datas e períodos, a conversão subiu mudando o formato como a Appyon pediu; uma mensagem só)
+```
+boa mano
+faz sentido, data pega mt aqui tb, hj a noite sai um meu de sexta 13
+qual formato vc mudou q a conversão subiu? foi oq eles passaram nas ultimas calls?
+uma coisa q eu vi aqui: os 3 videos meus q mais deram view tinham "comment 222" na fala, logo depois do cta do story. tirei e caiu (junto com eu postando demais)
+to voltando com ele hj, depois te conto
 ```
 
