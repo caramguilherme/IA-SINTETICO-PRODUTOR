@@ -590,7 +590,22 @@ Entraram no `BIBLIOTECA-PRE-GANCHOS.md` (nº 32 a 38), **na frente das ideias 27
 ## R40 (pergunta pronta em 13/11 00h10, depois das transcrições das aulas 31, 32 e 43; resposta a colar): os selos e o "comment 222" na fala
 **Pergunta:** "Conferi as transcrições dos meus 3 Reels que fizeram 1,6 mil a 2 mil views (06/11 a 10/11): todos fechavam com 'Now save this video. That will be your first seal. Tap the follow button down below. That will be your second seal. Comment 222 to claim this energy. Then tap my profile picture. The second part of this sign is waiting in my stories.' Um deles teve 26 comentários e 23 salvamentos com 10 h; outro terminou com 30 salvamentos e 17 follows. Desde 10/11 tirei da fala os pedidos de salvar, seguir e comentar (pela sua orientação de que o pedido de comentário rouba o clique do story), e todos os vídeos seguintes ficaram entre 118 e 219 views. Só que, nesses mesmos dias, eu postei demais, então as duas causas se misturam. Na live do funil de prosperidade (31/08), o Gustavo diz: 'sempre bota um CTA de comentário, dá engajamento pra caralho no vídeo'. (1) No vídeo da volta (sexta-feira 13, à 0h), ponho um take de engajamento ou deixo sem, como você escreveu? (2) Se entrar, só o comentário ('Comment 222 to claim this luck.') ou também os selos (salvar e seguir)? (3) Ele vai antes do CTA do story, como nos 3 campeões, ou depois, como o Iorhan ensina (engajamento depois do CTA)? (4) Isso não mistura duas variáveis na volta (o corpo novo e o pedido)?"
 
-**Resposta:** (colar aqui)
+**Resposta (resumo; colada pelo aluno em 13/11 00h19):**
+1. **Entra um take curto de comentário.** Aula 43: "sempre bota um ctazinho de comentário… dá engajamento pra caralho no vídeo… só de colocar elementos tipo 222 na tela as pessoas já comentam". O Reels usa os comentários dos primeiros 15 a 30 minutos como sinal para abrir a distribuição; tirar todo pedido de interação, junto com o excesso de posts, tirou esse sinal.
+2. **Só o comentário; os selos (salvar, seguir, mandar para si) saem.** Aula 65 (Iorhan, sobre uma copy com vários selos): "vocês estão dando tanto estímulo que cadê a conversão? Cadê o desejo, cadê o benefício?… você tá querendo engajamento a qualquer custo". Várias tarefas dispersam a atenção; o "222" é rápido e natural no nicho.
+3. **Depois do CTA do story, nos últimos 2 a 3 s.** Pedido antes do story faz a pessoa abrir o teclado, comentar e seguir rolando, sem ouvir o CTA. Aula 66 (Gustavo): "ele deve ficar depois do CTA… bem depois do CTA".
+4. **Não mistura de forma ruim:** volta à fórmula completa (corpo novo sem medo, CTA do story, micro-pedido do 222). A queda foi a colisão do excesso de posts com a falta de sinal de comentário.
+- **Fala do T5:** "And comment '222' below to lock in this blessing." (10 palavras, ~3 s). O resto igual à R39 (pré-gancho do envelope, T1 a T4). O Clone ofereceu um modelo de resposta para quem comentar "222" nos primeiros minutos.
+
+**Para a Nora (13/11 00h19, decisão minha):**
+- **Vídeo da volta (Insta, 0h de 13 para 14/11): peneira com moedas + T1 a T4 da R39 + T5 "And comment 222 below to lock in this blessing."** (o número sem aspas no prompt, falado "two two two", pela SPEECH RULE). +10 créditos (~90 no dia). O pré-gancho continua a peneira, não o envelope (o envelope abriu o nora60, o último post do Insta; R39).
+- **Regra nova (substitui a R24 na fala):** o pedido de comentário volta à fala, **só o comentário e só depois do CTA do story**, numa frase curta; selos (salvar, seguir, mandar para si) ficam fora. A legenda do Insta pede o mesmo número da fala, para não confundir.
+- **Face: sem o T5.** A versão do Face termina no CTA (o Face reduz a entrega de isca de engajamento; lá o CTA é o link no comentário). O corte é na edição, 0 crédito. O Face das 12h também vai sem pedido.
+- **Respostas a quem comentar "222" no Insta:** entram no painel 5 respostas curtas e diferentes, sem link, apontando para o story (o Insta não leva link no comentário), para o aluno responder nos primeiros 30 minutos.
+
+---
+
+
 
 ---
 
