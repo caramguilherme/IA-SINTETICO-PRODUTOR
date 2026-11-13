@@ -103,3 +103,15 @@ Aluno: "achei bem bosta, não prende atenção, não causa sensação de esperar
 ## Ideias de ritual do ChatGPT (mandadas pelo aluno em 13/11/2026; "rituais de manifestação práticos para hook visual")
 Servem como tema de ritual, **não como hook pronto**: quase todas são lentas ou só de mão (papel dobrado, água em câmera lenta, espelho que desembaça, porta que abre devagar), o contrário da regra do topo. As que viram hook se refeitas com a Nora em ação e batidas de 0,5 s: **folha de louro com o desejo, queimada** (ela escreve rápido, acende, a chama sobe, as cinzas voam; chama longe do rosto), **papel com o que ela deixa para trás, rasgado e jogado** (ela rasga em pedaços na frente da câmera e joga para o alto), **porta que ela abre e atravessa para uma luz forte**, **as 11:11 no relógio** (ela pega o celular que vira 11:11 e reage). Fora: promessa de que o ritual traz dinheiro ou amor (o ChatGPT avisa o mesmo; HONESTIDADE e P42).
 
+## 39. Canela no copo d'água (modelado do viral nº 3 do Scoped, 1,8 mi; o nº 2 e o nº 10 também com canela; 13/11/2026)
+Produto famoso: o pote de canela em pó de tampa vermelha, com o rótulo de frente para a câmera. A Nora na bancada da cozinha à noite, luz quente. Batidas de 0,5 s:
+- 0,0 s: ela já segura o pote virado para a câmera e gira a tampa.
+- 0,5 s: um jato grosso de canela cai num copo de água transparente.
+- 1,0 s: a canela bate na água e se abre num redemoinho (perto).
+- 1,5 s: ela mexe rápido com uma colher; o redemoinho dourado gira.
+- 2,0 s: ela levanta o copo contra a luz; a água fica âmbar.
+- 2,5 s: ela despeja canela na palma da mão.
+- 3,0 s: ela sopra; uma nuvem de canela voa na direção da lente.
+- 3,5 s: a nuvem cobre o quadro (corte para o Take 1).
+Sem mágica (moeda que cai do nada): os virais são rituais reais, feitos na frente da câmera. Áudio só do ambiente (o pó caindo, a colher no vidro, o sopro). Gerar com frame inicial (ela segurando o pote) e final (a nuvem na frente da lente).
+
