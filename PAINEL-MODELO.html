@@ -411,14 +411,17 @@ function montarRespFace(){
   $('rfAviso').textContent=r.aviso;
   const it=(tit,txt,i,pre)=>'<div class="item"><button class="cp" id="'+pre+i+'">Copiar</button><h3>'+esc(tit)+'</h3><div class="box">'+esc(txt)+'</div></div>';
   const dois=Array.isArray(r.dm2);  // 12/11 (Clone R30): direct em 2 passos (1º sem link; o link só quando ela responder)
+  const semDm=r.sem_direct===true;  // 13/11: directs do Face parados (Tracker de 12/11 com 0 clique): só a resposta pública
   const dmTxt=d=>dois?d:d+'\n\n'+r.link;
   const dm2Txt=d=>d.split('{link}').join(r.link);
-  $('rfBox').innerHTML='<div class="mono">Resposta no comentário (sem link)</div>'+r.comentario.map((c,i)=>it('Versão '+(i+1),c,i,'rfC')).join('')
-    +'<div class="mono" style="margin-top:14px">'+(dois?'Direct, passo 1 (sem link; troque [name] pelo primeiro nome)':'Mensagem no direct (com o link do Face)')+'</div>'+r.dm.map((d,i)=>it('Versão '+(i+1),dmTxt(d),i,'rfD')).join('')
-    +(dois?'<div class="mono" style="margin-top:14px">Direct, passo 2 (só depois que ela responder; com o link FACE inteiro)</div>'+r.dm2.map((d,i)=>it('Versão '+(i+1),dm2Txt(d),i,'rfE')).join(''):'');
+  $('rfBox').innerHTML='<div class="mono">Resposta no comentário'+(semDm?' (sem link; aponta para o comentário da Página com o link)':' (sem link)')+'</div>'+r.comentario.map((c,i)=>it('Versão '+(i+1),c,i,'rfC')).join('')
+    +(semDm?'':'<div class="mono" style="margin-top:14px">'+(dois?'Direct, passo 1 (sem link; troque [name] pelo primeiro nome)':'Mensagem no direct (com o link do Face)')+'</div>'+r.dm.map((d,i)=>it('Versão '+(i+1),dmTxt(d),i,'rfD')).join(''))
+    +(!semDm&&dois?'<div class="mono" style="margin-top:14px">Direct, passo 2 (só depois que ela responder; com o link FACE inteiro)</div>'+r.dm2.map((d,i)=>it('Versão '+(i+1),dm2Txt(d),i,'rfE')).join(''):'')
+    +(Array.isArray(r.insta)&&r.insta.length?'<div class="mono" style="margin-top:14px">No Insta, a quem comentar o número (sem link, nos primeiros 30 min; R40)</div>'+r.insta.map((t,i)=>it('Versão '+(i+1),t,i,'rfI')).join(''):'');
   r.comentario.forEach((c,i)=>{$('rfC'+i).onclick=e=>copiar(c,e.currentTarget)});
-  r.dm.forEach((d,i)=>{$('rfD'+i).onclick=e=>copiar(dmTxt(d),e.currentTarget)});
-  if(dois)r.dm2.forEach((d,i)=>{$('rfE'+i).onclick=e=>copiar(dm2Txt(d),e.currentTarget)});
+  if(!semDm)r.dm.forEach((d,i)=>{$('rfD'+i).onclick=e=>copiar(dmTxt(d),e.currentTarget)});
+  if(!semDm&&dois)r.dm2.forEach((d,i)=>{$('rfE'+i).onclick=e=>copiar(dm2Txt(d),e.currentTarget)});
+  if(Array.isArray(r.insta))r.insta.forEach((t,i)=>{$('rfI'+i).onclick=e=>copiar(t,e.currentTarget)});
 }
 
 /* ORDEM DE PRODUÇÃO: as seções seguem o passo a passo do caminho da produção (legenda e comentário fixado por último, antes de postar). */
