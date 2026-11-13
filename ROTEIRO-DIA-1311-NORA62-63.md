@@ -21,3 +21,10 @@
 - No Insta, 5 respostas curtas sem link para quem comentar 222 (R40); no Face, respostas só em público (directs parados).
 
 Gerador: `ferramentas-painel/dia-1311/build_dia_1311.py`. Fotos dos produtos: `ferramentas-painel/referencias-produtos/`.
+
+
+## Refeito em 13/11 às 11h35 (o aluno liberou: "refaz o 62 e o 63 nos mesmos links")
+- Pré-gancho em vídeos curtos (Clone R42 + ideia do aluno): 5 s cada, uma ação só, a própria imagem inicial, Fim vazio, x2 (~10 créditos por vídeo).
+- nora62 (bicarbonato): imagens A (a colher sobre o copo), B (o vinagre inclinado), C (a espuma transbordando e a moeda na mão, olhando para a lente); vídeos 1-colher (A), 2-vinagre (B), 3-transborda (B), 4-moeda (C), 5-batidas (C). ~80 créditos com os 3 takes.
+- nora63 (canela): imagens A (o pote inclinado), B (o copo de perto com a colher dourada), C (a canela na palma, olhando para a lente); vídeos 1-pote (A), 2-redemoinho (B), 3-batidas (B), 4-sopro (C). T06 = o CTA só do Face ("This shift isn't the same for every woman. Check the link in the comments to see what twenty twenty-seven holds for you."). ~100 créditos.
+- O aluno não põe o pré-gancho no CapCut: manda os vídeos (-a e -b) com o montado; eu corto ~0,8 s de cada e junto ~3,8 s no começo, com o riser e o impact.

@@ -56,21 +56,24 @@ F = {
     'C3': "The worst is behind you. Heavy doors that stayed locked all year are finally opening to welcome your abundance.",
     'C4': "Comment two two two right now so I know your energy is ready to receive this shift.",
     'C5': "This shift isn't the same for every woman. Tap my photo for the quick reading in my story for twenty twenty-seven.",
+    # o CTA só da versão do Face do nora63 (R42): a fala bate com a faixa do comentário
+    'C5f': "This shift isn't the same for every woman. Check the link in the comments to see what twenty twenty-seven holds for you.",
 }
 RESERVA = {
     'B3': "This blessing doesn't happen for everyone. The link in the comments shows what twenty twenty-seven holds for you.",
     'C5': "This shift isn't the same for every woman. Open my story for the quick reading about twenty twenty-seven.",
 }
 SUF = {'B1': 'T01-bicarbonato', 'B2': 'T02-porta-financeira', 'B3': 'T03-cta-link-2027',
-       'C1': 'T01-canela', 'C2': 'T02-fe-silenciosa', 'C3': 'T03-portas-abrindo', 'C4': 'T04-comente-222', 'C5': 'T05-cta-story-2027'}
-ROT = {'B1': 'T01', 'B2': 'T02', 'B3': 'T03', 'C1': 'T01', 'C2': 'T02', 'C3': 'T03', 'C4': 'T04', 'C5': 'T05'}
+       'C1': 'T01-canela', 'C2': 'T02-fe-silenciosa', 'C3': 'T03-portas-abrindo', 'C4': 'T04-comente-222', 'C5': 'T05-cta-story-2027', 'C5f': 'T06-face-cta-link-2027'}
+ROT = {'B1': 'T01', 'B2': 'T02', 'B3': 'T03', 'C1': 'T01', 'C2': 'T02', 'C3': 'T03', 'C4': 'T04', 'C5': 'T05', 'C5f': 'T06'}
 TXT = {'B1': 'o Take 1 do Face: o bicarbonato + a sexta-feira 13 (R41)', 'B2': 'a promessa: a porta financeira abrindo (R39)',
        'B3': 'o CTA do Face: a bênção não é para todos + o link nos comentários + 2027 (R39)',
        'C1': 'o Take 1 da volta: a canela no copo d\'água (viral nº 3 do Scoped, reescrito; sem data)',
        'C2': 'a fé silenciosa vista + a virada: dinheiro, paz e alguém especial (R41)',
        'C3': 'o pior passou + as portas abrindo (R41); a avaliação da Katrina nos últimos 3 s',
        'C4': 'o pedido do 222, antes do CTA (R40 + os virais do Scoped; só no Insta)',
-       'C5': 'o CTA: não é igual para toda mulher + foto, story e 2027 (R41, sem o "only")'}
+       'C5': 'o CTA: não é igual para toda mulher + foto, story e 2027 (R41, sem o "only")',
+       'C5f': 'o CTA só da versão do FACE: não é igual para toda mulher + o link nos comentários + 2027 (R42); no Face ele entra no lugar do T04 e do T05'}
 PRE = {'B': 'd1311', 'C': 'd1311'}
 CENA = {'B': MANHA, 'C': NOITE}
 
@@ -107,7 +110,7 @@ def mov_cta(c):  # CTA sem gesto de mão (lição do T04 de 10/11: mão descendo
 
 def mov(k):
     c = CENA[k[0]]
-    if k in ('B3', 'C5'):
+    if k in ('B3', 'C5', 'C5f'):
         return mov_cta(c)
     return base_mov(c, 10, GESTO[k].format(volta=c['volta'], mao=c['mao']))
 
@@ -117,7 +120,7 @@ COMUNS = {('of', 'the'), ('and', 'the'), ('to', 'the'), ('in', 'the'), ('on', 't
           ('the', 'whole'), ('a', 'small'), ('for', 'the')}
 for k, f in list(F.items()) + [(k + 'r', v) for k, v in RESERVA.items()]:
     assert len(f.split()) <= 22, (k, len(f.split()))
-    kk = k[:2]
+    kk = 'C5f' if k == 'C5f' else k[:2]
     fw = re.findall(r"[a-z']+", f.lower()); mw = re.findall(r"[a-z']+", mov(kk).lower())
     sobra = (set(zip(fw, fw[1:])) & set(zip(mw, mw[1:]))) - COMUNS
     assert not sobra, (k, sobra)
@@ -192,9 +195,11 @@ def agente(c, ks, cta):
             'Se ele não renomear, mande na mesma conversa: “Now rename each video with the correct number from the prompt.”',
             f'Confira na grade, pelo nome, se os {len(ks)} saíram, e se a lua no rosto tem as 3 estrelinhas com pontas (no 1.2 elas já viraram bolinhas). Se um falhar por política: mande na mesma conversa “Please generate video X from my previous message again, with the same prompt.” '
             '(X = o número dele na lista). Se falhar de novo, não insista: me mande o print.',
-            f'Se o CTA ({ROT[cta]}, o último) falhar 2 vezes, gere à mão: Vídeo → Frames → 9:16 → Omni 1.2 Flash → 360p → 10 s → x1; Início = {c["img"]}; Fim = vazio; cole o prompt abaixo, '
+            f'Se o CTA ({ROT[cta]}) falhar 2 vezes, gere à mão: Vídeo → Frames → 9:16 → Omni 1.2 Flash → 360p → 10 s → x1; Início = {c["img"]}; Fim = vazio; cole o prompt abaixo, '
             f'inteiro (10 créditos), e renomeie para {nome(cta)}. PROMPT: ' + prompt_manual(c, F[cta], mov_cta(c)),
             f'Se falhar também no Frames: o mesmo caminho com a fala reserva e o mesmo nome. PROMPT RESERVA: ' + prompt_manual(c, RESERVA[cta], mov_cta(c)),
+        ] + ([f'Se o T06 (o CTA do Face) falhar 2 vezes: o mesmo caminho à mão (10 créditos), renomeado para {nome("C5f")}. PROMPT: ' + prompt_manual(c, F['C5f'], mov_cta(c))]
+             if 'C5f' in ks else []) + [
             'Se o agente parar no meio (por exemplo, “alta demanda”): responda na MESMA conversa, sem anexar nada: “Please continue and generate videos X to Y from my previous message, in the same order.” '
             '(troque X e Y pelos números que faltaram). Se ele gerar só o 1º e parar de novo: cole antes do bloco da Central o “pré-prompt do Lucas” (abaixo) e mande de novo só os que faltaram.',
             'Se o agente disser que não dá para usar a imagem como quadro inicial e final com fala: gere à mão: Vídeo → Frames → 9:16 → Omni 1.2 Flash → 360p → 10 s → x1; '
@@ -204,71 +209,138 @@ def agente(c, ks, cta):
     }
 
 
-# ------------------------------------------------------------------ pré-ganchos (a Nora em ação, algo novo a cada 0,5 s, produto com o rótulo real)
-CANELA_IMG = ('Use the attached images as references: the first image is the woman (keep her face, her long black wavy hair, the thin braid with small gold rings, '
-              f'{ESTRELAS.replace("on her cheek on the left side of the frame", "on her cheek")}, her star-and-moon earrings, her gold Venus necklace and her plain black fitted square-neck tank top with wide straps '
-              'exactly the same); the second image is the real McCormick Ground Cinnamon bottle. RAW photo taken at night with a phone propped on a kitchen counter about 70 '
-              'centimeters in front of her: the same woman stands behind a real lived-in American kitchen counter at night, warm light from a pendant lamp above, dark cabinets '
-              'behind her; she is framed from the waist up, centered, looking down at her hands with a focused expression; in her right hand, on the left side of the image, she '
-              'holds the exact McCormick Ground Cinnamon bottle from the reference photo at chest height, label facing the camera, sharp and legible (red cap with black top, '
-              'the blue "Mc" square, the red "McCormick" banner, "CINNAMON GROUND"), and her left hand, on the right side of the image, is already twisting the cap open; a clear '
-              'glass of water stands on the counter in front of her, in the lower middle of the image; the upper 20 percent of the image is plain dark cabinets with nothing in it; '
-              'looks exactly like a real casual iPhone photo at night, slight phone grain, natural colors, everything in focus, no bokeh; the only text in the image is the real '
-              'label of the cinnamon bottle; no other text, no logo, no watermark; each hand has exactly five fingers; photorealistic, unretouched, vertical 9:16')
-CANELA_VID = ('Use the supplied image as the first frame. Real phone video at night, the phone propped on the counter, steady, no slow motion: every half second something new '
-              'happens. 0.0 s: she pops the cap of the McCormick Ground Cinnamon bottle open with a click, the label still facing the camera. 0.5 s: she tilts the bottle and '
-              'shakes a thick stream of cinnamon into the clear glass of water. 1.0 s: the cinnamon hits the water and blooms into a swirling brown cloud. 1.5 s: she stirs fast '
-              'with a spoon and a golden whirlpool spins in the glass. 2.0 s: she lifts the glass up to the warm light and the water glows amber. 2.5 s: she sets the glass down and '
-              'pours a little cinnamon into her open palm. 3.0 s: she brings her palm up close to the lens and blows. 3.5 s: a thick cloud of cinnamon dust flies straight toward the '
-              'lens and covers the whole frame, glowing in the warm light, until the clip ends. She keeps the same face, braid, crescent moon with three tiny gold stars, earrings, '
-              'necklace and black tank top the whole time; the bottle label stays the real McCormick label; each hand has exactly five fingers; nothing else appears or disappears. '
-              'AUDIO: close ASMR kitchen sounds only: the cap click, the powder falling into the water, the spoon clinking fast on the glass and the blow; no music, no voice, she '
-              'does not speak. No on-screen text, no captions.')
-BIC_IMG = ('Use the attached images as references: the first image is the woman (keep her face, her long black wavy hair, the thin braid with small gold rings, '
-           f'{ESTRELAS.replace("on her cheek on the left side of the frame", "on her cheek")}, her star-and-moon earrings, her gold Venus necklace, her plain black fitted square-neck tank top and the very oversized open heather-grey zip-up '
-           'hoodie exactly the same); the second image is the real Arm & Hammer Pure Baking Soda box; the third is the real Heinz All Natural Distilled White Vinegar bottle. '
-           'RAW photo taken in the daytime with a phone propped on a kitchen counter about 70 centimeters in front of her: the same woman stands behind a real lived-in American '
-           'kitchen counter in bright daylight from a window, white cabinets behind her; framed from the waist up, centered; in her right hand, on the left side of the image, she '
-           'holds the exact Arm & Hammer Pure Baking Soda box from the reference photo at chest height, front facing the camera, sharp and legible (orange and yellow box, the '
-           'arm-and-hammer logo in the red circle, "pure Baking Soda"); the exact Heinz Distilled White Vinegar bottle from the reference photo stands on the counter on the right '
-           'side of the image with its label facing the camera; a clear empty drinking glass and a shiny gold one-dollar coin lie on the counter in front of her; the upper 20 '
-           'percent of the image is plain white cabinets with nothing in it; looks exactly like a real casual iPhone photo, slight phone grain, natural colors, everything in focus, '
-           'no bokeh; the only text in the image is the real labels of the two products; no other text, no logo, no watermark; each hand has exactly five fingers; '
-           'photorealistic, unretouched, vertical 9:16')
-BIC_VID = ('Use the supplied image as the first frame. Real phone video in daylight, the phone propped on the counter, steady, no slow motion: every half second something new '
-           'happens. 0.0 s: she rips the top flap of the Arm & Hammer box open toward the camera with a quick tearing sound, the front of the box still facing the camera. 0.5 s: '
-           'she scoops a heaping spoon of white baking soda and drops it into the clear glass. 1.0 s: she grabs the Heinz vinegar bottle, label facing the camera, and pours it '
-           'into the glass. 1.5 s: white foam erupts and climbs fast up the glass with a loud fizz. 2.0 s: the foam overflows the rim and spills onto the counter. 2.5 s: she '
-           'drops the shiny gold coin into the foam with a bright clink. 3.0 s: she looks straight into the camera with wide, excited eyes. 3.5 s: she taps the glass twice '
-           'with her fingertip while the foam keeps bubbling, until the clip ends. She keeps the same face, braid, crescent moon with three tiny gold stars, earrings, necklace, '
-           'black tank top and grey hoodie the whole time; the labels stay the real Arm & Hammer and Heinz labels; each hand has exactly five fingers; nothing else appears or '
-           'disappears. AUDIO: close ASMR kitchen sounds only: the box tearing, the powder falling, the vinegar pouring, the loud fizz, the coin clink and the two taps on the '
-           'glass; no music, no voice, she does not speak. No on-screen text, no captions.')
+# ------------------------------------------------------------------ pré-ganchos (R42 + aluno 13/11 ~11h30: várias tomadas curtas, uma ação em cada, só a imagem inicial; eu corto e junto)
+_NORA = ('the first image is the woman (keep her face, her long black wavy hair, the thin braid with small gold rings, '
+         f'{ESTRELAS.replace("on her cheek on the left side of the frame", "on her cheek")}, her star-and-moon earrings, her gold Venus necklace, the thin gold bracelets on her left wrist, '
+         'the gold sun ring on her left hand and ')
+_FIM_IMG = ('looks exactly like a real casual iPhone photo, slight phone grain, natural colors, everything in focus, no bokeh; the only text in the image is the real '
+            'label of the products from the reference photos, sharp and legible, never changed; no other text, no logo, no watermark; each hand has exactly five fingers; '
+            'photorealistic, unretouched, vertical 9:16')
+BIC_REF = ('Use the attached images as references: ' + _NORA + 'her plain black fitted square-neck tank top and the very oversized open heather-grey zip-up hoodie exactly the same); '
+           'the second image is the real Arm & Hammer Pure Baking Soda box; the third is the real Heinz All Natural Distilled White Vinegar bottle. RAW photo taken in the '
+           'daytime with a phone propped on a kitchen counter about 70 centimeters in front of her: the same woman stands behind a real lived-in American kitchen counter in '
+           'bright daylight from a window, white cabinets behind her; ')
+CAN_REF = ('Use the attached images as references: ' + _NORA + 'her plain black fitted square-neck tank top with wide straps exactly the same); the second image is the real '
+           'McCormick Ground Cinnamon bottle. RAW photo taken at night with a phone propped on a kitchen counter about 70 centimeters in front of her: the same woman stands '
+           'behind a real lived-in American kitchen counter at night, warm light from a pendant lamp above, dark cabinets behind her; ')
+BOX = 'the exact Arm & Hammer Pure Baking Soda box from the reference photo (orange and yellow box, the arm-and-hammer logo in the red circle, "pure Baking Soda")'
+HEINZ = 'the exact Heinz Distilled White Vinegar bottle from the reference photo'
+MCC = ('the exact McCormick Ground Cinnamon bottle from the reference photo (red cap with black top, the blue "Mc" square, the red "McCormick" banner, "CINNAMON GROUND")')
+TOPO = 'the upper 20 percent of the image is plain cabinets with nothing in it; '
+
+IMGS = {
+    'B': [
+        ('A', 'a colher sobre o copo (plano médio)',
+         BIC_REF + f'framed from the waist up, centered; in her right hand, on the left side of the image, she holds {BOX}, open at the top, at chest height, front facing the '
+         'camera; her left hand, on the right side of the image, holds a metal spoon heaped with white baking soda right above a clear glass full of water that stands on the '
+         f'counter in the lower middle of the image; {HEINZ} stands on the counter on the right side of the image, label facing the camera; a shiny gold coin lies on the '
+         'counter next to the glass; she looks down at the glass with a focused expression; ' + TOPO + _FIM_IMG),
+        ('B', 'o vinagre inclinado sobre o copo (plano médio)',
+         BIC_REF + f'framed from the waist up, centered; her left hand, on the right side of the image, holds {HEINZ} tilted right above the glass, about to pour, label facing '
+         'the camera; the clear glass on the counter in the lower middle of the image is full of cloudy white water with baking soda settled at the bottom; '
+         f'{BOX} stands open on the counter on the left side of the image, front facing the camera; her right hand rests flat on the counter next to it; a shiny gold coin '
+         'lies on the counter; she looks at the glass with an excited, expectant expression; ' + TOPO + _FIM_IMG),
+        ('C', 'a espuma transbordando e a moeda na mão (mais perto, olhando para a lente)',
+         BIC_REF + 'closer framing from the chest up, her face in the upper middle of the image, looking straight into the camera with a mysterious, knowing half smile; the '
+         'glass stands in the lower middle of the image in the foreground, overflowing with thick white foam that runs down its sides onto the counter; her left hand, on the '
+         'right side of the image, holds a shiny gold coin between two fingers just above the foam; '
+         f'{BOX} (front facing the camera) and {HEINZ} (label facing the camera) stand on the counter behind the glass, one on each side; '
+         'the top 15 percent of the image is plain cabinets above her head; ' + _FIM_IMG),
+    ],
+    'C': [
+        ('A', 'o pote inclinado sobre o copo (plano médio)',
+         CAN_REF + f'framed from the waist up, centered; in her right hand, on the left side of the image, she holds {MCC} tilted right above a clear glass of water, the red '
+         'cap flipped open, label facing the camera; the glass stands on the counter in the lower middle of the image; a small gold spoon lies on the counter next to it; her '
+         'left hand, on the right side of the image, rests flat on the counter; she looks down at the glass with a focused expression; ' + TOPO + _FIM_IMG),
+        ('B', 'o copo de perto, com a canela girando e a colher dourada',
+         CAN_REF + 'close-up of the clear glass on the counter filling the lower two thirds of the image: the water is swirled with clouds of brown cinnamon that glow amber in '
+         'the lamp light; her left hand, coming from the right side of the image, with the thin gold bracelets and the gold sun ring, holds a small gold spoon dipped in the '
+         f'water; {MCC} stands on the counter on the left side of the glass, label facing the camera; above the glass, the edge of her black tank top and the dark kitchen; '
+         + _FIM_IMG),
+        ('C', 'a canela na palma, olhando para a lente (mais perto)',
+         CAN_REF + 'closer framing from the chest up, her face in the upper middle of the image, looking straight into the camera with a soft, knowing smile; her left hand, on '
+         'the right side of the image, is held flat with the palm up at chest height, below her chin, a small mound of ground cinnamon on her palm, never covering her mouth; '
+         f'the glass of amber cinnamon water and {MCC} (label facing the camera) stand on the counter in the lower part of the image; the top 15 percent of the image is plain '
+         'dark cabinets above her head; ' + _FIM_IMG),
+    ],
+}
+
+
+def _vid(luz, acao, som, trava):
+    return (f'Use the supplied image as the first frame. Real phone video {luz}, the phone propped on the counter, steady, no zoom, real speed, no slow motion. The action '
+            f'starts in the very first frame: {acao} Then everything holds still until the clip ends. {trava} The labels stay exactly as in the first frame, sharp and '
+            'unchanged; each hand has exactly five fingers; nothing else appears or disappears. AUDIO: close ASMR kitchen sounds only: ' + som + '; no music, no voice, '
+            'she does not speak. No on-screen text, no captions.')
+
+
+_TB = ('She keeps the same face, braid, crescent moon with three tiny gold stars, earrings, necklace, black tank top and grey hoodie the whole time.')
+_TC = ('She keeps the same face, braid, crescent moon with three tiny gold stars, earrings, necklace and black tank top the whole time.')
+_TH = 'Her hand keeps the thin gold bracelets and the gold sun ring the whole time.'
+VIDS = {
+    'B': [
+        ('1-colher', 'A', 'o bicarbonato caindo no copo',
+         _vid('in daylight', 'she tips the heaped spoon and the white baking soda drops into the glass of water, a thick white cloud bursts and swirls through the water, and '
+              'she gives the spoon one quick tap on the rim of the glass.', 'the powder hitting the water and one clink of the spoon on the glass', _TB)),
+        ('2-vinagre', 'B', 'o vinagre e a espuma subindo até a borda',
+         _vid('in daylight', 'she pours the vinegar into the glass in one quick pour and thick white foam instantly erupts and climbs fast up to the rim with a loud fizz, '
+              'while her eyes widen.', 'the vinegar pouring and a loud fizz', _TB)),
+        ('3-transborda', 'B', 'a espuma transbordando no balcão',
+         _vid('in daylight', 'she pours a big splash of vinegar into the glass and the white foam explodes up out of the glass, overflows the rim and spills down onto the '
+              'counter while she pulls her hand back with a surprised laugh.', 'the vinegar splashing, a loud fizz and the foam spilling', _TB)),
+        ('4-moeda', 'C', 'a moeda caindo na espuma',
+         _vid('in daylight', 'she lets go of the gold coin and it drops into the foam with a bright metallic clink and a small splash, and the foam bubbles up around it, while '
+              'her eyes stay on the lens with the same knowing half smile.', 'the coin clinking into the glass and the foam bubbling', _TB)),
+        ('5-batidas', 'C', 'as 2 batidas no copo com a moeda, olhando para a lente',
+         _vid('in daylight', 'she taps the side of the glass twice with the edge of the gold coin, clink, clink, the foam trembles, and she gives the camera one slow knowing '
+              'nod with her eyes on the lens.', 'two bright clinks of the coin on the glass and the foam fizzing', _TB)),
+    ],
+    'C': [
+        ('1-pote', 'A', 'a canela caindo no copo',
+         _vid('at night', 'she gives the cinnamon bottle two quick shakes and a thick stream of cinnamon falls into the water and blooms into a swirling brown cloud that '
+              'glows amber in the lamp light as it sinks.', 'the bottle shaking and the powder falling into the water', _TC)),
+        ('2-redemoinho', 'B', 'a colher dourada girando o redemoinho',
+         _vid('at night', 'she stirs fast in tight circles with the gold spoon and a golden-amber whirlpool spins in the glass, the cinnamon swirling around the spoon.',
+              'the spoon clinking fast on the glass and the water swirling', _TH)),
+        ('3-batidas', 'B', 'as 2 batidas da colher na borda',
+         _vid('at night', 'she taps the gold spoon twice on the rim of the glass, clink, clink, and lifts it out, and the amber whirlpool keeps spinning on its own.',
+              'two bright clinks of the spoon on the rim and the water swirling', _TH)),
+        ('4-sopro', 'C', 'o sopro da canela na lente',
+         _vid('at night', 'she lifts her palm close to her lips and blows the cinnamon straight toward the lens, and a warm glowing cloud of cinnamon dust flies at the camera '
+              'and covers the whole frame.', 'one soft strong blow and the dust flying', _TC)),
+    ],
+}
 
 
 def extras(tipo):
     if tipo == 'B':
-        nimg, nvid, prod = 'd1311-PRE-bicarbonato-IMG', 'd1311-PRE-bicarbonato', 'arm-hammer-baking-soda-frente.jpg e heinz-distilled-white-vinegar-frente.jpg'
-        img, vid, cena = BIC_IMG, BIC_VID, 'manha1111-IMG'
+        base, cena, prod = 'd1311-PRE-bic', 'manha1111-IMG', 'arm-hammer-baking-soda-frente.jpg e heinz-distilled-white-vinegar-frente.jpg'
         tit = 'O bicarbonato Arm & Hammer com o vinagre Heinz (a espuma que transborda e a moeda)'
     else:
-        nimg, nvid, prod = 'd1311-PRE-canela-IMG', 'd1311-PRE-canela', 'mccormick-ground-cinnamon-frente.jpg'
-        img, vid, cena = CANELA_IMG, CANELA_VID, 'noite1111-IMG'
+        base, cena, prod = 'd1311-PRE-canela', 'noite1111-IMG', 'mccormick-ground-cinnamon-frente.jpg'
         tit = 'A canela McCormick no copo d’água e soprada na lente'
+    vids = VIDS[tipo]
+    etapas = []
+    for letra, desc, prompt in IMGS[tipo]:
+        usa = ', '.join(v[0] for v in vids if v[1] == letra)
+        etapas.append({'titulo': f'Imagem {letra}: {desc}', 'nome': f'{base}-IMG-{letra}', 'tipo': 'img',
+                       'anexar': f'1º a {cena}; 2º (e 3º) a foto do produto ({prod})',
+                       'quadros': (f'x4, 0 crédito. Serve para os vídeos {usa}. Escolha a que tiver o rótulo IGUAL ao da foto (legível, sem letra trocada), a Nora com a lua e as 3 '
+                                   'estrelinhas e 5 dedos em cada mão. Se nenhuma tiver o rótulo certo, gere de novo antes dos vídeos. Se o Flow recusar pelo nome da marca, apague '
+                                   f'o nome do texto e deixe só a foto anexada. Renomeie para {base}-IMG-{letra}.'),
+                       'prompt': prompt})
+    for suf, letra, desc, prompt in vids:
+        n = f'{base}-{suf}'
+        etapas.append({'titulo': f'Vídeo {suf.split("-")[0]}: {desc}', 'nome': n, 'tipo': 'vid', 'duracao': 5,
+                       'quadros': (f'Omni 1.2 Flash · 360p · 5 s · x2 (~10 créditos). Início = {base}-IMG-{letra}; Fim = vazio (nunca a imagem final: a IA trava). '
+                                   f'Baixe os 2 em 720p e renomeie {n}-a e {n}-b.'),
+                       'prompt': prompt})
     return {
         'titulo_secao': 'Pré-gancho (Flow, à mão, antes dos takes)',
-        'conceito': (f'{tit}: a Nora fazendo o ritual, algo novo a cada 0,5 s, com o produto de verdade (regra de 13/11). As fotos dos produtos são as que eu te mandei hoje ({prod}).'),
-        'modo': ('Imagem: Flow → Imagem · 9:16 · Nano Banana Pro · x4, anexando as referências na ordem. Vídeo: Flow → Vídeo → Frames → 9:16 → Omni 1.2 Flash → 360p → 8 s; '
-                 'Início = a imagem escolhida; Fim = vazio. Baixe em 720p.'),
-        'etapas': [
-            {'titulo': 'Imagem inicial do pré-gancho', 'nome': nimg, 'tipo': 'img', 'anexar': f'1º a {cena}; 2º (e 3º) a foto do produto ({prod})',
-             'quadros': ('x4, 0 crédito. Escolha a que tiver o rótulo do produto IGUAL ao da foto (legível, sem letra trocada), a Nora com a lua e as 3 estrelinhas e 5 dedos em cada mão. '
-                         f'Se nenhuma tiver o rótulo certo, gere de novo antes de fazer o vídeo. Se o Flow recusar por causa do nome da marca, apague o nome do texto e deixe só a foto anexada. Renomeie para {nimg}.'),
-             'prompt': img},
-            {'titulo': 'Vídeo do pré-gancho (8 s, algo novo a cada 0,5 s)', 'nome': nvid, 'tipo': 'vid', 'duracao': 8,
-             'quadros': f'Omni 1.2 Flash · 360p · 8 s · x2 (2 chances; ~16 a 20 créditos). Início = {nimg}; Fim = vazio. Mande os 2: eu escolho e corto os ~3,5 s com mais ação.',
-             'prompt': vid},
-        ],
+        'conceito': (f'{tit}: {len(vids)} vídeos curtos, cada um com uma ação só e a própria imagem inicial (Clone R42). Eu corto o melhor ~0,8 s de cada e junto um '
+                     f'pré-gancho de ~3,8 s, com o riser e o impact. As fotos dos produtos são as que eu te mandei hoje ({prod}).'),
+        'modo': ('Imagens: Flow → Imagem · 9:16 · Nano Banana Pro · x4, anexando as referências na ordem (0 crédito). Vídeos: Flow → Vídeo → Frames → 9:16 → Omni 1.2 Flash → '
+                 '360p → 5 s → x2; Início = a imagem indicada; Fim = vazio. Dá para mandar todos de uma vez. Baixe em 720p e me mande todos, sem cortar.'),
+        'etapas': etapas,
     }
 
 
@@ -290,7 +362,7 @@ VIDEOS = {
                    '#manifestation #fridaythe13th #lawofattraction #abundance'),
              insta='(não vai no Insta: o Insta está em pausa até 23h20)',
              fix_insta='', fix_face=f'See what 2027 holds for you here ✨ 👉 {FB}'),
-    63: dict(hora='0h00 de 13 para 14/11 (22h em Nova York), o 1º do Insta depois da pausa', rede='Insta e Face', tipo='volta', keys=['C1', 'C2', 'C3', 'C4', 'C5'], prova='04-katrina',
+    63: dict(hora='0h00 de 13 para 14/11 (22h em Nova York), o 1º do Insta depois da pausa', rede='Insta e Face', tipo='volta', keys=['C1', 'C2', 'C3', 'C4', 'C5', 'C5f'], prova='04-katrina',
              caixa=('WHEN MONEY FEELS STUCK:\nDO THIS WITH CINNAMON', 'you\'ll thank me later.'),
              insta=('Put cinnamon in a glass of water before you leave home ✨\nYour private reading is waiting in my story 🔮\n'
                     'Comment "222" to lock in this blessing ✨\n#manifestation #cinnamonritual #lawofattraction #abundance'),
@@ -309,7 +381,7 @@ def xy(x, y):
 
 
 def montar(n):
-    v = VIDEOS[n]; nn = f'nora{n}'; ks = v['keys']; c = CENA[ks[0][0]]; cta = ks[-1]
+    v = VIDEOS[n]; nn = f'nora{n}'; ks = v['keys']; c = CENA[ks[0][0]]; cta = 'C5' if 'C5' in ks else ks[-1]
     perfil = copy.deepcopy(P46['perfil']); perfil.pop('teste', None)
     caixa, caixa_fim = v['caixa']
     resp = copy.deepcopy(RESP_FACE)
@@ -348,7 +420,8 @@ def montar(n):
         est.append({'nome': 'Faixa do CTA, versão do INSTA: “Tap my photo: your 2027 reading is in my story”', 'fonte': 'Poppins Bold', 'cor': 'texto preto, “my story” em destaque',
                     'tamanho': '9', 'contorno': 'Plano de fundo sólido', 'obs': 'Do T05 até o fim, com a seta para a foto do perfil. No Insta o vídeo tem os 5 takes (o T04 do 222 antes do T05).'})
     est.append({'nome': 'Faixa do CTA, versão do FACE: “Your 2027 reading: link in the comments ⬇️”', 'fonte': 'Poppins Bold', 'cor': 'texto preto, “in the comments” em destaque',
-                'tamanho': '9', 'contorno': 'Plano de fundo sólido', 'obs': 'Do CTA até o fim, sem seta. No Face o vídeo termina no CTA, sem o pedido do 222 (R40).'})
+                'tamanho': '9', 'contorno': 'Plano de fundo sólido', 'obs': ('Do CTA até o fim, sem seta. No Face: T01 a T03 + o T06 (o CTA com o link), sem o 222 (R40 e R42).' if v['tipo'] == 'volta'
+                       else 'Do CTA até o fim, sem seta. No Face o vídeo termina no CTA, sem pedido de comentário (R40).')})
     if v['prova']:
         quem, trecho = PROVA[v['prova']]
         est.append({'nome': f'Avaliação real do Trustpilot: {quem} (“{trecho}”)', 'fonte': f'provas-trustpilot/{v["prova"]}-sem-hora.png (print real, sem a hora relativa)',
@@ -361,30 +434,33 @@ def montar(n):
     corte = f'{nn}-cortado'
     lista = ', '.join(nome(k) for k in ks)
     p['silencio'] = {
-        'intro': f'Arraste na ferramenta “M2M FusionZ – Cortar e juntar vídeos” só estes {len(ks)} takes, de uma vez: {lista}. Ela junta pela ordem do nome (já estão em ordem).',
+        'intro': (f'Arraste na ferramenta “M2M FusionZ – Cortar e juntar vídeos” só estes {len(ks)} takes, de uma vez: {lista}. Ela junta pela ordem do nome (já estão em ordem).'
+                  + (' O T06 (o CTA do Face) fica no fim do mesmo vídeo: eu separo as 2 versões.' if 'C5f' in ks else '')),
         'nome': corte, 'juntar': 'LIGADO', 'transicao': 'Corte seco', 'ordem': 'pela ordem do nome (' + ', '.join(ROT[k] for k in ks) + ')',
         'depois': [f'Suba os {len(ks)} takes e espere a Prévia.', 'Aperte play com Resultado marcado: confira a primeira palavra do 1º take e a última do último.',
                    'Se um corte comeu o fim de uma palavra, arraste a borda dele ou suba a margem de respiro.', f'Clique em Cortar e baixar e salve como {corte}.']}
-    pre = 'd1311-PRE-bicarbonato' if v['tipo'] == 'face' else 'd1311-PRE-canela'
+    pre = 'd1311-PRE-bic' if v['tipo'] == 'face' else 'd1311-PRE-canela'
+    nv = len(VIDS[ks[0][0]])
     p['edicao_linha'] = [
         {'quando': 'A. Antes de tudo', 'texto': f'Projeto novo no CapCut com o {corte}', 'como': 'É o vídeo que saiu da FusionZ.'},
-        {'quando': 'B. Pré-gancho no começo', 'texto': f'Os 2 vídeos do {pre}: mande os 2 para mim ANTES de montar',
-         'como': 'Eu escolho o melhor, corto os ~3,5 s com mais ação e te devolvo o trecho pronto; ele entra no começo, antes do Take 1, sem música por baixo.'},
-        {'quando': '1. Do Take 1 ao fim', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB', 'como': 'Começa no Take 1 (no pré-gancho, só o som dele).'},
+        {'quando': 'B. Pré-gancho: NÃO põe no CapCut', 'texto': f'Os {nv} vídeos do pré-gancho ({pre}-…, os 2 de cada, -a e -b): mande todos para mim junto com o montado',
+         'como': 'Eu corto o melhor ~0,8 s de cada, junto o pré-gancho (~3,8 s) e ponho no começo, antes do Take 1, com o riser e o impact. O montado começa direto no Take 1.'},
+        {'quando': '1. Do Take 1 ao fim', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB', 'como': 'Começa no 1º quadro do montado (o Take 1).'},
         {'quando': '2. Exportar e me mandar', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
-         'como': f'1080×1920, qualidade alta, nome {nn}-montado (acima de 30 MB, link do Drive). Eu ponho tudo e devolvo ' + (f'o {nn}-final-FACE.' if v['tipo'] == 'face' else f'o {nn}-final (Insta, com o 222) e o {nn}-final-FACE (sem o 222, com a faixa do comentário).')}]
+         'como': f'1080×1920, qualidade alta, nome {nn}-montado (acima de 30 MB, link do Drive). Eu ponho tudo e devolvo ' + (f'o {nn}-final-FACE.' if v['tipo'] == 'face' else f'o {nn}-final (Insta: T01 a T05, com o 222) e o {nn}-final-FACE (T01 a T03 + o T06, com a faixa do comentário).')}]
     pecas = [{'nome': c['img'], 'de': f'{c["img"]} (de 11/11)', 'tipo': 'imagem 1', 'status': 'reutilizar', 'descricao': f'A {c["nome"]}.'},
-             {'nome': f'{pre}-IMG e {pre}', 'tipo': 'pré-gancho', 'status': 'gerar', 'descricao': 'A imagem inicial (x4, 0 crédito) e o vídeo (x2) do pré-gancho, com as fotos dos produtos.'}]
+             {'nome': f'{pre}-IMG-A a C e {pre}-1 a {nv}', 'tipo': 'pré-gancho', 'status': 'gerar',
+              'descricao': f'3 imagens iniciais (x4, 0 crédito) e {nv} vídeos de 5 s, cada um com uma ação só (x2, ~10 créditos cada), com as fotos dos produtos. Eu junto.'}]
     for k in ks:
         pecas.append({'nome': nome(k), 'tipo': 'take', 'status': 'gerar', 'descricao': f'“{F[k]}”'})
     if v['prova']:
         pecas.append({'nome': 'avaliação da Katrina', 'tipo': 'prova', 'status': 'reutilizar', 'onde': 'Eu ponho na edição, nos últimos 3 s do T03. Você não faz nada.'})
-    cred = 10 * len(ks) + 20
+    cred = 10 * len(ks) + 10 * nv
     decisao = {
-        'face': [f'GERAR AGORA (contatocaram): o pré-gancho do bicarbonato (imagem x4 + vídeo x2) e os 3 takes na manha1111-IMG. Créditos: ~{cred}.',
+        'face': [f'GERAR AGORA (contatocaram): o pré-gancho do bicarbonato (3 imagens + {nv} vídeos de 5 s, x2) e os 3 takes na manha1111-IMG. Créditos: ~{cred}.',
                  'Só no Face (o Insta está em pausa até 23h20). Sexta-feira 13 na caixa e no Take 1: sai durante a sexta nos EUA.',
                  'Postar assim que ficar pronto, ao vivo; logo depois, o comentário da Página com o link. Respostas só em público (directs parados).'],
-        'volta': [f'GERAR (contatocaram): o pré-gancho da canela (imagem x4 + vídeo x2) e os 5 takes na noite1111-IMG. Créditos: ~{cred}.',
+        'volta': [f'GERAR (contatocaram): o pré-gancho da canela (3 imagens + {nv} vídeos de 5 s, x2) e os 6 takes na noite1111-IMG (o T06 é o CTA só do Face). Créditos: ~{cred}.',
                   'Sem data (à 0h a sexta-feira 13 já acabou para quem vê depois). O 222 vem antes do CTA; o story é a última frase (só no Insta; no Face o vídeo termina no CTA).',
                   'Postar à 0h00 de 13 para 14/11, ao vivo, no Insta (o nora63-final) e no Face (o nora63-final-FACE). No Insta, responder quem comentar 222 nos primeiros 30 min; no Face, o comentário da Página com o link.'],
     }[v['tipo']]

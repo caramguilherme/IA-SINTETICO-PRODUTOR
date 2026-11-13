@@ -649,7 +649,7 @@ VÍDEO 2 (a volta do Insta, à 0h de sexta para sábado, sem data, e o mesmo no 
 **Para a Nora (13/11 ~11h27, decisão minha):**
 - **Pré-ganchos em 3 tomadas, só com a imagem inicial**, as ações da resposta (sem rasgar a aba, sem levantar o copo, sem a palma). Eu corto o melhor de cada tomada e junto num pré-gancho de ~3,8 s, com o riser e o impact.
 - **O T4 e o T5 separados**, colados na edição sem pausa: o T5 tem o motivo ("isn't the same for every woman") e o que tem do outro lado ("the quick reading"), as 3 partes do CTA (P46) que o T4 único perde.
-- **Versão do Face do nora63: um T5 só do Face**, "This shift isn't the same for every woman. Check the link in the comments below to see what twenty twenty-seven holds for you." (21 palavras; +10 créditos), para a fala bater com a faixa do comentário.
+- **Versão do Face do nora63: um T5 só do Face**, "This shift isn't the same for every woman. Check the link in the comments to see what twenty twenty-seven holds for you." (22 palavras, o limite do take; +10 créditos), para a fala bater com a faixa do comentário.
 - **Story:** não precisa de outro; o `story-1211` (2027) repostado hoje cobre a meia-noite.
 - **Painéis: só depois do "pode montar" do aluno.**
 
