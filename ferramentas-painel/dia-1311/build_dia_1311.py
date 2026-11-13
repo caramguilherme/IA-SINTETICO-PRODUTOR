@@ -49,7 +49,7 @@ F = {
     # nora62 (Face, à tarde; sexta-feira 13; R41 com o T1 sem o "before noon" e o T3 sem o "first")
     'B1': "Drop baking soda in water this Friday the 13th: your luck is about to change.",
     'B2': "Today a financial door that was locked all year is finally opening to bring unexpected ease to your family.",
-    'B3': "This blessing doesn't happen for everyone. Check the link in the comments below to see what twenty twenty-seven holds for you.",
+    'B3': "This blessing doesn't happen for everyone. Look in the comments below to see what twenty twenty-seven holds for you.",  # sem "link": caiu 3 vezes no filtro (13/11)
     # nora63 (Insta à 0h e Face à 0h; sem data; R41 + o T1 do viral nº 3 reescrito)
     'C1': "Put cinnamon in a glass of water before you leave home. I know it sounds silly, but you'll thank me later.",
     'C2': "The universe saw your quiet faith. A major turnaround is arriving, bringing unexpected money, deep peace, and someone truly wonderful.",
@@ -57,10 +57,10 @@ F = {
     'C4': "Comment two two two right now so I know your energy is ready to receive this shift.",
     'C5': "This shift isn't the same for every woman. Tap my photo for the quick reading in my story for twenty twenty-seven.",
     # o CTA só da versão do Face do nora63 (R42): a fala bate com a faixa do comentário
-    'C5f': "This shift isn't the same for every woman. Check the link in the comments to see what twenty twenty-seven holds for you.",
+    'C5f': "This shift isn't the same for every woman. Look in the comments below to see what twenty twenty-seven holds for you.",
 }
 RESERVA = {
-    'B3': "This blessing doesn't happen for everyone. The link in the comments shows what twenty twenty-seven holds for you.",
+    'B3': "If this found you today, it's not by chance. Look in the comments below to see what twenty twenty-seven holds for you.",
     'C5': "This shift isn't the same for every woman. Open my story for the quick reading about twenty twenty-seven.",
 }
 SUF = {'B1': 'T01-bicarbonato', 'B2': 'T02-porta-financeira', 'B3': 'T03-cta-link-2027',
