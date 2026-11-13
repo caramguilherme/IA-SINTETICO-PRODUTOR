@@ -565,6 +565,13 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 ### 12/11/2026 23h19 - nora60 postado (Insta e Face)
 - O curto do corpo novo, ao vivo às 23h19 (era 20h; 21h19 em Nova York, ainda quinta). Insta (22,7 s) com o envelope de pré-gancho, Face (23,2 s) com o tsunami curto espelhado, o do nora55. Take 1 = o piloto do Omni 1.2. ~7h15 depois do nora59 no Insta. **Mede:** o envelope contra o tsunami nos 3 s (Insta x Face, com ressalva: redes diferentes) e o Omni 1.2 no ar pela 1ª vez.
 
+### 12/11/2026 23h20 - Insta, nora59 detalhado (~7h15 de vida): abaixo da régua, sinal de limbo
+- **141 views, 130 viewers, 42,3% nos 3 s ("strong hook"), 6 s de tempo médio, 0 visitas ao perfil, 1 follow, 1 like, 1 comentário, 1 salvo. Índia 43,6%, EUA 7,9%.** Idade mais nova que o normal (35-44 32,9%, 45-54 29,3%, 25-34 20%). A curva parou em ~140 desde ~4 h, igual ao reel típico da conta agora (~150).
+- **A régua (300 ou mais, alguma visita ao perfil, 15 s ou mais de tempo médio) falhou nos três**, mesmo depois de ~20h40 sem post. Com o mesmo tsunami inteiro, o nora48 ao nora50 seguravam 68% a 72% nos 3 s.
+- **O quadro do Insta desde 10/11 21h35:** 8 vídeos seguidos entre 118 e 219 views (nora52 a nora59). Antes, nora48 1.633, nora49 2.011, nora50 1.676 e nora51 889. A Índia aparece em posts de vários horários (nora52 às 21h35 45%, nora47 à 01h35 43%, nora55 às 10h20 42%, nora59 às 16h05 44%). Ela acompanha os posts fracos, não um horário fixo.
+- **Leitura:** é o "limbo" de 100 a 150 views (Dudu, aula 37), começando depois dos 4 posts em 6 h de 10/11 e dos 6 por dia de 11/11. A pausa de 20 h não destravou. **O Face segue bem com a mesma Nora** (nora55 com 3,9 mil). Em 12/11 várias variáveis mudaram de uma vez (corpo novo, estilo, sons, data), mas o padrão de conta parada pesa mais que qualquer uma delas.
+- **Decisão (minha):** nada drástico hoje à noite. (1) O aluno confere de novo o Status da conta (Recommendation eligibility). (2) A pergunta vai para o Clone (R35) com esses números: limbo ou saturação, quantos dias esperar, como destravar (pausa, 1 por dia, horário, formato ou conta nova com a mesma Nora) e o que fazer com a Índia. (3) O nora60 (23h19) e o nora61 seguem como planejado. A decisão do limbo fica para depois da resposta do Clone, com o nora60 de régua.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
