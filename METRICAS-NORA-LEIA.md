@@ -641,6 +641,12 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **Face: 4 views em ~1h05 (−1,5x)**: cedo demais.
 - **Perfil do Insta (print):** 63 posts, 157 seguidores, 22 seguindo; 34,9 mil views em 30 dias; categoria "AI creator"; bio do Manifestation; 1 destaque ("Part 2"); foto de perfil com a Nora de frente, rosto claro e reconhecível.
 
+### 14/11/2026 10h01, FACE (Biblioteca; print do aluno)
+- **nora63-FACE (a canela, ~9h26): 9 views, 9 visualizadores, 3 views de 3 s (33,3%), tempo médio 5 s, −0,5x, 7 impressões.** O Face não distribuiu: de 4 views (01h40) para 9 em ~8 h. No Insta, o mesmo hook fez 55% nos 3 s com o selo "strong hook" na 1ª hora.
+- **nora62 (o bicarbonato, ~20h58): 230 views, 28,3% nos 3 s, 4 s, −0,7x, 1 seguidor; parado desde 00h43 (227).** A régua de ~24 h está praticamente fechada.
+- nora55 4.236 (+9,0x, 44 seguidores); o resto parado (nora61 105, nora60-FACE 199, emp1211 213, nora59-FACE 161, slideshow 9, nora56 a nora58 entre 153 e 328). Story do Face (`story-1211`): 7 views, 6 pessoas.
+- **O que mostra:** no Face, os 2 hooks de ritual com produto ficaram com 28% nos 3 s (nora62) e sem distribuição (nora63), contra 42% a 54% dos que abrem com a Nora de frente ou o tsunami. **Decisão: o hook de ritual com produto fica só no Insta** (onde segurou 55%; R32: o que ganhou numa rede fica nela); **no Face, a versão das 19h30 e a da 0h abrem direto na Nora de frente falando (o Take 1 com a caixa amarela), sem o hook de produto** (0 crédito: é só a edição do -FACE). A causa do nora63-FACE travado eu não sei: o nora59-FACE também saiu junto com o Insta, igual a ele, e fez 161. O aluno confere o Status da conta da Página (Recomendações), que não é conferido desde 21/10.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
