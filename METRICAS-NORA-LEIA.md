@@ -652,6 +652,9 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - Curva colada na do reel típico da conta (~140). Retenção: ~50% aos 3 s, ~25% aos 5 a 6 s (logo depois do corte do hook, 3,8 s, para a selfie falando), ~10% aos 14 s.
 - **O que mostra:** abaixo de 200 (cenário B da R43 e acionamento da R44): **o das 19h30 do Insta vira o loop de 8 s; o das 0h00 é a Nora falando com outro ângulo.** O hook segurou menos quando a amostra abriu (55% → 43%), e metade dos que ficam sai no corte do ritual para a selfie: pergunta R46 ao Clone (falar o Take 1 continuando o ritual, como no viral nº 2). **O loop não vai agora no Insta**: a amostra da manhã e da tarde é indiana (nora55 10h20: 41,7%; nora59 16h05: 43,5%), e os 2 loops de outubro saíram às 19h50 e às 21h35. No Face, ele pode ir mais cedo (às 16h), se o Clone confirmar. Dashboard na versão 34.
 
+### 14/11/2026 20h00 - nora64 postado (Insta e Face)
+- O loop de 8 s sem fala (R44, R46), 30 min depois da hora (19h30). Insta: `nora64-final` (com a faixa do story e a seta); Face: `nora64-final-FACE` (espelhado, 1,1x, faixa do comentário). **Régua da R46: abaixo de 200 a 300 views no Insta = distribuição reprimida no perfil** (as fitas de outubro fizeram 3.589 e 3.742 com ~28 h). Pedir os prints com ~3 h (~23h), ~12 h e ~24 h. O nora65 vai ao Insta à 0h00 (4 h depois).
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
