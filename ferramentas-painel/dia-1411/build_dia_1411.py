@@ -85,14 +85,17 @@ def img_carta():
             'taken by herself as a handheld selfie, slightly imperfect framing with a subtle tilt, mild sensor noise in the shadows, camera at eye level, one coherent light direction,\n' + FIM)
 
 
+# 14/11 19h30: a escolhida (a 4ª opção) saiu espelhada do prompt: a carta na mão DIREITA dela (lado ESQUERDO da imagem), erguida na altura do ombro;
+# a mão esquerda (lado direito da imagem) apoiada na mesa. O clipe segue a imagem escolhida.
 LOOP_VID = ('Use the supplied image as the first frame. Real casual 8-second video at night from a static camera at eye height, steady, no zoom, real speed, no slow motion; no phone, '
-            'phone stand or tripod ever appears in the frame. The action starts in the very first frame: from 0 to 2 seconds she lifts the golden card a little toward the lens and '
-            'taps its center twice with the index finger of her right hand (the hand on the left side of the frame); from 2 to 5 seconds she points down with that same index finger '
-            'toward the bottom-left corner of the frame, with a knowing smile and her eyes on the lens; from 5 to 8 seconds she brings the right hand back to rest on the table and holds '
-            'the card still at chest height, smiling into the lens. She never speaks and her lips stay closed the whole time. The golden card keeps its plain front with only the '
-            'embossed sun, no letters or pictures ever appear on it, and it never leaves her left hand. She keeps the same face, braid, crescent moon with three tiny gold stars, '
-            'earrings, necklace, bracelets, sun ring and burgundy top the whole time; the crystal, the mug and the room stay still; each hand has exactly five fingers; nothing appears '
-            'or disappears. AUDIO: quiet room ambience only; no music, no voice. No on-screen text, no captions.')
+            'phone stand or tripod ever appears in the frame. The action starts in the very first frame: from 0 to 2 seconds she brings the golden card a little closer to the lens with '
+            'her right hand (the hand on the left side of the frame) while her other hand, the one on the right side of the frame, rises from the table and taps the center of the card '
+            'twice with its index finger; from 2 to 5 seconds that same free hand points down toward the bottom-left corner of the frame with the index finger, with a knowing smile '
+            'and her eyes on the lens; from 5 to 8 seconds the free hand goes back to rest flat on the table and she holds the card still at shoulder height, smiling into the lens. She '
+            'never speaks and her lips stay closed the whole time. The golden card keeps its plain front with only the embossed sun, no letters or pictures ever appear on it, and it '
+            'never leaves her right hand. She keeps the same face, crescent moon with three tiny gold stars, earrings, necklace, bracelets, rings and burgundy top the whole time; the '
+            'crystal, the mug, the lamp and the room stay still; each hand has exactly five fingers; nothing appears or disappears. AUDIO: quiet room ambience only; no music, no voice. '
+            'No on-screen text, no captions.')
 
 # ------------------------------------------------------------------ nora65: a cena da carta e as falas (R47)
 CARTA_CENA = dict(
@@ -276,9 +279,8 @@ def nora64():
                      '360p → 8 s → x2 (~16 créditos); Início = loop1411-IMG; Fim = vazio. Baixe os 2 em 720p.'),
             'etapas': [
                 {'tipo': 'img', 'titulo': 'Imagem: a Nora à mesa com a carta dourada', 'nome': 'loop1411-IMG', 'anexar': 'só a folha da Nora (1K)',
-                 'quadros': ('x4, 0 crédito. ESCOLHA VOCÊ a que passar em tudo: é a Nora (lua com 3 estrelinhas na bochecha do lado esquerdo da imagem, trança com anéis, brincos de '
-                             'estrela e lua, colar de Vênus); a carta é dourada e lisa, só com o sol, SEM letra, número ou desenho de tarô; a carta está na mão do lado DIREITO da imagem e '
-                             'não cobre o rosto; a outra mão está na mesa; 5 dedos em cada mão; o alto da imagem é só parede (espaço do texto); nenhum celular ou tripé no quadro. '
+                 'quadros': ('FEITO (14/11 19h30): a escolhida é a 4ª opção (a carta na mão do lado ESQUERDO da imagem, erguida no ombro; o clipe já segue ela). x4, 0 crédito. Lista usada: é a Nora (lua com 3 estrelinhas na bochecha do lado esquerdo da imagem, trança com anéis, brincos de '
+                             'estrela e lua, colar de Vênus); a carta é dourada e lisa, só com o sol, SEM letra, número ou desenho de tarô; a carta não cobre o rosto; a outra mão está na mesa; 5 dedos em cada mão; o alto da imagem é só parede (espaço do texto); nenhum celular ou tripé no quadro. '
                              'Renomeie para loop1411-IMG. Se ficar em dúvida, me mande as 4.'),
                  'prompt': img_loop()},
                 {'tipo': 'vid', 'titulo': 'Clipe: ela bate na carta, aponta para a foto do perfil e sorri', 'nome': 'nora64-CLIPE-loop', 'duracao': 8,
@@ -363,7 +365,7 @@ def nora65():
     pecas = [{'nome': 'carta1411-IMG', 'tipo': 'imagem 1', 'status': 'gerar', 'descricao': 'Selfie à noite no quarto, blusa azul-marinho, a carta dourada só com o sol, parada perto do peito, na mão do lado direito da imagem.'}]
     pecas += [{'nome': nome(k), 'tipo': 'take', 'status': 'gerar', 'descricao': f'“{F[k]}”'} for k in ks]
     p['pecas'] = {'titulo_decisao': 'Resumo', 'lista': pecas, 'decisao': [
-        'GERAR (contatocaram), depois do loop: a carta1411-IMG (x4, 0 crédito; escolha você pela lista da seção Imagem) e os 6 takes nela pelo agente. Créditos: ~60.',
+        'GERAR (contatocaram), depois do loop: a carta1411-IMG (x4, 0 crédito) e ME MANDE AS 4 antes dos takes: o Flow pode trocar a mão da carta de lado (fez isso no loop), e o LIVRE e as movimentações precisam bater com a escolhida; eu ajusto no mesmo link em ~5 min. Depois, os 6 takes nela pelo agente. Créditos: ~60.',
         'Sem pré-gancho: o vídeo abre direto na Nora com a carta, desde o 1º quadro (R46). A fala não fala de cartas.',
         'Face: assim que eu devolver o nora65-final-FACE (sem o 222). Insta: ~4 h depois do loop (~1h), o nora65-final, com o 222 antes do story. Respostas ao 222 no Insta; no Face, o comentário da Página com o link.']}
     p['central'] = {'imagem_unica': True,

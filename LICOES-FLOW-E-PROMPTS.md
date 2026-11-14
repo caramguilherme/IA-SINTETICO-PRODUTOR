@@ -571,3 +571,6 @@ O `d1211-PRE-vela` (Omni 1.1 Flash, 8 s) fez o que o prompt pedia (a vela acende
 
 ### 14/11/2026 10h12, a continuidade da cena no vídeo de ritual (Clone R46, curva do nora63 no Insta)
 - No nora63, o hook da canela (cozinha, a Nora com o pote e o copo) cortava aos 3,8 s para a selfie na sala (`noite1111-IMG`): ~50% passavam dos 3 s e só ~25% chegavam aos 5 a 6 s. **Regra: no vídeo de ritual, as falas (pelo menos o Take 1) saem na mesma imagem da cena do ritual, com a Nora segurando o produto ou com o copo na bancada ao lado**, como nos virais da canela do Scoped (1,8 mi e 3 mi). A imagem das falas é a da cozinha do pré-gancho, com a Nora de frente para a lente; nada de "teletransporte" para outra cena.
+
+### 14/11/2026 19h30, o Nano Banana espelhou a mão da carta nas 4 opções
+- O prompt da `loop1411-IMG` pedia a carta na mão esquerda dela (lado direito da imagem); as 4 saíram com a carta na mão do lado esquerdo da imagem. **Regra: em imagem nova com objeto na mão, o prompt do vídeo (e o LIVRE) só se fecha depois de ver a escolhida**; se o aluno escolher sozinho pela lista, a lista não deve exigir o lado, e o prompt do vídeo descreve "a mão que segura" e "a mão livre" pela imagem escolhida.
