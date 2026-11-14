@@ -737,6 +737,25 @@ VÍDEO 2 (a volta do Insta, à 0h de sexta para sábado, sem data, e o mesmo no 
 
 **Minha posição antes da resposta (14/11 ~10h08):** o loop no Insta às 19h30, não agora (a amostra da manhã e da tarde é indiana; os loops de outubro saíram às 19h50 e às 21h35; o nora63 às 0h40 veio sem Índia: o horário não é o problema, a retenção depois do hook é); no Face, o loop pode ir mais cedo (às 16h; o Face tem a restrição de país e não tem o problema da Índia).
 
+## R47 (pedido pronto em 14/11 ~10h12, mandado pelo aluno às ~19h15; resposta colada): a headline e as falas do nora65 (a Nora com a carta dourada)
+**Pedido:** a headline (2 linhas, maiúsculas, a 1ª dizendo para quem é, sem data e sem ritual) e as falas T1 a T6 com as nossas travas (a fala não fala de cartas; até 22 palavras por take; números por extenso; T4 e T5 só no Insta; T6 só no Face, terminando em "Look in the comments below to see what twenty twenty-seven holds for you."; fora "free", app, preço, "only the chosen", depoimento inventado).
+
+**Resposta (colada pelo aluno em 14/11 ~19h15):**
+- Headline: **"FOR THE TIRED WOMAN: / YOUR 2027 SHIFT STARTS NOW"** (alternativa "US WOMEN: / …"), caixa amarela sólida com preto extra-bold.
+- **T1** (20 palavras): "If you have carried heavy silent burdens all year, take a deep breath: your hardest days are officially behind you."
+- **T2** (21): "A major turnaround is quietly arriving, bringing unexpected financial relief, genuine peace of mind, and someone truly special into your life."
+- **T3** (19): "When your energy aligns with this new chapter, doors that stayed locked all year finally open with gentle ease." (o Trustpilot nos últimos 3 s)
+- **T4** (Insta, 10): "Comment two two two below to lock in this blessing."
+- **T5** (Insta, 18): "Tap my photo and answer three quick questions in my story to receive your reading for twenty twenty-seven."
+- **T6** (Face, 17): "For your personalized reading, look in the comments below to see what twenty twenty-seven holds for you." (o Clone diz "comentário fixado no topo").
+- Ofereceu a arte do story com o adesivo (não precisa: o `story-1211` está no ar).
+
+**Para a Nora (14/11 19h15, decisão minha):**
+- **As 6 falas passam como estão** (conferidas: sem cartas, sem medo, sem "private", sem "link", sem "free"; CTA em 3 partes; o 222 antes do story, que é a última frase; até 22 palavras cada).
+- **Headline: "FOR THE TIRED WOMAN: / 2027 IS FINALLY YOUR YEAR"** (a 2ª linha do Clone, "YOUR 2027 SHIFT STARTS NOW", repetiria o "YOUR 2027 SHIFT STARTS TONIGHT" do loop das ~21h no mesmo Insta; o "US WOMEN" fica fora, R36). Caixa de alto contraste; a cor decide a edição (o nora63 foi amarelo).
+- **Prova no fim do T3: outra avaliação, não a da Katrina** (que foi no nora63): a do Younger ou a da Karina.
+- O "comentário fixado" do Face segue fora (não dá mais para fixar).
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 
