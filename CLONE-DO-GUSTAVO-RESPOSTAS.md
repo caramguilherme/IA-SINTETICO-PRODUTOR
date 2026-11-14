@@ -675,6 +675,15 @@ VÍDEO 2 (a volta do Insta, à 0h de sexta para sábado, sem data, e o mesmo no 
 - **3: entram na fila do `BIBLIOTECA-PRE-GANCHOS.md` (nº 40 a 42)** com 3 ajustes: nada escrito na folha de louro (o Flow deforma texto); nota de dinheiro só no Insta; a ação começa no meio e termina vindo para a lente, como a canela.
 - **5: a grade do Face do Clone sai quase toda**, porque bate em 3 regras: o áudio de 12/11 só volta depois de 3 dias (a partir de 15/11 23h19, R30); o "POV de amor já pronto" é o nora61, que foi ao ar ontem; e o texto na tela com "Type AMEN" é pedido de comentário no Face (reduz a entrega) num formato que converteu pouco (aula 70; slideshow com 4 a 9 views). **Face hoje: o nora63 das 00h35 + o das 19h30 + o da 0h (3 posts)**; um 4º só se for a Nora falando de frente (o formato que segura no Face) e couber nos créditos, decidido com os números de ~12h40.
 
+
+## R44 (pergunta pronta em 14/11 01h23, ideia do aluno: voltar com o vídeo curto em loop, sem fala, com texto na tela; resposta a colar)
+**Pergunta:** "No fim de outubro, quando a minha conta do Insta travou, eu postei 2 vídeos de 8 s sem fala: a Nora colando uma fita na boca, com texto na tela (os signos do dia e uma frase). Como a pessoa demora uns 7 s para ler e o vídeo é curto, ela assiste mais de uma vez, e os dois passaram de 3.500 views (3.589 e 3.742, com 7 a 9 s de tempo médio e 40% a 45% de skip), contra ~1.400 do reel típico da conta na época; a conta ganhou 12 seguidores em 14 h. Mas o público veio 83% com 45+, os comentários de outras pessoas ficaram entre 0,3% e 0,8% das views, e em 4 dias foram 12 cliques no link e 0 checkout. No Face, os mesmos vídeos ficaram em ~270 a 290 views. Hoje o Insta está em recuperação (2 por dia, às 19h30 e à 0h00, com 4 h ou mais entre eles) e o gargalo da conta é o clique.
+1. Vale voltar com esse formato curto em loop (6 a 8 s, sem fala) para destravar a entrega? Ele entra no lugar de um dos 2 vídeos do dia, como um 3º post, ou só se o vídeo da canela de hoje ficar abaixo de 200 views?
+2. Como fazer esse vídeo levar ao story sem medo: qual ação da Nora (a fita na boca era a imagem literal do 'keep your mouth shut', que tirei da copy), qual texto na tela e qual chamada para o story, para não puxar só o público de 45+?
+3. As aulas dizem que texto na tela converte pouco. Esse formato serve só para alcance (seguidores e entrega) enquanto o vídeo falado converte, ou ele atrapalha a conta?"
+
+**Resposta:** (colar aqui)
+
 ---
 
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
