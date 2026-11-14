@@ -1,0 +1,74 @@
+{
+ "entrada": "/tmp/claude-0/-home-user-IA-SINTETICO-PRODUTOR/6ef474f7-381e-57e0-a979-e45ed783b267/scratchpad/ed64/nora64-montado.mp4",
+ "saida": "/tmp/claude-0/-home-user-IA-SINTETICO-PRODUTOR/6ef474f7-381e-57e0-a979-e45ed783b267/scratchpad/ed64/nora64-final.mp4",
+ "crf": 21,
+ "preset": "medium",
+ "estilo": "creme-terracota",
+ "itens": [
+  {
+   "tipo": "caixa",
+   "ini": 0,
+   "fim": 8.0,
+   "x": 0,
+   "y": 445,
+   "tamanho": 8,
+   "linhas": [
+    "[ARIES, LEO, LIBRA & SAGITTARIUS:]",
+    "YOUR 2027 SHIFT STARTS TONIGHT.",
+    "THE WORST IS OFFICIALLY BEHIND YOU."
+   ],
+   "caixa": {
+    "fundo": [
+     246,
+     238,
+     228,
+     255
+    ],
+    "texto": "#1A0A06",
+    "destaque": "#8B2E1A",
+    "fonte": "bold",
+    "destaque_fonte": "bold",
+    "sombra": "#080202"
+   }
+  },
+  {
+   "tipo": "texto",
+   "ini": 0,
+   "fim": 8.0,
+   "x": -230,
+   "y": 250,
+   "tamanho": 13,
+   "texto": "222",
+   "cor": "#FFD21F"
+  },
+  {
+   "tipo": "texto",
+   "ini": 0,
+   "fim": 8.0,
+   "x": 230,
+   "y": 250,
+   "tamanho": 14,
+   "texto": "11:11",
+   "cor": "#FFFFFF"
+  },
+  {
+   "tipo": "caixa",
+   "ini": 2.0,
+   "fim": 8.0,
+   "x": 0,
+   "y": -300,
+   "tamanho": 7,
+   "linhas": [
+    "Tap my photo: your reading is in [my story]"
+   ]
+  },
+  {
+   "tipo": "seta",
+   "ini": 2.0,
+   "fim": 8.0,
+   "x": -288,
+   "y": -333,
+   "tamanho": 14
+  }
+ ]
+}
