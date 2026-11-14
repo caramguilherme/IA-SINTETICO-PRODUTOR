@@ -10,6 +10,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **joao (Sargento):** respondeu em 09/11 17h29 (ganchos + texto do story) e em 10/11 00h44 ("depende do gancho": usa com fala e sem fala; o que importa é prender nos primeiros segundos); fechamento enviado em 10/11 (~11h). Volta com o resultado (só fala x cena + fala) enviada em 12/11 16h27, com a pergunta do CTA. **Respondeu em 12/11 16h51:** "Jogo pro storys irmão, só no fim do vídeo, a última frase do vídeo sempre, nunca testei antes disso". Mensagem enviada em 13/11 00h24 (pergunta se ele pede comentário no vídeo). **Respondeu em 13/11 00h24: "Sempre peço pra comentar mano. É importante pro engajamento."** Como o story é sempre a última frase dele, o pedido de comentário vem antes do story (o contrário da R40). Mensagem enviada em 13/11 00h28 (só a pergunta da ordem). **Respondeu em 13/11 00h29: "Isso mano"** (o comentário vem antes, o story por último). **Fechamento enviado em 13/11 00h30.** Ele respondeu às 00h30: "Pra cima irmão / Precisando tamo ai" (conversa fechada; só uma reação, sem mensagem nova). Voltar com o resultado do vídeo da volta (~15/11).
 - **Lucas Dusi:** respondeu em 10/11 14h49 (filtrar o público no body + reason why forte no CTA) e **em 10/11 18h13 a 18h27** (hook mais aberto, filtro no body; o exemplo do reason why: "para manifestar X você precisa de uma âncora física de manifestação… toque na minha foto"; "dá pra pesquisar com o GPT, Claude ou Gemini o que as pessoas acreditam que precisam pra manifestar"). **Agradecimento enviado em 10/11 ~23h10** (sem pergunta nova). Voltar com o resultado do kit e do CTA novo. **12/11 13h17:** mandou os reason whys que funcionam nos EUA (lá não acreditam muito em inveja; acreditam em vibração da escassez, campo vibracional, subconsciente e ação física para manifestar); resposta enviada às 16h34. **Respondeu em 12/11 19h58:** "parece dar bom mesmo, o povo que acredita nisso acredita mto em datas e períodos"; "a conversão aqui tava bem baixa, mas aumentou conforme eu fui mudando o formato igual eles pediram"; mantém as mesmas copies e quer aprender copy. Mensagem enviada em 13/11 00h22. **Respondeu em 13/11 08h03 a 08h05:** "De sexta 13 tá dando mto bom aqui"; "Eu to fazendo tarot mano, ta fluindo bem, ta melhor do q aquelas bizarrice pelo menos kkk mais consistente"; "Os vídeos q mais dão view pra mim são quando eu mando compartilhar antes... smp tenho esse costume de pedir a ação de compartilhar o vídeo antes". **Resposta enviada em 13/11 11h11** (o compartilhar é para si mesma ou para alguém?; o aluno juntou "e que tipo de hook visual vc ta fazendo? ou nenhum?"). **Respondeu em 13/11 12h30:** "Peço pra mandar pra si msm e depois reforço pra mandar pra alguém de confiança"; "Abandonei um pouco os Hooks visuais kk / To variando nos Hooks da copy / Pego do TikTok, tem muito ouro por la". Resposta enviada em 13/11 15h22 (a versão 2, com a pergunta do TikTok). **Respondeu às 15h23 a 15h24:** o "hackzinho" do TikTok: pesquisar "TikTok creator search insight" na aba de pesquisa, abrir "Informações de pesquisas para criadores", "Ver todos" e pesquisar o termo (ele mostrou "Tarot": TarotAries 25,2 mil buscas e +1000%, TarotMessages 71,9 mil e +1000%, TarotOnline +112,9%); "aparece mta coisa viralizada na semana etc / Isso é ouro dms". Agradecimento sugerido às 16h41. Voltar com o resultado da volta (nora63) e do teste do compartilhar.
 - **12/11 ~16h30, voltas com resultado (DM, pedido do aluno: "faz tempo que não conversamos com alguém"):** joao (o teste só com fala x cena), Kaike (o tsunami de volta, 3,9 mil no Face; a pedra não chegou a ser testada) e Lari (6 por dia: Face bem, Insta caiu): enviadas (toda resposta sugerida conta como enviada). Esperar resposta de cada um; Ricardo e Marcus ficam para quando o nora59 tiver número (CTA novo).
+- **19ª leitura (14/11 00h40):** parabéns ao Lucas Dusi (com o obrigado público pela dica do TikTok) e ao Andrei Magno (1ª venda, 3º avatar) no #vitórias, e resposta ao Pedro Henrique (Índia: horário e começo do vídeo) no #chat-appyon: enviadas (toda resposta sugerida conta como enviada).
 - **18ª leitura (13/11 00h35):** respostas ao xand (o espanhol não é para todos) e ao Caio (o Scoped serve para a Appyon), no #chat-appyon, com o que a LegacyTalk #10 disse. O Evair respondeu "No face mano" (só reagir).
 - **17ª leitura (12/11 ~16h25):** respostas a th (duração dos vídeos), gabrielbfrota (taxa de clique das DMs no Face) e Wall (Flow implicando com a copy), no #chat-appyon, e parabéns ao Evair no #vitórias: enviadas (toda resposta sugerida conta como enviada).
 - **16ª leitura (12/11 ~01h):** resposta ao Vini BR (volume: 4 a 6 por dia com 2 h), no #chat-appyon: enviada (toda resposta sugerida conta como enviada).
@@ -644,5 +645,23 @@ e no tiktok vc pesquisa como? pela palavra manifestation ou tem outra q acha mai
 caraca mano, isso é ouro msm
 vou usar aqui, valeu demais
 qnd sair o resultado do compartilhar te falo
+```
+
+## ENVIADO (14/11/2026 00h40; 19ª leitura; 3 mensagens, uma em cada lugar)
+**1. Lucas Dusi, no #vitórias-dólar (responder a mensagem dele de 14/11 00h18, "Resultado de ontem."):**
+```
+parabéns mano!! merecido demais
+e valeu pela dica do creator search do tiktok, ajudou mt
+```
+**2. Andrei Magno, no #vitórias-dólar (responder a mensagem dele de 14/11 00h16, "Passando pra deixar meu primeiro resultado com Appyon"):**
+```
+parabéns mano!! a primeira é a mais difícil
+oq mudou no 3º avatar q fez destravar?
+```
+**3. Pedro Henrique, no #chat-appyon (responder a mensagem dele de 13/11 09h55, "Meus vídeos só estão entregando para indianos"):**
+```
+aqui a índia vinha qnd eu postava de manhã e à tarde, 40 a 55% índia
+postando entre 19h30 e meia-noite (horário de brasília) caiu bastante
+e qnd o começo do vídeo segura pouco nos 3s, o insta joga pra índia msm no horário bom
 ```
 
