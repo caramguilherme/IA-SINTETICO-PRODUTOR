@@ -104,19 +104,22 @@ CARTA_CENA = dict(
     roupa_cont='her soft deep navy-blue fine-knit long-sleeve top',
     quando='at night', onde='a real, lived-in American bedroom', luz='lit only by a warm bedside lamp on the right side of the frame',
     fundo='the plain warm off-white wall, the headboard with the cream throw blanket and the lamp behind her', visual='warm bedside lamp light in the background')
-SEGURA = ('her left hand on the right side of the frame holds the golden card with the embossed sun upright and still close to her chest at the height of her collarbone, a little '
-          'to the right of her chin, the whole time, never covering her face, mouth or chin; the card never moves, never turns and never shows letters or pictures')
+SEGURA = ('her left hand on the right side of the frame holds the golden card with the embossed sun still, in exactly the same position and angle as in the reference image, close to her chest, '
+          'the whole time, never covering her face, mouth or chin; the card never moves, never turns and never shows letters or pictures')
 
 F = {
     'D1': "If you have carried heavy silent burdens all year, take a deep breath: your hardest days are officially behind you.",
     'D2': "A major turnaround is quietly arriving, bringing unexpected financial relief, genuine peace of mind, and someone truly special into your life.",
     'D3': "When your energy aligns with this new chapter, doors that stayed locked all year finally open with gentle ease.",
-    'D4': "Comment two two two below to lock in this blessing.",
-    'D5': "Tap my photo and answer three quick questions in my story to receive your reading for twenty twenty-seven.",
+    # 14/11 20h29: o T04 e o T05 originais caíram no filtro de política com a carta (que saiu com cara de cartão de crédito) na mão:
+    # "Comment two two two below to lock in this blessing." e "Tap my photo and answer three quick questions in my story to receive your reading for twenty twenty-seven."
+    # As novas são as do nora63 (passaram), sem "receive" nem "lock in".
+    'D4': "Comment two two two right now so I know your energy is ready for this shift.",
+    'D5': "Tap my photo for the quick reading in my story about twenty twenty-seven.",
     'D6': "For your personalized reading, look in the comments below to see what twenty twenty-seven holds for you.",
 }
 RESERVA = {
-    'D5': "Open my story and answer three quick questions to receive your reading for twenty twenty-seven.",
+    'D5': "Open my story for the quick reading about twenty twenty-seven.",
     'D6': "If this found you today, it's not by chance. Look in the comments below to see what twenty twenty-seven holds for you.",
 }
 SUF = {'D1': 'T01-fardos-silenciosos', 'D2': 'T02-virada', 'D3': 'T03-portas', 'D4': 'T04-comente-222', 'D5': 'T05-cta-story-2027', 'D6': 'T06-face-cta-comentarios-2027'}
