@@ -692,6 +692,15 @@ VÍDEO 2 (a volta do Insta, à 0h de sexta para sábado, sem data, e o mesmo no 
 - **Ação:** a Nora de frente desde o 1º quadro, segurando o cartão dourado (sem nada escrito nele, o Flow deforma texto; nem carta de tarô aqui, para não juntar duas variáveis), aponta para ele e depois **para baixo e à esquerda**, onde fica a foto do perfil no Reels (não "para cima"), com um sorriso. Uma imagem nova + 1 clipe de 8 s x2 no Omni 1.2 em 360p (~16 créditos).
 - **Texto:** as 3 linhas do Clone, com 4 signos que não foram os das fitas de outubro. **A barra de baixo fica a nossa ("Tap my photo: your 2027 reading is in my story" + a seta)**: o "what 2027 holds for your sign" promete uma leitura por signo que o quiz não faz (copy igual ao funil, LegacyTalk #10).
 
+
+## R45 (pergunta pronta em 14/11 01h34, pedido do aluno: "mais algo pra perguntar?"; resposta a colar): a carta parada na mão como abertura
+**Pergunta:** "Estou vendo muitos vídeos do nicho com muitas views em que a avatar aparece de frente desde o 1º quadro segurando uma carta de tarô parada perto do rosto (no que eu analisei, a carta 'The World', com uma estátua de anjo e uma vela na mesa), sem hook de ação, e a fala não fala de cartas. O gerente da Appyon me disse que não gosta de falar de cartas antes do quiz, porque o funil do Manifestation não começa com cartas (são 3 perguntas rápidas e depois a leitura de 2027).
+1. Mostrar a carta na mão, sem falar dela na fala, na legenda nem no story, é seguro para a conversão do Manifestation, ou cria expectativa de tarô e derruba quem chega no quiz?
+2. Se for seguro: a carta na mão substitui o hook visual de ritual (a avatar fazendo algo com um produto famoso, com 3 a 4 cortes) ou entra depois dele, no Take 1?
+3. Vale trocar a carta por outro objeto do nicho que combine mais com a leitura de 2027 (um cristal, uma moeda dourada, um calendário de 2027), ou o que segura a atenção é justamente ser uma carta?"
+
+**Resposta:** (colar aqui)
+
 ---
 
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
