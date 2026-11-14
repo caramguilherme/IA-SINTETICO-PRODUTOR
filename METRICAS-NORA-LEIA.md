@@ -628,6 +628,10 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - nora63 no Face saiu às **00h35** (a Biblioteca mostra; no Insta ~00h40): 0 views na leitura.
 - **O que mostra:** o Face segue preso entre ~100 e ~330 por vídeo, fora o nora55; os 2 de 13/11 abriram com 21% a 29% nos 3 s. A régua de ~24 h do nora62 fecha às ~13h de hoje e decide o hook de produto no Face; o nora63 (canela, com movimento desde o 1º quadro) é a comparação direta.
 
+### 14/11/2026 00h44, INSTA nora60 FINAL (12/11 23h19, ~25h25; Insights do aluno)
+- **181 views, 174 viewers, skip 72,4% (27,6% nos 3 s), tempo médio 3 s, 0 follows, 0 visitas ao perfil**, 4 curtidas, 1 comentário (o fixado), 1 envio, 3 salvos; 100% não seguidores; 25-44 = 75%; **Índia 53,6%, EUA 14,9%**. A curva ficou colada na do reel típico da conta (~170) e parou com ~3 h.
+- **O que mostra:** igual à leitura de ~11 h (171 views, 27,7%, Índia 55%): o envelope reprovou no Insta e o Reels não passou da amostra inicial. A régua do nora63 (canela, a volta depois de ~25 h sem Reels) fica a mesma: 300+ views, mais de 44% nos 3 s e Índia abaixo de 20%.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
