@@ -653,6 +653,17 @@ VÍDEO 2 (a volta do Insta, à 0h de sexta para sábado, sem data, e o mesmo no 
 - **Story:** não precisa de outro; o `story-1211` (2027) repostado hoje cobre a meia-noite.
 - **Painéis: só depois do "pode montar" do aluno.**
 
+
+## R43 (pergunta pronta em 14/11 ~00h55, pedido do aluno: "como vai ser os vídeos do dia 14?"; resposta a colar): o dia 14 depois da volta do Insta
+**Pergunta:** "Contexto (14/11, 1h da manhã): a Nora voltou ao Insta depois de 25 h de pausa com um vídeo à 0h40: hook visual de 3,8 s com ela fazendo o ritual da canela (pote da McCormick com o rótulo real, a canela caindo no copo d'água, a colher girando, o sopro na lente), caixa amarela 'WHEN MONEY FEELS STUCK: / DO THIS WITH CINNAMON', corpo modelado dos virais da canela, sem medo, avaliação real do Trustpilot no fim e 'Comment 222' logo antes do CTA do story. O mesmo vídeo foi para o Face, sem o 222 e com o link nos comentários. No Face, o vídeo de sexta-feira 13 (ritual do bicarbonato Arm & Hammer com vinagre Heinz, a Nora olhando para o copo num plano aberto de cozinha) abriu com 24% a 29% passando dos 3 s em 12 h (227 views), contra 42% a 54% dos vídeos que abrem com a Nora de frente ou com o tsunami. O último do Insta antes da pausa (hook de um envelope brilhando) fechou com 181 views, 27,6% nos 3 s e 53,6% de Índia. Tracker de 13/11: 1 clique. Grade de hoje: Insta às 19h30 e à 0h00; Face às 9h, 12h, 16h, 19h30, 21h30 e 0h00 (mínimo 4). Tenho ~470 créditos no Flow.
+1. Para o Insta de hoje (19h30 e 0h00): mantenho o corpo do vídeo da canela com outro hook visual e outro Take 1, ou faço um corpo novo? O que muda se o vídeo da canela passar de 300 views com mais de 44% nos 3 s, e se ficar abaixo de 200?
+2. Que tipo de Take 1 uso hoje, sem data (a data cansa)? Me dê 3 opções em inglês, no tom positivo, dizendo para quem é nos 3 primeiros segundos, para mulheres de 35 a 55 anos nos EUA.
+3. Hook visual: me dê 3 rituais com produtos famosos dos EUA (rótulo real) que façam sentido para manifestação de dinheiro e 2027, começando no meio da ação e terminando com algo vindo na direção da câmera, com a Nora de frente.
+4. O pedido de compartilhar antes do CTA (um aluno que vende muito pede 'manda pra você mesma e depois pra alguém de confiança'): entra já hoje no Insta, no lugar do 'Comment 222' ou junto com ele, ou só depois dos números do vídeo da canela? Em que ponto da fala?
+5. Face: não tenho áudio sem data com mais de 3 dias. Como preencho os horários sem avatar (9h, 12h, 16h, 21h30) gastando pouco crédito? Um POV novo de 2 takes, um empilhamento com o corpo do vídeo de 12/11 às 23h19 (os trechos sem data) a partir de amanhã, ou outra coisa?"
+
+**Resposta:** (colar aqui)
+
 ---
 
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
