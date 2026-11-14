@@ -711,6 +711,19 @@ VÍDEO 2 (a volta do Insta, à 0h de sexta para sábado, sem data, e o mesmo no 
 
 ---
 
+## R46 (pergunta pronta em 14/11 ~10h15, pedido do aluno: "alguma pergunta/dúvida pro clone?… não pode postar já, pra tentar desbloquear a entrega? com o vídeo curto"; resposta a colar): o loop agora ou às 19h30, o corte do ritual para a selfie e o vídeo das 0h
+**Pergunta:** "Contexto (14/11, 10h): o Reels da volta do Insta (a canela, postado às 0h40 depois de 24 h de pausa) está com ~9h30: 142 views, 43% passaram dos 3 s (na 1ª hora eram 55%, com o selo "strong hook"), tempo médio 5 s em 35 s, 0 seguidores, 0 visitas ao perfil, 3 curtidas, 0 salvos e 0 envios; EUA 35%, Canadá 9%, Austrália 6%, sem Índia; 45+ = 48%. A curva colou na do "reel típico" da conta, que hoje é ~140 (de 06 a 10/11 os melhores fizeram 1.600 a 2.000). A retenção cai para ~50% aos 3 s e para ~25% aos 5 a 6 s, logo depois do corte do hook (3,8 s, ela fazendo o ritual na cozinha) para a selfie dela falando o Take 1 ("Put cinnamon in a glass of water before you leave home…"). No Face, o mesmo vídeo (sem o 222) travou em 9 views em 9 h, e o do bicarbonato de ontem parou em 230 com 28% nos 3 s; no Face, os que seguram 42% a 54% abrem com a Nora de frente falando ou com o tsunami.
+
+1. Pela tua resposta de ontem, abaixo de 200 o das 19h30 vira o loop de 8 s (a Nora com o cartão dourado). Posto o loop já, de manhã, para destravar a entrega, ou espero as 19h30? De manhã e à tarde a amostra inicial da conta é indiana (10h20: Índia 42%; 16h05: 44%), e os 2 loops que passaram de 3.500 views saíram às 19h50 e às 21h35.
+2. O corte do ritual para a selfie parece ser onde metade sai. No viral nº 2 da canela do Scoped (3 mi), a mulher fala com o pote de canela na mão. No vídeo das 0h00, a Nora deve falar o Take 1 continuando o ritual (na mesma cena da cozinha, com o copo e o pote), em vez de cortar para a selfie? Ou mantenho o corte e só troco o hook?
+3. Para o das 0h00 (outro ângulo, porque ficou abaixo de 200): qual corpo e qual abertura? (a) a Nora de frente segurando uma carta dourada perto do peito desde o 1º quadro, falando o corpo A, sem falar de cartas; (b) outro ritual com produto (azeite Pompeian com louro, sal Morton ou café Folgers); (c) o mesmo corpo da canela com o Take 1 "If you've carried heavy silent burdens all year, this simple ritual opens your twenty twenty-seven blessings."
+4. No Face: posto o loop também (às 16h, espelhado, com a faixa "link in the comments")? No fim de outubro esses loops fizeram 266 e 293 views no Face, mais que tudo o que o Face fez desde 12/11 fora 1 vídeo. E a versão do Face do vídeo das 0h sai no Face às 19h30, antes do Insta, abrindo direto na Nora falando?
+5. A conta caiu de 1.600 a 2.000 por Reels para ~140 desde 10/11, e a pausa de 24 h não mudou o "reel típico". Em que ponto isso deixa de ser saturação? O que eu observo nos próximos 2 a 3 dias para decidir?"
+
+**Resposta:** (a colar)
+
+**Minha posição antes da resposta (14/11 ~10h15):** o loop no Insta às 19h30, não agora (a amostra da manhã e da tarde é indiana; os loops de outubro saíram às 19h50 e às 21h35; o nora63 às 0h40 veio sem Índia: o horário não é o problema, a retenção depois do hook é); no Face, o loop pode ir mais cedo (às 16h; o Face tem a restrição de país e não tem o problema da Índia).
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 
