@@ -682,7 +682,15 @@ VÍDEO 2 (a volta do Insta, à 0h de sexta para sábado, sem data, e o mesmo no 
 2. Como fazer esse vídeo levar ao story sem medo: qual ação da Nora (a fita na boca era a imagem literal do 'keep your mouth shut', que tirei da copy), qual texto na tela e qual chamada para o story, para não puxar só o público de 45+?
 3. As aulas dizem que texto na tela converte pouco. Esse formato serve só para alcance (seguidores e entrega) enquanto o vídeo falado converte, ou ele atrapalha a conta?"
 
-**Resposta:** (colar aqui)
+**Resposta (resumo; colada pelo aluno em 14/11 ~01h30):**
+1. **Vale, como ferramenta de alcance** (aulas 55 e 70: "o texto na tela nunca converteu bem… é mais para viralizar tua conta, para ajudar a puxar os outros vídeos… destravar a conta"). **Nunca como 3º post** na recuperação. Canela com 300+ e 44%+ nos 3 s: não mexer, os 2 do dia seguem com a Nora falando. **Canela abaixo de 200: o loop de 8 s entra no lugar de um dos 2, de preferência o das 19h30**, como "eletrochoque" de retenção.
+2. Sem a fita (silenciamento puxa o público supersticioso e mais velho, aulas 64 e 65). Ação: a Nora sentada a uma mesa iluminada, com um cristal ou uma xícara, olhando para a câmera, segurando um cartão dourado, apontando para ele e depois para a foto do perfil, com um sorriso confiante. Texto em 3 linhas: "TAURUS, CANCER, LIBRA & SCORPIO: / YOUR 2027 SHIFT STARTS TONIGHT. / THE WORST IS OFFICIALLY BEHIND YOU."; barra de baixo: "Check my story right now to see what 2027 holds for your sign ↗".
+3. **Não atrapalha se for intercalado**: o loop é o topo largo (views, seguidores, curiosos no story) e a Nora falando é a autoridade e a conversão (aulas 21, 26 e 70); o erro é postar só texto na tela.
+
+**Para a Nora (14/11 01h25, decisão minha):**
+- **Acionamento:** se a canela estiver abaixo de 200 views (ou com Índia acima de 35%) nos prints de ~12h40, o post das 19h30 vira o loop de 8 s, só no Insta; o da 0h segue com a Nora falando. Com 300+ e 44%+, os 2 seguem falados.
+- **Ação:** a Nora de frente desde o 1º quadro, segurando o cartão dourado (sem nada escrito nele, o Flow deforma texto; nem carta de tarô aqui, para não juntar duas variáveis), aponta para ele e depois **para baixo e à esquerda**, onde fica a foto do perfil no Reels (não "para cima"), com um sorriso. Uma imagem nova + 1 clipe de 8 s x2 no Omni 1.2 em 360p (~16 créditos).
+- **Texto:** as 3 linhas do Clone, com 4 signos que não foram os das fitas de outubro. **A barra de baixo fica a nossa ("Tap my photo: your 2027 reading is in my story" + a seta)**: o "what 2027 holds for your sign" promete uma leitura por signo que o quiz não faz (copy igual ao funil, LegacyTalk #10).
 
 ---
 
