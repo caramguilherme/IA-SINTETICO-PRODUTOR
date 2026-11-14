@@ -621,6 +621,13 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 ### 14/11/2026 00h40 - nora63 postado (Insta e Face)
 - A volta do Insta depois de ~25 h sem Reels (o nora60 saiu às 23h19 de 12/11), 40 min depois da hora (0h00). Insta: `nora63-final` (35 s, com o 222); Face: `nora63-final-FACE` (30 s, com o T06). Régua do Insta (R35/R36): 300+ views, os 3 s acima dos 44% do nora59 e a Índia abaixo de 20%. Pedir os prints com ~12 h (os 3 s e o país) e com ~24 h.
 
+### 14/11/2026 00h43, FACE (Biblioteca; print do aluno)
+- **nora62 (o bicarbonato, ~11h40): 227 views, 211 visualizadores, 65 views de 3 s (28,6%; era 24,1% às 15h32), tempo médio 4 s, −0,2x, 1 seguidor.** Melhorou um pouco, mas segue abaixo dos 42% a 54% dos que abrem com a Nora de frente ou o tsunami (o nora60-FACE, com o tsunami, está em 47,7% e 199 views).
+- nora61 (POV, ~14h23): 105 views, 21,0% nos 3 s, −0,7x. Empilhamento 213 (21,6%), nora59-FACE 161 (30,4%), slideshow 9, nora56 a nora58 parados; nora55 4.235 (+8,6x).
+- Story do Face (`story-1211`, repostado 16h37): 7 views, 6 pessoas, 1 engajamento.
+- nora63 no Face saiu às **00h35** (a Biblioteca mostra; no Insta ~00h40): 0 views na leitura.
+- **O que mostra:** o Face segue preso entre ~100 e ~330 por vídeo, fora o nora55; os 2 de 13/11 abriram com 21% a 29% nos 3 s. A régua de ~24 h do nora62 fecha às ~13h de hoje e decide o hook de produto no Face; o nora63 (canela, com movimento desde o 1º quadro) é a comparação direta.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
