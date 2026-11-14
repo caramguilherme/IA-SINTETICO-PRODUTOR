@@ -125,3 +125,7 @@ Sem mágica (moeda que cai do nada): os virais são rituais reais, feitos na fre
 - **nº 41, sal Morton (o pote azul da menina com guarda-chuva):** o sal já caindo em cascata num círculo num prato preto → uma moeda dourada no centro (nota de dinheiro só no Insta) → ela de frente aponta o dedo para a lente no pico do riser. (O viral 51.2 usa sal num pote cilíndrico, com o mesmo formato de 3 cortes.)
 - **nº 42, café Folgers (a lata vermelha):** a colher de café já tingindo a água da xícara ao lado da lata → a moeda dourada caindo com o clique → ela faz um brinde na direção da câmera, a xícara cobrindo a lente.
 
+### 14/11/2026 01h09, o formato dos hooks visuais (aluno) e a carta na mão
+- **Sempre 3 a 4 cortes na edição, de 4 a 5 tomadas geradas separadas no Flow**, uma ação em cada, juntadas por mim: o Flow erra menos o movimento e o hook fica "mais bonito e entendível" (aluno, depois dos virais da carta e do sal, `BIBLIOTECA-VIDEOS-VIRAIS.md` 51).
+- **A avatar de frente segurando a carta parada perto do rosto desde o 1º quadro** (viral 51.1; o aluno viu "muitos vídeos com essa cena, e em todos com bastante views"): entra como tipo de abertura. Condições: a fala, a legenda e o story sem falar de cartas (Gustavo, 03/11); uma imagem nova da Nora com a carta e o vídeo inteiro nela (não encaixa num corpo já gerado em outra cena).
+
