@@ -25,4 +25,5 @@ Só ficam aqui as ferramentas em uso. Os scripts antigos (painéis de 22/10 a 10
 - `imagens-fixas/`: imagens do desejo do nora46 e a capa do Face; as avaliações reais ficam em `../provas-trustpilot/` (as `-sem-hora` são as de uso).
 - `manifestacao/`: a mineração de 26 e 27/10 (`lista.json`, `indice.json` com 148 vídeos transcritos, seção 39 da `BIBLIOTECA-VIDEOS-VIRAIS.md`) e os scripts dela (baixar com yt-dlp e transcrever).
 - `prompts/capa-face-nora.md`: o prompt da capa do Face.
+- `destaques/` (14/11): os stories e as capas dos Destaques do Insta (About me, Reviews, How it works) e os scripts `capas.py` (capa creme com lua, estrela ou brilho terracota; uso: `python3 -I ferramentas-painel/destaques/capas.py <pasta>`) e `fundo_reviews.py` (fundo desfocado + 2 prints do Trustpilot em cartão; uso: `python3 -I ferramentas-painel/destaques/fundo_reviews.py foto.jpg saida.jpg print1.png print2.png`, depois o `texto_story.py` por cima).
 - `skills/`: as skills do claude.ai do aluno (`leitura-discord-mvm`, `doc-mvm-legacy`), em pasta e em zip.
