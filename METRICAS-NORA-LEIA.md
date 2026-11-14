@@ -636,6 +636,11 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 - **13/11: 1 clique (Facebook), 0 no quiz, 0 começaram, 0 terminaram, 0 checkout, 0 venda.** O Insta não teve Reels no dia (pausa da R35/R36) e o `story-1211` ficou fora do ar de ~12h00 a 16h39 nas duas redes; no Face saíram o nora61 (10h20) e o nora62 (13h03), só com resposta pública e o comentário da Página (directs parados). O clique do Face não abriu o quiz.
 - **O que mostra:** o dia sem Reels no Insta zera o Insta no Tracker (o story sozinho não traz clique sem vídeo novo levando gente ao perfil); o Face, sem directs, deu 1 clique. Sem mudança: o teste é o nora63 (Insta e Face, 00h35/00h40 de 14/11) no Tracker de 14/11.
 
+### 14/11/2026 01h40, nora63 com ~1 h (Insta e Face; prints do aluno) e o perfil do Insta
+- **Insta: 43 views, 26 viewers, 55% nos 3 s (skip 45%), selo "This reel has a strong hook", tempo médio 4 s em 35 s, 0 follows, taxa de comentário 2,5%.** A curva está abaixo do reel típico da conta (43 contra ~75 em 60 min) e a retenção cai para ~15% aos 8 s. **O hook da canela fez o trabalho dele** (55% contra 27,6% do envelope e 44% do tsunami no nora59); o corpo perde quase todos nos primeiros 8 s. Cedo para o resto: régua com ~12 h (às ~12h40) e ~24 h.
+- **Face: 4 views em ~1h05 (−1,5x)**: cedo demais.
+- **Perfil do Insta (print):** 63 posts, 157 seguidores, 22 seguindo; 34,9 mil views em 30 dias; categoria "AI creator"; bio do Manifestation; 1 destaque ("Part 2"); foto de perfil com a Nora de frente, rosto claro e reconhecível.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
