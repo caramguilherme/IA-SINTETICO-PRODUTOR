@@ -618,6 +618,9 @@ O aluno acompanha as métricas neste painel (link privado): https://claude.ai/ar
 ### 13/11/2026 16h39 - story-1211 repostado (Insta e Face)
 - A mesma imagem de 12/11 ("Your next chapter is already in motion." / "Tap below to see what 2027 holds for you."), adesivo "See your 2027" (STORYIG no Insta, FACE no Face). Ficou fora do ar de ~12h00 a 16h39 (venceu antes do repost). Vence ~16h39 de 14/11. Os prints da 1ª postagem não vieram.
 
+### 14/11/2026 00h40 - nora63 postado (Insta e Face)
+- A volta do Insta depois de ~25 h sem Reels (o nora60 saiu às 23h19 de 12/11), 40 min depois da hora (0h00). Insta: `nora63-final` (35 s, com o 222); Face: `nora63-final-FACE` (30 s, com o T06). Régua do Insta (R35/R36): 300+ views, os 3 s acima dos 44% do nora59 e a Índia abaixo de 20%. Pedir os prints com ~12 h (os 3 s e o país) e com ~24 h.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
