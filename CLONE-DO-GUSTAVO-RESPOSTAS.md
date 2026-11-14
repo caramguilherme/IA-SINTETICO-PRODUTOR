@@ -662,7 +662,18 @@ VÍDEO 2 (a volta do Insta, à 0h de sexta para sábado, sem data, e o mesmo no 
 4. O pedido de compartilhar antes do CTA (um aluno que vende muito pede 'manda pra você mesma e depois pra alguém de confiança'): entra já hoje no Insta, no lugar do 'Comment 222' ou junto com ele, ou só depois dos números do vídeo da canela? Em que ponto da fala?
 5. Face: não tenho áudio sem data com mais de 3 dias. Como preencho os horários sem avatar (9h, 12h, 16h, 21h30) gastando pouco crédito? Um POV novo de 2 takes, um empilhamento com o corpo do vídeo de 12/11 às 23h19 (os trechos sem data) a partir de amanhã, ou outra coisa?"
 
-**Resposta:** (colar aqui)
+**Resposta (resumo; colada pelo aluno em 14/11 ~01h):**
+1. **Cenário A** (o vídeo da canela passa de 300 views com mais de 44% nos 3 s): manter o mesmo corpo (T2 a T5) e trocar só o hook visual e o Take 1 (variação de gancho, aula 28). **Cenário B** (abaixo de 200 ou Índia acima de 35%): mudar o ângulo às 19h30 (amor e novo ciclo emocional de 2027, ou alívio e paz mental, como o corpo de 12/11), para não cansar o mesmo público (aula 31).
+2. Takes 1: "If you're an American woman feeling constantly tired of financial stress, do this tonight: your breakthrough is finally here." / "If you've carried heavy silent burdens all year, take a breath: this simple ritual opens your twenty twenty-seven blessings." / "Stop scrolling if money felt completely stuck lately: the universe is opening doors you thought were permanently closed."
+3. Rituais: **azeite Pompeian + folha de louro** (o fio de azeite num pires; close escrevendo na folha com caneta dourada e mergulhando; ela ergue o pires e sopra na lente); **sal Morton** (o sal em cascata formando um círculo num prato preto; uma nota ou moeda no centro com canela por cima; as palmas juntas e o dedo apontando para a lente); **café Folgers** (a colher de café na xícara ao lado da lata vermelha; a moeda dourada caindo; o brinde na direção da câmera). Nora de frente, plano médio ou fechado, algo vindo para a lente no fim.
+4. **O compartilhar não entra hoje** (aula 65: pedir muita coisa polui e tira a ida ao story; primeiro isolar o 222 antes do CTA).
+5. Face: POV com o áudio sem data de 12/11 sobre paisagem; vídeos de 7 a 10 s com texto na tela de afirmação ("Type AMEN to claim…", "Read this 3 times…") e o link no 1º comentário; grade: 9h POV de amor, 12h texto na tela, 16h POV com o áudio de 12/11, 19h30 e 0h a Nora, 21h30 texto de oração.
+
+**Para a Nora (14/11 01h03, decisão minha):**
+- **1 e 4: valem como estão.** O cenário A ou B se decide com os prints de ~12h40; o compartilhar fica para depois dos números do nora63.
+- **2: a opção 1 sai** ("American woman" afasta o resto do Tier 1 da Página, R36); **a opção 3 repete as "doors" do T03** da canela (serve só com corpo novo); **a opção 2 é a candidata** para o corpo da canela, sem o "take a breath" (já abriu o nora59 em 12/11): "If you've carried heavy silent burdens all year, this simple ritual opens your twenty twenty-seven blessings."
+- **3: entram na fila do `BIBLIOTECA-PRE-GANCHOS.md` (nº 40 a 42)** com 3 ajustes: nada escrito na folha de louro (o Flow deforma texto); nota de dinheiro só no Insta; a ação começa no meio e termina vindo para a lente, como a canela.
+- **5: a grade do Face do Clone sai quase toda**, porque bate em 3 regras: o áudio de 12/11 só volta depois de 3 dias (a partir de 15/11 23h19, R30); o "POV de amor já pronto" é o nora61, que foi ao ar ontem; e o texto na tela com "Type AMEN" é pedido de comentário no Face (reduz a entrega) num formato que converteu pouco (aula 70; slideshow com 4 a 9 views). **Face hoje: o nora63 das 00h35 + o das 19h30 + o da 0h (3 posts)**; um 4º só se for a Nora falando de frente (o formato que segura no Face) e couber nos créditos, decidido com os números de ~12h40.
 
 ---
 

@@ -120,3 +120,8 @@ Sem mágica (moeda que cai do nada): os virais são rituais reais, feitos na fre
 - **Bicarbonato (`d1311-PRE-bic-HOOK`, nora62):** o 1º instante mais parado (a colher ainda sobre o copo), a Nora olhando para baixo num plano aberto e o fim num sorriso calmo; no Face abriu com 24,1% nos 3 s (13/11 15h32, ~2h30).
 - **Para os próximos hooks:** começar no meio da ação, terminar com algo vindo na direção da câmera (soprar, jogar, derramar para a lente) com a Nora de frente, e cortar para a fala no pico.
 
+### Fila nova (Clone R43, 14/11/2026 01h03; produtos com o rótulo real, a Nora de frente, começar no meio da ação e terminar com algo vindo para a lente)
+- **nº 40, azeite Pompeian + folha de louro (McCormick Bay Leaves, se der o rótulo):** o fio de azeite dourado já caindo num pires de vidro → close dela mergulhando a folha de louro (nada escrito na folha: o Flow deforma texto) → ela ergue o pires com a folha brilhando e sopra na lente.
+- **nº 41, sal Morton (o pote azul da menina com guarda-chuva):** o sal já caindo em cascata num círculo num prato preto → uma moeda dourada no centro (nota de dinheiro só no Insta) → ela de frente aponta o dedo para a lente no pico do riser. (O viral 51.2 usa sal num pote cilíndrico, com o mesmo formato de 3 cortes.)
+- **nº 42, café Folgers (a lata vermelha):** a colher de café já tingindo a água da xícara ao lado da lata → a moeda dourada caindo com o clique → ela faz um brinde na direção da câmera, a xícara cobrindo a lente.
+
