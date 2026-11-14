@@ -699,7 +699,15 @@ VÍDEO 2 (a volta do Insta, à 0h de sexta para sábado, sem data, e o mesmo no 
 2. Se for seguro: a carta na mão substitui o hook visual de ritual (a avatar fazendo algo com um produto famoso, com 3 a 4 cortes) ou entra depois dele, no Take 1?
 3. Vale trocar a carta por outro objeto do nicho que combine mais com a leitura de 2027 (um cristal, uma moeda dourada, um calendário de 2027), ou o que segura a atenção é justamente ser uma carta?"
 
-**Resposta:** (colar aqui)
+**Resposta (resumo; colada pelo aluno em 14/11 ~01h35):**
+1. **Seguro, se a carta for só imagem de autoridade** (a carta funciona como "o estetoscópio do médico"; o que derruba o quiz é a fala prometer tirar carta, aula 66: "eu não colocaria as cartas já na cópia… deixa a pessoa entrar"). O Clone atribui à aula 21 a frase "a carta de tarô na tela é o elemento de credibilidade"; **não achei essa frase nos nossos arquivos** (o mais perto é o Iorhan em 30/10 sobre "elemento de credibilidade de autoridade", sem falar de carta).
+2. Dois usos: **(1) formato próprio**, a Nora de frente desde o 1º quadro com a carta perto do peito (longe da boca, para não bugar a fala), caixa forte, riser e impact; **(2) depois do pré-gancho**, o ritual de 3 a 3,5 s e, no corte, a Nora já com a carta na mão durante a fala.
+3. A carta é o gatilho mais forte ("revelação do destino"); cartas claras e de vitória ("The World", "The Lovers", douradas), nunca escuras. Alternativas para 2027: **ampulheta** (Estrutura Instagram: "tem gente colocando a mulher com uma ampulheta na mão… e tá dando certo"), pêndulo com pedra, carta dourada própria com 2027 ou uma estrela no centro.
+
+**Para a Nora (14/11 01h37, decisão minha):**
+- **Uso 2: o pré-gancho de ritual fica e a Nora fala segurando a carta "The World" parada perto do peito** (uma variável: a carta; o pré-gancho segue a regra). O uso 1 tira o pré-gancho junto (duas variáveis de uma vez).
+- **Carta "The World" ou uma carta dourada sem nada escrito** (o Flow deforma letras e números: nada de "2027" na carta). A ampulheta fica para um teste depois.
+- **Pede imagem nova (a Nora com a carta) e todos os takes nela:** entra num corpo novo (o cenário B de hoje ou o próximo corpo), não no corpo da canela já gerado.
 
 ---
 
