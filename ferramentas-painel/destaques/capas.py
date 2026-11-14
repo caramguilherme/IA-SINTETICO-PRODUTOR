@@ -34,3 +34,13 @@ brilho(d, cx - 30 * K, cy + 30 * K, 230 * K, 0.22)
 brilho(d, cx + 170 * K, cy - 170 * K, 80 * K, 0.25)
 salvar(im, 'capa-how-it-works')
 print('ok')
+# sol (capa do "Part 2", 14/11 19h): círculo + 12 raios
+im, d = tela(); r = 120 * K
+d.ellipse([cx - r, cy - r, cx + r, cy + r], fill=TC)
+for i in range(12):
+    a = i * math.pi / 6
+    r1, r2, w = 160 * K, 265 * K, 0.11
+    pts = [(cx + r1 * math.cos(a - w), cy + r1 * math.sin(a - w)), (cx + r2 * math.cos(a), cy + r2 * math.sin(a)), (cx + r1 * math.cos(a + w), cy + r1 * math.sin(a + w))]
+    d.polygon(pts, fill=TC)
+salvar(im, 'capa-part-2')
+print('ok sol')
