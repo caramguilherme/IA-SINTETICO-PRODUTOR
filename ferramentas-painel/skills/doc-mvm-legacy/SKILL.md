@@ -16,7 +16,7 @@ O Guilherme está testando o curso MVM Legacy (vender o app Auraly da Appyon com
 ## Quando ele mandar qualquer material
 1. Ler a seção do assunto no arquivo antes de mexer (buscar pelo assunto).
 2. Extrair só o que é útil pra rodar os funis. Nada de resumo de enrolação.
-3. Colocar na seção certa. Seções: Status · Próximos passos · Como o negócio funciona · Funil Love Chart · Funil Soulmate · Funil Manifestation · Copy · Produção de vídeo · Estrutura de contas · Postagem, story e automação · Números e resultados · Custos · Nota fiscal e CNPJ · Regras, campanhas e riscos · Avisos oficiais que ainda valem · Perguntas · Aulas, gravações e links.
+3. Colocar na seção certa. Seções: Status · Próximos passos · Como o negócio funciona · Funil Manifestation · Copy · Produção de vídeo · Estrutura de contas · Postagem, story e automação · Números e resultados · Custos · Nota fiscal e CNPJ · Regras, campanhas e riscos · Avisos oficiais que ainda valem · Perguntas · Aulas, gravações e links.
 4. Separar sempre por funil: Manifestation (o da Nora), Love Reading (candidato do 2º perfil), Love Chart e Soulmate (histórico), ou "funil não dito".
 5. Se a informação nova desmente ou substitui algo, corrigir ou apagar o antigo. Nunca deixar duas versões. Pergunta respondida sai das abertas e vai pra tabela de respondidas.
 6. Não inventar dado. Se algo não foi confirmado, marcar como dúvida ou "a testar".
