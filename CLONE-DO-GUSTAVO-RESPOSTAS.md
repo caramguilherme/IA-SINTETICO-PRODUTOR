@@ -990,6 +990,42 @@ HOJE: o nora66 (o sal Morton, hook de 4,8 s, 7 imagens do desejo): Face à 0h00,
     - o pedido de compartilhar no Face contradiz a regra de "sem pedido no Face" e está na fila como teste só do Insta. A decidir com o aluno;
     - o volume de 4 a 5 por dia já é o nosso (mínimo de 4, R38).
 
+## R54 (pergunta pronta em 15/11 20h53, pedido do aluno: "questionar, perguntar, cobrar, dar exemplos: vc falou tal coisa, e agora falou outra; na aula é falado uma coisa, e agora vc disse outra. por na parede"; resposta a colar): as contradições da R53
+**Pergunta (~3002 caracteres):** "Pergunta (15/11, 21h): preciso que você explique as contradições entre a sua resposta de hoje e o que você mesmo disse antes e o que as aulas dizem. Em cada ponto, me diga a aula e o minuto, qual vale e por quê.
+
+1. O "Comment 222" na fala.
+- Em 13/11 você disse: "Entra um take curto de comentário… o Reels usa os comentários dos primeiros 15 a 30 minutos como sinal para abrir a distribuição; tirar todo pedido de interação tirou esse sinal" (aula 43: "sempre bota um ctazinho de comentário… dá engajamento"). E disse que ele ficava depois do CTA do story (aula 66).
+- Hoje você disse: "elimine comandos concorrentes; o comando precisa ser único".
+- Afinal, o 222 sai da fala? Fica antes do CTA, como nos 3 maiores virais da Appyon e nos meus 3 campeões? Ou vai depois?
+- Meus dados: o nora63 tinha o 222 na fala, antes do CTA, e teve 0 visitas ao perfil. O loop tinha o 222 só na legenda e teve 10 visitas e 14 comentários.
+
+2. A duração. Hoje você mandou encurtar os falados para 20 a 25 s. Mas:
+- na aula 55 (30/09, 0:14:38), o Gustavo diz que o clickbait "é mais pra pegar view… a conversão é infinitamente menor do que você fazer uma cópia mais elaborada";
+- na aula de variações (~10/07, 1:02:57): "até 60 segundos tá de boa… não apelem tanto para um clickbait tão curto… qualifica um pouco mais";
+- na R50, hoje de madrugada, você mandou manter como base, por 10 a 14 dias, o corpo A dos campeões (vídeos de ~67 s).
+O que vale? Um falado de 20 a 25 s não vira o clickbait que a aula 55 diz que não converte?
+
+3. O Face e a isca de engajamento. Hoje você sugeriu "Share this blessing with a woman you love" e "Type AMEN to claim". A política pública da Meta diz que o Facebook reduz a entrega de posts com isca de engajamento (pedir para comentar, compartilhar ou marcar).
+- Isso vale para essas duas frases?
+- Os alunos da Appyon que crescem no Face pedem isso? Com qual resultado?
+
+4. Os posts de texto no Face.
+- Na sua resposta de 07/11 você disse que o slideshow com texto era "bom para o Face, 0 crédito". Postei em 12/11 e teve 9 views.
+- O loop de 8 s com texto teve 31 views no Face.
+- Os vídeos com a Nora falando fazem de 100 a 330.
+- Em 11/11, 14/11 e hoje cedo você já tinha sugerido o "Amém" e o "Type AMEN".
+Por que insistir em post de texto no Face com esses números?
+
+5. O link encurtado. Você sugeriu o link encurtado no 1º comentário. Na comunidade, em 11/11, o Short.io quebrou o link de leads da Appyon. Por que encurtar?
+
+6. Os números do checkout. Você citou "1 checkout a cada 20 a 50 cliques" (aulas 12, 21 e 32) e disse que a Índia "converte 0,2% porque não usa cartão aceito pela Stripe" (aulas 28 e 54). Em que minuto está isso? Nas minhas anotações, a comunidade fala em checkout de 18% a 20% dos cliques.
+
+7. A seta. Você disse que a seta aponta para a foto do perfil "no canto superior esquerdo". No Reels, a foto do perfil fica embaixo, à esquerda. Confirma?
+
+No fim, separe: no que você mudou de opinião, o que mantém e o que você disse sem ter fonte nas aulas."
+- **Resposta:** (a colar)
+- **Nota (resposta ao aluno: "pq o face corta isca? quem falou isso? o clone?"):** a regra "no Face, sem pedido" não veio do Clone. Fui eu, em 10/11 ~01h15 (`COMUNIDADE-E-ESTRATEGIA.md`), com base na política pública da Meta contra isca de engajamento (posts que pedem curtida, comentário, compartilhamento ou marcação perdem distribuição). O Clone sugeriu o "Amém" na R29 (11/11), o texto com "Type AMEN" na R43 e na R48 e o slideshow na R14. O slideshow foi postado (slide1211, 12/11): 9 views.
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 

@@ -76,6 +76,16 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
 - **Dashboard:** para atualizar, editar o CSV, rodar `ferramentas-painel/dashboard/preparar_csv.py`, subir a cópia sem o BOM como asset e dar `update` em `datasets/metricas` (`source.url`, `source.name`, `updated`) com `if_version`; receita completa em `ferramentas-painel/dashboard/COMO-RECRIAR.md`.
 
 ## 4. Diário de decisões (as novas entram aqui, datadas; as anteriores a 14/11 estão em `HISTORICO-CLAUDE-MD.md`)
+- **15/11/2026 20h53, R54 ao Clone: as contradições da R53, a pedido do aluno** ("o clone tá aí pra isso, pra ser exigido"):
+  - o 222 na fala (R40 contra R53);
+  - os 20 a 25 s (contra a aula 55, a aula de variações e a R50);
+  - a isca de engajamento no Face;
+  - os posts de texto, que ele sugeriu na R14 e fizeram 9 views;
+  - o link encurtado;
+  - as fontes dos números do checkout e da Índia;
+  - a seta.
+
+  **Daqui em diante, toda resposta do Clone que contradiga uma anterior ou uma aula volta para ele com a citação e o minuto, antes de virar regra.** A regra "no Face, sem pedido" é minha (10/11, pela política da Meta), não do Clone. Texto em `CLONE-DO-GUSTAVO-RESPOSTAS.md` (R54).
 - **15/11/2026 20h47, Clone R53 (o quadro da conta):**
   - A conta está saudável e a Índia vem do horário.
   - **O loop não volta amanhã; o próximo vai na quarta (18/11), entre 20h00 e 21h30**, com 4 signos novos, 2 a 3 vezes por semana.
