@@ -725,6 +725,18 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
   - **A conta:** o loop trouxe gente ao story; o story converte bem (30%), mas só ~1,2% de quem viu o loop chegou ao story (27 de 2.204).
   - **O que fica:** pergunta R53 ao Clone com o quadro inteiro (pedido do aluno). Falta saber se o story foi repostado no Insta depois que venceu. No Face, voltou às 17h07.
 
+- **15/11/2026 20h36, Insta nora64 (o loop de 8 s), Insights com ~24h35:**
+  - **Alcance:** 2.204 views, 1.634 viewers, 99,3% não seguidores. 41,4% nos 3 s (skip 58,6%) e 5 s de tempo médio num vídeo de 8 s. A curva cai para ~55% aos 2 s, ~40% aos 4 s e ~25% aos 7 s.
+  - **Ação:** 10 visitas ao perfil, 2 follows, 22 curtidas (1,4%), 14 comentários (0,9%), 3 salvos, 0 compartilhamentos.
+  - **Idade:** 35 a 54 = 60%, 55+ = 17,6%.
+  - **Países: Índia 53,8%, EUA 6,3%, Reino Unido 3,8%, Grécia 2,1%, Paquistão 2,1%.** O gráfico mostra o salto de ~200 para ~2.000 durante o dia de 15/11, quando a amostra é indiana (R37).
+  - **Leitura:**
+    - A conta não está restrita: ela distribui. Mas o salto foi para a Índia. Em views dos EUA, o loop teve ~140, contra ~55 do nora63 (159 × 35%): ~2,5 vezes mais, e não 14 vezes.
+    - **Não conta para a rotina final**, que pede 500+ com a Índia abaixo de 20% e os EUA no topo.
+    - Das 10 visitas ao perfil saíram os 27 viewers do story, os 8 toques no link e os 4 cliques do Tracker de hoje.
+    - A R52 do Clone ("conta saudável") foi respondida só com o número de views. Os países vão na R53.
+  - **O que fica:** a R53 ganhou estes números antes de ir ao Clone. A grade não muda hoje (nora66: Face 0h00, Insta 0h25).
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.

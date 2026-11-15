@@ -930,7 +930,9 @@ INSTAGRAM (views na grade agora):
 - nora63 (14/11 0h40, o ritual da canela McCormick com hook de 3,8 s; depois a Nora falando em outro cenário, 35 s): 159; 42,5% nos 3 s; 5 s de tempo médio; 0 visitas ao perfil; EUA 35%, sem Índia. Metade dos que passaram do hook saiu no corte de cenário.
 - nora64 (14/11 20h00, o loop de 8 s sem fala): a Nora à mesa à noite com uma carta dourada só com o sol, bate 2 vezes na carta, aponta para a foto do perfil e sorri. Texto do começo ao fim: "ARIES, LEO, LIBRA & SAGITTARIUS: YOUR 2027 SHIFT STARTS TONIGHT. THE WORST IS OFFICIALLY BEHIND YOU." Faixa "Tap my photo: your reading is in my story" com seta. Legenda com os 4 signos e "Comment 222".
   - Com 6 h: 211 views; 40,2% nos 3 s; 4 s de tempo médio; 2 visitas ao perfil; Índia 20,5%, EUA 13,5%.
-  - Com ~24h30: 2.204 views.
+  - Com ~24h30 (Insights das 20h35): 2.204 views; 1.634 contas; 99,3% não seguidoras; 41,4% nos 3 s; 5 s de tempo médio; a curva com ~40% aos 4 s e ~25% aos 7 s; 10 visitas ao perfil; 2 follows; 22 curtidas; 14 comentários; 3 salvos; 0 compartilhamentos.
+  - Idade: 35 a 54 = 60%.
+  - **Países: Índia 53,8%, EUA 6,3%, Reino Unido 3,8%, Grécia 2,1%, Paquistão 2,1%.** O salto de ~200 para ~2.000 aconteceu durante o dia de 15/11, quando a amostra é indiana. Em views dos EUA, o loop teve ~140, contra ~55 do nora63.
 - nora65 (15/11 20h22, a Nora falando com a carta dourada na mão, 31 s, a edição nova de alto contraste): acabou de sair.
 - O painel do perfil mostra 32 mil views nos últimos 30 dias.
 
@@ -951,7 +953,7 @@ FACEBOOK (Biblioteca, 15/11 20h30): os vídeos ficam presos entre ~100 e ~330 vi
 
 HOJE À NOITE: o nora66, o ritual do sal Morton com o hook de 4,8 s em 3 cortes que você passou (R51), a Nora falando na mesma cena e 7 imagens do desejo em tela cheia, uma por frase (o teste da edição dopaminérgica). Face à 0h00 e Insta à 0h25.
 
-1. O que fez o loop dar 2.204 views enquanto os falados ficam em 150 a 180? Ele conta como o 1º dos "3 a 4 Reels seguidos com 500+" da rotina final?
+1. O loop deu 2.204 views, mas 53,8% da Índia e só 6,3% dos EUA. Isso é a conta saudável distribuindo, ou o algoritmo empurrando o loop para a Índia? Esse tráfego indiano atrapalha o público da conta? E por que ele vai bem enquanto os falados ficam em 150 a 180?
 2. Amanhã (16/11), no Insta: repito o loop? Com quais variações (os outros 8 signos, outra frase, outra cena, a mesma imagem) e em qual horário? Com que frequência ele pode voltar sem saturar? Ou sigo com 2 falados?
 3. O que mudo primeiro nos falados para eles pegarem a tração do loop: o Take 1, o hook visual, a duração (31 a 47 s) ou a copy do corpo?
 4. Só ~1,2% de quem viu o loop chegou ao story, mas 30% de quem chegou clicou. Como levo mais gente do vídeo para o story: a faixa, o texto, o pedido na legenda ou um 2º story?
