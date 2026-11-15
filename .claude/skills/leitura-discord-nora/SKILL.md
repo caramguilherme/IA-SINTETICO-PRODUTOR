@@ -7,7 +7,7 @@ description: Use quando o Guilherme mandar a leitura do Discord do MVM Legacy (o
 
 1. **Conferir se é novo:** comparar com `HISTORICO-DISCORD/` (md5) e com o marcador "Discord lido até" da seção 1 do `CLAUDE.md`. Arquivo igual a um já salvo: dizer que já está registrado e parar.
 2. **Salvar:** os .md em `HISTORICO-DISCORD/` com o nome original sem o prefixo do upload; as imagens do zip em `HISTORICO-DISCORD/imagens/<período>/`. Conferir buracos: o 1º horário de cada arquivo tem de vir logo depois do marcador anterior.
-3. **Ler tudo:** os 2 .md inteiros e o resumo; abrir as imagens com número (painéis de venda, Tracker, prints de configuração ou de copy).
+3. **Ler tudo:** os .md inteiros (desde a 20ª leitura, 14/11, são 6 canais, um .md por canal: chat-appyon, chat-geral, apresente-se, vitórias-dólar, anúncios e avisos-appyon) e o resumo; abrir as imagens com número (painéis de venda, Tracker, prints de configuração ou de copy).
 4. **Antes de decidir, ler:** as últimas entradas do `COMUNIDADE-E-ESTRATEGIA.md`, o `CONTATOS-ALUNOS.md` inteiro e a seção do assunto no `PLANO-MVM-LEGACY-APPYON.md`.
 5. **Registrar:**
    - `COMUNIDADE-E-ESTRATEGIA.md`: entrada "DD/MM - Discord, Nª leitura" com o que importa (vitórias com número e funil, dicas, avisos oficiais, problemas com solução) e **"Para a Nora (decisão minha)"**.

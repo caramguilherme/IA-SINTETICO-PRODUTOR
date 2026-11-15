@@ -4,8 +4,8 @@ O aluno usa uma conta do Claude até o limite semanal acabar e passa para outra.
 
 **Branch com tudo:** `claude/lucid-planck-zz5ob8` do repositório `caramguilherme/ia-sintetico-produtor` (a `main` foi atualizada com ela em 10/11 ~17h20; mesmo assim, a sessão nova traz a branch, como abaixo, para pegar o que veio depois).
 
-## 0. Prioridade da próxima conta (revisto em 13/11/2026 ~01h; atualizar a cada passagem)
-**O estado do dia está na seção 1 do `CLAUDE.md`** ("Agora", "Esperando do aluno", "Postado", links dos painéis). Em 13/11: o Insta em pausa até 23h20 (R35, R36) e o vídeo da volta à 0h de 13 para 14/11, com as falas de sexta-feira 13 fechadas nas R39 e R40 do `CLONE-DO-GUSTAVO-RESPOSTAS.md`; o painel do dia sai de um gerador novo, no molde do `ferramentas-painel/dia-1211/build_dia_1211.py`, só quando o aluno liberar. Ordem na conta nova:
+## 0. Prioridade da próxima conta (revisto em 14/11/2026 ~21h15; atualizar a cada passagem)
+**O estado do dia está na seção 1 do `CLAUDE.md`** ("Agora", "Esperando do aluno", "Postado", links dos painéis). Em 14/11: o Insta em recuperação, 2 por dia (19h30 e 0h00; R35 a R38); o painel do dia sai de um gerador novo, no molde do `ferramentas-painel/dia-1411/build_dia_1411.py`, só depois do "pode montar" do aluno. Ordem na conta nova:
 1. **Ambiente** (passo 1b da seção 3): sem Drive e Hugging Face não dá para baixar o montado nem transcrever.
 2. **Painéis dos vídeos ainda não postados** (seção 1 do `CLAUDE.md` diz quais): rodar o gerador, `node ferramentas-painel/conferir-painel.js PAINEL-NORANN.html` ("ERR: nenhum") e publicar nesta conta; trocar os links na seção 1 do `CLAUDE.md`. Se a imagem da cena ainda não foi aprovada, o LIVRE, as movimentações e os números estão provisórios: fechar pela imagem aprovada (P32) e republicar no mesmo link.
 3. **Edição (P45) de cada montado** pela skill `editar-video-nora` (inclui o corte de repetição do Flow, a avaliação do Trustpilot e o `-FACE` pelo `variacao_face.py`).
@@ -45,15 +45,15 @@ O aluno usa uma conta do Claude até o limite semanal acabar e passa para outra.
 | Funil de Manifestation e a VSL | `BRIEFING-MANIFESTACAO.md` e `ANALISE-FUNIL-MANIFESTATION-VSL.md` |
 | Funil do 2º perfil (Love Reading) | `BRIEFING-LOVE-READING.md` (PDF em `BRIEFING-LOVE-READING-AURALY.pdf`) |
 | Aulas e materiais | `AULA-IORHAN-30-10-COPY-QUE-CONVERTE.md` (P42), `AULA-02-11-DO-MEDO-AO-DESEJO.md`, `AULA-03-11-TURBINANDO-CRIATIVOS-IORHAN.md` (materiais em `MATERIAIS-CALL-03-11/`), `AULA-06-11-VARIACOES-E-COPY-COM-IA-IORHAN.md` (links em `MATERIAIS-CALL-06-11/LEIA.md`), `AULA-09-11-DO-ZERO-AO-VIDEO-GUSTAVO.md`, `AULA-07-09-ANALISE-DE-FUNIL.md`, `CLONE-DO-GUSTAVO-RESPOSTAS.md` |
-| Base dos vídeos de hoje | `ROTEIRO-DIA-1211-NORA59-61.md` (12/11: o corpo novo de 2027, o curto e o POV; os do kit do portal e do dia 11 em `arquivo/roteiros/`), as falas de sexta-feira 13 nas R39 e R40 do `CLONE-DO-GUSTAVO-RESPOSTAS.md`, `BIBLIOTECA-VIDEOS-VIRAIS.md` (seção 49: contas mineradas; 49.6: Soma Chhaya), `referencias-mineracao/`, `BANCO-DE-HEADLINES.md` |
+| Base dos vídeos de hoje | `ROTEIRO-DIA-1411-NORA64-65.md` (14/11: o loop de 8 s e a Nora com a carta dourada), `ROTEIRO-DIA-1311-NORA62-63.md` (13/11: a canela e o bicarbonato) e `ROTEIRO-DIA-1211-NORA59-61.md` (12/11: o corpo de 2027; os do kit do portal e do dia 11 em `arquivo/roteiros/`), as falas nas R39 a R47 do `CLONE-DO-GUSTAVO-RESPOSTAS.md`, `BIBLIOTECA-VIDEOS-VIRAIS.md` (seção 49: contas mineradas; 49.6: Soma Chhaya), `referencias-mineracao/`, `BANCO-DE-HEADLINES.md` |
 | Quando insistir, trocar gancho, copy ou avatar; perfis novos | `VALIDACAO-CONTA-E-AVATAR.md` |
 | Números de cada vídeo, Tracker e o diário das leituras | `METRICAS-NORA.csv` e `METRICAS-NORA-LEIA.md` |
 | Peças geradas e postadas | `BIBLIOTECA-DE-TAKES.md` |
 | Vídeos de referência, pré-ganchos, provas reais | `BIBLIOTECA-VIDEOS-VIRAIS.md`, `BIBLIOTECA-PRE-GANCHOS.md`, `PROVAS-REAIS-TRUSTPILOT.md` |
-| Roteiros e painéis | Na raiz, só os dos vídeos ainda em uso (`ROTEIRO-DIA-1211-NORA59-61.md`, `PAINEL-NORA59.html` em diante); os dos postados (até o nora58) em `arquivo/roteiros/` e `arquivo/paineis/` (os geradores acham os pacotes lá); reservas em `RESERVA-ROTEIRO-*.md` |
-| Doc do MVM (curso, Appyon, contas, custos, dicas) | `PLANO-MVM-LEGACY-APPYON.md` (cópia do doc vivo de 05/11 ~14h) |
+| Roteiros e painéis | Na raiz, os de 12/11 em diante (`ROTEIRO-DIA-1211-NORA59-61.md` a `ROTEIRO-DIA-1411-NORA64-65.md`, `PAINEL-NORA59.html` a `PAINEL-NORA65.html`); os dos postados (até o nora58) em `arquivo/roteiros/` e `arquivo/paineis/` (os geradores acham os pacotes lá); reservas em `RESERVA-ROTEIRO-*.md` |
+| Doc do MVM (curso, Appyon, contas, custos, dicas) | `PLANO-MVM-LEGACY-APPYON.md` (a cópia principal desde 06/11, atualizada a cada leitura do Discord, aula ou aviso) |
 | Dashboard, skill, ferramentas | `ferramentas-painel/dashboard/`, `ferramentas-painel/skills/`, `ferramentas-painel/ferramentas/LEIA.md` (`editar_video.py`, fonte Poppins, transcrição) |
-| Imagens para a edição | `ferramentas-painel/imagens-fixas/` (as 3 do desejo) e `provas-trustpilot/` (4 avaliações reais) |
+| Imagens para a edição | `ferramentas-painel/imagens-fixas/` (as 3 do desejo) e `provas-trustpilot/` (7 avaliações reais; as `-sem-hora` são as de uso) |
 
 Os vídeos e prints que o aluno mandou ficaram só nas sessões antigas; a análise de cada um está nos arquivos acima. Se a sessão nova precisar rever algum (por exemplo o `nora47-montado`, base do nora49), o aluno manda de novo.
 
