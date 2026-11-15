@@ -591,3 +591,7 @@ O `d1211-PRE-vela` (Omni 1.1 Flash, 8 s) fez o que o prompt pedia (a vela acende
 - **Regra:** em prompt de vídeo (e de imagem), nunca "shining", "glowing", "sparkling", "gleaming" nem "catching the light" para objeto; escrever o contrário: "the coin lies still, plain matte gold, no glint, no star, no sparkle, no light effect, looks like a real coin on a real plate". E no roteiro do pré-gancho, nenhuma batida de "objeto brilhando" (já era fora desde 13/11: objeto que só brilha ou acende não vale como coisa nova).
 - **Na edição:** com a estrela já no vídeo, cortar a moeda logo depois que ela pousa (antes de 1,2 s do `3-moeda`).
 
+### 15/11/2026 16h57, o vídeo "ela aponta para a lente" (4-aponta do nora66) saiu com aceno de mão aberta e olhos fechados
+- O prompt pedia "with her free hand she points her index finger straight at the lens… and holds the point". O Flow fez: de 0,6 a 0,9 s, um aceno com a mão aberta; de 1,0 a 1,2 s, o indicador para cima (gesto de "um"); só então apontou. E de ~2,25 a ~3,8 s ela fechou os olhos sorrindo. Só o trecho de 4,0 a 5,6 s servia (o gesto parado, com os olhos abertos).
+- **Regra para o próximo vídeo de apontar:** "she raises her free hand straight into a point at the lens in one smooth move, no wave, no open palm, no counting gesture; her eyes stay open and look straight into the lens the whole clip, no slow blink, no closed eyes". Num vídeo de 6 s, o trecho bom costuma vir depois de ~1,5 s.
+
