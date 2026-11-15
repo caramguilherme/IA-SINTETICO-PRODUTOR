@@ -66,3 +66,7 @@ Modelo do viral 51.2: de frente → close do produto agindo → de frente aponta
 **Créditos:** ~110 (4 vídeos do pré-gancho de 5 s x2, ~40; 7 takes de 10 s, ~70). As imagens não gastam crédito.
 
 Gerador: `ferramentas-painel/dia-1511/build_dia_1511.py`.
+
+## Andamento
+
+- 14h30 (15/11, 5ª conta): hook do nora66 montado (`ferramentas-painel/dia-1511/d1511-PRE-sal-HOOK.mp4`, 3,8 s, 720×1280, 24 fps, o som ASMR dos próprios vídeos subido de 14 a 22 dB com limitador, sem riser nem impact: eles entram na edição final): 1-derrama 1,10 a 2,10 s (o sal caindo grosso do bico e o monte crescendo, com o rosto dela) → 2-monte 2,00 a 2,50 s (o monte inchando de perto) → 3-moeda 0,75 a 1,75 s (a moeda cai, o tilintar aos 1,85 s do hook e o brilho) → 4-aponta 1,30 a 2,60 s (ela aponta para a lente e segura). Fora: o começo do 4-aponta (ela acena com a mão aberta aos ~0,75 s) e o fim do 1-derrama (ela levanta o pote aos ~3,2 s). Vieram 4 vídeos (um de cada, sem -a e -b), em 1080p. Conferido quadro a quadro: só há salto nas 3 trocas de cena.
