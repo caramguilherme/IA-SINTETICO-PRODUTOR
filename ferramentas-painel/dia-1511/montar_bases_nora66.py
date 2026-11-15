@@ -61,12 +61,15 @@ def base(nome, trechos, imgs):
         fa.append(f'[0:a]atrim={a:.3f}:{b:.3f},asetpts=PTS-STARTPTS,afade=t=in:d=0.03,afade=t=out:st={b - a - 0.03:.3f}:d=0.03[a{j}]')
         lv.append(f'[v{j}]'); la.append(f'[a{j}]')
     f = fv + fa + [''.join(x for par in zip(lv, la) for x in par) + f'concat=n={len(trechos)}:v=1:a=1[vb][ab]']
-    ult = 'vb'
+    ult = 'vb'; fim_ant = -1.0
     for k, (n, a, b) in enumerate(imgs):
         arq = os.path.join(OUT, f'desejo-{n}-{b - a:.2f}.mp4')
         if not os.path.exists(arq): clipe(n, b - a, arq)
         ins += ['-i', arq]
-        f.append(f'[{k + 1}:v]format=yuva420p,fade=t=in:st=0:d=0.12:alpha=1,setpts=PTS-STARTPTS+{a:.3f}/TB[i{k}]')
+        # imagem logo depois de outra: corte seco (com o fade, a Nora aparecia transparente na troca; conferido no 1º render, 15/11)
+        fade = '' if abs(a - fim_ant) < 0.02 else 'fade=t=in:st=0:d=0.12:alpha=1,'
+        fim_ant = b
+        f.append(f'[{k + 1}:v]format=yuva420p,{fade}setpts=PTS-STARTPTS+{a:.3f}/TB[i{k}]')
         f.append(f"[{ult}][i{k}]overlay=0:0:eof_action=pass:enable='between(t,{a:.3f},{b - 0.001:.3f})'[o{k}]"); ult = f'o{k}'
     saida = os.path.join(OUT, nome)
     subprocess.run(['ffmpeg', '-v', 'error', '-y', *ins, '-filter_complex', ';'.join(f), '-map', f'[{ult}]', '-map', '[ab]',
