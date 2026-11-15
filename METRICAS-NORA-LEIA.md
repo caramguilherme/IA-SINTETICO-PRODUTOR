@@ -713,3 +713,5 @@ Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, co
 - **Face (por vídeo):** views; visualizadores; distribuição; tempo médio; views de 3 s; seguidores novos; comentários.
 
 - **15/11/2026 20h23, postagem:** nora65 no Insta às 20h20 (o `nora65-final` no alto contraste, 31 s, com o 222; era 19h30). É o 1º Reels no padrão do Clone R50 e mede a edição nova contra o nora63 (42,5% nos 3 s, 156 views) e o loop (211). Leituras com ~3 h e ~24 h. O nora66 vai ao Insta às ~0h20 (4 h depois) e ao Face à 0h00.
+
+- **15/11/2026 20h27, Insta nora64 (o loop de 8 s, ~24h25): 2,2 mil views** (aluno, só o número). Com ~6h25 tinha 211 views. É 10 vezes o reel típico (~140) e passa da régua de recuperação da R48 (250 a 400+): a conta não está no limbo (Clone R52). Falta o print com os países (a Índia tinha 20,5% às 6 h), os 3 s, as visitas ao perfil e os follows, e o Tracker de hoje: loop é formato de alcance (as fitas de outubro, com 3,5 mil views, deram 12 cliques em 4 dias e 0 checkout). O nora65 foi ao Insta às 20h22 (não 20h20); o nora66 vai às 0h25.

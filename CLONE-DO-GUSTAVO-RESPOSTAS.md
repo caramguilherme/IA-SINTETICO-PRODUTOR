@@ -907,6 +907,18 @@ Temos 4 vídeos de 6 s cada (o sal caindo, o monte de perto, a moeda, ela aponta
   - **Remontagem (0 crédito):** o 1-derrama de 0,90 a 2,50 s; o 3-moeda de 0,30 a 1,10 s + 1,67 a 2,47 s (a estrela, de 1,17 a 1,62 s, sai por um corte escondido logo depois que a moeda pousa; o som segue contínuo e o clique cai junto do pouso); o 4-aponta de 4,00 a 5,60 s.
   - **Por que o 4-aponta não mostra a mão subindo:** de 0,6 a 0,9 s ela acena com a mão aberta e, de ~2,25 a ~3,8 s, fecha os olhos. O único trecho de 1,6 s com o gesto firme e os olhos abertos é de 4,0 a 5,6 s, com o gesto parado o corte inteiro.
 
+## R52 (pergunta do aluno, feita direto no Clone em 15/11 ~20h25; resposta colada às 20h27): o nora64 destravou a conta? Que horário para o nora66?
+**Pergunta (resumo do aluno):** o nora65 foi ao Insta às 20h22; o nora66 vai que horário, para fugir da Índia e não atrapalhar a entrega do nora65? E o nora64 (o loop de 8 s) deu 2,2 mil views no Insta: destravou a conta, ela está saudável?
+- **Resposta (colada pelo aluno):**
+  1. **A conta está viva e saudável; o limbo e a conta queimada estão descartados.** Conta restrita não bate 2.200 views, não rompe o reel típico (~140) e não leva visitas ao perfil. O loop serviu de "choque" de tempo médio (o vídeo curto com texto de leitura completa fez a repetição explodir) e abriu a entrega. Agora é a consolidação: os falados (nora65, nora66) pegam carona e transformam views em cliques no story.
+  2. **O nora66 no Insta entre 0h15 e 0h30 de Brasília:** às 0h20 o nora65 já tem 4 h de distribuição (o 1º ciclo amostral); na Índia são 08h50 de segunda (deslocamento para o trabalho, fora do horário nobre); nos EUA, 22h20 em Nova York e 19h20 na Califórnia de domingo. Não postar depois de 1h15.
+- **O que eu conferi e decidi (20h27):**
+  - **O horário:** o nora66 vai ao Insta às **0h25**, e não às 0h15, porque a nossa regra é de 4 h cheias entre posts (R36) e o nora65 foi às 20h22. Fica dentro da janela até 0h30 (R37). No Face, 0h00. As horas da Índia (UTC+5:30) e dos EUA (horário de inverno) batem.
+  - **A conta:** 2,2 mil views com ~24 h é 10 vezes o reel típico e passa muito da régua de recuperação da R48 (250 a 400+). Não é limbo. Mas o loop é formato de alcance: em outubro, as fitas de 3,5 mil views deram 12 cliques em 4 dias e 0 checkout.
+  - **O que ainda falta saber:** se as views vieram dos EUA ou da Índia (a leitura de 6 h tinha Índia 20,5%), quantos foram ao perfil e quantos cliques o Tracker de hoje marca. Pedi o print do Insights ao aluno.
+  - **A grade não muda hoje:** o Insta segue com 2 por dia até 3 a 4 Reels seguidos com 500+ e a Índia abaixo de 20% (a rotina final da seção 2).
+  - **A "transição fluida" da fala:** não dá com os takes já gerados (ver a R51). O impact cobre a troca.
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 
