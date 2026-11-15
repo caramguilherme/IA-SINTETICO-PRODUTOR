@@ -756,6 +756,20 @@ VÍDEO 2 (a volta do Insta, à 0h de sexta para sábado, sem data, e o mesmo no 
 - **Prova no fim do T3: outra avaliação, não a da Katrina** (que foi no nora63): a do Younger ou a da Karina.
 - O "comentário fixado" do Face segue fora (não dá mais para fixar).
 
+## R48 (pergunta pronta em 15/11 02h30, pedido do aluno: "alguma pergunta/dúvida pro clone? com alguns dados atualizados até o momento"; resposta a colar): o loop com 6 h, o 2º Reels de hoje, o corpo que perde entre 3 e 10 s e o Face de hoje
+**Pergunta:** "Contexto (15/11, 2h30; a conta saiu da pausa em 14/11):
+- O loop de 8 s sem fala (a Nora com a carta dourada aponta para a foto do perfil; 4 signos no texto; postado 14/11 às 20h00), com ~6h25: 211 views, 163 viewers, 40% passaram dos 3 s (selo "strong hook"), tempo médio 4 s, 2 visitas ao perfil (as primeiras desde 11/11), 0 seguidores, 1 comentário; Índia 20,5%, EUA 13,5%, Canadá 11%, Reino Unido 10,5%; 45+ = 40%. A curva está acima do "reel típico" (~205 contra ~140 às 6 h), mas achatando perto de 210. Em outubro, 2 loops parecidos passaram de 3.500 views.
+- A canela (postada 14/11 às 0h40), fechada com ~26 h: 156 views, 42,5% nos 3 s, tempo médio 5 s em 35 s, 0 visitas ao perfil, 4 curtidas; EUA 35%, sem Índia; 45+ = 50%. A retenção cai para ~25% aos 5 s e ~10% aos 10 s (os 2 Reels de 12/11 fizeram o mesmo: 152 e 181 views).
+- Hoje às 19h30 vai a Nora de frente com a carta dourada perto do peito desde o 1º quadro, sem ritual e sem corte de cena, falando: "If you have carried heavy silent burdens all year, take a deep breath: your hardest days are officially behind you." + a virada + "doors that stayed locked all year finally open" + Trustpilot + "Comment two two two…" + o CTA do story (31 s). No Face ele já saiu às 2h16.
+- Face: o loop é o único vídeo recente com distribuição positiva (+0,7x, 29 views com 6 h; parte pode ser minha, deixei o vídeo rodando pela Página); o resto fica entre 100 e 330 por vídeo desde 12/11, fora 1 de 4.236 (11/11). O comentário da Página com o link agora fica fixado (pelo celular, sem a prévia do link).
+
+1. Pela tua régua de ontem (o loop abaixo de 200 a 300 = repressão no perfil): com 211 e achatando, isso é repressão, saturação ou o normal de uma conta voltando? O que eu olho na leitura de ~24 h (às 20h) para decidir, e o que muda em cada caso?
+2. O 2º Reels de hoje, à 0h00 (depois do vídeo da carta às 19h30): (a) um 2º loop de 8 s com os outros signos (Touro, Virgem, Capricórnio, Câncer) e outro gesto, à 0h para tirar a Índia; (b) a Nora falando outro corpo; (c) outro ritual com produto (azeite Pompeian com louro, sal Morton ou café Folgers) com ela falando na mesma cena do ritual. Qual, e por quê? Lembrando que nunca repetimos o mesmo formato 2 vezes seguidas no mesmo dia.
+3. Nos 3 vídeos falados, quase todo mundo sai entre o 3º e o 10º segundo, mesmo com o gancho segurando. Nas aulas, o que segura do 3º ao 10º segundo num vídeo de Manifestation sem medo e sem loop antes do CTA? Como devem ser a 2ª e a 3ª frase depois do Take 1? Me dá 3 exemplos de 2ª frase para o corpo da carta ("heavy silent burdens…").
+4. Face de hoje (o mínimo é 4 posts e o único vídeo novo é o da carta): o que eu ponho nos outros horários sem repetir áudio de menos de 3 dias? O campeão do Face (4.236, de 11/11) tem a data e o portal 11:11 na fala. Vale uma variação dele só com o hook e outra fala, um POV narrado, o loop de novo em outro horário, ou menos posts?"
+
+**Resposta:** (colar aqui)
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 
