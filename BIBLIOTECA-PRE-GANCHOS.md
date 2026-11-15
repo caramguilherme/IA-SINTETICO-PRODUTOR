@@ -124,7 +124,7 @@ Sem mágica (moeda que cai do nada): os virais são rituais reais, feitos na fre
 
 ### Fila nova (Clone R43, 14/11/2026 01h03; produtos com o rótulo real, a Nora de frente, começar no meio da ação e terminar com algo vindo para a lente)
 - **nº 40, azeite Pompeian + folha de louro (McCormick Bay Leaves, se der o rótulo):** o fio de azeite dourado já caindo num pires de vidro → close dela mergulhando a folha de louro (nada escrito na folha: o Flow deforma texto) → ela ergue o pires com a folha brilhando e sopra na lente.
-- **nº 41, sal Morton (o pote azul da menina com guarda-chuva):** o sal já caindo em cascata num círculo num prato preto → uma moeda dourada no centro (nota de dinheiro só no Insta) → ela de frente aponta o dedo para a lente no pico do riser. (O viral 51.2 usa sal num pote cilíndrico, com o mesmo formato de 3 cortes.)
+- **nº 41, sal Morton (o pote azul da menina com guarda-chuva) [VIROU o nora66 em 15/11, com o MONTE de sal no lugar do círculo (efeito que cresce no mesmo lugar, checklist 4) e a moeda caindo no topo; a Nora fala na mesma cena; `ROTEIRO-DIA-1511-NORA66.md`]:** o sal já caindo em cascata num círculo num prato preto → uma moeda dourada no centro (nota de dinheiro só no Insta) → ela de frente aponta o dedo para a lente no pico do riser. (O viral 51.2 usa sal num pote cilíndrico, com o mesmo formato de 3 cortes.)
 - **nº 42, café Folgers (a lata vermelha):** a colher de café já tingindo a água da xícara ao lado da lata → a moeda dourada caindo com o clique → ela faz um brinde na direção da câmera, a xícara cobrindo a lente.
 
 ### Dos docs da Appyon de 15/11/2026 (`MATERIAIS-DOCS-APPYON-15-11/LEIA.md`, item 7)

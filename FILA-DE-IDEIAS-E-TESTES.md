@@ -16,6 +16,7 @@
 
 ## Em teste agora
 - **Edição dopaminérgica nos primeiros ~15 s:** uma imagem do desejo por frase, com animação de entrada e efeito sonoro. Inclui as setas apontando para o objeto do ritual.
+  - **No painel do nora66 (o sal, 0h00 de 15 para 16/11): as 7 imagens d1511-DESEJO.**
   - **Fonte:** aulas 12 e 14; briefing de 22/05; o quadro do briefing, p. 5.
   - **Status:** aprovado pelo aluno em 15/11 03h00; entra no vídeo do sal.
   - **Hipótese:** segura mais gente aos 5 e aos 10 s que o nora63 (~25% e ~10%).
