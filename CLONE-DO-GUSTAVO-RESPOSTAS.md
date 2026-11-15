@@ -795,7 +795,28 @@ Me dá:
 
 As nossas travas: até 22 palavras por take; números por extenso ("twenty twenty-seven", "two two two"); a fala não fala de cartas; sem "free", nome do app, preço, "private", "link", "claim", "lock in" e "receive" (o gerador de vídeo barra); sem medo, ameaça, segredo, urgência, "only the chosen" ou depoimento inventado; mais verde que vermelho."
 
-**Resposta:** (colar aqui)
+**Resposta (colada pelo aluno em 15/11 ~03h40, resumo fiel):** escolhe a **opção B** (bancada de cozinha, prato preto, moeda). A Nora no banheiro "reduz drasticamente o valor percebido"; a descarga "atrai curiosidade mórbida e um público extremamente disperso".
+- **Caixa:** "FOR TIRED WOMEN: / THE MORTON SALT SHIFT" (ou "US WOMEN: / THE MORTON SALT SHIFT").
+- **Take 1:**
+  - (1) situação: "If you feel quietly exhausted by financial stress tonight, this simple salt ritual marks where your new chapter begins.";
+  - (2) pergunta curiosa: "Have you ever wondered why wise women pour salt before sleeping? It clears the heavy energy blocking your blessings.";
+  - (3) instrução: "Pour a circle of Morton salt before going to bed tonight: your hardest financial days are officially ending."
+- **T2:** "You spent months smiling for everyone while carrying heavy worry alone in bed, quietly wondering when your turn would arrive."
+- **T3:** "Tonight that heavy weight dissolves, opening beautiful financial ease, peaceful nights, and someone truly wonderful for twenty twenty-seven." (com o Trustpilot nos 3 s finais)
+- **T4:** "Comment two two two below to welcome this gentle blessing."
+- **T5:** "Tap my photo and answer three quick questions in my story to get your reading for twenty twenty-seven."
+- **T6 (Face):** "For your personal reading, look in the comments below to see what twenty twenty-seven holds for you."
+- **Linha do tempo:**
+  - 0 a 3,8 s: abrir o bico do pote, o círculo de sal, a moeda e apontar para a lente (riser + impact);
+  - depois: ela fala na mesma bancada, com o pote na mão.
+
+**Conferido aqui (15/11 03h40):** as falas passam nas travas (até 22 palavras; sem "free", "private", "link", "claim", "lock in", "receive"; sem medo). **Ajustes meus para o painel:**
+1. **A caixa:** "FOR TIRED WOMEN" repete a do nora65 ("FOR THE TIRED WOMAN:"), que vai ao Insta às 19h30 da mesma noite. Troco por uma caixa de outro tipo.
+2. **O Take 1:** fica a (2), a pergunta curiosa. O nora65 abre com situação ("If you have carried heavy silent burdens all year…") e a canela de ontem com instrução.
+3. **O T3:** pela própria R50 (item 6, abaixo), o corpo a manter é o corpo A, o dos campeões, na versão suave da canela. Então o T3 vira as 2 frases do corpo A que já passaram no filtro do Flow no nora63: "The universe saw your quiet faith. A major turnaround is arriving, bringing unexpected money, deep peace and someone truly wonderful." e "The worst is behind you. Heavy doors that stayed locked all year are finally opening to welcome your abundance." O T3 do Clone fica de reserva.
+4. **Junto:** a edição dopaminérgica aprovada (as imagens do desejo nos primeiros ~15 s) e as setas apontando para o pote.
+
+**Painel só com o "pode montar" e o saldo dos créditos.**
 
 ## R50 (pergunta pronta em 15/11 03h05, pedido do aluno: "será que as edições que você está fazendo estão entregando menos o vídeo? cita o tipo de fonte, cor, o jeito que está sendo editado e as ferramentas que estão no vídeo"; resposta a colar): a edição está derrubando a entrega?
 **Pergunta:** "Pergunta (15/11): a minha edição pode estar derrubando a entrega e a retenção dos 3 primeiros segundos no Insta? Quero saber o que manter, o que tirar e o que mudar.
@@ -825,7 +846,38 @@ Eu sei que de 10 a 12/11 mudou muita coisa junto (sem pré-gancho, 6 por dia com
 4. Ter o texto gravado por script, e não editado no CapCut ou no Edits, muda alguma coisa para o algoritmo?
 5. Se for para mudar, qual é o teste de uma variável só, a 0 crédito, no Reels de hoje às 19h30 (o nora65, já editado em lavanda e dourado)? Reedito no estilo da fase 1 ou deixo como está e mudo no próximo?"
 
-**Resposta:** (colar aqui)
+**Resposta (colada pelo aluno em 15/11 ~03h40, resumo fiel):**
+1. **Sim, a fase 3 derruba retenção:**
+   - os tons pastel translúcidos e a fonte serifada fina em itálico perdem contraste ("se ela não consegue ler instantaneamente… ela passa o vídeo"; o público é de 35 a 55+, com o brilho da tela baixo);
+   - a caixa do topo e a legenda juntas desde o 0 s dividem a atenção;
+   - os 3 números fixos, somados à caixa, à legenda, ao Trustpilot e à faixa, são "5 camadas de texto" (segundo o Clone, o Insta leria isso como anúncio poluído).
+2. **Volta ao estilo da fase 1 como padrão único:** caixa amarela sólida com preto em negrito, ou branca com preto e vermelho; destaque da legenda em amarelo forte, branco com contorno preto grosso. "No tráfego orgânico, contraste absoluto vence harmonia."
+3. **A legenda:** 3 palavras por vez no terço de baixo "está perfeito". Com pré-gancho, a legenda entra só quando ela começa a falar. Sem pré-gancho, pode começar no 0 s, com a caixa do topo bem curta.
+4. **O script (Python + ffmpeg) não muda nada para o algoritmo:** ele lê o arquivo e os quadros, não a ferramenta.
+5. **O teste:** reeditar o nora65 no estilo da fase 1 antes das 19h30: caixa amarela com preto, legenda branca com contorno e destaque amarelo, a caixa e a legenda sem disputa, e "remova o Trustpilot no meio".
+6. **(A pirâmide)**
+   - No orgânico, um corpo que der clique aguenta **10 a 20 dias** só com variação horizontal; depois, lateralizar.
+   - De 10 a 14/11 o corpo mudou todo dia, então "a conta reinicia o teste do zero em cada post".
+   - **O corpo validado nº 1 é o corpo A**, o dos campeões nora48 a nora50: "the universe saw your faith… a major turnaround… money, prosperity and someone wonderful… the worst is finally over… closed doors… open". O corpo de 2027 do nora59 ("heavy silent burdens… fog clearing") "ainda está em teste".
+   - **Decisão:** fixar o corpo A e variar só o topo (pré-gancho, Take 1, caixa) por 10 a 14 dias.
+
+**Conferido aqui (15/11 03h40):**
+- **Que o corpo A é o dos campeões:** certo. A transcrição do nora48 a nora50 tem esse corpo, e o nora63 (a canela) usou a versão suave dele: "The universe saw your quiet faith. A major turnaround is arriving…".
+- **Ressalva 1, sobre o corpo A ser "validado":** ele foi validado em views e retenção (68% a 71% nos 3 s, 18 a 21 s de tempo médio), não em clique. O Tracker de 27/10 a 10/11 fechou com 25 cliques e 0 checkout.
+- **Ressalva 2, o que os campeões tinham entre os 3 e os 8 s:** "listen before 11:11, the year's most powerful portal. Don't tell anyone what's about to happen." Um prazo e um segredo, que saíram pela P42; o portal também já passou. É uma pista do porquê a versão suave perde gente nos mesmos segundos (vai para a fila).
+- **As aulas 19, 40 e 57 que o Clone cita sobre cor:** não temos. A aula 43, que temos (`TRANSCRICOES/2026-08-31-aula-43-funil-prosperidade-e-hooks.md`, 1:03:22 a 1:08:59), diz:
+  - "legendinha simples… mais orgânico possível";
+  - fonte básica, a do sistema, "com um contorninho, no máximo duas linhas";
+  - "não vai botar uma legenda assim [espalhafatosa]";
+  - um destaque "limpo… amarelinho".
+
+  Confirma a volta do contraste e do destaque amarelo, e acrescenta que a legenda deve ser simples e discreta.
+- **"O Insta lê densidade de texto como anúncio":** é afirmação do Clone, sem fonte que eu tenha.
+
+**Para a Nora:**
+1. **O estilo:** voltar ao alto contraste da fase 1 (caixa sólida, legenda em negrito com contorno e destaque amarelo; nada de pastel nem de serifa fina) inverte o pedido do aluno de 12/11 ("variar cores e estilos"). **Precisa do ok dele.** Com o ok, eu reedito o nora65 antes das 19h30 (0 crédito, poucos minutos), e o estilo vira o padrão.
+2. **O Trustpilot fica** no nora65: é a nossa única prova real (R12), e tirar seria uma 2ª variável no mesmo teste.
+3. **A pirâmide:** o corpo A, na versão suave, fica como o corpo base por 10 a 14 dias, variando só o pré-gancho, o Take 1, a 2ª frase e a caixa. O sal entra nesse molde (ajuste 3 da R49 acima).
 
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.

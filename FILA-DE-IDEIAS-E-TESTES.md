@@ -20,6 +20,12 @@
   - **Status:** aprovado pelo aluno em 15/11 03h00; entra no vídeo do sal.
   - **Hipótese:** segura mais gente aos 5 e aos 10 s que o nora63 (~25% e ~10%).
 
+- **O estilo de alto contraste (Clone R50, 15/11):** caixa sólida e legenda em negrito com contorno e destaque amarelo, sem pastel nem serifa fina. **Esperando o ok do aluno**, porque inverte o pedido dele de 12/11.
+  - Com o ok, entra já no nora65 (Insta às 19h30), reeditado a 0 crédito, com o Trustpilot mantido.
+  - **Hipótese:** mais gente passa dos 3 s que no nora63 (42,5%).
+  - A aula 43 confirma a legenda simples, de fonte básica com contorno e destaque amarelo.
+- **O corpo A, na versão suave, como corpo base por 10 a 14 dias (Clone R50, item 6):** variar só o pré-gancho, o Take 1, a 2ª frase e a caixa. O sal de hoje à 0h00 entra nesse molde (Clone R49, com os meus ajustes).
+
 ## Próximos testes (nesta ordem; detalhe em CLAUDE.md seção 2, "Ordem dos testes")
 1. **A faixa do story com o campo trancado** ("Your 2027 reading: 🔒 / tap my photo"). 0 crédito, na edição. Fonte: quadro da aula 18, `MATERIAIS-CALL-02-06/LEIA.md`.
 2. **O pedido de compartilhar antes do CTA**, só no Insta. Fonte: o costume do Lucas Dusi, 13/11.
@@ -78,6 +84,12 @@
 
   A edição rende menos que gancho novo ("se eu só ficar colocando efeito sonoro… o potencial de escala vai ser muito menor do que 10 novos ganchos"). Fonte: aula de variações, ~10/07.
 - **Garimpo na Biblioteca de Anúncios**, classificada por total de impressões, só vídeo e só inglês ("manifestation", "law of attraction", "2027", Astroline, Nebula). Nunca copiar quem vende Appyon. Fonte: quadro da aula 18.
+
+## Pistas para investigar
+- **O que os campeões (nora48 a nora50) tinham entre os 3 e os 8 s:** "listen before 11:11, the year's most powerful portal. Don't tell anyone what's about to happen." Um prazo e uma promessa de revelação, que saíram (o segredo pela P42, o portal porque passou). A versão suave do corpo A perde quase todos nesses segundos.
+  - **Hipótese:** falta um motivo para ficar.
+  - **Caminho a testar depois da 2ª frase da R48:** uma frase que prometa o que vem, sem segredo nem prazo de horas (ex.: "Stay with me, because what this ritual opens for twenty twenty-seven is not what you expect.").
+  - Antes, conferir com o Clone e com a P42 (que proíbe loop antes do CTA).
 
 ## Contradições entre as aulas (o que vale hoje)
 - **Clickbait curto:**
