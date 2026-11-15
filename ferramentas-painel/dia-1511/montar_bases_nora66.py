@@ -70,7 +70,8 @@ def base(nome, trechos, imgs):
         fade = '' if abs(a - fim_ant) < 0.02 else 'fade=t=in:st=0:d=0.12:alpha=1,'
         fim_ant = b
         f.append(f'[{k + 1}:v]format=yuva420p,{fade}setpts=PTS-STARTPTS+{a:.3f}/TB[i{k}]')
-        f.append(f"[{ult}][i{k}]overlay=0:0:eof_action=pass:enable='between(t,{a:.3f},{b - 0.001:.3f})'[o{k}]"); ult = f'o{k}'
+        # +1 quadro no fim: o overlay largava a imagem 1 quadro antes (conferido pelo pts em 15/11); a imagem seguinte cobre por cima
+        f.append(f"[{ult}][i{k}]overlay=0:0:eof_action=pass:enable='between(t,{a - 0.001:.3f},{b + 0.040:.3f})'[o{k}]"); ult = f'o{k}'
     saida = os.path.join(OUT, nome)
     subprocess.run(['ffmpeg', '-v', 'error', '-y', *ins, '-filter_complex', ';'.join(f), '-map', f'[{ult}]', '-map', '[ab]',
                     '-c:v', 'libx264', '-crf', '15', '-preset', 'medium', '-pix_fmt', 'yuv420p', '-r', str(FPS),
