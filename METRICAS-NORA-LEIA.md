@@ -700,6 +700,11 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
 - **Régua da R46 (o loop abaixo de 200 a 300 = repressão no perfil):** com 6 h ele já passou dos 200 e do nora63 inteiro (154 com ~18 h), na faixa de baixo da régua; **não é o sinal de repressão forte, mas também não é a entrega das fitas de outubro** (3.589 e 3.742). A régua fecha com ~24 h (~20h de 15/11). As 2 visitas ao perfil são o 1º sinal de gente indo ao perfil em 4 vídeos, e vieram do vídeo que aponta para a foto.
 - **Nada muda agora:** o nora65 vai ao Insta às 19h30 de 15/11, como combinado; o das 0h00 sai da leitura de ~24 h do loop, do nora63 e do Tracker de 14/11.
 
+### 15/11/2026 02h27, INSTA nora63 FINAL (a canela; 14/11 ~00h40, ~25h47; Insights do aluno)
+- **156 views, 145 viewers, 42,5% nos 3 s, 5 s de tempo médio em 35 s**, 0 visitas ao perfil, 0 follows, 4 curtidas (todas nos primeiros ~10 s), 1 comentário, 0 salvos e envios. 45+ = 50%. **EUA 35,3%, Canadá 9%, Austrália 6,4%, sem Índia no top 5.** Curva colada no reel típico (~155); retenção ~25% aos ~5 s e ~10% aos 10 s.
+- **Leitura:** o hook da canela segura (55% com 1 h, 42,5% no fim) e a janela das 0h deu o melhor país da semana (EUA 35%, sem Índia), mas o corpo perde quase todos antes dos 10 s e ninguém foi ao perfil: é o mesmo quadro do nora59 e do nora60 (o corpo não segura). **Comparação:** o loop (nora64, 20h00) passou o nora63 inteiro em 6 h (211 contra 156) e levou 2 pessoas ao perfil, mas com Índia 20,5% e EUA 13,5%. **A grade não está colada em ~140** (nora59 152, nora60 181, nora63 156, nora64 211 e subindo): o critério do teto da R46 ainda não fecha.
+- **Nada muda agora:** o nora65 (a Nora falando, sem pré-gancho, a carta desde o 1º quadro) vai às 19h30 e testa se a abertura sem corte de cena segura o corpo melhor que a canela; o das 0h00 sai das leituras de ~24 h do loop e do nora65 e do Tracker de 14/11.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
