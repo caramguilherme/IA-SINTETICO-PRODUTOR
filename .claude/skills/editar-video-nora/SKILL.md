@@ -11,6 +11,14 @@ description: Use quando o Guilherme mandar um vídeo da Nora montado sem texto (
 > - **com pré-gancho, a legenda entra só quando a Nora começa a falar;** sem pré-gancho, pode começar no 0 s, com a caixa do topo curta;
 > - **modelo de spec:** `spec-nora65-v2.json` (Insta) e `spec-nora65-FACE-v2.json` (Face).
 >
+> - **imagens do desejo da edição dopaminérgica (desde 15/11, nora66; teste aprovado pelo aluno):** entram **dentro da base**, antes do texto, por `ferramentas-painel/dia-1511/montar_bases_nora66.py` (copiar e trocar os tempos):
+>   - tela cheia, uma imagem por frase, com a voz seguindo por baixo;
+>   - entrada de 1,10x para 1,00x em 0,25 s, depois avançando devagar até 1,05x, com fade de 0,12 s;
+>   - recortar a imagem quando o objeto principal cair na faixa da legenda (66% a 82% da altura);
+>   - um `whoosh` a −12 dB em `"sons"` no início de cada imagem;
+>   - nota de dinheiro só na versão do Insta;
+>   - o texto (legenda e números) fica por cima da imagem.
+>
 > O que estiver abaixo e contradisser isso (os estilos por cena do passo 6b, o Trustpilot antes do CTA em "Não fazer") vale só para vídeos antigos.
 
 O aluno manda o `noraNN-montado` (hook + takes + música, sem texto). Eu ponho tudo por cima pelo painel do vídeo, sem mexer no áudio, e devolvo o `noraNN-final`. Ele não precisa escrever nada: o número no nome diz o painel.

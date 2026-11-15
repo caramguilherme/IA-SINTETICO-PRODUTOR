@@ -279,3 +279,19 @@ Fora da numeração do nora. Peças com o nome do teste: `faceNN-IMG`, `faceNN-C
   - tirada a palavra solta "For" no fim do Insta.
 
   As versões lavanda ficaram como `-v1-lavanda` no scratchpad. O Face já tinha ido às 02h16 com a v1.
+- **15/11/2026 20h19, nora66 editado (P45; o sal Morton, com a edição dopaminérgica): `nora66-final.mp4` (Insta, 46,9 s: o hook + T01 a T06) e `nora66-final-FACE.mp4` (Face, 37,1 s: T01 a T04 + T07, sem o hook e sem a imagem do dinheiro).**
+  - **O montado:** `NORA 66 CAPCUT.mp4` (Drive, 40 MB, 52,9 s), com o hook de 4,8 s já colado pelo aluno. A fala bate palavra por palavra com o painel e não tem repetição do Flow. Sem música debaixo do hook.
+  - **Cortes do montado:** T01 4,916; T02 12,625; T04 28,583; T05 36,083; T06 40,916; T07 46,958.
+  - **As bases:** saem com as imagens já dentro do vídeo, por `ferramentas-painel/dia-1511/montar_bases_nora66.py`. Insta de 0,083 a 46,958. Face de 4,916 a 36,083 + 46,958 ao fim, com fade de 30 ms no áudio.
+  - **As 7 imagens do desejo (a edição dopaminérgica):** em tela cheia, cada uma na frase que ilustra, com a voz por baixo. Entram com uma animação (de 1,10x para 1,00x em 0,25 s e depois avançando devagar até 1,05x) e um fade de 0,12 s.
+    - Tempos no montado: 1 (o sal ao lado da cama) 7,40 a 9,55, em "pour salt before sleeping"; 2 (a mesa) 12,70 a 14,85; 3 (sozinha na cama) 14,85 a 17,35; 4 (o dinheiro, só no Insta) 23,80 a 25,40; 5 (a varanda) 25,40 a 26,60; 6 (o casal) 26,60 a 28,20; 7 (a porta) 30,45 a 33,45.
+    - A 1 foi recortada (x 0, y 0,23, lado 0,77) para o pote sair de baixo da legenda.
+  - **Sons:**
+    - Insta: riser-lento (alternado com o riser do nora63) terminando 0,1 s antes do corte do T01 (4,833 s) e o impact no corte.
+    - Nas duas versões: um whoosh (−12 dB da voz) na entrada de cada imagem.
+  - **Textos (`alto-contraste`):**
+    - caixa do topo amarela, tamanho 10, Y 458, "FOR WOMEN WHO GIVE TOO MUCH: / THE MORTON SALT SHIFT", do 0 até o T02;
+    - 888 ciano (X −230, Y 282), 11:11 branco (X 230, Y 282), 222 amarelo (X −230, Y 40);
+    - legenda do T01 ao fim (no Face, do 0);
+    - Insta: "Tap my photo: / your 2027 reading is in [my story]" e a seta, do T06 ao fim. Face: "Your 2027 reading: / [link in the comments]", do T07 ao fim.
+  - **Specs:** `specs/spec-nora66.json` e `specs/spec-nora66-FACE.json`.
