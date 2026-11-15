@@ -597,5 +597,5 @@ O `d1211-PRE-vela` (Omni 1.1 Flash, 8 s) fez o que o prompt pedia (a vela acende
 
 ### 15/11/2026 20h40, pergunta ao Clone (NotebookLM) grande demais
 - A R53, com ~4.500 caracteres, não foi aceita pelo chat do Clone. As R48 a R51, mais curtas, passaram.
-- **Regra:** pergunta ao Clone com até ~1.800 caracteres. Os números entram em linhas curtas e só os que mudam a resposta; o detalhe fica no `CLONE-DO-GUSTAVO-RESPOSTAS.md` e no `METRICAS-NORA-LEIA.md`.
+- **Regra (corrigida pelo aluno às 20h42: "1600 é pouco… apaguei pouca coisa e liberou o envio… nas próximas pode se basear em até 4000 caracteres"):** pergunta ao Clone com **até ~4.000 caracteres**, com todos os números que ajudam na resposta. A R53 foi na versão curta (~1.600), porque o aluno já tinha mandado.
 
