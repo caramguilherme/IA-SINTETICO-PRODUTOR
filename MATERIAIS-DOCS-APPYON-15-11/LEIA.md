@@ -22,7 +22,7 @@ Vieram 4 links de Google Docs e a pasta do Drive "Materiais" (https://drive.goog
 | 06 | Pesquisa Astrologia #1: 20 bodies + 15 CTAs | Bodies garimpados com o gatilho de cada um | Soulmate e astrologia |
 | 07 | Pesquisa Astrologia #2: 30 bodies + 30 CTAs | Bodies EN→PT e 30 CTAs por tipo (curiosidade, sinal, UGC, urgência, grátis, comando, prova, suave, virada, engajamento) | Soulmate, com 2 de sorte e casa |
 | 08 | #1 – Copy validada (body) | 36 bodies de Meta Ads, orgânico e "superestrutura" + 26 ADs internos | Soulmate, chama gêmea |
-| 09 | 161 Cold Reading Phrases | Frases de cold reading por tema (caráter, Barnum, amor, dinheiro, espiritual, futuro) | Geral |
+| 09 | 161 Cold Reading Phrases | Frases de cold reading por tema (caráter, Barnum, amor, dinheiro, espiritual, futuro). **Já estava no projeto desde outubro como `BIBLIOTECA-COLD-READING.md`** (com os números iguais); eu não tinha usado para a 2ª frase | Geral |
 | 10 | Pesquisa de mercado e público: Soulmate & Astrology (aula 18, 02/06) | Persona, desejos, vitórias, fracassos, gostos e desgostos, ceticismo, "aha", banco de citações reais | Soulmate |
 
 ## O que entra na Nora (decisão minha, 15/11; nada vira vídeo sem o "pode montar")

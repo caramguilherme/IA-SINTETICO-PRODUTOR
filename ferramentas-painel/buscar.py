@@ -33,8 +33,10 @@ PRIORIDADE = [
     "BRIEFING-MANIFESTACAO.md",
     "HISTORICO-CLAUDE-MD.md",
 ]
-PASTAS = [".", "HISTORICO-DISCORD", "MATERIAIS-CALL-03-11", "MATERIAIS-CALL-06-11", "ferramentas-painel", "referencias-mineracao", "arquivo"]
-EXTENSOES = (".md", ".csv")
+# Desde 15/11/2026: o projeto inteiro (toda pasta nova entra sozinha: TRANSCRICOES, MATERIAIS-*, etc.),
+# primeiro os arquivos da raiz, depois as pastas em ordem alfabética, com "arquivo" por último.
+PASTAS_FORA = {".git", "node_modules", "__pycache__", ".claude"}
+EXTENSOES = (".md", ".csv", ".txt")
 
 
 def normal(texto):
@@ -48,11 +50,12 @@ def arquivos():
         caminho = os.path.join(RAIZ, nome)
         if os.path.isfile(caminho):
             vistos.append(caminho)
-    for pasta in PASTAS:
+    subpastas = sorted(d for d in os.listdir(RAIZ) if os.path.isdir(os.path.join(RAIZ, d)) and d not in PASTAS_FORA)
+    subpastas = [d for d in subpastas if d != "arquivo"] + (["arquivo"] if "arquivo" in subpastas else [])
+    for pasta in ["."] + subpastas:
         base = os.path.join(RAIZ, pasta)
-        if not os.path.isdir(base):
-            continue
-        for raiz, _dirs, nomes in os.walk(base):
+        for raiz, dirs, nomes in os.walk(base):
+            dirs[:] = sorted(d for d in dirs if d not in PASTAS_FORA)
             if pasta == "." and raiz != base:
                 continue  # na raiz, só os arquivos de primeiro nível
             for nome in sorted(nomes):
