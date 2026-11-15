@@ -719,6 +719,12 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
   - **O que fica:** nada muda hoje. O nora66 vai ao Face à 0h00 e ao Insta às 0h25. Falta o nora64 no Insta (o print completo) e o story do Insta para a pergunta completa ao Clone (pedido do aluno: "monta uma pergunta mais completa pro clone").
   - **Dashboard:** é da 6ª conta e não abre nesta (404); ele se atualiza pelo CSV quando o aluno voltar para lá.
 
+- **15/11/2026 20h35, o story do Insta e a grade (prints do aluno):**
+  - **story-1211 (repostado em 14/11 às 18h56, venceu às ~18h56 de 15/11):** 37 views, 27 viewers, 59,5% seguidores e 40,5% não seguidores, 0 interações, **8 cliques no link (30% dos viewers, o maior desde 27/10)**. Navegação 32: 13 saíram, 12 avançaram, 7 foram ao próximo story. 0 visitas ao perfil. Os destaques postados depois tiveram 21 e 17 viewers.
+  - **Grade:** nora65 0 (12 min), **nora64 2.204**, nora63 159, nora60 182, nora59 152, o anterior 172. O painel do perfil mostra 32 mil views em 30 dias.
+  - **A conta:** o loop trouxe gente ao story; o story converte bem (30%), mas só ~1,2% de quem viu o loop chegou ao story (27 de 2.204).
+  - **O que fica:** pergunta R53 ao Clone com o quadro inteiro (pedido do aluno). Falta saber se o story foi repostado no Insta depois que venceu. No Face, voltou às 17h07.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
