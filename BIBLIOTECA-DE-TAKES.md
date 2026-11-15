@@ -295,3 +295,8 @@ Fora da numeração do nora. Peças com o nome do teste: `faceNN-IMG`, `faceNN-C
     - legenda do T01 ao fim (no Face, do 0);
     - Insta: "Tap my photo: / your 2027 reading is in [my story]" e a seta, do T06 ao fim. Face: "Your 2027 reading: / [link in the comments]", do T07 ao fim.
   - **Specs:** `specs/spec-nora66.json` e `specs/spec-nora66-FACE.json`.
+  - **Entregue às 20h54, depois de 2 correções nas trocas de imagem** (conferidas quadro a quadro, pelo tempo de cada um):
+    - entre duas imagens seguidas, o fade deixava a Nora transparente: virou corte seco;
+    - o overlay largava cada imagem 1 quadro antes e a Nora piscava: cada imagem ganhou 1 quadro no fim.
+
+    Finais: `nora66-final.mp4` (46,9 s, 25,1 MB) e `nora66-final-FACE.mp4` (37,1 s, 20,2 MB).

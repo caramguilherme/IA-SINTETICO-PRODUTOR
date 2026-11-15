@@ -599,3 +599,8 @@ O `d1211-PRE-vela` (Omni 1.1 Flash, 8 s) fez o que o prompt pedia (a vela acende
 - A R53, com ~4.500 caracteres, não foi aceita pelo chat do Clone. As R48 a R51, mais curtas, passaram.
 - **Regra (corrigida pelo aluno às 20h42: "1600 é pouco… apaguei pouca coisa e liberou o envio… nas próximas pode se basear em até 4000 caracteres"):** pergunta ao Clone com **até ~4.000 caracteres**, com todos os números que ajudam na resposta. A R53 foi na versão curta (~1.600), porque o aluno já tinha mandado.
 
+### 15/11/2026 20h54, imagens do desejo por overlay (nora66): o que conferir
+- **Fade entre duas imagens seguidas:** mostra a Nora transparente por baixo. Só usar fade quando a imagem entra depois da Nora; entre imagens, corte seco.
+- **O overlay do ffmpeg com `enable` larga a imagem 1 quadro antes do fim pedido:** deixar o clipe com 2 quadros a mais e o `enable` até b + 0,04. A imagem seguinte cobre por cima.
+- **Conferir pelo tempo (`pts`) de cada quadro em volta de cada troca, não pelo número do quadro:** a conferência pelo número me enganou uma vez.
+
