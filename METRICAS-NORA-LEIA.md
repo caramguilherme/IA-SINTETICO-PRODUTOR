@@ -685,6 +685,15 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
 ### 14/11/2026 20h00 - nora64 postado (Insta e Face)
 - O loop de 8 s sem fala (R44, R46), 30 min depois da hora (19h30). Insta: `nora64-final` (com a faixa do story e a seta); Face: `nora64-final-FACE` (espelhado, 1,1x, faixa do comentário). **Régua da R46: abaixo de 200 a 300 views no Insta = distribuição reprimida no perfil** (as fitas de outubro fizeram 3.589 e 3.742 com ~28 h). Pedir os prints com ~3 h (~23h), ~12 h e ~24 h. O nora65 vai ao Insta à 0h00 (4 h depois).
 
+### 15/11/2026 02h18 - nora65 postado (só Face; o Insta vai às 19h30 de 15/11)
+- A carta (R45 a R47): `nora65-final-FACE` (26 s, T01 a T03 + T06), postado às 02h18 (era 19h30 de 14/11; o aluno chegou em casa às ~2h), com o comentário da Página fixado pelo celular, sem a prévia. **O Insta (`nora65-final`, com o 222) não foi às 2h:** fora da janela das 19h20 à 0h30 a amostra é indiana (R37); vai às 19h30 de 15/11. Comparar no Face com o nora63-FACE (9 views com ~9 h) e o nora62 (230 com ~24 h). Pedir os prints com ~12 h (~14h) e ~24 h.
+
+### 15/11/2026 02h18, FACE (Biblioteca; print do aluno)
+- **nora64-FACE (o loop, ~6h16): 29 views, 13 visualizadores, 24,1% nos 3 s, tempo médio 15 s num vídeo de 8 s, distribuição +0,7x** (a maior dos vídeos recentes do Face; os outros ficam entre −0,1x e −1,2x), 12 impressões, 2 engajamentos, 0 seguidor. Pouca gente, mas quem vê assiste o loop quase 2 vezes.
+- **nora65-FACE:** postado às 02h16 (Biblioteca), 0 views com ~2 min.
+- nora63-FACE travado: 13 views com ~25h41 (9 → 13 em ~16 h; −0,8x). nora62 fechado em 231 (28,1%, 1 seguidor, −0,8x); nora61 106 (20,8%); nora60-FACE 199 (47,7%, o melhor começo novo); emp1211 213 (21,6%); nora59-FACE 161; nora58 328 (42,4%); nora57 153. O story de foto do Face (18h53): 1 view.
+- **Leitura:** o Face segue preso entre ~100 e ~330 por vídeo (fora o nora55, 4.236); o loop é o único com distribuição positiva, mas com volume baixo às 6 h. **Nada muda agora:** o loop no Face se julga com ~24 h (~20h de 15/11), e a decisão do perfil sai do Insta (critério do limbo, R46), que ainda falta.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
