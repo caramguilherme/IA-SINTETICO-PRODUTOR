@@ -705,6 +705,20 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
 - **Leitura:** o hook da canela segura (55% com 1 h, 42,5% no fim) e a janela das 0h deu o melhor país da semana (EUA 35%, sem Índia), mas o corpo perde quase todos antes dos 10 s e ninguém foi ao perfil: é o mesmo quadro do nora59 e do nora60 (o corpo não segura). **Comparação:** o loop (nora64, 20h00) passou o nora63 inteiro em 6 h (211 contra 156) e levou 2 pessoas ao perfil, mas com Índia 20,5% e EUA 13,5%. **A grade não está colada em ~140** (nora59 152, nora60 181, nora63 156, nora64 211 e subindo): o critério do teto da R46 ainda não fecha.
 - **Nada muda agora:** o nora65 (a Nora falando, sem pré-gancho, a carta desde o 1º quadro) vai às 19h30 e testa se a abertura sem corte de cena segura o corpo melhor que a canela; o das 0h00 sai das leituras de ~24 h do loop e do nora65 e do Tracker de 14/11.
 
+- **15/11/2026 20h33, Face (Biblioteca, 20h30) e Tracker de 13, 14 e 15/11:**
+  - **Face:**
+    - nora65-FACE (a carta, ~18 h): 235 views, 34,0% nos 3 s, 4 s de tempo médio, −0,7x.
+    - nora64-FACE (o loop, ~24h30): 31 views, 25,8%, 13 s de tempo médio num vídeo de 8 s, −0,1x.
+    - nora63-FACE: 14. O nora62 e os de 11 e 12/11 não mudaram desde a leitura de 02h18.
+    - **O Face segue preso em ~100 a ~330 por vídeo** (o nora65 parou no teto de ~240, o mesmo do nora62). O loop, que no Insta deu 2,2 mil, no Face não passou de 31.
+    - **Story do Face repostado hoje às 17h07** (a Biblioteca mostra "Story de foto, hoje às 17:07"; 0 views na leitura).
+  - **Tracker:**
+    - 13/11 fechado: 1 clique (Face), 0 no quiz.
+    - **14/11 fechado: 1 clique (Insta), que viu, começou e terminou o quiz; 0 checkout.**
+    - **15/11 até 20h30: 4 cliques, todos do Insta; 3 viram o quiz, 1 começou, 1 terminou; 0 checkout.** O nora65 foi às 20h22, então esses cliques vieram do dia do loop (2,2 mil views) e do story. É o melhor dia desde 11/11 (6 cliques), com o Face em 0.
+  - **O que fica:** nada muda hoje. O nora66 vai ao Face à 0h00 e ao Insta às 0h25. Falta o nora64 no Insta (o print completo) e o story do Insta para a pergunta completa ao Clone (pedido do aluno: "monta uma pergunta mais completa pro clone").
+  - **Dashboard:** é da 6ª conta e não abre nesta (404); ele se atualiza pelo CSV quando o aluno voltar para lá.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
