@@ -1,7 +1,7 @@
 # Roteiro do dia 15/11/2026: nora66, o ritual do sal Morton com a Nora falando na mesma cena (Insta e Face à 0h00 de 15 para 16/11)
 
 ## Leitura obrigatória (registro)
-15/11/2026 ~04h00, depois do "pode montar" (~03h55). **Leitura focada no painel**, como em 13 e 14/11: a lista inteira do `LEIA-TUDO-ANTES.md` não cabe numa sessão.
+15/11/2026 ~03h59, depois do "pode montar" (~03h55). **Leitura focada no painel**, como em 13 e 14/11: a lista inteira do `LEIA-TUDO-ANTES.md` não cabe numa sessão.
 
 **Lido nesta sessão, inteiro ou na parte que manda no painel:**
 - `CLAUDE.md` (inteiro, recarregado a cada mensagem)
