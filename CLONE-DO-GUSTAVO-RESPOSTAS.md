@@ -824,7 +824,7 @@ As nossas travas: até 22 palavras por take; números por extenso ("twenty twent
 Como eu edito hoje: o texto é gravado no vídeo por um script (Python + ffmpeg), não no CapCut. O aluno monta no CapCut só os takes e a música ambiente a −18 dB, corta os silêncios com corte seco, e eu ponho o resto. Exporto em 1080x1920, 24 fps, ~4 Mbps (o mesmo dos campeões).
 
 Fase 1, os 3 campeões (nora48 a nora50, 06 a 10/11): 1.638, 2.043 e 1.678 views, 68% a 71% nos 3 s, 18 a 21 s de tempo médio, vídeo de ~67 s.
-- Pré-gancho do tsunami (~4 s, sem texto além da caixa).
+- Pré-gancho do tsunami (~4 s, sem texto além da caixa). **(Correção de 15/11: o tsunami dos campeões durava ~7,9 s, "hook do tsunami até 7,92 s" no nora48, no nora49 e no nora59; o ~4 s estava errado. Ver a R51.)**
 - Caixa do topo branca sólida, fonte Poppins Bold, texto preto e a 1ª linha (os signos) em vermelho, nos primeiros ~17 s.
 - Legenda de 3 palavras por vez, Poppins Bold branca com contorno preto e as palavras-chave em amarelo forte, no terço de baixo, começando no Take 1 (~8 s).
 - 11:11 branco, 888 azul ciano e 222 amarelo, fixos nos cantos o vídeo todo.
@@ -878,6 +878,24 @@ Eu sei que de 10 a 12/11 mudou muita coisa junto (sem pré-gancho, 6 por dia com
 1. **O estilo:** voltar ao alto contraste da fase 1 (caixa sólida, legenda em negrito com contorno e destaque amarelo; nada de pastel nem de serifa fina) inverte o pedido do aluno de 12/11 ("variar cores e estilos"). **Precisa do ok dele.** Com o ok, eu reedito o nora65 antes das 19h30 (0 crédito, poucos minutos), e o estilo vira o padrão.
 2. **O Trustpilot fica** no nora65: é a nossa única prova real (R12), e tirar seria uma 2ª variável no mesmo teste.
 3. **A pirâmide:** o corpo A, na versão suave, fica como o corpo base por 10 a 14 dias, variando só o pré-gancho, o Take 1, a 2ª frase e a caixa. O sal entra nesse molde (ajuste 3 da R49 acima).
+
+## R51 (pergunta pronta em 15/11 16h48, depois do aluno reprovar o hook do sal: "brilho na estrela? que naturalidade é essa? os outros hooks visuais que eu mando são maiores, não duram menos de 4 s"; resposta a colar): a duração e o ritmo do pré-gancho
+**Pergunta:** "Pergunta (15/11): qual a duração e o ritmo certos do pré-gancho (o hook visual sem fala) no Insta, no Manifestation?
+
+O hook de hoje (o ritual do sal Morton, para o vídeo das 0h00) ficou com 3,8 s em 4 cortes: o sal caindo do pote no prato preto, com o rosto dela (1,0 s) → o monte de sal de perto (0,5 s) → a moeda dourada caindo no monte (1,0 s) → ela aponta para a lente (1,3 s). Depois ela fala o Take 1 na mesma cena. O aluno achou curto e picotado, e a moeda ganhou uma estrela de brilho feita pela IA (essa parte eu tiro).
+
+O que os nossos dados mostram:
+- Os 3 campeões da Nora (nora48 a nora50: 1.638 a 2.043 views, 68% a 71% nos 3 s) abriam com o tsunami: ~7,9 s de pré-gancho, ela correndo da onda. Num deles a curva ainda tinha ~40% aos 8 s, no fim do tsunami.
+- Os hooks de 3,8 s (de 13/11 em diante): a canela teve 42,5% nos 3 s no Insta (~25% aos 5 a 6 s, mas ali havia a troca de cenário para a selfie, que já corrigimos); o bicarbonato teve 28% no Face.
+- Os virais com pré-gancho que o aluno mandou (outubro) têm de 2,5 a 6 s, a maioria de 4 a 5 s. O mais parecido com o nosso (3 cortes de ação e depois ela olha e aponta para a lente) tem ~4,8 s.
+- Na aula 43 você fala de 4 a 6 s e que o de 8 s ficou enrolão.
+
+Temos 4 vídeos de 6 s cada (o sal caindo, o monte de perto, a moeda, ela apontando), então dá para remontar de 3,8 s até ~8 s sem gastar crédito.
+
+1. Qual a duração certa do pré-gancho do sal: 3,8 s, 4,5 a 5 s ou ~8 s como o tsunami?
+2. Quanto deve durar cada corte para parecer natural e não picotado: 3 cortes mais longos (1,5 a 2 s) ou 4 curtos (~1 s)?
+3. A ordem e o fim: sal caindo com o rosto → monte de perto → moeda → ela aponta. Por quanto tempo ela segura o gesto de apontar antes de começar a falar?"
+- **Resposta:** (a colar)
 
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
