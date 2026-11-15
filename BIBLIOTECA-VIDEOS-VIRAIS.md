@@ -600,7 +600,7 @@ Doc "PESQUISA DO NICHO" (https://docs.google.com/document/d/1cZNScoa1UeR9pqBPti3
 - **Takes da VSL** e **Perfis virais** (dois quadros do Excalidraw): não abrem aqui (o site só monta no navegador); pedir prints ao aluno se precisar.
 - O link `hub.appyon.io/swipper-ads` pede login: não abre aqui.
 
-### 39.1 O que os 148 vídeos mostram (transcritos em 27/10/2026 ~00h, faster-whisper; transcrições, curtidas e datas em `ferramentas-painel/manifestacao/indice.json`)
+### 39.1 O que os 148 vídeos mostram (transcritos em 27/10/2026 ~00h, faster-whisper; transcrições, curtidas e datas em `arquivo/ferramentas-antigas/manifestacao/indice.json`, arquivado em 14/11)
 75 reels (18 não baixaram) e 73 anúncios; 99 em inglês, 44 em espanhol, 5 em português.
 - **Reels orgânicos em inglês (39):** duração mediana de **40 s**; os 17 com mais de 100 mil curtidas têm mediana de 48 s, e vários dos mais curtidos têm **13 a 25 s** (2 takes). São quase todos **ângulo positivo de predestinação**, falando direto com a pessoa, e o pedido é curto: "claim this energy", "comment I accept / 222 / 888 / 1111", "follow me", "send this to yourself", "share".
 - **Os mais curtidos (falas para modelar):**
