@@ -29,7 +29,7 @@
 ## Próximos testes (nesta ordem; detalhe em CLAUDE.md seção 2, "Ordem dos testes")
 1. **A faixa do story com o campo trancado** ("Your 2027 reading: 🔒 / tap my photo"). 0 crédito, na edição. Fonte: quadro da aula 18, `MATERIAIS-CALL-02-06/LEIA.md`.
 2. **O pedido de compartilhar antes do CTA**, só no Insta. Fonte: o costume do Lucas Dusi, 13/11.
-3. **A música emocional (~20% a 25%).**
+3. **A música:** emocional (~20% a 25%), e também as variações da aula 21 (0:55:22): ritmo árabe, ritmo indígena, frequência em Hz. Uma por vez, a 0 crédito, na edição.
 4. **O que a R50 (a edição) responder:** volta ao estilo dos campeões (branco, preto, vermelho e amarelo forte) ou não. Fonte: `CLONE-DO-GUSTAVO-RESPOSTAS.md` R50.
 
 ## Corpos e copy prontos para usar (quando for preciso um corpo novo; pela pirâmide, só depois de esgotar as variações do corpo que der clique)
@@ -38,6 +38,7 @@
   - Sem "última chance" nem prazo de minutos.
 - **"2027 soma 11":** 2 + 0 + 2 + 7 = 11, o número do 11:11. Fonte: docs da aula 21 (`MATERIAIS-DOCS-APPYON-15-11/LEIA.md` item 2; `BANCO-DE-HEADLINES.md` nº 26).
 - **Datas reais do céu:** data → evento real → o que fazer → ritual (o formato da @amydemure).
+  **Reforçado pela aula 21 (16/06, 1:40:06):** "um dos grandes apps de astrologia… é todo pautado em lua… acerta muito". Sobe na fila: é o próximo corpo depois do sal.
   - lua nova em Sagitário: 08/12 21h51
   - solstício: 21/12 17h50
   - lua cheia em Câncer: 23/12 22h28
@@ -64,6 +65,10 @@
 
 ## Formatos e pré-ganchos na fila
 - **Rituais nº 43 (o papel queimado na vela) e nº 44 (a carta de 2027 com caneta dourada, "scripting"):** `BIBLIOTECA-PRE-GANCHOS.md`.
+- **O ritual curioso e interativo** (aula 21, 0:48:39; @tefnutcornell, de 1 a 4,5 milhões de views): quem assiste faz junto ("pense em…", "diga… três vezes").
+  - Na Nora: "Think of the one thing you want twenty twenty-seven to bring you…".
+  - **Cena quente e clara, sem o "clima pesado"** (cartas pretas, mãos com anéis, vela no escuro, que o Iorhan mostra não funcionando). Vale para o nº 43 e o nº 44.
+- **Signo e horóscopo como elemento de credibilidade na cena** (a roda do zodíaco na mesa ou na parede), no lugar da carta. Fonte: aula 21 (1:38:03).
 - **Rituais nº 40 (azeite + louro) e nº 42 (café Folgers):** `BIBLIOTECA-PRE-GANCHOS.md`. O nº 41, o sal, é o próximo vídeo.
 - **A carta dourada parada sobre a mesa** (a na mão já foi no nora64 e no nora65). Fonte: o briefing de 22/05.
 - **Tela dividida com ilustração embaixo:** o homem da carta com as figuras de luz. Fonte: quadro da aula 28.
@@ -75,6 +80,8 @@
   - **Fonte:** os slides da aula 28 (`MATERIAIS-CALL-10-07/LEIA.md`).
   - **Status:** a confirmar com o Clone (item 6 da R50).
 - **A linha "hipótese que este vídeo testa"** em todo roteiro e no Resumo do painel. Fonte: a ficha do criativo da aula 28. Em vigor desde 15/11.
+- **A taxa de acerto semanal:** dos vídeos postados na semana, quantos passaram da régua (no Insta, 500+ views ou um clique no Tracker). Entra na leitura semanal do `METRICAS-NORA-LEIA.md`. Fonte: aula 21 (2:09:27).
+- **O perfil como influencer** (aula 21, 2:18:08): stories todo dia e destaques (feitos em 14/11), e **posts de lifestyle no feed** (a Nora no dia a dia). A decidir com o aluno.
 - **A estrutura invisível para modelar viral:** a copy do viral ao lado da leitura de cada bloco (curiosidade + promessa + filtro de público → engajamento → autoridade → "picture" → prova → CTA), antes de escrever o roteiro. Fonte: aula 18 (0:49:11).
 - **Copy longa em curta:** os primeiros 20 a 30 s mais o CTA, sem reescrever. Para as variações do Face e a versão curta de um corpo que der clique. Fonte: aula 18 (1:06:58).
 - **Quando um corpo der clique, além de 3 a 4 Take 1:**
@@ -104,6 +111,7 @@
   - na aula 32, no orgânico: a mesma copy repetida trava.
 
   **A decidir com o Clone** (item 6 da R50).
+- **O formato e a variação de gancho:** a aula 21 (junho) diz que "o formato é a maior alavancagem"; nos slides da aula 28 (julho), a base é a variação horizontal. Vai para o Clone com o item 6 da R50 (o Clone respondeu: corpo A como base, variando o topo).
 - **Volume:** a aula 18 diz "o máximo"; no Insta vale a recuperação de 2 por dia (Clone R35 a R38); a Jéssica e o Kobata dizem que produzir demais derrubou as vendas.
 
 ## Esperando resposta ou decisão
@@ -124,7 +132,7 @@
 - **O mecanismo de alma gêmea, chama gêmea, ex e "o rosto dele":** o funil da Nora é o Manifestation.
 
 ## Onde está cada coisa (para procurar: `python3 -I ferramentas-painel/buscar.py "termo"`, que desde 15/11 procura no projeto inteiro, inclusive nos `.txt`)
-- **Transcrições inteiras das aulas e calls (17):** `TRANSCRICOES/`, guardadas em 15/11. Até então só os resumos com trechos estavam salvos. A da aula 18 e a de variações, de ~10/07, chegaram em 15/11 ~03h39.
+- **Transcrições inteiras das aulas e calls (18):** `TRANSCRICOES/`, guardadas em 15/11. Até então só os resumos com trechos estavam salvos. A da aula 18 e a de variações, de ~10/07, chegaram em 15/11 ~03h39.
 - **Resumos das aulas:** `AULA-*.md`.
 - **Materiais das calls:** `MATERIAIS-CALL-*` e `MATERIAIS-DOCS-APPYON-15-11/` (cada pasta com o seu `LEIA.md`), `arquivo/MATERIAIS-CALL-17-07/`, `MATERIAIS-CENTRAL-APPYON-12-11.md`.
 - **Discord:** `HISTORICO-DISCORD/`; decisões em `COMUNIDADE-E-ESTRATEGIA.md`.

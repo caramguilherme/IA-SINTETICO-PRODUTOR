@@ -1121,3 +1121,14 @@ Arquivos: `HISTORICO-DISCORD/chat-appyon_12-11-madrugada.md`, `vitorias-dolar_12
   - o Trustpilot da Appyon teve mais de 100 avaliações 5 estrelas de 1º a 10/07 e "não é possível fraudar".
 - **O que entra na Nora:** em `FILA-DE-IDEIAS-E-TESTES.md`. Resumos com o tempo de cada trecho em `AULA-02-06-COPYWRITING-IORHAN.md` e `AULA-10-07-VARIACOES-DE-CRIATIVOS-E-AVATARES.md`.
 - **Fora:** "parece mas não é" com médium real, clonar voz, depoimento inventado, mais perfis (adiado pelo aluno).
+
+## 15/11/2026 03h50 - Aula 21 (16/06, "Formatos e ângulos que escalam vendas", Gustavo e Iorhan)
+- **O que a aula diz:**
+  - "formato é a maior alavancagem": a comunidade dobrou em dias com formatos novos;
+  - os formatos validados: cartas com legenda, edits de fundo, ritual curioso interativo, signo falante;
+  - o CTA do story: 100 views no story para 30 cliques, as contas pararam de cair;
+  - a conta como ativo, sem spam;
+  - os ângulos: lua ("um dos grandes apps de astrologia é todo pautado em lua"), numerologia com "promessa e prova sempre", manifestação ("um dos motivos que levou a Appyon Creators a dobrar");
+  - o perfil como influencer, com stories, destaques e lifestyle.
+- **Para a Nora:** em `FILA-DE-IDEIAS-E-TESTES.md` e `AULA-16-06-FORMATOS-E-ANGULOS-QUE-ESCALAM-VENDAS.md`.
+- **Fora:** celebridade (mesmo sem nome), react de UGC, glândula pineal, mais perfis (adiado pelo aluno).

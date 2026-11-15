@@ -171,7 +171,7 @@ def png_legenda(W, H, texto, destaques, it, k):
     im = Image.new('RGBA', (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
     lg = TEMA['legenda']
     f = EST.fonte(lg['fonte'], it.get('tamanho_px', 38) * k)
-    sw = max(3, int(4 * k))
+    sw = max(3, int(lg.get('espessura', 4) * k))
     pal = texto.split()
     esp = d.textlength(' ', font=f)
     largs = [d.textlength(p, font=f) for p in pal]

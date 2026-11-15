@@ -29,7 +29,12 @@ BASE = {
     'tom': 'claro',  # para o seletor: claro (caixa clara) ou escuro
 }
 ESTILOS = {
-    # o de sempre até 12/11: fica como UMA opção, não como regra
+    # PADRÃO ÚNICO dos Reels e do -FACE desde 15/11/2026 (Clone R50, aprovado pelo aluno: "vamos confiar no que o clone falou"):
+    # o estilo dos campeões nora48 a nora50 (fase 1). Caixa branca sólida, Poppins Bold preto com destaque vermelho;
+    # legenda Poppins Bold branca, contorno preto grosso, destaque amarelo forte; seta vermelha. A caixa do topo vai
+    # amarela sólida com preto (override "caixa": TOPO_AMARELO no spec). Nada de pastel, translúcido ou serifa fina.
+    'alto-contraste': {'legenda': {'espessura': 5}},
+    # o de sempre até 12/11 (igual ao alto-contraste, com o contorno da legenda de 4 px)
     'branco-classico': {},
     # o do story aprovado em 11/11: creme, marrom e terracota (cenas quentes, madeira, bege, luz dourada)
     'creme-terracota': {'caixa': {'fundo': [246, 238, 228, 236], 'texto': '#5A3A2A', 'destaque': '#A0583A', 'fonte': 'medium', 'destaque_fonte': 'serif_it',
@@ -74,8 +79,10 @@ ESTILOS = {
                      'numeros': {'contorno': '#111111', 'sombra': '#000000'}, 'seta': {'cor': '#FFFFFF', 'contorno': '#111111'},
                      'imagem': {'borda': '#FFFFFF'}, 'tom': 'escuro'},
 }
+# a caixa do topo do padrão (Clone R50): amarela sólida, letras pretas em negrito, sem sombra
+TOPO_AMARELO = {'fundo': [255, 214, 0, 255], 'texto': '#000000', 'destaque': '#000000', 'fonte': 'bold', 'destaque_fonte': 'bold', 'raio': 14, 'sombra': None}
 # a paleta "de referência" de cada estilo, para medir quanto ele combina com a cena
-REF = {'branco-classico': ['#FFFFFF', '#000000', '#E53935'], 'creme-terracota': ['#F6EEE4', '#C9A27E', '#A0583A', '#5A3A2A'],
+REF = {'alto-contraste': ['#FFFFFF', '#000000', '#E53935', '#FFD21F'], 'branco-classico': ['#FFFFFF', '#000000', '#E53935'], 'creme-terracota': ['#F6EEE4', '#C9A27E', '#A0583A', '#5A3A2A'],
        'nevoa-taupe': ['#F2F0EC', '#9A9A9A', '#2E2C2B', '#8A6A55'], 'noite-dourado': ['#241A18', '#6B4A2E', '#E8B96A', '#F6EEE4'],
        'salvia-creme': ['#EEF1E6', '#8FA67E', '#5E7D50', '#2F3B2C'], 'lavanda-ameixa': ['#F3EDF6', '#B49BC8', '#7D5A9B', '#3A2A44'],
        'areia-rose': ['#F8ECE6', '#D9A79C', '#B4646A', '#4A2E2B'], 'limpo-branco': ['#FFFFFF', '#808080', '#202020']}

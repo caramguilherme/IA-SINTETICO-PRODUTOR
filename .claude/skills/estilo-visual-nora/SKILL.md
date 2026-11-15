@@ -1,42 +1,48 @@
 ---
 name: estilo-visual-nora
-description: Use toda vez que for pôr texto num vídeo ou imagem da Nora (edição P45 do noraNN-final, versão -FACE, slideshow, POV, story, capa): escolher cores e fontes que combinam com a cena, a roupa e o fundo daquele vídeo, variando de um post para o outro, em vez de repetir a caixa branca com preto e vermelho.
+description: Use toda vez que for pôr texto num vídeo ou imagem da Nora (edição P45 do noraNN-final, versão -FACE, slideshow, POV, capa, story): desde 15/11/2026 os Reels e o -FACE usam um padrão único de alto contraste (o modelo do Clone do Gustavo, R50), igual em todo post; o story mantém o estilo creme aprovado em 11/11.
 ---
 
-# Estilo visual da Nora (pedido do aluno, 12/11/2026)
+# Estilo visual da Nora: padrão único de alto contraste (desde 15/11/2026)
 
-"A caixa branca com preto e vermelho não é pra ser fixa. Temos que variar, mudar, testar, deixar a edição mais bonita, com cores e estilos que ornam com o cenário, a roupa, o fundo do vídeo. Essa skill que eu quero de você." O estilo do story de 11/11 (caixa creme, marrom e itálico terracota; "agora sim, ficou top") é o ponto de partida do bom gosto: tons tirados da própria imagem, uma fonte limpa para o texto e uma serifada em itálico para o trecho que importa.
+**Decisão do aluno, 15/11/2026 ~03h50:** "pode reeditar o nora65 sim. Vamos confiar no que o clone falou, e usar as edições e os modelos que ele falou. Inclusive, salva esse novo modelo de edição nas skills de edição, pra fazermos exatamente do jeito que o clone falou nas respostas."
 
-## Passo a passo (antes de montar a spec ou desenhar o texto)
-1. **Tirar um quadro** do Take 1 (ou da imagem da cena) e um do pré-gancho: `ffmpeg -ss T -i video -frames:v 1 q.jpg`.
-2. **Ver a paleta e os estilos que combinam:** `python3 -I ferramentas-painel/ferramentas/estilos_video.py q.jpg --ultimo <estilo do post anterior na mesma rede>`. Ele imprime a paleta do quadro, os 3 estilos que mais combinam (com o contraste do texto) e um estilo "sob-medida" tirado da paleta.
-3. **Ver lado a lado antes de decidir:** `python3 -I ferramentas-painel/ferramentas/estilos_video.py --amostra q.jpg amostra.jpg ESTILO1 ESTILO2 ESTILO3` e olhar a folha (pode passar o sob-medida como JSON).
-4. **Escolher com critério, dizer o porquê em 1 linha:**
-   - **Combina:** a caixa no tom claro da cena (parede, roupa clara), o texto no tom escuro dela, o destaque na cor mais viva dela (madeira, planta, abajur, céu).
-   - **Lê no celular:** contraste do texto na caixa de 4,5:1 ou mais; a legenda sempre com contorno escuro; conferir no quadro reduzido.
-   - **Varia:** nunca o mesmo estilo em 2 posts seguidos na mesma rede (Insta e Face contam separado); na mesma cena, alternar entre os 2 ou 3 que combinam.
-   - **Uma variável por vez quando houver teste:** se o teste do dia for de copy ou de corpo, o estilo pode variar (é parte da variação natural); se o teste for do visual, mudar só o estilo e manter o resto.
-5. **Usar:** no spec do `editar_video.py`, `"estilo": "<nome>"` (ou o dict sob-medida) no topo; nas linhas da caixa, o trecho de destaque entre [colchetes] (a data, "2027 reading", "my story"); sem a chave "cores" (ela força o visual antigo). Números: a cor de cada um pode seguir o destaque e o tom claro do estilo, com o contorno do estilo. Slideshow, POV e story: as mesmas cores e fontes (`fazer_slideshow.py`, `texto_story.py`).
-6. **Registrar o estilo usado** na linha do vídeo na `BIBLIOTECA-DE-TAKES.md` e no campo `obs` do `METRICAS-NORA.csv` ("estilo: nevoa-taupe"), para cruzar com a retenção e os cliques depois.
+**De onde veio:**
+- **Clone do Gustavo, R50** (`CLONE-DO-GUSTAVO-RESPOSTAS.md`):
+  - a fase 3 (de 12 a 14/11) derrubou a retenção: caixas pastel e translúcidas, fonte serifada fina em itálico, caixa do topo e legenda disputando o 0 s;
+  - "no tráfego orgânico direto, contraste absoluto vence harmonia";
+  - o público é de mulheres de 35 a 55+ nos EUA, com o brilho da tela baixo e rolando rápido;
+  - "se ela não consegue ler instantaneamente… ela passa o vídeo".
+- **A aula 43 do Gustavo** (`TRANSCRICOES/2026-08-31-aula-43-funil-prosperidade-e-hooks.md`, 1:03:22 a 1:08:59): "legendinha simples… mais orgânico possível", fonte básica "com um contorninho", "no máximo duas linhas", destaque "amarelinho".
+- **Os 3 campeões** (nora48 a nora50: 68% a 71% nos 3 s, 18 a 21 s de tempo médio) usavam este estilo.
 
-## Os estilos que existem (`ferramentas-painel/ferramentas/estilos_video.py`)
-| Nome | Quando | Caixa · texto · destaque |
+**O que mudou em 15/11:** o pedido de 12/11 ("variar cores e estilos pela cena") foi substituído pelo padrão abaixo, por decisão do aluno.
+
+## O padrão (Reels do Insta e versão -FACE): `"estilo": "alto-contraste"` no spec
+| Camada | Como fica | No spec |
 |---|---|---|
-| `creme-terracota` | cenas quentes, madeira, bege, luz dourada (o story de 11/11, o slideshow de 12/11) | creme · marrom · itálico terracota |
-| `nevoa-taupe` | cinza, preto, parede clara (o escritório da `manha1111-IMG`) | gelo · grafite · itálico taupe |
-| `noite-dourado` | noite com abajur, fundo escuro | marrom-escuro translúcido · creme · itálico dourado |
-| `salvia-creme` | plantas, roupa verde (a cena verde do kit) | creme esverdeado · verde-escuro · itálico sálvia |
-| `lavanda-ameixa` | céu ao entardecer, roxos, cristais, POV de amor | lavanda clara · ameixa · itálico violeta |
-| `areia-rose` | pele quente, rosa, pôr do sol | areia · marrom · itálico rosa queimado |
-| `limpo-branco` | o "visual limpo" (sem caixa; letra branca com sombra) | — · branco · itálico dourado claro |
-| `branco-classico` | o visual antigo, só como uma opção entre as outras | branco · preto · vermelho |
-Estilo novo que funcionar entra na tabela e no `ESTILOS` do script, com a paleta de referência no `REF`.
+| **Caixa do topo** (0 s até o fim do Take 1 ou do pré-gancho) | **amarela sólida, letras pretas Poppins Bold**, sem sombra; 2 linhas curtas em maiúsculas; o trecho entre [colchetes] também preto; tamanho 10 a 11 | `"caixa": TOPO_AMARELO` (de `estilos_video.py`) no item da caixa do topo |
+| **Legenda** | 3 palavras por vez, no terço de baixo (`y` −310), Poppins Bold **branca com contorno preto grosso** (5 px), **palavras-chave em amarelo forte** (#FFD21F); no máximo 2 linhas | o estilo já faz; `destaques` com as palavras-chave |
+| **Números fixos** | 11:11 branco, 888 azul ciano (#3DE0FF), 222 amarelo (#FFD21F), contorno preto, nos cantos, o vídeo todo, entre 8% e 92% da largura | `"cor"` de cada `texto` |
+| **Faixa do story / do comentário (CTA)** | **caixa branca sólida, texto preto em negrito, o destaque em vermelho** (#E53935) ("Tap my photo: / your 2027 reading is in [my story]"; Face: "Your 2027 reading: / [link in the comments]"); tamanho 10 | o estilo já faz |
+| **Seta** (Insta) | vermelha com contorno preto, apontando para a foto do perfil | o estilo já faz |
 
-## Não fazer
-- Não voltar à caixa branca com preto e vermelho por padrão.
-- Não usar cor que some no fundo (contraste baixo) nem mais de 2 fontes no mesmo vídeo.
-- Não pôr efeito animado nem mudar o estilo no meio do vídeo.
+## Regras do modelo (Clone R50, ao pé da letra)
+1. **Quando a legenda entra:**
+   - **com pré-gancho visual (0 a ~3,8 s):** no pré-gancho, só a caixa do topo, para a pessoa olhar a ação. A legenda entra no quadro exato em que a Nora começa a falar o Take 1;
+   - **sem pré-gancho (a Nora falando desde o 0 s):** a legenda pode começar no 0 s, com a caixa do topo curta (2 linhas) e longe da legenda (topo × terço de baixo).
+2. **Tela limpa até o CTA:** nada de print do Trustpilot nem de caixa "Rated 4.8" no meio do vídeo. Até o CTA, só a Nora, a caixa do topo (no começo), os números e a legenda.
+3. **Imagens do desejo da edição dopaminérgica** (aprovada em 15/11, aulas 12 e 14): são ilustração, não texto. Entram em tela cheia ou dividida nos primeiros ~15 s, uma por frase. A legenda continua por cima, com o contorno.
+4. **Nada de pastel, translúcido, serifa fina, itálico nem cor tirada da cena.** Não variar o estilo de um post para o outro: o padrão é o mesmo em todo Reels e todo -FACE.
+5. **O script não muda nada para o algoritmo:** "o Instagram não tem acesso a como você gerou o MP4". Exportar 1080x1920, 24 fps, ~4 Mbps (crf 21), como sempre.
+6. **Conferir antes do render** com `previa_edicao.py`: a caixa e os números entre 8% e 92% da largura (P43), nada encostando em rosto, mão ou na carta.
 
-## Regra de 12/11/2026 23h25 (dados do Face): a caixa do topo lê em 1 segundo
-O nora59 (`nevoa-taupe`, caixa clara sobre o céu cinza do tsunami, data em itálico fino) segurou 27% nos 3 s no Face. Com o mesmo tsunami, os anteriores seguraram ~42% a 54%. **Na caixa do topo, que aparece nos 3 primeiros segundos, o contraste vem antes da beleza:** caixa sólida (opacidade alta), texto em negrito, a 1ª linha (data ou para quem é) em negrito e numa cor forte, sem itálico fino. Escolher o estilo pela cor do pré-gancho (o 1º quadro), não só pela cena da Nora. As outras caixas (faixa do CTA, prova) podem levar o itálico de destaque.
+## Story, slideshow, POV e capa
+- **O story** segue o estilo aprovado pelo aluno em 11/11 (caixa creme com as cores da foto, marrom e itálico terracota; skill `story-nora`). O Clone não falou do story; mudar só se o aluno pedir.
+- **Slideshow e POV no Face:** usam o mesmo padrão de alto contraste dos Reels: caixa sólida, legenda branca com contorno e destaque amarelo.
 
+## Os estilos antigos
+Os outros estilos de `estilos_video.py` ficam no script só para reproduzir os vídeos antigos: `creme-terracota` (o do story), `nevoa-taupe`, `noite-dourado`, `salvia-creme`, `lavanda-ameixa`, `areia-rose`, `limpo-branco` e `branco-classico` (igual ao alto-contraste, com contorno de 4 px). **Não usar em Reels novo.**
+
+## Registrar
+O estilo usado (`alto-contraste`) vai na linha do vídeo na `BIBLIOTECA-DE-TAKES.md` e no `obs` do `METRICAS-NORA.csv`, para comparar a retenção dos 3 s com o nora59 a nora64 (fase 3).
