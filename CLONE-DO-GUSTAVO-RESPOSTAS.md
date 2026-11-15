@@ -780,6 +780,20 @@ VÍDEO 2 (a volta do Insta, à 0h de sexta para sábado, sem data, e o mesmo no 
 - **Item 3 vira regra de copy: a 2ª frase (dos 4 aos 8 s) valida a rotina ou o sintoma exato dela antes de qualquer promessa.** Para o vídeo do sal, a do exemplo 3 (a mais leve, mais verde que vermelho; a 1 é a mais pesada). O vídeo da carta (19h30) já está pronto e não muda.
 - **Item 4, o que entra:** o visual do campeão de 11/11 (o tsunami e a Nora) sem a fala, espelhado, "Dias claros" e 1,1x, com a caixa do topo de alto contraste e a faixa "Your 2027 reading: link in the comments", a 0 crédito (o campeão tem 4 dias). **O que sai:** o POV de amor (o único áudio de amor é o do nora61, de 13/11: menos de 3 dias, só a partir de 16/11 10h20); o texto com "Type AMEN to claim" (isca de engajamento, que o Face corta; já tinha saído na R43); o loop de novo às 16h (saiu no Face ontem às 20h: repetido em menos de 3 dias trava, nora50); o vídeo da carta às 19h30 (já saiu no Face às 02h16). **Face de hoje: o vídeo da carta (02h16, feito), a variação do campeão (à tarde), um empilhamento novo às 21h30 (o trecho do corpo A do emp1211 passa de 3 dias às 17h57) e a versão do Face do ritual do sal (0h):** 4 posts, o mínimo da R38.
 
+## R49 (pedido pronto em 15/11 ~02h40, pedido do aluno: "mais alguma pergunta/dúvida pro clone?"; resposta a colar): a caixa e as falas do ritual do sal (0h00)
+**Pedido:** "Pedido (15/11): as falas do Reels de hoje à 0h00, o ritual do sal com a Nora falando na mesma cena (a tua opção c da resposta anterior).
+
+A cena: a Nora à noite, numa bancada ou mesa de cozinha, de frente para a câmera, com o pote azul do sal Morton (o da menina com guarda-chuva). O pré-gancho (~3,8 s, sem fala) é ela derramando o sal num círculo num prato preto, uma moeda dourada no centro e ela apontando para a lente; depois ela fala sem mudar de cenário, com o pote na mão ou na mesa. É um ritual de abundância para 2027, nunca de proteção contra inimigos ou inveja.
+
+Me dá:
+1. A caixa do topo: 2 linhas, maiúsculas, a 1ª dizendo para quem é, sem data.
+2. 3 opções de Take 1, cada uma de um tipo diferente (pergunta curiosa, situação dela, signo ou instrução do ritual), porque o Take 1 de ontem à 0h já foi uma instrução de ritual ("Put cinnamon in a glass of water before you leave home…").
+3. As falas T2 a T6 no nosso molde: T2 = a 2ª frase que valida a rotina ou o cansaço dela (a tua regra dos 4 aos 8 s); T3 = a virada e o que o ritual abre em 2027; T4 (só Insta) = "Comment two two two…"; T5 (só Insta) = o CTA do story em 3 partes, sempre a última frase; T6 (só Face) = terminando em "look in the comments below to see what twenty twenty-seven holds for you."
+
+As nossas travas: até 22 palavras por take; números por extenso ("twenty twenty-seven", "two two two"); a fala não fala de cartas; sem "free", nome do app, preço, "private", "link", "claim", "lock in" e "receive" (o gerador de vídeo barra); sem medo, ameaça, segredo, urgência, "only the chosen" ou depoimento inventado; mais verde que vermelho."
+
+**Resposta:** (colar aqui)
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 
