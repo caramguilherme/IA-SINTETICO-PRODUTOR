@@ -1,0 +1,22 @@
+# Aula 55 (30/09/2026): "SPRINT - Call #3 Como eu penso na hora de escrever minhas copies (body/ganchos/CTA) + copies" (Gustavo)
+
+Transcrição do Loom colada pelo aluno em 15/11/2026 ~02h50 (https://www.loom.com/share/612e68a2bbe84b7ebdc0c7b1e16cacd1, 1h23). O PDF de copies que saiu da call está em `MATERIAIS-CALL-30-09/copies_gstalves_call_30-09-2026.pdf`. Aqui ficam os trechos que importam, com o tempo do vídeo e as palavras do Gustavo; a transcrição inteira está no Loom.
+
+## O que a aula diz (trechos literais, com o tempo)
+- **Garimpo:** pesquisar em inglês ("Money Manifestation", "Manifestation") no Facebook, com filtro de data (0:03:49 a 0:06:56); para ver o que roda nos EUA com restrição de país, VPN no navegador (Urban VPN) ou no celular (0:05:28 a 0:06:36); o mesmo processo serve para Instagram, TikTok e Pinterest (0:32:16). Transcrever as copies e traduzir (0:09:13, 0:31:21).
+- **Clickbait:** "Mano, isso aqui é mais pra pegar view mesmo, destravar a conta" (0:14:27); "a conversão, saiba que é infinitamente menor do que você fazer uma cópia mais elaborada" (0:14:38); "Não vai tá mandando o lead aquecido" (0:14:57).
+- **Gancho e body:** o gancho "é pra parar o SCROLL" (0:34:29); "o bode também tem que ser interessante, tá ligado, pra pessoa não sair do teu vídeo, e tem que ser convincente o body" (0:35:10); "o gancho, mano, ele pode ser algo bizarro se você trabalhar bem o body depois" (0:35:10).
+- **CTA no fim:** "tipo um cta antes do do bagulho... a gente fazia isso antes mas eu parei... então a gente começou a deixar o cta de novo só no final" (0:35:58).
+- **Body de afirmações e empilhamento:** o body de afirmações ("feche os olhos e repita comigo", 0:41:32) é "muito forte" (0:36:18); empilhar gancho "é literalmente pegar um monte de gancho e empilhar" (1:05:07 a 1:06:34); de uma copy saem 8 ganchos (0:46:16).
+- **CTA da call:** "Comente qualquer coisinha... para ativar essas bênçãos. E vá até o meu story, deixei um presente especial pra você lá" (0:44:46); "Pode ser um 222" (0:44:53). Variação do Brendon: "a maneira para você se sincronizar corretamente está nos meus stories" (1:00:56 a 1:01:50).
+- **Story e destaques:** "Uma copy muito rápida, muito curtinha, porque a pessoa já tá lá no teu story, ela já foi convencida. E o link?" (0:24:36 a 0:24:44); destaques com storytelling, prova social e link, "quando a conta já estiver entregando bem" (0:24:56 a 0:25:23).
+- **Testes:** "Eu não gosto de trabalhar com um número muito engessado" (0:08:43); "Pode usar a COPY em vários vídeos que você vai postar no dia, mas nunca deixe de escrever COPY nova" (1:10:47).
+- **Quando largar a conta:** "não passa de 50, 60 views... postei 30 vídeos ali tá tudo zerado... aí você troca, mas tá passando de 200, 300 ali, mano, tem o vídeo que tem que melhorar" (1:11:28 a 1:11:41). "Cara, pegou 800 de vista, pegou 200, dá pausada... Não joga fora não" (0:21:48).
+- **Muita view e nenhuma venda:** "tua cópia pode estar muito clickbait... não está convincente, ou pode estar entregando para um público muito errado, por exemplo, Índia" (1:13:28 a 1:13:38).
+- **Avatar:** "tô postando um mês aqui e o avatar não destravou, e a conta tá de boa, aí eu troco, não vou trocar toda semana não" (1:16:12).
+- **Insta e Face:** não vincular ("tá caindo o Instagram, aí leva o Facebook junto", 1:22:07); o mesmo vídeo no Insta e no Face da mesma avatar, sim; em outras contas, não (1:12:51).
+- **Funis em 30/09:** Manifestação liberado "até dia 24 do 10" (1:10:30); Soulmate "ticket hoje de $9,90 e aí a comissão é 80%" (1:14:40); o app fitness "vai iniciar a 19 dólares... depois ele vai subir para 29... até chegar em 49" (1:15:15). (Na fala de 1:14:47 ele diz "funil de Soulmate" com ticket de US$ 19; pelo contexto é o de Manifestação, mas a fala é essa.)
+
+## Para a Nora (15/11, decisão minha)
+- **Nada muda; confirma o que já está em vigor:** o body tem de ser "interessante" e "convincente" para a pessoa não sair (a regra da R48 da 2ª frase, que valida a rotina dela dos 4 aos 8 s); o clickbait dá view mas "infinitamente menor" conversão (P42 e a nossa copy longa); o CTA só no fim (R40); o story curto com o link; os destaques depois que a conta entrega.
+- **Para testar depois (uma variável por vez):** o body de afirmações ("feche os olhos e repita comigo"), sem o "esta é sua última chance" nem o prazo de 30 minutos ou 1 hora (urgência e medo ficam fora, P42). É o formato que o Gustavo chama de "muito forte" e que "vai engajar" (0:45:11).
