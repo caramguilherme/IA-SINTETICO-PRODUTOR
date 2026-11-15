@@ -595,3 +595,7 @@ O `d1211-PRE-vela` (Omni 1.1 Flash, 8 s) fez o que o prompt pedia (a vela acende
 - O prompt pedia "with her free hand she points her index finger straight at the lens… and holds the point". O Flow fez: de 0,6 a 0,9 s, um aceno com a mão aberta; de 1,0 a 1,2 s, o indicador para cima (gesto de "um"); só então apontou. E de ~2,25 a ~3,8 s ela fechou os olhos sorrindo. Só o trecho de 4,0 a 5,6 s servia (o gesto parado, com os olhos abertos).
 - **Regra para o próximo vídeo de apontar:** "she raises her free hand straight into a point at the lens in one smooth move, no wave, no open palm, no counting gesture; her eyes stay open and look straight into the lens the whole clip, no slow blink, no closed eyes". Num vídeo de 6 s, o trecho bom costuma vir depois de ~1,5 s.
 
+### 15/11/2026 20h40, pergunta ao Clone (NotebookLM) grande demais
+- A R53, com ~4.500 caracteres, não foi aceita pelo chat do Clone. As R48 a R51, mais curtas, passaram.
+- **Regra:** pergunta ao Clone com até ~1.800 caracteres. Os números entram em linhas curtas e só os que mudam a resposta; o detalhe fica no `CLONE-DO-GUSTAVO-RESPOSTAS.md` e no `METRICAS-NORA-LEIA.md`.
+

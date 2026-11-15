@@ -919,46 +919,33 @@ Temos 4 vídeos de 6 s cada (o sal caindo, o monte de perto, a moeda, ela aponta
   - **A grade não muda hoje:** o Insta segue com 2 por dia até 3 a 4 Reels seguidos com 500+ e a Índia abaixo de 20% (a rotina final da seção 2).
   - **A "transição fluida" da fala:** não dá com os takes já gerados (ver a R51). O impact cobre a troca.
 
-## R53 (pergunta pronta em 15/11 20h36, pedido do aluno: "monta uma pergunta mais completa pro clone, com mais infos e detalhes… pq a pergunta que eu fiz foi muito rasa"; resposta a colar): o quadro inteiro da conta e o plano dos próximos dias
-**Pergunta:** "Pergunta (15/11, ~20h40): diagnóstico da conta com os números de hoje e o plano do Insta e do Face para os próximos 2 a 3 dias.
+## R53 (pergunta pronta em 15/11 20h36 e encurtada às 20h40: a versão de ~4.500 caracteres não foi aceita pelo Clone, e o aluno pediu "tenta diminuir algumas coisas irrisórias"; resposta a colar): o quadro da conta e o plano dos próximos dias
+**Pergunta (versão curta, ~1589 caracteres):** "Pergunta (15/11, 20h40): diagnóstico da conta e plano dos próximos 2 dias.
 
-Contexto: de 10 a 12/11 postei 6 Reels por dia no Insta com a mesma copy e a conta travou entre 118 e 219 views. Desde 14/11 estou na recuperação que você passou: 2 por dia no Insta, às 19h30 e à 0h00 de Brasília. No Face são de 4 a 6 por dia, com a Página restrita a EUA, Canadá, Reino Unido, Austrália e Nova Zelândia.
+INSTA (recuperação: 2 por dia, às 19h30 e 0h00, desde 14/11)
+- Falados recentes: 152 a 182 views. O nora63 (canela): 159 views, 42,5% nos 3 s, 0 visitas, EUA 35%.
+- nora64, loop de 8 s sem fala (a Nora com a carta dourada aponta para a foto do perfil; texto "ARIES, LEO, LIBRA & SAGITTARIUS: YOUR 2027 SHIFT STARTS TONIGHT"):
+  - com 6 h: 211 views;
+  - com 24 h: 2.204 views, 41,4% nos 3 s, 5 s de tempo médio, 10 visitas ao perfil, 2 follows, 14 comentários;
+  - países: Índia 53,8%, EUA 6,3%. O salto veio de dia (amostra indiana).
+- nora65 (a carta, falado, alto contraste): saiu às 20h22.
 
-INSTAGRAM (views na grade agora):
-- nora59 (12/11, o tsunami + corpo novo longo): 152.
-- nora60 (12/11 23h19, o envelope dourado): 182; 27,6% nos 3 s; Índia 53,6%.
-- nora63 (14/11 0h40, o ritual da canela McCormick com hook de 3,8 s; depois a Nora falando em outro cenário, 35 s): 159; 42,5% nos 3 s; 5 s de tempo médio; 0 visitas ao perfil; EUA 35%, sem Índia. Metade dos que passaram do hook saiu no corte de cenário.
-- nora64 (14/11 20h00, o loop de 8 s sem fala): a Nora à mesa à noite com uma carta dourada só com o sol, bate 2 vezes na carta, aponta para a foto do perfil e sorri. Texto do começo ao fim: "ARIES, LEO, LIBRA & SAGITTARIUS: YOUR 2027 SHIFT STARTS TONIGHT. THE WORST IS OFFICIALLY BEHIND YOU." Faixa "Tap my photo: your reading is in my story" com seta. Legenda com os 4 signos e "Comment 222".
-  - Com 6 h: 211 views; 40,2% nos 3 s; 4 s de tempo médio; 2 visitas ao perfil; Índia 20,5%, EUA 13,5%.
-  - Com ~24h30 (Insights das 20h35): 2.204 views; 1.634 contas; 99,3% não seguidoras; 41,4% nos 3 s; 5 s de tempo médio; a curva com ~40% aos 4 s e ~25% aos 7 s; 10 visitas ao perfil; 2 follows; 22 curtidas; 14 comentários; 3 salvos; 0 compartilhamentos.
-  - Idade: 35 a 54 = 60%.
-  - **Países: Índia 53,8%, EUA 6,3%, Reino Unido 3,8%, Grécia 2,1%, Paquistão 2,1%.** O salto de ~200 para ~2.000 aconteceu durante o dia de 15/11, quando a amostra é indiana. Em views dos EUA, o loop teve ~140, contra ~55 do nora63.
-- nora65 (15/11 20h22, a Nora falando com a carta dourada na mão, 31 s, a edição nova de alto contraste): acabou de sair.
-- O painel do perfil mostra 32 mil views nos últimos 30 dias.
+STORY: 27 pessoas viram e 8 clicaram no link (30%). Mas só ~1,2% de quem viu o loop chegou ao story.
 
-STORY DO INSTA (repostado em 14/11 às 18h56, venceu hoje às ~18h56): 27 pessoas viram; 40,5% não seguidoras; 8 cliques no link (30% de quem viu); 13 saíram, 12 avançaram, 7 foram ao próximo story; 0 visitas ao perfil. Ou seja, de 2.204 views do loop, só ~27 pessoas chegaram ao story.
+TRACKER
+- 15/11 até 20h30: 4 cliques (Insta), 3 no quiz, 1 terminou, 0 checkout.
+- Desde 27/10: ~37 cliques, 0 checkout.
 
-TRACKER (o funil Manifestation):
-- 13/11: 1 clique (Face), 0 no quiz.
-- 14/11: 1 clique (Insta), que começou e terminou o quiz; 0 checkout.
-- 15/11 até 20h30: 4 cliques, todos do Insta; 3 abriram o quiz, 1 começou, 1 terminou; 0 checkout. O melhor dia desde 11/11.
-- Desde 27/10: cerca de 37 cliques reais, 0 checkout e 0 venda.
+FACE (Página restrita a EUA, CA, UK, AU e NZ): preso entre 100 e 330 views. O loop teve 31 e o nora65-FACE 235 (34% nos 3 s). 0 clique em 2 dias.
 
-FACEBOOK (Biblioteca, 15/11 20h30): os vídeos ficam presos entre ~100 e ~330 views. A única exceção foi um tsunami curto + Take 1 de 11/11, com 4.235.
-- nora62 (o bicarbonato com hook de produto): 231 views; 28% nos 3 s.
-- nora63-FACE: 14.
-- nora64-FACE (o loop, espelhado): 31 views; 13 s de tempo médio.
-- nora65-FACE (a carta, postado às 02h16): 235 views; 34% nos 3 s; −0,7x.
-- 0 clique do Face no Tracker em 14 e 15/11, mesmo com o comentário da Página com o link fixado.
+HOJE: o nora66 (o sal Morton, hook de 4,8 s, 7 imagens do desejo): Face à 0h00, Insta à 0h25.
 
-HOJE À NOITE: o nora66, o ritual do sal Morton com o hook de 4,8 s em 3 cortes que você passou (R51), a Nora falando na mesma cena e 7 imagens do desejo em tela cheia, uma por frase (o teste da edição dopaminérgica). Face à 0h00 e Insta à 0h25.
-
-1. O loop deu 2.204 views, mas 53,8% da Índia e só 6,3% dos EUA. Isso é a conta saudável distribuindo, ou o algoritmo empurrando o loop para a Índia? Esse tráfego indiano atrapalha o público da conta? E por que ele vai bem enquanto os falados ficam em 150 a 180?
-2. Amanhã (16/11), no Insta: repito o loop? Com quais variações (os outros 8 signos, outra frase, outra cena, a mesma imagem) e em qual horário? Com que frequência ele pode voltar sem saturar? Ou sigo com 2 falados?
-3. O que mudo primeiro nos falados para eles pegarem a tração do loop: o Take 1, o hook visual, a duração (31 a 47 s) ou a copy do corpo?
-4. Só ~1,2% de quem viu o loop chegou ao story, mas 30% de quem chegou clicou. Como levo mais gente do vídeo para o story: a faixa, o texto, o pedido na legenda ou um 2º story?
-5. Com 3 abrindo o quiz, 1 terminando e 0 checkout hoje, isso é normal para esse volume? A partir de quantos cliques sem checkout eu devo me preocupar?
-6. Face: o que faço para passar de ~330? Qual formato e quantos por dia? Vale conferir o Status da conta da Página antes de qualquer coisa?"
+1. O loop com 54% de Índia é a conta saudável ou o algoritmo jogando para a Índia? Isso atrapalha o público da conta?
+2. Amanhã repito o loop (outros signos, outra frase)? Em qual horário e com que frequência, sem saturar?
+3. O que mudo primeiro nos falados: o Take 1, o hook visual, a duração ou o corpo?
+4. Como levo mais gente do vídeo ao story?
+5. 0 checkout com ~37 cliques: a partir de quando me preocupo?
+6. Face: o que faço para passar de ~330?"
 - **Resposta:** (a colar)
 
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
