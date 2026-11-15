@@ -76,6 +76,7 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
 - **Dashboard:** para atualizar, editar o CSV, rodar `ferramentas-painel/dashboard/preparar_csv.py`, subir a cópia sem o BOM como asset e dar `update` em `datasets/metricas` (`source.url`, `source.name`, `updated`) com `if_version`; receita completa em `ferramentas-painel/dashboard/COMO-RECRIAR.md`.
 
 ## 4. Diário de decisões (as novas entram aqui, datadas; as anteriores a 14/11 estão em `HISTORICO-CLAUDE-MD.md`)
+- **15/11/2026 (tarde, 5ª conta), `d1511-PRE-sal-IMG-A` escolhida: a 2ª opção** (`ferramentas-painel/dia-1511/d1511-PRE-sal-IMG-A-escolhida-opcao2.jpg`, recorte da grade): o sal já caindo do bico no centro do prato (a batida de 0 a 0,5 s do pré-gancho começa no 1º quadro), o rótulo com as cores reais (MORTON branco, IODIZED amarelo, a menina de amarelo com o guarda-chuva lilás), ela olhando o prato, a outra mão na bancada, a moeda ao lado do prato. A 3ª é a mais fiel ao prompt (prato vazio), mas sem o sal caindo o vídeo 1 teria de começar o derrame do nada.
 - **15/11/2026 03h59, painel do nora66 publicado ("pode montar" às ~03h55):** o sal Morton (opção B do Clone R49).
   - **O pré-gancho:** em batidas de 0,5 s, modelado do viral 51.2: o sal caindo, o monte crescendo, a moeda, ela apontando. O monte entra no lugar do círculo.
   - **As imagens:** edição da cozinha da canela + a folha + a foto real do Morton (Open Food Facts, `referencias-produtos/`). A imagem C serve para o pré-gancho e para as falas (R46).
