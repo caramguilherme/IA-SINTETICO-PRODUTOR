@@ -112,7 +112,7 @@
 - **O mecanismo de alma gêmea, chama gêmea, ex e "o rosto dele":** o funil da Nora é o Manifestation.
 
 ## Onde está cada coisa (para procurar: `python3 -I ferramentas-painel/buscar.py "termo"`, que desde 15/11 procura no projeto inteiro, inclusive nos `.txt`)
-- **Transcrições inteiras das aulas e calls (17):** `TRANSCRICOES/`, guardadas em 15/11. Até então só os resumos com trechos estavam salvos. A da aula 18 e a de variações, de ~10/07, chegaram em 15/11 ~03h45.
+- **Transcrições inteiras das aulas e calls (17):** `TRANSCRICOES/`, guardadas em 15/11. Até então só os resumos com trechos estavam salvos. A da aula 18 e a de variações, de ~10/07, chegaram em 15/11 ~03h39.
 - **Resumos das aulas:** `AULA-*.md`.
 - **Materiais das calls:** `MATERIAIS-CALL-*` e `MATERIAIS-DOCS-APPYON-15-11/` (cada pasta com o seu `LEIA.md`), `arquivo/MATERIAIS-CALL-17-07/`, `MATERIAIS-CENTRAL-APPYON-12-11.md`.
 - **Discord:** `HISTORICO-DISCORD/`; decisões em `COMUNIDADE-E-ESTRATEGIA.md`.

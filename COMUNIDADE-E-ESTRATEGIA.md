@@ -1113,7 +1113,7 @@ Arquivos: `HISTORICO-DISCORD/chat-appyon_12-11-madrugada.md`, `vitorias-dolar_12
 - **Para a Nora:** de 10 a 14/11 ficamos no topo da pirâmide. Quando um corpo der clique, 7 a 10 dias só de variações horizontais (no Insta, sempre com Take 1 novo, aula 32) antes de corpo novo; vai ao Clone com a R50. A ficha do criativo (aula 28) vira a linha "hipótese" do roteiro. O campo trancado ("Your 2027 reading: 🔒") entra na fila de testes da faixa. Garimpo na Biblioteca de Anúncios por total de impressões, só vídeo e inglês. Anúncios de horóscopo escalados: 15 a 28 s; os do Hint, 10 a 43 s.
 - **Fora:** as imagens de IA com a cara de médiuns reais (Theresa Caputo, Tyler Henry), médium famoso como autoridade, depoimentos de pessoas que não existem, preço e "free". Detalhe em `MATERIAIS-CALL-10-07/LEIA.md` e `MATERIAIS-CALL-02-06/LEIA.md`.
 
-## 15/11/2026 03h45 - Transcrições da aula 18 (02/06, Iorhan) e da call "Variações de criativos e avatares" (~10/07, provavelmente a aula 28)
+## 15/11/2026 03h39 - Transcrições da aula 18 (02/06, Iorhan) e da call "Variações de criativos e avatares" (~10/07, provavelmente a aula 28)
 - **Dados de mercado:**
   - em junho, 70% das vendas vinham do Face e o resto do Insta; TikTok com menos de 1%;
   - as vendas se concentram na Califórnia, na Flórida e em Nova York;

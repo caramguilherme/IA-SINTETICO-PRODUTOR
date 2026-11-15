@@ -1,6 +1,6 @@
 # Aula 28 (10/07/2026), "A metodologia completa pra vender mais: crescimento estruturado": quadro da call e slides
 
-Mandados pelo aluno em 15/11/2026 ~03h28: `CALL_MVM_10_07.excalidraw` (23,7 MB, quase tudo imagem embutida; não foi guardado, as imagens e os textos estão aqui) e `SLIDES - Variações de Criativo.pptx.pdf` (21 slides de Mateus Vakuda, "Como as maiores ofertas americanas faturam 7 dígitos por mês"; o quadro tem o título "VARIAÇÕES DE CRIATIVOS VALIDADOS / ACERTEI UM AVATAR, UM CRIATIVO… E AGORA?", por isso os slides ficam aqui). A transcrição da call de variações (provavelmente esta aula) chegou em 15/11 ~03h45: `AULA-10-07-VARIACOES-DE-CRIATIVOS-E-AVATARES.md` e `TRANSCRICOES/`.
+Mandados pelo aluno em 15/11/2026 ~03h28: `CALL_MVM_10_07.excalidraw` (23,7 MB, quase tudo imagem embutida; não foi guardado, as imagens e os textos estão aqui) e `SLIDES - Variações de Criativo.pptx.pdf` (21 slides de Mateus Vakuda, "Como as maiores ofertas americanas faturam 7 dígitos por mês"; o quadro tem o título "VARIAÇÕES DE CRIATIVOS VALIDADOS / ACERTEI UM AVATAR, UM CRIATIVO… E AGORA?", por isso os slides ficam aqui). A transcrição da call de variações (provavelmente esta aula) chegou em 15/11 ~03h39: `AULA-10-07-VARIACOES-DE-CRIATIVOS-E-AVATARES.md` e `TRANSCRICOES/`.
 
 ## O que tem
 - **Textos do quadro:** "LINK DE ACESSO", "VARIAÇÕES DE CRIATIVOS VALIDADOS", "ACERTEI UM AVATAR/UM CRIATIVO...E AGORA?", "HINT – YOUTUBE ADS ESCALADOS", "NEBULA – YOUTUBE ADS ESCALADOS", "ASTROLINE – YOUTUBE ADS ESCALADOS".
