@@ -50,6 +50,9 @@
   - "You can keep wondering, or take a minute and finally know." (doc 07, CTA 24);
   - "…and the universe knew today was the day you'd see this" (os ADs internos, sem o "free").
 - **Take 1 com 3 perguntas que qualificam:** "This is meant for you. Are you tired of carrying everything alone? Wondering if 2027 will finally be different?" Fonte: Psychic Samira, quadro da aula 18.
+- **"Don't cross your arms or legs"** antes da leitura ("Before I tell you this, don't cross your arms or legs, so nothing blocks what's coming to you."). O Iorhan diz que é "muito validado no nicho… usei muito… no funil" (aula 18, 1:15:19); faz a pessoa agir logo. Candidato ao T2 ou à frase antes da virada.
+- **Take 1 de escolher um número:** "Pick a number from one to four. It shows what twenty twenty-seven is bringing you." No Insta, o comentário pedido é o número (R40); no Face, sem pedido. Sem a prova social inventada do exemplo. Fonte: aula 18 (0:53:41).
+- **Especificidade na qualificação:** mês de nascimento; estado emocional ("if you woke up this week feeling a heaviness you can't explain"), sem falar de corpo ou saúde. Fonte: aula 18 (1:09:25).
 - **Ganchos novos:** `BANCO-DE-HEADLINES.md` nº 26 a 30 (2027 = 11; o signo com sorte enorme em 2027; o signo que nunca fica sem dinheiro; "this message is meant for one person"; a lua nova de 08/12).
 - **"Your birth chart can show where opportunities finally open for you"** (Astroline): ângulo de mecanismo de astróloga, sem prometer cidade nem carreira. Fonte: `MATERIAIS-CALL-02-06/LEIA.md`.
 
@@ -58,6 +61,7 @@
 - **Rituais nº 40 (azeite + louro) e nº 42 (café Folgers):** `BIBLIOTECA-PRE-GANCHOS.md`. O nº 41, o sal, é o próximo vídeo.
 - **A carta dourada parada sobre a mesa** (a na mão já foi no nora64 e no nora65). Fonte: o briefing de 22/05.
 - **Tela dividida com ilustração embaixo:** o homem da carta com as figuras de luz. Fonte: quadro da aula 28.
+- **Animal fofo em tela dividida por 2 a 3 s no gancho:** "mulheres 35 a mais… gostam de cachorrinho, gatinho"; escalou numa oferta de prosperidade. Imagem ou clipe do Flow; nunca bebê. Fonte: aula de variações, ~10/07 (1:06:21).
 - **"Your 2027 by birth month":** uma tela por mês, pedindo o mês nos comentários. Só no Face, 0 crédito, com o ok do aluno. Fonte: doc 07 nº 09; doc 05 nº 49.
 
 ## Processo (como trabalhar)
@@ -65,7 +69,30 @@
   - **Fonte:** os slides da aula 28 (`MATERIAIS-CALL-10-07/LEIA.md`).
   - **Status:** a confirmar com o Clone (item 6 da R50).
 - **A linha "hipótese que este vídeo testa"** em todo roteiro e no Resumo do painel. Fonte: a ficha do criativo da aula 28. Em vigor desde 15/11.
+- **A estrutura invisível para modelar viral:** a copy do viral ao lado da leitura de cada bloco (curiosidade + promessa + filtro de público → engajamento → autoridade → "picture" → prova → CTA), antes de escrever o roteiro. Fonte: aula 18 (0:49:11).
+- **Copy longa em curta:** os primeiros 20 a 30 s mais o CTA, sem reescrever. Para as variações do Face e a versão curta de um corpo que der clique. Fonte: aula 18 (1:06:58).
+- **Quando um corpo der clique, além de 3 a 4 Take 1:**
+  - a combinação de Take 1 que já funcionaram ("80% validado, 20% novo");
+  - a "frase de aterrissagem" ligando o Take 1 ao corpo;
+  - "toda linha vende a próxima" na revisão das falas.
+
+  A edição rende menos que gancho novo ("se eu só ficar colocando efeito sonoro… o potencial de escala vai ser muito menor do que 10 novos ganchos"). Fonte: aula de variações, ~10/07.
 - **Garimpo na Biblioteca de Anúncios**, classificada por total de impressões, só vídeo e só inglês ("manifestation", "law of attraction", "2027", Astroline, Nebula). Nunca copiar quem vende Appyon. Fonte: quadro da aula 18.
+
+## Contradições entre as aulas (o que vale hoje)
+- **Clickbait curto:**
+  - aula 18, 02/06: foi o que mais converteu (20 a 30 s);
+  - aula de ~10/07: "não apelem tanto… qualifica um pouco mais";
+  - aula 55, 30/09: "a conversão é infinitamente menor".
+
+  **Vale o mais recente:** 25 a 40 s com qualificação, promessa e CTA.
+- **Variação de gancho:**
+  - nos slides da aula 28 e na aula de ~10/07, é a base;
+  - na aula 18, 02/06, no pago: "quase não acerta mais gancho; mudar formato e rosto volta a escalar";
+  - na aula 32, no orgânico: a mesma copy repetida trava.
+
+  **A decidir com o Clone** (item 6 da R50).
+- **Volume:** a aula 18 diz "o máximo"; no Insta vale a recuperação de 2 por dia (Clone R35 a R38); a Jéssica e o Kobata dizem que produzir demais derrubou as vendas.
 
 ## Esperando resposta ou decisão
 - **R49 (Clone):** o sal na privada ou no prato, a caixa, 3 Take 1 e as falas.
@@ -85,7 +112,7 @@
 - **O mecanismo de alma gêmea, chama gêmea, ex e "o rosto dele":** o funil da Nora é o Manifestation.
 
 ## Onde está cada coisa (para procurar: `python3 -I ferramentas-painel/buscar.py "termo"`, que desde 15/11 procura no projeto inteiro, inclusive nos `.txt`)
-- **Transcrições inteiras das aulas e calls (15):** `TRANSCRICOES/`, guardadas em 15/11. Até então só os resumos com trechos estavam salvos.
+- **Transcrições inteiras das aulas e calls (17):** `TRANSCRICOES/`, guardadas em 15/11. Até então só os resumos com trechos estavam salvos. A da aula 18 e a de variações, de ~10/07, chegaram em 15/11 ~03h45.
 - **Resumos das aulas:** `AULA-*.md`.
 - **Materiais das calls:** `MATERIAIS-CALL-*` e `MATERIAIS-DOCS-APPYON-15-11/` (cada pasta com o seu `LEIA.md`), `arquivo/MATERIAIS-CALL-17-07/`, `MATERIAIS-CENTRAL-APPYON-12-11.md`.
 - **Discord:** `HISTORICO-DISCORD/`; decisões em `COMUNIDADE-E-ESTRATEGIA.md`.

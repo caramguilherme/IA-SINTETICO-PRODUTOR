@@ -1112,3 +1112,12 @@ Arquivos: `HISTORICO-DISCORD/chat-appyon_12-11-madrugada.md`, `vitorias-dolar_12
 - **A pirâmide:** horizontal (os primeiros segundos: gancho trocado ou empilhado, efeitos, música, banner, headline, legenda; acerta 40% a 50%) é a base; vertical (apresentador, CTA, prova, autoridade, duração) e formato acertam 20% a 30%; copy nova, 10% a 20%. O erro do amador é a pirâmide invertida (só novo e formato). Os números de ROAS são de tráfego pago.
 - **Para a Nora:** de 10 a 14/11 ficamos no topo da pirâmide. Quando um corpo der clique, 7 a 10 dias só de variações horizontais (no Insta, sempre com Take 1 novo, aula 32) antes de corpo novo; vai ao Clone com a R50. A ficha do criativo (aula 28) vira a linha "hipótese" do roteiro. O campo trancado ("Your 2027 reading: 🔒") entra na fila de testes da faixa. Garimpo na Biblioteca de Anúncios por total de impressões, só vídeo e inglês. Anúncios de horóscopo escalados: 15 a 28 s; os do Hint, 10 a 43 s.
 - **Fora:** as imagens de IA com a cara de médiuns reais (Theresa Caputo, Tyler Henry), médium famoso como autoridade, depoimentos de pessoas que não existem, preço e "free". Detalhe em `MATERIAIS-CALL-10-07/LEIA.md` e `MATERIAIS-CALL-02-06/LEIA.md`.
+
+## 15/11/2026 03h45 - Transcrições da aula 18 (02/06, Iorhan) e da call "Variações de criativos e avatares" (~10/07, provavelmente a aula 28)
+- **Dados de mercado:**
+  - em junho, 70% das vendas vinham do Face e o resto do Insta; TikTok com menos de 1%;
+  - as vendas se concentram na Califórnia, na Flórida e em Nova York;
+  - em julho, a Índia era o 2º país em checkout, com 0,2% de conversão;
+  - o Trustpilot da Appyon teve mais de 100 avaliações 5 estrelas de 1º a 10/07 e "não é possível fraudar".
+- **O que entra na Nora:** em `FILA-DE-IDEIAS-E-TESTES.md`. Resumos com o tempo de cada trecho em `AULA-02-06-COPYWRITING-IORHAN.md` e `AULA-10-07-VARIACOES-DE-CRIATIVOS-E-AVATARES.md`.
+- **Fora:** "parece mas não é" com médium real, clonar voz, depoimento inventado, mais perfis (adiado pelo aluno).
