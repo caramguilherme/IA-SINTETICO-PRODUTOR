@@ -1,6 +1,6 @@
 # Aula 55 (30/09/2026): "SPRINT - Call #3 Como eu penso na hora de escrever minhas copies (body/ganchos/CTA) + copies" (Gustavo)
 
-Transcrição do Loom colada pelo aluno em 15/11/2026 ~02h50 (https://www.loom.com/share/612e68a2bbe84b7ebdc0c7b1e16cacd1, 1h23). O PDF de copies que saiu da call está em `MATERIAIS-CALL-30-09/copies_gstalves_call_30-09-2026.pdf`. Aqui ficam os trechos que importam, com o tempo do vídeo e as palavras do Gustavo; a transcrição inteira está no Loom.
+Transcrição do Loom colada pelo aluno em 15/11/2026 02h49 (https://www.loom.com/share/612e68a2bbe84b7ebdc0c7b1e16cacd1, 1h23). O PDF de copies que saiu da call está em `MATERIAIS-CALL-30-09/copies_gstalves_call_30-09-2026.pdf`. Aqui ficam os trechos que importam, com o tempo do vídeo e as palavras do Gustavo; a transcrição inteira está no Loom.
 
 ## O que a aula diz (trechos literais, com o tempo)
 - **Garimpo:** pesquisar em inglês ("Money Manifestation", "Manifestation") no Facebook, com filtro de data (0:03:49 a 0:06:56); para ver o que roda nos EUA com restrição de país, VPN no navegador (Urban VPN) ou no celular (0:05:28 a 0:06:36); o mesmo processo serve para Instagram, TikTok e Pinterest (0:32:16). Transcrever as copies e traduzir (0:09:13, 0:31:21).
