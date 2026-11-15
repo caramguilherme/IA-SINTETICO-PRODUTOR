@@ -76,6 +76,16 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
 - **Dashboard:** para atualizar, editar o CSV, rodar `ferramentas-painel/dashboard/preparar_csv.py`, subir a cópia sem o BOM como asset e dar `update` em `datasets/metricas` (`source.url`, `source.name`, `updated`) com `if_version`; receita completa em `ferramentas-painel/dashboard/COMO-RECRIAR.md`.
 
 ## 4. Diário de decisões (as novas entram aqui, datadas; as anteriores a 14/11 estão em `HISTORICO-CLAUDE-MD.md`)
+- **15/11/2026 20h47, Clone R53 (o quadro da conta):**
+  - A conta está saudável e a Índia vem do horário.
+  - **O loop não volta amanhã; o próximo vai na quarta (18/11), entre 20h00 e 21h30**, com 4 signos novos, 2 a 3 vezes por semana.
+  - Nos falados, a ordem é: o hook visual → o Take 1 de situação física → a duração → o corpo.
+  - Para o story: um comando só e o motivo do clique.
+  - O checkout preocupa com 80 a 100 cliques Tier 1 sem nenhum.
+  - **A decidir com o aluno:** encurtar para 20 a 25 s (contra a regra de 25 a 40 s); o CTA único sem o 222 (contra a R40); o pedido de compartilhar no Face.
+  - **Fora:** o "Type AMEN", o link encurtado e o "before this day ends".
+
+  Detalhe em `CLONE-DO-GUSTAVO-RESPOSTAS.md` (R53).
 - **15/11/2026 20h36, o Insights do loop (nora64) corrige a leitura das 20h27:** 2.204 views, mas **Índia 53,8% e EUA 6,3%**. O salto aconteceu durante o dia de 15/11, com a amostra indiana. Também teve 10 visitas ao perfil e 2 follows. A conta não está restrita (ela distribui), mas o salto foi para a Índia: nos EUA, ~140 views, contra ~55 do nora63. **Não conta para a rotina final.** A R53 foi refeita com esses números antes de ir ao Clone. Eu tinha dito ao aluno "saiu do limbo" só pelo número de views; corrigido na resposta.
 - **15/11/2026 20h36, o story do Insta e a pergunta R53 ao Clone:** o story-1211 (14/11 18h56 a 15/11 ~18h56) teve 27 viewers e **8 cliques no link (30%)**, mas só ~1,2% de quem viu o loop chegou ao story. A grade: nora64 com 2.204, nora63 159, nora60 182. **R53 pronta** (pedido do aluno: uma pergunta completa): o que fez o loop dar certo, repetir ou não amanhã, o que muda nos falados, como levar mais gente ao story, o funil sem checkout e o plano do Face. Texto em `CLONE-DO-GUSTAVO-RESPOSTAS.md` (R53).
 - **15/11/2026 20h27, o loop (nora64) deu 2,2 mil views no Insta com ~24 h e o Clone R52 diz que a conta está saudável:** 10 vezes o reel típico (~140), bem acima da régua de recuperação da R48. **O nora66 vai ao Insta às 0h25** (o nora65 foi às 20h22, não 20h20; 4 h cheias, R36) e ao Face à 0h00. A grade não muda: são 2 por dia até 3 a 4 Reels seguidos com 500+. Pedido ao aluno: o print do Insights do nora64 (países, 3 s, visitas, follows). Detalhe em `CLONE-DO-GUSTAVO-RESPOSTAS.md` (R52).

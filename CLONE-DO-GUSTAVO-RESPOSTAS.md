@@ -946,7 +946,49 @@ HOJE: o nora66 (o sal Morton, hook de 4,8 s, 7 imagens do desejo): Face à 0h00,
 4. Como levo mais gente do vídeo ao story?
 5. 0 checkout com ~37 cliques: a partir de quando me preocupo?
 6. Face: o que faço para passar de ~330?"
-- **Resposta:** (a colar)
+- **Resposta (colada pelo aluno às ~20h45):**
+  1. **A conta está tecnicamente saudável:** 2.204 views, 10 visitas, 14 comentários e 2 follows mostram a distribuição aberta. O limbo (o vídeo morrendo abaixo de 50 a 100) não existe aqui.
+     - A massa indiana vem do horário: de dia aqui, a Índia está no pico.
+     - O Clone cita as aulas 28 e 54 para dizer que a Índia "converte só 0,2% em checkout" por não usar cartão aceito pela Stripe.
+     - **Não contamina se o horário for controlado:** o próximo vídeo vai para perfis parecidos com os que mais interagiram no anterior. Por isso, todo vídeo curto de alcance sai só no horário nobre dos EUA.
+  2. **Não repetir o loop amanhã (segunda).**
+     - Loop toda hora vira "página de frases sem autoridade" e tira a entrega da especialista (aulas 21, 31, 64).
+     - **Usar como "oxigenação" 2 a 3 vezes por semana (ex.: quarta e sábado), só entre 20h00 e 21h30**, intercalado com os falados.
+     - **No próximo loop:** trocar os 4 signos e testar alívio e surpresa financeira. Ex.: "TAURUS, CANCER, VIRGO & PISCES: AN UNEXPECTED FINANCIAL CLEARING STARTS BEFORE NOVEMBER ENDS".
+  3. **Nos falados, a ordem do que mudar (pirâmide):**
+     1. o hook visual dos 3 a 5 s, na mesma cena;
+     2. o Take 1, com uma situação física da rotina dela ("If you're going to bed exhausted tonight...");
+     3. a duração: encurtar para 20 a 25 s (hook de 4 s + 1 frase de promessa e prova, 8 s + CTA para o story, 8 s), cortando o miolo (aulas 18 e 21);
+     4. o corpo, que é o último a mexer. O gargalo está entre os 3 e os 8 s.
+  4. **Story:** dentro dele está ótimo (30%); o gargalo é a passagem do Reels ao perfil (aulas 64 a 66).
+     - **Um comando só:** não pedir salvar, seguir e comentar junto com ir ao perfil.
+     - **Dar o motivo:** "Tap my photo right now: I left 3 quick questions in my story that pinpoint your exact blockage for 2027 before this day ends."
+     - Seta animada para a foto do perfil, com a faixa "Tap my photo for your 2027 reading ↗", nos últimos 5 s.
+  5. **Checkout:** 37 cliques em 20 dias ainda é amostra pequena. Muitos vieram de público descalibrado.
+     - O Clone dá "1 checkout a cada 20 a 50 cliques qualificados" e "1 venda a cada 5 a 10 checkouts" (aulas 12, 21, 32).
+     - **Régua: auditar o link e o quiz com 80 a 100 cliques de público Tier 1 sem nenhum checkout.** A prioridade agora é o volume que entra no story.
+  6. **Face:**
+     - (a) pedir para compartilhar ("Share this blessing with a woman you love who is carrying heavy burdens today"; aulas 12 e 70);
+     - (b) posts de 6 s em loop com afirmação ou oração ("Type AMEN to claim this 2027 turnaround"), com o link encurtado no 1º comentário;
+     - (c) 4 a 5 por dia: 2 falados + 2 textos de afirmação + 1 POV.
+- **O que eu conferi e decidi (20h47):**
+  - **Entra:**
+    - o loop não volta amanhã;
+    - **o próximo loop vai na quarta, 18/11, entre 20h00 e 21h30**, no lugar do das 19h30, e o falado segue à 0h00 (4 h depois), com os 4 signos novos;
+    - a frase do loop sem prazo e sem "financial clearing" de promessa de dinheiro: a decidir no painel. A R44 já dizia que o loop serve de alcance, nunca de 3º post.
+  - **A ordem dos falados:** coincide com a pirâmide e com a nossa fila.
+    - O nora66 de hoje já testa o hook na mesma cena e a edição dopaminérgica.
+    - **Encurtar para 20 a 25 s contradiz a regra de 15/11** (vale o mais recente: 25 a 40 s com qualificação, promessa e CTA; aula 55: "clickbait converte infinitamente menos"). Fica como teste a decidir com o aluno, uma variável por vez.
+  - **"Um comando só" contradiz a R40** (o "Comment 222" logo antes do CTA no Insta, que o próprio Clone pôs de volta em 13/11 pelos 3 campeões). É a decisão a tomar com o aluno: testar o CTA único com motivo num falado do Insta, sem o 222 na fala, é uma variável só e mira o gargalo (1,2% do vídeo ao story).
+  - **O CTA de exemplo não entra como está:** "before this day ends" é prazo (P42) e "blockage" é negativo. Versão possível: "Tap my photo: I left three quick questions in my story that show what twenty twenty-seven is opening for you."
+  - **A seta:** no Reels, a foto do perfil fica embaixo, à esquerda, e a nossa seta já aponta para lá (X −288, Y −333). O "superior esquerdo" do Clone está errado para o Reels.
+  - **Checkout:** a régua de 80 a 100 cliques Tier 1 entra. Os números do Clone (1 checkout a cada 20 a 50; a Índia sem cartão da Stripe) eu não achei nas nossas transcrições. O nosso registro de outubro diz checkout de 18% a 20% dos cliques (`COMUNIDADE`).
+  - **O Face:**
+    - o "Type AMEN" já tinha saído (R43 e R48): é isca de engajamento que o Face corta, e o slideshow de texto fez 4 a 9 views;
+    - o link encurtado está fora (o Short.io quebrou o link, 11/11);
+    - o loop no Face teve 31 views;
+    - o pedido de compartilhar no Face contradiz a regra de "sem pedido no Face" e está na fila como teste só do Insta. A decidir com o aluno;
+    - o volume de 4 a 5 por dia já é o nosso (mínimo de 4, R38).
 
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
