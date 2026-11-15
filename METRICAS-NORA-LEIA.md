@@ -695,6 +695,11 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
 - **Correção do aluno (~02h30):** ele deixou o nora64 aberto pela própria Página e o vídeo repetiu inteiro umas 4 ou 5 vezes. Não sei se o Face conta as views de quem administra a Página; se contar, com 13 visualizadores o tempo médio de 15 s e algumas das 29 views são dele. **O tempo médio do loop no Face não vale como sinal**; a leitura de ~24 h dilui as repetições dele. Daqui em diante, conferir os vídeos pela Biblioteca, sem deixar rodando na Página.
 - **Leitura:** o Face segue preso entre ~100 e ~330 por vídeo (fora o nora55, 4.236); o loop é o único com distribuição positiva, mas com volume baixo às 6 h. **Nada muda agora:** o loop no Face se julga com ~24 h (~20h de 15/11), e a decisão do perfil sai do Insta (critério do limbo, R46), que ainda falta.
 
+### 15/11/2026 02h25, INSTA nora64 (o loop; 14/11 20h00, ~6h25; Insights do aluno)
+- **211 views, 163 viewers, 40,2% nos 3 s (skip 59,8%) e o selo "strong hook"**, tempo médio 4 s num vídeo de 8 s, **2 visitas ao perfil** (as primeiras desde o nora58; o nora59, o nora60 e o nora63 tiveram 0), 0 follows, 0 curtidas, 1 comentário, 0 salvos e envios; 99,5% não seguidores. Idade: 25 a 34 25,5%, 35 a 44 32%, 45+ 40%. Países: **Índia 20,5%**, EUA 13,5%, Canadá 11%, Reino Unido 10,5%, Alemanha 4%. Curva acima do reel típico (~205 contra ~140 às 6 h), achatando perto de 210; retenção ~50% aos ~2,5 s e ~20% aos 7 s.
+- **Régua da R46 (o loop abaixo de 200 a 300 = repressão no perfil):** com 6 h ele já passou dos 200 e do nora63 inteiro (154 com ~18 h), na faixa de baixo da régua; **não é o sinal de repressão forte, mas também não é a entrega das fitas de outubro** (3.589 e 3.742). A régua fecha com ~24 h (~20h de 15/11). As 2 visitas ao perfil são o 1º sinal de gente indo ao perfil em 4 vídeos, e vieram do vídeo que aponta para a foto.
+- **Nada muda agora:** o nora65 vai ao Insta às 19h30 de 15/11, como combinado; o das 0h00 sai da leitura de ~24 h do loop, do nora63 e do Tracker de 14/11.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
