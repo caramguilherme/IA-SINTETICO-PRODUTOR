@@ -7,7 +7,7 @@ por baixo. O texto (caixa, números, legenda, faixa, seta) e os sons (riser, imp
 
 Uso: python3 -I montar_bases_nora66.py <montado.mp4> <pasta das imagens desejo-1..7.jpg> <pasta de saída>
 """
-import os, subprocess, sys
+import math, os, subprocess, sys
 from PIL import Image
 
 MONT, DES, OUT = sys.argv[1], sys.argv[2], sys.argv[3]
@@ -37,7 +37,7 @@ def clipe(n, dur, saida):
     bw = sw * f; bh = bw * H / W
     if bh > sh * (1 - y0): bh = sh * (1 - y0); bw = bh * W / H
     cx, cy = sw * x0 + bw / 2, sh * y0 + bh / 2
-    nq = int(round(dur * FPS))
+    nq = int(math.ceil(dur * FPS)) + 2  # 2 quadros a mais: o corte exato fica com o enable (com o round, faltava 1 quadro e a Nora piscava entre 2 imagens)
     p = subprocess.Popen(['ffmpeg', '-v', 'error', '-y', '-f', 'rawvideo', '-pix_fmt', 'rgb24', '-s', f'{W}x{H}', '-r', str(FPS), '-i', '-',
                           '-c:v', 'libx264', '-crf', '14', '-preset', 'medium', '-pix_fmt', 'yuv420p', saida], stdin=subprocess.PIPE)
     for i in range(nq):
