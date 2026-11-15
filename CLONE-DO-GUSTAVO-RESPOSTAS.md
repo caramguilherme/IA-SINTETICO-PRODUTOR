@@ -797,6 +797,36 @@ As nossas travas: até 22 palavras por take; números por extenso ("twenty twent
 
 **Resposta:** (colar aqui)
 
+## R50 (pergunta pronta em 15/11 03h05, pedido do aluno: "será que as edições que você está fazendo estão entregando menos o vídeo? cita o tipo de fonte, cor, o jeito que está sendo editado e as ferramentas que estão no vídeo"; resposta a colar): a edição está derrubando a entrega?
+**Pergunta:** "Pergunta (15/11): a minha edição pode estar derrubando a entrega e a retenção dos 3 primeiros segundos no Insta? Quero saber o que manter, o que tirar e o que mudar.
+
+Como eu edito hoje: o texto é gravado no vídeo por um script (Python + ffmpeg), não no CapCut. O aluno monta no CapCut só os takes e a música ambiente a −18 dB, corta os silêncios com corte seco, e eu ponho o resto. Exporto em 1080x1920, 24 fps, ~4 Mbps (o mesmo dos campeões).
+
+Fase 1, os 3 campeões (nora48 a nora50, 06 a 10/11): 1.638, 2.043 e 1.678 views, 68% a 71% nos 3 s, 18 a 21 s de tempo médio, vídeo de ~67 s.
+- Pré-gancho do tsunami (~4 s, sem texto além da caixa).
+- Caixa do topo branca sólida, fonte Poppins Bold, texto preto e a 1ª linha (os signos) em vermelho, nos primeiros ~17 s.
+- Legenda de 3 palavras por vez, Poppins Bold branca com contorno preto e as palavras-chave em amarelo forte, no terço de baixo, começando no Take 1 (~8 s).
+- 11:11 branco, 888 azul ciano e 222 amarelo, fixos nos cantos o vídeo todo.
+- Faixa do story ("Your private reading is in my story", branca, "my story" em vermelho) e seta vermelha para a foto do perfil no CTA. Sem efeito sonoro.
+
+Fase 2 (nora51 a nora58, 10 e 11/11): a mesma edição da fase 1, mas sem pré-gancho no kit do portal e 6 posts por dia no Insta: 34% a 62% nos 3 s, 120 a 889 views.
+
+Fase 3 (do nora59 em diante, 12 a 14/11): o aluno pediu para variar as cores conforme a cena. Mudou:
+- Caixas claras e translúcidas em tons pastel (névoa, sálvia, lavanda, creme), texto em Poppins Medium e a palavra de destaque em itálico serifado fino (Cormorant SemiBold Italic). Desde 12/11 à noite, só a caixa do topo voltou a ser sólida e em negrito: amarela com preto no nora63, dourada com roxo escuro no nora65.
+- Legenda branca ou creme com contorno escuro e destaque em cor pastel (lavanda clara, dourado, bege) no lugar do amarelo forte; no nora65 ela começa no 0 s, junto da caixa do topo.
+- Os 3 números nos cantos seguem; riser de suspense + impact no corte do pré-gancho; print de uma avaliação real do Trustpilot por 3 s antes do CTA, com a caixa "Rated 4.8 by 2,200+ people"; vídeos de 26 a 35 s.
+- Resultados: nora59 149 views (44% nos 3 s), nora60 181 (28%), nora63 156 (42,5%, 5 s de tempo médio), o loop de 8 s sem legenda 211 (40%).
+
+Eu sei que de 10 a 12/11 mudou muita coisa junto (sem pré-gancho, 6 por dia com a mesma copy, data no Take 1, estilo, efeitos), e a queda começou na fase 2, antes da troca de estilo.
+
+1. Algum desses elementos de edição costuma derrubar entrega ou retenção no nicho (texto demais na tela, os 3 números o vídeo todo, legenda no 0 s junto da caixa do topo, a fonte serifada fina, cores pastel com pouco contraste, cara de template)?
+2. O estilo da fase 1 (branco, preto, vermelho e amarelo forte) é melhor para o Manifestation do que variar cores pela cena? Volto a ele como padrão?
+3. Legenda: 3 palavras por vez, no terço de baixo, é o tamanho e a posição certos? Começa no 0 s ou só depois do gancho?
+4. Ter o texto gravado por script, e não editado no CapCut ou no Edits, muda alguma coisa para o algoritmo?
+5. Se for para mudar, qual é o teste de uma variável só, a 0 crédito, no Reels de hoje às 19h30 (o nora65, já editado em lavanda e dourado)? Reedito no estilo da fase 1 ou deixo como está e mudo no próximo?"
+
+**Resposta:** (colar aqui)
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 
