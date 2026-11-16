@@ -1052,6 +1052,38 @@ No fim, separe: no que você mudou de opinião, o que mantém e o que você diss
   - **A régua de 80 a 100 cliques da R53 perde a base** (vinha do número retratado). Fica a da comunidade: 18% a 20% dos cliques no checkout. Com ~37 cliques, isso daria ~7, e foram 0. Para julgar, separar os cliques por dia e por público.
 - **Nota (resposta ao aluno: "pq o face corta isca? quem falou isso? o clone?"):** a regra "no Face, sem pedido" não veio do Clone. Fui eu, em 10/11 ~01h15 (`COMUNIDADE-E-ESTRATEGIA.md`), com base na política pública da Meta contra isca de engajamento (posts que pedem curtida, comentário, compartilhamento ou marcação perdem distribuição). O Clone sugeriu o "Amém" na R29 (11/11), o texto com "Type AMEN" na R43 e na R48 e o slideshow na R14. O slideshow foi postado (slide1211, 12/11): 9 views.
 
+## R55 (pergunta pronta em 15/11 21h06, pedido do aluno: "mais alguma pergunta/dúvida pro clone?"; resposta a colar): o plano de 16/11 com as regras da R54
+**Pergunta (~2718 caracteres):** "Pergunta (15/11, 21h10): o plano de amanhã (16/11), já com as regras que você corrigiu na sua última resposta.
+
+Situação:
+- O Insta está em recuperação, com 2 por dia (19h30 e 0h00).
+- Hoje foram o nora65 às 20h22 (a carta, falado, 31 s) e o nora66 à 0h25: o sal Morton, com hook de 4,8 s em 3 cortes, a Nora falando na mesma cena, 7 imagens do desejo até os ~33 s, ~42 s no total e sem o 222 na fala.
+- O loop volta na quarta (18/11), entre 20h e 21h30.
+- Os falados ficam com 40 a 60 s e terminam num comando só, o story.
+
+1. Os 2 falados de amanhã no Insta. Pela sua ordem (hook visual → Take 1 → duração → corpo), o que eu mudo em cada um, uma variável por vez? Na fila tenho estes rituais com produto famoso:
+- azeite Pompeian + folha de louro;
+- café Folgers;
+- papel com o desejo queimado na vela;
+- a carta de 2027 escrita com caneta dourada.
+Qual entra às 19h30 e qual à 0h00? Ou repito o sal com outro Take 1, para medir uma variável só?
+
+2. O Take 1. Você sugeriu uma situação física da rotina ("If you're going to bed exhausted tonight..."). Me dê 3 Take 1 desse tipo para a mulher de 35 a 55 anos dos EUA: sem medo, sem prazo, sem prometer dinheiro e cabendo em ~3 s.
+
+3. O CTA com motivo, sem o 222. Hoje a fala termina assim: "Tap my photo and answer three quick questions in my story to get your reading for twenty twenty-seven." O seu exemplo tinha "before this day ends" (prazo) e "blockage" (negativo), que eu não uso. Me dê 2 versões de 6 a 8 s que deem o motivo do clique, sem prazo e sem medo.
+
+4. A 2ª frase (dos 4 aos 8 s). Você mandou validar a rotina dela nessa frase. O nora63 perdeu metade das pessoas aos 5 a 6 s. Como eu sei se o problema é a 2ª frase ou o corte? O que medir no nora66 amanhã (aos 5, 10 e 20 s) para decidir?
+
+5. O Face sem post de texto. Posto de 4 a 6 por dia, mas só tenho 2 falados novos por dia, que vão ao Face sem o hook de produto. O que entra às 9h, 12h, 16h e 21h30?
+- Variação de campeão com 3 a 5 dias (espelho + filtro + 1,1x)? Qual campeão?
+- O de 4.235 views (tsunami curto + Take 1, de 11/11) já pode voltar?
+- E o POV narrado (106 views) e o empilhamento (213)?
+
+6. O funil. Desde 27/10: ~37 cliques, ~16 terminaram o quiz e 0 checkout. A VSL do Manifestation tem 31 a 37 min, e o botão da oferta só aparece aos 16:00. Pela régua da comunidade (18% a 20% dos cliques chegam ao checkout), eu já deveria ter alguns. O que confiro primeiro: o link, o quiz, a VSL, ou é volume? Faço o caminho todo no celular como se fosse uma cliente?
+
+7. O story. 27 pessoas viram e 8 clicaram (30%), mas só ~1,2% de quem viu o vídeo chegou ao story. Além do CTA único, ajuda pôr na faixa "Your 2027 reading: 🔒 / tap my photo" (o campo trancado da aula 18)? Ou um 2º story?"
+- **Resposta:** (a colar)
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 
