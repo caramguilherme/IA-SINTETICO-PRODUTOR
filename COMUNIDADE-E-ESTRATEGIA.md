@@ -1165,7 +1165,7 @@ Arquivos: `HISTORICO-DISCORD/chat-appyon_12-11-madrugada.md`, `vitorias-dolar_12
   3. **É um efeito de 15 a 20 dias, não de um vídeo:** a régua é a % da Índia na média da semana (hoje: 0h24 com 1,6%, 20h22 com 13,7%, o loop de dia com 53,8%).
 - **Quem responder:** só uma reação (🔥) na mensagem dele; a DM de hoje (09h41) já está com ele.
 
-### 16/11/2026 12h45 - Respostas nas DMs: Pedro⚡, Caio1094, Lari e Marcelo (prints do aluno)
+### 16/11/2026 12h43 - Respostas nas DMs: Pedro⚡, Caio1094, Lari e Marcelo (prints do aluno)
 - **Pedro⚡ (1ª venda em 15/11, 11h38):** posta entre 17h e 0h, a cada 1 a 2 h; a única mudança de cenário foi **a bandeira dos EUA em todos os vídeos, no fundo e visível** ("se faço a avatar num jardim, coloco a bandeira no fundo").
 - **Caio1094 (10h30 e 10h32):** põe mais corpo no vídeo (1min40 a 2min40); indicou o perfil de uma avatar com hooks de polvo e copies longas (é o viral do polvo que o Gustavo mostrou no Scoped na call de 09/11, 0:06:26; o @ ele não sabe); **lateralizar = pegar o vídeo de mais views e pôr "um gancho antes do gancho", mantendo o corpo**; a 1ª venda dele veio com ~25 dias.
 - **Lari (12h31):** está "espionando fora dos conteúdos da Appyon".
