@@ -133,6 +133,7 @@
 - **Do aluno:** o print do Status da Página. (Crédito do Flow: nunca perguntar; ele avisa quando acabar, regra de 16/11.)
 - **Dos números:** a curva do nora66 aos 5, 10 e 20 s (~12h40 de 16/11) é a régua da tela cheia, contra a qual a tela dividida (16/11) será medida.
 - **O hook no Face (aula 19, 0:42:35 a 0:43:56: "menos de 100 views… sem views provavelmente é hook… abaixo de 50, 30, muito fraco"):** 4 dos últimos 6 do Face ficaram abaixo de 50 (nora63 14, loop 31, nora66 24 com ~12 h), mas o nora65-FACE, abrindo na Nora falando, fez 235. Hoje à noite o Face compara as duas aberturas: o Folgers abre na Nora falando e a onda abre na onda. Ler com ~24 h (17/11).
+- **O aquecimento antes de postar** (22ª leitura, 16/11: o Felps diz que aumentou a conversão; o Wall usa a automação diária do GeeLark): à mão, 5 a 10 min no GeeLark antes do post das 19h30 e da 0h00 (rolar o feed do nicho, curtir, 1 ou 2 comentários de verdade). A automação diária gasta os minutos do pacote e é ação repetida de robô (aula 35): decisão do aluno, sem eu propor de novo.
 - **Pinterest** (aula 19, 1:20:14 a 1:26:00: um aluno da call diz "é só postar em inglês, não precisa de proxy"; o Gustavo ainda ia testar): canal novo, sem dado nosso. Não proponho agora (uma frente por vez); fica aqui se o aluno trouxer.
 
 ## Fora (e por quê; não propor de novo)

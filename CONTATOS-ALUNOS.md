@@ -69,7 +69,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | Gustavo M. | Pergunta no chat (06/11 11h08): funil em espanhol | | | **Resposta pública enviada em 06/11** (9ª leitura) | |
 | Lívia | Roda Manifestation; pediu no chat (05/11 19h48) que quem roda chamasse na DM | | | DM do aluno em 06/11 03h14; **ela respondeu às 07h57:** está difícil "um pouco dos dois" (view e clique); teve algumas vendas no mês passado; estranhou o "vídeo enorme" depois do quiz, antes do checkout. Resposta enviada em 06/11 12h04. **Ela, às 12h20:** vendeu no Manifestation pelo Face; tirou a ameaça das copies e as views caíram muito. **2ª resposta enviada em 06/11 12h24** (manter o viral quase igual e cortar só o vermelho; pergunta: de onde vem o clique no Face). **Ela, às 12h25:** 1 venda de "live reading" no Insta; clique do Face pela DM automática; modela "sem manter tão igual", 300 a 700 views. **3ª resposta enviada em 06/11 12h31.** **Ela, às 12h33:** a venda veio do link do story ("insta é só story mesmo") e "entendi". Conversa fechada; voltar só com resultado novo (nora49 ou nora50) | Se ajudar |
 | Neto e Cleidiane | ~5 vendas em outubro com 2 páginas do Face; o perfil flopou depois; abriram um Insta (chat, 06/11 19h57, pedindo para trocar ideia) | | | **Resposta pública enviada em 06/11** (10ª leitura: oferta de trocar ideia + o que mudou quando flopou). Se responder, seguir pela DM | Se ajudar |
-| Chefinho | Pergunta no chat (06/11 15h24): os 10 de aquecimento vão sem a automação? | | | **Resposta pública enviada em 06/11** (10ª leitura) | |
+| Chefinho | Pergunta no chat (06/11 15h24): os 10 de aquecimento vão sem a automação? | | | **Resposta pública enviada em 06/11** (10ª leitura); **16/11 18h02 (22ª leitura): resposta sobre o selo de IA (só o perfil no Insta) enviada** | |
 | Gabriel soares | Pergunta no chat (06/11 11h18): o funil em espanhol converte bem? E (14/11 15h14): descartar a conta se só um vídeo do aquecimento bate 200 views? | | | **Resposta pública enviada em 06/11** (10ª leitura). **2ª resposta enviada em 14/11** (20ª leitura: a régua do Mattias, mais de 6 dos 10 acima de 100 views) | |
 | ThaísFrias [MVM] | 1ª venda em 14/11 (US$ 13,66; 81 cliques, 5 checkouts) com 1 mês e meio de Appyon; funil não dito | "O segredo é a constância" | | **Parabéns enviado no #vitórias em 14/11** (20ª leitura), com 1 pergunta (insta ou face). Se responder, só reagir | |
 | Vitor Oliveira [MVM] | Ajuda no chat; resolveu o comentário fixado no Face (14/11 20h15) | Tirar a prévia do link no comentário da Página faz o Face deixar fixar | Teste no nora65-FACE (14/11) | **Resposta enviada em 14/11 ~21h15** (o teste fixou pelo celular; texto na 20ª leitura, abaixo). Fechado: só reagir | Se ajudar |
@@ -774,3 +774,16 @@ e uma dica q o caio1094 deu hj no vitórias: bandeira dos eua em tudo e copy com
 bora trocar ideia sim, pode ser por aqui msm
 ```
 
+## ENVIADO (16/11/2026 18h02, 22ª leitura; toda resposta sugerida conta como enviada; uma mensagem em cada lugar)
+**1. Chefinho, no #chat-appyon (responder a mensagem dele das 17h42, "Tanto no perfil como no vídeos ou só essa opção aí?"):**
+> no insta é só essa opção do perfil mesmo
+> a minha ta marcada desde outubro e eu nao marco video por video
+> no face eu marquei a pagina como criadora de ia
+
+**2. Vítor Franke, no #chat-appyon (responder a mensagem dele das 17h00, a conta nova sem views):**
+> na aula de 29/09 (heygen + omni flash) o gustavo fala isso: 10 videos de aquecimento sem passar de 100 views, joga fora e cria outra
+> sobre trocar o proxy eu nao sei te dizer com certeza
+
+**3. Herick, no #vitórias-dólar (responder a mensagem dele das 15h21, o painel de 01 a 15/11):**
+> parabéns herick!! resultadão
+> uma duvida: quando uma pagina sua trava abaixo de 50 views, vc insiste nela ou abre outra?

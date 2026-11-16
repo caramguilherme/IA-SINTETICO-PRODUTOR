@@ -608,3 +608,7 @@ O `d1211-PRE-vela` (Omni 1.1 Flash, 8 s) fez o que o prompt pedia (a vela acende
 - **O que muda:** o prompt curto da aula 54 nos clipes de VÍDEO do pré-gancho (os sem fala): a ação em 1 a 2 frases + "ambient ASMR sound only, no speech, no music", com no máximo uma trava curta das lições (por exemplo, "plain matte gold coin, no sparkle"; "eyes open, no wave"). As imagens, o LIVRE da Central, a movimentação dos takes e os prompts manuais com fala seguem detalhados ao extremo.
 - **Por quê:** na aula 54 o Gustavo gera o hook do sal com 2 frases ("ela está se ajoelhando enquanto vira o pote de sal… o som é do ambiente, ASMR, e não há falas nem músicas") e diz que "simplificando fica melhor"; no sal de 15/11, o prompt longo trouxe a estrela de brilho ("settles shining") e o aceno no lugar do apontar.
 - **Como medir:** quantos dos clipes do nora67 e do nora68 saem usáveis de primeira (x2 cada), contra o sal. Se errar mais, volta o detalhado.
+
+### 16/11/2026 18h02, dia de muitos erros de política no Flow (22ª leitura do Discord)
+- Vários alunos tiveram "Esta geração talvez viole nossas políticas" hoje, até para renomear vídeo no agente (Eduarda Kelly) e com imagem sem nada demais (gabrielbfrota).
+- **O que resolveu, na ordem para a Nora:** (1) o mesmo take num **projeto novo** do Flow (Herick, Kleber); (2) a fala reserva do painel, trocando uma palavra ou frase (o erro costuma vir perto do CTA: Herick, Alessandro); (3) limpar os cookies e dar F5 (Vinicius B; já no item 37 do checklist). Se o agente der erro ao renomear, renomear à mão.
