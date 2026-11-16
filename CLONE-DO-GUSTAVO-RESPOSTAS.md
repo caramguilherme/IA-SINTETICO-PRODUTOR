@@ -1321,6 +1321,23 @@ No fim, separe o que mantém, o que muda e o que foi sem fonte."
   - **Os números:** o aluno escolheu dois (13h31): o 11:11 e o 222, os dois brancos, nos cantos de cima; o 888 saiu (as aulas aceitam 1, 2 ou 3).
   - **O Face:** o comentário fixado com o link fica; o print da Qualidade/Recomendações da Página segue pedido ao aluno.
 
+## R61 (pergunta do aluno em 16/11 ~14h30, escrita aqui; resposta colada às ~14h31, texto inteiro em `CLONE-ORIGINAIS/2026-11-16-colagem-R52-a-R58.md`): o link no comentário do Face e a Página travada
+- **Resposta (resumo fiel):**
+  1. **Estrutura Facebook:** aos 0:38:02 o Gustavo falava do robô do Business Suite que responde com o link a cada comentário (o que cai como spam e ele largou); aos 0:52:57, do comentário manual da Página com o link, no topo ("o lead vem aqui e clica e compra"). **A prática é o comentário manual fixado.**
+  2. **As 3 portas de clique no Face:** o comentário fixado (a principal); **o link na seção "Sobre / Links" da Página** (aula 11, 1:20:49; Estrutura Facebook, 0:18:12); o story da Página (aula 13 e 51), postado direto na Página ou compartilhado do Insta.
+  3. **Diagnóstico:** a amostra pequena da restrição de países; não assistir os próprios vídeos pela Página (aula 35); a régua de descarte (aula 25, 0:37:55: "o máximo nos primeiros 10 vídeos foi 295… conta ruim"; aula 55, 1:11:41: página com dezenas de vídeos em 40 a 50 views).
+  4. **O que fazer:** manter o link fixado com frase limpa; pôr o link na seção "Sobre"; não ver os vídeos pela Página; **se os 2 de hoje ficarem abaixo de 30 views, criar uma Página nova para a Nora.**
+- **Conferido (14h32):**
+  - **Bate:** a aula 55 (1:11:28 a 1:11:41) está lá. Mas ela diz o contrário da conclusão dele: "postei 30 vídeos ali, tá tudo zerado, 40, 50, quando tá ferrada aí você troca; **mas tá passando de 200, 300 ali, mano, tem o vídeo que tem que melhorar**". A Página da Nora passou de 200 em 5 dos últimos 9 vídeos (nora58 328, emp1211 213, nora62 231, nora65 235, nora60 199) e fez 4.242 com o tsunami (nora55), com a mesma restrição de países. Pela aula, a Página não está condenada, e 2 vídeos abaixo de 30 não bastam para trocar.
+  - **Contradiz uma regra nossa:** compartilhar o story do Insta no Face exige ligar as contas, e a Nora nunca liga Insta e Face (o Garbellotto perdeu as duas juntas). O story do Face continua sendo postado direto na Página.
+  - **Reabre uma decisão:** o link na seção "Sobre" da Página foi adiado em 07/11 (R4: "o Allan diz que pode depois do aquecimento, mas quase ninguém clica lá"). A Página já passou do aquecimento há semanas.
+  - **Sem como conferir:** as aulas 11, 13, 25, 35, 51, 53 e a Estrutura Facebook.
+- **O que entra (decisão minha, 14h32):**
+  - **O link no comentário fixado fica** (o nosso texto já é limpo: "Your 2027 reading is right here 🔮 👉 link").
+  - **O link na seção "Sobre" da Página entra**, se o aluno topar: 0 crédito, a Página já passou do aquecimento, e o Face está sem clique há 2 dias. Usa o link FACE inteiro, sem encurtador.
+  - **Não ver os vídeos pela Página** (já é regra desde 15/11).
+  - **Página nova: não agora.** A régua é a da aula 55 (dezenas de vídeos presos em 40 a 50). O teste limpo é o tsu1611 de hoje (o tsunami que fez 4.242 nesta Página) com ~24 h: se ele também ficar abaixo de 50, aí a troca entra em discussão com o aluno.
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 
