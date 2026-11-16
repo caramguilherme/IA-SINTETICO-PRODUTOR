@@ -1164,3 +1164,15 @@ Arquivos: `HISTORICO-DISCORD/chat-appyon_12-11-madrugada.md`, `vitorias-dolar_12
   2. **Palavras americanas:** entram no próximo corpo novo e nos próximos Take 1, dentro das nossas regras (sem medo e sem Take 1 de dinheiro, R57): "cash" no lugar de "money" no corpo, e referências do calendário dos EUA (Thanksgiving em 26/11, "the holidays", "this Christmas"). O corpo A de hoje fica como está (passou no filtro do Flow e é o corpo base da pirâmide).
   3. **É um efeito de 15 a 20 dias, não de um vídeo:** a régua é a % da Índia na média da semana (hoje: 0h24 com 1,6%, 20h22 com 13,7%, o loop de dia com 53,8%).
 - **Quem responder:** só uma reação (🔥) na mensagem dele; a DM de hoje (09h41) já está com ele.
+
+### 16/11/2026 12h45 - Respostas nas DMs: Pedro⚡, Caio1094, Lari e Marcelo (prints do aluno)
+- **Pedro⚡ (1ª venda em 15/11, 11h38):** posta entre 17h e 0h, a cada 1 a 2 h; a única mudança de cenário foi **a bandeira dos EUA em todos os vídeos, no fundo e visível** ("se faço a avatar num jardim, coloco a bandeira no fundo").
+- **Caio1094 (10h30 e 10h32):** põe mais corpo no vídeo (1min40 a 2min40); indicou o perfil de uma avatar com hooks de polvo e copies longas (é o viral do polvo que o Gustavo mostrou no Scoped na call de 09/11, 0:06:26; o @ ele não sabe); **lateralizar = pegar o vídeo de mais views e pôr "um gancho antes do gancho", mantendo o corpo**; a 1ª venda dele veio com ~25 dias.
+- **Lari (12h31):** está "espionando fora dos conteúdos da Appyon".
+- **Marcelo (14/11, visto hoje):** ainda não viralizou nada com vários formatos; quer trocar ideia sobre formatos e pediu o WhatsApp do aluno.
+- **Para a Nora (decisão minha):**
+  1. **A bandeira nos vídeos de hoje fica nos 2 lugares:** no fundo e visível (Pedro): na cozinha do Folgers, uma bandeirinha dos EUA num pote na prateleira ou na janela; na praia da onda, a torre de salva-vidas com a bandeira americana ao fundo (comum nas praias dos EUA); e o broche na roupa (Caio). Vai no painel.
+  2. **"Gancho antes do gancho" no vídeo de mais views:** é o empilhamento que a Nora já faz no Face (emp1211; o tsu1611 de hoje é o tsunami do vídeo de 4.236 com outro corpo). No Insta, entra na fila: um pré-gancho novo antes do tsunami do nora49 (2.043 views), com o corpo A sem o "listen before 11:11… don't tell anyone" (P42).
+  3. **Corpo mais longo:** os nossos falados ficam em 40 a 60 s (R54); quem vende vai a 1min40-2min40. Só depois que o corpo segurar mais gente aos 10 s faz sentido alongar.
+  4. O horário do Pedro (17h a 0h) bate com o nosso (19h30 e 0h); o volume dele (a cada 1 a 2 h) espera a resposta sobre quantos perfis.
+  5. Marcelo: trocar ideia com quem está no mesmo nível ajuda pouco; o WhatsApp é decisão do aluno.

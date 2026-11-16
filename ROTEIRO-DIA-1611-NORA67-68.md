@@ -10,6 +10,10 @@
 - **Hipótese:** um hook de evento grande (a onda que quebra atrás dela, com ela calma) segura mais nos 3 s e entre os 3 e os 5 s que um ritual de bancada (o Folgers). Medida: % nos 3 s e a curva aos 5 s. O resto é igual nos dois (o corpo, o CTA, a edição, o estilo).
 - **O que muda contra o nora66, igual nos dois vídeos:** as palavras americanas no corpo (a régua é a % da Índia na semana, 15 a 20 dias); a bandeira (o broche na roupa); a tela dividida alternando com a tela cheia (medida aos 10 e aos 20 s); a faixa com o cadeado; o gesto de apontar curto (~0,8 s, com algo se mexendo na cena; o nora66 perdeu metade das pessoas entre 3 e 5 s, no gesto parado).
 
+## A bandeira dos EUA (Caio1094 e Pedro⚡, 16/11)
+- **No fundo e visível (Pedro):** no Folgers, uma bandeirinha dos EUA num pote na prateleira ou na janela da cozinha; na onda, a torre de salva-vidas com a bandeira americana na areia, ao fundo.
+- **Na roupa (Caio):** um broche pequeno da bandeira dos EUA no peito, nos dois.
+
 ## As falas (≤ 22 palavras; números por extenso)
 | Take | nora67, Folgers (19h30) | nora68, a onda (0h00) |
 |---|---|---|
