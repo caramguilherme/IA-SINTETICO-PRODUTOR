@@ -1200,3 +1200,9 @@ Arquivos: `HISTORICO-DISCORD/chat-appyon_12-11-madrugada.md`, `vitorias-dolar_12
 ### 16/11/2026 18h27 - Fórum: o aquecimento automático do Instagram no GeeLark (os 2 posts que o aluno trouxe; `MATERIAIS-FORUM-AQUECIMENTO/`)
 - O passo a passo, os erros, o custo e o risco estão no `LEIA.md` da pasta.
 - **Para a Nora (decisão minha; o aluno decide se liga):** testar leve, só no Insta e antes de postar: 1 tarefa de 25 vídeos (~12 min) começando às 19h05 e às 23h35, com uma palavra do nicho por tarefa (manifestation, law of attraction, tarot reading, astrology 2027, spiritual awakening). Gasta ~25 min de GeeLark por dia. Antes, conferir se o app do Insta está em inglês. O Face fica à mão.
+- **Revisto às 18h40, com os 4 vídeos do fórum (a aula do #godmode, o victor, o Kaike e a Manu), vistos e transcritos:**
+  - A versão atual repete sozinha: o plano "Diariamente" vale por uma semana.
+  - Cada rodada de ~25 vídeos leva de 23 a 33 min, não 12.
+  - A proposta passa a ser 2 planos de 17 a 23/11: "01 - 18:50", com 22 vídeos (manifestation), e "02 - 23:20", com 25 (law of attraction).
+  - Gasta ~50 a 60 min de GeeLark por dia e pede o pacote de 2.000 min. Conferir os Registros todo dia.
+  - **Não muda nada nos painéis de hoje.**

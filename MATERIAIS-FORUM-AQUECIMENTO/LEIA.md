@@ -12,7 +12,7 @@ O aluno perguntou no #chat-appyon como fazer a automação de aquecimento (15h16
 - o tutorial do Kaike de Lima, fixado pelo Gustavo (2min33);
 - o vídeo da Manu Torres sobre a Página do Face (33 s).
 
-Ficaram em `videos/`. Os dois pequenos são os originais; a aula (135 MB) e o do victor (33 MB) estão comprimidos, porque o GitHub não aceita arquivo acima de 100 MB, e os originais seguem no Drive do aluno (https://drive.google.com/drive/folders/18iybA2cevHveTD8iCXB0j4ngbnQTiG68). As telas, de 8 em 8 segundos, estão em `videos/quadros/`, e as transcrições inteiras em `TRANSCRICOES/2026-05-1x-forum-aquecimento-geelark-videos.md`. O que eles mudam está na seção "O que os vídeos mostram", abaixo.
+Ficaram em `videos/`. Os dois pequenos são os originais; a aula (135 MB) e o do victor (33 MB) estão comprimidos, porque o GitHub não aceita arquivo acima de 100 MB, e os originais seguem no Drive do aluno (https://drive.google.com/drive/folders/18iybA2cevHveTD8iCXB0j4ngbnQTiG68). As telas, de 8 em 8 segundos, estão em `videos/quadros/`, e as transcrições inteiras em `TRANSCRICOES/2026-05-16-forum-aquecimento-geelark-videos.md`. O que eles mudam está na seção "O que os vídeos mostram", abaixo.
 
 **Ficou sem ler:** o post da Mari, "Aquecimento AUTOMÁTICO de Facebook", porque não veio.
 
@@ -48,10 +48,41 @@ Ficaram em `videos/`. Os dois pequenos são os originais; a aula (135 MB) e o do
   - o Felps já disse que aquecer antes de postar aumentou a conversão dele (22ª leitura).
 - **No Face:** existe o "Facebook Reels Account Warm-up" (GeeLark 4.3.9), mas o Delian avisa que o Face pode ver a conta "uma hora no Brasil, outra na China, outra nos EUA" e prefere aquecer o Face na mão. A Página é aquecida uma por uma.
 
-## O que serve para a Nora (decisão minha; o aluno decide se liga)
-- **O celular dela serve:** o "#4 GeeLarkPhone|Nora" tem Android 15 e o proxy de Los Angeles (`FATOS-DO-ALUNO.md`). Falta só conferir se o app do Insta está em inglês (não está anotado no projeto).
-- **Como testar, leve e só antes de postar:** 1 tarefa de **25 vídeos (~12 min)** que termine antes de cada post do Insta: começa às **19h05** para o das 19h30 e às **23h35** para o da 0h00. Usar **uma palavra por tarefa**, em inglês e do nicho do Manifestation, trocando a cada vez: manifestation, law of attraction, tarot reading, astrology 2027, spiritual awakening. Criar a tarefa na hora, sem agendar dias.
-- **O custo:** ~25 min por dia, além dos ~40 min de uso normal. O pacote de 06/11 (766 + 60 bônus) já ia até ~26/11 sem isso; com o aquecimento, acaba antes. Comprar o pacote de 2.000 min (US$ 14 a 15) quando passar de ~300.
-- **A conta da Nora tem mais de um mês e posts no ar:** o risco é menor que o de uma conta de 3 dias com 100 vídeos, e 25 vídeos por vez ficam bem abaixo do que derrubou o Marcos Daniel.
-- **O Face fica de fora:** a Página está no perfil pessoal do aluno, aberto no PC; logar esse perfil no GeeLark com o IP de Los Angeles é o risco que o Delian descreve.
-- **Fora:** a automação de curtir e comentar e a postagem automática. Postar é sempre ao vivo, à mão, e agendar derruba a entrega (seção 2 do `CLAUDE.md`).
+## O que os vídeos mostram (vistos e transcritos em 16/11 18h40)
+- **A aula do #godmode (joanfran.co, 16/05) corrige o "não repete sozinho":**
+  - Na tela em português: Automação > Marketplace > "Aquecimento de conta do Instagram com IA" (o nome em português do "Instagram AI account warmup") > criar tarefa recorrente.
+  - Em "Definir tempo em lote", ele escolhe **Frequência: Diariamente**, desliga o "Horário de publicação aleatório", põe o **Tempo de execução** (a hora) e a **Hora de início e de término** (17/05 00:00 a 23/05 00:00, uma semana). Assim, "vai ser postado diariamente".
+  - Ele dá ao plano um nome com o número e a hora, nas Observações ("05 - 13:00"): "vocês são uma empresa".
+- **Nada de 100 vídeos de uma vez:** "não é uma atividade muito suspeita… sempre 100 vídeos de uma vez só no dia? … Atividades em comum é shadow ban" (1:39 a 1:54).
+  - Ele usa **20 a 30 vídeos por rodada**, com um número diferente em cada celular (23, 24, 25): "sempre bom que seja aleatório pra não virar uma atividade comum".
+- **"Fractais de aquecimento e de pré-postagem" (3:38 a 4:06):**
+  - São 5 rodadas na manhã: 6h, 7h45, 9h20, 12h e 13h.
+  - A última termina antes de ele postar à mão, depois das 13h: "quando você for postar, a sua conta está aquecida".
+  - Ele aquece todo dia, mesmo a conta que já está aquecida.
+- **Quanto tempo leva (a tela de Registros da aula, 16/05):**
+  - O teste das 21h22 levou de **23 a 33 min por celular**, para ~25 vídeos;
+  - as rodadas das 19h40 levaram de 10 a 13 min;
+  - 2 celulares deram "Not logged in" em 27 s.
+- **O Kaike (10/05):**
+  - O mesmo caminho em inglês, com o **Keyword manager**: ele cria um grupo de palavras ("CARTOMANTE", com soulmate e outras) e escolhe o grupo no SearchKeyword.
+  - Com 100 vídeos, os Registros dele mostram **36 a 40 min** por conta.
+- **O victor rhea (10/05):** o mesmo caminho, com 30 vídeos, o grupo "astrology", 3 celulares (Android 15) e "Waiting for execution" nos Logs.
+- **A Manu (13/05):** filmou a Página dela ("Selena Tarot Cards") no PC, entrando no Reels como a Página e assistindo e curtindo os vídeos de cartomante até o fim. Pergunta: "é isso o aquecimento da Página?". A resposta do Delian está no post: a Página se aquece uma por uma, e ele faz o Face na mão.
+- **Conferência com o post:**
+  - O custo do Marcos Passold (25 a 30 vídeos = 11 a 13,5 min) fica abaixo do que a aula mostra (23 a 33 min para ~25 vídeos). Conto com **~25 a 30 min por rodada de 25 vídeos**, o número maior.
+  - O "não repete sozinho" do Delian (10/05) era da versão antiga, ou de quem não usou o "Diariamente".
+
+## O que serve para a Nora (decisão minha, revista em 16/11 18h40 com os vídeos; o aluno decide se liga)
+- **O celular dela serve:** o "#4 GeeLarkPhone|Nora" tem Android 15 e o proxy de Los Angeles (`FATOS-DO-ALUNO.md`). Antes, conferir se o app do Insta está em inglês (não está anotado no projeto).
+- **O plano, só no Insta, programado uma vez por semana (o método da aula, em versão leve):** 2 planos "Diariamente", de 17/11 00:00 a 23/11 23:59, com o "Horário de publicação aleatório" desligado:
+  - **"01 - 18:50"**, com **22** vídeos e a palavra **manifestation**. Termina antes do post das 19h30.
+  - **"02 - 23:20"**, com **25** vídeos e a palavra **law of attraction**. Termina antes do post da 0h00.
+  - Os números são diferentes entre os planos, como a aula pede, e ficam bem abaixo dos 100 de uma vez.
+  - Na semana seguinte, outras palavras (tarot reading, astrology, spiritual awakening) e outros números.
+- **Conferir todo dia em Registros** ("Confie... mas cheque"):
+  - Se o horário agendado sair diferente do de Brasília, ajustar. O relógio do celular dela é BRT −4 h (`FATOS`), e não sei qual relógio o GeeLark usa no agendamento.
+  - Não abrir o celular dela enquanto a rodada roda (18h50 a ~19h20 e 23h20 a ~23h50).
+- **O custo:** ~50 a 60 min de GeeLark por dia, além do uso normal. Com isso, o pacote de 06/11 (766 + 60) acaba antes de 26/11: comprar o de 2.000 min (US$ 14 a 15) quando passar de ~300 (`Faturamento`).
+- **O risco:** a conta da Nora tem mais de um mês e posts no ar. O que derrubou a conta do Marcos Daniel foram 50 a 100 vídeos por vez numa conta de 3 dias. Aqui são 22 a 25 por vez.
+- **O Face fica de fora:** a Página está no perfil pessoal do aluno, aberto no PC, e logar esse perfil no GeeLark com o IP de Los Angeles é o risco que o Delian descreve. No Face, o aquecimento é à mão, como a Manu: entrar no Reels como a Página, ver até o fim e curtir 5 a 10 vídeos do nicho antes de postar (opcional).
+- **Fora:** a automação de curtir e comentar e a postagem automática. Postar é sempre ao vivo, à mão (seção 2 do `CLAUDE.md`).
