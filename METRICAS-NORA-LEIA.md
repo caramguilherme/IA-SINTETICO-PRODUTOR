@@ -755,6 +755,15 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
   - Curva colada no reel típico; retenção ~50% aos ~2 s, ~15% aos ~5 s e ~5% aos 8 s.
   - **Leitura:** a janela das 20h dá o público certo (EUA no topo, Índia abaixo de 20%), mas **abrir na Nora falando com a carta, sem hook visual, segurou menos nos 3 s que os rituais com produto** (canela 42,5%, os tsunamis 66% a 71%). Confirma a regra da seção 2: no Insta o vídeo sempre abre com um hook visual (R51). A carta sem ritual (o viral 51.1) sai da fila de aberturas do Insta; o nora66 (o sal) é que diz se o hook de ritual na mesma cena segura o corpo.
 
+- **16/11/2026 12h34, Insta nora66 (o sal, hook de 4,8 s + a Nora falando na mesma cena + 7 imagens do desejo; 16/11 00h24, ~12h10; Insights do aluno):**
+  - **122 views, 110 viewers, 47,3% nos 3 s, tempo médio 6 s em 42 s, 1 visita ao perfil, 0 follows, 1 comentário (0,9%), 0 curtidas.**
+  - **Países: EUA 59,8%, Canadá 18%, Austrália 3,3%, Índia 1,6%: o melhor público da conta até hoje** (a janela da 0h24 funciona). 45+ = 49,6%.
+  - **A curva (lida no gráfico):** ~50% aos 3 s, ~34% aos 4 s, **~24% aos 5 s**, ~15% aos 7 s, **~9% aos 10-11 s**, **~3% aos 20 s**.
+  - **Pela régua da R55:** aos 5 s abaixo de 30% e aos 20 s abaixo de 10%. **Mas a queda começa antes da fala:** metade dos que passaram dos 3 s sai entre 3 e 5 s, no último corte do hook (ela apontando parada para a lente, de 3,2 a 4,8 s, o "gesto parado de 1,2 a 1,5 s" da R51) e no começo do T01. Na canela (nora63), sem esse gesto mas com a troca de cenário, a curva foi quase a mesma (~25% aos 5 s, ~10% aos 10 s). **O que os dois têm em comum é o fim do ritual: a ação acaba e nada novo acontece antes da fala.**
+  - **As imagens do desejo** entraram aos 7,3 s, quando só ~15% ainda assistiam: não dá para medir o efeito delas (aos 10 s, igual ao nora63).
+  - **O corpo** quase não chegou a ser testado (~9% aos 10 s): compactar o corpo não resolve o que acontece antes dele.
+  - **Para hoje:** o teste do Folgers (ritual) contra a onda no rochedo (evento grande, a água continua se mexendo atrás dela enquanto ela aponta) é exatamente a comparação que falta. Proposta: nos dois, o gesto de apontar curto (~0,8 s), com algo se mexendo na cena, e o T01 começando no impact.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
