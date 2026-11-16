@@ -747,6 +747,8 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
   - tsu1611 com 2 min: 4 views. nora65-FACE 235 (sem mudança desde 15/11 20h30); o loop 31; nora55 4.242.
   - **Leitura:** com 12 h ainda não é a régua (~24 h), mas o padrão dos 3 dias é o Face entregar menos de 30 views a 3 de 5 vídeos (nora63, loop, nora66). Pode ser o Face lendo o tema do ritual como repetido, ou a Página com distribuição baixa; o print do Status da conta da Página (Recomendações) segue pedido. **Nada muda agora:** a régua do tsu1611 (o tsunami, que já fez 4.236) com ~24 h diz se o problema é o tema ou a Página.
 
+- **16/11/2026 12h29, Insta (grade do perfil; print do aluno):** nora66 122 views (~12h05), nora65 146 (~16h07), o loop 2.210 (parou: eram 2.204 com ~24 h), nora63 159, nora60 182, nora59 152. Os falados seguem entre ~120 e ~180; a decisão sai do Insights do nora66 (a curva aos 5, 10 e 20 s, a régua da R55) e do nora65. (A linha do nora65 no Insta faltava no CSV: criada agora.)
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
