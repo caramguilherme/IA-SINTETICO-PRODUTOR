@@ -24,7 +24,7 @@
 
 ## Próximos testes (nesta ordem; detalhe em CLAUDE.md seção 2, "Ordem dos testes")
 1. **A faixa do story com o campo trancado** ("Your 2027 reading: 🔒 / tap my photo"). 0 crédito, na edição. Fonte: quadro da aula 18, `MATERIAIS-CALL-02-06/LEIA.md`. **Aprovada pelo Clone na R55: entra nos falados de 16/11.** O 🔒 não existe na Poppins: desenhar o cadeado na edição.
-2. **A tela dividida alternando com a tela cheia** (a próxima variação da edição dopaminérgica, se a curva do nora66 pedir): a Nora falando numa metade (em cima ou embaixo) e a imagem do desejo na outra, mesclando com a imagem ocupando a tela toda. No nora66 a Nora sumiu da tela por ~25 s.
+2. **A tela dividida alternando com a tela cheia. Aprovada pelo aluno em 16/11 ~08h50 ("pode ser um teste pra fazermos também"); a ferramenta está pronta (`montar_desejo.py`, testada no nora59). Entra nos 2 falados de 16/11 (o Folgers às 19h30 e a onda à 0h00), igual nos dois, para a comparação dos hooks continuar limpa; mede-se aos 10 e aos 20 s contra o nora66 (só tela cheia).** a Nora falando numa metade (em cima ou embaixo) e a imagem do desejo na outra, mesclando com a imagem ocupando a tela toda. No nora66 a Nora sumiu da tela por ~25 s.
    - **Fonte:** aula 12 (0:27:18 a 0:28:27): "vai ficar mesclando entre avatar na tela e o take, a cena ocupando 100% da tela"; "o avatar na tela, a tela dividida chamativa e o efeito sonoro… os nossos hook rates aumentaram". Lembrada pelo Clone na R58.
    - 0 crédito, na edição; uma variável só.
 3. **O pedido de compartilhar**, só no Insta. Fonte: o costume do Lucas Dusi, 13/11. **A fala termina num comando só (R54): o compartilhar, se entrar, vai depois do CTA ou só na legenda.**
@@ -91,7 +91,7 @@
   - "toda linha vende a próxima" na revisão das falas.
 
   A edição rende menos que gancho novo ("se eu só ficar colocando efeito sonoro… o potencial de escala vai ser muito menor do que 10 novos ganchos"). Fonte: aula de variações, ~10/07.
-- **A variação do Face mais forte (o método do AutoEditor):** além do espelho, do brilho e do 1,1x que o `variacao_face.py` já faz, uma mudança leve de matiz (HSL) e tirar os metadados do arquivo. Fonte: `PLANO-MVM` (HSL de 10% a 15%); R58. **Espera o "pode" do aluno.**
+- **Feito em 16/11 ("quero sim"): a variação do Face mais forte (o método do AutoEditor):** além do espelho, do brilho e do 1,1x que o `variacao_face.py` já faz, uma mudança leve de matiz (HSL) e tirar os metadados do arquivo. Fonte: `PLANO-MVM` (HSL de 10% a 15%); R58. No `variacao_face.py` desde 16/11 08h53.
 - **Garimpo na Biblioteca de Anúncios**, classificada por total de impressões, só vídeo e só inglês ("manifestation", "law of attraction", "2027", Astroline, Nebula). Nunca copiar quem vende Appyon. Fonte: quadro da aula 18.
 
 ## Pistas para investigar
@@ -117,8 +117,8 @@
 - **Volume:** a aula 18 diz "o máximo"; no Insta vale a recuperação de 2 por dia (Clone R35 a R38); a Jéssica e o Kobata dizem que produzir demais derrubou as vendas.
 
 ## Esperando resposta ou decisão
-- **Do aluno:** o "pode" para a variação do Face mais forte (HSL e metadados); o print do Status da Página. (Crédito do Flow: nunca perguntar; ele avisa quando acabar, regra de 16/11.)
-- **Dos números:** a curva do nora66 aos 5, 10 e 20 s (~12h40 de 16/11) decide se a próxima variação da edição é a tela dividida.
+- **Do aluno:** o print do Status da Página. (Crédito do Flow: nunca perguntar; ele avisa quando acabar, regra de 16/11.)
+- **Dos números:** a curva do nora66 aos 5, 10 e 20 s (~12h40 de 16/11) é a régua da tela cheia, contra a qual a tela dividida (16/11) será medida.
 
 ## Fora (e por quê; não propor de novo)
 - **Depoimento, cliente, casal, número de atendidas, credencial ou preço inventados:** HONESTIDADE. Inclui a pasta "Social Proof: AuralyApp", que são posts de casal gerados por IA, e o UGC do Hint.

@@ -19,6 +19,14 @@ description: Use quando o Guilherme mandar um vídeo da Nora montado sem texto (
 >   - nota de dinheiro só na versão do Insta;
 >   - o texto (legenda e números) fica por cima da imagem.
 >
+> - **tela dividida (desde 16/11, teste aprovado pelo aluno: "pode ser um teste pra fazermos também"; aula 12, 0:27:18):** `ferramentas-painel/ferramentas/montar_desejo.py config.json` põe as imagens dentro da base em `"modo": "cheia"` ou `"dividida"`:
+>   - na dividida, a Nora continua falando na metade de cima (recorte 1080x960 a partir de `nora_y0`, padrão 110 px) e a imagem entra na de baixo, com a mesma animação;
+>   - alternar dividida e cheia nos primeiros 15 a 30 s ("vai ficar mesclando entre avatar na tela e o take, a cena ocupando 100% da tela");
+>   - **a dividida só depois que a caixa do topo sai** (a caixa fica em 9% a 19% da altura e cobriria os olhos dela na metade de cima; conferido em 16/11);
+>   - a legenda fica por cima da imagem, na metade de baixo;
+>   - substitui o `montar_bases_nora66.py` nos vídeos novos (os mesmos cortes secos e o quadro a mais).
+> - **variação do Face (desde 16/11, "quero sim" do aluno):** o `variacao_face.py` também gira o matiz de 3 a 6 graus, aproxima 2% a 3,5% com recorte sorteado e tira do arquivo os metadados, a marca do codificador e as SEI do x264 (o método do AutoEditor do Gustavo). O sorteio sai impresso. Peça que passa pelo CapCut depois (o POV com a música) volta com os dados do CapCut: aí vale só a cor e o recorte.
+>
 > O que estiver abaixo e contradisser isso (os estilos por cena do passo 6b, o Trustpilot antes do CTA em "Não fazer") vale só para vídeos antigos.
 
 O aluno manda o `noraNN-montado` (hook + takes + música, sem texto). Eu ponho tudo por cima pelo painel do vídeo, sem mexer no áudio, e devolvo o `noraNN-final`. Ele não precisa escrever nada: o número no nome diz o painel.
