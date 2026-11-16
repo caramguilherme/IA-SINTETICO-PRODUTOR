@@ -770,6 +770,13 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
   - Face: 0 nos dois dias. Desde 27/10: ~38 cliques, ~17 terminaram o quiz, 0 checkout.
   - **Leitura:** quem clica termina o quiz, mas ninguém chega ao checkout. É mais um motivo para o teste de cliente oculto de hoje, dentro dos apps, até depois dos 16 min da VSL (o bug do botão invisível no navegador do app, 21ª leitura).
 
+- **16/11/2026 18h02, Face (Biblioteca de Conteúdo, print do aluno das ~18h):**
+  - **tsu1611 (o tsunami curto do nora55 + o T02 a T05 do nora59, 12h22, ~5h40): 10 views, 7 visualizadores, 40% nos 3 s (4), tempo médio 5 s, −0,7x.** É o hook que fez 4.236 nesta Página (nora55, 11/11).
+  - **POV de amor de novo (nora61-VAR2-FACE, 14h28, ~3h30): 12 views, 9 visualizadores, 8,3% nos 3 s (1), tempo médio 2 s, −2,2x.** O mesmo POV fez 106 em 13/11.
+  - **nora66-FACE (o sal, ~18 h): 24 views, parado desde as 12h24.** nora65-FACE 235, o loop 31, nora63-FACE 14, nora62 231: sem mudança.
+  - **Leitura:** com ~6 h ainda não é a régua (~24 h), mas o sinal é forte: **um vídeo já provado nesta Página (o tsunami, 4.236) entrou com 10 views**, e os 3 s dele (40%) não são ruins. Quando o vídeo já provado também trava, o problema deixa de ser só o vídeo e passa a apontar para a distribuição da Página. Desde 14/11, 5 de 7 posts do Face ficaram abaixo de 35 views (nora63 14, loop 31, nora66 24, tsu1611 10, POV 12); só o nora65 (235, de madrugada) passou. A variação nova do Face (matiz, zoom e sem metadados, desde 16/11 08h53) não explica: o nora63 e o nora66 travaram antes dela.
+  - **Decisão:** (1) **o print do Status da conta da Página (Recomendações) passa a ser urgente** (pendente desde 14/11): se a Página estiver "não qualificada para recomendações", é a causa; (2) **a régua da R61 fecha amanhã ~12h20**, com o tsu1611 em ~24 h e as versões do Face das 19h30 e da 0h00 de hoje: se os 3 ficarem abaixo de 50, a troca de Página entra na conversa com o aluno (aula 55: dezenas de vídeos em 40 a 50; a Página já passou de 200 em 5 dos últimos 12); (3) hoje nada muda: os 2 vídeos da noite vão ao Face como no painel.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
