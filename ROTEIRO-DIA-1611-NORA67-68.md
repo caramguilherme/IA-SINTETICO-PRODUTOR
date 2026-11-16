@@ -84,3 +84,9 @@ T02: a mesa servindo todos (dividida) → as contas e as tarefas, nova (dividida
   - a lata está ao lado, com o rótulo legível e longe do rosto.
   - **O painel não muda:** o "segura" e a movimentação não falam de lado ("a mão que segura a caneca", "na mesma posição da imagem").
   - **Por que não as outras:** a 3ª não é a Nora (outro rosto); a 2ª sorri com os dentes à mostra (a fala começa melhor de boca fechada); a 1ª está mais aberta (da cintura para cima), com a outra mão meio escondida atrás da lata.
+- **16/11 18h57, `d1611-DESEJO-8-contas-e-tarefas` escolhida: a 4ª opção** (`ferramentas-painel/dia-1611/d1611-DESEJO-8-contas-e-tarefas-escolhida-opcao4.jpg`). Vai no T02, "juggling bills and errands", na tela dividida:
+  - é noite, com a luz quente do abajur, como o prompt pede;
+  - as mãos com a pulseira dourada separam os envelopes sem texto;
+  - as chaves do carro, a sacola de mercado e a caneca de café estão juntas no meio da imagem, então cabem no recorte da metade de baixo;
+  - o clima é cuidadoso, sem estresse.
+  - **Por que não as outras:** a 1ª tem 2 pessoas ao fundo, uma com a cabeça apagada (estranho); a 2ª é mais de dia, cheia de objetos, e tem uma letra na sacola; a 3ª ficou escura demais e mais pesada.
