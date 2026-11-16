@@ -1182,7 +1182,22 @@ Minha proposta, para você aprovar ou corrigir: amanhã, testar o Folgers às 19
 Qual das 3 e por quê? Qual caixa do topo e qual Take 1 para ela?
 
 No fim, separe: o que você mantém, o que muda e o que disse sem fonte."
-- **Resposta:** (a colar)
+- **Resposta (colada pelo aluno às ~21h25; ele se retratou nos 4 pontos):**
+  1. **O tsunami fica.** Nenhuma aula diz que o hook de tsunami derruba a conversão: foi extrapolação dele, a partir da crítica do Iorhan às copies negativas (aula 65, 0:20:05 a 0:34:45). As aulas defendem o gancho bizarro ou chocante para parar o scroll, se o body for bem trabalhado (aula 19, 0:04:25 a 0:13:10; aula 43, 0:18:18 a 0:34:46). E "o que valida no campo de batalha manda" (aula 28, 0:12:40 a 0:18:03; aula 69, 0:43:53).
+  2. **Sem efeito mágico de IA.** Ele admitiu a "incongruência gritante": raio, partícula e fumaça colorida saem toscos no Omni Flash. Vale o evento físico realista (água, rocha, luz do sol de verdade). Cita a aula 11 (0:50:16, "o véu é muito artificial") e as aulas 26 e 31 (perfis que parecem influenciadores reais).
+  3. **Os 55% a 65% da tabela:** "número inventado, não existe nas aulas".
+  4. **O Take 1 com dinheiro:** violou o pedido. O Take 1 fica na rotina física e emocional, sem dinheiro e sem alarme.
+  5. **A proposta foi aprovada:** o Folgers às 19h30 contra o evento grande à 0h00, com o mesmo corpo e o mesmo CTA (aula 28, 0:07:49 a 0:11:40).
+     - **A escolhida é a (a), a onda que quebra no rochedo atrás dela, com ela calma.** Ela já é validada (o tsunami), tira a fuga e o pânico, e ilustra "the worst is behind you" sem efeito falso.
+     - **A (b) e a (c) saem por agora:** o céu tende a sair estático no Flow, e a pedra rachando pode deformar as mãos.
+     - **Caixa:** "FOR TIRED WOMEN: / THE STORM ENDS TONIGHT".
+     - **Take 1:** "If you feel emotionally exhausted tonight, breathe: the heaviest storm is officially behind you."
+- **O que entra (decisão minha, 21h25):**
+  - **16/11 à 0h00, o nº 45** (a onda no rochedo atrás dela), com o Take 1 do Clone. A caixa do Clone e a minha ("THE STORM IS BEHIND YOU: / 2027 IS YOUR CALM") se decidem no roteiro.
+  - **As falas na mesma cena da praia** (R46): a imagem das falas é a mesma do hook.
+  - **No Face, este hook pode ir**, porque não é hook de produto: o tsunami fez 4.236 no Face (nora55). O Folgers vai ao Face sem o hook, como os rituais.
+  - **O tsunami volta a valer como hook validado**, e a regra "sem efeito mágico de IA" vale para todo pré-gancho (R51 e R57).
+  - Os prompts saem no painel, depois do "pode montar"; não preciso do prompt do Clone.
 
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.

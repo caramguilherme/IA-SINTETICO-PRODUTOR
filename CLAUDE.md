@@ -76,6 +76,13 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
 - **Dashboard:** para atualizar, editar o CSV, rodar `ferramentas-painel/dashboard/preparar_csv.py`, subir a cópia sem o BOM como asset e dar `update` em `datasets/metricas` (`source.url`, `source.name`, `updated`) com `if_version`; receita completa em `ferramentas-painel/dashboard/COMO-RECRIAR.md`.
 
 ## 4. Diário de decisões (as novas entram aqui, datadas; as anteriores a 14/11 estão em `HISTORICO-CLAUDE-MD.md`)
+- **15/11/2026 21h25, Clone R57 (cobrado pelas contradições da R56): ele se retratou nos 4 pontos.**
+  - O tsunami fica (nenhuma aula diz que ele derruba a conversão).
+  - Nada de efeito mágico de IA no pré-gancho; vale evento físico real.
+  - Os 55% a 65% eram inventados.
+  - Nada de Take 1 com dinheiro.
+  - **16/11:** o Folgers às 19h30 e, à 0h00, **o nº 45 (a onda que quebra no rochedo atrás dela, com ela calma)**. O Take 1 é "If you feel emotionally exhausted tonight, breathe: the heaviest storm is officially behind you.". As falas são gravadas na mesma praia. A versão do Face leva a onda, porque o tsunami fez 4.236 lá.
+  - Painéis só com o "pode montar" e o saldo do Flow.
 - **15/11/2026 21h18, a emoção do tsunami e os hooks de evento grande (Clone R56, perguntas do aluno):** os tsunamis seguraram de 66% a 71% nos 3 s, contra 40% a 43% dos rituais de bancada. Entram na fila o nº 45 (a onda que quebra atrás dela, sem a fuga), o nº 46 (o céu que se abre, com sol de verdade) e o nº 47 (a pedra que racha), todos sem brilho de IA. Saem a onda de choque, a chuva de cédulas e o papel que explode em luz. **Proposta para 16/11: o Folgers às 19h30 contra o nº 45 à 0h00, no lugar do Pompeian**, com o mesmo corpo e o mesmo CTA. O aluno decide. Contradições do Clone para cobrar: o tsunami no Face (R55), o brilho de IA (R51), os números sem fonte e o Take 1 de dinheiro.
 - **15/11/2026 21h08, Clone R55, o plano de 16/11 (o roteiro e o painel só com o "pode montar" e o saldo do Flow):**
   - **Insta:**
