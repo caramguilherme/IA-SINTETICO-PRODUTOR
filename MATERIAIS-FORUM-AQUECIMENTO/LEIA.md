@@ -6,13 +6,15 @@ O aluno perguntou no #chat-appyon como fazer a automação de aquecimento (15h16
 - `resumo-forum-aquecimento.md`: o resumo da skill.
 - `imagens/`: as 72 imagens do zip (passo a passo, logs, erros). As descrições estão nos .md, e não abri cada uma.
 
-**O que não deu para ver:**
-- a aula em vídeo do #godmode (`Aula_geelark_MVM.mp4`, 135 MB);
-- o vídeo do passo a passo do victor rhea (33 MB);
-- o tutorial do Kaike de Lima, fixado pelo Gustavo;
-- o .mov da Manu Torres, sobre a Página do Face.
+**Os 4 vídeos que tinham ficado fora do zip chegaram depois (16/11 ~18h30, pasta do Drive do aluno) e foram vistos e transcritos inteiros:**
+- a aula do #godmode (joanfran.co, 4min43);
+- o passo a passo do victor rhea (1min48);
+- o tutorial do Kaike de Lima, fixado pelo Gustavo (2min33);
+- o vídeo da Manu Torres sobre a Página do Face (33 s).
 
-Os 4 ficaram fora do zip, por tamanho ou porque são vídeo, e os links estão nos .md. Também não li o post da Mari, "Aquecimento AUTOMÁTICO de Facebook", porque não veio.
+Ficaram em `videos/`. Os dois pequenos são os originais; a aula (135 MB) e o do victor (33 MB) estão comprimidos, porque o GitHub não aceita arquivo acima de 100 MB, e os originais seguem no Drive do aluno (https://drive.google.com/drive/folders/18iybA2cevHveTD8iCXB0j4ngbnQTiG68). As telas, de 8 em 8 segundos, estão em `videos/quadros/`, e as transcrições inteiras em `TRANSCRICOES/2026-05-1x-forum-aquecimento-geelark-videos.md`. O que eles mudam está na seção "O que os vídeos mostram", abaixo.
+
+**Ficou sem ler:** o post da Mari, "Aquecimento AUTOMÁTICO de Facebook", porque não veio.
 
 ## Como faz (o post do Delian, 10/05)
 1. GeeLark > Automation > Marketplace > **"Instagram AI account warmup"** > Add.
@@ -25,7 +27,7 @@ Os 4 ficaram fora do zip, por tamanho ou porque são vídeo, e os links estão n
 - **O que a automação faz:** assiste vídeos inteiros e segue alguns perfis de vez em quando. Não curte nem comenta (para isso existe outra automação, que o Delian não acha necessária).
 - **As regras:**
   - não abrir o celular enquanto roda, senão falha; o GeeLark pode ficar minimizado;
-  - não repete sozinho, então é preciso criar a tarefa de novo a cada vez;
+  - no post do Delian, a tarefa não repete sozinha e é preciso criar de novo a cada vez. **A aula do #godmode mostra o contrário: na versão atual dá para escolher "Diariamente" e repetir por uma semana** (ver a seção dos vídeos);
   - o agendamento nem sempre funciona;
   - precisa de perfil de celular (não desktop), com proxy e Android 13 ou mais.
 - **Erros:**
