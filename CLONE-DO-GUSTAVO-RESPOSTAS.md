@@ -1272,6 +1272,41 @@ NÚMEROS (Insta)
 
 HOJE (falta só gerar): 19h30 o Folgers (ritual; Take 1 "If you spent all day carrying everything alone, this quiet moment is for you.") e 0h00 a onda que quebra no rochedo atrás dela, com ela calma (o Take 1 da sua R57). O mesmo corpo e o mesmo CTA nos dois; tela dividida (ela falando em cima, a imagem do desejo embaixo) alternando com tela cheia; a faixa do story com o cadeado. Algo muda antes de gerar?"
 
+- **Resposta da R59 (colada pelo aluno às ~13h04; texto inteiro em `CLONE-ORIGINAIS/2026-11-16-colagem-R52-a-R58.md`, resumo fiel):**
+  1. **O gesto:** concorda com ~0,8 s, com o corpo ainda se mexendo e a fala começando no impact, "sem nenhum frame de silêncio". Cita a aula 43 (0:23:26 a 0:23:39, "muito enrolão… tá caindo a moeda? Já transiciona"; 0:31:57, "eu sempre gosto de gancho de 3 a 4 segundos, quanto mais rápido, melhor") e a aula 54 (1:13:35, "começar já na ação").
+  2. **Os números:** só o 11:11 branco, num canto de cima. Cita as aulas 40 e 57 (o AutoEditor põe números discretos) e as aulas 12 e 65 (o Iorhan contra a poluição de estímulo). A quantidade exata é opinião, sem regra.
+  3. **Metadados:** não explicam; o rastreamento da Meta é de máquina, navegador, proxy e histórico dos ativos (aula 35, Ricardo). O loop subiu de dia com a Índia; o sal pegou o público americano, mais exigente, e perdeu gente no gesto parado.
+  4. **A bandeira e as palavras americanas:** aprovadas. Estrutura Instagram (1:22:27 a 1:22:50: "um broche com a bandeirinha dos Estados Unidos… tende a espalhar menos [pra Índia]"); aula 18 (especificidade, "butterflies in the stomach"). **A bandeira discreta:** broche na gola, caneca ou detalhe ao fundo; nada de bandeira grande na parede.
+  5. **O Face:** a aula 25 (página com 4 a 17 views "foi meio que sabotada… joga fora") e a aula 35 (o "score" do ativo: ações ignoradas, spam por link repetido em comentário). Diz que a carta e o bicarbonato abriram com a Nora de frente. Olhar as Recomendações da Página e **tirar por um tempo o comentário fixado com o link**.
+  - **Hoje:** o Folgers com o gesto de 0,8 s e a fala no impact; a onda com ela se virando e apontando; só o 11:11 branco; tela dividida; o cadeado.
+- **Conferido nas nossas transcrições (13h06):**
+  - **Bate:** a aula 43 (0:23:26 a 0:23:39 e 0:31:57, as duas frases estão lá); a Estrutura Instagram (1:22:27 a 1:22:50, o broche com a bandeirinha, palavra por palavra); a aula 18 tem as "borboletas no estômago" como expressão americana (o trecho de 1:11 fala de especificidade; "contas" e "aluguel" não estão lá).
+  - **Não bate:**
+    - **Aula 12, 0:24:41 a 0:27:55:** o Iorhan diz o contrário de "poluição": "Caprichem mais na edição… tela dividida, edição cinematográfica… o avatar na tela, a tela dividida chamativa e o efeito sonoro… os nossos hook rates aumentaram". E o "tanto estímulo" da aula 65 fala dos comandos antes do CTA, não de números na tela.
+    - **Aula 14:** não tem nada sobre a plataforma avaliar 1080x1920, o áudio e os 15 a 30 minutos.
+    - **O Face:** o bicarbonato no Face abriu com o hook do produto (28% nos 3 s) e fez 231; o sal abriu com a Nora falando e fez 24. A explicação da "Nora de frente" não cabe nos dados. E tirar o comentário com o link contradiz a R58 e a Estrutura Facebook que ele mesmo citou na R54 (0:38:13).
+    - **A R51 contra a R59:** a R51 mandou 4,5 a 5 s e o gesto parado de 1,2 a 1,5 s ("o cérebro precisa de um segundo inteiro"); agora concorda com 0,8 s e cita "3 a 4 s, quanto mais rápido, melhor" sem dizer que mudou.
+  - **Sem como conferir** (não temos a transcrição): aulas 25, 35, 40, 54, 57 e 69.
+- **O que entra (decisão minha, 13h06):**
+  - **O gesto de apontar ~0,8 s, com algo se mexendo, e a fala no impact:** vale para todo hook (bate com os nossos dados e com a aula 43). A seção 2 do `CLAUDE.md` e o `BIBLIOTECA-PRE-GANCHOS.md` mudam.
+  - **Só o 11:11 branco**, a partir de hoje (o aluno pediu, o Clone concorda; a fonte que ele deu não bate, mas a decisão é estética e do aluno). Muda o padrão da edição.
+  - **A bandeira discreta:** o broche e uma bandeira pequena ao fundo (no pote da prateleira; na praia, a torre de salva-vidas ao longe). As palavras americanas ficam.
+  - **O Face:** o comentário com o link fica (é o caminho do clique; o Face não deu clique em 2 dias, mas tirar o link corta a única saída). O que vale fazer já: o print das Recomendações da Página, pendente desde 21/10. O tsu1611 de hoje, o tsunami que já fez 4.236, com ~24 h diz se é a Página ou o tema.
+  - **As contradições voltam ao Clone na R60** (abaixo).
+
+## R60 (pergunta pronta em 16/11 13h06: as contradições da R59; resposta a colar)
+**Pergunta (~2.100 caracteres):** "Pergunta (16/11, 13h10): conferi a sua última resposta nas transcrições que eu tenho. Vou seguir o que bate com os dados (o gesto de 0,8 s, só o 11:11 branco, a bandeira discreta e as palavras americanas), mas 4 pontos não batem. Em cada um, me dê a aula e o minuto certos, ou diga que é opinião.
+
+1. A duração do hook. Agora você cita a aula 43 (0:31:57): "eu sempre gosto de gancho de 3 a 4 segundos, quanto mais rápido, melhor". Está lá mesmo. Mas na R51 você mandou 4,5 a 5 s, disse que os 3,8 s viravam "um borrão picotado" para o público de 45+ e mandou segurar o gesto de 1,2 a 1,5 s porque "o cérebro precisa de um segundo inteiro". O que vale para os hooks de hoje: ~4,1 s (1,6 + 1,6 + 0,8) ou mais curto?
+
+2. Os números na tela. Você citou a aula 12 (0:24:41 a 0:27:55) como o Iorhan alertando contra a poluição de estímulo. Na transcrição que eu tenho, nesse trecho ele diz o contrário: "Caprichem mais na edição… tela dividida, edição cinematográfica… o avatar na tela, a tela dividida chamativa e o efeito sonoro… os nossos hook rates aumentaram". E o "tanto estímulo que cadê a conversão" da aula 65 fala dos comandos (salvar, mandar pra si, 222) antes do CTA, não de números na tela. Qual é a fonte do "1 número só"?
+
+3. O Face. Você explicou que a carta e o bicarbonato passaram de 230 porque abriram com a Nora de frente. Mas no Face o bicarbonato abriu com o hook do produto (28% nos 3 s) e fez 231, e o sal abriu com a Nora falando, sem hook, e fez 24. E tirar o comentário com o link vai contra a sua R58 (no Face, o tráfego vai pelo comentário fixado) e contra a aula de Estrutura Facebook que você citou na R54 (0:38:13, o Gustavo fixando o link no comentário). Em que minuto está o "spam por link repetido do mesmo domínio"? Qual o teste certo para a Página?
+
+4. Metadados. Você citou a aula 14 dizendo que a plataforma avalia 1080x1920, áudio audível e a reação dos primeiros 15 a 30 minutos. Na transcrição da aula 14 não achei isso. De onde vem?
+
+No fim, separe o que mantém, o que muda e o que foi sem fonte."
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 

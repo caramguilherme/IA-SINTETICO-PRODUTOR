@@ -14,6 +14,11 @@
 - **No fundo e visível (Pedro):** no Folgers, uma bandeirinha dos EUA num pote na prateleira ou na janela da cozinha; na onda, a torre de salva-vidas com a bandeira americana na areia, ao fundo.
 - **Na roupa (Caio):** um broche pequeno da bandeira dos EUA no peito, nos dois.
 
+## O que mudou depois da R59 do Clone (16/11 13h06)
+- **O gesto de apontar:** ~0,8 s, com algo se mexendo (no Folgers, o vapor do café e ela puxando a xícara; na onda, a água atrás dela), e a fala começando no impact. O hook fica em ~4 s.
+- **Na tela, só o 11:11 branco** (o 888 e o 222 saíram).
+- **A bandeira discreta:** o broche na gola e uma bandeira pequena ao fundo (no pote da prateleira; na praia, a torre de salva-vidas ao longe), nunca grande na parede.
+
 ## As falas (≤ 22 palavras; números por extenso)
 | Take | nora67, Folgers (19h30) | nora68, a onda (0h00) |
 |---|---|---|
