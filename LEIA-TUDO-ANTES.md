@@ -35,6 +35,7 @@ Decisão do aluno em 18/10/2026: **antes de TODO roteiro novo e antes de TODO pr
 
 **O que já foi feito (para não repetir)**
 - `METRICAS-NORA.csv` (métricas dos vídeos, atualizar a cada leitura) · `METRICAS-NORA-LEIA.md` (diário das leituras) · `BIBLIOTECA-DE-TAKES.md` (nomes das peças e regras de reaproveitamento) · `DNA Visual - Nora v2.md`
+- O `ROTEIRO-DIA-1611-NORA67-68.md` (16/11: o Folgers às 19h30 contra a onda no rochedo à 0h00, o mesmo corpo com palavras americanas, a bandeira, a tela dividida e o cadeado; rascunho até o "pode montar"), o `ROTEIRO-DIA-1511-NORA66.md` (15/11, o sal Morton).
 - O `ROTEIRO-DIA-1411-NORA64-65.md` (14/11: o loop de 8 s sem fala e a Nora com a carta dourada desde o 1º quadro; gerador em `ferramentas-painel/dia-1411/`), o `ROTEIRO-DIA-1311-NORA62-63.md` (13/11: o bicarbonato no Face e a volta do Insta com a canela, sem data; gerador em `ferramentas-painel/dia-1311/`; fotos dos produtos em `ferramentas-painel/referencias-produtos/`), o `arquivo/roteiros/ROTEIRO-DIA-1211-NORA59-61.md` (12/11: o corpo novo "the hardest part is over" + 2027, o curto em 2 versões e o POV de amor; gerador em `ferramentas-painel/dia-1211/`), (os roteiros dos vídeos postados foram para `arquivo/roteiros/`: do nora36 ao nora49 e os testes do Face em 11/11; o do kit do portal, `ROTEIRO-KIT-PORTAL-NORA51-54.md`, e o do dia 11, `ROTEIRO-DIA-1111-NORA55-60.md`, em 13/11; o resumo de cada vídeo está na `BIBLIOTECA-DE-TAKES.md` e os números no `METRICAS-NORA.csv`) · `RESERVA-ROTEIRO-*.md` (os 2 de Manifestation)
 
 **Só quando o pedido envolver**
