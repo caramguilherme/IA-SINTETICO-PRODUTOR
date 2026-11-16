@@ -76,3 +76,11 @@ T02: a mesa servindo todos (dividida) → as contas e as tarefas, nova (dividida
   - ela tem as estrelinhas e o broche.
   - **Nenhuma das 4 saiu no close de cima que o prompt pedia** (o Flow fez plano médio). Para o corte não ficar com cara de pulo em relação à A, **eu aproximo ~1,3 a 1,5x no pires e na moeda na edição** (0 crédito).
   - **Por que não as outras:** a 2ª segura a moeda mais alta, em cima da caneca (risco de cair no café); a 3ª deixa a moeda colada na borda da caneca e a lata sem o rótulo; a 1ª já encosta a moeda no pires, sem as estrelinhas.
+- **16/11 18h51, `d1611-PRE-cafe-IMG-C` escolhida: a 4ª opção** (`ferramentas-painel/dia-1611/d1611-PRE-cafe-IMG-C-escolhida-opcao4.jpg`). É a imagem do vídeo 3 e de todas as falas:
+  - ela está de frente, do peito para cima, com o sorriso de quem sabe e os lábios fechados;
+  - tem as estrelinhas, o broche e a bandeira ao fundo;
+  - uma mão está em volta da caneca de café, e a moeda está no pires;
+  - a outra mão aparece inteira na borda do balcão;
+  - a lata está ao lado, com o rótulo legível e longe do rosto.
+  - **O painel não muda:** o "segura" e a movimentação não falam de lado ("a mão que segura a caneca", "na mesma posição da imagem").
+  - **Por que não as outras:** a 3ª não é a Nora (outro rosto); a 2ª sorri com os dentes à mostra (a fala começa melhor de boca fechada); a 1ª está mais aberta (da cintura para cima), com a outra mão meio escondida atrás da lata.
