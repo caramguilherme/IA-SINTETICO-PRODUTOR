@@ -300,3 +300,4 @@ Fora da numeração do nora. Peças com o nome do teste: `faceNN-IMG`, `faceNN-C
     - o overlay largava cada imagem 1 quadro antes e a Nora piscava: cada imagem ganhou 1 quadro no fim.
 
     Finais: `nora66-final.mp4` (46,9 s, 25,1 MB) e `nora66-final-FACE.mp4` (37,1 s, 20,2 MB).
+  - **21h07, `nora66-final-sem222.mp4` (Insta, 42,0 s, 22,9 MB), pela regra nova da R54 (o 222 sai da fala):** a base do Insta sem o T05. O corte vai de 36,0 a 40,833 s, com fade de 30 ms no áudio, e a emenda fica limpa ("…your abundance." → "Tap my photo…"). A faixa do story e a seta entram aos 36,0 s. Spec em `specs/spec-nora66-sem222.json`. A legenda do Insta continua pedindo o 222. É a versão recomendada para as 0h25.
