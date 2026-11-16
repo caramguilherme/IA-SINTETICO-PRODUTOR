@@ -1307,6 +1307,20 @@ HOJE (falta só gerar): 19h30 o Folgers (ritual; Take 1 "If you spent all day ca
 
 No fim, separe o que mantém, o que muda e o que foi sem fonte."
 
+- **Resposta da R60 (colada pelo aluno às ~13h25; texto inteiro em `CLONE-ORIGINAIS/2026-11-16-colagem-R52-a-R58.md`, resumo fiel): ele se retratou nos 4 pontos.**
+  1. **O hook:** os 4,8 a 5 s e o "gesto parado de 1,2 a 1,5 s porque o cérebro precisa de 1 segundo" da R51 foram **opinião sem fonte**, e os dados do sal desmentiram. **Vale: no máximo 3,5 a 4,0 s, em 3 tomadas de ~1,4 s + ~1,4 s + ~0,8 s (o gesto curto, com movimento), e a fala começando no impact (~3,6 a 4,0 s).** Fontes: aula 43 (0:30:46 e 0:31:57) e aula 28 (0:04:11, "os primeiros três, cinco segundos são os mais importantes").
+  2. **Os números:** "1 número só" é **opinião de direção de arte, não regra de aula**. As aulas 40 e 57 (o AutoEditor) usam números nos cantos ("não vai atrapalhar no vídeo"); 1, 2 ou 3 têm precedente. A aula 12 diz o oposto do que ele tinha citado (retratou).
+  3. **O Face:** retratou a explicação do bicarbonato (erro de leitura). **O link fixado no comentário fica** (Estrutura Facebook, 0:52:57); o risco de spam (aula 35, 0:20:38; Estrutura Facebook, 0:38:02: "enviando o link no comentário, mas em páginas novas, isso tá caindo como spam… eu mesmo não tô colocando mais") é de comentário automatizado e repetitivo em massa, não do comentário manual fixado. O que trava a Página é a amostra dos primeiros 10 a 20 espectadores; olhar a Qualidade da Página e a restrição de público.
+  4. **Metadados:** a aula 14 não tem a regra que ele citou; o "15 a 30 minutos" foi extrapolação sem fonte. O 1080p da aula 14 é técnico (renderização). A aula 35 fala de fingerprint de máquina e navegador; o AutoEditor muda pixel e HSL para fugir de conteúdo reutilizado (aulas 40 e 57).
+- **Conferido nas nossas transcrições (13h30):**
+  - **Bate:** a aula 43 (0:30:46, "de 4 segundos já estaria bom"; 0:31:57); a aula 28 (0:04:11; e 0:07:49 a 0:08:05, "isso aqui vai ser 5 segundos, 7, 10 segundos dependendo do gancho"); a aula 18 (1:14:46, "borboletas no estômago… uma expressão que o americano fala muito").
+  - **Ressalva (não vira pergunta agora):** o "5, 7, 10 segundos" da aula 28 é do **gancho empilhado** antes de um criativo base, e o tsunami campeão tinha ~7,9 s (cena contínua de evento grande). A regra de 3,5 a 4 s vale para o hook de ritual de bancada; hoje os 2 vão com a mesma duração (~3,6 s) para a comparação dos tipos de hook ficar limpa. Se a onda segurar bem, testar depois uma onda mais longa.
+  - **Sem como conferir:** as aulas 35, 40, 51, 57 e a Estrutura Facebook (não temos as transcrições). A frase do Gustavo sobre o link em página nova cair como spam merece atenção: ele mesmo diz que parou de pôr. Fica registrada; o nosso comentário é manual e um por post.
+- **O que entra (decisão minha, 13h30):**
+  - **O hook: 3,5 a 4,0 s, em 3 tomadas (~1,4 + ~1,4 + ~0,8 s) e a fala no impact.** Muda a regra da seção 2 do `CLAUDE.md` e do `BIBLIOTECA-PRE-GANCHOS.md`.
+  - **Os números:** fica só o 11:11 branco (escolha do aluno; as aulas aceitam 1, 2 ou 3).
+  - **O Face:** o comentário fixado com o link fica; o print da Qualidade/Recomendações da Página segue pedido ao aluno.
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 

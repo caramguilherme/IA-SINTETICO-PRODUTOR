@@ -15,7 +15,7 @@
 - **Na roupa (Caio):** um broche pequeno da bandeira dos EUA no peito, nos dois.
 
 ## O que mudou depois da R59 do Clone (16/11 13h06)
-- **O gesto de apontar:** ~0,8 s, com algo se mexendo (no Folgers, o vapor do café e ela puxando a xícara; na onda, a água atrás dela), e a fala começando no impact. O hook fica em ~4 s.
+- **O hook (Clone R60): ~3,6 s nos dois, em 3 tomadas de ~1,4 + ~1,4 + ~0,8 s**: o gesto de apontar curto, com algo se mexendo (no Folgers, o vapor do café e ela puxando a xícara; na onda, a água atrás dela), e a fala começando no impact. A mesma duração nos dois, para a comparação ser só do tipo de hook.
 - **Na tela, só o 11:11 branco** (o 888 e o 222 saíram).
 - **A bandeira discreta:** o broche na gola e uma bandeira pequena ao fundo (no pote da prateleira; na praia, a torre de salva-vidas ao longe), nunca grande na parede.
 
