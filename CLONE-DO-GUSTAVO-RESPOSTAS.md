@@ -1156,6 +1156,34 @@ Qual entra às 19h30 e qual à 0h00? Ou repito o sal com outro Take 1, para medi
   - **Fora:** a onda de choque (efeito puro de IA); a chuva de cédulas (dinheiro na tela e o Take 1 de dívida); o papel que "explode em luz" (o nº 43, com a chama real, continua na fila).
   - **Para 16/11:** o Folgers às 19h30 (o ritual) contra um hook de evento grande à 0h00, com o mesmo corpo e o mesmo CTA. Os 2 tipos de hook se comparam lado a lado, uma variável só.
 
+## R57 (pergunta pronta em 15/11 21h20, pedido do aluno: "como mandar pro clone a resposta?"; resposta a colar): as contradições da R56 e a escolha do hook de evento grande
+**Pergunta (~2113 caracteres):** "Pergunta (15/11, 21h20): sobre as 5 ideias de hook que você me deu, explique 4 contradições, com a aula e o minuto.
+
+1. O tsunami.
+- Agora você disse que o tsunami causa medo, destoa do funil e traz lead desqualificado, "como o Gustavo e o Iorhan dizem nas aulas de copywriting".
+- Mas na sua resposta anterior (o plano de amanhã) você mandou repostar o tsunami no Face às 12h.
+- Os meus números: os tsunamis fizeram de 66% a 71% nos 3 s no Insta (nora48: 1.638 views e 10 follows; nora49: 2.043 e 19; nora50: 1.678 e 17) e 4.236 views no Face.
+- O período deles (06 a 10/11) teve mais cliques no Tracker que o dos rituais de bancada (13 e 14/11: 1 clique por dia).
+Em que aula e minuto está que hook de tsunami derruba a conversão? O tsunami fica ou sai?
+
+2. O brilho de IA.
+- Hoje à tarde você mandou tirar a estrela de brilho da moeda, porque "efeitos artificiais baratos denunciam a IA e quebram a credibilidade".
+- Agora 4 das 5 ideias dependem de efeito de IA: o feixe de luz dourada, a onda de choque invisível, o papel que explode em luz e o brilho dourado líquido saindo da pedra.
+Como fica?
+
+3. Os números da tabela. Você estimou de 55% a 65% nos 3 s para os "ganchos cósmicos". De onde vem esse número?
+
+4. O Take 1 com dinheiro. Na pergunta do plano de amanhã eu pedi Take 1 "sem medo, sem prazo e sem prometer dinheiro". As ideias 3 e 5 trazem "your silent financial struggles end right here" e "If you've been drowning in bills all year". Isso vale?
+
+Minha proposta, para você aprovar ou corrigir: amanhã, testar o Folgers às 19h30 contra um hook de evento grande à 0h00, com o mesmo corpo e o mesmo CTA, numa destas versões realistas, sem efeito de IA:
+(a) a onda gigante que quebra no rochedo atrás dela enquanto ela fica de pé, calma, se vira e aponta para a lente (o tsunami sem a fuga, casado com "the worst is behind you");
+(b) o céu de tempestade que se abre com raios de sol de verdade;
+(c) a pedra que racha nas mãos dela, com cristais e flocos de ouro.
+Qual das 3 e por quê? Qual caixa do topo e qual Take 1 para ela?
+
+No fim, separe: o que você mantém, o que muda e o que disse sem fonte."
+- **Resposta:** (a colar)
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 
