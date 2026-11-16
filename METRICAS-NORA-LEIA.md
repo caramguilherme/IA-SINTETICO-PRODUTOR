@@ -737,6 +737,8 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
     - A R52 do Clone ("conta saudável") foi respondida só com o número de views. Os países vão na R53.
   - **O que fica:** a R53 ganhou estes números antes de ir ao Clone. A grade não muda hoje (nora66: Face 0h00, Insta 0h25).
 
+- **16/11/2026 00h26, postagens:** nora66 no Face à 00h00 e no Insta às 00h24 (o sal Morton, 1º com a edição dopaminérgica, sem o 222 na fala). O nora65 no Insta: 135 views com ~4h04 (o nora63 tinha ~43 com 1 h e 142 com ~9 h). Não se julga com 4 h; a leitura vem por volta das 12h40, com a curva do nora66 aos 5, 10 e 20 s (régua da R55: aos 20 s, acima de 20% = corpo aprovado).
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
