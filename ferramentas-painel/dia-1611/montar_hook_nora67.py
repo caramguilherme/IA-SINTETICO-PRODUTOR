@@ -5,8 +5,9 @@ Uso: python3 -I montar_hook_nora67.py <pasta com os 3 vídeos d1611-PRE-cafe-*> 
 
 Os cortes saíram da conferência quadro a quadro de 16/11 (ROTEIRO-DIA-1611-NORA67-68.md, Andamento):
 - 1-colher, 0,60 a 2,00 s: o café cai da colher na água e se espalha, com a lata do Folgers legível ao lado;
-- 2-moeda, 0,90 a 2,30 s, aproximado 1,25x na caneca: a mão solta a moeda e ela cai no café e afunda.
-  O vídeo segue e a moeda "atravessa" o vidro e aparece no pires a partir de ~2,6 s (erro do Flow): o corte para antes;
+- 2-moeda, 0,20 a 1,60 s, aproximado 1,25x na caneca: ela segura a moeda sobre a caneca, solta, e o corte vem com a
+  moeda ainda no ar (a 1ª versão, 0,90 a 2,30, mostrava a moeda boiando no café e depois atravessando o vidro: o aluno
+  reprovou, "sobrenatural… mostra ser algo feito com IA"; aula 43, 0:23:39: "tá caindo a moeda? Já transiciona");
 - 3-aponta, 1,75 a 2,55 s: ela tira a mão da caneca e aponta para a lente, com o gesto ainda andando (R59/R60).
 Áudio: só o ambiente dos clipes, com fade de 20 ms em cada emenda; o riser e o impact entram na edição final.
 """
@@ -17,7 +18,7 @@ import sys
 
 CORTES = [  # (parte do nome, início, fim, zoom)
     ('1-colher', 0.60, 2.00, 1.0),
-    ('2-moeda', 0.90, 2.30, 1.25),
+    ('2-moeda', 0.20, 1.60, 1.25),  # 16/11 19h20: corta com a moeda no ar (aluno: boiando no café parece IA; aula 43: "tá caindo a moeda? Já transiciona")
     ('3-aponta', 1.75, 2.55, 1.0),
 ]
 W, H, FPS = 1080, 1920, 30

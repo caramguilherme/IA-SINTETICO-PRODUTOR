@@ -1,0 +1,65 @@
+{
+ "entrada": "/tmp/claude-0/-home-user-IA-SINTETICO-PRODUTOR/6ef474f7-381e-57e0-a979-e45ed783b267/scratchpad/drive-nora67b/NORA67.mp4",
+ "saida": "/tmp/claude-0/-home-user-IA-SINTETICO-PRODUTOR/6ef474f7-381e-57e0-a979-e45ed783b267/scratchpad/ed67/ed/nora67-face-base.mp4",
+ "trechos": [
+  [
+   3.75,
+   30.083
+  ],
+  [
+   37.833,
+   43.1
+  ]
+ ],
+ "imagens": [
+  {
+   "arquivo": "/home/user/IA-SINTETICO-PRODUTOR/ferramentas-painel/dia-1611/desejo-1080/d1511-DESEJO-2-sorrindo-para-todos.jpg",
+   "ini": 5.35,
+   "fim": 7.25,
+   "modo": "dividida",
+   "foco_y": 0.5
+  },
+  {
+   "arquivo": "/home/user/IA-SINTETICO-PRODUTOR/ferramentas-painel/dia-1611/desejo-1080/d1611-DESEJO-8-contas-e-tarefas.jpg",
+   "ini": 7.25,
+   "fim": 9.1,
+   "modo": "dividida",
+   "foco_y": 0.55
+  },
+  {
+   "arquivo": "/home/user/IA-SINTETICO-PRODUTOR/ferramentas-painel/dia-1611/desejo-1080/d1511-DESEJO-3-sozinha-na-cama.jpg",
+   "ini": 9.1,
+   "fim": 11.45,
+   "modo": "cheia",
+   "foco_y": 0.5
+  },
+  {
+   "arquivo": "/home/user/IA-SINTETICO-PRODUTOR/ferramentas-painel/dia-1611/desejo-1080/d1511-DESEJO-5-paz-na-varanda.jpg",
+   "ini": 16.9,
+   "fim": 18.2,
+   "modo": "dividida",
+   "foco_y": 0.55
+  },
+  {
+   "arquivo": "/home/user/IA-SINTETICO-PRODUTOR/ferramentas-painel/dia-1611/desejo-1080/d1511-DESEJO-6-casal-na-praia.jpg",
+   "ini": 18.2,
+   "fim": 19.55,
+   "modo": "cheia",
+   "foco_y": 0.5
+  },
+  {
+   "arquivo": "/home/user/IA-SINTETICO-PRODUTOR/ferramentas-painel/dia-1611/desejo-1080/d1511-DESEJO-7-porta-abrindo.jpg",
+   "ini": 20.63,
+   "fim": 24.15,
+   "modo": "dividida",
+   "foco_y": 0.5
+  },
+  {
+   "arquivo": "/home/user/IA-SINTETICO-PRODUTOR/ferramentas-painel/dia-1611/desejo-1080/d1611-DESEJO-9-festas.jpg",
+   "ini": 24.15,
+   "fim": 26.3,
+   "modo": "cheia",
+   "foco_y": 0.5
+  }
+ ]
+}
