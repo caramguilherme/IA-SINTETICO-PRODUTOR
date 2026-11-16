@@ -97,3 +97,10 @@ T02: a mesa servindo todos (dividida) → as contas e as tarefas, nova (dividida
   - **Por que não as outras:** a 3ª tem a lareira colada na borda esquerda (o Face corta); a 4ª é aberta demais, com a árvore e o fogo pequenos para 1 a 2 s; a 1ª é mais escura, com o sofá gasto em primeiro plano.
   - **As 2 imagens do desejo novas estão escolhidas;** as outras 6 vêm do nora66.
 - **Atenção para a edição (16/11 18h57):** as 6 imagens do desejo que vêm do nora66 (`d1511-DESEJO-2` a `-7`) estão aqui só como recortes pequenos (~320x570), porque as originais ficaram no contêiner da 5ª conta. **Pedido ao aluno:** mandar as 6 em tamanho original, junto com o montado. Esticar o recorte para 1080x1920 deixaria a imagem borrada na tela cheia.
+- **16/11 19h03, recebidos pelo Drive:** os 3 vídeos do pré-gancho do Folgers (1080p, 6 s cada) e as 9 imagens do desejo em 2K. As imagens foram guardadas em 1080 de largura em `ferramentas-painel/dia-1611/desejo-1080/` para a edição dos dois vídeos.
+- **16/11 19h03, hook do nora67 montado** (`ferramentas-painel/dia-1611/d1611-PRE-cafe-HOOK.mp4`, 3,67 s; `montar_hook_nora67.py`):
+  - **0 a 1,4 s:** o café cai da colher na água e se espalha, com a lata do Folgers legível;
+  - **1,4 a 2,8 s:** aproximado 1,25x na caneca, a moeda cai no café e afunda;
+  - **2,8 a 3,67 s:** ela aponta para a lente, com o gesto ainda andando.
+  - **O Flow errou a moeda:** ela cai dentro do café e depois "atravessa" o vidro até o pires (a partir de ~2,6 s do clipe). O corte para antes; cair no café também é um ritual coerente.
+  - Som só do ambiente. O riser e o impact entram na edição final.
