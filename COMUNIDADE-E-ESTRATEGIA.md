@@ -1132,3 +1132,27 @@ Arquivos: `HISTORICO-DISCORD/chat-appyon_12-11-madrugada.md`, `vitorias-dolar_12
   - o perfil como influencer, com stories, destaques e lifestyle.
 - **Para a Nora:** em `FILA-DE-IDEIAS-E-TESTES.md` e `AULA-16-06-FORMATOS-E-ANGULOS-QUE-ESCALAM-VENDAS.md`.
 - **Fora:** celebridade (mesmo sem nome), react de UGC, glândula pineal, mais perfis (adiado pelo aluno).
+
+### 16/11/2026 09h00 - Discord, 21ª leitura (2 lotes, 6 canais: 15/11 02h30 e 16/11 08h35; chat-appyon de 14/11 20h22 a 16/11 07h39, 157 mensagens; chat-geral de 14/11 21h37 a 16/11 00h40, 29; apresente-se de 14/11 20h33 a 16/11 08h24, 56; vitórias-dólar de 15/11 18h47 a 16/11 01h42, 6; anúncios e avisos-appyon sem nada novo)
+- **Arquivos:** os 12 `.md` em `HISTORICO-DISCORD/` (`*_15-11-madrugada.md` e `*_16-11-manha.md`, com os 2 resumos); 16 imagens e 2 anexos de texto em `HISTORICO-DISCORD/imagens/15-11-madrugada/` e `16-11-manha/`. Sem buraco desde o marcador (a leitura conferiu os intervalos vazios). Fora do zip, só o vídeo do bug do Joao Paulo (o link está no .md).
+- **Vitórias (sem funil dito):**
+  - **Rundouglas, 15/11:** R$ 1.623,90 de comissão base no dia, R$ 73,81 por venda (~22 vendas), "primeiro milão no dia".
+  - **Pedro⚡, 15/11 18h47:** a 1ª venda com pouco mais de 20 dias de execução de verdade. "Muitos testes, muitas copies, cenários, horário (briga diária com os indianos), hook, sem hook… fui anotando o que funcionava e repetindo… é o volume e a repetição que fazem o jogo virar." Agradece o Caio1094.
+  - **Lito.Miguelito, 16/11 01h11:** a 1ª venda (agradece o Vinicius B).
+- **Dicas e avisos do canal:**
+  - **Bug do checkout no navegador do app (Joao Paulo, 16/11 00h58, Soulmate):** no celular, com o link aberto pelo navegador próprio do app do Facebook, a VSL não mostra o botão do checkout ("tá lá mas tá invisível"); passou ao suporte e perguntou se acontece com mais alguém. Ninguém respondeu.
+  - **Duração (Vitor Oliveira e Caio1094):** UGC de 1min10 a 2min40; "todos que testei de copy curta não foram bem" (Caio).
+  - **Messenger da Página com "Confirme sua identidade" e o botão que não faz nada** (Juliana Kli, Stefano, Maycon Bezerra, Vitor Oliveira, Marcelo): resolveu para alguns abrindo uma conversa no Messenger pelo celular ou pelo app do Face, ou num iPhone; o ASAF manda o nome do perfil bater com o documento e confirmar em facebook.com/id/hub. O Vitor largou a DM e manda para o story e o comentário fixado.
+  - **Love Reading:** VSL nova de ~30 min a US$ 29, com outro quiz (as de 6 e 8 min seguem a US$ 9); o Vitor postou a transcrição da de US$ 9 e a do Manifestation (a mesma do Content Hub de 07/11).
+  - **Espanhol (Ju Santos, 14/11 22h41):** roda só para alguns creators; abre conforme a meta, que será divulgada.
+  - **Masterclass do Kobata (14/11):** sem desconto para o MVM e sem gravação.
+  - **Muse:** conta criada com a Proton VPN (pelo aplicativo) ou a Urban VPN, com o código de 1 bilhão de tokens; se der "região bloqueada", a conta "já era" (Belle).
+  - **Proxy travando o post no celular físico:** testar http no lugar de socks5 (briza, ProxyCheap ISP "thunderbox").
+  - **Conta que não passa no aquecimento:** "muda pra outra, mas nunca exclui, deixa de molho" (Arcanjo).
+- **Perguntas sem resposta no canal:** o bug do checkout (Joao Paulo); usar a mesma avatar da conta de molho (Chefinho); a placa de 100 mil (Kelvin); vaga no Flow (Sabino); o link do ggsoma (Bruno Freitas); perfil comprado sem DM (Maraisa); o mapa mental e o "prompt blueprint" em inglês (Marcia Cabral, #apresente-se); conversa no privado com quem já vende (Arthur Antunes, #chat-geral).
+- **Para a Nora (decisão minha):**
+  1. **O teste de cliente oculto de hoje (item 5 do "Agora") abre o link DENTRO dos apps:** pelo adesivo do story no app do Insta e pelo comentário da Página no app do Face, no celular, e segue a VSL até depois dos 16:00 para ver se o botão da oferta aparece e abre o checkout em dólar. Motivo: temos ~37 cliques e 0 checkout, quase todos do story do Insta, que abre no navegador do app. **Se o botão não aparecer, é bug, não copy:** avisar o suporte e responder o Joao Paulo.
+  2. **A duração fica em 40 a 60 s** (R54); quem vende faz até mais longo. Nada muda.
+  3. **Directs, Muse, proxy e Love Reading: nada muda** (directs parados desde 13/11; o Flow segue; o post não está travando; o 2º perfil está adiado pelo aluno).
+  4. O caminho do Pedro (anotar o que funciona e repetir, brigando com a Índia pelo horário) é o que a Nora já faz.
+- **Quem responder:** Pedro⚡ no #vitórias e Marcia Cabral no #apresente-se; o Joao Paulo depois do teste de cliente oculto. **Voltas com resultado (DM):** joao (Sargento) e Lucas Dusi. Textos em `CONTATOS-ALUNOS.md` (16/11 09h00).
