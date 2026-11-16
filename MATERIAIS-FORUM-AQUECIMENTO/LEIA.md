@@ -1,4 +1,4 @@
-# Fórum do MVM: o aquecimento automático no GeeLark (mandado pelo aluno em 16/11/2026 ~18h35)
+# Fórum do MVM: o aquecimento automático no GeeLark (mandado pelo aluno em 16/11/2026 ~18h25)
 
 O aluno perguntou no #chat-appyon como fazer a automação de aquecimento (15h16) e trouxe os 2 posts do fórum, lidos pela skill `leitura-discord-mvm`:
 - `forum-aquecimento-automatico.md`: o post do Delian, "Aquecimento AUTOMATICO de instragram NO GEELARK????", de 10/05 a 15/11/2026, com 468 mensagens. **Lido inteiro.**
@@ -47,9 +47,9 @@ Os 4 ficaram fora do zip, por tamanho ou porque são vídeo, e os links estão n
 - **No Face:** existe o "Facebook Reels Account Warm-up" (GeeLark 4.3.9), mas o Delian avisa que o Face pode ver a conta "uma hora no Brasil, outra na China, outra nos EUA" e prefere aquecer o Face na mão. A Página é aquecida uma por uma.
 
 ## O que serve para a Nora (decisão minha; o aluno decide se liga)
-- **O celular dela serve:** o "#4 GeeLarkPhone|Nora" tem Android 15 e o proxy de Los Angeles (`FATOS-DO-ALUNO.md`). Falta só conferir se o app do Insta está em inglês.
+- **O celular dela serve:** o "#4 GeeLarkPhone|Nora" tem Android 15 e o proxy de Los Angeles (`FATOS-DO-ALUNO.md`). Falta só conferir se o app do Insta está em inglês (não está anotado no projeto).
 - **Como testar, leve e só antes de postar:** 1 tarefa de **25 vídeos (~12 min)** que termine antes de cada post do Insta: começa às **19h05** para o das 19h30 e às **23h35** para o da 0h00. Usar **uma palavra por tarefa**, em inglês e do nicho do Manifestation, trocando a cada vez: manifestation, law of attraction, tarot reading, astrology 2027, spiritual awakening. Criar a tarefa na hora, sem agendar dias.
 - **O custo:** ~25 min por dia, além dos ~40 min de uso normal. O pacote de 06/11 (766 + 60 bônus) já ia até ~26/11 sem isso; com o aquecimento, acaba antes. Comprar o pacote de 2.000 min (US$ 14 a 15) quando passar de ~300.
-- **A Nora tem 40 dias e posts no ar:** o risco é menor que o de uma conta de 3 dias com 100 vídeos, e 25 vídeos por vez ficam bem abaixo do que derrubou o Marcos Daniel.
+- **A conta da Nora tem mais de um mês e posts no ar:** o risco é menor que o de uma conta de 3 dias com 100 vídeos, e 25 vídeos por vez ficam bem abaixo do que derrubou o Marcos Daniel.
 - **O Face fica de fora:** a Página está no perfil pessoal do aluno, aberto no PC; logar esse perfil no GeeLark com o IP de Los Angeles é o risco que o Delian descreve.
 - **Fora:** a automação de curtir e comentar e a postagem automática. Postar é sempre ao vivo, à mão, e agendar derruba a entrega (seção 2 do `CLAUDE.md`).
