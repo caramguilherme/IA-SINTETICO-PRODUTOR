@@ -764,7 +764,7 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
   - **O corpo** quase não chegou a ser testado (~9% aos 10 s): compactar o corpo não resolve o que acontece antes dele.
   - **Para hoje:** o teste do Folgers (ritual) contra a onda no rochedo (evento grande, a água continua se mexendo atrás dela enquanto ela aponta) é exatamente a comparação que falta. Proposta: nos dois, o gesto de apontar curto (~0,8 s), com algo se mexendo na cena, e o T01 começando no impact.
 
-- **16/11/2026 12h37, Tracker (prints do aluno, atualização 12h34 e 12h35):**
+- **16/11/2026 12h36, Tracker (prints do aluno, atualização 12h34 e 12h35):**
   - **15/11 fechado: 4 cliques (todos do Insta), 3 viram o quiz, 1 começou, 1 terminou, 0 checkout.** Igual à leitura das 20h30: o nora65 (20h22) não trouxe clique na noite.
   - **16/11 até 12h34: 1 clique (Insta), que viu, começou e terminou o quiz; 0 checkout.** Não é do aluno (o teste de cliente oculto ainda não foi feito); deve ser do nora66 (1 visita ao perfil) ou do story.
   - Face: 0 nos dois dias. Desde 27/10: ~38 cliques, ~17 terminaram o quiz, 0 checkout.
