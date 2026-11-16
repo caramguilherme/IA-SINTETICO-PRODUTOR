@@ -29,8 +29,9 @@
    - 0 crédito, na edição; uma variável só.
 3. **O pedido de compartilhar**, só no Insta. Fonte: o costume do Lucas Dusi, 13/11. **A fala termina num comando só (R54): o compartilhar, se entrar, vai depois do CTA ou só na legenda.**
 4. **A música:** emocional (~20% a 25%), e também as variações da aula 21 (0:55:22): ritmo árabe, ritmo indígena, frequência em Hz. Uma por vez, a 0 crédito, na edição.
-5. **A seta do CTA animada** (subindo e descendo, apontando para a foto do perfil), a 0 crédito. Fonte: o AutoEditor do Gustavo (R58; R53) e a **aula 19 (1:13:43 a 1:15:03)**: "teve uma época que eu animava uma seta… ela subindo e descendo"; "eu gosto de seta verde… não vai mudar nada se você botar uma seta vermelha" (a vermelha fica).
+5. **A seta do CTA animada** (subindo e descendo, apontando para a foto do perfil), a 0 crédito. Fonte: o AutoEditor do Gustavo (R58; R53) e a **aula 19 (1:13:43 a 1:15:03)**: "teve uma época que eu animava uma seta… ela subindo e descendo"; "eu gosto de seta verde… não vai mudar nada se você botar uma seta vermelha" (a vermelha fica). No AutoEditor ela se mexe (aula 40, 0:44:41: "olha a setinha de CTA se mexendo") e aparece nos últimos 5 a 12 s, na foto do perfil (0:19:38 a 0:21:06).
 6. **O rodízio de riser e impact do pack do Gustavo** (`ferramentas-painel/ferramentas/sons/pack-aula19/`, mandado em 16/11 com a aula 19): uma variação horizontal a 0 crédito (o Face não ouve o mesmo áudio dois dias seguidos). Os de 12/11 ficam até o aluno escolher pelo ouvido, num áudio de teste com 3 ou 4 de cada. O respingo ("Water Impact") é candidato ao corte do hook da onda.
+7. **Um zoom suave em cada parte** (no gancho, no corpo e no CTA), só em alguns vídeos. Fonte: aula 40 (0:18:01 a 0:18:30: "aí o teu vídeo não vai ficar estático… dá uma retençãozinha melhor, mas usa em alguns vídeos só, não precisa usar em todos") e aula 57 (0:30:49 a 0:31:21). 0 crédito, na edição; também serve como variação do Face.
 
 ## Corpos e copy prontos para usar (quando for preciso um corpo novo; pela pirâmide, só depois de esgotar as variações do corpo que der clique)
 - **Corpo de afirmações:** "close your eyes and repeat with me", cada afirmação ilustrada por uma cena do desejo.
@@ -122,12 +123,15 @@
 
   **A decidir com o Clone** (item 6 da R50).
 - **O formato e a variação de gancho:** a aula 21 (junho) diz que "o formato é a maior alavancagem"; nos slides da aula 28 (julho), a base é a variação horizontal. Vai para o Clone com o item 6 da R50 (o Clone respondeu: corpo A como base, variando o topo).
+- **A tela dividida:** a aula 12 (22/05, Iorhan) diz que "os nossos hook rates aumentaram" com ela; a aula 57 (02/10, 0:26:41) diz que o "gancho visual" do AutoEditor, que é o clipe de duplo sentido em tela dividida **no gancho**, "a gente não está usando mais agora, porque não está indo tão bem". O teste de 16/11 é outro formato (no corpo, depois do gancho, com a imagem do desejo) e segue. Se a curva cair na tela dividida, é a pista.
+- **As hashtags:** a aula 54 (1:19:08) diz "eu nem uso a hashtag… vi que não muda nada"; a nossa legenda tem 3 a 5 (Clone R17 e R20). Ficam, porque não custam nada.
 - **Volume:** a aula 18 diz "o máximo"; no Insta vale a recuperação de 2 por dia (Clone R35 a R38); a Jéssica e o Kobata dizem que produzir demais derrubou as vendas.
 
 ## Esperando resposta ou decisão
 - **Do aluno:** o print do Status da Página. (Crédito do Flow: nunca perguntar; ele avisa quando acabar, regra de 16/11.)
 - **Dos números:** a curva do nora66 aos 5, 10 e 20 s (~12h40 de 16/11) é a régua da tela cheia, contra a qual a tela dividida (16/11) será medida.
 - **O hook no Face (aula 19, 0:42:35 a 0:43:56: "menos de 100 views… sem views provavelmente é hook… abaixo de 50, 30, muito fraco"):** 4 dos últimos 6 do Face ficaram abaixo de 50 (nora63 14, loop 31, nora66 24 com ~12 h), mas o nora65-FACE, abrindo na Nora falando, fez 235. Hoje à noite o Face compara as duas aberturas: o Folgers abre na Nora falando e a onda abre na onda. Ler com ~24 h (17/11).
+- **O prompt curto no clipe de pré-gancho** (aula 54, 0:21:31 a 0:25:54: a ação em uma ou duas frases + "o som é do ambiente, ASMR, sem falas nem músicas"; "a gente não precisa colocar um zilhão de mega super prompts nessas partes… simplificando fica melhor"). **Contraria a P32**, decisão do aluno de 20/10 (todo prompt detalhado ao extremo). Em 15/11, o brilho da estrela no sal veio de detalhe meu no prompt. **O aluno decide** se testa só nos clipes de pré-gancho; os prompts com fala seguem detalhados.
 - **Pinterest** (aula 19, 1:20:14 a 1:26:00: um aluno da call diz "é só postar em inglês, não precisa de proxy"; o Gustavo ainda ia testar): canal novo, sem dado nosso. Não proponho agora (uma frente por vez); fica aqui se o aluno trouxer.
 
 ## Fora (e por quê; não propor de novo)
@@ -141,11 +145,13 @@
   - o botão de compartilhar ("a 2ª pessoa que aparecer").
 - **Saúde, luto e Deus como autoridade.**
 - **O mecanismo de alma gêmea, chama gêmea, ex e "o rosto dele":** o funil da Nora é o Manifestation.
+- **Afirmar um atributo pessoal dela** ("you are broke", "you are poor", a religião dela, a saúde): "se você chegar na pessoa e afirmar que ela é de alguma religião… o Facebook vai te bloquear… se você chegar e falar 'você é pobre', o Facebook vai te bloquear" (aula 35, 0:25:07 a 0:25:36). A condicional ("If you…") e a rotina ("juggling bills and errands") podem.
+- **Da aula 54 (16/11):** a lua crescente do islã como hook "pra espantar indiano" (religião e ofensa); o corpo "Keep your mouth shut… Archangel Michael… in 33 minutes… three seals" (P42).
 - **Da aula 19 (16/11):** os ganchos de duplo sentido, de conotação sexual (0:02:54 a 0:13:10 e o drive dos 28 vídeos): puxam homem e Índia (aula de ~10/07, 0:56:54, 0,2% de checkout), o Gustavo diz que ficam batidos (aula 32, 0:41:10) e que não precisa deles (aula 19, 1:07:24), e são vídeos de pessoas reais. A "copy blackzinha, promessa absurda" (homem casado, homem moreno antes do 4 de julho, Twin Flame), o CTA "para que essa previsão possa ser realizada" e o "gemidinho" e o tapa como efeito.
 - **Da R58 (16/11):** POV de cartas e vídeo sem rosto (a Nora é o rosto; as cartas só na imagem, Gustavo 03/11); react de app e depoimento UGC (HONESTIDADE); avatar nova ou outro arquétipo nesta conta (R19 e R21); Arcanjo Miguel (religião como autoridade); várias contas (2º perfil adiado pelo aluno: não propor); números "orbitando" nos cantos (a R50 mandou limpar a tela).
 
 ## Onde está cada coisa (para procurar: `python3 -I ferramentas-painel/buscar.py "termo"`, que desde 15/11 procura no projeto inteiro, inclusive nos `.txt`)
-- **Transcrições inteiras das aulas e calls (19):** `TRANSCRICOES/`, guardadas em 15/11 (a aula 19 em 16/11; o pack de sons e o drive do duplo sentido que vieram com ela, em `MATERIAIS-AULA-19/LEIA.md`). Até então só os resumos com trechos estavam salvos. A da aula 18 e a de variações, de ~10/07, chegaram em 15/11 ~03h39.
+- **Transcrições inteiras das aulas e calls (23):** `TRANSCRICOES/`, guardadas em 15/11 (a aula 19 em 16/11 ~14h35; as aulas 40, 57, 54 e 35 em 16/11 ~14h59, resumo em `MATERIAIS-AULAS-40-54-57-35/LEIA.md`; o pack de sons e o drive do duplo sentido que vieram com ela, em `MATERIAIS-AULA-19/LEIA.md`). Até então só os resumos com trechos estavam salvos. A da aula 18 e a de variações, de ~10/07, chegaram em 15/11 ~03h39.
 - **Resumos das aulas:** `AULA-*.md`.
 - **Materiais das calls:** `MATERIAIS-CALL-*` e `MATERIAIS-DOCS-APPYON-15-11/` (cada pasta com o seu `LEIA.md`), `arquivo/MATERIAIS-CALL-17-07/`, `MATERIAIS-CENTRAL-APPYON-12-11.md`.
 - **Discord:** `HISTORICO-DISCORD/`; decisões em `COMUNIDADE-E-ESTRATEGIA.md`.

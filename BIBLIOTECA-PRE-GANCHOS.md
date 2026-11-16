@@ -142,5 +142,15 @@ Sem mágica (moeda que cai do nada): os virais são rituais reais, feitos na fre
 - **nº 45, a onda que quebra atrás dela (o tsunami sem a fuga) [ESCOLHIDO pelo Clone na R57 para 16/11 à 0h00, contra o Folgers das 19h30; Take 1 do Clone: "If you feel emotionally exhausted tonight, breathe: the heaviest storm is officially behind you."; caixa do Clone: "FOR TIRED WOMEN: / THE STORM ENDS TONIGHT"]:** a Nora de pé na beira do mar ao entardecer, vento no cabelo → uma onda enorme se ergue e quebra com estrondo no rochedo logo atrás dela, a espuma voa → ela não corre: se vira devagar para a lente, calma, e aponta. Casa com "the worst is behind you" (corpo A). Caixa: "THE STORM IS BEHIND YOU: / 2027 IS YOUR CALM".
 - **nº 46, o céu de tempestade que se abre (a ideia 1 do Clone, realista):** a Nora num campo aberto, nuvens escuras correndo rápido e vento forte → as nuvens se abrem e os raios de sol de verdade (crepusculares) atravessam e iluminam o campo → ela olha para a lente e aponta. Caixa: "WHEN THE SKY OPENS LIKE THIS: / YOUR 2027 BREAKTHROUGH IS HERE" (do Clone).
 - **nº 47, a pedra que racha nas mãos dela (a ideia 4 do Clone, sem o brilho líquido):** ela aperta uma pedra escura do tamanho de um punho → a pedra trinca com estalo e abre → cristais e flocos de ouro de verdade por dentro, perto da lente → ela aponta. É uma variação do geodo do nora37 (57% nos 3 s).
+
+### Da aula 54 (Gustavo, 29/09/2026; `MATERIAIS-AULAS-40-54-57-35/LEIA.md`)
+- **nº 48, a estatueta que quebra e solta um pergaminho** (aula 54, 0:33:45: "quebrando a estátua pequena e saindo um pergaminho velho de dentro dele, e corta para o body"). Na Nora, sem símbolo religioso:
+  - uma estatueta de cerâmica simples cai da mão dela e racha no chão de madeira;
+  - um pergaminho enrolado com fita dourada rola para fora (sem texto legível);
+  - ela pega o pergaminho e aponta para a lente.
+
+  Casa com a carta de 2027 (nº 44) e com o "your 2027 reading". O exemplo da aula, a lua crescente do islã "pra espantar indiano", fica fora: é religião e ofensa.
+- **O ovo cru num copo de água e o arroz na tigela de água** (aula 54, 0:29:41), como outras ações de bancada; ficam atrás dos eventos grandes (nº 45 a 47), que seguram mais nos 3 s.
+- **O prompt do clipe de pré-gancho, no jeito da aula 54** (0:21:31 a 0:25:54): a ação em uma ou duas frases + "o som é do ambiente, ASMR, sem falas nem músicas"; "simplificando fica melhor". Isso contraria a P32 (prompt detalhado ao extremo, decisão do aluno de 20/10), então **espera o aluno decidir** se testa (fila, "Esperando decisão").
 - **Fora:** a onda de choque (efeito puro de IA), a chuva de cédulas (dinheiro na tela e o Take 1 de dívida) e o papel que explode em luz. O nº 43, com a chama real, continua.
 

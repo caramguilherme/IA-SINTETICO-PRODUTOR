@@ -1347,6 +1347,38 @@ O que o Clone disse da aula 19 até hoje, conferido com o texto:
 - **Os sons do pré-gancho (R13: o riser, o impact e o "gemidinho"; aula 19 entre as fontes): confere.** O riser está aos 0:01:20 e aos 0:49:46, o impacto aos 0:51:31 e o gemido ao 1:06:26. O gemido e o tapa ficam fora. O woosh não aparece na aula 19.
 - **"As aulas 19, 40 e 57 que o Clone cita sobre cor" (conferência da R50):** agora a aula 19 está aqui. Sobre cor, ela fala do fundo vermelho da headline (gosto dele) e da seta verde ("não vai mudar nada se você botar uma seta vermelha", 1:14:39). Não fala dos números nem da cor da legenda, só de "um contorno maior" (0:59:39). **Faltam a 40 e a 57.**
 
+## Conferência com as transcrições das aulas 40, 57, 54 e 35 (chegaram em 16/11 ~14h59; resumo em `MATERIAIS-AULAS-40-54-57-35/LEIA.md`)
+**Confere:**
+- **O AutoEditor muda pixel, HSL e metadados** (R59 e R60): aula 40, 0:16:29; aula 57, 0:05:26 a 0:06:09 ("no 10, 15%… varia entre 1% e 20%… a gente foge de conteúdo reutilizado").
+- **A prova social (o Trustpilot) como camada por cima, num segundo exato** (R24): aula 40, 0:30:44 a 0:31:31; aula 57, 0:40:08 a 0:42:11 (~35% do tamanho, no meio, sem cobrir a legenda).
+- **A seta na foto do perfil nos últimos segundos:** aula 40, 0:19:38 a 0:21:06. Ela também se mexe (0:44:41).
+- **Os sons:** riser, woosh entre o pré-gancho e o gancho, impact e gemido (R13). Estão na aula 40 (0:10:48 a 0:11:20 e 0:14:52), na aula 57 (0:28:38 e 0:50:46 a 0:51:38) e na aula 54 (1:15:25 a 1:15:48). O gemido segue fora.
+- **O #AuraliTrend não muda nada** (aula 54): está no 1:19:08. Ele também diz que não usa hashtag nenhuma.
+- **O story com uma foto simples** (aulas 13 e 54): aula 54, 1:38:54 a 1:39:56.
+- **"Começar já na ação"** (aula 54, 1:13:35): confere (o Loom transcreveu "a nação").
+- **A Índia não compra porque não paga com cartão** (aulas 28 e 54): aula 54, 0:37:38 a 0:38:27.
+- **Os rituais com corte em 4 a 5 s** (R51, aulas 21 e 54): o hook do sal da aula 54 tem "6 segundos, ele cortou ou foi 4" (0:10:30).
+- **O rastreio da Meta é de máquina, navegador, proxy e histórico dos ativos; os metadados do vídeo não explicam** (R59, aula 35): aula 35, 0:09:47 a 0:17:21 e 0:34:33 a 0:37:34.
+- **O direct em lote e o link repetido em comentário caem como spam** (aula 35): 0:20:52 a 0:21:13 e 0:26:55. O "score" do perfil está no 0:32:43.
+
+**Confere em parte:**
+- **"As aulas 40 e 57 põem números discretos nos cantos"** (R59 e R60). São pequenos e nos cantos ("onde eu sei que não vai atrapalhar", aula 40, 0:29:23). Mas no jeito dele são 4 áreas (2 números de anjo e 2 emojis), com a cor sorteada, brilho e movimento (aula 40, 0:28:47 a 0:30:43; aula 57, 0:37:34 a 0:39:58). Os nossos 2 brancos e parados são escolha do aluno (16/11 13h31).
+- **A caixa do topo "sólida e contrastante, vermelha ou amarela"** (R13, aulas 19, 40 e 43). Nas aulas 40 e 57 a cor é livre, fixa ou sorteada, com os cantos arredondados ou retos (aula 40, 0:24:41 a 0:25:10; aula 57, 0:35:37 a 0:36:17). Nenhuma impõe cor.
+- **As cores da legenda** (R50, "aulas 19, 40 e 57"). Na aula 57 a legenda do exemplo dele é a "clássica", com 5 palavras, destaque azul e contorno fino (0:33:41 a 0:34:00). O alto contraste vem da aula 43 e do próprio Clone. Não muda: foi decisão do aluno em 15/11.
+- **"Reaproveitar o áudio de um corpo sobre visual novo não vira repetido; é o método do AutoEditor"** (R30, aulas 40, 57 e 28). O modo POV existe e usa o áudio dos vídeos completos (aula 40, 0:38:24; aula 57, 1:11:04 a 1:16:42). O "não vira repetido" não está dito.
+- **"Nunca apagar post"** (R29, aula 35). A aula fala de apagar Páginas em série, que baixa o score (0:50:13 a 0:50:40), não de posts.
+
+**Não está na transcrição:**
+- **"Não assistir os próprios vídeos pela Página"** (R61, aula 35). A nossa regra de 15/11 continua, por outro motivo: o tempo médio do loop no Face.
+- **"A pausa de 24 h; postar antes reinicia o cronômetro"** (R36, aulas 35 e 55). As 24 h da aula 35 são para tentar de novo uma ação que deu erro (0:28:00 a 0:28:13), não para pausa de post.
+- **"Os virais de 3 mi do Scoped"** (o sal, aula 54). A aula mostra o sal no chão do banheiro, sem número de views.
+
+**O que as aulas acrescentam e o Clone não tinha dito:**
+- **Afirmar um atributo pessoal ("você é pobre", a religião) bloqueia no Face** (aula 35, 0:25:07 a 0:25:36). Virou regra de copy.
+- **O "gancho visual" em tela dividida "não está indo tão bem"** (aula 57, 0:26:41). É no gancho e com o clipe de duplo sentido, não o nosso teste no corpo.
+- **O prompt curto no clipe de pré-gancho** (aula 54, 0:25:24 a 0:25:54). Contraria a P32; o aluno decide.
+- **O zoom suave em cada parte, "em alguns vídeos só"** (aula 40, 0:18:01 a 0:18:30).
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 
