@@ -741,6 +741,12 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
 
 - **16/11/2026 12h24, Face tsu1611 postado às 12h22:** o tsunami curto do nora55 + o T02 a T05 do nora59 (sem data), espelhado, com a variação nova (cor e recorte) e 1,1x. O POV (`nora61-VAR2-FACE`) vai depois das 14h (o aluno tem compromisso). O das 16h fica vazio. Comparar o tsu1611 com o nora55 (4.236) e o nora59-FACE (161) com ~24 h.
 
+- **16/11/2026 12h26, Face (Biblioteca; print do aluno):**
+  - **nora66-FACE (o sal, sem o hook de produto, com 6 imagens do desejo; ~12h24): 24 views, 20 visualizadores, 45,8% nos 3 s (11), tempo médio 5 s, −0,6x.** Travou baixo, como o nora63-FACE (14 views): os 2 vídeos de ritual com produto ficaram abaixo de 30 no Face, mesmo abrindo na Nora falando. O nora65-FACE (a carta, sem ritual) fez 235 e o nora62 (bicarbonato) 231.
+  - Os 3 s do nora66-FACE (45,8%) são os melhores dos falados recentes no Face (nora65 34%, nora62 28%, nora60 47,7%): quem vê fica; o Face é que não distribui.
+  - tsu1611 com 2 min: 4 views. nora65-FACE 235 (sem mudança desde 15/11 20h30); o loop 31; nora55 4.242.
+  - **Leitura:** com 12 h ainda não é a régua (~24 h), mas o padrão dos 3 dias é o Face entregar menos de 30 views a 3 de 5 vídeos (nora63, loop, nora66). Pode ser o Face lendo o tema do ritual como repetido, ou a Página com distribuição baixa; o print do Status da conta da Página (Recomendações) segue pedido. **Nada muda agora:** a régua do tsu1611 (o tsunami, que já fez 4.236) com ~24 h diz se o problema é o tema ou a Página.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
