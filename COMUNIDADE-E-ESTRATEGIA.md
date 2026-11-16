@@ -1156,3 +1156,11 @@ Arquivos: `HISTORICO-DISCORD/chat-appyon_12-11-madrugada.md`, `vitorias-dolar_12
   3. **Directs, Muse, proxy e Love Reading: nada muda** (directs parados desde 13/11; o Flow segue; o post não está travando; o 2º perfil está adiado pelo aluno).
   4. O caminho do Pedro (anotar o que funciona e repetir, brigando com a Índia pelo horário) é o que a Nora já faz.
 - **Quem responder:** Pedro⚡ no #vitórias e Marcia Cabral no #apresente-se; o Joao Paulo depois do teste de cliente oculto. **Voltas com resultado (DM):** joao (Sargento) e Lucas Dusi. Textos em `CONTATOS-ALUNOS.md` (16/11 09h00).
+
+### 16/11/2026 12h39 - Caio1094 no #vitórias (10h37, colado pelo aluno): de 70% Índia para 70% EUA
+- **O que ele disse:** o perfil era 70% indiano e hoje é 70% EUA e 5% Índia. Pôs **bandeira dos EUA em tudo** (quando esquecia na cena, punha a bandeirinha no CapCut; às vezes na roupa) e **passou as copies no GPT para trocar palavras universais por palavras mais americanas** ("americano fala muito em cash, bills, rent, paycheck"). **Levou mais de 15 dias, mais de 50 posts**, repetindo em todo vídeo: "em 15 a 20 dias muda totalmente". (Em outubro ele já tinha contado a 1ª parte: com bandeira e coisas dos EUA, a Índia caiu de 70% para 40%; `PLANO-MVM`, Índia.)
+- **Para a Nora (decisão minha):**
+  1. **A bandeira entra em todo vídeo, a partir dos de hoje:** um broche pequeno da bandeira dos EUA na roupa dela nas imagens novas (o Folgers e a onda), o jeito que serve em qualquer cenário; nos vídeos sem a bandeira na cena (as variações do Face), uma bandeirinha pequena na edição, num canto entre 8% e 92% da largura. Não muda a medida dos testes de hoje (a % de países é medida separada dos 3 s e da curva).
+  2. **Palavras americanas:** entram no próximo corpo novo e nos próximos Take 1, dentro das nossas regras (sem medo e sem Take 1 de dinheiro, R57): "cash" no lugar de "money" no corpo, e referências do calendário dos EUA (Thanksgiving em 26/11, "the holidays", "this Christmas"). O corpo A de hoje fica como está (passou no filtro do Flow e é o corpo base da pirâmide).
+  3. **É um efeito de 15 a 20 dias, não de um vídeo:** a régua é a % da Índia na média da semana (hoje: 0h24 com 1,6%, 20h22 com 13,7%, o loop de dia com 53,8%).
+- **Quem responder:** só uma reação (🔥) na mensagem dele; a DM de hoje (09h41) já está com ele.

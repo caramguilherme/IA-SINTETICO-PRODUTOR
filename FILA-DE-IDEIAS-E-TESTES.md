@@ -62,6 +62,8 @@
 - **Ganchos novos:** `BANCO-DE-HEADLINES.md` nº 26 a 30 (2027 = 11; o signo com sorte enorme em 2027; o signo que nunca fica sem dinheiro; "this message is meant for one person"; a lua nova de 08/12).
 - **"Your birth chart can show where opportunities finally open for you"** (Astroline): ângulo de mecanismo de astróloga, sem prometer cidade nem carreira. Fonte: `MATERIAIS-CALL-02-06/LEIA.md`.
 
+- **Contra a Índia, em todo vídeo, por 15 a 20 dias (Caio1094, #vitórias 16/11 10h37: de 70% Índia para 70% EUA):** (1) a bandeira dos EUA em todo vídeo, a partir de 16/11: o broche na roupa nas imagens novas; uma bandeirinha pequena na edição quando a cena não tiver; (2) palavras americanas no próximo corpo e nos próximos Take 1, sem medo e sem Take 1 de dinheiro: "cash" no lugar de "money" no corpo, Thanksgiving (26/11), "the holidays", "this Christmas". Régua: a % da Índia na média da semana.
+
 ## Formatos e pré-ganchos na fila
 - **Rituais nº 43 (o papel queimado na vela) e nº 44 (a carta de 2027 com caneta dourada, "scripting"):** `BIBLIOTECA-PRE-GANCHOS.md`.
 - **O ritual curioso e interativo** (aula 21, 0:48:39; @tefnutcornell, de 1 a 4,5 milhões de views): quem assiste faz junto ("pense em…", "diga… três vezes").
