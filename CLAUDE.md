@@ -76,6 +76,22 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
 - **Dashboard:** para atualizar, editar o CSV, rodar `ferramentas-painel/dashboard/preparar_csv.py`, subir a cópia sem o BOM como asset e dar `update` em `datasets/metricas` (`source.url`, `source.name`, `updated`) com `if_version`; receita completa em `ferramentas-painel/dashboard/COMO-RECRIAR.md`.
 
 ## 4. Diário de decisões (as novas entram aqui, datadas; as anteriores a 14/11 estão em `HISTORICO-CLAUDE-MD.md`)
+- **15/11/2026 21h08, Clone R55, o plano de 16/11 (o roteiro e o painel só com o "pode montar" e o saldo do Flow):**
+  - **Insta:**
+    - 19h30: o café Folgers;
+    - 0h00: o azeite Pompeian + louro;
+    - os 2 com o mesmo corpo e o mesmo CTA (o A: "…to uncover your guiding energy for twenty twenty-seven.");
+    - o Take 1 de situação física ligado ao ritual;
+    - o hook da R51;
+    - 40 a 60 s, sem o 222 na fala, e a faixa com o cadeado.
+  - **Face:**
+    - 10h30: o POV;
+    - 12h: o tsunami espelhado + takes sem data;
+    - 16h: um empilhamento com um pré-gancho de 3 dias ou mais (não a vela);
+    - 19h30 e 0h00: as versões do Face.
+  - **Funil:** o teste de cliente oculto e a meta de 50 a 80 quizzes terminados.
+  - **Régua da curva:** aos 20 s, acima de 20% = corpo aprovado.
+  - Detalhe em `CLONE-DO-GUSTAVO-RESPOSTAS.md` (R55).
 - **15/11/2026 21h02, Clone R54 (cobrado pelas contradições da R53): ele se retratou em 4 pontos, e as regras mudaram:**
   - **o 222 sai da fala dos falados do Insta** (fica na legenda e na tela; se voltar à fala, só depois do CTA);
   - **os falados ficam entre 40 e 60 s** (o "20 a 25 s" saiu);

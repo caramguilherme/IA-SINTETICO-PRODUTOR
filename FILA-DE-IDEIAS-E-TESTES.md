@@ -28,7 +28,7 @@
 - **O corpo A, na versão suave, como corpo base por 10 a 14 dias (Clone R50, item 6):** variar só o pré-gancho, o Take 1, a 2ª frase e a caixa. O sal de hoje à 0h00 entra nesse molde (Clone R49, com os meus ajustes).
 
 ## Próximos testes (nesta ordem; detalhe em CLAUDE.md seção 2, "Ordem dos testes")
-1. **A faixa do story com o campo trancado** ("Your 2027 reading: 🔒 / tap my photo"). 0 crédito, na edição. Fonte: quadro da aula 18, `MATERIAIS-CALL-02-06/LEIA.md`.
+1. **A faixa do story com o campo trancado** ("Your 2027 reading: 🔒 / tap my photo"). 0 crédito, na edição. Fonte: quadro da aula 18, `MATERIAIS-CALL-02-06/LEIA.md`. **Aprovada pelo Clone na R55 (15/11): entra nos falados de 16/11. O 🔒 não existe na Poppins: desenhar o cadeado na edição.**
 2. **O pedido de compartilhar antes do CTA**, só no Insta. Fonte: o costume do Lucas Dusi, 13/11. **Atenção (Clone R54, 15/11): a fala termina num comando só (o story); o compartilhar, se entrar, vai depois do CTA ou só na legenda.**
 3. **A música:** emocional (~20% a 25%), e também as variações da aula 21 (0:55:22): ritmo árabe, ritmo indígena, frequência em Hz. Uma por vez, a 0 crédito, na edição.
 4. **O que a R50 (a edição) responder:** volta ao estilo dos campeões (branco, preto, vermelho e amarelo forte) ou não. Fonte: `CLONE-DO-GUSTAVO-RESPOSTAS.md` R50.

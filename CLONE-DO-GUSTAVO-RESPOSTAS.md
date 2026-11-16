@@ -1082,7 +1082,47 @@ Qual entra às 19h30 e qual à 0h00? Ou repito o sal com outro Take 1, para medi
 6. O funil. Desde 27/10: ~37 cliques, ~16 terminaram o quiz e 0 checkout. A VSL do Manifestation tem 31 a 37 min, e o botão da oferta só aparece aos 16:00. Pela régua da comunidade (18% a 20% dos cliques chegam ao checkout), eu já deveria ter alguns. O que confiro primeiro: o link, o quiz, a VSL, ou é volume? Faço o caminho todo no celular como se fosse uma cliente?
 
 7. O story. 27 pessoas viram e 8 clicaram (30%), mas só ~1,2% de quem viu o vídeo chegou ao story. Além do CTA único, ajuda pôr na faixa "Your 2027 reading: 🔒 / tap my photo" (o campo trancado da aula 18)? Ou um 2º story?"
-- **Resposta:** (a colar)
+- **Resposta (colada pelo aluno às ~21h20):**
+  1. **Não repetir o sal amanhã.** O mesmo ritual em menos de 24 h cansa (aulas 28 e 31). Mantém o corpo base (T2 e T3) e o CTA iguais nos 2 e varia só a entrada (hook visual + Take 1):
+     - **19h30: o café Folgers**, a quebra do cansaço da rotina;
+     - **0h00: azeite Pompeian + louro**, o fechamento de ciclo antes de dormir;
+     - o papel na vela e a carta de 2027 ficam para terça e quinta.
+  2. **Take 1 de situação física (~3 s):**
+     - (1) "If you are lying in bed completely exhausted tonight, take a gentle breath.";
+     - (2) "If you spent all day carrying everything alone, this quiet moment is for you.";
+     - (3) "If your mind feels too heavy to rest tonight, please pause right here."
+  3. **CTA com motivo:**
+     - (A) "Tap my photo and answer three quick questions in my story to uncover your guiding energy for twenty twenty-seven.";
+     - (B) "Tap my photo to complete three gentle questions in my story and receive your personal insight for twenty twenty-seven."
+  4. **Como ler a curva do nora66:**
+     - queda de 50% para menos de 30% entre 4,8 e 5,5 s = o Take 1 falado;
+     - estável aos 5 s (acima de 40%) e queda só entre 7 e 10 s = a 2ª frase;
+     - **aos 20 s, acima de 20% = corpo aprovado; abaixo de 10% = compactar.**
+  5. **Face:**
+     - 9h: o POV narrado (o de 106), em 1,05x e com fundo novo;
+     - 12h: o campeão de 4.235 (tsunami curto de 11/11), espelhado, com o áudio em 1,08x e sem nenhuma menção a 11/11;
+     - 16h: empilhamento (um take antigo da Nora + um pré-gancho novo de 3 s, de vela ou cristais);
+     - 19h30 e 0h00: os 2 falados novos, na versão do Face.
+  6. **Funil:** 16 de 37 terminaram o quiz (o quiz não está quebrado). A VSL tem o botão só aos 16:00, o que é um gargalo natural.
+     - **Fazer o teste de cliente oculto no celular, em 4G:** o link do story, as 3 perguntas, a VSL até os 16:00, o botão, o checkout sem erro e em dólar.
+     - 0 checkout com 16 na VSL ainda é variação normal. **Meta: 50 a 80 quizzes terminados para ter amostra da VSL.**
+  7. **Story:** a faixa com o cadeado ("Your 2027 reading: 🔒 / tap my photo") ajuda (aula 18, a recompensa trancada). **Não pôr um 2º story:** 1 story só, com o adesivo de link (aulas 46 e 64).
+- **O que eu conferi e decidi (21h08):**
+  - **Entra:**
+    - Folgers às 19h30 e Pompeian à 0h00, com o mesmo corpo (T2, T3 e T4 do corpo A suave, como no nora66) e o mesmo CTA;
+    - o hook no formato da R51 (3 cortes, ~4,8 s, terminando com ela apontando para a lente), a Nora falando na mesma cena;
+    - 40 a 60 s, sem o 222 na fala;
+    - **CTA A** (o B tem "receive", que já caiu no filtro do Flow em 14/11);
+    - a régua da curva (5, 10 e 20 s);
+    - o teste de cliente oculto, com o aluno descontando o próprio clique no Tracker;
+    - a meta de 50 a 80 quizzes;
+    - a faixa com o cadeado nos próximos vídeos. O 🔒 não existe na Poppins: na edição, o cadeado entra desenhado.
+  - **Ajustes pelas nossas regras:**
+    - **Take 1:** a cena é a bancada da cozinha, então o "lying in bed" não casa com a imagem. Uso a 2 às 19h30 e a 3 à 0h00, ligadas ao ritual (o Take 1 diz para quem é e puxa o ritual).
+    - **O fim dos hooks:** o nº 40 (soprar na lente) e o nº 42 (o brinde cobrindo a lente) passam a terminar com ela apontando para a lente (R51).
+    - **Face às 16h:** a vela que acende já reprovou (12/11: objeto que só acende não segura). O empilhamento usa um pré-gancho que já funcionou e tem 3 dias ou mais (o bicarbonato de 13/11, por exemplo).
+    - **Face às 12h:** o campeão de 11/11 fala "Wednesday, November 11th" e "11:11 portal" no T01 e no T02. Sem a data, sobra só o tsunami. Então entra o tsunami espelhado + takes sem data de outro vídeo com 3 dias ou mais, montado por mim, a 0 crédito.
+    - **Face às 9h:** o POV de amor (nora61) faz 3 dias às 10h20 de 16/11, então vai às 10h30 e não às 9h.
 
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
