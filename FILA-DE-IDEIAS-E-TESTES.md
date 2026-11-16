@@ -22,6 +22,8 @@
 - **O estilo de alto contraste (Clone R50):** aprovado pelo aluno em 15/11 03h50 e em uso desde o nora65 (Insta 15/11 20h22). Hipótese: mais gente passa dos 3 s que no nora63 (42,5%).
 - **O corpo A, na versão suave, como corpo base por 10 a 14 dias (R50, item 6):** variar só o pré-gancho, o Take 1, a 2ª frase e a caixa. O sal (nora66) e os de 16/11 (o Folgers e a onda no rochedo, R55 e R57) entram nesse molde.
 
+- **O prompt curto nos clipes de vídeo do pré-gancho** (aula 54, 0:21:31 a 0:25:54: "simplificando fica melhor"; aprovado pelo aluno em 16/11 ~15h10: "topo o prompt curto"). Entra no nora67 e no nora68: a ação em 1 a 2 frases + o som do ambiente ASMR. **Medida:** quantos clipes saem usáveis de primeira, contra o sal de 15/11 (prompt longo: a estrela de brilho e o aceno no lugar do apontar). As imagens e os takes com fala seguem detalhados (P32).
+
 ## Próximos testes (nesta ordem; detalhe em CLAUDE.md seção 2, "Ordem dos testes")
 1. **A faixa do story com o campo trancado** ("Your 2027 reading: 🔒 / tap my photo"). 0 crédito, na edição. Fonte: quadro da aula 18, `MATERIAIS-CALL-02-06/LEIA.md`. **Aprovada pelo Clone na R55: entra nos falados de 16/11.** O 🔒 não existe na Poppins: desenhar o cadeado na edição.
 2. **A tela dividida alternando com a tela cheia. Aprovada pelo aluno em 16/11 ~08h50 ("pode ser um teste pra fazermos também"); a ferramenta está pronta (`montar_desejo.py`, testada no nora59). Entra nos 2 falados de 16/11 (o Folgers às 19h30 e a onda à 0h00), igual nos dois, para a comparação dos hooks continuar limpa; mede-se aos 10 e aos 20 s contra o nora66 (só tela cheia).** a Nora falando numa metade (em cima ou embaixo) e a imagem do desejo na outra, mesclando com a imagem ocupando a tela toda. No nora66 a Nora sumiu da tela por ~25 s.
@@ -131,7 +133,6 @@
 - **Do aluno:** o print do Status da Página. (Crédito do Flow: nunca perguntar; ele avisa quando acabar, regra de 16/11.)
 - **Dos números:** a curva do nora66 aos 5, 10 e 20 s (~12h40 de 16/11) é a régua da tela cheia, contra a qual a tela dividida (16/11) será medida.
 - **O hook no Face (aula 19, 0:42:35 a 0:43:56: "menos de 100 views… sem views provavelmente é hook… abaixo de 50, 30, muito fraco"):** 4 dos últimos 6 do Face ficaram abaixo de 50 (nora63 14, loop 31, nora66 24 com ~12 h), mas o nora65-FACE, abrindo na Nora falando, fez 235. Hoje à noite o Face compara as duas aberturas: o Folgers abre na Nora falando e a onda abre na onda. Ler com ~24 h (17/11).
-- **O prompt curto no clipe de pré-gancho** (aula 54, 0:21:31 a 0:25:54: a ação em uma ou duas frases + "o som é do ambiente, ASMR, sem falas nem músicas"; "a gente não precisa colocar um zilhão de mega super prompts nessas partes… simplificando fica melhor"). **Contraria a P32**, decisão do aluno de 20/10 (todo prompt detalhado ao extremo). Em 15/11, o brilho da estrela no sal veio de detalhe meu no prompt. **O aluno decide** se testa só nos clipes de pré-gancho; os prompts com fala seguem detalhados.
 - **Pinterest** (aula 19, 1:20:14 a 1:26:00: um aluno da call diz "é só postar em inglês, não precisa de proxy"; o Gustavo ainda ia testar): canal novo, sem dado nosso. Não proponho agora (uma frente por vez); fica aqui se o aluno trouxer.
 
 ## Fora (e por quê; não propor de novo)

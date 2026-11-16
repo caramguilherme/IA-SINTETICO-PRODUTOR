@@ -151,6 +151,6 @@ Sem mágica (moeda que cai do nada): os virais são rituais reais, feitos na fre
 
   Casa com a carta de 2027 (nº 44) e com o "your 2027 reading". O exemplo da aula, a lua crescente do islã "pra espantar indiano", fica fora: é religião e ofensa.
 - **O ovo cru num copo de água e o arroz na tigela de água** (aula 54, 0:29:41), como outras ações de bancada; ficam atrás dos eventos grandes (nº 45 a 47), que seguram mais nos 3 s.
-- **O prompt do clipe de pré-gancho, no jeito da aula 54** (0:21:31 a 0:25:54): a ação em uma ou duas frases + "o som é do ambiente, ASMR, sem falas nem músicas"; "simplificando fica melhor". Isso contraria a P32 (prompt detalhado ao extremo, decisão do aluno de 20/10), então **espera o aluno decidir** se testa (fila, "Esperando decisão").
+- **O prompt do clipe de pré-gancho, no jeito da aula 54** (0:21:31 a 0:25:54): a ação em uma ou duas frases + "o som é do ambiente, ASMR, sem falas nem músicas"; "simplificando fica melhor". Isso contrariava a P32 (prompt detalhado ao extremo, decisão do aluno de 20/10). **Aprovado pelo aluno em 16/11 ~15h10 para os clipes sem fala do pré-gancho** ("topo o prompt curto"): em teste do nora67 e do nora68 em diante.
 - **Fora:** a onda de choque (efeito puro de IA), a chuva de cédulas (dinheiro na tela e o Take 1 de dívida) e o papel que explode em luz. O nº 43, com a chama real, continua.
 

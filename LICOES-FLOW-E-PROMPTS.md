@@ -604,3 +604,7 @@ O `d1211-PRE-vela` (Omni 1.1 Flash, 8 s) fez o que o prompt pedia (a vela acende
 - **O overlay do ffmpeg com `enable` larga a imagem 1 quadro antes do fim pedido:** deixar o clipe com 2 quadros a mais e o `enable` até b + 0,04. A imagem seguinte cobre por cima.
 - **Conferir pelo tempo (`pts`) de cada quadro em volta de cada troca, não pelo número do quadro:** a conferência pelo número me enganou uma vez.
 
+### 16/11/2026 15h10, prompt curto nos clipes do pré-gancho (decisão do aluno, aula 54; exceção à P32)
+- **O que muda:** o prompt curto da aula 54 nos clipes de VÍDEO do pré-gancho (os sem fala): a ação em 1 a 2 frases + "ambient ASMR sound only, no speech, no music", com no máximo uma trava curta das lições (por exemplo, "plain matte gold coin, no sparkle"; "eyes open, no wave"). As imagens, o LIVRE da Central, a movimentação dos takes e os prompts manuais com fala seguem detalhados ao extremo.
+- **Por quê:** na aula 54 o Gustavo gera o hook do sal com 2 frases ("ela está se ajoelhando enquanto vira o pote de sal… o som é do ambiente, ASMR, e não há falas nem músicas") e diz que "simplificando fica melhor"; no sal de 15/11, o prompt longo trouxe a estrela de brilho ("settles shining") e o aceno no lugar do apontar.
+- **Como medir:** quantos dos clipes do nora67 e do nora68 saem usáveis de primeira (x2 cada), contra o sal. Se errar mais, volta o detalhado.
