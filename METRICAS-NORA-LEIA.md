@@ -739,6 +739,8 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
 
 - **16/11/2026 00h26, postagens:** nora66 no Face à 00h00 e no Insta às 00h24 (o sal Morton, 1º com a edição dopaminérgica, sem o 222 na fala). O nora65 no Insta: 135 views com ~4h04 (o nora63 tinha ~43 com 1 h e 142 com ~9 h). Não se julga com 4 h; a leitura vem por volta das 12h40, com a curva do nora66 aos 5, 10 e 20 s (régua da R55: aos 20 s, acima de 20% = corpo aprovado).
 
+- **16/11/2026 12h24, Face tsu1611 postado às 12h22:** o tsunami curto do nora55 + o T02 a T05 do nora59 (sem data), espelhado, com a variação nova (cor e recorte) e 1,1x. O POV (`nora61-VAR2-FACE`) vai depois das 14h (o aluno tem compromisso). O das 16h fica vazio. Comparar o tsu1611 com o nora55 (4.236) e o nora59-FACE (161) com ~24 h.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
