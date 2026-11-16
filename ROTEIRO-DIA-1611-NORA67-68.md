@@ -60,3 +60,12 @@ T02: a mesa servindo todos (dividida) → as contas e as tarefas, nova (dividida
 - **Insta (nora67):** "If you spent all day carrying everything alone, this quiet moment is for you ✨\nYour private reading is waiting in my story 🔮\nComment "222" to welcome this blessing ✨\n#manifestation #lawofattraction #abundance #2027"
 - **Insta (nora68):** "If you feel emotionally exhausted tonight, breathe: the heaviest storm is behind you 🌊\nYour private reading is waiting in my story 🔮\nComment "222" to welcome this blessing ✨\n#manifestation #lawofattraction #abundance #2027"
 - **Face:** a mesma 1ª linha + "See what 2027 holds for you: the link is in the comments 🔮" + as hashtags, sem pedido.
+
+## Andamento
+- **16/11 18h50, `d1611-PRE-cafe-IMG-A` escolhida: a 3ª opção** (`ferramentas-painel/dia-1611/d1611-PRE-cafe-IMG-A-escolhida-opcao3.jpg`, recorte da grade):
+  - ela está centrada e olha para a caneca;
+  - a colher cheia de café está bem em cima da caneca de água, então o vídeo 1 (o café caindo) começa sem a mão andar;
+  - a outra mão está apoiada no balcão, colada na moeda, como o prompt pede;
+  - a lata do Folgers aparece inteira, com o rótulo legível;
+  - tem o broche e a bandeira ao fundo.
+  - **Por que não as outras:** a 2ª também tem a colher sobre a caneca, mas a moeda ficou longe da mão; na 1ª, a colher está ao lado da caneca, e a lata é cortada na borda; na 4ª, a colher está em cima da lata, e não da caneca.
