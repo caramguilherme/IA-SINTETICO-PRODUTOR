@@ -749,7 +749,7 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
 
 - **16/11/2026 12h29, Insta (grade do perfil; print do aluno):** nora66 122 views (~12h05), nora65 146 (~16h07), o loop 2.210 (parou: eram 2.204 com ~24 h), nora63 159, nora60 182, nora59 152. Os falados seguem entre ~120 e ~180; a decisão sai do Insights do nora66 (a curva aos 5, 10 e 20 s, a régua da R55) e do nora65. (A linha do nora65 no Insta faltava no CSV: criada agora.)
 
-- **16/11/2026 12h33, Insta nora65 (a carta, sem pré-gancho; 15/11 20h22, ~16h11; Insights do aluno):**
+- **16/11/2026 12h32, Insta nora65 (a carta, sem pré-gancho; 15/11 20h22, ~16h10; Insights do aluno):**
   - **146 views, 135 viewers, 28,1% nos 3 s (skip 71,9%), tempo médio 3 s em 31 s, 1 visita ao perfil, 0 follows, 0 curtidas, 1 comentário (0,7%).** 100% não seguidores.
   - **Países: EUA 34,2%, Índia 13,7%, Reino Unido 10,3%, Canadá 8,2%.** Idade: 35-44 34,2%, 45-54 24%, 55+ 21,2%.
   - Curva colada no reel típico; retenção ~50% aos ~2 s, ~15% aos ~5 s e ~5% aos 8 s.
