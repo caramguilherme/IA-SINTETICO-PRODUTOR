@@ -23,7 +23,7 @@ description: Use toda vez que for pôr texto num vídeo ou imagem da Nora (ediç
 |---|---|---|
 | **Caixa do topo** (0 s até o fim do Take 1 ou do pré-gancho) | **amarela sólida, letras pretas Poppins Bold**, sem sombra; 2 linhas curtas em maiúsculas; o trecho entre [colchetes] também preto; tamanho 10 a 11 | `"caixa": TOPO_AMARELO` (de `estilos_video.py`) no item da caixa do topo |
 | **Legenda** | 3 palavras por vez, no terço de baixo (`y` −310), Poppins Bold **branca com contorno preto grosso** (5 px), **palavras-chave em amarelo forte** (#FFD21F); no máximo 2 linhas | o estilo já faz; `destaques` com as palavras-chave |
-| **Números fixos** | **desde 16/11 (aluno e Clone R59), só o 11:11 branco com contorno preto, num canto de cima, o vídeo todo, entre 8% e 92% da largura**; o 888 ciano e o 222 amarelo saíram ("os 3 coloridos não ficam sérios") | um `texto` só, `"cor": "#FFFFFF"` |
+| **Números fixos** | **desde 16/11 (escolha do aluno, 13h31): dois números, os dois brancos com contorno preto: o 11:11 no canto de cima à direita e o 222 no canto de cima à esquerda, na mesma altura, o vídeo todo, entre 8% e 92% da largura**; o 888 saiu ("os 3 coloridos não ficam sérios") | dois `texto`, `"cor": "#FFFFFF"` (11:11 em X 230, Y 282; 222 em X −230, Y 282) |
 | **Faixa do story / do comentário (CTA)** | **caixa branca sólida, texto preto em negrito, o destaque em vermelho** (#E53935) ("Tap my photo: / your 2027 reading is in [my story]"; Face: "Your 2027 reading: / [link in the comments]"); tamanho 10 | o estilo já faz |
 | **Seta** (Insta) | vermelha com contorno preto, apontando para a foto do perfil | o estilo já faz |
 

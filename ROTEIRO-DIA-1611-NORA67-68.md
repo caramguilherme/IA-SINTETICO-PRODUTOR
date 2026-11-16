@@ -16,7 +16,7 @@
 
 ## O que mudou depois da R59 do Clone (16/11 13h06)
 - **O hook (Clone R60): ~3,6 s nos dois, em 3 tomadas de ~1,4 + ~1,4 + ~0,8 s**: o gesto de apontar curto, com algo se mexendo (no Folgers, o vapor do café e ela puxando a xícara; na onda, a água atrás dela), e a fala começando no impact. A mesma duração nos dois, para a comparação ser só do tipo de hook.
-- **Na tela, só o 11:11 branco** (o 888 e o 222 saíram).
+- **Na tela, o 11:11 e o 222, os dois brancos, nos cantos de cima** (escolha do aluno, 13h31; o 888 saiu).
 - **A bandeira discreta:** o broche na gola e uma bandeira pequena ao fundo (no pote da prateleira; na praia, a torre de salva-vidas ao longe), nunca grande na parede.
 
 ## As falas (≤ 22 palavras; números por extenso)

@@ -1318,7 +1318,7 @@ No fim, separe o que mantém, o que muda e o que foi sem fonte."
   - **Sem como conferir:** as aulas 35, 40, 51, 57 e a Estrutura Facebook (não temos as transcrições). A frase do Gustavo sobre o link em página nova cair como spam merece atenção: ele mesmo diz que parou de pôr. Fica registrada; o nosso comentário é manual e um por post.
 - **O que entra (decisão minha, 13h30):**
   - **O hook: 3,5 a 4,0 s, em 3 tomadas (~1,4 + ~1,4 + ~0,8 s) e a fala no impact.** Muda a regra da seção 2 do `CLAUDE.md` e do `BIBLIOTECA-PRE-GANCHOS.md`.
-  - **Os números:** fica só o 11:11 branco (escolha do aluno; as aulas aceitam 1, 2 ou 3).
+  - **Os números:** o aluno escolheu dois (13h31): o 11:11 e o 222, os dois brancos, nos cantos de cima; o 888 saiu (as aulas aceitam 1, 2 ou 3).
   - **O Face:** o comentário fixado com o link fica; o print da Qualidade/Recomendações da Página segue pedido ao aluno.
 
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
