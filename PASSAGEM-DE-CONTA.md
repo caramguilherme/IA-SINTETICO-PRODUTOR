@@ -105,3 +105,15 @@ Os vídeos e prints que o aluno mandou ficaram só nas sessões antigas; a anál
 - **Atualizar o dashboard:** `python3 -I ferramentas-painel/dashboard/preparar_csv.py <pasta>` (gera a cópia sem o BOM e o `rows.json`) → `node ferramentas-painel/dashboard/conferir-dados.js ferramentas-painel/dashboard/index.html <pasta>/rows.json` → subir a cópia como asset do dashboard → `update` em `datasets/metricas` (`source.url`, `source.name`, `updated`) com `if_version`.
 
 **Como responder ao aluno (05/11):** começar pelo que ele faz agora; texto para copiar pronto, com quebras de linha de verdade; dizer antes qual arquivo anexar; nada de "essa aí" ou "o de cima".
+
+## Passagem de 16/11 08h19 (da 5ª para a 6ª conta)
+- Tudo está na branch `claude/lucid-planck-zz5ob8`, sem nada pendente. A sessão nova, antes de qualquer coisa: `git fetch origin claude/lucid-planck-zz5ob8` e `git merge --ff-only origin/claude/lucid-planck-zz5ob8`.
+- **Ler primeiro:** o `CLAUDE.md` inteiro (a seção 1 tem o "Agora" de 16/11, e a seção 4 as entradas de 15 e 16/11), as R49 a R57 do `CLONE-DO-GUSTAVO-RESPOSTAS.md`, o fim do `METRICAS-NORA-LEIA.md`, a `FILA-DE-IDEIAS-E-TESTES.md` e a seção "Hooks de evento grande" do `BIBLIOTECA-PRE-GANCHOS.md`.
+- **As regras que mudaram em 15/11:**
+  - o pré-gancho tem ~4,8 s em 3 cortes, sem brilho de IA (R51 e R57);
+  - o 222 sai da fala e os falados têm 40 a 60 s (R54);
+  - no Face, sem pedido, sem post só de texto e sem loop (R54);
+  - a pergunta ao Clone tem até ~4.000 caracteres e, quando ele contradisser algo, volta para ele com a citação;
+  - as imagens do desejo entram pela `ferramentas-painel/dia-1511/montar_bases_nora66.py` (a skill `editar-video-nora` explica).
+- **Os vídeos finais do nora66** ficaram no scratchpad da 5ª conta e já foram postados. As specs e o script estão no repositório.
+
