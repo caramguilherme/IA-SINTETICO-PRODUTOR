@@ -164,7 +164,7 @@ def agente(c, ks):
         'aviso': (f'Vou te enviar {len(ks)} prompts, cada prompt é um vídeo. Faça todos na ordem, sem pedir minha aprovação entre um e outro, e depois renomeie cada um com o devido '
                   'número. Mantenha a consistência de voz em todos eles e utilize a imagem anexada como frame inicial e frame final em todos os vídeos que você gerar.'),
         'passos': [
-            'Conta do Flow: a que tiver ~120 créditos (me diga o saldo das 4). Abra um PROJETO NOVO no Flow e uma conversa nova no agente.',
+            'Conta do Flow: a que você escolher (~120 créditos). Abra um PROJETO NOVO no Flow e uma conversa nova no agente.',
             'Nas configurações do agente: Omni 1.2 Flash · 360p · 10 s · 9:16 (10 créditos por take) e gerar sem pedir aprovação. Depois, BAIXE cada take em 720p (não gasta crédito).',
             f'Anexe só a {c["img"]} (a imagem C do pré-gancho, a escolhida).',
             'Cole o aviso (acima) e, embaixo, o bloco “COPIAR TUDO JUNTO” da Central, sem editar nada.',
@@ -373,7 +373,7 @@ def montar():
              {'nome': 'd1511-DESEJO-1 a 7', 'tipo': 'imagens do desejo', 'status': 'gerar', 'descricao': '7 imagens sem a Nora (x4 cada, 0 crédito) para a edição dopaminérgica.'}]
     pecas += [{'nome': nome(k), 'tipo': 'take', 'status': 'gerar', 'descricao': f'“{F[k]}”'} for k in ks]
     p['pecas'] = {'titulo_decisao': 'Resumo', 'lista': pecas, 'decisao': [
-        'GERAR (na conta com ~120 créditos; me diga o saldo das 4): as 3 imagens do pré-gancho (0 crédito) e ME MANDE AS 4 OPÇÕES DA IMAGEM C; depois os 4 vídeos do pré-gancho (~40), '
+        'GERAR (na conta que você escolher, ~120 créditos): as 3 imagens do pré-gancho (0 crédito) e ME MANDE AS 4 OPÇÕES DA IMAGEM C; depois os 4 vídeos do pré-gancho (~40), '
         'as 7 imagens do desejo (0) e os 7 takes na imagem C pelo agente (~70). Total: ~110 créditos.',
         'O vídeo testa a edição dopaminérgica: as imagens do desejo nos primeiros ~15 s (hipótese: segura mais gente aos 5 e aos 10 s que o nora63, ~25% e ~10%). Edição no modelo de alto contraste do Clone.',
         'Postar à 0h00 de 15 para 16/11, ao vivo: Insta (o nora66-final, com o 222 antes do story) e Face (o nora66-final-FACE, que abre direto na Nora falando). No Face, logo depois, o comentário da Página com o link, '
