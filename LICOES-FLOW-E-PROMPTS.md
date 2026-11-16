@@ -612,3 +612,11 @@ O `d1211-PRE-vela` (Omni 1.1 Flash, 8 s) fez o que o prompt pedia (a vela acende
 ### 16/11/2026 18h02, dia de muitos erros de política no Flow (22ª leitura do Discord)
 - Vários alunos tiveram "Esta geração talvez viole nossas políticas" hoje, até para renomear vídeo no agente (Eduarda Kelly) e com imagem sem nada demais (gabrielbfrota).
 - **O que resolveu, na ordem para a Nora:** (1) o mesmo take num **projeto novo** do Flow (Herick, Kleber); (2) a fala reserva do painel, trocando uma palavra ou frase (o erro costuma vir perto do CTA: Herick, Alessandro); (3) limpar os cookies e dar F5 (Vinicius B; já no item 37 do checklist). Se o agente der erro ao renomear, renomear à mão.
+
+### 16/11/2026 19h18, a moeda que boia e atravessa o vidro (pré-gancho do nora67)
+- O clipe "a moeda cai no pires" (prompt curto, aula 54) saiu com a moeda caindo **dentro** do café. Ela ficou parada em cima do líquido, afundou e depois "atravessou" a parede da caneca até o pires.
+- O aluno: "fica parada em cima da água, bem sobrenatural… tira autoridade e mostra ser algo feito com IA, superficial."
+- **A regra na edição:** física estranha (objeto boiando, atravessando vidro, mão que funde) se corta antes de acontecer. O corte vem com o objeto ainda no ar (aula 43, 0:23:39: "tá caindo a moeda? Já transiciona").
+- **A regra no prompt:** quando a queda precisa cair num lugar certo (o pires), descrever o lugar de onde ela cai (a moeda bem em cima do lado vazio do pires, longe da caneca), ou deixar o pouso fora do clipe.
+- **O prompt curto fica em teste:** este erro de física não é de detalhe que faltou. O mesmo clipe com prompt longo (o sal, 15/11) também precisou de corte.
+

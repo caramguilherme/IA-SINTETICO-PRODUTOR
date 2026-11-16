@@ -104,3 +104,6 @@ T02: a mesa servindo todos (dividida) → as contas e as tarefas, nova (dividida
   - **2,8 a 3,67 s:** ela aponta para a lente, com o gesto ainda andando.
   - **O Flow errou a moeda:** ela cai dentro do café e depois "atravessa" o vidro até o pires (a partir de ~2,6 s do clipe). O corte para antes; cair no café também é um ritual coerente.
   - Som só do ambiente. O riser e o impact entram na edição final.
+- **16/11 19h18, o aluno reprovou a moeda boiando no café** ("tira autoridade e mostra ser algo feito com IA"). O hook foi refeito com a moeda cortada ainda no ar, e o montado chegou (NORA67.mp4, com o 1º hook na frente, trocado na edição).
+- **16/11 19h30, `nora67-final` (Insta, 37,7 s) e `nora67-final-FACE` (31,6 s) entregues.** Detalhe na `BIBLIOTECA-DE-TAKES.md`.
+

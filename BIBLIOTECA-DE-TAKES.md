@@ -279,6 +279,33 @@ Fora da numeração do nora. Peças com o nome do teste: `faceNN-IMG`, `faceNN-C
   - tirada a palavra solta "For" no fim do Insta.
 
   As versões lavanda ficaram como `-v1-lavanda` no scratchpad. O Face já tinha ido às 02h16 com a v1.
+- **16/11/2026 19h30, nora67 editado (P45; o café Folgers, 1º com a tela dividida): `nora67-final.mp4` (Insta, 37,7 s, 21,4 MB: o hook novo + T01 a T05) e `nora67-final-FACE.mp4` (Face, 31,6 s, 18,0 MB: T01 a T04 + T06, sem o hook).**
+  - **O montado do aluno (NORA67.mp4, 43,1 s)** veio com o 1º hook na frente. Os cortes estão em 3,75 · 8,25 · 15,25 · 23,33 · 30,083 · 37,833. As falas batem com o painel palavra por palavra, sem repetição do Flow.
+  - **O hook (3,67 s; `dia-1611/montar_hook_nora67.py`):**
+    - o café cai na água (0,60 a 2,00 do clipe 1);
+    - a moeda, aproximada 1,25x e **cortada ainda no ar** (0,20 a 1,60 do clipe 2);
+    - ela aponta (1,75 a 2,55 do clipe 3).
+    - A 1ª versão mostrava a moeda boiando no café. O aluno reprovou às 19h18 ("sobrenatural… mostra ser algo feito com IA"), e a lição está em `LICOES-FLOW-E-PROMPTS.md`.
+  - **As bases (`dia-1611/edicao_nora67.py`, com o `montar_desejo.py`):**
+    - Insta = o hook + o montado de 3,75 a 37,833;
+    - Face = o montado de 3,75 a 30,083 + de 37,833 ao fim.
+  - **As 8 imagens do desejo, no tempo do montado:**
+    - DESEJO-2, dividida, 9,10 a 11,00;
+    - DESEJO-8, dividida, 11,00 a 12,85;
+    - DESEJO-3, cheia, 12,85 a 15,20;
+    - DESEJO-4 (o dinheiro), cheia, 19,20 a 20,65, só no Insta;
+    - DESEJO-5, dividida, 20,65 a 21,95;
+    - DESEJO-6, cheia, 21,95 a 23,30;
+    - DESEJO-7, dividida, 24,38 a 27,90;
+    - DESEJO-9, cheia, 27,90 a 30,05.
+    - Cada imagem leva um whoosh a −12 dB.
+  - **Os textos:**
+    - a caixa amarela "CARRYING IT ALL ALONE? / TRY THIS COFFEE RITUAL" até o fim do T01;
+    - o 222 e o 11:11 brancos em Y 282 (28%), longe da caixa (9,6% a 18,9%) e do rosto;
+    - a faixa do Insta "Your 2027 reading: [cadeado] / tap my photo", com o cadeado desenhado (`dia-1611/cadeado.png`) e a seta, do T05 ao fim;
+    - a faixa do Face "Your 2027 reading: / link in the comments", do T06 ao fim.
+  - **Os sons:** o `riser` (o nora66 do Insta teve o riser-lento), com o pico em 3,57 s, e o impact em 3,67 s.
+  - **Specs:** `specs/spec-nora67.json`, `specs/spec-nora67-FACE.json`, `specs/desejo-nora67*.json` e `specs/palavras-nora67-montado.json`.
 - **15/11/2026 20h19, nora66 editado (P45; o sal Morton, com a edição dopaminérgica): `nora66-final.mp4` (Insta, 46,9 s: o hook + T01 a T06) e `nora66-final-FACE.mp4` (Face, 37,1 s: T01 a T04 + T07, sem o hook e sem a imagem do dinheiro).**
   - **O montado:** `NORA 66 CAPCUT.mp4` (Drive, 40 MB, 52,9 s), com o hook de 4,8 s já colado pelo aluno. A fala bate palavra por palavra com o painel e não tem repetição do Flow. Sem música debaixo do hook.
   - **Cortes do montado:** T01 4,916; T02 12,625; T04 28,583; T05 36,083; T06 40,916; T07 46,958.
