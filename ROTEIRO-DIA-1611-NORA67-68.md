@@ -90,7 +90,7 @@ T02: a mesa servindo todos (dividida) → as contas e as tarefas, nova (dividida
   - as chaves do carro, a sacola de mercado e a caneca de café estão juntas no meio da imagem, então cabem no recorte da metade de baixo;
   - o clima é cuidadoso, sem estresse.
   - **Por que não as outras:** a 1ª tem 2 pessoas ao fundo, uma com a cabeça apagada (estranho); a 2ª é mais de dia, cheia de objetos, e tem uma letra na sacola; a 3ª ficou escura demais e mais pesada.
-- **16/11 19h00, `d1611-DESEJO-9-festas` escolhida: a 2ª opção** (`ferramentas-painel/dia-1611/d1611-DESEJO-9-festas-escolhida-opcao2.jpg`). Vai no T04, "just in time for the holidays", em tela cheia:
+- **16/11 18h57, `d1611-DESEJO-9-festas` escolhida: a 2ª opção** (`ferramentas-painel/dia-1611/d1611-DESEJO-9-festas-escolhida-opcao2.jpg`). Vai no T04, "just in time for the holidays", em tela cheia:
   - a árvore acesa, a lareira com fogo, as meias e os presentes estão no meio da imagem, então leem num relance;
   - o sofá com a manta de tricô fica no terço de baixo, onde entra a legenda;
   - a lareira fica dentro dos 92% da largura que o Face mostra no iPhone (P43).
