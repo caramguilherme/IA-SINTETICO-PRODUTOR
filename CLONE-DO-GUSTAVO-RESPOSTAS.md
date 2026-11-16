@@ -1247,7 +1247,7 @@ No fim, separe: o que você mantém, o que muda e o que disse sem fonte."
     - os números "orbitando" (a R50 mandou limpar a tela).
   - **A novela com reviravolta** é topo da pirâmide (formato novo, com outras pessoas em cena). Fica anotada, sem data.
 
-## R59 (pergunta pronta em 16/11 12h47, pedido do aluno: "antes de montar os painéis de hj, qual vai ser a pergunta pro clone? … os números fixos na tela com as cores amarelo, azul não ficam sérios… metadados, será que isso tá influenciando?"; resposta a colar): os números de 15 e 16/11, o gesto de apontar, os números na tela, os metadados, a bandeira e o Face
+## R59 (pergunta pronta em 16/11 12h58, pedido do aluno: "antes de montar os painéis de hj, qual vai ser a pergunta pro clone? … os números fixos na tela com as cores amarelo, azul não ficam sérios… metadados, será que isso tá influenciando?"; resposta a colar): os números de 15 e 16/11, o gesto de apontar, os números na tela, os metadados, a bandeira e o Face
 **O que eu já sei antes da resposta:**
 - **Metadados:** o loop (2,2 mil) e os 2 falados (~140) saíram do mesmo processo (Flow, CapCut, `editar_video.py`), e o perfil já é marcado como IA no Insta e no Face (`FATOS-DO-ALUNO.md`, 27/10). O metadado é o mesmo nos 3; a diferença está no formato e na amostra (o loop subiu de dia, com 54% de Índia). Vai ao Clone porque o aluno pediu.
 - **Os números na tela:** concordo com o aluno em testar menos. A própria R50 contou os 3 números entre as "5 camadas de texto"; os campeões tinham os 3, mas com o tsunami.
