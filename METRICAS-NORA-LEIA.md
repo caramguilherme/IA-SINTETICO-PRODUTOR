@@ -749,6 +749,12 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
 
 - **16/11/2026 12h29, Insta (grade do perfil; print do aluno):** nora66 122 views (~12h05), nora65 146 (~16h07), o loop 2.210 (parou: eram 2.204 com ~24 h), nora63 159, nora60 182, nora59 152. Os falados seguem entre ~120 e ~180; a decisão sai do Insights do nora66 (a curva aos 5, 10 e 20 s, a régua da R55) e do nora65. (A linha do nora65 no Insta faltava no CSV: criada agora.)
 
+- **16/11/2026 12h33, Insta nora65 (a carta, sem pré-gancho; 15/11 20h22, ~16h11; Insights do aluno):**
+  - **146 views, 135 viewers, 28,1% nos 3 s (skip 71,9%), tempo médio 3 s em 31 s, 1 visita ao perfil, 0 follows, 0 curtidas, 1 comentário (0,7%).** 100% não seguidores.
+  - **Países: EUA 34,2%, Índia 13,7%, Reino Unido 10,3%, Canadá 8,2%.** Idade: 35-44 34,2%, 45-54 24%, 55+ 21,2%.
+  - Curva colada no reel típico; retenção ~50% aos ~2 s, ~15% aos ~5 s e ~5% aos 8 s.
+  - **Leitura:** a janela das 20h dá o público certo (EUA no topo, Índia abaixo de 20%), mas **abrir na Nora falando com a carta, sem hook visual, segurou menos nos 3 s que os rituais com produto** (canela 42,5%, os tsunamis 66% a 71%). Confirma a regra da seção 2: no Insta o vídeo sempre abre com um hook visual (R51). A carta sem ritual (o viral 51.1) sai da fila de aberturas do Insta; o nora66 (o sal) é que diz se o hook de ritual na mesma cena segura o corpo.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
