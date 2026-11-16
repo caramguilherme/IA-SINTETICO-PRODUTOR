@@ -1124,6 +1124,38 @@ Qual entra às 19h30 e qual à 0h00? Ou repito o sal com outro Take 1, para medi
     - **Face às 12h:** o campeão de 11/11 fala "Wednesday, November 11th" e "11:11 portal" no T01 e no T02. Sem a data, sobra só o tsunami. Então entra o tsunami espelhado + takes sem data de outro vídeo com 3 dias ou mais, montado por mim, a 0 crédito.
     - **Face às 9h:** o POV de amor (nora61) faz 3 dias às 10h20 de 16/11, então vai às 10h30 e não às 9h.
 
+## R56 (perguntas do aluno feitas direto no Clone em 15/11 ~21h10, coladas às 21h18): a emoção do tsunami e hooks visuais com a mesma força
+**Pergunta 1 (do aluno):** "o hook visual que eu usei do tsunami, que tipo de emoção ele causa?"
+- **Resposta (resumo):** choque, alarme e perigo iminente (luta ou fuga); para o dedo porque o cérebro precisa de 3 a 5 s para entender a cena (68% a 71% nos 3 s); tensão e aflição; **mas o medo e a catástrofe destoam do funil de manifestação** (aspiracional), e "nas aulas de copywriting" o Gustavo e o Iorhan dizem que esse lead chega desqualificado e derruba a conversão (sem minuto).
+**Pergunta 2 (do aluno):** "quero ideias de hook visual que mexam com essa mesma emoção, igual ao tsunami… ritual de sal, de café, de canela não atinge isso… precisa ser algo relacionado ao funil de manifestation"
+- **Resposta (5 ideias, citando as aulas 21, 32, 36, 54 e 69):**
+  - (1) **o eclipse ou portal dourado no céu:** nuvens em vórtice e um feixe de luz dourada descendo até ela. Caixa: "WHEN THE SKY OPENS LIKE THIS: / YOUR 2027 BREAKTHROUGH IS HERE". Take 1: "When the universe moves with this kind of force, your cycle of silent delays is officially broken.";
+  - (2) **a onda de choque:** ela bate as palmas ou um sino, e uma onda invisível rompe a névoa e joga pedras e folhas na lente. "STOP SCROLLING: / THE HEAVY FOG CLEARS TONIGHT";
+  - (3) **o papel que pega fogo de uma vez**, vira luz dourada e cobre a lente. "AS THIS BURNS: / YOUR HARDEST DAYS TURN TO ASH". Take 1 com "your silent financial struggles end right here";
+  - (4) **a pedra ou geodo que racha** e vaza um brilho dourado líquido. "WHEN THIS BREAKS OPEN: / YOUR 2027 BLESSINGS UNLOCK";
+  - (5) **a chuva de ouro e de cédulas** em volta dela. "FOR THE TIRED WOMAN: / THE FLOODGATES ARE OPENING". Take 1 "If you've been drowning in bills all year…";
+  - uma tabela que estima de 55% a 65% nos 3 s para os "ganchos cósmicos".
+- **O que eu conferi (21h18):**
+  - **Os nossos tsunamis:**
+    - nora47: 579 views, 66,4% nos 3 s;
+    - nora48: 1.638, 70,1%;
+    - nora49: 2.043, 68,2%;
+    - nora50: 1.678, 71,5%;
+    - nora55 no Face: 4.236, 53,9%;
+    - nora59: 149, 44,2%, mas em 12/11, com 6 posts por dia.
+  - **O hook de evento grande segura de 66% a 71% nos 3 s**, contra 40% a 43% dos rituais de bancada. O geodo (nora37, 28/10) teve 57%.
+  - **"O tsunami derruba a conversão" não aparece nos nossos números:** o período dos campeões (06 a 10/11) teve mais cliques que o dos rituais (13 e 14/11, 1 por dia).
+- **Contradições do Clone para cobrar (pedido do aluno):**
+  - (a) na R55, ele mandou repostar o tsunami no Face amanhã às 12h;
+  - (b) na R51, ele mandou tirar o brilho feito pela IA ("efeitos artificiais baratos denunciam a IA"), mas as ideias 1, 2, 3 e 4 dependem de luz e efeito feitos pela IA;
+  - (c) os 55% a 65% da tabela não têm fonte;
+  - (d) os Take 1 das ideias 3 e 5 prometem o fim dos problemas com dinheiro e falam de dívida, contra o pedido da R55 ("sem medo, sem prazo, sem prometer dinheiro").
+- **Decisão minha (a confirmar com o aluno):**
+  - A emoção do tsunami vale; o medo fica só na imagem, nunca na fala (P42).
+  - **Na ordem:** (1) a onda gigante que quebra atrás dela enquanto ela fica de pé e calma, se vira e aponta para a lente (o tsunami sem a fuga, casado com "the worst is behind you" do corpo A); (2) o céu de tempestade que se abre com raios de sol reais, sem feixe nem brilho de IA (a ideia 1, realista); (3) a pedra ou geodo que racha nas mãos dela, com cristais e flocos de ouro, sem brilho líquido (a ideia 4).
+  - **Fora:** a onda de choque (efeito puro de IA); a chuva de cédulas (dinheiro na tela e o Take 1 de dívida); o papel que "explode em luz" (o nº 43, com a chama real, continua na fila).
+  - **Para 16/11:** o Folgers às 19h30 (o ritual) contra um hook de evento grande à 0h00, com o mesmo corpo e o mesmo CTA. Os 2 tipos de hook se comparam lado a lado, uma variável só.
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 
