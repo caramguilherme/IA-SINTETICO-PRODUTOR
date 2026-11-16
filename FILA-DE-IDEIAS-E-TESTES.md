@@ -29,7 +29,7 @@
 
 ## Próximos testes (nesta ordem; detalhe em CLAUDE.md seção 2, "Ordem dos testes")
 1. **A faixa do story com o campo trancado** ("Your 2027 reading: 🔒 / tap my photo"). 0 crédito, na edição. Fonte: quadro da aula 18, `MATERIAIS-CALL-02-06/LEIA.md`.
-2. **O pedido de compartilhar antes do CTA**, só no Insta. Fonte: o costume do Lucas Dusi, 13/11.
+2. **O pedido de compartilhar antes do CTA**, só no Insta. Fonte: o costume do Lucas Dusi, 13/11. **Atenção (Clone R54, 15/11): a fala termina num comando só (o story); o compartilhar, se entrar, vai depois do CTA ou só na legenda.**
 3. **A música:** emocional (~20% a 25%), e também as variações da aula 21 (0:55:22): ritmo árabe, ritmo indígena, frequência em Hz. Uma por vez, a 0 crédito, na edição.
 4. **O que a R50 (a edição) responder:** volta ao estilo dos campeões (branco, preto, vermelho e amarelo forte) ou não. Fonte: `CLONE-DO-GUSTAVO-RESPOSTAS.md` R50.
 
@@ -105,7 +105,7 @@
   - aula de ~10/07: "não apelem tanto… qualifica um pouco mais";
   - aula 55, 30/09: "a conversão é infinitamente menor".
 
-  **Vale o mais recente:** 25 a 40 s com qualificação, promessa e CTA.
+  **Vale o mais recente:** 25 a 40 s com qualificação, promessa e CTA. **Atualizado pelo Clone R54 (15/11): falados de 40 a 60 s, sem encurtar para 20 a 25 s.**
 - **Variação de gancho:**
   - nos slides da aula 28 e na aula de ~10/07, é a base;
   - na aula 18, 02/06, no pago: "quase não acerta mais gancho; mudar formato e rosto volta a escalar";

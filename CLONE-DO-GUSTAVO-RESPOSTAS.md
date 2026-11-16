@@ -1023,7 +1023,33 @@ Por que insistir em post de texto no Face com esses números?
 7. A seta. Você disse que a seta aponta para a foto do perfil "no canto superior esquerdo". No Reels, a foto do perfil fica embaixo, à esquerda. Confirma?
 
 No fim, separe: no que você mudou de opinião, o que mantém e o que você disse sem ter fonte nas aulas."
-- **Resposta:** (a colar)
+- **Resposta (colada pelo aluno às ~21h; o Clone respondeu ponto por ponto e se retratou em vários):**
+  1. **O 222 sai da fala dos falados; fica só na legenda e no número na tela.**
+     - Aula 43 (0:36:41): "sempre bota um ctazinho de comentário… dá engajamento".
+     - Aula 65 (Iorhan, 1:24:30 a 1:26:11 e 1:43:09): "tanto estímulo que cadê a conversão… isso pode ser pós-CTA… deixa pra depois".
+     - Aula 66 (Gustavo, 0:49:45): "ele deve ficar depois do CTA… bem depois do CTA".
+     - Os dados: o nora63 tinha o 222 antes do CTA e teve 0 visitas; o loop, com o 222 só na legenda, teve 10.
+     - Se for usado na fala, só depois do CTA.
+  2. **A duração dos falados fica em 40 a 60 s; não encurtar para 20 a 25 s** (aula 55, 0:14:27; aula 28, 1:02:57: "até 60 segundos tá de boa… não apelem tanto para um clickbait tão curto"). O que resolve a retenção inicial é a continuidade entre o pré-gancho e a fala, e não cortar o corpo.
+  3. **Face: sem "comente Amém" nem "compartilhe com uma amiga" no texto principal.** As aulas mostram esses pedidos (aulas 12, 55, 70), mas a política da Meta contra isca de engajamento prevalece, ainda mais em Página nova.
+  4. **Os posts de texto no Face ficam suspensos.** A call de 09/11 (0:58:15) diz que o texto na tela "nunca converteu bem… é mais para viralizar"; os números da Página mostram que ela só entrega vídeo com a especialista.
+  5. **Encurtador: não usar.** Usar o link direto (ou domínio próprio testado), sem perder os parâmetros.
+  6. **O checkout:**
+     - **Retratação:** o "1 checkout a cada 20 a 50 cliques" não está nas aulas 12, 21 e 32. A aula 32 (1:32:08) diz que não existe média fixa ("tem gente que um clique vende, tem gente que mil cliques vende"). A aula 12 (0:51:57) fala em ~10 checkouts por venda. A comunidade fala em 18% a 20% dos cliques chegando ao checkout.
+     - **A Índia:** "0,2% de conversão de checkout" está na aula 28 (0:58:30 a 0:58:42). A parte da Stripe foi extrapolação dele.
+  7. **A seta:** retratação total. No Reels, a foto do perfil fica embaixo, à esquerda, e a seta aponta para baixo e para a esquerda.
+- **Conferido nas nossas transcrições (21h02):**
+  - os 0,2% da Índia estão na de 10/07 (`TRANSCRICOES/2026-07-10-variacoes-de-criativos-e-avatares-iorhan.md`), o que confirma que a "aula de variações" é a aula 28;
+  - o "pós-CTA" está na aula do Iorhan de 30/10;
+  - o "texto na tela nunca converteu bem" está na call do Gustavo de 09/11 (o Clone chama de aula 70);
+  - a aula 66 nós não temos transcrita.
+- **O que muda (decisão minha, 21h02):**
+  - **O 222 sai da fala dos falados do Insta.** Fica na legenda ("Comment 222…") e no número na tela.
+  - O nora66 de hoje ganhou uma versão sem o T05 (`nora66-final-sem222`). O teste da edição dopaminérgica não se mistura, porque é medido aos 5 e aos 10 s, e o 222 vinha aos ~36 s.
+  - Os falados ficam entre 40 e 60 s.
+  - Face: sem pedido e sem post só de texto (o slideshow e o loop no Face saem). O POV e o empilhamento ficam só como tapa-buraco, porque têm a voz.
+  - Sem encurtador.
+  - **A régua de 80 a 100 cliques da R53 perde a base** (vinha do número retratado). Fica a da comunidade: 18% a 20% dos cliques no checkout. Com ~37 cliques, isso daria ~7, e foram 0. Para julgar, separar os cliques por dia e por público.
 - **Nota (resposta ao aluno: "pq o face corta isca? quem falou isso? o clone?"):** a regra "no Face, sem pedido" não veio do Clone. Fui eu, em 10/11 ~01h15 (`COMUNIDADE-E-ESTRATEGIA.md`), com base na política pública da Meta contra isca de engajamento (posts que pedem curtida, comentário, compartilhamento ou marcação perdem distribuição). O Clone sugeriu o "Amém" na R29 (11/11), o texto com "Type AMEN" na R43 e na R48 e o slideshow na R14. O slideshow foi postado (slide1211, 12/11): 9 views.
 
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
