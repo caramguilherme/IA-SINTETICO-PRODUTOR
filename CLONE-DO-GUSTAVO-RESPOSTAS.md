@@ -1247,6 +1247,31 @@ No fim, separe: o que você mantém, o que muda e o que disse sem fonte."
     - os números "orbitando" (a R50 mandou limpar a tela).
   - **A novela com reviravolta** é topo da pirâmide (formato novo, com outras pessoas em cena). Fica anotada, sem data.
 
+## R59 (pergunta pronta em 16/11 12h47, pedido do aluno: "antes de montar os painéis de hj, qual vai ser a pergunta pro clone? … os números fixos na tela com as cores amarelo, azul não ficam sérios… metadados, será que isso tá influenciando?"; resposta a colar): os números de 15 e 16/11, o gesto de apontar, os números na tela, os metadados, a bandeira e o Face
+**O que eu já sei antes da resposta:**
+- **Metadados:** o loop (2,2 mil) e os 2 falados (~140) saíram do mesmo processo (Flow, CapCut, `editar_video.py`), e o perfil já é marcado como IA no Insta e no Face (`FATOS-DO-ALUNO.md`, 27/10). O metadado é o mesmo nos 3; a diferença está no formato e na amostra (o loop subiu de dia, com 54% de Índia). Vai ao Clone porque o aluno pediu.
+- **Os números na tela:** concordo com o aluno em testar menos. A própria R50 contou os 3 números entre as "5 camadas de texto"; os campeões tinham os 3, mas com o tsunami.
+**Pergunta (~3184 caracteres):** "Pergunta (16/11, 13h): os números de ontem e de hoje e 5 dúvidas antes de gerar os 2 vídeos de hoje. Em cada ponto, me dê a aula e o minuto, e diga quando for opinião sem fonte.
+
+NÚMEROS (Insta)
+- nora64, loop de 8 s (14/11 20h): 2.210 views, mas 54% Índia; parou desde as 24 h.
+- nora65, a carta, a Nora falando desde o 1º quadro, sem hook visual (15/11 20h22, ~16 h): 146 views, 28% nos 3 s, 3 s de tempo médio, 1 visita ao perfil, EUA 34%, Índia 14%.
+- nora66, o sal Morton (hook de 4,8 s em 3 cortes como na sua R51, ela fala na mesma cena, 7 imagens do desejo em tela cheia a partir dos 7 s; 16/11 00h24, ~12 h): 122 views, 47% nos 3 s, 6 s de tempo médio em 42 s, 1 visita, EUA 60%, Canadá 18%, Índia 1,6%. Curva: ~50% aos 3 s, 34% aos 4 s, 24% aos 5 s, 15% aos 7 s, 9% aos 10 s, 3% aos 20 s.
+- Face: o sal 24 views em 12 h; a canela 14; o loop 31; a carta 235.
+- Tracker desde 27/10: ~38 cliques, ~17 terminaram o quiz, 0 checkout.
+
+1. O gesto de apontar. Na R51 você mandou ela segurar o gesto de apontar parado de 1,2 a 1,5 s no fim do hook. No sal, metade dos que passaram dos 3 s saiu entre 3 e 5 s, justamente no corte dela apontando parada (3,2 a 4,8 s), antes da fala. Na canela caiu igual no mesmo ponto. Minha proposta para hoje: apontar ~0,8 s, com algo ainda se mexendo na cena, e a fala começando no impact. Concorda? O que fazer entre o fim do ritual e a 1ª palavra?
+
+2. Os números fixos na tela. Hoje uso 3 números o vídeo todo, nos cantos: 11:11 branco, 888 ciano e 222 amarelo. O aluno acha que não passa seriedade e que nos virais aparecem 1 ou 2 números, brancos. Na R50 você contou os números entre as "5 camadas de texto". Fico com 1 número só (11:11 branco), 2, ou nenhum?
+
+3. Metadados. O aluno pergunta se os metadados do arquivo podem estar travando a entrega: o loop deu 2,2 mil e os 2 falados seguintes ficaram em ~140. Os 3 saíram do mesmo processo (Flow, CapCut e o texto gravado por script com ffmpeg), e o perfil já é marcado como IA no Insta e no Face. Metadado explica essa diferença, ou é o formato e o horário (o loop subiu de dia, com a amostra indiana)?
+
+4. A bandeira e as palavras americanas. No Discord, o Caio1094 foi de 70% Índia a 70% EUA em 15 a 20 dias com bandeira dos EUA em todo vídeo e palavras americanas na copy (cash, bills, rent, paycheck); o Pedro, que fez a 1ª venda ontem, põe a bandeira no fundo, visível. Para hoje: broche da bandeira na roupa, a bandeira no fundo, e no corpo "juggling bills and errands", "unexpected cash, peace of mind" e "just in time for the holidays". Isso ajuda, ou pode baratear a especialista?
+
+5. O Face. 3 dos últimos 5 vídeos ficaram abaixo de 30 views (a canela, o loop e o sal), e a carta e o bicarbonato passaram de 230. O que trava a Página? O que olhar além do Status da conta?
+
+HOJE (falta só gerar): 19h30 o Folgers (ritual; Take 1 "If you spent all day carrying everything alone, this quiet moment is for you.") e 0h00 a onda que quebra no rochedo atrás dela, com ela calma (o Take 1 da sua R57). O mesmo corpo e o mesmo CTA nos dois; tela dividida (ela falando em cima, a imagem do desejo embaixo) alternando com tela cheia; a faixa do story com o cadeado. Algo muda antes de gerar?"
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 
