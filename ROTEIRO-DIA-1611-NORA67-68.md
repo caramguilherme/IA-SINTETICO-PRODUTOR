@@ -1,6 +1,6 @@
 # Roteiro do dia 16/11/2026: nora67 (o café Folgers, 19h30) e nora68 (a onda no rochedo, 0h00)
 
-**Estado (16/11 15h30): painéis publicados** ("pode montar" às ~15h10, junto com o prompt curto nos clipes do pré-gancho).
+**Estado (16/11 15h20): painéis publicados** ("pode montar" às ~15h10, junto com o prompt curto nos clipes do pré-gancho).
 
 | Vídeo | Quando e onde | Painel |
 |---|---|---|
@@ -11,7 +11,7 @@ Gerador: `ferramentas-painel/dia-1611/build_dia_1611.py`. Pedido do aluno às 12
 
 ## Leitura (registro)
 - **Lido para este rascunho (16/11, 12h00 a 12h41):** a `FILA-DE-IDEIAS-E-TESTES.md` inteira (08h45); as R49 a R58 do `CLONE-DO-GUSTAVO-RESPOSTAS.md`; o `REGRAS-DO-AGENTE.md` na P33 (fala de 19 a 21 palavras, sem palavra repetida) e na P42 (copy que converte); o `LICOES-FLOW-E-PROMPTS.md` nas lições do filtro de fala ("private", "link", "receive", "lock in", "claim", ameaça de perda, a mão descendo para o colo); as falas do nora66 (`ferramentas-painel/dia-1511/build_dia_1511.py`); as métricas do nora65 e do nora66 de hoje (`METRICAS-NORA-LEIA.md`, 12h32 e 12h34); a dica do Caio1094 (`COMUNIDADE-E-ESTRATEGIA.md`, 12h38); o `BIBLIOTECA-PRE-GANCHOS.md` nº 42 e nº 45.
-- **Antes do painel (16/11 ~15h10 a 15h30), leitura focada no painel, como em 13, 14 e 15/11 (a lista inteira do `LEIA-TUDO-ANTES.md` não cabe numa sessão):** o `REGRAS-DO-AGENTE.md` inteiro (P1 a P47); o `LICOES-FLOW-E-PROMPTS.md` (o checklist da seção 1 e as lições de 12 a 16/11); a `FILA-DE-IDEIAS-E-TESTES.md` (escrita hoje); o `LEIA-TUDO-ANTES.md`; o `build_dia_1511.py` inteiro (o molde); o `BIBLIOTECA-PRE-GANCHOS.md` nº 42 e 45; o Clone R55 a R61 e o plano do Folgers no `CLONE-ORIGINAIS/` (R55, R59); as aulas 19, 35, 40, 54 e 57 (lidas hoje, inteiras). **Não relido nesta sessão:** as aulas e bibliotecas da lista que não mandam neste painel.
+- **Antes do painel (16/11 ~15h10 a 15h20), leitura focada no painel, como em 13, 14 e 15/11 (a lista inteira do `LEIA-TUDO-ANTES.md` não cabe numa sessão):** o `REGRAS-DO-AGENTE.md` inteiro (P1 a P47); o `LICOES-FLOW-E-PROMPTS.md` (o checklist da seção 1 e as lições de 12 a 16/11); a `FILA-DE-IDEIAS-E-TESTES.md` (escrita hoje); o `LEIA-TUDO-ANTES.md`; o `build_dia_1511.py` inteiro (o molde); o `BIBLIOTECA-PRE-GANCHOS.md` nº 42 e 45; o Clone R55 a R61 e o plano do Folgers no `CLONE-ORIGINAIS/` (R55, R59); as aulas 19, 35, 40, 54 e 57 (lidas hoje, inteiras). **Não relido nesta sessão:** as aulas e bibliotecas da lista que não mandam neste painel.
 
 ## O que este par testa (uma variável entre os dois)
 - **Hipótese:** um hook de evento grande (a onda que quebra atrás dela, com ela calma) segura mais nos 3 s e entre os 3 e os 5 s que um ritual de bancada (o Folgers). Medida: % nos 3 s e a curva aos 5 s. O resto é igual nos dois (o corpo, o CTA, a edição, o estilo).
