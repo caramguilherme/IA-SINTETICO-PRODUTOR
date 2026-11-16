@@ -69,7 +69,7 @@ T02: a mesa servindo todos (dividida) → as contas e as tarefas, nova (dividida
   - a lata do Folgers aparece inteira, com o rótulo legível;
   - tem o broche e a bandeira ao fundo.
   - **Por que não as outras:** a 2ª também tem a colher sobre a caneca, mas a moeda ficou longe da mão; na 1ª, a colher está ao lado da caneca, e a lata é cortada na borda; na 4ª, a colher está em cima da lata, e não da caneca.
-- **16/11 18h52, `d1611-PRE-cafe-IMG-B` escolhida: a 4ª opção** (`ferramentas-painel/dia-1611/d1611-PRE-cafe-IMG-B-escolhida-opcao4.jpg`):
+- **16/11 18h50, `d1611-PRE-cafe-IMG-B` escolhida: a 4ª opção** (`ferramentas-painel/dia-1611/d1611-PRE-cafe-IMG-B-escolhida-opcao4.jpg`):
   - a moeda está entre os dedos, a ~10 cm bem em cima do lado vazio do pires, à direita da caneca, então no vídeo 2 ela cai no pires e não dentro do café;
   - a caneca tem café escuro;
   - a lata aparece na borda direita;
