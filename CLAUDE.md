@@ -26,7 +26,7 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
     - **0h00: a onda que quebra no rochedo atrás dela, com ela calma** (nº 45), com o Take 1 "If you feel emotionally exhausted tonight, breathe: the heaviest storm is officially behind you."; a versão do Face leva a onda;
     - os dois com o mesmo corpo (T2 da R48 + T3 e T4 do corpo A) e o mesmo CTA ("…three quick questions in my story to uncover your guiding energy for twenty twenty-seven.");
     - hook da R51 (~4,8 s, 3 cortes, sem brilho de IA), a Nora falando na mesma cena, 40 a 60 s, sem o 222 na fala e a faixa com o cadeado (desenhado, porque o 🔒 não existe na Poppins);
-  - (4) **Face:** 10h30 o POV de amor; 12h o tsunami espelhado + takes sem data; 16h um empilhamento com um pré-gancho de 3 dias ou mais (não a vela); 19h30 e 0h00 as versões do Face;
+  - (4) **Face:** 10h30 o POV de amor (**pronto em 16/11 08h35: `nora61-VAR-FACE`, espelhado, 1,1x, alto contraste; o aluno só põe a música**); 12h o tsunami espelhado + takes sem data (**pronto: `tsunami-1611-FACE`, o tsunami curto do nora55 + o T02 a T05 do nora59**; detalhe na `BIBLIOTECA-DE-TAKES.md`); 16h um empilhamento com um pré-gancho de 3 dias ou mais (não a vela); 19h30 e 0h00 as versões do Face;
   - (5) **o teste de cliente oculto no funil** (o link no celular, o quiz, a VSL até os 16:00, o checkout em dólar; descontar o clique do aluno no Tracker).
   - **O loop volta na quarta, 18/11, entre 20h00 e 21h30**, com 4 signos novos e sem promessa de dinheiro.
   - **O dashboard foi atualizado em 16/11 08h30 (versão 41)**, com as leituras de 15/11 (o Insights do loop, o Face das 20h30 e as linhas do nora65 e do nora66).

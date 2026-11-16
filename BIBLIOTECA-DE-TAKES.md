@@ -301,3 +301,26 @@ Fora da numeração do nora. Peças com o nome do teste: `faceNN-IMG`, `faceNN-C
 
     Finais: `nora66-final.mp4` (46,9 s, 25,1 MB) e `nora66-final-FACE.mp4` (37,1 s, 20,2 MB).
   - **21h07, `nora66-final-sem222.mp4` (Insta, 42,0 s, 22,9 MB), pela regra nova da R54 (o 222 sai da fala):** a base do Insta sem o T05. O corte vai de 36,0 a 40,833 s, com fade de 30 ms no áudio, e a emenda fica limpa ("…your abundance." → "Tap my photo…"). A faixa do story e a seta entram aos 36,0 s. Spec em `specs/spec-nora66-sem222.json`. A legenda do Insta continua pedindo o 222. É a versão recomendada para as 0h25.
+
+- **16/11/2026 08h35 (6ª conta), as peças do Face das 10h30 e das 12h (Clone R55, com os ajustes da R55 no `CLONE-DO-GUSTAVO-RESPOSTAS.md`), 0 crédito, montadas aqui:**
+  - **10h30, `nora61-VAR-FACE.mp4` (16,3 s), o POV de amor de novo** (postado no Face em 13/11 10h20; 3 dias cumpridos):
+    - a base é a mesma do nora61 (`pov-base.mp4`: as 4 paisagens do lago + a voz L1 a L3);
+    - espelhada, mais clara e em 1,1x pelo `variacao_face.py`;
+    - no `alto-contraste`: caixa do topo amarela "STILL HOPING FOR REAL LOVE? / [THIS IS FOR YOU]" (o nora61 tinha a areia-rosé em minúsculas), legenda branca com destaque amarelo, faixa "Your 2027 love reading: / [link in the comments]";
+    - os mesmos sons (riser, impact e um whoosh por paisagem);
+    - **o aluno põe a música de sempre no CapCut (−18 dB)**, como no nora61;
+    - spec: `specs/spec-nora61-VAR.json`.
+  - **12h, `tsunami-1611-FACE.mp4` (~29 s), o tsunami do campeão do Face com falas sem data:**
+    - o hook é o `nora47-PRE-A` (o tsunami curto, 0 a 3,92 s, o mesmo do nora55, que fez 4.236 no Face);
+    - as falas são o T02 a T05 do nora59 (12/11, Face 161 views; 4 dias atrás), cortadas do `nora59-cortado` a partir de 14,083 s (o T01, com "Thursday, November 12", saiu);
+    - espelhado, mais claro e em 1,1x;
+    - textos no `alto-contraste`:
+      - caixa do topo amarela "FOR THE WOMAN WHO CARRIED IT ALL: / [THE HARDEST PART IS OVER]" até o fim do T02;
+      - os 3 números;
+      - legenda do 3,92 s ao fim;
+      - as 2 imagens do desejo do nora59 (o casal e as chaves) em "When your energy aligns… new chapter", com corte seco entre elas e 1 quadro a mais no fim de cada uma (a lição do nora66), por baixo da legenda;
+      - sem o Trustpilot (tela limpa até o CTA, R50);
+      - faixa "Your 2027 reading: / [link in the comments]" no "Tap my photo";
+    - riser no fim do tsunami e impact no corte;
+    - o áudio é o do aluno (com a música do nora59);
+    - spec: `specs/spec-tsunami-1611.json`.

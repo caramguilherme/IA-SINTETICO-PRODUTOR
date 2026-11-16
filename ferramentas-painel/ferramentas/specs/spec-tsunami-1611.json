@@ -1,0 +1,509 @@
+{
+ "entrada": "/tmp/claude-0/-home-user-IA-SINTETICO-PRODUTOR/6ef474f7-381e-57e0-a979-e45ed783b267/scratchpad/f12h/base12h.mp4",
+ "saida": "/tmp/claude-0/-home-user-IA-SINTETICO-PRODUTOR/6ef474f7-381e-57e0-a979-e45ed783b267/scratchpad/f12h/tsunami-1611.mp4",
+ "crf": 21,
+ "preset": "medium",
+ "estilo": "alto-contraste",
+ "corte": 3.917,
+ "respiro": 0.1,
+ "sons": [
+  {
+   "som": "riser",
+   "pico_em": "corte-0.1"
+  },
+  {
+   "som": "impact",
+   "pico_em": "corte"
+  }
+ ],
+ "itens": [
+  {
+   "tipo": "imagem",
+   "ini": 19.0,
+   "fim": 20.834,
+   "arquivo": "/home/user/IA-SINTETICO-PRODUTOR/ferramentas-painel/imagens-fixas/nora46-DESEJO-2-casal.jpg",
+   "x": 0,
+   "y": 0,
+   "largura": 720,
+   "fade": 0
+  },
+  {
+   "tipo": "imagem",
+   "ini": 20.792,
+   "fim": 22.625,
+   "arquivo": "/home/user/IA-SINTETICO-PRODUTOR/ferramentas-painel/imagens-fixas/nora46-DESEJO-3-casa.jpg",
+   "x": 0,
+   "y": 0,
+   "largura": 720,
+   "fade": 0
+  },
+  {
+   "tipo": "caixa",
+   "ini": 0,
+   "fim": 11.333,
+   "x": 0,
+   "y": 458,
+   "tamanho": 10,
+   "linhas": [
+    "FOR THE WOMAN WHO CARRIED IT ALL:",
+    "[THE HARDEST PART IS OVER]"
+   ],
+   "caixa": {
+    "fundo": [
+     255,
+     214,
+     0,
+     255
+    ],
+    "texto": "#000000",
+    "destaque": "#000000",
+    "fonte": "bold",
+    "destaque_fonte": "bold",
+    "raio": 14,
+    "sombra": null
+   }
+  },
+  {
+   "tipo": "texto",
+   "ini": 0,
+   "fim": 32.244,
+   "x": 230,
+   "y": 282,
+   "tamanho": 15,
+   "texto": "11:11",
+   "cor": "#FFFFFF"
+  },
+  {
+   "tipo": "texto",
+   "ini": 0,
+   "fim": 32.244,
+   "x": -230,
+   "y": 282,
+   "tamanho": 14,
+   "texto": "888",
+   "cor": "#3DE0FF"
+  },
+  {
+   "tipo": "texto",
+   "ini": 0,
+   "fim": 32.244,
+   "x": -230,
+   "y": 40,
+   "tamanho": 11,
+   "texto": "222",
+   "cor": "#FFD21F"
+  },
+  {
+   "tipo": "legenda",
+   "ini": 3.917,
+   "fim": 32.244,
+   "palavras": [
+    [
+     "You",
+     3.993,
+     4.073
+    ],
+    [
+     "carried",
+     4.073,
+     4.393
+    ],
+    [
+     "heavy",
+     4.393,
+     4.753
+    ],
+    [
+     "emotional",
+     4.753,
+     5.233
+    ],
+    [
+     "weight",
+     5.233,
+     5.573
+    ],
+    [
+     "for",
+     5.573,
+     5.793
+    ],
+    [
+     "months,",
+     5.793,
+     6.213
+    ],
+    [
+     "quietly",
+     6.453,
+     6.873
+    ],
+    [
+     "wondering",
+     6.873,
+     7.273
+    ],
+    [
+     "if",
+     7.273,
+     7.693
+    ],
+    [
+     "anyone",
+     7.693,
+     8.233
+    ],
+    [
+     "truly",
+     8.233,
+     8.713
+    ],
+    [
+     "understood",
+     8.713,
+     9.513
+    ],
+    [
+     "the",
+     9.513,
+     9.793
+    ],
+    [
+     "quiet",
+     9.793,
+     10.213
+    ],
+    [
+     "battles",
+     10.213,
+     10.693
+    ],
+    [
+     "you",
+     10.693,
+     10.953
+    ],
+    [
+     "fought.",
+     10.953,
+     11.233
+    ],
+    [
+     "Today",
+     11.553,
+     11.773
+    ],
+    [
+     "that",
+     11.773,
+     12.033
+    ],
+    [
+     "heavy",
+     12.033,
+     12.333
+    ],
+    [
+     "fog",
+     12.333,
+     12.633
+    ],
+    [
+     "is",
+     12.633,
+     12.873
+    ],
+    [
+     "finally",
+     12.873,
+     13.253
+    ],
+    [
+     "clearing,",
+     13.253,
+     13.713
+    ],
+    [
+     "making",
+     14.073,
+     14.293
+    ],
+    [
+     "room",
+     14.293,
+     14.633
+    ],
+    [
+     "for",
+     14.633,
+     14.893
+    ],
+    [
+     "true",
+     14.893,
+     15.313
+    ],
+    [
+     "inner",
+     15.313,
+     15.613
+    ],
+    [
+     "peace,",
+     15.613,
+     16.053
+    ],
+    [
+     "clarity",
+     16.413,
+     16.653
+    ],
+    [
+     "and",
+     16.653,
+     17.253
+    ],
+    [
+     "genuine",
+     17.253,
+     17.693
+    ],
+    [
+     "emotional",
+     17.693,
+     18.253
+    ],
+    [
+     "ease.",
+     18.253,
+     18.693
+    ],
+    [
+     "When",
+     19.153,
+     19.153
+    ],
+    [
+     "your",
+     19.153,
+     19.313
+    ],
+    [
+     "energy",
+     19.313,
+     19.733
+    ],
+    [
+     "aligns",
+     19.733,
+     20.413
+    ],
+    [
+     "with",
+     20.413,
+     20.533
+    ],
+    [
+     "this",
+     20.533,
+     20.733
+    ],
+    [
+     "new",
+     20.733,
+     20.913
+    ],
+    [
+     "chapter,",
+     20.913,
+     21.313
+    ],
+    [
+     "everything",
+     21.713,
+     22.033
+    ],
+    [
+     "you",
+     22.033,
+     22.333
+    ],
+    [
+     "desire",
+     22.333,
+     22.773
+    ],
+    [
+     "begins",
+     22.773,
+     23.333
+    ],
+    [
+     "to",
+     23.333,
+     23.633
+    ],
+    [
+     "meet",
+     23.633,
+     23.913
+    ],
+    [
+     "you",
+     23.913,
+     24.173
+    ],
+    [
+     "with",
+     24.173,
+     24.433
+    ],
+    [
+     "gentle",
+     24.433,
+     24.813
+    ],
+    [
+     "grace.",
+     24.813,
+     25.213
+    ],
+    [
+     "This",
+     25.773,
+     25.853
+    ],
+    [
+     "shift",
+     25.853,
+     26.133
+    ],
+    [
+     "doesn't",
+     26.133,
+     26.533
+    ],
+    [
+     "happen",
+     26.533,
+     26.813
+    ],
+    [
+     "for",
+     26.813,
+     27.073
+    ],
+    [
+     "every",
+     27.073,
+     27.313
+    ],
+    [
+     "woman.",
+     27.313,
+     27.653
+    ],
+    [
+     "Tap",
+     27.993,
+     28.073
+    ],
+    [
+     "my",
+     28.073,
+     28.293
+    ],
+    [
+     "photo",
+     28.293,
+     28.573
+    ],
+    [
+     "and",
+     28.573,
+     28.853
+    ],
+    [
+     "check",
+     28.853,
+     29.033
+    ],
+    [
+     "my",
+     29.033,
+     29.213
+    ],
+    [
+     "story",
+     29.213,
+     29.573
+    ],
+    [
+     "to",
+     29.573,
+     29.773
+    ],
+    [
+     "see",
+     29.773,
+     29.973
+    ],
+    [
+     "what",
+     29.973,
+     30.133
+    ],
+    [
+     "2027",
+     30.133,
+     30.533
+    ],
+    [
+     "holds",
+     31.233,
+     31.593
+    ],
+    [
+     "for",
+     31.593,
+     31.853
+    ],
+    [
+     "you.",
+     31.853,
+     32.053
+    ]
+   ],
+   "destaques": [
+    "CARRIED",
+    "EMOTIONAL",
+    "TRULY",
+    "FOG",
+    "CLEARING,",
+    "PEACE,",
+    "EASE.",
+    "CHAPTER,",
+    "DESIRE",
+    "GRACE.",
+    "SHIFT",
+    "PHOTO",
+    "STORY",
+    "2027"
+   ],
+   "y": -310,
+   "tamanho_px": 38
+  },
+  {
+   "tipo": "caixa",
+   "ini": 27.913,
+   "fim": 32.244,
+   "x": 0,
+   "y": 470,
+   "tamanho": 10,
+   "linhas": [
+    "Your 2027 reading:",
+    "[link in the comments]"
+   ]
+  }
+ ]
+}
