@@ -1,10 +1,17 @@
 # Roteiro do dia 16/11/2026: nora67 (o café Folgers, 19h30) e nora68 (a onda no rochedo, 0h00)
 
-**Estado (16/11 12h41):** rascunho das falas para o aluno aprovar. **O painel só sai com o "pode montar".** Pedido do aluno às 12h40: "o corpo de hj vc pode alterar com as palavras americanas… vc pode mexer no roteiro antes de eu mandar vc fazer os paineis".
+**Estado (16/11 15h30): painéis publicados** ("pode montar" às ~15h10, junto com o prompt curto nos clipes do pré-gancho).
+
+| Vídeo | Quando e onde | Painel |
+|---|---|---|
+| nora67 (o café Folgers) | Insta e Face às 19h30 de 16/11 | https://claude.ai/artifact/MhAikpHfR9XWcMzRfPsTjr |
+| nora68 (a onda no rochedo) | Insta e Face à 0h00 de 16 para 17/11 | https://claude.ai/artifact/B64TZzZg7H2YksT8f63E6b |
+
+Gerador: `ferramentas-painel/dia-1611/build_dia_1611.py`. Pedido do aluno às 12h40: "o corpo de hj vc pode alterar com as palavras americanas… vc pode mexer no roteiro antes de eu mandar vc fazer os paineis".
 
 ## Leitura (registro)
 - **Lido para este rascunho (16/11, 12h00 a 12h41):** a `FILA-DE-IDEIAS-E-TESTES.md` inteira (08h45); as R49 a R58 do `CLONE-DO-GUSTAVO-RESPOSTAS.md`; o `REGRAS-DO-AGENTE.md` na P33 (fala de 19 a 21 palavras, sem palavra repetida) e na P42 (copy que converte); o `LICOES-FLOW-E-PROMPTS.md` nas lições do filtro de fala ("private", "link", "receive", "lock in", "claim", ameaça de perda, a mão descendo para o colo); as falas do nora66 (`ferramentas-painel/dia-1511/build_dia_1511.py`); as métricas do nora65 e do nora66 de hoje (`METRICAS-NORA-LEIA.md`, 12h32 e 12h34); a dica do Caio1094 (`COMUNIDADE-E-ESTRATEGIA.md`, 12h38); o `BIBLIOTECA-PRE-GANCHOS.md` nº 42 e nº 45.
-- **Antes do painel (com o "pode montar"):** a leitura completa do `LEIA-TUDO-ANTES.md` (fala nova e pré-gancho novo não entram na exceção da leitura focada, 13/11).
+- **Antes do painel (16/11 ~15h10 a 15h30), leitura focada no painel, como em 13, 14 e 15/11 (a lista inteira do `LEIA-TUDO-ANTES.md` não cabe numa sessão):** o `REGRAS-DO-AGENTE.md` inteiro (P1 a P47); o `LICOES-FLOW-E-PROMPTS.md` (o checklist da seção 1 e as lições de 12 a 16/11); a `FILA-DE-IDEIAS-E-TESTES.md` (escrita hoje); o `LEIA-TUDO-ANTES.md`; o `build_dia_1511.py` inteiro (o molde); o `BIBLIOTECA-PRE-GANCHOS.md` nº 42 e 45; o Clone R55 a R61 e o plano do Folgers no `CLONE-ORIGINAIS/` (R55, R59); as aulas 19, 35, 40, 54 e 57 (lidas hoje, inteiras). **Não relido nesta sessão:** as aulas e bibliotecas da lista que não mandam neste painel.
 
 ## O que este par testa (uma variável entre os dois)
 - **Hipótese:** um hook de evento grande (a onda que quebra atrás dela, com ela calma) segura mais nos 3 s e entre os 3 e os 5 s que um ritual de bancada (o Folgers). Medida: % nos 3 s e a curva aos 5 s. O resto é igual nos dois (o corpo, o CTA, a edição, o estilo).
@@ -18,6 +25,19 @@
 - **O hook (Clone R60): ~3,6 s nos dois, em 3 tomadas de ~1,4 + ~1,4 + ~0,8 s**: o gesto de apontar curto, com algo se mexendo (no Folgers, o vapor do café e ela puxando a xícara; na onda, a água atrás dela), e a fala começando no impact. A mesma duração nos dois, para a comparação ser só do tipo de hook.
 - **Na tela, o 11:11 e o 222, os dois brancos, nos cantos de cima** (escolha do aluno, 13h31; o 888 saiu).
 - **A bandeira discreta:** o broche na gola e uma bandeira pequena ao fundo (no pote da prateleira; na praia, a torre de salva-vidas ao longe), nunca grande na parede.
+
+## O pré-gancho (R60: ~3,6 s em 3 tomadas; prompt curto nos clipes, aula 54)
+| Tempo | nora67, o café | nora68, a onda |
+|---|---|---|
+| 0 a 1,4 s | o café cai da colher na água quente e gira, a lata vermelha do Folgers com o rótulo à vista (IMG-A) | a onda enorme se ergue atrás dela, ela parada na areia (IMG-A) |
+| 1,4 a 2,8 s | a moeda cai no pires ao lado da caneca, com o clique, o vapor subindo (IMG-B) | a onda quebra no rochedo atrás do ombro dela, a espuma voa (IMG-B) |
+| 2,8 a 3,6 s | ela puxa a caneca e aponta para a lente, o vapor ainda subindo (IMG-C) | ela, de frente e calma, aponta para a lente, a espuma ainda descendo (IMG-C) |
+| 3,6 s | o impact e o T01 | o impact e o T01 |
+
+As imagens são edição da `d1511-PRE-sal-IMG-C` + a folha (+ a foto real da lata do Folgers no nora67). A imagem C de cada um é a das falas (R46). As caixas do topo: "CARRYING IT ALL ALONE? / TRY THIS COFFEE RITUAL" (nora67) e "FOR TIRED WOMEN: / THE STORM ENDS TONIGHT" (nora68, do Clone R57).
+
+## As imagens do desejo (a mesma ordem nos dois; eu monto com o `montar_desejo.py`)
+T02: a mesa servindo todos (dividida) → as contas e as tarefas, nova (dividida) → sozinha na cama (cheia). T03: o envelope com dinheiro (cheia, só no Insta) → a paz na varanda (dividida) → o casal na praia (cheia). T04: a porta abrindo (dividida) → as festas, nova (cheia). As 6 antigas são as do nora66 (`ferramentas-painel/dia-1511/`); as 2 novas saem no painel do nora67.
 
 ## As falas (≤ 22 palavras; números por extenso)
 | Take | nora67, Folgers (19h30) | nora68, a onda (0h00) |
