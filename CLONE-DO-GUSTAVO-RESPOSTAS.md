@@ -1199,6 +1199,54 @@ No fim, separe: o que você mantém, o que muda e o que disse sem fonte."
   - **O tsunami volta a valer como hook validado**, e a regra "sem efeito mágico de IA" vale para todo pré-gancho (R51 e R57).
   - Os prompts saem no painel, depois do "pode montar"; não preciso do prompt do Clone.
 
+## R58 (16/11 08h32; a pergunta é a sugestão automática do NotebookLM, "Discuta sobre o que essas fontes dizem de Formatos de Criativos…"; colada pelo aluno às ~08h40 junto com a conversa de 15/11, texto inteiro em `CLONE-ORIGINAIS/2026-11-16-colagem-R52-a-R58.md`): os formatos de criativo
+- **Resposta (resumo fiel):**
+  - **O formato é a maior alavanca** ("dobrar ou quadruplicar o faturamento com a mesma copy").
+  - **O catálogo de formatos:**
+    - avatar especialista falando;
+    - POV ou cartas sem rosto;
+    - tela dividida (o avatar numa metade e o desejo na outra: casal, homem de costas, iniciais, animal fofo);
+    - novela do dia a dia com reviravolta (modelada do AstroTalk e do Lumos);
+    - react do app e depoimento UGC;
+    - podcast ou entrevista;
+    - cartas próprias (Divine Love, Soulmate, Arcanjo Miguel).
+  - **Copy:**
+    - o hook visual vem nos 3 a 5 s;
+    - o falado liga o que se viu ao estado dela;
+    - o corpo qualifica, sem pânico;
+    - os termos ficam iguais aos do quiz;
+    - CTA único (no Insta, o story; no Face, o comentário fixado).
+  - **Operação:**
+    - a pirâmide (horizontal, vertical e topo);
+    - "70% no validado, 30% em exploração";
+    - o AutoEditor (pastas por bloco, combinações, pixel e HSL variados com espelho, números "orbitando" nos cantos, seta animada no CTA);
+    - lateralizar em várias contas.
+- **Conferido nas nossas transcrições (08h45):**
+  - **"Dobrar com formato novo":** está na aula 21 (`TRANSCRICOES/2026-06-16-aula-21-…`, linhas 334 e 646: "a Appyon Creators dobrou em 3, 4 dias porque vocês acertaram novos formatos"). Confere.
+  - **A tela dividida com o avatar na tela:** está na aula 12 (`TRANSCRICOES/2026-05-22-aula-12-…`, 0:27:18 a 0:28:27):
+    - "nos primeiros 15 a 30 segundos… vai ficar mesclando entre avatar na tela e o take, a cena ocupando 100% da tela";
+    - "o avatar na tela, a tela dividida chamativa e o efeito sonoro… os nossos hook rates aumentaram";
+    - "em cima da tela ou embaixo da tela vocês vão ter o avatar".
+
+    **Isto é novo para nós:** o nora66 pôs as 7 imagens em tela cheia, uma atrás da outra, e a Nora sumiu da tela por ~25 s. A aula diz para alternar a tela dividida (a Nora numa metade) com a cena em tela cheia.
+  - **"70% no validado, 30% em exploração":** não achei nas transcrições. O mais perto é a aula 31 ("60, 70% de taxa de sucesso" das variações). Sem fonte.
+  - **A novela com reviravolta (AstroTalk e Lumos):** não está nas nossas transcrições. O AstroTalk aparece só no `PLANO-MVM` (o ângulo do amor que vem até ela). Sem fonte conferida.
+  - **O AutoEditor (HSL, espelho, metadados):** já estava no `PLANO-MVM` (o HSL de 10% a 15% e tirar os metadados). O nosso `variacao_face.py` faz o espelho, o brilho, o contraste, a saturação e o 1,1x, mas não mexe no matiz e não diz que tira os metadados.
+- **Para a Nora (decisão minha, 08h45):**
+  - **Entra na fila, como a próxima variação da edição dopaminérgica** (depende da curva do nora66 aos 5, 10 e 20 s): a tela dividida, com a Nora falando numa metade e a imagem do desejo na outra, alternando com a imagem em tela cheia (aula 12). É uma variável só, a 0 crédito, na edição.
+  - **Entra no `variacao_face.py`, quando o aluno disser "pode":** uma mudança leve de matiz (HSL) e tirar os metadados, como o AutoEditor faz para o Face não ler como repetido.
+  - **Entra na fila, para depois:**
+    - a seta do CTA animada (subindo e descendo), a 0 crédito;
+    - o podcast como cenário de um corpo novo (o nora46, de 31/10, já teve o estúdio com microfone).
+  - **Não entra:**
+    - POV de cartas e vídeo sem rosto (a Nora é o rosto do perfil; as cartas ficam só na imagem, Gustavo 03/11);
+    - react de app e depoimento UGC (HONESTIDADE);
+    - avatar nova e outros arquétipos (Clone R19 e R21);
+    - Arcanjo Miguel (Deus e religião como autoridade estão fora);
+    - lateralizar em várias contas (2º perfil adiado pelo aluno);
+    - os números "orbitando" (a R50 mandou limpar a tela).
+  - **A novela com reviravolta** é topo da pirâmide (formato novo, com outras pessoas em cena). Fica anotada, sem data.
+
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 

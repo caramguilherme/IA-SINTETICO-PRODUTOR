@@ -15,23 +15,21 @@
 4. **Uma variável por vez:** a ordem do "Próximos testes" vale; o resto espera a vez.
 
 ## Em teste agora
-- **Edição dopaminérgica nos primeiros ~15 s:** uma imagem do desejo por frase, com animação de entrada e efeito sonoro. Inclui as setas apontando para o objeto do ritual.
-  - **No painel do nora66 (o sal, 0h00 de 15 para 16/11): as 7 imagens d1511-DESEJO.**
-  - **Fonte:** aulas 12 e 14; briefing de 22/05; o quadro do briefing, p. 5.
-  - **Status:** aprovado pelo aluno em 15/11 03h00; entra no vídeo do sal.
-  - **Hipótese:** segura mais gente aos 5 e aos 10 s que o nora63 (~25% e ~10%).
-
-- **O estilo de alto contraste (Clone R50, 15/11):** caixa sólida e legenda em negrito com contorno e destaque amarelo, sem pastel nem serifa fina. **Esperando o ok do aluno**, porque inverte o pedido dele de 12/11.
-  - Com o ok, entra já no nora65 (Insta às 19h30), reeditado a 0 crédito, com o Trustpilot mantido.
-  - **Hipótese:** mais gente passa dos 3 s que no nora63 (42,5%).
-  - A aula 43 confirma a legenda simples, de fonte básica com contorno e destaque amarelo.
-- **O corpo A, na versão suave, como corpo base por 10 a 14 dias (Clone R50, item 6):** variar só o pré-gancho, o Take 1, a 2ª frase e a caixa. O sal de hoje à 0h00 entra nesse molde (Clone R49, com os meus ajustes).
+- **Edição dopaminérgica nos primeiros ~30 s:** uma imagem do desejo por frase, em tela cheia, com animação de entrada e whoosh.
+  - **Feito no nora66** (o sal, Insta 16/11 00h24, Face 00h00): 7 imagens d1511-DESEJO.
+  - **Fonte:** aulas 12 e 14; briefing de 22/05.
+  - **Hipótese:** segura mais gente aos 5 e aos 10 s que o nora63 (~25% e ~10%). Lê-se com a curva de ~12 h (16/11 ~12h40; régua da R55: aos 20 s, acima de 20% = corpo aprovado).
+- **O estilo de alto contraste (Clone R50):** aprovado pelo aluno em 15/11 03h50 e em uso desde o nora65 (Insta 15/11 20h22). Hipótese: mais gente passa dos 3 s que no nora63 (42,5%).
+- **O corpo A, na versão suave, como corpo base por 10 a 14 dias (R50, item 6):** variar só o pré-gancho, o Take 1, a 2ª frase e a caixa. O sal (nora66) e os de 16/11 (o Folgers e a onda no rochedo, R55 e R57) entram nesse molde.
 
 ## Próximos testes (nesta ordem; detalhe em CLAUDE.md seção 2, "Ordem dos testes")
-1. **A faixa do story com o campo trancado** ("Your 2027 reading: 🔒 / tap my photo"). 0 crédito, na edição. Fonte: quadro da aula 18, `MATERIAIS-CALL-02-06/LEIA.md`. **Aprovada pelo Clone na R55 (15/11): entra nos falados de 16/11. O 🔒 não existe na Poppins: desenhar o cadeado na edição.**
-2. **O pedido de compartilhar antes do CTA**, só no Insta. Fonte: o costume do Lucas Dusi, 13/11. **Atenção (Clone R54, 15/11): a fala termina num comando só (o story); o compartilhar, se entrar, vai depois do CTA ou só na legenda.**
-3. **A música:** emocional (~20% a 25%), e também as variações da aula 21 (0:55:22): ritmo árabe, ritmo indígena, frequência em Hz. Uma por vez, a 0 crédito, na edição.
-4. **O que a R50 (a edição) responder:** volta ao estilo dos campeões (branco, preto, vermelho e amarelo forte) ou não. Fonte: `CLONE-DO-GUSTAVO-RESPOSTAS.md` R50.
+1. **A faixa do story com o campo trancado** ("Your 2027 reading: 🔒 / tap my photo"). 0 crédito, na edição. Fonte: quadro da aula 18, `MATERIAIS-CALL-02-06/LEIA.md`. **Aprovada pelo Clone na R55: entra nos falados de 16/11.** O 🔒 não existe na Poppins: desenhar o cadeado na edição.
+2. **A tela dividida alternando com a tela cheia** (a próxima variação da edição dopaminérgica, se a curva do nora66 pedir): a Nora falando numa metade (em cima ou embaixo) e a imagem do desejo na outra, mesclando com a imagem ocupando a tela toda. No nora66 a Nora sumiu da tela por ~25 s.
+   - **Fonte:** aula 12 (0:27:18 a 0:28:27): "vai ficar mesclando entre avatar na tela e o take, a cena ocupando 100% da tela"; "o avatar na tela, a tela dividida chamativa e o efeito sonoro… os nossos hook rates aumentaram". Lembrada pelo Clone na R58.
+   - 0 crédito, na edição; uma variável só.
+3. **O pedido de compartilhar**, só no Insta. Fonte: o costume do Lucas Dusi, 13/11. **A fala termina num comando só (R54): o compartilhar, se entrar, vai depois do CTA ou só na legenda.**
+4. **A música:** emocional (~20% a 25%), e também as variações da aula 21 (0:55:22): ritmo árabe, ritmo indígena, frequência em Hz. Uma por vez, a 0 crédito, na edição.
+5. **A seta do CTA animada** (subindo e descendo, apontando para a foto do perfil), a 0 crédito. Fonte: o AutoEditor do Gustavo (R58; R53).
 
 ## Corpos e copy prontos para usar (quando for preciso um corpo novo; pela pirâmide, só depois de esgotar as variações do corpo que der clique)
 - **Corpo de afirmações:** "close your eyes and repeat with me", cada afirmação ilustrada por uma cena do desejo.
@@ -74,6 +72,8 @@
 - **A carta dourada parada sobre a mesa** (a na mão já foi no nora64 e no nora65). Fonte: o briefing de 22/05.
 - **Tela dividida com ilustração embaixo:** o homem da carta com as figuras de luz. Fonte: quadro da aula 28.
 - **Animal fofo em tela dividida por 2 a 3 s no gancho:** "mulheres 35 a mais… gostam de cachorrinho, gatinho"; escalou numa oferta de prosperidade. Imagem ou clipe do Flow; nunca bebê. Fonte: aula de variações, ~10/07 (1:06:21).
+- **O podcast como cenário de um corpo novo** (a Nora numa poltrona, com microfone, luz aconchegante). O nora46 (31/10) já teve o estúdio claro com microfone. Topo da pirâmide: só com corpo novo. Fonte: aulas 12 e 28; R58.
+- **A novela do dia a dia com reviravolta** (a cena abre numa situação comum, vem uma virada e a mulher sai fortalecida, depois corta para a Nora chamando). O Clone diz que vem do AstroTalk e do Lumos (R58); não está nas nossas transcrições. Topo da pirâmide, com outras pessoas em cena: anotada, sem data.
 - **"Your 2027 by birth month":** uma tela por mês, pedindo o mês nos comentários. Só no Face, 0 crédito, com o ok do aluno. Fonte: doc 07 nº 09; doc 05 nº 49.
 
 ## Processo (como trabalhar)
@@ -91,6 +91,7 @@
   - "toda linha vende a próxima" na revisão das falas.
 
   A edição rende menos que gancho novo ("se eu só ficar colocando efeito sonoro… o potencial de escala vai ser muito menor do que 10 novos ganchos"). Fonte: aula de variações, ~10/07.
+- **A variação do Face mais forte (o método do AutoEditor):** além do espelho, do brilho e do 1,1x que o `variacao_face.py` já faz, uma mudança leve de matiz (HSL) e tirar os metadados do arquivo. Fonte: `PLANO-MVM` (HSL de 10% a 15%); R58. **Espera o "pode" do aluno.**
 - **Garimpo na Biblioteca de Anúncios**, classificada por total de impressões, só vídeo e só inglês ("manifestation", "law of attraction", "2027", Astroline, Nebula). Nunca copiar quem vende Appyon. Fonte: quadro da aula 18.
 
 ## Pistas para investigar
@@ -116,9 +117,8 @@
 - **Volume:** a aula 18 diz "o máximo"; no Insta vale a recuperação de 2 por dia (Clone R35 a R38); a Jéssica e o Kobata dizem que produzir demais derrubou as vendas.
 
 ## Esperando resposta ou decisão
-- **R49 (Clone):** o sal na privada ou no prato, a caixa, 3 Take 1 e as falas.
-- **R50 (Clone):** a edição está derrubando a entrega? E a pirâmide (item 6).
-- **Do aluno:** o saldo das 4 contas do Flow; o Tracker de 14/11; o print do Status da Página.
+- **Do aluno:** o "pode" para a variação do Face mais forte (HSL e metadados); o print do Status da Página. (Crédito do Flow: nunca perguntar; ele avisa quando acabar, regra de 16/11.)
+- **Dos números:** a curva do nora66 aos 5, 10 e 20 s (~12h40 de 16/11) decide se a próxima variação da edição é a tela dividida.
 
 ## Fora (e por quê; não propor de novo)
 - **Depoimento, cliente, casal, número de atendidas, credencial ou preço inventados:** HONESTIDADE. Inclui a pasta "Social Proof: AuralyApp", que são posts de casal gerados por IA, e o UGC do Hint.
@@ -131,6 +131,7 @@
   - o botão de compartilhar ("a 2ª pessoa que aparecer").
 - **Saúde, luto e Deus como autoridade.**
 - **O mecanismo de alma gêmea, chama gêmea, ex e "o rosto dele":** o funil da Nora é o Manifestation.
+- **Da R58 (16/11):** POV de cartas e vídeo sem rosto (a Nora é o rosto; as cartas só na imagem, Gustavo 03/11); react de app e depoimento UGC (HONESTIDADE); avatar nova ou outro arquétipo nesta conta (R19 e R21); Arcanjo Miguel (religião como autoridade); várias contas (2º perfil adiado pelo aluno: não propor); números "orbitando" nos cantos (a R50 mandou limpar a tela).
 
 ## Onde está cada coisa (para procurar: `python3 -I ferramentas-painel/buscar.py "termo"`, que desde 15/11 procura no projeto inteiro, inclusive nos `.txt`)
 - **Transcrições inteiras das aulas e calls (18):** `TRANSCRICOES/`, guardadas em 15/11. Até então só os resumos com trechos estavam salvos. A da aula 18 e a de variações, de ~10/07, chegaram em 15/11 ~03h39.
