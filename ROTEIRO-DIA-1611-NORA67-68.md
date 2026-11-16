@@ -96,3 +96,4 @@ T02: a mesa servindo todos (dividida) → as contas e as tarefas, nova (dividida
   - a lareira fica dentro dos 92% da largura que o Face mostra no iPhone (P43).
   - **Por que não as outras:** a 3ª tem a lareira colada na borda esquerda (o Face corta); a 4ª é aberta demais, com a árvore e o fogo pequenos para 1 a 2 s; a 1ª é mais escura, com o sofá gasto em primeiro plano.
   - **As 2 imagens do desejo novas estão escolhidas;** as outras 6 vêm do nora66.
+- **Atenção para a edição (16/11 18h57):** as 6 imagens do desejo que vêm do nora66 (`d1511-DESEJO-2` a `-7`) estão aqui só como recortes pequenos (~320x570), porque as originais ficaram no contêiner da 5ª conta. **Pedido ao aluno:** mandar as 6 em tamanho original, junto com o montado. Esticar o recorte para 1080x1920 deixaria a imagem borrada na tela cheia.
