@@ -1,0 +1,62 @@
+{
+ "entrada": "/tmp/claude-0/-home-user-IA-SINTETICO-PRODUTOR/6ef474f7-381e-57e0-a979-e45ed783b267/scratchpad/ed68/ed/nora68-insta-pre.mp4",
+ "saida": "/tmp/claude-0/-home-user-IA-SINTETICO-PRODUTOR/6ef474f7-381e-57e0-a979-e45ed783b267/scratchpad/ed68/ed/nora68-insta-base.mp4",
+ "imagens": [
+  {
+   "arquivo": "/home/user/IA-SINTETICO-PRODUTOR/ferramentas-painel/dia-1611/desejo-1080/d1511-DESEJO-2-sorrindo-para-todos.jpg",
+   "ini": 10.282,
+   "fim": 12.152,
+   "modo": "dividida",
+   "foco_y": 0.5
+  },
+  {
+   "arquivo": "/home/user/IA-SINTETICO-PRODUTOR/ferramentas-painel/dia-1611/desejo-1080/d1611-DESEJO-8-contas-e-tarefas.jpg",
+   "ini": 12.152,
+   "fim": 14.032,
+   "modo": "dividida",
+   "foco_y": 0.55
+  },
+  {
+   "arquivo": "/home/user/IA-SINTETICO-PRODUTOR/ferramentas-painel/dia-1611/desejo-1080/d1511-DESEJO-3-sozinha-na-cama.jpg",
+   "ini": 14.032,
+   "fim": 16.532,
+   "modo": "cheia",
+   "foco_y": 0.5
+  },
+  {
+   "arquivo": "/home/user/IA-SINTETICO-PRODUTOR/ferramentas-painel/dia-1611/desejo-1080/d1511-DESEJO-4-dinheiro-no-envelope.jpg",
+   "ini": 21.032,
+   "fim": 22.812,
+   "modo": "cheia",
+   "foco_y": 0.5
+  },
+  {
+   "arquivo": "/home/user/IA-SINTETICO-PRODUTOR/ferramentas-painel/dia-1611/desejo-1080/d1511-DESEJO-5-paz-na-varanda.jpg",
+   "ini": 22.812,
+   "fim": 23.812,
+   "modo": "dividida",
+   "foco_y": 0.55
+  },
+  {
+   "arquivo": "/home/user/IA-SINTETICO-PRODUTOR/ferramentas-painel/dia-1611/desejo-1080/d1511-DESEJO-6-casal-na-praia.jpg",
+   "ini": 23.812,
+   "fim": 25.452,
+   "modo": "cheia",
+   "foco_y": 0.5
+  },
+  {
+   "arquivo": "/home/user/IA-SINTETICO-PRODUTOR/ferramentas-painel/dia-1611/desejo-1080/d1511-DESEJO-7-porta-abrindo.jpg",
+   "ini": 27.022,
+   "fim": 30.472,
+   "modo": "dividida",
+   "foco_y": 0.5
+  },
+  {
+   "arquivo": "/home/user/IA-SINTETICO-PRODUTOR/ferramentas-painel/dia-1611/desejo-1080/d1611-DESEJO-9-festas.jpg",
+   "ini": 30.472,
+   "fim": 32.162,
+   "modo": "cheia",
+   "foco_y": 0.5
+  }
+ ]
+}
