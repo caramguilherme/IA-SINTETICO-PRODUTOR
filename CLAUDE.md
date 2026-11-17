@@ -103,6 +103,12 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
 - **Dashboard:** para atualizar, editar o CSV, rodar `ferramentas-painel/dashboard/preparar_csv.py`, subir a cópia sem o BOM como asset e dar `update` em `datasets/metricas` (`source.url`, `source.name`, `updated`) com `if_version`; receita completa em `ferramentas-painel/dashboard/COMO-RECRIAR.md`.
 
 ## 4. Diário de decisões (as novas entram aqui, datadas; as anteriores a 14/11 estão em `HISTORICO-CLAUDE-MD.md`)
+- **17/11/2026 18h04, Clone R67 (os riscos do modelo da claire_mayaus e a régua), conferida:**
+  - **O Face sai sem os 3 selos e sem o "comment I believe"** (o T10, o T11 e o T12): o risco de isca de engajamento para a única Página é real, bate com a nossa regra do Face e com a Página punida da 24ª leitura. É segurança da Página, não teste. Corte meu, a 0 crédito. **O Insta vai completo**, como o aluno decidiu.
+  - **Insta:** a copy não dispara verificação facial (isso é comportamento, R62), mas pode reduzir o alcance (aula 65, 2:14:45, que não temos transcrita).
+  - **A régua com ~24 h:** 200+ views (aula 25), mais de 15% aos 10 s, 3+ visitas ao perfil e pelo menos 1 clique; 300 a 400 views e 5 a 8 visitas (a régua dele, sem fonte) = "rompeu de vez".
+  - **Se der views e nenhum clique:** fica o hook novo e o visual limpo, e sai a ameaça da copy (P42), com um CTA de qualificação.
+  - As aulas 64, 65 e 25 não estão transcritas aqui: os minutos dessas três ficam sem conferir.
 - **17/11/2026 ~16h45, os 2 vídeos de hoje no modelo da claire_mayaus, igual (decisão do aluno: "a mesma copy igualzinha… com as ameaças, falando lá dos minutos… o visual vai ser limpo… sem mudar nada, sem proibir nada"; é o "pode montar"):**
   - **nora69 (Face 19h30, Insta quando a proxy voltar):** o hook do v2 (a canela no tapete do carro, ~6,7 s em 6 tomadas) + flash branco + a fala no banco do motorista, com o carro andando.
   - **nora70 (0h00):** o hook do v6 (o alçapão e a estátua de São Miguel, ~6,6 s em 2 tomadas) + flash branco + a fala na escada, com a estátua ao lado.

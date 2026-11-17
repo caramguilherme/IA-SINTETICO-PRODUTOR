@@ -12,6 +12,8 @@
 
 **Painéis (publicados em 17/11 ~16h45):** nora69 https://claude.ai/artifact/VKqyDHZXP3QAp2MqNj6k6Z · nora70 https://claude.ai/artifact/6abRpvkHM6XfnP2Wup1ef8 (`ferramentas-painel/dia-1711/build_dia_1711.py`). ~200 e ~190 créditos (17 takes de 10 s cada + o hook).
 
+**Versão do Face (Clone R67, 17/11 18h04):** sem o T10, o T11 e o T12 (os 3 selos e o "comment I believe"), por segurança da Página; o resto igual. O Insta vai completo.
+
 ## Leitura obrigatória (registro)
 - A pesquisa oficial (`MATERIAIS-MANIFESTATION-OFICIAL/`, o LEIA inteiro; "nunca no vídeo: grátis, prazo, ameaça, medo"): o aluno decidiu testar contra ela nestes 2; o "grátis" saiu por ser falso.
 - A `FILA-DE-IDEIAS-E-TESTES.md`: o visual limpo, o hook de ação comum, a duração longa e o comentário na fala estavam na fila (17/11 ~13h); hoje entram todos juntos, por decisão do aluno.

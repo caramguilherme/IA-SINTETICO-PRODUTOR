@@ -454,7 +454,7 @@ def montar(c):
          'como': 'Eu corto as tomadas, monto o hook (~6,7 s), ponho o flash branco e emendo antes do T01.'},
         {'quando': '1. Do T01 ao fim', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB', 'como': 'Começa no 1º quadro do montado.'},
         {'quando': '2. Exportar e me mandar', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
-         'como': f'1080×1920, nome {nn}-montado (acima de 30 MB, link do Drive). Eu devolvo o {nn}-final (Insta) e o {nn}-final-FACE (o mesmo vídeo, espelhado e com a variação do Face).'}]
+         'como': f'1080×1920, nome {nn}-montado (acima de 30 MB, link do Drive). Eu devolvo o {nn}-final (Insta, completo) e o {nn}-final-FACE (espelhado, com a variação do Face e SEM o T10, o T11 e o T12, os selos e o comment I believe: Clone R67, segurança da Página).'}]
     cr_hook = 10 * len(vids(c))
     pecas = [{'nome': f'{c["d"]}-PRE-{c["tag"]}-IMG-' + ('A, B, D e C' if c['tag'] == 'carro' else 'A, B e C'), 'tipo': 'imagens (hook; a C é a das falas)', 'status': 'gerar',
               'descricao': 'Edição da d1511-PRE-sal-IMG-C + a folha. x4 cada, 0 crédito.'},
