@@ -116,3 +116,10 @@ T02: a mesa servindo todos (dividida) → as contas e as tarefas, nova (dividida
   - Painel republicado no mesmo link (versão 2). Lição em `LICOES-FLOW-E-PROMPTS.md`.
 - **16/11 23h52, `d1611-PRE-onda-IMG-A` escolhida (versão tsunami): a 2ª opção.** Tem o tsunami maior e mais alto do quadro: ocupa a metade de cima, com a crista curvando e o céu de tempestade. O rochedo e a torre com a bandeira aparecem, ela está calma de lado e tem as estrelinhas e o broche. A 3ª é a mais fiel ao "olhando para trás", mas a onda fica menor no quadro; a 1ª e a 4ª deixam a onda mais distante.
 - **16/11 23h53, `d1611-PRE-onda-IMG-B` escolhida: a 1ª opção.** Tem o tsunami mais alto e mais perto: a crista curva por cima do rochedo, prestes a quebrar, e a sombra cai na areia. O rochedo fica à esquerda, como na A escolhida (a orientação se mantém no corte), e ela está calma. Na 2ª, na 3ª e na 4ª a onda fica menor no quadro, à direita.
+- **16/11 23h54, `d1611-PRE-onda-IMG-C` escolhida: a 2ª opção.** É a imagem do vídeo 3 e de todas as falas:
+  - ela está de frente, com o rosto no meio de cima, o sorriso de boca fechada, as estrelinhas, a trança e o broche;
+  - as mãos ficam fora do quadro;
+  - o rochedo está atrás, à direita, com as ondas calmas e a espuma;
+  - a torre com a bandeira aparece ao fundo;
+  - as nuvens de tempestade se abrem com a luz dourada.
+  - A 3ª também serve (o rosto maior, com o cabelo bem aberto). Na 1ª e na 4ª o rosto fica mais baixo.
