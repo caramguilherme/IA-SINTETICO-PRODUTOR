@@ -805,6 +805,15 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
 - **O story de foto do Face** foi postado às 00h48 de 17/11 (vence ~00h48 de 18/11). A Biblioteca mostra 0 nele (o número do story aparece no próprio story, não aqui).
 - **Decisão:** nada muda agora. O Face das 16h vai com o `nora65-VAR1711-FACE` (a Nora com a carta desde o 1º quadro), que é o formato decidido em 01h40. A leitura do Insta (o nora67 e o nora68) vem às ~12h40.
 
+## 17/11/2026 11h25, Insta (a grade da Nora vista de outro perfil do aluno) e o teto
+- **nora67** (o café, 19h30 de 16/11, ~15h50): ~150 views. **nora68** (o tsunami, 01h19, ~10 h): 111.
+- **Os falados do Insta desde 11/11, em ordem:** 192, 120, 171, 149, 181, 159, 146, 122, ~150, 111. **São 10 seguidos entre 110 e 190**, com quase tudo diferente entre eles: o hook (o tsunami, os rituais com produto, a carta, o sal), a edição (o pastel e o alto contraste), o horário (13h50 a 01h19), o tamanho e o Take 1. O único que escapou foi o loop sem fala (2.204, com 54% de Índia).
+- **O critério da R46 fecha:** 6 vídeos na grade certa colados em ~140 = teto. **Quando tudo muda e o número não muda, o que a gente vinha trocando não é a causa.** Sobram duas, que podem valer juntas:
+  - (a) o vídeo perde ~90% das pessoas até os 10 s (nora66: 9% aos 11 s), e o Insta não passa da amostra inicial;
+  - (b) a conta da Nora está travada no Insta (2 verificações faciais, 13/10 e 17/11; ~1 semana sem passar de 200 num falado).
+- **Só uma conta nova separa (a) de (b).** Com o mesmo tipo de vídeo, se a conta nova passar de 200 nos 10 de aquecimento, o teto é da conta da Nora; se travar igual, é o vídeo.
+- **O Face está respondendo:** o nora68-FACE, com +1,3x, foi o 1º falado com distribuição positiva.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
