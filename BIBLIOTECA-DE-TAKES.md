@@ -279,6 +279,18 @@ Fora da numeração do nora. Peças com o nome do teste: `faceNN-IMG`, `faceNN-C
   - tirada a palavra solta "For" no fim do Insta.
 
   As versões lavanda ficaram como `-v1-lavanda` no scratchpad. O Face já tinha ido às 02h16 com a v1.
+- **17/11/2026 00h32, nora68 editado (P45; o tsunami no rochedo, com o mesmo corpo, CTA e edição do nora67): `nora68-final.mp4` (Insta, 39,2 s, 26,2 MB) e `nora68-final-FACE.mp4` (Face, 38,1 s, 25,7 MB), os dois com o hook do tsunami.**
+  - **O hook (3,6 s; `dia-1611/montar_hook_nora68.py`):**
+    - o tsunami gigante subindo atrás dela (0,55 a 1,95 do clipe A);
+    - o tsunami explodindo no rochedo (1,60 a 3,00 do clipe B);
+    - ela aponta depois da tempestade (1,55 a 2,35 do clipe C).
+    - As imagens A e B foram refeitas como tsunami às 23h47 de 16/11.
+  - **O montado** (NORA68.mp4, 45,1 s) veio com o hook na frente, de novo: o T01 começa em 3,708, o T04 termina em 32,333 e o T05 em 39,291.
+  - **A transcrição longa pulou o meio do T04** ("The hardest part is over. Doors that stayed shut all year are"). O trecho foi retranscrito à parte e encaixado; o áudio estava certo.
+  - **As bases e as specs** saíram do `dia-1611/edicao_nora68.py`, com os tempos tirados das palavras e dos cortes de cena, sem número fixo. As 8 imagens do desejo vão nos mesmos pontos do nora67 (o dinheiro só no Insta).
+  - **Os sons:** no Insta, o `riser-lento` (o nora67 teve o `riser`); no Face, o `riser`; nos dois, o impact em 3,60 s.
+  - **A caixa:** "FOR TIRED WOMEN: / THE STORM ENDS TONIGHT".
+  - **Specs:** `specs/spec-nora68.json` e `specs/spec-nora68-FACE.json`.
 - **16/11/2026 19h30, nora67 editado (P45; o café Folgers, 1º com a tela dividida): `nora67-final.mp4` (Insta, 37,7 s, 21,4 MB: o hook novo + T01 a T05) e `nora67-final-FACE.mp4` (Face, 31,6 s, 18,0 MB: T01 a T04 + T06, sem o hook).**
   - **O montado do aluno (NORA67.mp4, 43,1 s)** veio com o 1º hook na frente. Os cortes estão em 3,75 · 8,25 · 15,25 · 23,33 · 30,083 · 37,833. As falas batem com o painel palavra por palavra, sem repetição do Flow.
   - **O hook (3,67 s; `dia-1611/montar_hook_nora67.py`):**
