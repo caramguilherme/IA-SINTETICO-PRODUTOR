@@ -1,6 +1,6 @@
 # BRIEFING DO FUNIL DE MANIFESTATION (funil ativo da Nora desde 26/10/2026, regra P41)
 
-Não existe briefing oficial em PDF. Este arquivo junta o que o aluno mandou em 26/10/2026 à noite:
+**Desde 17/11/2026 existe a pesquisa oficial da Appyon sobre este funil** ("Tarot Manifestation · Pesquisa", números de 5/11), em `MATERIAIS-MANIFESTATION-OFICIAL/`: o que ela diz vale antes do que está abaixo, salvo as 4 contradições anotadas no `LEIA.md` de lá. Este arquivo, de 26/10, junta o que o aluno mandou na época:
 - **Aula "Funil de Manifestação e Gancho Viral"** (Loom de Wendi Shintani, gravada uns 2 meses antes, no começo de setembro de 2026; 1h31; https://www.loom.com/share/68062f2cfc9940c8a07fccf9438fd551). O professor (o copywriter da Appyon que faz os anúncios pagos) não diz o nome na transcrição; o Gustavo está na call. Transcrição colada pelo aluno no chat; o resumo está abaixo.
 - **Doc "PESQUISA DO NICHO"**, com o Drive de anúncios escalados, a pesquisa de reels e os 2 quadros do Excalidraw (seção 39 de `BIBLIOTECA-VIDEOS-VIRAIS.md`). É o material que o professor manda "transcrever todos, pegar todos os ganchos e adaptar ao perfil".
 - **Discord, 26/10 18h58 (Gustavo):** o funil foi liberado para todos; é o de maior ticket e maior comissão.
