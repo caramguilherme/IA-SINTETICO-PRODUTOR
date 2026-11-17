@@ -1407,7 +1407,7 @@ No fim, separe o que mantém, o que muda e o que foi sem fonte."
   - **Contradiz a aula 54:** o ElevenLabs. Aos 0:54:03 a 0:54:22: "antes a gente iria no ElevenLabs… mas a gente não tá nem mais usando isso aqui… eu não estou usando ultimamente". A voz é a da biblioteca do próprio HeyGen, que melhorou.
   - **Sem como conferir:** os créditos por vídeo (3 no Avatar 3 e 19 no 4 e no 5). Na aula 54 (1:12:13) o trecho saiu truncado ("o avatar 4, os outros é 6 créditos, e o avatar 3, os 7 créditos"), e os "200 vídeos por US$ 29" dependem desse número. Também não dá para conferir as aulas 11, 51, 53 e 70.
   - **Contradiz o que temos:**
-    - "**créditos que renovam diariamente**": o Flow tem crédito por mês (o AI Plus dá 200 e o AI Pro 1.000), e o modo grátis acabou em 23/09 (`PLANO-MVM`);
+    - "**créditos que renovam diariamente**": o Flow tem crédito por mês (o AI Plus dá 250, aluno, 17/11; o AI Pro, 1.000), e o modo grátis acabou em 23/09 (`PLANO-MVM`);
     - **"por dentro do Gmail"**: o Vitor Oliveira (28/10) cria pelo YouTube ou pela Play Store, "nunca pelo app do Gmail", e mais de 2 seguidos pede o número.
   - **Do que juntamos:** o HeyGen caiu de qualidade em 28/10 (o Bruno Freitas voltou ao Flow; o Dorigon viu o Avatar IV se mexendo como o 3), e o Gyro disse que ele está cada vez mais caro.
 - **O que entra (decisão minha, 17/11 01h15):**
