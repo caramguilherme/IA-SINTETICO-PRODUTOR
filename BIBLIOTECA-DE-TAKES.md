@@ -279,6 +279,7 @@ Fora da numeração do nora. Peças com o nome do teste: `faceNN-IMG`, `faceNN-C
   - tirada a palavra solta "For" no fim do Insta.
 
   As versões lavanda ficaram como `-v1-lavanda` no scratchpad. O Face já tinha ido às 02h16 com a v1.
+- **17/11/2026 10h50, `nora65-VAR1711-FACE.mp4` (Face, 24,0 s; 0 crédito): a variação do nora65-FACE para o Face das 16h de 17/11.** Feita do `nora65-face-base` (a Nora de frente com a carta dourada desde o 1º quadro, o T01 a T03 + o T06), em alto contraste, com o `variacao_face.py` (espelhada, clareada, 1,1x, matiz −3,4°, zoom 1,025, sem metadados; seed 337194). **Os números foram trocados pelo padrão de 16/11** (o 222 à esquerda e o 11:11 à direita, os dois brancos, sem o 888), porque a spec v2 do nora65 ainda tinha os 3 coloridos. Spec em `ferramentas-painel/ferramentas/specs/spec-nora65-VAR1711.json`. O nora65 entrou no Face em 15/11 às 02h16 (na versão lavanda, 235 views); às 16h de 17/11 faz ~2,6 dias, perto dos 3 da regra, com outro visual. Abre na Nora falando com a carta, o tipo de abertura decidido pelo aluno em 17/11 01h40.
 - **17/11/2026 00h32, nora68 editado (P45; o tsunami no rochedo, com o mesmo corpo, CTA e edição do nora67): `nora68-final.mp4` (Insta, 39,2 s, 26,2 MB) e `nora68-final-FACE.mp4` (Face, 38,1 s, 25,7 MB), os dois com o hook do tsunami.**
   - **O hook (3,6 s; `dia-1611/montar_hook_nora68.py`):**
     - o tsunami gigante subindo atrás dela (0,55 a 1,95 do clipe A);

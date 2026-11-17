@@ -101,6 +101,13 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
 - **Dashboard:** para atualizar, editar o CSV, rodar `ferramentas-painel/dashboard/preparar_csv.py`, subir a cópia sem o BOM como asset e dar `update` em `datasets/metricas` (`source.url`, `source.name`, `updated`) com `if_version`; receita completa em `ferramentas-painel/dashboard/COMO-RECRIAR.md`.
 
 ## 4. Diário de decisões (as novas entram aqui, datadas; as anteriores a 14/11 estão em `HISTORICO-CLAUDE-MD.md`)
+- **17/11/2026 10h50, o dia 17/11 (o aluno: "bom dia!!!"):** a peça do Face das 16h está pronta: `nora65-VAR1711-FACE`, a variação do nora65 com a Nora falando com a carta desde o 1º quadro, 0 crédito, os 2 números brancos. Ela faz ~2,6 dias desde o post de 15/11.
+  - **O que falta:**
+    - o story do Insta e do Face, se não estiver no ar;
+    - os prints de ~12h40 (o nora67 com ~17 h e o nora68 com ~11 h no Insta; a Biblioteca do Face, com o tsu1611 a ~24 h, o nora67-FACE e o nora68-FACE; o Tracker de 16/11 fechado);
+    - **a hora em que o nora67-FACE foi postado**, que não está no CSV;
+    - o "pode montar" do nora69 (19h30, embaralha e tira a carta) e do nora70 (0h00, já com a carta na mão).
+  - No Insta, até ~01h06 de 18/11, nada de curtir, comentar, seguir, responder ou fixar comentário.
 - **17/11/2026 01h40, nada de ritual antes da fala (o aluno: "esses rituais antes de começar a copy… bem feio, não parece algo profissional"):** o vídeo abre na Nora falando, com uma ação de carta no Take 1 (seção 2, "Abertura"). **O teste de hoje passa a ser:**
   - **19h30, a opção 1:** ela embaralha e tira uma carta no T1, e do T2 em diante segura a carta;
   - **0h00, a opção 2:** ela já começa com a carta na mão;
