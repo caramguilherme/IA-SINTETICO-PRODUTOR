@@ -796,6 +796,15 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
 - **A prioridade de amanhã cedo é o funil:** ~38 cliques e 0 checkout, contra 6% de clique para checkout do Gyro (23ª leitura). É o teste de cliente oculto.
 - Dashboard na versão 45.
 
+## 17/11/2026 10h44, Face (Biblioteca de Conteúdo, print do aluno)
+- **nora68-FACE** (o tsunami no rochedo, postado às **00h48**, ~10 h): **235 views**, 213 visualizadores, 97 views de 3 s (41,3%), tempo médio 4 s, **distribuição +1,3x** (a 1ª positiva de um falado desde o loop), 6 engajamentos, 0 seguidores.
+- **nora67-FACE** (o café Folgers, postado às **19h43** de 16/11, ~15 h): 123 views, 116 visualizadores, 42 de 3 s (34,1%), 3 s de média, −0,8x.
+- **O que mostra:** os dois têm o mesmo corpo, o mesmo CTA e a mesma edição; muda o começo (o tsunami contra o café) e o horário (00h48 contra 19h43). **No Face, a abertura com o evento grande (o tsunami) passou a do ritual de bancada (o café) com menos tempo de vida**, como o nora55 (o tsunami, 4.236) já tinha mostrado nesta Página. O tsunami não é ritual: é um evento. Pela regra do aluno ("tudo é teste"), entra como uma variante a testar contra a abertura da Nora falando com a carta.
+- **As repostagens não andam:** o tsu1611 (o tsunami curto + takes antigos) fechou ~22 h com 10 views (−1,1x) e o POV de novo com 15 (−1,8x). Reaproveitar o mesmo material no Face, mesmo com a variação, não está entregando.
+- **Os outros:** o nora66-FACE parou em 25; o nora65-FACE em 236 (~56 h); o loop no Face em 33.
+- **O story de foto do Face** foi postado às 00h48 de 17/11 (vence ~00h48 de 18/11). A Biblioteca mostra 0 nele (o número do story aparece no próprio story, não aqui).
+- **Decisão:** nada muda agora. O Face das 16h vai com o `nora65-VAR1711-FACE` (a Nora com a carta desde o 1º quadro), que é o formato decidido em 01h40. A leitura do Insta (o nora67 e o nora68) vem às ~12h40.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
