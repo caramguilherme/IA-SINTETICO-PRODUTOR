@@ -1474,6 +1474,8 @@ NEVER generate: a different face, hairstyle, outfit or voice, extra people, extr
 
 ### Configurar uma avatar nova (passo a passo, feito com a Nora em 09/10)
 
+> **O jeito do Felps (DM, áudio de 17/11):** "eu pego ela do Pinterest, eu já levo, já vou aplicando elas nas cenas que eu quero… Não faço blueprint, não faço nada." Antes (10/11), ele explicou que pede a imagem "idêntica, com a mesma iluminação" e reforça "parece tirada por um iPhone". **Para uma conta nova:** dá para pular a folha e partir de uma foto natural, mas a foto do Pinterest entra só como referência de luz, cenário e jeito de celular, **nunca com o rosto de uma pessoa real**.
+
 O caminho clique a clique depois dos 3 dias de aquecimento, pra repetir em cada conta nova. Trocar \[NOME\], \[@\] e a descrição da avatar. Ordem que funcionou: imagens primeiro, depois Insta e Face intercalados (o Face no PC enquanto espera os minutos do Insta), Appyon por último.
 
 **Regras do dia**
