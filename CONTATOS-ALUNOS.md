@@ -787,3 +787,18 @@ bora trocar ideia sim, pode ser por aqui msm
 **3. Herick, no #vitórias-dólar (responder a mensagem dele das 15h21, o painel de 01 a 15/11):**
 > parabéns herick!! resultadão
 > uma duvida: quando uma pagina sua trava abaixo de 50 views, vc insiste nela ou abre outra?
+
+## ENVIADO (16/11/2026 23h21, 23ª leitura; toda resposta sugerida conta como enviada; uma mensagem em cada lugar)
+**1. Vítor Franke, no #chat-appyon (responder a mensagem dele das 18h08, "minha dúvida é exatamente em relação ao proxy"):**
+> achei aqui: o bruno avelino falou em 04/10 e o gustavo confirmou na call de 05/10
+> conta que flopou no aquecimento: apaga o aparelho no geelark e cria tudo de novo, mantendo só a proxy
+> se 4 contas criadas na mesma proxy forem banidas, aí descarta a proxy
+
+**2. Leonardo Eri, no #chat-appyon (responder a mensagem dele das 21h10, os 50 e os 30 vídeos abaixo de 250):**
+> na aula 55 o gustavo fala q trocar é quando dezenas de videos ficam em 40 a 50 views
+> se ta passando de 200, 300, o problema é o video e nao a conta
+> os teus ficam mais perto de 50 ou de 200?
+
+**3. Gyro, no #vitórias-dólar (responder a mensagem dele das 22h23, o painel do 1º mês):**
+> parabéns gyro!! 104 vendas no 1º mês depois da 1ª é mt foda
+> uma duvida: esses 19k cliques vieram mais do insta ou do face?

@@ -159,3 +159,5 @@
 - **Discord:** `HISTORICO-DISCORD/`; decisões em `COMUNIDADE-E-ESTRATEGIA.md`.
 - **Respostas do Clone:** `CLONE-DO-GUSTAVO-RESPOSTAS.md`.
 - **O curso e a Appyon:** `PLANO-MVM-LEGACY-APPYON.md`.
+
+- **A call do Gustavo de 16/11 à noite (o "benchmarking", 23ª leitura) e as 5 calls de sprint da Black Oculta, abertas a todo o Legacy:** trazer as transcrições do Loom para o `TRANSCRICOES/` assim que saírem, e levar o que servir para a fila.

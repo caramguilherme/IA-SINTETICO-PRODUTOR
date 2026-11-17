@@ -1206,3 +1206,33 @@ Arquivos: `HISTORICO-DISCORD/chat-appyon_12-11-madrugada.md`, `vitorias-dolar_12
   - A proposta passa a ser 2 planos de 17 a 23/11: "01 - 18:50", com 22 vídeos (manifestation), e "02 - 23:20", com 25 (law of attraction).
   - Gasta ~50 a 60 min de GeeLark por dia e pede o pacote de 2.000 min. Conferir os Registros todo dia.
   - **Não muda nada nos painéis de hoje.**
+
+### 16/11/2026 23h21 - Discord, 23ª leitura (6 canais, 16/11 17h48 a 23h12; arquivos `HISTORICO-DISCORD/*_16-11-noite.md`, imagens em `HISTORICO-DISCORD/imagens/16-11-noite/`)
+- **Vitória com número (Gyro, #vitórias 22h23, print do painel da Appyon):** 24/09 a 24/10, o 1º mês depois da 1ª venda.
+  - **19.243 cliques, 1.156 checkouts, 104 vendas**, R$ 6.972,23 (R$ 66,92 por venda front).
+  - Isso dá **6,0% de clique para checkout, 9,0% de checkout para venda e 0,54% de clique para venda**.
+  - O Rundouglas fez R$ 2 mil no dia (sem print).
+- **Oficial (anúncios, Lucca Capra 22h16 a 22h29):**
+  - **Black Oculta** (R$ 2.997; R$ 1.997 para quem tem o Scoped Elite): sprint de 7 aulas ao vivo, das quais **as 5 do Gustavo ficam abertas a todo o Legacy**; turma Black de 8 semanas; Scoped Elite + AutoEditor Max por 12 meses.
+  - **Operation Max** (R$ 1.997): 3 avatares e 3 Páginas prontos, recorrência de 5% para 20% por 90 dias, correção de perfil e vídeo por 30 dias.
+  - As duas ofertas são anuais e vão até 21/11, só para quem já é Legacy. O Gustavo confirmou que o Legacy antigo assiste o sprint.
+  - **A call do Gustavo de hoje (19h56, "o benchmarking mais insano do planeta")** aconteceu e foi gravada (o F Lopes pediu a gravação).
+- **Selo de IA (Thawam, da equipe, 18h02):** no Insta, só no perfil. O aluno completou no chat que no Face marcou a Página como criadora de IA.
+- **Automação de DM no Face (Marcelo, 21h48):** 21 dias sem poder mandar mensagem, com pedido de documento. Ele mandava o link na DM de quem comentava a palavra-chave pedida no vídeo, e agora sugere mandar para o comentário fixado e o story. O Caio1094 usa a mesma automação desde o começo e diz que vai bem.
+- **Testar avatar (Paulo Infante, sem fonte):** "a recomendação oficial são 10 vídeos; se 5 passarem de 200 views, a conta tá boa". O Patrick Robba lembra de "40" para validar vendas, sem saber de onde.
+- **Funis (ℌ𝔢𝔫𝔯𝔦𝔮𝔲𝔢, aluno):** Love Reading e Manifestation são os melhores agora. A opção "Soulmate match" sumiu da configuração da conta do Face.
+- **Muse (Ricardo Santana):** 6 takes de 10 s de uma vez, depois ele junta. Duas contas dão conta. **Não recomenda mais comprar conta pronta** (a 2ª, da GGMax, deu erro de região).
+- **Proxy:** um proxy da ProxyCheap com 0 no Scamalytics e 55 no IPQualityScore. O Don ADS diz que todos os dele vieram assim.
+- **Para a Nora (decisão minha):**
+  1. **O funil passa na frente:**
+     - Com a taxa do Gyro (6% de clique para checkout), os nossos ~38 cliques reais desde 27/10 deveriam ter dado ~2 checkouts.
+     - Ter dado 0 tem ~1 chance em 10 de ser só azar. Não prova nada, mas o **teste de cliente oculto** pendente desde hoje cedo vira a prioridade: o link aberto dentro dos apps do Insta e do Face, até depois dos 16:00 da VSL, vendo o botão.
+  2. **O selo de IA está certo** (o perfil do Insta e a Página marcados). A conferência no Status do Insta fica opcional.
+  3. **A DM automática no Face segue fora:** adiada pelo aluno em 06/11, e os directs estão parados desde 13/11. A restrição de 21 dias do Marcelo confirma o risco.
+  4. **As ofertas da Black são decisão do aluno.** Não tenho dado que mostre o que elas mudariam na Nora, então não recomendo nem desaconselho. **O que entra no projeto:** as 5 calls de sprint do Gustavo (abertas a todo o Legacy) e a gravação da call de hoje. Pedido ao aluno: a transcrição do Loom quando sair, para o `TRANSCRICOES/`.
+  5. **Muse e o "10 vídeos com 5 acima de 200":** nada muda. O Flow segue, e a avatar da Nora fica (Clone R19 e R21).
+- **Quem responder:**
+  - o Vítor Franke (o proxy de conta que flopou, no #chat-appyon);
+  - o Leonardo Eri (50 vídeos abaixo de 250, no #chat-appyon);
+  - o Gyro (parabéns + 1 pergunta, no #vitórias).
+  - Textos em `CONTATOS-ALUNOS.md` (ENVIADO 16/11 23h21).
