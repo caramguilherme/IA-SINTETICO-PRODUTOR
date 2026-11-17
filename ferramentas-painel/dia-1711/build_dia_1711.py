@@ -298,7 +298,7 @@ def imgs(c):
              b + rua + "RAW photo taken from outside the truck, about one and a half meters away through the open driver's door, at chest height: she steps up into the "
              "driver's seat, one hand on the steering wheel and the other on the door frame, the glass jar no longer in her hands, a calm expression; " + _FIM),
             ('C', 'sentada no banco do motorista, de cinto, apontando para a lente (é a imagem das falas)',
-             b + '; change the place and the light: she sits in the driver\'s seat of the same dark gray pickup truck with the seatbelt across her chest, on a quiet '
+             b + '; change the place and the light: she sits in the driver\'s seat of the same dark gray pickup truck with the seatbelt across her chest, driving slowly down a quiet '
              'American suburban street on a sunny afternoon, soft natural daylight through the windows; through the side and rear windows, houses, lawns and trees. '
              'RAW photo taken by a phone mounted on the dashboard about 60 centimeters in front of her, at face height, slightly to the side like a real car selfie: '
              'framed from the chest up, her face in the upper middle of the image, looking straight into the camera with a serious, knowing look and her lips '
