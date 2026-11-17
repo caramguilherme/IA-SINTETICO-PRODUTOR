@@ -52,35 +52,36 @@ def novo(tm):
     return acc
 
 
-# ---------- base (sem texto) ----------
+# ---------- base (sem texto): um arquivo por trecho e o concat sem recodificar ----------
+# (17/11: cortar os 21 trechos num filtro só, com trim, estourou a memória: cada trim guarda os quadros)
 tmp = os.path.join(OUT, f'tmp-{VER}'); os.makedirs(tmp, exist_ok=True)
-fc, n = [], 0
+ENC = ['-c:v', 'libx264', '-crf', '14', '-preset', 'veryfast', '-pix_fmt', 'yuv420p', '-r', '24',
+       '-c:a', 'aac', '-b:a', '192k', '-ar', '48000', '-ac', '2']
+
+
+def trecho(n, src, a, d, vf_extra='', fade_audio=True):
+    p = os.path.join(tmp, f's{n:02d}.mp4')
+    af = f'afade=t=in:d=0.012,afade=t=out:st={max(0, d - 0.012):.3f}:d=0.012' if fade_audio else 'anull'
+    subprocess.run(['ffmpeg', '-v', 'error', '-y', '-ss', f'{a:.3f}', '-i', src, '-t', f'{d:.3f}',
+                    '-vf', f'scale={W}:{H},setsar=1,fps=24{vf_extra}', '-af', af, *ENC, p], check=True)
+    return p
+
+
+partes = []
 if VER == 'insta':
     HOOK_DUR = FIM_HOOK - V0
-    fc.append(f'[0:v]trim=start={V0}:end={FIM_HOOK},setpts=PTS-STARTPTS,fps=24,setsar=1[v{n}];'
-              f'[0:a]atrim=start={V0}:end={FIM_HOOK},asetpts=PTS-STARTPTS,aresample=48000,afade=t=out:st={HOOK_DUR-0.012:.3f}:d=0.012[a{n}]')
-    n += 1
-    inputs = ['-i', MONT]
+    partes.append(trecho(0, MONT, V0, HOOK_DUR))
 else:
     HOOK_DUR = float(subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', HOOK_LIMPO],
                                     capture_output=True, text=True).stdout)
-    fc.append(f'[1:v]fps=24,scale={W}:{H},setsar=1,fade=t=out:st={HOOK_DUR-0.15:.3f}:d=0.15:color=white[v{n}];'
-              f'[1:a]aresample=48000,afade=t=out:st={HOOK_DUR-0.012:.3f}:d=0.012[a{n}]')
-    n += 1
-    inputs = ['-i', MONT, '-i', HOOK_LIMPO]
+    partes.append(trecho(0, HOOK_LIMPO, 0, HOOK_DUR, f',fade=t=out:st={HOOK_DUR - 0.15:.3f}:d=0.15:color=white'))
 for i, (a, b) in enumerate(keep):
-    d = b - a
     fl = ',fade=t=in:st=0:d=0.12:color=white' if i == 0 else ''  # o flash branco cobre o corte do hook para a fala
-    fc.append(f'[0:v]trim=start={a:.3f}:end={b:.3f},setpts=PTS-STARTPTS,setsar=1{fl}[v{n}];'
-              f'[0:a]atrim=start={a:.3f}:end={b:.3f},asetpts=PTS-STARTPTS,aresample=48000,'
-              f'afade=t=in:d=0.012,afade=t=out:st={max(0, d-0.012):.3f}:d=0.012[a{n}]')
-    n += 1
-fc.append(''.join(f'[v{i}][a{i}]' for i in range(n)) + f'concat=n={n}:v=1:a=1[vb][ab]')
+    partes.append(trecho(i + 1, MONT, a, b - a, fl))
+lst = os.path.join(tmp, 'lista.txt')
+open(lst, 'w').write(''.join(f"file '{p}'\n" for p in partes))
 base = os.path.join(tmp, 'base.mp4')
-vf_extra = f';[vb]{VF.filtro_variacao()}[vbx]' if VER == 'face' else ''
-vmap = '[vbx]' if VER == 'face' else '[vb]'
-subprocess.run(['ffmpeg', '-v', 'error', '-y', *inputs, '-filter_complex', ';'.join(fc) + vf_extra, '-map', vmap, '-map', '[ab]',
-                '-c:v', 'libx264', '-crf', '15', '-preset', 'medium', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-b:a', '192k', base], check=True)
+subprocess.run(['ffmpeg', '-v', 'error', '-y', '-f', 'concat', '-safe', '0', '-i', lst, '-c', 'copy', base], check=True)
 dur_b = float(subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', base],
                              capture_output=True, text=True).stdout)
 
@@ -168,12 +169,14 @@ t_tap = next(w[1] for w in words if w[0].lower().startswith('tap'))
 cam = [(png_222(), 15.0, dur_b), (png_seta(), t_tap, dur_b)] + [(png_leg(t), a, b) for t, a, b in leg]
 args = ['ffmpeg', '-v', 'error', '-y', '-i', base]
 filt, ult = [], '0:v'
+if VER == 'face':
+    filt.append(f'[0:v]{VF.filtro_variacao()}[vx]'); ult = 'vx'
 lista = []
 if hook_txt: lista.append((hook_txt, 0.0, HOOK_DUR - 0.05))
 for i, (im, a, b) in enumerate(cam):
     p = os.path.join(tmp, f'c{i:03d}.png'); im.save(p); lista.append((p, a, b))
 for i, (p, a, b) in enumerate(lista):
-    args += ['-loop', '1', '-t', f'{dur_b:.3f}', '-i', p]
+    args += ['-loop', '1', '-framerate', '24', '-t', f'{min(b + 0.1, dur_b):.3f}', '-i', p]
     filt.append(f"[{ult}][{i + 1}:v]overlay=0:0:enable='between(t,{a:.3f},{b:.3f})'[o{i}]"); ult = f'o{i}'
 final = os.path.join(OUT, 'nora69-final' + ('-FACE' if VER == 'face' else '') + '.mp4')
 if VER == 'face':
