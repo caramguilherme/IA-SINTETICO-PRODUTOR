@@ -826,6 +826,13 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
 - **Público:** 97,3% não seguidores; 45+ = 58,1% (45 a 54: 28,6%); países: EUA 18,8%, Canadá 10,7%, Reino Unido 7,1%, Austrália 5,4%, Irã 4,5%. **Sem Índia no top 5** (o horário das 19h30 funciona), mas o Insta não passou da amostra inicial (abaixo do reel típico a tarde toda).
 - **Leitura:** igual ao nora63 e ao nora66: o problema não é o hook nem o horário, é o que a fala faz dos 3 aos 10 s. É o que o teste de hoje à noite mexe (a abertura da claire_mayaus: "Keep your mouth shut if this video showed up for you on…" com a data, e a fala longa).
 
+### 17/11 17h52: Insights do nora68 no Insta (~16h40 de vida) e a comparação com o nora67
+- **121 views, 110 viewers, 51,8% nos 3 s (skip 48,2%), tempo médio 7 s num vídeo de 39 s, 2 visitas ao perfil, 1 follow;** 1 curtida, 1 comentário, 0 salvos.
+- **A curva:** ~50% aos 3 s, ~30% aos 5 s, ~15% aos 10 s, ~5% no fim. Segura mais que o nora67 (~25% e ~10%), mas ainda perde ~85% até os 10 s.
+- **Público:** 96,7% não seguidores; **45+ = 71,1%** (55 a 64: 25,6%; 65+: 14,9%); países: **EUA 35,5%**, Reino Unido 6,6%, Austrália, Irã e Canadá 5,8%. **Sem Índia, mesmo postado às 01h19.**
+- **O par (o mesmo corpo, CTA e edição; só o hook e o Take 1 mudaram):** o evento grande (o tsunami no rochedo) passou o ritual de bancada (o café) em tudo: 51,8% x 47,2% nos 3 s, 7 s x 5 s de tempo médio, 2 x 0 visitas, 1 x 0 follow, EUA 35,5% x 18,8%. O preço é o público mais velho (71% x 58% com 45+). Igual ao Face (o nora68-FACE com +1,3x). As views ficaram iguais (121 x 112): o Insta ainda não passa da amostra inicial.
+- **Para o teste de hoje:** o nora69 e o nora70 são de outra família (a copy original da claire_mayaus, o hook de ação comum e o visual limpo). A régua para dizer se saíram do teto: mais de 200 views com ~24 h, mais de 15% aos 10 s e visitas ao perfil acima de 2.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
