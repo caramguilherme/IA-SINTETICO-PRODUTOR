@@ -12,6 +12,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **12/11 ~16h30, voltas com resultado (DM, pedido do aluno: "faz tempo que não conversamos com alguém"):** joao (o teste só com fala x cena), Kaike (o tsunami de volta, 3,9 mil no Face; a pedra não chegou a ser testada) e Lari (6 por dia: Face bem, Insta caiu): enviadas (toda resposta sugerida conta como enviada). Esperar resposta de cada um; Ricardo e Marcus ficam para quando o nora59 tiver número (CTA novo).
 - **Pedro⚡ (17/11 11h55):** respondeu em 16/11 12h54: os posts das 17h às 0h são **num perfil só**; "os caras não recomendam, mas eu testo de tudo"; já postou 8 por dia (1 por hora), e hoje a média é de 4 a 5. A 1ª venda dele foi em 15/11. Resposta enviada (texto no fim), com a pergunta da abertura dos vídeos. Esperar.
 - **Lari (17/11 11h50):** em 16/11 12h54 contou que espiona "em todos os lugares possíveis", que achou pouco na Biblioteca de Anúncios e que prioriza "o orgânico fora da appyon". Às 12h55 mandou um áudio de 43 s (transcrito pelo aluno): focou só em aumentar as views, sem link no story, e pôs o link quando um vídeo pegou. Resposta enviada (texto no fim), com a pergunta do formato que pegou. Esperar.
+- **Caio1094 (17/11 11h55):** respondeu às 11h49: **tinha "100 / 90" vídeos na conta quando saiu a 1ª venda**, e perguntou "Eai como ta? Já chegou nisso de post?". Resposta pronta (texto no fim).
 - **Caio1094 (17/11 11h50):** em 16/11 13h12 mandou o @ da avatar das copys longas e dos hooks de polvo: **@miriamlewistarot** ("eu nao sigo, é que aparece bastante"). Resposta enviada (texto no fim), com a pergunta de quantos vídeos ele tinha na 1ª venda. Esperar.
 - **Marcelo (17/11 11h45):** respondeu em 16/11 13h19 a 14h02 (a bandeira sempre fez e "dá bom"; "o vídeo tem q viraliza, aí depois que a conta tiver boa acerta os horários"; perguntou o formato e quer uma call: "fale uma hora mano que nós pode troca uma ideia"). Resposta pronta (texto no fim); a call e o horário são decisão do aluno.
 - **Felps (17/11 11h40):** respondeu em 17/11 11h27 com um áudio de 10 s (transcrito pelo aluno): cria a avatar direto da foto do Pinterest e já aplica nas cenas, "não faço blueprint, não faço nada". Resposta enviada (texto no fim), com a pergunta do teto do Insta. Esperar.
@@ -869,4 +870,12 @@ teus vídeos são a avatar falando desde o começo ou tem alguma cena antes da f
 ```
 **Por que essa pergunta:** é a decisão de hoje (a abertura sem ritual, com a Nora falando com a carta desde o 1º quadro, `CLAUDE.md` 17/11 01h40). Ele vendeu em 15/11, com um perfil só.
 **O que fica:** com um perfil só, ele posta de 4 a 5 por dia, das 17h às 0h, a cada 1 a 2 h, com a bandeira dos EUA ao fundo, e vendeu. Isso vai para a fila de testes A/B como o volume do Insta.
+
+## ENVIADO (17/11/2026 11h55; DM ao Caio1094, resposta às mensagens dele de 11h49, "100 / 90" e "Eai como ta? Já chegou nisso de post?"; uma mensagem só)
+```
+ainda não, to com 68 no insta, 33 deles no manifestation
+então ainda to longe dos teus 90/100, bom saber kkk
+vou subir o volume pra chegar lá mais rápido
+```
+**O que fica:** o Caio vendeu com 90 a 100 vídeos na conta, e o Kaike teve o 1º boom com 90 (`CONTATOS`, quadro). A Nora tem 68 no Insta (33 no Manifestation, desde 27/10) e 76 no Face. Isso reforça o teste do volume (`FILA`, testes A/B) antes de largar a conta.
 
