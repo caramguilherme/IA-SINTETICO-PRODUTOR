@@ -1391,6 +1391,19 @@ NEVER generate: a different face, hairstyle, outfit or voice, extra people, extr
 - **Compra de perfil do Face (10/11):** gente comprando no GGMax (um veio do Vietnã; o Matheus Salgado sugere trocar o idioma do Face para português) e o Vinicius B passando contato no privado. Só registro: não é o jeito da Nora
 * **Face (12/11, 18h a 22h40):** a página trava carregando ao postar: para o Caio passou sozinho no dia seguinte; o joaozmp diz que pode ser verificação de identidade (abrir a página pelo Face do celular; se não aparecer nada, pôr o Brasil na restrição de países para ver o aviso). Face roda no PC normal; o GeeLark é para o Insta (Lucio, F Lopes). Restrição de países: só os bons (EUA, Canadá, Reino Unido; a lista completa está na aula).
 
+### Risely (lançado na call de 16/11; `AULA-16-11-RISELY-CHEGOU-GUSTAVO.md`)
+- **O app:** o "Protocolo Natural Risely" (emagrecimento e digestão), com a VSL do "Dr. Thomas Reynolds".
+- **O funil:** 2 funis em teste A/B, com a mesma VSL; muda só nos 2 primeiros minutos.
+- **Preço:** US$ 19 no front e US$ 29 na recorrência, com 80% de comissão.
+- **Os materiais:** o briefing e a transcrição da VSL estão no Content Hub e na aba Drive. O Risely Hub tem os 25 Reels, os 30 roteiros, os 39 CTAs, o "cérebro de copy" e o Johan.
+- **O Gustavo:** "quem está vendendo no Aurali não é para pivotar… cria contas novas e vai tranquilo para o Rizely… quem já tá rodando Aurale, continua rodando Aurale também, mesmo que não tenha vendido ainda".
+- **Ressalva (Kobata, 11/11):** o payout próprio, por causa do chargeback alto.
+- **Para a Nora:** ela segue no Manifestation. O Risely em perfil novo é decisão do aluno.
+- **A oferta da Black para veteranos:**
+  - o front: 8 calls em grupo com o Gustavo e 2 com o Kobata; R$ 2.997, ou R$ 1.997 com o Sculped;
+  - o upsell: 3 avatares com ficha e 3 Páginas do Face prontas;
+  - os dois juntos: ~R$ 4.500, pelo suporte.
+
 ### Aquecimento
 **Protocolo consolidado de conta nova no Insta (17/11/2026: o Clone R64 conferido com a aula 37 e com o que juntamos desde outubro, abaixo; é o caminho que a Nora fez de 06 a 18/10):**
 0. **Antes de criar:**
@@ -1420,6 +1433,12 @@ NEVER generate: a different face, hairstyle, outfit or voice, extra people, extr
    - entre 100 e 200, olhar os 3 s: acima de 50%, postar mais 5 a 10;
    - ~1 mil views nos 10 é sinal forte (Gabriel).
 5. **Depois:** o link no story e os vídeos de venda. Daí em diante não precisa aquecer antes de postar (aulas 14 e 32).
+- **A criação (call de 16/11, 1:23:46 a 1:26:46; `AULA-16-11-RISELY-CHEGOU-GUSTAVO.md`):**
+  - "não compra perfil, cria do zero";
+  - "aquece com vídeo do teu nicho" (a conta do Risely não aquece com vídeo de manifestação);
+  - no Insta, "você cria e aquece";
+  - no Face, "você tem que ter um perfil antigo e a página você cria na hora… e aquece ela direitinho".
+  - O passo a passo oficial está na área de membros (membros.mvmcreators.com.br), "em aulas de 3, 2 minutos".
 - **A automação do GeeLark na conta nova:** não nos dias 1 a 3. O Felps e o Mattias aquecem à mão. Contas aquecidas só pela automação não entregaram (MJ COMPANY, Jottinha), a Hosana tomou selfie duas vezes e o Marcos Daniel perdeu uma conta de 3 dias com 50 a 100 vídeos por rodada. Se usar depois, 20 a 30 vídeos por rodada, nunca 100.
 - **A Página do Face:** 3 dias de ~30 min de Reels como a Página, pelas hashtags do nicho (Gustavo, 12/10; Felps), num perfil do Face separado (`BRIEFING-LOVE-READING.md`).
 
