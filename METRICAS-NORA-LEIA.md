@@ -814,6 +814,12 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
 - **Só uma conta nova separa (a) de (b).** Com o mesmo tipo de vídeo, se a conta nova passar de 200 nos 10 de aquecimento, o teto é da conta da Nora; se travar igual, é o vídeo.
 - **O Face está respondendo:** o nora68-FACE, com +1,3x, foi o 1º falado com distribuição positiva.
 
+### 17/11 17h48: a grade do Insta (print do aluno pelo celular da Nora)
+- **nora68 (o tsunami no rochedo, 01h19): 121 com ~16h30 · nora67 (o café Folgers, ~19h30 de 16/11): 112 com ~22h · nora66 (o sal): 127 · nora65 (a carta): 151 · nora64 (o loop): 2.211 · nora63 (a canela): 163.**
+- **Correção:** a leitura de 11h20 (vista de outro perfil do aluno) anotou o nora67 com 150 e o nora68 com 111. Pela grade de agora, o 150 era o nora65 e o nora67 estava em ~111. O CSV foi corrigido.
+- **O que diz:** os falados seguem colados entre ~110 e ~165 (o teto da R46). O nora68 às 01h19 e o nora67 às 19h30 ficaram iguais: nem o horário nem o hook de evento grande mudaram o Insta. É a linha de base para o teste de hoje (o modelo da claire_mayaus: copy original, hook de ação comum e visual limpo).
+- **Pedido:** o Insights do nora67 e do nora68 com ~24 h (os 3 s, o tempo médio, a curva, as visitas ao perfil, os follows e os países) e o Tracker de 16/11 fechado.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
