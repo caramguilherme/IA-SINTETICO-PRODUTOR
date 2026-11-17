@@ -13,6 +13,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **Pedro⚡ (17/11 11h58):** respondeu às 11h52: vídeos de 30 a 45 s ("raramente coloco de 1 min, mas quase nunca dá bom"); repete o que validou numa conta; **por dia, 5 do validado ("sem hook, personagem já inicia falando") e 1 de teste, com hook de 3 a 4 s**. Resposta pronta (texto no fim).
 - **Pedro⚡ (17/11 11h55):** respondeu em 16/11 12h54: os posts das 17h às 0h são **num perfil só**; "os caras não recomendam, mas eu testo de tudo"; já postou 8 por dia (1 por hora), e hoje a média é de 4 a 5. A 1ª venda dele foi em 15/11. Resposta enviada (texto no fim), com a pergunta da abertura dos vídeos. Esperar.
 - **Lari (17/11 11h50):** em 16/11 12h54 contou que espiona "em todos os lugares possíveis", que achou pouco na Biblioteca de Anúncios e que prioriza "o orgânico fora da appyon". Às 12h55 mandou um áudio de 43 s (transcrito pelo aluno): focou só em aumentar as views, sem link no story, e pôs o link quando um vídeo pegou. Resposta enviada (texto no fim), com a pergunta do formato que pegou. Esperar.
+- **Caio1094 (17/11 12h00):** às 11h54, depois da mensagem do aluno sobre o vídeo curto de 8 s: "esses vídeos curtinhos, eles não vendem nadaaaa… eu não usaria… tu vai ensinar seu algoritmo a mandar pra pessoas que consomem esse tipo de conteúdo, aí depois… postando longo, vai reensinar… a conversão… vídeo curto é menor ainda" (é relato de outros; ele nunca fez curto). Resposta pronta (texto no fim).
 - **Caio1094 (17/11 11h55):** respondeu às 11h49: **tinha "100 / 90" vídeos na conta quando saiu a 1ª venda**, e perguntou "Eai como ta? Já chegou nisso de post?". Resposta pronta (texto no fim).
 - **Caio1094 (17/11 11h50):** em 16/11 13h12 mandou o @ da avatar das copys longas e dos hooks de polvo: **@miriamlewistarot** ("eu nao sigo, é que aparece bastante"). Resposta enviada (texto no fim), com a pergunta de quantos vídeos ele tinha na 1ª venda. Esperar.
 - **Marcelo (17/11 11h45):** respondeu em 16/11 13h19 a 14h02 (a bandeira sempre fez e "dá bom"; "o vídeo tem q viraliza, aí depois que a conta tiver boa acerta os horários"; perguntou o formato e quer uma call: "fale uma hora mano que nós pode troca uma ideia"). Resposta pronta (texto no fim); a call e o horário são decisão do aluno.
@@ -892,4 +893,12 @@ nesses 5 validados vc repete a mesma copy ou troca a frase do começo?
 - **O formato que vende para ele não tem hook:** a personagem já começa falando. Confirma a decisão do aluno de 17/11 01h40 (a Nora falando desde o 1º quadro).
 - **A duração é de 30 a 45 s.** Fica entre os 40 a 60 s da R54 e os 20 a 35 s da pesquisa oficial.
 - **O jeito de rodar depois de validar:** 5 iguais ao validado e 1 de teste por dia.
+
+## ENVIADO (17/11/2026 12h00; DM ao Caio1094, resposta à mensagem dele de 11h54 sobre o vídeo curto; uma mensagem só)
+```
+faz total sentido, valeu pelo toque
+o curto foi só um teste, vou focar nos longos
+teus vídeos longos começam com a avatar já falando ou tem alguma cena antes?
+```
+**O que fica:** o vídeo curto ensina o algoritmo a mandar o perfil para quem consome curto, e o vídeo longo depois tem de "reensinar". Bate com os nossos números: o loop de 8 s fez 2.204 views com 54% de Índia, e as fitas de outubro tiveram 83% de público 45+ e 0 checkout. **O loop marcado para 18/11 entra em revisão** (`CLAUDE.md`, seção 1). A pergunta é a mesma feita ao Pedro (a abertura), agora para quem vende com vídeo longo.
 
