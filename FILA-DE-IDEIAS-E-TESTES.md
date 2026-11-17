@@ -161,3 +161,7 @@
 - **O curso e a Appyon:** `PLANO-MVM-LEGACY-APPYON.md`.
 
 - **A call do Gustavo de 16/11 à noite (o "benchmarking", 23ª leitura) e as 5 calls de sprint da Black Oculta, abertas a todo o Legacy:** trazer as transcrições do Loom para o `TRANSCRICOES/` assim que saírem, e levar o que servir para a fila.
+
+- **Take 1 pelas letras do nome, positivo** (viral 52.2, 16/11): "If your name starts with A, J, M, K, C, E, S, L, R, T or H, this message found you for a reason." É candidato ao próximo teste dos primeiros 10 s, com o corpo, o CTA e a edição do nora67 fixos.
+- **A ponte do mecanismo antes do CTA** (virais 52.1 e 52.2; a P42, item 5): ~10 s em que a Nora explica por que o que ela deseja "quase chega e escapa" e como a leitura de 2027 mostra o próximo passo. Sem "limited time" e sem medo. Entra depois do teste do Take 1.
+- **A duração de 2 min ou mais** (virais 52.1 e 52.2; o Caio1094 na 21ª leitura) contra a R54 (40 a 60 s): vai para a R62 do Clone.

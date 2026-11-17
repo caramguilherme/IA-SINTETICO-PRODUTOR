@@ -91,6 +91,7 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
 - **Dashboard:** para atualizar, editar o CSV, rodar `ferramentas-painel/dashboard/preparar_csv.py`, subir a cópia sem o BOM como asset e dar `update` em `datasets/metricas` (`source.url`, `source.name`, `updated`) com `if_version`; receita completa em `ferramentas-painel/dashboard/COMO-RECRIAR.md`.
 
 ## 4. Diário de decisões (as novas entram aqui, datadas; as anteriores a 14/11 estão em `HISTORICO-CLAUDE-MD.md`)
+- **16/11/2026 23h32, os 2 virais que o aluno mandou (a avatar com a carta, 2 min cada; `BIBLIOTECA-VIDEOS-VIRAIS.md`, seção 52):** é o roteiro que o corpo A modelou em outubro. Ficam fora a ameaça, os selos e o 222 antes do CTA, o prazo ("em 33 minutos", da lista "não diga" da Appyon) e o "rico como traficante" (P42, R54). **Entram na fila, uma de cada vez:** (a) o Take 1 pelas letras do nome, na versão positiva, candidato ao teste dos 10 primeiros segundos; (b) a ponte do mecanismo antes do CTA (a P42, item 5, que os roteiros pularam). A duração de 2 min contra a R54 vai para a R62.
 - **16/11/2026 23h25, o nora67 com 45 views em ~4 h no Insta e o aluno desanimado ("não sei mais o que fazer… não sei se vc tá usando tudo que já te mandei"):**
   - **O padrão:** os falados do Insta ficam em ~120 a ~190 views desde o nora55. O 2,2 mil do loop foi 54% Índia; nos EUA ele teve ~140, como os outros.
   - **A causa:** os falados perdem ~90% das pessoas até os 10 s (nora66: 9% aos 11 s), e o Insta não passa da amostra inicial.

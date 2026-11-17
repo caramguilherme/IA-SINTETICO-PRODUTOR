@@ -916,3 +916,31 @@ Do 1º ao 15º (views, duração): nº 1 dança de casal (5,6 mi, 41 s; fora do 
 - **51.2 "O sal no vaso" (`e8c4f84f98d04b9caca14551778fc8a3.mp4`, 63,6 s):** um senhor asiático real ajoelhado no banheiro com um pote de sal (cilindro escuro) e sal na mão; **pré-gancho com ação e corte**: plano dele de frente → close do sal caindo na água do vaso e girando → volta a ele apontando o dedo. Fala: "Put salt in your toilet. Sprinkle salt into your urine and your enemies will lose their power…", "Don't tell anyone about this ritual", e o CTA "tap my profile picture and open my stories to discover the message waiting for you before it disappears. A lot of people cry when they find out what it is… But it won't wait for you forever." (inimigos, segredo e urgência: P42).
 - **O que serve para a Nora:** (1) **de frente desde o 1º quadro, com um objeto do nicho na mão perto do rosto** (o mesmo sinal dos nossos números do Face: quem abre com a Nora de frente segura 42% a 54% nos 3 s); (2) o pré-gancho de produto em 3 cortes do 51.2 (de frente → close do produto agindo → de frente apontando) é o formato que já usamos; (3) **a carta, só como objeto na mão, com a fala, a legenda e o story sem falar de cartas**, cabe na regra do Gustavo ao pé da letra (03/11: "não curto falar de cartas antes de chegar no quiz"); proibir a carta na imagem foi uma extensão minha. Fica como teste do aluno (decisão dele), uma variável por vez. O medo, o arcanjo, os selos e a urgência dos dois ficam fora (P42).
 
+## 52. Os 2 virais mandados pelo aluno em 16/11/2026 ~23h30 (snapgram.io; transcrição inteira em `TRANSCRICOES/2026-11-16-virais-aluno-selos-e-letras.md`; vídeos em `referencias-virais/2026-11-16-aluno/`)
+- **Quem e como:**
+  - uma avatar de IA (mulher negra de ~45 anos, regata vinho), de frente falando para a câmera o vídeo inteiro;
+  - **sem pré-gancho de ritual: abre já falando, com uma carta de tarô parada na mão** (no peito no 52.1, perto do rosto no 52.2; o mesmo tipo de abertura do 51.1 e do nosso nora64 e nora65);
+  - na cena: anjo, vela, ametista ou terço;
+  - no 52.1, um pentagrama dourado brilhando atrás dela (efeito); no 52.2, **a bandeira dos EUA grande atrás**;
+  - na tela: o 11:11 amarelo e o 222 rosa, e a legenda com destaque.
+  - **2min23 e 2min09.** Views e perfil não vieram.
+- **A copy (as duas são o mesmo roteiro, com outro começo):**
+  - **Abertura:** o 52.1 abre com "You're going to make a huge mistake if you skip this video…". O 52.2 abre com "If your name starts with the letter A, J, M, K, C, E, S, L, R, T or H, be very careful. Remain completely silent… before November 20th".
+  - **Ameaça e trava:** "keep your mouth shut", "if you scroll… this rare alignment will be interrupted".
+  - **Promessa exagerada:** "so much money that people will start thinking you're involved in drug trafficking", "before Tuesday", "in 33 minutes you'll receive news".
+  - **O miolo, igual ao nosso corpo:** "the worst is finally behind you. The universe has seen your faith… a major turnaround… money, prosperity and someone extremely special".
+  - **Antes do CTA:** os 3 selos (curtir, salvar, mandar para si) e o "comment 222".
+  - **A ponte do mecanismo:** "your frequency is still vibrating at scarcity… whenever money gets close, it pulls away… you need a frequency aligner".
+  - **O CTA:** "tap my profile picture and check out my stories… available for a limited time… your portal will lose its power in just a few minutes".
+- **É o mesmo roteiro que o corpo A modelou em outubro** (a Nadia, seção 40, e o viral em espanhol do 49), agora com 2 peças novas: a abertura pelas letras do nome e a ponte do mecanismo antes do CTA.
+- **Para a Nora (decisão minha, 16/11 23h32):**
+  1. **Fica fora o que a P42 tirou em 30/10** (a aula do Iorhan: viraliza, mas derruba a ida ao story e traz público velho e medroso que não compra e cancela):
+     - a ameaça e as travas;
+     - os selos e o 222 antes do CTA (R54; aulas 65 e 66);
+     - o prazo ("em 33 minutos", "before Tuesday", "before November 20th"), que está na lista "não diga" da Appyon, junto com o "em 7 minutos" (decisão do aluno, 23/10);
+     - o "rico como traficante" e o "your portal will lose its power", que são promessa e medo;
+     - o anjo, que é religião.
+  2. **Duas peças entram na fila para testar, uma de cada vez:**
+     - **(a) o Take 1 pelas letras do nome, na versão positiva** ("If your name starts with A, J, M, K, C, E, S, L, R, T or H, this message found you for a reason."). Cabe no teste combinado hoje: o corpo, o CTA e a edição do nora67 fixos, muda só o que vem até os 10 s.
+     - **(b) a ponte do mecanismo antes do CTA** (a P42, item 5, já pedia que a Nora explicasse o mecanismo, e os nossos roteiros pularam): ~10 s explicando por que o que ela deseja "quase chega e escapa" e como a leitura de 2027 mostra o próximo passo. Sem "limited time" e sem medo.
+  3. **A duração (2+ min) contradiz a R54** (40 a 60 s, aulas 55 e 28). O Caio1094 também disse que quem vende faz de 1 a 2,5 min (21ª leitura). A pergunta vai para o Clone (R62), com os 2 vídeos como exemplo.
