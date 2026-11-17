@@ -33,8 +33,8 @@ FB = 'https://app.auralyapp.com/6a90ad82719e8d2b35da8a7c?rt_ad=norakensleytarot&
 ESTRELAS = ('the small flat gold crescent moon on her cheek on the left side of the frame with three tiny separate gold five-pointed stars next to it '
             '(three stars with visible points, never dots or circles)')
 JOIAS = (f'the thin braid wrapped with small gold rings, {ESTRELAS}, her star-and-moon drop earrings, her thin gold Venus necklace, the thin gold bracelets and the gold sun ring')
-ESTATUA = ('an old painted resin statue of Saint Michael the Archangel, about 35 centimeters tall, with golden wings, a red cape over golden armor and a raised '
-           'sword, standing on a small round base, covered with a thin layer of grey dust')
+ESTATUA = ('an old painted resin statue of Saint Michael the Archangel, about 35 centimeters tall, with large beige-brown painted wings, silver-gray armor, a faded '
+           'pinkish-red cape, one arm raising a sword high, standing on a rocky painted base, covered with a thin layer of grey dust')
 
 # ------------------------------------------------------------------ as duas cenas
 CARRO = dict(
@@ -292,7 +292,8 @@ def imgs(c):
             ('B', 'de perto: os dedos jogando canela no carpete, embaixo do tapete levantado',
              b + rua + "close-up RAW photo from slightly above of the floor behind the truck's front seat, filling the whole image: the corner of the black rubber floor mat "
              'is folded back, showing the dark gray carpet; her hand with the thin gold bracelets and the gold sun ring pinches ground cinnamon from the open glass jar '
-             'held in her other hand and sprinkles it onto the carpet, a little brown cinnamon already on the carpet; part of her black cardigan sleeve is visible; ' + _FIM),
+             'held in her other hand and sprinkles it onto the carpet, a little brown cinnamon already on the carpet; part of her black cardigan sleeve is visible; '
+             'if a third image is attached, use it ONLY as a reference for the framing and the action of this close-up (the hand, the carpet, the jar), never for any person; ' + _FIM),
             ('D', 'pela porta do motorista aberta, ela subindo no banco do motorista',
              b + rua + "RAW photo taken from outside the truck, about one and a half meters away through the open driver's door, at chest height: she steps up into the "
              "driver's seat, one hand on the steering wheel and the other on the door frame, the glass jar no longer in her hands, a calm expression; " + _FIM),
@@ -366,7 +367,8 @@ def hook(c):
                     'C': nora + roupa + 'na escada, a estátua inteira no alto da escada ao lado dela, uma mão no corrimão e a outra apontando para a lente'}[letra]
         conf += '; 5 dedos em cada mão; nenhum celular, tripé ou texto.'
         usa = usa if usa.strip(', ') and not usa.startswith(' e') else 'TODOS os takes (T01 a T17)'
-        etapas.append({'titulo': f'Imagem {letra}: {desc}', 'nome': f'{base}-IMG-{letra}', 'tipo': 'img', 'anexar': anexos,
+        an = anexos + ('; 3º (opcional) a claire-ref-canela-carpete-sem-rosto.jpg que eu te mandei, só para o enquadramento' if (c['tag'] == 'carro' and letra == 'B') else '')
+        etapas.append({'titulo': f'Imagem {letra}: {desc}', 'nome': f'{base}-IMG-{letra}', 'tipo': 'img', 'anexar': an,
                        'quadros': (f'x4, 0 crédito. Serve para: {usa}. Escolha a que tiver: {conf} Renomeie para {base}-IMG-{letra}.'
                                    + (' ME MANDE AS 4 DA IMAGEM C antes dos takes (é a imagem das falas).' if letra == 'C' else '')),
                        'prompt': prompt})
