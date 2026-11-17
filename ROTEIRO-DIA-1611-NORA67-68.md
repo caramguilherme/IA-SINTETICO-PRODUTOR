@@ -107,3 +107,10 @@ T02: a mesa servindo todos (dividida) → as contas e as tarefas, nova (dividida
 - **16/11 19h18, o aluno reprovou a moeda boiando no café** ("tira autoridade e mostra ser algo feito com IA"). O hook foi refeito com a moeda cortada ainda no ar, e o montado chegou (NORA67.mp4, com o 1º hook na frente, trocado na edição).
 - **16/11 19h30, `nora67-final` (Insta, 37,7 s) e `nora67-final-FACE` (31,6 s) entregues.** Detalhe na `BIBLIOTECA-DE-TAKES.md`.
 
+- **16/11 23h50, nora68: o aluno reprovou a 1ª imagem A** ("se o intuito era um tsunami, eu não gostei. muito superficial. a nora tsunami ficou muito melhor. tem que ser uma onda grande, de tsunami").
+  - O Flow fez uma onda de surfe num pôr do sol claro, porque o prompt pedia "a huge dark-blue wave… twenty meters away" com luz dourada e "no dark or gloomy mood".
+  - **Refeito na escala do tsunami campeão** (nora47-PRE-A):
+    - **A e B:** céu cinza-escuro de tempestade e uma onda GIGANTE, 6 vezes a altura dela na A e 8 na B, muito mais alta que a torre do salva-vidas, com ela calma;
+    - **a C (das falas):** a mesma praia logo depois da tempestade, com as nuvens escuras se abrindo e a luz dourada entrando, que é a história do Take 1;
+    - **os clipes 1 e 2:** o tsunami gigante subindo e depois explodindo no rochedo.
+  - Painel republicado no mesmo link (versão 2). Lição em `LICOES-FLOW-E-PROMPTS.md`.

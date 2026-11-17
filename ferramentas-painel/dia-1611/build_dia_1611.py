@@ -220,6 +220,14 @@ _FIM_IMG = ('looks exactly like a real casual iPhone photo, slight phone grain, 
             'no light effect; no phone, phone stand or tripod anywhere in the image; each hand has exactly five fingers; photorealistic, unretouched, vertical 9:16')
 
 
+_BASE_ID = ('the first image is the approved photo of the woman in her kitchen at night (keep exactly her face, her long black wavy hair, the thin braid with small gold '
+            'rings, the small flat gold crescent moon with three tiny gold five-pointed stars on her cheek, her star-and-moon earrings, her gold Venus necklace, the thin gold '
+            'bracelets and the gold sun ring); the second image is her character sheet (same woman, same face)')
+_FIM_TSU = ('looks exactly like a real casual iPhone photo of a real storm at the beach, slight phone grain, natural colors, everything in focus, no bokeh; no glow, no '
+            'sparkle, no light effect, no CGI look; no phone, phone stand or tripod anywhere in the image; each hand has exactly five fingers; photorealistic, unretouched, '
+            'vertical 9:16')
+
+
 def _nora(c):
     base = ('the first image is the approved photo of the woman in her kitchen at night (keep exactly her face, her long black wavy hair, the thin braid with small gold '
             'rings, the small flat gold crescent moon with three tiny gold five-pointed stars on her cheek, her star-and-moon earrings, her gold Venus necklace, the thin gold '
@@ -259,20 +267,32 @@ def imgs(c):
              f'wrapped around the mug, resting on the counter; her other hand rests on the edge of the counter; {FOLGERS} stands open on the counter beside the mug, label '
              'facing the camera, never covering her face; ' + topo + _FIM_IMG),
         ]
+    # 16/11 23h45: o aluno reprovou a 1ª imagem A ("muito superficial… tem que ser uma onda grande, de tsunami"): A e B voltam à escala
+    # do tsunami campeão (nora47-PRE-A: "a gigantic dark blue-green wave… about four/six times her height", céu cinza-escuro).
+    # A C (das falas) fica com a tempestade passando: as nuvens escuras se abrindo e a luz dourada entrando (a história do Take 1).
+    tsu = (_BASE_ID + '. Same woman and same face: change her clothes to ' + c['roupa_cont'] + ', and change the place and the light: she now stands on a wide empty '
+           'sandy beach on the American coast under a heavy dark grey stormy sky, with a strong wind in her hair; behind her the open sea and one big dark rock standing in '
+           'the shallow water; far away on the sand, small in the background, a white wooden lifeguard tower with a small American flag on top. ')
     return [
-        ('A', 'a Nora de pé na areia, a onda grande se erguendo atrás dela (plano aberto)',
-         n + 'RAW photo taken from about three meters in front of her, at chest height: she stands on the dry sand framed from the knees up, slightly to the left of the '
-         'center, calm, looking out to the side at the sea; behind her, about twenty meters away, a huge dark-blue wave is rising and rolling toward the big dark rock, '
-         'its top just starting to curl, real water and real foam; her hands hang relaxed at her sides; ' + topo + _FIM_IMG),
-        ('B', 'mais perto: a onda a ponto de bater no rochedo atrás do ombro dela',
-         n + 'RAW photo taken from about one and a half meters in front of her, slightly low, at chest height: she stands calm in the left half of the image, framed from the '
-         'waist up, her hair blowing in the wind, looking toward the sea; over her right shoulder, in the right half of the image, the huge wave is about to hit the big '
-         'dark rock, the curling wall of water at its highest point, real water, real white foam, nothing exploding yet; ' + topo + _FIM_IMG),
-        ('C', 'de frente, calma, o mar e o rochedo atrás (é a imagem das falas)',
-         n + 'RAW photo taken from about one meter in front of her, at chest height: closer framing from the chest up, her face in the upper middle of the image, looking '
+        ('A', 'a Nora de pé na areia, calma, e o TSUNAMI gigante se erguendo atrás dela (plano aberto)',
+         tsu + 'RAW photo taken from about four meters in front of her, at chest height: she stands calm on the dry sand, framed from the knees up, slightly to the left of '
+         'the center, looking back over her shoulder at the sea; behind her, filling the whole upper half of the image, a GIGANTIC dark blue-green tsunami wave rises out of '
+         'the sea, about six times her height and many times taller than the lifeguard tower, a towering wall of real water with a white foam crest just beginning to curl '
+         'at the top and spray blowing off it in the wind; the wave is still far behind her and has not reached the beach or the big dark rock; real water physics, like a '
+         'real phone photo of a huge wave; the top of the image is dark grey sky and the top of the wave; ' + _FIM_TSU),
+        ('B', 'mais perto: o TSUNAMI gigante a ponto de quebrar no rochedo, por cima do ombro dela',
+         tsu + 'RAW photo taken from about one and a half meters in front of her, slightly low, at chest height: she stands calm in the left half of the image, framed from '
+         'the waist up, her hair blowing in the strong wind, looking toward the sea; over her shoulder, in the right half of the image, the GIGANTIC tsunami wave towers over '
+         'the beach, about eight times her height, its curling white crest right above the big dark rock and about to crash onto it, casting a dark shadow over the sand, '
+         'spray blowing off the top; nothing has broken yet; real water and real white foam; ' + _FIM_TSU),
+        ('C', 'de frente, calma, a tempestade passando atrás dela (é a imagem das falas)',
+         _BASE_ID + '. Same woman and same face: change her clothes to ' + c['roupa_cont'] + ', and change the place and the light: she now stands on the same wide sandy '
+         'beach on the American coast in the early evening, right after a storm: behind her the dark grey storm clouds are breaking apart and warm golden light is coming '
+         'through, a light wind in her hair; behind her, a little to the right, the big dark rock in the sea with small calm waves and the last white foam of a big wave '
+         'sliding back; far away on the sand, small, the white wooden lifeguard tower with a small American flag on top. '
+         'RAW photo taken from about one meter in front of her, at chest height: closer framing from the chest up, her face in the upper middle of the image, looking '
          'straight into the camera with a calm, warm, knowing smile and her lips closed; the flag pin is visible on the cardigan; her hands are down and out of the frame; '
-         'behind her, a little to the right, the big dark rock in the sea with small calm waves and the last white foam of a wave sliding back; far away on the sand, small, '
-         'the white lifeguard tower with a small American flag on top; ' + topo + _FIM_IMG),
+         + _livre_topo(c) + _FIM_IMG),
     ]
 
 
@@ -292,9 +312,9 @@ def vids(c):
         ]
     return [
         ('1-onda-sobe', 'A', 'a onda enorme se erguendo atrás dela, ela parada',
-         'The huge wave rises and rolls toward the big dark rock behind her while she stands still on the sand, her hair blowing in the wind. ' + SOM_ONDA),
+         'The gigantic tsunami wave keeps rising and rolling toward the big dark rock behind her while she stands still on the sand, her hair blowing in the strong wind. ' + SOM_ONDA),
         ('2-onda-quebra', 'B', 'a onda quebrando no rochedo atrás do ombro dela, a espuma voando',
-         'The wave crashes into the rock behind her and white spray bursts high into the air while she stays calm. ' + SOM_ONDA),
+         'The gigantic tsunami wave crashes onto the big dark rock behind her and a massive wall of white water and spray explodes high into the air while she stays calm. ' + SOM_ONDA),
         ('3-aponta', 'C', 'ela se vira calma e aponta para a lente, a espuma ainda descendo atrás',
          'With the last foam still sliding back behind her, she raises one hand and points straight at the lens in one smooth move, eyes open, calm smile. ' + SOM_ONDA),
     ]
