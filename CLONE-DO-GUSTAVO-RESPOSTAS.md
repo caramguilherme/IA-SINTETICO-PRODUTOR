@@ -1338,6 +1338,25 @@ No fim, separe o que mantém, o que muda e o que foi sem fonte."
   - **Não ver os vídeos pela Página** (já é regra desde 15/11).
   - **Página nova: não agora.** A régua é a da aula 55 (dezenas de vídeos presos em 40 a 50). O teste limpo é o tsu1611 de hoje (o tsunami que fez 4.242 nesta Página) com ~24 h: se ele também ficar abaixo de 50, aí a troca entra em discussão com o aluno.
 
+## R62 (pergunta do aluno direto no Clone em 17/11 00h45, colada às ~00h47; texto inteiro em `CLONE-ORIGINAIS/2026-11-17-R62-verificacao-facial.md`): a 2ª verificação facial do Insta
+(A pergunta que estava planejada como "R62", com o nora67 e o nora68 a ~24 h, passou a ser a R63.)
+- **Resposta (resumo fiel):**
+  1. **O gatilho:** a rajada de 5 ações (2 curtidas, 2 comentários, 1 seguir) em 2 a 3 min, numa conta que costuma só entrar, postar e sair: a Meta compara o padrão com o de pessoas normais e o de robôs (aula 35). O checkpoint de 13/10 deixa a conta mais sensível.
+  2. **O que fazer:** a selfie uma vez só, sem reenviar nem forçar o app; a resposta sai em 30 min a 2 h, até 24 h (Estrutura Instagram, 1:07:06).
+  3. **Risco:** baixo de banimento se a selfie for feita; depois de liberada, a conta fica mais sensível a bloqueio de ação.
+  4. **Depois de liberada:** "entrar, postar e sair" (aula 14, 1:43:23 a 1:43:32); 24 h sem curtir, comentar ou seguir; e a 2ª conta aquecendo (aulas 13, 14 e 35).
+- **Conferido (17/11 00h50):**
+  - **Bate, palavra por palavra, e muda o nosso plano:** a aula 14, 1:43:23 a 1:43:32: "Tem que aquecer a conta antes e depois de postar? **Não, pode entrar, postar e sair. O aquecimento você só tem que fazer no começo da conta.**" Esta transcrição está no projeto desde 15/11 e eu não conferi com ela antes de pôr o aquecimento antes de postar na fila (22ª leitura e fórum do GeeLark, 16/11).
+  - **Bate (aula 35, Ricardo):** 0:22:01, "ele vai ver se você tá fazendo coisa de massa, coisa que uma pessoa normal não faria"; 0:26:03, "alterou informações… rápido demais… respondeu muito em lote"; 0:27:50 a 0:28:13, não reenviar várias vezes ("espera 24 horas, tenta de novo"); 0:08:27, "nunca coloque todos os ovos na mesma cesta"; 1:08:24, "se ele for só pro checkpoint de verificação ali, ele vai só pedir sua facial e você consegue voltar". A aula fala do Facebook; o princípio (a Meta compara o comportamento) vale para o Insta, mas é extensão.
+  - **Bate, com o autor trocado:** a Estrutura Instagram (aula 37) é do @wakezk_, não do Gustavo. Aos 1:06:26 a 1:06:58 ele mostra **exatamente a tela que o aluno viu**: "ele vai dar como se a conta tivesse banida, como se tivesse enviado um recurso, mas… logo a conta vai voltar ou vai banir de vez… **no máximo duas horas a conta volta ou bane**". O "30 min" e o "até 24 h" não estão no texto. A nossa referência é a de 13/10: ~1 h depois da selfie (`FATOS-DO-ALUNO.md`).
+  - **Contradiz uma regra nossa:** "mantenha o perfil apenas recebendo o Reels agendado". Aqui é sempre ao vivo (agendar derruba a entrega: Discord, 10/11, 14ª leitura). Vai para a R63, junto com as outras.
+  - **Sem como conferir:** a aula 13 (0:07:36).
+  - **A 2ª conta:** segue adiada pelo aluno; não entra aqui.
+- **O que entra (decisão minha, 17/11 00h50):**
+  - **Sem aquecimento antes ou depois de postar na Nora:** entra, posta ao vivo e sai. Nada de curtir, comentar ou seguir em sequência na conta dela.
+  - **A automação de aquecimento do GeeLark fica fora para a Nora** (a conta tem mais de 1 mês; o Gustavo só aquece no começo). Se os planos "01 - 18:50" e "02 - 23:20" tiverem sido criados, apagar antes das 18h50 de 17/11.
+  - **Nas 24 h depois da liberação:** só o post ao vivo do nora68 às 19h30 e o story, sem o comentário fixado no Insta (ele não tem link e é mais uma ação) e sem curtir, comentar, seguir ou responder.
+
 ## Conferência com a transcrição da aula 19 (chegou em 16/11 ~14h35; `TRANSCRICOES/2026-06-0x-aula-19-ganchos-black-vsl-30s.md`, resumo em `MATERIAIS-AULA-19/LEIA.md`)
 O que o Clone disse da aula 19 até hoje, conferido com o texto:
 - **R57 ("as aulas defendem o gancho bizarro ou chocante para parar o scroll… aula 19, 0:04:25 a 0:13:10"): citação esticada.** O trecho é sobre **ganchos de duplo sentido, de conotação sexual** (banana, milho, chocolate, salsicha: "Isso é duplo sentido, entendeu?", 0:05:48; "o nosso público é velho, ele já entende as coisas", 0:12:08). E o próprio Gustavo diz que "não é regra… vai converter legal igual com todos aqueles outros estilos de hook" (0:31:59) e "não necessariamente precisa de um gancho de duplo sentido" (1:07:24). **A decisão da R57 (o tsunami fica) não muda**, porque se apoia nos nossos números: 4.236 no Face e 66% a 71% nos 3 s no Insta. Mas a aula 19 não serve de fonte para "gancho chocante" em geral. O duplo sentido fica fora (puxa homem e Índia, aula de ~10/07, 0:56:54).

@@ -1,5 +1,7 @@
 # Fórum do MVM: o aquecimento automático no GeeLark (mandado pelo aluno em 16/11/2026 ~18h25)
 
+> **Revisão de 17/11/2026 00h50: a automação fica fora para a Nora.** A aula 14 (1:43:23 a 1:43:32, conferida na transcrição) diz: "Tem que aquecer a conta antes e depois de postar? Não, pode entrar, postar e sair. O aquecimento você só tem que fazer no começo da conta." Em 17/11, a rajada à mão antes do nora68 (2 curtidas, 2 comentários e 1 seguir em 2 a 3 min) disparou a 2ª verificação facial (Clone R62, `CLONE-DO-GUSTAVO-RESPOSTAS.md`). O plano abaixo vale só para uma conta nova, nos primeiros dias. Se os planos "01 - 18:50" e "02 - 23:20" tiverem sido criados, apagar.
+
 O aluno perguntou no #chat-appyon como fazer a automação de aquecimento (15h16) e trouxe os 2 posts do fórum, lidos pela skill `leitura-discord-mvm`:
 - `forum-aquecimento-automatico.md`: o post do Delian, "Aquecimento AUTOMATICO de instragram NO GEELARK????", de 10/05 a 15/11/2026, com 468 mensagens. **Lido inteiro.**
 - `forum-aquecimento-godmode.md`: o post do joanfran.co, "Programe Seu Aquecimento Apenas uma Vez e Vá Trabalhar #godmode", de 16/05 a 28/07, com 54 mensagens. **Lido inteiro.**
