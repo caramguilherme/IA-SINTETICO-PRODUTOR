@@ -15,6 +15,7 @@
 **Versão do Face (Clone R67, 17/11 18h04):** sem o T10, o T11 e o T12 (os 3 selos e o "comment I believe"), por segurança da Página; o resto igual. O Insta vai completo.
 
 ## Andamento
+- **18h16, `d1711-PRE-carro-IMG-B` escolhida: a 1ª opção** (`ferramentas-painel/dia-1711/d1711-PRE-carro-IMG-B-escolhida-opcao1.jpg`): o close mais parecido com o do v2 dela: a mão com o anel de sol e as pulseiras jogando a canela, o fio caindo no carpete, o pote de vidro na outra mão, a ponta do tapete dobrada ao lado (pronta para baixar no vídeo 2); mãos naturais, sem rosto. A 4ª também serve (o pote com a tampa aberta); a 2ª mostra parte do rosto; a 3ª é mais aberta.
 - **18h15, `d1711-PRE-carro-IMG-A` escolhida: a 2ª opção** (`ferramentas-painel/dia-1711/d1711-PRE-carro-IMG-A-escolhida-opcao2.jpg`, recorte da grade): agachada na porta da picape, o pote de vidro com a canela no peito e a outra mão levantando a ponta do tapete, o tapete em primeiro plano, as casas atrás (o mais parecido com o 1º quadro do v2 dela); a lua com as 3 estrelinhas e a trança com anéis bem visíveis; mãos naturais. As 4 são a Nora; a 1ª também serve (o pote mais baixo, a lua mais apagada); a 3ª empurra o tapete em vez de levantar; a 4ª tem o banco cortado no canto.
 
 ## Leitura obrigatória (registro)
