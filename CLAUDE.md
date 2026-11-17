@@ -103,6 +103,14 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
 - **Dashboard:** para atualizar, editar o CSV, rodar `ferramentas-painel/dashboard/preparar_csv.py`, subir a cópia sem o BOM como asset e dar `update` em `datasets/metricas` (`source.url`, `source.name`, `updated`) com `if_version`; receita completa em `ferramentas-painel/dashboard/COMO-RECRIAR.md`.
 
 ## 4. Diário de decisões (as novas entram aqui, datadas; as anteriores a 14/11 estão em `HISTORICO-CLAUDE-MD.md`)
+- **17/11/2026 11h58, as DMs de hoje (Kaike, Felps, Marcelo, Caio1094, Lari e Pedro⚡; texto em `CONTATOS-ALUNOS.md`):**
+  - **O Pedro⚡ vendeu com um perfil só e um formato "sem hook, personagem já inicia falando"**, de 30 a 45 s. Por dia, 5 do validado e 1 de teste com hook de 3 a 4 s. Confirma a abertura nova da Nora.
+  - **O Caio vendeu a 1ª com 90 a 100 vídeos na conta**, e o Kaike teve o 1º boom com 90. A Nora tem 68 no Insta, 33 deles no Manifestation.
+  - **O volume de quem vende é de 4 a 5 por dia num perfil** (o Pedro, o Gustavo na call de 16/11).
+  - **O Kaike replica o pré-hook que deu certo até saturar.** No Face da Nora, o que deu certo é o tsunami.
+  - **A Lari focou primeiro em view e só depois pôs o link.**
+  - Foram para a fila A/B o volume do Insta (2 contra 4 por dia) e o tsunami no Face.
+  - **A pergunta do teto do Insta** (insistir ou abrir conta) foi para o Kaike e o Felps.
 - **17/11/2026 11h45, eu esqueci a entrevista do aluno na Appyon de 16/11** (ele mandou a resposta do Marcelo, do RH, e eu tratei como engano: "olha só como vc esquece rápido das coisas… imagina oq mandei a semanas atrás").
   - **A causa:** o assunto não era da Nora e eu não anotei em arquivo nenhum. O resumo da conversa não levou, e o `buscar.py` não achou.
   - **O conserto:** a vaga está agora em `FATOS-DO-ALUNO.md` e na seção 1. **Regra nova (seção 0, item 7): tudo o que o aluno conta da vida dele que mexe no projeto ou que eu ajudei vai para o `FATOS` no mesmo turno.**
