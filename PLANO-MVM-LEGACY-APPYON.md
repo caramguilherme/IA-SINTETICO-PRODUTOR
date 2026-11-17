@@ -1408,7 +1408,7 @@ NEVER generate: a different face, hairstyle, outfit or voice, extra people, extr
 **Protocolo consolidado de conta nova no Insta (17/11/2026: o Clone R64 conferido com a aula 37 e com o que juntamos desde outubro, abaixo; é o caminho que a Nora fez de 06 a 18/10):**
 0. **Antes de criar:**
    - um celular do GeeLark e uma proxy dos EUA só da conta (o plano Base tem 5 perfis e a Nora usa 1; a proxy da Nora custa US$ 3,59 por mês; cada celular ligado gasta minutos, ~40 min por dia no uso da Nora);
-   - um Gmail novo, porque o Outlook cai mais fácil;
+   - um Gmail novo, porque o Outlook cai mais fácil. **Crie no celular Android de verdade do aluno**, pelo YouTube ou pela Play Store (o Vitor: "nunca pelo app do Gmail"; o Clone R65 cita a aula 53 com o app do Gmail também), até 2 seguidos; depois pede o número, então dê um tempo. Nunca no celular do GeeLark (o Google pede verificação pelo chip e não passa). A senha fica na planilha do aluno, nunca no projeto;
    - o app do Insta em inglês;
    - o mylocation.org no navegador do celular mostrando os EUA e o IP da proxy;
    - uma avatar por conta;
