@@ -1237,3 +1237,34 @@ Arquivos: `HISTORICO-DISCORD/chat-appyon_12-11-madrugada.md`, `vitorias-dolar_12
   - o Gyro (parabéns + 1 pergunta, no #vitórias).
   - Textos em `CONTATOS-ALUNOS.md` (ENVIADO 16/11 23h21).
 - **Atualização (16/11 23h37, decisão do aluno):** o teste de cliente oculto do item 1 não vai ("o funil tá certo"). O 0 checkout fica explicado pelo volume (~17 quizzes terminados; o botão aos 16:00). A prioridade volta aos cliques.
+
+### 17/11/2026 12h40 - Discord, 24ª leitura (6 canais, 16/11 23h17 a 17/11 12h18; arquivos `HISTORICO-DISCORD/*_17-11-manha.md`, imagens em `HISTORICO-DISCORD/imagens/17-11-manha/`)
+- **Vitórias (nenhum print diz o funil):**
+  - **Eduardo & Sabrina** fizeram 35 vendas de 01 a 16/11 (11.206 cliques, 359 checkouts, R$ 2.450). No começo do mês, as 4 Páginas novas deles não passavam de 10 views. Agradeceram as aulas do Gustavo e as dicas do Felps e do Arthur Bruno.
+  - **O Rundouglas** fez 35 vendas só em 16/11 (5.229 cliques, 300 checkouts).
+  - **O Lucas Guitel** fez ~35 vendas de 01 a 17/11.
+  - **O Stefano**, no Risely, teve 1 checkout com 153 cliques e 10 a 15 vídeos.
+- **Onda de Facebook suspenso:**
+  - Caíram os perfis pessoais de c.j, Pão de queijo, Marcos Daniel, Herick e Marcia Poletto; nos dois últimos, foi junto o Insta pessoal.
+  - **A causa mais citada é uma restrição numa Página que derruba o perfil.** O Maycon: "promessa de dinheiro… uma hora ou outra ele vai te pegar".
+  - Quem apelou, voltou (o Herick só clicou em apelar; a Marcia mandou documento e selfie).
+  - **O Herick passou o acesso das Páginas para outra conta de Facebook.**
+- **"Recomendações suspensas por engajamento não autêntico" numa Página** (yuri). O Garbellotto está punido até 26/12 e acha que a causa é pedir sempre o mesmo comentário. Hoje ele pede "o horário em que a pessoa vê" ou "a inicial do nome". O Herick, que pedia "222" ou "amen", vai parar.
+- **Área de membros nova** (Kadu): membros.mvmcreators.com.br, com as aulas em missões de 03 a 08. **A missão 08 é a das dúvidas frequentes:** "como saber se a queda é do proxy, do perfil, da página ou do conteúdo", "quando abandonar uma página ou perfil" e "quantos testes, vídeos ou dias antes de abandonar".
+- **Outros:**
+  - O Insta pediu documento pela câmera ao Bruno Freitas; pelo navegador, aceita upload (Ari & Lu).
+  - A Marcela (Love Reading, avatar de homem idoso) tem 56% de Índia e 31% de 13 a 17 anos. O Lucas [MVM] passou: limitar a idade por país, a bandeira dos EUA, palavras de americano e postar das 16h às 20h.
+  - O Castanho converte só pelo story; para o Samuel, "hoje é só story mesmo".
+  - O Herick gera tudo no modo Agente do Flow, colando o prompt normal com todos os blocos.
+  - O T&M usa o short.io; na Nora, o encurtador segue fora.
+- **Para a Nora (decisão minha):**
+  1. **O pedido de comentário na legenda do Insta passa a mudar a cada post**, nunca o mesmo duas vezes seguidas: "222", "the time you're watching this", "the first letter of your name", "11:11". É segurança da conta, então não vira teste. É hipótese de aluno, mas mudar não custa nada, e a conta da Nora acabou de passar por uma verificação. **No Face segue sem pedido** (desde 10/11), e o 222 na tela continua.
+  2. **A Página "Nora Kensley" está só no perfil pessoal do aluno.** Se ele cair, a Página vai junto (aula 35: "se o perfil cair, já era"). Proposta ao aluno: pôr um 2º administrador, uma conta de Facebook real e antiga de alguém de confiança, como fez o Herick. A decisão é dele.
+  3. **A promessa de dinheiro sai também pelo risco no Face** (o Maycon, além da pesquisa oficial). Os vídeos de hoje à noite já vêm sem dinheiro.
+  4. **Pedido ao aluno: a missão 08 da área de membros** (a transcrição ou os prints). É a resposta oficial da decisão da Nora (insistir ou abrir conta).
+- **Quem responder:**
+  - os Eduardo & Sabrina (parabéns + 1 pergunta, no #vitórias);
+  - o Lucas [MVM] (o aquecimento depois dos vídeos de venda, no #chat-appyon);
+  - o 'breder (o shadowban, a proxy ou a conta, no #chat-appyon).
+  - Textos em `CONTATOS-ALUNOS.md` (ENVIADO 17/11 12h40).
+

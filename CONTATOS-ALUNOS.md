@@ -923,3 +923,16 @@ valeu demais pela ajuda, quando sair o resultado te conto
 - **Os bizarros floparam** (a calcinha, o sapo no fogo, o sal no vinho e no whisky), e ele também acha "zuado".
 - Bate com o padrão 05 da pesquisa oficial ("objeto simples da casa + uma instrução curta").
 
+## ENVIADO (17/11/2026 12h40, 24ª leitura; toda resposta sugerida conta como enviada; uma mensagem em cada lugar)
+**1. Eduardo & Sabrina, no #vitórias-dólar (responder a mensagem deles de 16/11 23h53, o painel de 01 a 16/11):**
+> parabéns!! que virada, de página que não passava de 10 views pra isso 🚀
+> qual dica do felps fez mais diferença pra vcs?
+
+**2. Lucas [MVM], no #chat-appyon (responder a mensagem dele das 09h45, "depois que vocês já estão postando vídeos de venda, vocês continuam aquecendo a conta rolando reels?"):**
+> o gustavo falou em call que não precisa: "pode entrar, postar e sair. o aquecimento você só tem que fazer no começo da conta" (aula 14) e "fez aquecimento inicial e já era" (aula 32)
+> aqui eu tomei verificação facial ontem justamente curtindo e comentando rápido antes de postar, então se for rolar, só assiste, sem sair curtindo
+
+**3. 'breder, no #chat-appyon (responder a mensagem dele das 00h03, o shadowban no 2º mês):**
+> na aula da estrutura do instagram falam pra manter a proxy e criar outra conta, e só trocar a proxy se várias contas novas caírem seguidas
+> é pra conta banida, mas acho que vale pra shadowban forte tb
+
