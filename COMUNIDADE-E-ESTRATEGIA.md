@@ -1236,3 +1236,4 @@ Arquivos: `HISTORICO-DISCORD/chat-appyon_12-11-madrugada.md`, `vitorias-dolar_12
   - o Leonardo Eri (50 vídeos abaixo de 250, no #chat-appyon);
   - o Gyro (parabéns + 1 pergunta, no #vitórias).
   - Textos em `CONTATOS-ALUNOS.md` (ENVIADO 16/11 23h21).
+- **Atualização (16/11 23h37, decisão do aluno):** o teste de cliente oculto do item 1 não vai ("o funil tá certo"). O 0 checkout fica explicado pelo volume (~17 quizzes terminados; o botão aos 16:00). A prioridade volta aos cliques.
