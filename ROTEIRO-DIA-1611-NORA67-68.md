@@ -114,3 +114,4 @@ T02: a mesa servindo todos (dividida) → as contas e as tarefas, nova (dividida
     - **a C (das falas):** a mesma praia logo depois da tempestade, com as nuvens escuras se abrindo e a luz dourada entrando, que é a história do Take 1;
     - **os clipes 1 e 2:** o tsunami gigante subindo e depois explodindo no rochedo.
   - Painel republicado no mesmo link (versão 2). Lição em `LICOES-FLOW-E-PROMPTS.md`.
+- **16/11 23h52, `d1611-PRE-onda-IMG-A` escolhida (versão tsunami): a 2ª opção.** Tem o tsunami maior e mais alto do quadro: ocupa a metade de cima, com a crista curvando e o céu de tempestade. O rochedo e a torre com a bandeira aparecem, ela está calma de lado e tem as estrelinhas e o broche. A 3ª é a mais fiel ao "olhando para trás", mas a onda fica menor no quadro; a 1ª e a 4ª deixam a onda mais distante.
