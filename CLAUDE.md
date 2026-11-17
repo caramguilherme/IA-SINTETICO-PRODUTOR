@@ -102,6 +102,11 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
 - **Dashboard:** para atualizar, editar o CSV, rodar `ferramentas-painel/dashboard/preparar_csv.py`, subir a cópia sem o BOM como asset e dar `update` em `datasets/metricas` (`source.url`, `source.name`, `updated`) com `if_version`; receita completa em `ferramentas-painel/dashboard/COMO-RECRIAR.md`.
 
 ## 4. Diário de decisões (as novas entram aqui, datadas; as anteriores a 14/11 estão em `HISTORICO-CLAUDE-MD.md`)
+- **17/11/2026 11h25, Clone R66 (a música), conferida:**
+  - A música continua no CapCut, a −18 dB, embutida no mesmo arquivo para o Insta e o Face, como já fazemos. A música em alta do Insta fica fora (em outubro ela silenciou o áudio original no GeeLark).
+  - **Bate com as aulas:** "Emotional Music No Copyright" e "Last Hope Very Sad" (aula 14, 0:45:39), "Mystic Sounds" (aula 43, 0:55:53), "sad piano" (aula 54, 1:19:56) e o ritmo árabe, indígena ou em Hz (aula 21, 0:55:22).
+  - **A música vira teste A/B, depois do teste da abertura:** A = a de hoje (Ambient Mystical Drone); B = a emocional, de piano.
+  - A pergunta planejada virou a R67.
 - **17/11/2026 10h58, o Face às 10h44 e a manutenção da proxy:**
   - **O nora68-FACE** (o tsunami, postado às 00h48) fez **235 views em ~10 h, com distribuição +1,3x** (a 1ª positiva de um falado desde o loop) e 41% nos 3 s.
   - **O nora67-FACE** (o café, postado às 19h43) fez 123 em ~15 h, com −0,8x.
@@ -133,13 +138,13 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
 - **17/11/2026 01h25, a pesquisa oficial da Appyon sobre o Manifestation** ("Tarot Manifestation · Pesquisa", números de 5/11), colada pelo aluno: está inteira em `MATERIAIS-MANIFESTATION-OFICIAL/`. É a 1ª fonte oficial só do nosso funil, e entra na leitura obrigatória antes de todo roteiro.
   - **Confirma:** o número de anjo no canto, o gancho escrito de 3 a 8 palavras, o link no story, os destaques, a predestinação sem ameaça, o "nunca no vídeo" e o personagem fixo de IA.
   - **O principal é a estrutura oficial da copy:** 0 a 3 s, o gancho; 3 a 12 s, 2 ou 3 cenas dos sinais que ela já viveu (o relógio, a intuição, o déjà vu); 12 a 22 s, a virada ("ela recebe sinais, só nunca aprendeu a ler"); depois, o CTA. Os nossos falados perdem ~90% até os 10 s e começam falando de cansaço, não dos sinais que o quiz pergunta. **Candidato nº 1 ao teste dos 10 s:** o Take 1 e a 2ª frase do roteiro 2 ("If you keep seeing 11:11, this is for you. You check your phone: 11:11. A receipt: 2:22…"), com o corpo, o CTA e a edição do nora67 fixos.
-  - **Contradiz 4 regras nossas (vão para a R66 e o aluno; não mudam sozinhas):** as cartas (a pesquisa contra o DM do Gustavo de 03/11), "go before it disappears" (contra a aula do Iorhan), a promessa de dinheiro ("nunca no vídeo", e o corpo fixo tem "unexpected cash") e a duração (20 a 35 s contra 40 a 60 s).
+  - **Contradiz 4 regras nossas (vão para a R67 e o aluno; não mudam sozinhas):** as cartas (a pesquisa contra o DM do Gustavo de 03/11), "go before it disappears" (contra a aula do Iorhan), a promessa de dinheiro ("nunca no vídeo", e o corpo fixo tem "unexpected cash") e a duração (20 a 35 s contra 40 a 60 s).
   - **Ganchos novos** no `BANCO-DE-HEADLINES.md` (nº 31 a 37).
   - **Não deu para abrir:** os 24 vídeos de referência (Insta e TikTok pedem login).
 - **17/11/2026 01h20, o nora68 no ar:** no Face "umas 00h e pouco" e no Insta às 01h19, por decisão do aluno. Eu tinha dito para esperar as 19h30, porque às 01h19 a janela sem Índia (até ~0h30 a 0h45, R37) já tinha passado.
   - **Na leitura,** olhar a fatia da Índia antes de comparar o nora68 com o nora67, porque o horário virou uma 2ª variável.
   - **Nas 24 h depois da volta da conta (até ~01h06 de 18/11),** nada no Insta além dos posts da grade e do story: nem curtir, nem comentar, nem seguir, nem responder.
-  - **O próximo do Insta é o das 19h30 de hoje (17/11)**, 18 h depois, com um painel novo: o corpo, o CTA e a edição do nora67 ficam fixos, e muda só o que vem até os 10 s. O painel sai depois da R66 (~12h40) e do "pode montar".
+  - **O próximo do Insta é o das 19h30 de hoje (17/11)**, 18 h depois, com um painel novo: o corpo, o CTA e a edição do nora67 ficam fixos, e muda só o que vem até os 10 s. O painel sai depois da R67 (~12h40) e do "pode montar".
 - **17/11/2026 01h18, o briefing oficial do Risely ("Gut Seal Protocol", atualizado em 16/11), colado pelo aluno:** está inteiro em `MATERIAIS-RISELY/`.
   - **Confirma:** o vídeo vende só o clique; um ângulo por vídeo; 3 hooks por corpo; variações do ângulo que vende antes de trocar; nada de depoimento inventado nem encurtador.
   - **Novo:**
@@ -156,7 +161,7 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
   - **O ElevenLabs fica fora:** "a gente não tá nem mais usando" (aula 54, 0:54:22), ao contrário do que o Clone disse.
   - **Sem como conferir:** os créditos por vídeo do HeyGen.
   - Os "créditos que renovam diariamente" não batem: o crédito do Flow é por mês.
-  - A pergunta planejada virou a R66.
+  - A pergunta planejada virou a R67.
 - **17/11/2026 01h12, a call do Gustavo de 16/11 à noite ("O Risely chegou!", o "benchmarking"), colada pelo aluno:** a transcrição está inteira em `TRANSCRICOES/` e o resumo em `AULA-16-11-RISELY-CHEGOU-GUSTAVO.md`.
   - **O Risely** (emagrecimento; US$ 19 e US$ 29; 80%) vai em contas novas, sem largar o Auraly. A Nora segue no Manifestation, e um perfil novo do Risely é decisão do aluno.
   - **Para a fila (Nora):**
@@ -165,7 +170,7 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
     - o detalhe específico do ritual na fala;
     - o Take 1 contra-intuitivo.
   - **Confirma:** o story em vez da DM, não citar o app, não vincular as contas e Insta + Face com os mesmos vídeos.
-  - **Para a R66:** "4 a 6 vídeos por conta por dia" contra a recuperação de 2 por dia no Insta.
+  - **Para a R67:** "4 a 6 vídeos por conta por dia" contra a recuperação de 2 por dia no Insta.
   - **Criação de conta:** "não compra perfil"; no Face, perfil antigo e Página criada na hora (anotado no protocolo do `PLANO-MVM`).
   - **Não deu para ler** o Risely Hub (Central, com login).
 - **17/11/2026 01h05, Clone R64 (o aquecimento de uma conta nova; o aluno: "to pensando em criar mais alguns perfis"), conferida:**
@@ -175,13 +180,13 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
   - Sem como conferir: as aulas 51 e 53.
   - **O protocolo consolidado** está no topo de "### Aquecimento" do `PLANO-MVM-LEGACY-APPYON.md`.
   - Criar perfis é decisão do aluno.
-  - A pergunta planejada para hoje ~12h40 virou a R66.
+  - A pergunta planejada para hoje ~12h40 virou a R67.
 - **17/11/2026 01h00, Clone R63 (o aquecimento do Felps), conferida:**
   - As aulas 14 e 32 dizem que não precisa aquecer antes de postar.
   - O problema de 17/11 foi a rajada de ações, não o aquecimento.
   - **O aquecimento volta como opcional e passivo** (seção 2): 10 a 15 min de Reels do nicho, no máximo 1 curtida a cada 5 a 10 min, sem comentar nem seguir. Nas 24 h depois da liberação, nada.
   - **Sem fonte:** como o Felps aquece. Nenhuma aula fala disso, e a automação do GeeLark não curte (fórum).
-  - O "R$ 120 mil do Felps" contradiz a aula 39 ("40, 50 mil?"). Vai para a R66, que é a pergunta planejada para hoje ~12h40.
+  - O "R$ 120 mil do Felps" contradiz a aula 39 ("40, 50 mil?"). Vai para a R67, que é a pergunta planejada para hoje ~12h40.
   - Detalhe em `CLONE-DO-GUSTAVO-RESPOSTAS.md` (R63).
 - **17/11/2026 00h50, Clone R62 (a 2ª verificação facial), conferida nas transcrições:**
   - **A causa provável** é a rajada de 5 ações em 2 a 3 min. A Meta compara o comportamento com o de pessoas normais (aula 35, 0:22:01 e 0:26:03).
@@ -189,20 +194,20 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
   - **Regra nova (seção 2): sem aquecimento antes ou depois de postar.** A aula 14 (1:43:23 a 1:43:32) diz: "pode entrar, postar e sair. O aquecimento você só tem que fazer no começo da conta". Essa transcrição estava no projeto desde 15/11, e eu não conferi com ela antes de pôr o aquecimento na fila.
   - **A automação do GeeLark fica fora para a Nora** (00h54: o aluno não criou nenhuma; o aquecimento era à mão, 5 a 10 min antes de postar, como o Felps; se quiser manter, só assistir, sem curtir, comentar nem seguir, depois das 24 h).
   - **Depois de liberada:** 24 h sem curtir, comentar, seguir ou responder. O nora68 vai às 19h30, só com o post e o story, sem o comentário fixado no Insta.
-  - **Fica fora** o "Reels agendado", que vai para a R66, porque aqui é sempre ao vivo. A 2ª conta segue adiada pelo aluno.
-  - A pergunta planejada como R62 virou R66.
+  - **Fica fora** o "Reels agendado", que vai para a R67, porque aqui é sempre ao vivo. A 2ª conta segue adiada pelo aluno.
+  - A pergunta planejada como R62 virou R67.
   - Detalhe em `CLONE-DO-GUSTAVO-RESPOSTAS.md` (R62).
 - **17/11/2026 00h35, o Insta da Nora está suspenso, com o recurso aberto ("usually takes about an hour"; a conta e os vídeos não aparecem para ninguém; se reprovar, fica desativada de vez).** Não há nada a fazer além de esperar: sem novo recurso, sem logar em outro aparelho, sem mexer na conta. Olhar de novo por volta de 01h35. O Face segue normal. Se a conta for desativada, a decisão do que fazer é do aluno. Contexto: na aula 39 (TalkYon, 13/08), conta que passa pela facial e volta "fica mais forte" (o Galavotti, segundo o Gustavo), e verificação facial feita pelo GeeLark "costuma banir" (relatos, sem número).
 - **17/11/2026 00h34, o Insta da Nora em revisão de identidade (até 48 h):** no aquecimento à mão antes do nora68 (2 curtidas, 2 comentários, 1 seguir), o Insta pediu "Confirm you're human" e depois uma selfie em vídeo. O aluno mandou a selfie com o rosto dele (como antes de 22/10), e agora aparece "Identity confirmation in progress". **Enquanto a revisão não sair, nada no Insta:** sem post, sem curtir, sem comentar, sem logar em outro aparelho, sem pedir de novo. **O Face segue:** o nora68-FACE vai agora, porque a Página é outra conta. O nora68 do Insta fica pronto para quando liberar, no próximo horário da grade (19h30). Registro em `FATOS-DO-ALUNO.md`.
-- **16/11/2026 23h40, sem pergunta ao Clone antes do nora68 (pergunta do aluno):** o nora68 já segue o plano de uma variável por vez. Tem o mesmo corpo, CTA e edição do nora67, e muda só o começo (a onda e o Take 1), então uma resposta agora não mudaria o painel. A R66 sai amanhã, com o nora67 a ~24 h. **Horário:** no Insta, até ~0h45 ainda vale (o nora63 foi às 0h40, sem Índia no top 5); depois disso, o Insta espera as 19h30 de amanhã, e o Face segue o painel.
-- **16/11/2026 23h37, o teste de cliente oculto sai da lista (decisão do aluno: "o funil tá certo… se o link abre, a VSL começa, o botão do checkout vai aparecer e vai ser clicável"):** o 0 checkout bate com o volume baixo: ~17 pessoas terminaram o quiz desde 27/10, e o botão só aparece aos 16:00 de uma VSL de 31 a 37 min. O "1 chance em 10" da 23ª leitura é sinal fraco, não prova. O único relato de botão invisível (Joao Paulo, 16/11, no navegador do app do Face, no Soulmate) ficou sem confirmação, e a resposta ao Joao Paulo, que dependia do teste, não vai. **A prioridade volta ao número de cliques:** o teste dos 10 primeiros segundos e a R66 ao Clone.
-- **16/11/2026 23h32, os 2 virais que o aluno mandou (a avatar com a carta, 2 min cada; `BIBLIOTECA-VIDEOS-VIRAIS.md`, seção 52):** é o roteiro que o corpo A modelou em outubro. Ficam fora a ameaça, os selos e o 222 antes do CTA, o prazo ("em 33 minutos", da lista "não diga" da Appyon) e o "rico como traficante" (P42, R54). **Entram na fila, uma de cada vez:** (a) o Take 1 pelas letras do nome, na versão positiva, candidato ao teste dos 10 primeiros segundos; (b) a ponte do mecanismo antes do CTA (a P42, item 5, que os roteiros pularam). A duração de 2 min contra a R54 vai para a R66.
+- **16/11/2026 23h40, sem pergunta ao Clone antes do nora68 (pergunta do aluno):** o nora68 já segue o plano de uma variável por vez. Tem o mesmo corpo, CTA e edição do nora67, e muda só o começo (a onda e o Take 1), então uma resposta agora não mudaria o painel. A R67 sai amanhã, com o nora67 a ~24 h. **Horário:** no Insta, até ~0h45 ainda vale (o nora63 foi às 0h40, sem Índia no top 5); depois disso, o Insta espera as 19h30 de amanhã, e o Face segue o painel.
+- **16/11/2026 23h37, o teste de cliente oculto sai da lista (decisão do aluno: "o funil tá certo… se o link abre, a VSL começa, o botão do checkout vai aparecer e vai ser clicável"):** o 0 checkout bate com o volume baixo: ~17 pessoas terminaram o quiz desde 27/10, e o botão só aparece aos 16:00 de uma VSL de 31 a 37 min. O "1 chance em 10" da 23ª leitura é sinal fraco, não prova. O único relato de botão invisível (Joao Paulo, 16/11, no navegador do app do Face, no Soulmate) ficou sem confirmação, e a resposta ao Joao Paulo, que dependia do teste, não vai. **A prioridade volta ao número de cliques:** o teste dos 10 primeiros segundos e a R67 ao Clone.
+- **16/11/2026 23h32, os 2 virais que o aluno mandou (a avatar com a carta, 2 min cada; `BIBLIOTECA-VIDEOS-VIRAIS.md`, seção 52):** é o roteiro que o corpo A modelou em outubro. Ficam fora a ameaça, os selos e o 222 antes do CTA, o prazo ("em 33 minutos", da lista "não diga" da Appyon) e o "rico como traficante" (P42, R54). **Entram na fila, uma de cada vez:** (a) o Take 1 pelas letras do nome, na versão positiva, candidato ao teste dos 10 primeiros segundos; (b) a ponte do mecanismo antes do CTA (a P42, item 5, que os roteiros pularam). A duração de 2 min contra a R54 vai para a R67.
 - **16/11/2026 23h25, o nora67 com 45 views em ~4 h no Insta e o aluno desanimado ("não sei mais o que fazer… não sei se vc tá usando tudo que já te mandei"):**
   - **O padrão:** os falados do Insta ficam em ~120 a ~190 views desde o nora55. O 2,2 mil do loop foi 54% Índia; nos EUA ele teve ~140, como os outros.
   - **A causa:** os falados perdem ~90% das pessoas até os 10 s (nora66: 9% aos 11 s), e o Insta não passa da amostra inicial.
   - **O critério da R46** (6 na grade certa colados em ~140 = teto) fecha amanhã com o nora67 e o nora68 a ~24 h. A ação ligada a ele (a 2ª conta) é do aluno.
   - **O meu erro:** desde 13/11, cada vídeo mudou várias coisas de uma vez. **Daqui em diante, o corpo, o CTA e a edição do nora67 ficam fixos e muda só o que vem até os 10 s.**
-  - **Amanhã:** cedo, o teste de cliente oculto (a prioridade); às ~12h40, uma pergunta só ao Clone (R66) com esse quadro inteiro.
+  - **Amanhã:** cedo, o teste de cliente oculto (a prioridade); às ~12h40, uma pergunta só ao Clone (R67) com esse quadro inteiro.
   - **O nora68 hoje só se já estiver pronto antes das 0h30;** senão, vai às 19h30 de amanhã.
 - **16/11/2026 23h21, Discord, 23ª leitura:** o Gyro mostrou o 1º mês depois da 1ª venda (19.243 cliques, 1.156 checkouts, 104 vendas: **6% de clique para checkout**). Com essa taxa, os nossos ~38 cliques deveriam ter dado ~2 checkouts; ter dado 0 tem ~1 chance em 10 de ser azar, e **o teste de cliente oculto no funil vira a prioridade**. A Black Oculta e o Operation Max (até 21/11) são decisão do aluno; as 5 calls de sprint do Gustavo ficam abertas a todo o Legacy, e **a transcrição da call de hoje (o "benchmarking") foi pedida**. O selo de IA só no perfil confirma o da Nora. A DM automática no Face segue fora (o Marcelo levou 21 dias). Respostas ao Vítor Franke, ao Leonardo Eri e ao Gyro. Detalhe em `COMUNIDADE-E-ESTRATEGIA.md` (16/11 23h21).
 - **16/11/2026 19h33, o aluno posta o nora67 já, sem aquecer antes (tem que sair), e faz o aquecimento depois do post da 0h:** depois de postar, o aquecimento conta só como atividade da conta. Os planos "Diariamente" de 18h50 e 23h20, se ele ligar, começam em 17/11. **Não achei registro do repost do `story-1211` de hoje** (o do Face venceu ~17h07; o do Insta vence ~20h40): pedido ao aluno para repostar nos dois antes de postar, porque a faixa do vídeo manda para o story.

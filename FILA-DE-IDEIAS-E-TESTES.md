@@ -180,6 +180,7 @@
   - **(Anotado antes, 01h29) Hook visual:** A = o nosso pré-gancho (o produto com o rótulo e uma ação a cada 0,5 s, ou o evento grande); B = o oficial (a carta na mão ou as cartas embaralhando, com o número de anjo no canto; ou "mãos acendendo uma vela e abrindo 3 cartas enquanto o avatar fala"; ou o ritual simples da casa, "Glass of water by your bed. Tonight."). As cartas ficam só na imagem enquanto o teste das cartas na fala não roda.
   - **As cartas na fala e no CTA:** A = sem cartas ("your reading", o DM do Gustavo de 03/11); B = "Your first card already knows. Pick your 3 cards in my Stories." (a pesquisa oficial).
   - **O fechamento:** A = "…in my story" sem prazo (a aula do Iorhan, P42); B = "The second part of this message is waiting in my Stories. Go before it disappears." (a pesquisa).
+  - **A música (Clone R66, 17/11):** A = a de hoje, "Ambient Mystical Drone" do CapCut (a categoria "mystic sounds", aula 43, 0:55:53); B = a "emotional music / sad piano no copyright" (aula 14, 0:45:39 a 0:45:53: "Last Hope Very Sad, que eu estava usando bastante"; aula 54, 1:19:56). Sempre no CapCut, a −18 dB. Entra depois do teste da abertura. Depois: o ritmo árabe e as frequências em Hz (aula 21, 0:55:22).
   - **O dinheiro:** A = "unexpected cash" e a imagem do dinheiro (o corpo fixo, o Iorhan e os campeões); B = sem promessa de dinheiro ("unexpected blessings" e sem a imagem; a pesquisa: "nunca no vídeo").
   - **A duração:** A = 40 a 50 s (a R54 e as aulas 55, 28 e 19); B = 20 a 35 s (a pesquisa).
   - **O pedido de comentário:** A = só na legenda e no número na tela (a R54); B = o sticker pequeno no canto ("Type 222 if you're ready to receive", a pesquisa).
@@ -188,4 +189,4 @@
   2. **"Go before it disappears":** a pesquisa usa, e a aula do Iorhan (P42) chama de urgência fraca.
   3. **A promessa de dinheiro:** "nunca no vídeo", mas o corpo fixo tem "unexpected cash" e a imagem do dinheiro.
   4. **A duração:** a pesquisa dá de 20 a 35 s, contra os 40 a 60 s da R54.
-- **A duração de 2 min ou mais** (virais 52.1 e 52.2; o Caio1094 na 21ª leitura) contra a R54 (40 a 60 s): vai para a R66 do Clone.
+- **A duração de 2 min ou mais** (virais 52.1 e 52.2; o Caio1094 na 21ª leitura) contra a R54 (40 a 60 s): vai para a R67 do Clone.

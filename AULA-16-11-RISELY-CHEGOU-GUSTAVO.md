@@ -23,7 +23,7 @@ O original está inteiro em `TRANSCRICOES/2026-11-16-call-o-risely-chegou-gustav
 6. **"Nunca cite o nome do aplicativo… se tiver logo… borra, corta fora"** (0:40:09 a 0:40:42): já é regra.
 7. **O story em vez da automação de DM** (0:46:39 a 0:46:59): "eu gosto mais de Stories porque a gente não fica refém da limitação da meta". Confirma.
 8. **Insta e Face com os mesmos vídeos** (1:11:17 a 1:13:14): o Insta vende proporcionalmente mais, mas tem gente vendendo muito só no Face. **"Não vincula mais conta"** (1:17:10; 1:22:42 a 1:22:59). Já é regra.
-9. **O volume** (1:18:12 a 1:18:39): "entre 4 a 6 vídeos por conta por dia, espaçado ali 1 a 2 horas no mínimo… eu gosto mais de ter mais contas, manter a qualidade". O Insta da Nora está em recuperação (2 por dia, R35 a R38), e a rotina final prevista é de 3. **→ R66:** depois da recuperação, 3 ou 4 a 6?
+9. **O volume** (1:18:12 a 1:18:39): "entre 4 a 6 vídeos por conta por dia, espaçado ali 1 a 2 horas no mínimo… eu gosto mais de ter mais contas, manter a qualidade". O Insta da Nora está em recuperação (2 por dia, R35 a R38), e a rotina final prevista é de 3. **→ R67:** depois da recuperação, 3 ou 4 a 6?
 10. **O aquecimento e a criação de contas:**
     - "O mesmo estilo de aquecimento que você faz hoje, você vai continuar fazendo" (1:13:37);
     - "aquece com vídeo do teu nicho" (1:23:46);

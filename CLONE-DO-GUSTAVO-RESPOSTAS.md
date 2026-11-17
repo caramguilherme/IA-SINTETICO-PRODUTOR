@@ -1339,7 +1339,7 @@ No fim, separe o que mantém, o que muda e o que foi sem fonte."
   - **Página nova: não agora.** A régua é a da aula 55 (dezenas de vídeos presos em 40 a 50). O teste limpo é o tsu1611 de hoje (o tsunami que fez 4.242 nesta Página) com ~24 h: se ele também ficar abaixo de 50, aí a troca entra em discussão com o aluno.
 
 ## R62 (pergunta do aluno direto no Clone em 17/11 00h45, colada às ~00h47; texto inteiro em `CLONE-ORIGINAIS/2026-11-17-R62-verificacao-facial.md`): a 2ª verificação facial do Insta
-(A pergunta que estava planejada como "R62", com o nora67 e o nora68 a ~24 h, passou a ser a R66.)
+(A pergunta que estava planejada como "R62", com o nora67 e o nora68 a ~24 h, passou a ser a R67.)
 - **Resposta (resumo fiel):**
   1. **O gatilho:** a rajada de 5 ações (2 curtidas, 2 comentários, 1 seguir) em 2 a 3 min, numa conta que costuma só entrar, postar e sair: a Meta compara o padrão com o de pessoas normais e o de robôs (aula 35). O checkpoint de 13/10 deixa a conta mais sensível.
   2. **O que fazer:** a selfie uma vez só, sem reenviar nem forçar o app; a resposta sai em 30 min a 2 h, até 24 h (Estrutura Instagram, 1:07:06).
@@ -1349,7 +1349,7 @@ No fim, separe o que mantém, o que muda e o que foi sem fonte."
   - **Bate, palavra por palavra, e muda o nosso plano:** a aula 14, 1:43:23 a 1:43:32: "Tem que aquecer a conta antes e depois de postar? **Não, pode entrar, postar e sair. O aquecimento você só tem que fazer no começo da conta.**" Esta transcrição está no projeto desde 15/11 e eu não conferi com ela antes de pôr o aquecimento antes de postar na fila (22ª leitura e fórum do GeeLark, 16/11).
   - **Bate (aula 35, Ricardo):** 0:22:01, "ele vai ver se você tá fazendo coisa de massa, coisa que uma pessoa normal não faria"; 0:26:03, "alterou informações… rápido demais… respondeu muito em lote"; 0:27:50 a 0:28:13, não reenviar várias vezes ("espera 24 horas, tenta de novo"); 0:08:27, "nunca coloque todos os ovos na mesma cesta"; 1:08:24, "se ele for só pro checkpoint de verificação ali, ele vai só pedir sua facial e você consegue voltar". A aula fala do Facebook; o princípio (a Meta compara o comportamento) vale para o Insta, mas é extensão.
   - **Bate, com o autor trocado:** a Estrutura Instagram (aula 37) é do @wakezk_, não do Gustavo. Aos 1:06:26 a 1:06:58 ele mostra **exatamente a tela que o aluno viu**: "ele vai dar como se a conta tivesse banida, como se tivesse enviado um recurso, mas… logo a conta vai voltar ou vai banir de vez… **no máximo duas horas a conta volta ou bane**". O "30 min" e o "até 24 h" não estão no texto. A nossa referência é a de 13/10: ~1 h depois da selfie (`FATOS-DO-ALUNO.md`).
-  - **Contradiz uma regra nossa:** "mantenha o perfil apenas recebendo o Reels agendado". Aqui é sempre ao vivo (agendar derruba a entrega: Discord, 10/11, 14ª leitura). Vai para a R66, junto com as outras.
+  - **Contradiz uma regra nossa:** "mantenha o perfil apenas recebendo o Reels agendado". Aqui é sempre ao vivo (agendar derruba a entrega: Discord, 10/11, 14ª leitura). Vai para a R67, junto com as outras.
   - **Sem como conferir:** a aula 13 (0:07:36).
   - **A 2ª conta:** segue adiada pelo aluno; não entra aqui.
 - **O que entra (decisão minha, 17/11 00h50):**
@@ -1358,19 +1358,19 @@ No fim, separe o que mantém, o que muda e o que foi sem fonte."
   - **Nas 24 h depois da liberação:** só o post ao vivo do nora68 às 19h30 e o story, sem o comentário fixado no Insta (ele não tem link e é mais uma ação) e sem curtir, comentar, seguir ou responder.
 
 ## R63 (pergunta do aluno direto no Clone em 17/11, colada às ~00h58; texto inteiro em `CLONE-ORIGINAIS/2026-11-17-R63-aquecimento-felps.md`): o aquecimento antes de postar, como o Felps
-(A pergunta planejada para 17/11 ~12h40, com o nora67 e o nora68 a ~24 h, passou a ser a R66.)
+(A pergunta planejada para 17/11 ~12h40, com o nora67 e o nora68 a ~24 h, passou a ser a R67.)
 - **Resposta (resumo fiel):** o Gustavo ensina "entrar, postar e sair" (aulas 14 e 32), porque o aquecimento é só no começo da conta. O Felps aquece por cuidar de uma conta só, como ativo de longo prazo. O que disparou a verificação foi a densidade de ações (5 em 2 a 3 min), não o aquecimento. **Veredito: pode fazer como o Felps, passivo, 10 a 15 min, vídeos até o fim, no máximo 1 curtida a cada 5 a 10 min, sem comentar em sequência nem seguir antes de postar; ou "entrar, postar o Reels, postar o story e fechar".**
 - **Conferido (17/11 01h00):**
   - **Bate palavra por palavra:** a aula 14 (1:43:23 a 1:43:32) e **a aula 32 (1:44:40 a 1:44:46): "tem necessidade de aquecer o perfil toda vez antes de postar? … Não mano, não precisa. Fez aquecimento inicial e já era."**
   - **Bate:** a aula 43 (0:45:33 a 0:46:00): "nosso amigo Felps tem uma conta, porém todos os vídeos que ele faz são excelentes… ele escala fofo".
   - **Bate, com o autor trocado e um detalhe errado:** a Estrutura Instagram (aula 37, do @wakezk_, não do Gustavo), 0:56:54 a 0:57:29: 3 dias de 15 a 30 min no começo da conta, mas **com curtida, comentário, salvar e republicar** ("dá uma curtidinha, comenta qualquer coisa"), não "sem mexer". Aos 0:57:29 ele cita o aquecimento automático do GeeLark e diz: "eu não usei nenhuma das minhas contas, não sei se está… funcionando ainda".
   - **Sem fonte (opinião):** como o aquecimento do Felps funciona (1 curtida a cada 3 a 5 min, "session warming" antes do upload do MP4) e o porquê do Gustavo (produtividade). **Contradiz o fórum:** a automação "Instagram AI account warmup" assiste vídeos inteiros e segue alguns perfis, sem curtir nem comentar (Delian, `MATERIAIS-FORUM-AQUECIMENTO/LEIA.md`). Nenhuma aula diz que o Felps aquece; isso chegou de 2ª mão no Discord (16/11).
-  - **Contradiz uma aula:** o "Felps com mais de R$ 120 mil". A aula 39 diz "40, 50 mil?". Vai para a R66.
+  - **Contradiz uma aula:** o "Felps com mais de R$ 120 mil". A aula 39 diz "40, 50 mil?". Vai para a R67.
   - **Sem como conferir:** a aula 53.
 - **O que entra (decisão minha, 17/11 01h00):** o aquecimento antes de postar volta como **opcional e passivo**: 10 a 15 min de Reels do nicho, vídeos até o fim, rolando devagar, no máximo 1 curtida a cada 5 a 10 min, sem comentar e sem seguir. **Nas 24 h depois da liberação, nada** (R62). Ele não é obrigatório: as aulas 14 e 32 dizem que não precisa.
 
 ## R64 (pergunta do aluno direto no Clone em 17/11, colada às ~01h02; texto inteiro em `CLONE-ORIGINAIS/2026-11-17-R64-aquecimento-conta-nova.md`): o aquecimento de uma conta nova
-(A pergunta planejada para 17/11 ~12h40, com o nora67 e o nora68 a ~24 h, passou a ser a R66.)
+(A pergunta planejada para 17/11 ~12h40, com o nora67 e o nora68 a ~24 h, passou a ser a R67.)
 - **Resposta (resumo fiel):**
   - **Dias 1 a 3:** sem foto, bio, conta profissional ou link. De 15 a 30 min por dia (30 é o ideal), numa sessão ou em duas de 15. Na aba Reels: assistir uns até o fim e outros até a metade, curtir pouco e espaçado (1 a cada 3 a 5 min), salvar 1 ou 2 e fazer 1 comentário bobo. Nada em rajada.
   - **Dia 4:** foto, bio, conta profissional (Creator, Astrologist) e zero link.
@@ -1396,7 +1396,7 @@ No fim, separe o que mantém, o que muda e o que foi sem fonte."
 - **O protocolo consolidado** está no topo da seção "### Aquecimento" do `PLANO-MVM-LEGACY-APPYON.md`.
 
 ## R65 (pergunta do aluno direto no Clone em 17/11, colada às ~01h10; texto inteiro em `CLONE-ORIGINAIS/2026-11-17-R65-gmail-e-ia-para-escalar.md`): criar Gmail e a IA para escalar vídeo e voz
-(A pergunta planejada para 17/11 ~12h40, com o nora67 e o nora68 a ~24 h, passou a ser a R66.)
+(A pergunta planejada para 17/11 ~12h40, com o nora67 e o nora68 a ~24 h, passou a ser a R67.)
 - **Resposta (resumo fiel):**
   - **Gmail pelo celular Android** (aula 53, 0:25:37: "a gente cria por dentro da Play Store, por dentro do aplicativo do Google Drive, por dentro do YouTube, por dentro do Gmail… uns dois Gmail por dia"); no computador, o Google pede SMS.
   - **Voz:** a do Flow (Omni Flash) é a mais barata; o ElevenLabs (US$ 5) é a "qualidade máxima" para gerar em massa (aulas 21, 43 e 54).
@@ -1417,6 +1417,28 @@ No fim, separe o que mantém, o que muda e o que foi sem fonte."
     - no celular Android de verdade do aluno, pelo YouTube ou pela Play Store, até 2 seguidos, e depois dar um tempo;
     - nunca no celular do GeeLark, porque o Google pede verificação pelo chip e não passa;
     - a senha fica na planilha do aluno, nunca no projeto.
+
+## R66 (pergunta do aluno direto no Clone em 17/11, colada às ~11h20; texto inteiro em `CLONE-ORIGINAIS/2026-11-17-R66-musica.md`): a música dos vídeos
+(A pergunta planejada para 17/11 ~12h40, com o nora67 e o nora68 a ~24 h, passou a ser a R67.)
+- **Resposta (resumo fiel):**
+  - **Onde:** a música vai no CapCut, embutida no vídeo, não pela biblioteca do Insta. Assim dá para controlar o volume (de −18 a −22 dB, ~20%, com a voz por cima) e o mesmo arquivo serve no Insta e no Face.
+  - **Música em alta do Insta:** se quiser usar, pôr a do app em volume 0 e o áudio original em 100%.
+  - **Quais músicas:**
+    - "Emotional Music No Copyright" e "Sad Piano No Copyright" (piano lento, o mais usado pelo Gustavo);
+    - "Mystic Sounds" e "Vibrational Sound";
+    - as frequências em Hz (432, 528);
+    - o ritmo árabe ou indígena suave.
+  - **Evitar:** música de ação ou de suspense e música comercial com direitos.
+- **Conferido (17/11 11h25):**
+  - **Bate (aula 14):** 0:45:39 a 0:45:53 ("Emotional Music, Last Hope… Last Hope Very Sad, que eu estava usando bastante. Se você pesquisa em Emotional Music No Copyright, vai aparecer um milhão de músicas"); 0:46:11 ("esses vídeos tem que botar a música sim"); 0:56:39 ("o único problema desse vídeo aqui é que a música ficou muito alta").
+  - **Bate (aula 43, 0:55:53):** "Vibration Sound. Mystic Sounds", no YouTube.
+  - **Bate (aula 54, 1:19:26 a 1:19:56):** a música serve para "a pessoa… se conectar mais com o vídeo", e ele procura "sad piano… instrumental".
+  - **Bate (aula 21, 0:55:22 a 0:55:40, Iorhan):** "ritmo árabe. Validado… ritmo indígena… frequências em hertz".
+  - **Sem fonte nas transcrições que temos:** as aulas 25 e 70 e a Estrutura Facebook. Nas aulas 55 (1:12:51 e 1:19:46) e 57 (0:08:12) não achei nada sobre música; o "arquivo único para as duas redes" é bom senso, sem citação.
+  - **O que já vimos na Nora:** o som em alta do Insta silenciou o áudio original no editor do GeeLark e foi tirado (`PLANO-MVM`, "Aquecimento", outubro).
+- **O que entra (decisão minha, 17/11 11h25):**
+  - **O jeito fica como está:** a música no CapCut, a −18 dB, sem música no hook, e o mesmo arquivo nas duas redes (P45). A música em alta do Insta fica fora.
+  - **A música vira teste A/B** (a regra do aluno): A = a de hoje, "Ambient Mystical Drone" do CapCut (a categoria "mystic sounds", aula 43); B = a "emotional / sad piano no copyright" (aulas 14 e 54). Uma variável por vez, **depois do teste da abertura de hoje**, para não misturar. Depois, o ritmo árabe ou as frequências em Hz (aula 21).
 
 ## Conferência com a transcrição da aula 19 (chegou em 16/11 ~14h35; `TRANSCRICOES/2026-06-0x-aula-19-ganchos-black-vsl-30s.md`, resumo em `MATERIAIS-AULA-19/LEIA.md`)
 O que o Clone disse da aula 19 até hoje, conferido com o texto:
