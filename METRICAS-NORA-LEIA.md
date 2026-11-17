@@ -833,6 +833,11 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
 - **O par (o mesmo corpo, CTA e edição; só o hook e o Take 1 mudaram):** o evento grande (o tsunami no rochedo) passou o ritual de bancada (o café) em tudo: 51,8% x 47,2% nos 3 s, 7 s x 5 s de tempo médio, 2 x 0 visitas, 1 x 0 follow, EUA 35,5% x 18,8%. O preço é o público mais velho (71% x 58% com 45+). Igual ao Face (o nora68-FACE com +1,3x). As views ficaram iguais (121 x 112): o Insta ainda não passa da amostra inicial.
 - **Para o teste de hoje:** o nora69 e o nora70 são de outra família (a copy original da claire_mayaus, o hook de ação comum e o visual limpo). A régua para dizer se saíram do teto: mais de 200 views com ~24 h, mais de 15% aos 10 s e visitas ao perfil acima de 2.
 
+### 17/11 17h53: o story do Insta com ~22 h (postado em 16/11 ~19h55; o story-1211 repostado)
+- **21 views, 19 viewers, 95,2% seguidores e 4,8% não seguidores (~1 pessoa), 0 interações (0 cliques no link), 0 visitas ao perfil e 0 follows;** navegação 17: 7 foram para o próximo story, 6 avançaram, 4 saíram.
+- **Leitura:** quase ninguém chega dos Reels ao story (o nora67 levou 0 pessoas ao perfil e o nora68 levou 2). O anterior (14/11 18h56 a 15/11) teve 27 viewers e 8 cliques, puxado pelo loop. **O gargalo continua antes do story: a fala dos Reels perde ~85% a 90% até os 10 s, e quase ninguém ouve o CTA.**
+- **Vence ~19h55 de hoje:** repostar no Insta e no Face antes do nora69 (a fala dele manda para o story).
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
