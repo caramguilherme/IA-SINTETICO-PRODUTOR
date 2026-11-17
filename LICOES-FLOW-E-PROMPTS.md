@@ -620,7 +620,7 @@ O `d1211-PRE-vela` (Omni 1.1 Flash, 8 s) fez o que o prompt pedia (a vela acende
 - **A regra no prompt:** quando a queda precisa cair num lugar certo (o pires), descrever o lugar de onde ela cai (a moeda bem em cima do lado vazio do pires, longe da caneca), ou deixar o pouso fora do clipe.
 - **O prompt curto fica em teste:** este erro de física não é de detalhe que faltou. O mesmo clipe com prompt longo (o sal, 15/11) também precisou de corte.
 
-### 16/11/2026 23h50, a onda do nora68 saiu de surfe, não de tsunami
+### 16/11/2026 23h47, a onda do nora68 saiu de surfe, não de tsunami
 - O prompt pedia "a huge dark-blue wave… about twenty meters away", com luz dourada do pôr do sol e o fim padrão "no dark or gloomy mood". O Flow fez uma onda de surfe bonita num fim de tarde claro.
 - O aluno: "muito superficial… a nora tsunami ficou muito melhor".
 - **A regra:** evento grande se escreve com a escala medida em altura dela ("about six times her height, many times taller than the lifeguard tower"), "gigantic tsunami wave", "towering wall of real water" e céu cinza-escuro de tempestade, como no nora47-PRE-A.
