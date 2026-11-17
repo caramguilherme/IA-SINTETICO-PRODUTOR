@@ -14,6 +14,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **Pedro⚡ (17/11 11h58):** respondeu às 11h52: vídeos de 30 a 45 s ("raramente coloco de 1 min, mas quase nunca dá bom"); repete o que validou numa conta; **por dia, 5 do validado ("sem hook, personagem já inicia falando") e 1 de teste, com hook de 3 a 4 s**. Resposta pronta (texto no fim).
 - **Pedro⚡ (17/11 11h55):** respondeu em 16/11 12h54: os posts das 17h às 0h são **num perfil só**; "os caras não recomendam, mas eu testo de tudo"; já postou 8 por dia (1 por hora), e hoje a média é de 4 a 5. A 1ª venda dele foi em 15/11. Resposta enviada (texto no fim), com a pergunta da abertura dos vídeos. Esperar.
 - **Lari (17/11 11h50):** em 16/11 12h54 contou que espiona "em todos os lugares possíveis", que achou pouco na Biblioteca de Anúncios e que prioriza "o orgânico fora da appyon". Às 12h55 mandou um áudio de 43 s (transcrito pelo aluno): focou só em aumentar as views, sem link no story, e pôs o link quando um vídeo pegou. Resposta enviada (texto no fim), com a pergunta do formato que pegou. Esperar.
+- **Caio1094 (17/11 12h05):** às 12h00, depois de o aluno criticar os hooks visuais bizarros: "eu tentei e só flopou… eu faço os 2 tipos, vídeo com hook e sem… cada avatar funciona uma coisa… minha avatar vai bem colocando sal grosso, folha de louro e acendendo fogo… ou sal grosso no tapete, ou dinheiro em algum lugar achando… testei da calcinha, sapo no fogo, nada deu bom… sal no vinho, no whisky, nada deu bom". Fechamento enviado (texto no fim). Voltar com resultado.
 - **Caio1094 (17/11 12h00):** às 11h54, depois da mensagem do aluno sobre o vídeo curto de 8 s: "esses vídeos curtinhos, eles não vendem nadaaaa… eu não usaria… tu vai ensinar seu algoritmo a mandar pra pessoas que consomem esse tipo de conteúdo, aí depois… postando longo, vai reensinar… a conversão… vídeo curto é menor ainda" (é relato de outros; ele nunca fez curto). Resposta pronta (texto no fim).
 - **Caio1094 (17/11 11h55):** respondeu às 11h49: **tinha "100 / 90" vídeos na conta quando saiu a 1ª venda**, e perguntou "Eai como ta? Já chegou nisso de post?". Resposta pronta (texto no fim).
 - **Caio1094 (17/11 11h50):** em 16/11 13h12 mandou o @ da avatar das copys longas e dos hooks de polvo: **@miriamlewistarot** ("eu nao sigo, é que aparece bastante"). Resposta enviada (texto no fim), com a pergunta de quantos vídeos ele tinha na 1ª venda. Esperar.
@@ -909,4 +910,16 @@ brabo, vou testar isso tb, repostar o que foi melhor só mudando a edição
 valeu demais pela ajuda mano, quando sair resultado te conto
 ```
 **O que fica:** ele reposta o mesmo vídeo validado até 3 vezes, mudando só a edição. Isso vai contra a regra de "cada post do Insta com pelo menos um Take 1 novo" (aulas 31 e 32): vira teste A/B na `FILA`.
+
+## ENVIADO (17/11/2026 12h05; DM ao Caio1094, fechamento depois das mensagens dele de 12h00; uma mensagem só)
+```
+kkkkk faz sentido, cada avatar funciona uma coisa
+vou testar os 2 tbm: ela já começando a falar, e um ritual simples tipo sal grosso e louro
+valeu demais pela ajuda, quando sair o resultado te conto
+```
+**O que fica:**
+- O Caio faz vídeo com hook e sem hook ("depende… cada avatar funciona uma coisa").
+- **Os hooks que funcionam para ele são rituais simples de casa:** sal grosso, folha de louro e fogo; sal grosso no tapete; achar dinheiro em algum lugar.
+- **Os bizarros floparam** (a calcinha, o sapo no fogo, o sal no vinho e no whisky), e ele também acha "zuado".
+- Bate com o padrão 05 da pesquisa oficial ("objeto simples da casa + uma instrução curta").
 
