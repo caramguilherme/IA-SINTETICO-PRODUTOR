@@ -1354,7 +1354,7 @@ No fim, separe o que mantém, o que muda e o que foi sem fonte."
   - **A 2ª conta:** segue adiada pelo aluno; não entra aqui.
 - **O que entra (decisão minha, 17/11 00h50):**
   - **Sem aquecimento antes ou depois de postar na Nora:** entra, posta ao vivo e sai. Nada de curtir, comentar ou seguir em sequência na conta dela.
-  - **A automação de aquecimento do GeeLark fica fora para a Nora** (a conta tem mais de 1 mês; o Gustavo só aquece no começo). Se os planos "01 - 18:50" e "02 - 23:20" tiverem sido criados, apagar antes das 18h50 de 17/11.
+  - **A automação de aquecimento do GeeLark fica fora para a Nora** (a conta tem mais de 1 mês; o Gustavo só aquece no começo). O aluno não criou nenhuma automação (17/11 00h54); o aquecimento dele era à mão, 5 a 10 min antes de postar, "pq o felps faz, e outros alunos tb fazem".
   - **Nas 24 h depois da liberação:** só o post ao vivo do nora68 às 19h30 e o story, sem o comentário fixado no Insta (ele não tem link e é mais uma ação) e sem curtir, comentar, seguir ou responder.
 
 ## Conferência com a transcrição da aula 19 (chegou em 16/11 ~14h35; `TRANSCRICOES/2026-06-0x-aula-19-ganchos-black-vsl-30s.md`, resumo em `MATERIAIS-AULA-19/LEIA.md`)
