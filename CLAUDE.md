@@ -103,6 +103,12 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
 - **Dashboard:** para atualizar, editar o CSV, rodar `ferramentas-painel/dashboard/preparar_csv.py`, subir a cópia sem o BOM como asset e dar `update` em `datasets/metricas` (`source.url`, `source.name`, `updated`) com `if_version`; receita completa em `ferramentas-painel/dashboard/COMO-RECRIAR.md`.
 
 ## 4. Diário de decisões (as novas entram aqui, datadas; as anteriores a 14/11 estão em `HISTORICO-CLAUDE-MD.md`)
+- **17/11/2026 ~13h, os 6 vídeos da claire_mayaus (o aluno: "achei os vídeos dela muito limpos"; análise em `referencias-virais/2026-11-17-claire-mayaus/LEIA.md`, seção 53 do `BIBLIOTECA-VIDEOS-VIRAIS.md`):**
+  - **A tela dela:** sem caixa do topo em 5 de 6; a legenda automática do Instagram (letra normal, contorno fino, a frase inteira, sem destaque); 1 ou 2 números brancos (o vídeo todo em 2, entram tarde ou somem e voltam em 2, nenhum em 1); sem faixa do CTA, só a seta vermelha nos últimos ~10 s.
+  - **A abertura:** 3 sem hook (falando desde o 1º quadro, com a carta ou apontando o dedo); 2 com hook de 6,6 a 6,8 s de ação comum (canela no carro, estátua do alçapão) e flash branco, a fala na mesma cena em outro enquadramento; 1 podcast com voz e imagens.
+  - **A copy:** 5 de 6 são o mesmo roteiro (o corpo A original, 1:34 a 2:24), mudando só a data, a abertura e o cenário.
+  - **Para a fila:** o teste do visual limpo (A = alto contraste, B = o limpo dela; 0 crédito; a ideia do aluno de 10/11 que nunca rodou), o hook de ação comum com flash (só se o aluno quiser), o Take 1 da mulher deitada, a validação e o motivo do CTA do v4. Fora: "free", "tomorrow at 10:10", "in 7 minutes", a ameaça e a marca d'água do Instagram (é do download).
+  - Hoje à noite segue o teste da carta (nora69 e nora70), salvo decisão do aluno de juntar o visual limpo.
 - **17/11/2026 12h40, Discord, 24ª leitura:** vitórias de ~35 vendas (os Eduardo & Sabrina, que no começo do mês não passavam de 10 views; o Rundouglas; o Lucas Guitel); uma onda de Facebook pessoal suspenso, que leva as Páginas junto; e uma Página punida por "engajamento não autêntico" (a suspeita é pedir sempre o mesmo comentário). **Para a Nora:**
   - (1) o pedido de comentário na legenda do Insta muda a cada post (seção 2);
   - (2) a proposta de um 2º administrador na Página (decisão do aluno);
