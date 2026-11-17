@@ -32,13 +32,31 @@
 6. **Os ganchos tirados da leitura:** "Ever felt you've lived a moment before? That wasn't random."; a carta do Louco ("Stuck between the life you have and the one you want?"); a da Torre ("Something that no longer serves you is about to fall."); e a frase real do público, "I give up. It's over." **→ `BANCO-DE-HEADLINES.md`.**
 7. **As hashtags do nicho:** #tarot #tarotreading #pickacard #messagefromtheuniverse #1111 #manifestation #lawofattraction. Hoje usamos #manifestation #lawofattraction #abundance #2027. **→ FILA:** trocar #abundance por #messagefromtheuniverse ou #1111.
 
-## O que contradiz as nossas regras (não muda sozinho; vai para o aluno e para a R66)
+## O que contradiz as nossas regras (desde 17/11 01h28, pela regra do aluno, cada uma vira um teste A/B: a fila "Testes A/B das contradições" da `FILA-DE-IDEIAS-E-TESTES.md`)
 1. **As cartas.** A pesquisa manda "falar de mensagem, sinais, cartas", e 6 dos 8 roteiros e os 2 CTAs citam as cartas ("Three cards hold your message", "Pick your 3 cards in my Stories"). **A nossa regra é a do Gustavo em pessoa** (DM de 03/11: "Eu não curto falar de cartas antes de chegar no quiz"): nenhuma carta na fala, na legenda, no story nem no comentário. São duas fontes da Appyon, e a pesquisa é posterior (5/11). A 1ª tela do funil é "Tap the 3 cards", o que pesa a favor da pesquisa pela congruência. **Decisão do aluno, com a R66.** Se mudar, é um teste de CTA só, uma variável.
 2. **"Go before it disappears"** (o CTA (a) da pesquisa e quase todos os roteiros) e "it's in my Stories, but not for long". **A aula do Iorhan de 30/10 (P42)** chama isso de urgência fraca ("as pessoas sabem que é balela"), e o Iorhan também é da Appyon. Fica a P42 até a R66.
 3. **"Nunca no vídeo: promessa de dinheiro, quantia, cura, prazo ou resultado garantido."** O corpo fixo do nora67 e do nora68 tem "bringing unexpected cash" no T03 e a imagem do dinheiro no envelope (só no Insta). Já a aula do Iorhan (P42, item 4) permite "imagens de… dinheiro" como prova visual do desejo, e o corpo A dos campeões tinha "unexpected money". **Para a R66 e o aluno:** trocar "cash" por algo sem dinheiro ("unexpected blessings") e tirar a imagem do dinheiro no próximo corpo.
 4. **A duração: "20 a 35 s por roteiro".** A R54 e as aulas 55, 28 e 19 dizem 40 a 60 s ("copies de 30 a 50 segundos estão convertendo", aula 19). Para a R66.
 5. **2026:** a pesquisa é de 5/11. Desde 11/11 o funil fala de 2027 (aviso do Iorhan), e a própria pesquisa diz "a partir de dezembro, a expectativa de começar o próximo ano". Fica o 2027.
 6. **O pedido de comentário:** a pesquisa põe o pedido ("Type 222 if you're ready to receive") num sticker pequeno no canto, e o roteiro 5 fala "Comment 1, 2 or 3" na fala, antes do CTA. A nossa regra (R54) é o 222 fora da fala, só na legenda e na tela. O sticker no canto bate com a nossa regra; a fala do roteiro 5, não.
+
+## O que a pesquisa diz do hook visual (pergunta do aluno, 17/11 01h28)
+- **"Como montar a copy", 0 a 3 s:** "gancho de 3 a 8 palavras na tela, **carta na mão ou cartas embaralhando**, e um número de anjo pequeno no canto (111, 222, 888 ou 11:11)".
+- **Padrão 01:** "você está prestes a…" **com a carta na mão** (@tarotwithholly, 3,4 mi).
+- **Padrão 03:** **o dedo passa pelas letras escritas num papel** e a pessoa pausa na sua inicial (4,8 mi e 3,7 mi).
+- **Padrão 05, o ritual com objeto da casa:**
+  - **um pote de água na janela** durante a lua cheia (133 mil);
+  - **uma vela verde e 3 folhas de louro** (118 mil);
+  - "Objeto simples da casa + uma instrução curta". Para nós, na tela: "Glass of water by your bed. Tonight.".
+- **Roteiro 5:** "três cartas viradas para baixo, numeradas 1, 2 e 3".
+- **Formatos do TikTok:**
+  - **mãos embaralhando** (1,4 mi), com "your 3 cards are ready" sobre as mãos;
+  - texto sobre o baralho (501 mil);
+  - fundo animado sem rosto (10,9 mi);
+  - **"ritual demonstrado: mãos acendendo uma vela e abrindo 3 cartas"**.
+- **Ideias:** "mãos acendendo uma vela e virando 3 cartas **enquanto o avatar fala**" (é a nossa regra da continuidade, R46).
+- **Os virais:** a folha de louro com "só as mãos na tela" (158 mil) e a leitora "com cartas na mesa, falando com uma pessoa só" (860 mil).
+- **O que ela não diz:** nada de produto famoso com o rótulo (a aula 32) e nada de evento grande (o tsunami). Nada de "uma coisa nova a cada 0,5 s": o hook oficial é calmo, de mãos, cartas e vela. **Pela regra do aluno, vira o teste A/B do hook visual** (a fila).
 
 ## O que não serve (e por quê)
 - **Os ganchos de ameaça do banco** ("Don't say the universe didn't warn you", "DON'T fall for it", "don't say I didn't warn you"): são medo e ameaça (P42).

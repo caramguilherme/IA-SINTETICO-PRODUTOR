@@ -174,7 +174,14 @@
 - **O detalhe específico do ritual dito na fala** (call de 16/11, 0:37:50 a 0:38:34: "tome morno pela manhã… é um detalhe que faz toda a diferença"): uma instrução concreta que dá crença, sem prazo nem ameaça ("coarse salt, not table salt"; "the coin facing up"; "on the left side of your bed"). Entra junto com a ponte curta, quando o corpo for testado.
 - **Take 1 contra-intuitivo** (call de 16/11, 0:41:10 a 0:41:45; Iorhan, 30/10 e 03/11): "You can repeat your affirmations every single day and still feel stuck. Here's what's missing." Candidato ao teste dos primeiros 10 s, junto com o das letras do nome.
 - **"As palavras dela" do Manifestation** (o formato do briefing do Risely, 17/11, `MATERIAIS-RISELY/LEIA.md`): uma lista com as expressões que a mulher do nicho usa ("I'm doing everything right", "it's just my age", no Risely), tirada dos virais e dos comentários, para a 2ª frase e o Take 1. Antes, ver se o briefing oficial do Manifestation (Drive da Appyon) já traz a lista.
-- **As contradições da pesquisa oficial com as nossas regras (para a R66 e o aluno; `MATERIAIS-MANIFESTATION-OFICIAL/LEIA.md`):**
+- **Testes A/B das contradições (regra do aluno, 17/11: "tudo é teste… testamos o A e o B"; uma variável por vez, na ordem abaixo, depois do teste dos 10 s):**
+  - **Hook visual:** A = o nosso pré-gancho (o produto com o rótulo e uma ação a cada 0,5 s, ou o evento grande); B = o oficial (a carta na mão ou as cartas embaralhando, com o número de anjo no canto; ou "mãos acendendo uma vela e abrindo 3 cartas enquanto o avatar fala"; ou o ritual simples da casa, "Glass of water by your bed. Tonight."). As cartas ficam só na imagem enquanto o teste das cartas na fala não roda.
+  - **As cartas na fala e no CTA:** A = sem cartas ("your reading", o DM do Gustavo de 03/11); B = "Your first card already knows. Pick your 3 cards in my Stories." (a pesquisa oficial).
+  - **O fechamento:** A = "…in my story" sem prazo (a aula do Iorhan, P42); B = "The second part of this message is waiting in my Stories. Go before it disappears." (a pesquisa).
+  - **O dinheiro:** A = "unexpected cash" e a imagem do dinheiro (o corpo fixo, o Iorhan e os campeões); B = sem promessa de dinheiro ("unexpected blessings" e sem a imagem; a pesquisa: "nunca no vídeo").
+  - **A duração:** A = 40 a 50 s (a R54 e as aulas 55, 28 e 19); B = 20 a 35 s (a pesquisa).
+  - **O pedido de comentário:** A = só na legenda e no número na tela (a R54); B = o sticker pequeno no canto ("Type 222 if you're ready to receive", a pesquisa).
+- **As contradições da pesquisa oficial com as nossas regras, como foram anotadas (17/11 01h25; `MATERIAIS-MANIFESTATION-OFICIAL/LEIA.md`):**
   1. **As cartas na fala e no CTA:** a pesquisa manda falar delas ("Pick your 3 cards in my Stories"), e a regra do Gustavo (DM de 03/11) é nada de cartas antes do quiz.
   2. **"Go before it disappears":** a pesquisa usa, e a aula do Iorhan (P42) chama de urgência fraca.
   3. **A promessa de dinheiro:** "nunca no vídeo", mas o corpo fixo tem "unexpected cash" e a imagem do dinheiro.
