@@ -943,4 +943,4 @@ Do 1º ao 15º (views, duração): nº 1 dança de casal (5,6 mi, 41 s; fora do 
   2. **Duas peças entram na fila para testar, uma de cada vez:**
      - **(a) o Take 1 pelas letras do nome, na versão positiva** ("If your name starts with A, J, M, K, C, E, S, L, R, T or H, this message found you for a reason."). Cabe no teste combinado hoje: o corpo, o CTA e a edição do nora67 fixos, muda só o que vem até os 10 s.
      - **(b) a ponte do mecanismo antes do CTA** (a P42, item 5, já pedia que a Nora explicasse o mecanismo, e os nossos roteiros pularam): ~10 s explicando por que o que ela deseja "quase chega e escapa" e como a leitura de 2027 mostra o próximo passo. Sem "limited time" e sem medo.
-  3. **A duração (2+ min) contradiz a R54** (40 a 60 s, aulas 55 e 28). O Caio1094 também disse que quem vende faz de 1 a 2,5 min (21ª leitura). A pergunta vai para o Clone (R64), com os 2 vídeos como exemplo.
+  3. **A duração (2+ min) contradiz a R54** (40 a 60 s, aulas 55 e 28). O Caio1094 também disse que quem vende faz de 1 a 2,5 min (21ª leitura). A pergunta vai para o Clone (R65), com os 2 vídeos como exemplo.

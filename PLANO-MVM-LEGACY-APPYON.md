@@ -1392,6 +1392,37 @@ NEVER generate: a different face, hairstyle, outfit or voice, extra people, extr
 * **Face (12/11, 18h a 22h40):** a página trava carregando ao postar: para o Caio passou sozinho no dia seguinte; o joaozmp diz que pode ser verificação de identidade (abrir a página pelo Face do celular; se não aparecer nada, pôr o Brasil na restrição de países para ver o aviso). Face roda no PC normal; o GeeLark é para o Insta (Lucio, F Lopes). Restrição de países: só os bons (EUA, Canadá, Reino Unido; a lista completa está na aula).
 
 ### Aquecimento
+**Protocolo consolidado de conta nova no Insta (17/11/2026: o Clone R64 conferido com a aula 37 e com o que juntamos desde outubro, abaixo; é o caminho que a Nora fez de 06 a 18/10):**
+0. **Antes de criar:**
+   - um celular do GeeLark e uma proxy dos EUA só da conta (o plano Base tem 5 perfis e a Nora usa 1; a proxy da Nora custa US$ 3,59 por mês; cada celular ligado gasta minutos, ~40 min por dia no uso da Nora);
+   - um Gmail novo, porque o Outlook cai mais fácil;
+   - o app do Insta em inglês;
+   - o mylocation.org no navegador do celular mostrando os EUA e o IP da proxy;
+   - uma avatar por conta;
+   - nunca um direct para quem não segue (o checkpoint de 13/10).
+1. **Dias 1 a 3, só consumir:**
+   - sem foto, bio, conta profissional ou link (o rótulo de IA pode ir já no 1º dia: Felps);
+   - **30 min por dia** (no mínimo 15), na aba Reels, tudo em inglês;
+   - assistir uns vídeos até o fim e pular outros na metade;
+   - curtir alguns, salvar 1 ou 2, fazer 1 ou 2 comentários curtos e seguir 2 ou 3 perfis do nicho, **tudo espaçado ao longo da sessão, nunca seguido** (a rajada de 17/11 deu verificação facial na Nora).
+2. **Dia 4, uma mudança por vez, com ~5 min entre elas:**
+   - a ordem é foto → bio → conta profissional (Creator, Astrologist) → idade mínima;
+   - fechar o celular do GeeLark entre um passo e outro.
+3. **Dias 4 a ~7, os 10 vídeos de aquecimento:**
+   - 3 a 4 por dia, com 2 a 3 h entre eles;
+   - o mesmo vídeo de venda, sem link e com CTA de engajamento (curtir, mandar para si, comentar);
+   - 3 copys, trocando a cada 3 vídeos (Felps), ou a copy validada sem o CTA do story (Gabriel);
+   - continuar rolando o feed nesses dias;
+   - story sem link é opcional.
+4. **A régua dos 10:**
+   - a média acima de 200 = salva; mais de 6 dos 10 acima de 100 = ok (Mattias);
+   - os 10 abaixo de 100 = descartar (aula 54): apagar o celular do GeeLark, manter a proxy e criar de novo;
+   - entre 100 e 200, olhar os 3 s: acima de 50%, postar mais 5 a 10;
+   - ~1 mil views nos 10 é sinal forte (Gabriel).
+5. **Depois:** o link no story e os vídeos de venda. Daí em diante não precisa aquecer antes de postar (aulas 14 e 32).
+- **A automação do GeeLark na conta nova:** não nos dias 1 a 3. O Felps e o Mattias aquecem à mão. Contas aquecidas só pela automação não entregaram (MJ COMPANY, Jottinha), a Hosana tomou selfie duas vezes e o Marcos Daniel perdeu uma conta de 3 dias com 50 a 100 vídeos por rodada. Se usar depois, 20 a 30 vídeos por rodada, nunca 100.
+- **A Página do Face:** 3 dias de ~30 min de Reels como a Página, pelas hashtags do nicho (Gustavo, 12/10; Felps), num perfil do Face separado (`BRIEFING-LOVE-READING.md`).
+
 * **Aquecimento automático no GeeLark (fórum, post do Delian de 10/05 a 15/11 e #godmode do joanfran.co; lido em 16/11, `MATERIAIS-FORUM-AQUECIMENTO/LEIA.md`):** Automation > Marketplace > "Instagram AI account warmup" (o app do Insta em inglês; celular Android 13+ com proxy). Ele assiste vídeos e segue alguns perfis, sem curtir nem comentar. Não pode abrir o celular enquanto roda, e a tarefa não repete sozinha. Custo: 25 a 30 vídeos = 11 a 13,5 min; 100 vídeos = 30 a 47 min; o pacote de 2.000 min sai por US$ 14 a 15. Risco: o Marcos Daniel perdeu uma conta de 3 dias por "suspeita de automação" (50 a 100 vídeos). O Face tem template próprio, mas o Delian aquece o Face na mão por causa do IP.
 * **A aula do #godmode (joanfran.co, vídeo de 4min43, vista em 16/11; `TRANSCRICOES/2026-05-16-forum-aquecimento-geelark-videos.md`):** "criar tarefa recorrente" > Definir tempo em lote > **Diariamente** (sem o horário aleatório), com a hora e o período de uma semana. **20 a 30 vídeos por rodada, um número diferente em cada celular, nunca 100 de uma vez** ("atividades em comum é shadow ban"). As rodadas vão da manhã até a hora de postar à mão ("fractais de aquecimento e de pré-postagem"). Nos Registros dele, ~25 vídeos levaram 23 a 33 min.
 * **Aquecimento diário (16/11):** o Wall Estevam deixa a automação do GeeLark curtindo e comentando todo dia e troca os comandos por semana (GeeLark > Automações > rolar até o logo do Insta > "curtidas e comentários" > configurar; não tem aula, o Dorigon diz que tinha no fórum). O Felps já disse que aquecer antes de postar aumentou a conversão. E-mail antigo segura melhor a conta na criação (Wendi Shintani).
