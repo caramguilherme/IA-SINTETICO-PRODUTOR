@@ -838,6 +838,11 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
 - **Leitura:** quase ninguém chega dos Reels ao story (o nora67 levou 0 pessoas ao perfil e o nora68 levou 2). O anterior (14/11 18h56 a 15/11) teve 27 viewers e 8 cliques, puxado pelo loop. **O gargalo continua antes do story: a fala dos Reels perde ~85% a 90% até os 10 s, e quase ninguém ouve o CTA.**
 - **Vence ~19h55 de hoje:** repostar no Insta e no Face antes do nora69 (a fala dele manda para o story).
 
+### 17/11 17h56: Tracker de 16/11 fechado e 17/11 até 17h54
+- **16/11 fechado: 1 clique (Insta), 1 viu o quiz, 1 começou, 1 terminou, 0 checkout, 0 venda.** É o mesmo clique da leitura de 12h34: **o nora67 (19h30) e o nora68 (01h19) não trouxeram nenhum clique.**
+- **17/11 até 17h54: nenhum dado** (0 clique).
+- Junto com o story (0 cliques) e as visitas ao perfil (0 e 2), o funil está parado antes do story.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.

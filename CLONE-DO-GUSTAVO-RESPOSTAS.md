@@ -1440,6 +1440,35 @@ No fim, separe o que mantém, o que muda e o que foi sem fonte."
   - **O jeito fica como está:** a música no CapCut, a −18 dB, sem música no hook, e o mesmo arquivo nas duas redes (P45). A música em alta do Insta fica fora.
   - **A música vira teste A/B** (a regra do aluno): A = a de hoje, "Ambient Mystical Drone" do CapCut (a categoria "mystic sounds", aula 43); B = a "emotional / sad piano no copyright" (aulas 14 e 54). Uma variável por vez, **depois do teste da abertura de hoje**, para não misturar. Depois, o ritmo árabe ou as frequências em Hz (aula 21).
 
+## R67 (pergunta pronta em 17/11 17h56, pedido do aluno: "com esses dados, e o plano de hj, vale mandar algo pro clone?"; resposta a colar): os riscos do modelo da claire_mayaus no Face e no Insta, e a régua
+(A pergunta grande que estava planejada como R67, o diagnóstico inteiro com o nora67 e o nora68 a ~24 h, passa a ser a R68, amanhã, junto com o nora69 e o nora70 a ~24 h: é quando os números dizem se o modelo novo saiu do teto. Esta R67 pergunta só o que muda hoje: a versão do Face e o risco da conta.)
+
+```text
+Contexto: Nora, avatar de IA (@norakensleytarot), funil Manifestation da Appyon, Insta + Página do Face, público dos EUA.
+
+Números até 17/11 18h:
+- Os últimos 10 Reels falados no Insta ficaram entre 110 e 190 views. Os 2 últimos têm o mesmo corpo, CTA e edição (alto contraste, caixa amarela); só mudam o hook e o Take 1:
+• nora67 (ritual do café Folgers, 19h30): 112 views em ~22 h, 47% nos 3 s ("strong hook"), ~10% aos 10 s, tempo médio 5 s em 37 s, 0 visitas ao perfil, EUA 18,8%, 45+ 58%.
+• nora68 (tsunami quebrando no rochedo atrás dela, 01h19): 121 views em ~16 h, 52% nos 3 s, ~15% aos 10 s, 7 s em 39 s, 2 visitas, 1 follow, EUA 35,5%, 45+ 71%, sem Índia.
+- Story do Insta com ~22 h: 19 viewers (95% seguidores), 0 cliques no link.
+- Tracker: 16/11 com 1 clique (quiz terminado, 0 checkout); 17/11 até 18h, 0.
+- Face: o nora68-FACE (tsunami) fez 235 views em ~10 h com +1,3x; o do café, 123 com -0,8x.
+- A conta do Insta passou pela 2ª verificação facial hoje (00h34) e voltou à 01h06. Até 01h06 de 18/11 não curtimos, comentamos nem seguimos.
+
+O plano de hoje (decisão do aluno, como teste; não vamos mudar): os 2 vídeos copiam o modelo de uma avatar que vende muito no nicho (claire_mayaus):
+- a copy dela inteira: "Keep your mouth shut if this video showed up for you on [data]", "if you turn your back on this message, the blessings will turn their backs on you", São Miguel, "in the next seven minutes", os 3 selos (mandar para si, salvar, toque duplo) e "comment I believe" antes do CTA, "tomorrow at 10:10 you'll receive incredibly good news", "this shift will only happen to people whose energy is aligned… I left a quick reading in my stories that will reveal if you are one of them", "tap my profile picture"; ~1:50 de vídeo;
+- o hook dela, de ação do dia a dia (~6,7 s, sem fala): a canela jogada no tapete do carro e a estátua de São Miguel tirada do alçapão, com flash branco antes da fala;
+- o visual limpo dela: sem caixa no topo, legenda automática simples, 1 número "222" branco, só a seta no fim.
+Só tiramos o "free reading" (a leitura é paga). 19h30 o do carro, 0h00 o do alçapão, no Insta e no Face.
+
+Perguntas (só estas):
+1. No Face, a mesma versão com os selos e o "comment I believe" na fala é risco real para a Página (é a única que temos)? Esta semana uma Página da comunidade foi punida por "engajamento não autêntico". Vale fazer a versão do Face sem o trecho dos selos e do comentário (o resto igual), ou mantém igual?
+2. No Insta, com a conta recém-saída da verificação facial, essa copy (ameaça, prazo, selos) aumenta o risco de restrição ou de nova verificação? Sim ou não.
+3. Qual a régua com ~3 h e com ~24 h para dizer se esse modelo tirou a Nora do teto de ~120 views (views, % nos 3 s, % aos 10 s, visitas ao perfil, cliques no Tracker)? E se ele der views mas nenhum clique, o que fazemos amanhã: manter a copy e trocar o CTA, ou voltar à copy suave mantendo o hook e o visual novos?
+
+Responda curto, por item, citando aula e minuto quando tiver, e marque o que for opinião sem fonte.
+```
+
 ## Conferência com a transcrição da aula 19 (chegou em 16/11 ~14h35; `TRANSCRICOES/2026-06-0x-aula-19-ganchos-black-vsl-30s.md`, resumo em `MATERIAIS-AULA-19/LEIA.md`)
 O que o Clone disse da aula 19 até hoje, conferido com o texto:
 - **R57 ("as aulas defendem o gancho bizarro ou chocante para parar o scroll… aula 19, 0:04:25 a 0:13:10"): citação esticada.** O trecho é sobre **ganchos de duplo sentido, de conotação sexual** (banana, milho, chocolate, salsicha: "Isso é duplo sentido, entendeu?", 0:05:48; "o nosso público é velho, ele já entende as coisas", 0:12:08). E o próprio Gustavo diz que "não é regra… vai converter legal igual com todos aqueles outros estilos de hook" (0:31:59) e "não necessariamente precisa de um gancho de duplo sentido" (1:07:24). **A decisão da R57 (o tsunami fica) não muda**, porque se apoia nos nossos números: 4.236 no Face e 66% a 71% nos 3 s no Insta. Mas a aula 19 não serve de fonte para "gancho chocante" em geral. O duplo sentido fica fora (puxa homem e Índia, aula de ~10/07, 0:56:54).
