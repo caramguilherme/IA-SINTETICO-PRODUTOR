@@ -779,6 +779,23 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
 
 - **16/11/2026 18h12, Status da Página (texto colado pelo aluno):** "Não há problemas na Página"; nenhuma violação dos Padrões da Comunidade. O "problemas de publicidade" é a conta de anúncios antiga do perfil pessoal. **A Página não está punida**: a queda do Face desde 14/11 é de distribuição dos vídeos. A troca de Página da R61 perde força (aula 55: com a Página passando de 200, "é o vídeo que tem que melhorar"); a leitura de amanhã ~12h20 segue.
 
+### 16/11/2026 23h25 - Insta: o nora67 (o Folgers) com 45 views em ~4 h (grade do perfil) e o padrão dos falados
+- **Os números:**
+  - o nora67 tem 45 views com ~4 h, contra 135 do nora65 no mesmo tempo;
+  - o nora66 está em 123 e o nora65 em 149;
+  - o perfil tem 158 seguidores e 33,7 mil views em 30 dias.
+  - A régua é com ~24 h (amanhã ~19h30), mas o nora67 deve ficar abaixo dos outros.
+- **O padrão (não é sorte):** os falados do Insta ficam entre ~120 e ~190 views desde o nora55: 140, 192, 120, 171, 149, 181, 159, 146 e 122.
+  - O loop (nora64) fez 2.204, mas 54% foi Índia. Nos EUA, ele teve ~140, igual aos outros.
+- **O porquê:** os falados perdem ~90% das pessoas até os 10 s. No nora66: 50% aos 3 s, 24% aos 5 s, 9% aos 11 s, 3% aos 20 s.
+  - O loop de 8 s é visto até o fim, e o Insta amplia (de dia, para a Índia).
+  - Com 90% saindo antes dos 10 s, o Insta não passa da amostra inicial (~140).
+- **O critério da R46** ("6 vídeos na grade certa colados em ~140 = teto do perfil") fecha amanhã, com o nora67 e o nora68 com ~24 h. A ação que o Clone ligou a ele (a 2ª conta) é decisão do aluno, e eu não proponho.
+- **O meu erro:** desde 13/11, cada vídeo mudou várias coisas de uma vez (o tipo de hook, a cena, a edição, as palavras do corpo, o CTA), contra a regra de uma variável por vez. Assim não dá para saber o que ajudou.
+  - **Daqui em diante:** o corpo, o CTA e a edição do nora67 ficam fixos, e muda só o que acontece até os 10 s.
+- **A prioridade de amanhã cedo é o funil:** ~38 cliques e 0 checkout, contra 6% de clique para checkout do Gyro (23ª leitura). É o teste de cliente oculto.
+- Dashboard na versão 45.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
