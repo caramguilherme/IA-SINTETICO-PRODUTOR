@@ -820,6 +820,12 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
 - **O que diz:** os falados seguem colados entre ~110 e ~165 (o teto da R46). O nora68 às 01h19 e o nora67 às 19h30 ficaram iguais: nem o horário nem o hook de evento grande mudaram o Insta. É a linha de base para o teste de hoje (o modelo da claire_mayaus: copy original, hook de ação comum e visual limpo).
 - **Pedido:** o Insights do nora67 e do nora68 com ~24 h (os 3 s, o tempo médio, a curva, as visitas ao perfil, os follows e os países) e o Tracker de 16/11 fechado.
 
+### 17/11 17h50: Insights do nora67 no Insta (~22h20 de vida)
+- **112 views, 106 viewers, 47,2% nos 3 s (skip 52,8%, selo "strong hook"), tempo médio 5 s num vídeo de 37 s, 0 visitas ao perfil, 0 follows;** 2 curtidas, 1 comentário, 1 salvo.
+- **A curva:** ~50% aos 3 s, ~25% aos 5 s, ~10% aos 10 s e quase 0 depois dos 20 s. O hook segura; a fala perde quase todos entre os 3 e os 10 s, de novo.
+- **Público:** 97,3% não seguidores; 45+ = 58,1% (45 a 54: 28,6%); países: EUA 18,8%, Canadá 10,7%, Reino Unido 7,1%, Austrália 5,4%, Irã 4,5%. **Sem Índia no top 5** (o horário das 19h30 funciona), mas o Insta não passou da amostra inicial (abaixo do reel típico a tarde toda).
+- **Leitura:** igual ao nora63 e ao nora66: o problema não é o hook nem o horário, é o que a fala faz dos 3 aos 10 s. É o que o teste de hoje à noite mexe (a abertura da claire_mayaus: "Keep your mouth shut if this video showed up for you on…" com a data, e a fala longa).
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
