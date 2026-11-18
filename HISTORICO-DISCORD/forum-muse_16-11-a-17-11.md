@@ -215,3 +215,20 @@ po vou testar ent, valeu paizao, deixou geral fortao
 
 **15h27 · Vinicius B**
 tmjjj meu cria
+
+
+## 18/11/2026 (continuação colada pelo aluno às ~11h12; não veio pela skill)
+
+**11h04 · Juliana Kli**
+@Vinicius B vou tentar criar uma conta agora, me diz uma coisa... o vpn é so pra criar a conta ou precisa usar sempre?
+Eu tenho um proxi USA no dolphin da minha contingencia, posso usar ele mesmo?
+ou melhor usar So VPN mesmo
+
+**11h09 · Vinicius B**
+Pode usar na proxy sim e sobre o criar cm VPN (>>EU<<) apenas criava com proxy e depois n usava mais e não perdia minhas contas, mas já teve casos de pessoas que caíram. Então talvez o seguro seja criar com VPN e usar sempre cm VPN
+
+**11h09 · Juliana Kli**
+maravilha, obrigada!!!
+
+**11h11 · Guilherme [MVM]** (o aluno)
+esse 1b de token é mensal? todo mês renova? ou usou 1b já era? não entendi muito bem isso

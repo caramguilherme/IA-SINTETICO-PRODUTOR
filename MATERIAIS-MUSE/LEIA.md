@@ -2,12 +2,28 @@
 
 **De onde veio:** o aluno colou em 18/11 ~10h40 o post "MUSE????" do fórum do Discord (o guia do Vinicius B de 16/11 17h32 e as 25 respostas até 17/11 15h27), o mapa mental do processo e o link da pasta do Drive com a 27ª leitura do Discord. Pedido dele: "acessa os links que te mandei, e olhe tudo, analise, veja os conteudos". Contexto: o Flow caiu em 18/11 ~09h40 (as 4 contas Ultra e as 2 com o Pro) e ele decidiu ir para o Muse.
 
+## ⚠️ O Muse é da Meta (achado em 18/11 ~11h15, no próprio site; `muse-site/`)
+- **A página do muse.ai diz "Muse — Your Personal AI Agent from Meta"** e termina em "© Meta 2026". É um agente pessoal que "conecta os apps que você usa, como e-mail, calendário e Instagram", conversa "direto no WhatsApp" e roda num computador na nuvem ("Secure VM"). A conta se cria com "número de celular ou e-mail".
+- **Os termos (`muse-site/termos-muse-18-11.txt`):**
+  - **Créditos promocionais:** "não são resgatáveis… **podem expirar dentro de um prazo informado na sua conta** ou nos termos aplicáveis, e **não podem ser restabelecidos**". Não falam em renovação. **O bônus de 1 bilhão do código é crédito promocional: o que se gasta não volta, e ele pode vencer** (o prazo aparece na conta). Os termos citam também a assinatura e o "uso adicional pago".
+  - **Punição:** "remover ou restringir recursos; **suspender ou desativar o seu acesso ao Muse e/ou a quaisquer Produtos das Empresas Meta associados**", e a Meta trabalha "com outras empresas Meta" para detectar mau uso.
+  - **Uso proibido:** "violar, burlar ou contornar os termos de serviço… controles de acesso… proteções técnicas" (de terceiros); idade mínima de 18, com estimativa técnica de idade e, se preciso, verificação por cartão.
+- **O que isso muda para a Nora:** o Insta da Nora e a Página dela (no Face pessoal do aluno) são produtos da Meta. **Se a conta do Muse cair por fraude ou abuso, os termos permitem a Meta derrubar junto os produtos Meta associados a ela.** Por isso a conta do Muse fica **totalmente separada** de tudo o que é da Nora e do aluno na Meta:
+  - e-mail novo, só do Muse (nunca o da Nora, kensleynora, nem a contatocaram);
+  - **sem o número de celular do aluno** que está no Face, no Insta ou no WhatsApp dele (o cadastro aceita e-mail);
+  - **nunca** "entrar com Facebook ou Instagram", nunca conectar o Insta ou o WhatsApp no Muse, e nunca confirmar a idade com a conta do Insta da Nora ou o Face do aluno (no Discord de 18/10, a verificação de idade aceitava uma conta do Insta);
+  - num perfil de navegador só dele (o guia fala em AdsPower ou Dolphin), **nunca** no celular do GeeLark da Nora nem no navegador onde a Página e o Business Suite estão logados, e **nunca pela proxy da Nora** (168.235.144.192);
+  - os vídeos saem do Muse para o computador do aluno e daí para o CapCut: o Muse nunca posta nada.
+- **Não sei:** se o Insta põe sozinho o selo "feito com IA" em vídeo gerado pelo Muse (a IA é da própria Meta). A Nora já é marcada como IA no perfil; olhar o 1º post feito com o Muse.
+- **Do fórum (18/11 11h04 a 11h11, colado pelo aluno):** a Juliana Kli perguntou se a VPN é só para criar a conta; o Vinicius: ele criava com proxy e depois não usava mais, sem perder conta, "mas já teve casos de pessoas que caíram… talvez o seguro seja criar com VPN e usar sempre com VPN". O aluno perguntou às 11h11 se o 1 bilhão é mensal.
+
 ## O que está guardado aqui
 - `mapa-processo-muse-chatgpt.webp`: o mapa mental do Vinicius ("Processo Profissional de Criação de Vídeos com IA"), como o aluno mandou.
 - `netlify/index.html`: a página inteira do Vinicius (chat-muse-vinicius-7f29c1.netlify.app), baixada em 18/11 ~10h45.
 - `netlify/PROMPT-MESTRE-CHATGPT.txt`: o "Prompt Mestre" (para colar no ChatGPT ou no Claude), em inglês, inteiro.
 - `netlify/PLAYBOOK-MUSE.txt`: o "Playbook" (para colar no Muse), em português, inteiro.
 - `exemplo-video/transcricao-exemplo-muse.txt` e `exemplo-video/quadros-a-cada-5s.jpg`: a transcrição e 18 quadros do vídeo de exemplo do Vinicius (TransferNow, `35.38iii-12-11.mp4`, 1:30, 1080×1920 a 60 qps, 165 MB). **O vídeo em si não foi guardado** (165 MB; a decisão 5 do pente fino é tirar mídia pesada do repositório); o link é https://www.transfernow.net/dl/20261116DIDlB8Tx.
+- `muse-site/termos-muse-18-11.txt` e `muse-site/pagina-inicial-muse-18-11.txt`: os termos e a página inicial do muse.ai, em texto (18/11 ~11h15; as páginas de preço e de perguntas pedem login).
 - A conversa inteira do fórum está em `HISTORICO-DISCORD/forum-muse_16-11-a-17-11.md` (e a imagem do mapa também em `HISTORICO-DISCORD/imagens/18-11-manha/forum_2026-11-16_17h32_ViniciusB_2.jpg`).
 
 ## O processo dele (o mapa)
