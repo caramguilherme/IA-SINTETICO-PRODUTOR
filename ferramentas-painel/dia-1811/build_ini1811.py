@@ -115,15 +115,17 @@ def img_story():
             'f/8 aperture, ISO 640, 1/60s shutter speed, natural depth of field, background stays readable, mild sensor noise in the shadows,\n' + FIM_STORY)
 
 
-VID = ('Use the attached image as the first frame. Real casual 6-second video from a static camera, steady, no zoom, no camera movement, real speed, no slow motion; no phone, phone '
-       'stand or tripod ever appears in the frame. The action starts in the very first frame: from 0 to 4 seconds her right hand (the hand on the left side of the frame) glides slowly '
-       'and smoothly about one centimeter above the papers without touching or moving them, the index finger passing over each paper of the top row from the left side of the frame '
-       'to the right side, then down to the bottom row and back from the right side of the frame to the left side, never stopping on any paper, while she looks down at the papers with '
-       'a curious smile; from 4 to 6 seconds she lifts both hands from the table and opens her arms to the sides with her palms up, a playful little shrug as if asking which one, and '
-       'looks straight into the lens with a warm, knowing smile. She never speaks and her lips stay closed in a smile the whole time. The ten torn notebook papers stay exactly as in '
-       'the attached image the whole time: same positions, same handwritten capital letters, never moving, never changing, never blurring, never disappearing; the crystals stay still '
-       'and do not glow. She keeps the same face, crescent moon with three tiny gold stars, earrings, necklace, bracelets, rings, cream cardigan and the small American flag pin the whole '
-       'time; each hand has exactly five fingers; nothing appears or disappears. AUDIO: quiet room ambience only; no music, no voice. No on-screen text, no captions.')
+VID = ('Use the attached image as the first frame. Real casual 6-second video from a static camera, steady, no zoom, no camera movement, real speed, no slow motion; no phone, '
+       'phone stand or tripod ever appears in the frame. ACTION, in this exact order, starting in the very first frame: '
+       '(1) from 0 to 2 seconds, her right hand (the hand on the left side of the frame) glides slowly with the index finger about one centimeter above the TOP row of papers, '
+       'from the left side of the frame to the right side, passing over M, J, S, L and C; '
+       '(2) from 2 to 4 seconds, without stopping, the same finger moves down to the BOTTOM row and glides slowly from the right side of the frame back to the left side, passing '
+       'over P, D, K, B and A; the finger MUST pass over all ten papers, both rows, never only the top row; '
+       '(3) from 4 to 6 seconds, she lifts both hands from the table and opens her arms to the sides with her palms up, a playful little shrug as if asking which one, and smiles '
+       'warmly straight into the lens. She never touches or moves the papers. She never speaks and her lips stay closed in a smile the whole time. The ten torn notebook papers '
+       'stay exactly as in the attached image the whole time: same positions, same upright handwritten capital letters, never moving, never changing, never blurring; the crystals '
+       'stay still and do not glow. She keeps the same face, crescent moon with three tiny gold stars, earrings, necklace, bracelets, rings, cream cardigan and the small American '
+       'flag pin the whole time; each hand has exactly five fingers; nothing appears or disappears. AUDIO: quiet room ambience only; no music, no voice. No on-screen text, no captions.')
 MUSE = ('Generate exactly ONE video clip, only one version, vertical 9:16, about 6 seconds, using the attached image as the first frame. She does not speak in this clip. '
         'Name it ' + CLIPE + '. Follow the prompt exactly as written. Prompt: ' + VID)
 
