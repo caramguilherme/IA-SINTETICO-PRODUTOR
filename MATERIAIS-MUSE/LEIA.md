@@ -24,6 +24,17 @@
 - **O risco para a Nora:** o método liga um número de celular à conta Meta do Muse. **Se for o número que está no Face pessoal do aluno (onde fica a Página da Nora), no Insta ou no WhatsApp dele, a conta do Muse fica ligada por esse número à conta Meta que segura a Página**, e os termos permitem derrubar "produtos Meta associados". O mesmo vale para "confirmar a idade com o Instagram ou o Facebook". Pela regra de isolamento (seção 2 do `CLAUDE.md`), nenhum dos dois.
 - **Não abri o guia** (guia-musenobrasil.netlify.app): é o passo a passo do mesmo contorno (VPN, verificação de idade, código), que a transcrição já mostra inteiro; o passo de acesso é do aluno e eu não acompanho contorno de bloqueio.
 
+## O teste de qualidade (18/11 ~11h50; `teste-qualidade-18-11/`)
+O T01 do nora69 (a imagem do carro, 19 palavras, o mesmo prompt do Flow, no formato de bloco do Prompt Mestre, com a NORA_VOICE_LOCK colada inteira):
+- **Tempo:** ~1 minuto (o aluno: "1 min mais ou menos, acho que até menos").
+- **Custo:** de 0% para **2% do plano grátis da semana** (os tokens adicionais seguiram em 1 bi; o Muse gasta primeiro o grátis). **~50 takes de 10 s por semana só no grátis.** Se o grátis da semana for os ~100 milhões que o Adriano diz, 1 take ≈ 2 milhões de tokens (o 2% é arredondado: 1,5 a 2,5 milhões) e **o 1 bi rende ~500 takes** (400 a 670). Um vídeo como o nora70 (17 takes + 2 clipes do hook) ≈ 38% de uma semana grátis. Bate com o Vinicius (~46 vídeos inteiros com 1,5 bi): os "vídeos" dele eram vídeos inteiros.
+- **A fala:** as 19 palavras certas, na ordem, sem repetir, começando em 0,00 s e terminando em 7,26 s ("Keep your mouth shut if this video showed up for you on Tuesday, November 17th or Wednesday, November 18th"); os ~2,7 s finais são silêncio (a FusionZ corta). Voz média em ~221 Hz (feminina, registro médio), volume médio −22,5 dB, pico −0,9 dB.
+- **O arquivo:** 10,0 s, **704×1232 a 24 quadros por segundo** (não é 720×1280 exato: a proporção é 4:7, um pouco mais larga que 9:16), áudio AAC mono 24 kHz, 4,4 MB.
+- **O rosto:** é a Nora: a lua com as estrelinhas na bochecha, os olhos verde-avelã, a trança com anéis, os brincos de estrela e lua, o anel de sol na mão do volante, o cardigã preto, o cinto, a picape andando com as casas passando (como pedido).
+- **Diferenças do Flow:** (1) o 1º quadro não é idêntico à imagem anexada (ela começa com o indicador para cima, e na imagem aponta para a lente): o Muse usa a imagem como referência, não como quadro exato; entre takes, a pose pode começar um pouco diferente (some no corte seco); (2) aos ~9,6 s, já em silêncio, o enquadramento chega um pouco mais perto (sai no corte do silêncio).
+- **O que eu não consigo julgar sozinho:** o timbre comparado ao do Flow e a boca batendo com o som (pelos quadros, a boca abre nas sílabas). O aluno compara com o começo do nora69 no Insta.
+- **Na edição:** escalar para 1280 de altura e cortar ~5 px de cada lado (731→720), sem esticar.
+
 ## A oferta "API MUSE VIP 1" de um bot do Telegram (18/11 ~11h37; `oferta-telegram-api-muse-vip1.md`)
 - **O que é:** uma "chave" para gerar vídeo num site de terceiros (muse.careflow-demo.online, um subdomínio "demo"), não uma conta no muse.ai. US$ 7,69 por 333 clipes de 10 s (~US$ 0,023 por take; um nora70 de 17 takes sairia ~US$ 0,40), 720p, 9:16, imagem para vídeo, 2 por vez; garantia de 15 dias; o saldo não usado se perde quando o pacote vence.
 - **A favor:** não liga nada à conta Meta do aluno (melhor para a Página do que o Muse direto); custo previsível e baixo.
@@ -36,6 +47,7 @@
 - `netlify/PROMPT-MESTRE-CHATGPT.txt`: o "Prompt Mestre" (para colar no ChatGPT ou no Claude), em inglês, inteiro.
 - `netlify/PLAYBOOK-MUSE.txt`: o "Playbook" (para colar no Muse), em português, inteiro.
 - `exemplo-video/transcricao-exemplo-muse.txt` e `exemplo-video/quadros-a-cada-5s.jpg`: a transcrição e 18 quadros do vídeo de exemplo do Vinicius (TransferNow, `35.38iii-12-11.mp4`, 1:30, 1080×1920 a 60 qps, 165 MB). **O vídeo em si não foi guardado** (165 MB; a decisão 5 do pente fino é tirar mídia pesada do repositório); o link é https://www.transfernow.net/dl/20261116DIDlB8Tx.
+- `teste-qualidade-18-11/`: 6 quadros do teste (0, 1, 3, 5, 7 e 9,6 s), o rosto aos 2,5 s e o print da "Utilização" depois (2%). O clipe em si ficou só no scratchpad desta sessão.
 - `oferta-telegram-api-muse-vip1.md` e `.webp` (18/11 ~11h37): a oferta do bot do Telegram que o aluno colou.
 - `CONFIG-MUSE-NORA.md` (18/11 ~11h40): os textos para configurar o Muse para a Nora (as regras da conta e de vídeo, a trava de voz da Nora), a imagem C do nora70 e o bloco do teste do T01 no formato do Prompt Mestre.
 - `youtube-adriano-dos-passos-19-10.md`: a página do vídeo do Adriano dos Passos colada pelo aluno (a transcrição inteira e os comentários).
