@@ -44,6 +44,45 @@ Save these rules and NORA_VOICE_LOCK as permanent instructions for this account.
 ## Passo 2: apagar as 2 tarefas programadas
 No painel da direita do Muse, "Ver todas as tarefas programadas": apagar o **Heartbeat** (roda o agente sozinho a cada 30 min; provavelmente gasta tokens) e o **Tour de recursos para agente** (19/11 9:39).
 
+## Passo 2b: o teste de qualidade (pedido do aluno, 18/11 ~11h42: "quero testar o muse antes, pra ver como sai o video, quanto gasta, voz, tudo")
+A mesma imagem, a mesma fala e o mesmo prompt do T01 do nora69 (postado em 17/11, gerado no Flow), para comparar o Muse com o Flow no mesmo take. Anexar `ferramentas-painel/dia-1711/d1711-PRE-carro-IMG-C-escolhida-opcao1.jpg`. Antes, o print da tela "Utilização" (0% no grátis, 1 bi nos adicionais); depois, outro print. Colar:
+```
+Generate ONE video clip now. This is a quality test. Use the attached image as the first frame.
+
+BLOCK 01 / 01 — 19 WORDS — name: teste-muse-carro-T01
+SOURCE FRAME: the attached image (Nora in the driver's seat of a dark gray pickup truck, seatbelt on, one hand on the steering wheel, the other pointing at the lens)
+MAX CLIP DURATION: 10 seconds
+TARGET SPEECH RATE: 165 WPM
+ESTIMATED SPOKEN TIME: 6.9 seconds
+
+CANONICAL VOICE LOCK (VERBATIM):
+[Voice and Audio Instructions]
+
+Voice Profile: Woman, mid-30s, American, warm, magnetic and confident voice — sounds like a straight-talking friend who knows astrology and says things plainly, with a bright, high-vibe warmth. Natural General American accent, unhurried diction.
+
+Vocal Characteristics: Mid register, natural and slightly textured (not smooth or polished), light warmth in the chest, never nasal or thin.
+
+Tone: Warm, confident and firm, with an upbeat, high-vibe energy. Not theatrical, not "spooky", no performance — she says things the way a close friend would across a kitchen table. Honest and direct, with occasional soft warmth. Never sugarcoats, never scolds.
+
+Delivery style: Short, clear phrases with a natural pause before the key word. Sounds like she's speaking directly to one person, not performing for a crowd.
+
+Naturalness: The voice must sound as natural and human as possible — real breathing, natural micro-pauses, subtle imperfections, organic intonation shifts. It must NEVER sound robotic, synthetic, flat, or AI-generated. No text-to-speech cadence of any kind.
+
+Technical Settings: STRICTLY a solo monologue. The speaker is completely ALONE. Absolutely NO background voices, ZERO interviewer noises, and STRICTLY NO agreement sounds (like 'mhm', 'yeah', 'aha', 'uh-huh'). NO background music, NO sound effects, NO automatic subtitles. Output must be a 100% clean, raw voice track. STRICTLY DO NOT imitate or impersonate any famous public figure or celebrity — the voice must be entirely original.
+
+DIALOGUE — EXACT WORDS ONLY:
+"Keep your mouth shut if this video showed up for you on Tuesday, November seventeenth or Wednesday, November eighteenth."
+
+ACTION / PERFORMANCE:
+Throughout the whole 10 seconds the phone stays mounted on the dashboard in front of her with an unchanged framing while the truck keeps rolling slowly forward and the houses and trees glide past the windows behind her; the hand that holds the steering wheel stays on the wheel the whole time and only makes tiny natural steering corrections; the seatbelt stays across her chest; with her other hand she points her index finger straight at the lens and keeps it there, with a serious, knowing look; her eyes stay on the lens; from the end of the final sentence of the take until the clip ends she keeps her lips closed and silent; no zoom and no cuts, the braid stays in place and each hand has exactly five fingers.
+
+TIMING:
+Begin the first word at 0.00 to 0.15 seconds. Speak each word exactly once. Complete every word before the clip ends. No opening breath, no unnecessary silence, no repeated phrase and no clipped final word.
+
+CONTINUITY:
+Casual real video in the afternoon inside a dark gray pickup truck that is driving slowly along a quiet American suburban street, filmed by a phone mounted on the dashboard about 60 centimeters in front of her at face height, looking exactly like a real phone video, lit by soft natural daylight through the windows. She sits in the driver's seat. The truck keeps moving slowly forward during every take: through the side and rear windows the houses, lawns and trees glide past smoothly and the daylight shifts gently across her face; the camera moves only with the very slight vibration of the road. CONTINUITY LOCKS for every take: the woman, her face, her long black wavy hair, the thin braid wrapped with small gold rings, the small flat gold crescent moon on her cheek on the left side of the frame with three tiny separate gold five-pointed stars next to it (three stars with visible points, never dots or circles), her star-and-moon drop earrings, her thin gold Venus necklace, the thin gold bracelets and the gold sun ring, her light heather-gray fitted ribbed top under a long open black knit cardigan, and the steering wheel, the seatbelt across her chest and the truck's interior stay exactly as in the reference image; the framing is exactly the one of the reference image, her face in the upper middle of the frame; the hand that holds the steering wheel stays on the wheel the whole time and only makes tiny natural steering corrections; the seatbelt stays across her chest; natural skin texture with visible pores, slight phone grain, everything in focus, no bokeh, no filter, no glow and no sparkles; no zoom, no cuts and no reframing; no phone, phone stand, tripod, object, person, animal or text appears or disappears; each hand always has exactly five fingers; no on-screen text, no captions; quiet car interior sound and a soft road hum only, no music. SPEECH RULE for every take: she says only the exact words of that take's script, each word exactly once and in order, with no repeated word, no extra word and no added sentence before, between or after; numbers and dates are spoken as words exactly as written; she speaks in a direct, serious, intimate tone, like telling a secret to one person; when she finishes the last word she closes her lips, stays silent and keeps a calm still expression until the clip ends.
+```
+
 ## Passo 3: a imagem C do nora70 (só se o Flow grátis não gerar imagem)
 Anexar, nesta ordem: 1º `ferramentas-painel/dia-1511/d1511-PRE-sal-IMG-C-escolhida-opcao2.jpg` (a Nora aprovada), 2º a folha da Nora (1K). Colar:
 ```
