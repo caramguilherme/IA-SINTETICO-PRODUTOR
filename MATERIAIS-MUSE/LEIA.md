@@ -30,6 +30,7 @@
 - `netlify/PROMPT-MESTRE-CHATGPT.txt`: o "Prompt Mestre" (para colar no ChatGPT ou no Claude), em inglês, inteiro.
 - `netlify/PLAYBOOK-MUSE.txt`: o "Playbook" (para colar no Muse), em português, inteiro.
 - `exemplo-video/transcricao-exemplo-muse.txt` e `exemplo-video/quadros-a-cada-5s.jpg`: a transcrição e 18 quadros do vídeo de exemplo do Vinicius (TransferNow, `35.38iii-12-11.mp4`, 1:30, 1080×1920 a 60 qps, 165 MB). **O vídeo em si não foi guardado** (165 MB; a decisão 5 do pente fino é tirar mídia pesada do repositório); o link é https://www.transfernow.net/dl/20261116DIDlB8Tx.
+- `CONFIG-MUSE-NORA.md` (18/11 ~11h40): os textos para configurar o Muse para a Nora (as regras da conta e de vídeo, a trava de voz da Nora), a imagem C do nora70 e o bloco do teste do T01 no formato do Prompt Mestre.
 - `youtube-adriano-dos-passos-19-10.md`: a página do vídeo do Adriano dos Passos colada pelo aluno (a transcrição inteira e os comentários).
 - `muse-site/termos-muse-18-11.txt` e `muse-site/pagina-inicial-muse-18-11.txt`: os termos e a página inicial do muse.ai, em texto (18/11 ~11h10; as páginas de preço e de perguntas pedem login).
 - A conversa inteira do fórum está em `HISTORICO-DISCORD/forum-muse_16-11-a-17-11.md` (e a imagem do mapa também em `HISTORICO-DISCORD/imagens/18-11-manha/forum_2026-11-16_17h32_ViniciusB_2.jpg`).
