@@ -95,7 +95,7 @@ def montar():
         'enxuto': True, 'clipe_unico': True, 'ocultar_bloco_agente_imagem': True,
         'perfil': perfil, 'trava_referencia': P46['trava_referencia'], 'figurino': 'soft cream chunky-knit open cardigan over a plain black top, with a tiny American flag pin',
         'excecao_estilo': '',
-        'roteiro': {'id': 'ini1811-CURTO', 'titulo': 'ini1811 · 18/11 · o curto "Pause on your initial" (6 s, sem fala): só no Insta, às 19h30',
+        'roteiro': {'id': 'ini1811-CURTO', 'titulo': 'ini1811 · 18/11 · o curto "Pause on your initial" (6 s, sem fala): só no Insta, entre 19h00 e 19h30',
                     'duracao_total': 6,
                     'descricao_instagram': ('Pause on your initial ✨ 2027 has a message for you\nYour private reading is waiting in my story 🔮\n'
                                             'Comment the letter you paused on 👇\n#manifestation #2027 #lawofattraction #angelnumbers'),
@@ -142,8 +142,8 @@ def montar():
             {'nome': IMG, 'tipo': 'imagem 1 (primeiro quadro)', 'status': 'gerar', 'descricao': 'A Nora à mesa, cardigã creme com o broche da bandeira dos EUA, os 10 papéis com as iniciais, ametista, citrino e quartzo rosa.'},
             {'nome': CLIPE, 'tipo': 'clipe sem fala (Muse)', 'status': 'gerar', 'descricao': '6 s: o dedo passa por cima das 10 letras sem parar; ela abre os braços ("qual?") e sorri para a câmera.'}],
             'decisao': ['AGORA: a imagem no Flow (x4, 0 crédito) e ME MANDE AS 4; depois o clipe no Muse (2 versões, ~4% do grátis da semana).',
-                        'Monte só a música no CapCut e me mande o ' + NOME + '-montado até ~19h. Eu devolvo o ' + NOME + '-final em ~15 min.',
-                        'Antes de postar: o story repostado (vence ~19h39). Postar só no Insta às 19h30, ao vivo, com a legenda abaixo e o comentário fixado. No Face, nada às 19h30 (sem fala fica fora do Face).',
+                        'Monte só a música no CapCut e me mande o ' + NOME + '-montado até ~18h40. Eu devolvo o ' + NOME + '-final em ~15 min.',
+                        'Antes de postar: o story repostado (vence ~19h39). Postar só no Insta entre 19h00 e 19h30 (19h30 é a melhor janela da planilha; 19h00 a 19h10 também serve), ao vivo, com a legenda abaixo e o comentário fixado. No Face, nada nesse horário (sem fala fica fora do Face).',
                         'O nora70 vai à 0h00 no Insta e no Face (o montado até ~23h).']},
     }
     mt = copy.deepcopy(P49['mapa_tela'])
