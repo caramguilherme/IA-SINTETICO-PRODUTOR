@@ -116,8 +116,8 @@ VID = ('Use the attached image as the first frame. Real casual 6-second video fr
        'the attached image the whole time: same positions, same handwritten capital letters, never moving, never changing, never blurring, never disappearing; the crystals stay still '
        'and do not glow. She keeps the same face, crescent moon with three tiny gold stars, earrings, necklace, bracelets, rings, cream cardigan and the small American flag pin the whole '
        'time; each hand has exactly five fingers; nothing appears or disappears. AUDIO: quiet room ambience only; no music, no voice. No on-screen text, no captions.')
-MUSE = ('Generate ONE video clip, vertical 9:16, about 6 seconds, using the attached image as the first frame. She does not speak in this clip. Then generate a second version of '
-        'the same clip with the same prompt, and name them ' + CLIPE + '-1 and ' + CLIPE + '-2. Prompt: ' + VID)
+MUSE = ('Generate exactly ONE video clip, only one version, vertical 9:16, about 6 seconds, using the attached image as the first frame. She does not speak in this clip. '
+        'Name it ' + CLIPE + '. Follow the prompt exactly as written. Prompt: ' + VID)
 
 TOPO = 'PAUSE ON YOUR INITIAL.\n2027 HAS A MESSAGE FOR YOU.'
 FIM_TXT = 'WHICH ONE IS YOURS?'
@@ -157,7 +157,7 @@ def montar():
                          'cada um com uma inicial; o dedo passa por cima de todos sem escolher (quem assiste pausa na sua) e no fim ela abre os braços, como quem pergunta "qual?", '
                          'e sorri. Sem fala. O broche da bandeira dos EUA segura o público americano (aula 37, 1:22:27). Eu ponho os textos, os números, a faixa e a seta.'),
             'modo': ('(A foto do story é o item 3.) 1) A imagem: Flow → Imagem · 9:16 · Nano Banana Pro · x4, anexando SÓ a folha da Nora (1K) (0 crédito). ME MANDE AS 4: eu confiro as letras (letra de IA é o que mais erra). '
-                     '2) O clipe: no Muse, na conversa da Nora já configurada, anexe a escolhida e cole o bloco do item 2 inteiro (2 versões, ~2% do grátis da semana cada). Baixe as 2 e me mande.'),
+                     '2) O clipe: no Muse, na conversa da Nora já configurada, anexe a escolhida e cole o bloco do item 2 inteiro (1 versão só, ~2% do grátis da semana). Baixe e me mande.'),
             'etapas': [
                 {'tipo': 'img', 'titulo': 'Imagem: a Nora à mesa com os cristais e os 10 papéis', 'nome': IMG, 'anexar': 'só a folha da Nora (1K)',
                  'quadros': ('x4, 0 crédito. Lista: é a Nora (lua com 3 estrelinhas na bochecha do lado esquerdo da imagem, trança com anéis, brincos de estrela e lua, colar de Vênus); '
@@ -166,9 +166,9 @@ def montar():
                              'sem cobrir papel; 5 dedos em cada mão; o alto da imagem é só parede. Renomeie para ' + IMG + ' e me mande as 4.'),
                  'prompt': img()},
                 {'tipo': 'vid', 'titulo': 'Clipe no Muse: o dedo passa pelas letras, ela abre os braços e sorri', 'nome': CLIPE, 'duracao': 6,
-                 'quadros': ('No Muse, na conversa da Nora: anexe a ' + IMG + ' e cole o bloco abaixo, inteiro (já pede 2 versões). Escolha a que tiver: as 10 letras iguais do '
+                 'quadros': ('No Muse, na conversa da Nora: anexe a ' + IMG + ' e cole o bloco abaixo, inteiro (pede 1 versão só). Confira se tem: as 10 letras iguais do '
                              'começo ao fim, o dedo passando sem parar e sem mexer os papéis, os braços abertos e o sorriso no fim, a boca fechada, 5 dedos. Se recusar: '
-                             '"Generate it again, exactly as written". Baixe as 2 e me mande as duas (eu escolho e corto em ~6 s).'),
+                             '"Generate it again, exactly as written". Baixe e me mande (eu corto em ~6 s). Só se sair errado, peça de novo.'),
                  'prompt': MUSE},
                 {'tipo': 'img', 'titulo': 'Story de hoje: a foto nova (a Nora com a estátua do anjo e os cristais)', 'nome': STORY, 'anexar': 'só a folha da Nora (1K)',
                  'quadros': ('Flow → Imagem · 9:16 · Nano Banana Pro · x4, anexando SÓ a folha da Nora (1K) (0 crédito). Lista: é a Nora (lua com 3 estrelinhas na bochecha do lado esquerdo '
@@ -178,7 +178,7 @@ def montar():
                  'prompt': img_story()}],
         },
         'edicao_linha': [
-            {'quando': '1. CapCut', 'texto': 'Projeto novo com o ' + CLIPE + ' que eu escolher', 'como': 'Sem cortar nada (eu corto em ~6 s e emendo o fim no começo).'},
+            {'quando': '1. CapCut', 'texto': 'Projeto novo com o ' + CLIPE, 'como': 'Sem cortar nada (eu corto em ~6 s e emendo o fim no começo).'},
             {'quando': '2. Música', 'texto': 'A música de sempre (“Ambient Mystical Drone”), do segundo 0 ao fim, −12 dB', 'como': 'Não tem fala: a música pode ficar mais alta que nos falados.'},
             {'quando': '3. Exportar e me mandar', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
              'como': '1080×1920, nome ' + NOME + '-montado. Eu ponho a caixa do topo, a frase do fim, os números 222 e 11:11, a faixa do story e a seta, e devolvo o ' + NOME + '-final.'}],
@@ -186,7 +186,7 @@ def montar():
             {'nome': IMG, 'tipo': 'imagem 1 (primeiro quadro)', 'status': 'gerar', 'descricao': 'A Nora à mesa, cardigã creme com o broche da bandeira dos EUA, os 10 papéis com as iniciais, ametista, citrino e quartzo rosa.'},
             {'nome': STORY, 'tipo': 'foto do story', 'status': 'gerar', 'descricao': 'A Nora à mesa com a estátua do anjo de asas douradas (o alçapão do nora70) na altura do ombro e os cristais; eu ponho o texto no meio da tela.'},
             {'nome': CLIPE, 'tipo': 'clipe sem fala (Muse)', 'status': 'gerar', 'descricao': '6 s: o dedo passa por cima das 10 letras sem parar; ela abre os braços ("qual?") e sorri para a câmera.'}],
-            'decisao': ['AGORA: a imagem do curto e a foto do story no Flow (x4 cada, 0 crédito) e ME MANDE AS 4 DE CADA; depois o clipe no Muse (2 versões, ~4% do grátis da semana).',
+            'decisao': ['AGORA: a imagem do curto e a foto do story no Flow (x4 cada, 0 crédito) e ME MANDE AS 4 DE CADA; depois o clipe no Muse (1 versão, ~2% do grátis da semana).',
                         'Monte só a música no CapCut e me mande o ' + NOME + '-montado até ~18h40. Eu devolvo o ' + NOME + '-final em ~15 min.',
                         'Antes de postar: o story repostado (vence ~19h39). Postar só no Insta entre 19h00 e 19h30 (19h30 é a melhor janela da planilha; 19h00 a 19h10 também serve), ao vivo, com a legenda abaixo e o comentário fixado. No Face, nada nesse horário (sem fala fica fora do Face).',
                         'O nora70 vai à 0h00 no Insta e no Face (o montado até ~23h).']},
