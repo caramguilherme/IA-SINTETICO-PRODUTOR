@@ -1,6 +1,6 @@
 # R74: a pergunta ao Clone sobre as contradições da R73 (os números, a legenda, o visual limpo), e a resposta, texto inteiro
 
-**O que é:** a pergunta foi montada aqui em 18/11/2026 19h30; a resposta foi colada pelo aluno às ~19h35. O resumo e a conferência estão em `CLONE-DO-GUSTAVO-RESPOSTAS.md` (R74).
+**O que é:** a pergunta foi montada aqui em 18/11/2026 19h30; a resposta foi colada pelo aluno às ~19h30. O resumo e a conferência estão em `CLONE-DO-GUSTAVO-RESPOSTAS.md` (R74).
 
 ## A pergunta
 Conferi a sua resposta nas transcrições. Três pontos não batem; responda curto, com aula e minuto exatos, e marque o que for opinião.
