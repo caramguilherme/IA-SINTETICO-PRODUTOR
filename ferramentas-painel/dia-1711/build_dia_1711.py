@@ -219,7 +219,7 @@ def config(c):
                 campo['valor'] = ('Estático / câmera parada, sem zoom (o LIVRE já diz que a câmera está presa no painel e que a rua passa nas janelas)' if c['tag'] == 'carro'
                                   else 'Estático / câmera parada, sem zoom (se essa opção não existir: Handheld sutil, sem zoom; o LIVRE já diz câmera parada)')
             elif campo['campo'].startswith('Velocidade'):
-                campo['valor'] = 'Média — CTA (155–180 WPM). É a velocidade padrão da Nora. No agente, cada take sai com 10 s (Omni 1.2 Flash em 360p, 10 créditos).'
+                campo['valor'] = 'Média — CTA (155–180 WPM). É a velocidade padrão da Nora. No agente, cada take sai com até 10 s (Omni 1.2 Flash em 720p: 10 s = 30 créditos, 8 s = 24, 6 s = 18).'
             elif campo['campo'] == 'Estilo visual':
                 campo['valor'] = 'UGC moderno (o LIVRE descreve)'
     return cf
@@ -239,8 +239,8 @@ def agente(c):
     confere = ('se ela continua no banco do motorista, com o cinto, a mão no volante e a rua passando nas janelas' if c['tag'] == 'carro'
                else 'se a estátua continua parada no alto da escada e a mão no corrimão da escada')
     passos = [
-        'Conta do Flow: a que você escolher (~170 créditos os 17 takes). Abra um PROJETO NOVO no Flow e uma conversa nova no agente.',
-        'Nas configurações do agente: Omni 1.2 Flash · 360p · 10 s · 9:16 (10 créditos por take) e gerar sem pedir aprovação. Depois, BAIXE cada take em 720p (não gasta crédito).',
+        'Conta do Flow: a que você escolher (~460 créditos os 17 takes em 720p). Abra um PROJETO NOVO no Flow e uma conversa nova no agente.',
+        'Nas configurações do agente: Omni 1.2 Flash · 720p · 10 s · 9:16 · x1 (30 créditos por take de 10 s) e gerar sem pedir aprovação. Baixe cada take em 720p.',
         f'São 17 takes em 2 MENSAGENS na mesma conversa (são 2 colagens na Central): 1ª mensagem = a imagem {c["img"]} + o aviso + o “COPIAR TUDO JUNTO” da 1ª colagem (T01 a T09); '
         'quando os 9 terminarem, 2ª mensagem = o aviso + o “COPIAR TUDO JUNTO” da 2ª colagem (T10 a T17), anexando a mesma imagem de novo.',
         'Renomeie cada take com o nome da lista (o número é a ordem dentro de cada mensagem): ' + ' || '.join(lista) + '. '
@@ -250,13 +250,13 @@ def agente(c):
         'Se falhar de novo, use o prompt à mão do take (abaixo).',
     ]
     for i in sorted(RESERVA):
-        passos.append(f'Se o T{i + 1:02d} falhar 2 vezes: à mão, Vídeo → Frames → 9:16 → Omni 1.2 Flash → 360p → 10 s → x1; Início = {c["img"]}; Fim = vazio; cole o '
-                      f'prompt abaixo (10 créditos) e renomeie para {nome(c, i)}. PROMPT: ' + prompt_manual(c, RESERVA[i][c['nn']], mov(c, i)))
+        passos.append(f'Se o T{i + 1:02d} falhar 2 vezes: à mão, Vídeo → Frames → 9:16 → Omni 1.2 Flash → 720p → 10 s → x1; Início = {c["img"]}; Fim = vazio; cole o '
+                      f'prompt abaixo (30 créditos) e renomeie para {nome(c, i)}. PROMPT: ' + prompt_manual(c, RESERVA[i][c['nn']], mov(c, i)))
     passos += [
         'Se outro take falhar 2 vezes: à mão, o mesmo caminho, com o prompt do take que a Central gerou (o COPIAR do take).',
         'Se o agente parar no meio (por exemplo, “alta demanda”): responda na MESMA conversa, sem anexar nada: “Please continue and generate videos X to Y from my previous message, in the same order.” '
         '(troque X e Y pelos números que faltaram). Se ele gerar só o 1º e parar de novo: cole antes do bloco da Central o “pré-prompt do Lucas” (abaixo) e mande de novo só os que faltaram.',
-        'Se o agente disser que não dá para usar a imagem como quadro inicial e final com fala: gere à mão: Vídeo → Frames → 9:16 → Omni 1.2 Flash → 360p → 10 s → x1; '
+        'Se o agente disser que não dá para usar a imagem como quadro inicial e final com fala: gere à mão: Vídeo → Frames → 9:16 → Omni 1.2 Flash → 720p → 10 s → x1; '
         f'Início = {c["img"]}; Fim = vazio; no prompt, só o texto do prompt daquele take.',
         'Pré-prompt do Lucas (só se precisar): ' + PRE_LUCAS,
     ]
@@ -375,7 +375,7 @@ def hook(c):
     for suf, letra, desc, prompt in vids(c):
         n = f'{base}-{suf}'
         etapas.append({'titulo': f'Vídeo {suf.split("-")[0]}: {desc}', 'nome': n, 'tipo': 'vid', 'duracao': 5,
-                       'quadros': (f'PROMPT CURTO (aula 54). Omni 1.2 Flash · 360p · 5 s · x2 (~10 créditos). Início = {base}-IMG-{letra}; Fim = vazio. '
+                       'quadros': (f'PROMPT CURTO (aula 54). Omni 1.2 Flash · 720p · 5 s · x1 (15 créditos). Início = {base}-IMG-{letra}; Fim = vazio. '
                                    f'Baixe os 2 em 720p e renomeie {n}-a e {n}-b.'),
                        'prompt': prompt})
     if c['tag'] == 'carro':
@@ -390,7 +390,7 @@ def hook(c):
         'titulo_secao': 'Hook (Flow, à mão, antes dos takes)',
         'conceito': conceito,
         'modo': ('Imagens: Flow → Imagem · 9:16 · Nano Banana Pro · x4, anexando as referências na ordem (0 crédito). Vídeos: Flow → Vídeo → Frames → 9:16 → Omni 1.2 Flash → '
-                 '360p → 5 s → x2; Início = a imagem indicada; Fim = vazio. Baixe em 720p e me mande todos, sem cortar.'),
+                 '720p → 5 s → x1; Início = a imagem indicada; Fim = vazio. Baixe em 720p e me mande todos, sem cortar.'),
         'etapas': etapas,
     }
 
@@ -455,11 +455,11 @@ def montar(c):
         {'quando': '1. Do T01 ao fim', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB', 'como': 'Começa no 1º quadro do montado.'},
         {'quando': '2. Exportar e me mandar', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
          'como': f'1080×1920, nome {nn}-montado (acima de 30 MB, link do Drive). Eu devolvo o {nn}-final (Insta, completo) e o {nn}-final-FACE (espelhado, com a variação do Face e SEM o T10, o T11 e o T12, os selos e o comment I believe: Clone R67, segurança da Página).'}]
-    cr_hook = 10 * len(vids(c))
+    cr_hook = 15 * len(vids(c))
     pecas = [{'nome': f'{c["d"]}-PRE-{c["tag"]}-IMG-' + ('A, B, D e C' if c['tag'] == 'carro' else 'A, B e C'), 'tipo': 'imagens (hook; a C é a das falas)', 'status': 'gerar',
               'descricao': 'Edição da d1511-PRE-sal-IMG-C + a folha. x4 cada, 0 crédito.'},
              {'nome': f'{c["d"]}-PRE-{c["tag"]}-1 a {len(vids(c))}', 'tipo': 'hook (prompt curto)', 'status': 'gerar', 'creditos': cr_hook,
-              'descricao': f'{len(vids(c))} vídeos de 5 s, uma ação em cada, x2.'}]
+              'descricao': f'{len(vids(c))} vídeos de 5 s, uma ação em cada, x1.'}]
     pecas += [{'nome': nome(c, i), 'tipo': 'take', 'status': 'gerar', 'descricao': f'“{fala(c, i)}”'} for i in idx]
     if c['tag'] == 'carro':
         postar = ('Face às 19h30, ao vivo (o nora69-final-FACE). Insta só depois que a proxy voltar (19h42): confira o IP 168.235.144.192 e os EUA no mylocation.org, '
@@ -467,7 +467,7 @@ def montar(c):
     else:
         postar = 'À 0h00 (de 17 para 18/11), ao vivo: Insta (o nora70-final, 4 h depois do nora69) e Face (o nora70-final-FACE). '
     p['pecas'] = {'titulo_decisao': 'Resumo', 'lista': pecas, 'decisao': [
-        f'GERAR (~{170 + cr_hook} créditos, na conta que você escolher): as imagens do hook (0 crédito) e ME MANDE AS 4 OPÇÕES DA IMAGEM C; depois os vídeos do hook (~{cr_hook}) '
+        f'GERAR (~{460 + cr_hook} créditos em 720p, na conta que você escolher): as imagens do hook (0 crédito) e ME MANDE AS 4 OPÇÕES DA IMAGEM C; depois os vídeos do hook (~{cr_hook}) '
         'e os 17 takes na imagem C pelo agente, em 2 mensagens (~170).',
         'Igual ao vídeo da claire_mayaus: a mesma fala (só a data de hoje e sem o “free”, porque a leitura é paga), o mesmo hook e o visual limpo. '
         'O par de hoje testa o hook: a canela no carro (19h30) contra o alçapão (0h00). Medida: os 3 s, a curva aos 10 s, as visitas ao perfil e os cliques no Tracker.',
@@ -485,7 +485,7 @@ def montar(c):
     html = MODELO.replace('const PACOTE = null;', 'const PACOTE = ' + json.dumps(p, ensure_ascii=False) + ';')
     html = re.sub(r'<title>[^<]*</title>', f'<title>Painel {nn} · dia 17/11</title>', html, count=1)
     (R / f'PAINEL-{nn.upper()}.html').write_text(html, encoding='utf-8')
-    print('ok', nn, N, 'takes', 'créditos ~', 170 + cr_hook, [len(fala(c, i).split()) for i in idx])
+    print('ok', nn, N, 'takes', 'créditos ~', 460 + cr_hook, [len(fala(c, i).split()) for i in idx])
 
 
 montar(CARRO)

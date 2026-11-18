@@ -632,4 +632,5 @@ O `d1211-PRE-vela` (Omni 1.1 Flash, 8 s) fez o que o prompt pedia (a vela acende
 - 3 s = 9 · 4 s = 12 · 5 s = 15 · 6 s = 18 · 7 s = 21 · 8 s = 24 · 9 s = 27 · 10 s = 30 · 11 s = 36 · 12 s = 42 · 13 s = 48 · 14 s = 54 · 15 s = 60.
 - Até 10 s: 3 créditos por segundo. Acima de 10 s: 6 por segundo a mais. **Takes sempre de até 10 s** (a Central já divide em 10, 8 e 6 s): um de 15 s custa 60, dois de 7 a 8 s custam 42 a 48.
 - **Padrão novo:** 720p nativo (o aluno não gostou do 360p, e com as 4 contas Ultra, ~40 mil créditos por mês, o custo deixou de pesar). O 360p fica de reserva.
-- Custo estimado por vídeo em 720p: falado de 40 a 60 s sem hook (5 a 6 takes) ~150 a 180; com o hook de 3 clipes ~200 a 300 (o hook em x1 sai mais barato que em x2); o longo de 17 takes (o nora69, 154 s de takes) ~460 + o hook + as refações, ~550 a 600.
+- **O aluno gera todo vídeo em x1 (os takes e os clipes do hook); só as imagens saem em x4, porque não gastam crédito** (18/11 00h25). Os painéis passam a dizer "720p · x1" nos vídeos (o do nora70 já foi republicado assim).
+- Custo estimado por vídeo em 720p, tudo em x1: falado de 40 a 60 s sem hook (5 a 6 takes) ~150 a 180; com o hook de 3 clipes de 4 a 5 s (~40) ~190 a 230; o longo de 17 takes (o nora69, 154 s de takes) ~460 + o hook + as refações, ~500 a 550.
