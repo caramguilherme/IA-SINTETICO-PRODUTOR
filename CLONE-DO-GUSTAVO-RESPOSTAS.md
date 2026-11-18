@@ -1578,6 +1578,20 @@ Perguntas:
   - **O curto sem fala no Insta da Nora vira teste A/B, não regra** (o Clone e a aula 21, 0:57, contra a call de 09/11, 0:58:15, e a aula 28, 0:59:04): vai para a `FILA`.
   - **O Insta da Nora segue com os 2 falados por dia** até as contas novas rodarem.
 
+## R72 (pergunta pronta em 18/11 ~16h10, pedido do aluno: "nao quer mandar as duvidas/perguntas pro clone ja?"; resposta a colar): o que faltou na R71 (cliques por 1.000 views), as duas fontes que defendem o curto, o pedido de comentário no Face e o que pesou no nora55
+
+```text
+Conferi a sua última resposta nas transcrições. Faltou um número e duas fontes dizem o contrário de parte do que você disse. Responda curto, por item, com aula e minuto exatos; o que não tiver fonte, marque como opinião.
+
+1. Você não respondeu: quantos cliques no link por 1.000 views um falado que vende costuma dar no Face (link no comentário fixado da Página) e no Insta (link no story)? E qual a % de quem vê o story que clica no link?
+
+2. Você disse para não usar o curto sem fala na conta da Nora. Mas a frase da call de 09/11 que você citou continua: "o texto na tela… é mais para viralizar tua conta, para ajudar a puxar os outros vídeos" (0:58:15). E na aula 28 (variações, 0:59:04) o Iorhan diz: "não tô dizendo que é pra parar de usar os vídeos… vocês podem conciliar curiosidade visual com a entrega americana". Vamos testar 1 curto sem fala por dia no Insta da Nora (que está no teto) no lugar de um falado. Como as aulas mandam fazer esse curto para puxar a conta sem trazer a Índia (horário, texto, qualificação na tela, legenda, idioma)? E como medir se ele puxou os falados?
+
+3. No item 2 você sugeriu um convite para comentar no fim da fala ou na legenda do Face. Na R54 você mesmo tirou o pedido de comentário do Face (a política da Meta contra isca de engajamento), e uma Página de outro aluno foi punida por "engajamento não autêntico". Qual vale para a Página?
+
+4. Os seus números do nora55 e do nora69-FACE estavam trocados: o nora55 teve 8 s de tempo médio em 24 s (33% assistido), e o nora69-FACE teve 3 comentários, contando o da Página. Com isso, o que mais pesou para o nora55 sair do 1º lote: a % assistida, os 58 comentários ou os 53,9% nos 3 s?
+```
+
 ## Conferência com a transcrição da aula 19 (chegou em 16/11 ~14h35; `TRANSCRICOES/2026-06-0x-aula-19-ganchos-black-vsl-30s.md`, resumo em `MATERIAIS-AULA-19/LEIA.md`)
 O que o Clone disse da aula 19 até hoje, conferido com o texto:
 - **R57 ("as aulas defendem o gancho bizarro ou chocante para parar o scroll… aula 19, 0:04:25 a 0:13:10"): citação esticada.** O trecho é sobre **ganchos de duplo sentido, de conotação sexual** (banana, milho, chocolate, salsicha: "Isso é duplo sentido, entendeu?", 0:05:48; "o nosso público é velho, ele já entende as coisas", 0:12:08). E o próprio Gustavo diz que "não é regra… vai converter legal igual com todos aqueles outros estilos de hook" (0:31:59) e "não necessariamente precisa de um gancho de duplo sentido" (1:07:24). **A decisão da R57 (o tsunami fica) não muda**, porque se apoia nos nossos números: 4.236 no Face e 66% a 71% nos 3 s no Insta. Mas a aula 19 não serve de fonte para "gancho chocante" em geral. O duplo sentido fica fora (puxa homem e Índia, aula de ~10/07, 0:56:54).
@@ -1620,7 +1634,7 @@ O que o Clone disse da aula 19 até hoje, conferido com o texto:
 - **O zoom suave em cada parte, "em alguns vídeos só"** (aula 40, 0:18:01 a 0:18:30).
 
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
-**Pendente da R71 (18/11, ele não respondeu):** "Quantos cliques no link por 1.000 views um falado que vende costuma dar no Face e no Insta? Cite aula e minuto." Vai junto com a próxima dúvida.
+**Pendente da R71 (18/11, ele não respondeu):** os cliques por 1.000 views. Foi na R72 (18/11 ~16h10).
 
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 
