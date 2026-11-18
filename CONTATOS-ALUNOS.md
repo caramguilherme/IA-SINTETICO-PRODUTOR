@@ -23,6 +23,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **Kaike de Lima (17/11 11h35):** respondeu em 16/11 11h04 com um áudio de 17 s (transcrito pelo aluno): replica o pré-hook que dá certo até "sugar muito" e aí faz coisa nova. Resposta enviada (texto no fim), com a pergunta do teto do Insta. Esperar.
 - **Pedro⚡ e Caio1094, fechamentos (prints do aluno em 18/11 00h44):** o Pedro⚡ respondeu "show, vai da certo!" (17/11 12:18) e o Caio1094 "tamo juntooo! ve oq ta mais viral nas ultimas 48h, tenta fazer na sua, ai vai vendo oq ela performa melhor, mas é teste + teste + teste, desiste nao" (17/11 12:10). Conversas fechadas: só reagir; voltar com resultado.
 - **carloscs (18/11 00h45):** respondeu em 17/11 15:20 à DM de 03/11 (começa pelo Face, esteira de aquecimento, depois a automação, copy de vendas com e sem hook, 4 a 6 vídeos por dia a cada 2 h). Agradecimento com 1 pergunta enviado (texto no fim). Esperar.
+- **27ª leitura (18/11 ~11h):** respostas ao Vinicius B (o guia do Muse + a pergunta dos 46 vídeos com 1,5 bi: inteiros ou takes?) no fórum, à Lívia (dinheiro na DM automática) no #chat-appyon e o parabéns ao Rodrigo Rechmann (1 pergunta: insta ou face) no #vitórias: enviadas (toda resposta sugerida conta como enviada; textos no fim). O Rechmann nunca respondeu a DM de 03/11: no #vitórias, se ele responder, só reagir.
 - **25ª leitura (17/11 23h55):** respostas aos Ari & Lu (o selo de IA só no perfil e os 10 primeiros vídeos) e ao Emanuel (o viral e a queda, com o dado do loop), no #chat-appyon, e parabéns ao Rafael Maia (1 pergunta: os administradores das Páginas novas) no #vitórias: enviadas (toda resposta sugerida conta como enviada; textos no fim).
 - **21ª leitura (16/11 09h00):** parabéns ao Pedro⚡ (1ª venda, "briga diária com os indianos") no #vitórias e a resposta à Marcia Cabral (o mapa mental e o blueprint) no #apresente-se: enviadas (toda resposta sugerida conta como enviada). **Joao Paulo (o bug do botão do checkout no navegador do app do Face): responder depois do teste de cliente oculto da Nora**, com o resultado. **Voltas com resultado enviadas (DM):** joao (Sargento) e Lucas Dusi (o loop de 8 s: 2,2 mil views e 10 visitas ao perfil). **Quem não chamar agora (16/11):** Jessica (sem resposta desde 06/11; só agradecer em público na 1ª venda), Felps e Castanho (a última mensagem foi nossa, em 10/11), Kaike (nossa, 12/11), Lari (nossa, 14/11 00h43: voltar só depois de ~19/11, com o resultado da tela dividida ou do CTA novo), Marcelo (nossa, 06/11), Rechmann (nunca respondeu), Ricardo e Marcus (voltar com o resultado do CTA com motivo e do cadeado, de 16/11).
 - **20ª leitura (14/11 21h05):** parabéns à ThaísFrias (1ª venda) no #vitórias e a resposta ao Gabriel soares (régua do aquecimento) no #chat-appyon: enviadas (toda resposta sugerida conta como enviada). **Vitor Oliveira: o teste fixou (21h10, pelo app do celular); resposta enviada.**
@@ -976,3 +977,16 @@ aqui eu uso o link inteiro no story, sem encurtador
 no dia 11/11 o kaio guerra falou aqui que com o short.io os cliques no tracker caíram muito e um lead respondeu "website not available"
 no adesivo de link do story o tamanho não aparece, então nem precisa encurtar
 ```
+
+## ENVIADO (18/11/2026 ~11h; respostas da 27ª leitura do Discord, no jeito do aluno; uma mensagem para cada)
+**1. Vinicius B, no post "MUSE????" do fórum (resposta ao guia de 16/11 17h32):**
+brabo demais o guia mano, vou testar com a minha avatar
+uma duvida: os 46 videos com 1,5 bi de token eram videos inteiros ou takes de 10s?
+
+**2. Lívia, no #chat-appyon (resposta à pergunta dela de 18/11 08h14, "falar de dinheiro da mensagem automática do face faz cair a conta??"):**
+de dm automatica especificamente eu nao sei
+oq eu sei: na aula 35 (0:25) o gustavo fala que afirmar coisa tipo "vc é pobre" o face bloqueia, e o maycon falou aqui ontem que promessa de dinheiro uma hora pega
+
+**3. Rodrigo Rechmann, no #vitórias (resposta ao prêmio de 18/11 09h35):**
+parabéns mano, 5k de gmv 32 dias depois da 1ª venda é brabo demais 🚀
+tá vindo mais do insta ou do face?
