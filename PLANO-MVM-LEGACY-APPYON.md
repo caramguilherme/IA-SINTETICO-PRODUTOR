@@ -1431,7 +1431,7 @@ NEVER generate: a different face, hairstyle, outfit or voice, extra people, extr
    - fechar o celular do GeeLark entre um passo e outro.
 3. **Dias 4 a ~7, os 10 vídeos de aquecimento:**
    - 3 a 4 por dia, com 2 a 3 h entre eles;
-   - o mesmo vídeo de venda, sem link e com CTA de engajamento (curtir, mandar para si, comentar);
+   - o mesmo vídeo de venda, sem link e com CTA de engajamento (curtir, mandar para si, comentar); **no Insta, o pedido de comentário muda a cada vídeo (nunca o "comment AMEN" fixo do exemplo do Clone R70); na Página, sem pedido** (isca de engajamento); na escala de 4 avatares, os mesmos temas nos 4, cada um com a sua música (Clone R70, 18/11);
    - 3 copys, trocando a cada 3 vídeos (Felps), ou a copy validada sem o CTA do story (Gabriel);
    - continuar rolando o feed nesses dias;
    - story sem link é opcional.
