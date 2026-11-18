@@ -73,6 +73,7 @@
 - **O perfil do polvo (Caio1094; o viral que o Gustavo mostrou no Scoped em 09/11):** copies de 1min40 a 2min40 para estudar a estrutura do corpo longo. Falta o @ (perguntado ao Caio em 16/11).
 
 ## Formatos e pré-ganchos na fila
+- **[Para os 3 avatares novos] Começar pelo Facebook** (carloscs, 1.012 vendas em outubro, DM de 17/11 15:20): "hj eu já começo pelo facebook, faço toda a esteira de aquecimento e após isso ativo a automação, depois é somente copy de vendas com hook visual ou não… 4 a 6 vídeos por dia a cada 2 horas". **A automação é a DM automática do Face, que o aluno adiou em 06/11: só volta se ele trouxer** (ele trouxe a mensagem, mas não a decisão). Pergunta enviada: só Face ou o Insta junto.
 - **Rituais nº 43 (o papel queimado na vela) e nº 44 (a carta de 2027 com caneta dourada, "scripting"):** `BIBLIOTECA-PRE-GANCHOS.md`.
 - **O ritual curioso e interativo** (aula 21, 0:48:39; @tefnutcornell, de 1 a 4,5 milhões de views): quem assiste faz junto ("pense em…", "diga… três vezes").
   - Na Nora: "Think of the one thing you want twenty twenty-seven to bring you…".
