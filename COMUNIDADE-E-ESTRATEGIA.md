@@ -1268,3 +1268,30 @@ Arquivos: `HISTORICO-DISCORD/chat-appyon_12-11-madrugada.md`, `vitorias-dolar_12
   - o 'breder (o shadowban, a proxy ou a conta, no #chat-appyon).
   - Textos em `CONTATOS-ALUNOS.md` (ENVIADO 17/11 12h40).
 
+
+### 17/11/2026 (registrada em 17/11 23h55) - Discord, 25ª leitura (6 canais, 17/11 12h25 a 18h08; leitura da skill às 18h10; arquivos `HISTORICO-DISCORD/*_17-11-tarde.md`, imagens em `HISTORICO-DISCORD/imagens/17-11-tarde/`)
+- **Aviso oficial (avisos-appyon, Gustavo Alves, 17h19): o Google Flow Ultra de graça por 1 ano, com ~10 mil créditos por mês em cada conta** (luighi.com/ultra). O Gustavo mandou usar cartão virtual com o limite baixado para R$ 10; "até 3 contas no seu CPF (tem gente conseguindo 5)".
+  - **O que o chat descobriu (17h09 a 18h08):** o pacote é o Google AI Ultra (20 TB) + o YouTube Premium Individual Add On; o Ultra vale até 17/11/2027 e o YouTube cobra ~R$ 22,90 por mês a partir de 17/12. **Muita gente assinou e cancelou na hora:** a tela mostra o Ultra até 17/11/2027 e o YouTube até 17/12/2026 (prints da Lucielle e dos Felipe e Camilla). O Gustavo, sobre apagar o cartão e ficar seguro: "vamo descobrir mes que vem… acho que não precisa" pagar o YouTube.
+  - **Mais de uma conta:** outro Gmail, num perfil separado do Chrome ou na aba anônima; conta com o Pro também vira Ultra (Lucielle, Dorigon, Elton, Marcos Daniel). A Lucielle fez 6 no mesmo CPF e no mesmo cartão (pré-pago com R$ 1); a Letícia C. travou na 5ª ("Your identity couldn't be verified").
+  - **Os prints mostram 10.050 créditos por conta, renovando em 17/12.** A Cassia Y disse que há 2 tipos de Ultra (5x com 10 mil e 20x com 25 mil, e só o 20x dá Lower Priority); ninguém confirmou.
+  - **Erros:** "Ocorreu um erro no nosso sistema" (o Gustavo: a conta "foi de F", usar outra); "YouTube Premium… não está disponível" (sem solução); país do Google Play (fazer pelo celular); "You don't have access to Flow" (recarregar). **Às 17h23 e às 18h08 o link parou de abrir para alguns** (Caio1094, Emanuel, Kassio, Lorena Nunes).
+- **A Proxy-Cheap trocou as credenciais (16h26 a 17h04):** o Bruno Freitas atualizou no GeeLark e só voltou às 17h01; os Kellvin & Andressa têm de pôr a mesma proxy de novo todo dia no GeeLark. O Vitor Garcia acha a Proxy-Cheap lenta para postar e prefere a IPRoyal.
+- **Oficial (Gustavo, 16h18):** usar no Risely o Face antigo de tráfego pago de cliente "corre risco… melhor outro perfil" (o Matheus Salgado: se cair, pode levar as Páginas dos clientes).
+- **Insta só entrega nos EUA com proxy dos EUA** (Vitor Oliveira [MVM], 16h26); VPN de extensão do Chrome não serve (gabriel).
+- **Facebook:** o Adão Gomes também levou restrição temporária em Páginas e agora varia a palavra pedida (Yes, I claim, 111, 222); não usa proxy no Face, isola os perfis em usuários diferentes do navegador. O gabriel: "no máximo 4 páginas por perfil"; ele perdeu 2 Páginas e ficou 1 mês sem poder administrar Páginas.
+- **Agente do Flow (Mary, 12h33):** um texto antes dos prompts ("Faça todos na ordem… mantenha a consistência de voz…") e "Confirmar antes de gerar: Nunca" (o Kassio: às vezes trava mesmo assim).
+- **Vitórias (nenhum print diz o funil):**
+  - **Lucas Mascarenhas, 01 a 17/11:** 33.938 cliques, 2.111 checkouts, 270 vendas (0,80% de clique para venda), R$ 19.991,90.
+  - **Eric & Marcos, últimos 7 dias:** R$ 11.630,71 (~168 vendas front) com **só 2 perfis**, depois do Legacy XP: "combinar volume de trabalho com estratégia… sempre sendo intencional nos testes".
+  - **Rafael Maia, 01 a 16/11:** 8.983 cliques, 447 checkouts, 52 vendas (0,58%), R$ 2.410,80. **Em 16/11 o Facebook dele caiu com todas as Páginas**; está subindo Páginas novas, isolando as contas e montando um plano de contingência.
+- **Outros:** a aula do AutoEditor está em #gravações (Kadu); o Emanuel perguntou se é normal os vídeos depois de um viral virem abaixo da média; os Ari & Lu perguntaram se marcam "feito com IA" em todo post (os 3 primeiros do Insta tiveram 2, 0 e 0 views); o joaozmp tem stories de até 300 views sem venda; muitos perfis migrando para o espanhol (Júlia Freitas, Arthur Baião).
+- **Para a Nora (decisão minha):**
+  1. **O Flow Ultra é a maior oportunidade da leitura:** ~10 mil créditos por mês por conta, por 1 ano, contra os 1.000 do Pro. É aviso oficial do Gustavo. **Recomendo tentar já**, nas contas do Flow do aluno (a contatocaram e as outras; conta com o Pro também vira Ultra), com cartão virtual de limite baixo e **cancelando a assinatura logo depois** (o Ultra fica até 17/11/2027). O risco que ninguém sabe ainda: o Google cancelar o Ultra se o YouTube não for pago em 17/12 (o próprio Gustavo não sabe). Às 18h08 o link já falhava para alguns, então pode ter acabado. A decisão é do aluno; os créditos dele eu não pergunto (regra de 16/11).
+  2. **A Proxy-Cheap da Nora já foi trocada** (17/11 ~17h45, o "Verificar proxy" passou). Se o GeeLark perder a conexão de novo, pôr a mesma proxy de novo no perfil (Kellvin & Andressa) e conferir o IP antes de abrir o Insta.
+  3. **Nada muda nas regras:** a Nora já varia o pedido de comentário no Insta (24ª leitura), tem 1 Página só (o limite é 4 por perfil), o Insta já roda com proxy dos EUA e o agente já gera sem pedir confirmação.
+  4. **O Facebook do Rafael Maia caiu com todas as Páginas:** reforça a proposta da 24ª leitura (o 2º administrador na Página da Nora). A decisão segue com o aluno.
+- **Quem responder:**
+  - os Ari & Lu (o selo de IA só no perfil e os 10 primeiros vídeos, no #chat-appyon);
+  - o Emanuel (o viral e a queda depois, com o nosso dado do loop, no #chat-appyon);
+  - o Rafael Maia (parabéns + 1 pergunta sobre os administradores das Páginas novas, no #vitórias).
+  - Textos em `CONTATOS-ALUNOS.md` (ENVIADO 17/11 23h55).

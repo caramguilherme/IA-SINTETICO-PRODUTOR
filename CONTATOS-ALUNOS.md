@@ -21,6 +21,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **Marcelo (17/11 11h45):** respondeu em 16/11 13h19 a 14h02 (a bandeira sempre fez e "dá bom"; "o vídeo tem q viraliza, aí depois que a conta tiver boa acerta os horários"; perguntou o formato e quer uma call: "fale uma hora mano que nós pode troca uma ideia"). Resposta pronta (texto no fim); a call e o horário são decisão do aluno.
 - **Felps (17/11 11h40):** respondeu em 17/11 11h27 com um áudio de 10 s (transcrito pelo aluno): cria a avatar direto da foto do Pinterest e já aplica nas cenas, "não faço blueprint, não faço nada". Resposta enviada (texto no fim), com a pergunta do teto do Insta. Esperar.
 - **Kaike de Lima (17/11 11h35):** respondeu em 16/11 11h04 com um áudio de 17 s (transcrito pelo aluno): replica o pré-hook que dá certo até "sugar muito" e aí faz coisa nova. Resposta enviada (texto no fim), com a pergunta do teto do Insta. Esperar.
+- **25ª leitura (17/11 23h55):** respostas aos Ari & Lu (o selo de IA só no perfil e os 10 primeiros vídeos) e ao Emanuel (o viral e a queda, com o dado do loop), no #chat-appyon, e parabéns ao Rafael Maia (1 pergunta: os administradores das Páginas novas) no #vitórias: enviadas (toda resposta sugerida conta como enviada; textos no fim).
 - **21ª leitura (16/11 09h00):** parabéns ao Pedro⚡ (1ª venda, "briga diária com os indianos") no #vitórias e a resposta à Marcia Cabral (o mapa mental e o blueprint) no #apresente-se: enviadas (toda resposta sugerida conta como enviada). **Joao Paulo (o bug do botão do checkout no navegador do app do Face): responder depois do teste de cliente oculto da Nora**, com o resultado. **Voltas com resultado enviadas (DM):** joao (Sargento) e Lucas Dusi (o loop de 8 s: 2,2 mil views e 10 visitas ao perfil). **Quem não chamar agora (16/11):** Jessica (sem resposta desde 06/11; só agradecer em público na 1ª venda), Felps e Castanho (a última mensagem foi nossa, em 10/11), Kaike (nossa, 12/11), Lari (nossa, 14/11 00h43: voltar só depois de ~19/11, com o resultado da tela dividida ou do CTA novo), Marcelo (nossa, 06/11), Rechmann (nunca respondeu), Ricardo e Marcus (voltar com o resultado do CTA com motivo e do cadeado, de 16/11).
 - **20ª leitura (14/11 21h05):** parabéns à ThaísFrias (1ª venda) no #vitórias e a resposta ao Gabriel soares (régua do aquecimento) no #chat-appyon: enviadas (toda resposta sugerida conta como enviada). **Vitor Oliveira: o teste fixou (21h10, pelo app do celular); resposta enviada.**
 - **19ª leitura (14/11 00h40):** parabéns ao Lucas Dusi (com o obrigado público pela dica do TikTok) e ao Andrei Magno (1ª venda, 3º avatar) no #vitórias, e resposta ao Pedro Henrique (Índia: horário e começo do vídeo) no #chat-appyon: enviadas (toda resposta sugerida conta como enviada).
@@ -101,6 +102,9 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | Romulo Urbano | 1ª venda na Appyon (#vitórias 10/11 06h11; funil não dito) | | | **Parabéns enviado no #vitórias em 10/11** (13ª leitura), com 1 pergunta (insta ou face). Se responder, só reagir | |
 | Rundouglas | 32 vendas em 7 dias (até 08/11), 10.157 cliques, 0,31% de clique em venda | | | **Parabéns enviado no #vitórias em 10/11** (12ª leitura), com 1 pergunta (de onde vieram os cliques). Se responder, só reagir | Se ajudar |
 | Lucas Dusi (lucasdusi) | 553 vendas em out. (R$ 38,6 mil); a melhor conversão dos prints de 02/11 (~109 cliques por venda) | **DM do aluno em 03/11 15h14** (não estava registrada: o quadro dizia "não chamar"): o que ele faz no story ou no fim do vídeo que faz o clique virar venda. **Respondeu em 06/11 15h17:** "Opaa irmão só um momento já vejo a msg / Esses últimos dias foram bem corridos / Desculpa a demora" (sem responder a dúvida) | | O aluno viu só em 10/11. **Resposta enviada em 10/11 13h50** (a dúvida de novo, curta). **Respondeu em 10/11 14h49:** a conversão caiu para todo mundo porque todos fazem a mesma coisa; o diferencial é, depois do gancho, **filtrar o público no body e trazer um reason why forte pro CTA**; os vídeos dele que mais converteram eram do **ângulo negativo, com urgência e explicação mística no CTA**, "mas talvez esteja meio saturado". **Resposta enviada em 10/11 ~16h** (obrigado + o nosso teste + pedido de um exemplo de reason why). **Respondeu em 10/11 18h13 a 18h27:** hook mais aberto e filtro no body ("o hook é pra pegar vários públicos, o body é pra filtrar"); o exemplo do reason why (a "âncora física de manifestação", a mesma copy do viral #14) e a dica de pesquisar o que o público acredita que precisa para manifestar. **Agradecimento enviado em 10/11 ~23h10.** Voltar com o resultado do kit e do CTA novo | Sim, se ajudar |
+| Ari & Lu - Hope | Pergunta no chat (17/11 16h08 e 17h10): marcar "feito com IA" em todo post? Os 3 primeiros do Insta com 2, 0 e 0 views | | | **Resposta pública enviada em 17/11 23h55** (25ª leitura: o selo só no perfil, Thawam 16/11; olhar os 10 primeiros juntos) | |
+| Emanuel [AIC] | Pergunta no chat (17/11 13h29): depois de um viral, os vídeos novos vêm abaixo da média? | | | **Resposta pública enviada em 17/11 23h55** (25ª leitura: o nosso loop de 2,2 mil, 54% Índia) | |
+| Rafael Maia | 52 vendas de 01 a 16/11 (8.983 cliques, 0,58%); o Facebook caiu com todas as Páginas em 16/11 e ele está montando a contingência | | | **Parabéns enviado no #vitórias em 17/11 23h55** (25ª leitura), com 1 pergunta (os administradores das Páginas novas). Se responder, anotar: serve para a decisão do 2º administrador da Página da Nora | |
 | carloscs | Fechamentos de outubro (os grandes) | (não chamar: recebe dezenas de mensagens) | | | |
 
 ## (Histórico) Rascunhos de 04/11/2026 (todos enviados ou descartados; ver as marcas em cada um)
@@ -936,3 +940,23 @@ valeu demais pela ajuda, quando sair o resultado te conto
 > na aula da estrutura do instagram falam pra manter a proxy e criar outra conta, e só trocar a proxy se várias contas novas caírem seguidas
 > é pra conta banida, mas acho que vale pra shadowban forte tb
 
+
+## ENVIADO (17/11/2026 23h55; respostas da 25ª leitura do Discord, no jeito do aluno)
+**1. Ari & Lu - Hope, no #chat-appyon** (responder a mensagem de 17h10, "voces estao colocando a tag de feito com IA em todos os posts…"):
+```
+oi! a thawam da equipe falou aqui no chat (16/11) que no insta o selo de ia é só no perfil, não precisa marcar post por post
+no face a gente marcou a página como criadora de ia e tb não marca cada vídeo
+sobre as views: aqui a gente só julga a conta nova depois dos 10 primeiros vídeos juntos, 1 ou 2 posts não dizem nada ainda
+```
+**2. Emanuel [AIC], no #chat-appyon** (responder a mensagem de 13h29, "acontece com vocês do vídeo viralizar e depois os vídeos novos virem bem abaixo da média?"):
+```
+aconteceu aqui tb mano
+um loop nosso bateu 2,2 mil e os seguintes voltaram pra uns 150
+quando fui ver o insights, 54% das views do viral eram da índia, nos eua ele tinha ido igual aos outros
+vale olhar o país do que viralizou antes de comparar
+```
+**3. Rafael Maia, no #vitórias** (responder a mensagem de 14h17, "Esse mês as vendas estavam voltando a ter uma consistência…"):
+```
+parabéns pelos 52 e por seguir depois da queda mano, isso q é foda
+uma dúvida: nas páginas novas vc deixou elas num perfil só ou colocou mais de um admin pra não cair tudo junto de novo?
+```
