@@ -867,6 +867,7 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
 - **A variação do nora65 (~20h54):** 216 views, −0,5x, 25,5% nos 3 s, 3 s. Parou, como o nora65-FACE original (236). **nora68-FACE (~39 h):** 258, +0,2x. **O loop:** 34. Os outros sem mudança; a distribuição dos antigos mexe um pouco a cada leitura (é relativa à média da Página).
 - **A linha com 1 view** entre a variação do nora65 (17/11 18h54) e o nora69-FACE (22h02) é, pela data, o story do Face de 17/11 ~19h39.
 - **Régua da R67 com ~24 h (~22h):** as 200+ views já passaram; falta o % aos 10 s (o Insights do nora69-FACE: com ~3 h, 9,7% aos 20 s) e o clique no Tracker de 17/11 e 18/11.
+- **O Insights do nora69-FACE (~15h50, ~17h50 de vida):** o maior abandono é aos 0:03 (o fim do 1º plano do hook); % média assistida 10%; **taxa de 20 s 8,8%** (era 9,7% com ~3 h); 100% não seguidores; 97,5% pelos Reels; **45+ = 70,7%** (65+ 27,4%, 55-64 26,8%); cliques no link ainda sem dado. O Face não dá o % aos 10 s em número: entre os 43,2% aos 3 s e os 8,8% aos 20 s. O comentário da Página está com o link FACE inteiro (com o `&aff=dl7zx6ks`).
 
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
