@@ -886,6 +886,14 @@ Conferido na planilha inteira (do nora33 ao nora69): **a divisão não é curto 
 - **O que mudou em 11/11:** os 8 vídeos em ~24 h com a mesma copy (10 a 12/11) e, depois, a 2ª verificação facial (17/11); os falados caíram de ~70% para 28% a 56% nos 3 s. O loop de 14/11 mostra que a conta ainda entrega o sem fala.
 - **Pergunta ao Clone:** o item 5 da R71.
 
+### 18/11 16h20: Tier 1 e Índia por horário de postagem no Insta (pedido do aluno; `ferramentas-painel/horarios_pais.py`)
+65 vídeos do Insta com países anotados (de 09/10 a 17/11), em janelas de 30 min das 16h às 03h. Tier 1 = EUA, Canadá, Reino Unido, Austrália, Nova Zelândia e Irlanda somados entre os 5 países anotados (é um piso); a Índia fora do top 5 conta como 0 (fica abaixo do 5º país, ~2% a 6%). Poucos vídeos por janela (1 a 6).
+- **Melhores:** 19h30-20h00 (6 vídeos: Tier 1 40,8%, Índia 14,4%); 00h00-00h30 (3: 54,2% e 14,8%); 00h30-01h00 (1: 50,7% e 0%); 18h00-19h00 (3: ~39% e ~15%).
+- **Piores:** 17h00-17h30 (4: Índia 44,5%); 17h30-18h00 (4: 37,4%); 21h00-21h30 (4: 38,2%); 22h30-23h00 (5: 41,2%); 23h00-23h30 (2: 50,9%).
+- **Só os falados:** 19h30-20h30, Tier 1 40,4% e Índia 13,4% (9 vídeos); 00h00-01h00, 62,1% e 0,5% (3); 16h00-19h00, 22,9% e 33,0% (13); 22h30-00h00, 31,4% e 42,0% (7).
+- **Os sem fala trazem a Índia em qualquer horário:** de 25% a 55% em todas as janelas (nora64, o loop, às 20h00: 53,8%). O formato pesa mais que o horário.
+- **Confirma a grade da recuperação (19h30 e 0h00).** Ressalva: os vídeos de outubro eram de outros funis e a fatia dos EUA subiu em novembro, então o horário e a época se misturam.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
