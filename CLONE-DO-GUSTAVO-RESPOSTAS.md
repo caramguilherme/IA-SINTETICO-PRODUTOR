@@ -1636,7 +1636,7 @@ Perguntas:
 - **O que fica (proposta ao aluno, que decide o estilo):** a caixa do topo, quando houver, **branca com letra preta e o destaque em vermelho**, em 2 linhas, acima da cabeça, como o Gustavo fez na aula 43 (1:12:46) depois de recusar a amarela; a legenda mais simples (aula 43); os 2 números brancos ficam (R60); o visual limpo (sem caixa) já está em teste no nora69 e no nora70.
 - **Volta para ele (R74):** os números, a legenda e a aula 31.
 
-## R74 (pergunta pronta em 18/11 19h30: as contradições da R73; resposta a colar)
+## R74 (pergunta pronta em 18/11 19h30: as contradições da R73; resposta colada às ~19h35, texto inteiro em `CLONE-ORIGINAIS/2026-11-18-R74-numeros-legenda-visual-limpo.md`)
 
 ```text
 Conferi a sua resposta nas transcrições. Três pontos não batem; responda curto, com aula e minuto exatos, e marque o que for opinião.
@@ -1647,6 +1647,14 @@ Conferi a sua resposta nas transcrições. Três pontos não batem; responda cur
 
 3. Você citou a aula 31 (0:27:30) para o visual limpo de "perfis de autoridade", mas nesse trecho o Iorhan fala de se sentir sobrecarregado e contratar ajuda. De onde vem o visual limpo para perfis de autoridade?
 ```
+
+**R74 (o que ele disse):** (1) os 2 números brancos valem; "1 número só" era opinião (aula 40, 0:29:04; aula 57, 0:37:34 a 0:38:25); (2) as duas legendas são válidas; a nossa (3 palavras em Poppins Bold, contorno grosso, destaque amarelo) seria a "dopaminérgica", de maior retenção (aula 14, 0:43:42; aula 12, 0:23:53), e a simples (aula 43) serve para sobriedade; (3) retirou a aula 31; o visual limpo de autoridade vem das aulas 65 (1:04:35 a 1:08:09: sair do misticismo pesado, "brinco louco, tatuagem no rosto ou pintura na cara"), 26 (1:05:06 a 1:07:48) e 12 (0:53:01 a 0:53:25).
+**Conferência (18/11 19h40):**
+- **Bate:** aula 57, 0:37:34 a 0:38:02 ("eu boto um número de anjo, zero emoji… quatro áreas… nos cantinhos… mas isso é pessoal, gosto de cada um"): os 2 números ficam. Aula 12, 0:53:01 a 0:53:36: o avatar dos top creators é "uma pessoa mais normal… não é muito pesado, visualmente falando, tipo o ambiente, a idade, o rosto, a roupa"; a bruxa num cenário obscuro atrai "um público estranho".
+- **Misturou duas coisas:** a "edição dopaminérgica" das aulas 12 (0:23:53: "uma edição mais dinâmica, mais detalhada… no gancho… e nos primeiros 15 a 30 segundos") e 14 é o ritmo da edição (cortes, imagens, efeitos, música), não a fonte da legenda; então a legenda pode ser simples (aula 43) dentro de uma edição dinâmica. E o "visual limpo de autoridade" das aulas 12, 26 e 65 é o avatar e o cenário (gente normal, sem bruxa, sem "pintura na cara"), não o texto na tela.
+- **Sem como conferir:** aulas 26 e 65 (não transcritas).
+- **Para a Nora:** o "sem pintura na cara" (aula 65) toca a lua e as estrelinhas no rosto dela; a avatar desta conta não muda (R19 e R21), e o teste "sem a lua, com um traço real" já está reservado para as contas novas.
+- **Não precisa voltar para ele:** o que sobrou de contradição é de leitura (ele chamou de "dopaminérgica" a legenda e de "visual limpo" o avatar), e as transcrições já resolvem.
 
 ## Conferência com a transcrição da aula 19 (chegou em 16/11 ~14h35; `TRANSCRICOES/2026-06-0x-aula-19-ganchos-black-vsl-30s.md`, resumo em `MATERIAIS-AULA-19/LEIA.md`)
 O que o Clone disse da aula 19 até hoje, conferido com o texto:
