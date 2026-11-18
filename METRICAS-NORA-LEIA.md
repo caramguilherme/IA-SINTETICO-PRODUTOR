@@ -876,7 +876,7 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
 - **A régua da R67 (~24 h), quase fechada:** Insta, views abaixo de 200, ~15% aos 10 s, 0 visitas e 0 clique; Face, 317 views e 0 clique. **O que a R67 manda com views e sem clique:** fica o hook novo e o visual limpo, e sai a ameaça da copy (P42), com um CTA de qualificação. O nora70 de hoje é o 2º vídeo do mesmo teste (a P42 suspensa nele, decisão do aluno); a mudança vale do vídeo seguinte.
 - **Pergunta ao Clone:** R71 (`CLONE-DO-GUSTAVO-RESPOSTAS.md`).
 
-### 18/11 ~16h05: curto × longo no Insta (o aluno: "videos curtos no insta dao views, e os longos travam em 140/150")
+### 18/11 15h58: curto × longo no Insta (o aluno: "videos curtos no insta dao views, e os longos travam em 140/150")
 Conferido na planilha inteira (do nora33 ao nora69): **a divisão não é curto × longo, é sem fala × falado, e antes × depois de 11/11.**
 - **Sem fala, 8 s (placas, fitas, loop):** de 2.204 a 3.742 views (nora35, 36, 38, 41, 45, 64), com 20% a 54% de Índia; as fitas de outubro deram 12 cliques em 4 dias e 0 checkout.
 - **Falados de ~68 s, de 06 a 10/11:** nora48 1.638, nora49 2.043, nora50 1.678 (68% a 72% nos 3 s, 18 a 21 s de tempo médio); antes, o nora40 (1:29) fez 1.416 e o nora43 (1:35) 983.
