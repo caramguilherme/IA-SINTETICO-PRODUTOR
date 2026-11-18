@@ -1,0 +1,92 @@
+{
+ "entrada": "/tmp/claude-0/-workspace-IA-SINTETICO-PRODUTOR/0f1d3084-6c9c-5025-9335-535fd154c68d/scratchpad/edini/ini1811-montado.mp4",
+ "saida": "/tmp/claude-0/-workspace-IA-SINTETICO-PRODUTOR/0f1d3084-6c9c-5025-9335-535fd154c68d/scratchpad/edini/ini1811-final-FACE.mp4",
+ "crf": 21,
+ "preset": "medium",
+ "estilo": "alto-contraste",
+ "itens": [
+  {
+   "tipo": "caixa",
+   "ini": 0,
+   "fim": 4.0,
+   "x": 0,
+   "y": 500,
+   "tamanho": 10,
+   "linhas": [
+    "PAUSE ON YOUR INITIAL.",
+    "[2027] HAS A MESSAGE FOR YOU."
+   ],
+   "caixa": {
+    "fundo": [
+     255,
+     255,
+     255,
+     255
+    ],
+    "texto": "#000000",
+    "destaque": "#000000",
+    "fonte": "bold",
+    "destaque_fonte": "bold",
+    "raio": 14,
+    "sombra": null
+   }
+  },
+  {
+   "tipo": "caixa",
+   "ini": 4.0,
+   "fim": 6.35,
+   "x": 0,
+   "y": 500,
+   "tamanho": 11,
+   "linhas": [
+    "WHICH ONE IS YOURS?"
+   ],
+   "caixa": {
+    "fundo": [
+     255,
+     255,
+     255,
+     255
+    ],
+    "texto": "#000000",
+    "destaque": "#000000",
+    "fonte": "bold",
+    "destaque_fonte": "bold",
+    "raio": 14,
+    "sombra": null
+   }
+  },
+  {
+   "tipo": "texto",
+   "ini": 0,
+   "fim": 6.35,
+   "x": -230,
+   "y": 282,
+   "tamanho": 13,
+   "texto": "222",
+   "cor": "#FFFFFF"
+  },
+  {
+   "tipo": "texto",
+   "ini": 0,
+   "fim": 6.35,
+   "x": 230,
+   "y": 282,
+   "tamanho": 14,
+   "texto": "11:11",
+   "cor": "#FFFFFF"
+  },
+  {
+   "tipo": "caixa",
+   "ini": 2.0,
+   "fim": 6.35,
+   "x": 0,
+   "y": -38,
+   "tamanho": 10,
+   "linhas": [
+    "Your 2027 reading:",
+    "[link in the comments]"
+   ]
+  }
+ ]
+}
