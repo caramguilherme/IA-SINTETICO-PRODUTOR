@@ -1604,6 +1604,28 @@ Conferi a sua última resposta nas transcrições. Faltou um número e duas font
   - **O teste do curto sem fala no Insta (`FILA`) ganha o "como fazer" e o "como medir"** da aula 37 e da aula 28.
   - **No Face, a meta do hook é passar de 50% nos 3 s** (opinião do Clone, coerente com o nora55; não é regra).
 
+## R73 (pergunta pronta em 18/11 ~19h30, pedido do aluno: "faz uma pergunta pro clone… sobre essa caixa no topo e as cores e estilos, eu achei o amarelo muito feio, poluido… se for o caso, eu pego a aula que ele cita e te mando a transcriçao"; resposta a colar): a caixa do topo, as cores e o estilo
+
+```text
+Quero a sua leitura sobre o texto na tela dos vídeos da Nora: a caixa do topo, as cores e o estilo. Responda curto, por item, com aula e minuto exatos; o que não tiver fonte, marque como opinião.
+
+Contexto: na sua R50 (15/11) você mandou voltar ao "alto contraste": caixa do topo amarela sólida com letra preta em negrito (ou branca com preto e vermelho), legenda branca com contorno preto grosso e destaque amarelo forte, faixa do CTA branca com preto e vermelho, seta vermelha, 222 e 11:11 brancos nos cantos. Você citou as aulas 19, 40 e 57 sobre cor. O aluno achou a caixa amarela feia e poluída. Hoje (18/11), num vídeo curto sem fala, trocamos a amarela por uma caixa branca com letra preta.
+
+O que eu achei nas transcrições:
+- Aula 43 (1:03:22 a 1:08:59): "legendinha simples… mais orgânico possível", fonte do sistema "com um contorninho, no máximo duas linhas", "não vai botar uma legenda assim [espalhafatosa]", destaque "limpo… amarelinho".
+- Aula 19 (0:55:18): o Gustavo gosta de "background vermelho" arredondado na headline; (1:14:39) gosta de "seta verde".
+- Aula 40 (0:24:52): no AutoEditor dá para deixar as cores da headline aleatórias, mas ele deixa fixo "que eu acho mais bonitinho".
+- Aula 57 (0:34:00): legenda com contorno fininho, "fundinho sólido não"; (0:35:58) cores fixas.
+- Os virais que mineramos (claire_mayaus, 6 vídeos de 17/11; Soma Chhaya; os virais de outubro do Manifestation): a maioria SEM caixa no topo, com a legenda automática do Instagram (branca, letra normal, contorno fino), 1 ou 2 números brancos pequenos e a seta vermelha só no CTA.
+
+Perguntas:
+1. Onde exatamente, nas aulas 19, 40 e 57, está a caixa do topo amarela com preto? Cite o minuto. Se não estiver, diga.
+2. A cor da caixa do topo muda retenção ou clique? Alguma aula compara amarelo, branco, preto ou vermelho? Ou a escolha é de gosto?
+3. Caixa no topo ou sem caixa: o que as aulas e os virais de quem vende mostram para um falado de 40 a 60 s no Manifestation? Se tiver caixa, qual cor, fonte, tamanho e por quanto tempo?
+4. A legenda: o "simples e orgânico" da aula 43 (fonte do sistema, contorno fino) contra o nosso Poppins Bold com contorno grosso e destaque amarelo. Qual seguir?
+5. Se o aluno quiser um visual menos poluído e ainda legível para mulheres de 45+, qual combinação as aulas sustentam?
+```
+
 ## Conferência com a transcrição da aula 19 (chegou em 16/11 ~14h35; `TRANSCRICOES/2026-06-0x-aula-19-ganchos-black-vsl-30s.md`, resumo em `MATERIAIS-AULA-19/LEIA.md`)
 O que o Clone disse da aula 19 até hoje, conferido com o texto:
 - **R57 ("as aulas defendem o gancho bizarro ou chocante para parar o scroll… aula 19, 0:04:25 a 0:13:10"): citação esticada.** O trecho é sobre **ganchos de duplo sentido, de conotação sexual** (banana, milho, chocolate, salsicha: "Isso é duplo sentido, entendeu?", 0:05:48; "o nosso público é velho, ele já entende as coisas", 0:12:08). E o próprio Gustavo diz que "não é regra… vai converter legal igual com todos aqueles outros estilos de hook" (0:31:59) e "não necessariamente precisa de um gancho de duplo sentido" (1:07:24). **A decisão da R57 (o tsunami fica) não muda**, porque se apoia nos nossos números: 4.236 no Face e 66% a 71% nos 3 s no Insta. Mas a aula 19 não serve de fonte para "gancho chocante" em geral. O duplo sentido fica fora (puxa homem e Índia, aula de ~10/07, 0:56:54).
