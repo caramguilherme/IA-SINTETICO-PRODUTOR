@@ -1496,6 +1496,30 @@ Responda curto, por item, citando aula e minuto quando tiver, e marque o que for
   - **Face de cada avatar:** **4 a 6 por dia**, com pelo menos 1h30 entre posts (9h, 12h, 16h, 19h30, 21h30 e 0h00), a Página criada com a restrição de país desde o 1º dia.
   - **O mesmo vídeo nos 4 avatares** (a mesma copy, o mesmo cenário, a mesma roupa) é um bom teste de avatar: só uma variável muda. Em 7 a 10 dias, o que tiver mais retenção, comentários e cliques vira o principal.
 
+## R70 (pergunta pronta em 18/11 ~12h10, pedido do aluno: "oq responder pro clone entao? ja que ele se contradize, e ai pegamos nesse ponto, e ja tiramos outras duvidas"; ~3.100 caracteres; resposta a colar): as contradições da R68 e da R69 e as dúvidas da escala de 4 avatares
+
+```text
+Conferi as suas 2 últimas respostas (4 avatares, frequência e horários) nas transcrições que tenho, e alguns pontos não batem. Preciso que você confira e cite aula e minuto exatos; o que não tiver fonte, marque como opinião.
+
+Contexto: 4 avatares (a Nora + 3 novos: 1 no Manifestation e 2 no Risely), cada um com 1 Insta (GeeLark + proxy dos EUA) e 1 Página do Face (com restrição de país: EUA, CA, UK, AU, NZ). A Nora está em recuperação no Insta (2 verificações faciais; 2 por dia, 19h30 e 0h00 de Brasília).
+
+O que não bate:
+1. Você citou a aula 19 (0:44:29) para "3 a 4 vídeos/dia no Instagram". O trecho diz: "manter 3 a 4 vídeos por dia na página? pode, pode sim", ou seja, página do Face. Qual aula e minuto sustentam 3 a 4 por dia no Insta?
+2. Aula 14 (~1:47): o Gustavo diz "eu costumo postar um vídeo por conta, a não ser que uma conta engrene muito forte" (rodando ~20 contas). Na call de 16/11 ele diz "entre 4 a 6 vídeos por conta por dia, espaçado 1 a 2 horas". Qual vale para o Insta e qual para o Face? Mudou com o tempo?
+3. Você disse que "o horário exato não trava a conta" (aulas 25 e 51) e sugeriu 08h30 e 12h30. Nos nossos números do Insta, de manhã e à tarde a amostra é indiana (um post às 17h32 deu 54,8% de Índia; 19h30 dobrou a fatia dos EUA contra a 01h). Na aula 39: "5, 6 da tarde dificilmente pega a Índia". E nas suas R35 a R37 a janela era 19h30 e 0h00. Para um Insta novo com esse problema de Índia, qual grade vale? Qual o minuto das aulas 25 e 51?
+4. Na R36 você disse para nunca postar com menos de 4 h entre posts no Insta; agora diz 1h30 a 2 h. Qual vale no Insta, e qual a fonte?
+5. Você recomendou agendar a grade do Face pelo Business Suite (aula 30). Aqui postamos sempre ao vivo, porque alunos viram a entrega cair agendando. Na aula 37 o Gustavo diz que "tem muita gente fazendo" (Brisa, Ricardo) e que ele não faz. Qual o minuto da aula 30? Existe dado de que agendar pelo Business Suite derruba ou não a entrega? E no Insta?
+6. Você escreveu "intervalo longo de ~12 horas, ex.: 19h30 e 00h00" (aula 14, 1:48:15, e aula 31). 19h30 e 0h00 são os nossos horários e dão 4h30. O que exatamente a aula diz?
+
+Dúvidas novas:
+7. Vou usar a mesma copy e o mesmo vídeo (cenário, fala e roupa iguais) nos 4 avatares, mudando só a avatar. Postar o mesmo roteiro e a mesma cena em 4 Páginas e 4 Insta tem risco de conteúdo duplicado ou não original para a Meta? Vale mudar algo entre as contas (música, ordem, cenário)? Alguma aula fala disso?
+8. No teste de avatar de 7 a 10 dias, qual métrica e qual número decidem a campeã (nos 3 s, aos 10 s, comentários ÷ views, visitas ao perfil, cliques)? Com quantos vídeos e quantas views?
+9. Os 10 vídeos de aquecimento podem ser o mesmo vídeo nos 4 avatares? O CTA leve sem link pede o quê exatamente?
+10. Vamos gerar os vídeos no Muse, o agente de IA da própria Meta. Alguma aula fala de postar vídeo feito com IA da Meta (selo "feito com IA", alcance)? Se não tiver fonte, diga.
+
+Responda curto, por item, com aula e minuto exatos, e marque o que for opinião.
+```
+
 
 ## Conferência com a transcrição da aula 19 (chegou em 16/11 ~14h35; `TRANSCRICOES/2026-06-0x-aula-19-ganchos-black-vsl-30s.md`, resumo em `MATERIAIS-AULA-19/LEIA.md`)
 O que o Clone disse da aula 19 até hoje, conferido com o texto:
