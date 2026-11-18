@@ -29,7 +29,7 @@ description: Use toda vez que for pôr texto num vídeo ou imagem da Nora (ediç
 
 ## Regras do modelo (Clone R50, ao pé da letra)
 1. **Quando a legenda entra:**
-   - **com pré-gancho visual (0 a ~4,8 s; Clone R51):** no pré-gancho, só a caixa do topo, para a pessoa olhar a ação. A legenda entra no quadro exato em que a Nora começa a falar o Take 1;
+   - **com hook visual (o pré-gancho de 3,5 a 4,0 s da Clone R60, fora desde 17/11, ou o hook de ação comum de ~6,8 s do modelo da claire_mayaus, em teste):** no pré-gancho, só a caixa do topo, para a pessoa olhar a ação. A legenda entra no quadro exato em que a Nora começa a falar o Take 1;
    - **sem pré-gancho (a Nora falando desde o 0 s):** a legenda pode começar no 0 s, com a caixa do topo curta (2 linhas) e longe da legenda (topo × terço de baixo).
 2. **Tela limpa até o CTA:** nada de print do Trustpilot nem de caixa "Rated 4.8" no meio do vídeo. Até o CTA, só a Nora, a caixa do topo (no começo), os números e a legenda.
 3. **Imagens do desejo da edição dopaminérgica** (aprovada em 15/11, aulas 12 e 14): são ilustração, não texto. Entram em tela cheia ou dividida nos primeiros ~15 s, uma por frase. A legenda continua por cima, com o contorno.
