@@ -968,3 +968,11 @@ uma dúvida: nas páginas novas vc deixou elas num perfil só ou colocou mais de
 valeu demais carlos, ajudou muito
 uma ultima se puder: hj vc posta só no face ou ainda usa o insta junto com a mesma avatar?
 ```
+
+## ENVIADO (18/11/2026 01h10; resposta da 26ª leitura do Discord, no jeito do aluno)
+**1. 𝖱𝗈𝖽𝗋𝗂𝗀𝗈 𝖠𝗎𝗀𝗎𝗌𝗍𝗈, no #chat-appyon** (responder a mensagem de 17/11 18h28, "qual o melhor encurtador de link, SHORT.IO, ou já indicaram outro melhor?"; ninguém respondeu):
+```
+aqui eu uso o link inteiro no story, sem encurtador
+no dia 11/11 o kaio guerra falou aqui que com o short.io os cliques no tracker caíram muito e um lead respondeu "website not available"
+no adesivo de link do story o tamanho não aparece, então nem precisa encurtar
+```

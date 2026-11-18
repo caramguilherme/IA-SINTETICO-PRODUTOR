@@ -1295,3 +1295,30 @@ Arquivos: `HISTORICO-DISCORD/chat-appyon_12-11-madrugada.md`, `vitorias-dolar_12
   - o Emanuel (o viral e a queda depois, com o nosso dado do loop, no #chat-appyon);
   - o Rafael Maia (parabéns + 1 pergunta sobre os administradores das Páginas novas, no #vitórias).
   - Textos em `CONTATOS-ALUNOS.md` (ENVIADO 17/11 23h55).
+
+### 18/11/2026 01h10 - Discord, 26ª leitura (6 canais, 17/11 18h09 a 18/11 00h54; leitura da skill às 00h55; arquivos `HISTORICO-DISCORD/*_18-11-madrugada.md`, imagens em `HISTORICO-DISCORD/imagens/18-11-madrugada/`)
+- **Quase tudo foi o Flow Ultra** (735 mensagens no chat-appyon). Nenhuma venda no #vitórias.
+- **Oficial (Gustavo Alves):**
+  - **anúncios, 18h11:** "agora o nosso custo operacional é literalmente zero"; usar o FusionZ (a aula de 19/10 em #gravações) com o Flow Ultra;
+  - **avisos-appyon, 23h45:** o passo a passo para cancelar (Conta > Plano do Google AI Ultra > Gerenciar > Cancelar assinatura > confirmar). O Ultra fica 1 ano mesmo cancelado. **O motivo de cancelar:** não deixar pendência na conta de cobrança do Google (como aconteceu com as VMs), para o Gmail não queimar;
+  - **avisos-appyon, 23h17:** no Risely Hub, clicar no 1º quadro de um reel leva direto à análise dele.
+- **Flow Ultra, o que o chat viu:**
+  - 3 a 5 contas por CPF; com VPN ou proxy dos EUA não pede CPF (no "billing zip code", 12345-6789); um perfil do Chrome por conta; Pix também passa.
+  - **Depois de cancelar, a tela mostra o Ultra até 17/11/2027 e o YouTube Premium até 17/12/2026** (Patrick Robba, Marcia Poletto). A Grace: "Não clique em Renovar assinatura".
+  - **O link de 25 mil créditos** (com o Lower Priority) vale só 1 mês e cobra R$ 999,90 a partir de 17/12, se não cancelar.
+  - **Das 00h30 às 00h54, o Google começou a tirar o Ultra de algumas contas:** o Bruno Avelino recebeu "Seu teste do Google AI Ultra terminou" numa conta cancelada; o Beto, o Lucas [MVM], os Ari & Lu e o Mateus perderam 1 conta cada, e as outras seguiam de pé. **O link parou às ~00h34** para quase todos (o aluno também, 00h45).
+  - O Carlao diz que 10 s gastam 12 créditos no Omni 1.1 e 24 no 1.2; **fica a tabela que o aluno viu na tela dele** (`LICOES-FLOW-E-PROMPTS.md`, 18/11).
+  - A Ana Paula Rocha, a Thais Rocha e a irmã tiveram Face e Insta suspensos depois do Ultra; o chat acha coincidência (a Meta e o Google não se falam).
+- **Números sem venda:**
+  - **Hélio** (funil não dito): 1.274 cliques, 906 viram o quiz, 186 começaram, 73 terminaram, 27 checkouts e 0 vendas. O joao: o roteiro levou público não qualificado; o ℌ𝔢𝔫𝔯𝔦𝔮𝔲𝔢: olhar a idade e o país das views.
+  - **Pedro⚡ no Love Reading:** 126 cliques, 12 checkouts, 0 vendas (vendeu no domingo e parou); o Thawam igual. O preço do Love Reading muda entre US$ 9, 20 e 29.
+  - **Stefano no app novo de fitness:** 19 checkouts e 0 vendas, em contas antigas de emagrecimento com público dos EUA e pouco aquecimento.
+- **Facebook:** a Mary perdeu o perfil (recurso aberto, "um pouco mais de um dia"), por uma Página que "não segue os Padrões", justo a melhor; a Eduarda Kelly perdeu a conta principal. O jeanl.co só tem o passaporte para confirmar a identidade.
+- **Criar o Insta no GeeLark trava no nome** (Caio1094, Huan Ribeiro): limpar o cache, o Insta Lite, a guia anônima do Chrome dentro do GeeLark, ou criar pelo AdsPower (o método da Stefany no fórum; Vitor Oliveira: "sempre dá bom"). A mesma proxy serve no AdsPower (a IPRoyal em SOCKS5).
+- **Risely:** o app não aparece na App Store do Brasil (ver pelo navegador com proxy). O Risely Hub (Central) tem o "Benchmark: 25 reels de referência": 23 perfis, 915 mi de views somadas, **duração mediana de 13,8 s, 14 dos 25 sem fala**, 15 perfis verificados; temas: pele e beleza "de dentro para fora", receita caseira, intestino, lista por comentário, humor e infográfico de IA; cada reel com 11 seções de análise.
+- **Outros:** a Proxy-Cheap trocou as credenciais (o aluno ensinou o Vinicius B no chat, 00h40); a área de membros está no ar; o HeyGen de alguns não mostra a "Cena única"; o Ultra traz o app Antigravity.
+- **Para a Nora (decisão minha):**
+  1. **Conferir as 4 contas do Flow amanhã cedo** (contatocaram, tiklojinhadogui, guilhermeone27 e guilhermetwo02): se cada uma ainda mostra os ~10 mil créditos e o plano Ultra até 2027, e se chegou o e-mail "Seu teste do Google AI Ultra terminou". **Não clicar em "Renovar".** Se alguma caiu, eu refaço a conta dos créditos da escala (cada conta é ~10 mil por mês). O Gmail da Nora (kensleynora) não foi usado no Ultra, então a conta dela não tem ligação com isso.
+  2. **Para os 3 avatares novos:** se o Insta travar no nome no GeeLark, usar as saídas acima (anotadas no protocolo do `PLANO-MVM`). Para os 2 do Risely, o benchmark do Risely Hub é o ponto de partida (vídeo curto, metade sem fala): quando começarmos, o aluno me manda a "Síntese dos 25 (Parte A)" do Hub, porque a Central pede login.
+  3. **Nada muda nas regras.** O Face da Mary e da Eduarda reforça a proposta do 2º administrador na Página da Nora (decisão do aluno). Os 27 checkouts sem venda do Hélio mostram que checkout não é venda; o funil não muda (decisão do aluno de 16/11).
+- **Quem responder:** o Rodrigo Augusto (o encurtador de link, sem resposta no chat). Texto em `CONTATOS-ALUNOS.md` (ENVIADO 18/11 01h10).
