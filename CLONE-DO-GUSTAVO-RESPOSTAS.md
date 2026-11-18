@@ -1537,7 +1537,7 @@ Responda curto, por item, com aula e minuto exatos, e marque o que for opinião.
   - **A régua do avatar:** a da aula 54 para largar a conta, e a nossa para escolher a campeã (o mesmo vídeo nos 4 avatares por 7 a 10 dias: aos 10 s, comentários ÷ views, visitas ao perfil e cliques). O "20 vídeos abaixo de 50" fica como opinião.
   - **O Muse:** já está em teste na Nora (o nora70), decisão do aluno.
 
-## R71 (pergunta pronta em 18/11 ~16h, pedido do aluno: "se surgir alguma duvida, vc elabora uma pergunta pro clone dps do envio das metricas do face e insta"; ~2.950 caracteres; resposta a colar): o Insta no teto, o Face que não sai do 1º lote, os cliques e o abandono aos 0:03
+## R71 (pergunta pronta em 18/11 ~16h, pedido do aluno: "se surgir alguma duvida, vc elabora uma pergunta pro clone dps do envio das metricas do face e insta"; ~2.950 caracteres; resposta colada às ~16h, texto inteiro em `CLONE-ORIGINAIS/2026-11-18-R71-teto-face-cliques-abandono.md`): o Insta no teto, o Face que não sai do 1º lote, os cliques e o abandono aos 0:03
 
 ```text
 Preciso da sua leitura destes números, com aula e minuto exatos; o que não tiver fonte, marque como opinião. Responda curto, por item.
@@ -1564,6 +1564,19 @@ Perguntas:
 ```text
 5. No Insta da Nora, os vídeos sem fala de 8 s (placas, fitas e um loop) fizeram de 2,2 mil a 3,7 mil views, com 20% a 54% de Índia e 0 checkout. Os falados de ~68 s fizeram de 1,6 mil a 2 mil entre 06 e 10/11 (68% a 72% nos 3 s, 18 a 21 s de tempo médio), mas desde 11/11 todos os falados param entre 110 e 220, os curtos (18 a 31 s) e os longos (37 s a 2:12). O que as aulas dizem: o Insta empurra pela % assistida e por isso entrega o curto sem fala? Vale um curto sem fala por dia no Insta para segurar a entrega, mesmo com alunos dizendo que o curto "não vende" e ensina o algoritmo a mandar para quem consome curto?
 ```
+
+**R71 (o que ele disse):** (1) Insta no teto: a "instrução oficial" é não gastar energia recuperando e criar conta nova; não trocar pelo loop (Índia); manter os 2 falados por dia até as contas novas rodarem (essa parte marcada como opinião); (2) Face: o nora55 teve 41,6% do vídeo assistido (10 s de 24 s) e o nora69-FACE 9,9% (10 s de 101 s); "vídeos de 20 a 50 s" entregam mais; o nora55 teve 58 comentários e o nora69-FACE "nenhum"; no próximo, 30 a 45 s e um convite para comentar no fim da fala ou na legenda; (3) não deu o número de cliques por 1.000 views; story de conta engrenada = ~30 cliques por 100 views; 0 clique com 317 views é flutuação; o link no comentário é o padrão do Face; mudar primeiro o "reason why" do CTA (o que ela ganha ao clicar); (4) a avatar falando desde o 1º quadro, 30 a 45 s; (5) o curto sem fala entrega pela % assistida; não usar na Nora: puxa a Índia (aula 28, 0:58:30 e 0:58:42: 0,2% de conversão), não aquece o lead (aula 55, 0:14:40; aula 64, 0:05:35), "o texto na tela nunca converteu bem" (aula 70, 0:57:56), e o curto vai em perfil separado (aula 21, 0:57:21; aula 36, 1:03:32).
+**Conferência (18/11 16h02):**
+- **Bate com as transcrições:** aula 55, 0:14:38 a 0:14:57 ("a conversão… é infinitamente menor… é um clickbaitzão… não vai tá mandando o lead aquecido"); aula 21, 0:35:49 (os curtos de 8 a 20 s são clickbait) e 0:57:09 a 0:57:31 ("abram novos perfis disso… mas… tenham perfis bons e sólidos dos especialistas"); aula 28 (variações), 0:58:30 a 0:58:42 (a Índia, "0.2% de conversão"); a call de 09/11 ("aula 70"), **0:58:15** (não 0:57:56): "o texto na tela nunca converteu bem".
+- **O que ele deixou de fora da própria fonte:** na call de 09/11 a frase continua: "é mais para viralizar tua conta, **para ajudar a puxar os outros vídeos**"; e na aula 28, 0:59:04, o Iorhan diz "não tô dizendo que é pra parar de usar os vídeos… vocês podem conciliar curiosidade visual com a entrega americana". As duas fontes defendem o curto como alavanca; ele usou só a metade que diz "não".
+- **Erros nos nossos números:** o nora55 teve **8 s** de tempo médio (33% de 24 s), não 10 s; o nora69-FACE teve **3 comentários** (com o da Página), não nenhum. A conclusão fica (33% contra 10% do vídeo assistido).
+- **Contradiz ele mesmo e a nossa regra (fica fora, é segurança da Página):** o convite para comentar no Face. Na R54 ele mesmo tirou o pedido de comentário do Face (isca de engajamento), e na 24ª leitura uma Página foi punida por "engajamento não autêntico".
+- **Sem fonte:** "20 a 50 s entregam mais", "~30 cliques por 100 views no story" (o nosso story de 14/11 teve 8 cliques em 27 viewers; o de 17/11, 0 em 21), "0 clique com 317 views é flutuação", a manutenção dos 2 falados por dia, o "não gastar energia recuperando", e o "falar desde o 1º quadro" do item 4. **Não respondeu** o número de cliques por 1.000 views.
+- **Sem como conferir:** aulas 36, 64 e 65 (não transcritas).
+- **O que muda (decisão minha, dentro das regras):**
+  - **Os próximos falados (depois do teste da claire_mayaus):** a Nora falando desde o 1º quadro (a regra da abertura de 17/11 01h40), **40 a 45 s** (cabe na R54, 40 a 60 s, e na R71, 30 a 45 s), sem a ameaça e com o CTA em 3 partes com o motivo do clique (o que a R67 manda quando há views e nenhum clique). No Face, sem pedido de comentário.
+  - **O curto sem fala no Insta da Nora vira teste A/B, não regra** (o Clone e a aula 21, 0:57, contra a call de 09/11, 0:58:15, e a aula 28, 0:59:04): vai para a `FILA`.
+  - **O Insta da Nora segue com os 2 falados por dia** até as contas novas rodarem.
 
 ## Conferência com a transcrição da aula 19 (chegou em 16/11 ~14h35; `TRANSCRICOES/2026-06-0x-aula-19-ganchos-black-vsl-30s.md`, resumo em `MATERIAIS-AULA-19/LEIA.md`)
 O que o Clone disse da aula 19 até hoje, conferido com o texto:
