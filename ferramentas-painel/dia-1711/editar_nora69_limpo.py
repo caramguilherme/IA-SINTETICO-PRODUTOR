@@ -68,20 +68,23 @@ def trecho(n, src, a, d, vf_extra='', fade_audio=True):
 
 
 partes = []
-if VER == 'insta':
+REUSA = os.environ.get('REUSAR_BASE') and os.path.exists(os.path.join(tmp, 'base.mp4'))
+if REUSA:
+    HOOK_DUR = FIM_HOOK - V0 if VER == 'insta' else float(subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', HOOK_LIMPO], capture_output=True, text=True).stdout)
+elif VER == 'insta':
     HOOK_DUR = FIM_HOOK - V0
     partes.append(trecho(0, MONT, V0, HOOK_DUR))
 else:
     HOOK_DUR = float(subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', HOOK_LIMPO],
                                     capture_output=True, text=True).stdout)
     partes.append(trecho(0, HOOK_LIMPO, 0, HOOK_DUR, f',fade=t=out:st={HOOK_DUR - 0.15:.3f}:d=0.15:color=white'))
-for i, (a, b) in enumerate(keep):
+for i, (a, b) in enumerate([] if REUSA else keep):
     fl = ',fade=t=in:st=0:d=0.12:color=white' if i == 0 else ''  # o flash branco cobre o corte do hook para a fala
     partes.append(trecho(i + 1, MONT, a, b - a, fl))
 lst = os.path.join(tmp, 'lista.txt')
 open(lst, 'w').write(''.join(f"file '{p}'\n" for p in partes))
 base = os.path.join(tmp, 'base.mp4')
-subprocess.run(['ffmpeg', '-v', 'error', '-y', '-f', 'concat', '-safe', '0', '-i', lst, '-c', 'copy', base], check=True)
+if not REUSA: subprocess.run(['ffmpeg', '-v', 'error', '-y', '-f', 'concat', '-safe', '0', '-i', lst, '-c', 'copy', base], check=True)
 dur_b = float(subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', base],
                              capture_output=True, text=True).stdout)
 
@@ -165,7 +168,8 @@ hook_txt = None
 if VER == 'face':  # o texto do hook vai por cima, sem espelhar
     hook_txt = os.path.join(AQUI, 'hook69-texto.png')
 
-t_tap = next(w[1] for w in words if w[0].lower().startswith('tap'))
+t_tap = next(w[1] for i, w in enumerate(words) if w[0].lower().startswith('tap') and i + 1 < len(words)
+             and words[i + 1][0].lower().startswith('my'))  # o "Tap my profile picture" (o "double tap" do T11 não vale)
 cam = [(png_222(), 15.0, dur_b), (png_seta(), t_tap, dur_b)] + [(png_leg(t), a, b) for t, a, b in leg]
 args = ['ffmpeg', '-v', 'error', '-y', '-i', base]
 filt, ult = [], '0:v'
