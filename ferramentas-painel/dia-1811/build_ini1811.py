@@ -45,15 +45,16 @@ FIM = ('no film emulation, straight smartphone frame, no date stamp, no watermar
        'character consistency: identical face, same skin tone, same hair, same body proportions as the reference image — only wardrobe, environment, and pose change')
 PAPEIS = ('ten small pieces of lined notebook paper on the table in front of her, each torn by hand from a spiral notebook with rough, uneven torn edges and faint blue lines, each '
           'about the size of a playing card, lying flat and slightly crooked like a real person placed them, arranged in two loose rows of five; on each piece ONE large capital letter '
-          'is handwritten in thick black marker, slightly imperfect like real handwriting, filling most of the paper; IMPORTANT: the letters were written for the viewer, not for her: '
-          'every letter stands upright in the photo, with the top of each letter pointing away from the camera toward her and the bottom of each letter pointing toward the camera '
-          '(toward the bottom edge of the image), so the photo shows them right side up and perfectly readable, never upside down, never mirrored (from her seat they would look upside '
-          'down); the top row, from the left side of the image to the right side, reads M, J, S, L, C; the bottom row, from the left side of the image to the right side, reads A, B, '
-          'K, D, P; nothing else is written anywhere on the papers,\n')
+          'is handwritten in thick black marker, slightly imperfect like real handwriting, filling most of the paper; the top row, from the left side of the image to the right side, '
+          'reads M, J, S, L, C; the bottom row, from the left side of the image to the right side, reads A, B, K, D, P; nothing else is written anywhere on the papers,\n')
+ORIENTACAO = ('THE MOST IMPORTANT RULE OF THIS IMAGE, LETTER ORIENTATION: the ten handwritten letters must read correctly for the person looking at this photo. In the final image every '
+              'letter is upright, exactly like letters printed on a page you are reading: the M looks like an M (two peaks pointing UP toward the top of the image), never like a W; the '
+              'J has its hook at the BOTTOM; the A has its point at the TOP; the P has its loop at the TOP. The papers were turned around to face the camera, so from her seat the letters '
+              'are upside down, and that is correct. Do not write the letters facing her. Do not mirror them.\n')
 
 
 def img():
-    return ('RAW photo of the exact same character from the attached reference image, preserving every facial feature, identity, age, ethnicity, skin tone, and hairstyle exactly as shown in the reference,\n'
+    return (ORIENTACAO + 'RAW photo of the exact same character from the attached reference image, preserving every facial feature, identity, age, ethnicity, skin tone, and hairstyle exactly as shown in the reference,\n'
             'warm, curious, knowing smile with her lips gently closed, looking down at the papers,\n'
             'soft cream chunky-knit open cardigan over a plain black fine-knit top with a round neck, matte, no print, no logo; a tiny enamel lapel pin of the American flag, about 2 cm wide, '
             'pinned on the cardigan at chest height on the right side of the image, clearly visible; ' + JOIAS +
@@ -70,9 +71,16 @@ def img():
             'cozy real lived-in American living room, a plain warm beige wall behind her, the edge of a sofa with a knitted throw at the side of the frame,\n'
             'warm light from a small table lamp on the right side of the image, a little uneven, like a real phone photo indoors; no studio light, no ring light,\n' + PELE +
             'shot on a smartphone camera, iPhone 15 main camera: looks exactly like a real casual photo taken with an iPhone, slight phone grain, everything in focus, no bokeh, no filter, '
-            'f/8 aperture, ISO 640, 1/60s shutter speed, natural depth of field, background stays readable, mild sensor noise in the shadows,\n' + FIM)
+            'f/8 aperture, ISO 640, 1/60s shutter speed, natural depth of field, background stays readable, mild sensor noise in the shadows,\n' + FIM + ',\n'
+            'FINAL CHECK BEFORE GENERATING: every one of the ten letters is upright and readable from the camera (M, J, S, L, C on top; A, B, K, D, P below), none upside down, none mirrored.')
 
 
+EDITAR = ('Edit the attached photo. Change ONLY the handwritten letters on the ten paper notes on the table. Right now the letters are upside down for the viewer. Rotate each '
+          'handwritten letter 180 degrees inside its own paper, so that every letter reads upright and correctly from the camera, like text printed on a page: top row, from the left side '
+          'of the image to the right side: M, J, S, L, C; bottom row, from the left side of the image to the right side: A, B, K, D, P. The M must look like an M (peaks pointing up), the '
+          'A with its point at the top, the P with its loop at the top, the J with its hook at the bottom. Keep the same black marker handwriting style and size. Keep EVERYTHING else '
+          'exactly the same, pixel for pixel: her face, hair, smile, hands and fingers, cardigan, the American flag pin, the jewelry, the papers (same shape, size, position and torn '
+          'edges), the crystals, the table, the room and the light. Do not add anything. Do not remove anything.')
 STORY = 'story-1811'
 IG = 'https://app.auralyapp.com/6a90ad82719e8d2b35da8a7c?rt_ad=norakensleytarot&utm_source=instagram&utm_content=STORYIG&aff=dl7zx6ks'
 FB = 'https://app.auralyapp.com/6a90ad82719e8d2b35da8a7c?rt_ad=norakensleytarot&utm_source=facebook&utm_content=FACE&aff=dl7zx6ks'
@@ -144,7 +152,7 @@ def montar():
         'texto_tela': {'hook': TOPO, 'hook_comeca': 'o segundo 0', 'hook_termina': 'quando ela abre os braços (~4 s); dali ao fim: ' + FIM_TXT, 'hook_alt': '', 'extras': []},
         'comentario_fixado': {'insta': 'Your letter is your sign ✨ tap my profile picture to see what 2027 holds for you in my story 🔮', 'face': '(sem Face)'},
         'respostas_face': {'insta': INSTA_RESP, 'face': []},
-        'story': {'ja_postado': False, 'nota': ('STORY NOVO DE HOJE (' + STORY + ', no lugar do story-1211): gere a foto pelo item 3 da seção Clipe (x4, 0 crédito) e ME MANDE AS 4 até ~18h15; '
+        'story': {'ja_postado': False, 'nota': ('STORY NOVO DE HOJE (' + STORY + ', no lugar do story-1211): gere a foto pelo item 4 da seção Clipe (x4, 0 crédito) e ME MANDE AS 4 até ~18h15; '
                   'eu escolho, ponho o texto (no jeito das contas do nicho: caixas do próprio Instagram no meio da tela) e devolvo em ~10 min. Poste ANTES do curto (e antes de ~19h39, quando o story-1211 vence), ao vivo, no Insta e no Face, '
                   'com o adesivo de link logo abaixo do texto, no centro (texto do adesivo: TAP TO CONTINUE 🎁, como 4 das 10 contas do nicho; se quiser, o GIF da mãozinha clicando e uma música de piano calma do próprio app). Insta (STORYIG): ' + IG + ' · Face (FACE): ' + FB)},
         'central': {'imagem_unica': True,
@@ -156,7 +164,7 @@ def montar():
             'conceito': ('O curto "Pause on your initial" (o padrão 03 da pesquisa oficial; aula 18, 1:10:33): a Nora à mesa com os cristais e 10 papéis de caderno rasgados, '
                          'cada um com uma inicial; o dedo passa por cima de todos sem escolher (quem assiste pausa na sua) e no fim ela abre os braços, como quem pergunta "qual?", '
                          'e sorri. Sem fala. O broche da bandeira dos EUA segura o público americano (aula 37, 1:22:27). Eu ponho os textos, os números, a faixa e a seta.'),
-            'modo': ('(A foto do story é o item 3.) 1) A imagem: Flow → Imagem · 9:16 · Nano Banana Pro · x4, anexando SÓ a folha da Nora (1K) (0 crédito). ME MANDE AS 4: eu confiro as letras (letra de IA é o que mais erra). '
+            'modo': ('(A correção das letras, se precisar, é o item 2; a foto do story é o item 4.) 1) A imagem: Flow → Imagem · 9:16 · Nano Banana Pro · x4, anexando SÓ a folha da Nora (1K) (0 crédito). ME MANDE AS 4: eu confiro as letras (letra de IA é o que mais erra). '
                      '2) O clipe: no Muse, na conversa da Nora já configurada, anexe a escolhida e cole o bloco do item 2 inteiro (1 versão só, ~2% do grátis da semana). Baixe e me mande.'),
             'etapas': [
                 {'tipo': 'img', 'titulo': 'Imagem: a Nora à mesa com os cristais e os 10 papéis', 'nome': IMG, 'anexar': 'só a folha da Nora (1K)',
@@ -165,6 +173,11 @@ def montar():
                              'demais ou faltando; o broche da bandeira dos EUA no cardigã; o dedo da mão do lado esquerdo da imagem em cima do papel do M; os cristais sem brilho e '
                              'sem cobrir papel; 5 dedos em cada mão; o alto da imagem é só parede. Renomeie para ' + IMG + ' e me mande as 4.'),
                  'prompt': img()},
+                {'tipo': 'img', 'titulo': 'Se as letras saírem de cabeça para baixo: corrigir a imagem no Flow (edição, 0 crédito)', 'nome': IMG, 'anexar': 'só a imagem escolhida (sem a folha da Nora)',
+                 'quadros': ('Flow → Imagem · Nano Banana Pro · x4: anexe SÓ a imagem escolhida (a melhor com a Nora, mesmo com as letras invertidas; em 18/11 ~17h05, a opção 3 da 2ª rodada, '
+                             'com o dedo no M) e cole o prompt abaixo. Confira nas 4: as 10 letras em pé para quem vê a foto (M J S L C em cima, A B K D P embaixo), e o resto igual. '
+                             'Se ainda sair invertido, me mande a imagem escolhida em tamanho cheio (o arquivo, não o print da grade): eu giro as letras aqui.'),
+                 'prompt': EDITAR},
                 {'tipo': 'vid', 'titulo': 'Clipe no Muse: o dedo passa pelas letras, ela abre os braços e sorri', 'nome': CLIPE, 'duracao': 6,
                  'quadros': ('No Muse, na conversa da Nora: anexe a ' + IMG + ' e cole o bloco abaixo, inteiro (pede 1 versão só). Confira se tem: as 10 letras iguais do '
                              'começo ao fim, o dedo passando sem parar e sem mexer os papéis, os braços abertos e o sorriso no fim, a boca fechada, 5 dedos. Se recusar: '
