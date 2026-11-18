@@ -72,6 +72,11 @@ O aluno usa uma conta do Claude até o limite semanal acabar e passa para outra.
 
 Os vídeos e prints que o aluno mandou ficaram só nas sessões antigas; a análise de cada um está nos arquivos acima. Se a sessão nova precisar rever algum (por exemplo o `nora47-montado`, base do nora49), o aluno manda de novo.
 
+## 5f. Feito na conta nova (18/11/2026 ~08h46; qual das contas é: a confirmar com o aluno)
+- Branch trazida (já estava em dia). Ambiente: o "Default" tem rede sem restrição (Drive, Hugging Face e Google Docs responderam); `faster-whisper` e `gdown` instalados por pip; o modelo "small" baixou.
+- Painel do nora70 republicado: https://claude.ai/artifact/YTK7NxRB5F6uhmfbrDW2Cz (do `PAINEL-NORA70.html`, com 4 textos acertados: o horário, Insta às 19h30 de 18/11; o comentário fixado e as respostas do Insta, porque as 24 h depois da verificação acabaram; a legenda do Insta pedindo "the time you're watching this" em vez do "I believe" do nora69, regra da 24ª leitura; os créditos, ~510 nos 17 takes em 720p. Prompts e falas iguais).
+- Falta: o dashboard, depois dos vídeos do dia.
+
 ## 5e. Links da 6ª conta (10 a 18/11; abrem só logado nela; não são mais atualizados depois da passagem)
 - Dashboard Métricas da Nora: https://claude.ai/artifact/HDHhSEAgHf82TWckygZFSx (asset do CSV `/_blob/31b021d77fd62a6004732440e933ece1`, dataset na versão 54, 147 linhas, leituras até 18/11 01h18).
 - Painéis de 17/11: nora69 (postado) https://claude.ai/artifact/VKqyDHZXP3QAp2MqNj6k6Z · nora70 (ainda não postado; versão 4, em 720p x1) https://claude.ai/artifact/6abRpvkHM6XfnP2Wup1ef8. Os links dos painéis de 10 a 16/11 estão no `HISTORICO-CLAUDE-MD.md`.
