@@ -850,6 +850,11 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
 - **Leitura (com ~3 h, sem julgar ainda; régua com ~24 h, ~22h de 18/11):** o nora69-FACE fez em 3 h o que os falados desde 12/11 fizeram em 24 h, e segurou o dobro do tempo. **Contra o nora55 na mesma idade:** o nora55 tinha 401 views e +1,7x com ~6 h, 910 e +3,4x com ~9 h, e seguiu subindo até 4.236; **as views do nora69 ficaram quase paradas entre a 1ª e a 3ª hora** (o gráfico do Insights). A leitura de ~9 h (~07h) mostra se ele volta a subir como o nora55. No Face não tem Índia (restrição de países), então o sinal é mais limpo que no Insta. Mudou muita coisa de uma vez (o hook de ação comum, a copy original com a ameaça, o visual limpo e a duração de 101 s); não dá para dizer qual delas fez a diferença. A curva ainda perde metade aos 3 s e chega a 9,7% aos 20 s, abaixo da régua de corpo da R55 (20%). O público é velho (69% com 45+), como no nora68.
 - **Nada muda agora.** O que decide é o clique: o Tracker de 17/11 fechado e o de 18/11, e o nora69 do Insta com ~24 h (~22h20).
 
+### 18/11 01h15: a Biblioteca do Face inteira em texto (25 posts, do nora51 ao nora69)
+- **Quem mudou desde as 01h09:** o nora55 de 4.236 para **4.242 views, distribuição +9,4x** (era +9,0x), 44 seguidores, 58 comentários, 53,9% nos 3 s, 8 s; o nora56 de 258 para 261; o slide1211 de 9 para 10; o nora69-FACE de 240 para 241 (quase parado desde a 1ª hora). Os outros 21 sem mudança.
+- **A distribuição na lista inteira:** nora55 +9,4x; nora69-FACE +3,5x; nora68-FACE +0,4x; a variação do nora65 +0,2x; o loop 0,0x; todos os outros negativos (−0,1x a −2,0x). No histórico do CSV, antes do nora51: o nora48 chegou a +2,4x e o nora39-VAR a +1,5x.
+- **Views no Face, os maiores de sempre:** nora55 4.242; nora58 328; face02 322; nora41 293; nora45 266; nora43 265; nora56 261; nora68-FACE 257; nora39-VAR 252; nora40 251. O nora69-FACE (241 em ~3 h) está logo abaixo; a régua dele é com ~24 h.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.

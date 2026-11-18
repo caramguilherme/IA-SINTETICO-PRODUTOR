@@ -29,3 +29,5 @@ Só ficam aqui as ferramentas em uso. Os scripts antigos (painéis de 22/10 a 10
 - `prompts/capa-face-nora.md`: o prompt da capa do Face.
 - `destaques/` (14/11): os stories e as capas dos Destaques do Insta (About me, Reviews, How it works) e os scripts `capas.py` (capa creme com lua, estrela ou brilho terracota; uso: `python3 -I ferramentas-painel/destaques/capas.py <pasta>`) e `fundo_reviews.py` (fundo desfocado + 2 prints do Trustpilot em cartão; uso: `python3 -I ferramentas-painel/destaques/fundo_reviews.py foto.jpg saida.jpg print1.png print2.png`, depois o `texto_story.py` por cima).
 - `skills/`: as skills do claude.ai do aluno (`leitura-discord-mvm`, `doc-mvm-legacy`), em pasta e em zip.
+
+- **`recordes.py` (18/11):** `python3 -I ferramentas-painel/recordes.py` imprime os recordes da Nora tirados do `METRICAS-NORA.csv` inteiro (as 10 maiores em views, as 5 em follows e em tempo médio por rede, e as 8 maiores distribuições do Face). Rodar antes de escrever "o maior", "o melhor" ou "o 1º" (regra de 18/11 01h14).
