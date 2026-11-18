@@ -861,6 +861,13 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
 - **Contra o histórico (`recordes.py` e o CSV):** os 56,2% nos 3 s são o melhor dos Reels do Insta desde 12/11 (nora59 44,2%, nora60 27,6%, nora63 42,5%, loop 41,4%, nora65 28,1%, nora66 47,3%, nora67 47,2%, nora68 51,8%), mas abaixo dos campeões de 06 a 10/11 (nora50 71,5%, nora48 70,1%, nora49 68,2%). Em views, com 3 h já tem o que o nora67 teve com ~22 h (112) e o nora68 com ~17 h (121); o recorde dos falados segue o nora49 (2.043, 19 follows).
 - **Leitura (com 3 h, sem julgar; régua da R67 com ~24 h, ~22h20):** o hook novo e o horário trouxeram o público certo (2/3 dos EUA, sem Índia) e seguraram mais nos 3 s que todos os Reels recentes, mas a fala perde quase todos até os 10 s, como antes, e ninguém foi ao perfil. No Face, o mesmo vídeo segurou mais (11 s de tempo médio). As views pararam na 1ª hora e meia nas duas redes.
 
+### 18/11 15h48: a Biblioteca do Face inteira em texto (25 linhas, do nora51 ao nora69)
+- **nora69-FACE (~17h46 de vida): 317 views** (241 com ~3 h: +76 em ~14h30, uns 5 por hora), 283 visualizadores, 18 engajamentos, 3 comentários, 0 seguidores, **distribuição +2,1x** (era +3,5x), **tempo médio 10 s**, 137 views de 3 s (43,2%), **14 de 1 min**, 49 min 53 s de tempo total.
+- **Contra o histórico (`recordes.py` e o CSV):** 4º em views no Face (nora55 4.242, nora58 328, face02 322); 3º em distribuição (nora55 +9,4x, nora48 +2,4x); 3º em tempo médio (nora40 14 s, nora48 10 s); o maior tempo total depois do nora55 (8 h 32 min). **Contra o nora55 na mesma idade:** ele tinha 910 views com ~9 h e passou de 4 mil em 2 dias; o nora69-FACE ganhou ~5 views por hora desde a 3ª hora. O Face entregou o lote de teste e não abriu para mais gente.
+- **A variação do nora65 (~20h54):** 216 views, −0,5x, 25,5% nos 3 s, 3 s. Parou, como o nora65-FACE original (236). **nora68-FACE (~39 h):** 258, +0,2x. **O loop:** 34. Os outros sem mudança; a distribuição dos antigos mexe um pouco a cada leitura (é relativa à média da Página).
+- **A linha com 1 view** entre a variação do nora65 (17/11 18h54) e o nora69-FACE (22h02) é, pela data, o story do Face de 17/11 ~19h39.
+- **Régua da R67 com ~24 h (~22h):** as 200+ views já passaram; falta o % aos 10 s (o Insights do nora69-FACE: com ~3 h, 9,7% aos 20 s) e o clique no Tracker de 17/11 e 18/11.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
