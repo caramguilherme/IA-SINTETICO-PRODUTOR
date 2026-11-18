@@ -1620,6 +1620,8 @@ O que o Clone disse da aula 19 até hoje, conferido com o texto:
 - **O zoom suave em cada parte, "em alguns vídeos só"** (aula 40, 0:18:01 a 0:18:30).
 
 ## Próximas perguntas (para o aluno fazer no notebook e colar aqui)
+**Pendente da R71 (18/11, ele não respondeu):** "Quantos cliques no link por 1.000 views um falado que vende costuma dar no Face e no Insta? Cite aula e minuto." Vai junto com a próxima dúvida.
+
 **Respondida (R24, acima):** a copy da noite do dia 11 (nora58 a nora60: T02 do lote 4 + CTA em 3 takes no molde dos vendedores da Appyon + T04 com a promessa nova de 2027), a manhã (nora56 e nora57, takes prontos), a posição do Trustpilot, o comentário depois do CTA, a legenda japonesa e a pergunta se as fontes do notebook já têm o funil novo (2027). Texto completo na resposta do agente de 11/11 ~12h10.
 
 Feitas e respondidas: R1 a R21 (07/11) e R22 (10/11, o kit do portal). Para conferir:
