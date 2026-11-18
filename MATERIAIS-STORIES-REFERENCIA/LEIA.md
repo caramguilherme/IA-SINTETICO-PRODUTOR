@@ -1,4 +1,4 @@
-# 10 stories de contas do nicho (prints do aluno, 18/11/2026 16h45 e 16h46)
+# 13 stories de contas do nicho (prints do aluno, 18/11/2026 16h45 e 16h46)
 
 **De onde veio:** o aluno tirou os prints num perfil dele que segue essas contas, para eu ver "o que eles escrevem, como eles usam, tipo a fonte, a cor, o tamanho, o tipo de foto" antes de editar o `story-1811`. Originais em JPEG (qualidade 85) nesta pasta. Não sei quantas vendas cada conta faz; a claire_mayaus é a conta que modelamos no nora69 e no nora70 (1,4 mi num reel).
 
@@ -35,3 +35,13 @@
 Música de piano calma em 3 de 10 (claire_mayaus, eduardameirelless, elenamarlowe.ofc). A bandeira dos EUA aparece na parede de uma (aula 37, 1:22:27).
 
 **Para a Nora (decidido às ~16h55):** a estrutura do "I'm really glad you're here…", a mais usada, **reescrita com as palavras da Nora** (não copiar texto igual de outra conta; a regra de 22/09 é para vídeo, e aqui vale o mesmo cuidado), em 3 caixas no meio da tela (branca, coral, branca); adesivo "TAP TO CONTINUE 🎁"; a bandeira dos EUA pequena na parede da foto, além do broche; música de piano calma do próprio app, se o aluno quiser (vai junto como parte do "jeito das contas do nicho").
+
+## Mais 3 (18/11 ~16h58)
+| Conta | Foto | Texto | Adesivo |
+|---|---|---|---|
+| mhastro_ ("Perfil gerado por IA") | à mesa em casa, de frente, luz de janela | 1 caixa creme com preto em negrito: "Most people scroll right past their answer. Don't be one of them. 👇" | "UNLOCK MY BLESSING" |
+| iamlinda.bennett (com música de piano; a conta do viral de 171 mil da `BIBLIOTECA-VIDEOS-VIRAIS.md` 49.3) | mulher de ~65 num café ao ar livre, com o café na mesa | caixa rosa-clara com letra serifada escura "You're not reading this by accident. Your biggest blessing is closer than you think." · caixa rosa-escura com branco "Take a minute to find out 👇" | "REVEAL MY BLESSING 💞" |
+| miriamlewistarot ("Perfil gerado por IA") | em casa, segurando um cristal (jaspe vermelho) perto do rosto | o mesmo texto do "I'm really glad you're here…", em caixas rosa e preta | "💗💕TAP TO CONTINUE💕💗" + uma mãozinha 3D apontando |
+
+**Contagem nas 13:** o texto "I'm really glad you're here…" em 5; música de piano em 4 (claire_mayaus, eduardameirelless, elenamarlowe.ofc, iamlinda.bennett); o adesivo "TAP TO CONTINUE" em 5, "…BLESSING" em 3 ("UNLOCK", "REVEAL" e "Don't waste this blessing" no texto), "START HERE" em 2, "CHOOSE YOUR 3 CARDS" em 2. Nada muda na decisão das ~16h55; a mulher segurando um cristal perto do rosto (miriamlewistarot) é uma ideia de foto para o próximo story.
+
