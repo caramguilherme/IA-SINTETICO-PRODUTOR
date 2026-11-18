@@ -855,6 +855,12 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
 - **A distribuição na lista inteira:** nora55 +9,4x; nora69-FACE +3,5x; nora68-FACE +0,4x; a variação do nora65 +0,2x; o loop 0,0x; todos os outros negativos (−0,1x a −2,0x). No histórico do CSV, antes do nora51: o nora48 chegou a +2,4x e o nora39-VAR a +1,5x.
 - **Views no Face, os maiores de sempre:** nora55 4.242; nora58 328; face02 322; nora41 293; nora45 266; nora43 265; nora56 261; nora68-FACE 257; nora39-VAR 252; nora40 251. O nora69-FACE (241 em ~3 h) está logo abaixo; a régua dele é com ~24 h.
 
+### 18/11 01h18: Insights do nora69 no Insta (~3 h de vida; postado ~22h20)
+- **113 views, 105 viewers, selo "strong hook", 56,2% nos 3 s (skip 43,8%), tempo médio 7 s num vídeo de 132 s, 0 visitas ao perfil, 0 follows, 0 curtidas, 1 comentário (provavelmente o fixado).** A curva cai para ~50% aos 3 a 5 s e para ~10% a 15% aos 10 s; quase ninguém chega ao CTA do fim. As views subiram até ~110 em ~1h30 e pararam, logo abaixo do reel típico (~120 com 3 h).
+- **Público: EUA 66,4%** (a maior fatia dos EUA da planilha inteira; antes, o nora66 com 59,8%), Canadá 8,0%, Reino Unido 5,3%, Austrália 4,4%, Emirados 1,8%, sem Índia; 45+ = 58,3% (o nora68 teve 71,1%).
+- **Contra o histórico (`recordes.py` e o CSV):** os 56,2% nos 3 s são o melhor dos Reels do Insta desde 12/11 (nora59 44,2%, nora60 27,6%, nora63 42,5%, loop 41,4%, nora65 28,1%, nora66 47,3%, nora67 47,2%, nora68 51,8%), mas abaixo dos campeões de 06 a 10/11 (nora50 71,5%, nora48 70,1%, nora49 68,2%). Em views, com 3 h já tem o que o nora67 teve com ~22 h (112) e o nora68 com ~17 h (121); o recorde dos falados segue o nora49 (2.043, 19 follows).
+- **Leitura (com 3 h, sem julgar; régua da R67 com ~24 h, ~22h20):** o hook novo e o horário trouxeram o público certo (2/3 dos EUA, sem Índia) e seguraram mais nos 3 s que todos os Reels recentes, mas a fala perde quase todos até os 10 s, como antes, e ninguém foi ao perfil. No Face, o mesmo vídeo segurou mais (11 s de tempo médio). As views pararam na 1ª hora e meia nas duas redes.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
