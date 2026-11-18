@@ -876,6 +876,16 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
 - **A régua da R67 (~24 h), quase fechada:** Insta, views abaixo de 200, ~15% aos 10 s, 0 visitas e 0 clique; Face, 317 views e 0 clique. **O que a R67 manda com views e sem clique:** fica o hook novo e o visual limpo, e sai a ameaça da copy (P42), com um CTA de qualificação. O nora70 de hoje é o 2º vídeo do mesmo teste (a P42 suspensa nele, decisão do aluno); a mudança vale do vídeo seguinte.
 - **Pergunta ao Clone:** R71 (`CLONE-DO-GUSTAVO-RESPOSTAS.md`).
 
+### 18/11 ~16h05: curto × longo no Insta (o aluno: "videos curtos no insta dao views, e os longos travam em 140/150")
+Conferido na planilha inteira (do nora33 ao nora69): **a divisão não é curto × longo, é sem fala × falado, e antes × depois de 11/11.**
+- **Sem fala, 8 s (placas, fitas, loop):** de 2.204 a 3.742 views (nora35, 36, 38, 41, 45, 64), com 20% a 54% de Índia; as fitas de outubro deram 12 cliques em 4 dias e 0 checkout.
+- **Falados de ~68 s, de 06 a 10/11:** nora48 1.638, nora49 2.043, nora50 1.678 (68% a 72% nos 3 s, 18 a 21 s de tempo médio); antes, o nora40 (1:29) fez 1.416 e o nora43 (1:35) 983.
+- **Falados curtos desde 11/11 (18 a 31 s):** de 120 a 219 (nora53 a nora58, nora60, nora65).
+- **Falados longos desde 11/11 (37 s a 2:12):** de 112 a 181 (nora59, nora63, nora66 a nora69).
+- **Por que o sem fala entrega:** um vídeo de 8 s visto por 5 a 9 s passa de 100% assistido (com a repetição); o nora69, de 2:12, teve 8 s de tempo médio, ~6%. O Insta empurra pela % assistida, e o público que fica no curto é o de lá (Índia e 45+).
+- **O que mudou em 11/11:** os 8 vídeos em ~24 h com a mesma copy (10 a 12/11) e, depois, a 2ª verificação facial (17/11); os falados caíram de ~70% para 28% a 56% nos 3 s. O loop de 14/11 mostra que a conta ainda entrega o sem fala.
+- **Pergunta ao Clone:** o item 5 da R71.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.

@@ -1560,6 +1560,10 @@ Perguntas:
 3. Cliques: quantos cliques no link por 1.000 views um falado que vende costuma dar no Face e no Insta? Com ~300 views no Face e 0 clique no comentário da Página, o problema é o número de views, o CTA ou o link estar só no comentário? O que as aulas mandam mudar primeiro?
 4. O abandono aos 0:03 nas duas redes: o 1º plano do hook (~3 s, sem fala) é o que mais perde. Para os próximos vídeos, depois deste teste: hook de ação mais curto, ou a avatar falando desde o 1º quadro (um aluno que vende usa "sem hook, a personagem já inicia falando", de 30 a 45 s)?
 ```
+**Item 5, acrescentado em 18/11 ~16h05** (o aluno: "o estranho é que videos curtos no insta dao views, e os longos travam em 140/150 views"; a R71 com ele fica com ~3.600 caracteres):
+```text
+5. No Insta da Nora, os vídeos sem fala de 8 s (placas, fitas e um loop) fizeram de 2,2 mil a 3,7 mil views, com 20% a 54% de Índia e 0 checkout. Os falados de ~68 s fizeram de 1,6 mil a 2 mil entre 06 e 10/11 (68% a 72% nos 3 s, 18 a 21 s de tempo médio), mas desde 11/11 todos os falados param entre 110 e 220, os curtos (18 a 31 s) e os longos (37 s a 2:12). O que as aulas dizem: o Insta empurra pela % assistida e por isso entrega o curto sem fala? Vale um curto sem fala por dia no Insta para segurar a entrega, mesmo com alunos dizendo que o curto "não vende" e ensina o algoritmo a mandar para quem consome curto?
+```
 
 ## Conferência com a transcrição da aula 19 (chegou em 16/11 ~14h35; `TRANSCRICOES/2026-06-0x-aula-19-ganchos-black-vsl-30s.md`, resumo em `MATERIAIS-AULA-19/LEIA.md`)
 O que o Clone disse da aula 19 até hoje, conferido com o texto:
