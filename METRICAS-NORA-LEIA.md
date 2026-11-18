@@ -843,6 +843,13 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
 - **17/11 até 17h54: nenhum dado** (0 clique).
 - Junto com o story (0 cliques) e as visitas ao perfil (0 e 2), o funil está parado antes do story.
 
+### 18/11 01h09: Biblioteca do Face e o Insights do nora69-FACE (~3h10 de vida)
+- **nora69-FACE (o modelo da claire_mayaus: o hook da canela no carro, a copy original e o visual limpo; 101 s), postado em 17/11 às 22h02:** **240 views, 212 visualizadores, distribuição +3,5x** (a maior de toda a lista; o melhor falado era o nora68-FACE, +1,3x com ~10 h), **tempo médio de 11 s** (os outros falados: 3 a 5 s), 111 views de 3 s (46,3%), **12 views de 1 min** (o 1º falado com views de 1 min), % média assistida 11%, **taxa de 20 s 9,7%**, 15 engajamentos (6 curtidas, 6 cliques, 3 comentários com o da Página), taxa de ocultação 0%, 100% não seguidores, 45+ = 69,4% (65+ 29,1%). As views subiram para ~220 na 1ª hora e ficaram quase paradas até as 3 h. Cliques no link: ainda sem dado.
+- **A variação do nora65 (o Face das 16h, postada às 18h54):** 212 views com ~6 h, +0,2x, 25,9% nos 3 s, tempo médio 3 s. Passou o nora65 original no Face (236 em ~3 dias, −0,8x): com outro visual e ~2,7 dias, a variação não travou.
+- **nora68-FACE com ~24 h:** 257 views (235 com ~10 h), a distribuição caiu de +1,3x para +0,4x, 38,9% nos 3 s, 4 s. **nora67-FACE:** 124 com ~29 h, −0,9x. Parados: nora66-FACE 25, nora65-FACE 236, tsu1611 10, o POV de novo 15, nora64-FACE 33, nora63-FACE 17, nora62 231.
+- **Leitura (com ~3 h, sem julgar ainda; régua com ~24 h, ~22h de 18/11):** o nora69-FACE fez em 3 h o que os outros falados fizeram em 24 h, e segurou o dobro do tempo. No Face não tem Índia (restrição de países), então o sinal é mais limpo que no Insta. Mudou muita coisa de uma vez (o hook de ação comum, a copy original com a ameaça, o visual limpo e a duração de 101 s); não dá para dizer qual delas fez a diferença. A curva ainda perde metade aos 3 s e chega a 9,7% aos 20 s, abaixo da régua de corpo da R55 (20%). O público é velho (69% com 45+), como no nora68.
+- **Nada muda agora.** O que decide é o clique: o Tracker de 17/11 fechado e o de 18/11, e o nora69 do Insta com ~24 h (~22h20).
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
