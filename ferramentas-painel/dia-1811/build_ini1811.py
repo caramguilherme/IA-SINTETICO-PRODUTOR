@@ -45,9 +45,11 @@ FIM = ('no film emulation, straight smartphone frame, no date stamp, no watermar
        'character consistency: identical face, same skin tone, same hair, same body proportions as the reference image — only wardrobe, environment, and pose change')
 PAPEIS = ('ten small pieces of lined notebook paper on the table in front of her, each torn by hand from a spiral notebook with rough, uneven torn edges and faint blue lines, each '
           'about the size of a playing card, lying flat and slightly crooked like a real person placed them, arranged in two loose rows of five; on each piece ONE large capital letter '
-          'is handwritten in thick black marker, slightly imperfect like real handwriting, filling most of the paper, upright and readable from the camera; the top row, from the left '
-          'side of the image to the right side, reads M, J, S, L, C; the bottom row, from the left side of the image to the right side, reads A, B, K, D, P; nothing else is written '
-          'anywhere on the papers,\n')
+          'is handwritten in thick black marker, slightly imperfect like real handwriting, filling most of the paper; IMPORTANT: the letters were written for the viewer, not for her: '
+          'every letter stands upright in the photo, with the top of each letter pointing away from the camera toward her and the bottom of each letter pointing toward the camera '
+          '(toward the bottom edge of the image), so the photo shows them right side up and perfectly readable, never upside down, never mirrored (from her seat they would look upside '
+          'down); the top row, from the left side of the image to the right side, reads M, J, S, L, C; the bottom row, from the left side of the image to the right side, reads A, B, '
+          'K, D, P; nothing else is written anywhere on the papers,\n')
 
 
 def img():
@@ -159,7 +161,7 @@ def montar():
             'etapas': [
                 {'tipo': 'img', 'titulo': 'Imagem: a Nora à mesa com os cristais e os 10 papéis', 'nome': IMG, 'anexar': 'só a folha da Nora (1K)',
                  'quadros': ('x4, 0 crédito. Lista: é a Nora (lua com 3 estrelinhas na bochecha do lado esquerdo da imagem, trança com anéis, brincos de estrela e lua, colar de Vênus); '
-                             '10 papéis de caderno rasgados, em 2 linhas de 5, cada um com UMA letra grande à mão: em cima M J S L C, embaixo A B K D P, sem letra repetida, torta '
+                             '10 papéis de caderno rasgados, em 2 linhas de 5, cada um com UMA letra grande à mão: em cima M J S L C, embaixo A B K D P, TODAS EM PÉ PARA QUEM VÊ A FOTO (nada de letra de cabeça para baixo: o M não pode virar W), sem letra repetida, torta '
                              'demais ou faltando; o broche da bandeira dos EUA no cardigã; o dedo da mão do lado esquerdo da imagem em cima do papel do M; os cristais sem brilho e '
                              'sem cobrir papel; 5 dedos em cada mão; o alto da imagem é só parede. Renomeie para ' + IMG + ' e me mande as 4.'),
                  'prompt': img()},
