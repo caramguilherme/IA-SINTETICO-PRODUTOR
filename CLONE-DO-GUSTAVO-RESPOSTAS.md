@@ -1578,7 +1578,7 @@ Perguntas:
   - **O curto sem fala no Insta da Nora vira teste A/B, não regra** (o Clone e a aula 21, 0:57, contra a call de 09/11, 0:58:15, e a aula 28, 0:59:04): vai para a `FILA`.
   - **O Insta da Nora segue com os 2 falados por dia** até as contas novas rodarem.
 
-## R72 (pergunta pronta em 18/11 ~16h10, pedido do aluno: "nao quer mandar as duvidas/perguntas pro clone ja?"; resposta a colar): o que faltou na R71 (cliques por 1.000 views), as duas fontes que defendem o curto, o pedido de comentário no Face e o que pesou no nora55
+## R72 (pergunta pronta em 18/11 ~16h10, pedido do aluno: "nao quer mandar as duvidas/perguntas pro clone ja?"; resposta colada às ~16h07, texto inteiro em `CLONE-ORIGINAIS/2026-11-18-R72-cliques-curto-sem-india-face.md`): o que faltou na R71 (cliques por 1.000 views), as duas fontes que defendem o curto, o pedido de comentário no Face e o que pesou no nora55
 
 ```text
 Conferi a sua última resposta nas transcrições. Faltou um número e duas fontes dizem o contrário de parte do que você disse. Responda curto, por item, com aula e minuto exatos; o que não tiver fonte, marque como opinião.
@@ -1591,6 +1591,18 @@ Conferi a sua última resposta nas transcrições. Faltou um número e duas font
 
 4. Os seus números do nora55 e do nora69-FACE estavam trocados: o nora55 teve 8 s de tempo médio em 24 s (33% assistido), e o nora69-FACE teve 3 comentários, contando o da Página. Com isso, o que mais pesou para o nora55 sair do 1º lote: a % assistida, os 58 comentários ou os 53,9% nos 3 s?
 ```
+
+**R72 (o que ele disse):** (1) story: ~30 cliques a cada 100 views (aula 21, 0:44:49); cliques por 1.000 views de Reels: não existe número nas aulas (aula 31, 0:42:01: "não tem como metrificar resultado por vídeo"); (2) o curto sem a Índia: símbolos dos EUA na tela, como um broche com a bandeirinha, e animais (Estrutura Instagram, 1:22:27 a 1:22:50; aula 28, 1:06:56), a rotina da mulher americana na tela e na legenda ("bills, rent, paycheck"; aula 18, 1:11:04), só inglês e as janelas de 19h30 e 0h00; medir pelas views dos falados antigos, as visitas ao perfil e o Tracker nas 24 a 48 h depois (aula 51, 1:06:41: o viral "puxa" os outros vídeos); (3) no Face, nada de pedido de comentário (aula 65, 1:24:30 a 1:26:11 e 1:47:17); o CTA só aponta o link ("Check the first comment below for your reading"); (4) o nora55 saiu do 1º lote pelos 53,9% nos 3 s (sem passar de ~50% a plataforma não libera; aula 28, 0:04:11 a 0:16:58; aula 43, 0:18:18) junto com os 58 comentários, ajudado pela duração curta.
+**Conferência (18/11 16h07):**
+- **Bate com as transcrições:** aula 21, 0:44:49 ("o dado que eu vi de um era mais ou menos 100 views nos stories para 30 cliques"; é um caso só); aula 31, 0:42:01 ("não tem como metrificar resultado por vídeo"; logo depois, 0:42:27, o Iorhan manda usar um link por perfil, como os nossos STORYIG e FACE); aula 37 (Estrutura Instagram), 1:22:27 a 1:22:50 ("símbolos dos Estados Unidos… um broche com a bandeirinha… animais… talvez um sotaque americano… indiano não vai ficar no vídeo"); aula 28 (variações), 1:06:46 a 1:06:56 (mulheres de 35+ gostam de cachorrinho e gatinho; o Iorhan acertou uma variação com tela dividida com animais fofos; fala do público, não da Índia).
+- **Citação errada:** a aula 18, 1:11:04, é sobre especificidade (as iniciais do nome), não "bills, rent, paycheck"; a aula 43, 0:18:18, não fala de taxa de gancho nem de 50% nos 3 s; a faixa da aula 28 (0:04:11 a 0:16:58) é larga demais para conferir (no 0:12 é a conta das variações).
+- **Bate com a nossa regra:** o item 3 (sem pedido de comentário no Face); ele desfez a sugestão da R71.
+- **Sem fonte (opinião):** "sem passar de ~50% nos 3 s a plataforma não libera" e "os comentários são o principal gatilho no Face". Nos nossos números, o nora55 (53,9%) saiu do lote, mas o nora48 (51,4%) parou em 185; os do mesmo hook no mesmo dia (nora56 42,1%, nora58 42,4%) pararam em 261 e 328.
+- **Sem como conferir:** as aulas 51 e 65 (não transcritas).
+- **O que muda:**
+  - **Régua do story: ~30% de quem vê o story clica** (aula 21, um caso). O nosso de 14/11 bateu (8 cliques em 27 viewers); o de 17/11, 0 em 21. O gargalo segue antes do story (as visitas ao perfil).
+  - **O teste do curto sem fala no Insta (`FILA`) ganha o "como fazer" e o "como medir"** da aula 37 e da aula 28.
+  - **No Face, a meta do hook é passar de 50% nos 3 s** (opinião do Clone, coerente com o nora55; não é regra).
 
 ## Conferência com a transcrição da aula 19 (chegou em 16/11 ~14h35; `TRANSCRICOES/2026-06-0x-aula-19-ganchos-black-vsl-30s.md`, resumo em `MATERIAIS-AULA-19/LEIA.md`)
 O que o Clone disse da aula 19 até hoje, conferido com o texto:
