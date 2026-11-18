@@ -1,4 +1,4 @@
-# 5 stories de contas do nicho (prints do aluno, 18/11/2026 16h45)
+# 10 stories de contas do nicho (prints do aluno, 18/11/2026 16h45 e 16h46)
 
 **De onde veio:** o aluno tirou os prints num perfil dele que segue essas contas, para eu ver "o que eles escrevem, como eles usam, tipo a fonte, a cor, o tamanho, o tipo de foto" antes de editar o `story-1811`. Originais em JPEG (qualidade 85) nesta pasta. Não sei quantas vendas cada conta faz; a claire_mayaus é a conta que modelamos no nora69 e no nora70 (1,4 mi num reel).
 
@@ -18,3 +18,20 @@
 - **A foto é a avatar no dia a dia** (café, casa, carro, praia), olhando para a câmera, como foto de celular; 4 das 5 têm o selo de IA do Instagram.
 
 **O que serve para a Nora (decidido às ~16h50):** o `texto_story_nativo.py` passou a fazer as caixas no meio da tela, uma branca e outra coral, com emoji; a foto do `story-1811` foi refeita no painel com o peito livre para o texto e a estátua na altura do ombro; o adesivo com texto próprio ("SEE YOUR 2027 ✨") e, se o aluno quiser, o GIF da mãozinha. **O que não serve:** "Don't waste this blessing" (ameaça leve, P42) e os brilhos de IA (regra de 17/11). **Vai para a `FILA`:** "CHOOSE YOUR 3 CARDS" no adesivo (é o B do teste "as cartas na fala e no CTA") e a música no story (a claire usa).
+
+## Mais 5 (18/11 ~16h50)
+| Conta | Foto | Texto | Adesivo |
+|---|---|---|---|
+| eduardameirelless (com música "Piano Dreams") | mulher careca junto à janela, luz de dia | 3 caixas: branca "I'm really glad you're here. Most people scroll away before hearing the full message... but you didn't." · marrom-escura com branco "That's why I wanted to share the rest of it with you here." · branca "Just follow the next step below, and I think you'll finally understand why this message found you today." | "TAP O CONTINUE 🎁" (com erro de digitação) |
+| eleanorsoracle ("Perfil gerado por IA") | selfie no carro | o mesmo texto da philjones.p92 (coral "You came across this for a reason. You were meant to see it." · branca "Don't waste this blessing") | "CHOOSE YOUR 3 CARDS ❤️✨" |
+| patriciaastrodaily ("Perfil gerado por IA") | sentada no sofá, falando, cardigã | o mesmo texto da takedanaomi_, em caixas rosa-claro com letra vermelha | "START HERE" |
+| elenamarlowe.ofc (com música "Interstellar", piano) | selfie no sofá, **bandeira dos EUA na parede** | o mesmo texto da eduardameirelless, em 3 caixas (branca, bege-escura, branca), alinhado à esquerda | "🎁 TAP TO CONTINUE ❤️" |
+| avaokafor ("Perfil gerado por IA") | em pé em casa, segurando um medalhão dourado do zodíaco | o mesmo texto da eduardameirelless, em caixas rosa e preta, letra condensada (a 1ª caixa no alto, acima da cabeça) | "💗💕TAP TO CONTINUE💕💗" |
+
+**O que as 10 mostram juntas:** circulam **3 textos prontos**, copiados entre contas (provavelmente de um material comum):
+- **o "I'm really glad you're here…"** (4 de 10: jasonmonroe222, eduardameirelless, elenamarlowe.ofc, avaokafor), sempre em 3 caixas: (1) premia quem viu o vídeo até o fim ("most people scroll away… but you didn't"), (2) o motivo ("that's why I wanted to share the rest of it with you here"), (3) a instrução ("just follow the next step below… you'll finally understand why this message found you today"); adesivo "TAP TO CONTINUE" com 🎁;
+- o "You came across this for a reason… Don't waste this blessing" (2 de 10), adesivo "CHOOSE YOUR 3 CARDS";
+- o "Stop guessing where you stand…" (2 de 10), adesivo "START HERE".
+Música de piano calma em 3 de 10 (claire_mayaus, eduardameirelless, elenamarlowe.ofc). A bandeira dos EUA aparece na parede de uma (aula 37, 1:22:27).
+
+**Para a Nora (decidido às ~16h55):** a estrutura do "I'm really glad you're here…", a mais usada, **reescrita com as palavras da Nora** (não copiar texto igual de outra conta; a regra de 22/09 é para vídeo, e aqui vale o mesmo cuidado), em 3 caixas no meio da tela (branca, coral, branca); adesivo "TAP TO CONTINUE 🎁"; a bandeira dos EUA pequena na parede da foto, além do broche; música de piano calma do próprio app, se o aluno quiser (vai junto como parte do "jeito das contas do nicho").

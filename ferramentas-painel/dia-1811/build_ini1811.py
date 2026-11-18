@@ -99,7 +99,7 @@ def img_story():
             'FRAMING, in percent of the image height from the top: the top of her head at about 12 percent, her eyes at about 24 percent; the angel statue between about 18 and 45 '
             'percent, on the left side of the image, beside her face; from 44 to 72 percent only the plain front of her cream cardigan and black top, with nothing in front of it '
             '(this area stays empty for text and a link sticker); the table edge at about 74 percent; the crystals and the papers between about 76 and 92 percent,\n'
-            'cozy real lived-in American living room, a plain warm beige wall behind her, the edge of a sofa with a knitted throw at the side of the frame,\n'
+            'cozy real lived-in American living room, a plain warm beige wall behind her with a small American flag hanging on it on the right side of the image, partly visible behind her shoulder, the edge of a sofa with a knitted throw at the side of the frame,\n'
             'warm light from a small table lamp on the right side of the image, a little uneven, like a real phone photo indoors; no studio light, no ring light,\n' + PELE +
             'shot on a smartphone camera, iPhone 15 main camera: looks exactly like a real casual photo taken with an iPhone, slight phone grain, everything in focus, no bokeh, no filter, '
             'f/8 aperture, ISO 640, 1/60s shutter speed, natural depth of field, background stays readable, mild sensor noise in the shadows,\n' + FIM_STORY)
@@ -144,7 +144,7 @@ def montar():
         'respostas_face': {'insta': INSTA_RESP, 'face': []},
         'story': {'ja_postado': False, 'nota': ('STORY NOVO DE HOJE (' + STORY + ', no lugar do story-1211): gere a foto pelo item 3 da seção Clipe (x4, 0 crédito) e ME MANDE AS 4 até ~18h15; '
                   'eu escolho, ponho o texto (no jeito das contas do nicho: caixas do próprio Instagram no meio da tela) e devolvo em ~10 min. Poste ANTES do curto (e antes de ~19h39, quando o story-1211 vence), ao vivo, no Insta e no Face, '
-                  'com o adesivo de link logo abaixo do texto, no centro (texto do adesivo: SEE YOUR 2027 ✨; se quiser, o GIF da mãozinha clicando em cima dele). Insta (STORYIG): ' + IG + ' · Face (FACE): ' + FB)},
+                  'com o adesivo de link logo abaixo do texto, no centro (texto do adesivo: TAP TO CONTINUE 🎁, como 4 das 10 contas do nicho; se quiser, o GIF da mãozinha clicando e uma música de piano calma do próprio app). Insta (STORYIG): ' + IG + ' · Face (FACE): ' + FB)},
         'central': {'imagem_unica': True,
                     'conferir': ('Conferir: é a Nora (lua com 3 estrelinhas, trança com anéis, brincos de estrela e lua); os 10 papéis continuam iguais e legíveis do começo ao fim '
                                  '(M J S L C em cima, A B K D P embaixo); o dedo passa sem parar e sem mexer os papéis; no fim ela abre os braços e sorri; boca fechada; 5 dedos em cada mão.'),
