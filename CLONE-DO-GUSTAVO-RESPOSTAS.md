@@ -1537,6 +1537,30 @@ Responda curto, por item, com aula e minuto exatos, e marque o que for opinião.
   - **A régua do avatar:** a da aula 54 para largar a conta, e a nossa para escolher a campeã (o mesmo vídeo nos 4 avatares por 7 a 10 dias: aos 10 s, comentários ÷ views, visitas ao perfil e cliques). O "20 vídeos abaixo de 50" fica como opinião.
   - **O Muse:** já está em teste na Nora (o nora70), decisão do aluno.
 
+## R71 (pergunta pronta em 18/11 ~16h, pedido do aluno: "se surgir alguma duvida, vc elabora uma pergunta pro clone dps do envio das metricas do face e insta"; ~2.950 caracteres; resposta a colar): o Insta no teto, o Face que não sai do 1º lote, os cliques e o abandono aos 0:03
+
+```text
+Preciso da sua leitura destes números, com aula e minuto exatos; o que não tiver fonte, marque como opinião. Responda curto, por item.
+
+Contexto: a Nora (IA, Manifestation). Insta em recuperação (2 verificações faciais, a última em 17/11), com 2 posts por dia (19h30 e 0h00 de Brasília). 1 Página do Face com restrição de país (EUA, CA, UK, AU, NZ), sem Índia. Link só no story (Insta) e no comentário fixado da Página (Face).
+
+Ontem (17/11) foi o nora69, modelado de uma conta que viraliza no nicho: hook de ação comum de ~6,8 s (a canela no tapete do carro), flash branco, a fala na mesma cena, a copy original dela e o visual limpo. 1:41 no Face (sem pedido de comentário) e 2:12 no Insta.
+
+Números com ~18 h:
+- Insta: 121 views (parou na 1ª hora e meia), "strong hook", 55,9% nos 3 s, ~15% aos 10 s, tempo médio 8 s, 0 visitas ao perfil, 0 follows, EUA 62%, 45+ 58%.
+- Face: 317 views; distribuição +3,5x com 3 h e +2,1x com 18 h (desde a 3ª hora, ~5 views por hora); 43,2% nos 3 s; 8,8% aos 20 s; tempo médio 10 s; 14 views de 1 min; 0 seguidores; 45+ 71%. Nas duas redes, o maior abandono é aos 0:03.
+- Tracker: 0 clique em 17/11 e em 18/11. Desde 27/10: ~38 cliques, ~17 quizzes terminados, 0 checkout.
+- Histórico: no Insta, os falados desde 11/11 ficaram todos entre 110 e 190 views, com hooks, edição, horário e duração diferentes; o loop de 8 s sem fala (14/11) fez 2.204 (54% de Índia). No Face, só o nora55 (11/11: o tsunami de ~4 s + 3 frases faladas, 24 s no total) saiu do 1º lote: 4.242 views, +9,4x, 53,9% nos 3 s, 58 comentários, 44 seguidores. Todos os outros pararam abaixo de 330.
+
+Pelo seu critério da R46 ("6 vídeos na grade certa colados em ~140, mesmo com retenção boa e sem Índia = teto do perfil"), o Insta da Nora está no teto. Já decidimos abrir 3 contas novas (avatares novos), que levam ~7 dias de aquecimento.
+
+Perguntas:
+1. Até as contas novas rodarem: o que as aulas mandam fazer com um Insta no teto? Seguir com os 2 falados por dia, trocar por um formato que entrega (o loop curto, mesmo com Índia), postar menos ou pausar? Por quantos dias?
+2. Face: o que faz um Reels sair do 1º lote e seguir subindo, como o nora55, em vez de parar em ~300 como o nora69-FACE? A retenção dos 3 s, os comentários, os compartilhamentos, a duração (24 s × 101 s)? O que mudar no próximo falado do Face?
+3. Cliques: quantos cliques no link por 1.000 views um falado que vende costuma dar no Face e no Insta? Com ~300 views no Face e 0 clique no comentário da Página, o problema é o número de views, o CTA ou o link estar só no comentário? O que as aulas mandam mudar primeiro?
+4. O abandono aos 0:03 nas duas redes: o 1º plano do hook (~3 s, sem fala) é o que mais perde. Para os próximos vídeos, depois deste teste: hook de ação mais curto, ou a avatar falando desde o 1º quadro (um aluno que vende usa "sem hook, a personagem já inicia falando", de 30 a 45 s)?
+```
+
 ## Conferência com a transcrição da aula 19 (chegou em 16/11 ~14h35; `TRANSCRICOES/2026-06-0x-aula-19-ganchos-black-vsl-30s.md`, resumo em `MATERIAIS-AULA-19/LEIA.md`)
 O que o Clone disse da aula 19 até hoje, conferido com o texto:
 - **R57 ("as aulas defendem o gancho bizarro ou chocante para parar o scroll… aula 19, 0:04:25 a 0:13:10"): citação esticada.** O trecho é sobre **ganchos de duplo sentido, de conotação sexual** (banana, milho, chocolate, salsicha: "Isso é duplo sentido, entendeu?", 0:05:48; "o nosso público é velho, ele já entende as coisas", 0:12:08). E o próprio Gustavo diz que "não é regra… vai converter legal igual com todos aqueles outros estilos de hook" (0:31:59) e "não necessariamente precisa de um gancho de duplo sentido" (1:07:24). **A decisão da R57 (o tsunami fica) não muda**, porque se apoia nos nossos números: 4.236 no Face e 66% a 71% nos 3 s no Insta. Mas a aula 19 não serve de fonte para "gancho chocante" em geral. O duplo sentido fica fora (puxa homem e Índia, aula de ~10/07, 0:56:54).

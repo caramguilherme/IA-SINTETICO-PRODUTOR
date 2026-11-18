@@ -869,6 +869,13 @@ O aluno acompanha as métricas no dashboard "Métricas da Nora" da 6ª conta (li
 - **Régua da R67 com ~24 h (~22h):** as 200+ views já passaram; falta o % aos 10 s (o Insights do nora69-FACE: com ~3 h, 9,7% aos 20 s) e o clique no Tracker de 17/11 e 18/11.
 - **O Insights do nora69-FACE (~15h50, ~17h50 de vida):** o maior abandono é aos 0:03 (o fim do 1º plano do hook); % média assistida 10%; **taxa de 20 s 8,8%** (era 9,7% com ~3 h); 100% não seguidores; 97,5% pelos Reels; **45+ = 70,7%** (65+ 27,4%, 55-64 26,8%); cliques no link ainda sem dado. O Face não dá o % aos 10 s em número: entre os 43,2% aos 3 s e os 8,8% aos 20 s. O comentário da Página está com o link FACE inteiro (com o `&aff=dl7zx6ks`).
 
+### 18/11 15h54: o nora69 no Insta com ~17h35 e o Tracker de 17 e 18/11
+- **Insta: 121 views** (113 com ~3 h; a curva parou em ~120 desde ~1h30, abaixo do reel típico, ~145 com 24 h), 111 viewers, "strong hook", **55,9% nos 3 s**, tempo médio 8 s em 2:12, pela curva ~50% aos ~5 s e **~15% aos ~10 s**, **0 visitas ao perfil**, 0 follows, 0 curtidas, 1 comentário; 93,4% não seguidores; **EUA 62,0%**, Canadá 7,4%, Reino Unido 5,8%, Austrália 4,1%, Quênia 1,7%, sem Índia; 45+ = 57,9%.
+- **Tracker (o aluno, 15h54): 17/11 fechado com 0 clique e 18/11 até agora com 0.** Nem o link do comentário da Página no nora69-FACE (317 views) nem o story levaram ninguém ao quiz.
+- **Contra o histórico:** no Insta, desde 11/11, os falados ficaram entre 110 e 190 views (nora59 149, nora60 181, nora63 159, nora65 151, nora66 127, nora67 112, nora68 121, nora69 121); o loop fez 2.204 (54% de Índia). **Pelo critério da própria R46** ("6 vídeos na grade certa colados em ~140, mesmo com retenção boa e sem Índia = teto do perfil"), o Insta da Nora está no teto: o nora69 teve o melhor começo (55,9%), 2/3 do público dos EUA e o mesmo número.
+- **A régua da R67 (~24 h), quase fechada:** Insta, views abaixo de 200, ~15% aos 10 s, 0 visitas e 0 clique; Face, 317 views e 0 clique. **O que a R67 manda com views e sem clique:** fica o hook novo e o visual limpo, e sai a ameaça da copy (P42), com um CTA de qualificação. O nora70 de hoje é o 2º vídeo do mesmo teste (a P42 suspensa nele, decisão do aluno); a mudança vale do vídeo seguinte.
+- **Pergunta ao Clone:** R71 (`CLONE-DO-GUSTAVO-RESPOSTAS.md`).
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
