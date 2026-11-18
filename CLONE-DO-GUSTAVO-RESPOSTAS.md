@@ -1604,7 +1604,7 @@ Conferi a sua última resposta nas transcrições. Faltou um número e duas font
   - **O teste do curto sem fala no Insta (`FILA`) ganha o "como fazer" e o "como medir"** da aula 37 e da aula 28.
   - **No Face, a meta do hook é passar de 50% nos 3 s** (opinião do Clone, coerente com o nora55; não é regra).
 
-## R73 (pergunta pronta em 18/11 ~19h30, pedido do aluno: "faz uma pergunta pro clone… sobre essa caixa no topo e as cores e estilos, eu achei o amarelo muito feio, poluido… se for o caso, eu pego a aula que ele cita e te mando a transcriçao"; resposta a colar): a caixa do topo, as cores e o estilo
+## R73 (pergunta pronta em 18/11 ~19h30, pedido do aluno: "faz uma pergunta pro clone… sobre essa caixa no topo e as cores e estilos, eu achei o amarelo muito feio, poluido… se for o caso, eu pego a aula que ele cita e te mando a transcriçao"; resposta colada às ~19h25, texto inteiro em `CLONE-ORIGINAIS/2026-11-18-R73-caixa-do-topo-cores.md`): a caixa do topo, as cores e o estilo
 
 ```text
 Quero a sua leitura sobre o texto na tela dos vídeos da Nora: a caixa do topo, as cores e o estilo. Responda curto, por item, com aula e minuto exatos; o que não tiver fonte, marque como opinião.
@@ -1624,6 +1624,28 @@ Perguntas:
 3. Caixa no topo ou sem caixa: o que as aulas e os virais de quem vende mostram para um falado de 40 a 60 s no Manifestation? Se tiver caixa, qual cor, fonte, tamanho e por quanto tempo?
 4. A legenda: o "simples e orgânico" da aula 43 (fonte do sistema, contorno fino) contra o nosso Poppins Bold com contorno grosso e destaque amarelo. Qual seguir?
 5. Se o aluno quiser um visual menos poluído e ainda legível para mulheres de 45+, qual combinação as aulas sustentam?
+```
+
+**R73 (o que ele disse):** (1) em nenhum minuto das aulas 19, 40 e 57 o Gustavo manda usar a caixa amarela com preto: **a caixa amarela da R50 foi opinião dele, sem fonte**; (2) nenhuma aula compara cores: é gosto e legibilidade ("é a escolha de cada um", aula 19, 0:55:28; aula 43, 1:12:15); (3) sem caixa no topo é o padrão dos virais (aula 65, 1:04:35; aula 31, 0:27:30); com caixa, no máximo 2 linhas e só durante o gancho (aula 43, 1:11:52; aula 57, 0:34:50); (4) legenda simples, fonte do sistema e contorno fino (aula 43, 1:03:54 a 1:05:46; aula 57, 0:34:00; aulas 25 e 14); (5) o conjunto: sem caixa (ou branca só no gancho), legenda do sistema com contorno fino e até 2 linhas, **1 número só (11:11)** branco e pequeno, seta vermelha ou verde só no CTA.
+**Conferência (18/11 19h30):**
+- **Bate com as transcrições:** aula 43, 1:03:22 a 1:05:02 (legenda "simples… orgânico… padrãozinho", fonte System com "contorninho", "não vai botar uma legenda assim… que eu mato vocês"); **aula 43, 1:11:52 a 1:12:46: a headline "acima da cabeça, no topo do vídeo", "mega resumo da copy" em 2 linhas, e o Gustavo testa as cores: "não gostei dela vermelha não, amarela não, vou botar a branca com vermelho… minha redline tá bala"** (ele recusou a amarela); aula 19, 0:55:18 a 0:55:28 (o fundo vermelho arredondado é gosto: "se não quiser… não precisa"); aula 57, 0:34:00 (contorno fino, sem fundo sólido); aula 40, 0:20:34 a 0:20:52 (a seta vermelha nos segundos finais).
+- **Exagerou:** a aula 57 (0:34:50) diz que a headline fica só no gancho **se ele desmarcar a opção** ("se eu não quiser que apareça durante o vídeo todo"), é escolha, não regra.
+- **Citação errada:** a aula 31 (0:27:30) é sobre se sentir sobrecarregado e contratar ajuda, não sobre visual limpo; a aula 14 (0:43:42) diz o contrário do que ele usou: "uma edição mais simples, que funciona muito bem, porém… a edição mais dopaminérgica… vai funcionar melhor ainda".
+- **Contradiz ele mesmo:** "1 número só" (na R60 ele chamou isso de opinião, com 1, 2 ou 3 números com precedente; aula 40, 0:29:04: um número de anjo numa variação, um emoji na outra); a legenda (na R50, a nossa de 3 palavras em Poppins Bold com contorno grosso "está perfeita").
+- **Sem como conferir:** aulas 25 e 65 (não transcritas).
+- **O que fica (proposta ao aluno, que decide o estilo):** a caixa do topo, quando houver, **branca com letra preta e o destaque em vermelho**, em 2 linhas, acima da cabeça, como o Gustavo fez na aula 43 (1:12:46) depois de recusar a amarela; a legenda mais simples (aula 43); os 2 números brancos ficam (R60); o visual limpo (sem caixa) já está em teste no nora69 e no nora70.
+- **Volta para ele (R74):** os números, a legenda e a aula 31.
+
+## R74 (pergunta pronta em 18/11 19h30: as contradições da R73; resposta a colar)
+
+```text
+Conferi a sua resposta nas transcrições. Três pontos não batem; responda curto, com aula e minuto exatos, e marque o que for opinião.
+
+1. Os números na tela: agora você diz "apenas 1 número de anjo (11:11)". Na R60 (16/11) você mesmo disse que "1 número só" era opinião de direção de arte, e que 1, 2 ou 3 números têm precedente nas aulas 40 e 57. Na aula 40 (0:29:04) o Gustavo põe "um número de anjo e zero emoji" numa variação e "zero número de anjo, um emoji" na outra. Hoje usamos 2 números brancos pequenos (222 à esquerda e 11:11 à direita). Qual vale, e com que fonte?
+
+2. A legenda: na R50 você disse que a nossa legenda (3 palavras por vez, Poppins Bold, contorno preto grosso, destaque amarelo) "está perfeita"; agora manda a fonte do sistema com contorno fino, como na aula 43 (1:04:39). E a aula 14 (0:43:42) que você citou diz: "uma edição mais simples, que funciona muito bem, porém tem a edição mais dopaminérgica também, que vai funcionar melhor ainda". Qual seguir num falado de 40 a 60 s?
+
+3. Você citou a aula 31 (0:27:30) para o visual limpo de "perfis de autoridade", mas nesse trecho o Iorhan fala de se sentir sobrecarregado e contratar ajuda. De onde vem o visual limpo para perfis de autoridade?
 ```
 
 ## Conferência com a transcrição da aula 19 (chegou em 16/11 ~14h35; `TRANSCRICOES/2026-06-0x-aula-19-ganchos-black-vsl-30s.md`, resumo em `MATERIAIS-AULA-19/LEIA.md`)
