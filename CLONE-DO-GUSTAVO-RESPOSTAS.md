@@ -1656,6 +1656,23 @@ Conferi a sua resposta nas transcrições. Três pontos não batem; responda cur
 - **Para a Nora:** o "sem pintura na cara" (aula 65) toca a lua e as estrelinhas no rosto dela; a avatar desta conta não muda (R19 e R21), e o teste "sem a lua, com um traço real" já está reservado para as contas novas.
 - **Não precisa voltar para ele:** o que sobrou de contradição é de leitura (ele chamou de "dopaminérgica" a legenda e de "visual limpo" o avatar), e as transcrições já resolvem.
 
+## R75 (pergunta pronta em 18/11 ~19h37, pedido do aluno: "nao tem nenhuma pergunta/duvida pra fazer pro clone mesmo? pra sanarmos algumas duvidas"; resposta a colar): a legenda (R73 contra R74), a caixa do topo só no gancho e o visual limpo das aulas 65 e 26
+Conferi a R73 e a R74 nas transcrições. Sobrou uma contradição sua e duas dúvidas. Responda curto, com aula e minuto exatos, cole o trecho literal da transcrição e marque o que for opinião. Se a fonte não disser, responda "a fonte não diz".
+
+1. A legenda. Na R73 você mandou seguir a legenda simples da aula 43 (fonte do sistema, contorno fino, no máximo 2 linhas). Na R74 disse que a nossa (3 palavras por vez, Poppins Bold, contorno grosso, destaque amarelo) é a "dopaminérgica", de maior retenção, pela aula 14 (0:43:42). Mas nesse minuto o Gustavo diz "Legendinha. Mano, temos duas formas de edição…": a legenda entra nas duas, e a simples é a legenda com a música. Na aula 12 (0:23:53) a dopaminérgica é "uma edição mais dinâmica, mais detalhada, principalmente no gancho… nos primeiros 15 a 30 segundos", e na aula 14 ele faz isso ilustrando a fala com imagens, animação de entrada, efeito sonoro e zoom. Na aula 57 (0:33:41 a 0:34:00) ele escolhe 5 palavras por bloco, "fundinho sólido não", contorno de 1.
+a) Existe algum trecho em que o Gustavo ou o Iorhan liguem o estilo da legenda (quantas palavras por vez, fonte em negrito, destaque colorido, contorno grosso) à retenção ou ao clique? Cole o trecho.
+b) Se não existir, qual das suas duas respostas fica: a R73 ou a R74?
+
+2. A caixa do topo. Na R73 você recomendou a headline só nos 3 a 5 s do gancho (aula 57, 0:34:50). Nesse trecho isso aparece como uma opção do editor ("eu posso deixar ela aparecendo durante o vídeo todo… se eu não quiser… deixo desmarcado"), sem dizer qual rende mais.
+a) Alguma aula compara a headline o vídeo todo com a headline só no gancho, com resultado?
+b) Nos vídeos de quem vende que o Gustavo mostra como exemplo, a headline fica o vídeo todo ou só no gancho? Aula e minuto.
+c) Na aula 43 (1:12:46), "vou botar a branca com vermelho": a transcrição diz se o vermelho é a letra inteira ou só uma palavra em destaque?
+
+3. O visual limpo das aulas 65 e 26. Cole o trecho literal da aula 65 (1:04:35 a 1:08:09) e da aula 26 (1:05:06 a 1:07:48). A Nora tem uma lua e 3 estrelinhas pintadas na bochecha, a "pintura na cara" que você citou. Na R19 e na R21 você disse para não mexer na avatar de uma conta que já roda (ela passa nas réguas) e testar avatar nova só em conta nova.
+a) O Iorhan manda trocar o visual de uma avatar que já está rodando, ou fala de como criar as novas?
+b) Ele cita algum número (conversão, views, cliques) de avatar limpa contra avatar mística?
+c) Para as 3 avatares novas que vamos criar (1 no Manifestation e 2 no Risely), o que essas duas aulas mandam no rosto, na roupa e no cenário?
+
 ## Conferência com a transcrição da aula 19 (chegou em 16/11 ~14h35; `TRANSCRICOES/2026-06-0x-aula-19-ganchos-black-vsl-30s.md`, resumo em `MATERIAIS-AULA-19/LEIA.md`)
 O que o Clone disse da aula 19 até hoje, conferido com o texto:
 - **R57 ("as aulas defendem o gancho bizarro ou chocante para parar o scroll… aula 19, 0:04:25 a 0:13:10"): citação esticada.** O trecho é sobre **ganchos de duplo sentido, de conotação sexual** (banana, milho, chocolate, salsicha: "Isso é duplo sentido, entendeu?", 0:05:48; "o nosso público é velho, ele já entende as coisas", 0:12:08). E o próprio Gustavo diz que "não é regra… vai converter legal igual com todos aqueles outros estilos de hook" (0:31:59) e "não necessariamente precisa de um gancho de duplo sentido" (1:07:24). **A decisão da R57 (o tsunami fica) não muda**, porque se apoia nos nossos números: 4.236 no Face e 66% a 71% nos 3 s no Insta. Mas a aula 19 não serve de fonte para "gancho chocante" em geral. O duplo sentido fica fora (puxa homem e Índia, aula de ~10/07, 0:56:54).
