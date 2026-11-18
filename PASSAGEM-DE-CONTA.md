@@ -4,14 +4,29 @@ O aluno usa uma conta do Claude até o limite semanal acabar e passa para outra.
 
 **Branch com tudo:** `claude/lucid-planck-zz5ob8` do repositório `caramguilherme/ia-sintetico-produtor` (a `main` foi atualizada com ela em 10/11 ~17h20; mesmo assim, a sessão nova traz a branch, como abaixo, para pegar o que veio depois).
 
-## 0. Prioridade da próxima conta (revisto em 18/11/2026 ~08h; atualizar a cada passagem)
-**O estado do dia está na seção 1 do `CLAUDE.md`** ("Agora", "Esperando do aluno", "Postado", links dos painéis). Em 18/11: o Insta em recuperação, 2 por dia (19h30 e 0h00; R35 a R38); o painel do dia sai de um gerador novo, no molde do `ferramentas-painel/dia-1711/build_dia_1711.py` (o mais recente, em 720p x1), só depois do "pode montar" do aluno. Os créditos vêm de 4 contas Flow Ultra (~40 mil por mês, até 18/11/2027; `FATOS-DO-ALUNO.md`), e nunca se pergunta o saldo. Ordem na conta nova:
-1. **Ambiente** (passo 1b da seção 3): sem Drive e Hugging Face não dá para baixar o montado nem transcrever.
-2. **Painéis dos vídeos ainda não postados** (seção 1 do `CLAUDE.md` diz quais): rodar o gerador, `node ferramentas-painel/conferir-painel.js PAINEL-NORANN.html` ("ERR: nenhum") e publicar nesta conta; trocar os links na seção 1 do `CLAUDE.md`. Se a imagem da cena ainda não foi aprovada, o LIVRE, as movimentações e os números estão provisórios: fechar pela imagem aprovada (P32) e republicar no mesmo link.
-3. **Edição (P45) de cada montado** pela skill `editar-video-nora` (inclui o corte de repetição do Flow, a avaliação do Trustpilot e o `-FACE` pelo `variacao_face.py`).
-4. **Story:** repostar antes de vencer (24 h); o texto de cada dia está no painel do dia.
-5. **Depois:** o dashboard "Métricas da Nora" nesta conta (passo 3 da seção 3) e as métricas que o aluno mandar (skill `metricas-nora`).
+## 0. Prioridade da próxima conta (revisto em 18/11/2026 ~08h45, na passagem da 6ª para a próxima conta, pedida pelo aluno: "não quero perder nada nessa mudança")
+**O estado do dia está na seção 1 do `CLAUDE.md`** ("Agora", "Esperando do aluno", "Postado", links). Em 18/11: o Insta em recuperação, 2 por dia (19h30 e 0h00; R35 a R38); o Face com 6 horários (9h, 12h, 16h, 19h30, 21h30 e 0h00); o painel de um dia novo sai de um gerador novo, no molde do `ferramentas-painel/dia-1711/build_dia_1711.py` (o mais recente, em 720p x1), só depois do "pode montar" do aluno. Os créditos vêm de 4 contas Flow Ultra (~40 mil por mês, até 18/11/2027; `FATOS-DO-ALUNO.md`), e nunca se pergunta o saldo. **Nada ficou fora do repositório:** os vídeos finais do nora69 ficaram no scratchpad da 6ª conta e já foram postados; as palavras, os cortes de silêncio e o mapa da edição dele estão em `ferramentas-painel/ferramentas/specs/` (`palavras-nora69-montado.json`, `cortes-silencio-nora69.json`, `mapa-nora69-insta.json` e `mapa-nora69-FACE.json`). Ordem na conta nova:
+1. **Trazer a branch:** `git fetch origin claude/lucid-planck-zz5ob8` e `git merge --ff-only origin/claude/lucid-planck-zz5ob8` (a `main` foi atualizada igual à branch em 18/11 ~08h45, com o ok do aluno). Anotar na seção 1 do `CLAUDE.md` qual conta é a nova.
+2. **Ambiente** (passo 1b da seção 3): `pip install -q faster-whisper gdown` e testar o Drive e o Hugging Face; sem eles não dá para baixar o montado nem transcrever.
+3. **Republicar o painel do nora70** (o único ainda não postado): ler o `PAINEL-NORA70.html` inteiro, `node ferramentas-painel/conferir-painel.js PAINEL-NORA70.html` ("ERR: nenhum") e publicar como Artifact nesta conta; trocar o link na seção 1 do `CLAUDE.md`. **Não rodar o `build_dia_1711.py` sem precisar:** ele regrava também o `PAINEL-NORA69.html` na raiz (que já está em `arquivo/paineis/`); se rodar, apagar a cópia da raiz.
+4. **Apresentar ao aluno as 7 decisões do pente fino de 18/11** (ele disse que responde na conta nova; texto abaixo), uma lista numerada, para ele dizer os números.
+5. **O dia 18/11:**
+   - o story (repostado em 17/11 ~19h39) vence ~19h39: repostar antes, no Insta e no Face; o story em rodízio é o `story-1211`, repostado desde 12/11 (o adesivo com o link STORYIG no Insta e FACE no Face, sempre inteiro, com o `&aff=dl7zx6ks`, copiado do `FATOS`);
+   - **o nora70:** quando o aluno mandar os 2 clipes do hook (o alçapão com a estátua) e o `nora70-montado`, montar o hook pelo `ferramentas-painel/dia-1711/montar_hook_nora69.py` adaptado (os trechos e o texto do topo mudam) e editar pelo `editar_nora69_limpo.py` adaptado (as constantes `V0` e `FIM_HOOK`, os cortes de silêncio e o corte das repetições são do nora69: transcrever o novo com o `transcrever_palavras.py` e refazer; o Face sem o T10 a T12). A minha recomendação era Insta às 19h30 e o Face quando editado;
+   - **os horários do Face** (9h, 12h, 16h, 21h30): lembrar o aluno perto de cada um (regra de 17/11 18h50), só com peça dentro das regras do Face;
+   - **a leitura do nora69 com ~24 h** (Face ~22h, Insta ~22h20; régua da R67), o Tracker de 17/11 fechado e o dashboard recriado (passo 6 abaixo) antes de anotar;
+   - a resposta do carloscs, quando chegar.
+6. **Recriar o dashboard "Métricas da Nora"** nesta conta (passo 3 da seção 3); trocar o link na seção 1 do `CLAUDE.md`.
+7. **Edição (P45) de cada montado** pela skill `editar-video-nora` (o padrão de alto contraste) ou, no teste da claire_mayaus, pelo visual limpo do `editar_nora69_limpo.py`.
 
+**As 7 decisões pendentes (do pente fino de 18/11 ~08h05; o aluno responde na conta nova):**
+1. **O loop hoje (18/11), entre 20h00 e 21h30** (Clone R53). A minha recomendação é não voltar: o Caio1094 diz que vídeo curto "não vende nada", o loop teve 54% de Índia e as fitas de outubro tiveram 83% de público 45+ e 0 checkout.
+2. **Encurtar a leitura obrigatória:** o `LEIA-TUDO-ANTES.md` tem umas 40 entradas "antes de todo roteiro", e não dá para ler tudo de verdade toda vez. A proposta: fixos só a pesquisa oficial do Manifestation, a `FILA-DE-IDEIAS-E-TESTES.md`, o `REGRAS-DO-AGENTE.md`, o `LICOES-FLOW-E-PROMPTS.md` e o `CLONE-DO-GUSTAVO-RESPOSTAS.md`; o resto pelo assunto do roteiro.
+3. **Mover para `arquivo/` as regras que só servem de histórico** (P6 a P10, P19, P30, P37 e P39: Dana, Soulmate, Love Chart, Nora v1), para o `REGRAS-DO-AGENTE.md` ficar menor.
+4. **Um pente fino nos arquivos grandes** (`PLANO-MVM-LEGACY-APPYON.md` 457 KB, `COMUNIDADE-E-ESTRATEGIA.md` 333 KB, `CLONE-DO-GUSTAVO-RESPOSTAS.md` 255 KB, `METRICAS-NORA-LEIA.md` 209 KB): mover o que é de antes de 15/11 para os `arquivo/HISTORICO-*.md`, como no pente fino de 14/11.
+5. **Tirar do repositório ~177 MB de vídeos, áudios e PDFs já analisados** (os hooks já usados, os virais de referência, os vídeos do fórum), que deixam cada sessão nova mais lenta; as análises ficam nos `.md`.
+6. **Mover para o histórico os links da 4ª e da 5ª conta** deste arquivo (seções 5, 5b, 5c e 5d), que não servem mais.
+7. **Uma contradição:** a regra é nunca perguntar o saldo do Flow, e na 26ª leitura eu pedi para o aluno conferir se as 4 contas seguem com o Ultra (o Google tirou o Ultra de 1 conta de pelo menos 5 alunos na madrugada de 18/11). Não é o saldo, é saber se o plano continua. Se ele preferir, não se pede mais e ele avisa se alguma cair.
 
 ## 1. Antes de colar a mensagem (aluno)
 1. Na conta nova, abrir o Claude Code na nuvem (claude.ai/code) e começar uma sessão **com o repositório `caramguilherme/ia-sintetico-produtor`**.
@@ -19,7 +34,7 @@ O aluno usa uma conta do Claude até o limite semanal acabar e passa para outra.
 3. Colar a mensagem da seção 2 como primeira mensagem.
 
 ## 2. Mensagem para colar na sessão nova
-> Sou o Guilherme. Estou trazendo o projeto da Nora de outra conta do Claude. Todo o trabalho está na branch `claude/lucid-planck-zz5ob8` do repositório `caramguilherme/ia-sintetico-produtor`. Primeiro traga essa branch para a sua: `git fetch origin claude/lucid-planck-zz5ob8` e `git merge origin/claude/lucid-planck-zz5ob8`. Depois leia o `PASSAGEM-DE-CONTA.md` e siga a seção 0 na ordem (o ambiente do Claude Code, os painéis dos vídeos ainda não postados publicados nesta conta e a edição de cada vídeo quando eu mandar o montado). Antes de mexer nos painéis, leia o `CLAUDE.md` inteiro (estado atual na seção 1), o `REGRAS-DO-AGENTE.md` (P1 a P47), o `FATOS-DO-ALUNO.md`, o `CONTATOS-ALUNOS.md`, as últimas entradas do `COMUNIDADE-E-ESTRATEGIA.md` e o roteiro do dia (o `ROTEIRO-…` citado na seção 1 do `CLAUDE.md`). O dashboard fica para depois dos vídeos do dia. No fim, me diga os links novos e me pergunte o que eu já fiz desde a última mensagem da outra conta.
+> Sou o Guilherme. Estou trazendo o projeto da Nora de outra conta do Claude. Todo o trabalho está na branch `claude/lucid-planck-zz5ob8` do repositório `caramguilherme/ia-sintetico-produtor`. Primeiro traga essa branch para a sua: `git fetch origin claude/lucid-planck-zz5ob8` e `git merge origin/claude/lucid-planck-zz5ob8`. Depois leia o `PASSAGEM-DE-CONTA.md` e siga a seção 0 na ordem (o ambiente do Claude Code, o painel do vídeo ainda não postado publicado nesta conta, as 7 decisões que eu tenho para responder e a edição de cada vídeo quando eu mandar o montado). Antes de mexer nos painéis, leia o `CLAUDE.md` inteiro (estado atual na seção 1), o `REGRAS-DO-AGENTE.md` (P1 a P47), o `FATOS-DO-ALUNO.md`, o `CONTATOS-ALUNOS.md`, as últimas entradas do `COMUNIDADE-E-ESTRATEGIA.md` e o roteiro do dia (o `ROTEIRO-…` citado na seção 1 do `CLAUDE.md`). O dashboard fica para depois dos vídeos do dia. No fim, me diga os links novos e me pergunte o que eu já fiz desde a última mensagem da outra conta.
 
 ## 3. Passo a passo da sessão nova
 1. **Trazer a branch** (comandos acima) e conferir que chegaram `CLAUDE.md`, `FATOS-DO-ALUNO.md`, `CONTATOS-ALUNOS.md`, `LICOES-FLOW-E-PROMPTS.md`, `COMUNIDADE-E-ESTRATEGIA.md`, `METRICAS-NORA.csv` e os `PAINEL-NORANN.html` dos vídeos ainda não postados (`CLAUDE.md`, seção 1). Anotar na seção 1 do `CLAUDE.md` a conta nova (e a branch, se for outra).
@@ -56,6 +71,11 @@ O aluno usa uma conta do Claude até o limite semanal acabar e passa para outra.
 | Imagens para a edição | `ferramentas-painel/imagens-fixas/` (as 3 do desejo) e `provas-trustpilot/` (7 avaliações reais; as `-sem-hora` são as de uso) |
 
 Os vídeos e prints que o aluno mandou ficaram só nas sessões antigas; a análise de cada um está nos arquivos acima. Se a sessão nova precisar rever algum (por exemplo o `nora47-montado`, base do nora49), o aluno manda de novo.
+
+## 5e. Links da 6ª conta (10 a 18/11; abrem só logado nela; não são mais atualizados depois da passagem)
+- Dashboard Métricas da Nora: https://claude.ai/artifact/HDHhSEAgHf82TWckygZFSx (asset do CSV `/_blob/31b021d77fd62a6004732440e933ece1`, dataset na versão 54, 147 linhas, leituras até 18/11 01h18).
+- Painéis de 17/11: nora69 (postado) https://claude.ai/artifact/VKqyDHZXP3QAp2MqNj6k6Z · nora70 (ainda não postado; versão 4, em 720p x1) https://claude.ai/artifact/6abRpvkHM6XfnP2Wup1ef8. Os links dos painéis de 10 a 16/11 estão no `HISTORICO-CLAUDE-MD.md`.
+- Ambiente: o "Default" da 6ª conta (rede sem restrição).
 
 ## 5d. Feito na 6ª conta (10/11/2026 ~17h50)
 - Branch trazida (já estava em dia). Ambiente: o "Default" da 6ª conta tem rede sem restrição (Drive, Hugging Face, Google Docs): não foi preciso criar o `ia-sintetico-produtor`; `faster-whisper` e `gdown` instalados por pip.
@@ -117,3 +137,19 @@ Os vídeos e prints que o aluno mandou ficaram só nas sessões antigas; a anál
   - as imagens do desejo entram pela `ferramentas-painel/dia-1511/montar_bases_nora66.py` (a skill `editar-video-nora` explica).
 - **Os vídeos finais do nora66** ficaram no scratchpad da 5ª conta e já foram postados. As specs e o script estão no repositório.
 
+## Passagem de 18/11 ~08h45 (da 6ª para a próxima conta, pedida pelo aluno)
+- Tudo está na branch `claude/lucid-planck-zz5ob8` e na `main` (atualizada igual à branch, com o ok do aluno: "atualiza as documentos, regras, tudo que temos na branch e no repositório"). Nada pendente fora do repositório.
+- **Ler primeiro:** o `CLAUDE.md` inteiro (a seção 1 tem o "Agora" de 18/11 e a seção 4 as entradas de 17 e 18/11), a seção 0 daqui (a ordem e as 7 decisões), as R62 a R67 do `CLONE-DO-GUSTAVO-RESPOSTAS.md`, o fim do `METRICAS-NORA-LEIA.md`, a `FILA-DE-IDEIAS-E-TESTES.md`, a pesquisa oficial do Manifestation (`MATERIAIS-MANIFESTATION-OFICIAL/`) e o `ROTEIRO-DIA-1711-NORA69-70.md`.
+- **O que mudou de 16 a 18/11 (está nas seções 1, 2 e 4 do `CLAUDE.md`):**
+  - a abertura: nada de ritual antes da fala; a Nora abre falando, com uma ação de carta no Take 1 (17/11 01h40); exceção em teste: o nora69 e o nora70 no modelo da claire_mayaus, com o hook de ação comum, a copy original (a P42 suspensa só neles) e o visual limpo (17/11 16h45);
+  - o aquecimento antes de postar não precisa (R62 e R63); a rajada de ações deu a 2ª verificação facial em 17/11;
+  - o pedido de comentário na legenda do Insta muda a cada post (24ª leitura);
+  - o link sempre inteiro, com o `&aff=dl7zx6ks`, copiado do `FATOS` (17/11 19h39);
+  - "tudo é teste": contradição entre fontes vira teste A/B na `FILA` (17/11 01h28);
+  - a pesquisa oficial do Manifestation é leitura obrigatória sempre (17/11);
+  - as 4 contas Flow Ultra e o padrão de 720p em x1 (18/11 00h22);
+  - a escala: mais 3 avatares, 1 no Manifestation e 2 no Risely (18/11 00h39); o protocolo de conta nova está no `PLANO-MVM-LEGACY-APPYON.md` ("### Aquecimento");
+  - toda leitura de números compara com o histórico inteiro, pelo `ferramentas-painel/recordes.py` (18/11 01h14);
+  - o pente fino de 18/11 ~08h05 (o `CLAUDE.md` de 148 para 72 KB; o que saiu está no `HISTORICO-CLAUDE-MD.md`).
+- **Os vídeos finais do nora69** ficaram no scratchpad da 6ª conta e já foram postados; o script da edição limpa, o do hook e os arquivos da edição (palavras, cortes, mapa) estão no repositório.
+- **A skill `leitura-discord-mvm` (v3)** está no claude.ai do aluno ("gui · Pro"); se ele fizer a leitura do Discord por outra conta do claude.ai, instalar pelo zip em `ferramentas-painel/skills/leitura-discord-mvm.zip`.
