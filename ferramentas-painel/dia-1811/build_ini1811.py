@@ -90,14 +90,15 @@ def img_story():
             'soft cream chunky-knit open cardigan over a plain black fine-knit top with a round neck, matte, no print, no logo; a tiny enamel lapel pin of the American flag, about 2 cm wide, '
             'pinned on the cardigan at chest height on the right side of the image; ' + JOIAS +
             'casual photo taken by a friend from about 1.2 meters in front of her, at her chest height, straight on (no phone, phone stand or tripod anywhere in the image): she sits at a '
-            'small square dark-wood table in her cozy real American living room in the early evening, facing the camera, framed from the top of her head down to the tabletop, centered; '
-            'with both hands she gently holds against her chest a small vintage angel statue about 30 cm tall, with folded golden wings and a little dust on it, as if she has just brought '
-            'it down from the attic, the statue turned a little toward the camera and never covering her face, mouth or chin; on the table in front of her stand a small purple amethyst '
-            'cluster, a raw yellow citrine point and a smooth pink rose quartz stone, and two small torn pieces of lined notebook paper lie face down, blank, with nothing written on them; '
-            'both hands are fully visible, each with exactly five fingers,\n'
-            'FRAMING, in percent of the image height from the top: from 0 to 17 percent only the plain warm wall behind her, with nothing on it (this band stays empty for text); the top '
-            'of her head at about 18 percent, her eyes at about 27 percent; the statue between about 40 and 62 percent; the table edge at about 70 percent; from 82 to 100 percent only the '
-            'plain wooden tabletop, with the crystals near its top edge (this band stays empty for a link sticker),\n'
+            'small square dark-wood table in her cozy real American living room in the early evening, facing the camera, framed from just above her head down to the tabletop, centered; '
+            'her right hand, on the left side of the image, holds up a small vintage angel statue about 20 cm tall, with folded golden wings and a little dust on it, as if she has just '
+            'brought it down from the attic, at shoulder height beside her face, the statue turned a little toward the camera and never covering her face; her left hand, on the right '
+            'side of the image, rests on the table; the front of her cardigan, from her collarbones down to the table, stays clear, with no hands or objects in front of it; on the '
+            'table in front of her stand a small purple amethyst cluster, a raw yellow citrine point and a smooth pink rose quartz stone, and two small torn pieces of lined notebook '
+            'paper lie face down, blank, with nothing written on them; both hands are fully visible, each with exactly five fingers,\n'
+            'FRAMING, in percent of the image height from the top: the top of her head at about 12 percent, her eyes at about 24 percent; the angel statue between about 18 and 45 '
+            'percent, on the left side of the image, beside her face; from 44 to 72 percent only the plain front of her cream cardigan and black top, with nothing in front of it '
+            '(this area stays empty for text and a link sticker); the table edge at about 74 percent; the crystals and the papers between about 76 and 92 percent,\n'
             'cozy real lived-in American living room, a plain warm beige wall behind her, the edge of a sofa with a knitted throw at the side of the frame,\n'
             'warm light from a small table lamp on the right side of the image, a little uneven, like a real phone photo indoors; no studio light, no ring light,\n' + PELE +
             'shot on a smartphone camera, iPhone 15 main camera: looks exactly like a real casual photo taken with an iPhone, slight phone grain, everything in focus, no bokeh, no filter, '
@@ -142,8 +143,8 @@ def montar():
         'comentario_fixado': {'insta': 'Your letter is your sign ✨ tap my profile picture to see what 2027 holds for you in my story 🔮', 'face': '(sem Face)'},
         'respostas_face': {'insta': INSTA_RESP, 'face': []},
         'story': {'ja_postado': False, 'nota': ('STORY NOVO DE HOJE (' + STORY + ', no lugar do story-1211): gere a foto pelo item 3 da seção Clipe (x4, 0 crédito) e ME MANDE AS 4 até ~18h15; '
-                  'eu escolho, ponho o texto (o estilo creme de sempre) e devolvo em ~10 min. Poste ANTES do curto (e antes de ~19h39, quando o story-1211 vence), ao vivo, no Insta e no Face, '
-                  'com o adesivo de link embaixo, no centro. Insta (STORYIG): ' + IG + ' · Face (FACE): ' + FB)},
+                  'eu escolho, ponho o texto (no jeito das contas do nicho: caixas do próprio Instagram no meio da tela) e devolvo em ~10 min. Poste ANTES do curto (e antes de ~19h39, quando o story-1211 vence), ao vivo, no Insta e no Face, '
+                  'com o adesivo de link logo abaixo do texto, no centro (texto do adesivo: SEE YOUR 2027 ✨; se quiser, o GIF da mãozinha clicando em cima dele). Insta (STORYIG): ' + IG + ' · Face (FACE): ' + FB)},
         'central': {'imagem_unica': True,
                     'conferir': ('Conferir: é a Nora (lua com 3 estrelinhas, trança com anéis, brincos de estrela e lua); os 10 papéis continuam iguais e legíveis do começo ao fim '
                                  '(M J S L C em cima, A B K D P embaixo); o dedo passa sem parar e sem mexer os papéis; no fim ela abre os braços e sorri; boca fechada; 5 dedos em cada mão.'),
@@ -170,7 +171,7 @@ def montar():
                 {'tipo': 'img', 'titulo': 'Story de hoje: a foto nova (a Nora com a estátua do anjo e os cristais)', 'nome': STORY, 'anexar': 'só a folha da Nora (1K)',
                  'quadros': ('Flow → Imagem · 9:16 · Nano Banana Pro · x4, anexando SÓ a folha da Nora (1K) (0 crédito). Lista: é a Nora (lua com 3 estrelinhas na bochecha do lado esquerdo '
                              'da imagem, trança com anéis, brincos de estrela e lua, colar de Vênus); ela olha para a lente; a estátua do anjo de asas douradas nas mãos, sem cobrir o rosto; '
-                             'os cristais na mesa; os papéis virados, sem nada escrito; nenhuma carta; o alto da imagem só parede (o texto) e embaixo só a mesa (o adesivo); 5 dedos em cada mão. '
+                             'a estátua na altura do ombro, ao lado do rosto, sem cobrir; o peito (o cardigã) livre, sem mão nem objeto na frente (é onde vão o texto e o adesivo, no meio da tela, como nas contas do nicho); os cristais e os papéis virados na mesa, embaixo; nenhuma carta; 5 dedos em cada mão. '
                              'Renomeie para ' + STORY + ' e ME MANDE AS 4 até ~18h15.'),
                  'prompt': img_story()}],
         },
@@ -181,7 +182,7 @@ def montar():
              'como': '1080×1920, nome ' + NOME + '-montado. Eu ponho a caixa do topo, a frase do fim, os números 222 e 11:11, a faixa do story e a seta, e devolvo o ' + NOME + '-final.'}],
         'pecas': {'titulo_decisao': 'Resumo', 'lista': [
             {'nome': IMG, 'tipo': 'imagem 1 (primeiro quadro)', 'status': 'gerar', 'descricao': 'A Nora à mesa, cardigã creme com o broche da bandeira dos EUA, os 10 papéis com as iniciais, ametista, citrino e quartzo rosa.'},
-            {'nome': STORY, 'tipo': 'foto do story', 'status': 'gerar', 'descricao': 'A Nora à mesa com a estátua do anjo de asas douradas (o alçapão do nora70) e os cristais; eu ponho o texto.'},
+            {'nome': STORY, 'tipo': 'foto do story', 'status': 'gerar', 'descricao': 'A Nora à mesa com a estátua do anjo de asas douradas (o alçapão do nora70) na altura do ombro e os cristais; eu ponho o texto no meio da tela.'},
             {'nome': CLIPE, 'tipo': 'clipe sem fala (Muse)', 'status': 'gerar', 'descricao': '6 s: o dedo passa por cima das 10 letras sem parar; ela abre os braços ("qual?") e sorri para a câmera.'}],
             'decisao': ['AGORA: a imagem do curto e a foto do story no Flow (x4 cada, 0 crédito) e ME MANDE AS 4 DE CADA; depois o clipe no Muse (2 versões, ~4% do grátis da semana).',
                         'Monte só a música no CapCut e me mande o ' + NOME + '-montado até ~18h40. Eu devolvo o ' + NOME + '-final em ~15 min.',

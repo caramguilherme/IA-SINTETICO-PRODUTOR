@@ -1,74 +1,117 @@
 #!/usr/bin/env python3
-"""Texto do story da Nora no jeito do texto nativo do Instagram (decisão de 18/11/2026).
+"""Texto do story da Nora no jeito do texto nativo do Instagram (decisão de 18/11/2026, ajustada às ~16h50
+pelos 5 stories de referência que o aluno mandou: `MATERIAIS-STORIES-REFERENCIA/LEIA.md`).
 
-O aluno pediu um story "mais simples, mais básico, igual é falado nas aulas" (aula 39, 0:58:02, o Felps:
-"imagens… com textuzinho"; Clone R2: texto curto e objetivo). Fica como o texto que qualquer pessoa põe
-no próprio app: letra sem serifa (Inter SemiBold, parecida com a "Classic" do Instagram), centralizada,
-cada linha numa faixa de cantos arredondados, sem sombra, sem destaque de cor, sem itálico.
+Como as contas do nicho fazem: o texto do próprio app com fundo ligado (o "A"), 2 ou 3 caixas empilhadas no
+MEIO da tela (sobre o peito, logo acima do adesivo de link), cada caixa com 1 ou 2 linhas, uma caixa branca
+com texto preto e outra colorida (coral, laranja, amarelo) com texto branco ou preto, emoji no fim de uma linha.
+Letra sem serifa (Inter SemiBold, parecida com a "Classic" do Instagram), cantos pouco arredondados, sem sombra.
 
-Modos (--modo): branco = texto preto em faixa branca (parede clara, o padrão); preto = texto branco em
-faixa preta (fundo claro demais ou estourado); sombra = texto branco sem faixa, só uma sombra leve
-(fundo escuro). Uso (da raiz do repositório):
+Cada --caixa é um bloco "cor|texto" (cor: branco, preto, coral, laranja, amarelo, rosa, creme); a quebra de linha
+dentro da caixa é automática (até ~84% da largura), ou à mão com " // ". Uso (da raiz do repositório):
   python3 -I ferramentas-painel/ferramentas/texto_story_nativo.py foto.jpg saida.jpg \
-      --linha "You found this for a reason." --linha "Your 2027 reading is waiting below."
-Opções: --topo 0.08 (onde começa, em fração da altura), --tamanho 0.042 (corpo da letra em fração da largura).
-Gera também <saida>-recorte.jpg (o texto no tamanho real) e <saida>-celular.jpg (a foto reduzida).
+      --caixa "branco|You found this for a reason." --caixa "coral|Your 2027 reading is waiting below 👇"
+Opções: --topo 0.46 (onde a 1ª caixa começa, em fração da altura), --tamanho 0.043 (corpo da letra em fração
+da largura). Diz onde o adesivo de link deve ficar e gera <saida>-recorte.jpg e <saida>-celular.jpg.
 """
 import argparse, os, sys
-from PIL import Image, ImageDraw, ImageFont, ImageFilter
+from PIL import Image, ImageDraw, ImageFont
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 FONTE = os.path.join(AQUI, 'fontes', 'Inter-SemiBold.otf')
+EMOJI = '/usr/share/fonts/truetype/noto/NotoColorEmoji.ttf'
+CORES = {  # caixa, texto
+    'branco': ((255, 255, 255), (0, 0, 0)), 'preto': ((20, 20, 20), (255, 255, 255)),
+    'coral': ((226, 104, 84), (255, 255, 255)), 'laranja': ((214, 98, 52), (255, 255, 255)),
+    'amarelo': ((255, 214, 0), (0, 0, 0)), 'rosa': ((246, 170, 160), (255, 255, 255)), 'creme': ((240, 232, 226), (40, 32, 28)),
+}
+
+
+def eh_emoji(ch):
+    o = ord(ch)
+    return o >= 0x1F000 or 0x2600 <= o <= 0x27BF or o in (0x2B50, 0x2728)
+
+
+def medir(txt, f, fe_px):
+    w = 0
+    for ch in txt:
+        if eh_emoji(ch):
+            w += int(fe_px * 1.1)
+        elif ch != '️':
+            w += f.getlength(ch)
+    return w
+
+
+def quebrar(txt, f, fe_px, maxw):
+    if ' // ' in txt:  # quebra escolhida à mão
+        return [l for parte in txt.split(' // ') for l in quebrar(parte, f, fe_px, maxw)]
+    linhas, atual = [], ''
+    for p in txt.split(' '):
+        t = (atual + ' ' + p).strip()
+        if medir(t, f, fe_px) <= maxw or not atual:
+            atual = t
+        else:
+            linhas.append(atual); atual = p
+    linhas.append(atual)
+    return linhas
+
+
+def escrever(img, xy, txt, f, cor, fe_px, asc):
+    d = ImageDraw.Draw(img); x, y = xy
+    fe = None
+    for ch in txt:
+        if ch == '️':
+            continue
+        if eh_emoji(ch):
+            if fe is None:
+                fe = ImageFont.truetype(EMOJI, 109)
+            e = Image.new('RGBA', (136, 128), (0, 0, 0, 0))
+            ImageDraw.Draw(e).text((0, 0), ch, font=fe, embedded_color=True)
+            e = e.crop(e.getbbox() or (0, 0, 1, 1)).resize((fe_px, fe_px), Image.LANCZOS)
+            img.alpha_composite(e, (int(x + fe_px * 0.05), int(y + asc - fe_px * 0.92)))
+            x += int(fe_px * 1.1)
+        else:
+            d.text((x, y), ch, font=f, fill=cor); x += f.getlength(ch)
 
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('foto'); ap.add_argument('saida')
-    ap.add_argument('--linha', action='append', required=True)
-    ap.add_argument('--topo', type=float, default=0.08)
-    ap.add_argument('--tamanho', type=float, default=0.042)
-    ap.add_argument('--modo', choices=['branco', 'preto', 'sombra'], default='branco')
+    ap.add_argument('--caixa', action='append', required=True)
+    ap.add_argument('--topo', type=float, default=0.46)
+    ap.add_argument('--tamanho', type=float, default=0.043)
     a = ap.parse_args()
-    im = Image.open(a.foto).convert('RGB')
-    W, H = im.size
-    f = ImageFont.truetype(FONTE, max(12, int(W * a.tamanho)))
-    asc, desc = f.getmetrics()
-    padx, pady = int(W * a.tamanho * 0.42), int(W * a.tamanho * 0.22)
-    alt = asc + desc + 2 * pady
-    y = int(H * a.topo)
-    caixas = []
-    for ln in a.linha:
-        l, t, r, b = f.getbbox(ln)
-        larg = (r - l) + 2 * padx
+    im = Image.open(a.foto).convert('RGBA'); W, H = im.size
+    px = max(12, int(W * a.tamanho)); f = ImageFont.truetype(FONTE, px); fe_px = int(px * 1.0)
+    asc, desc = f.getmetrics(); lh = int((asc + desc) * 1.08)
+    padx, pady = int(px * 0.42), int(px * 0.30)
+    maxw = int(W * 0.84) - 2 * padx
+    y = int(H * a.topo); blocos = []
+    for c in a.caixa:
+        cor, txt = c.split('|', 1) if '|' in c else ('branco', c)
+        if cor not in CORES:
+            sys.exit(f'ERRO: cor "{cor}" (use: {", ".join(CORES)})')
+        ls = quebrar(txt, f, fe_px, maxw)
+        larg = int(max(medir(l, f, fe_px) for l in ls)) + 2 * padx
+        alt = lh * len(ls) + 2 * pady
         x0 = (W - larg) // 2
-        caixas.append((ln, x0, y, x0 + larg, y + alt, l))
-        y += alt - int(pady * 0.6)  # as faixas encostam, como no app
-    esq = min(c[1] for c in caixas) / W; dir_ = max(c[3] for c in caixas) / W
+        blocos.append((cor, ls, x0, y, x0 + larg, y + alt)); y += alt + int(H * 0.008)
+    esq = min(b[2] for b in blocos) / W; dir_ = max(b[4] for b in blocos) / W
     if esq < 0.08 or dir_ > 0.92:
-        sys.exit(f'ERRO: o texto vai de {esq:.0%} a {dir_:.0%} da largura (tem de ficar entre 8% e 92%): encurte a linha ou baixe o --tamanho')
-    camada = Image.new('RGBA', im.size, (0, 0, 0, 0))
-    d = ImageDraw.Draw(camada)
-    raio = int(alt * 0.28)
-    if a.modo in ('branco', 'preto'):
-        cor_caixa = (255, 255, 255, 255) if a.modo == 'branco' else (0, 0, 0, 255)
-        for _, x0, y0, x1, y1, _ in caixas:
-            d.rounded_rectangle((x0, y0, x1, y1), radius=raio, fill=cor_caixa)
-    else:
-        sombra = Image.new('RGBA', im.size, (0, 0, 0, 0)); ds = ImageDraw.Draw(sombra)
-        for ln, x0, y0, x1, y1, l in caixas:
-            ds.text((x0 + padx - l, y0 + pady + 2), ln, font=f, fill=(0, 0, 0, 150))
-        camada = Image.alpha_composite(camada, sombra.filter(ImageFilter.GaussianBlur(W * 0.004)))
-        d = ImageDraw.Draw(camada)
-    cor_txt = (0, 0, 0, 255) if a.modo == 'branco' else (255, 255, 255, 255)
-    for ln, x0, y0, x1, y1, l in caixas:
-        d.text((x0 + padx - l, y0 + pady), ln, font=f, fill=cor_txt)
-    out = Image.alpha_composite(im.convert('RGBA'), camada).convert('RGB')
-    out.save(a.saida, quality=95)
-    base, ext = os.path.splitext(a.saida)
-    y0 = max(0, caixas[0][2] - int(H * 0.03)); y1 = min(H, caixas[-1][4] + int(H * 0.08))
-    out.crop((0, y0, W, y1)).save(base + '-recorte.jpg', quality=90)
+        sys.exit(f'ERRO: o texto vai de {esq:.0%} a {dir_:.0%} da largura (tem de ficar entre 8% e 92%)')
+    d = ImageDraw.Draw(im)
+    for cor, ls, x0, y0, x1, y1 in blocos:
+        d.rounded_rectangle((x0, y0, x1, y1), radius=int(px * 0.18), fill=CORES[cor][0] + (255,))
+        for i, l in enumerate(ls):
+            lx = x0 + (x1 - x0 - medir(l, f, fe_px)) / 2
+            escrever(im, (lx, y0 + pady + i * lh), l, f, CORES[cor][1] + (255,), fe_px, asc)
+    out = im.convert('RGB'); out.save(a.saida, quality=95)
+    base, _ = os.path.splitext(a.saida)
+    fim = blocos[-1][5] / H
+    out.crop((0, max(0, blocos[0][3] - int(H * 0.04)), W, min(H, blocos[-1][5] + int(H * 0.10)))).save(base + '-recorte.jpg', quality=90)
     out.resize((390, int(390 * H / W))).save(base + '-celular.jpg', quality=90)
-    print(f'ok {a.saida}: texto de {esq:.0%} a {dir_:.0%} da largura, de {caixas[0][2] / H:.1%} a {caixas[-1][4] / H:.1%} da altura')
+    print(f'ok {a.saida}: texto de {esq:.0%} a {dir_:.0%} da largura e de {blocos[0][3] / H:.1%} a {fim:.1%} da altura; '
+          f'adesivo de link logo abaixo, a ~{fim + 0.02:.0%} da altura, no centro')
 
 
 if __name__ == '__main__':
