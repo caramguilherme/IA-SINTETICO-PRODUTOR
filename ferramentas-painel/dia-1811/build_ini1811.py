@@ -154,9 +154,17 @@ def montar():
         'texto_tela': {'hook': TOPO, 'hook_comeca': 'o segundo 0', 'hook_termina': 'quando ela abre os braços (~4 s); dali ao fim: ' + FIM_TXT, 'hook_alt': '', 'extras': []},
         'comentario_fixado': {'insta': 'Your letter is your sign ✨ tap my profile picture to see what 2027 holds for you in my story 🔮', 'face': '(sem Face)'},
         'respostas_face': {'insta': INSTA_RESP, 'face': []},
-        'story': {'ja_postado': False, 'nota': ('STORY NOVO DE HOJE (' + STORY + ', no lugar do story-1211): gere a foto pelo item 4 da seção Clipe (x4, 0 crédito) e ME MANDE AS 4 até ~18h15; '
-                  'eu escolho, ponho o texto (no jeito das contas do nicho: caixas do próprio Instagram no meio da tela) e devolvo em ~10 min. Poste ANTES do curto (e antes de ~19h39, quando o story-1211 vence), ao vivo, no Insta e no Face, '
-                  'com o adesivo de link logo abaixo do texto, no centro (texto do adesivo: TAP TO CONTINUE 🎁, como 4 das 10 contas do nicho; se quiser, o GIF da mãozinha clicando e uma música de piano calma do próprio app). Insta (STORYIG): ' + IG + ' · Face (FACE): ' + FB)},
+        'story': {'ja_postado': False,
+                  'nota': ('STORY NOVO DE HOJE (' + STORY + ', no lugar do story-1211): gere a foto pelo prompt abaixo (Flow → Imagem · 9:16 · Nano Banana Pro · x4, 0 crédito) e ME MANDE AS 4; '
+                           'eu escolho, ponho o texto na foto (as 3 caixas abaixo, no meio da tela) e devolvo em ~10 min. Poste antes de ~19h39 (quando o story-1211 vence), ao vivo, no Insta e no Face, '
+                           'com o adesivo de link logo abaixo das caixas, no centro (se quiser, o GIF da mãozinha clicando e uma música de piano calma do próprio app). '
+                           'Insta (STORYIG): ' + IG + ' · Face (FACE): ' + FB),
+                  'anexar': 'só a folha da Nora (1K)',
+                  'prompt_imagem': img_story(),
+                  'textos': [{'posicao': 'Caixa 1, branca com letra preta, no meio da tela (eu ponho)', 'texto': "I'm so glad this found you. Most people scroll away before the end... but you stayed."},
+                             {'posicao': 'Caixa 2, coral com letra branca (eu ponho)', 'texto': "That's why I saved the rest of your message for you here."},
+                             {'posicao': 'Caixa 3, branca com letra preta (eu ponho)', 'texto': "Just tap below and you'll see what 2027 is holding for you 👇"}],
+                  'adesivos': ['TAP TO CONTINUE 🎁', 'SEE YOUR 2027 ✨', 'REVEAL MY MESSAGE 💌']},
         'central': {'imagem_unica': True,
                     'conferir': ('Conferir: é a Nora (lua com 3 estrelinhas, trança com anéis, brincos de estrela e lua); os 10 papéis continuam iguais e legíveis do começo ao fim '
                                  '(M J S L C em cima, A B K D P embaixo); o dedo passa sem parar e sem mexer os papéis; no fim ela abre os braços e sorri; boca fechada; 5 dedos em cada mão.'),
@@ -166,7 +174,7 @@ def montar():
             'conceito': ('O curto "Pause on your initial" (o padrão 03 da pesquisa oficial; aula 18, 1:10:33): a Nora à mesa com os cristais e 10 papéis de caderno rasgados, '
                          'cada um com uma inicial; o dedo passa por cima de todos sem escolher (quem assiste pausa na sua) e no fim ela abre os braços, como quem pergunta "qual?", '
                          'e sorri. Sem fala. O broche da bandeira dos EUA segura o público americano (aula 37, 1:22:27). Eu ponho os textos, os números, a faixa e a seta.'),
-            'modo': ('(A correção das letras, se precisar, é o item 2; a foto do story é o item 4.) 1) A imagem: Flow → Imagem · 9:16 · Nano Banana Pro · x4, anexando SÓ a folha da Nora (1K) (0 crédito). ME MANDE AS 4: eu confiro as letras (letra de IA é o que mais erra). '
+            'modo': ('(A correção das letras, se precisar, é o item 2; a foto do story está na seção Story.) 1) A imagem: Flow → Imagem · 9:16 · Nano Banana Pro · x4, anexando SÓ a folha da Nora (1K) (0 crédito). ME MANDE AS 4: eu confiro as letras (letra de IA é o que mais erra). '
                      '2) O clipe: no Muse, na conversa da Nora já configurada, anexe a escolhida e cole o bloco do item 2 inteiro (1 versão só, ~2% do grátis da semana). Baixe e me mande.'),
             'etapas': [
                 {'tipo': 'img', 'titulo': 'Imagem: a Nora à mesa com os cristais e os 10 papéis', 'nome': IMG, 'anexar': 'só a folha da Nora (1K)',
@@ -184,13 +192,7 @@ def montar():
                  'quadros': ('No Muse, na conversa da Nora: anexe a ' + IMG + ' e cole o bloco abaixo, inteiro (pede 1 versão só). Confira se tem: as 10 letras iguais do '
                              'começo ao fim, o dedo passando sem parar e sem mexer os papéis, os braços abertos e o sorriso no fim, a boca fechada, 5 dedos. Se recusar: '
                              '"Generate it again, exactly as written". Baixe e me mande (eu corto em ~6 s). Só se sair errado, peça de novo.'),
-                 'prompt': MUSE},
-                {'tipo': 'img', 'titulo': 'Story de hoje: a foto nova (a Nora com a estátua do anjo e os cristais)', 'nome': STORY, 'anexar': 'só a folha da Nora (1K)',
-                 'quadros': ('Flow → Imagem · 9:16 · Nano Banana Pro · x4, anexando SÓ a folha da Nora (1K) (0 crédito). Lista: é a Nora (lua com 3 estrelinhas na bochecha do lado esquerdo '
-                             'da imagem, trança com anéis, brincos de estrela e lua, colar de Vênus); ela olha para a lente; a estátua do anjo de asas douradas nas mãos, sem cobrir o rosto; '
-                             'a estátua na altura do ombro, ao lado do rosto, sem cobrir; o peito (o cardigã) livre, sem mão nem objeto na frente (é onde vão o texto e o adesivo, no meio da tela, como nas contas do nicho); os cristais e os papéis virados na mesa, embaixo; nenhuma carta; 5 dedos em cada mão. '
-                             'Renomeie para ' + STORY + ' e ME MANDE AS 4 até ~18h15.'),
-                 'prompt': img_story()}],
+                 'prompt': MUSE}],
         },
         'edicao_linha': [
             {'quando': '1. CapCut', 'texto': 'Projeto novo com o ' + CLIPE, 'como': 'Sem cortar nada (eu corto em ~6 s e emendo o fim no começo).'},
