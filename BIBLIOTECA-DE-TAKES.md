@@ -364,3 +364,4 @@ Fora da numeração do nora. Peças com o nome do teste: `faceNN-IMG`, `faceNN-C
     - riser no fim do tsunami e impact no corte;
     - o áudio é o do aluno (com a música do nora59);
     - spec: `specs/spec-tsunami-1611.json`.
+- **18/11/2026 ~16h35, `story-1811` (pedido do aluno: "um stories novo com uma outra foto… mais focado nos vídeos que vão sair hoje"): o prompt está no painel do ini1811 (item 3 da seção Clipe; `ferramentas-painel/dia-1811/build_ini1811.py`, `img_story()`):** a Nora à mesa da sala no começo da noite, cardigã creme com o broche da bandeira dos EUA, a estátua do anjo de asas douradas nas mãos (a do alçapão do nora70), ametista, citrino e quartzo rosa na mesa e 2 papéis de caderno virados, sem nada escrito; alto da imagem livre para o texto e a mesa embaixo para o adesivo. Substitui o `story-1211` no rodízio a partir de hoje. O aluno manda as 4; eu escolho e ponho o texto (skill `story-nora`).

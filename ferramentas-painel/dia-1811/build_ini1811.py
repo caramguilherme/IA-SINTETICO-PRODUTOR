@@ -71,6 +71,39 @@ def img():
             'f/8 aperture, ISO 640, 1/60s shutter speed, natural depth of field, background stays readable, mild sensor noise in the shadows,\n' + FIM)
 
 
+STORY = 'story-1811'
+IG = 'https://app.auralyapp.com/6a90ad82719e8d2b35da8a7c?rt_ad=norakensleytarot&utm_source=instagram&utm_content=STORYIG&aff=dl7zx6ks'
+FB = 'https://app.auralyapp.com/6a90ad82719e8d2b35da8a7c?rt_ad=norakensleytarot&utm_source=facebook&utm_content=FACE&aff=dl7zx6ks'
+FIM_STORY = ('no film emulation, straight smartphone frame, no date stamp, no text, no watermark, natural phone colors, no color grading, natural skin tone preserved separately from the colour grade,\n'
+             'photorealistic, unretouched, candid documentary, UGC style, no studio lighting, no filters, no tattoos, no extra, fused or missing fingers, no duplicated or floating objects, no '
+             'warped reflections or architecture, no readable text, letters, logos, captions or watermarks anywhere (the papers are blank and face down), no oily, wet, waxy or plastic skin, '
+             'no beauty retouching or airbrushing, no HDR look or over-sharpening, no exaggerated background blur, no fortune-teller costume, no tarot cards, no golden card, no glow, '
+             'sparkles, stars or light effects around the statue or the crystals,\n'
+             'character consistency: identical face, same skin tone, same hair, same body proportions as the reference image — only wardrobe, environment, and pose change')
+
+
+def img_story():
+    # 18/11 ~16h35 (pedido do aluno: "um stories novo com uma outra foto… mais focado nos vídeos que vão sair hoje"): a Nora no dia a dia (Clone R2), sem cartas,
+    # na mesma sala do curto, com a estátua do anjo de asas douradas do alçapão do nora70 nas mãos e os cristais na mesa; espaço livre no alto (texto) e embaixo (adesivo).
+    return ('RAW photo of the exact same character from the attached reference image, preserving every facial feature, identity, age, ethnicity, skin tone, and hairstyle exactly as shown in the reference,\n'
+            'soft, warm, knowing smile with her lips gently closed, looking straight into the lens,\n'
+            'soft cream chunky-knit open cardigan over a plain black fine-knit top with a round neck, matte, no print, no logo; a tiny enamel lapel pin of the American flag, about 2 cm wide, '
+            'pinned on the cardigan at chest height on the right side of the image; ' + JOIAS +
+            'casual photo taken by a friend from about 1.2 meters in front of her, at her chest height, straight on (no phone, phone stand or tripod anywhere in the image): she sits at a '
+            'small square dark-wood table in her cozy real American living room in the early evening, facing the camera, framed from the top of her head down to the tabletop, centered; '
+            'with both hands she gently holds against her chest a small vintage angel statue about 30 cm tall, with folded golden wings and a little dust on it, as if she has just brought '
+            'it down from the attic, the statue turned a little toward the camera and never covering her face, mouth or chin; on the table in front of her stand a small purple amethyst '
+            'cluster, a raw yellow citrine point and a smooth pink rose quartz stone, and two small torn pieces of lined notebook paper lie face down, blank, with nothing written on them; '
+            'both hands are fully visible, each with exactly five fingers,\n'
+            'FRAMING, in percent of the image height from the top: from 0 to 17 percent only the plain warm wall behind her, with nothing on it (this band stays empty for text); the top '
+            'of her head at about 18 percent, her eyes at about 27 percent; the statue between about 40 and 62 percent; the table edge at about 70 percent; from 82 to 100 percent only the '
+            'plain wooden tabletop, with the crystals near its top edge (this band stays empty for a link sticker),\n'
+            'cozy real lived-in American living room, a plain warm beige wall behind her, the edge of a sofa with a knitted throw at the side of the frame,\n'
+            'warm light from a small table lamp on the right side of the image, a little uneven, like a real phone photo indoors; no studio light, no ring light,\n' + PELE +
+            'shot on a smartphone camera, iPhone 15 main camera: looks exactly like a real casual photo taken with an iPhone, slight phone grain, everything in focus, no bokeh, no filter, '
+            'f/8 aperture, ISO 640, 1/60s shutter speed, natural depth of field, background stays readable, mild sensor noise in the shadows,\n' + FIM_STORY)
+
+
 VID = ('Use the attached image as the first frame. Real casual 6-second video from a static camera, steady, no zoom, no camera movement, real speed, no slow motion; no phone, phone '
        'stand or tripod ever appears in the frame. The action starts in the very first frame: from 0 to 4 seconds her right hand (the hand on the left side of the frame) glides slowly '
        'and smoothly about one centimeter above the papers without touching or moving them, the index finger passing over each paper of the top row from the left side of the frame '
@@ -108,7 +141,9 @@ def montar():
         'texto_tela': {'hook': TOPO, 'hook_comeca': 'o segundo 0', 'hook_termina': 'quando ela abre os braços (~4 s); dali ao fim: ' + FIM_TXT, 'hook_alt': '', 'extras': []},
         'comentario_fixado': {'insta': 'Your letter is your sign ✨ tap my profile picture to see what 2027 holds for you in my story 🔮', 'face': '(sem Face)'},
         'respostas_face': {'insta': INSTA_RESP, 'face': []},
-        'story': {'ja_postado': False, 'nota': 'O story de ontem vence ~19h39: reposte o story-1211 (o mesmo arquivo), ao vivo, no Insta e no Face, ANTES de postar o curto (o vídeo manda para o story).'},
+        'story': {'ja_postado': False, 'nota': ('STORY NOVO DE HOJE (' + STORY + ', no lugar do story-1211): gere a foto pelo item 3 da seção Clipe (x4, 0 crédito) e ME MANDE AS 4 até ~18h15; '
+                  'eu escolho, ponho o texto (o estilo creme de sempre) e devolvo em ~10 min. Poste ANTES do curto (e antes de ~19h39, quando o story-1211 vence), ao vivo, no Insta e no Face, '
+                  'com o adesivo de link embaixo, no centro. Insta (STORYIG): ' + IG + ' · Face (FACE): ' + FB)},
         'central': {'imagem_unica': True,
                     'conferir': ('Conferir: é a Nora (lua com 3 estrelinhas, trança com anéis, brincos de estrela e lua); os 10 papéis continuam iguais e legíveis do começo ao fim '
                                  '(M J S L C em cima, A B K D P embaixo); o dedo passa sem parar e sem mexer os papéis; no fim ela abre os braços e sorri; boca fechada; 5 dedos em cada mão.'),
@@ -118,7 +153,7 @@ def montar():
             'conceito': ('O curto "Pause on your initial" (o padrão 03 da pesquisa oficial; aula 18, 1:10:33): a Nora à mesa com os cristais e 10 papéis de caderno rasgados, '
                          'cada um com uma inicial; o dedo passa por cima de todos sem escolher (quem assiste pausa na sua) e no fim ela abre os braços, como quem pergunta "qual?", '
                          'e sorri. Sem fala. O broche da bandeira dos EUA segura o público americano (aula 37, 1:22:27). Eu ponho os textos, os números, a faixa e a seta.'),
-            'modo': ('1) A imagem: Flow → Imagem · 9:16 · Nano Banana Pro · x4, anexando SÓ a folha da Nora (1K) (0 crédito). ME MANDE AS 4: eu confiro as letras (letra de IA é o que mais erra). '
+            'modo': ('(A foto do story é o item 3.) 1) A imagem: Flow → Imagem · 9:16 · Nano Banana Pro · x4, anexando SÓ a folha da Nora (1K) (0 crédito). ME MANDE AS 4: eu confiro as letras (letra de IA é o que mais erra). '
                      '2) O clipe: no Muse, na conversa da Nora já configurada, anexe a escolhida e cole o bloco do item 2 inteiro (2 versões, ~2% do grátis da semana cada). Baixe as 2 e me mande.'),
             'etapas': [
                 {'tipo': 'img', 'titulo': 'Imagem: a Nora à mesa com os cristais e os 10 papéis', 'nome': IMG, 'anexar': 'só a folha da Nora (1K)',
@@ -131,7 +166,13 @@ def montar():
                  'quadros': ('No Muse, na conversa da Nora: anexe a ' + IMG + ' e cole o bloco abaixo, inteiro (já pede 2 versões). Escolha a que tiver: as 10 letras iguais do '
                              'começo ao fim, o dedo passando sem parar e sem mexer os papéis, os braços abertos e o sorriso no fim, a boca fechada, 5 dedos. Se recusar: '
                              '"Generate it again, exactly as written". Baixe as 2 e me mande as duas (eu escolho e corto em ~6 s).'),
-                 'prompt': MUSE}],
+                 'prompt': MUSE},
+                {'tipo': 'img', 'titulo': 'Story de hoje: a foto nova (a Nora com a estátua do anjo e os cristais)', 'nome': STORY, 'anexar': 'só a folha da Nora (1K)',
+                 'quadros': ('Flow → Imagem · 9:16 · Nano Banana Pro · x4, anexando SÓ a folha da Nora (1K) (0 crédito). Lista: é a Nora (lua com 3 estrelinhas na bochecha do lado esquerdo '
+                             'da imagem, trança com anéis, brincos de estrela e lua, colar de Vênus); ela olha para a lente; a estátua do anjo de asas douradas nas mãos, sem cobrir o rosto; '
+                             'os cristais na mesa; os papéis virados, sem nada escrito; nenhuma carta; o alto da imagem só parede (o texto) e embaixo só a mesa (o adesivo); 5 dedos em cada mão. '
+                             'Renomeie para ' + STORY + ' e ME MANDE AS 4 até ~18h15.'),
+                 'prompt': img_story()}],
         },
         'edicao_linha': [
             {'quando': '1. CapCut', 'texto': 'Projeto novo com o ' + CLIPE + ' que eu escolher', 'como': 'Sem cortar nada (eu corto em ~6 s e emendo o fim no começo).'},
@@ -140,8 +181,9 @@ def montar():
              'como': '1080×1920, nome ' + NOME + '-montado. Eu ponho a caixa do topo, a frase do fim, os números 222 e 11:11, a faixa do story e a seta, e devolvo o ' + NOME + '-final.'}],
         'pecas': {'titulo_decisao': 'Resumo', 'lista': [
             {'nome': IMG, 'tipo': 'imagem 1 (primeiro quadro)', 'status': 'gerar', 'descricao': 'A Nora à mesa, cardigã creme com o broche da bandeira dos EUA, os 10 papéis com as iniciais, ametista, citrino e quartzo rosa.'},
+            {'nome': STORY, 'tipo': 'foto do story', 'status': 'gerar', 'descricao': 'A Nora à mesa com a estátua do anjo de asas douradas (o alçapão do nora70) e os cristais; eu ponho o texto.'},
             {'nome': CLIPE, 'tipo': 'clipe sem fala (Muse)', 'status': 'gerar', 'descricao': '6 s: o dedo passa por cima das 10 letras sem parar; ela abre os braços ("qual?") e sorri para a câmera.'}],
-            'decisao': ['AGORA: a imagem no Flow (x4, 0 crédito) e ME MANDE AS 4; depois o clipe no Muse (2 versões, ~4% do grátis da semana).',
+            'decisao': ['AGORA: a imagem do curto e a foto do story no Flow (x4 cada, 0 crédito) e ME MANDE AS 4 DE CADA; depois o clipe no Muse (2 versões, ~4% do grátis da semana).',
                         'Monte só a música no CapCut e me mande o ' + NOME + '-montado até ~18h40. Eu devolvo o ' + NOME + '-final em ~15 min.',
                         'Antes de postar: o story repostado (vence ~19h39). Postar só no Insta entre 19h00 e 19h30 (19h30 é a melhor janela da planilha; 19h00 a 19h10 também serve), ao vivo, com a legenda abaixo e o comentário fixado. No Face, nada nesse horário (sem fala fica fora do Face).',
                         'O nora70 vai à 0h00 no Insta e no Face (o montado até ~23h).']},
