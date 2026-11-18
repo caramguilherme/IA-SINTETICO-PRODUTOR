@@ -26,7 +26,7 @@ O aluno usa uma conta do Claude até o limite semanal acabar e passa para outra.
 4. **Um pente fino nos arquivos grandes** (`PLANO-MVM-LEGACY-APPYON.md` 457 KB, `COMUNIDADE-E-ESTRATEGIA.md` 333 KB, `CLONE-DO-GUSTAVO-RESPOSTAS.md` 255 KB, `METRICAS-NORA-LEIA.md` 209 KB): mover o que é de antes de 15/11 para os `arquivo/HISTORICO-*.md`, como no pente fino de 14/11.
 5. **Tirar do repositório ~177 MB de vídeos, áudios e PDFs já analisados** (os hooks já usados, os virais de referência, os vídeos do fórum), que deixam cada sessão nova mais lenta; as análises ficam nos `.md`.
 6. **Mover para o histórico os links da 4ª e da 5ª conta** deste arquivo (seções 5, 5b, 5c e 5d), que não servem mais.
-7. **Uma contradição:** a regra é nunca perguntar o saldo do Flow, e na 26ª leitura eu pedi para o aluno conferir se as 4 contas seguem com o Ultra (o Google tirou o Ultra de 1 conta de pelo menos 5 alunos na madrugada de 18/11). Não é o saldo, é saber se o plano continua. Se ele preferir, não se pede mais e ele avisa se alguma cair.
+7. **Uma contradição:** a regra é nunca perguntar o saldo do Flow, e na 26ª leitura eu pedi para o aluno conferir se as 4 contas seguem com o Ultra (o Google tirou o Ultra de 1 conta de pelo menos 5 alunos na madrugada de 18/11). Não é o saldo, é saber se o plano continua. Se ele preferir, não se pede mais e ele avisa se alguma cair. **[Deixou de existir em 18/11 ~09h40: o Flow caiu nas 4 contas Ultra e nas 2 com o Pro; o aluno vai para o Muse.]**
 
 ## 1. Antes de colar a mensagem (aluno)
 1. Na conta nova, abrir o Claude Code na nuvem (claude.ai/code) e começar uma sessão **com o repositório `caramguilherme/ia-sintetico-produtor`**.
