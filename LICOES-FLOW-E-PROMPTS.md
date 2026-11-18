@@ -646,3 +646,6 @@ Aluno: "no prompt pra gerar videos no muse, eu quero que gere apenas uma versão
 ## 18/11/2026 ~18h20, o prompt do story fora da seção Story do painel (o aluno: "cade o story no painel ini1811")
 Eu pus o prompt da foto do story como uma etapa da seção Clipe (item 4) e deixei a seção "4. Story" só com a nota; o modelo do painel mostra ali os campos `story.prompt_imagem`, `story.anexar`, `story.textos` e `story.adesivos`, que ficaram vazios. **Regra:** story novo vai sempre nesses campos da seção Story (com `ja_postado: false`), nunca como etapa de outra seção; conferir no painel publicado que os 3 quadros (prompt, texto, adesivo) estão cheios.
 
+## 18/11/2026 19h20, a seta do CTA mais para baixo (regra do aluno para os próximos)
+No ini1811 eu pus a seta a 60–63% da altura, porque os papéis ocupavam a parte de baixo; no Reels publicado ela ficou longe da foto do perfil (o print do aluno: "regra para os prox / a seta pode ir um pouco mais p baixo"). **Regra:** a seta vai embaixo à esquerda, logo acima da foto do perfil do Reels (X −300, Y −400, ≈81% da altura), mesmo que encoste um pouco em algo do vídeo; skills `estilo-visual-nora` e `editar-video-nora`.
+

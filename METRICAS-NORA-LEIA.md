@@ -894,6 +894,10 @@ Conferido na planilha inteira (do nora33 ao nora69): **a divisão não é curto 
 - **Os sem fala trazem a Índia em qualquer horário:** de 25% a 55% em todas as janelas (nora64, o loop, às 20h00: 53,8%). O formato pesa mais que o horário.
 - **Confirma a grade da recuperação (19h30 e 0h00).** Ressalva: os vídeos de outubro eram de outros funis e a fatia dos EUA subiu em novembro, então o horário e a época se misturam.
 
+### 18/11 19h20: postagem do ini1811 (o curto "Pause on your initial")
+- **Insta e Face às 19h20** (o aluno), 6,35 s, sem fala, caixa do topo branca, piano. O story-1811 no ar desde 18h55. No Face, por decisão do aluno, contra a R54: comparar com o loop (34) e o slideshow (9).
+- **Leituras:** ~3 h (~22h20) e ~24 h (19/11 ~19h20): views, % nos 3 s, tempo médio (passa de 100% se o pessoal assistir de novo), visitas ao perfil, comentários com a letra, países (a fatia da Índia é a medida do broche e do horário) e o Tracker. **E o teste do curto sem fala (`FILA`):** se ele puxou o nora70 (0h00) e os falados seguintes.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.

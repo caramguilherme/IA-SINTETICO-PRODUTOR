@@ -25,7 +25,7 @@ description: Use toda vez que for pôr texto num vídeo ou imagem da Nora (ediç
 | **Legenda** | 3 palavras por vez, no terço de baixo (`y` −310), Poppins Bold **branca com contorno preto grosso** (5 px), **palavras-chave em amarelo forte** (#FFD21F); no máximo 2 linhas | o estilo já faz; `destaques` com as palavras-chave |
 | **Números fixos** | **desde 16/11 (escolha do aluno, 13h31): dois números, os dois brancos com contorno preto: o 11:11 no canto de cima à direita e o 222 no canto de cima à esquerda, na mesma altura, o vídeo todo, entre 8% e 92% da largura**; o 888 saiu ("os 3 coloridos não ficam sérios") | dois `texto`, `"cor": "#FFFFFF"` (11:11 em X 230, Y 282; 222 em X −230, Y 282) |
 | **Faixa do story / do comentário (CTA)** | **caixa branca sólida, texto preto em negrito, o destaque em vermelho** (#E53935) ("Tap my photo: / your 2027 reading is in [my story]"; Face: "Your 2027 reading: / [link in the comments]"); tamanho 10 | o estilo já faz |
-| **Seta** (Insta) | vermelha com contorno preto, apontando para a foto do perfil | o estilo já faz |
+| **Seta** (Insta) | vermelha com contorno preto, apontando para a foto do perfil; **desde 18/11 (aluno: "regra para os prox: a seta pode ir um pouco mais p baixo"), embaixo à esquerda, logo acima da foto do perfil do Reels: X −300, Y −400 (≈81% da altura), nunca no meio da tela; se encostar em algo do vídeo, só um pouco (ela é pequena)** | o estilo já faz |
 
 ## Regras do modelo (Clone R50, ao pé da letra)
 1. **Quando a legenda entra:**
