@@ -34,3 +34,6 @@ Só ficam aqui as ferramentas em uso. Os scripts antigos (painéis de 22/10 a 10
 - `destaques/` (14/11): os stories e as capas dos Destaques do Insta (About me, Reviews, How it works) e os scripts `capas.py` (capa creme com lua, estrela ou brilho terracota; uso: `python3 -I ferramentas-painel/destaques/capas.py <pasta>`) e `fundo_reviews.py` (fundo desfocado + 2 prints do Trustpilot em cartão; uso: `python3 -I ferramentas-painel/destaques/fundo_reviews.py foto.jpg saida.jpg print1.png print2.png`, depois o `texto_story.py` por cima).
 - `skills/`: as skills do claude.ai do aluno (`leitura-discord-mvm`, `doc-mvm-legacy`), em pasta e em zip.
 
+
+## `voz_consistencia.py` (19/11/2026)
+O campo novo "Prompt de consistência de voz (opcional)" do gerador de animação da Central. **Todo builder de painel novo chama `VC.adicionar(config)`** na lista de seções da Central: o campo entra na seção 5, logo depois do "Perfil de voz", com o texto da Nora (`VC.NORA`) e o botão de copiar. Nos avatares novos, passar o texto de cada um (`VC.adicionar(config, texto)`).

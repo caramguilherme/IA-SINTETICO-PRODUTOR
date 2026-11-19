@@ -8,7 +8,7 @@
 #   (3) frases que passavam de 22 palavras foram encurtadas ou partidas para caber num take de 10 s (a Central junta frases inteiras até ~22 palavras).
 # Imagens como EDIÇÃO da d1511-PRE-sal-IMG-C (a Nora aprovada) + a folha: lição de 14/11 20h20. Clipes do hook com PROMPT CURTO (aula 54; 16/11).
 # Uso (raiz do repositório): python3 -I ferramentas-painel/dia-1711/build_dia_1711.py
-import json, copy, re, pathlib
+import sys, json, copy, re, pathlib
 
 R = pathlib.Path(__file__).resolve().parents[2]
 MODELO = (R / 'PAINEL-MODELO.html').read_text(encoding='utf-8')
@@ -22,6 +22,8 @@ def pacote(nome):
     return json.loads(t[i:j])
 
 
+sys.path.insert(0, str(R / 'ferramentas-painel'))
+import voz_consistencia as VC  # noqa: E402
 P46 = pacote('PAINEL-NORA46.html')
 P51 = pacote('PAINEL-NORA51.html')
 P66 = pacote('PAINEL-NORA66.html')
@@ -222,6 +224,7 @@ def config(c):
                 campo['valor'] = 'Média — CTA (155–180 WPM). É a velocidade padrão da Nora. No agente, cada take sai com até 10 s (Omni 1.2 Flash em 720p: 10 s = 30 créditos, 8 s = 24, 6 s = 18).'
             elif campo['campo'] == 'Estilo visual':
                 campo['valor'] = 'UGC moderno (o LIVRE descreve)'
+    VC.adicionar(cf)  # o campo novo de consistência de voz da Central (19/11)
     return cf
 
 
