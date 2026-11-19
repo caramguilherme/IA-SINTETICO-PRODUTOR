@@ -965,3 +965,9 @@ Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, co
 - **18/11 fechado:** 3 cliques, 3 abriram o quiz, 2 começaram, 2 terminaram, 0 checkout, 0 venda; os 3 do Facebook (igual à leitura de 23h55: nada entrou depois). Pelos Insights, 2 dos 3 vieram do comentário do ini1811-FACE.
 - **19/11 até 11h38: 1 clique do Instagram**, 1 abriu o quiz, 0 começou, 0 checkout. **O story-1811 do Insta mostra 4 cliques no link** (Insights às ~11h36): o Instagram conta o toque no adesivo, e o Tracker conta só quem carregou a página do quiz com o link; parte dos toques fecha antes de carregar. O que vale para a conta de vendas é o Tracker.
 - **Desde 27/10:** ~42 cliques reais, ~19 terminaram o quiz, 0 checkout. Régua oficial: ~330 cliques por venda (0,30%); para quem aplica as aulas, ~85 a ~125.
+
+## 19/11/2026 ~18h10: o story-1811 no Insta com ~23h15, a última leitura antes de repostar (prints do aluno)
+- **47 views, 28 viewers** (às ~11h36: 25 e 16), **42,6% seguidores e 57,4% não seguidores**; 0 interações; **7 cliques no link** (às ~11h36: 4); navegação 35 (saiu 17, avançou 13, próximo story 5); **2 visitas ao perfil**, 0 follows.
+- **Taxa de toque no link: 7 de 28 viewers = 25%**, dentro do que os stories da Nora já fizeram (o simples de 03/11: 19% a 24%; o creme de 14/11: 30%, 8 de 27) e perto da régua do Clone R72 (~30% de quem vê clica). **O story converte; o gargalo segue antes dele: poucas pessoas chegam ao story** (28 viewers em ~23 h, com o ini1811 a 833 views e o nora70 a 119).
+- **Os 57,4% de não seguidores** vieram dos Reels pela foto do perfil (o ini1811 deu 7 visitas ao perfil; o nora70, 0).
+- **Os 7 toques contra o Tracker:** o Tracker de 19/11 até 11h38 tinha 1 clique do Insta; conferir o Tracker do dia fechado (o Instagram conta o toque no adesivo; o Tracker, só quem carregou a página).
