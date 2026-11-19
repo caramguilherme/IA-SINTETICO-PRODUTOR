@@ -983,3 +983,8 @@ Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, co
 - **A curva de retenção:** cai para ~50% por volta dos 5 s e para ~10% por volta dos 20 s; os 25 s de média vêm de poucas pessoas que viram muito do vídeo de 1:59.
 - **Contra o nora69 na mesma idade** (o mesmo modelo da claire_mayaus, com o hook da canela): 121 views com ~17h35, 8 s de média, 55,9% nos 3 s, EUA 62,0%, 0 visitas. **O hook do alçapão segurou mais (25 s × 8 s) e os dois pararam em ~120:** o público é o certo (EUA e 45+), mas a conta não passa do teto dos falados e nenhum dos dois levou gente ao perfil.
 - **O que decide agora:** o nora71 (19h30), com o mesmo hook do alçapão e a fala dos 3 sinais: se ele levar visitas ao perfil, a fala é o que faltava.
+
+## 19/11/2026 18h15: o Tracker de hoje até 18h15 (print do aluno)
+- **3 cliques, 3 abriram o quiz, 1 começou, 1 terminou, 0 checkout, 0 venda; os 3 do Instagram** (Face: 0 hoje). Às 11h38 era 1 clique do Insta, que não tinha começado o quiz: entraram 2 cliques e 1 quiz terminado à tarde.
+- **De onde vieram:** o story-1811 do Insta (7 toques no link às ~18h10; 3 de 7 carregaram a página) e, por trás dele, as 12 visitas ao perfil do ini1811 (o curto sem fala). O nora70 levou 0 ao perfil.
+- **No total do Manifestation (27/10 a 19/11 18h15): ~44 cliques reais, ~20 terminaram o quiz, 0 checkout.**
