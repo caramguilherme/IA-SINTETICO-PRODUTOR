@@ -1748,3 +1748,30 @@ Feitas e respondidas: R1 a R21 (07/11) e R22 (10/11, o kit do portal). Para conf
 1. ~~"Em qual fonte aparece a hashtag #AuraliTrend como obrigatória?"~~ Resolvida na R27 (#AuraliTrend fora).
 
 **Nota (10/11, 12ª leitura do Discord):** até 09/11 13h57 a fonte 67 do notebook (call de 03/11, Iorhan) tinha a transcrição da aula 66; a Ju corrigiu. As respostas R1 a R21 foram feitas antes: o que citam como "67" veio da 66. **Pergunta sugerida, agora com a fonte certa (12/11: já coberta pela transcrição inteira da call em `AULA-03-11-TURBINANDO-CRIATIVOS-IORHAN.md`; não precisa mais):** "Na call de 03/11 (Turbinando criativos), o que o Iorhan diz sobre a diferença entre copy que engaja e copy que vende no Manifestation, e que estrutura de corpo ele mostra funcionando? Cite trechos."
+
+---
+
+## R78 (19/11/2026 ~11h50, pergunta montada; resposta pendente): trocar a avatar, curto sem fala × falado, o CTA que leva ao perfil
+**Pergunta (a ser colada pelo aluno, ~2.650 caracteres):**
+
+Tenho 3 dúvidas com dados de hoje. Em cada resposta, cite a aula e o minuto; o que for opinião sua, sem fonte, marque como "opinião".
+
+1) TROCAR A AVATAR (contradição)
+Na R19 e na R21 você disse para não mexer na avatar da Nora (avatar nova só em conta nova). Mas:
+- call "Passos iniciais - Risely" (18/11, 0:07:13 a 0:08:13): "vários vídeos tá 200, 300 views, tem gente que trocou o avatar nessa mesma conta e salvou ela… umas 3 semanas de flop seguido pra trocar o avatar";
+- aula 53 (1:40:57 a 1:41:23): "você pode até mudar o avatar… por cima do avatar";
+- aula 67 (1:05:06): tirar a "tinta no rosto" sem trocar o perfil; aula 65: "pintura na cara" é estereótipo.
+A Nora tem a lua e 3 estrelinhas pintadas no rosto. Os falados no Insta estão entre 110 e 220 views desde 11/11 (9 dias); no Face, entre 200 e 330. O Status da conta está todo verde.
+Pergunta: qual vale para a Nora? (A) a mesma Nora sem a pintura; (B) uma avatar nova nesta conta; (C) não mexer. Se for A ou B, a partir de quando, e o que medir para saber se deu certo?
+
+2) CURTO SEM FALA × FALADO
+Ontem às 19h20 postei um curto de 6 s sem fala (a Nora passa o dedo por 10 iniciais; texto "Pause on your initial. 2027 has a message for you"; faixa "Tap my photo: your 2027 reading is in my story" e seta). Com ~16 h:
+- Insta: 833 views (os falados param entre 110 e 220), 7 visitas ao perfil, 1 follow, Índia 42,6%, EUA 16,5%, 45+ 42,6%;
+- Face: 283 views e 2 cliques no link do comentário (2 dos 3 cliques do dia no Tracker).
+Os 2 falados no modelo da claire_mayaus (nora69 e nora70, ~2 min, hook de ação de 6,7 s): 119 a 121 views no Insta, 56% a 60% nos 3 s, tempo médio de 26 s no nora70, EUA 50% a 66%, 45+ 58% a 77%, mas 0 visitas ao perfil nos dois e 0 clique.
+Perguntas: (a) o que as aulas dizem sobre usar o curto sem fala para levar gente ao perfil e ao story, e em que proporção com os falados por dia? (b) no Insta, vale postar o curto mesmo com 40% de Índia, ou ele fica só no Face? (c) como tirar a Índia do curto (o broche dos EUA e o horário das 19h20 não seguraram)?
+
+3) O CTA QUE LEVA AO PERFIL
+O CTA falado do nora69 e do nora70 é: "That is why I left a quick reading in my stories that will reveal if you are one of them. So tap my profile picture down below, and go check it out right now." Deu 0 visitas ao perfil nos dois. O curto, sem CTA falado, só com a faixa e a seta, deu 7.
+Perguntas: (a) que CTA falado as aulas mostram que leva ao perfil e ao story (o texto e o minuto)? (b) a faixa com a seta pesa mais que o CTA falado? (c) o story do Insta teve 16 viewers e 4 toques no link: está bom, ou o story também precisa mudar?
+
