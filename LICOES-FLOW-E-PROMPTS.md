@@ -659,3 +659,11 @@ No ini1811 eu pus a seta a 60–63% da altura, porque os papéis ocupavam a part
 - **No agente do Flow, depois de gerar:** "renomeie cada vídeo gerado com o respectivo número que estava ao lado (prompt 1 vira 1…)", para baixar já em ordem; e **um projeto novo por vídeo**, para baixar tudo de uma vez ("baixar projeto").
 - **O prompt da voz (a NORA_VOICE_LOCK) é o que segura a voz**, no Flow e no Muse: salvar e repetir igual em todo take.
 - **Vídeo em 480p (Grok) "o Instagram pode detectar como conteúdo de baixa qualidade"**: nada abaixo de 720p no arquivo final.
+
+## O campo "Prompt de consistência de voz" no gerador de animação da Central (apareceu em 19/11 ~00h50)
+É a atualização que o Gustavo prometeu na call de 18/11 (0:49:37 a 0:51:13: "salva o prompt da voz… vou botar para vocês botarem o prompt que quiserem"). O texto entra na seção VOICE CONSISTENCY de cada take, no lugar da trava padrão; vazio = a trava padrão. **Para a Nora, sempre este texto, igual em todo vídeo** (o perfil "Livre" de sempre continua no campo da voz):
+
+```
+VOICE CONSISTENCY (clip {clip} of {total}): This is the SAME woman with the SAME voice as in every other clip and every other video of her. Her voice never changes: American woman in her mid-30s, natural General American accent, mid register, natural and slightly textured (never smooth, nasal or thin), light warmth in the chest; warm, confident and straight-talking, like a close friend across a kitchen table; unhurried diction at about 165 words per minute, short clear phrases with a small natural pause before the key word. Keep the exact same timbre, pitch, accent, pace, volume and energy from the first word to the last. Never switch to a different voice, a narrator, a younger or older voice, a whisper or a second speaker. Solo monologue only: no background voices, no music, no sound effects.
+```
+Nos avatares novos, um texto próprio de cada um, no mesmo molde (a idade, o sotaque, o registro e o ritmo da voz dela).
