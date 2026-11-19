@@ -36,8 +36,8 @@ Reserva do T06 (se o Muse recusar o "private" 2 vezes): "…Three quick question
 **Medida:** com ~24 h, as visitas ao perfil e os cliques no Tracker contra o nora69 e o nora70 na mesma idade; os 3 s, o tempo médio e a fatia dos EUA.
 
 ## Postagem
-- **nora71:** Insta às 19h30 de 19/11. Não vai ao Face (o mesmo corpo no mesmo dia trava lá).
-- **nora72:** o -FACE às 19h30 de 19/11 (a variação do Face); o Insta à 0h00 (20/11).
+- **nora71:** Insta às 19h30 de 19/11 e o -FACE no Face às 19h30 (mudou às ~18h: o aluno gerou o alçapão primeiro e faz o da canela à noite).
+- **nora72:** o Insta à 0h00 (20/11). No Face não vai à 0h00 (o mesmo corpo do nora71-FACE no mesmo dia trava lá); o -FACE fica pronto para decidir em 20/11.
 - **Face 0h00:** a variação do nora68-FACE às ~00h50 (completa 3 dias às 00h48).
 - **Legendas:** Insta do nora71 "Comment 1, 2 or 3: which sign have you seen?"; do nora72 "Comment the number you keep seeing" (o pedido muda a cada post); Face sem pedido, com o link FACE inteiro no comentário da Página.
 - **O hook do nora72:** o que está aqui (`ferramentas-painel/dia-1711/d1711-carro-HOOK.mp4`) tem o texto antigo gravado ("When the money arrives Don't tell anyone…", x 46 a 1026, y 249 a 413). Se o aluno mandar os 3 clipes originais, eu remonto sem texto (`montar_hook_nora69.py`); se não, a caixa nova cobre o texto antigo. O do alçapão, sem texto, está em `ferramentas-painel/dia-1911/d1711-alcapao-HOOK-sem-texto.mp4`.

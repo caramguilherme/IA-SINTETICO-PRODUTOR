@@ -232,12 +232,12 @@ FIX_INSTA = {
     'nora72': 'You were never imagining it 🙏 tap my profile picture above, your 2027 reading is waiting in my story',
 }
 QUANDO = {
-    'nora71': ('Insta às 19h30 de hoje (19/11). Face: não vai (a mesma fala vai no Face com o nora72, às 19h30; o mesmo corpo duas vezes no mesmo dia trava lá).'),
-    'nora72': ('Face às 19h30 de hoje (19/11), o nora72-final-FACE; Insta à 0h00 (20/11), o nora72-final.'),
+    'nora71': ('Insta às 19h30 de hoje (19/11), o nora71-final; Face às 19h30, o nora71-final-FACE (com a variação do Face).'),
+    'nora72': ('Insta à 0h00 (20/11), o nora72-final. Face: não vai à 0h00 (o mesmo corpo foi no Face às 19h30 com o nora71; lá vai a variação do nora68-FACE às ~00h50); o nora72-final-FACE fica pronto para decidir amanhã.'),
 }
 HIPOTESE = {
     'nora71': 'Hipótese: a fala que qualifica (os 3 sinais) leva gente ao perfil e ao story (o nora69 e o nora70 tiveram 0 visitas), com o hook que segurou 26 s no Insta.',
-    'nora72': 'Hipótese: com a mesma fala do nora71, o hook e o cenário do carro; no Face, a canela foi a que andou (o nora69-FACE fez 326 views e +2,1x).',
+    'nora72': 'Hipótese: com a mesma fala do nora71, o hook e o cenário do carro (o par do nora69, que saiu com o mesmo hook e a copy da claire_mayaus).',
 }
 HOOK_LINHA = {
     'nora71': ('O hook do alçapão já está comigo (o do nora70, sem texto). Não põe no CapCut: eu emendo ele antes do T01, com o flash branco.'),
@@ -274,7 +274,8 @@ def montar(c):
                    "You're not imagining it 🙏 tap my photo for your reading",
                    'Received ✨ your reading is in my story 🔮']
     P['story'] = {'ja_postado': True,
-                  'nota': 'O story-1811 vence às ~18h55 de hoje: reposte antes, ao vivo, no Insta e no Face (o mesmo arquivo, com o adesivo do link). Sem story no ar, o vídeo não leva a lugar nenhum.'}
+                  'nota': ('O story-1811 vence às ~18h55 de hoje: reposte antes, ao vivo, no Insta e no Face (o mesmo arquivo, com o adesivo do link). Sem story no ar, o vídeo não leva a lugar nenhum.'
+                           if nn == 'nora71' else 'Antes de postar, confira se o story repostado hoje às ~18h55 está no ar no Insta (vale até ~18h55 de amanhã).')}
     m = P['mapa_tela']
     m['legenda'] = [69, 77]
     m['estilos'] = [
@@ -299,13 +300,13 @@ def montar(c):
                    'Se um corte comeu o fim de uma palavra, arraste a borda dele ou suba a margem de respiro. O balanço do corpo no fim de cada take, eu corto aqui.',
                    f'Clique em Cortar e baixar e salve como {nn}-cortado.'],
     }
-    saida = (f'Eu devolvo o {nn}-final (Insta).' if nn == 'nora71'
-             else f'Eu devolvo o {nn}-final-FACE (o do Face das 19h30, com a variação do Face) e o {nn}-final (o do Insta à 0h00).')
+    saida = (f'Eu devolvo o {nn}-final (Insta, 19h30) e o {nn}-final-FACE (Face, 19h30, com a variação do Face).' if nn == 'nora71'
+             else f'Eu devolvo o {nn}-final (Insta, 0h00) e o {nn}-final-FACE (para decidir amanhã).')
     P['edicao_linha'] = [
         {'quando': 'A. Antes de tudo', 'texto': f'Projeto novo no CapCut com o {nn}-cortado', 'como': 'É o vídeo que saiu da FusionZ. Começa direto no T01.'},
         {'quando': 'B. O hook: NÃO põe no CapCut', 'texto': HOOK_LINHA[nn], 'como': 'Eu monto o hook, ponho o flash branco e emendo antes do T01.'},
         {'quando': '1. Do T01 ao fim', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB', 'como': 'Começa no 1º quadro do montado.'},
-        {'quando': '2. Exportar e me mandar (até ~18h40)', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
+        {'quando': '2. Exportar e me mandar (' + ('até ~18h40' if nn == 'nora71' else 'até ~23h') + ')', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
          'como': f'1080×1920, nome {nn}-montado (acima de 30 MB, link do Drive). {saida}'},
     ]
     P['pecas'] = {
@@ -318,7 +319,8 @@ def montar(c):
             'aula 65), sem data, sem ameaça, sem dinheiro, com o CTA padrão. A mesma fala no nora71 e no nora72.',
             QUANDO[nn],
             HIPOTESE[nn],
-            'O montado até ~18h40. O story-1811 vence às ~18h55: reposte antes, no Insta e no Face.',
+            ('O montado até ~18h40. O story-1811 vence às ~18h55: reposte antes, no Insta e no Face.' if nn == 'nora71'
+             else 'O montado até ~23h (o Insta vai à 0h00). O story repostado hoje às ~18h55 vale até ~18h55 de amanhã.'),
         ],
     }
     ct = P['central']
