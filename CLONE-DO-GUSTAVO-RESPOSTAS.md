@@ -1777,7 +1777,7 @@ Perguntas: (a) que CTA falado as aulas mostram que leva ao perfil e ao story (o 
 
 **Resposta (19/11 ~12h; texto inteiro em `CLONE-ORIGINAIS/2026-11-19-R78-avatar-curto-cta-perfil.md`), resumida:** (1) a avatar: a opção A (a mesma Nora sem a pintura), já; a B (avatar nova nesta conta) só depois de ~3 semanas de flop; medir 200 a 300+ views e 3 a 5 visitas ao perfil por falado. (2) o curto: serve para destravar views e levar ao story; no máximo 1 curto para 1 ou 2 falados; no Insta "NÃO" (Índia), no Face "SIM"; tirar a Índia com uma frase falada em inglês nos 3 primeiros segundos e texto com termos do dia a dia americano. (3) o CTA: 3 "validados" (aula 54, 1:10:46: "the second part of this sign is waiting for you there"; aula 19, 1:13:04: "so this prediction can successfully come true"; aula 70, 0:17:09: "I left a special gift for you there"); o nosso deu 0 visita por ter tom de condição; a faixa com a seta pesa mais que a fala; o story com 25% está excelente (aula 21, 0:44:49).
 
-**Conferência (19/11 ~12h10, nas transcrições):**
+**Conferência (19/11 ~12h05, nas transcrições):**
 - **Batem:** aula 67 (1:05:06, tirar a tinta do rosto sem trocar o perfil); call de 18/11, a "aula 74" (0:07:20 a 0:08:13, ~3 semanas de flop); aula 54 (1:10:46, o CTA da "second part of this sign", igual ao que ele citou na R1); aula 19 (1:13:04, o CTA da previsão); aula 70 = call de 09/11 (0:17:09, "Lá há um presente para você"); aula 28 (0:58:30 a 0:58:42, "0.2% de conversão de Índia"); aula 21 (0:44:49, ~30 cliques a cada 100 views do story); aula 18 (0:31:57 a 0:36:17: o vídeo clickbait de promessa e CTA "transiciona muita gente para o funil"; vídeos de 20 a 30 s convertendo).
 - **Citações erradas:** aula 74 (0:05:48: trocar Gmail e proxy, não 200 a 300 views); aula 65 (0:32:46: dar motivos para a passagem ao story, sem o número de 3 a 5 visitas); aula 65 (2:13:22: a copy de medo que pega público velho, não a Índia); **aula 18 (1:11:04): as iniciais dos nomes na tela, a 2ª vez que ele a usa para outra coisa (R72)**; aula 21 (0:42:41: um criativo estilo TikTok); aulas 40 (0:19:38) e 57 (0:32:00): só a opção da seta no editor (na aula 19, 1:13:43: "setinha caso quiser").
 - **Contradições:** (1) a opção A contradiz a R19 e a R21 dele, sem explicar; (2) o "NÃO" ao curto no Insta contradiz a aula 28 (0:59:04: "não tô falando que é pra parar… conciliar curiosidade visual com a entrega americana… não abusem") e a aula 21 (0:57:09 a 0:57:31: "abram novos perfis" do clickbait; "perfis bons e sólidos dos especialistas"); (3) a proporção "1 curto para 1 ou 2 falados" não está na 0:57:21: opinião.
@@ -1788,7 +1788,7 @@ Perguntas: (a) que CTA falado as aulas mostram que leva ao perfil e ao story (o 
 
 ---
 
-## R79 (19/11/2026 ~12h10, pergunta montada sem o aluno pedir, pela regra de 19/11; resposta pendente): a avatar, as citações erradas, o curto no Insta e o CTA
+## R79 (19/11/2026 ~12h05, pergunta montada sem o aluno pedir, pela regra de 19/11; resposta pendente): a avatar, as citações erradas, o curto no Insta e o CTA
 **Pergunta (~2.770 caracteres):**
 
 Conferi a sua resposta nas transcrições. Batem: aula 67 (1:05:06), aula 74 (0:07:20), aula 54 (1:10:46), aula 19 (1:13:04), aula 70 (0:17:09), aula 28 (0:58:42, a Índia com 0,2%) e aula 21 (0:44:49). Ficaram 5 pontos:
@@ -1816,9 +1816,9 @@ Tem outro CTA nas aulas com motivo forte, sem prometer coisa grátis nem que o c
 5) AULAS 13 E 25
 Não tenho as transcrições da aula 13 (0:06:34) nem da aula 25 (0:37:55). O que elas dizem nesses minutos, palavra por palavra?
 
-**Resposta (19/11 ~12h30; texto inteiro em `CLONE-ORIGINAIS/2026-11-19-R79-avatar-citacoes-curto-cta.md`), resumida:** (1) a R19 e a R21 falavam de trocar de personagem; tirar a pintura não muda o perfil (aula 67); **esperar os 40 vídeos** antes de tirar, para não misturar com a troca de copy (marcado como opinião). (2) corrigiu as 6 citações: o 200 a 300 é da aula 74 (0:07:46 a 0:08:01); o 3 a 5 visitas é opinião; a Índia com 0,2% é da aula 28; os símbolos dos EUA, da aula 37 (1:22:27); o público no mudo, da aula 32 (0:32:51); "a seta pesa mais" é opinião. (3) **o curto: numa conta separada, sem a Nora (aula 21, 0:57:09 a 0:57:31), e no Face**, onde a restrição tira a Índia; aula 28 (1:03:08): "não cair muito pra um lado de clickbait". (4) 2 CTAs a mais, "com motivo": "To get full clarity… I left the complete breakdown of this message there for you" (aula 65) e "To see if your energy is aligned… the 2-minute personal reading is waiting for you" (aula 64). (5) as falas das aulas 13 (100 mil views valida) e 25 (0:37:55: "o máximo nos primeiros 10 vídeos foi 295… não é culpa do Avatar… é mais a página que foi meio que sabotada").
+**Resposta (19/11 ~12h10; texto inteiro em `CLONE-ORIGINAIS/2026-11-19-R79-avatar-citacoes-curto-cta.md`), resumida:** (1) a R19 e a R21 falavam de trocar de personagem; tirar a pintura não muda o perfil (aula 67); **esperar os 40 vídeos** antes de tirar, para não misturar com a troca de copy (marcado como opinião). (2) corrigiu as 6 citações: o 200 a 300 é da aula 74 (0:07:46 a 0:08:01); o 3 a 5 visitas é opinião; a Índia com 0,2% é da aula 28; os símbolos dos EUA, da aula 37 (1:22:27); o público no mudo, da aula 32 (0:32:51); "a seta pesa mais" é opinião. (3) **o curto: numa conta separada, sem a Nora (aula 21, 0:57:09 a 0:57:31), e no Face**, onde a restrição tira a Índia; aula 28 (1:03:08): "não cair muito pra um lado de clickbait". (4) 2 CTAs a mais, "com motivo": "To get full clarity… I left the complete breakdown of this message there for you" (aula 65) e "To see if your energy is aligned… the 2-minute personal reading is waiting for you" (aula 64). (5) as falas das aulas 13 (100 mil views valida) e 25 (0:37:55: "o máximo nos primeiros 10 vídeos foi 295… não é culpa do Avatar… é mais a página que foi meio que sabotada").
 
-**Conferência (19/11 ~12h40):**
+**Conferência (19/11 ~12h15):**
 - **Batem:** aula 74 (0:07:46), aula 28 (1:03:08: "não cair muito pra um lado de clickbait… 10 segundos, só a promessa e o CTA… você qualificou pouco"), aula 32 (0:32:51: "No mudo"), aula 65 (0:46:33: "dar motivos palpáveis e convincentes para clicar"; 0:49:43: pôr a pessoa no estado de solução, desejo e benefício antes do quiz), aula 46 (0:04:34: variar o gancho do corpo que acertou).
 - **Errada:** aula 28 (1:19:13: as imagens de casais felizes do soulmate, não isolar variáveis); a conclusão já veio marcada como opinião e bate com a nossa regra (uma variável por vez).
 - **A R19 e a R21 ficam reconciliadas:** o "não mexer" era trocar de personagem; tirar a pintura no mesmo perfil é a aula 67. **Quem tinha escrito "a Nora sem a pintura não deve ser feita nesta conta" fui eu**, na conferência da R21 (o "Para a Nora" daquela entrada), não ele.
@@ -1828,7 +1828,7 @@ Não tenho as transcrições da aula 13 (0:06:34) nem da aula 25 (0:37:55). O qu
 
 ---
 
-## R80 (19/11/2026 ~12h40, montada sem o aluno pedir; resposta pendente): a opinião dos 40 vídeos, os CTAs, a conta travada
+## R80 (19/11/2026 ~12h15, montada sem o aluno pedir; resposta pendente): a opinião dos 40 vídeos, os CTAs, a conta travada
 **Pergunta (~1.500 caracteres):**
 
 Obrigado pelas correções. Conferi de novo: batem a aula 74 (0:07:46), a aula 28 (1:03:08), a aula 32 (0:32:51, o público no mudo) e a aula 65 (0:46:33 e 0:49:43, os motivos para clicar). Ficaram 3 pontos curtos:
@@ -1840,15 +1840,15 @@ Obrigado pelas correções. Conferi de novo: batem a aula 74 (0:07:46), a aula 2
 
 3) Na aula 25 (0:37:55 a 0:38:21), pelo trecho que você colou: "não é culpa do Avatar… é mais a página que foi meio que sabotada". A Nora tem 2 verificações faciais no Insta (13/10 e 17/11), os falados param entre 110 e 220 views desde 11/11, e o Status da conta está todo verde. Pelas aulas, isso aponta mais para a conta do Insta travada do que para a avatar? Se sim, o que as aulas mandam: insistir nesta conta (por quanto tempo), ou abrir uma conta nova com a mesma Nora? Cite a aula e o minuto.
 
-**Resposta (19/11 ~12h50; texto inteiro em `CLONE-ORIGINAIS/2026-11-19-R80-cta-funil-conta-travada.md`), resumida:** (1) o "esperar os 40 vídeos" é opinião (a aula 28, 1:19:13, é sobre imagens de casais); (2) os 2 CTAs da R79 foram montados por ele; **o CTA "Now pay attention: tap my profile picture and check my story. Three quick questions, and your private reading is ready." está de acordo com a aula 65 (0:46:33 a 0:50:04)**; (3) os números apontam para a conta do Insta travada, não para a Nora; **mandou abrir uma conta nova com a mesma Nora e jogar a atual fora** (aula 25, 0:38:39 a 0:39:10; aula 74, 0:05:51 a 0:06:24).
+**Resposta (19/11 ~12h18; texto inteiro em `CLONE-ORIGINAIS/2026-11-19-R80-cta-funil-conta-travada.md`), resumida:** (1) o "esperar os 40 vídeos" é opinião (a aula 28, 1:19:13, é sobre imagens de casais); (2) os 2 CTAs da R79 foram montados por ele; **o CTA "Now pay attention: tap my profile picture and check my story. Three quick questions, and your private reading is ready." está de acordo com a aula 65 (0:46:33 a 0:50:04)**; (3) os números apontam para a conta do Insta travada, não para a Nora; **mandou abrir uma conta nova com a mesma Nora e jogar a atual fora** (aula 25, 0:38:39 a 0:39:10; aula 74, 0:05:51 a 0:06:24).
 
-**Conferência (19/11 ~12h55):**
+**Conferência (19/11 ~12h20):**
 - **(1) e (2) fecham:** o CTA vira o padrão dos próximos falados (seção 2 do `CLAUDE.md`).
 - **(3) contradiz a fonte que ele mesmo citou:** a aula 74 (0:04:55 a 0:06:44) é sobre o aquecimento ("Estamos falando de aquecimento", 0:06:24: jogar fora se 6 dos 10 vídeos de aquecimento ficarem abaixo de 100); para os vídeos de venda, a mesma call (0:07:20 a 0:08:13) manda trocar a avatar **na mesma conta** depois de ~3 semanas de flop. A aula 25 (pelo trecho dele; sem transcrição aqui) também é de conta nos 10 primeiros vídeos. **E os nossos números:** no mesmo perfil, o curto sem fala fez 833 views em 16 h com 100% de não seguidores, e o loop 2.204 em 14/11; uma conta restrita não entregaria 7 vezes mais um vídeo do que outro. Aponta mais para o falado do que para a conta. **Jogar a conta fora fica parado**; vai a R81, montada sem o aluno pedir.
 
 ---
 
-## R81 (19/11/2026 ~12h55, montada sem o aluno pedir; resposta pendente): a conta da Nora é de fase de venda; a mesma Nora em 2 contas
+## R81 (19/11/2026 ~12h20, montada sem o aluno pedir; resposta pendente): a conta da Nora é de fase de venda; a mesma Nora em 2 contas
 **Pergunta (~1.600 caracteres):**
 
 Antes de jogar fora a conta da Nora, conferi as 2 fontes e elas parecem falar de outra fase:
@@ -1863,15 +1863,15 @@ Perguntas:
 (a) Pelas aulas, a Nora segue o caminho da fase de venda da call de 18/11 (manter a conta; trocar o visual ou a avatar na mesma conta depois de ~3 semanas de flop, ~02/12) ou o de jogar a conta fora? Cite.
 (b) O aluno vai abrir uma conta nova do Manifestation. Pode rodar a mesma Nora nela enquanto a conta atual continua? O que as aulas dizem sobre a mesma avatar em 2 contas ao mesmo tempo (na R21 você disse "1 avatar por conta")? Cite.
 
-**Resposta (19/11 ~13h; texto inteiro em `CLONE-ORIGINAIS/2026-11-19-R81-fase-de-venda-mesma-nora-2-contas.md`), resumida:** (a) **a Nora segue a fase de venda: manter a conta**; a regra de jogar fora é do aquecimento; trocar a avatar ou o visual na mesma conta só depois de ~3 semanas de flop no falado (~02/12); o curto com 833 views mostra que a conta não está travada. (b) **a mesma Nora pode rodar numa conta nova** (aula 13: "99 instagrams… tudo com a Ava"; aula 55, 1:12:51: a Rose no Insta e no Face); o "1 avatar por conta" seria não misturar personagens no mesmo perfil; a aula 28 (0:46:32) prefere novos avatares no longo prazo.
+**Resposta (19/11 ~12h22; texto inteiro em `CLONE-ORIGINAIS/2026-11-19-R81-fase-de-venda-mesma-nora-2-contas.md`), resumida:** (a) **a Nora segue a fase de venda: manter a conta**; a regra de jogar fora é do aquecimento; trocar a avatar ou o visual na mesma conta só depois de ~3 semanas de flop no falado (~02/12); o curto com 833 views mostra que a conta não está travada. (b) **a mesma Nora pode rodar numa conta nova** (aula 13: "99 instagrams… tudo com a Ava"; aula 55, 1:12:51: a Rose no Insta e no Face); o "1 avatar por conta" seria não misturar personagens no mesmo perfil; a aula 28 (0:46:32) prefere novos avatares no longo prazo.
 
-**Conferência (19/11 ~13h05):**
+**Conferência (19/11 ~12h25):**
 - **(a) fecha** e bate: aula 74 (0:04:55 a 0:08:13) e aula 55 (1:16:12: "tô postando um mês aqui e o avatar não destravou, e a conta tá de boa, aí eu troco, não vou trocar toda semana não"). **A conta do Insta da Nora fica.**
 - **(b) contradiz 3 trechos que ele mesmo citou:** aula 28 (0:46:53: "não de um jeito de você pegar o mesmo avatar e fazer 10 contas pra ele, **porque isso não funcionou**, mas realmente ter novos avatares"); aula 54 (1:33:53: "**um personagem para cada conta**, é o ideal"); aula 55 (1:13:05: depois da Rose no Insta e no Face, "**Mas em outras contas assim, não**"). A aula 13 (o "99 instagrams com a Ava") não está transcrita aqui. **Para as contas novas, fica o plano do aluno: avatares novos** (18/11 00h39). Vai a R82, curta, montada sem o aluno pedir.
 
 ---
 
-## R82 (19/11/2026 ~13h05, montada sem o aluno pedir; resposta pendente): a mesma avatar em 2 contas
+## R82 (19/11/2026 ~12h25, montada sem o aluno pedir; resposta pendente): a mesma avatar em 2 contas
 **Pergunta (~930 caracteres):**
 
 Fechado o (a): a conta da Nora fica. Conferi o (b) e 3 trechos que você citou dizem mais do que você colou:
@@ -1884,7 +1884,7 @@ A aula 13 (que não tenho transcrita) é de quando? Se ela é mais antiga que a 
 
 Pergunta: pelas aulas mais recentes, a conta nova do Manifestation deve ter uma avatar nova (outra personagem), e não a Nora de novo? Cite a aula, a data e o minuto.
 
-**Resposta (19/11 ~13h15; texto inteiro em `CLONE-ORIGINAIS/2026-11-19-R82-mesma-avatar-2-contas.md`), resumida:** a aula 13 é de maio ou junho, e o "99 instagrams com a Ava" foi revisto; **a conta nova do Manifestation deve ter uma avatar nova**: aula 28 (0:46:53, julho), aula 31 (0:20:16, agosto: "Lateralização não é pegar o mesmo avatar e colocar um monte de contas para ele… é você ter vários avatares"), aula 54 (1:33:53) e aula 55 (1:12:51 a 1:13:05; a mesma avatar só no Insta e no Face dela).
+**Resposta (19/11 ~12h27; texto inteiro em `CLONE-ORIGINAIS/2026-11-19-R82-mesma-avatar-2-contas.md`), resumida:** a aula 13 é de maio ou junho, e o "99 instagrams com a Ava" foi revisto; **a conta nova do Manifestation deve ter uma avatar nova**: aula 28 (0:46:53, julho), aula 31 (0:20:16, agosto: "Lateralização não é pegar o mesmo avatar e colocar um monte de contas para ele… é você ter vários avatares"), aula 54 (1:33:53) e aula 55 (1:12:51 a 1:13:05; a mesma avatar só no Insta e no Face dela).
 
-**Conferência (19/11 ~13h20):** batem as 4 (a aula 31, 0:20:16, palavra por palavra; as aulas 28, 54 e 55 já conferidas na R81). Só as datas das aulas 54 e 55 estão um pouco erradas (são de 29 e 30/09, não de outubro), o que não muda nada. **Fecha; não precisa voltar.** A regra: 1 personagem por conta (o Insta e a Página dela); as contas novas com avatares novos, como o aluno decidiu em 18/11.
+**Conferência (19/11 ~12h28):** batem as 4 (a aula 31, 0:20:16, palavra por palavra; as aulas 28, 54 e 55 já conferidas na R81). Só as datas das aulas 54 e 55 estão um pouco erradas (são de 29 e 30/09, não de outubro), o que não muda nada. **Fecha; não precisa voltar.** A regra: 1 personagem por conta (o Insta e a Página dela); as contas novas com avatares novos, como o aluno decidiu em 18/11.
 

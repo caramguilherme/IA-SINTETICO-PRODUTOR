@@ -1,4 +1,4 @@
-# R80 (19/11/2026 ~12h50, resposta colada pelo aluno): a opinião dos 40 vídeos, o CTA com o texto do funil, a conta travada
+# R80 (19/11/2026 ~12h18, resposta colada pelo aluno): a opinião dos 40 vídeos, o CTA com o texto do funil, a conta travada
 
 A pergunta está no `CLONE-DO-GUSTAVO-RESPOSTAS.md` (R80). A resposta, como o aluno colou:
 

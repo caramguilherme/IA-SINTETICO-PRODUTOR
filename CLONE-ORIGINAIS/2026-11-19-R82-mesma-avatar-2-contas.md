@@ -1,4 +1,4 @@
-# R82 (19/11/2026 ~13h15, resposta colada pelo aluno): a mesma avatar em 2 contas
+# R82 (19/11/2026 ~12h27, resposta colada pelo aluno): a mesma avatar em 2 contas
 
 A pergunta está no `CLONE-DO-GUSTAVO-RESPOSTAS.md` (R82). A resposta, como o aluno colou:
 

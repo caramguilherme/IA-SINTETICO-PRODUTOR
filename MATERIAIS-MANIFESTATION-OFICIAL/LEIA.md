@@ -69,3 +69,5 @@
 - **Os 5 virais e os 19 vídeos de referência** (YouTube, TikTok e Instagram): não abri. O Insta e o TikTok só entregam vídeo logado (`CLAUDE.md`, seção 1), e o YouTube já pediu login daqui (15/11). Se o aluno quiser algum modelado, ele baixa e manda o arquivo.
 - **Os perfis para acompanhar:** não abri, pelo mesmo motivo.
 - **A "sinalização de publicidade"** do briefing do Risely: **esta pesquisa não fala disso.** Para o Manifestation, nada muda.
+
+- **19/11/2026 12h30: o aluno colou a pesquisa de novo.** Conferi 25 trechos de todas as seções (a visão geral, o depois do clique, a tabela do quiz, os 8 roteiros, os 8 padrões, o banco de ganchos, o CTA, as referências, os perfis e os 2 prompts): **é o mesmo texto guardado em 17/11**, sem nada novo. Segue como leitura obrigatória antes de todo roteiro.

@@ -1,4 +1,4 @@
-# R79 (19/11/2026 ~12h30, resposta colada pelo aluno): a avatar, as citações corrigidas, o curto no Insta e o CTA
+# R79 (19/11/2026 ~12h10, resposta colada pelo aluno): a avatar, as citações corrigidas, o curto no Insta e o CTA
 
 A pergunta está no `CLONE-DO-GUSTAVO-RESPOSTAS.md` (R79). A resposta, como o aluno colou:
 

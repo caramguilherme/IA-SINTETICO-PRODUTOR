@@ -1,4 +1,4 @@
-# R81 (19/11/2026 ~13h, resposta colada pelo aluno): a conta da Nora na fase de venda; a mesma Nora em 2 contas
+# R81 (19/11/2026 ~12h22, resposta colada pelo aluno): a conta da Nora na fase de venda; a mesma Nora em 2 contas
 
 A pergunta está no `CLONE-DO-GUSTAVO-RESPOSTAS.md` (R81). A resposta, como o aluno colou:
 
