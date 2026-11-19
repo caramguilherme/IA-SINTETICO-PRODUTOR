@@ -220,3 +220,9 @@
   3. **A promessa de dinheiro:** "nunca no vídeo", mas o corpo fixo tem "unexpected cash" e a imagem do dinheiro.
   4. **A duração:** a pesquisa dá de 20 a 35 s, contra os 40 a 60 s da R54.
 - **A duração de 2 min ou mais** (virais 52.1 e 52.2; o Caio1094 na 21ª leitura) contra a R54 (40 a 60 s): vai para a R67 do Clone.
+
+## 19/11/2026 10h20: o curto sem fala no Face volta como teste (contra a R54)
+- **De onde veio:** o ini1811-FACE (6 s, a Nora com as 10 iniciais, a pergunta "Pause on your initial") fez 283 views com ~15 h (o 6º da Página) e **2 cliques no link** nos Insights do post, 2 dos 3 cliques do Face no Tracker de 18/11. A R54 punha o sem fala fora do Face (o loop fez 34 e o slideshow 9).
+- **O teste:** mais 2 a 3 curtos sem fala no Face, com a Nora na tela e uma pergunta pessoal (a inicial, o signo, o número que ela vê), sempre com o comentário da Página com o link FACE inteiro. **Medida:** views e distribuição na Biblioteca e os cliques no link dos Insights de cada post, contra os falados da mesma semana. No Insta, o mesmo curto segue a medida da linha do curto sem fala (as visitas ao perfil e se ele puxa os falados).
+- **Decisão do aluno** (a grade do Face e o que vai em cada horário).
+
