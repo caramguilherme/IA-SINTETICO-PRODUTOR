@@ -103,3 +103,8 @@ Não fala de vídeo. É um "sistema operacional" genérico para agente de IA (ar
 
 ## O que não deu para ler
 - Nada ficou de fora. O site do Vinicius, o vídeo do TransferNow e o muse.ai estavam bloqueados pela rede deste ambiente; o aluno aprovou a liberação (18/11 ~10h45) e os três foram lidos. O muse.ai em si não foi aberto por dentro (pede conta).
+
+## O custo real depois de 22 clipes (print da "Utilização", 19/11/2026 10h20)
+- 57% do grátis da semana usado com 22 clipes (o teste do T01 do nora69, os 2 do ini1811, os 2 do hook e os 17 takes do nora70); 0% dos tokens adicionais (restam 1 bi, "Nunca expira"); o limite semanal volta em 25/11.
+- **Média real: ~2,6% por clipe** (no teste isolado, 2%; a diferença são as mensagens com o Muse: a configuração, o prompt de 17 takes anexado e as respostas dele). Se o grátis da semana for ~100 milhões, ~2,6 milhões por clipe, e o 1 bi rende ~385 clipes.
+- **O resto da semana (43%) dá ~16 clipes.** Um falado de 40 a 45 s (5 a 6 takes) gasta ~13% a 16%; um do modelo da claire_mayaus (17 takes + 2 do hook), ~49%. Passou do grátis, o Muse gasta o bilhão sozinho.
