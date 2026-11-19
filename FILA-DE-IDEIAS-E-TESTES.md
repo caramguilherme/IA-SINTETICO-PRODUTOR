@@ -226,3 +226,9 @@
 - **O teste:** mais 2 a 3 curtos sem fala no Face, com a Nora na tela e uma pergunta pessoal (a inicial, o signo, o número que ela vê), sempre com o comentário da Página com o link FACE inteiro. **Medida:** views e distribuição na Biblioteca e os cliques no link dos Insights de cada post, contra os falados da mesma semana. No Insta, o mesmo curto segue a medida da linha do curto sem fala (as visitas ao perfil e se ele puxa os falados).
 - **Decisão do aluno** (a grade do Face e o que vai em cada horário).
 
+## 19/11/2026 ~12h10: da Clone R78 (conferida)
+- **O curto com uma frase falada em inglês nos 3 primeiros segundos (teste no Insta):** o mesmo formato do ini1811 (a Nora com algo na mesa, a pergunta pessoal na tela), mas com ela falando 1 frase curta no começo (ex.: "Pause on your initial. 2027 has a message for you."). Hipótese: a fala em inglês derruba a retenção de quem não entende e tira a Índia (os falados da Nora têm 0% a 4,2% de Índia; o curto sem fala, 42,6%). A citação do Clone para isso estava errada (aula 18, 1:11:04; aula 21, 0:42:41): é hipótese nossa, com base nos números. 1 clipe do Muse. **Medida:** a % de Índia, as visitas ao perfil e as views contra o ini1811.
+- **O CTA falado da aula 54 (1:10:46)** nos próximos falados: "Now pay attention: tap my profile picture and check my story, because the second part of this sign is waiting for you there." (contra o "reveal if you are one of them" do nora69 e do nora70, que deu 0 visitas). Com a faixa e a seta.
+- **A Nora sem a pintura (opção A da R78; aula 67, 1:05:06):** decisão do aluno, depois da R79 (contradiz a R19 e a R21; a janela de 40 vídeos está em 36).
+- **O curto numa conta separada** (aula 21, 0:57:09 a 0:57:31: "abram novos perfis" do clickbait): candidato para uma das contas novas, se o aluno quiser.
+

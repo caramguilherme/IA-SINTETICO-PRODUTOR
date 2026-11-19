@@ -1775,3 +1775,44 @@ Perguntas: (a) o que as aulas dizem sobre usar o curto sem fala para levar gente
 O CTA falado do nora69 e do nora70 é: "That is why I left a quick reading in my stories that will reveal if you are one of them. So tap my profile picture down below, and go check it out right now." Deu 0 visitas ao perfil nos dois. O curto, sem CTA falado, só com a faixa e a seta, deu 7.
 Perguntas: (a) que CTA falado as aulas mostram que leva ao perfil e ao story (o texto e o minuto)? (b) a faixa com a seta pesa mais que o CTA falado? (c) o story do Insta teve 16 viewers e 4 toques no link: está bom, ou o story também precisa mudar?
 
+**Resposta (19/11 ~12h; texto inteiro em `CLONE-ORIGINAIS/2026-11-19-R78-avatar-curto-cta-perfil.md`), resumida:** (1) a avatar: a opção A (a mesma Nora sem a pintura), já; a B (avatar nova nesta conta) só depois de ~3 semanas de flop; medir 200 a 300+ views e 3 a 5 visitas ao perfil por falado. (2) o curto: serve para destravar views e levar ao story; no máximo 1 curto para 1 ou 2 falados; no Insta "NÃO" (Índia), no Face "SIM"; tirar a Índia com uma frase falada em inglês nos 3 primeiros segundos e texto com termos do dia a dia americano. (3) o CTA: 3 "validados" (aula 54, 1:10:46: "the second part of this sign is waiting for you there"; aula 19, 1:13:04: "so this prediction can successfully come true"; aula 70, 0:17:09: "I left a special gift for you there"); o nosso deu 0 visita por ter tom de condição; a faixa com a seta pesa mais que a fala; o story com 25% está excelente (aula 21, 0:44:49).
+
+**Conferência (19/11 ~12h10, nas transcrições):**
+- **Batem:** aula 67 (1:05:06, tirar a tinta do rosto sem trocar o perfil); call de 18/11, a "aula 74" (0:07:20 a 0:08:13, ~3 semanas de flop); aula 54 (1:10:46, o CTA da "second part of this sign", igual ao que ele citou na R1); aula 19 (1:13:04, o CTA da previsão); aula 70 = call de 09/11 (0:17:09, "Lá há um presente para você"); aula 28 (0:58:30 a 0:58:42, "0.2% de conversão de Índia"); aula 21 (0:44:49, ~30 cliques a cada 100 views do story); aula 18 (0:31:57 a 0:36:17: o vídeo clickbait de promessa e CTA "transiciona muita gente para o funil"; vídeos de 20 a 30 s convertendo).
+- **Citações erradas:** aula 74 (0:05:48: trocar Gmail e proxy, não 200 a 300 views); aula 65 (0:32:46: dar motivos para a passagem ao story, sem o número de 3 a 5 visitas); aula 65 (2:13:22: a copy de medo que pega público velho, não a Índia); **aula 18 (1:11:04): as iniciais dos nomes na tela, a 2ª vez que ele a usa para outra coisa (R72)**; aula 21 (0:42:41: um criativo estilo TikTok); aulas 40 (0:19:38) e 57 (0:32:00): só a opção da seta no editor (na aula 19, 1:13:43: "setinha caso quiser").
+- **Contradições:** (1) a opção A contradiz a R19 e a R21 dele, sem explicar; (2) o "NÃO" ao curto no Insta contradiz a aula 28 (0:59:04: "não tô falando que é pra parar… conciliar curiosidade visual com a entrega americana… não abusem") e a aula 21 (0:57:09 a 0:57:31: "abram novos perfis" do clickbait; "perfis bons e sólidos dos especialistas"); (3) a proporção "1 curto para 1 ou 2 falados" não está na 0:57:21: opinião.
+- **Fora por honestidade:** o CTA da aula 19 (o clique não faz a previsão acontecer; já estava fora) e o da aula 70 (um "presente", mas a leitura custa US$ 19; e na aula é um improviso: "vou fazer um sistema genérico mesmo"). **Fica o da aula 54.**
+- **Sem como conferir:** aula 13 (0:06:34) e aula 25 (0:37:55), que não temos transcritas.
+- **O que bate com os nossos números mesmo sem a fonte certa:** a frase falada tira a Índia (os falados da Nora têm 0% a 4,2% de Índia; o curto sem fala, 42,6%).
+- **O que muda já:** o CTA falado dos próximos falados passa a ser o da aula 54, adaptado ("Now pay attention: tap my profile picture and check my story, because the second part of this sign is waiting for you there."), com a faixa e a seta; o curto com uma frase falada em inglês nos 3 primeiros segundos entra na `FILA` como teste no Insta; a troca da avatar (A, a Nora sem a pintura) fica com o aluno, depois da R79.
+
+---
+
+## R79 (19/11/2026 ~12h10, pergunta montada sem o aluno pedir, pela regra de 19/11; resposta pendente): a avatar, as citações erradas, o curto no Insta e o CTA
+**Pergunta (~2.770 caracteres):**
+
+Conferi a sua resposta nas transcrições. Batem: aula 67 (1:05:06), aula 74 (0:07:20), aula 54 (1:10:46), aula 19 (1:13:04), aula 70 (0:17:09), aula 28 (0:58:42, a Índia com 0,2%) e aula 21 (0:44:49). Ficaram 5 pontos:
+
+1) A AVATAR
+Na R19 e na R21 você disse para não mexer na avatar da Nora nesta conta ("avatar nova só em conta nova"). Agora recomenda tirar a pintura já, e não explicou a mudança. O que mudou? A R21 ainda vale para a Nora?
+A Nora está em 36 de 40 vídeos da janela com copy validada. Tirar a pintura agora mistura 2 variáveis com a troca de copy. Vale esperar os 40?
+
+2) CITAÇÕES QUE NÃO BATEM (diga a fonte certa ou marque como opinião)
+- aula 74 (0:05:48): fala de trocar o Gmail e a proxy ao descartar o Insta, não de 200 a 300 views;
+- aula 65 (0:32:46): fala de dar motivos para a passagem ao story; não tem o número de 3 a 5 visitas ao perfil por vídeo;
+- aula 65 (2:13:22): fala da copy de medo que pega público velho e supersticioso, não da Índia;
+- aula 18 (1:11:04): é a parte das iniciais dos nomes americanos na tela (de onde veio o nosso curto), não de narração para tirar a Índia. É a 2ª vez que ela aparece para outra coisa (R72);
+- aula 21 (0:42:41): é um criativo estilo TikTok com 21 mil likes; nada sobre narração e Índia;
+- aula 40 (0:19:38) e aula 57 (0:32:00): mostram a opção da seta no editor; não falam de público no mudo nem que a seta pesa mais que a fala. Na aula 19 (1:13:43), o Gustavo diz "você pode colocar setinha caso quiser".
+
+3) O CURTO NO INSTA
+Você disse "NÃO" para o curto no Insta. Mas a aula 28 (0:59:04) diz "não tô falando que é pra parar de usar os vídeos… vocês podem conciliar curiosidade visual com a entrega americana… não abusem", e a aula 21 (0:57:09 a 0:57:31) manda abrir "novos perfis" do clickbait e ter "perfis bons e sólidos dos especialistas". A proporção "1 curto para 1 ou 2 falados" não está na 0:57:21.
+Para a Nora, qual destes as aulas sustentam: (i) o curto com uma frase falada em inglês nos 3 primeiros segundos; (ii) o curto só no Face; (iii) o curto numa conta separada, sem a Nora? Cite.
+
+4) O CTA
+Dos 3 que você citou, 2 não servem para nós: o da aula 19 diz que o clique faz a previsão acontecer (o clique não faz nada acontecer; deixamos de fora por honestidade), e o da aula 70 promete um "presente", mas a leitura é paga (US$ 19), e na aula o Gustavo improvisou ("vou fazer um sistema genérico mesmo"). Fica o da aula 54 (1:10:46).
+Tem outro CTA nas aulas com motivo forte, sem prometer coisa grátis nem que o clique faz algo acontecer? Cite o texto e o minuto.
+
+5) AULAS 13 E 25
+Não tenho as transcrições da aula 13 (0:06:34) nem da aula 25 (0:37:55). O que elas dizem nesses minutos, palavra por palavra?
+
