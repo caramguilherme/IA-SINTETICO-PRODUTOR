@@ -1863,3 +1863,24 @@ Perguntas:
 (a) Pelas aulas, a Nora segue o caminho da fase de venda da call de 18/11 (manter a conta; trocar o visual ou a avatar na mesma conta depois de ~3 semanas de flop, ~02/12) ou o de jogar a conta fora? Cite.
 (b) O aluno vai abrir uma conta nova do Manifestation. Pode rodar a mesma Nora nela enquanto a conta atual continua? O que as aulas dizem sobre a mesma avatar em 2 contas ao mesmo tempo (na R21 você disse "1 avatar por conta")? Cite.
 
+**Resposta (19/11 ~13h; texto inteiro em `CLONE-ORIGINAIS/2026-11-19-R81-fase-de-venda-mesma-nora-2-contas.md`), resumida:** (a) **a Nora segue a fase de venda: manter a conta**; a regra de jogar fora é do aquecimento; trocar a avatar ou o visual na mesma conta só depois de ~3 semanas de flop no falado (~02/12); o curto com 833 views mostra que a conta não está travada. (b) **a mesma Nora pode rodar numa conta nova** (aula 13: "99 instagrams… tudo com a Ava"; aula 55, 1:12:51: a Rose no Insta e no Face); o "1 avatar por conta" seria não misturar personagens no mesmo perfil; a aula 28 (0:46:32) prefere novos avatares no longo prazo.
+
+**Conferência (19/11 ~13h05):**
+- **(a) fecha** e bate: aula 74 (0:04:55 a 0:08:13) e aula 55 (1:16:12: "tô postando um mês aqui e o avatar não destravou, e a conta tá de boa, aí eu troco, não vou trocar toda semana não"). **A conta do Insta da Nora fica.**
+- **(b) contradiz 3 trechos que ele mesmo citou:** aula 28 (0:46:53: "não de um jeito de você pegar o mesmo avatar e fazer 10 contas pra ele, **porque isso não funcionou**, mas realmente ter novos avatares"); aula 54 (1:33:53: "**um personagem para cada conta**, é o ideal"); aula 55 (1:13:05: depois da Rose no Insta e no Face, "**Mas em outras contas assim, não**"). A aula 13 (o "99 instagrams com a Ava") não está transcrita aqui. **Para as contas novas, fica o plano do aluno: avatares novos** (18/11 00h39). Vai a R82, curta, montada sem o aluno pedir.
+
+---
+
+## R82 (19/11/2026 ~13h05, montada sem o aluno pedir; resposta pendente): a mesma avatar em 2 contas
+**Pergunta (~930 caracteres):**
+
+Fechado o (a): a conta da Nora fica. Conferi o (b) e 3 trechos que você citou dizem mais do que você colou:
+
+- Aula 28 (0:46:53): "não de um jeito de você pegar o mesmo avatar e fazer 10 contas pra ele, porque isso não funcionou, mas realmente ter novos avatares". O "porque isso não funcionou" ficou de fora.
+- Aula 54 (1:33:53): "Se eu utilizar um personagem para cada conta, é o ideal Rodrigo, um personagem para cada conta." Lido como está, é um personagem diferente em cada conta.
+- Aula 55 (1:12:51 a 1:13:05): depois do exemplo da Rose no Insta e no Face, ele diz: "Mas em outras contas assim, não."
+
+A aula 13 (que não tenho transcrita) é de quando? Se ela é mais antiga que a aula 28 (julho), o "99 instagrams com a Ava" foi revisto depois?
+
+Pergunta: pelas aulas mais recentes, a conta nova do Manifestation deve ter uma avatar nova (outra personagem), e não a Nora de novo? Cite a aula, a data e o minuto.
+
