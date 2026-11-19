@@ -114,4 +114,4 @@ Não fala de vídeo. É um "sistema operacional" genérico para agente de IA (ar
 - 58% do grátis usado (57% às 10h20): **a pergunta de texto gastou ~1%**. A conversa gasta tokens: no lote, só o prompt de geração, sem perguntas.
 - O grátis renova em **25/11 às 11h05**. Planos: **Power R$ 86 por mês; Maximum R$ 429 por mês** (os tokens de cada um, ele não sabe; o Luis Ordonio, em 15/10: o máximo dá 3 bi por semana).
 - O custo exato por clipe sai quando o Muse começar a gastar o bilhão (a tela mostra "restam X tokens").
-
+- **Os planos (tela "Fazer upgrade", 19/11 ~10h35):** Power US$ 16 por mês = 500 milhões de tokens por semana; Máximo US$ 80 por mês = 3 bilhões por semana; "Comprar tokens adicionais" (sem preço na tela). Renovação automática até cancelar.
