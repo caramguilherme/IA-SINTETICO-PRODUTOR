@@ -23,6 +23,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **Kaike de Lima (17/11 11h35):** respondeu em 16/11 11h04 com um áudio de 17 s (transcrito pelo aluno): replica o pré-hook que dá certo até "sugar muito" e aí faz coisa nova. Resposta enviada (texto no fim), com a pergunta do teto do Insta. Esperar.
 - **Pedro⚡ e Caio1094, fechamentos (prints do aluno em 18/11 00h44):** o Pedro⚡ respondeu "show, vai da certo!" (17/11 12:18) e o Caio1094 "tamo juntooo! ve oq ta mais viral nas ultimas 48h, tenta fazer na sua, ai vai vendo oq ela performa melhor, mas é teste + teste + teste, desiste nao" (17/11 12:10). Conversas fechadas: só reagir; voltar com resultado.
 - **carloscs (18/11 00h45):** respondeu em 17/11 15:20 à DM de 03/11 (começa pelo Face, esteira de aquecimento, depois a automação, copy de vendas com e sem hook, 4 a 6 vídeos por dia a cada 2 h). Agradecimento com 1 pergunta enviado (texto no fim). Esperar.
+- **28ª leitura (19/11 ~02h):** respostas ao José [MVM] (a aparência do avatar no Muse, take a take), ao erick civinelli (152 cliques sem venda: a régua) e ao Khalil (o rótulo de IA no Face), no #chat-appyon: enviadas (toda resposta sugerida conta como enviada; textos no fim). **Sem resposta, pela regra de nunca mandar duas sem resposta:** a Lívia (a nossa de 18/11 ~11h segue sem resposta; a pergunta dela das 22h42, se a FusionZ parou de cortar, a gente sabe: funcionou para o aluno à 01h de 19/11) e o Castanho (esperando desde 10/11; só reagir com emoji ao prêmio do Apple Watch no #vitórias).
 - **27ª leitura (18/11 ~11h):** **no fórum, o aluno mandou a pergunta dele em vez da minha** (11h11: "esse 1b de token é mensal? todo mês renova? ou usou 1b já era?"); a minha (os 46 vídeos com 1,5 bi: inteiros ou takes?) fica para depois que o Vinicius responder (nunca duas sem resposta). Respostas à Lívia (dinheiro na DM automática) no #chat-appyon e o parabéns ao Rodrigo Rechmann (1 pergunta: insta ou face) no #vitórias: enviadas (toda resposta sugerida conta como enviada; textos no fim). O Rechmann nunca respondeu a DM de 03/11: no #vitórias, se ele responder, só reagir.
 - **25ª leitura (17/11 23h55):** respostas aos Ari & Lu (o selo de IA só no perfil e os 10 primeiros vídeos) e ao Emanuel (o viral e a queda, com o dado do loop), no #chat-appyon, e parabéns ao Rafael Maia (1 pergunta: os administradores das Páginas novas) no #vitórias: enviadas (toda resposta sugerida conta como enviada; textos no fim).
 - **21ª leitura (16/11 09h00):** parabéns ao Pedro⚡ (1ª venda, "briga diária com os indianos") no #vitórias e a resposta à Marcia Cabral (o mapa mental e o blueprint) no #apresente-se: enviadas (toda resposta sugerida conta como enviada). **Joao Paulo (o bug do botão do checkout no navegador do app do Face): responder depois do teste de cliente oculto da Nora**, com o resultado. **Voltas com resultado enviadas (DM):** joao (Sargento) e Lucas Dusi (o loop de 8 s: 2,2 mil views e 10 visitas ao perfil). **Quem não chamar agora (16/11):** Jessica (sem resposta desde 06/11; só agradecer em público na 1ª venda), Felps e Castanho (a última mensagem foi nossa, em 10/11), Kaike (nossa, 12/11), Lari (nossa, 14/11 00h43: voltar só depois de ~19/11, com o resultado da tela dividida ou do CTA novo), Marcelo (nossa, 06/11), Rechmann (nunca respondeu), Ricardo e Marcus (voltar com o resultado do CTA com motivo e do cadeado, de 16/11).
@@ -990,3 +991,19 @@ oq eu sei: na aula 35 (0:25) o gustavo fala que afirmar coisa tipo "vc é pobre"
 **3. Rodrigo Rechmann, no #vitórias (resposta ao prêmio de 18/11 09h35):**
 parabéns mano, 5k de gmv 32 dias depois da 1ª venda é brabo demais 🚀
 tá vindo mais do insta ou do face?
+
+## ENVIADO (19/11/2026 ~02h; respostas da 28ª leitura do Discord, no jeito do aluno; uma mensagem para cada)
+**1. José [MVM], no #chat-appyon (resposta à pergunta dele de 18/11 23h33, "como ta a constancia na aparencia do avatar de vocês take a take?"):**
+aqui fiz 17 takes hj de madrugada no muse, anexando a mesma imagem de 1º quadro em todos
+o rosto ficou igual nos 17
+só num clipe sem fala (o hook) o rosto mudou no meio, depois de uns 4,5s, aí cortei antes
+
+**2. erick civinelli, no #chat-appyon (resposta à mensagem dele de 18/11 23h42, 152 cliques, 10 checkouts e 0 venda, "comum?"):**
+152 cliques ainda é pouco pra cravar algo
+a régua da central é ~330 cliques por venda nos 10% melhores (0,3%)
+e o iorhan avisou dia 11/11 que com a copy nova quem aplica as aulas converte 0,8 a 1,2%, uns 85 a 125 cliques por venda
+tá dentro do normal ainda
+
+**3. Khalil, no #chat-appyon (resposta à pergunta dele de 18/11 15h23, "é melhor marcar como conteúdo de ia ou não?"):**
+o gustavo orientou que no insta basta marcar o perfil como ia, e no face é pra marcar cada post tb
+aqui o perfil tá marcado como ia no insta e na pagina
