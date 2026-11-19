@@ -1689,11 +1689,14 @@ c) Para as 3 avatares novas que vamos criar (1 no Manifestation e 2 no Risely), 
 - **Fica o nosso** no espaço entre os 10 vídeos de aquecimento (2 a 3 h; ele diz 1h30 a 2 h): com 3 a 4 por dia, os dois cabem; não é contradição que mereça pergunta.
 - **Sem como conferir:** a aula 53, a aula 51 e a "Estrutura Facebook" (não transcritas).
 
-## R77 (pergunta pronta em 18/11 ~23h40: a fonte do trecho da "tinta no rosto"; resposta a colar)
+## R77 (pergunta pronta em 18/11 ~23h40: a fonte do trecho da "tinta no rosto"; resposta colada às ~23h50, texto inteiro em `CLONE-ORIGINAIS/2026-11-18-R77-fonte-da-tinta-no-rosto.md`)
 Na R75 você colou da "Aula 26 (1:05:06 a 1:07:48)" o trecho: "não estou falando de você mudar o perfil que você tem… tem tinta no rosto… pode-se tirar a tinta do rosto, tirar o objeto místico". Conferi a aula 26 inteira (29/06, "Como fazer os novos formatinhos + macete pra dobrar a produção", Gustavo Alves): esse trecho não está nela. Nesse minuto o Gustavo fala do PDF com os prompts e das ferramentas, e a aula inteira não fala de pintura no rosto nem de objeto místico.
 1. Qual é o título exato da fonte de onde saiu esse trecho? Cole as 2 frases antes e as 2 depois, com o minuto. Se não achar a fonte, responda "não achei".
 2. O mesmo para o trecho da "Aula 65 (1:04:26)" ("todos esses elementos do avatar vão construir a percepção dele… um cenário muito místico, um estereótipo muito clichê"): título exato da fonte e as frases em volta.
 Responda curto e marque o que for opinião.
+
+**R77 (o que ele disse):** o trecho é da "Aula 67 - TURBINANDO CRIATIVOS + ENTENDENDO O MERCADO" (Iorhan, 03/11), duplicado no notebook nos arquivos da "Aula 69" e da "Aula 26"; 1:05:06 a 1:05:35 ("não estou falando de você mudar o perfil… pode-se tirar a tinta do rosto, tirar o objeto místico"); o "todos esses elementos do avatar" é do mesmo arquivo, 1:04:26 a 1:04:50, logo depois de "criem um avatar mais jovem, de 20, 25, 30, 35 anos" (1:03:56).
+**Conferência (18/11 ~23h55): confere.** Está na transcrição da aula 67 que temos desde 03/11 (`AULA-03-11-TURBINANDO-CRIATIVOS-IORHAN.md`, apêndice, linhas 633 a 646: "I'm not talking about you change the profile that you have… it can take paint on the face, take the mystical object"). **Erro meu:** às ~23h40 eu escrevi que a citação "não tinha fonte" e podia ter sido inventada, e antes marquei a aula 65 como "não transcrita"; as duas já estavam no projeto (a 67 no `AULA-03-11-TURBINANDO-CRIATIVOS-IORHAN.md`, a 65 no `AULA-IORHAN-30-10-COPY-QUE-CONVERTE.md` e no `AULA-IORHAN-30-10-TRANSCRICAO-LIMPA.md`), com outros nomes de arquivo. O que vale: o Iorhan (aula 67) manda tirar a pintura do rosto e o objeto místico **sem trocar o perfil**, e prefere avatares de 20 a 35 anos; e o resumo de 03/11 já trazia a proposta "a Nora limpa, sem a lua e as estrelinhas, num corpo já validado, depois da janela de 40 vídeos". Nada volta para ele.
 
 ## Conferência com a transcrição da aula 19 (chegou em 16/11 ~14h35; `TRANSCRICOES/2026-06-0x-aula-19-ganchos-black-vsl-30s.md`, resumo em `MATERIAIS-AULA-19/LEIA.md`)
 O que o Clone disse da aula 19 até hoje, conferido com o texto:
