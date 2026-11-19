@@ -337,5 +337,7 @@ if __name__ == '__main__':
     for c in (ALCAPAO, CARRO):
         P = montar(c)
         html = MODELO.replace('const PACOTE = null;', 'const PACOTE = ' + json.dumps(P, ensure_ascii=False) + ';')
+        rotulo = {'nora71': 'Painel nora71 · alçapão · 19/11', 'nora72': 'Painel nora72 · canela no carro · 19/11'}[c['nn']]
+        html = re.sub(r'<title>[^<]*</title>', '<title>' + rotulo + '</title>', html, count=1)
         (R / f'PAINEL-{c["nn"].upper()}.html').write_text(html, encoding='utf-8')
         print('ok', c['nn'], len(html), 'bytes;', PALAVRAS, 'palavras')
