@@ -108,3 +108,10 @@ Não fala de vídeo. É um "sistema operacional" genérico para agente de IA (ar
 - 57% do grátis da semana usado com 22 clipes (o teste do T01 do nora69, os 2 do ini1811, os 2 do hook e os 17 takes do nora70); 0% dos tokens adicionais (restam 1 bi, "Nunca expira"); o limite semanal volta em 25/11.
 - **Média real: ~2,6% por clipe** (no teste isolado, 2%; a diferença são as mensagens com o Muse: a configuração, o prompt de 17 takes anexado e as respostas dele). Se o grátis da semana for ~100 milhões, ~2,6 milhões por clipe, e o 1 bi rende ~385 clipes.
 - **O resto da semana (43%) dá ~16 clipes.** Um falado de 40 a 45 s (5 a 6 takes) gasta ~13% a 16%; um do modelo da claire_mayaus (17 takes + 2 do hook), ~49%. Passou do grátis, o Muse gasta o bilhão sozinho.
+
+## O Muse perguntado sobre o próprio consumo (19/11/2026 ~10h50)
+- Acertou os 22 vídeos gerados; "não sei" para os tokens do grátis, o custo por clipe, o custo das mensagens e o limite por dia.
+- 58% do grátis usado (57% às 10h20): **a pergunta de texto gastou ~1%**. A conversa gasta tokens: no lote, só o prompt de geração, sem perguntas.
+- O grátis renova em **25/11 às 11h05**. Planos: **Power R$ 86 por mês; Maximum R$ 429 por mês** (os tokens de cada um, ele não sabe; o Luis Ordonio, em 15/10: o máximo dá 3 bi por semana).
+- O custo exato por clipe sai quando o Muse começar a gastar o bilhão (a tela mostra "restam X tokens").
+
