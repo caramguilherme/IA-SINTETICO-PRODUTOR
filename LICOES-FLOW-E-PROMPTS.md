@@ -654,3 +654,8 @@ No ini1811 eu pus a seta a 60–63% da altura, porque os papéis ocupavam a part
 - **Nada de lágrima no vídeo gerado:** "o Veo3 soltando lágrima é uma coisa muito feia… muito horrível" (aula 26, 0:43:04 a 0:43:15). Para emoção, o prompt pede o rosto ("eyes glistening, lips trembling slightly, about to cry") e diz "no tears roll down her face".
 - **Troca rápida de imagens (GIF, rostos, imagens do desejo em sequência): 200 ms por imagem, nunca 125 ms** (aula 26, 0:27:11 a 0:27:30 e 0:40:18 a 0:40:26: "mais acompanhável para o olho humano, para os velhos que vão assistir").
 - **Na edição em escala, o efeito vai na faixa por cima do clipe, não no clipe** (aula 26, 1:04:14 a 1:04:44): troca o clipe e o efeito fica.
+
+## Call de 18/11 (Gustavo, "Passos iniciais - Risely"; anotado em 19/11 ~00h05)
+- **No agente do Flow, depois de gerar:** "renomeie cada vídeo gerado com o respectivo número que estava ao lado (prompt 1 vira 1…)", para baixar já em ordem; e **um projeto novo por vídeo**, para baixar tudo de uma vez ("baixar projeto").
+- **O prompt da voz (a NORA_VOICE_LOCK) é o que segura a voz**, no Flow e no Muse: salvar e repetir igual em todo take.
+- **Vídeo em 480p (Grok) "o Instagram pode detectar como conteúdo de baixa qualidade"**: nada abaixo de 720p no arquivo final.
