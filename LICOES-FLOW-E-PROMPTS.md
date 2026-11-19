@@ -649,3 +649,8 @@ Eu pus o prompt da foto do story como uma etapa da seção Clipe (item 4) e deix
 ## 18/11/2026 19h20, a seta do CTA mais para baixo (regra do aluno para os próximos)
 No ini1811 eu pus a seta a 60–63% da altura, porque os papéis ocupavam a parte de baixo; no Reels publicado ela ficou longe da foto do perfil (o print do aluno: "regra para os prox / a seta pode ir um pouco mais p baixo"). **Regra:** a seta vai embaixo à esquerda, logo acima da foto do perfil do Reels (X −300, Y −400, ≈81% da altura), mesmo que encoste um pouco em algo do vídeo; skills `estilo-visual-nora` e `editar-video-nora`.
 
+
+## Aula 26 (29/06; anotado em 18/11/2026 ~23h40)
+- **Nada de lágrima no vídeo gerado:** "o Veo3 soltando lágrima é uma coisa muito feia… muito horrível" (aula 26, 0:43:04 a 0:43:15). Para emoção, o prompt pede o rosto ("eyes glistening, lips trembling slightly, about to cry") e diz "no tears roll down her face".
+- **Troca rápida de imagens (GIF, rostos, imagens do desejo em sequência): 200 ms por imagem, nunca 125 ms** (aula 26, 0:27:11 a 0:27:30 e 0:40:18 a 0:40:26: "mais acompanhável para o olho humano, para os velhos que vão assistir").
+- **Na edição em escala, o efeito vai na faixa por cima do clipe, não no clipe** (aula 26, 1:04:14 a 1:04:44): troca o clipe e o efeito fica.
