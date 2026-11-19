@@ -935,3 +935,7 @@ Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, co
 - **O que muda:** nada na grade de hoje. O que os números dizem para a escolha de hoje à noite: a copy da claire_mayaus deu as views do Face (o nora69-FACE, 3º da Página) e nenhum clique medido; o curto sem fala deu os cliques. A régua do nora70 com ~24 h (Insta e Face) segue para ~01h50 de 20/11.
 - **O dashboard:** o da 6ª conta não abre desta conta (404); fica para recriar aqui (`ferramentas-painel/dashboard/COMO-RECRIAR.md`). A planilha está em dia.
 
+
+## 19/11/2026 ~11h25: o nora69 sumiu da grade do Insta
+- Na grade de Reels que o aluno mandou (19/11 ~11h20), **o nora69 (a canela no carro, postado em 17/11 ~22h20) não aparece** entre o ini1811 e o nora68; o aluno não lembrava se tinha postado. **Foi postado:** os Insights dele chegaram em 18/11 01h18 (113 views) e 15h54 (121 views, 55,9% nos 3 s, EUA 62%). Sumiu depois das 15h54 de 18/11. Pedido ao aluno: o Status da conta, o Arquivo e os Excluídos recentemente. Se o Instagram removeu, pesa no nora70, que tem a mesma copy.
+- **As views da grade às ~11h20:** nora70 119 (~9h30; o nora69 tinha 113 com ~3 h e 121 com ~17h35), nora68 124, nora67 117, nora66 129, nora65 151, nora64 2.213, o nora63 164 e o nora62 185; a do ini1811 ficou atrás das letras no print.
