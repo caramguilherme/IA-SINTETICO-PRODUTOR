@@ -670,3 +670,8 @@ Nos avatares novos, um texto próprio de cada um, no mesmo molde (a idade, o sot
 
 ## Muse: no máximo 6 clipes por mensagem (19/11/2026 ~01h, nora70)
 O Muse leu os 17 prompts do arquivo (o texto longo vira anexo "pasted-text.txt": ele lê) e avisou: "Só consigo gerar 6 vídeos por vez". O caminho: a 1ª mensagem com a imagem, o aviso e o arquivo (gera do 01 ao 06); depois "Now generate Prompts 07 to 12…" e "…13 to 17…", com a mesma imagem de novo. Nos painéis do Muse, os takes vão em lotes de 6 (como já previa o `MATERIAIS-MUSE/CONFIG-MUSE-NORA.md`).
+
+## 19/11/2026 01h20: o fim de cada take do Muse e a FusionZ
+- **O que aconteceu (nora70):** o Muse entrega o clipe inteiro (~10 s) mesmo quando a fala acaba antes; no resto, a Nora mexe a cabeça, o corpo e a boca e suspira, **com som**. A FusionZ corta por volume (Sensibilidade −38 dB): suspiro, respiração e o som do ambiente passam de −38 dB, então ela não corta.
+- **O conserto:** quem corta isso sou eu, pelas palavras da transcrição (`editar_nora70_limpo.py`: toda pausa sem palavra acima de 0,45 s sai, inclusive o fim de cada take; desde 19/11 01h20, o fim do último take também, ~0,6 s depois da última palavra). **Não subir a Sensibilidade da FusionZ para pegar suspiro:** ela não distingue suspiro de palavra baixa e come o fim das palavras.
+- **E o zoom:** no nora70 a FusionZ estava com "Zoom nos cortes = Alternado 100%", e o painel pedia DESLIGADO (o modelo da claire_mayaus não tem zoom). Conferir esse campo antes de cortar: a ferramenta abre zerada toda vez (11/11).

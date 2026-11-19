@@ -47,7 +47,9 @@ keep, t = [], FIM_HOOK
 for a, b in cj:
     if a > t: keep.append((t, a))
     t = max(t, b)
-keep.append((t, dur_m))
+# o fim: o Muse segue mexendo o corpo, a boca e suspirando depois da última palavra; fica só ~0,6 s depois dela
+fim_m = min(dur_m, ws[-1][2] + 0.6) if ws else dur_m
+keep.append((t, fim_m))
 
 
 def novo(tm):
