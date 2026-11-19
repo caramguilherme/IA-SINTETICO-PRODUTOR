@@ -1884,3 +1884,7 @@ A aula 13 (que não tenho transcrita) é de quando? Se ela é mais antiga que a 
 
 Pergunta: pelas aulas mais recentes, a conta nova do Manifestation deve ter uma avatar nova (outra personagem), e não a Nora de novo? Cite a aula, a data e o minuto.
 
+**Resposta (19/11 ~13h15; texto inteiro em `CLONE-ORIGINAIS/2026-11-19-R82-mesma-avatar-2-contas.md`), resumida:** a aula 13 é de maio ou junho, e o "99 instagrams com a Ava" foi revisto; **a conta nova do Manifestation deve ter uma avatar nova**: aula 28 (0:46:53, julho), aula 31 (0:20:16, agosto: "Lateralização não é pegar o mesmo avatar e colocar um monte de contas para ele… é você ter vários avatares"), aula 54 (1:33:53) e aula 55 (1:12:51 a 1:13:05; a mesma avatar só no Insta e no Face dela).
+
+**Conferência (19/11 ~13h20):** batem as 4 (a aula 31, 0:20:16, palavra por palavra; as aulas 28, 54 e 55 já conferidas na R81). Só as datas das aulas 54 e 55 estão um pouco erradas (são de 29 e 30/09, não de outubro), o que não muda nada. **Fecha; não precisa voltar.** A regra: 1 personagem por conta (o Insta e a Página dela); as contas novas com avatares novos, como o aluno decidiu em 18/11.
+
