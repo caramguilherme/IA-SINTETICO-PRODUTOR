@@ -170,7 +170,7 @@ def config(c):
                 campo['valor'] = ('Estático / câmera parada, sem zoom (o LIVRE já diz que a câmera está presa no painel e que a rua passa nas janelas)' if c['tag'] == 'carro'
                                   else 'Estático / câmera parada, sem zoom (se essa opção não existir: Handheld sutil, sem zoom; o LIVRE já diz câmera parada)')
             elif campo['campo'] == 'Atmosfera / mood':
-                campo['valor'] = 'Acolhedor e esperançoso (se não houver: Íntimo e confidencial)'
+                campo['valor'] = 'Caloroso e acolhedor'
             elif campo['campo'] == 'Movimentação':
                 campo['valor'] = 'colar as 6 linhas, uma por take (seção “A fala e a movimentação”)'
             elif campo['campo'] == 'Conferir':
