@@ -1840,3 +1840,26 @@ Obrigado pelas correções. Conferi de novo: batem a aula 74 (0:07:46), a aula 2
 
 3) Na aula 25 (0:37:55 a 0:38:21), pelo trecho que você colou: "não é culpa do Avatar… é mais a página que foi meio que sabotada". A Nora tem 2 verificações faciais no Insta (13/10 e 17/11), os falados param entre 110 e 220 views desde 11/11, e o Status da conta está todo verde. Pelas aulas, isso aponta mais para a conta do Insta travada do que para a avatar? Se sim, o que as aulas mandam: insistir nesta conta (por quanto tempo), ou abrir uma conta nova com a mesma Nora? Cite a aula e o minuto.
 
+**Resposta (19/11 ~12h50; texto inteiro em `CLONE-ORIGINAIS/2026-11-19-R80-cta-funil-conta-travada.md`), resumida:** (1) o "esperar os 40 vídeos" é opinião (a aula 28, 1:19:13, é sobre imagens de casais); (2) os 2 CTAs da R79 foram montados por ele; **o CTA "Now pay attention: tap my profile picture and check my story. Three quick questions, and your private reading is ready." está de acordo com a aula 65 (0:46:33 a 0:50:04)**; (3) os números apontam para a conta do Insta travada, não para a Nora; **mandou abrir uma conta nova com a mesma Nora e jogar a atual fora** (aula 25, 0:38:39 a 0:39:10; aula 74, 0:05:51 a 0:06:24).
+
+**Conferência (19/11 ~12h55):**
+- **(1) e (2) fecham:** o CTA vira o padrão dos próximos falados (seção 2 do `CLAUDE.md`).
+- **(3) contradiz a fonte que ele mesmo citou:** a aula 74 (0:04:55 a 0:06:44) é sobre o aquecimento ("Estamos falando de aquecimento", 0:06:24: jogar fora se 6 dos 10 vídeos de aquecimento ficarem abaixo de 100); para os vídeos de venda, a mesma call (0:07:20 a 0:08:13) manda trocar a avatar **na mesma conta** depois de ~3 semanas de flop. A aula 25 (pelo trecho dele; sem transcrição aqui) também é de conta nos 10 primeiros vídeos. **E os nossos números:** no mesmo perfil, o curto sem fala fez 833 views em 16 h com 100% de não seguidores, e o loop 2.204 em 14/11; uma conta restrita não entregaria 7 vezes mais um vídeo do que outro. Aponta mais para o falado do que para a conta. **Jogar a conta fora fica parado**; vai a R81, montada sem o aluno pedir.
+
+---
+
+## R81 (19/11/2026 ~12h55, montada sem o aluno pedir; resposta pendente): a conta da Nora é de fase de venda; a mesma Nora em 2 contas
+**Pergunta (~1.600 caracteres):**
+
+Antes de jogar fora a conta da Nora, conferi as 2 fontes e elas parecem falar de outra fase:
+
+1) Aula 74 (0:04:55 a 0:06:44): o Gustavo diz "Estamos falando de aquecimento" (0:06:24). A regra de jogar a conta fora é para os 10 vídeos de aquecimento ("60% deles… abaixo de 100 views… a minha conta tá bichada", 0:04:55). Para os vídeos de venda, a mesma call (0:07:20 a 0:08:13) diz o contrário: "vários vídeos tá 200, 300 views, tem gente que trocou o avatar nessa mesma conta e salvou ela… umas 3 semanas de flop seguido pra trocar o avatar".
+
+2) Aula 25, pelo trecho que você colou: é uma conta cujos primeiros 10 vídeos tiveram no máximo 295 views, também na fase inicial.
+
+A Nora está na fase de venda: 36 vídeos do Manifestation, vários entre 2 mil e 3,7 mil views no Insta (nora45 3.742, nora41 3.589, o loop nora64 2.204 em 14/11). E hoje, no mesmo perfil, o curto sem fala fez 833 views em 16 h, com 100% de não seguidores, enquanto os falados param em ~120. Se a conta estivesse restrita, o curto não teria entregado 7 vezes mais, certo? Isso não aponta mais para o falado (copy, abertura ou avatar) do que para a conta?
+
+Perguntas:
+(a) Pelas aulas, a Nora segue o caminho da fase de venda da call de 18/11 (manter a conta; trocar o visual ou a avatar na mesma conta depois de ~3 semanas de flop, ~02/12) ou o de jogar a conta fora? Cite.
+(b) O aluno vai abrir uma conta nova do Manifestation. Pode rodar a mesma Nora nela enquanto a conta atual continua? O que as aulas dizem sobre a mesma avatar em 2 contas ao mesmo tempo (na R21 você disse "1 avatar por conta")? Cite.
+
