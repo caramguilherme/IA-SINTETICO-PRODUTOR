@@ -919,3 +919,9 @@ Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, co
 - **281 views e ainda subindo** (o reel típico da conta fica em ~130 com 4 a 6 h; o nora69 parou em ~120), 167 viewers, "strong hook", 48% nos 3 s, **tempo médio 6 s num vídeo de 6 s**, 5 comentários (2,8%; as letras pedidas na legenda), 1 salvo, 1 curtida, **1 visita ao perfil** (o nora69 teve 0), 0 follows.
 - **O público:** Índia 22,7% (o 1º país), EUA 21,4%, Reino Unido 10,5%, Canadá 6,3%, Alemanha 5,5%; 45+ = 37,8% (o nora69: 57,9% e EUA 62%). O broche dos EUA e o horário de 19h20 não seguraram a Índia: é o padrão do sem fala (o loop teve 20,5% de Índia com ~6 h e 53,8% no fim; a pesquisa de horários de 16h20).
 - **Como medir (a `FILA`):** se ele puxa os falados (as views do nora69 e do próximo falado nas 24 a 48 h), as visitas ao perfil e o clique no Tracker de 18 e 19/11. A régua com ~24 h: ~19h20 de 19/11.
+
+## 18/11/2026 23h55: o Tracker de 18/11 (até 23h55)
+- **3 cliques, 3 abriram o quiz, 2 começaram, 2 terminaram, 0 checkout, 0 venda; os 3 do Facebook** (Insta: 0). Às 15h54 o dia 18 estava zerado, então os 3 vieram entre ~16h e 23h55. Os candidatos: o ini1811-FACE (19h20, 255 views), o story-1811 no Face (18h55, com o link FACE) e, menos provável, o nora69-FACE (parado em ~5 views por hora). O link FACE é o mesmo no story e no comentário da Página (`utm_content=FACE`), então não dá para separar (aula 31, 0:42:01).
+- **No Insta, 0 clique** com o ini1811 em 281 views e 1 visita ao perfil.
+- **Desde 27/10:** ~41 cliques reais, ~19 terminaram o quiz, 0 checkout. Régua oficial: ~330 cliques por venda (0,30%); para quem aplica as aulas, ~85 a ~125 (aviso de 11/11).
+- **Para separar o clique por peça a partir de amanhã (proposta):** um `utm_content` próprio no comentário da Página de cada vídeo (ex.: `FACE-ini1811`), mantendo o `FACE` no story; o link segue inteiro, com o `&aff=dl7zx6ks` no fim. Só com o ok do aluno (muda o link que já está no `FATOS`).
