@@ -232,3 +232,8 @@
 - **A Nora sem a pintura (opção A da R78; aula 67, 1:05:06):** decisão do aluno, depois da R79 (contradiz a R19 e a R21; a janela de 40 vídeos está em 36).
 - **O curto numa conta separada** (aula 21, 0:57:09 a 0:57:31: "abram novos perfis" do clickbait): candidato para uma das contas novas, se o aluno quiser.
 
+## 19/11/2026 ~12h40: da Clone R79 (conferida)
+- **A Nora sem a pintura (a lua e as 3 estrelinhas):** depois dos 40 vídeos com copy validada (estamos em 36; ~21/11), no mesmo perfil (aula 67, 1:05:06; R79: a R19 e a R21 eram sobre trocar de personagem). Uma variável: só o rosto muda, a copy e o formato ficam. Decisão do aluno.
+- **O curto sem fala:** no Face (a restrição de país tira a Índia; o ini1811-FACE deu 2 cliques) e numa conta separada, sem a Nora (aula 21, 0:57:09 a 0:57:31; aula 28, 1:03:08: "não cair muito pra um lado de clickbait"). **Sai do Insta da Nora**, que fica com os falados. Uma das 3 contas novas pode ser a do curto, se o aluno quiser.
+- **O curto com fala nos 3 s no Insta da Nora:** fica como hipótese (sem fonte; só pelos nossos números), sem rodar por agora.
+

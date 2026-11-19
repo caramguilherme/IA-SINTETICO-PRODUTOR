@@ -1816,3 +1816,27 @@ Tem outro CTA nas aulas com motivo forte, sem prometer coisa grátis nem que o c
 5) AULAS 13 E 25
 Não tenho as transcrições da aula 13 (0:06:34) nem da aula 25 (0:37:55). O que elas dizem nesses minutos, palavra por palavra?
 
+**Resposta (19/11 ~12h30; texto inteiro em `CLONE-ORIGINAIS/2026-11-19-R79-avatar-citacoes-curto-cta.md`), resumida:** (1) a R19 e a R21 falavam de trocar de personagem; tirar a pintura não muda o perfil (aula 67); **esperar os 40 vídeos** antes de tirar, para não misturar com a troca de copy (marcado como opinião). (2) corrigiu as 6 citações: o 200 a 300 é da aula 74 (0:07:46 a 0:08:01); o 3 a 5 visitas é opinião; a Índia com 0,2% é da aula 28; os símbolos dos EUA, da aula 37 (1:22:27); o público no mudo, da aula 32 (0:32:51); "a seta pesa mais" é opinião. (3) **o curto: numa conta separada, sem a Nora (aula 21, 0:57:09 a 0:57:31), e no Face**, onde a restrição tira a Índia; aula 28 (1:03:08): "não cair muito pra um lado de clickbait". (4) 2 CTAs a mais, "com motivo": "To get full clarity… I left the complete breakdown of this message there for you" (aula 65) e "To see if your energy is aligned… the 2-minute personal reading is waiting for you" (aula 64). (5) as falas das aulas 13 (100 mil views valida) e 25 (0:37:55: "o máximo nos primeiros 10 vídeos foi 295… não é culpa do Avatar… é mais a página que foi meio que sabotada").
+
+**Conferência (19/11 ~12h40):**
+- **Batem:** aula 74 (0:07:46), aula 28 (1:03:08: "não cair muito pra um lado de clickbait… 10 segundos, só a promessa e o CTA… você qualificou pouco"), aula 32 (0:32:51: "No mudo"), aula 65 (0:46:33: "dar motivos palpáveis e convincentes para clicar"; 0:49:43: pôr a pessoa no estado de solução, desejo e benefício antes do quiz), aula 46 (0:04:34: variar o gancho do corpo que acertou).
+- **Errada:** aula 28 (1:19:13: as imagens de casais felizes do soulmate, não isolar variáveis); a conclusão já veio marcada como opinião e bate com a nossa regra (uma variável por vez).
+- **A R19 e a R21 ficam reconciliadas:** o "não mexer" era trocar de personagem; tirar a pintura no mesmo perfil é a aula 67. **Quem tinha escrito "a Nora sem a pintura não deve ser feita nesta conta" fui eu**, na conferência da R21 (o "Para a Nora" daquela entrada), não ele.
+- **Sem como conferir:** a aula 64 (o CTA da leitura de 2 minutos), a aula 13 e a aula 25 (não temos as transcrições). **Os 2 CTAs novos parecem montados por ele** a partir do princípio da aula 65, não texto literal; o "2-minute personal reading" não bate com o funil ("three quick questions").
+- **O que muda:** (1) a Nora sem a pintura vira a próxima mudança depois dos 40 vídeos com copy validada (estamos em 36; ~21/11 com 2 por dia), decisão do aluno; (2) **o curto sem fala no Insta da Nora sai da fila** (as aulas 21 e 28 sustentam conta separada e "não abusem"); ele fica no Face e vira o formato de uma das contas novas, se o aluno quiser; o teste do curto com fala nos 3 s fica como hipótese só para quando houver motivo; (3) o CTA dos falados: o da aula 54 com o texto do funil, a confirmar na R80.
+- **Ponto novo (aula 25, pelo trecho dele):** "não é culpa do Avatar… é mais a página que foi meio que sabotada": pode apontar para a conta do Insta travada (2 verificações faciais), e não para a avatar. Vai na R80.
+
+---
+
+## R80 (19/11/2026 ~12h40, montada sem o aluno pedir; resposta pendente): a opinião dos 40 vídeos, os CTAs, a conta travada
+**Pergunta (~1.500 caracteres):**
+
+Obrigado pelas correções. Conferi de novo: batem a aula 74 (0:07:46), a aula 28 (1:03:08), a aula 32 (0:32:51, o público no mudo) e a aula 65 (0:46:33 e 0:49:43, os motivos para clicar). Ficaram 3 pontos curtos:
+
+1) A aula 28 (1:19:13) fala das imagens de casais felizes para o soulmate, não de isolar variáveis. Então o "esperar os 40 vídeos" é opinião sua, certo? (Concordo com ela; é a regra de uma variável por vez.)
+
+2) Os 2 CTAs novos em inglês ("I left the complete breakdown of this message there for you" e "the 2-minute personal reading is waiting for you right now") são texto literal das aulas ou montados por você a partir do princípio da aula 65? O funil do Manifestation diz "three quick questions, and your private reading is ready". Este CTA juntando a aula 54 com o texto do funil está de acordo com a aula 65 (0:46:33 a 0:50:04)?
+"Now pay attention: tap my profile picture and check my story. Three quick questions, and your private reading is ready."
+
+3) Na aula 25 (0:37:55 a 0:38:21), pelo trecho que você colou: "não é culpa do Avatar… é mais a página que foi meio que sabotada". A Nora tem 2 verificações faciais no Insta (13/10 e 17/11), os falados param entre 110 e 220 views desde 11/11, e o Status da conta está todo verde. Pelas aulas, isso aponta mais para a conta do Insta travada do que para a avatar? Se sim, o que as aulas mandam: insistir nesta conta (por quanto tempo), ou abrir uma conta nova com a mesma Nora? Cite a aula e o minuto.
+
