@@ -960,3 +960,8 @@ Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, co
 - **25 views, 16 viewers** (52% seguidores, 48% não seguidores), 0 respostas, 0 compartilhamentos, **4 cliques no link** (25% dos viewers; a régua da R72 dizia ~30%), navegação 20 (saiu 10, avançou 8, próximo story 2), 0 visitas ao perfil e 0 follows a partir dele.
 - **O que diz:** o story converte quem chega (1 em cada 4 clicou); o gargalo é chegar gente ao story. Os 7 visitantes do perfil do ini1811 e os seguidores são quem o abre. **O Tracker de 18/11 até 23h55 tinha 0 clique do Insta**, então os 4 devem ter vindo depois da meia-noite (ou o Tracker não pegou): conferir no Tracker de 19/11 (utm_source=instagram, STORYIG).
 - **O story vence ~18h55 de hoje:** repostar antes, no Insta e no Face.
+
+## 19/11/2026 11h38: o Tracker de 18/11 fechado e o de 19/11 até 11h38
+- **18/11 fechado:** 3 cliques, 3 abriram o quiz, 2 começaram, 2 terminaram, 0 checkout, 0 venda; os 3 do Facebook (igual à leitura de 23h55: nada entrou depois). Pelos Insights, 2 dos 3 vieram do comentário do ini1811-FACE.
+- **19/11 até 11h38: 1 clique do Instagram**, 1 abriu o quiz, 0 começou, 0 checkout. **O story-1811 do Insta mostra 4 cliques no link** (Insights às ~11h36): o Instagram conta o toque no adesivo, e o Tracker conta só quem carregou a página do quiz com o link; parte dos toques fecha antes de carregar. O que vale para a conta de vendas é o Tracker.
+- **Desde 27/10:** ~42 cliques reais, ~19 terminaram o quiz, 0 checkout. Régua oficial: ~330 cliques por venda (0,30%); para quem aplica as aulas, ~85 a ~125.
