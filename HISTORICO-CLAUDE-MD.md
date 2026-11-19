@@ -673,3 +673,16 @@ Copiados palavra por palavra. O que vale hoje está na seção 1 do `CLAUDE.md`.
 - **14/11/2026 00h50, Insta nora60 FINAL (~25 h): 181 views, 27,6% nos 3 s, 3 s de tempo médio, 0 visitas, Índia 53,6%.** Igual à leitura de ~11 h: o envelope reprovou e o Reels não passou da amostra inicial. A régua do nora63 continua 300+ views, mais de 44% nos 3 s e Índia abaixo de 20%. Dashboard na versão 31.
 - **14/11/2026 00h45, Face (Biblioteca, 00h43):** nora62 em 227 views com ~11h40 (28,6% nos 3 s, −0,2x); nora61 105 (21,0%); o Face segue preso entre ~100 e ~330 por vídeo fora o nora55 (4.235). Nada muda até a régua de ~24 h do nora62 (~13h), que decide o hook de produto no Face com o nora63 como comparação. O nora63 saiu no Face às 00h35. Dashboard na versão 30. Detalhe em `METRICAS-NORA-LEIA.md` (14/11 00h43).
 - **14/11/2026 00h40, Discord, 19ª leitura:** nada muda nas regras (Short.io segue fora; no Face, respostas só em público e directs parados: o Maycon tomou restrição por DM com promessa de dinheiro no Manifestation). O Lucas Dusi fez 0,93% de clique para venda em 13/11 (18 vendas em 1.943 cliques) depois de mudar o formato e casar a copy com o funil; o Andrei Magno vendeu no 3º avatar, com 60+ vídeos (a Nora está em 27: a avatar fica). Respostas: parabéns ao Lucas e ao Andrei no #vitórias, o Pedro Henrique (Índia) no #chat-appyon. Detalhe em `COMUNIDADE-E-ESTRATEGIA.md` (14/11 00h40).
+
+
+## O padrão de alto contraste dos textos (15/11 a 18/11/2026; substituído em 18/11 23h30 pelo "simples")
+- **Estilo dos textos: padrão único de alto contraste desde 15/11/2026 (Clone R50; decisão do aluno: "vamos confiar no que o clone falou… pra fazermos exatamente do jeito que o clone falou"):** em todo Reels e -FACE vai `"estilo": "alto-contraste"`:
+  - caixa do topo amarela sólida com preto em negrito;
+  - legenda Poppins Bold branca, contorno preto grosso, destaque amarelo forte, 3 palavras por vez no terço de baixo;
+  - **dois números, os dois brancos, desde 16/11 (escolha do aluno, 13h31: "prefiro usar dois números só, 11:11 e 222, tirar o 888"): o 11:11 no canto de cima à direita e o 222 no canto de cima à esquerda, na mesma altura** (onde ficava o 888); o 888 saiu ("os 3 coloridos não ficam sérios"; Clone R59 e R60: 1, 2 ou 3 números têm precedente nas aulas);
+  - faixa do CTA branca com preto e vermelho; seta vermelha **embaixo à esquerda, logo acima da foto do perfil do Reels (X −300, Y −400, ≈81% da altura; regra do aluno de 18/11 19h20)**;
+  - **tela limpa até o CTA** (sem Trustpilot nem "Rated 4.8" no meio);
+  - com pré-gancho, a legenda entra quando a Nora começa a falar; sem pré-gancho, pode começar no 0 s, com a caixa do topo curta;
+  - nada de pastel, translúcido, serifa fina ou estilo por cena.
+
+  Skills `estilo-visual-nora` e `editar-video-nora`; modelo `spec-nora65-v2.json`. O story segue o texto nativo do Instagram desde 18/11 (`texto_story_nativo.py`; o creme de 11/11 ficou como histórico). (O pedido de 12/11, de variar o estilo pela cena, foi substituído; o histórico está no `HISTORICO-CLAUDE-MD.md`.)
