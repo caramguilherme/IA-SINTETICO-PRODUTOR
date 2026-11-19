@@ -157,7 +157,7 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
   - **nora70 (0h00):** o hook do v6 (o alçapão e a estátua de São Miguel, ~6,6 s em 2 tomadas) + flash branco + a fala na escada, com a estátua ao lado.
   - **A fala é a dela** (17 takes cada, ~110 s), com só 3 mudanças: a data de hoje, **sem o "free"** (a leitura é paga: a única frase falsa sobre o produto, e a Appyon proíbe o "grátis") e 4 frases encurtadas para caber em 22 palavras por take.
   - **A P42 fica suspensa só nestes 2, como teste do aluno**; a regra geral da seção 2 não mudou.
-  - **Visual limpo (eu edito):** sem caixa, a legenda no estilo da automática do Instagram, o 222 branco como nos vídeos dela, a seta só no CTA, sem faixa; zoom da FusionZ desligado.
+  - **Visual limpo (eu edito):** sem caixa, a legenda no estilo da automática do Instagram, o 222 branco como nos vídeos dela, a seta só no CTA, sem faixa; zoom da FusionZ desligado (na prática, o nora69 saiu com o zoom Alternado, porque o aluno não mexeu no campo; o nora70 segue igual, 19/11 01h25).
   - **O `PAINEL-MODELO.html` aceita até 24 takes no modo Central** (eram 12).
 - **17/11/2026 ~13h, os 6 vídeos da claire_mayaus (o aluno: "achei os vídeos dela muito limpos"; análise em `referencias-virais/2026-11-17-claire-mayaus/LEIA.md`, seção 53 do `BIBLIOTECA-VIDEOS-VIRAIS.md`):**
   - **A tela dela:** sem caixa do topo em 5 de 6; a legenda automática do Instagram (letra normal, contorno fino, a frase inteira, sem destaque); 1 ou 2 números brancos (o vídeo todo em 2, entram tarde ou somem e voltam em 2, nenhum em 1); sem faixa do CTA, só a seta vermelha nos últimos ~10 s.
