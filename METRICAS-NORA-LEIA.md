@@ -955,3 +955,8 @@ Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, co
 - **0 visitas ao perfil e 0 follows** (o nora69 também teve 0); 6 curtidas espalhadas pelo vídeo todo (5,5%), 1 comentário, 1 repost, 1 compartilhamento, 0 salvos. **EUA 49,6%**, Austrália 5,9%, Irã 5,0%, Índia 4,2%, Canadá 4,2%; **45+ = 77,3%** (o nora69: 58,3%).
 - **A régua da R67 (com ~24 h, ~01h50 de 20/11):** mais de 15% aos 10 s já passou (~25%); 200+ views ainda não (119, subindo devagar); 3+ visitas ao perfil não (0); o clique, no Tracker.
 - **A leitura dos dois vídeos da claire_mayaus:** o hook de ação comum segura (59,6% e 56,2% nos 3 s, os melhores falados desde 12/11) e o público é o certo (EUA e 45+), mas **a copy não manda ninguém ao perfil** (0 e 0 visitas), como a aula 65 descreve (view sem intenção de clique). No mesmo dia, o curto sem fala (ini1811) deu 7 visitas no Insta e 2 cliques no Face.
+
+## 19/11/2026 ~11h36: o story-1811 no Insta com ~16h40 (prints do aluno)
+- **25 views, 16 viewers** (52% seguidores, 48% não seguidores), 0 respostas, 0 compartilhamentos, **4 cliques no link** (25% dos viewers; a régua da R72 dizia ~30%), navegação 20 (saiu 10, avançou 8, próximo story 2), 0 visitas ao perfil e 0 follows a partir dele.
+- **O que diz:** o story converte quem chega (1 em cada 4 clicou); o gargalo é chegar gente ao story. Os 7 visitantes do perfil do ini1811 e os seguidores são quem o abre. **O Tracker de 18/11 até 23h55 tinha 0 clique do Insta**, então os 4 devem ter vindo depois da meia-noite (ou o Tracker não pegou): conferir no Tracker de 19/11 (utm_source=instagram, STORYIG).
+- **O story vence ~18h55 de hoje:** repostar antes, no Insta e no Face.
