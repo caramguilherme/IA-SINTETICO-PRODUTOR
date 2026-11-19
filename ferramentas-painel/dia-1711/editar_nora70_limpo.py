@@ -103,6 +103,8 @@ for i, w in enumerate(ws):
     txt, a, b = w[0], w[1], w[2]
     if a < FIM_HOOK: continue
     if any(ca <= a and b <= cb + 0.05 for ca, cb in cj): continue  # palavra cortada
+    if words and txt[:1] in '.:' and txt[1:2].isdigit() and words[-1][0].isdigit():  # "10" ".10," -> "10:10,"
+        words[-1] = [words[-1][0] + ':' + txt[1:], words[-1][1], novo(b)]; continue
     words.append([txt, novo(a), novo(b)])
 chunks, cur = [], []
 for w in words:
@@ -172,18 +174,35 @@ hook_txt = None  # o hook do v6 não tem texto
 
 t_tap = next(w[1] for i, w in enumerate(words) if w[0].lower().startswith('tap') and i + 1 < len(words)
              and words[i + 1][0].lower().startswith('my'))  # o "Tap my profile picture" (o "double tap" do T11 não vale)
-cam = [(png_222(), 15.0, dur_b), (png_seta(), t_tap, dur_b)] + [(png_leg(t), a, b) for t, a, b in leg]
+fixos = [(png_222(), 15.0, dur_b), (png_seta(), t_tap, dur_b)]
 args = ['ffmpeg', '-v', 'error', '-y', '-i', base]
 filt, ult = [], '0:v'
 if VER == 'face':
     filt.append(f'[0:v]{VF.filtro_variacao()}[vx]'); ult = 'vx'
+# a legenda inteira numa camada só (concat de PNGs com a duração de cada pedaço; vazio transparente entre eles):
+# com ~85 camadas separadas o render passava de 10 min
+vazio = os.path.join(tmp, 'vazio.png'); Image.new('RGBA', (W, H), (0, 0, 0, 0)).save(vazio)
+seq, t0 = [], 0.0
+for i, (txt, a, b) in enumerate(sorted(leg, key=lambda x: x[1])):
+    a = max(a, t0)
+    if b <= a: continue
+    if a > t0: seq.append((vazio, a - t0))
+    pth = os.path.join(tmp, f'c{i:03d}.png'); png_leg(txt).save(pth); seq.append((pth, b - a)); t0 = b
+if dur_b > t0: seq.append((vazio, dur_b - t0))
+lst_leg = os.path.join(tmp, 'legenda.txt')
+with open(lst_leg, 'w') as f:
+    for pth, d in seq: f.write(f"file '{pth}'\nduration {d:.4f}\n")
+    f.write(f"file '{seq[-1][0]}'\n")
+args += ['-f', 'concat', '-safe', '0', '-i', lst_leg]
+filt.append('[1:v]fps=24,format=rgba,setpts=PTS-STARTPTS[lg]')
+filt.append(f'[{ult}][lg]overlay=0:0:eof_action=pass[ol]'); ult = 'ol'
 lista = []
 if hook_txt: lista.append((hook_txt, 0.0, HOOK_DUR - 0.05))
-for i, (im, a, b) in enumerate(cam):
-    p = os.path.join(tmp, f'c{i:03d}.png'); im.save(p); lista.append((p, a, b))
-for i, (p, a, b) in enumerate(lista):
-    args += ['-loop', '1', '-framerate', '24', '-t', f'{min(b + 0.1, dur_b):.3f}', '-i', p]
-    filt.append(f"[{ult}][{i + 1}:v]overlay=0:0:enable='between(t,{a:.3f},{b:.3f})'[o{i}]"); ult = f'o{i}'
+for i, (im, a, b) in enumerate(fixos):
+    pth = os.path.join(tmp, f'f{i:02d}.png'); im.save(pth); lista.append((pth, a, b))
+for i, (pth, a, b) in enumerate(lista):
+    args += ['-loop', '1', '-framerate', '24', '-t', f'{min(b + 0.1, dur_b):.3f}', '-i', pth]
+    filt.append(f"[{ult}][{i + 2}:v]overlay=0:0:enable='between(t,{a:.3f},{b:.3f})'[o{i}]"); ult = f'o{i}'
 final = os.path.join(OUT, 'nora70-final' + ('-FACE' if VER == 'face' else '') + '.mp4')
 if VER == 'face':
     filt.append(f'[{ult}]setpts=PTS/{VF.VEL}[vf];[0:a]atempo={VF.VEL}[af]'); vm, am, extra = '[vf]', '[af]', VF.LIMPA
