@@ -23,6 +23,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **Kaike de Lima (17/11 11h35):** respondeu em 16/11 11h04 com um áudio de 17 s (transcrito pelo aluno): replica o pré-hook que dá certo até "sugar muito" e aí faz coisa nova. Resposta enviada (texto no fim), com a pergunta do teto do Insta. Esperar.
 - **Pedro⚡ e Caio1094, fechamentos (prints do aluno em 18/11 00h44):** o Pedro⚡ respondeu "show, vai da certo!" (17/11 12:18) e o Caio1094 "tamo juntooo! ve oq ta mais viral nas ultimas 48h, tenta fazer na sua, ai vai vendo oq ela performa melhor, mas é teste + teste + teste, desiste nao" (17/11 12:10). Conversas fechadas: só reagir; voltar com resultado.
 - **carloscs (18/11 00h45):** respondeu em 17/11 15:20 à DM de 03/11 (começa pelo Face, esteira de aquecimento, depois a automação, copy de vendas com e sem hook, 4 a 6 vídeos por dia a cada 2 h). Agradecimento com 1 pergunta enviado (texto no fim). Esperar.
+- **29ª leitura (19/11 ~23h52):** parabéns ao Wendell Vieira (1ª venda, 321 cliques) e ao Khalil (os 1ºs cliques depois de ajustar a copy com as calls), no #vitórias, com 1 pergunta curta cada (texto no fim): enviados (toda resposta sugerida conta como enviada). Se responderem em público, reagir com emoji e seguir pela DM.
 - **28ª leitura (19/11 ~02h):** respostas ao José [MVM] (a aparência do avatar no Muse, take a take), ao erick civinelli (152 cliques sem venda: a régua) e ao Khalil (o rótulo de IA no Face), no #chat-appyon: enviadas (toda resposta sugerida conta como enviada; textos no fim). **Sem resposta, pela regra de nunca mandar duas sem resposta:** a Lívia (a nossa de 18/11 ~11h segue sem resposta; a pergunta dela das 22h42, se a FusionZ parou de cortar, a gente sabe: funcionou para o aluno à 01h de 19/11) e o Castanho (esperando desde 10/11; só reagir com emoji ao prêmio do Apple Watch no #vitórias).
 - **27ª leitura (18/11 ~11h):** **no fórum, o aluno mandou a pergunta dele em vez da minha** (11h11: "esse 1b de token é mensal? todo mês renova? ou usou 1b já era?"); a minha (os 46 vídeos com 1,5 bi: inteiros ou takes?) fica para depois que o Vinicius responder (nunca duas sem resposta). Respostas à Lívia (dinheiro na DM automática) no #chat-appyon e o parabéns ao Rodrigo Rechmann (1 pergunta: insta ou face) no #vitórias: enviadas (toda resposta sugerida conta como enviada; textos no fim). O Rechmann nunca respondeu a DM de 03/11: no #vitórias, se ele responder, só reagir.
 - **25ª leitura (17/11 23h55):** respostas aos Ari & Lu (o selo de IA só no perfil e os 10 primeiros vídeos) e ao Emanuel (o viral e a queda, com o dado do loop), no #chat-appyon, e parabéns ao Rafael Maia (1 pergunta: os administradores das Páginas novas) no #vitórias: enviadas (toda resposta sugerida conta como enviada; textos no fim).
@@ -1007,3 +1008,14 @@ tá dentro do normal ainda
 **3. Khalil, no #chat-appyon (resposta à pergunta dele de 18/11 15h23, "é melhor marcar como conteúdo de ia ou não?"):**
 o gustavo orientou que no insta basta marcar o perfil como ia, e no face é pra marcar cada post tb
 aqui o perfil tá marcado como ia no insta e na pagina
+
+## 29ª leitura (19/11 ~23h52): respostas
+**1. Wendell Vieira, no #vitórias** (responder a mensagem dele de 19/11 12h19, a da 1ª venda):
+parabéns wendell!! 321 cliques pra 1ª venda, bem na régua que a central fala (~330 por venda)
+agora é só repetir
+uma dúvida rápida: foi no insta ou no face?
+
+**2. Khalil, no #vitórias** (responder a mensagem dele de 19/11 23h26, a dos primeiros cliques):
+boa khalil!! to na mesma fase aqui, os cliques começaram a sair essa semana tb
+qual ajuste das calls fez mais diferença pra vc: o body ou o cta?
+

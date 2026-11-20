@@ -237,3 +237,6 @@
 - **O curto sem fala:** no Face (a restrição de país tira a Índia; o ini1811-FACE deu 2 cliques) e numa conta separada, sem a Nora (aula 21, 0:57:09 a 0:57:31; aula 28, 1:03:08: "não cair muito pra um lado de clickbait"). **Sai do Insta da Nora**, que fica com os falados. Uma das 3 contas novas pode ser a do curto, se o aluno quiser.
 - **O curto com fala nos 3 s no Insta da Nora:** fica como hipótese (sem fonte; só pelos nossos números), sem rodar por agora.
 
+## 19/11/2026 ~23h52: da 29ª leitura do Discord
+- **A prova social falada antes do CTA** (jeanl.co, 19/11 12h25, para quem tem clique e não tem venda): uma frase com uma avaliação real do Trustpilot (`PROVAS-REAIS-TRUSTPILOT.md`), sem nome do app, dita pela Nora logo antes do CTA. Contra: a tela limpa até o CTA (R50) e a fala que termina no CTA. Só prova real (HONESTIDADE). Medida: visitas ao perfil e cliques no Tracker contra a mesma fala sem a frase. Depois do teste da fala dos 3 sinais (nora71 e nora72).
+
