@@ -30,7 +30,7 @@ def nora73():
     P = copy.deepcopy(B.pacote('PAINEL-NORA72.html'))
     P['roteiro'].update({
         'id': 'nora73-CARRO-LETRAS-2011',
-        'titulo': 'nora73 · Insta às 19h30 de hoje (20/11) · o nora72 com as letras do nome na frente',
+        'titulo': 'nora73 · postado às 18h15 de 20/11 (Insta e Face) · o nora72 com as letras do nome na frente',
         'duracao_total': 57,
         'descricao_instagram': ('If your name starts with one of these letters, this is for you 👀 Your private reading is waiting in my story 🔮\n'
                                 'Comment the first letter of your name 👇\n'
@@ -81,7 +81,7 @@ def nora73():
         ],
         'decisao': [
             '1 take no Muse: a frase das letras do nome na frente do nora72 inteiro. Só a abertura muda.',
-            'Insta às 19h30 de hoje (o montado até ~19h10). Face à 0h00 (21/11), com a variação do Face; nada no Face às 19h30 (o nora72-FACE foi hoje à 01h16).',
+            'Postado às 18h15 de 20/11, no Insta e no Face (decisão do aluno).',
             'Hipótese: a abertura pelas iniciais (o único post que levou gente ao perfil foi o curto das iniciais: 21 visitas) leva gente ao perfil também no falado.',
             'O story vence às ~18h15: reposte antes, no Insta e no Face.',
         ],

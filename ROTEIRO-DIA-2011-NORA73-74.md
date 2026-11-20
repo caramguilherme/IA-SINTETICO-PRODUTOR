@@ -37,7 +37,7 @@
 - **O resto é o nora72 como está:** o hook da canela, o flash e os 6 takes. O aluno põe o take novo na frente do NORA72.mp4 (o montado do Drive) no CapCut.
 - **Na tela:** a caixa "If your name starts with / [one of these letters]" do 1º quadro do hook até o fim da frase das letras; o resto, o estilo "simples".
 - **Hipótese:** a abertura pelas iniciais leva gente ao perfil também no falado. Só a abertura muda contra o nora72.
-- **Postagem:** Insta às 19h30 de 20/11 (o montado até ~19h10); Face à 0h00 (21/11). Às 19h30 não vai ao Face: o nora72-FACE foi hoje à 01h16.
+- **Postagem:** postado às 18h15 de 20/11, no Insta e no Face (decisão do aluno; o plano era o Insta às 19h30 e o Face à 0h00). No Insta, antes da janela das 19h30: olhar a Índia. No Face, o mesmo corpo do nora72-FACE (01h16) ~17 h depois, como no teste de ontem.
 - **Legenda do Insta:** "Comment the first letter of your name" (o pedido muda a cada post).
 
 ## nora74: o campeão de volta (8 takes no Muse)
