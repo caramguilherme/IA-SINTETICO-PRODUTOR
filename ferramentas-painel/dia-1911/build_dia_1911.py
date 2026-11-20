@@ -225,15 +225,23 @@ LEG_INSTA = {
                'Comment the number you keep seeing 👇\n'
                '#manifestation #angelnumbers #messagefromtheuniverse #2027 #lawofattraction'),
 }
-LEG_FACE = ('Most people never notice these 3 signs ✨ Your reading is waiting in my story and in the comments 🔮\n'
-            '#manifestation #1111 #messagefromtheuniverse #2027')
+LEG_FACE = {
+    'nora71': ('Most people never notice these 3 signs ✨ Your reading is waiting in my story and in the comments 🔮\n'
+               '#manifestation #1111 #messagefromtheuniverse #2027'),
+    'nora72': ('You were never imagining it ✨ Most people never notice these 3 signs. Your reading is waiting in my story and in the comments 🔮\n'
+               '#manifestation #angelnumbers #messagefromtheuniverse #2027'),
+}
+FIX_FACE = {
+    'nora71': 'Your reading is waiting for you here 🙏 👉 ',
+    'nora72': 'Your 2027 reading is waiting for you here ✨ 👉 ',
+}
 FIX_INSTA = {
     'nora71': 'If even one of these signs is yours ✨ tap my profile picture above, your 2027 reading is waiting in my story',
     'nora72': 'You were never imagining it 🙏 tap my profile picture above, your 2027 reading is waiting in my story',
 }
 QUANDO = {
     'nora71': ('Insta às 19h30 de hoje (19/11), o nora71-final; Face às 19h30, o nora71-final-FACE (com a variação do Face).'),
-    'nora72': ('Insta à 0h00 (20/11), o nora72-final. Face: não vai à 0h00 (o mesmo corpo foi no Face às 19h30 com o nora71; lá vai a variação do nora68-FACE às ~00h50); o nora72-final-FACE fica pronto para decidir amanhã.'),
+    'nora72': ('Insta e Face agora, ~01h05 de 20/11 (decisão do aluno às 01h04): o nora72-final no Insta e o nora72-final-FACE no Face. No Face é teste: o mesmo corpo do nora71-FACE, ~5 h depois.'),
 }
 HIPOTESE = {
     'nora71': 'Hipótese: a fala que qualifica (os 3 sinais) leva gente ao perfil e ao story (o nora69 e o nora70 tiveram 0 visitas), com o hook que segurou 26 s no Insta.',
@@ -241,8 +249,7 @@ HIPOTESE = {
 }
 HOOK_LINHA = {
     'nora71': ('O hook do alçapão já está comigo (o do nora70, sem texto). Não põe no CapCut: eu emendo ele antes do T01, com o flash branco.'),
-    'nora72': ('O hook da canela está comigo, mas com o texto antigo gravado em cima. Se você ainda tiver os 3 clipes do hook do nora69 (d1711-PRE-carro-1-pote, '
-               '-2-canela e -3-entra), mande junto no Drive; se não tiver, eu cubro o texto antigo com a caixa nova. Não põe no CapCut.'),
+    'nora72': ('O hook da canela está comigo, remontado sem texto a partir dos 3 clipes que você mandou (20/11 00h55). Não põe no CapCut.'),
 }
 
 
@@ -259,13 +266,13 @@ def montar(c):
         'titulo': (f'{nn} · {QUANDO[nn].split(".")[0]} · a fala nova dos 3 sinais (pesquisa oficial + aula 65), com o hook {c["hook"]}'),
         'duracao_total': 44,
         'descricao_instagram': LEG_INSTA[nn],
-        'descricao_face': LEG_FACE,
+        'descricao_face': LEG_FACE[nn],
     }
     P['imagens'] = [{'rotulo': f'IMAGEM 1 · {c["img"]}', 'cena': f'já existe ({c["nome"]})', 'anexar': f'a {c["img"]} (a mesma das falas do {"nora70" if c["tag"] == "alcapao" else "nora69"})'}]
     P['videos'] = [{'rotulo': f'T{i + 1:02d}', 'cena': TXT[i], 'duracao': 10, 'primeiro_quadro': f'IMAGEM 1 ({c["img"]})', 'acao': '', 'b_roll': '',
                     'fala': FALA[i], 'movimentacao': mov(c, i), 'arquivo': nome(c, i)} for i in range(N)]
     P['texto_tela'] = {'hook': HOOK_CAIXA, 'hook_comeca': 'o 1º quadro do hook', 'hook_termina': 'o fim de “these three signs.” (a 1ª frase)', 'hook_alt': '', 'extras': []}
-    P['comentario_fixado'] = {'insta': FIX_INSTA[nn], 'face': f'Your reading is waiting for you here 🙏 👉 {FB}'}
+    P['comentario_fixado'] = {'insta': FIX_INSTA[nn], 'face': FIX_FACE[nn] + FB}
     rf = P['respostas_face']
     rf['link'] = FB
     rf['insta'] = ['I see you 🙏 your 2027 reading is waiting in my story',
@@ -275,7 +282,7 @@ def montar(c):
                    'Received ✨ your reading is in my story 🔮']
     P['story'] = {'ja_postado': True,
                   'nota': ('O story-1811 vence às ~18h55 de hoje: reposte antes, ao vivo, no Insta e no Face (o mesmo arquivo, com o adesivo do link). Sem story no ar, o vídeo não leva a lugar nenhum.'
-                           if nn == 'nora71' else 'Antes de postar, confira se o story repostado hoje às ~18h55 está no ar no Insta (vale até ~18h55 de amanhã).')}
+                           if nn == 'nora71' else 'Antes de postar, confira se o story repostado em 19/11 às 18h15 está no ar no Insta e no Face (vale até ~18h15 de 20/11: reposte antes).')}
     m = P['mapa_tela']
     m['legenda'] = [69, 77]
     m['estilos'] = [
