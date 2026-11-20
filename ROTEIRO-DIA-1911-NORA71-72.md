@@ -36,8 +36,8 @@ Reserva do T06 (se o Muse recusar o "private" 2 vezes): "…Three quick question
 **Medida:** com ~24 h, as visitas ao perfil e os cliques no Tracker contra o nora69 e o nora70 na mesma idade; os 3 s, o tempo médio e a fatia dos EUA.
 
 ## Postagem
-- **nora71:** Insta às 19h30 de 19/11 e o -FACE no Face às 19h30 (mudou às ~18h: o aluno gerou o alçapão primeiro e faz o da canela à noite).
-- **nora72:** o Insta à 0h00 (20/11). No Face não vai à 0h00 (o mesmo corpo do nora71-FACE no mesmo dia trava lá); o -FACE fica pronto para decidir em 20/11.
-- **Face 0h00:** a variação do nora68-FACE às ~00h50 (completa 3 dias às 00h48).
+- **nora71:** postado em 19/11 às 20h00, no Insta e no Face (o horário era 19h30; mudou às ~18h: o aluno gerou o alçapão primeiro e fez o da canela à noite).
+- **nora72:** postado em 20/11 às 01h20, no Insta e no Face (decisão do aluno às 01h04; no Face é teste: o mesmo corpo do nora71-FACE ~5h20 depois). Legenda do Face e comentário da Página próprios (painel versão 5).
+- **Face 0h00:** a variação do nora68-FACE não foi (o nora72-FACE ficou no lugar).
 - **Legendas:** Insta do nora71 "Comment 1, 2 or 3: which sign have you seen?"; do nora72 "Comment the number you keep seeing" (o pedido muda a cada post); Face sem pedido, com o link FACE inteiro no comentário da Página.
 - **O hook do nora72:** remontado sem texto em 20/11 00h55 com os 3 clipes originais que o aluno mandou (`montar_hook_nora69.py`, as mesmas 6 tomadas do nora69, 6,83 s): `ferramentas-painel/dia-1911/d1711-carro-HOOK-sem-texto.mp4`. O antigo (`dia-1711/d1711-carro-HOOK.mp4`) tem o texto do nora69 gravado e não se usa mais. O do alçapão, sem texto, está em `ferramentas-painel/dia-1911/d1711-alcapao-HOOK-sem-texto.mp4`.
