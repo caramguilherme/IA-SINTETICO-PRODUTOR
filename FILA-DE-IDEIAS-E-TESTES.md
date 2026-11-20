@@ -250,7 +250,7 @@
 
 ## 20/11/2026 ~10h05: dos 7 virais do aluno (`referencias-virais/2026-11-20-aluno/LEIA.md`; `BIBLIOTECA-VIDEOS-VIRAIS.md`, seção 54)
 **Ordem:** depois da leitura do nora71 e do nora72 (~20h de 20/11 e ~01h20 de 21/11). Uma variável por vez: a fala dos 3 sinais, o CTA e a edição ficam fixos, e muda só o Take 1.
-1. **O Take 1 falado pelas letras do nome** (v4, @takedanaomi_; a 3ª fonte, depois do 52.2 e do ini1811): "If your name starts with A, J, M, K, C, E, S, L, R, T or H, pay close attention. Most people never notice these three signs…".
+1. **[Em teste: o nora73, 20/11 19h30] O Take 1 falado pelas letras do nome** (v4, @takedanaomi_; a 3ª fonte, depois do 52.2 e do ini1811): "If your name starts with A, J, M, K, C, E, S, L, R, T or H, pay close attention. Most people never notice these three signs…".
    - **Por que é o 1º:** as iniciais são a única coisa que levou gente ao perfil nesta conta (o ini1811: 21 visitas no Insta e 2 cliques no link no Face). É o processo do Baran: repetir o que funciona nesta conta.
    - **Medida:** visitas ao perfil e quiz começado contra o nora71 e o nora72.
 2. **O Take 1 dos signos, leve** (v5 e v7): "Two zodiac signs are about to have their luckiest year in twenty twenty-seven…", com a validação na 2ª frase e os signos ditos antes do CTA (como o v7; o v5 nunca diz quais são, um laço que não fecha, P42).
@@ -268,7 +268,7 @@
    - Junta com a "ponte do mecanismo" do 52.2 (b).
    - Entra quando um falado der views sem clique.
 6. **O "Pick a card, 1 or 2"** (v1): 2 cartas viradas para baixo estendidas para a lente. Fica dentro do teste A/B das cartas (a pesquisa oficial contra o Gustavo, 03/11). Por último e com o ok do aluno; o plano do Love Reading (06/11) diz que o "pick a card" genérico atrai quem quer leitura grátis.
-7. **[Contradição vira teste; decisão do aluno] O black soft contra a copy leve** (o aluno, 20/11 ~10h15: "se a pessoa ta rodando o funil espanhol, ela ja vendeu bastante no funil americano. E na teoria a copy ta validada"; o espanhol só abre para quem passou de 300 vendas, LegacyTalk de 19/11).
+7. **[Em teste: o nora74, 21/11 0h00, o campeão do nora48 ao nora50 de volta, com o corpo A limpo como era] O black soft contra a copy leve** (o aluno, 20/11 ~10h15: "se a pessoa ta rodando o funil espanhol, ela ja vendeu bastante no funil americano. E na teoria a copy ta validada"; o espanhol só abre para quem passou de 300 vendas, LegacyTalk de 19/11).
    - **De um lado:** o Gustavo (LegacyTalk de 19/11, 00:59:03: o "blackzinho mais soft… é normal") e os nossos números (os 3 melhores falados, nora48 a nora50, eram o corpo A limpo, com "Don't tell anyone what's about to happen").
    - **Do outro:** a P42, a aula 65 e o Diogo (00:56:47: a copy light é "regra").
    - **O teste:** a fala dos 3 sinais com 1 frase soft no Take 1 ou no T2 (ex.: "Don't tell anyone what's about to happen"), contra a mesma fala sem ela (o nora71 e o nora72).
