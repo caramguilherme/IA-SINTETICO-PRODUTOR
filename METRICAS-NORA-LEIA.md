@@ -1013,3 +1013,9 @@ Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, co
 ## 20/11/2026 00h23: o story do Insta repostado em 19/11 18h15, com ~6 h (prints do aluno)
 - **16 views, 10 viewers** (31,3% seguidores, 68,8% não seguidores), 0 interações, **2 cliques no link (20%)**, navegação 14 (saiu 6, avançou 6, próximo story 2), 0 visitas ao perfil.
 - Na mesma idade o ritmo é parecido com o do story-1811 (16 viewers e 4 toques com ~16h40). Os não seguidores seguem vindo dos Reels; o nora71 (20h) levou 0 ao perfil no Insta até 00h14, então quem chega é do ini1811.
+
+## 20/11/2026 00h23: o Tracker de 18/11 e de 19/11 fechados (prints do aluno, atualizados às 00h23)
+- **18/11 fechado (igual ao de 19/11 11h38):** 3 cliques, 3 abriram o quiz, 2 começaram, 2 terminaram, 0 checkout; os 3 do Facebook.
+- **19/11 fechado: 8 cliques, 8 abriram o quiz, 1 começou, 1 terminou, 0 checkout, 0 venda; os 8 do Instagram** (Face: 0). Às 18h15 eram 3: entraram 5 depois, todos do Insta (o story-1811 fechou com 8 toques e o repostado tinha 2 com ~6 h).
+- **O que diz:** **o melhor dia do Insta no Tracker do Manifestation** (os dias anteriores com Insta: 0 a 1 clique), puxado pelo ini1811 (21 visitas ao perfil) e pelo story. **Mas a qualidade é baixa: só 1 dos 8 começou o quiz (12,5%)**, contra 2 de 3 do Face em 18/11 e ~19 quizzes terminados em ~41 cliques no histórico (~46%). O curto sem fala traz clique de quem não quer a leitura (a Índia em 38,6% no curto; o público mais novo). **Para a decisão do curto no Insta:** ele resolve o volume de cliques, não a intenção; a régua que vale é o quiz começado e o checkout.
+- **No total do Manifestation (27/10 a 19/11 fechado): ~49 cliques reais, ~20 terminaram o quiz, 0 checkout.**
