@@ -907,7 +907,12 @@ Conferido na planilha inteira (do nora33 ao nora69): **a divisão não é curto 
   - **O mesmo corpo ~5h20 depois não travou no Face.** O nora72-FACE ficou igual ao nora71-FACE (319 contra 323), com tempo médio maior (10 s contra 7 s). A regra "nunca -FACE do mesmo corpo no mesmo dia" (10/11: o nora50 com 23 views) não se repetiu aqui, com o hook e o cenário trocados. É 1 caso só: a regra segue até mais repetições, e este resultado fica anotado contra ela.
   - **A copy leve no Face está no mesmo patamar da copy da claire_mayaus:** 319 e 323 contra 326 do nora69-FACE e 213 do nora70-FACE. Os 3 s do nora71-FACE e do nora72-FACE (46,7% e 47,6%) ficam acima dos do nora69-FACE e do nora70-FACE (43%). Entre os falados do Face com 100+ views, os maiores são o nora34 (54,8%), o nora55 (53,9%) e o nora48 (51,4%).
   - **Os dois param entre ~240 e ~320,** a faixa que a régua do Face lê como gancho.
-- **Falta:** os Insights do post do nora71-FACE e do nora72-FACE (os cliques no link), o Insta, o story e o Tracker de 20/11.
+- **Os Insights do post (~17h20):**
+  - **nora72-FACE** (postado às 01h16): 22% assistido em média, **13,2% aos 20 s**, 45+ 71,6%, 35-44 19,8%.
+  - **nora71-FACE** (postado às 19h54): 15% assistido, **8,3% aos 20 s**, 45+ 78,1%, 35-44 15,1%.
+  - **Os dois:** a maior saída aos 0:02; 100% e 99,7% de não seguidores; 0 seguidores novos; nos cliques no link, "Insights não disponíveis". No ini1811-FACE os 2 cliques apareceram com ~15 h; aqui, com 16 e 21 h, nada. Pode ser 0 clique: o Tracker de 20/11 (FACE) confirma.
+  - **Com a mesma fala, o hook da canela no carro segurou mais que o do alçapão no Face:** 10 s contra 7 s, e 13,2% contra 8,3% aos 20 s. O carro também foi o cenário do nora69-FACE (+1,9x, 10 s). No Face, o carro é o candidato a repetir, pelo processo do Baran. A régua da R55 (20% aos 20 s = corpo aprovado) ainda não foi atingida.
+- **Falta:** o Insta, o story e o Tracker de 20/11.
 
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
