@@ -241,7 +241,7 @@ FIX_INSTA = {
 }
 QUANDO = {
     'nora71': ('Insta às 19h30 de hoje (19/11), o nora71-final; Face às 19h30, o nora71-final-FACE (com a variação do Face).'),
-    'nora72': ('Insta e Face agora, ~01h05 de 20/11 (decisão do aluno às 01h04): o nora72-final no Insta e o nora72-final-FACE no Face. No Face é teste: o mesmo corpo do nora71-FACE, ~5 h depois.'),
+    'nora72': ('Insta e Face, postados às 01h20 de 20/11 (decisão do aluno às 01h04): o nora72-final no Insta e o nora72-final-FACE no Face. No Face é teste: o mesmo corpo do nora71-FACE, ~5 h depois.'),
 }
 HIPOTESE = {
     'nora71': 'Hipótese: a fala que qualifica (os 3 sinais) leva gente ao perfil e ao story (o nora69 e o nora70 tiveram 0 visitas), com o hook que segurou 26 s no Insta.',
