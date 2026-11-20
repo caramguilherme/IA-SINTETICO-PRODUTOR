@@ -1,6 +1,6 @@
 # LegacyTalk de 19/11/2026, 21h ("Direto da Tailândia": Diogo Kobata, Gustavo Alves, Luigi e Victor, e o convidado Baran/"Barão", R$ 30 mil por mês)
 
-**Fonte:** a gravação no Zoom, lida inteira (597 falas, 01:06:13) em 20/11 ~00h35: `TRANSCRICOES/2026-11-19-legacytalk-tailandia.md`. O conteúdo começa em 00:16:10 (até ali é conversa de viagem).
+**Fonte:** a gravação no Zoom, lida inteira (597 falas, 01:06:13) em 20/11 ~00h33: `TRANSCRICOES/2026-11-19-legacytalk-tailandia.md`. O conteúdo começa em 00:16:10 (até ali é conversa de viagem).
 
 ## O que importa, com o minuto
 **Risely (00:16:10 a 00:19:48, Diogo e Gustavo)**

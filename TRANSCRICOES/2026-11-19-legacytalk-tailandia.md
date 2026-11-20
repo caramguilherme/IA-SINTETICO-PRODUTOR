@@ -1,6 +1,6 @@
 # LegacyTalk de 19/11/2026, 21h ("LEGACYTALK HOJE, 21H. DIRETO DA TAILÂNDIA."), página da gravação no Zoom, colada pelo aluno em 20/11/2026 ~00h29
 
-**O que é:** a gravação no Zoom (DIOGO KOBATA, 19 nov. 2026 09:13 da tarde, São Paulo; 01:06:13). O aluno colou o resumo, os capítulos, as "próximas etapas" e os 10 primeiros minutos em 20/11 ~00h29 e depois mandou o link; **a transcrição inteira (597 falas) foi tirada da própria página do Zoom em 20/11 ~00h35** (o `transcriptList` do player; o host us06web.zoom.us foi liberado na rede com o ok do aluno). Texto como veio, sem correção (o resumo do Zoom erra nomes: "aplicativo Apple" = Appyon, "Rise Ali" = Risely, "Scope"/"Scooby" = Scoped, "Epium" = provavelmente Appyon, "Baran" = o convidado, nome não conferido).
+**O que é:** a gravação no Zoom (DIOGO KOBATA, 19 nov. 2026 09:13 da tarde, São Paulo; 01:06:13). O aluno colou o resumo, os capítulos, as "próximas etapas" e os 10 primeiros minutos em 20/11 ~00h29 e depois mandou o link; **a transcrição inteira (597 falas) foi tirada da própria página do Zoom em 20/11 ~00h32** (o `transcriptList` do player; o host us06web.zoom.us foi liberado na rede com o ok do aluno). Texto como veio, sem correção (o resumo do Zoom erra nomes: "aplicativo Apple" = Appyon, "Rise Ali" = Risely, "Scope"/"Scooby" = Scoped, "Epium" = provavelmente Appyon, "Baran" = o convidado, nome não conferido).
 
 ---
 
