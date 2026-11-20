@@ -904,7 +904,7 @@ Conferido na planilha inteira (do nora33 ao nora69): **a divisão não é curto 
 - **nora70-FACE** (19/11 01h50, ~39h): 213 views, −0,5x, 6 s, 43,2% nos 3 s, 4 de 1 min. O ini1811-FACE (289), o nora69-FACE (326, +1,9x), a variação do nora65 (218) e o nora68-FACE (259) não mudaram.
 - **O story do Face de 19/11 18h15:** 5 views (a linha sem distribuição nem tempo, entre o nora70-FACE e o nora71-FACE).
 - **O que mostra:**
-  - **O mesmo corpo ~5h20 depois não travou no Face.** O nora72-FACE ficou igual ao nora71-FACE (319 contra 323), com tempo médio maior (10 s contra 7 s). A regra "nunca -FACE do mesmo corpo no mesmo dia" (10/11: o nora50 com 23 views) não se repetiu aqui, com o hook e o cenário trocados. Fica como 1 caso: a regra segue, e o teste do aluno a favor dela é anotado.
+  - **O mesmo corpo ~5h20 depois não travou no Face.** O nora72-FACE ficou igual ao nora71-FACE (319 contra 323), com tempo médio maior (10 s contra 7 s). A regra "nunca -FACE do mesmo corpo no mesmo dia" (10/11: o nora50 com 23 views) não se repetiu aqui, com o hook e o cenário trocados. É 1 caso só: a regra segue até mais repetições, e este resultado fica anotado contra ela.
   - **A copy leve no Face está no mesmo patamar da copy da claire_mayaus:** 319 e 323 contra 326 do nora69-FACE e 213 do nora70-FACE. Os 3 s do nora71-FACE e do nora72-FACE (46,7% e 47,6%) ficam acima dos do nora69-FACE e do nora70-FACE (43%). Entre os falados do Face com 100+ views, os maiores são o nora34 (54,8%), o nora55 (53,9%) e o nora48 (51,4%).
   - **Os dois param entre ~240 e ~320,** a faixa que a régua do Face lê como gancho.
 - **Falta:** os Insights do post do nora71-FACE e do nora72-FACE (os cliques no link), o Insta, o story e o Tracker de 20/11.
