@@ -921,7 +921,12 @@ Conferido na planilha inteira (do nora33 ao nora69): **a divisão não é curto 
 - **O story do Insta de 19/11 18h15, com ~23h15 (17h28):** 29 views, **22 viewers** (62,1% seguidores, 37,9% não seguidores), 0 interações, **3 cliques no link** (13,6% dos viewers), navegação 25 (avançou 11, saiu 9, próximo story 5), 0 visitas ao perfil.
   - **De ~6 h para ~23 h:** os viewers foram de 10 para 22 e os cliques de 2 para 3. Os não seguidores caíram de 68,8% para 37,9%. Depois da 1ª noite, quem abriu o story foram quase só os seguidores: os Reels de 20/11 mandaram pouca gente nova (o nora72 levou 1 visita ao perfil).
   - **Contra o story-1811** (28 viewers e 7 cliques nas 24 h): menos viewers e menos cliques.
-- **Falta:** o Tracker de 20/11.
+- **O Tracker (17h28):** 19/11 fechado igual ao registrado (8 cliques, 8 viram o quiz, 1 começou, 1 terminou, 0 checkout; tudo do Insta). **20/11 até 17h28: 0 clique.** O FACE não aparece nos dois dias: **o nora71-FACE e o nora72-FACE deram 0 clique** (os "Insights não disponíveis" eram 0).
+- **Fechamento do teste da copy (nora69 a nora72):**
+  - **No Insta,** a copy da claire_mayaus e a copy leve dos 3 sinais ficaram iguais: ~120 a ~150 views, colados no reel típico, e 1 visita ao perfil em 4 vídeos. A fala não destravou a entrega nem a ida ao perfil. O que mudou foi o cenário: o carro segurou mais (13 s, 58,9% nos 3 s, 46% de EUA).
+  - **No Face,** os dois ficaram entre ~320 e ~330, com 0 clique.
+  - **Os cliques dos últimos dias vieram do curto das iniciais e do story,** não dos falados.
+  - **A pergunta que falta responder: é a copy ou é a conta?** O teste mais limpo é o campeão de volta (o tsunami + um Take 1 novo de signos + o corpo A limpo do nora48, que fazia 1,6 mil a 2 mil views em 06 a 10/11). Se fizer ~150, a trava é a conta; se passar de 500, é a copy.
 
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
