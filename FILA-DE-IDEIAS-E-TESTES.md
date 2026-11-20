@@ -255,7 +255,7 @@
    - **Medida:** visitas ao perfil e quiz começado contra o nora71 e o nora72.
 2. **O Take 1 dos signos, leve** (v5 e v7): "Two zodiac signs are about to have their luckiest year in twenty twenty-seven…", com a validação na 2ª frase e os signos ditos antes do CTA (como o v7; o v5 nunca diz quais são, um laço que não fecha, P42).
    - Base: o `BANCO-DE-HEADLINES.md` nº 27.
-   - **Já rodou só sem fala:** as fitas de outubro (nora41 e nora45: 3,6 mil e 3,7 mil views, com Índia, 83% de 45+ e 0 checkout).
+   - **Já rodou falado:** os nossos 3 melhores falados abriram com os signos (nora48 a nora50, 06 a 10/11: 1.638 a 2.043 views, 10 a 19 follows), com o corpo A limpo (black soft) e antes do teto de 11/11. Sem fala: as fitas de outubro (nora41 e nora45: 3,6 mil e 3,7 mil views, com Índia, 83% de 45+ e 0 checkout). **Correção de 20/11 ~10h20:** a 1ª versão dizia que só tinha rodado sem fala.
    - **Medida:** a % de Índia e de 45+ e as visitas ao perfil.
 3. **O ritual dito no Take 1, com o produto na mão desde o 1º quadro** (v3; o mesmo roteiro em inglês fez 1,8 mi, o nº 3 do Scoped, seção 50): "Put cinnamon in a glass of water before you leave the house. I know it sounds ridiculous, but you'll thank me for the rest of your life."
    - A Nora fala segurando o pote e a taça, sem pré-gancho mudo (o aluno, 17/11: "dela fazendo algo e falando").
@@ -268,6 +268,13 @@
    - Junta com a "ponte do mecanismo" do 52.2 (b).
    - Entra quando um falado der views sem clique.
 6. **O "Pick a card, 1 or 2"** (v1): 2 cartas viradas para baixo estendidas para a lente. Fica dentro do teste A/B das cartas (a pesquisa oficial contra o Gustavo, 03/11). Por último e com o ok do aluno; o plano do Love Reading (06/11) diz que o "pick a card" genérico atrai quem quer leitura grátis.
+7. **[Contradição vira teste; decisão do aluno] O black soft contra a copy leve** (o aluno, 20/11 ~10h15: "se a pessoa ta rodando o funil espanhol, ela ja vendeu bastante no funil americano. E na teoria a copy ta validada"; o espanhol só abre para quem passou de 300 vendas, LegacyTalk de 19/11).
+   - **De um lado:** o Gustavo (LegacyTalk de 19/11, 00:59:03: o "blackzinho mais soft… é normal") e os nossos números (os 3 melhores falados, nora48 a nora50, eram o corpo A limpo, com "Don't tell anyone what's about to happen").
+   - **Do outro:** a P42, a aula 65 e o Diogo (00:56:47: a copy light é "regra").
+   - **O teste:** a fala dos 3 sinais com 1 frase soft no Take 1 ou no T2 (ex.: "Don't tell anyone what's about to happen"), contra a mesma fala sem ela (o nora71 e o nora72).
+   - **Sem o exagerado:** a energia que vira contra, os minutos, os selos, a inveja, o "amanhã às 11h", o "antes que desapareça". Isso fica fora, porque a copy black sobe o chargeback e pode derrubar o funil para todos (LegacyTalk #10, 0:48:22; o espanhol caiu em outubro por chargeback, Kobata 11/11), e o Baran tem "conta que tá levando restrição praticamente toda semana" com ela (00:56:09).
+   - **Quando:** se o nora71 e o nora72 (copy leve) também derem 0 visitas.
+   - **Medida:** visitas ao perfil e quiz começado.
 - **Para a 2ª frase (R48), mais uma opção** (v5 e v7): "You've spent years doing the hard work behind the scenes for everyone, without getting the recognition you deserve."
 - **Fora:**
   - o corpo A negativo dos v1 a v4 (o nora69 e o nora70 já testaram: 0 visitas, 0 clique);

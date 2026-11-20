@@ -50,7 +50,11 @@
 - **O mesmo roteiro com outra roupa** (v5 → v7): o processo do Baran, que está na `FILA` como o próximo passo de método.
 
 ## O que não bate (e por quê)
-- **O corpo A negativo** (v1, v2 e v3 inteiros; v4 pela metade):
+- **Ponto do aluno (20/11 ~10h15): o funil em espanhol só é liberado para quem passou de 300 vendas no total** (LegacyTalk de 19/11, `TRANSCRICOES/2026-11-19-legacytalk-tailandia.md`, linhas 406 a 412: "oitenta pessoas… que passaram das trezentos vendas"). Então quem posta o v2 e o v3 já vendeu muito, e o corpo A vende para elas. O que isso não diz: que ele venda na Nora. "Validada" é com o volume delas (o Diogo, 00:56:47: a black pega milhões de views e converte bem menos), e a Nora está travada na entrega (110 a 220 views por falado desde 11/11).
+- **O corpo A tem 2 graus** (o Gustavo, 00:59:03: "tem aquele black soft e o black exagerado… um blackzinho mais soft… é normal"):
+  - **o soft** (o corpo A limpo, com "Don't tell anyone what's about to happen" e o prazo do portal) foi o dos nossos 3 melhores falados (nora48 a nora50); vira teste A/B contra a copy leve (`FILA`, item 7);
+  - **o exagerado** (abaixo) fica fora.
+- **O corpo A exagerado** (v1, v2 e v3 inteiros; v4 pela metade):
   - as frases: "keep your mouth shut", "final warning", "this energy could turn against you", "in the next seven minutes", os selos, "tomorrow at 11am", a inveja, "before they disappear", "it won't wait for you forever", "a lot of people cry";
   - por que fica fora: a P42; a aula 65 e os slides oficiais (dá view sem clique e chama atenção negativa da plataforma); a LegacyTalk de 19/11 (o Diogo: a copy light é "regra"; a black pega mais view e converte bem menos);
   - **e já testamos:** o nora69 e o nora70 (o mesmo roteiro, da claire_mayaus) fizeram 121 e 126 views no Insta, 0 visitas ao perfil e 0 clique.
@@ -75,7 +79,7 @@
 | O corpo A negativo (v1 a v4) | nora69 e nora70 (17 e 19/11, o roteiro da claire_mayaus) | Insta 121 e 126 views, 0 visitas, 0 clique; Face +3,5x com ~3 h no nora69-FACE, mas 0 clique |
 | A carta na mão desde o 1º quadro (v1) | nora64 e nora65 (14 e 15/11) | sem clique; a abertura de frente segurou 42% a 54% nos 3 s no Face |
 | As iniciais (v4) | **ini1811** (18/11), o curto sem fala "Pause on your initial" | Insta: 1.693 views, **21 visitas ao perfil**, 4 follows, mas 38,6% de Índia e só 1 de 8 cliques começou o quiz. Face: 289 views e **2 cliques no link**. **A versão falada nunca rodou** (está na `FILA` desde o viral 52.2, 16/11). |
-| Os signos (v5 e v7) | nora41 e nora45 (as fitas de outubro, sem fala, "Taurus, Virgo, Capricorn: keep your mouth shut. November is your luckiest month") | 3.589 e 3.742 views, as maiores do Insta, mas com Índia (31,7% no nora41), 83% de 45+ e 0 checkout. **A versão falada e leve nunca rodou.** |
+| Os signos (v5 e v7) | **falados: os nossos 3 melhores falados abriram com os signos no Take 1** (nora48 a nora50, 06 a 10/11: "Aries, Leo or Sagittarius: if…", com o corpo A limpo) · sem fala: as fitas de outubro (nora41 e nora45) | **nora48 a nora50: 1.638 a 2.043 views, 10 a 19 follows, EUA 18,7% a 38,9%** (antes do teto do Insta de 11/11) · fitas: 3.589 e 3.742 views, com Índia, 83% de 45+ e 0 checkout. **Correção (20/11 ~10h20): na 1ª versão desta tabela eu escrevi que os signos falados nunca tinham rodado; rodaram, no nora48 a nora50.** |
 | A canela (v3) | o pré-gancho mudo de 13 e 14/11 (9 views no Face); a canela no carro do nora69 e do nora72 | o mudo morreu no Face; o do carro fez +3,5x com ~3 h no nora69-FACE. **A frase do ritual dita no Take 1, com o pote na mão, nunca rodou.** |
 | O podcast (v4, v5 e v7) | nora46 (31/10, estúdio com microfone) | uma vez só, com o corpo antigo; na `FILA` como cenário de corpo novo |
 | A caixa só no gancho, a legenda simples e a seta | do nora71 em diante (19/11) | em leitura (o nora71 faz 24 h às ~20h de hoje) |

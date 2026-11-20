@@ -972,3 +972,4 @@ Do 1º ao 15º (views, duração): nº 1 dança de casal (5,6 mi, 41 s; fora do 
     - (5) o motivo do CTA com a "invisible barrier";
     - (6) o "Pick a card, 1 or 2", dentro do teste A/B das cartas, por último.
   - A @takedanaomi_ é o processo do Baran no nicho: o mesmo cenário (podcast), outra roupa, o mesmo roteiro.
+  - **Ponto do aluno (20/11 ~10h15):** o funil em espanhol só abre para quem passou de 300 vendas (LegacyTalk de 19/11), então o corpo A do v2 e do v3 vende para elas. Fica: o exagerado fora (o nora69 e o nora70 testaram; chargeback) e o **black soft** (o corpo A limpo dos nossos 3 melhores falados, nora48 a nora50, que também abriam com os signos) vira o item 7 da `FILA`, contra a copy leve.
