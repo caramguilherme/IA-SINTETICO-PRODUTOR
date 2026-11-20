@@ -988,3 +988,9 @@ Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, co
 - **3 cliques, 3 abriram o quiz, 1 começou, 1 terminou, 0 checkout, 0 venda; os 3 do Instagram** (Face: 0 hoje). Às 11h38 era 1 clique do Insta, que não tinha começado o quiz: entraram 2 cliques e 1 quiz terminado à tarde.
 - **De onde vieram:** o story-1811 do Insta (7 toques no link às ~18h10; 3 de 7 carregaram a página) e, por trás dele, as 12 visitas ao perfil do ini1811 (o curto sem fala). O nora70 levou 0 ao perfil.
 - **No total do Manifestation (27/10 a 19/11 18h15): ~44 cliques reais, ~20 terminaram o quiz, 0 checkout.**
+
+## 20/11/2026 00h09: a Biblioteca do Face (o nora71-FACE com ~4 h; texto colado pelo aluno, sem os nomes: a ordem é a de postagem)
+- **O aluno postou o nora71 às 20h00 de 19/11** (Insta e Face; meia hora depois da grade). A 1ª linha (235 views) é o nora71-FACE; a 2ª (3 views) é o story-1811 repostado; o resto bate com a leitura de 19/11 10h20 na mesma ordem.
+- **nora71-FACE com ~4h09: 235 views, 213 visualizadores, 48,9% nos 3 s (115), 8 s de tempo médio num vídeo de 44,5 s, distribuição +0,1x**, 4 engajamentos, 1 comentário (o da Página), 0 seguidores.
+- **Contra o nora70-FACE (o mesmo hook do alçapão, a copy da claire_mayaus):** 202 views com ~8h32, 43,1% nos 3 s, 7 s, −0,8x. **Com o mesmo hook, a fala dos 3 sinais segurou mais nos 3 s (48,9% × 43,1%) e saiu com distribuição positiva na metade do tempo.** Contra o nora69-FACE (a canela, a copy da claire_mayaus), que tinha 240 e +3,5x com ~3 h: atrás, mas o nora69 parou depois da 1ª hora. Régua com ~24 h (~20h de 20/11); o que decide são os cliques no link (Insights do post) e no Tracker.
+- **O resto:** nora70-FACE 206 (−0,8x), ini1811-FACE 289 (−0,3x), a variação do nora65 218 (−0,5x); os demais iguais.
