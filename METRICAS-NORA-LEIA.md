@@ -1009,3 +1009,7 @@ Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, co
 - **54 views, 31 viewers** (37% seguidores, 63% não seguidores), 0 interações, **8 cliques no link**, navegação 39 (saiu 18, avançou 16, próximo story 5), 2 visitas ao perfil, 0 follows.
 - **Taxa de toque: 8 de 31 viewers = 25,8%**, na faixa dos stories da Nora (19% a 30%) e perto da régua do Clone R72 (~30%). Às ~18h10 eram 7 de 28: o último pedaço do dia trouxe 3 viewers e 1 toque.
 - **O que diz:** o story converte 1 em cada 4 que chegam; o que falta é gente chegando (31 viewers em 24 h). Os não seguidores (63%) vieram dos Reels pela foto do perfil, quase todos do ini1811 (21 visitas ao perfil).
+
+## 20/11/2026 00h23: o story do Insta repostado em 19/11 18h15, com ~6 h (prints do aluno)
+- **16 views, 10 viewers** (31,3% seguidores, 68,8% não seguidores), 0 interações, **2 cliques no link (20%)**, navegação 14 (saiu 6, avançou 6, próximo story 2), 0 visitas ao perfil.
+- Na mesma idade o ritmo é parecido com o do story-1811 (16 viewers e 4 toques com ~16h40). Os não seguidores seguem vindo dos Reels; o nora71 (20h) levou 0 ao perfil no Insta até 00h14, então quem chega é do ini1811.
