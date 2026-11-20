@@ -918,7 +918,10 @@ Conferido na planilha inteira (do nora33 ao nora69): **a divisão não é curto 
   - **Com a mesma fala, a canela no carro segurou mais que o alçapão também no Insta:** 13 s contra 5 s de tempo médio, 58,9% contra 51,4% nos 3 s, e 46,3% contra 18,8% de EUA. O carro levou 1 visita, e o alçapão 0.
   - **Na planilha:** os maiores tempos médios do Insta com 100+ views são o nora70 (25 s, num vídeo de 1:59), o C4 (24 s), o nora50 (21 s), o nora43 (20 s) e o nora48 (19 s). Os 3 s do nora72 ficam perto do nora70 (59,5%) e abaixo dos campeões nora48 a nora50 (68% a 71%).
   - **Somando os 4 falados do teste da copy** (nora69 a nora72: 532 views), **1 visita ao perfil.** As views continuam travadas no reel típico (~120 a ~150), seja qual for a copy.
-- **Falta:** o story e o Tracker de 20/11.
+- **O story do Insta de 19/11 18h15, com ~23h15 (17h28):** 29 views, **22 viewers** (62,1% seguidores, 37,9% não seguidores), 0 interações, **3 cliques no link** (13,6% dos viewers), navegação 25 (avançou 11, saiu 9, próximo story 5), 0 visitas ao perfil.
+  - **De ~6 h para ~23 h:** os viewers foram de 10 para 22 e os cliques de 2 para 3. Os não seguidores caíram de 68,8% para 37,9%. Depois da 1ª noite, quem abriu o story foram quase só os seguidores: os Reels de 20/11 mandaram pouca gente nova (o nora72 levou 1 visita ao perfil).
+  - **Contra o story-1811** (28 viewers e 7 cliques nas 24 h): menos viewers e menos cliques.
+- **Falta:** o Tracker de 20/11.
 
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
