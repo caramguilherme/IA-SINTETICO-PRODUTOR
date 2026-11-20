@@ -43,8 +43,8 @@
 ## nora74: o campeão de volta (8 takes no Muse)
 - **O campeão (06 a 10/11):** o nora48 a nora50, com 1.638 a 2.043 views e 10 a 19 follows. Era o tsunami do nora47, um Take 1 de signos e o corpo A limpo (os 7 takes do nora40 sem os vermelhos), tudo antes do teto de 11/11.
 - **Feito de novo, do zero no Muse:**
-  - **o hook:** o tsunami do nora68 (`ferramentas-painel/dia-1611/d1611-PRE-onda-HOOK.mp4`, 3,6 s, sem texto). O do nora47 não está guardado;
-  - **a fala:** na mesma praia, na d1611-PRE-onda-IMG-C (R46), sem imagem nova;
+  - **o hook:** o tsunami ORIGINAL do campeão, que o aluno mandou às ~17h45 (`ferramentas-painel/dia-2011/nora47-PRE-tsunami-inteiro-AB.mp4`, 7,85 s: a praia, ela corre para o bunker, a porta treme e a água espirra lá dentro). Na 1ª versão do painel era o do nora68. Os 2 clipes do nora68 que vieram junto estão em `ferramentas-painel/dia-1611/clipes-originais/`;
+  - **a fala:** continua dentro do bunker (R46). A imagem das falas é o último quadro do hook (`ferramentas-painel/dia-2011/d2011-bunker-IMG.jpg`, 1080×1920: a Nora com a lua e as 3 estrelinhas, a trança com anéis e o blazer de linho creme), sem imagem nova. Nos campeões, a fala ia num quarto à noite com o geodo; aqui fica no bunker, para a cena não mudar;
   - **o Take 1 novo, no molde dos campeões:** "Taurus, Virgo or Capricorn: if you've been carrying everything on your own, listen to this before the year ends." É o prazo do fim do ano (a pesquisa oficial: "o ano ainda não acabou") no lugar do "listen before 11/11", que já passou;
   - **o corpo A limpo, com o texto como era:**
     - o segredo ("Don't tell anyone what's about to happen");

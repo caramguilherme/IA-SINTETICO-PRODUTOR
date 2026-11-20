@@ -95,16 +95,18 @@ def nora73():
 # O aluno não tem mais os takes (20/11): os 8 takes são gerados de novo no Muse, com o texto do corpo A limpo como era. O tsunami é o hook do nora68
 # (d1611-PRE-onda-HOOK.mp4, que está aqui) e a fala vai na mesma praia, na d1611-PRE-onda-IMG-C (sem imagem nova). Só no Insta (os selos e o
 # "Comment 222" na fala são isca de engajamento no Face). É o teste "copy ou conta": se o campeão fizer ~150 views, a trava é a conta.
-PIN = 'a small red, white and blue enamel American flag pin (about 1.5 centimeters wide, no text)'
+# 20/11 ~17h45: o aluno mandou o hook ORIGINAL do campeão (nora47-PRE-tsunami-inteiro-AB.mp4, 7,85 s: a praia, ela corre para o bunker, a porta
+# treme e a água espirra lá dentro) e os 2 clipes do nora68. O nora74 usa o original; a fala continua DENTRO do bunker (R46), e a imagem das falas é o
+# último quadro do hook (d2011-bunker-IMG.jpg, 1080×1920; a Nora com a lua e as 3 estrelinhas, a trança com anéis, o blazer de linho creme).
 ONDA = dict(
-    nn='nora74', d='d2011', tag='onda', img='d1611-PRE-onda-IMG-C', nome='a praia depois da tempestade, de frente, o rochedo e o mar atrás',
-    roupa_cont=f'her soft cream cable-knit cardigan over a plain white top, and {PIN} pinned on the cardigan just below her collarbone',
-    quando='in the early evening right after a storm', onde='a wide sandy beach on the American coast', luz='lit by warm golden light coming through breaking storm clouds',
-    fundo='the sea, the big dark rock behind her, the wet sand and, far away on the sand, a white wooden lifeguard tower with a small American flag on top',
-    visual='warm golden light on a beach right after a storm', som='real ocean ambient sound, soft waves and a light wind',
-    segura=('both of her hands stay down, relaxed and out of the frame below the bottom edge the whole time; the sea behind her moves only with small gentle waves, '
-            'no big wave and no spray during the takes'),
-    livre_obj='the sea, the big dark rock and the lifeguard tower with the small flag behind her',
+    nn='nora74', d='d2011', tag='bunker', img='d2011-bunker-IMG', nome='dentro do bunker, de frente para a porta de aço, calma',
+    roupa_cont='her cream-white linen blazer over a plain white V-neck blouse',
+    quando='right after the wave has passed', onde='a small concrete bunker by the beach', luz='lit by the warm light of a caged wall lamp on the left',
+    fundo='the riveted dark-gray steel door behind her, the bare concrete walls and ceiling, and the glowing caged wall lamp on the left',
+    visual='warm light from a caged wall lamp inside a concrete bunker', som='quiet room tone inside a concrete bunker with the faint muffled sound of the ocean outside',
+    segura=('both of her hands stay down, relaxed by her sides at the bottom edge of the frame the whole time and never move; no water, spray or drip appears '
+            'during the takes'),
+    livre_obj='the riveted steel door, the concrete walls and the glowing caged wall lamp',
 )
 FALA74 = [
     "Taurus, Virgo or Capricorn: if you've been carrying everything on your own, listen to this before the year ends.",
@@ -152,7 +154,7 @@ for i in range(N74):
 
 def livre74():
     c = ONDA
-    return (f'Casual real video {c["quando"]} on {c["onde"]}, filmed from a static camera at her chest height about one meter in front of her, looking exactly like a '
+    return (f'Casual real video {c["quando"]} inside {c["onde"]}, filmed from a static camera at her chest height about one meter in front of her, looking exactly like a '
             f'real phone video, {c["luz"]}. CONTINUITY LOCKS for every take: the woman, her face, her long black wavy hair, {B.JOIAS}, {c["roupa_cont"]}, and '
             f'{c["livre_obj"]} stay exactly as in the reference image; the framing is exactly the one of the reference image, from the chest up, her face in the upper '
             f'middle of the frame; {c["segura"]}; {c["fundo"]} stay exactly where they are; natural skin texture with visible pores, slight phone grain, everything in '
@@ -168,7 +170,7 @@ def config74():
     for s in cf:
         for campo in s['campos']:
             if campo['campo'].startswith('LIVRE'):
-                campo['valor'] = 'colar o texto abaixo (a imagem é a d1611-PRE-onda-IMG-C, a mesma das falas do nora68)'
+                campo['valor'] = 'colar o texto abaixo (a imagem é a d2011-bunker-IMG, o último quadro do hook do tsunami)'
                 campo['copiar'] = livre74()
             elif campo['campo'] == 'COLE SUA COPY AQUI':
                 campo['valor'] = 'colar a fala inteira (seção “A fala e a movimentação”): é 1 colagem só, com os 8 takes'
@@ -187,19 +189,19 @@ def config74():
 def nora74():
     P = copy.deepcopy(B.pacote('PAINEL-NORA72.html'))
     P['figurino'] = ONDA['roupa_cont']
-    P['imagens_titulo'] = 'Imagem das falas (a d1611-PRE-onda-IMG-C, a do nora68)'
-    P['refs'] = ['d1611-PRE-onda-IMG-C em todos os takes']
-    P['imagens'] = [{'rotulo': 'IMAGEM 1 · d1611-PRE-onda-IMG-C', 'cena': 'já existe (a praia do nora68)', 'anexar': 'a d1611-PRE-onda-IMG-C (a mesma das falas do nora68)'}]
+    P['imagens_titulo'] = 'Imagem das falas (a d2011-bunker-IMG, o último quadro do hook)'
+    P['refs'] = ['d2011-bunker-IMG em todos os takes']
+    P['imagens'] = [{'rotulo': 'IMAGEM 1 · d2011-bunker-IMG', 'cena': 'já existe (o último quadro do hook do tsunami; eu mandei no chat)', 'anexar': 'a d2011-bunker-IMG'}]
     P['roteiro'].update({
         'id': 'nora74-CAMPEAO-ONDA-2011',
-        'titulo': 'nora74 · Insta à 0h00 (21/11) · o campeão de volta: o tsunami + Touro, Virgem e Capricórnio + o corpo A limpo',
+        'titulo': 'nora74 · Insta à 0h00 (21/11) · o campeão de volta: o tsunami original + Touro, Virgem e Capricórnio + o corpo A limpo',
         'duracao_total': 70,
         'descricao_instagram': ("Taurus, Virgo, Capricorn: if you've been carrying everything on your own, listen before the year ends. 🔮\n"
                                 'The worst is finally over. Your private reading is waiting in my story.\n'
                                 '#manifestation #taurus #virgo #capricorn #2027'),
         'descricao_face': 'Não vai ao Face: os selos e o pedido de comentário na fala são isca de engajamento lá.',
     })
-    P['videos'] = [{'rotulo': f'T{i + 1:02d}', 'cena': SUF74[i], 'duracao': 10, 'primeiro_quadro': 'IMAGEM 1 (d1611-PRE-onda-IMG-C)', 'acao': '', 'b_roll': '',
+    P['videos'] = [{'rotulo': f'T{i + 1:02d}', 'cena': SUF74[i], 'duracao': 10, 'primeiro_quadro': 'IMAGEM 1 (d2011-bunker-IMG)', 'acao': '', 'b_roll': '',
                     'fala': FALA74[i], 'movimentacao': mov74(i), 'arquivo': nome74(i)} for i in range(N74)]
     P['texto_tela'] = {'hook': 'Taurus, Virgo or Capricorn:\n[listen to this]', 'hook_comeca': 'o 1º quadro do hook', 'hook_termina': 'o fim da 1ª frase (o T01)',
                        'hook_alt': '', 'extras': []}
@@ -210,17 +212,17 @@ def nora74():
     ct['config'] = config74()
     ct['colagens'] = [{'titulo': 'nora74: a colagem única (T01 a T08)', 'fala': ' '.join(FALA74), 'movimentacao': [mov74(i) for i in range(N74)],
                      'takes': list(range(N74))}]
-    ct['conferir'] = ('Conferir em cada take: é a Nora da imagem C da praia (rosto, lua com as 3 estrelinhas, trança, brincos, colar de Vênus, o cardigã creme com o '
-                      'broche da bandeira); as mãos fora do quadro; o mar calmo atrás, sem onda grande; ela fala uma vez só e diz “two two two”. Renomeie com o nome da lista.')
+    ct['conferir'] = ('Conferir em cada take: é a Nora do último quadro do hook (rosto, lua com as 3 estrelinhas, trança com anéis, brincos, colar de Vênus, o blazer de '
+                      'linho creme); dentro do bunker, a porta de aço atrás e a luminária acesa; as mãos paradas embaixo; sem água; ela fala uma vez só e diz “two two two”. Renomeie com o nome da lista.')
     ag = copy.deepcopy(ct['agente'])
-    ag['imagem'] = 'd1611-PRE-onda-IMG-C'
-    ag['intro'] = ('No Muse, na conversa da Nora: anexe a d1611-PRE-onda-IMG-C, cole o aviso do Muse e, embaixo, o bloco “COPIAR TUDO JUNTO” da Central '
+    ag['imagem'] = 'd2011-bunker-IMG'
+    ag['intro'] = ('No Muse, na conversa da Nora: anexe a d2011-bunker-IMG, cole o aviso do Muse e, embaixo, o bloco “COPIAR TUDO JUNTO” da Central '
                    '(1 colagem: 1 mensagem).')
     ag['passos'] = [
         'Na Central: preencha como na seção da Central (o LIVRE e a movimentação são os do nora74) e cole a fala inteira. Confira: 8 takes.',
-        'No Muse, na conversa da Nora: 1 MENSAGEM só, com a d1611-PRE-onda-IMG-C + o aviso do Muse + o “COPIAR TUDO JUNTO” da Central (os 8 takes).',
+        'No Muse, na conversa da Nora: 1 MENSAGEM só, com a d2011-bunker-IMG + o aviso do Muse + o “COPIAR TUDO JUNTO” da Central (os 8 takes).',
         f'Renomeie cada take com o nome da lista (o número é a ordem na mensagem): {lista}.',
-        'Confira cada take: o mar calmo atrás (sem onda grande), as mãos fora do quadro, a lua com as 3 estrelinhas; ela fala uma vez só, sem repetir palavra, e diz '
+        'Confira cada take: dentro do bunker, a porta de aço atrás, as mãos paradas embaixo, sem água, a lua com as 3 estrelinhas; ela fala uma vez só, sem repetir palavra, e diz '
         '“two two two” no T08. Se o Muse recusar um prompt: NÃO deixe ele reescrever; mande na mesma conversa “Generate prompt X again, exactly as written.”',
         'Limite do Muse: ~15 vídeos por dia. Hoje já são 6 do nora72 (gerados depois da meia-noite) + 1 do nora73 + estes 8 = 15. Se aparecer o '
         '“video_daily_budget_exhausted”, me avise com quantos takes saíram: o resto vai amanhã e o nora74 passa para as 19h30 de 21/11.',
@@ -237,19 +239,19 @@ def nora74():
                                'Clique em Cortar e baixar e salve como nora74-cortado.']
     P['edicao_linha'] = [
         {'quando': 'A. Antes de tudo', 'texto': 'Projeto novo no CapCut com o nora74-cortado', 'como': 'É o vídeo que saiu da FusionZ. Começa direto no T01.'},
-        {'quando': 'B. O hook: NÃO põe no CapCut', 'texto': 'O tsunami (o hook do nora68) já está comigo', 'como': 'Eu emendo o hook antes do T01.'},
+        {'quando': 'B. O hook: NÃO põe no CapCut', 'texto': 'O tsunami original (o nora47-PRE-tsunami-inteiro-AB que você mandou) já está comigo', 'como': 'Eu emendo o hook antes do T01, em corte seco.'},
         {'quando': '1. Do T01 ao fim', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB', 'como': 'Começa no 1º quadro do montado.'},
         {'quando': '2. Exportar e me mandar (até ~23h30)', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
          'como': '1080×1920, nome nora74-montado (acima de 30 MB, link do Drive). Eu devolvo o nora74-final (Insta, 0h00). Não vai ao Face.'},
     ]
     P['pecas'] = {
         'titulo_decisao': 'Resumo',
-        'lista': ([{'nome': 'd1611-PRE-onda-IMG-C', 'tipo': 'imagem das falas', 'status': 'reutilizar', 'onde': 'A imagem C do nora68 (a praia depois da tempestade). Anexe ela no Muse.', 'descricao': 'A mesma do nora68.'},
-                   {'nome': 'hook do tsunami (o do nora68)', 'tipo': 'hook', 'status': 'reutilizar', 'onde': 'Já está comigo.', 'descricao': 'Eu emendo antes do T01.'}]
+        'lista': ([{'nome': 'd2011-bunker-IMG', 'tipo': 'imagem das falas', 'status': 'reutilizar', 'onde': 'O último quadro do hook do tsunami (eu mandei no chat). Anexe ela no Muse.', 'descricao': 'O último quadro do hook.'},
+                   {'nome': 'hook do tsunami original (nora47-PRE-tsunami-inteiro-AB, 7,85 s)', 'tipo': 'hook', 'status': 'reutilizar', 'onde': 'Já está comigo.', 'descricao': 'Eu emendo antes do T01, em corte seco.'}]
                   + [{'nome': nome74(i), 'tipo': 'take', 'status': 'gerar', 'descricao': f'“{FALA74[i]}”'} for i in range(N74)]),
         'decisao': [
-            '8 takes no Muse: o campeão de 06 a 10/11 (o nora48 a nora50: 1,6 mil a 2 mil views, 10 a 19 follows) feito de novo: o tsunami + Touro, Virgem e Capricórnio '
-            '+ o corpo A limpo, com o texto como era (o segredo, o Arcanjo, os selos, o 222). A fala na praia do nora68, sem imagem nova.',
+            '8 takes no Muse: o campeão de 06 a 10/11 (o nora48 a nora50: 1,6 mil a 2 mil views, 10 a 19 follows) feito de novo: o tsunami original + Touro, Virgem e '
+            'Capricórnio + o corpo A limpo, com o texto como era (o segredo, o Arcanjo, os selos, o 222). A fala continua dentro do bunker, no último quadro do hook.',
             'Insta à 0h00 (21/11); o montado até ~23h30. Não vai ao Face.',
             'Hipótese: se o campeão também fizer ~150 views, a trava é a conta (e vem a Nora sem a pintura, depois dos 40 vídeos que o nora74 fecha); se passar de 500, é a copy.',
             'Limite do Muse: hoje são ~15 vídeos (6 do nora72 depois da meia-noite + 1 do nora73 + 8). Se o Muse parar no limite, o resto vai amanhã.',
