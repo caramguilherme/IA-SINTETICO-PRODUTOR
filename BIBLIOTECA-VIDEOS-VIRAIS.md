@@ -951,3 +951,24 @@ Do 1º ao 15º (views, duração): nº 1 dança de casal (5,6 mi, 41 s; fora do 
 - **A tela:** **sem caixa do topo em 5 de 6**; **a legenda automática do Instagram** (branca, letra normal, contorno fino, a frase inteira, sem destaque); **1 ou 2 números brancos pequenos** (o vídeo inteiro no v1 e no v5; entram aos ~15 s no v2; somem na fala e voltam aos ~43 s no v6; nenhum no v4); **sem faixa de CTA, só uma seta vermelha fina** nos últimos ~10 s. Nada de Trustpilot, imagem do desejo ou bandeira.
 - **A copy:** 5 de 6 são o mesmo roteiro (o corpo A original, de 1:44 a 2:24), só mudando a data, a abertura e o cenário: ela repete o vencedor. Variações: "There is a woman lying down with her phone in her hand right now" (v4, o 1,4 milhão), a validação "I know that 2026 was not a very gentle year with you… you stayed strong, and the universe saw it all" (v4), "I'm a spiritual advisor… I had a feeling about the person who would stop and watch this" e "close your right hand" (v5).
 - **Para a Nora (decisão minha, 17/11 ~13h):** entram na `FILA-DE-IDEIAS-E-TESTES.md` o **teste do visual limpo** (a ideia do aluno de 10/11, que nunca rodou), o hook de ação comum com flash, o Take 1 da mulher deitada sem o Arcanjo, a validação do v4 na 2ª frase e o motivo do CTA do v4. Fora: "free reading", "tomorrow at 10:10", "in the next 7 minutes", a ameaça (pesquisa oficial e HONESTIDADE) e a marca d'água do Instagram (é do download).
+
+## 54. Os 7 vídeos mandados pelo aluno em 20/11/2026 ~09h45 (pasta do Drive 1BIVn8gbjQsWuLOvnbJhIgSnLs4XfPzy1; análise inteira em `referencias-virais/2026-11-20-aluno/LEIA.md`; fala inteira em `TRANSCRICOES/2026-11-20-virais-aluno-7-videos.md`)
+- **Quem:** 5 contas que vendem Appyon. A @tati.peterson (v1). A @margaret.readsme (v2) e a @avalentina.herrera (v3), as duas em espanhol. A @takedanaomi_ (v4, v5 e v7; já na lista de mineração da seção 49). A @scarlletmorgantarot (v6; a Scarllet do corpo A). Views e legenda não vieram. Vale modelar, não copiar (aviso de 22/09).
+- **A abertura:** 5 de 7 falam desde o 1º quadro (v3 a v7), 3 deles sem nenhum hook visual (o podcast). As outras duas:
+  - **v1, "Pick a card":** 2 cartas viradas para baixo, com o "1" e o "2", e depois o Ás de Ouros (5,4 s, sem corte).
+  - **v2, a gaveta escondida cheia de dólares:** 7 s em 3 cortes, com a caixa "Funciona tan rápido que da miedo 😳".
+  - Os objetos na mão: o pote de canela sobre a taça d'água (v3), o infinito desenhado no ar com um traço animado e a nota "I manifest" (v6).
+- **A tela:** caixa no topo só no hook (v2 e v6); números brancos pequenos ou nenhum; legenda simples (v2 e v3), serifada com 1 palavra em itálico (v4, v5 e v7) ou maiúscula com brilho de arco-íris (v6); seta vermelha embaixo à esquerda (v1, v2, v3 e v6); no v6, uma 2ª caixa no topo durante o CTA ("Check out the surprise in my Stories ⭐").
+- **A copy:**
+  - **o corpo A negativo:** v1, v2 e v3 inteiros, e o v4 pela metade ("cosmic receiver", 3 selos, "222");
+  - **leve:** o v5 e o v7 (os 2 signos "overlooked… doing the hard work behind the scenes for everyone, without getting the recognition"; o v7 é o v5 com outra roupa e 2027) e o v6 (o ritual interativo + afirmações de dinheiro, com o CTA que descreve o funil: "Choose three cards, answer a few questions and discover what your reading reveals about your path to abundance").
+- **Para a Nora (decisão minha, 20/11 ~10h05):**
+  - **Fora:** o corpo A negativo (o nora69 e o nora70 já testaram: 0 visitas, 0 clique), o Arcanjo, o dinheiro na tela e na promessa, o espanhol, "send this video to yourself", o pedido de comentário antes do CTA, o "AMEN", a "surpresa" no story e as legendas de arco-íris e serifada (o estilo "simples" é de 18/11).
+  - **Entram na `FILA`, em ordem, depois da leitura do nora71 e do nora72:**
+    - (1) o Take 1 falado pelas letras do nome (as iniciais são o que levou gente ao perfil nesta conta: 21 visitas no ini1811);
+    - (2) o Take 1 dos signos, leve, com a validação na 2ª frase;
+    - (3) o ritual dito no Take 1 com o pote na mão desde o 1º quadro;
+    - (4) o ritual interativo do infinito;
+    - (5) o motivo do CTA com a "invisible barrier";
+    - (6) o "Pick a card, 1 or 2", dentro do teste A/B das cartas, por último.
+  - A @takedanaomi_ é o processo do Baran no nicho: o mesmo cenário (podcast), outra roupa, o mesmo roteiro.

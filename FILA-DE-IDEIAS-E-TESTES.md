@@ -247,3 +247,35 @@
 - **A copy light é "regra"** (Diogo, 00:56:47): confirma a fala dos 3 sinais. Sem teste novo.
 - **O Scoped com 15 créditos grátis** para modelar a copy de um viral atual, adaptando com as próprias palavras (00:24:31). Decisão do aluno.
 - **Fora:** os hooks de "desconforto" do Baran (cabelo do ralo, aranha, sapo no vinho); contas extras no Scoped para ganhar crédito.
+
+## 20/11/2026 ~10h05: dos 7 virais do aluno (`referencias-virais/2026-11-20-aluno/LEIA.md`; `BIBLIOTECA-VIDEOS-VIRAIS.md`, seção 54)
+**Ordem:** depois da leitura do nora71 e do nora72 (~20h de 20/11 e ~01h20 de 21/11). Uma variável por vez: a fala dos 3 sinais, o CTA e a edição ficam fixos, e muda só o Take 1.
+1. **O Take 1 falado pelas letras do nome** (v4, @takedanaomi_; a 3ª fonte, depois do 52.2 e do ini1811): "If your name starts with A, J, M, K, C, E, S, L, R, T or H, pay close attention. Most people never notice these three signs…".
+   - **Por que é o 1º:** as iniciais são a única coisa que levou gente ao perfil nesta conta (o ini1811: 21 visitas no Insta e 2 cliques no link no Face). É o processo do Baran: repetir o que funciona nesta conta.
+   - **Medida:** visitas ao perfil e quiz começado contra o nora71 e o nora72.
+2. **O Take 1 dos signos, leve** (v5 e v7): "Two zodiac signs are about to have their luckiest year in twenty twenty-seven…", com a validação na 2ª frase e os signos ditos antes do CTA (como o v7; o v5 nunca diz quais são, um laço que não fecha, P42).
+   - Base: o `BANCO-DE-HEADLINES.md` nº 27.
+   - **Já rodou só sem fala:** as fitas de outubro (nora41 e nora45: 3,6 mil e 3,7 mil views, com Índia, 83% de 45+ e 0 checkout).
+   - **Medida:** a % de Índia e de 45+ e as visitas ao perfil.
+3. **O ritual dito no Take 1, com o produto na mão desde o 1º quadro** (v3; o mesmo roteiro em inglês fez 1,8 mi, o nº 3 do Scoped, seção 50): "Put cinnamon in a glass of water before you leave the house. I know it sounds ridiculous, but you'll thank me for the rest of your life."
+   - A Nora fala segurando o pote e a taça, sem pré-gancho mudo (o aluno, 17/11: "dela fazendo algo e falando").
+   - Depois, o corpo leve dos 3 sinais.
+4. **O ritual interativo do infinito** (v6; junta com o item da aula 21, 0:48:39, em "Formatos e pré-ganchos na fila"): "Draw an infinity symbol in the air…".
+   - O traço animado do infinito eu desenho na edição, a 0 crédito.
+   - A afirmação vai sem dinheiro: "Now repeat after me: twenty twenty-seven is opening for me."
+5. **O motivo do CTA com o mecanismo** (v4 e v7): "If you want to see what's been standing between you and what you've been working toward, tap my profile picture…".
+   - Sem o fim "a lot of people cry… it won't wait for you forever".
+   - Junta com a "ponte do mecanismo" do 52.2 (b).
+   - Entra quando um falado der views sem clique.
+6. **O "Pick a card, 1 or 2"** (v1): 2 cartas viradas para baixo estendidas para a lente. Fica dentro do teste A/B das cartas (a pesquisa oficial contra o Gustavo, 03/11). Por último e com o ok do aluno; o plano do Love Reading (06/11) diz que o "pick a card" genérico atrai quem quer leitura grátis.
+- **Para a 2ª frase (R48), mais uma opção** (v5 e v7): "You've spent years doing the hard work behind the scenes for everyone, without getting the recognition you deserve."
+- **Fora:**
+  - o corpo A negativo dos v1 a v4 (o nora69 e o nora70 já testaram: 0 visitas, 0 clique);
+  - o Arcanjo;
+  - o dinheiro na tela e na promessa (a gaveta do v2, as afirmações do v6; a promessa de dinheiro segue como teste A/B das contradições, sem data);
+  - o espanhol;
+  - "send this video to yourself";
+  - "Comment 333 if you believe" antes do CTA;
+  - o adesivo "AMEN";
+  - a "surpresa" no story (a leitura é paga);
+  - as legendas de arco-íris e serifada (o estilo "simples" é de 18/11).
