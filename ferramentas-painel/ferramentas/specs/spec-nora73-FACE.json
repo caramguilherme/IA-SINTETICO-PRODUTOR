@@ -1,0 +1,81 @@
+{
+ "entrada": "/tmp/claude-0/-workspace-IA-SINTETICO-PRODUTOR/0f1d3084-6c9c-5025-9335-535fd154c68d/scratchpad/n73/out/nora73-legenda-FACE.mp4",
+ "saida": "/tmp/claude-0/-workspace-IA-SINTETICO-PRODUTOR/0f1d3084-6c9c-5025-9335-535fd154c68d/scratchpad/n73/out/nora73-final-FACE.mp4",
+ "crf": 21,
+ "preset": "medium",
+ "estilo": "alto-contraste",
+ "itens": [
+  {
+   "tipo": "caixa",
+   "ini": 0,
+   "fim": 14.335,
+   "x": 0,
+   "y": 500,
+   "tamanho": 11,
+   "linhas": [
+    "If your name starts with",
+    "[one of these letters]"
+   ],
+   "caixa": {
+    "fundo": [
+     255,
+     255,
+     255,
+     255
+    ],
+    "texto": "#000000",
+    "destaque": "#E53935",
+    "fonte": "bold",
+    "destaque_fonte": "bold",
+    "raio": 14,
+    "sombra": null
+   }
+  },
+  {
+   "tipo": "texto",
+   "ini": 0,
+   "fim": 52.79481818181818,
+   "x": -230,
+   "y": 282,
+   "tamanho": 13,
+   "texto": "222",
+   "cor": "#FFFFFF"
+  },
+  {
+   "tipo": "texto",
+   "ini": 0,
+   "fim": 52.79481818181818,
+   "x": 230,
+   "y": 282,
+   "tamanho": 13,
+   "texto": "11:11",
+   "cor": "#FFFFFF"
+  },
+  {
+   "tipo": "caixa",
+   "ini": 47.158,
+   "fim": 52.79481818181818,
+   "x": 0,
+   "y": 470,
+   "tamanho": 10,
+   "linhas": [
+    "Your 2027 reading:",
+    "[link in the comments]"
+   ],
+   "caixa": {
+    "fundo": [
+     255,
+     255,
+     255,
+     255
+    ],
+    "texto": "#000000",
+    "destaque": "#E53935",
+    "fonte": "bold",
+    "destaque_fonte": "bold",
+    "raio": 14,
+    "sombra": null
+   }
+  }
+ ]
+}

@@ -87,15 +87,17 @@ dur_b = float(subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format
 
 # ---------- legenda (pedaços da fala, como a automática do Instagram) ----------
 def limpa(p):
-    p = p.strip('.,!?:;"')
-    return {'1111': '11:11', '11.11': '11:11'}.get(p, p)
+    q = p.strip('.,!?:;"')
+    if len(q) == 1 and q.isupper() and p.rstrip().endswith(','):  # as letras do nome (nora73): "A, J, M," ficam com a vírgula
+        return q + ','
+    return {'1111': '11:11', '11.11': '11:11', '11-11': '11:11'}.get(q, q)
 
 words = []
 for i, w in enumerate(ws):
     txt, a, b = w[0], w[1], w[2]
     if a < FIM_HOOK: continue
     if any(ca <= a and b <= cb + 0.05 for ca, cb in cj): continue  # palavra cortada
-    if words and txt[:1] in '.:' and txt[1:2].isdigit() and words[-1][0].isdigit():  # "10" ".10," -> "10:10,"
+    if words and txt[:1] in '.:-' and txt[1:2].isdigit() and words[-1][0].isdigit():  # "10" ".10," -> "10:10," ("11" "-11" também)
         words[-1] = [words[-1][0] + ':' + txt[1:], words[-1][1], novo(b)]; continue
     words.append([txt, novo(a), novo(b)])
 chunks, cur = [], []
