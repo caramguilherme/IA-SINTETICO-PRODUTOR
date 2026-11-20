@@ -240,8 +240,10 @@
 ## 19/11/2026 ~23h52: da 29ª leitura do Discord
 - **A prova social falada antes do CTA** (jeanl.co, 19/11 12h25, para quem tem clique e não tem venda): uma frase com uma avaliação real do Trustpilot (`PROVAS-REAIS-TRUSTPILOT.md`), sem nome do app, dita pela Nora logo antes do CTA. Contra: a tela limpa até o CTA (R50) e a fala que termina no CTA. Só prova real (HONESTIDADE). Medida: visitas ao perfil e cliques no Tracker contra a mesma fala sem a frase. Depois do teste da fala dos 3 sinais (nora71 e nora72).
 
-## 20/11/2026 ~00h30: da LegacyTalk de 19/11 (só o resumo do Zoom; `AULA-19-11-LEGACYTALK-TAILANDIA.md`)
-- **80% validado, 20% teste** (o convidado de R$ 30 mil por mês): reforça o que já está no "Processo" desta fila e no Pedro⚡. Entra quando a Nora tiver um formato que leve gente ao perfil e ao quiz.
-- **A copy "light" no lugar da "black"** (o mesmo convidado: converte mais e restringe menos a conta): confirma a fala dos 3 sinais (nora71 e nora72). Sem teste novo.
-- **O Scoped com 15 créditos grátis** para modelar a copy de um viral atual do nicho, com os "mecanismos de modelagem" da aula que o Gustavo vai gravar. Decisão do aluno.
-
+## 20/11/2026 ~00h40: da LegacyTalk de 19/11 (lida inteira; `AULA-19-11-LEGACYTALK-TAILANDIA.md`)
+- **[Para a Nora, o próximo passo de método] O processo do Baran (R$ 30 mil por mês): achar o hook e o cenário que funcionam NESTA conta e repetir com variações** (00:40:22: "cada conta, cada avatar, combina mais com o hook e com o cenário específico… mudar algum detalhe do cenário, mudar roupa… sempre na mesma ideia… posso postar dez vezes aquele hook que as dez vão viralizar"): 8 de 10 vídeos no que funciona, 2 de teste (00:43:49). Candidatos da Nora: no Insta, o curto das iniciais (o único que leva gente ao perfil: 21 visitas) e o hook do alçapão (o que mais segura); no Face, a canela no carro (+2,1x) e o tsunami (o nora55). Medida: visitas ao perfil e quiz começado no Tracker.
+- **Mineração com o IG Sorter** (extensão do navegador; os últimos 7 dias ordenados por views; o vídeo fora da curva de um perfil pequeno: 01:01:37 e 01:02:29). Para o aluno garimpar virais do nicho.
+- **"Pouco view = hook; muito view e pouca conversão = CTA ou corpo"** (Diogo, 00:24:31): a régua que já usamos, agora com fonte.
+- **A copy light é "regra"** (Diogo, 00:56:47): confirma a fala dos 3 sinais. Sem teste novo.
+- **O Scoped com 15 créditos grátis** para modelar a copy de um viral atual, adaptando com as próprias palavras (00:24:31). Decisão do aluno.
+- **Fora:** os hooks de "desconforto" do Baran (cabelo do ralo, aranha, sapo no vinho); contas extras no Scoped para ganhar crédito.
