@@ -913,7 +913,8 @@ Conferido na planilha inteira (do nora33 ao nora69): **a divisão não é curto 
   - **Os dois:** a maior saída aos 0:02; 100% e 99,7% de não seguidores; 0 seguidores novos; nos cliques no link, "Insights não disponíveis". No ini1811-FACE os 2 cliques apareceram com ~15 h; aqui, com 16 e 21 h, nada. Pode ser 0 clique: o Tracker de 20/11 (FACE) confirma.
   - **Com a mesma fala, o hook da canela no carro segurou mais que o do alçapão no Face:** 10 s contra 7 s, e 13,2% contra 8,3% aos 20 s. O carro também foi o cenário do nora69-FACE (+1,9x, 10 s). No Face, o carro é o candidato a repetir, pelo processo do Baran. A régua da R55 (20% aos 20 s = corpo aprovado) ainda não foi atingida.
 - **ini1811 no Insta com ~46 h (17h23):** 1.705 views, 967 viewers, 7 s, skip 48,0%, **21 visitas ao perfil e 4 follows, os mesmos de 20/11 00h19**, 26 comentários, 3 salvos, 1 compartilhamento, 1 repost, Índia 38,7% e EUA 15,4%. As views pararam em ~1,7 mil desde 19/11. As 21 visitas vieram no 1º dia.
-- **Falta:** o nora71 e o nora72 no Insta, o story e o Tracker de 20/11.
+- **nora71 no Insta com ~21h30 (17h27):** 149 views, 140 viewers, 5 s de tempo médio, skip 48,6% (51,4% nos 3 s), **0 visitas ao perfil, 0 follows**, 1 comentário, 0 curtidas; EUA 18,8%, Reino Unido 14,1%, Alemanha 7,4%, Turquia 6,0%, Canadá 6,0% (sem Índia no top 5); 45+ 42,3%, 35-44 36,2%. A curva cai para ~50% aos ~6 s e ~25% aos ~10 s; as views acompanham o reel típico. **A copy leve também teve 0 visitas no Insta,** como o nora69 (121) e o nora70 (126) com a copy da claire_mayaus. O público mudou (menos 45+, menos EUA), mas ninguém foi ao perfil.
+- **Falta:** o nora72 no Insta, o story e o Tracker de 20/11.
 
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
