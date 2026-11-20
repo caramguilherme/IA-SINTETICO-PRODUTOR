@@ -4,7 +4,7 @@
 
 **Painéis:** nora73 https://claude.ai/artifact/WKRcwRUG8QHHJ6hV9CsxrR · nora74 https://claude.ai/artifact/83EVxnHUkzisGhB59nrSts (gerador: `ferramentas-painel/dia-2011/build_dia_2011.py`).
 
-## Leitura obrigatória (registro, 20/11 ~09h50 a ~17h50)
+## Leitura obrigatória (registro, 20/11 ~09h50 a ~17h40)
 - **Lidos inteiros hoje:**
   - `MATERIAIS-MANIFESTATION-OFICIAL/PESQUISA-TAROT-MANIFESTATION.md` (a pesquisa oficial);
   - `REGRAS-DO-AGENTE.md` (P1 a P47);
