@@ -912,7 +912,7 @@ Conferido na planilha inteira (do nora33 ao nora69): **a divisão não é curto 
   - **nora71-FACE** (postado às 19h54): 15% assistido, **8,3% aos 20 s**, 45+ 78,1%, 35-44 15,1%.
   - **Os dois:** a maior saída aos 0:02; 100% e 99,7% de não seguidores; 0 seguidores novos; nos cliques no link, "Insights não disponíveis". No ini1811-FACE os 2 cliques apareceram com ~15 h; aqui, com 16 e 21 h, nada. Pode ser 0 clique: o Tracker de 20/11 (FACE) confirma.
   - **Com a mesma fala, o hook da canela no carro segurou mais que o do alçapão no Face:** 10 s contra 7 s, e 13,2% contra 8,3% aos 20 s. O carro também foi o cenário do nora69-FACE (+1,9x, 10 s). No Face, o carro é o candidato a repetir, pelo processo do Baran. A régua da R55 (20% aos 20 s = corpo aprovado) ainda não foi atingida.
-- **ini1811 no Insta com ~46 h (17h24):** 1.705 views, 967 viewers, 7 s, skip 48,0%, **21 visitas ao perfil e 4 follows, os mesmos de 20/11 00h19**, 26 comentários, 3 salvos, 1 compartilhamento, 1 repost, Índia 38,7% e EUA 15,4%. As views pararam em ~1,7 mil desde 19/11. As 21 visitas vieram no 1º dia.
+- **ini1811 no Insta com ~46 h (17h23):** 1.705 views, 967 viewers, 7 s, skip 48,0%, **21 visitas ao perfil e 4 follows, os mesmos de 20/11 00h19**, 26 comentários, 3 salvos, 1 compartilhamento, 1 repost, Índia 38,7% e EUA 15,4%. As views pararam em ~1,7 mil desde 19/11. As 21 visitas vieram no 1º dia.
 - **Falta:** o nora71 e o nora72 no Insta, o story e o Tracker de 20/11.
 
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
