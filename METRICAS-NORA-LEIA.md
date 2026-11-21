@@ -955,6 +955,26 @@ Conferido na planilha inteira (do nora33 ao nora69): **a divisão não é curto 
 - **O que muda:** a variação só de edição sai das peças do Face (`CLAUDE.md`, seção 2). Toda peça do Face precisa de uma parte gerada nova, um Take 1 ou uma fala.
 - **O post fica no ar.** Nunca apagar post (aula 35; o caso da Liz, que caiu para 3 a 5 views, `PLANO-MVM`).
 
+## 21/11/2026 12h25: o horário explica as views baixas do Face? (pergunta do aluno)
+Base: os 51 posts do Face de 26/10 a 21/11 (antes de 26/10 a Página ainda não entregava: quase tudo entre 6 e 90 views, em qualquer horário). Cada um foi contado na última leitura da planilha.
+- **Por faixa de horário (todos os posts / mediana de views / os abaixo de 100):**
+  - Manhã, 08h às 12h: 4 posts, mediana 178. Abaixo de 100: o nora69-VAR2111 (4). Na mesma faixa está o recorde, o nora55 (10h20, 4.243).
+  - Tarde, 12h às 18h: 13 posts, mediana 161. Abaixo de 100: o nora36-VEL (26), o nora37 (6), o slide1211 (10), o tsu1611 (10) e o nora61-VAR2 (15).
+  - Noite, 18h às 21h: 14 posts, mediana 242. Abaixo de 100: o nora46 (66) e o loop nora64 (35).
+  - Noite, 21h às 00h: 9 posts, mediana 223. Abaixo de 100: o nora42 (96) e o nora52 (24).
+  - Madrugada, 00h às 03h: 11 posts, mediana 186. Abaixo de 100: o nora50 (28), o nora54 (43), o nora63 (17) e o nora66 (26).
+- **Só os falados novos:** tarde 196, 18h às 21h 243, 21h às 00h 199 e madrugada 186 de mediana. Na manhã há só 2 (106 e 4.243).
+- **Conclusão: o horário não explica as views baixas.**
+  - Toda faixa tem post de 200 a 330 views e post abaixo de 50.
+  - A faixa das 18h às 21h tem a mediana um pouco maior (242), mas com 6 a 14 posts por faixa a diferença é pequena.
+  - No Face a restrição de país tira a Índia, então o horário não muda o público como muda no Insta.
+- **O que aparece nos 14 posts abaixo de 100:**
+  - (1) **Conteúdo repetido ou só de edição:** o nora36-VEL, o nora50, o tsu1611, o nora61-VAR2 e o nora69-VAR2111.
+  - (2) **Formato sem fala em novembro:** o slideshow (10) e o loop (35). O ini1811 (289) passou.
+  - (3) **Os hooks de produto de 14 a 16/11:** a canela do nora63 (17) e o sal do nora66 (26). O bicarbonato do nora62 fez 231.
+  - (4) **Post feito ~2 h depois de outro no Face:** o nora37 (6), o nora52 (24), o nora54 (43) e o nora61-VAR2 (15). É um sinal fraco: dos 15 posts com menos de 3 h de intervalo, 5 ficaram abaixo de 100 (33%); dos 36 com 3 h ou mais, 9 (25%).
+- **O que muda:** a grade do Face fica como está. A regra nova de 12h15 (toda peça do Face com uma parte gerada nova) é o que pega a causa mais comum.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
