@@ -109,6 +109,11 @@ Não fala de vídeo. É um "sistema operacional" genérico para agente de IA (ar
 - **Média real: ~2,6% por clipe** (no teste isolado, 2%; a diferença são as mensagens com o Muse: a configuração, o prompt de 17 takes anexado e as respostas dele). Se o grátis da semana for ~100 milhões, ~2,6 milhões por clipe, e o 1 bi rende ~385 clipes.
 - **O resto da semana (43%) dá ~16 clipes.** Um falado de 40 a 45 s (5 a 6 takes) gasta ~13% a 16%; um do modelo da claire_mayaus (17 takes + 2 do hook), ~49%. Passou do grátis, o Muse gasta o bilhão sozinho.
 
+## O custo depois de 35 clipes (print da "Utilização" e a lista do Muse, 21/11/2026 ~09h32)
+- **92% do grátis da semana usado com 35 clipes** (338 s no total: 32 de 10 s e 3 de 6 s, pela lista que o próprio Muse deu: o teste do T01 do carro, os 2 do ini1811, os 2 do hook do alçapão, os 17 takes do nora70, sendo o 08 de 6 s, os 6 do nora71, os 6 do nora72 e o take das letras do nora73); **0% dos tokens adicionais** (restam 1 bi, "Nunca expira"); o grátis volta em 25/11 (~11h05).
+- **De 19/11 10h30 (58%, 22 clipes) para agora (92%, 35 clipes): 13 clipes de 10 s gastaram 34%, ~2,6% por clipe**, a mesma média de antes (com as mensagens: a pergunta de hoje sobre os vídeos também gastou).
+- **O resto do grátis (8%) dá ~3 clipes.** Os 8 takes do nora74 (21/11) vão gastar ~3 do grátis e ~5 do bilhão: **é a 1ª vez que o bilhão é usado.** O print da "Utilização" depois dos 8 takes dá, pela 1ª vez, o custo de um clipe em tokens (a tela passa a mostrar "restam X tokens").
+
 ## O Muse perguntado sobre o próprio consumo (19/11/2026 ~10h30)
 - Acertou os 22 vídeos gerados; "não sei" para os tokens do grátis, o custo por clipe, o custo das mensagens e o limite por dia.
 - 58% do grátis usado (57% às 10h20): **a pergunta de texto gastou ~1%**. A conversa gasta tokens: no lote, só o prompt de geração, sem perguntas.
