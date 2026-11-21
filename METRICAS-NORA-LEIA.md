@@ -942,6 +942,19 @@ Conferido na planilha inteira (do nora33 ao nora69): **a divisão não é curto 
 - O nora70-FACE (213), o ini1811-FACE (289), o nora69-FACE (326) e os outros de 15 a 18/11 não mudaram; nora68-FACE 260 (+0,2x), nora66-FACE 26, nora49-FACE 243, face02 325, nora46-FACE 66, face01 249, nora45-FACE 270, nora44-FACE 243.
 - **O que muda:** nada ainda. A leitura do nora73 com ~24 h (~18h15 de hoje) junta o Insta (visitas ao perfil e Índia, porque foi às 18h15), o Face e o Tracker. O nora74 vai às 19h30 de hoje no Insta (não foi feito em 20/11).
 
+## 21/11/2026 12h15: a variação do nora69-FACE travou (o aluno: "so ta com 4 views em +2h")
+- **nora69-VAR2111-FACE** (postado às 10h07): **4 views com ~2 h.**
+- **O histórico das peças do Face feitas só de edição (espelho, cor, 1,1x, recorte ou corte, sem nada gerado de novo):** 4 de 6 travaram.
+  - Travaram: o nora36-VEL (28/10, 26 views), o tsu1611 (16/11, 10), o nora61-VAR2 (16/11, 15) e este (4).
+  - Passaram: o nora39-VAR (29/10, 252) e a variação do nora65 (17/11, 218), que abria diferente do original (a Nora falando com a carta desde o 1º quadro, só 4 takes).
+  - Das 4 feitas desde 16/11, 3 travaram.
+- **O que passou mesmo repetindo o corpo tinha uma parte gerada nova:** o nora72-FACE (o corpo do nora71-FACE, 319 views) e o nora73-FACE (a frase das letras na frente, 275).
+- **Este repetia tudo:** o mesmo arquivo do hook do carro que o nora72-FACE e o nora73-FACE usaram nas últimas ~33 h, e o corpo do nora69-FACE.
+- **O horário não explica:** o nora55 saiu às 10h20 de uma quarta e fez 401 views com ~6 h.
+- **Erro meu:** eu indiquei a variação sem olhar o tsu1611 e o nora61-VAR2.
+- **O que muda:** a variação só de edição sai das peças do Face (`CLAUDE.md`, seção 2). Toda peça do Face precisa de uma parte gerada nova, um Take 1 ou uma fala.
+- **O post fica no ar.** Nunca apagar post (aula 35; o caso da Liz, que caiu para 3 a 5 views, `PLANO-MVM`).
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
