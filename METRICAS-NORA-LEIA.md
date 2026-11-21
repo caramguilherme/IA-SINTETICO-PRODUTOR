@@ -955,7 +955,7 @@ Conferido na planilha inteira (do nora33 ao nora69): **a divisão não é curto 
 - **O que muda:** a variação só de edição sai das peças do Face (`CLAUDE.md`, seção 2). Toda peça do Face precisa de uma parte gerada nova, um Take 1 ou uma fala.
 - **O post fica no ar.** Nunca apagar post (aula 35; o caso da Liz, que caiu para 3 a 5 views, `PLANO-MVM`).
 
-## 21/11/2026 12h25: o horário explica as views baixas do Face? (pergunta do aluno)
+## 21/11/2026 12h19: o horário explica as views baixas do Face? (pergunta do aluno)
 Base: os 51 posts do Face de 26/10 a 21/11 (antes de 26/10 a Página ainda não entregava: quase tudo entre 6 e 90 views, em qualquer horário). Cada um foi contado na última leitura da planilha.
 - **Por faixa de horário (todos os posts / mediana de views / os abaixo de 100):**
   - Manhã, 08h às 12h: 4 posts, mediana 178. Abaixo de 100: o nora69-VAR2111 (4). Na mesma faixa está o recorde, o nora55 (10h20, 4.243).
