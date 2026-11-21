@@ -1,4 +1,4 @@
-# Roteiro do dia 20/11/2026: nora73 (as letras do nome na frente do nora72; Insta 19h30, Face 0h00) e nora74 (o campeão de volta; Insta 0h00)
+# Roteiro do dia 20/11/2026: nora73 (as letras do nome na frente do nora72; Insta 19h30, Face 0h00) e nora74 (o campeão de volta; Insta 0h00, passou para as 19h30 de 21/11)
 
 **Decisão do aluno (20/11 ~17h40): "pode montar o 73 e o 74"; "eu não tenho os takes mais, precisa gerar novamente do zero no muse".** A proposta veio do fechamento do teste da copy (`METRICAS-NORA-LEIA.md`, 20/11 ~17h30): a copy da claire_mayaus e a copy leve dos 3 sinais deram ~120 a ~150 views no Insta e 1 visita ao perfil em 4 vídeos. O carro segurou mais nas duas redes. Falta saber se a trava é a copy ou a conta.
 
@@ -60,8 +60,8 @@
   - se fizer ~150 views, a trava é a conta: vem a Nora sem a pintura, depois dos 40 vídeos que o nora74 fecha;
   - se passar de 500, é a copy, e o black soft volta;
   - olhar também as visitas ao perfil, os follows e o Tracker.
-- **Postagem:** Insta à 0h00 (21/11); o montado até ~23h30.
-- **Limite do Muse:** hoje são ~15 vídeos (6 do nora72 depois da meia-noite, 1 do nora73 e 8 do nora74). Se parar no limite, o resto vai amanhã e o nora74 passa para as 19h30 de 21/11.
+- **Postagem:** **não foi feito nem postado em 20/11** (aluno, 21/11 ~09h25: "nao fiz e nem postei o nora74 ontem"). **Passou para o Insta às 19h30 de 21/11**, o montado até ~19h00; o painel foi posto em dia e republicado no mesmo link (versão 3, 21/11 ~09h30).
+- **Limite do Muse:** ~15 vídeos por dia, renovado em 21/11: os 8 takes cabem. Gerar cedo.
 
 ## A contagem para a validação
 O nora73 e o nora74 são o 39º e o 40º vídeo do Manifestation no Insta. Os dois fecham a janela de 40 vídeos com copy validada (`VALIDACAO-CONTA-E-AVATAR.md`). Depois deles, a Nora sem a pintura pode entrar, por decisão do aluno.

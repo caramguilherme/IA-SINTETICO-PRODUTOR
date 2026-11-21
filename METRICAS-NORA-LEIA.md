@@ -928,6 +928,18 @@ Conferido na planilha inteira (do nora33 ao nora69): **a divisão não é curto 
   - **Os cliques dos últimos dias vieram do curto das iniciais e do story,** não dos falados.
   - **A pergunta que falta responder: é a copy ou é a conta?** O teste mais limpo é o campeão de volta (o tsunami + um Take 1 novo de signos + o corpo A limpo do nora48, que fazia 1,6 mil a 2 mil views em 06 a 10/11). Se fizer ~150, a trava é a conta; se passar de 500, é a copy.
 
+## 21/11/2026 09h31: a Biblioteca do Face (o nora73-FACE com ~15h15; texto colado pelo aluno, sem os nomes: a ordem é a de postagem)
+- **nora73-FACE** (20/11 18h15, ~15h15 de vida; as letras do nome na frente do nora72): 275 views, 255 visualizadores, **+0,5x**, tempo médio **11 s** num vídeo de 52,9 s, 134 de 3 s (**48,7%**), 0 de 1 min, **12 engajamentos, 3 comentários**, 0 seguidores.
+  - **Contra o nora72-FACE na mesma idade** (~15h55: 319 views, 0,0x, 10 s, 47,6%, 3 engajamentos, 1 comentário, o da Página): 44 views a menos, mas a distribuição positiva, 4 vezes o engajamento e 2 comentários além do da Página. O tempo médio subiu 1 s, mas o vídeo tem 8 s a mais: em fatia do vídeo, fica igual (~21% contra ~22%).
+  - **11 s é o 2º maior tempo médio da Página com 100+ views**, atrás só do nora40 (14 s); o nora48, o nora69-FACE e o nora72-FACE têm 10 s (`recordes.py`).
+  - **O mesmo corpo do nora72-FACE ~17 h depois também não travou** (o 2º caso, depois do nora72-FACE ~5h20 depois do nora71-FACE). A regra "nunca -FACE do mesmo corpo no mesmo dia" segue, com estes 2 casos anotados contra ela.
+  - **Falta ver o que dizem os 2 comentários de fora** (se alguém escreveu a inicial, a frase das letras puxou conversa no Face sem pedido de comentário).
+- **nora72-FACE** (~32h20): 328 views, −0,2x, 10 s, 47,3% nos 3 s. **nora71-FACE** (~37h40): 325, −0,3x, 7 s. Os dois quase pararam desde 20/11 17h15 (+9 e +2).
+- **Os posts velhos do tsunami voltaram a ganhar distribuição sem post novo:** o **nora47-FACE** (o tsunami original, 04/11) foi de 132 para **156 views, de +0,4x para +2,0x**, com 10 s de tempo médio e 7 views de 1 min; o nora48-FACE está em +1,2x (186). É o hook do nora74.
+- **O story do Face de 20/11 18h15:** 0 views na Biblioteca com ~15 h (a linha sem distribuição nem tempo, entre o nora73-FACE e o nora72-FACE). O de 19/11 tinha 5.
+- O nora70-FACE (213), o ini1811-FACE (289), o nora69-FACE (326) e os outros de 15 a 18/11 não mudaram; nora68-FACE 260 (+0,2x), nora66-FACE 26, nora49-FACE 243, face02 325, nora46-FACE 66, face01 249, nora45-FACE 270, nora44-FACE 243.
+- **O que muda:** nada ainda. A leitura do nora73 com ~24 h (~18h15 de hoje) junta o Insta (visitas ao perfil e Índia, porque foi às 18h15), o Face e o Tracker. O nora74 vai às 19h30 de hoje no Insta (não foi feito em 20/11).
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
