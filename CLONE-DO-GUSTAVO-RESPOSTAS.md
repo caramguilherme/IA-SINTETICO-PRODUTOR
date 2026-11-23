@@ -1945,7 +1945,7 @@ b) "Check the first comment below" pode ser lido pelo Face como isca de engajame
   - **3b ("check the first comment" não é isca): opinião, coerente com a política da Meta** (isca é pedir para comentar, reagir, compartilhar ou marcar; mandar ler um comentário que já existe não pede ação de engajamento).
 - **O que muda:** (1) **a leitura do nora74:** ~150 views quer dizer fadiga da fórmula (aula 31), não prova de conta travada; só 500+ dá resposta (a conta entrega). A pergunta da conta fica com a régua da aula 74: ~3 semanas de flop seguido, ~02/12, e a decisão de trocar a avatar é do aluno. (2) O teste B do CTA no Face pode rodar no próximo falado com versão do Face: a frase "Check the first comment below to get your reading." (sem "private" e sem "link" na fala gerada). (3) A `FILA` ganha a divisão dele para o teste do que repetir depois de um acerto.
 
-## R85 (22/11/2026 23h12, montada a pedido do aluno: "eu tava pensando em voltar a postar videos de ''aquecimento'', focando no engajamento da conta… vale perguntar pro clone?"; resposta pendente): vídeos de aquecimento numa conta em fase de venda
+## R85 (22/11/2026 23h11, montada a pedido do aluno: "eu tava pensando em voltar a postar videos de ''aquecimento'', focando no engajamento da conta… vale perguntar pro clone?"; resposta pendente): vídeos de aquecimento numa conta em fase de venda
 - **O texto (2.185 caracteres):**
 
 ```
