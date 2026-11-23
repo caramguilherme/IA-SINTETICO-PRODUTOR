@@ -111,6 +111,9 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | Emanuel [AIC] | Pergunta no chat (17/11 13h29): depois de um viral, os vídeos novos vêm abaixo da média? | | | **Resposta pública enviada em 17/11 23h55** (25ª leitura: o nosso loop de 2,2 mil, 54% Índia) | |
 | Rafael Maia | 52 vendas de 01 a 16/11 (8.983 cliques, 0,58%); o Facebook caiu com todas as Páginas em 16/11 e ele está montando a contingência | | | **Parabéns enviado no #vitórias em 17/11 23h55** (25ª leitura), com 1 pergunta (os administradores das Páginas novas). Se responder, anotar: serve para a decisão do 2º administrador da Página da Nora | |
 | carloscs | 1.012 vendas em out. (R$ 71,6 mil, 173 mil cliques; o maior dos fechamentos) | **DM do aluno em 03/11 15:13** (não estava registrada: o quadro dizia "não chamar"): "se vc começasse do zero hj no manifestation, com um perfil só, qual seria a primeira coisa que vc faria?". **Respondeu em 17/11 15:20:** "hj eu já começo pelo facebook, faço toda a esteira de aquecimento e após isso ativo a automação, depois é somente copy de vendas com hook visual ou não, normalmente eu mesclo bastante, postando em média de 4 a 6 vídeos por dia a cada 2 horas" | Começar os avatares novos pelo Face (fila, 18/11) | **Resposta enviada em 18/11 00h45** (agradecimento + 1 pergunta: só Face ou o Insta junto; texto no fim). Se responder, anotar e só reagir | Sim |
+| Renan Cunha [COLD] | **1ª venda do Risely** (#vitórias 22/11 19h45; US$ 13,70 no front) | | | **Parabéns enviado no #vitórias em 23/11** (30ª leitura), com 1 pergunta (quantos dias de aquecimento antes do link). Se responder, só reagir: serve ao plano das contas do Risely | Se ajudar |
+| Kailane | Pergunta no chat-geral (22/11 15h28): no Muse, o vídeo começa com a avatar da imagem e termina com outra | | | **Resposta pública enviada em 23/11** (30ª leitura: a mesma imagem como 1º quadro em todo take; o rosto só mudou num clipe sem fala, depois de ~4,5 s) | |
+| Vinicius | Pergunta no chat-appyon (21/11 18h19): boas hashtags de manifestação | | | **Resposta pública enviada em 23/11** (30ª leitura: as 3 a 5 do nicho que a Nora usa) | |
 
 ## (Histórico) Rascunhos de 04/11/2026 (todos enviados ou descartados; ver as marcas em cada um)
 - **Kaike de Lima (DM; ENVIADA pelo aluno em 04/11 de manhã):** "valeu demais kaike, ajudou muito / faz sentido, a nora tem uns 47 vídeos só e ainda parei uns dias essa semana, vou focar na constância / to testando exatamente isso agora: mesmo corpo e pré-hook novo (um tsunami kkk) / uma dúvida rápida: esses pré-hooks diferentes que vc fez eram mais bizarros, fora do nicho, ou coisa do nicho mesmo (cristal, vela, carta etc)?"
@@ -1018,4 +1021,18 @@ uma dúvida rápida: foi no insta ou no face?
 **2. Khalil, no #vitórias** (responder a mensagem dele de 19/11 23h26, a dos primeiros cliques):
 boa khalil!! to na mesma fase aqui, os cliques começaram a sair essa semana tb
 qual ajuste das calls fez mais diferença pra vc: o body ou o cta?
+
+## 30ª leitura (23/11/2026 12h20): respostas (no jeito do aluno; uma mensagem para cada)
+**1. Renan Cunha, no #vitórias** (responder a mensagem dele de 22/11 19h45, "primeira da risely saiu"):
+parabéns renan!! primeira do risely, brabo demais 🚀
+quantos dias de aquecimento vc fez antes de ligar o link?
+
+**2. Kailane, no #chat-geral** (responder a mensagem dela de 22/11 15h29, "Tem uns que começa com a imagem de referência e termina o vídeo com um avatar nada haver"):
+aqui no muse eu anexo a mesma imagem como 1º quadro em todo take, e no prompt peço pra manter o mesmo rosto do começo ao fim
+nos takes com fala o rosto ficou igual
+só mudou num clipe sem fala, depois de uns 4,5s, aí cortei antes
+
+**3. Vinicius, no #chat-appyon** (responder a mensagem dele de 21/11 18h19, "Alguém recomenda boas #? manifestação"):
+aqui uso 3 a 5 do nicho: #manifestation #angelnumbers #messagefromtheuniverse #lawofattraction #2027
+nas aulas falam de poucas hashtags e do nicho, nada de encher
 
