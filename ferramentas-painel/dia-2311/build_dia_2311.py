@@ -1,5 +1,7 @@
 # Painéis do dia 23/11/2026 ("pode montar o Nora 75 e o Nora 76", ~15h40): a Nora igual à maioria (RECEITA-DA-MAIORIA.md).
-# nora75 (Insta e Face ~19h30): a Nora SEM a pintura (teste do aluno), blusa preta lisa, cabelo solto, no carro parado, com um pau de canela na mão;
+# REFEITO às ~18h (o aluno: "pegar oq mais se replica e repetir"): o nora75 é a cópia do vídeo mais replicado (m30 = m61 = o nº 3 do Scoped):
+#   no sofá, de camiseta preta, despejando canela em pó McCormick num copo d'água, falando desde o 1º quadro; sem texto no topo; só o 11:11✨.
+# (versão anterior, trocada:) a Nora SEM a pintura (teste do aluno), blusa preta lisa, cabelo solto, no carro parado, com um pau de canela na mão;
 #   o ritual dito no T01 + a janela de 3 datas + o corpo A "Archangel Michael has sent a warning" + os selos + "Comment amen" + o CTA "quick reading".
 #   13 takes no Muse (~1:40). Texto do topo em branco solto, sem caixa (teste do aluno): "It works so fast, it's almost scary...".
 # nora76 (Insta e Face ~0h00): o MESMO corpo (T02 a T13 do nora75) com um T01 novo, "There is a woman lying down…" (a 2ª abertura mais repetida):
@@ -13,121 +15,132 @@ B = importlib.util.module_from_spec(spec); spec.loader.exec_module(B)
 MODELO, FB, VOZ, VC, COMUNS = B.MODELO, B.FB, B.VOZ, B.VC, B.COMUNS
 assert FB.endswith('&aff=dl7zx6ks')
 
-IMG = 'd2311-carro-IMG'
+IMG_A = 'd2311-sofa-IMG-A'   # despejando a canela no copo (só o T01)
+IMG_B = 'd2311-sofa-IMG-B'   # o copo com a água de canela na mão (T02 em diante e o T01B do nora76)
+IMG = IMG_B
 ROSTO = ('her face with clean natural skin and no marks, no paint, no moon and no stars anywhere on her face, her long black wavy hair worn loose with no braid '
          'and no rings in it, small plain gold stud earrings and a thin gold chain necklace')
-ROUPA = 'her plain black fitted long-sleeve crew-neck top'
-SEGURA = ('one hand rests on the steering wheel the whole time; her other hand holds a single cinnamon stick upright in front of her chest the whole time; '
-          'the seatbelt stays across her chest')
-CAM = 'the phone stays mounted on the dashboard in front of her with an unchanged framing; the car is parked and does not move'
-SOM = 'quiet parked-car interior sound with faint birds and a distant passing car outside'
+ROUPA = 'her plain black crew-neck short-sleeve t-shirt with no logo'
+SEGURA = ('one hand holds a clear stemmed wine glass of cloudy light-brown cinnamon water in front of her chest the whole time; her other hand rests on her lap '
+          'except for small gestures')
+SEGURA_A = ('one hand holds a clear stemmed wine glass of water in front of her chest and her other hand holds a McCormick Ground Cinnamon jar with a red cap '
+            'tilted above the glass')
+CAM = 'the camera stays static about one meter in front of her at chest height with an unchanged framing'
+SOM = 'quiet living room sound'
 
+# A fala: o roteiro mais copiado da mineração (m30 @alessandra.eua = m61 @melyastro.eua, palavra por palavra; em inglês, o nº 3 do Scoped, 1,8 mi),
+# reescrito o mínimo (aviso oficial de 22/09) e sem o "free" (a leitura é paga). 13 takes de até 22 palavras.
 FALA = [
-    "Drop a cinnamon stick on the floor of your car tonight. I know it sounds ridiculous, but you'll thank me forever.",
-    "If this video found you on November twenty-third, twenty-fourth or twenty-fifth, keep what you're about to hear to yourself.",
-    "I don't know your name or what you've been through, but the universe has seen your faith.",
-    "Over the next few days, money, prosperity and someone very special will walk into your life unexpectedly.",
-    "If you turn your back on this message, the blessing turns its back on you too. Take this seriously.",
-    "Archangel Michael has sent a warning: a season of victory is beginning in your life. The worst is finally behind you.",
-    "I can see the chains of scarcity breaking right now. Doors that stayed closed for years are about to open.",
-    "In seven minutes, this energy settles around you, so send this video to yourself right now and come back to feel it.",
-    "Save this video. That's your first seal. Double tap the screen. That's your second seal.",
-    "Comment amen so I know you completed every step. Tomorrow at eleven, watch for good news.",
-    "But I'm receiving a warning: this change only happens for women whose energy is aligned with abundance.",
-    "That's why I left a quick reading in my story that shows if you're one of them.",
-    "Tap my profile picture and watch it right now. You could be one step away from everything you've dreamed of.",
+    "Put cinnamon in a glass of water before you leave the house. I know it sounds ridiculous, but you'll thank me forever.",
+    "There's a woman lying down with her phone in her hand right now. Archangel Michael asked me to bring her this message.",
+    "I don't know your name or what you did, but if this video found you before Wednesday, November twenty-fifth, get ready.",
+    "The universe saw your faith, and money, prosperity and someone incredibly wonderful are about to appear in your life unexpectedly.",
+    "But if you turn your back on this message, the blessings will turn their backs on you too. So take this seriously.",
+    "Saint Michael the Archangel sent a warning. A season of victory and prosperity is approaching your life. The worst is finally over.",
+    "I can already see the chains that kept you trapped in scarcity breaking. The doors that wouldn't open will finally open.",
+    "In seven minutes, an energy of abundance will surround you, so send this video to yourself and come back to feel it.",
+    "Now save this video. That's your first seal. Quickly tap the screen twice. That's your second seal. Write amen in the comments.",
+    "If you did everything right, tomorrow at ten in the morning you'll receive incredibly good news.",
+    "But the universe is warning me this change only happens for women whose energy is aligned with abundance.",
+    "That's why I left a quick reading in my stories that will reveal whether you're one of those women.",
+    "So tap my profile picture and check it out right now. You could be one step away from everything you've dreamed of.",
 ]
-SUF = ['canela-ritual', 'datas', 'fe', 'virada', 'aviso', 'arcanjo', 'correntes', 'sete-minutos', 'selos', 'amen', 'alinhada', 'leitura', 'cta-story']
-FALA76 = "There is a woman lying down with her phone in her hand right now, and this message is for her."
+SUF = ['canela-copo', 'mulher-deitada', 'datas', 'fe', 'aviso', 'arcanjo', 'correntes', 'sete-minutos', 'selos-amen', 'amanha', 'alinhada', 'leitura', 'cta-story']
+FALA76 = "If your name starts with the letter A, J, M, K, C, E, S, L, R, T or H, be very careful."
 GESTO = [
-    'she raises the cinnamon stick close to the lens for a moment, then lowers it toward the floor of the car, and gives a small knowing smile',
-    'she leans in slightly toward the lens with a confidential, knowing look',
-    'she gives one slow nod with a calm, warm look',
+    'she tilts the jar and pours ground cinnamon into the glass of water while she talks, the brown powder swirling in the water, then lowers the jar to her lap',
+    'she holds a calm, knowing look, as if she can see the woman she is talking about',
+    'she leans in slightly toward the lens with a serious, knowing look',
     'her eyebrows lift with a hopeful, bright look and a small smile grows',
     'she holds a calm, serious look and gives one slow nod',
     'she holds a serious look in the first half and in the closing half a relieved smile appears',
     'she holds a calm, confident look and nods slowly',
     'she leans in slightly with an encouraging look',
     'she gives two small nods with a warm, encouraging look',
-    'she holds a warm smile and gives one small nod',
+    'she holds a warm, hopeful smile',
     'she holds a calm, serious, caring look',
     'she holds a warm, knowing look and gives one small nod',
     'she glances down toward the lower left corner of the frame with a warm, encouraging smile, then back at the lens',
 ]
-GESTO76 = 'she holds a calm, knowing look, as if she can see the woman she is talking about, and gives one slow nod'
+GESTO76 = 'she holds a calm, serious look and raises her free hand slightly beside her shoulder as if counting the letters, then lowers it'
 N = len(FALA)
 assert len(SUF) == len(GESTO) == N
 
 
 def nome(i):
-    return f'd2311-carro-T{i + 1:02d}-{SUF[i]}'
+    return f'd2311-sofa-T{i + 1:02d}-{SUF[i]}'
 
 
-NOME76 = 'd2311-carro-T01B-mulher-deitada'
+NOME76 = 'd2311-sofa-T01B-letras'
 
 
-def mov(g):
-    return (f'Throughout the whole 10 seconds {CAM}; {SEGURA}; {g}; her eyes stay on the lens; only her face and the hand with the cinnamon stick move; '
+def mov(g, a=False):
+    return (f'Throughout the whole 10 seconds {CAM}; {SEGURA_A if a else SEGURA}; {g}; her eyes stay on the lens; '
             'from the end of the final sentence of the take until the clip ends she keeps her lips closed and silent; no zoom and no cuts, each hand has exactly five fingers.')
 
 
-EXTRA = {('the', 'lens'), ('a', 'small'), ('the', 'floor'), ('floor', 'of'), ('of', 'the'), ('the', 'car'), ('a', 'cinnamon'), ('cinnamon', 'stick')}
+EXTRA = {('the', 'lens'), ('a', 'small'), ('of', 'the'), ('the', 'glass'), ('glass', 'of'), ('of', 'water'), ('in', 'a'), ('a', 'glass'), ('her', 'hand')}
 for i, f in list(enumerate(FALA)) + [(-1, FALA76)]:
     assert len(f.split()) <= 22, (i + 1, len(f.split()), f)
     g = GESTO[i] if i >= 0 else GESTO76
-    fw = re.findall(r"[a-z']+", f.lower()); mw = re.findall(r"[a-z']+", mov(g).lower())
+    fw = re.findall(r"[a-z']+", f.lower()); mw = re.findall(r"[a-z']+", mov(g, i == 0).lower())
     sobra = (set(zip(fw, fw[1:])) & set(zip(mw, mw[1:]))) - COMUNS - EXTRA
     assert not sobra, (i + 1, sobra)
     for w in ('link', 'free', 'card', 'tarot', 'private'):
-        assert w not in f.lower().split(), (i + 1, w)
+        assert w not in re.findall(r"[a-z']+", f.lower()), (i + 1, w)
     if 0 <= i < N - 1:
         prox = re.split(r'(?<=[.!?])\s+', FALA[i + 1])[0]
         assert len(f.split()) + len(prox.split()) > 22, (i + 1, 'a 1ª frase do take seguinte cabe neste')
 PALAVRAS = sum(len(f.split()) for f in FALA)
 
+CENA = ('Casual real video in the late afternoon in a cozy American living room, she sits on a gray fabric sofa with cushions behind her and a plain light wall, '
+        'filmed from a static camera about one meter in front of her at chest height, looking exactly like a real phone video, lit by soft natural window light. ')
+
 
 def livre():
-    return ("Casual real video in the afternoon inside a parked dark gray car on a quiet American suburban street, filmed by a phone mounted on the dashboard about "
-            "60 centimeters in front of her at face height, looking exactly like a real phone video, lit by soft natural daylight through the windows. She sits in the "
-            "driver's seat; the car does not move; through the side and rear windows, houses, lawns and trees stay still. CONTINUITY LOCKS for every take: the woman, "
-            f"{ROSTO}, {ROUPA}, the cinnamon stick in her hand, the steering wheel, the seatbelt across her chest and the car's interior stay exactly as in the reference "
-            f"image; the framing is exactly the one of the reference image, her face in the upper middle of the frame; {SEGURA}; natural skin texture with visible pores, "
-            'slight phone grain, everything in focus, no bokeh, no filter, no glow and no sparkles; no zoom, no cuts and no reframing; no phone, phone stand, tripod, object, '
-            'person, animal or text appears or disappears; no paint, moon, stars or marks ever appear on her face; each hand always has exactly five fingers; no on-screen '
-            f"text, no captions; {SOM} only, no music. SPEECH RULE for every take: she says only the exact words of that take's script, each word exactly once and in order, "
-            'with no repeated word, no extra word and no added sentence before, between or after; numbers and dates are spoken as words exactly as written; she speaks in a '
-            'direct, serious, intimate tone, like telling a secret to one person; when she finishes the last word she closes her lips, stays silent and keeps a calm still '
-            'expression until the clip ends.')
+    return (CENA + f'CONTINUITY LOCKS for every take: the woman, {ROSTO}, {ROUPA}, the clear stemmed wine glass of cloudy light-brown cinnamon water in her hand, '
+            'the gray sofa and the cushions stay exactly as in the reference image; the framing is exactly the one of the reference image, from the chest up, her face in '
+            f'the upper middle of the frame; {SEGURA}; natural skin texture with visible pores, slight phone grain, everything in focus, no bokeh, no filter, no glow and '
+            'no sparkles; no zoom, no cuts and no reframing; no phone, phone stand, tripod, object, person, animal or text appears or disappears; no paint, moon, stars or '
+            f'marks ever appear on her face; each hand always has exactly five fingers; no on-screen text, no captions; {SOM} only, no music. SPEECH RULE for every take: '
+            "she says only the exact words of that take's script, each word exactly once and in order, with no repeated word, no extra word and no added sentence "
+            'before, between or after; numbers and dates are spoken as words exactly as written; she speaks in a direct, serious, intimate tone, like telling a secret to '
+            'one person; when she finishes the last word she closes her lips, stays silent and keeps a calm still expression until the clip ends.')
 
 
-def prompt_manual(txt, movimento):
+def prompt_manual(txt, movimento, objeto):
     voz = VOZ.replace('[Voice and Audio Instructions]', '').strip()
-    return ('Create a single continuous 10-second video clip using the supplied reference image as the first frame. The same woman from the image sits in the '
-            "driver's seat of a parked car and speaks directly to the camera.\n\n"
+    return ('Create a single continuous 10-second video clip using the supplied reference image as the first frame. The same woman from the image sits on the gray '
+            'sofa in her living room and speaks directly to the camera.\n\n'
             'SPOKEN DIALOGUE (she says exactly this, once, in this order, with nothing added): "' + txt + '"\n\n'
             'VOICE CHARACTERISTICS (LOCKED):\n' + voz + '\n\n'
             'VOICE PACING: medium pace (155 to 180 words per minute), about 8 seconds of speech; when she finishes the last word she closes her lips and stays silent '
             'with a calm expression until the clip ends.\n\n'
             'MOVEMENT: ' + movimento + '\n\n'
-            'VISUAL: realistic casual phone video, soft natural afternoon daylight inside a parked car, natural skin texture with visible pores, slight phone grain, '
-            'everything in focus, no bokeh, no filter.\n\nCAMERA: mounted on the dashboard, no zoom, no cuts, no reframing.\n\n'
+            'VISUAL: realistic casual phone video, soft natural window light in a living room, natural skin texture with visible pores, slight phone grain, everything in '
+            'focus, no bokeh, no filter.\n\nCAMERA: static at chest height, no zoom, no cuts, no reframing.\n\n'
             f'AUDIO: only her voice and {SOM}; no music, no other voices, no sound effects.\n\n'
-            f'CONTINUITY: {ROSTO}, {ROUPA}, the cinnamon stick in her hand and everything behind her stay exactly as in the reference image; no paint, moon, stars or '
-            'marks appear on her face; no phone, object, person or text appears; each hand has exactly five fingers; no on-screen text or captions.\n\n'
+            f'CONTINUITY: {ROSTO}, {ROUPA}, {objeto} and everything behind her stay exactly as in the reference image; no paint, moon, stars or marks appear on her face; '
+            'no phone, person or text appears; each hand has exactly five fingers; no on-screen text or captions.\n\n'
             'Do not add, remove, repeat, rewrite or paraphrase any spoken words.')
 
 
-PROMPT_IMG = ('The first image is an approved photo of the woman sitting in a car; the second image is her character sheet (same woman, same face). Keep exactly her '
-              'face, her eyes, her skin tone and her long black wavy hair. Change: her cheek is now clean natural skin, with no crescent moon, no stars, no paint and no '
-              'marks anywhere on her face; her hair is worn loose, with no braid and no gold rings in it; she wears a plain black fitted long-sleeve crew-neck top, small '
-              'plain gold stud earrings and a thin gold chain necklace, and nothing else on her neck or ears. Place and light: she sits in the driver\'s seat of a parked '
-              'dark gray car on a quiet American suburban street on a sunny afternoon, soft natural daylight through the windows; through the side and rear windows, '
-              'houses, lawns and trees. RAW photo taken by a phone mounted on the dashboard about 60 centimeters in front of her, at face height, like a real car selfie: '
-              'framed from the chest up, her face in the upper middle of the image, looking straight into the camera with a calm, knowing look and her lips closed; the '
-              'seatbelt across her chest; one hand rests on the steering wheel, partly visible at the bottom of the image; her other hand holds a single cinnamon stick '
-              'upright in front of her chest; the upper 15 percent of the image is the plain light-gray car ceiling with nothing in it; ' + B.__dict__.get('_FIM', '') +
-              'looks exactly like a real casual iPhone photo, slight phone grain, natural colors, everything in focus, no bokeh; no glow, no sparkle, no light effect; no '
-              'phone, phone stand or tripod anywhere in the image; no text and no logo anywhere; each hand has exactly five fingers; photorealistic, unretouched, vertical 9:16')
+_FIM = ('looks exactly like a real casual iPhone photo, slight phone grain, natural colors, everything in focus, no bokeh; no glow, no sparkle, no light effect; no phone, '
+        'phone stand or tripod anywhere in the image; no text and no logo anywhere except the real label on the cinnamon jar; each hand has exactly five fingers; '
+        'photorealistic, unretouched, vertical 9:16')
+PROMPT_IMG_A = ('The first image is an approved photo of the woman; the second image is her character sheet (same woman, same face). Keep exactly her face, her eyes, her '
+                'skin tone and her long black wavy hair. Change: her cheek is clean natural skin, with no crescent moon, no stars, no paint and no marks anywhere on her '
+                'face; her hair is worn loose, with no braid and no gold rings in it; she wears a plain black crew-neck short-sleeve t-shirt with no logo, small plain gold '
+                'stud earrings and a thin gold chain necklace. Place and light: she sits on a gray fabric sofa with cushions behind her in a cozy American living room, a '
+                'plain light wall, soft natural window light in the late afternoon. RAW photo taken from about one meter in front of her at chest height: framed from the '
+                'chest up, her face in the upper middle of the image, looking straight into the camera with a calm, knowing look and her lips closed; in one hand she holds '
+                'a clear stemmed wine glass filled with plain water in front of her chest; with her other hand she holds a McCormick Ground Cinnamon jar with its red cap '
+                'open, tilted above the glass, a thin stream of brown cinnamon powder just starting to fall into the water; the upper 15 percent of the image is the plain '
+                'light wall with nothing in it; ' + _FIM)
+PROMPT_IMG_B = ('The attached image is the approved photo. Keep exactly the same woman, the same face with no marks or paint, the same loose hair, the same black t-shirt, '
+                'the same gray sofa, the same framing and the same light. Change only this: the cinnamon jar is gone; with one hand she holds the clear stemmed wine glass '
+                'in front of her chest, now filled with cloudy light-brown water with ground cinnamon swirling in it; her other hand rests on her lap; she looks straight '
+                'into the camera with a calm, knowing look and her lips closed; ' + _FIM)
 
 
 def config():
@@ -135,36 +148,35 @@ def config():
     for s in cf:
         for campo in s['campos']:
             if campo['campo'].startswith('LIVRE'):
-                campo['valor'] = f'colar o texto abaixo (a imagem é a {IMG}, a Nora sem a pintura no carro)'
+                campo['valor'] = f'colar o texto abaixo (a imagem é a {IMG_B}: a Nora no sofá com o copo de água de canela)'
                 campo['copiar'] = livre()
             elif campo['campo'] == 'COLE SUA COPY AQUI':
-                campo['valor'] = f'colar a fala inteira (seção “A fala e a movimentação”): é 1 colagem só, com os {N} takes'
+                campo['valor'] = f'colar a fala do T02 ao T{N:02d} (seção “A fala e a movimentação”): 1 colagem só, com {N - 1} takes'
             elif campo['campo'] == 'Movimento de câmera':
-                campo['valor'] = 'Estático / câmera parada, sem zoom (o LIVRE já diz que a câmera está presa no painel e que o carro está parado)'
+                campo['valor'] = 'Estático / câmera parada, sem zoom'
             elif campo['campo'] == 'Atmosfera / mood':
                 campo['valor'] = 'Íntimo e confidencial'
             elif campo['campo'] == 'Movimentação':
-                campo['valor'] = f'colar as {N} linhas, uma por take (seção “A fala e a movimentação”)'
+                campo['valor'] = f'colar as {N - 1} linhas, uma por take (T02 a T{N:02d})'
             elif campo['campo'] == 'Conferir':
-                campo['valor'] = f'{N} takes (8 ou 10 s cada, como na lista da seção “A fala e a movimentação”)'
+                campo['valor'] = f'{N - 1} takes (8 ou 10 s cada)'
     VC.adicionar(cf)
     return cf
 
 
-def mapa(P, caixa):
+def mapa(P):
     m = P['mapa_tela']
     m['estilos'] = [
-        {'nome': 'Texto do topo (eu ponho)', 'fonte': 'negrito', 'cor': 'branco solto, SEM caixa, com sombra suave (como a maioria)', 'tamanho': '2 linhas',
-         'contorno': '—', 'obs': f'“{caixa}” só nos 3 primeiros segundos. Teste do aluno (23/11): no lugar da caixa branca com vermelho.'},
+        {'nome': 'Texto no topo', 'fonte': '—', 'cor': '—', 'tamanho': '—', 'contorno': '—',
+         'obs': 'NENHUM, como no m30 e no m61 (e em 28 de 43 vídeos da mineração).'},
         {'nome': 'Legenda (eu ponho)', 'fonte': 'Inter, peso normal', 'cor': 'branca, sem destaque', 'tamanho': 'até ~6 palavras, 2 linhas', 'contorno': 'fino escuro + sombra suave',
-         'obs': 'Entra na 1ª palavra.'},
+         'obs': 'Simples, no meio para baixo, como no m30 e no m61.'},
         {'nome': 'Seta (eu ponho)', 'fonte': '—', 'cor': 'vermelha', 'tamanho': 'pequena', 'contorno': '—',
-         'obs': 'Embaixo à esquerda, logo acima da foto do perfil, do “Tap my profile picture” até o fim. Sem a faixa do CTA (a maioria usa só a seta).'},
+         'obs': 'Embaixo à esquerda, no CTA até o fim. Sem faixa.'},
     ]
-    m['regras'] = ['A receita da maioria (23/11): o texto do topo em branco solto só no gancho, a legenda simples, o 222 e o 11:11 pequenos nos cantos, a seta no CTA.',
+    m['regras'] = ['A cópia do m30 e do m61: sem texto no topo, só o “11:11✨” pequeno no alto à esquerda, a legenda simples e a seta no fim.',
                    'Eu ponho tudo (P45); você monta só o vídeo e a música.']
-    m['numeros'] = [{'t': '222', 'x': 18, 'y': 16, 'onde': 'alto à esquerda, o vídeo todo', 'cor_nome': 'branco', 'cor': '#FFFFFF', 'tamanho': 11},
-                    {'t': '11:11', 'x': 82, 'y': 16, 'onde': 'alto à direita, o vídeo todo', 'cor_nome': 'branco', 'cor': '#FFFFFF', 'tamanho': 11}]
+    m['numeros'] = [{'t': '11:11✨', 'x': 18, 'y': 16, 'onde': 'alto à esquerda, o vídeo todo', 'cor_nome': 'branco', 'cor': '#FFFFFF', 'tamanho': 11}]
 
 
 RESP_INSTA = ['Amen 🙏 your reading is waiting in my story', "That's not a coincidence ✨ tap my photo, your next step is in my story",
@@ -185,81 +197,90 @@ def base(nn):
 def nora75():
     P = base('nora75')
     P['pre_gancho'] = {
-        'titulo_secao': 'A imagem das falas (Flow, antes dos takes)',
-        'conceito': ('A Nora igual à maioria (RECEITA-DA-MAIORIA.md): SEM a lua e as estrelinhas (teste do aluno), cabelo solto sem a trança, blusa preta lisa, no banco do '
-                     'motorista do carro parado, de dia, com um pau de canela na mão o vídeo todo. Não tem hook mudo: ela fala desde o 1º quadro, mostrando a canela.'),
+        'titulo_secao': 'As 2 imagens (Flow, antes dos takes)',
+        'conceito': ('A cópia do vídeo mais replicado (o m30 da @alessandra.eua = o m61 da @melyastro.eua, palavra por palavra; em inglês, o nº 3 do Scoped, 1,8 mi): no '
+                     'sofá, de camiseta preta, despejando canela em pó McCormick num copo d’água enquanto fala, desde o 1º quadro; depois, o copo na mão o vídeo todo. '
+                     'A Nora sem a pintura (teste do aluno). Sem texto no topo; só o 11:11✨.'),
         'modo': 'Flow → Imagem · 9:16 · Nano Banana Pro · x4, anexando as referências na ordem (0 crédito).',
-        'etapas': [{'titulo': 'Imagem: a Nora sem a pintura, no carro, com o pau de canela', 'nome': IMG, 'tipo': 'img',
-                    'anexar': '1º a d1711-PRE-carro-IMG-C (a Nora no carro, já aprovada); 2º a folha da Nora (1K)',
-                    'quadros': (f'x4, 0 crédito. Serve para TODOS os takes do nora75 e do nora76. Escolha a que tiver: o mesmo rosto da Nora, SEM a lua e SEM as '
-                                'estrelinhas, sem trança; a blusa preta lisa; o cinto; uma mão no volante e a outra segurando 1 pau de canela em pé na frente do peito; '
-                                f'5 dedos em cada mão; nenhum celular, tripé ou texto. Renomeie para {IMG}. Se ficar em dúvida entre 2, me mande as 4.'),
-                    'prompt': PROMPT_IMG}],
+        'etapas': [
+            {'titulo': 'Imagem A: despejando a canela no copo (só o T01)', 'nome': IMG_A, 'tipo': 'img',
+             'anexar': '1º a d2311-carro-IMG, se você já gerou (a Nora sem a pintura); se não, a d1711-PRE-carro-IMG-C; 2º a folha da Nora (1K)',
+             'quadros': (f'x4, 0 crédito. Serve para o T01. Escolha a que tiver: o rosto da Nora SEM a lua e SEM as estrelinhas, sem trança, camiseta preta lisa, no sofá; '
+                         f'o copo de vinho com água numa mão e o pote de canela McCormick (tampa vermelha) inclinado sobre o copo na outra; 5 dedos em cada mão. Renomeie para {IMG_A}.'),
+             'prompt': PROMPT_IMG_A},
+            {'titulo': 'Imagem B: o copo com a água de canela na mão (T02 em diante e o nora76)', 'nome': IMG_B, 'tipo': 'img',
+             'anexar': f'só a {IMG_A} que você escolheu',
+             'quadros': (f'x4, 0 crédito. Serve para o T02 ao T{N:02d} e para o take do nora76. Escolha a que tiver: a mesma Nora e o mesmo sofá; sem o pote; o copo com a '
+                         f'água marrom-clara na mão, na frente do peito; a outra mão no colo. Renomeie para {IMG_B}.'),
+             'prompt': PROMPT_IMG_B},
+        ],
     }
-    P['imagens_titulo'] = f'Imagem das falas (a {IMG}, que você gera no Flow)'
-    P['refs'] = [f'{IMG} em todos os takes']
-    P['imagens'] = [{'rotulo': f'IMAGEM 1 · {IMG}', 'cena': 'gerada no Flow (seção da imagem)', 'anexar': f'a {IMG}'}]
+    P['imagens_titulo'] = f'As imagens das falas ({IMG_A} no T01; {IMG_B} no resto)'
+    P['refs'] = [f'{IMG_A} no T01', f'{IMG_B} do T02 ao T{N:02d}']
+    P['imagens'] = [{'rotulo': f'IMAGEM 1 · {IMG_A}', 'cena': 'gerada no Flow (seção das imagens)', 'anexar': f'a {IMG_A}'},
+                    {'rotulo': f'IMAGEM 2 · {IMG_B}', 'cena': 'gerada no Flow (seção das imagens)', 'anexar': f'a {IMG_B}'}]
     P['roteiro'] = {
-        'id': 'nora75-MAIORIA-CANELA-2311',
-        'titulo': 'nora75 · Insta e Face ~19h30 de 23/11 · a Nora igual à maioria: sem a pintura, no carro, a canela dita + o corpo A',
+        'id': 'nora75-COPIA-CANELA-COPO-2311',
+        'titulo': 'nora75 · Insta e Face ~19h30 de 23/11 · a cópia do vídeo mais replicado: a canela no copo d’água, no sofá',
         'duracao_total': 100,
-        'descricao_instagram': ("It works so fast, it's almost scary... 🌿 Your private reading is waiting in my story 🔮\n"
+        'descricao_instagram': ("Put cinnamon in a glass of water before you leave the house 🌿 Your private reading is waiting in my story 🔮\n"
                                 'Comment amen when you’re done 🙏\n'
                                 '#manifestation #cinnamon #abundance #2027 #lawofattraction'),
-        'descricao_face': ("It works so fast, it's almost scary ✨ Your reading is waiting in my story and in the comments 🔮\n"
+        'descricao_face': ("Put cinnamon in a glass of water before you leave the house ✨ Your reading is waiting in my story and in the comments 🔮\n"
                            '#manifestation #abundance #2027'),
     }
-    P['videos'] = [{'rotulo': f'T{i + 1:02d}', 'cena': SUF[i], 'duracao': 10, 'primeiro_quadro': f'IMAGEM 1 ({IMG})', 'acao': '', 'b_roll': '',
-                    'fala': FALA[i], 'movimentacao': mov(GESTO[i]), 'arquivo': nome(i)} for i in range(N)]
-    P['texto_tela'] = {'hook': "It works so fast,\nit's almost scary...", 'hook_comeca': 'o 1º quadro', 'hook_termina': '~3 s', 'hook_alt': '', 'extras': []}
-    mapa(P, "It works so fast, it's almost scary...")
-    P['comentario_fixado'] = {'insta': 'It works so fast 🌿 tap my profile picture above, your reading is waiting in my story',
+    P['videos'] = [{'rotulo': f'T{i + 1:02d}', 'cena': SUF[i], 'duracao': 10, 'primeiro_quadro': (f'IMAGEM 1 ({IMG_A})' if i == 0 else f'IMAGEM 2 ({IMG_B})'),
+                    'acao': '', 'b_roll': '', 'fala': FALA[i], 'movimentacao': mov(GESTO[i], i == 0), 'arquivo': nome(i)} for i in range(N)]
+    P['texto_tela'] = {'hook': '', 'hook_comeca': '—', 'hook_termina': '—', 'hook_alt': '', 'extras': []}
+    mapa(P)
+    P['comentario_fixado'] = {'insta': 'Did you do it? 🌿 tap my profile picture above, your reading is waiting in my story',
                               'face': 'Your 2027 reading is waiting for you here ✨ 👉 ' + FB}
-    lista = ' · '.join(f'{i + 1} = {nome(i)}' for i in range(N))
+    lista = ' · '.join(f'{i} = {nome(i)}' for i in range(1, N))
+    T01 = prompt_manual(FALA[0], mov(GESTO[0], True), 'the wine glass of water and the cinnamon jar in her hands')
     ct = P['central']
     ct['config'] = config()
-    ct['colagens'] = [{'titulo': f'nora75: a colagem única (T01 a T{N:02d})', 'fala': ' '.join(FALA), 'movimentacao': [mov(GESTO[i]) for i in range(N)],
-                       'takes': list(range(N))}]
-    ct['conferir'] = ('Conferir em cada take: é a Nora da imagem nova, SEM a lua e SEM as estrelinhas, sem trança, de blusa preta; no carro parado, o cinto, uma mão no '
-                      'volante e a outra com o pau de canela; ela fala uma vez só, em inglês, e diz as datas por extenso. Renomeie com o nome da lista.')
+    ct['colagens'] = [{'titulo': f'nora75: a colagem do T02 ao T{N:02d} (na {IMG_B})', 'fala': ' '.join(FALA[1:]), 'movimentacao': [mov(GESTO[i]) for i in range(1, N)],
+                       'takes': list(range(1, N))}]
+    ct['conferir'] = ('Conferir em cada take: a Nora SEM a lua e SEM as estrelinhas, sem trança, de camiseta preta, no sofá, com o copo de água de canela na mão; ela fala uma '
+                      'vez só e diz as datas e os números por extenso. Renomeie com o nome da lista.')
     ag = copy.deepcopy(ct['agente'])
-    ag['imagem'] = IMG
-    ag['intro'] = f'No Muse, na conversa da Nora: anexe a {IMG}, cole o aviso do Muse e, embaixo, o bloco “COPIAR TUDO JUNTO” da Central (1 colagem: 1 mensagem).'
+    ag['imagem'] = IMG_B
+    ag['intro'] = (f'No Muse, na conversa da Nora, são 2 mensagens: (1) o T01 com a {IMG_A}; (2) os outros {N - 1} takes com a {IMG_B} + o aviso do Muse + o '
+                   '“COPIAR TUDO JUNTO” da Central.')
     ag['passos'] = [
-        f'Na Central: preencha como na seção da Central (o LIVRE e a movimentação são os do nora75) e cole a fala inteira. Confira: {N} takes.',
-        f'No Muse: 1 MENSAGEM com a {IMG} + o aviso do Muse + o “COPIAR TUDO JUNTO” da Central. O Muse gera 6 por vez: depois do 01 ao 06, mande na mesma conversa, '
-        'com a mesma imagem anexada: “Now generate Prompts 07 to 12 from my previous message, exactly as written, in the same order, using the attached image as the '
-        'first frame of every clip.” E depois o 13 do mesmo jeito.',
-        f'Renomeie cada take com o nome da lista (o número é a ordem na mensagem): {lista}.',
-        'Confira cada take: sem a lua e sem as estrelinhas no rosto (se voltarem, gere de novo aquele take); a canela na mão; ela fala uma vez só, sem repetir palavra. '
-        'Se o Muse recusar um prompt: NÃO deixe ele reescrever; mande na mesma conversa “Generate prompt X again, exactly as written.”',
-        'Hoje são 14 clipes (os 13 do nora75 e 1 do nora76): o limite do Muse é de ~15 por dia. Gere já. Se aparecer o “video_daily_budget_exhausted”, me avise com quantos saíram.',
-        'Se o Muse parar no meio: responda na MESMA conversa, sem anexar nada: “Please continue and generate prompts X to Y from my previous message, in the same order.”',
+        f'MENSAGEM 1 (o T01): anexe a {IMG_A} e cole este prompt. Renomeie o clipe para {nome(0)}. PROMPT: ' + T01,
+        f'Na Central: preencha como na seção da Central (o LIVRE e a movimentação do nora75) e cole a fala do T02 ao T{N:02d}. Confira: {N - 1} takes.',
+        f'MENSAGEM 2: anexe a {IMG_B} + o aviso do Muse + o “COPIAR TUDO JUNTO”. O Muse gera 6 por vez: depois do 01 ao 06, mande na mesma conversa, com a mesma imagem: '
+        '“Now generate Prompts 07 to 12 from my previous message, exactly as written, in the same order, using the attached image as the first frame of every clip.”',
+        f'Renomeie pela ordem da mensagem 2: {lista}.',
+        'Confira cada take: sem a lua e sem as estrelinhas (se voltarem, gere aquele de novo); o copo na mão; ela fala uma vez só. Se o Muse recusar: “Generate prompt X again, exactly as written.”',
+        f'Hoje são 14 clipes ({N} do nora75 + 1 do nora76): o limite do Muse é de ~15 por dia. Se aparecer o “video_daily_budget_exhausted”, me avise com quantos saíram.',
     ]
     ct['agente'] = ag
     P['silencio'] = {
-        'intro': f'Arraste na ferramenta “M2M FusionZ – Cortar e juntar vídeos” os {N} takes do Muse (T01 a T{N:02d}), de uma vez. “Zoom nos cortes” = DESLIGADO; o resto como abaixo.',
+        'intro': f'Arraste na “M2M FusionZ” os {N} takes (T01 a T{N:02d}), de uma vez. “Zoom nos cortes” = DESLIGADO; o resto como abaixo.',
         'nome': 'nora75-cortado', 'juntar': 'LIGADO', 'transicao': 'Corte seco', 'ordem': f'pela ordem do nome (T01 a T{N:02d})',
-        'depois': ['Suba os takes e espere a Prévia.', f'Aperte play com Resultado marcado: confira a primeira palavra do T01 e a última do T{N:02d}.',
+        'depois': ['Suba os takes e espere a Prévia.', f'Confira a primeira palavra do T01 e a última do T{N:02d}.',
                    'Se um corte comeu o fim de uma palavra, arraste a borda dele ou suba a margem de respiro.', 'Clique em Cortar e baixar e salve como nora75-cortado.'],
     }
     P['edicao_linha'] = [
-        {'quando': 'A. Antes de tudo', 'texto': 'Projeto novo no CapCut com o nora75-cortado', 'como': 'É o vídeo que saiu da FusionZ. Começa direto no T01, sem hook.'},
+        {'quando': 'A. Antes de tudo', 'texto': 'Projeto novo no CapCut com o nora75-cortado', 'como': 'Começa direto no T01, sem hook.'},
         {'quando': '1. Do T01 ao fim', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB', 'como': 'Começa no 1º quadro.'},
-        {'quando': '2. Exportar e me mandar (até ~19h00)', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
-         'como': ('1080×1920, nome nora75-montado (acima de 30 MB, link do Drive). Eu devolvo o nora75-final (Insta, completo) e o nora75-final-FACE (sem o T08, o T09 e o '
-                  'T10, que pedem para mandar para si, os selos e o comentário, e sem o “money” do T04). O nora76 eu monto aqui com esse mesmo montado.')},
+        {'quando': '2. Exportar e me mandar (assim que puder; se passar das 19h30, posta assim que eu devolver)', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
+         'como': ('1080×1920, nome nora75-montado (acima de 30 MB, link do Drive). Eu devolvo o nora75-final (Insta) e o nora75-final-FACE (sem o T08, o T09 e o T10 e sem o '
+                  '“money” do T04). O nora76 eu monto aqui com esse mesmo montado.')},
     ]
     P['pecas'] = {
         'titulo_decisao': 'Resumo',
-        'lista': ([{'nome': IMG, 'tipo': 'imagem das falas', 'status': 'gerar', 'onde': 'No Flow (x4, 0 crédito), na seção da imagem.', 'descricao': 'A Nora sem a pintura, no carro, com a canela.'}]
+        'lista': ([{'nome': IMG_A, 'tipo': 'imagem do T01', 'status': 'gerar', 'onde': 'No Flow (x4, 0 crédito).', 'descricao': 'Despejando a canela no copo.'},
+                   {'nome': IMG_B, 'tipo': 'imagem das falas', 'status': 'gerar', 'onde': 'No Flow, editando a A (x4, 0 crédito).', 'descricao': 'O copo de água de canela na mão.'}]
                   + [{'nome': nome(i), 'tipo': 'take', 'status': 'gerar', 'descricao': f'“{FALA[i]}”'} for i in range(N)]),
         'decisao': [
-            f'{N} takes no Muse, {PALAVRAS} palavras (~1:40): a receita da maioria (40 vídeos de 18 contas da Auraly, 23/11). Ela fala desde o 1º quadro mostrando a '
-            'canela (o objeto nº 1); a janela de 3 datas; o corpo A "Archangel Michael has sent a warning" com os selos e o "Comment amen"; o CTA "quick reading".',
-            'Testes do aluno: a Nora SEM a lua e as estrelinhas, e o texto do topo em branco solto, sem caixa.',
-            'Insta e Face ~19h30 de hoje. O montado até ~19h00. O Face vai sem o T08, o T09 e o T10 e sem o “money” (segurança da Página).',
-            'O story vence às ~22h30 de hoje: reposte antes, no Insta e no Face. Antes de abrir o Insta, conferir o IP e os EUA no mylocation.org.',
+            f'A cópia do vídeo mais replicado: o m30 e o m61 (o mesmo texto em 2 contas) e o nº 3 do Scoped (1,8 mi). {N} takes, {PALAVRAS} palavras (~1:40). A fala segue a '
+            'deles frase por frase, reescrita o mínimo (aviso oficial de 22/09) e sem o “free”.',
+            'Como eles: no sofá, camiseta preta, a canela McCormick no copo d’água desde o 1º quadro, o copo na mão o vídeo todo, sem texto no topo, só o 11:11✨, legenda simples, seta no fim.',
+            'A Nora sem a pintura (teste do aluno). Insta e Face ~19h30 (o Face sem o T08, o T09, o T10 e o “money”).',
+            'O story vence às ~22h30: reposte antes, no Insta e no Face. Antes de abrir o Insta, conferir o IP e os EUA no mylocation.org.',
         ],
     }
     P['ordem'] = ['pecas', 'prehook', 'central', 'cenas', 'agente', 'silencio', 'textotela', 'story', 'descricao', 'comentario', 'respostasface']
@@ -268,52 +289,51 @@ def nora75():
 
 def nora76():
     P = base('nora76')
-    P['imagens_titulo'] = f'Imagem das falas (a {IMG}, a mesma do nora75)'
-    P['refs'] = [f'{IMG} no take novo']
-    P['imagens'] = [{'rotulo': f'IMAGEM 1 · {IMG}', 'cena': 'a mesma do nora75', 'anexar': f'a {IMG}'}]
+    P['imagens_titulo'] = f'Imagem das falas (a {IMG_B}, a mesma do nora75)'
+    P['refs'] = [f'{IMG_B} no take novo']
+    P['imagens'] = [{'rotulo': f'IMAGEM 1 · {IMG_B}', 'cena': 'a mesma do nora75', 'anexar': f'a {IMG_B}'}]
     P['roteiro'] = {
-        'id': 'nora76-MAIORIA-DEITADA-2311',
-        'titulo': 'nora76 · Insta e Face ~0h00 de 24/11 · o corpo do nora75 com outro Take 1: “There is a woman lying down…”',
-        'duracao_total': 98,
-        'descricao_instagram': ('She was meant to see this today 🙏 Your private reading is waiting in my story 🔮\n'
-                                'Comment amen and the time you’re watching this 👇\n'
+        'id': 'nora76-COPIA-LETRAS-2311',
+        'titulo': 'nora76 · Insta e Face ~0h00 de 24/11 · o corpo do nora75 com a abertura das letras do nome (4 contas)',
+        'duracao_total': 95,
+        'descricao_instagram': ('If your name starts with one of these letters, this is for you 👀 Your private reading is waiting in my story 🔮\n'
+                                'Comment the first letter of your name 👇\n'
                                 '#manifestation #archangelmichael #abundance #2027 #lawofattraction'),
-        'descricao_face': ('She was meant to see this today ✨ Your reading is waiting in my story and in the comments 🔮\n'
+        'descricao_face': ('If your name starts with one of these letters ✨ Your reading is waiting in my story and in the comments 🔮\n'
                            '#manifestation #abundance #2027'),
     }
-    P['videos'] = [{'rotulo': 'T01B', 'cena': 'a mulher deitada (entra no lugar do T01 do nora75)', 'duracao': 10, 'primeiro_quadro': f'IMAGEM 1 ({IMG})',
+    P['videos'] = [{'rotulo': 'T01B', 'cena': 'as letras do nome (entra no lugar do T01 do nora75)', 'duracao': 10, 'primeiro_quadro': f'IMAGEM 1 ({IMG_B})',
                     'acao': '', 'b_roll': '', 'fala': FALA76, 'movimentacao': mov(GESTO76), 'arquivo': NOME76}]
-    P['texto_tela'] = {'hook': 'Turnaround is coming\nyour way...', 'hook_comeca': 'o 1º quadro', 'hook_termina': '~3 s', 'hook_alt': '', 'extras': []}
-    mapa(P, 'Turnaround is coming your way...')
-    P['comentario_fixado'] = {'insta': 'She was meant to see this 🙏 tap my profile picture above, your reading is waiting in my story',
+    P['texto_tela'] = {'hook': '', 'hook_comeca': '—', 'hook_termina': '—', 'hook_alt': '', 'extras': []}
+    mapa(P)
+    P['comentario_fixado'] = {'insta': 'If your initial is one of them ✨ tap my profile picture above, your reading is waiting in my story',
                               'face': 'Your reading is waiting for you here 🙏 👉 ' + FB}
     ct = P['central']
     ct['config'] = []
     ct['colagens'] = [{'titulo': 'nora76: 1 take só (no Muse, sem a Central)', 'fala': FALA76, 'movimentacao': [mov(GESTO76)], 'takes': [0]}]
-    ct['conferir'] = f'Conferir o take: a Nora da {IMG}, sem a pintura, com a canela; ela fala uma vez só e fecha a boca no fim. Renomeie para {NOME76}.'
+    ct['conferir'] = f'Conferir o take: a Nora da {IMG_B}, sem a pintura, com o copo; ela diz as 11 letras uma vez só e fecha a boca no fim. Renomeie para {NOME76}.'
     ct['agente'] = {
-        'imagem': IMG,
-        'intro': f'Não precisa da Central: é 1 take só. No Muse, na conversa da Nora, anexe a {IMG} e cole o prompt abaixo.',
-        'aviso_tag': f'cole no Muse, com a {IMG} anexada',
-        'aviso': prompt_manual(FALA76, mov(GESTO76)),
-        'passos': [f'Logo depois dos 13 do nora75: no Muse, anexe a {IMG} e cole o prompt acima, numa mensagem só. ~1 min.',
+        'imagem': IMG_B,
+        'intro': f'1 take só. No Muse, na conversa da Nora, anexe a {IMG_B} e cole o prompt abaixo.',
+        'aviso_tag': f'cole no Muse, com a {IMG_B} anexada',
+        'aviso': prompt_manual(FALA76, mov(GESTO76), 'the wine glass of cinnamon water in her hand'),
+        'passos': [f'Logo depois dos {N} do nora75: anexe a {IMG_B} e cole o prompt acima, numa mensagem só. ~1 min.',
                    f'Renomeie o clipe para {NOME76}.',
-                   'Confira: sem a lua e sem as estrelinhas; ela fala a frase uma vez só e fecha a boca no fim. Se o Muse recusar: “Generate it again, exactly as written.”'],
+                   'Confira: sem a lua e sem as estrelinhas; ela diz as 11 letras (A, J, M, K, C, E, S, L, R, T, H) uma vez só. Se o Muse recusar: “Generate it again, exactly as written.”'],
     }
     P['edicao_linha'] = [
-        {'quando': 'A. Só o take novo', 'texto': f'Me mande o {NOME76} aqui no chat do Code, junto com o nora75-montado', 'como': 'Não precisa de CapCut: eu tiro o T01 do nora75 e ponho este no lugar, com a mesma música.'},
-        {'quando': 'B. Até ~23h00', 'texto': 'Eu devolvo o nora76-final (Insta) e o nora76-final-FACE', 'como': 'O Face é o mesmo corpo do nora75-FACE no mesmo dia: como no nora72 (teste de 20/11, que não travou). Se preferir, o nora76 vai só no Insta.'},
+        {'quando': 'A. Só o take novo', 'texto': f'Me mande o {NOME76} aqui no chat do Code, junto com o nora75-montado', 'como': 'Não precisa de CapCut: eu tiro o T01 do nora75 e ponho este no lugar.'},
+        {'quando': 'B. Até ~23h00', 'texto': 'Eu devolvo o nora76-final (Insta) e o nora76-final-FACE', 'como': 'O mesmo corpo com outra abertura, como o nora49 fez com o nora48 (2.043 views).'},
     ]
     P['pecas'] = {
         'titulo_decisao': 'Resumo',
-        'lista': [{'nome': IMG, 'tipo': 'imagem das falas', 'status': 'reutilizar', 'onde': 'A mesma do nora75.', 'descricao': 'A mesma do nora75.'},
+        'lista': [{'nome': IMG_B, 'tipo': 'imagem das falas', 'status': 'reutilizar', 'onde': 'A mesma do nora75.', 'descricao': 'A mesma do nora75.'},
                   {'nome': NOME76, 'tipo': 'take', 'status': 'gerar', 'descricao': f'“{FALA76}”'},
-                  {'nome': 'os T02 a T13 do nora75', 'tipo': 'corpo', 'status': 'reutilizar', 'onde': 'Saem do nora75-montado.', 'descricao': 'O mesmo corpo, como a maioria faz.'}],
+                  {'nome': f'os T02 a T{N:02d} do nora75', 'tipo': 'corpo', 'status': 'reutilizar', 'onde': 'Saem do nora75-montado.', 'descricao': 'O mesmo corpo.'}],
         'decisao': [
-            '1 take no Muse: o corpo do nora75 com outro Take 1, "There is a woman lying down with her phone in her hand right now…" (a 2ª abertura mais repetida: '
-            '7 vídeos, 5 contas). É o jeito da maioria: o mesmo corpo com vários ganchos.',
-            'As datas do T02 (23, 24 ou 25) valem: à 0h00 de Brasília ainda é 23/11 na costa leste.',
-            'Insta e Face ~0h00 (4h30 depois do nora75). Texto do topo em branco solto: “Turnaround is coming your way...”.',
+            '1 take no Muse: a abertura das letras do nome, a que mais se repete entre contas diferentes depois do ritual (m07, m17, m37, m59: 4 contas), com a frase delas: “…be very careful.”',
+            'Depois, o mesmo corpo do nora75 (a maioria faz isso: o mesmo corpo com vários ganchos). Sem texto no topo; só o 11:11✨.',
+            'Insta e Face ~0h00 (4h30 depois do nora75).',
         ],
     }
     P['ordem'] = ['pecas', 'agente', 'cenas', 'textotela', 'story', 'descricao', 'comentario', 'respostasface']
@@ -329,5 +349,5 @@ def salvar(P, nn, rotulo):
 
 if __name__ == '__main__':
     print(N, 'takes,', PALAVRAS, 'palavras')
-    salvar(nora75(), 'nora75', 'Painel nora75 · a Nora igual à maioria · 23/11')
-    salvar(nora76(), 'nora76', 'Painel nora76 · o mesmo corpo, outro gancho · 23/11')
+    salvar(nora75(), 'nora75', 'Painel nora75 · a canela no copo d’água · 23/11')
+    salvar(nora76(), 'nora76', 'Painel nora76 · as letras do nome + o mesmo corpo · 23/11')

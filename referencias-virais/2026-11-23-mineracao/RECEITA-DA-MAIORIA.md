@@ -83,3 +83,6 @@
 - **O volume, como a maioria faz:** os takes T03 a T16 servem de corpo nos próximos posts. A cada post sai um Take 1 novo (T01 e T02, outro ritual dito: o leite no vinho, o alho, a chave debaixo do travesseiro, a canela na palma) e, se a data mudar, o T03. São 2 a 3 clipes por post, em vez de 16.
 - **O Muse:** 16 clipes cabem no bilhão, mas o limite do dia é de ~15 vídeos (28ª leitura). Gerar cedo; se bater o limite, os que faltam saem no dia seguinte.
 - **A régua:** com ~24 h, as views, a Índia, as visitas ao perfil e o Tracker, contra o nora69 e o nora70 (a mesma copy com o pacote antigo) e contra o nora74.
+
+## 23/11 ~18h05: o nora75 refeito
+A proposta da seção 3 (o carro com o pau de canela) misturava peças de vídeos diferentes, e nenhum dos 43 faz aquilo. O nora75 passou a ser a cópia de um vídeo real que se repete: o m30 = o m61 (a canela em pó McCormick no copo d'água, no sofá, camiseta preta, nada no topo, só o 11:11✨, a seta no fim), com a fala deles frase por frase, reescrita o mínimo e sem o "free". O nora76 é o mesmo corpo com as letras do nome (4 contas). `ROTEIRO-DIA-2311-NORA75-76.md`.
