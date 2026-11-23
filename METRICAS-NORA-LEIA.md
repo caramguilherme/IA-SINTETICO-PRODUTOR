@@ -1150,3 +1150,18 @@ Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, co
 - **O que ele mede:** é o campeão de 06 a 10/11 (o tsunami + os signos de terra + o corpo A limpo, com os selos e o 222 na fala). **500+ views no Insta = a fórmula ainda entrega na conta; ~150 = fadiga da fórmula (aula 31; Clone R84)**, e a pergunta da conta fica com a régua de ~3 semanas de flop (~02/12). **O horário é uma 2ª variável:** de manhã o Insta costuma vir com 36% a 44% de Índia; com muita Índia e ~150, o teste não fecha.
 - **A régua com ~24 h (~10h33 de 24/11):** no Insta, views, a fatia dos EUA e da Índia, as visitas ao perfil e os follows (os campeões trouxeram 10 a 19), contra o nora48 a nora50 (1,6 mil a 2 mil) e o nora73 (246); no Face, a distribuição na Biblioteca contra o nora73-FACE (307, +0,9x) e o nora47-FACE (o mesmo hook); e o Tracker de 23/11.
 
+
+## 23/11/2026 16h07: o nora74 no Insta com 14 views em ~5h34 (o aluno: "geralmente passava de 100… não fiz nada de diferente")
+- **Fora da curva:** desde 23/10, nenhum post do Insta ficou abaixo de 100 views. Os 3 de manhã fizeram 117 (nora26, 08h35), 140 (nora55, 10h20) e 551 (face01, 11h28). Então o horário traz Índia, mas não explica 14.
+- **14 em ~6 h é o padrão de um Reel que não foi recomendado a quem não segue** (só seguidores e o perfil).
+- **A hipótese nº 1:**
+  - O hook é o **mesmo arquivo** (o tsunami do nora47, 7,85 s) já postado nesta conta do Insta pelo menos 6 vezes: nora47 a nora50 em 04 a 10/11, nora55 (o curto, 11/11) e o longo de 12/11.
+  - O Instagram reduz a recomendação de conteúdo repetido ou não original.
+  - No Face, a mesma coisa já tinha aparecido: 4 de 6 peças só de edição travaram, e repetir o mesmo arquivo de hook em posts seguidos trava (21/11 12h15).
+  - O nora69 e o nora70, com os mesmos selos e o 222 mas com o hook novo, fizeram 110 a 150.
+- **Nº 2 (mais fraca):** os pedidos de engajamento na fala (salvar, seguir, comentar para "claim this energy") e as promessas de dinheiro. As diretrizes de recomendação da Meta citam a isca de engajamento, mas os campeões de 06 a 10/11 tinham o mesmo texto e passaram de 1,6 mil.
+- **Como confirmar** (prints pedidos ao aluno):
+  - no Insights do nora74, a fatia de não seguidores e de onde vieram as views;
+  - no Insta, Configurações → Status da conta → "O que pode ser recomendado";
+  - na Biblioteca do Face, o nora74-FACE (a mesma peça na outra rede).
+- **Risco para o nora76 de hoje:** ele repete o corpo do nora75 (T02 a T13) ~4h30 depois, na mesma conta. Se a hipótese nº 1 se confirmar, o nora76 corre o mesmo risco. A decisão é do aluno.
