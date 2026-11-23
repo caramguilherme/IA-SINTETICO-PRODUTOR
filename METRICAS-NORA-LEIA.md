@@ -991,6 +991,17 @@ O aluno ficou fora de 21/11 de manhã a 22/11 22h23: nenhum post novo e o story 
   - **Brasil 2%:** está fora da restrição de país da Página. Pode ser a visita do próprio aluno; bate com os 2% de "compartilhamento de link" no tráfego.
   - **Cliques no link: "Insights não disponíveis"**, como no nora71-FACE e no nora72-FACE, que deram 0 no Tracker. Quem confirma é o Tracker de 20 a 22/11.
 
+## 22/11/2026 22h38: o Tracker de 20, 21 e 22/11 (prints do aluno)
+- **20/11 fechado: 0 clique** (0 quiz, 0 checkout). A linha do norakensleytarot (Instagram) aparece zerada, e o FACE nem aparece. Naquele dia estavam no ar o story e os posts do nora72 e do nora73.
+- **21/11: "Nenhum dado encontrado"**, ou seja, 0. O story ficou no ar até ~18h15.
+- **22/11 até 22h38: "Nenhum dado"**, ou seja, 0. O story ficou fora do ar até 22h30.
+- **São 3 dias seguidos com 0 clique.** O último clique foi em 19/11: 8 cliques, todos do Insta, vindos do curto ini1811. O total do Manifestation segue em ~49 cliques reais desde 27/10, com 0 checkout.
+- **O que mostra:**
+  - Nenhum falado de 19 a 21/11 levou clique: o nora70, o nora71, o nora72, o nora73 e a variação do nora69.
+  - O nora73-FACE, com +0,9x e 75% de EUA, também deu 0.
+  - No Face, a entrega de ~300 views por falado não está virando clique. No Insta, as visitas ao perfil seguem em 0 a 1 por vídeo.
+  - A pausa de 21 e 22/11 (sem post e sem story) entra junto, mas o dia 20/11, com tudo no ar, já tinha dado 0.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
