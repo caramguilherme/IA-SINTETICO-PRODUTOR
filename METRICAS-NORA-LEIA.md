@@ -1173,3 +1173,8 @@ Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, co
     - a queda da conta desde 11/11: todo falado ficou entre 110 e 250, e veio a 2ª verificação facial em 17/11;
     - com menos peso, a isca de engajamento e o dinheiro na fala.
   - Os prints (os não seguidores e a origem das views no Insights, o Status da conta e o nora74-FACE) decidem.
+- **17h43, o nora74-FACE com ~7h13** (Biblioteca e Insights):
+  - 104 views, −0,5x, 4 s de tempo médio, 30,8% nos 3 s, a maior saída aos 0:02, taxa de 20 s de 1,0%;
+  - **100% não seguidores**, com 93,9% vindo de Sugestões.
+  - **No Face o vídeo foi recomendado normalmente.** O conteúdo não está barrado pela Meta, e os 14 do Insta são coisa do Instagram (a conta ou este Reel).
+  - Mas no Face o tsunami também segurou pouco: o nora73-FACE tinha 48,7% nos 3 s, e o nora68-FACE 41%. Faltam o Insights do nora74 no Insta (a fatia de não seguidores) e o Status da conta.
