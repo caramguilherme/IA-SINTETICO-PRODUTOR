@@ -337,6 +337,11 @@
   - A = o R80 com "because this new season opens differently for every woman" (o m08);
   - B = o motivo pela frequência (o m29 e o m37: "The money gets close… then slips away. You don't need to work harder. You need to adjust your frequency."). É a mesma linguagem da VSL do funil ("vibrating on the right frequency", `ANALISE-FUNIL-MANIFESTATION-VSL.md`).
   - Só no Insta, porque fala de dinheiro.
+- **Do lote 2 (23/11 15h56), para o nora77 em diante:**
+  - (1) **o Take 1 com a frase mais copiada, em casa:** "Put cinnamon in a glass of water before you leave the house. I know it sounds ridiculous, but you'll thank me for the rest of your life." É o m30 e o m61, palavra por palavra, e o nº 3 do Scoped (1,8 mi). Ela despeja a canela no copo enquanto fala.
+  - (2) **o CTA da frequência** (3 contas), só no Insta;
+  - (3) **a bandeira dos EUA visível no cenário** (8 vídeos; aula 37, 1:22:27);
+  - (4) **"Cross the fingers of your left hand right now… do not uncross your fingers"** como abertura (o m60) ou como retenção no meio (o m05 e o m13).
 - **Tipos de Take 1 que nunca rodaram:**
   - a cena "There is a woman lying down with her phone in her hand right now…" (7 vídeos, 5 contas);
   - a contagem "Ready? Three, two, one." (3 contas), sem a continuação com ameaça;

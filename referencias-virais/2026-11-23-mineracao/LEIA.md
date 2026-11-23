@@ -64,10 +64,23 @@
 | m44 | (sem @) · EN · 82 s | fala desde 0: "Ready? Three, two, one. Two people ignore this video…" | a senhora do m31, no carro; 11:11 e 444 | corpo A com "In 33 minutes" + 3 selos + "Comment done" + "the second part of this sign" |
 | m46 | (sem @) · ES · 49 s | fala desde 0 dirigindo: "Ni se te ocurra pasar de largo este video" | a grisalha do m32, no carro; 222 | "Alguien que se alejó de tu vida se está arrepintiendo… en las próximas 72 horas" + "Comenta el primer número que te venga a la mente" + "quick reading" |
 | m47 | (sem @) · EN · 107 s | o mesmo do m22 (canela na calcinha rosa) | igual | corpo A ("November 25th") + "quick reading" |
+| **m59** (lote 2) | @itssamanthawise · EN · 151 s | fala desde 0 com uma carta de tarô com "10:10" escrito: "If your name starts with the letter A, J, M, K, C, E, S, L, R, T or H, be very careful." | ~30, cabelo cacheado, regata vermelha; **bandeira grande dos EUA na parede**, a estátua dourada do arcanjo, vela e ametista; 222 | o roteiro do m37: "I will literally change my name", "11:11 portal", "three magnetic seals" + "comment 222" + "in 33 minutes" + **o CTA da frequência** ("frequency aligner… open the link in my story… for a limited time"); caixa branca "Your second message is in my Stories" no fim |
+| **m60** (lote 2) | @laurenmatthewsmn · EN · 114 s | fala desde 0 de dedos cruzados: "Cross the fingers of your left hand right now… do not uncross your fingers." | a mesma do m03, de suéter rosa com camiseta branca, óculos, sala; bandeira pequena dos EUA; 222 nos 2 cantos | as 2 datas ("Monday, November 23rd or Tuesday 24th") + o corpo A inteiro (o mesmo texto do m03) + "quick reading" |
+| **m61** (lote 2) | @melyastro.eua · ES · 133 s | fala desde 0 despejando canela McCormick num copo d'água: "Canela en polvo dentro de un vaso de agua antes de salir de casa. Sé que parece ridículo…" | homem ~40, cabelo comprido, barba, camiseta preta; sofá; 11:11✨ | **o texto do m30 (@alessandra.eua) palavra por palavra**, com "lectura rápida y gratuita"; as 2 contas ".eua" repetem o mesmo vídeo |
 
 **Os 18 que não são Auraly, numa linha:** o gancho do dia fora da Auraly é **"This video will find you on Monday, November 23rd. And if it does, this message is 100% meant for you."** (4 contas reais, 9 vídeos: m33, m39, m42, m43, m45, m49, m50, m56 e m58), seguido de "comment I accept / send this to 3 people / follow me / karma is real". Vários puxam **a lua cheia de amanhã** ("the most powerful full moon… hasn't happened in over 84 years": o "84 anos" é inventado). A brasileira usa a caixa nativa branca do Instagram o vídeo todo ("Ignorou dia 23/11 Acorda viu!!!!") e o corpo A traduzido.
 
 ## 3. O que a maioria faz hoje (40 vídeos, 18 contas da Auraly)
+**Lote 2 (23/11 15h56, m59 a m61):** com eles, são 43 vídeos de 20 contas. Os números mudam pouco, e a receita não muda:
+- a fala desde o 1º quadro em 29;
+- o ritual dito em 13 (8 contas);
+- a data em 27;
+- o corpo A em 34;
+- o CTA "quick reading" em 24;
+- a canela em 9 (7 contas);
+- a mediana de 1:48.
+
+O que cresceu: **o CTA da frequência** (o m29, o m37 e o m59: 3 contas) e **a bandeira dos EUA** (8). **"Canela en polvo dentro de un vaso de agua antes de salir de casa"** já é a frase mais copiada palavra por palavra: o m30, o m61, o v3 de 20/11 e, em inglês, o nº 3 do Scoped (1,8 mi). "Cross your fingers on your left hand right now" aparece em 3 vídeos, de 2 contas.
 1. **A fala começa no 1º quadro em 26 de 40.** Os outros 14 têm de 2 a 8 s de ação muda antes (o ritual, a maleta, o pano), quase todos de 4 contas: @darius.whitmore, @elenamarlowe.ofc, o homem da calcinha e @jasonmonroe222 (2 de 6).
 2. **O Take 1 mais usado é o ritual doméstico dito com o objeto na mão** (12 vídeos, 7 contas): "[algo estranho com um objeto da casa]… I know it sounds ridiculous, but you'll thank me for the rest of your life." É canela, alho na privada, leite no vinho, Jack Daniel's, açúcar na porta, a chave debaixo do travesseiro ou dinheiro escrito na planta. Ela faz o ritual enquanto fala.
 3. **Data no Take 1 ou logo depois em 24 de 40**, quase sempre 1 a 3 dias à frente ("before November 25th"). **A janela de 2 ou 3 datas** aparece em 5 ("November 22nd, 23rd or 24th").

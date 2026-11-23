@@ -30,6 +30,14 @@
 | **Bandeira dos EUA** | pequena (broche, emoji ou na parede) | 6 |
 | **Volume** | o **mesmo corpo com vários Take 1** (o @jasonmonroe222: 6 ganchos no mesmo corpo em 24 h) e **o mesmo vídeo repostado** com outro número, outra data ou outra roupa (4 contas, 2 a 3 vezes no mesmo dia) | 4 a 6 contas |
 
+**Lote 2 (23/11 15h56, m59 a m61; 43 vídeos de 20 contas):**
+- **A receita não muda:** os 3 vídeos novos falam desde o 1º quadro e usam a data e o corpo A; 2 usam o CTA "quick reading".
+- **Cresceram:**
+  - o CTA da frequência (3 contas: m29, m37, m59);
+  - a bandeira dos EUA (8 vídeos; no m59, grande na parede);
+  - a canela (9 vídeos, 7 contas).
+- **A frase mais copiada palavra por palavra** é "Canela en polvo dentro de un vaso de agua antes de salir de casa" (m30, m61, o v3 de 20/11 e, em inglês, o nº 3 do Scoped, 1,8 mi). O nora75 usa a canela dita, com o pau de canela no carro.
+
 ## 2. O que a Nora faz diferente da maioria hoje
 1. **O rosto:** a Nora tem a lua e as 3 estrelinhas pintadas; nenhum dos 40 tem pintura. Tirar a pintura no mesmo perfil pode desde que fechou a janela dos 40 vídeos (Clone R79), por decisão do aluno.
 2. **A roupa e o cenário:** a Nora tem a cor esmeralda e os acessórios dourados fixos (o `DNA Visual - Nora v2.md`), e a regra de abertura de 17/11 pede a "leitora mística" com vela, cristais e cartas. A maioria usa roupa de casa e o carro, o banheiro ou a cozinha. Do nora69 ao nora74 a Nora já foi para o carro, a escada e o bunker, e o carro segurou mais nas duas redes (o nora72).

@@ -74,7 +74,8 @@ def main():
             if len(p) >= 3 and p[0] != 'n':
                 feitos[p[1]] = p
     prox = max([int(p[0]) for p in feitos.values()] + [0]) + 1
-    lote = datetime.datetime.now().strftime('%d/%m %H:%M')
+    from zoneinfo import ZoneInfo
+    lote = datetime.datetime.now(ZoneInfo('America/Sao_Paulo')).strftime('%d/%m %H:%M')
     novos = []
     for i, nome in listar(pasta):
         if i not in feitos:
