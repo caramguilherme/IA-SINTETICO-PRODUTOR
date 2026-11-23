@@ -318,7 +318,7 @@
 - **A Estrutura Invisível + a Modelagem** (os 2 prompts do Copy Hub) entram no processo da mineração dos vídeos do dia: a Estrutura Invisível em cada transcrição; a Modelagem, com o Gancho A e o Gancho B, no vídeo escolhido para o próximo falado. Eu faço os dois aqui. **Desde 23/11 14h07, são skills do projeto** (`.claude/skills/estrutura-invisivel-copy/` e `.claude/skills/modelar-copy-vencedora/`, com a seção "NO PROJETO DA NORA"); o formato da tabela segue o PDF de exemplo (`MATERIAIS-COPY-HUB-23-11/exemplo-pratico-estrutura-invisivel.txt`).
 - **O nora74 é o perfil ruim do Copy Hub** (o Arcanjo "mandou um aviso", os selos, o 222 e "the second part of this sign"): se ele der views e nenhum clique, a explicação já está escrita; o próximo falado volta ao CTA padrão (R80).
 
-## 23/11/2026 ~15h40: da mineração dos 58 vídeos das últimas 24 h (`referencias-virais/2026-11-23-mineracao/LEIA.md`; seção 55 do `BIBLIOTECA-VIDEOS-VIRAIS.md`)
+## 23/11/2026 15h20: da mineração dos 58 vídeos das últimas 24 h (`referencias-virais/2026-11-23-mineracao/LEIA.md`; seção 55 do `BIBLIOTECA-VIDEOS-VIRAIS.md`)
 - **[O próximo falado, proposto] O teste de gancho da Modelagem** (`referencias-virais/2026-11-23-mineracao/MODELAGEM-PROXIMO-FALADO.md`): o mesmo corpo leve (a dor das contas na 2ª frase, os sinais pequenos, o futuro sem dinheiro, o CTA R80 com o motivo "cada mulher") com 2 ganchos, um em cada vídeo:
   - A = a janela de 2 datas ("If this video found you on [dia] or [dia], it didn't find you by accident.");
   - B = o ritual dito com a lua cheia de verdade ("Before [Tuesday's] full moon, put a glass of water by your window. I know it sounds strange, but you'll thank me."). O B só serve até a noite de 24/11.

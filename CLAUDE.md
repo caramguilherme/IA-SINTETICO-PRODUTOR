@@ -102,7 +102,7 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
 - **Dashboard:** para atualizar, editar o CSV, rodar `ferramentas-painel/dashboard/preparar_csv.py`, subir a cópia sem o BOM como asset e dar `update` em `datasets/metricas` (`source.url`, `source.name`, `updated`) com `if_version`; receita completa em `ferramentas-painel/dashboard/COMO-RECRIAR.md`.
 
 ## 4. Diário de decisões (as novas entram aqui, datadas; as anteriores a 17/11 estão em `HISTORICO-CLAUDE-MD.md`)
-- **23/11/2026 ~15h40, a 1ª mineração dos vídeos das últimas 24 h** (58 vídeos da pasta do aluno; `referencias-virais/2026-11-23-mineracao/`; seção 55 do `BIBLIOTECA-VIDEOS-VIRAIS.md`): 40 são de 18 contas da Auraly, e 18 são de uma brasileira da "consulta espiritual" e de contas só de engajamento. **O que a maioria faz:**
+- **23/11/2026 15h20, a 1ª mineração dos vídeos das últimas 24 h** (58 vídeos da pasta do aluno; `referencias-virais/2026-11-23-mineracao/`; seção 55 do `BIBLIOTECA-VIDEOS-VIRAIS.md`): 40 são de 18 contas da Auraly, e 18 são de uma brasileira da "consulta espiritual" e de contas só de engajamento. **O que a maioria faz:**
   - a fala desde o 1º quadro em 26 de 40;
   - o ritual doméstico dito com o objeto na mão em 12 (7 contas);
   - uma data em 24;
