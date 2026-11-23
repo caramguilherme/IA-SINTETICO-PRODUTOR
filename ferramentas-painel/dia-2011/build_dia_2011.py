@@ -2,7 +2,7 @@
 # nora73 (Insta 19h30; Face 0h00 de 21/11): o nora72 inteiro (a canela no carro + a fala dos 3 sinais) com UMA frase nova na frente,
 #   as letras do nome ("If your name starts with the letter A, J, M, K, C, E, S, L, R, T or H, pay close attention."). 1 take no Muse.
 #   Fontes: o viral 52.2 (16/11), o v4 da @takedanaomi_ (20/11, a mesma frase) e o ini1811 (o único post que levou gente ao perfil).
-# nora74 (Insta em 23/11 entre ~00h30 e 01h00, decisão do aluno às 23h52 de 22/11; não gerado em 20 e 21/11; só no Insta): o campeão de volta (o nora48 a nora50), feito do zero no Muse. Ver build_nora74 abaixo.
+# nora74 (Insta e Face em 23/11 ~10h45, decisão do aluno às 10h18 para testar o horário; o Face sem T04, T06, T07 e o começo do T08): o campeão de volta (o nora48 a nora50), feito do zero no Muse. Ver build_nora74 abaixo.
 # Uso (raiz do repositório): python3 -I ferramentas-painel/dia-2011/build_dia_2011.py
 import sys, json, copy, re, pathlib, importlib.util
 
@@ -194,19 +194,20 @@ def nora74():
     P['imagens'] = [{'rotulo': 'IMAGEM 1 · d2011-bunker-IMG', 'cena': 'já existe (o último quadro do hook do tsunami; eu mandei no chat)', 'anexar': 'a d2011-bunker-IMG'}]
     P['roteiro'].update({
         'id': 'nora74-CAMPEAO-ONDA-2011',
-        'titulo': 'nora74 · Insta em 23/11, ~00h30 a 01h00 · o campeão de volta: o tsunami original + Touro, Virgem e Capricórnio + o corpo A limpo',
+        'titulo': 'nora74 · Insta e Face em 23/11 ~10h45 · o campeão de volta: o tsunami original + Touro, Virgem e Capricórnio + o corpo A limpo',
         'duracao_total': 70,
         'descricao_instagram': ("Taurus, Virgo, Capricorn: if you've been carrying everything on your own, listen before the year ends. 🔮\n"
                                 'The worst is finally over. Your private reading is waiting in my story.\n'
                                 'Comment 222 to claim this energy 👇\n'
                                 '#manifestation #taurus #virgo #capricorn #2027'),
-        'descricao_face': 'Não vai ao Face: os selos e o pedido de comentário na fala são isca de engajamento lá.',
+        'descricao_face': ("Taurus, Virgo, Capricorn ✨ if you've been carrying everything on your own, this is for you. Your reading is waiting in my story and in the comments 🔮\n"
+                           '#manifestation #taurus #virgo #capricorn #2027'),
     })
     P['videos'] = [{'rotulo': f'T{i + 1:02d}', 'cena': SUF74[i], 'duracao': 10, 'primeiro_quadro': 'IMAGEM 1 (d2011-bunker-IMG)', 'acao': '', 'b_roll': '',
                     'fala': FALA74[i], 'movimentacao': mov74(i), 'arquivo': nome74(i)} for i in range(N74)]
     P['texto_tela'] = {'hook': 'Taurus, Virgo or Capricorn:\n[listen to this]', 'hook_comeca': 'o 1º quadro do hook', 'hook_termina': 'o fim da 1ª frase (o T01)',
                        'hook_alt': '', 'extras': []}
-    P['comentario_fixado'] = {'insta': 'The worst is finally over 🙏 tap my profile picture above, the second part is waiting in my story', 'face': '(não vai ao Face)'}
+    P['comentario_fixado'] = {'insta': 'The worst is finally over 🙏 tap my profile picture above, the second part is waiting in my story', 'face': 'Your reading for 2027 is right here ✨ 👉 https://app.auralyapp.com/6a90ad82719e8d2b35da8a7c?rt_ad=norakensleytarot&utm_source=facebook&utm_content=FACE&aff=dl7zx6ks'}
     P['story'] = {'ja_postado': True, 'nota': 'Antes de postar, confira se o story repostado em 22/11 às 22h30 (o adesivo “TAP TO CONTINUE 🎁”, com o link STORYIG) está no ar no Insta: ele vence ~22h30 de 23/11.'}
     P['mapa_tela']['estilos'][0]['cor'] = 'branca, letra preta, “listen to this” em vermelho'
     lista = ' · '.join(f'{i + 1} = {nome74(i)}' for i in range(N74))
@@ -242,8 +243,8 @@ def nora74():
         {'quando': 'A. Antes de tudo', 'texto': 'Projeto novo no CapCut com o nora74-cortado', 'como': 'É o vídeo que saiu da FusionZ. Começa direto no T01.'},
         {'quando': 'B. O hook: NÃO põe no CapCut', 'texto': 'O tsunami original (o nora47-PRE-tsunami-inteiro-AB que você mandou) já está comigo', 'como': 'Eu emendo o hook antes do T01, em corte seco.'},
         {'quando': '1. Do T01 ao fim', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB', 'como': 'Começa no 1º quadro do montado.'},
-        {'quando': '2. Exportar e me mandar assim que ficar pronto (até ~00h10 para as 00h30, ~00h40 para a 01h00; eu devolvo em ~20 min)', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
-         'como': '1080×1920, nome nora74-montado (acima de 30 MB, link do Drive). Eu devolvo o nora74-final em ~20 min (Insta, ~00h30 a 01h00 de 23/11). Não vai ao Face.'},
+        {'quando': '2. Exportar e me mandar (entregue em 23/11 10h20)', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
+         'como': '1080×1920, nome nora74-montado (acima de 30 MB, link do Drive). Eu devolvo o nora74-final (Insta, completo) e o nora74-final-FACE (sem os selos do T07, sem o "Comment 222… then" do T08 e sem o dinheiro do T04 e do T06).'},
     ]
     P['pecas'] = {
         'titulo_decisao': 'Resumo',
@@ -253,7 +254,7 @@ def nora74():
         'decisao': [
             '8 takes no Muse: o campeão de 06 a 10/11 (o nora48 a nora50: 1,6 mil a 2 mil views, 10 a 19 follows) feito de novo: o tsunami original + Touro, Virgem e '
             'Capricórnio + o corpo A limpo, com o texto como era (o segredo, o Arcanjo, os selos, o 222). A fala continua dentro do bunker, no último quadro do hook.',
-            'Insta em 23/11 entre ~00h30 e 01h00 (decisão do aluno; o montado até ~00h10 para as 00h30 ou ~00h40 para a 01h00; eu devolvo em ~20 min). Antes de abrir o Insta, conferir o IP e os EUA no mylocation.org. Não vai ao Face. O limite do Muse (~15 por dia) está livre.',
+            'Insta e Face em 23/11 ~10h45 (decisão do aluno, para testar o horário nas duas redes; de manhã o Insta costuma vir com 36% a 44% de Índia). Antes de abrir o Insta, conferir o IP e os EUA no mylocation.org. O Face vai na versão -FACE, com o comentário da Página com o link FACE (sem a prévia, fixado pelo app).',
             'Hipótese: se o campeão também fizer ~150 views, a trava é a conta (e vem a Nora sem a pintura, depois dos 40 vídeos que o nora74 fecha); se passar de 500, é a copy.',
         ],
     }

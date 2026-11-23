@@ -1,0 +1,89 @@
+{
+ "entrada": "/tmp/claude-0/-workspace-IA-SINTETICO-PRODUTOR/0f1d3084-6c9c-5025-9335-535fd154c68d/scratchpad/n74/out-insta/nora74-legenda.mp4",
+ "saida": "/tmp/claude-0/-workspace-IA-SINTETICO-PRODUTOR/0f1d3084-6c9c-5025-9335-535fd154c68d/scratchpad/n74/out-insta/nora74-final.mp4",
+ "crf": 21,
+ "preset": "medium",
+ "estilo": "alto-contraste",
+ "itens": [
+  {
+   "tipo": "caixa",
+   "ini": 0,
+   "fim": 14.74,
+   "x": 0,
+   "y": 500,
+   "tamanho": 11,
+   "linhas": [
+    "Taurus, Virgo or Capricorn:",
+    "[listen to this]"
+   ],
+   "caixa": {
+    "fundo": [
+     255,
+     255,
+     255,
+     255
+    ],
+    "texto": "#000000",
+    "destaque": "#E53935",
+    "fonte": "bold",
+    "destaque_fonte": "bold",
+    "raio": 14,
+    "sombra": null
+   }
+  },
+  {
+   "tipo": "texto",
+   "ini": 0,
+   "fim": 65.217692,
+   "x": -230,
+   "y": 282,
+   "tamanho": 13,
+   "texto": "222",
+   "cor": "#FFFFFF"
+  },
+  {
+   "tipo": "texto",
+   "ini": 0,
+   "fim": 65.217692,
+   "x": 230,
+   "y": 282,
+   "tamanho": 13,
+   "texto": "11:11",
+   "cor": "#FFFFFF"
+  },
+  {
+   "tipo": "caixa",
+   "ini": 60.67,
+   "fim": 65.217692,
+   "x": 0,
+   "y": 470,
+   "tamanho": 10,
+   "linhas": [
+    "Tap my photo:",
+    "your 2027 reading is in [my story]"
+   ],
+   "caixa": {
+    "fundo": [
+     255,
+     255,
+     255,
+     255
+    ],
+    "texto": "#000000",
+    "destaque": "#E53935",
+    "fonte": "bold",
+    "destaque_fonte": "bold",
+    "raio": 14,
+    "sombra": null
+   }
+  },
+  {
+   "tipo": "seta",
+   "ini": 60.67,
+   "fim": 65.217692,
+   "x": -300,
+   "y": -400,
+   "tamanho": 14
+  }
+ ]
+}

@@ -1,0 +1,168 @@
+{
+ "keep": [
+  [
+   0.0,
+   6.76
+  ],
+  [
+   8.2,
+   10.58
+  ],
+  [
+   11.02,
+   15.659999999999998
+  ],
+  [
+   16.18,
+   19.740000000000002
+  ],
+  [
+   20.1,
+   23.16
+  ],
+  [
+   32.76,
+   34.559999999999995
+  ],
+  [
+   35.199999999999996,
+   40.0
+  ],
+  [
+   61.42,
+   65.67999999999999
+  ]
+ ],
+ "cortes": [
+  [
+   6.76,
+   8.2
+  ],
+  [
+   10.58,
+   11.02
+  ],
+  [
+   15.659999999999998,
+   16.18
+  ],
+  [
+   19.740000000000002,
+   20.1
+  ],
+  [
+   23.16,
+   32.76
+  ],
+  [
+   34.559999999999995,
+   35.199999999999996
+  ],
+  [
+   40.0,
+   61.42
+  ]
+ ],
+ "legenda": [
+  [
+   "Taurus Virgo or Capricorn",
+   7.85,
+   10.05
+  ],
+  [
+   "if you've been carrying everything on",
+   10.05,
+   11.77
+  ],
+  [
+   "your own listen to this before",
+   11.77,
+   13.649999999999999
+  ],
+  [
+   "the year ends",
+   13.649999999999999,
+   14.67
+  ],
+  [
+   "Don't tell anyone what's about to happen",
+   14.67,
+   17.050000000000004
+  ],
+  [
+   "I don't know your name or",
+   17.050000000000004,
+   18.17
+  ],
+  [
+   "what you did",
+   18.17,
+   19.120000000000005
+  ],
+  [
+   "but the universe saw your faith",
+   19.150000000000002,
+   21.69
+  ],
+  [
+   "A major turnaround is coming your",
+   21.69,
+   23.67
+  ],
+  [
+   "way over the next few days",
+   23.67,
+   25.250000000000004
+  ],
+  [
+   "I see something very unusual happening",
+   25.250000000000004,
+   27.390000000000004
+  ],
+  [
+   "in your life",
+   27.390000000000004,
+   28.310000000000006
+  ],
+  [
+   "Archangel Michael has sent a warning",
+   28.310000000000006,
+   30.110000000000003
+  ],
+  [
+   "A phase of victory and prosperity",
+   30.110000000000003,
+   31.890000000000004
+  ],
+  [
+   "is approaching your life",
+   31.890000000000004,
+   33.31
+  ],
+  [
+   "The worst is finally over",
+   33.31,
+   34.85000000000001
+  ],
+  [
+   "tap my profile picture",
+   34.85000000000001,
+   36.21000000000001
+  ],
+  [
+   "The second part of this sign",
+   36.21000000000001,
+   37.35000000000001
+  ],
+  [
+   "is waiting in my stories",
+   37.35000000000001,
+   38.86000000000001
+  ]
+ ],
+ "t_tap": 31.681818181818187,
+ "t_gancho": 13.17272727272727,
+ "hook_dur": 7.136363636363636,
+ "dur_final": 35.728204545454545,
+ "video": "/tmp/claude-0/-workspace-IA-SINTETICO-PRODUTOR/0f1d3084-6c9c-5025-9335-535fd154c68d/scratchpad/n74/out-face/nora74-legenda-FACE.mp4"
+}
