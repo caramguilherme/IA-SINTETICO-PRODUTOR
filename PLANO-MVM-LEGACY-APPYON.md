@@ -434,6 +434,7 @@ Base: Módulo 3 da área de membros (“Desenvolva a Arte de Vender”), Módulo
 - **Comentário fixado no Insta: sem link.** Link em comentário do Insta não vira clicável e pode parecer spam. O fixado só reforça o caminho: “Your reading is waiting in my story 🔮” ou, mais direto, “👆 Tap my photo now, your sign disappears in 24h” (desde o B4V). No Face: um fixado sem link e outro comentário com o link logo abaixo (Método Nora; onde vai cada link: Postagem › Link no Face, DM e automação)
 
 ### Garimpo e modelagem
+- **O Copy Hub (Central, publicado em 20/11; colado pelo aluno em 23/11; `MATERIAIS-COPY-HUB-23-11/`):** a análise do perfil bom contra o ruim do Love Reading (o bom, com 27% dos checkouts virando venda: janela de 2 datas, dor falada, virada com "mas", promessa concreta com prazo curto e iniciais, CTA de engajamento sem ameaça e o link como opção; o ruim, com 7%: "deus" na última chamada, ameaça, escassez, promessa empilhada, comando físico, a "segunda parte da mensagem"); o Briefing de Escrita 2 (estrutura, 8 ganchos, 7 ângulos, 4 formatos, retenção e CTA); os prompts Estrutura Invisível (18 elementos, esqueleto) e Modelagem (Gancho A e B, o que mudou e por quê, corpo até ~30% maior, prova nunca inventada); o Cold Reading (161); e os conceitos (MUS e MUP, 6 ângulos, 6 premissas, hierarquia de prova, as 4 alavancas para bater o controle).
 
 **Onde garimpar**
 
