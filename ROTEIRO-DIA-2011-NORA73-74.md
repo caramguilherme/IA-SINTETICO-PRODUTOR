@@ -60,7 +60,7 @@
   - se fizer ~150 views, a trava é a conta: vem a Nora sem a pintura, depois dos 40 vídeos que o nora74 fecha;
   - se passar de 500, é a copy, e o black soft volta;
   - olhar também as visitas ao perfil, os follows e o Tracker.
-- **Postagem:** **não foi feito nem postado em 20/11** (aluno, 21/11 ~09h25: "nao fiz e nem postei o nora74 ontem"). **Passou para o Insta às 19h30 de 21/11**, o montado até ~19h00; o painel foi posto em dia e republicado no mesmo link (versão 3, 21/11 ~09h30).
+- **Postagem:** **não foi feito nem postado em 20/11** (aluno, 21/11 ~09h25: "nao fiz e nem postei o nora74 ontem"). **Passou para o Insta às 19h30 de 21/11 e, como também não foi feito (o aluno ficou fora de 21/11 de manhã a 22/11 22h23), para a 0h00 ou as 19h30 de 23/11 (painel republicado em 22/11 ~22h25)**, o montado até ~19h00; o painel foi posto em dia e republicado no mesmo link (versão 3, 21/11 ~09h30).
 - **Limite do Muse:** ~15 vídeos por dia, renovado em 21/11: os 8 takes cabem. Gerar cedo.
 
 ## A contagem para a validação
