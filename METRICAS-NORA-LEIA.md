@@ -985,6 +985,11 @@ O aluno ficou fora de 21/11 de manhã a 22/11 22h23: nenhum post novo e o story 
   - Sem post novo por ~2,5 dias, os vídeos antigos quase não andaram. O único que subiu foi o nora73-FACE, de 275 para 307.
   - A variação travada segue fora da distribuição, mesmo com quem assistiu ficando 16 s.
   - Para julgar a pausa, falta o Insta e o Tracker.
+- **Os Insights do nora73-FACE (~52 h):**
+  - **Retenção:** 19% assistido em média e **15,8% aos 20 s** (era 16,5% com ~15 h; segue a maior taxa de 20 s que anotamos no Face). A maior saída é aos 0:03.
+  - **Público:** 99,3% não seguidores, 0 seguidores novos. **EUA 75,5%**, Canadá 10,2%, Austrália 6,8%, Reino Unido 2,7%. 45+ = 76,5%.
+  - **Brasil 2%:** está fora da restrição de país da Página. Pode ser a visita do próprio aluno; bate com os 2% de "compartilhamento de link" no tráfego.
+  - **Cliques no link: "Insights não disponíveis"**, como no nora71-FACE e no nora72-FACE, que deram 0 no Tracker. Quem confirma é o Tracker de 20 a 22/11.
 
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
