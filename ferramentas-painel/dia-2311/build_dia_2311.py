@@ -113,7 +113,7 @@ def prompt_manual(txt, movimento, objeto, arquivo=None, clip=1, total=N):
             'sofa in her living room and speaks directly to the camera.\n\n'
             'SPOKEN DIALOGUE (she says exactly this, once, in this order, with nothing added): "' + txt + '"\n\n'
             'VOICE CHARACTERISTICS (LOCKED):\n' + voz + '\n\n'
-            # 23/11 19h05: a voz do T01 do nora75 saiu diferente da do T02 em diante. Os takes da Central levam também o campo
+            # 23/11 19h00: a voz do T01 do nora75 saiu diferente da do T02 em diante. Os takes da Central levam também o campo
             # "Prompt de consistência de voz" (VC.NORA), e o prompt avulso não levava. Agora leva, mais o pedido da mesma voz da conversa.
             + VC.NORA.replace('{clip}', str(clip)).replace('{total}', str(total)) + '\n\n'
             'SAME VOICE AS THE OTHER CLIPS: use exactly the same voice as the other clips of this video already generated in this '
