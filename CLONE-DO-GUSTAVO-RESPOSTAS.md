@@ -1945,7 +1945,7 @@ b) "Check the first comment below" pode ser lido pelo Face como isca de engajame
   - **3b ("check the first comment" não é isca): opinião, coerente com a política da Meta** (isca é pedir para comentar, reagir, compartilhar ou marcar; mandar ler um comentário que já existe não pede ação de engajamento).
 - **O que muda:** (1) **a leitura do nora74:** ~150 views quer dizer fadiga da fórmula (aula 31), não prova de conta travada; só 500+ dá resposta (a conta entrega). A pergunta da conta fica com a régua da aula 74: ~3 semanas de flop seguido, ~02/12, e a decisão de trocar a avatar é do aluno. (2) O teste B do CTA no Face pode rodar no próximo falado com versão do Face: a frase "Check the first comment below to get your reading." (sem "private" e sem "link" na fala gerada). (3) A `FILA` ganha a divisão dele para o teste do que repetir depois de um acerto.
 
-## R85 (22/11/2026 23h11, montada a pedido do aluno: "eu tava pensando em voltar a postar videos de ''aquecimento'', focando no engajamento da conta… vale perguntar pro clone?"; respondida às ~23h20, conferida às 23h24): vídeos de aquecimento numa conta em fase de venda
+## R85 (22/11/2026 23h11, montada a pedido do aluno: "eu tava pensando em voltar a postar videos de ''aquecimento'', focando no engajamento da conta… vale perguntar pro clone?"; respondida às ~23h20, conferida às 23h23): vídeos de aquecimento numa conta em fase de venda
 - **O texto (2.508 caracteres; o item c refeito às 23h15 com o ponto do aluno: "quando vc tem seguidor, eles engajam o post"):**
 
 ```
@@ -1976,7 +1976,7 @@ d) O CTA de engajamento falado dentro do próprio vídeo de venda (salvar, segui
   - **d (o CTA de engajamento dentro do vídeo de venda, depois do story):** **a aula 21 (2:16:05 a 2:16:30) foi lida errado:** o "CTA triplo" é "pedir pra ir no comentário, nos stories e na bio… teste o triplo e o isolado", 3 lugares do link, não engajamento junto com o story. **A aula 65 (1:24:10 a 1:25:30) bate:** salvar, mandar para si e comentar no meio da copy desconcentram ("cadê a conversão?"), mas "para quem faz questão… funciona". A aula 66 ("bem depois do CTA") já estava na nossa regra (P42 e R54); os minutos dela não estão transcritos aqui.
 - **O que muda:** (1) **a ideia do aluno fica fora: nada de vídeos só de aquecimento na Nora**; o engajamento entra no próprio vídeo de venda, depois do CTA do story (a regra que já temos). (2) **O nora74 vai com a ordem do campeão** (os selos e o 222 antes do CTA do story), que é o teste aprovado pelo aluno: se passar de 500, a próxima versão inverte a ordem (story primeiro, engajamento depois) como teste. (3) O curto segue para uma conta separada (o plano das contas novas). **Vai a R86** (as 3 citações erradas e as 3 sem como conferir), montada sem o aluno pedir.
 
-## R86 (22/11/2026 23h24, montada sem o aluno pedir, pela regra de 19/11; resposta pendente): as citações erradas da R85
+## R86 (22/11/2026 23h23, montada sem o aluno pedir, pela regra de 19/11; resposta pendente): as citações erradas da R85
 - **O texto (1.726 caracteres):**
 
 ```
