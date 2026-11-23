@@ -204,7 +204,7 @@ def nora75():
         'modo': 'Flow → Imagem · 9:16 · Nano Banana Pro · x4, anexando as referências na ordem (0 crédito).',
         'etapas': [
             {'titulo': 'Imagem A: despejando a canela no copo (só o T01)', 'nome': IMG_A, 'tipo': 'img',
-             'anexar': '1º a d2311-carro-IMG, se você já gerou (a Nora sem a pintura); se não, a d1711-PRE-carro-IMG-C; 2º a folha da Nora (1K)',
+             'anexar': '1º a d1711-PRE-carro-IMG-C (a Nora no carro, a mesma do nora72 e do nora73); 2º a folha da Nora (1K). O prompt tira a pintura, troca a roupa e põe ela no sofá.',
              'quadros': (f'x4, 0 crédito. Serve para o T01. Escolha a que tiver: o rosto da Nora SEM a lua e SEM as estrelinhas, sem trança, camiseta preta lisa, no sofá; '
                          f'o copo de vinho com água numa mão e o pote de canela McCormick (tampa vermelha) inclinado sobre o copo na outra; 5 dedos em cada mão. Renomeie para {IMG_A}.'),
              'prompt': PROMPT_IMG_A},
