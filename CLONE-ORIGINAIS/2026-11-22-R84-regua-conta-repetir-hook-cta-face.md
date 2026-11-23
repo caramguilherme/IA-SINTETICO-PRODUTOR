@@ -1,4 +1,4 @@
-# Clone R84 (22/11/2026, pergunta montada às 22h56 sem o aluno pedir, resposta colada pelo aluno às ~23h05)
+# Clone R84 (22/11/2026, pergunta montada às 22h56 sem o aluno pedir, resposta colada pelo aluno às ~23h00)
 
 ## A pergunta (2.144 caracteres)
 Está inteira em `CLONE-DO-GUSTAVO-RESPOSTAS.md`, seção R84.

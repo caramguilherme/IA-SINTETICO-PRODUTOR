@@ -1919,7 +1919,7 @@ b) Se passar de 500, as aulas mandam repetir a mesma fórmula mudando roupa e ce
   - **3b (passou de 500: manter o corpo e trocar o gancho a cada post):** **tem fonte** (a pirâmide da aula 28; aula 31, 0:10:38 a 0:11:19). **Mas contradiz a LegacyTalk de 19/11 (00:40:22 a 00:44:17)**: o convidado repete o mesmo hook ("posso postar dez vezes aquele hook") variando a roupa e o cenário. Vai na R84 e vira teste A/B (`FILA`).
 - **O que muda:** (1) o teste A/B do CTA falado no Face (A = o story, como hoje; B = "the first comment", num take do CTA gerado só para a versão do Face, que também cumpre a regra da parte gerada nova); (2) o teste A/B do que repetir depois de um acerto (A = o mesmo hook com roupa e cenário variando, o Baran; B = o mesmo corpo com gancho novo, a aula 28); (3) a régua do nora74: a do Gustavo é 200 a 300 views.
 
-## R84 (22/11/2026 22h56, montada sem o aluno pedir, pela regra de 19/11; respondida às ~23h05, conferida às 23h08): a régua de conta travada, repetir ou trocar o hook, o CTA no Face
+## R84 (22/11/2026 22h56, montada sem o aluno pedir, pela regra de 19/11; respondida às ~23h00, conferida às 23h02): a régua de conta travada, repetir ou trocar o hook, o CTA no Face
 - **O texto (2.144 caracteres):**
 
 ```
