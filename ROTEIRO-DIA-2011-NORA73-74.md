@@ -65,3 +65,7 @@
 
 ## A contagem para a validação
 O nora73 e o nora74 são o 39º e o 40º vídeo do Manifestation no Insta. Os dois fecham a janela de 40 vídeos com copy validada (`VALIDACAO-CONTA-E-AVATAR.md`). Depois deles, a Nora sem a pintura pode entrar, por decisão do aluno.
+
+## A leitura do nora74 (Clone R84, 22/11 23h08)
+- **500+ views:** a conta entrega e a fórmula ainda tem vida; daí em diante, o teste do que repetir (a `FILA`).
+- **~150 views:** as aulas leem como fadiga da fórmula (aula 31, 0:07:20 a 0:08:25: o vídeo repetido "para de funcionar" em 7 a 10 dias), não como conta travada. A conta se decide pela régua da aula 74 (0:07:27 a 0:08:13): ~3 semanas de flop seguido, ~02/12; trocar a avatar na mesma conta é decisão do aluno.
