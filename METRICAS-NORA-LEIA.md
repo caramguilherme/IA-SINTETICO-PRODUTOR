@@ -1178,3 +1178,13 @@ Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, co
   - **100% não seguidores**, com 93,9% vindo de Sugestões.
   - **No Face o vídeo foi recomendado normalmente.** O conteúdo não está barrado pela Meta, e os 14 do Insta são coisa do Instagram (a conta ou este Reel).
   - Mas no Face o tsunami também segurou pouco: o nora73-FACE tinha 48,7% nos 3 s, e o nora68-FACE 41%. Faltam o Insights do nora74 no Insta (a fatia de não seguidores) e o Status da conta.
+- **17h47, o Insights do nora74 no Insta (~7h14): a causa é a abertura cansada, não a conta.**
+  - Os números: 14 views, 13 visualizadores, 5 s de tempo médio, **skip de 84,6% (o maior da planilha inteira; a mediana é 51,3%)**, 0 curtida, 0 salvo, 1 comentário, 0 visita ao perfil.
+  - **85,7% das views foram de não seguidores:** o Instagram mostrou o Reel para gente nova, e quase todos pularam nos primeiros segundos. Por isso ele parou de distribuir depois do 1º teste (a curva fica parada em ~14 desde a 1ª hora). A conta não está barrada.
+  - **O skip do mesmo tsunami, cada vez que voltou ao Insta:**
+    - de 04 a 10/11: 33,6% (nora47), 29,9% (nora48), 31,8% (nora49) e 28,5% (nora50);
+    - em 11 e 12/11: 50,4% (nora55) e 55,8% (nora59);
+    - hoje: **84,6%** (nora74).
+  - **A leitura:** a mesma abertura, repetida pela 7ª vez, cansou o público que o Instagram testa. Repetir o corpo e a copy não derrubou (o nora49 repetiu o corpo do nora48 e fez 2.043); o que cansa são os 2 a 3 primeiros segundos.
+  - Bate com o Face (a maior saída aos 0:02; 30,8% nos 3 s), com a aula 31 (0:07:20, a fórmula repetida cansa) e com a regra "cada post do Insta com um Take 1 novo".
+  - **Para hoje:** o nora75 e o nora76 têm a abertura nova (a Nora sem a pintura, o carro, a fala desde o 1º quadro), e o corpo repetido do nora76 é o caso do nora49. Seguem como estão.
