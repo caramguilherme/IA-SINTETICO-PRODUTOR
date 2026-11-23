@@ -185,8 +185,19 @@ RESP_INSTA = ['Amen 🙏 your reading is waiting in my story', "That's not a coi
 
 def base(nn):
     P = copy.deepcopy(B.BASE)
+    P.pop('pre_gancho', None)  # o BASE (o painel do nora70) traz o hook do alçapão: sai
     P['ocultar_bloco_agente_imagem'] = True
     P['figurino'] = ROUPA
+    tr = P['trava_referencia']
+    tr = tr.replace('black wavy hair, braid, moon and star gems and earrings.', 'black wavy hair and earrings, but with NO moon, NO stars and NO gems on her face.')
+    tr = tr.replace(', plus the one thin braid at the front on the right side of the image wrapped with tiny gold rings.', ', worn loose, with no braid and no rings in it.')
+    i0 = tr.index('Preserve the signature face gems:'); i1 = tr.index('Preserve the long gold star-and-moon drop earrings')
+    tr = tr[:i0] + 'Her cheeks are clean natural skin: no crescent moon, no stars, no gems and no paint anywhere on her face (the character sheet shows them, but leave them out). ' + tr[i1:]
+    tr = tr.replace('Preserve the long gold star-and-moon drop earrings, the long thin gold chain with a small gold Venus-symbol pendant (a tiny circle with a cross below it), the thin gold bracelets,',
+                    'She wears small plain gold stud earrings and a thin gold chain necklace; keep')
+    tr = tr.replace('Her signature colour is emerald green. ', '')
+    assert 'crescent-moon gem' not in tr and 'braid at the front' not in tr
+    P['trava_referencia'] = tr
     rf = P['respostas_face']; rf['link'] = FB; rf['insta'] = RESP_INSTA
     P['story'] = {'ja_postado': True, 'nota': ('O story repostado em 22/11 às 22h30 vence às ~22h30 de hoje: reposte antes, ao vivo, no Insta e no Face (o mesmo arquivo, '
                                               'com o adesivo do link). Sem story no ar, o vídeo não leva a lugar nenhum.' if nn == 'nora75' else

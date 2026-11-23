@@ -692,3 +692,11 @@ Antecipação tensa subindo · Místico e ritualístico · Íntimo e confidencia
 ### 22/11/2026 23h40 - A carta longe do rosto (aula 25, 0:50:28 a 0:50:43)
 Num vídeo do HeyGen, a carta "entrou no pescoço" da avatar, e o Gustavo: "I'm trying to keep the card a little further away from the face, because it really bugs." **Regra para o Muse e o Flow:** com a carta na mão, ela fica na altura do peito, a um palmo do rosto e do queixo, e o prompt diz isso ("holds the card at chest height, a hand's width away from her chin and face; the card never touches or overlaps her face, neck or hair"). Na mesma aula (1:20:52 a 1:23:10), a avatar "sem expressão parece um robô": os nossos prompts já pedem o sorriso e a expressão de cada take (bate).
 
+
+## 23/11/2026 18h1x: o painel novo herda o que está no BASE (cobrança do aluno: "outro erro seu… ta dificil")
+- **O que aconteceu:** o `base()` dos painéis de 23/11 copia o painel do nora70 inteiro.
+  - O nora76 saiu com o hook do alçapão do nora70 (o `pre_gancho`, 3 imagens e 2 vídeos que não são deste vídeo).
+  - Os dois saíram com a `trava_referencia` mandando manter a lua, as estrelinhas e a trança, o contrário do teste da Nora sem a pintura.
+  - Antes, o nora75 mandava anexar a `d2311-carro-IMG`, uma imagem da 1ª versão que nunca foi gerada.
+- **Conserto:** o `base()` tira o `pre_gancho` herdado e reescreve a `trava_referencia` sem a lua, as estrelinhas e a trança.
+- **Regra:** depois de gerar um painel, rodar a varredura de palavras de outros vídeos e cenas (o nome da cena antiga, `moon`, `braid`, o nome de imagens que não existem) em todo o pacote, não só nos campos que eu escrevi. E conferir se cada imagem que o painel manda anexar já existe com o aluno.
