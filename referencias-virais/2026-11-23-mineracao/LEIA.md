@@ -6,7 +6,8 @@
 - os 58 vídeos, baixados um por um, e uma folha de cada (0, 1, 2, 3 e 5 s, e depois 20%, 40%, 60%, 80% e o fim), guardadas em `folhas/`;
 - as falas inteiras, em `TRANSCRICOES/2026-11-23-mineracao-58-videos.md`;
 - a Estrutura Invisível dos roteiros principais, em `ESTRUTURA-INVISIVEL.md`;
-- a Modelagem do roteiro escolhido para o próximo falado da Nora, em `MODELAGEM-PROXIMO-FALADO.md`.
+- a Modelagem do roteiro escolhido para o próximo falado da Nora, em `MODELAGEM-PROXIMO-FALADO.md`;
+- **a receita da maioria, item por item, e o nora75 igual a ela (a decisão do aluno de 23/11 15h34: "fazer igual ao que a maioria tá fazendo"), em `RECEITA-DA-MAIORIA.md`.** A Modelagem leve fica como alternativa.
 
 **O que não veio, e por isso não entra:** views, data e hora do post, legenda e seguidores. Os vídeos não ficam no repositório (somam ~3,5 GB) e seguem na pasta do aluno. O @ de 4 contas não aparece na marca d'água dos quadros (m01, o homem do m22 e do m47, a senhora grisalha em espanhol do m32, m38 e m46, e a senhora de cabelo curto do m31, m37 e m44). Nesses casos, conto cada uma como uma conta pela avatar.
 
@@ -15,8 +16,8 @@
 ## 1. O que veio na pasta
 - **40 vídeos de 18 contas que vendem Auraly** (o CTA manda para o story com a leitura): m01 a m32, m34 a m38, m44, m46 e m47. São 30 em inglês e 10 em espanhol, e 4 deles são de amor (Love Reading).
 - **18 vídeos que não são Auraly:**
-  - 6 de uma brasileira que vende "consulta espiritual" (m40, m48, m52, m53, m54 e m57). Pode ser o "funil BR" que o aluno perguntou no Discord.
-  - 12 de 7 contas reais (m33, m39, m41 a m43, m45, m49 a m51, m55, m56 e m58): 11 só de engajamento, sem story nem venda, e o m41, que vende um método próprio pela DM.
+  - 6 de uma brasileira que vende "consulta espiritual" (m40, m48, m52, m53, m54 e m57). **Ela é uma pessoa real, que o nicho copia muito: a estátua do Arcanjo Miguel na mesa veio dela** (o aluno, 23/11 15h34).
+  - 12 de 7 contas reais (m33, m39, m41 a m43, m45, m49 a m51, m55, m56 e m58): 11 só de engajamento, sem story nem venda, e o m41, que vende um método próprio pela DM. **O m42, o m45, o m50 e o m56 são da @soma_chhaya** (3,3 milhões de seguidores, seção 49.6 do `BIBLIOTECA-VIDEOS-VIRAIS.md`). As frases batem com as dela: "13 minutes after watching this video…", "comment I accept" e "karma is real". **O nicho também copia muito ela** (o aluno, 23/11 15h34).
   - Esses 18 ficam fora da contagem da Auraly.
 
 ## 2. Um por um (os 40 da Auraly)

@@ -319,7 +319,8 @@
 - **O nora74 é o perfil ruim do Copy Hub** (o Arcanjo "mandou um aviso", os selos, o 222 e "the second part of this sign"): se ele der views e nenhum clique, a explicação já está escrita; o próximo falado volta ao CTA padrão (R80).
 
 ## 23/11/2026 15h20: da mineração dos 58 vídeos das últimas 24 h (`referencias-virais/2026-11-23-mineracao/LEIA.md`; seção 55 do `BIBLIOTECA-VIDEOS-VIRAIS.md`)
-- **[O próximo falado, proposto] O teste de gancho da Modelagem** (`referencias-virais/2026-11-23-mineracao/MODELAGEM-PROXIMO-FALADO.md`): o mesmo corpo leve (a dor das contas na 2ª frase, os sinais pequenos, o futuro sem dinheiro, o CTA R80 com o motivo "cada mulher") com 2 ganchos, um em cada vídeo:
+- **[O próximo falado, decisão do aluno de 23/11 15h34] O nora75 igual à maioria** (`referencias-virais/2026-11-23-mineracao/RECEITA-DA-MAIORIA.md`): a Nora sem a pintura, de blusa preta lisa, no carro, jogando a canela no tapete enquanto fala; "It works so fast, it's almost scary..." em branco solto; o corpo A "St. Michael" reescrito, com os selos e o 222; o CTA "quick reading"; ~1:45. Depois, o mesmo corpo com um Take 1 novo por post (outro ritual dito). Painel só com o "pode montar".
+- **[Alternativa, depois do nora75] O teste de gancho da Modelagem** (`referencias-virais/2026-11-23-mineracao/MODELAGEM-PROXIMO-FALADO.md`): o mesmo corpo leve (a dor das contas na 2ª frase, os sinais pequenos, o futuro sem dinheiro, o CTA R80 com o motivo "cada mulher") com 2 ganchos, um em cada vídeo:
   - A = a janela de 2 datas ("If this video found you on [dia] or [dia], it didn't find you by accident.");
   - B = o ritual dito com a lua cheia de verdade ("Before [Tuesday's] full moon, put a glass of water by your window. I know it sounds strange, but you'll thank me."). O B só serve até a noite de 24/11.
   - A mesma fala serve no Insta e no Face. Painel só com o "pode montar".
