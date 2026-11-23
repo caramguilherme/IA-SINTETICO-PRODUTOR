@@ -254,7 +254,7 @@ def nora75():
         '“Now generate Prompts 07 to 12 from my previous message, exactly as written, in the same order, using the attached image as the first frame of every clip.”',
         f'Renomeie pela ordem da mensagem 2: {lista}.',
         'Confira cada take: sem a lua e sem as estrelinhas (se voltarem, gere aquele de novo); o copo na mão; ela fala uma vez só. Se o Muse recusar: “Generate prompt X again, exactly as written.”',
-        f'Hoje são 14 clipes ({N} do nora75 + 1 do nora76): o limite do Muse é de ~15 por dia. Se aparecer o “video_daily_budget_exhausted”, me avise com quantos saíram.',
+        f'Hoje são 14 clipes ({N} do nora75 + 1 do nora76). Se aparecer o erro “video_daily_budget_exhausted”, me avise com quantos saíram (não há limite por dia confirmado: só o relato de 1 pessoa no Discord, e a nossa conta nunca bateu nele).',
     ]
     ct['agente'] = ag
     P['silencio'] = {
