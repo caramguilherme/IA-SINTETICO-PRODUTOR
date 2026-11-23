@@ -9,7 +9,7 @@
 - Não reli inteiros hoje: o `REGRAS-DO-AGENTE.md`, a pesquisa oficial do Manifestation e o `LEIA-TUDO-ANTES.md`. As regras que pesam aqui vêm do `CLAUDE.md` (seção 2): até 22 palavras por take, a movimentação sem as palavras da fala, a SPEECH RULE, sem "link" e "free" na fala, o Face sem isca e sem dinheiro, o story com o link inteiro.
 - O que muda por decisão do aluno: no Insta, a receita da maioria passa na frente da P42 (o corpo A, os selos, o pedido de comentário na fala, a data). A pesquisa oficial ("nunca prometer dinheiro no vídeo", a leitora mística) fica de lado neste teste.
 
-## REFEITO às ~18h05 (o aluno: "eu mandei repetirmos… pegar oq mais se replica e repetir")
+## REFEITO às 17h58 (o aluno: "eu mandei repetirmos… pegar oq mais se replica e repetir")
 **O erro:** a 1ª versão (a Nora no carro segurando um pau de canela e dizendo "drop a cinnamon stick on the floor of your car") era uma mistura minha. Nenhum dos 43 vídeos faz isso: no carro, a canela é um hook mudo (m10, m36), e o ritual dito acontece em casa.
 
 ## nora75 (Insta e Face ~19h30): a cópia do vídeo mais replicado
