@@ -2,12 +2,7 @@
 
 **Fonte:** o aluno colou as 5 abas do Copy Hub (central.mvmcreators.com.br/materiais/creative-hub) às ~14h00. O Gustavo publicou as 3 primeiras em 20/11, com a leitura "OBRIGATÓRIA" (30ª leitura do Discord). O texto inteiro está em `copy-hub-colado-23-11.md`.
 
-**O que não deu para ler:**
-- os 2 arquivos de skill do Claude (`estrutura-invisivel-copy.zip` e `modelar-copy-vencedora.zip`);
-- o PDF "Exemplo Prático - Analise estrutura invisivel.pdf";
-- o vídeo de exemplo do slideshow de cartas (link do Drive).
-
-Esses quatro vieram só com o nome, sem o link ou sem o arquivo. Os prompts das skills estão inteiros no texto, então dá para usar sem os zips.
+**O que não deu para ler:** só o vídeo de exemplo do slideshow de cartas, porque o link do Drive não veio. Os 2 zips das skills e o PDF chegaram às 14h07 pelo Drive e estão nesta pasta, lidos inteiros (seção 6).
 
 ## 1. A análise do perfil bom contra o ruim (Love Reading)
 
@@ -67,3 +62,10 @@ As regras dos prompts batem com as nossas: não inventar prova (o que faltar fic
 4. **O Take 1 da previsão em lista:** "Congratulations! On [dia] this week, you will experience the following three things." Um tipo novo de Take 1, sem ameaça.
 5. **O comando físico sem ameaça** na retenção ("Close your right hand and listen until the end."), para medir os 10 s.
 6. **A Estrutura Invisível em todo vídeo da mineração** e a Modelagem (Gancho A e B) no escolhido.
+
+## 6. Os 3 arquivos que faltavam (chegaram em 23/11 14h07 pelo Drive; lidos inteiros)
+- **`estrutura-invisivel-copy.zip` e `modelar-copy-vencedora.zip`:** são as skills do Claude, de 12/11. Cada zip tem só um `SKILL.md`, com o mesmo texto do Prompt 1 e do Prompt 2.2 colados. **Não trazem regra nova.** A diferença é o formato: a skill é carregada sozinha quando a tarefa pede.
+  - **Instaladas no projeto** em `.claude/skills/estrutura-invisivel-copy/` e `.claude/skills/modelar-copy-vencedora/`, com o texto original e uma seção no fim, "NO PROJETO DA NORA". Na Estrutura Invisível, a conferência com as nossas regras vem depois da tabela. Na Modelagem, a nova copy passa pela P42, pela HONESTIDADE, pelo CTA da R80, pelas regras da fala gerada e pelas do Face. Os zips originais ficam nesta pasta.
+- **"Exemplo Prático - Analise estrutura invisivel.pdf"** (4 páginas; o texto está em `exemplo-pratico-estrutura-invisivel.txt`): é a Estrutura Invisível aplicada, no Modelo 2, a um vídeo de emagrecimento de 2:00 ("Mounjaro pode te quebrar", a receita da gelatina). São 28 trechos com minutagem, o esqueleto e a contagem dos elementos (PROVA SOCIAL e QUEBRA DE OBJEÇÃO, 6 vezes cada).
+  - **Serve como modelo do formato** que eu uso na mineração: uma tabela por parte, a minutagem, o colchete que prova o rótulo, o esqueleto e a contagem.
+  - **A copy do exemplo fica fora para a Nora.** Ela traz uma celebridade com resultado ("prescrevi para Rebel Wilson"), números de resultado de outra pessoa, "golpistas usando inteligência artificial" e "de graça". Pela regra da skill, a análise rotula sem criticar. Na mineração da Nora, eu marco esses trechos como fora (HONESTIDADE), depois da tabela.
