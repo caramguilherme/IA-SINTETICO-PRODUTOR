@@ -27,6 +27,11 @@ Só ficam aqui as ferramentas em uso. Os scripts antigos (painéis de 22/10 a 10
 - `preparar_csv.py`, `conferir-dados.js`, `index.html`, `store/` e a receita `COMO-RECRIAR.md`.
 - **`METRICAS-NORA.csv`:** BOM e CRLF; ler e gravar com `newline=''`, `encoding='utf-8-sig'` e `csv.DictWriter(..., lineterminator='\r\n')` (com `\n` o git mostra o arquivo inteiro mudado).
 
+## Mineração em lotes: `mineracao/` (23/11/2026)
+- `minerar.py`: lista a pasta pública do Drive (pela visão `embeddedfolderview`, que mostra todos os arquivos; a página normal para em 50) e **baixa só os vídeos novos**, pelo id do Drive no registro do repositório. De cada vídeo, tira o áudio, uma cópia leve em 540p, a transcrição (faster-whisper "small") e uma folha de quadros (0, 1, 2, 3, 5 s e 20% a 80% e o fim). O vídeo original é apagado. A numeração continua de onde parou (m59, m60…).
+  - Uso: `HF_HUB_DISABLE_XET=1 python3 -I ferramentas-painel/mineracao/minerar.py PASTA_ID <pasta no scratchpad> referencias-virais/AAAA-MM-DD-mineracao/processados.tsv`.
+  - O registro de 23/11 é `referencias-virais/2026-11-23-mineracao/processados.tsv` (m01 a m58, lote das 14h28).
+
 ## Outros
 - `imagens-fixas/`: imagens do desejo do nora46 e a capa do Face; as avaliações reais ficam em `../provas-trustpilot/` (as `-sem-hora` são as de uso).
 - `manifestacao/` (a mineração de 26 e 27/10 com yt-dlp; o Insta não entrega mais o vídeo sem login) foi para `arquivo/ferramentas-antigas/manifestacao/` em 14/11, com o `indice.json` dos 148 vídeos transcritos (seção 39 da `BIBLIOTECA-VIDEOS-VIRAIS.md`). Também foram para lá, no mesmo dia, o `miro-ler-quadro.js` (a leitura única do quadro do Miro, 29/10) e o `capa_face.py` (a capa do Face, já feita).

@@ -303,6 +303,14 @@
 - **Como baixar:** o SnapInsta no PC, colando o link (como em outubro e novembro), a partir de uma conta de mineração ou da pessoal do aluno, **nunca pela conta da Nora no GeeLark** (baixar e salvar dezenas de Reels em sequência é a "rajada de ações" que já deu verificação facial em 17/11).
 - **O que eu entrego:** uma linha por vídeo (views por hora de vida, duração, hook visual, a 1ª frase, o texto na tela, a estrutura da copy, o CTA, o cenário, a avatar, a edição, a música) na `BIBLIOTECA-VIDEOS-VIRAIS.md`, o padrão da maioria (por frequência, contando cada conta uma vez), o que já testamos na Nora e não funcionou (o gancho infinito da claire_mayaus, os rituais de produto) e 2 ou 3 testes, um de cada vez.
 - **Limites:** modelar a estrutura e reescrever a fala (aviso oficial de 22/09: não copiar vídeo de quem vende Appyon); HONESTIDADE e as regras do Face seguem.
+- **Em lotes ao longo do dia (o aluno, 23/11 ~15h40):** "vou te mandar os vídeos que o pessoal postou depois desse horário… à noite… os que foram postados à tarde… no começo da noite… todos os vídeos das contas que eu sigo e das contas que eu ainda encontrar". Vêm contas da Auraly (Manifestation, Love Reading) e contas que não vendem Auraly mas fazem manifestação.
+  - **Como eu processo:** o `ferramentas-painel/mineracao/minerar.py` baixa só o que é novo na pasta (pelo id do Drive, contra o `processados.tsv` do dia), transcreve e monta as folhas.
+  - **A cada lote:**
+    - a tabela um por um ganha as linhas novas;
+    - a contagem da receita (`RECEITA-DA-MAIORIA.md`) é refeita somando os lotes, cada conta contada uma vez por padrão;
+    - eu digo ao aluno o que mudou na receita, ou que nada mudou.
+  - As contas que não vendem Auraly entram como "fonte que o nicho copia" (a brasileira, a @soma_chhaya), separadas na contagem.
+  - Se o @ da conta vier no nome do arquivo, a contagem por conta fica exata (no lote de 23/11, 4 contas vieram sem o @ na marca d'água).
 
 ## 23/11/2026 12h20: da 30ª leitura do Discord
 - **A janela de 2 datas no Take 1** (o perfil bom do Love Reading no Copy Hub, aviso de 20/11: "Se você está vendo isso nos dias 8 ou 9 de novembro…", "duas datas próximas aumentam a chance de acertar o dia em que ela assiste"), seguida da dor falada e da virada com esperança ("Mas o universo não deixou."). Para a Nora: "If you're seeing this on [dia] or [dia seguinte]…" + a dor do Manifestation numa frase + "But the universe didn't let it end there." Uma variação do Take 1 com data (rodar o tipo, aula 31), sem ameaça nem "última chamada" (o perfil ruim).
