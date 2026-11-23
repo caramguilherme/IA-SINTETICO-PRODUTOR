@@ -261,7 +261,8 @@ def nora75():
     P['comentario_fixado'] = {'insta': 'Did you do it? 🌿 tap my profile picture above, your reading is waiting in my story',
                               'face': 'Your 2027 reading is waiting for you here ✨ 👉 ' + FB}
     lista = ' · '.join(f'{i} = {nome(i)}' for i in range(1, N))
-    T01 = prompt_manual(FALA[0], mov(GESTO[0], True), 'the stemmed glass of water and the cinnamon jar in her hands', nome(0))
+    # 23/11 19h: o nora75 já foi gerado e renomeado à mão (o aluno); o pedido do nome do arquivo ao Muse fica só no nora76 e nos próximos.
+    T01 = prompt_manual(FALA[0], mov(GESTO[0], True), 'the stemmed glass of water and the cinnamon jar in her hands')
     ct = P['central']
     ct['config'] = config()
     ct['colagens'] = [{'titulo': f'nora75: a colagem do T02 ao T{N:02d} (na {IMG_B})', 'fala': ' '.join(FALA[1:]), 'movimentacao': [mov(GESTO[i]) for i in range(1, N)],
@@ -270,20 +271,14 @@ def nora75():
                       'vez só e diz as datas e os números por extenso. Renomeie com o nome da lista.')
     ag = copy.deepcopy(ct['agente'])
     ag['imagem'] = IMG_B
-    # 23/11 18h50: o aviso pedia 'Name each clip with its prompt number (01, 02, 03 and so on)'; agora pede o nome do arquivo de cada prompt.
-    _velho = 'Name each clip with its prompt number (01, 02, 03 and so on).'
-    assert _velho in ag['aviso']
-    nomes_muse = ', '.join(f'Prompt {i:02d} = {nome(i)}' for i in range(1, N))
-    ag['aviso'] = ag['aviso'].replace(_velho, 'Name each clip with exactly this file name, so the downloaded file already has it: ' + nomes_muse + '.')
-    nomes_0712 = ', '.join(f'Prompt {i:02d} = {nome(i)}' for i in range(7, N))
     ag['intro'] = (f'No Muse, na conversa da Nora, são 2 mensagens: (1) o T01 com a {IMG_A}; (2) os outros {N - 1} takes com a {IMG_B} + o aviso do Muse + o '
                    '“COPIAR TUDO JUNTO” da Central.')
     ag['passos'] = [
-        f'MENSAGEM 1 (o T01): anexe a {IMG_A} e cole este prompt (ele já pede o nome {nome(0)}). PROMPT: ' + T01,
+        f'MENSAGEM 1 (o T01): anexe a {IMG_A} e cole este prompt. Renomeie o clipe para {nome(0)}. PROMPT: ' + T01,
         f'Na Central: preencha como na seção da Central (o LIVRE e a movimentação do nora75) e cole a fala do T02 ao T{N:02d}. Confira: {N - 1} takes.',
         f'MENSAGEM 2: anexe a {IMG_B} + o aviso do Muse + o “COPIAR TUDO JUNTO”. O Muse gera 6 por vez: depois do 01 ao 06, mande na mesma conversa, com a mesma imagem: '
-        f'“Now generate Prompts 07 to 12 from my previous message, exactly as written, in the same order, using the attached image as the first frame of every clip. Name each clip with exactly this file name: {nomes_0712}.”',
-        f'Confira o nome do 1º arquivo baixado (ainda não sabemos se o download leva o nome que o Muse mostra). Se não levar, renomeie à mão pela ordem da mensagem 2: {lista}.',
+        '“Now generate Prompts 07 to 12 from my previous message, exactly as written, in the same order, using the attached image as the first frame of every clip.”',
+        f'Renomeie pela ordem da mensagem 2: {lista}.',
         'Confira cada take: sem a lua e sem as estrelinhas (se voltarem, gere aquele de novo); o copo na mão; ela fala uma vez só. Se o Muse recusar: “Generate prompt X again, exactly as written.”',
         f'Hoje são 14 clipes ({N} do nora75 + 1 do nora76). Se aparecer o erro “video_daily_budget_exhausted”, me avise com quantos saíram (não há limite por dia confirmado: só o relato de 1 pessoa no Discord, e a nossa conta nunca bateu nele).',
     ]
