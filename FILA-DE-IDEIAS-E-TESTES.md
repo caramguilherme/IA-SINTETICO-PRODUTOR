@@ -250,7 +250,7 @@
 
 ## 20/11/2026 ~10h05: dos 7 virais do aluno (`referencias-virais/2026-11-20-aluno/LEIA.md`; `BIBLIOTECA-VIDEOS-VIRAIS.md`, seção 54)
 **Ordem:** depois da leitura do nora71 e do nora72 (~20h de 20/11 e ~01h20 de 21/11). Uma variável por vez: a fala dos 3 sinais, o CTA e a edição ficam fixos, e muda só o Take 1.
-1. **[Em teste: o nora73, 20/11 19h30] O Take 1 falado pelas letras do nome** (v4, @takedanaomi_; a 3ª fonte, depois do 52.2 e do ini1811): "If your name starts with A, J, M, K, C, E, S, L, R, T or H, pay close attention. Most people never notice these three signs…".
+1. **[Rodado no nora73 (20/11 18h15): no Insta, 246 views, o maior falado desde 10/11, mas com 11,8% de EUA e 1 visita ao perfil (o curto ini1811 levou 21); no Face, 307 views e +0,9x; 0 clique. Deu views, não deu visitas.] O Take 1 falado pelas letras do nome** (v4, @takedanaomi_; a 3ª fonte, depois do 52.2 e do ini1811): "If your name starts with A, J, M, K, C, E, S, L, R, T or H, pay close attention. Most people never notice these three signs…".
    - **Por que é o 1º:** as iniciais são a única coisa que levou gente ao perfil nesta conta (o ini1811: 21 visitas no Insta e 2 cliques no link no Face). É o processo do Baran: repetir o que funciona nesta conta.
    - **Medida:** visitas ao perfil e quiz começado contra o nora71 e o nora72.
 2. **O Take 1 dos signos, leve** (v5 e v7): "Two zodiac signs are about to have their luckiest year in twenty twenty-seven…", com a validação na 2ª frase e os signos ditos antes do CTA (como o v7; o v5 nunca diz quais são, um laço que não fecha, P42).

@@ -1002,6 +1002,23 @@ O aluno ficou fora de 21/11 de manhã a 22/11 22h23: nenhum post novo e o story 
   - No Face, a entrega de ~300 views por falado não está virando clique. No Insta, as visitas ao perfil seguem em 0 a 1 por vídeo.
   - A pausa de 21 e 22/11 (sem post e sem story) entra junto, mas o dia 20/11, com tudo no ar, já tinha dado 0.
 
+## 22/11/2026 22h44: o nora73 no Insta com ~52h30 (prints do aluno) e o fechamento dos falados de 17 a 20/11
+- **nora73** (20/11 18h15; as letras do nome na frente do nora72):
+  - 246 views, 228 viewers, 9 s de tempo médio, skip 48,5% (51,5% nos 3 s).
+  - **1 visita ao perfil e 1 follow.** 3 curtidas, 2 comentários, 0 salvos, 0 compartilhamentos.
+  - 98,8% não seguidores; 45+ 48,8%, 35-44 28,5%, 25-34 19,9%.
+  - **Países: EUA 11,8%**, Reino Unido 9,8%, Emirados 7,3%, Turquia 6,1% e Holanda 6,1%. Sem Índia no top 5.
+  - As views passaram do reel típico já no 1º dia (~210 contra ~130) e pararam em ~245 no 2º.
+- **Na planilha, é o falado com mais views no Insta desde o nora51** (10/11, 889). Os falados de 11 a 20/11 ficaram entre 112 e 219.
+- **Mas o ganho veio de fora dos EUA:** só 11,8% de EUA, contra 46,3% no nora72, que tem o mesmo corpo. Postar às 18h15, antes da janela das 19h30, pode ter puxado essa mistura de países.
+- **As letras faladas não repetiram o ini1811 no perfil:** 1 visita, contra 21 do curto. O item 1 da `FILA` (as letras do nome) fica rodado: deu views, não deu visitas.
+- **A grade do perfil (22h44):** nora71 152, nora72 142, nora70 126, nora69 123, nora68 126, nora67 122, nora66 130. Todos parados.
+- **O fechamento dos 5 falados de 17 a 20/11** (do nora69 ao nora73: duas copies, três hooks e as letras):
+  - Insta: 121 a 246 views e 0 a 1 visita por vídeo.
+  - Face: 214 a 330 views.
+  - Tracker de 20 a 22/11: 0 clique.
+  - Nenhuma mudança de copy, hook ou abertura levou gente ao perfil. **Falta o teste que separa a copy da conta: o nora74** (a fórmula do nora48 ao nora50, que fazia 1,6 mil a 2 mil views e 10 a 19 follows).
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
