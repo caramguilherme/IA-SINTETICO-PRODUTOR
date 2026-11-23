@@ -107,12 +107,17 @@ def livre():
             'one person; when she finishes the last word she closes her lips, stays silent and keeps a calm still expression until the clip ends.')
 
 
-def prompt_manual(txt, movimento, objeto, arquivo=None):
+def prompt_manual(txt, movimento, objeto, arquivo=None, clip=1, total=N):
     voz = VOZ.replace('[Voice and Audio Instructions]', '').strip()
     return ('Create a single continuous 10-second video clip using the supplied reference image as the first frame. The same woman from the image sits on the gray '
             'sofa in her living room and speaks directly to the camera.\n\n'
             'SPOKEN DIALOGUE (she says exactly this, once, in this order, with nothing added): "' + txt + '"\n\n'
             'VOICE CHARACTERISTICS (LOCKED):\n' + voz + '\n\n'
+            # 23/11 19h05: a voz do T01 do nora75 saiu diferente da do T02 em diante. Os takes da Central levam também o campo
+            # "Prompt de consistência de voz" (VC.NORA), e o prompt avulso não levava. Agora leva, mais o pedido da mesma voz da conversa.
+            + VC.NORA.replace('{clip}', str(clip)).replace('{total}', str(total)) + '\n\n'
+            'SAME VOICE AS THE OTHER CLIPS: use exactly the same voice as the other clips of this video already generated in this '
+            'conversation (same timbre, pitch, accent, pace, volume, energy and microphone sound).\n\n'
             'VOICE PACING: medium pace (155 to 180 words per minute), about 8 seconds of speech; when she finishes the last word she closes her lips and stays silent '
             'with a calm expression until the clip ends.\n\n'
             'MOVEMENT: ' + movimento + '\n\n'
@@ -273,6 +278,10 @@ def nora75():
     ag['imagem'] = IMG_B
     ag['intro'] = (f'No Muse, na conversa da Nora, são 2 mensagens: (1) o T01 com a {IMG_A}; (2) os outros {N - 1} takes com a {IMG_B} + o aviso do Muse + o '
                    '“COPIAR TUDO JUNTO” da Central.')
+    refaz = ('Generate the cinnamon clip from my first message again, exactly ONE clip, with the attached image as the first frame: the same spoken words, '
+             'the same movement, the same camera and everything else the same. The only change is the voice: it must be exactly the same voice as the 12 clips '
+             'from my second message (Prompts 01 to 12), the same timbre, pitch, accent, pace, volume, energy and microphone sound. '
+             + VC.NORA.replace('{clip}', '1').replace('{total}', str(N)) + ' Name it ' + nome(0) + '-v2.')
     ag['passos'] = [
         f'MENSAGEM 1 (o T01): anexe a {IMG_A} e cole este prompt. Renomeie o clipe para {nome(0)}. PROMPT: ' + T01,
         f'Na Central: preencha como na seção da Central (o LIVRE e a movimentação do nora75) e cole a fala do T02 ao T{N:02d}. Confira: {N - 1} takes.',
@@ -280,6 +289,7 @@ def nora75():
         '“Now generate Prompts 07 to 12 from my previous message, exactly as written, in the same order, using the attached image as the first frame of every clip.”',
         f'Renomeie pela ordem da mensagem 2: {lista}.',
         'Confira cada take: sem a lua e sem as estrelinhas (se voltarem, gere aquele de novo); o copo na mão; ela fala uma vez só. Se o Muse recusar: “Generate prompt X again, exactly as written.”',
+        f'SE A VOZ DO T01 FICOU DIFERENTE DO T02 EM DIANTE (aconteceu em 23/11: o T01 avulso não levava o texto de consistência de voz da Central; o prompt acima já foi corrigido): na mesma conversa, anexe a {IMG_A} e mande: “' + refaz + f'” Use o {nome(0)}-v2 no lugar do T01.',
         f'Hoje são 14 clipes ({N} do nora75 + 1 do nora76). Se aparecer o erro “video_daily_budget_exhausted”, me avise com quantos saíram (não há limite por dia confirmado: só o relato de 1 pessoa no Discord, e a nossa conta nunca bateu nele).',
     ]
     ct['agente'] = ag
