@@ -317,3 +317,26 @@
 - **O comando físico sem ameaça na retenção:** "Close your right hand and listen until the end." (Briefing de Escrita 2), medido nos 10 s. A perda, a escassez e a mensagem incompleta ficam fora (P42; o perfil ruim).
 - **A Estrutura Invisível + a Modelagem** (os 2 prompts do Copy Hub) entram no processo da mineração dos vídeos do dia: a Estrutura Invisível em cada transcrição; a Modelagem, com o Gancho A e o Gancho B, no vídeo escolhido para o próximo falado. Eu faço os dois aqui. **Desde 23/11 14h07, são skills do projeto** (`.claude/skills/estrutura-invisivel-copy/` e `.claude/skills/modelar-copy-vencedora/`, com a seção "NO PROJETO DA NORA"); o formato da tabela segue o PDF de exemplo (`MATERIAIS-COPY-HUB-23-11/exemplo-pratico-estrutura-invisivel.txt`).
 - **O nora74 é o perfil ruim do Copy Hub** (o Arcanjo "mandou um aviso", os selos, o 222 e "the second part of this sign"): se ele der views e nenhum clique, a explicação já está escrita; o próximo falado volta ao CTA padrão (R80).
+
+## 23/11/2026 ~15h40: da mineração dos 58 vídeos das últimas 24 h (`referencias-virais/2026-11-23-mineracao/LEIA.md`; seção 55 do `BIBLIOTECA-VIDEOS-VIRAIS.md`)
+- **[O próximo falado, proposto] O teste de gancho da Modelagem** (`referencias-virais/2026-11-23-mineracao/MODELAGEM-PROXIMO-FALADO.md`): o mesmo corpo leve (a dor das contas na 2ª frase, os sinais pequenos, o futuro sem dinheiro, o CTA R80 com o motivo "cada mulher") com 2 ganchos, um em cada vídeo:
+  - A = a janela de 2 datas ("If this video found you on [dia] or [dia], it didn't find you by accident.");
+  - B = o ritual dito com a lua cheia de verdade ("Before [Tuesday's] full moon, put a glass of water by your window. I know it sounds strange, but you'll thank me."). O B só serve até a noite de 24/11.
+  - A mesma fala serve no Insta e no Face. Painel só com o "pode montar".
+- **[Teste A/B, contradição] A duração:** A = 40 a 60 s (R54; aula 28); B = ~100 s com a copy leve (a mediana do mercado hoje é 107 s, em 40 vídeos de 18 contas). O nora69 e o nora70 (2:12 e 1:59) eram longos, mas com a copy negativa: a duração longa com a copy leve nunca rodou.
+- **[Teste A/B] O motivo do CTA:**
+  - A = o R80 com "because this new season opens differently for every woman" (o m08);
+  - B = o motivo pela frequência (o m29 e o m37: "The money gets close… then slips away. You don't need to work harder. You need to adjust your frequency."). É a mesma linguagem da VSL do funil ("vibrating on the right frequency", `ANALISE-FUNIL-MANIFESTATION-VSL.md`).
+  - Só no Insta, porque fala de dinheiro.
+- **Tipos de Take 1 que nunca rodaram:**
+  - a cena "There is a woman lying down with her phone in her hand right now…" (7 vídeos, 5 contas);
+  - a contagem "Ready? Three, two, one." (3 contas), sem a continuação com ameaça;
+  - a carta da morte reenquadrada com um loop aberto que fecha antes do CTA (o m20; entra no teste A/B das cartas).
+- **Reforço do ritual dito** (o item 3 de 20/11): é o Take 1 mais usado hoje (12 de 40, 7 contas). Vira o Gancho B do próximo falado.
+- **Reforço da repostagem com variação no Insta** (o teste A/B da 30ª leitura): 4 contas postaram o mesmo vídeo 2 ou 3 vezes no mesmo dia, mudando o número de anjo, a data ou a roupa. O @jasonmonroe222 pôs 6 ganchos no mesmo corpo.
+- **Para as contas novas (decisão do aluno):**
+  - avatar masculino (5 contas, 15 vídeos);
+  - mulher de 55 a 70 anos (5 contas);
+  - a dupla com o motivo do formato ("there's a reason two of us showed up on your screen today. We're twins…");
+  - uma conta com 2 avatares diferentes (o monge e o avô da @imjamalwilliams), contra a R82 ("1 personagem por conta"). Se o aluno quiser, vira teste.
+- **Calendário:** a lua cheia de 24/11/2026 (11h53 de Brasília, 9h53 da costa leste, em Gêmeos, superlua) não estava nas datas do nicho (seção 1 do `CLAUDE.md`). Foi acrescentada.

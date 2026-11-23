@@ -973,3 +973,23 @@ Do 1º ao 15º (views, duração): nº 1 dança de casal (5,6 mi, 41 s; fora do 
     - (6) o "Pick a card, 1 or 2", dentro do teste A/B das cartas, por último.
   - A @takedanaomi_ é o processo do Baran no nicho: o mesmo cenário (podcast), outra roupa, o mesmo roteiro.
   - **Ponto do aluno (20/11 ~10h15):** o funil em espanhol só abre para quem passou de 300 vendas (LegacyTalk de 19/11), então o corpo A do v2 e do v3 vende para elas. Fica: o exagerado fora (o nora69 e o nora70 testaram; chargeback) e o **black soft** (o corpo A limpo dos nossos 3 melhores falados, nora48 a nora50, que também abriam com os signos) vira o item 7 da `FILA`, contra a copy leve.
+
+## 55. A mineração de 23/11/2026: 58 vídeos das últimas 24 h (pasta do Drive 1BIVn8gbjQsWuLOvnbJhIgSnLs4XfPzy1, a mesma da seção 54, agora com 58; análise inteira em `referencias-virais/2026-11-23-mineracao/LEIA.md`; fala inteira em `TRANSCRICOES/2026-11-23-mineracao-58-videos.md`)
+- **Quem:** 40 vídeos de 18 contas que vendem Auraly (30 em inglês e 10 em espanhol, 4 de amor). Os outros 18 são de uma brasileira que vende "consulta espiritual" (6) e de contas reais só de engajamento (12). Sem views nem horário, pela regra do aluno: a leitura é por frequência.
+- **O que a maioria faz hoje:**
+  - **a fala começa no 1º quadro em 26 de 40**; os outros 14 têm de 2 a 8 s de ação muda antes;
+  - **o Take 1 mais usado é o ritual doméstico dito com o objeto na mão** (12 de 40, 7 contas): "…I know it sounds ridiculous, but you'll thank me for the rest of your life";
+  - **uma data em 24 de 40**, quase sempre 1 a 3 dias à frente; a janela de 2 ou 3 datas em 5;
+  - "There is a woman lying down with her phone in her hand right now" em 7 (5 contas);
+  - **o corpo A em 31 de 40**, com selos em ~36 e pedido de comentário em ~37;
+  - **o CTA "quick reading… whether you're one of those people" em 22**;
+  - **a duração tem mediana de 107 s** (de 33 a 155 s);
+  - homens em 5 contas e mulheres de 55 a 70 anos em 5; o carro em 7 e o banheiro em 5;
+  - **4 contas repostaram o mesmo vídeo 2 ou 3 vezes** com outro número, data ou roupa.
+- **Fora da Auraly, o gancho do dia** é "This video will find you on Monday, November 23rd. And if it does, this message is 100% meant for you." (4 contas, 9 vídeos), puxando a lua cheia de 24/11.
+- **As versões leves que servem à Nora:**
+  - o m10 e o m26 (@darius.whitmore): a dor das contas na 2ª frase e o futuro em cenas pequenas;
+  - o m08 (@agnestarot_): sem ameaça na fala, e o CTA com motivo e com o funil descrito;
+  - o m19: o ritual explicado.
+- **A Estrutura Invisível** dos 5 roteiros principais está em `referencias-virais/2026-11-23-mineracao/ESTRUTURA-INVISIVEL.md`, e **a Modelagem** do m10 para a Nora (Gancho A: a janela de datas; Gancho B: o ritual dito com a lua cheia de 24/11) em `referencias-virais/2026-11-23-mineracao/MODELAGEM-PROXIMO-FALADO.md`.
+- **Fora:** a calcinha com duplo sentido (5 vídeos), o parente falecido (3), "I'll change my name", "in 33 minutes", "free", as ameaças, a inveja, os selos e o "84 anos" da lua cheia, que é inventado.
