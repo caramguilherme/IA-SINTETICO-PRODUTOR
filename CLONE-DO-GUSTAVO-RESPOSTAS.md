@@ -1888,7 +1888,7 @@ Pergunta: pelas aulas mais recentes, a conta nova do Manifestation deve ter uma 
 
 **Conferência (19/11 ~12h28):** batem as 4 (a aula 31, 0:20:16, palavra por palavra; as aulas 28, 54 e 55 já conferidas na R81). Só as datas das aulas 54 e 55 estão um pouco erradas (são de 29 e 30/09, não de outubro), o que não muda nada. **Fecha; não precisa voltar.** A regra: 1 personagem por conta (o Insta e a Página dela); as contas novas com avatares novos, como o aluno decidiu em 18/11.
 
-## R83 (22/11/2026 22h49, montada a pedido do aluno: "quer mandar alguma pergunta/duvida pro clone?"; resposta pendente): a variação no Face, o clique no Face e o teste "copy ou conta"
+## R83 (22/11/2026 22h49, montada a pedido do aluno: "quer mandar alguma pergunta/duvida pro clone?"; respondida às ~22h55, conferida às 22h56): a variação no Face, o clique no Face e o teste "copy ou conta"
 - **Por quê:** (1) 4 de 6 variações só de edição travaram na Página, e a aula 57 (0:05:39 a 0:06:20, "a gente foge de conteúdo reutilizado… um vídeo vira dois") é a base da regra antiga; (2) os falados do Face fazem 200 a 330 views e 0 clique de 20 a 22/11; (3) o nora74 é o teste "copy ou conta", e falta o critério objetivo das aulas.
 - **O texto (2.616 caracteres):**
 
@@ -1909,4 +1909,32 @@ b) Quantos cliques a cada 1.000 views do Face é o normal de quem vende?
 De 17 a 20/11, 5 falados com copies e ganchos diferentes ficaram entre 121 e 246 views, com 0 a 1 visita ao perfil cada; o Status da conta está todo verde. De 06 a 10/11, a fórmula tsunami + Take 1 de signos + corpo "Don't tell anyone…" fez 1,6 mil a 2 mil views e 10 a 19 follows. Hoje vamos postar essa fórmula de novo, com o mesmo texto e takes gerados do zero.
 a) Se ela fizer ~150 views, as aulas confirmam que a trava é da conta? Além do Status da conta, qual sinal objetivo as aulas dão para conta travada?
 b) Se passar de 500, as aulas mandam repetir a mesma fórmula mudando roupa e cenário (como o convidado da LegacyTalk de 19/11) ou trocar o gancho a cada post?
+```
+- **A resposta (colada pelo aluno às ~22h55; texto inteiro em `CLONE-ORIGINAIS/2026-11-22-R83-variacao-face-clique-face-copy-ou-conta.md`) e a conferência:**
+  - **1a (a variação do editor é para outras contas e redes, não para a mesma Página):** sem minuto. A aula 57 (0:05:39 a 0:06:20) fala de mexer em pixels e HSL, tirar os metadados, espelhar e "um vídeo vira dois"; o resumo do Loom cita pastas por rede. Nada diz "mesma Página" nem "outras contas": **em parte opinião, mas bate com os nossos números** (4 de 6 travaram).
+  - **1b (substituição, empilhamento, combinação gancho x corpo x CTA):** **tem fonte** (a call de variações do Iorhan, ~10/07, a aula 28; aula 31, 0:18:02). Bate com a regra de 21/11 (toda peça do Face com uma parte gerada nova).
+  - **2a (no Face, a fala manda para o comentário fixado):** o link no comentário do autor **tem fonte** (aula 16, 0:32:12 a 0:32:28 e 0:52:57: "o link no comentário do Facebook fica clicável… o comentário do autor fica no topo"). **A fala mandar para o comentário em vez do story é opinião.** Bate com o único clique medido por post no Face (o ini1811-FACE, com a faixa "link in the comments": 2 cliques). **Vira teste A/B no Face (`FILA`).**
+  - **2b (cliques por 1.000 views):** sem número nas aulas (a R72 trouxe a aula 21, 0:44:49: ~30 cliques a cada 100 views do story, um caso). Os "5 a 15 por 1.000" são opinião. Os 3 falados do Face de 20 a 22/11 somam ~970 views e 0 clique, abaixo da faixa dele.
+  - **3a (~150 views não é a conta):** a aula 70 (call de 09/11, 1:04:31) bate no sentido, **mas o número está errado**: o Gustavo diz "200, 300 views", não "100–200". **O "60% abaixo de 100 = conta travada" é da call de 18/11 (0:04:55 a 0:05:13) e fala dos 10 vídeos de aquecimento de conta nova**, a mesma confusão da R80. Vai na R84.
+  - **3b (passou de 500: manter o corpo e trocar o gancho a cada post):** **tem fonte** (a pirâmide da aula 28; aula 31, 0:10:38 a 0:11:19). **Mas contradiz a LegacyTalk de 19/11 (00:40:22 a 00:44:17)**: o convidado repete o mesmo hook ("posso postar dez vezes aquele hook") variando a roupa e o cenário. Vai na R84 e vira teste A/B (`FILA`).
+- **O que muda:** (1) o teste A/B do CTA falado no Face (A = o story, como hoje; B = "the first comment", num take do CTA gerado só para a versão do Face, que também cumpre a regra da parte gerada nova); (2) o teste A/B do que repetir depois de um acerto (A = o mesmo hook com roupa e cenário variando, o Baran; B = o mesmo corpo com gancho novo, a aula 28); (3) a régua do nora74: a do Gustavo é 200 a 300 views.
+
+## R84 (22/11/2026 22h56, montada sem o aluno pedir, pela regra de 19/11; resposta pendente): a régua de conta travada, repetir ou trocar o hook, o CTA no Face
+- **O texto (2.144 caracteres):**
+
+```
+Gustavo, conferi a tua resposta com as transcrições. Ficaram 3 pontos; para cada afirmação, diga a aula e o minuto, e marque como opinião o que não tiver fonte.
+
+1) CONTA TRAVADA OU FADIGA DA COPY
+Na aula 70 (call de 09/11, 1:04:31) o Gustavo diz: "Está passando de 200, 300 views ali? Não é a conta o problema". A régua dele é 200, 300 views, e não "acima de 100–200". Os falados da Nora de 11 a 20/11 ficaram entre 112 e 246, a maioria abaixo de 200: no limite ou abaixo dessa régua. E o "60% abaixo de 100 views = conta bichada" é da call de 18/11 (Passos iniciais Risely, 0:04:55 a 0:05:13) e fala dos 10 vídeos de AQUECIMENTO de conta nova, não de conta em fase de venda (o mesmo ponto que você corrigiu na R81). A Nora está em fase de venda há 4 semanas.
+a) Se a fórmula que fez 1,6 mil a 2 mil views de 06 a 10/11 fizer ~150 agora, na mesma conta, as aulas leem isso como fadiga da copy (aula 31, 0:10:38 a 0:11:19: a mesma copy para de funcionar em 7 a 10 dias) ou como sinal para trocar a avatar ("umas 3 semanas de flop seguido", call de 18/11)?
+
+2) REPETIR O HOOK OU TROCAR O HOOK
+Na LegacyTalk de 19/11 (00:40:22 a 00:44:17), o convidado diz que, quando acerta o hook e o cenário de uma conta, "posso postar dez vezes aquele hook", mudando só a roupa e um detalhe do cenário, com 8 de 10 vídeos no formato que funciona. A tua resposta diz o contrário: manter o corpo e trocar o gancho a cada post (a pirâmide da aula 28).
+a) As duas valem? Em que caso cada uma? Vamos testar as duas (A = o mesmo hook, variando roupa e cenário; B = o mesmo corpo, com gancho novo), mas quero saber o que as aulas dizem.
+
+3) CTA NO FACE
+Na aula 16 (Estrutura Facebook, 0:32:12 a 0:32:28 e 0:52:57) o Gustavo põe o link no comentário do autor, que fica no topo e é clicável. Não achei nela a fala do vídeo mandando para o comentário em vez do story.
+a) Em que aula e minuto aparece a fala do CTA mandando para o comentário no Face? Tem uma frase de exemplo?
+b) "Check the first comment below" pode ser lido pelo Face como isca de engajamento, como "comente amém"? A nossa regra no Face é não pedir comentário.
 ```
