@@ -21,9 +21,9 @@ IMG = IMG_B
 ROSTO = ('her face with clean natural skin and no marks, no paint, no moon and no stars anywhere on her face, her long black wavy hair worn loose with no braid '
          'and no rings in it, small plain gold stud earrings and a thin gold chain necklace')
 ROUPA = 'her plain black crew-neck short-sleeve t-shirt with no logo'
-SEGURA = ('one hand holds a clear stemmed wine glass of cloudy light-brown cinnamon water at collarbone height the whole time; her other hand stays lowered, out '
+SEGURA = ('one hand holds a clear stemmed glass of cloudy light-brown cinnamon water at collarbone height the whole time; her other hand stays lowered, out '
           'of the frame, except for small gestures')
-SEGURA_A = ('one hand holds a clear stemmed wine glass of water at collarbone height and her other hand holds the red-capped cinnamon jar tilted above the glass')
+SEGURA_A = ('one hand holds a clear stemmed glass of water at collarbone height and her other hand holds the red-capped cinnamon jar tilted above the glass')
 CAM = 'the camera stays static about one meter in front of her at chest height with an unchanged framing'
 SOM = 'quiet living room sound'
 
@@ -47,7 +47,7 @@ FALA = [
 SUF = ['canela-copo', 'mulher-deitada', 'datas', 'fe', 'aviso', 'arcanjo', 'correntes', 'sete-minutos', 'selos-amen', 'amanha', 'alinhada', 'leitura', 'cta-story']
 FALA76 = "If your name starts with the letter A, J, M, K, C, E, S, L, R, T or H, be very careful."
 GESTO = [
-    'she tilts the jar and pours ground cinnamon into the glass of water while she talks, the brown powder swirling in the water, then lowers the jar to her lap',
+    'she tilts the jar over the glass of water while she talks and ground cinnamon falls in and swirls, then she lowers the jar out of the frame',
     'she holds a calm, knowing look, as if she can see the woman she is talking about',
     'she leans in slightly toward the lens with a serious, knowing look',
     'her eyebrows lift with a hopeful, bright look and a small smile grows',
@@ -97,7 +97,7 @@ CENA = ('Casual real video in the late afternoon in a cozy American living room,
 
 
 def livre():
-    return (CENA + f'CONTINUITY LOCKS for every take: the woman, {ROSTO}, {ROUPA}, the clear stemmed wine glass of cloudy light-brown cinnamon water in her hand, '
+    return (CENA + f'CONTINUITY LOCKS for every take: the woman, {ROSTO}, {ROUPA}, the clear stemmed glass of cloudy light-brown cinnamon water in her hand, '
             'the gray sofa and the cushions stay exactly as in the reference image; the framing is exactly the one of the reference image, from the chest up, her face in '
             f'the upper middle of the frame; {SEGURA}; natural skin texture with visible pores, slight phone grain, everything in focus, no bokeh, no filter, no glow and '
             'no sparkles; no zoom, no cuts and no reframing; no phone, phone stand, tripod, object, person, animal or text appears or disappears; no paint, moon, stars or '
@@ -259,7 +259,7 @@ def nora75():
     P['comentario_fixado'] = {'insta': 'Did you do it? 🌿 tap my profile picture above, your reading is waiting in my story',
                               'face': 'Your 2027 reading is waiting for you here ✨ 👉 ' + FB}
     lista = ' · '.join(f'{i} = {nome(i)}' for i in range(1, N))
-    T01 = prompt_manual(FALA[0], mov(GESTO[0], True), 'the wine glass of water and the cinnamon jar in her hands')
+    T01 = prompt_manual(FALA[0], mov(GESTO[0], True), 'the stemmed glass of water and the cinnamon jar in her hands')
     ct = P['central']
     ct['config'] = config()
     ct['colagens'] = [{'titulo': f'nora75: a colagem do T02 ao T{N:02d} (na {IMG_B})', 'fala': ' '.join(FALA[1:]), 'movimentacao': [mov(GESTO[i]) for i in range(1, N)],
@@ -339,7 +339,7 @@ def nora76():
         'imagem': IMG_B,
         'intro': f'1 take só. No Muse, na conversa da Nora, anexe a {IMG_B} e cole o prompt abaixo.',
         'aviso_tag': f'cole no Muse, com a {IMG_B} anexada',
-        'aviso': prompt_manual(FALA76, mov(GESTO76), 'the wine glass of cinnamon water in her hand'),
+        'aviso': prompt_manual(FALA76, mov(GESTO76), 'the stemmed glass of cinnamon water in her hand'),
         'passos': [f'Logo depois dos {N} do nora75: anexe a {IMG_B} e cole o prompt acima, numa mensagem só. ~1 min.',
                    f'Renomeie o clipe para {NOME76}.',
                    'Confira: sem a lua e sem as estrelinhas; ela diz as 11 letras (A, J, M, K, C, E, S, L, R, T, H) uma vez só. Se o Muse recusar: “Generate it again, exactly as written.”'],
