@@ -688,3 +688,7 @@ O Muse leu os 17 prompts do arquivo (o texto longo vira anexo "pasted-text.txt":
 
 ### 19/11/2026 ~14h - As opções do campo "Atmosfera / mood" da Central (print do aluno)
 Antecipação tensa subindo · Místico e ritualístico · Íntimo e confidencial · Curiosidade sedutora e brincalhona · Sabedoria silenciosa contemplativa · Funesto e premonitório · Caloroso e acolhedor · Onírico e etéreo · Solene e grave · Elétrico e carregado · ✎ LIVRE. **Regra:** o painel só indica uma opção desta lista (no nora71 eu tinha escrito "Acolhedor e esperançoso", que não existe). Fala calorosa, de amiga (os 3 sinais, nora71 e nora72) = **Caloroso e acolhedor**; fala de segredo e ameaça (o modelo da claire_mayaus) = Íntimo e confidencial.
+
+### 22/11/2026 23h40 - A carta longe do rosto (aula 25, 0:50:28 a 0:50:43)
+Num vídeo do HeyGen, a carta "entrou no pescoço" da avatar, e o Gustavo: "I'm trying to keep the card a little further away from the face, because it really bugs." **Regra para o Muse e o Flow:** com a carta na mão, ela fica na altura do peito, a um palmo do rosto e do queixo, e o prompt diz isso ("holds the card at chest height, a hand's width away from her chin and face; the card never touches or overlaps her face, neck or hair"). Na mesma aula (1:20:52 a 1:23:10), a avatar "sem expressão parece um robô": os nossos prompts já pedem o sorriso e a expressão de cada take (bate).
+

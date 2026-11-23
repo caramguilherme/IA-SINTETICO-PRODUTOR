@@ -288,3 +288,12 @@
   - o adesivo "AMEN";
   - a "surpresa" no story (a leitura é paga);
   - as legendas de arco-íris e serifada (o estilo "simples" é de 18/11).
+
+## 22/11/2026 23h40: das aulas 25, 51 e 64 (lidas inteiras; `AULAS-25-51-64-LIDAS-22-11.md`)
+- **A linha de benefício do próximo falado: "a leitura põe em palavras o que você sentia e não sabia explicar."** Fonte: a pesquisa da Auraly (slides 8 e 17; aula 64, 0:35:33 a 0:42:17): o que elas elogiam é "it knew me", a precisão e "there were things I felt but could not explain"; 59% compram por direção ou por uma leitura que "ressoa". Ex.: "Your reading puts into words what you've been feeling all year and couldn't explain." É a promessa do produto, não depoimento (HONESTIDADE ok). Entra no corpo, antes do CTA padrão, uma variável por vez.
+- **A prova da "cética" antes do CTA (só se houver uma avaliação real assim em `provas-trustpilot/`):** a pesquisa (slide 17) diz que as avaliações que mais convencem "abrem admitindo a dúvida e depois cedem" ("I am a skeptic but this reading hit home"). Hoje as 6 provas da pasta não foram lidas com esse filtro; conferir antes de propor. Nunca escrever uma.
+- **O "feijão com arroz" da aula 64 (0:21:26 a 0:22:17) reforça dois itens que já estão na fila:** o Take 1 com os signos (o item 2 dos virais de 20/11) e nada de ritual de ingrediente (a regra de 17/11). Não é item novo.
+- **Um formato por post e, quando um acerta, 4 dele e 2 de teste** (aula 25, 0:13:00 a 0:13:40 e 0:16:54): reforça o processo do Baran (80/20, LegacyTalk de 19/11), que já está aqui.
+- **[Teste A/B de baixa prioridade, contradição entre aulas] A caixa do topo:** A = branca com letra preta e a palavra-chave em vermelho (o padrão de 18/11; aula 43, 1:12:46, de 31/08); B = fundo vermelho de cantos arredondados com letra branca (aula 25, 0:42:18 a 0:42:44, de 25/06: "I like to put a background on the headline. Usually red"). A mais nova é a A; só roda depois dos testes de copy.
+- **Para as contas novas (decisão do aluno):** a aula 25 (1:15:11 a 1:15:46) aceita um aquecimento mais longo só com vídeos de engajamento numa conta nova ("it leaves the account strong"), e a aula 51 (0:58:03) manda começar num app só ("babysteps"), como o Diogo em 19/11. Os dois pesam no plano de 2 contas no Risely e 1 no Manifestation.
+

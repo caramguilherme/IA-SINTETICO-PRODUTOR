@@ -2,7 +2,7 @@
 # nora73 (Insta 19h30; Face 0h00 de 21/11): o nora72 inteiro (a canela no carro + a fala dos 3 sinais) com UMA frase nova na frente,
 #   as letras do nome ("If your name starts with the letter A, J, M, K, C, E, S, L, R, T or H, pay close attention."). 1 take no Muse.
 #   Fontes: o viral 52.2 (16/11), o v4 da @takedanaomi_ (20/11, a mesma frase) e o ini1811 (o único post que levou gente ao perfil).
-# nora74 (Insta no próximo horário depois de 22/11 22h23: 0h00 de 23/11 ou 19h30 de 23/11; não gerado em 20 e 21/11; só no Insta): o campeão de volta (o nora48 a nora50), feito do zero no Muse. Ver build_nora74 abaixo.
+# nora74 (Insta às 19h30 de 23/11, segunda; o montado não chegou até as 23h40 de 22/11, então a 0h00 saiu; não gerado em 20 e 21/11; só no Insta): o campeão de volta (o nora48 a nora50), feito do zero no Muse. Ver build_nora74 abaixo.
 # Uso (raiz do repositório): python3 -I ferramentas-painel/dia-2011/build_dia_2011.py
 import sys, json, copy, re, pathlib, importlib.util
 
@@ -194,7 +194,7 @@ def nora74():
     P['imagens'] = [{'rotulo': 'IMAGEM 1 · d2011-bunker-IMG', 'cena': 'já existe (o último quadro do hook do tsunami; eu mandei no chat)', 'anexar': 'a d2011-bunker-IMG'}]
     P['roteiro'].update({
         'id': 'nora74-CAMPEAO-ONDA-2011',
-        'titulo': 'nora74 · Insta à 0h00 ou às 19h30 de 23/11 · o campeão de volta: o tsunami original + Touro, Virgem e Capricórnio + o corpo A limpo',
+        'titulo': 'nora74 · Insta às 19h30 de 23/11 (segunda) · o campeão de volta: o tsunami original + Touro, Virgem e Capricórnio + o corpo A limpo',
         'duracao_total': 70,
         'descricao_instagram': ("Taurus, Virgo, Capricorn: if you've been carrying everything on your own, listen before the year ends. 🔮\n"
                                 'The worst is finally over. Your private reading is waiting in my story.\n'
@@ -241,8 +241,8 @@ def nora74():
         {'quando': 'A. Antes de tudo', 'texto': 'Projeto novo no CapCut com o nora74-cortado', 'como': 'É o vídeo que saiu da FusionZ. Começa direto no T01.'},
         {'quando': 'B. O hook: NÃO põe no CapCut', 'texto': 'O tsunami original (o nora47-PRE-tsunami-inteiro-AB que você mandou) já está comigo', 'como': 'Eu emendo o hook antes do T01, em corte seco.'},
         {'quando': '1. Do T01 ao fim', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB', 'como': 'Começa no 1º quadro do montado.'},
-        {'quando': '2. Exportar e me mandar (até ~23h40 para a 0h00, ou ~19h00 para as 19h30)', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
-         'como': '1080×1920, nome nora74-montado (acima de 30 MB, link do Drive). Eu devolvo o nora74-final (Insta, 0h00 ou 19h30 de 23/11). Não vai ao Face.'},
+        {'quando': '2. Exportar e me mandar (até ~19h00 de 23/11)', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
+         'como': '1080×1920, nome nora74-montado (acima de 30 MB, link do Drive). Eu devolvo o nora74-final (Insta, 19h30 de 23/11). Não vai ao Face.'},
     ]
     P['pecas'] = {
         'titulo_decisao': 'Resumo',
@@ -252,7 +252,7 @@ def nora74():
         'decisao': [
             '8 takes no Muse: o campeão de 06 a 10/11 (o nora48 a nora50: 1,6 mil a 2 mil views, 10 a 19 follows) feito de novo: o tsunami original + Touro, Virgem e '
             'Capricórnio + o corpo A limpo, com o texto como era (o segredo, o Arcanjo, os selos, o 222). A fala continua dentro do bunker, no último quadro do hook.',
-            'Insta à 0h00 de 23/11 (o montado até ~23h40) ou às 19h30 de 23/11 (o montado até ~19h00); não foi gerado em 20 nem em 21/11. Não vai ao Face. O limite do Muse (~15 por dia) está livre.',
+            'Insta às 19h30 de 23/11, segunda (o montado até ~19h00; gerar os 8 takes no Muse cedo); não foi gerado em 20 nem em 21/11, e a 0h00 de 23/11 passou. Não vai ao Face. O limite do Muse (~15 por dia) está livre.',
             'Hipótese: se o campeão também fizer ~150 views, a trava é a conta (e vem a Nora sem a pintura, depois dos 40 vídeos que o nora74 fecha); se passar de 500, é a copy.',
         ],
     }

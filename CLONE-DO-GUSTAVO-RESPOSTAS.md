@@ -1365,7 +1365,7 @@ No fim, separe o que mantém, o que muda e o que foi sem fonte."
   - **Bate:** a aula 43 (0:45:33 a 0:46:00): "nosso amigo Felps tem uma conta, porém todos os vídeos que ele faz são excelentes… ele escala fofo".
   - **Bate, com o autor trocado e um detalhe errado:** a Estrutura Instagram (aula 37, do @wakezk_, não do Gustavo), 0:56:54 a 0:57:29: 3 dias de 15 a 30 min no começo da conta, mas **com curtida, comentário, salvar e republicar** ("dá uma curtidinha, comenta qualquer coisa"), não "sem mexer". Aos 0:57:29 ele cita o aquecimento automático do GeeLark e diz: "eu não usei nenhuma das minhas contas, não sei se está… funcionando ainda".
   - **Sem fonte (opinião):** como o aquecimento do Felps funciona (1 curtida a cada 3 a 5 min, "session warming" antes do upload do MP4) e o porquê do Gustavo (produtividade). **Contradiz o fórum:** a automação "Instagram AI account warmup" assiste vídeos inteiros e segue alguns perfis, sem curtir nem comentar (Delian, `MATERIAIS-FORUM-AQUECIMENTO/LEIA.md`). Nenhuma aula diz que o Felps aquece; isso chegou de 2ª mão no Discord (16/11).
-  - **Contradiz uma aula:** o "Felps com mais de R$ 120 mil". A aula 39 diz "40, 50 mil?". Vai para a R67.
+  - **~~Contradiz uma aula~~ (corrigido em 22/11 23h40):** o "Felps com mais de R$ 120 mil" **tem fonte:** aula 51 (21/09, 0:17:49: "has already made more than R$120,000 in commissions"). A aula 39 ("40, 50 mil?") é de 13/08: são números de datas diferentes, não contradição.
   - **Sem como conferir:** a aula 53.
 - **O que entra (decisão minha, 17/11 01h00):** o aquecimento antes de postar volta como **opcional e passivo**: 10 a 15 min de Reels do nicho, vídeos até o fim, rolando devagar, no máximo 1 curtida a cada 5 a 10 min, sem comentar e sem seguir. **Nas 24 h depois da liberação, nada** (R62). Ele não é obrigatório: as aulas 14 e 32 dizem que não precisa.
 
@@ -1976,21 +1976,29 @@ d) O CTA de engajamento falado dentro do próprio vídeo de venda (salvar, segui
   - **d (o CTA de engajamento dentro do vídeo de venda, depois do story):** **a aula 21 (2:16:05 a 2:16:30) foi lida errado:** o "CTA triplo" é "pedir pra ir no comentário, nos stories e na bio… teste o triplo e o isolado", 3 lugares do link, não engajamento junto com o story. **A aula 65 (1:24:10 a 1:25:30) bate:** salvar, mandar para si e comentar no meio da copy desconcentram ("cadê a conversão?"), mas "para quem faz questão… funciona". A aula 66 ("bem depois do CTA") já estava na nossa regra (P42 e R54); os minutos dela não estão transcritos aqui.
 - **O que muda:** (1) **a ideia do aluno fica fora: nada de vídeos só de aquecimento na Nora**; o engajamento entra no próprio vídeo de venda, depois do CTA do story (a regra que já temos). (2) **O nora74 vai com a ordem do campeão** (os selos e o 222 antes do CTA do story), que é o teste aprovado pelo aluno: se passar de 500, a próxima versão inverte a ordem (story primeiro, engajamento depois) como teste. (3) O curto segue para uma conta separada (o plano das contas novas). **Vai a R86** (as 3 citações erradas e as 3 sem como conferir), montada sem o aluno pedir.
 
-## R86 (22/11/2026 23h23, montada sem o aluno pedir, pela regra de 19/11; resposta pendente): as citações erradas da R85
-- **O texto (1.726 caracteres):**
+## R86 (22/11/2026 23h23, montada sem o aluno pedir, pela regra de 19/11; **refeita às 23h40**, depois que o aluno colou as aulas 25, 51 e 64; resposta pendente): as citações erradas da R85 e os erros antigos da aula 25
+- **Por que foi refeita:** a 1ª versão (1.726 caracteres) pedia as frases das aulas 25, 51 e 64, que eu não tinha. Com as 3 transcrições (`AULAS-25-51-64-LIDAS-22-11.md`), conferi eu mesmo: as citações da R85 para a 25 (0:37:55) e a 51 (1:06:41) estão erradas, e a 64 bate em parte. A versão nova acrescenta o caso do Rico na aula 25 (o aquecimento longo só com engajamento, numa conta nova) e os erros antigos da aula 25 (R28, R29, R35, R38 e R70). Se o aluno já tiver mandado a 1ª versão, a resposta dele é conferida do mesmo jeito.
+- **O texto (2845 caracteres):**
 
 ```
-Gustavo, conferi a tua resposta com as transcrições. A conclusão bate com as aulas 53, 74, 21 e 65, mas 3 citações estão erradas e 2 ficaram sem como conferir. Para cada item, diga a aula e o minuto e cole a frase exata; o que não tiver fonte, marque como opinião.
+Gustavo, conferi a tua resposta com as transcrições (agora tenho as aulas 25, 51 e 64 inteiras). A conclusão bate com as aulas 53, 74, 21 e 65, mas 5 citações estão erradas. Para cada item, diga a aula e o minuto e cole a frase exata; o que não tiver fonte, marque como opinião.
 
 1) CITAÇÕES ERRADAS
-a) Aula 70 (call de 09/11, 1:04:31): o trecho é "Está passando de 200, 300 views ali? Não é a conta o problema… Você ainda não acertou a fatia de público dela". Não fala de "amostragem aleatória de não seguidores na aba Explorar".
-b) Aula 43 (0:18:18): o trecho fala de ideias de vídeo de prosperidade ("você pode fazer coisa mais soft"), não de retenção nem de lotes. É a 3ª vez que essa citação volta errada.
+a) Aula 70 (call de 09/11, 1:04:31): o trecho é "Está passando de 200, 300 views ali? Não é a conta o problema… Você ainda não acertou a fatia de público dela". Não fala de "amostragem de não seguidores na aba Explorar".
+b) Aula 43 (0:18:18): fala de ideias de vídeo de prosperidade ("você pode fazer coisa mais soft"), não de retenção nem de lotes. É a 3ª vez que essa citação volta errada.
 c) Aula 21 (2:16:14 a 2:16:22): o "CTA triplo" é "pedir pra ir no comentário, nos stories e na bio… teste o triplo e teste o isolado", ou seja, 3 lugares do link. Não é pedir curtida e seguida junto com o story.
+d) Aula 25 (0:37:55): é a régua do aquecimento ("the ideal… is for it to get there at least 200 views"; "the maximum it got in the first 10 videos was 295"). Não fala de não seguidores.
+e) Aula 51 (1:06:41): é "if you viralize a video today, it pulls the others out of your account". Também não fala de não seguidores nem da base de seguidores.
+A aula 64 (0:05:35 a 0:06:40) bate em parte: é viralizar sem intenção de compra; "métrica de vaidade" é palavra sua.
 
-2) SEM COMO CONFERIR (as aulas não estão transcritas aqui)
-a) Aula 25 (0:37:55) e aula 51 (1:06:41): cole a frase exata que diz que o Reels é testado primeiro com não seguidores e não depende da base de seguidores.
-b) Aula 64 (0:05:35 a 0:06:40): cole a frase exata sobre engajamento sem intenção de compra virar métrica de vaidade.
+2) O AQUECIMENTO LONGO COM VÍDEOS SÓ DE ENGAJAMENTO
+Na aula 25 (1:15:11 a 1:15:46), o Rico postou vídeos "just for engagement" antes dos de venda, e você disse: "You did a very, very long warm right? It's not bad, it's good, it leaves the account strong." Era uma conta nova, antes da 1ª venda. Existe alguma aula em que uma conta que JÁ está em fase de venda volta a postar vídeos só de engajamento e a entrega melhora? Se não existir, marque como opinião.
 
 3) O CTA DE ENGAJAMENTO DENTRO DO VÍDEO DE VENDA
-A aula 65 (1:24:10 a 1:25:30) critica salvar, mandar para si e comentar no meio da copy ("cadê a conversão?… ela se desconcentrou"), mas diz que "para quem faz questão… funciona". Fora a aula 66 ("bem depois do CTA"), existe alguma aula que mostre o pedido de seguir, salvar ou comentar DEPOIS do CTA do story ajudando a entrega ou a venda? Se não existir, marque como opinião.
+A aula 65 (1:24:10 a 1:25:30) critica salvar, mandar para si e comentar no meio da copy ("cadê a conversão?… ela se desconcentrou"), mas diz que "para quem faz questão… funciona". Fora a aula 66 ("bem depois do CTA"), alguma aula mostra o pedido de seguir, salvar ou comentar DEPOIS do CTA do story ajudando a entrega ou a venda? Se não, marque como opinião.
+
+4) CITAÇÕES ANTIGAS DA AULA 25 QUE NÃO ESTÃO LÁ (confirme ou corrija em 1 linha cada)
+a) "6 por dia numa conta só de Insta canibaliza e trava em 100 a 200" (R28 e R38): na aula 25 você posta 6 por conta (0:13:12), manda postar 6 por dia, 4 do formato que funcionou e 2 de teste (0:16:54), e diz "it is currently better to post more videos in the accounts than just one a day" (0:54:24).
+b) "O que pesa é a retenção dos primeiros 15 minutos" (R70, 0:37:55).
+c) "A legenda japonesa prejudicou só os 2 vídeos" (R29) e "voltar a 3 por dia quando a média passar de 500" (R35): a aula 25 não fala de nenhum dos dois.
 ```
