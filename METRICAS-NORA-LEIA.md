@@ -975,6 +975,17 @@ Base: os 51 posts do Face de 26/10 a 21/11 (antes de 26/10 a Página ainda não 
   - (4) **Post feito ~2 h depois de outro no Face:** o nora37 (6), o nora52 (24), o nora54 (43) e o nora61-VAR2 (15). É um sinal fraco: dos 15 posts com menos de 3 h de intervalo, 5 ficaram abaixo de 100 (33%); dos 36 com 3 h ou mais, 9 (25%).
 - **O que muda:** a grade do Face fica como está. A regra nova de 12h15 (toda peça do Face com uma parte gerada nova) é o que pega a causa mais comum.
 
+## 22/11/2026 22h33: a Biblioteca do Face depois de ~2,5 dias sem post (texto colado pelo aluno)
+O aluno ficou fora de 21/11 de manhã a 22/11 22h23: nenhum post novo e o story fora do ar de 21/11 ~18h15 a 22/11 22h30. A 1ª linha (zerada) é o story repostado às 22h30. O story de 20/11 saiu da lista.
+- **nora73-FACE** (~52 h): **307 views, +0,9x** (era 275 e +0,5x com ~15 h), 14 engajamentos, 3 comentários, 10 s de tempo médio, 47,9% nos 3 s. É a melhor distribuição dos falados desde o nora69-FACE (+2,0x).
+- **nora69-VAR2111-FACE** (~36 h): 36 views, −1,2x, mas **16 s de tempo médio, 66,7% nos 3 s, 3 views de 1 min e 1 seguidor novo**. Quem recebeu assistiu; a Página não distribuiu, como no tsu1611 (10) e no nora61-VAR2 (15).
+- **nora72-FACE** 330 (−0,2x) e **nora71-FACE** 330 (−0,2x), os dois parados desde 20/11. **nora70-FACE** 214, **ini1811-FACE** 292, nora66-FACE 27 e nora63-FACE 19: quase iguais.
+- **Os outros não mudaram.** O nora55 aparece agora com +9,5x.
+- **O que mostra:**
+  - Sem post novo por ~2,5 dias, os vídeos antigos quase não andaram. O único que subiu foi o nora73-FACE, de 275 para 307.
+  - A variação travada segue fora da distribuição, mesmo com quem assistiu ficando 16 s.
+  - Para julgar a pausa, falta o Insta e o Tracker.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
