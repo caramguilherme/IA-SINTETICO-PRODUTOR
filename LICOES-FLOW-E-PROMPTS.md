@@ -700,3 +700,8 @@ Num vídeo do HeyGen, a carta "entrou no pescoço" da avatar, e o Gustavo: "I'm 
   - Antes, o nora75 mandava anexar a `d2311-carro-IMG`, uma imagem da 1ª versão que nunca foi gerada.
 - **Conserto:** o `base()` tira o `pre_gancho` herdado e reescreve a `trava_referencia` sem a lua, as estrelinhas e a trança.
 - **Regra:** depois de gerar um painel, rodar a varredura de palavras de outros vídeos e cenas (o nome da cena antiga, `moon`, `braid`, o nome de imagens que não existem) em todo o pacote, não só nos campos que eu escrevi. E conferir se cada imagem que o painel manda anexar já existe com o aluno.
+
+## 23/11/2026 18h17: o Flow recusou a Imagem A do nora75 ("Esta geração talvez viole nossas políticas", 4 de 4, sem cobrança)
+- **Causa provável, pelas regras que já estavam aqui (22/10 e 13/11) e que eu não segui:** o prompt tinha "chest" 3 vezes ("at chest height", "from the chest up", "in front of her chest"), "skin" e o nome da marca ("McCormick Ground Cinnamon").
+- **Conserto:** "collarbone height" e "from the waist up", "complexion", e a marca só pela foto de referência do produto (`ferramentas-painel/referencias-produtos/mccormick-ground-cinnamon-frente.jpg`, como 3º anexo, "the exact cinnamon jar from the third reference photo"). O `build_dia_2311.py` agora barra essas palavras nos prompts de imagem.
+- **Regra:** antes de entregar um prompt de imagem do Flow, rodar a lista do checklist item 37 (as palavras de corpo, "skin" e o nome de marca) no texto inteiro.

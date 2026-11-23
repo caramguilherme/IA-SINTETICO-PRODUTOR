@@ -21,10 +21,9 @@ IMG = IMG_B
 ROSTO = ('her face with clean natural skin and no marks, no paint, no moon and no stars anywhere on her face, her long black wavy hair worn loose with no braid '
          'and no rings in it, small plain gold stud earrings and a thin gold chain necklace')
 ROUPA = 'her plain black crew-neck short-sleeve t-shirt with no logo'
-SEGURA = ('one hand holds a clear stemmed wine glass of cloudy light-brown cinnamon water in front of her chest the whole time; her other hand rests on her lap '
-          'except for small gestures')
-SEGURA_A = ('one hand holds a clear stemmed wine glass of water in front of her chest and her other hand holds a McCormick Ground Cinnamon jar with a red cap '
-            'tilted above the glass')
+SEGURA = ('one hand holds a clear stemmed wine glass of cloudy light-brown cinnamon water at collarbone height the whole time; her other hand stays lowered, out '
+          'of the frame, except for small gestures')
+SEGURA_A = ('one hand holds a clear stemmed wine glass of water at collarbone height and her other hand holds the red-capped cinnamon jar tilted above the glass')
 CAM = 'the camera stays static about one meter in front of her at chest height with an unchanged framing'
 SOM = 'quiet living room sound'
 
@@ -126,21 +125,26 @@ def prompt_manual(txt, movimento, objeto):
 
 
 _FIM = ('looks exactly like a real casual iPhone photo, slight phone grain, natural colors, everything in focus, no bokeh; no glow, no sparkle, no light effect; no phone, '
-        'phone stand or tripod anywhere in the image; no text and no logo anywhere except the real label on the cinnamon jar; each hand has exactly five fingers; '
+        'phone stand or tripod anywhere in the image; no text and no logo anywhere except the label of the cinnamon jar; each hand has exactly five fingers; '
         'photorealistic, unretouched, vertical 9:16')
-PROMPT_IMG_A = ('The first image is an approved photo of the woman; the second image is her character sheet (same woman, same face). Keep exactly her face, her eyes, her '
-                'skin tone and her long black wavy hair. Change: her cheek is clean natural skin, with no crescent moon, no stars, no paint and no marks anywhere on her '
-                'face; her hair is worn loose, with no braid and no gold rings in it; she wears a plain black crew-neck short-sleeve t-shirt with no logo, small plain gold '
-                'stud earrings and a thin gold chain necklace. Place and light: she sits on a gray fabric sofa with cushions behind her in a cozy American living room, a '
-                'plain light wall, soft natural window light in the late afternoon. RAW photo taken from about one meter in front of her at chest height: framed from the '
-                'chest up, her face in the upper middle of the image, looking straight into the camera with a calm, knowing look and her lips closed; in one hand she holds '
-                'a clear stemmed wine glass filled with plain water in front of her chest; with her other hand she holds a McCormick Ground Cinnamon jar with its red cap '
-                'open, tilted above the glass, a thin stream of brown cinnamon powder just starting to fall into the water; the upper 15 percent of the image is the plain '
-                'light wall with nothing in it; ' + _FIM)
+# 23/11 18h17: a 1ª versão foi recusada pelo Flow ("talvez viole nossas políticas"). LICOES (22/10 e 13/11): sem "chest" nem "skin" no prompt do Flow
+# (o filtro não entende a negação) e a marca pela foto de referência do produto, não pelo nome.
+PROMPT_IMG_A = ('The first image is an approved photo of the woman; the second image is her character sheet (same woman, same face); the third image is the reference '
+                'photo of a cinnamon jar. Keep exactly her face, her eyes, her complexion and her long black wavy hair. Change: no crescent moon, no stars, no gems and no '
+                'paint anywhere on her face; her hair is worn loose, with no braid and no gold rings in it; she wears a plain black crew-neck short-sleeve t-shirt with no '
+                'logo, small plain gold stud earrings and a thin gold chain necklace. Place and light: she sits on a gray fabric sofa with cushions behind her in a cozy '
+                'American living room, a plain light wall, soft natural window light in the late afternoon. RAW photo taken from about one meter in front of her at '
+                'collarbone height: framed from the waist up, her face in the upper middle of the image, looking straight into the camera with a calm, knowing look and '
+                'her lips closed; in one hand she holds a clear stemmed wine glass filled with plain water at collarbone height; with her other hand she holds the exact '
+                'cinnamon jar from the third reference photo, its red cap open, tilted above the glass, a thin stream of brown cinnamon powder just starting to fall into '
+                'the water; the upper 15 percent of the image is the plain light wall with nothing in it; ' + _FIM)
 PROMPT_IMG_B = ('The attached image is the approved photo. Keep exactly the same woman, the same face with no marks or paint, the same loose hair, the same black t-shirt, '
                 'the same gray sofa, the same framing and the same light. Change only this: the cinnamon jar is gone; with one hand she holds the clear stemmed wine glass '
-                'in front of her chest, now filled with cloudy light-brown water with ground cinnamon swirling in it; her other hand rests on her lap; she looks straight '
-                'into the camera with a calm, knowing look and her lips closed; ' + _FIM)
+                'at collarbone height, now filled with cloudy light-brown water with ground cinnamon swirling in it; her other hand is lowered, out of the frame; she looks '
+                'straight into the camera with a calm, knowing look and her lips closed; ' + _FIM)
+for _t in (PROMPT_IMG_A, PROMPT_IMG_B):
+    for _w in ('chest', 'skin', 'body', 'breast', 'underwear', 'mccormick'):
+        assert _w not in _t.lower(), _w
 
 
 def config():
@@ -215,7 +219,7 @@ def nora75():
         'modo': 'Flow → Imagem · 9:16 · Nano Banana Pro · x4, anexando as referências na ordem (0 crédito).',
         'etapas': [
             {'titulo': 'Imagem A: despejando a canela no copo (só o T01)', 'nome': IMG_A, 'tipo': 'img',
-             'anexar': '1º a d1711-PRE-carro-IMG-C (a Nora no carro, a mesma do nora72 e do nora73); 2º a folha da Nora (1K). O prompt tira a pintura, troca a roupa e põe ela no sofá.',
+             'anexar': '1º a d1711-PRE-carro-IMG-C (a Nora no carro, a mesma do nora72 e do nora73); 2º a folha da Nora (1K); 3º a foto do pote, mccormick-ground-cinnamon-frente.jpg (eu mandei no chat). O prompt tira a pintura, troca a roupa e põe ela no sofá.',
              'quadros': (f'x4, 0 crédito. Serve para o T01. Escolha a que tiver: o rosto da Nora SEM a lua e SEM as estrelinhas, sem trança, camiseta preta lisa, no sofá; '
                          f'o copo de vinho com água numa mão e o pote de canela McCormick (tampa vermelha) inclinado sobre o copo na outra; 5 dedos em cada mão. Renomeie para {IMG_A}.'),
              'prompt': PROMPT_IMG_A},
