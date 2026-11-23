@@ -1945,7 +1945,7 @@ b) "Check the first comment below" pode ser lido pelo Face como isca de engajame
   - **3b ("check the first comment" não é isca): opinião, coerente com a política da Meta** (isca é pedir para comentar, reagir, compartilhar ou marcar; mandar ler um comentário que já existe não pede ação de engajamento).
 - **O que muda:** (1) **a leitura do nora74:** ~150 views quer dizer fadiga da fórmula (aula 31), não prova de conta travada; só 500+ dá resposta (a conta entrega). A pergunta da conta fica com a régua da aula 74: ~3 semanas de flop seguido, ~02/12, e a decisão de trocar a avatar é do aluno. (2) O teste B do CTA no Face pode rodar no próximo falado com versão do Face: a frase "Check the first comment below to get your reading." (sem "private" e sem "link" na fala gerada). (3) A `FILA` ganha a divisão dele para o teste do que repetir depois de um acerto.
 
-## R85 (22/11/2026 23h11, montada a pedido do aluno: "eu tava pensando em voltar a postar videos de ''aquecimento'', focando no engajamento da conta… vale perguntar pro clone?"; resposta pendente): vídeos de aquecimento numa conta em fase de venda
+## R85 (22/11/2026 23h11, montada a pedido do aluno: "eu tava pensando em voltar a postar videos de ''aquecimento'', focando no engajamento da conta… vale perguntar pro clone?"; respondida às ~23h20, conferida às 23h24): vídeos de aquecimento numa conta em fase de venda
 - **O texto (2.508 caracteres; o item c refeito às 23h15 com o ponto do aluno: "quando vc tem seguidor, eles engajam o post"):**
 
 ```
@@ -1968,4 +1968,29 @@ a) As aulas dizem algo sobre voltar a postar vídeos de aquecimento ou de engaja
 b) Se ajudar: quantos por dia, em que proporção com os de venda (por exemplo, 1 de engajamento e 1 de venda por dia) e por quanto tempo?
 c) O aluno acha que conta pequena entrega menos porque é quem segue que curte e comenta primeiro, e com 160 seguidores quase ninguém engaja nas primeiras horas (no último falado, só 1,2% das views vieram de seguidores, ~3 pessoas; no total, 3 curtidas e 2 comentários). As aulas dizem que o engajamento dos seguidores nas primeiras horas puxa a entrega para os não seguidores? Crescer a base de seguidores com vídeos de engajamento é o caminho, ou o teste inicial com não seguidores já basta?
 d) O CTA de engajamento falado dentro do próprio vídeo de venda (salvar, seguir e comentar depois do CTA do story, como nos campeões de 06 a 10/11) resolve a mesma coisa sem um post separado?
+```
+- **A resposta (texto inteiro em `CLONE-ORIGINAIS/2026-11-22-R85-aquecimento-em-conta-de-venda.md`) e a conferência:**
+  - **a (voltar a postar aquecimento numa conta de venda: não recomendado):** a aula 53 (0:19:15 a 0:22:08) e a aula 74 (0:01:45 a 0:04:05) **batem no que descrevem**: o aquecimento é o começo da conta ("tracionar o nosso perfil… tirar o perfil do zero… no início a conta é frágil"), 10 vídeos e depois os de venda, e **o vídeo de aquecimento é o mesmo vídeo de venda com outro CTA** (seguir, comentar, curtir em vez do story). Nenhuma das duas diz "não volte": **o "não recomendado" é a leitura dele.** A aula 65 (0:24:10 a 0:24:40) bate: sem desejo, vem "uma enxurrada de… curiosos". A aula 64 não está transcrita aqui.
+  - **b (curto em perfil separado):** a aula 21 (0:57:10 a 0:57:30: "abram novos perfis… clickbait") bate; a aula 36 não está transcrita aqui. O "1 curto para cada 2 falados" é opinião.
+  - **c (os seguidores não puxam a entrega):** a aula 21 (0:52:05 a 0:52:30) bate: "um perfil de Instagram com 8 mil seguidores… 4 milhões e meio" de views. A aula 53 (1:45:25) fala do Felps "com uma conta até esses dias", não de "conta pequena". **Erradas:** a aula 70 (1:04:31) é a régua das 200, 300 views, não fala de "amostragem de não seguidores na aba Explorar"; **a aula 43 (0:18:18), pela 3ª vez**, fala de ideias de vídeo de prosperidade. As aulas 25 e 51 não estão transcritas aqui. O mecanismo (o teste com não seguidores) bate com os nossos números (98,8% de não seguidores no nora73).
+  - **d (o CTA de engajamento dentro do vídeo de venda, depois do story):** **a aula 21 (2:16:05 a 2:16:30) foi lida errado:** o "CTA triplo" é "pedir pra ir no comentário, nos stories e na bio… teste o triplo e o isolado", 3 lugares do link, não engajamento junto com o story. **A aula 65 (1:24:10 a 1:25:30) bate:** salvar, mandar para si e comentar no meio da copy desconcentram ("cadê a conversão?"), mas "para quem faz questão… funciona". A aula 66 ("bem depois do CTA") já estava na nossa regra (P42 e R54); os minutos dela não estão transcritos aqui.
+- **O que muda:** (1) **a ideia do aluno fica fora: nada de vídeos só de aquecimento na Nora**; o engajamento entra no próprio vídeo de venda, depois do CTA do story (a regra que já temos). (2) **O nora74 vai com a ordem do campeão** (os selos e o 222 antes do CTA do story), que é o teste aprovado pelo aluno: se passar de 500, a próxima versão inverte a ordem (story primeiro, engajamento depois) como teste. (3) O curto segue para uma conta separada (o plano das contas novas). **Vai a R86** (as 3 citações erradas e as 3 sem como conferir), montada sem o aluno pedir.
+
+## R86 (22/11/2026 23h24, montada sem o aluno pedir, pela regra de 19/11; resposta pendente): as citações erradas da R85
+- **O texto (1.726 caracteres):**
+
+```
+Gustavo, conferi a tua resposta com as transcrições. A conclusão bate com as aulas 53, 74, 21 e 65, mas 3 citações estão erradas e 2 ficaram sem como conferir. Para cada item, diga a aula e o minuto e cole a frase exata; o que não tiver fonte, marque como opinião.
+
+1) CITAÇÕES ERRADAS
+a) Aula 70 (call de 09/11, 1:04:31): o trecho é "Está passando de 200, 300 views ali? Não é a conta o problema… Você ainda não acertou a fatia de público dela". Não fala de "amostragem aleatória de não seguidores na aba Explorar".
+b) Aula 43 (0:18:18): o trecho fala de ideias de vídeo de prosperidade ("você pode fazer coisa mais soft"), não de retenção nem de lotes. É a 3ª vez que essa citação volta errada.
+c) Aula 21 (2:16:14 a 2:16:22): o "CTA triplo" é "pedir pra ir no comentário, nos stories e na bio… teste o triplo e teste o isolado", ou seja, 3 lugares do link. Não é pedir curtida e seguida junto com o story.
+
+2) SEM COMO CONFERIR (as aulas não estão transcritas aqui)
+a) Aula 25 (0:37:55) e aula 51 (1:06:41): cole a frase exata que diz que o Reels é testado primeiro com não seguidores e não depende da base de seguidores.
+b) Aula 64 (0:05:35 a 0:06:40): cole a frase exata sobre engajamento sem intenção de compra virar métrica de vaidade.
+
+3) O CTA DE ENGAJAMENTO DENTRO DO VÍDEO DE VENDA
+A aula 65 (1:24:10 a 1:25:30) critica salvar, mandar para si e comentar no meio da copy ("cadê a conversão?… ela se desconcentrou"), mas diz que "para quem faz questão… funciona". Fora a aula 66 ("bem depois do CTA"), existe alguma aula que mostre o pedido de seguir, salvar ou comentar DEPOIS do CTA do story ajudando a entrega ou a venda? Se não existir, marque como opinião.
 ```
