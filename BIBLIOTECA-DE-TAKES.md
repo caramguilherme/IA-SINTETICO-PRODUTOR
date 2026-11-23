@@ -409,3 +409,12 @@ Fora da numeração do nora. Peças com o nome do teste: `faceNN-IMG`, `faceNN-C
 - **nora74-final (Insta):** 1:05, completo (os selos e o "Comment 222" na fala, como o campeão de 06 a 10/11).
 - **nora74-final-FACE:** 0:36, a variação do Face (espelho, matiz, 1,1x, sem metadados) e os cortes do Face (`specs/cortes-extra-nora74-FACE.json`, tempos do montado): o T04 (23,16 a 32,76 s, o dinheiro), o T06 e o T07 e o começo do T08 (40,10 a 61,42 s: as portas financeiras, os selos e o "Comment 222 to claim this energy, then"; o corte cai no silêncio de ~61,42 s, conferido pela energia do áudio). A fala fica: T01, T02, T03, T05 e "Tap my profile picture. The second part of this sign is waiting in my stories." (transcrição do final conferida). Faixa "Your 2027 reading: / [link in the comments]", sem seta.
 - Conferido: 6 quadros de cada (a caixa do topo no hook e no T01, os números longe do rosto, a legenda, a faixa e a seta no CTA).
+
+## nora75 (23/11/2026, editado às 19h17): a cópia do m30 = m61, a canela no copo d'água, no sofá
+- **Montado:** `NORA75.mp4` do Drive, 1080×1920, 24 qps, 1:41,6, sem borda preta; a transcrição bate com as 13 falas do painel, sem palavra repetida (`specs/palavras-nora75.json`). Os takes: `d2311-sofa-T01-canela-copo` a `d2311-sofa-T13-cta-story` (Muse; o T01 com a IMG-A, o resto com a IMG-B).
+- **A voz do T01 (o aluno achou diferente):** medida no montado, a mediana do tom do T01 é 213 Hz, e a do T02 ao T13 fica entre 183 e 208 Hz (o T04, 205; o T13, 208). É o mais alto, mas perto do T04 e do T13; quem decide de ouvido é o aluno.
+- **Edição:** `ferramentas-painel/dia-2311/editar_simples_2311.py` (sem hook, silêncios acima de 0,45 s cortados pelas palavras, legenda simples, o "11:11✨" pequeno no alto à esquerda o vídeo todo) + `spec_simples_2311.py` (só a seta vermelha, X −300, Y −400, do "So tap my profile picture" ao fim; preset veryfast). Sem caixa do topo, sem faixa, sem o 222 na tela.
+- **nora75-final (Insta):** 1:29, completo. Seta de 82,8 s ao fim.
+- **nora75-final-FACE:** 1:07, sem o T08, o T09 e o T10 (`specs/cortes-extra-nora75-FACE.json`: 54,88 a 78,52 s do montado) e sem o "money," do T04 (25,65 a 26,38 s); sem a variação do Face (o corpo é novo na Página). A seta fica também no Face (a fala manda para a foto do perfil e o story).
+- **A conferir depois:** 2 pedaços da legenda quebram com 1 palavra na 2ª linha ("…dreamed / of", "…faith and / money"); no nora76, equilibrar as 2 linhas.
+
