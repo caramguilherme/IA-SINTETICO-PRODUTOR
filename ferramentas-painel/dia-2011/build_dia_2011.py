@@ -222,7 +222,7 @@ def nora74():
                    '(1 colagem: 1 mensagem).')
     ag['passos'] = [
         'Na Central: preencha como na seção da Central (o LIVRE e a movimentação são os do nora74) e cole a fala inteira. Confira: 8 takes.',
-        'No Muse, na conversa da Nora: 1 MENSAGEM só, com a d2011-bunker-IMG + o aviso do Muse + o “COPIAR TUDO JUNTO” da Central (os 8 takes).',
+        'No Muse, na conversa da Nora: 1 MENSAGEM só, com a d2011-bunker-IMG + o aviso do Muse + o “COPIAR TUDO JUNTO” da Central (os 8 takes). O Muse gera 6 por vez: depois do 01 ao 06, mande na mesma conversa, com a mesma imagem anexada: “Now generate Prompts 07 and 08 from my previous message, exactly as written, in the same order, using the attached image as the first frame of both clips.”',
         f'Renomeie cada take com o nome da lista (o número é a ordem na mensagem): {lista}.',
         'Confira cada take: dentro do bunker, a porta de aço atrás, as mãos paradas embaixo, sem água, a lua com as 3 estrelinhas; ela fala uma vez só, sem repetir palavra, e diz '
         '“two two two” no T08. Se o Muse recusar um prompt: NÃO deixe ele reescrever; mande na mesma conversa “Generate prompt X again, exactly as written.”',
