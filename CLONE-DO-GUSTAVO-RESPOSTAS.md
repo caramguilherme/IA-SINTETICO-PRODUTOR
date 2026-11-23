@@ -1944,3 +1944,28 @@ b) "Check the first comment below" pode ser lido pelo Face como isca de engajame
   - **3a (a fala mandando para o comentário): a aula 11 (1:08:08) não está transcrita aqui** (procurei pelo número, pela frase e pelo assunto; a aula 54 só cita "a aula 11 gravada no mapa mental"). O exemplo é do funil do Soulmate e junta 3 CTAs ("comente Soulmate", o link na bio, o primeiro comentário). A frase sugerida, "Check the first comment below to get your personal reading right now", é dele, e repete o que ele já tinha sugerido na R72.
   - **3b ("check the first comment" não é isca): opinião, coerente com a política da Meta** (isca é pedir para comentar, reagir, compartilhar ou marcar; mandar ler um comentário que já existe não pede ação de engajamento).
 - **O que muda:** (1) **a leitura do nora74:** ~150 views quer dizer fadiga da fórmula (aula 31), não prova de conta travada; só 500+ dá resposta (a conta entrega). A pergunta da conta fica com a régua da aula 74: ~3 semanas de flop seguido, ~02/12, e a decisão de trocar a avatar é do aluno. (2) O teste B do CTA no Face pode rodar no próximo falado com versão do Face: a frase "Check the first comment below to get your reading." (sem "private" e sem "link" na fala gerada). (3) A `FILA` ganha a divisão dele para o teste do que repetir depois de um acerto.
+
+## R85 (22/11/2026 23h12, montada a pedido do aluno: "eu tava pensando em voltar a postar videos de ''aquecimento'', focando no engajamento da conta… vale perguntar pro clone?"; resposta pendente): vídeos de aquecimento numa conta em fase de venda
+- **O texto (2.185 caracteres):**
+
+```
+Gustavo, uma dúvida da Nora (Insta @norakensleytarot, Manifestation, público dos EUA; 160 seguidores; em fase de venda há 4 semanas). Para cada afirmação, diga a aula e o minuto; o que não tiver fonte, marque como opinião.
+
+O QUADRO
+- Desde 11/11, os falados de venda (40 a 60 s, CTA para o story) ficam entre 112 e 246 views, com 0 a 1 visita ao perfil cada; 99% das views vêm de não seguidores; o Tracker deu 0 clique de 20 a 22/11.
+- Os 3 melhores falados da conta (06 a 10/11: 1,6 mil a 2 mil views, 10 a 19 follows cada) tinham CTA de engajamento na fala: salvar (1º selo), seguir (2º selo) e "comment 222".
+- Um curto sem fala de 6 s (18/11) fez 1.705 views, 21 visitas e 4 follows, com 38,7% de Índia.
+
+A IDEIA DO ALUNO
+Voltar a postar vídeos no estilo do aquecimento (CTA só de seguir, comentar e curtir, sem link e sem story) para subir o engajamento da conta, porque contas pequenas como a dele (160 seguidores) parecem entregar menos.
+
+O QUE JÁ TEMOS
+- A favor: no Discord (28/10), uma Página que vendia e flopou depois de trocar de funil voltou fazendo só vídeos de engajamento de até 12 s (Mathèus Pimmentel).
+- Contra: outro aluno (26/10) fez 3 dias só de vídeos para comentário e seguidor numa conta cujos vídeos de venda não entregavam, sem resultado; o Caio1094 (17/11) diz que o vídeo curto ensina o algoritmo a mandar para quem consome curto; na aula 28 (0:59:04) o curto é "não abusem"; e na aula 70 (1:04:31) o Gustavo diz que, passando de 200, 300 views, o problema não é a conta.
+
+PERGUNTAS
+a) As aulas dizem algo sobre voltar a postar vídeos de aquecimento ou de engajamento numa conta que já está em fase de venda? Isso ajuda a destravar a entrega ou atrapalha?
+b) Se ajudar: quantos por dia, em que proporção com os de venda (por exemplo, 1 de engajamento e 1 de venda por dia) e por quanto tempo?
+c) O número de seguidores (160) pesa na entrega dos Reels, se quase todas as views vêm de não seguidores? O que as aulas dizem?
+d) O CTA de engajamento falado dentro do próprio vídeo de venda (salvar, seguir e comentar depois do CTA do story, como nos campeões de 06 a 10/11) resolve a mesma coisa sem um post separado?
+```
