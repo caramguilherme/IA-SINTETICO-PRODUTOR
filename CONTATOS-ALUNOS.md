@@ -114,6 +114,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | Renan Cunha [COLD] | **1ª venda do Risely** (#vitórias 22/11 19h45; US$ 13,70 no front) | | | **Parabéns enviado no #vitórias em 23/11** (30ª leitura), com 1 pergunta (quantos dias de aquecimento antes do link). Se responder, só reagir: serve ao plano das contas do Risely | Se ajudar |
 | Kailane | Pergunta no chat-geral (22/11 15h28): no Muse, o vídeo começa com a avatar da imagem e termina com outra | | | **Resposta pública enviada em 23/11** (30ª leitura: a mesma imagem como 1º quadro em todo take; o rosto só mudou num clipe sem fala, depois de ~4,5 s) | |
 | Vinicius | Pergunta no chat-appyon (21/11 18h19): boas hashtags de manifestação | | | **Resposta pública enviada em 23/11** (30ª leitura: as 3 a 5 do nicho que a Nora usa) | |
+| Diego Brito | Pergunta no chat-appyon (23/11 00h11): pôr o link em todo comentário dá spam? E automatizar? Comprou Páginas para monetizar (2 vídeos com 136 mil e 151 mil sem link) | | | **Resposta pública enviada em 23/11** (31ª leitura: a aula 16 e o nosso comentário fixado) | |
 
 ## (Histórico) Rascunhos de 04/11/2026 (todos enviados ou descartados; ver as marcas em cada um)
 - **Kaike de Lima (DM; ENVIADA pelo aluno em 04/11 de manhã):** "valeu demais kaike, ajudou muito / faz sentido, a nora tem uns 47 vídeos só e ainda parei uns dias essa semana, vou focar na constância / to testando exatamente isso agora: mesmo corpo e pré-hook novo (um tsunami kkk) / uma dúvida rápida: esses pré-hooks diferentes que vc fez eram mais bizarros, fora do nicho, ou coisa do nicho mesmo (cristal, vela, carta etc)?"
@@ -1035,4 +1036,9 @@ só mudou num clipe sem fala, depois de uns 4,5s, aí cortei antes
 **3. Vinicius, no #chat-appyon** (responder a mensagem dele de 21/11 18h19, "Alguém recomenda boas #? manifestação"):
 aqui uso 3 a 5 do nicho: #manifestation #angelnumbers #messagefromtheuniverse #lawofattraction #2027
 nas aulas falam de poucas hashtags e do nicho, nada de encher
+
+## 31ª leitura (23/11/2026 14h00): resposta
+**1. Diego Brito, no #chat-appyon** (responder a mensagem dele de 23/11 00h11, "vocês estão colocando o link do aplicativo em cada comentário? Isso tá dando spam?"):
+automatizar o link em todo comentário é o que o gustavo fala que tá caindo como spam em página nova (aula da estrutura do face, uns 38min)
+aqui faço 1 comentário só como a página, com o link, tiro a prévia e fixo
 

@@ -1,3 +1,3 @@
 # Fórum: post "🏭 Fábrica de Vídeos com IA — tutorial passo a passo (do zero ao lote automático)"
 
-Nenhuma mensagem nova (leitura feita em 19/11 às 23h50).
+Nenhuma mensagem nova (leitura feita em 23/11 às 13h30).
