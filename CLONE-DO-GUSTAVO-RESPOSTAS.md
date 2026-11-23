@@ -1888,3 +1888,25 @@ Pergunta: pelas aulas mais recentes, a conta nova do Manifestation deve ter uma 
 
 **Conferência (19/11 ~12h28):** batem as 4 (a aula 31, 0:20:16, palavra por palavra; as aulas 28, 54 e 55 já conferidas na R81). Só as datas das aulas 54 e 55 estão um pouco erradas (são de 29 e 30/09, não de outubro), o que não muda nada. **Fecha; não precisa voltar.** A regra: 1 personagem por conta (o Insta e a Página dela); as contas novas com avatares novos, como o aluno decidiu em 18/11.
 
+## R83 (22/11/2026 22h49, montada a pedido do aluno: "quer mandar alguma pergunta/duvida pro clone?"; resposta pendente): a variação no Face, o clique no Face e o teste "copy ou conta"
+- **Por quê:** (1) 4 de 6 variações só de edição travaram na Página, e a aula 57 (0:05:39 a 0:06:20, "a gente foge de conteúdo reutilizado… um vídeo vira dois") é a base da regra antiga; (2) os falados do Face fazem 200 a 330 views e 0 clique de 20 a 22/11; (3) o nora74 é o teste "copy ou conta", e falta o critério objetivo das aulas.
+- **O texto (2.616 caracteres):**
+
+```
+Gustavo, 3 dúvidas com números da Nora (Insta @norakensleytarot + Página do Face, Manifestation, público dos EUA). Para cada afirmação, diga a aula e o minuto; o que for opinião sua, marque como opinião.
+
+1) VARIAÇÃO NO FACE
+Na aula 57 (editor automático, 0:05:39 a 0:06:20) você mostra que mexer em pixels e HSL, tirar os metadados e espelhar "foge de conteúdo reutilizado" e que "um vídeo vira dois". Na nossa Página, de 6 variações só de edição (espelho, cor, 1,1x, recorte, sem metadados) de vídeos que já tinham ido na mesma Página, 4 travaram (26, 10, 15 e 36 views; o normal da Página é 200 a 330) e 2 passaram (252 em outubro; 218 quando a variação abria diferente do original). Passaram também uma combinação nova (o gancho de um vídeo + o corpo de outro: 330) e uma frase nova gerada na frente de um corpo já postado (307, +0,9x).
+a) A variação do editor é para repostar na mesma Página ou para espalhar o mesmo vídeo em contas e redes diferentes?
+b) Na mesma Página, o que as aulas dizem que basta para o Face tratar como vídeo novo: gancho novo, Take 1 novo, outra combinação de gancho x corpo x CTA, ou outra coisa?
+
+2) CLIQUE NO FACE
+Os falados da Página fazem 200 a 330 views cada, 99% não seguidores; no último, 75% EUA e 76% com 45+. O CTA: a fala manda tocar na foto e ver o story; o link vai no story e no comentário fixado da Página, sem a prévia. De 20 a 22/11, 0 clique vindo do Face no Tracker. Os únicos cliques medidos por post no Face vieram de um curto sem fala de 6 s ("Pause on your initial"), com a faixa "link in the comments": 2 cliques.
+a) Pelas aulas (Estrutura Facebook, aula 19 ou outra), qual CTA converte melhor no Face: o comentário fixado com o link, o story ou outro? No Face, a fala deve mandar para o comentário em vez do story?
+b) Quantos cliques a cada 1.000 views do Face é o normal de quem vende?
+
+3) O TESTE "COPY OU CONTA" NO INSTA
+De 17 a 20/11, 5 falados com copies e ganchos diferentes ficaram entre 121 e 246 views, com 0 a 1 visita ao perfil cada; o Status da conta está todo verde. De 06 a 10/11, a fórmula tsunami + Take 1 de signos + corpo "Don't tell anyone…" fez 1,6 mil a 2 mil views e 10 a 19 follows. Hoje vamos postar essa fórmula de novo, com o mesmo texto e takes gerados do zero.
+a) Se ela fizer ~150 views, as aulas confirmam que a trava é da conta? Além do Status da conta, qual sinal objetivo as aulas dão para conta travada?
+b) Se passar de 500, as aulas mandam repetir a mesma fórmula mudando roupa e cenário (como o convidado da LegacyTalk de 19/11) ou trocar o gancho a cada post?
+```

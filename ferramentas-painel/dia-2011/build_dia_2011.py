@@ -198,6 +198,7 @@ def nora74():
         'duracao_total': 70,
         'descricao_instagram': ("Taurus, Virgo, Capricorn: if you've been carrying everything on your own, listen before the year ends. 🔮\n"
                                 'The worst is finally over. Your private reading is waiting in my story.\n'
+                                'Comment 222 to claim this energy 👇\n'
                                 '#manifestation #taurus #virgo #capricorn #2027'),
         'descricao_face': 'Não vai ao Face: os selos e o pedido de comentário na fala são isca de engajamento lá.',
     })
