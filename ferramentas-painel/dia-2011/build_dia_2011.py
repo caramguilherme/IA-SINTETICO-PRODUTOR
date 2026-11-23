@@ -207,7 +207,8 @@ def nora74():
     P['texto_tela'] = {'hook': 'Taurus, Virgo or Capricorn:\n[listen to this]', 'hook_comeca': 'o 1º quadro do hook', 'hook_termina': 'o fim da 1ª frase (o T01)',
                        'hook_alt': '', 'extras': []}
     P['comentario_fixado'] = {'insta': 'The worst is finally over 🙏 tap my profile picture above, the second part is waiting in my story', 'face': '(não vai ao Face)'}
-    P['story'] = {'ja_postado': True, 'nota': 'Antes de postar, confira se o story repostado hoje (o adesivo “TAP TO CONTINUE 🎁”, com o link STORYIG) está no ar no Insta.'}
+    P['story'] = {'ja_postado': True, 'nota': 'Antes de postar, confira se o story repostado em 22/11 às 22h30 (o adesivo “TAP TO CONTINUE 🎁”, com o link STORYIG) está no ar no Insta: ele vence ~22h30 de 23/11.'}
+    P['mapa_tela']['estilos'][0]['cor'] = 'branca, letra preta, “listen to this” em vermelho'
     lista = ' · '.join(f'{i + 1} = {nome74(i)}' for i in range(N74))
     ct = P['central']
     ct['config'] = config74()
