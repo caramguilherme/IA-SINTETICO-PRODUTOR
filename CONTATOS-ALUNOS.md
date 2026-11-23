@@ -1037,7 +1037,7 @@ só mudou num clipe sem fala, depois de uns 4,5s, aí cortei antes
 aqui uso 3 a 5 do nicho: #manifestation #angelnumbers #messagefromtheuniverse #lawofattraction #2027
 nas aulas falam de poucas hashtags e do nicho, nada de encher
 
-## 31ª leitura (23/11/2026 14h00): resposta
+## 31ª leitura (23/11/2026 13h57): resposta
 **1. Diego Brito, no #chat-appyon** (responder a mensagem dele de 23/11 00h11, "vocês estão colocando o link do aplicativo em cada comentário? Isso tá dando spam?"):
 automatizar o link em todo comentário é o que o gustavo fala que tá caindo como spam em página nova (aula da estrutura do face, uns 38min)
 aqui faço 1 comentário só como a página, com o link, tiro a prévia e fixo

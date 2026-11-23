@@ -1406,7 +1406,7 @@ Arquivos: `HISTORICO-DISCORD/chat-appyon_12-11-madrugada.md`, `vitorias-dolar_12
   - **Para as contas novas:** criar os próprios Gmails (nada de comprar), a régua dos 10 de aquecimento (2 baixos é normal) e o aviso de "established presence" sem pânico (`PLANO-MVM`).
 - **Respostas (P44):** parabéns ao Renan Cunha (1ª do Risely) no #vitórias, a Kailane (o rosto que muda no Muse) e o Vinicius (as hashtags) no chat (`CONTATOS-ALUNOS.md`).
 
-## 23/11/2026 14h00 - Discord, 31ª leitura (22/11 23h20 a 23/11 13h30)
+## 23/11/2026 13h57 - Discord, 31ª leitura (22/11 23h20 a 23/11 13h30)
 - **Arquivos:** `HISTORICO-DISCORD/*_23-11_*` (chat-appyon 38 mensagens, vitórias 2, chat-geral 2, o post do Gmail sem telefone 1; os outros canais e posts sem mensagem nova) e as 4 imagens em `HISTORICO-DISCORD/imagens/23-11/`. Sem buraco; de 02h05 a 05h44 o chat ficou parado (madrugada).
 - **Página comprada que viralizou sem link** (Diego Brito, 11h28): 2 vídeos com 136 mil e 151 mil views numa Página comprada para monetizar, sem o link; os outros entre 111 e 363. O jeanl.co: "reposta com os links" (o mesmo caminho do teste de repostar da `FILA`, o caso do Caio1094).
 - **Onde vai o link** (Henrique, 00h32): no Insta, só no story; no Face, 1 link no comentário fixado, o story e a automação da Meta para a DM. A mãozinha animada de "clique" no story: Stickers → "click" (Davi Lopes).
