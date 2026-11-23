@@ -1165,3 +1165,11 @@ Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, co
   - no Insta, Configurações → Status da conta → "O que pode ser recomendado";
   - na Biblioteca do Face, o nora74-FACE (a mesma peça na outra rede).
 - **Risco para o nora76 de hoje:** ele repete o corpo do nora75 (T02 a T13) ~4h30 depois, na mesma conta. Se a hipótese nº 1 se confirmar, o nora76 corre o mesmo risco. A decisão é do aluno.
+- **16h10, correção (o aluno: "repetir a copy e mudar uma frase… não faz o vídeo ser entregue para menos pessoas"):** ele tem razão, e o nosso próprio histórico mostra isso.
+  - O nora48, o nora49 e o nora50 usaram **o mesmo arquivo do tsunami**, e o nora49 e o nora50 usaram **os mesmos takes do corpo** do nora48-montado. O nora49 saiu ~18 h depois do nora48. Os três fizeram 1.638, 2.043 e 1.678.
+  - Então a hipótese nº 1 (o hook repetido) fica fraca, e o risco que eu apontei para o nora76 não se sustenta. O nora76 segue como está: o mesmo corpo com outro Take 1, como o nora49.
+  - **O que sobra:**
+    - uma restrição de recomendação da conta ou deste Reel (o Status da conta mostra);
+    - a queda da conta desde 11/11: todo falado ficou entre 110 e 250, e veio a 2ª verificação facial em 17/11;
+    - com menos peso, a isca de engajamento e o dinheiro na fala.
+  - Os prints (os não seguidores e a origem das views no Insights, o Status da conta e o nora74-FACE) decidem.
