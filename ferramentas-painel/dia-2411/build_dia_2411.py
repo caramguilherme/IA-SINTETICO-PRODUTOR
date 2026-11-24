@@ -196,7 +196,7 @@ def imagens_secao(P, titulo, conceito, etapas):
                        'modo': 'Flow → Imagem · 9:16 · Nano Banana Pro · x4, anexando as referências na ordem (0 crédito).', 'etapas': etapas}
 
 
-def agente(P, n, img_a, img_b, nomes, t01, extras, rotulo, intro_extra=''):
+def agente(P, n, img_a, img_b, nomes, t01, extras, rotulo, intro_extra='', falas=None):
     # 24/11 18h20 (cobrança do aluno: "pq mensagem 3 e mensagem 4? … nao tem um passo a passo, nao tem uma ordem pra se seguir"): a lista já é numerada
     # pelo painel; os rótulos "MENSAGEM 1 a 4" dentro dela davam uma 2ª numeração que não batia (o passo 5 era a "mensagem 3"). Agora cada passo diz
     # o que gera (o nome do take), com que imagem e com que nome salvar, numa ordem só.
@@ -210,11 +210,15 @@ def agente(P, n, img_a, img_b, nomes, t01, extras, rotulo, intro_extra=''):
                    'Por que 2 a mais para o Face: o Face precisa de outro começo (com o mesmo 1º take, ele lê como vídeo repetido; a sua regra de 24/11) e de '
                    'outro fim (o CTA manda para o 1º comentário, onde está o link, sem pedir comentário nem selos). O meio é o mesmo, então são só 2 clipes, não um vídeo inteiro.' + intro_extra)
     lista = ' · '.join(f'clipe {i:02d} do Muse = {nomes[i]}' for i in range(1, n))  # 24/11 18h11: o clipe 01 do Muse é o T02 (estava "02 = T02")
+    # 24/11 18h27 (print do aluno): o Muse baixa os 6 primeiros clipes com um nome aleatório (só números e letras), sem o número do clipe; a ordem
+    # na pasta não garante a ordem do vídeo. Por isso a lista diz as primeiras palavras de cada take: ouvir 2 segundos e renomear.
+    if falas:
+        lista = ' · '.join(f'T{i + 1:02d} começa em “{" ".join(falas[i].split()[:5])}…” → {nomes[i]}' for i in range(1, n))
     passos = [f'Na Central: preencha como na seção da Central (o LIVRE e a movimentação do {rotulo}) e cole a fala do T02 ao T{n:02d}. Confira: {n - 1} takes.',
               f'O corpo (T02 a T{n:02d}, {n - 1} clipes): no Muse, anexe a {img_b} + o aviso do Muse + o “COPIAR TUDO JUNTO”. O Muse gera 6 por vez: depois dos 6 primeiros, '
               'mande na mesma conversa, com a mesma imagem: “Now generate the remaining prompts from my previous message, exactly as written, in the same order, '
               'using the attached image as the first frame of every clip.”',
-              f'Renomeie os {n - 1} clipes do corpo na ordem em que saíram: {lista}.',
+              f'Renomeie os {n - 1} clipes do corpo assim que baixar (os 6 primeiros vêm com um nome aleatório: abra cada um, ouça o começo e renomeie pela frase): {lista}.',
               f'O T01 (só depois do corpo pronto): anexe a {img_a} e cole o prompt abaixo. Salve como {nomes[0]}. '
               'Ouça o T01 ao lado do T02: se a voz sair diferente, gere de novo na mesma conversa. PROMPT: ' + t01]
     for k, (rot, titulo, lugar, arq, prompt) in enumerate(extras, start=1):
@@ -294,7 +298,7 @@ def nora77():
              B23.prompt_manual(LETRAS, B23.mov(GESTO_LETRAS), 'the stemmed glass of cinnamon water in her hand', n_letras, 1, n)),
             ('T15', 'o CTA para o comentário', 'no lugar do T12 e do T13', n_cta,
              B23.prompt_manual(CTA_FACE77, B23.mov(GESTO_CTA_FACE), 'the stemmed glass of cinnamon water in her hand', n_cta, n, n))],
-           'nora77')
+           'nora77', falas=FALA77)
     P['silencio'] = {
         'intro': ('Arraste na “M2M FusionZ” os 15 takes de uma vez (T01 a T15), sem separar nada. A ferramenta junta pela ordem do nome, então o T14 e o T15 '
                   '(os 2 só do Face) ficam no fim. Sai 1 arquivo só, com os 15. “Zoom nos cortes” = DESLIGADO.'),
@@ -387,7 +391,7 @@ def nora78():
              B23.prompt_manual(LETRAS78, B23.mov(GESTO_LETRAS), 'the stemmed glass of cinnamon water in her hand', n_letras, 1, n)),
             ('T11', 'o CTA para o comentário', 'no lugar do T08 e do T09', n_cta,
              B23.prompt_manual(CTA_FACE78, B23.mov(GESTO_CTA_FACE), 'the stemmed glass of cinnamon water in her hand', n_cta, n, n))],
-           'nora78', ' Dá para gerar logo depois do nora77, na mesma conversa.')
+           'nora78', ' Dá para gerar logo depois do nora77, na mesma conversa.', falas=FALA78)
     ct['agente']['passos'].insert(3, f'Se o T09 sair sem a palavra “private” ou o Muse recusar, gere o T09 de novo com esta fala de reserva: “{RESERVA78}”')
     P['silencio'] = {
         'intro': ('Arraste na “M2M FusionZ” os 11 takes de uma vez (T01 a T11), sem separar nada. A ferramenta junta pela ordem do nome, então o T10 e o T11 '

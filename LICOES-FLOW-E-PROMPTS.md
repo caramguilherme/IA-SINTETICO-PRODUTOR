@@ -751,3 +751,8 @@ No print, o clipe tem uma faixa preta fina na esquerda e na direita (~1% da larg
 ## 24/11/2026 18h30: os takes só do Face levam o número depois do último take (erro meu)
 - **O erro:** chamei os 2 takes do Face de T01F e T12F e escrevi "no fim" na FusionZ, mas ela junta pela ordem do nome (P27), e eles cairiam depois do T01 e do T12. E o painel não dizia quais takes vão no vídeo do Insta e quais no do Face.
 - **A regra:** take extra (só do Face ou de reserva) leva o número seguinte ao último take (T14, T15…), com "FACE" no nome. Todo painel com versão do Face traz, na seção "Montar no CapCut", a linha "O que vai em cada vídeo": os takes do Insta, os do Face e os que ficam fora do Face, com o motivo. O aluno monta 1 arquivo só; eu separo.
+
+## 24/11/2026 18h27: o Muse baixa os 6 primeiros clipes sem nome (print do aluno)
+- **O que acontece:** os clipes da 1ª leva (os 6 primeiros do corpo) vêm com um nome aleatório (só números e letras, ex.: `9f68f4b5-…`); os da 2ª leva vêm como `media-generation-cinza-07` a `-12` (o número do prompt da Central: o 07 é o T08), e os manuais vêm com o nome do prompt (`media-generation-d2411-cinza-t01-…`).
+- **O risco:** a FusionZ junta pela ordem do nome (P27); com o nome aleatório, os 6 primeiros entram fora de ordem.
+- **A regra:** a lista de renomear do painel diz as primeiras palavras de cada take ("T02 começa em …"), e o aluno renomeia ouvindo o começo de cada um. Os nomes só precisam ter o T e o número com 2 dígitos no lugar certo (T01 a T15) para a FusionZ pôr na ordem.
