@@ -1,0 +1,402 @@
+{
+ "keep": [
+  [
+   0.0,
+   3.24
+  ],
+  [
+   3.78,
+   7.22
+  ],
+  [
+   9.059999999999999,
+   15.5
+  ],
+  [
+   16.400000000000002,
+   23.2
+  ],
+  [
+   24.6,
+   32.269999999999996
+  ],
+  [
+   32.879999999999995,
+   37.5
+  ],
+  [
+   38.099999999999994,
+   39.339999999999996
+  ],
+  [
+   39.919999999999995,
+   45.68
+  ],
+  [
+   46.12,
+   47.68
+  ],
+  [
+   48.26,
+   52.9
+  ],
+  [
+   53.54,
+   63.76
+  ],
+  [
+   64.67999999999999,
+   71.94
+  ],
+  [
+   72.36,
+   78.18
+  ],
+  [
+   78.92,
+   86.0
+  ],
+  [
+   87.2,
+   93.34
+  ],
+  [
+   94.14,
+   101.19999999999999
+  ]
+ ],
+ "cortes": [
+  [
+   3.24,
+   3.78
+  ],
+  [
+   7.22,
+   9.059999999999999
+  ],
+  [
+   15.5,
+   16.400000000000002
+  ],
+  [
+   23.2,
+   24.6
+  ],
+  [
+   32.269999999999996,
+   32.879999999999995
+  ],
+  [
+   37.5,
+   38.099999999999994
+  ],
+  [
+   39.339999999999996,
+   39.919999999999995
+  ],
+  [
+   45.68,
+   46.12
+  ],
+  [
+   47.68,
+   48.26
+  ],
+  [
+   52.9,
+   53.54
+  ],
+  [
+   63.76,
+   64.67999999999999
+  ],
+  [
+   71.94,
+   72.36
+  ],
+  [
+   78.18,
+   78.92
+  ],
+  [
+   86.0,
+   87.2
+  ],
+  [
+   93.34,
+   94.14
+  ]
+ ],
+ "legenda": [
+  [
+   "Put cinnamon in a glass of",
+   0.0,
+   1.66
+  ],
+  [
+   "water before you leave the house",
+   1.66,
+   3.3000000000000003
+  ],
+  [
+   "I know it sounds ridiculous",
+   3.3000000000000003,
+   5.09
+  ],
+  [
+   "but you'll thank me forever",
+   5.120000000000001,
+   6.74
+  ],
+  [
+   "There's a woman lying down with",
+   6.74,
+   8.840000000000002
+  ],
+  [
+   "her phone in her hand right now",
+   8.840000000000002,
+   10.680000000000001
+  ],
+  [
+   "Archangel Michael asked me to bring",
+   10.680000000000001,
+   12.24
+  ],
+  [
+   "her this message",
+   12.24,
+   13.18
+  ],
+  [
+   "I don't know your name or",
+   13.18,
+   14.64
+  ],
+  [
+   "what you did",
+   14.64,
+   15.48
+  ],
+  [
+   "but if this video found you",
+   15.48,
+   16.84
+  ],
+  [
+   "before Wednesday November 25th",
+   16.84,
+   19.36
+  ],
+  [
+   "get ready",
+   19.36,
+   19.979999999999997
+  ],
+  [
+   "The universe saw your faith and money",
+   19.979999999999997,
+   22.669999999999998
+  ],
+  [
+   "prosperity and someone incredibly wonderful are",
+   22.74,
+   25.419999999999998
+  ],
+  [
+   "about to appear in your life unexpectedly",
+   25.419999999999998,
+   27.649999999999995
+  ],
+  [
+   "But if you turn your back",
+   27.649999999999995,
+   28.609999999999996
+  ],
+  [
+   "on this message",
+   28.609999999999996,
+   29.76
+  ],
+  [
+   "the blessings will turn their backs",
+   29.789999999999996,
+   31.429999999999996
+  ],
+  [
+   "on you too",
+   31.429999999999996,
+   32.269999999999996
+  ],
+  [
+   "So take this seriously",
+   32.269999999999996,
+   33.51
+  ],
+  [
+   "St",
+   33.51,
+   33.77
+  ],
+  [
+   "Michael the Archangel sent a warning",
+   33.77,
+   35.88
+  ],
+  [
+   "A season of victory and prosperity",
+   35.89,
+   37.53
+  ],
+  [
+   "is approaching your life",
+   37.53,
+   39.27
+  ],
+  [
+   "The worst is finally over",
+   39.27,
+   40.830000000000005
+  ],
+  [
+   "I can already see the chains",
+   40.830000000000005,
+   42.550000000000004
+  ],
+  [
+   "that kept you trapped in scarcity",
+   42.550000000000004,
+   44.900000000000006
+  ],
+  [
+   "breaking",
+   45.010000000000005,
+   45.470000000000006
+  ],
+  [
+   "The doors that wouldn't open will",
+   45.470000000000006,
+   47.39000000000001
+  ],
+  [
+   "finally open",
+   47.39000000000001,
+   48.60000000000001
+  ],
+  [
+   "In seven minutes",
+   48.67,
+   49.85
+  ],
+  [
+   "an energy of abundance will surround you",
+   49.85,
+   52.49
+  ],
+  [
+   "So send this video to yourself",
+   52.49,
+   53.99
+  ],
+  [
+   "and come back to feel it",
+   53.99,
+   55.690000000000005
+  ],
+  [
+   "Now save this video",
+   55.690000000000005,
+   57.46000000000001
+  ],
+  [
+   "That's your first seal",
+   57.470000000000006,
+   58.570000000000014
+  ],
+  [
+   "Quickly tap the screen twice",
+   58.570000000000014,
+   60.280000000000015
+  ],
+  [
+   "That's your second seal",
+   60.350000000000016,
+   61.67000000000001
+  ],
+  [
+   "Write amen in the comments",
+   61.67000000000001,
+   62.95000000000001
+  ],
+  [
+   "If you did everything right",
+   62.95000000000001,
+   64.53999999999999
+  ],
+  [
+   "tomorrow at 10 in the morning",
+   64.55000000000001,
+   66.23000000000002
+  ],
+  [
+   "you'll receive incredibly good news",
+   66.23000000000002,
+   68.77000000000001
+  ],
+  [
+   "But the universe is warning me",
+   68.77000000000001,
+   71.13000000000001
+  ],
+  [
+   "This change only happens for women",
+   71.13000000000001,
+   73.19000000000001
+  ],
+  [
+   "whose energy is aligned with abundance",
+   73.19000000000001,
+   75.85000000000001
+  ],
+  [
+   "That's why I left a quick",
+   75.85000000000001,
+   77.89
+  ],
+  [
+   "reading in my stories that will",
+   77.89,
+   79.79
+  ],
+  [
+   "reveal whether you're one of those women",
+   79.79,
+   81.99000000000001
+  ],
+  [
+   "So tap my profile picture and",
+   81.99000000000001,
+   83.97000000000001
+  ],
+  [
+   "check it out right now",
+   83.97000000000001,
+   85.23
+  ],
+  [
+   "You could be one step away",
+   85.23,
+   86.61
+  ],
+  [
+   "from everything you've dreamed of",
+   86.61,
+   88.74
+  ]
+ ],
+ "t_tap": 82.19000000000001,
+ "t_gancho": 3.12,
+ "hook_dur": 0.0,
+ "dur_final": 89.240967,
+ "video": "/tmp/claude-0/-workspace-IA-SINTETICO-PRODUTOR/0f1d3084-6c9c-5025-9335-535fd154c68d/scratchpad/n77/out-insta/nora77-legenda.mp4"
+}

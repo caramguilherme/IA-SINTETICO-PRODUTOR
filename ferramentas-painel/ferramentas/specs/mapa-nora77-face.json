@@ -1,0 +1,264 @@
+{
+ "keep": [
+  [
+   0.0,
+   9.03
+  ],
+  [
+   11.298,
+   17.738
+  ],
+  [
+   18.673000000000002,
+   25.473000000000003
+  ],
+  [
+   26.882,
+   28.86
+  ],
+  [
+   29.7,
+   34.552
+  ],
+  [
+   35.172999999999995,
+   40.933
+  ],
+  [
+   41.373,
+   42.933
+  ],
+  [
+   43.513,
+   48.153
+  ],
+  [
+   48.793,
+   59.092999999999996
+  ],
+  [
+   60.305,
+   65.225
+  ]
+ ],
+ "cortes": [
+  [
+   9.03,
+   11.298
+  ],
+  [
+   17.738,
+   18.673000000000002
+  ],
+  [
+   25.473000000000003,
+   26.882
+  ],
+  [
+   28.86,
+   29.7
+  ],
+  [
+   34.552,
+   35.172999999999995
+  ],
+  [
+   40.933,
+   41.373
+  ],
+  [
+   42.933,
+   43.513
+  ],
+  [
+   48.153,
+   48.793
+  ],
+  [
+   59.092999999999996,
+   60.305
+  ]
+ ],
+ "legenda": [
+  [
+   "If your name starts with the",
+   0.15,
+   1.69
+  ],
+  [
+   "letter A, J,",
+   1.69,
+   3.3200000000000003
+  ],
+  [
+   "M, K, C,",
+   3.41,
+   5.279999999999999
+  ],
+  [
+   "E, S, L,",
+   5.35,
+   6.61
+  ],
+  [
+   "R, T or H,",
+   6.61,
+   8.05
+  ],
+  [
+   "be very careful",
+   8.05,
+   9.09
+  ],
+  [
+   "There's a woman lying down with",
+   9.09,
+   11.19
+  ],
+  [
+   "her phone in her hand right now",
+   11.19,
+   13.03
+  ],
+  [
+   "Archangel Michael asked me to bring",
+   13.03,
+   14.59
+  ],
+  [
+   "her this message",
+   14.59,
+   15.529999999999998
+  ],
+  [
+   "I don't know your name or",
+   15.529999999999998,
+   16.99
+  ],
+  [
+   "what you did",
+   16.99,
+   17.83
+  ],
+  [
+   "but if this video found you",
+   17.83,
+   19.189999999999998
+  ],
+  [
+   "before Wednesday November 25th",
+   19.189999999999998,
+   21.709999999999997
+  ],
+  [
+   "get ready",
+   21.709999999999997,
+   22.33
+  ],
+  [
+   "The universe saw your faith and",
+   22.33,
+   24.25
+  ],
+  [
+   "prosperity and someone incredibly wonderful are",
+   24.25,
+   26.929999999999996
+  ],
+  [
+   "about to appear in your life unexpectedly",
+   26.929999999999996,
+   29.16
+  ],
+  [
+   "St",
+   29.16,
+   29.420000000000005
+  ],
+  [
+   "Michael the Archangel sent a warning",
+   29.420000000000005,
+   31.530000000000005
+  ],
+  [
+   "A season of victory and prosperity",
+   31.540000000000003,
+   33.18000000000001
+  ],
+  [
+   "is approaching your life",
+   33.18000000000001,
+   34.92
+  ],
+  [
+   "The worst is finally over",
+   34.92,
+   36.480000000000004
+  ],
+  [
+   "I can already see the chains",
+   36.480000000000004,
+   38.2
+  ],
+  [
+   "that kept you trapped in scarcity",
+   38.2,
+   40.550000000000004
+  ],
+  [
+   "breaking",
+   40.660000000000004,
+   41.120000000000005
+  ],
+  [
+   "The doors that wouldn't open will",
+   41.120000000000005,
+   43.040000000000006
+  ],
+  [
+   "finally open",
+   43.040000000000006,
+   44.25000000000001
+  ],
+  [
+   "But the universe is warning me",
+   44.34,
+   46.7
+  ],
+  [
+   "This change only happens for women",
+   46.7,
+   48.760000000000005
+  ],
+  [
+   "whose energy is aligned with abundance",
+   48.760000000000005,
+   51.42
+  ],
+  [
+   "That's why I left you a",
+   51.42,
+   52.6
+  ],
+  [
+   "quick reading",
+   52.6,
+   53.42
+  ],
+  [
+   "Check the first comment below to",
+   53.42,
+   55.04
+  ],
+  [
+   "get your reading",
+   55.04,
+   56.03
+  ]
+ ],
+ "t_tap": 53.42,
+ "t_gancho": 8.91,
+ "hook_dur": 0.0,
+ "dur_final": 56.411,
+ "video": "/tmp/claude-0/-workspace-IA-SINTETICO-PRODUTOR/0f1d3084-6c9c-5025-9335-535fd154c68d/scratchpad/n77/out-face/nora77-legenda.mp4"
+}

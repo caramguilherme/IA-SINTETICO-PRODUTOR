@@ -174,8 +174,11 @@ def png_seta():
     return camada(d)
 
 
-t_tap = next(w[1] for i, w in enumerate(words) if w[0].lower().startswith('tap') and i + 1 < len(words)
-             and words[i + 1][0].lower().startswith('my'))  # o "tap my profile picture"
+t_tap = next((w[1] for i, w in enumerate(words) if w[0].lower().startswith('tap') and i + 1 < len(words)
+              and words[i + 1][0].lower().startswith('my')), None)  # o "tap my profile picture"
+if t_tap is None:  # 24/11: a versão do Face do nora77 em diante manda para o comentário ("Check the first comment below")
+    t_tap = next(w[1] for i, w in enumerate(words) if w[0].lower().startswith('check') and i + 1 < len(words)
+                 and words[i + 1][0].lower().startswith('the'))
 t_g = next(w[2] for w in words if w[0].rstrip()[-1:] in '.!?')  # o fim da 1ª frase (o gancho)
 f_1111 = ImageFont.truetype(FONTE, 44)
 f_emo = ImageFont.truetype('/usr/share/fonts/truetype/noto/NotoColorEmoji.ttf', 109)
@@ -193,7 +196,8 @@ def png_1111(x_pct=0.18, y_pct=0.16):
     return camada(d)
 
 
-fixos = [(png_1111(), 0.0, dur_b)]
+# 24/11 (nora77): com a bandeira no quadro do alto à esquerda, o 11:11 vai para o alto à direita (X1111=0.82)
+fixos = [(png_1111(float(os.environ.get('X1111', '0.18')), float(os.environ.get('Y1111', '0.16'))), 0.0, dur_b)]
 args = ['ffmpeg', '-v', 'error', '-y', '-i', base]
 filt, ult = [], '0:v'
 if VER == 'face':
