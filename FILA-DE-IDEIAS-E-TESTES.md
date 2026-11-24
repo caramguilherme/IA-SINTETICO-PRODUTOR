@@ -360,5 +360,6 @@
 - **Teste A/B da contradição "agendar":** o Gustavo (0:48:46: "Tem problema agendar vídeo pelo GeeLark? Não, pode agendar") × a nossa regra "sempre ao vivo" (leituras de outubro). Numa conta nova (nunca na Nora), metade dos posts agendada pelo GeeLark e metade ao vivo, no mesmo horário e com o mesmo tipo de vídeo. Junta com o braço "agendar no Face pelo Business Suite" já na fila.
 - **Podcast** (0:15:41: "Pouca gente tá fazendo podcast agora, deveria explorar"): reforça o formato de podcast com 3 enquadramentos que já estava na fila (o vídeo de exemplo do Muse, 18/11).
 - **Volume** (0:29:25: "Eu gosto de 4 a 6"; 0:36:24: "no mínimo uns 3 por dia"): reforça o teste 2 × 4 por dia no Insta da Nora (decisão do aluno).
-- **Fora:** a avatar a partir de foto do Pinterest ou do Pexels e o "FaceBlend" (nada a partir de foto de pessoa real); o "your gift is here" no story (a leitura é paga); comprar contas do Muse no Telegram (decisão do aluno; contas compradas já caíram em menos de 2 dias, 18/11).
+- **Entrou (24/11, autorizado pelo aluno):** a avatar dos perfis novos a partir de fotos do Pinterest ou do Pexels pelo FaceBlend (2 fotos num rosto novo, que não lembre nenhuma das 2).
+- **Com o aluno:** o "your gift is here" no story (eu tinha tirado por honestidade, a leitura é paga; o Gustavo sugeriu e não proibiu); comprar contas do Muse no Telegram (contas compradas já caíram em menos de 2 dias, 18/11).
 
