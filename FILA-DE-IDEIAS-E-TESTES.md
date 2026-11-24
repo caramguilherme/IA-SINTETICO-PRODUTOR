@@ -14,7 +14,38 @@
 3. **Quando um item vira vídeo:** marcar "feito (noraNN)" com o resultado. **Quando sai:** "fora", com o motivo.
 4. **Uma variável por vez:** a ordem do "Próximos testes" vale; o resto espera a vez.
 
-## Em teste agora
+## QUADRO DE TESTES (refeito em 24/11/2026 02h16, cobrança do aluno: "toda hr vc coloca coisa pra teste, mas quando é pra montar um painel novo, nao sugere testar nada")
+**Como funciona daqui em diante:** este quadro é o que vale. Todo painel novo leva o 1º teste dos "Próximos" que couber nele (ou um de carona, sem mexer na variável do Insta), dito ao aluno numa linha antes de montar e escrito no Resumo do painel ("o que este vídeo testa" e "como se mede"). Item que roda sobe para "No ar"; item lido vai para "Fechados", com o número. O resto do arquivo é o banco de ideias, de onde os "Próximos" saem.
+
+### No ar (ler na data)
+| Teste | Os braços | Quando ler |
+|---|---|---|
+| Conteúdo repetido (mentoria de 23/11) | nora75 (arquivos novos) × nora76 (1:22 do nora75 reaproveitado ~6 h depois) | hoje 24/11 ~19h15 (nora75 com 24 h e nora76 com 18 h) e 25/11 ~01h15 (nora76 com 24 h) |
+| A Nora sem a pintura, na cópia da maioria (sofá, camiseta preta, dia) | nora75 e nora76 × os falados com a pintura (nora69 a nora74) | junto com o de cima |
+
+### Próximos (nesta ordem)
+1. **O story com o "gift"** (0 crédito, pronto: `ferramentas-painel/dia-2411/story-gift-2411.jpg`): na próxima repostagem, até ~01h15 de 25/11. Medida: toques no adesivo por viewer e cliques no Tracker, contra o `story-1811` (28 viewers, 7 toques).
+2. **O corpo (o próximo painel, nora77):** o corpo A da maioria (o do nora75; é o "perfil ruim" do Copy Hub, 7%) × o corpo leve do "perfil bom" (27%): a Modelagem do m10, com a dor na 2ª frase, os sinais pequenos e o CTA com motivo (`referencias-virais/2026-11-23-mineracao/MODELAGEM-PROXIMO-FALADO.md`). A mesma Nora sem a pintura, o mesmo sofá, o mesmo tipo de Take 1: muda só o corpo. Fonte da escolha: a mentoria de 23/11 (0:51:23: "entrega e ninguém clica… teu body não está convincente") e os nossos 0 cliques de 20 a 23/11. Medida: visitas ao perfil e cliques no Tracker em 24 h.
+   - **De carona, só no Face:** o CTA falado manda para o comentário ("Check the first comment below to get your reading.") × para o story (R83 e R84). Não mexe no Insta.
+3. **O trio de signos no Take 1 (nora78):** fogo (Áries, Leão, Sagitário) × outro trio, com o corpo que vencer o item 2, dito logo no começo (`METRICAS-NORA-LEIA.md`, 24/11).
+4. **A seta grande × a pequena** (aula 26, 0:39:29: "você tem que fazer ela gigante"), 0 crédito, na edição, num post em que nada mais mude.
+5. **A bandeira dos EUA no cenário** (o vídeo do Gustavo no Muse, 23/11; 8 dos 43 vídeos da mineração; Caio1094): a mesma cena com a bandeira pequena na parede, contra a Índia. Pede imagem nova (0 crédito no Flow).
+
+**Com o aluno (mudam a operação, não são de painel):** 2 × 4 posts por dia no Insta; agendar pelo GeeLark (só conta nova); a troca da avatar na mesma conta (~02/12, 3 semanas de flop); o curto sem fala de volta ao Insta.
+
+### Fechados (o que já rodou desde 15/11 e o que deu)
+| Teste | Resultado | Ficou |
+|---|---|---|
+| Edição dopaminérgica (nora66), tela dividida e faixa com o cadeado (nora67, nora68) | os falados de 11 a 17/11 ficaram todos entre 110 e 190 no Insta | sem ganho medido |
+| Copy da claire_mayaus, igual (nora69, nora70) | Insta ~113 a 121, 0 visitas, 0 clique; Face +3,5x com 3 h (nora69) | fora no Insta |
+| Copy leve dos 3 sinais (nora71 alçapão × nora72 carro) | Insta 149 e 136, 1 visita; Face 323 e 319; 0 clique. O carro segurou mais | empate com a da claire; o cenário do carro ficou |
+| Mesmo corpo no Face ~5 h depois (nora72-FACE) | 319 contra 323 do nora71-FACE | não travou |
+| As letras do nome na frente (nora73) | Insta 246 (o maior falado desde 10/11, mas 11,8% de EUA), 1 visita; Face 307, +0,9x | entrou no nora76 |
+| O campeão de volta, com o mesmo arquivo de hook do nora47 (nora74) | Insta 14 views, 84,6% de skip; Face 104 | não repetir arquivo de hook |
+| O curto sem fala (ini1811) | Insta 1.705 views e 12 visitas ao perfil (o maior número de visitas); Face 2 cliques; os cliques do curto quase não fazem o quiz | fora do Insta da Nora (R79); fica no Face |
+| Variação só de edição no Face | 4 de 6 travaram (a variação do nora69 com 4 views) | saiu (21/11) |
+
+## (Antigo, de 15 e 16/11) Em teste naquela época
 - **Edição dopaminérgica nos primeiros ~30 s:** uma imagem do desejo por frase, em tela cheia, com animação de entrada e whoosh.
   - **Feito no nora66** (o sal, Insta 16/11 00h24, Face 00h00): 7 imagens d1511-DESEJO.
   - **Fonte:** aulas 12 e 14; briefing de 22/05.
@@ -24,7 +55,7 @@
 
 - **O prompt curto nos clipes de vídeo do pré-gancho** (aula 54, 0:21:31 a 0:25:54: "simplificando fica melhor"; aprovado pelo aluno em 16/11 ~15h10: "topo o prompt curto"). Entra no nora67 e no nora68: a ação em 1 a 2 frases + o som do ambiente ASMR. **Medida:** quantos clipes saem usáveis de primeira, contra o sal de 15/11 (prompt longo: a estrela de brilho e o aceno no lugar do apontar). As imagens e os takes com fala seguem detalhados (P32).
 
-## Próximos testes (nesta ordem; detalhe em CLAUDE.md seção 2, "Ordem dos testes")
+## (Antigo, de 16/11) A ordem de testes daquela época
 1. **A faixa do story com o campo trancado** ("Your 2027 reading: 🔒 / tap my photo"). 0 crédito, na edição. Fonte: quadro da aula 18, `MATERIAIS-CALL-02-06/LEIA.md`. **Aprovada pelo Clone na R55: entra nos falados de 16/11.** O 🔒 não existe na Poppins: desenhar o cadeado na edição.
 2. **A tela dividida alternando com a tela cheia. Aprovada pelo aluno em 16/11 ~08h50 ("pode ser um teste pra fazermos também"); a ferramenta está pronta (`montar_desejo.py`, testada no nora59). Entra nos 2 falados de 16/11 (o Folgers às 19h30 e a onda à 0h00), igual nos dois, para a comparação dos hooks continuar limpa; mede-se aos 10 e aos 20 s contra o nora66 (só tela cheia).** a Nora falando numa metade (em cima ou embaixo) e a imagem do desejo na outra, mesclando com a imagem ocupando a tela toda. No nora66 a Nora sumiu da tela por ~25 s.
    - **Fonte:** aula 12 (0:27:18 a 0:28:27): "vai ficar mesclando entre avatar na tela e o take, a cena ocupando 100% da tela"; "o avatar na tela, a tela dividida chamativa e o efeito sonoro… os nossos hook rates aumentaram". Lembrada pelo Clone na R58.
