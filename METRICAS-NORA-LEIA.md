@@ -1247,3 +1247,9 @@ Pergunta: "que signos foi falado/escrito nos videos de mais views da nora? tem a
 - **O que diz:** depois de 3 dias com 0 (20 a 22/11), **24/11 é o melhor dia do Face no Tracker desde 18/11** (3 cliques e 2 quizzes terminados), e veio na manhã do nora76-FACE (o 2º da Página em views e seguidores). O quiz terminado é 1 de 3, perto da média da Nora (42,9% começam).
 - **Acumulado de 27/10 a 24/11 10h59:** ~53 cliques reais, ~21 quizzes terminados, 0 checkout.
 - **nora74 no Insta, 24/11 ~11h00 (relato do aluno, sem print): 24 views com ~24h30 e parado.** Fecha o teste "copy ou conta" do campeão: ficou muito abaixo dos 500 (e dos 150 típicos). Pela leitura de 23/11 17h47, o que cansou foi a abertura repetida (o mesmo arquivo do tsunami do nora47), não a conta: no mesmo dia, o nora75, com tudo novo, entregou normalmente.
+
+## 24/11/2026 11h05: o nora75 no Insta com ~16 h (Insights do Reel, prints do aluno)
+- **546 views (498 contas), a curva ainda subindo**, skip 56,9%, tempo médio 11 s, 2 visitas ao perfil, 0 follows; 8 curtidas, 5 comentários, 2 compartilhamentos, 4 salvamentos; 100% não seguidores.
+- **Público:** EUA 20,6%, Canadá 9,4%, Reino Unido 8,8%, Malásia 5,3%, Austrália 4,2% (a Índia fora do top 5); idade 35-44 36,5%, 45-54 24,2%, 25-34 21,1%, 55-64 9%, 65+ 4,6% (45+: 37,8%).
+- **Pela planilha inteira:** é o maior falado do Insta desde o nora51 (889, 10/11); de 11/11 ao nora74, todos os falados ficaram entre 24 e 246. **Passou dos 500 da régua do campeão (R84): a conta entrega quando o vídeo é novo do começo ao fim** (no mesmo dia, o nora74, com a abertura repetida, fez 24).
+- **O que ainda não mudou:** 2 visitas ao perfil e 0 follows em 546 views (os campeões nora48 a nora50 trouxeram 10 a 19 follows); o Tracker de 23/11 teve 1 clique do Insta. O vídeo chega a gente nova e segura como os outros (11 s), mas quase ninguém vai ao perfil: o próximo passo é o corpo e o CTA (o teste do nora77).
