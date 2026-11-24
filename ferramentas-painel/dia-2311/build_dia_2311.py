@@ -4,8 +4,8 @@
 # (versão anterior, trocada:) a Nora SEM a pintura (teste do aluno), blusa preta lisa, cabelo solto, no carro parado, com um pau de canela na mão;
 #   o ritual dito no T01 + a janela de 3 datas + o corpo A "Archangel Michael has sent a warning" + os selos + "Comment amen" + o CTA "quick reading".
 #   13 takes no Muse (~1:40). Texto do topo em branco solto, sem caixa (teste do aluno): "It works so fast, it's almost scary...".
-# nora76 (Insta e Face ~0h00): o MESMO corpo (T02 a T13 do nora75) com um T01 novo, "There is a woman lying down…" (a 2ª abertura mais repetida):
-#   1 clipe só no Muse. Texto do topo: "Turnaround is coming your way...".
+# nora76 (Insta e Face, depois do nora75): o MESMO corpo (T02 a T13 do nora75) com um T01 novo, as letras do nome (m07, m17, m37, m59;
+#   a frase do m59 palavra por palavra), 1 clipe só no Muse, na mesma conversa do nora75; sem texto no topo, só o 11:11✨.
 # Uso (raiz do repositório): python3 -I ferramentas-painel/dia-2311/build_dia_2311.py
 import sys, json, copy, re, pathlib, importlib.util
 
@@ -61,7 +61,9 @@ GESTO = [
     'she holds a warm, knowing look and gives one small nod',
     'she glances down toward the lower left corner of the frame with a warm, encouraging smile, then back at the lens',
 ]
-GESTO76 = 'she holds a calm, serious look and raises her free hand slightly beside her shoulder as if counting the letters, then lowers it'
+# 23/11 23h45: tirado o "levanta a mão como se contasse as letras": nenhum dos 4 vídeos faz esse gesto (o m37 e o m59 seguram uma carta, o m07 fala
+# num microfone, o m17 pisca a tela a cada letra); foi invenção minha. Fica só ela falando, com o copo do corpo (a continuidade com o nora75).
+GESTO76 = 'she speaks calmly with a serious look and small natural head movements'
 N = len(FALA)
 assert len(SUF) == len(GESTO) == N
 
@@ -330,7 +332,7 @@ def nora76():
     P['imagens'] = [{'rotulo': f'IMAGEM 1 · {IMG_B}', 'cena': 'a mesma do nora75', 'anexar': f'a {IMG_B}'}]
     P['roteiro'] = {
         'id': 'nora76-COPIA-LETRAS-2311',
-        'titulo': 'nora76 · Insta e Face ~0h00 de 24/11 · o corpo do nora75 com a abertura das letras do nome (4 contas)',
+        'titulo': 'nora76 · Insta e Face assim que eu devolver (~0h15 a 0h30 de 24/11) · o corpo do nora75 com a abertura das letras do nome (4 contas)',
         'duracao_total': 95,
         'descricao_instagram': ('If your name starts with one of these letters, this is for you 👀 Your private reading is waiting in my story 🔮\n'
                                 'Comment the first letter of your name 👇\n'
@@ -350,16 +352,17 @@ def nora76():
     ct['conferir'] = f'Conferir o take: a Nora da {IMG_B}, sem a pintura, com o copo; ela diz as 11 letras uma vez só e fecha a boca no fim. Renomeie para {NOME76}.'
     ct['agente'] = {
         'imagem': IMG_B,
-        'intro': f'1 take só. No Muse, na conversa da Nora, anexe a {IMG_B} e cole o prompt abaixo.',
+        'intro': f'1 take só. No Muse, NA MESMA CONVERSA em que você gerou o nora75 (o prompt pede a mesma voz dos clipes dessa conversa), anexe a {IMG_B} e cole o prompt abaixo.',
         'aviso_tag': f'cole no Muse, com a {IMG_B} anexada',
         'aviso': prompt_manual(FALA76, mov(GESTO76), 'the stemmed glass of cinnamon water in her hand', NOME76),
-        'passos': [f'Logo depois dos {N} do nora75: anexe a {IMG_B} e cole o prompt acima, numa mensagem só. ~1 min.',
+        'passos': [f'Na mesma conversa do nora75: anexe a {IMG_B} e cole o prompt acima, numa mensagem só. ~1 min.',
                    f'O prompt já pede o nome {NOME76}; se o arquivo baixado vier com outro nome, renomeie à mão.',
-                   'Confira: sem a lua e sem as estrelinhas; ela diz as 11 letras (A, J, M, K, C, E, S, L, R, T, H) uma vez só. Se o Muse recusar: “Generate it again, exactly as written.”'],
+                   'Confira: sem a lua e sem as estrelinhas; ela diz as 11 letras (A, J, M, K, C, E, S, L, R, T, H) uma vez só; a voz igual à do T02 do nora75. Se o Muse recusar: “Generate it again, exactly as written.”',
+                   f'Me mande só o {NOME76} aqui no chat do Code. Sem FusionZ e sem CapCut: eu já tenho o nora75-montado, tiro o T01 e ponho este no lugar, e devolvo o nora76-final e o nora76-final-FACE em ~10 min.'],
     }
     P['edicao_linha'] = [
-        {'quando': 'A. Só o take novo', 'texto': f'Me mande o {NOME76} aqui no chat do Code, junto com o nora75-montado', 'como': 'Não precisa de CapCut: eu tiro o T01 do nora75 e ponho este no lugar.'},
-        {'quando': 'B. Até ~23h00', 'texto': 'Eu devolvo o nora76-final (Insta) e o nora76-final-FACE', 'como': 'O mesmo corpo com outra abertura, como o nora49 fez com o nora48 (2.043 views).'},
+        {'quando': 'A. Só o take novo', 'texto': f'Me mande o {NOME76} aqui no chat do Code (o nora75-montado eu já tenho)', 'como': 'Não precisa de FusionZ nem de CapCut: eu tiro o T01 do nora75 e ponho este no lugar.'},
+        {'quando': 'B. ~10 min depois', 'texto': 'Eu devolvo o nora76-final (Insta) e o nora76-final-FACE', 'como': 'O mesmo corpo com outra abertura, como o nora49 fez com o nora48 (2.043 views).'},
     ]
     P['pecas'] = {
         'titulo_decisao': 'Resumo',
@@ -369,9 +372,10 @@ def nora76():
         'decisao': [
             '1 take no Muse: a abertura das letras do nome, a que mais se repete entre contas diferentes depois do ritual (m07, m17, m37, m59: 4 contas), com a frase delas: “…be very careful.”',
             'Depois, o mesmo corpo do nora75 (a maioria faz isso: o mesmo corpo com vários ganchos). Sem texto no topo; só o 11:11✨.',
-            'Insta e Face ~0h00 (4h30 depois do nora75).',
+            'Insta e Face assim que eu devolver (~0h15 a 0h30 de 24/11). No Face, é o mesmo corpo do nora75-FACE no mesmo dia, como o nora72-FACE (319 views, contra 323 do nora71-FACE: não travou).',
         ],
     }
+    P.pop('silencio', None)  # herdado do nora70 (17 takes, nora70-cortado): não vale para o nora76
     P['ordem'] = ['pecas', 'agente', 'cenas', 'textotela', 'story', 'descricao', 'comentario', 'respostasface']
     return P
 

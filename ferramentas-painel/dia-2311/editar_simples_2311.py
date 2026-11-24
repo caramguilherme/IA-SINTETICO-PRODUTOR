@@ -142,9 +142,13 @@ def png_leg(txt):
         dr = ImageDraw.Draw(im)
         pal = txt.split(); linhas = [txt]
         if dr.textlength(txt, font=f_leg) > W * 0.78:
-            for k in range(len(pal) // 2, len(pal)):
+            # 23/11: as 2 linhas equilibradas (no nora75 sobrou 1 palavra sozinha embaixo: "dreamed / of", "faith and / money")
+            ops = []
+            for k in range(1, len(pal)):
                 l1, l2 = ' '.join(pal[:k]), ' '.join(pal[k:])
-                if dr.textlength(l1, font=f_leg) <= W * 0.78: linhas = [l1, l2]
+                a1, a2 = dr.textlength(l1, font=f_leg), dr.textlength(l2, font=f_leg)
+                if max(a1, a2) <= W * 0.78: ops.append((abs(a1 - a2), [l1, l2]))
+            if ops: linhas = min(ops)[1]
         y = H * 0.775 - (len(linhas) - 1) * 31
         for ln in linhas:
             texto_sombra(im, (W / 2, y), ln, f_leg); y += 62
