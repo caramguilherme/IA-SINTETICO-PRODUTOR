@@ -200,7 +200,7 @@ def agente(P, n, img_a, img_b, nomes, t01, extras, rotulo, intro_extra=''):
     ag['intro'] = (f'No Muse, NA MESMA CONVERSA da Nora (a do nora75 e do nora76: a voz), são 4 mensagens, NESTA ORDEM: (1) os {n - 1} takes do corpo '
                    f'com a {img_b} + o aviso do Muse + o “COPIAR TUDO JUNTO” da Central; (2) só depois, o T01 com a {img_a}, para a voz dele sair igual à do corpo; '
                    f'(3) e (4) os 2 takes só do Face, com a {img_b}.' + intro_extra)
-    lista = ' · '.join(f'{i + 1:02d} = {nomes[i]}' for i in range(1, n))
+    lista = ' · '.join(f'clipe {i:02d} do Muse = {nomes[i]}' for i in range(1, n))  # 24/11 18h11: o clipe 01 do Muse é o T02 (estava "02 = T02")
     passos = [f'Na Central: preencha como na seção da Central (o LIVRE e a movimentação do {rotulo}) e cole a fala do T02 ao T{n:02d}. Confira: {n - 1} takes.',
               f'MENSAGEM 1 (o corpo, T02 a T{n:02d}): anexe a {img_b} + o aviso do Muse + o “COPIAR TUDO JUNTO”. O Muse gera 6 por vez: depois dos 6 primeiros, '
               'mande na mesma conversa, com a mesma imagem: “Now generate the remaining prompts from my previous message, exactly as written, in the same order, '
