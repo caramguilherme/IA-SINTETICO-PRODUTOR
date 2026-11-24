@@ -1,6 +1,6 @@
 # Painéis do dia 24/11/2026 ("pode montar", ~11h55): o teste do corpo (FILA, quadro de testes, item 2).
 #   nora77 (Insta e Face, 19h30): o corpo A da maioria, o mesmo texto do nora75 (o m30 = m61), GERADO DE NOVO do 1º ao último take
-#     (regra de 24/11 11h10: cada post do Insta com o vídeo inteiro novo), no mesmo sofá, com outra roupa (moletom cinza liso).
+#     (regra de 24/11 11h10: cada post do Insta com o vídeo inteiro novo), no mesmo sofá, com outra roupa (moletom cinza liso no nora77, azul-marinho no nora78 desde 24/11 17h13).
 #   nora78 (Insta e Face, 0h00): o corpo leve (a Modelagem do m10, ~58 s, referencias-virais/2026-11-23-mineracao/MODELAGEM-PROXIMO-FALADO.md),
 #     com o MESMO Take 1 da canela, na mesma roupa e no mesmo sofá, filmado de outro ângulo (para o Insta não ler como a mesma abertura do nora77).
 # As decisões do aluno (24/11 11h51): (1) o mesmo Take 1 nos dois: a canela no Insta, as letras do nome no Face; (2) no Face, a última frase falada manda
@@ -16,12 +16,21 @@ B, VC, FB, COMUNS, MODELO = B23.B, B23.VC, B23.FB, B23.COMUNS, B23.MODELO
 assert FB.endswith('&aff=dl7zx6ks')
 
 # ---------- a cena nova (as funções do build_dia_2311 leem estes nomes do módulo na hora em que rodam) ----------
-B23.ROUPA = 'her plain heather-gray crew-neck sweatshirt with no logo'
+ROUPA77 = 'her plain heather-gray crew-neck sweatshirt with no logo'
+ROUPA78 = 'her plain navy-blue crew-neck sweatshirt with no logo'   # 24/11 17h13: o nora78 com outra roupa (regra do aluno de 11h10: "mudar cenário, roupa")
+B23.ROUPA = ROUPA77
 BANDEIRA = 'a small American flag pinned flat high on the left side of the light wall behind her, small in the background, never covering her head'
 B23.CENA = ('Casual real video in the late afternoon in a cozy American living room, she sits on a gray fabric sofa with cushions behind her and a plain light wall '
             f'with {BANDEIRA}, filmed from a static camera about one meter in front of her at chest height, looking exactly like a real phone video, lit by soft natural '
             'window light. ')
 ROUPA = B23.ROUPA
+ROUPA_PT = 'cinza'
+
+
+def usar_roupa(r, pt):
+    global ROUPA, ROUPA_PT
+    B23.ROUPA = ROUPA = r
+    ROUPA_PT = pt
 
 IMG75_A = 'd2311-sofa-IMG-A'                 # a do nora75 (camiseta preta), a base da edição
 IMG_A77, IMG_B77 = 'd2411-cinza-IMG-A', 'd2411-cinza-IMG-B'
@@ -36,11 +45,14 @@ PROMPT_B77 = ('The attached image is the approved photo. Keep everything exactly
               'sweatshirt, the same gray sofa, the small American flag on the wall, the same framing and the same light. Change only this: the cinnamon jar is gone; '
               'with one hand she holds the clear stemmed glass at collarbone height, now filled with light-brown cinnamon water; her other hand is lowered, out of the '
               'frame; ' + _FIM)
-PROMPT_A78 = ('The attached image is the approved photo. Show the same moment from another camera position: the camera is about 30 degrees to her right and a '
-              'little closer, still at collarbone height, and she turns her face to look straight into the camera. Keep exactly the same woman, the same face, the '
-              'same loose hair, the same heather-gray sweatshirt, the same gray sofa, the same clear stemmed glass of water and the same cinnamon jar tilted above it, '
+PROMPT_A78 = ('The attached image is the approved photo. Change only two things: (1) show the same moment from another camera position: the camera is about '
+              '30 degrees to her right and a little closer, still at collarbone height, and she turns her face to look straight into the camera; (2) her heather-gray '
+              'sweatshirt becomes a plain navy-blue crew-neck sweatshirt with no logo. Keep exactly the same woman, the same face, the '
+              'same loose hair, the same gray sofa, the same clear stemmed glass of water and the same cinnamon jar tilted above it, '
               'the same light, and the small American flag on the wall, now seen from the new angle and still small in the background. ' + _FIM)
-PROMPT_B78 = PROMPT_B77.replace('the same framing and the same light', 'the same new camera angle, the same framing and the same light')
+PROMPT_B78 = (PROMPT_B77.replace('the same heather-gray sweatshirt', 'the same navy-blue sweatshirt')
+              .replace('the same framing and the same light', 'the same new camera angle, the same framing and the same light'))
+assert 'navy-blue' in PROMPT_B78 and 'heather-gray' not in PROMPT_B78 and 'navy-blue' in PROMPT_A78
 for _t in (PROMPT_A77, PROMPT_B77, PROMPT_A78, PROMPT_B78):
     for _w in ('chest', 'skin', 'body', 'breast', 'underwear', 'mccormick', 'wine', 'powder', 'paint'):
         assert _w not in _t.lower(), _w
@@ -122,7 +134,7 @@ def config(img_b, n):
     for s in cf:
         for campo in s['campos']:
             if campo['campo'].startswith('LIVRE'):
-                campo['valor'] = f'colar o texto abaixo (a imagem é a {img_b}: a Nora no sofá, de moletom cinza, com o copo de água de canela)'
+                campo['valor'] = f'colar o texto abaixo (a imagem é a {img_b}: a Nora no sofá, de moletom {ROUPA_PT}, com o copo de água de canela)'
                 campo['copiar'] = livre()
             elif campo['campo'] == 'COLE SUA COPY AQUI':
                 campo['valor'] = f'colar a fala do T02 ao T{n:02d} (seção “A fala e a movimentação”): 1 colagem só, com {n - 1} takes'
@@ -177,7 +189,7 @@ def agente(P, n, img_a, img_b, nomes, t01, extras, rotulo, intro_extra=''):
               f'Renomeie pela ordem da mensagem 2: {lista}.']
     for k, (titulo, prompt) in enumerate(extras, start=3):
         passos.append(f'MENSAGEM {k} ({titulo}, só para o Face): anexe a {img_b} e cole este prompt. PROMPT: ' + prompt)
-    passos += ['Confira cada take: sem a lua e sem as estrelinhas no rosto; o moletom cinza; a bandeirinha na parede; o copo na mão; ela fala uma vez só e fecha a '
+    passos += [f'Confira cada take: sem a lua e sem as estrelinhas no rosto; o moletom {ROUPA_PT}; a bandeirinha na parede; o copo na mão; ela fala uma vez só e fecha a '
                'boca no fim. Se o Muse recusar: “Generate prompt X again, exactly as written.”',
                'Se a voz de algum take sair diferente das outras, gere aquele de novo na mesma conversa, pedindo “exactly the same voice as the other clips of this video”.']
     ag['passos'] = passos
@@ -192,6 +204,7 @@ def base(nn):
 
 
 def nora77():
+    usar_roupa(ROUPA77, 'cinza')
     P = base('nora77')
     n = N77
     nomes = [nome('cinza', SUF77, i) for i in range(n)]
@@ -278,21 +291,23 @@ def nora77():
 
 
 def nora78():
+    usar_roupa(ROUPA78, 'azul-marinho')
     P = base('nora78')
     n = N78
     nomes = [nome('lado', SUF78, i) for i in range(n)]
     n_letras, n_cta = 'd2411-lado-T01F-letras', 'd2411-lado-T08F-cta-comentario'
     imagens_secao(P, 'As 2 imagens (Flow, antes dos takes)',
-                  ('O mesmo sofá, o mesmo moletom cinza, a mesma canela no copo e a bandeirinha, filmados de outro ângulo (a câmera ~30° para a direita): a abertura é a '
-                   'mesma do nora77, e o ângulo novo evita que o Insta leia como o mesmo vídeo. A Nora sem a pintura.'),
+                  ('O mesmo sofá, a mesma canela no copo e a bandeirinha, mas com OUTRA ROUPA (moletom azul-marinho liso) e de outro ângulo (a câmera ~30° para a direita): '
+                   'a frase do Take 1 é a mesma do nora77, e a roupa e o ângulo novos evitam que o Insta leia como o mesmo vídeo. A Nora sem a pintura. '
+                   'Todos os takes do nora78 saem destas 2 imagens: o vídeo inteiro fica de azul-marinho.'),
                   [{'titulo': 'Imagem A: despejando a canela, do outro ângulo (o T01)', 'nome': IMG_A78, 'tipo': 'img',
                     'anexar': f'só a {IMG_A77} (a imagem A do nora77)',
-                    'quadros': (f'x4, 0 crédito. Escolha a que tiver: a mesma Nora, sem a pintura, de moletom cinza, olhando para a câmera, vista de um ângulo diferente '
+                    'quadros': (f'x4, 0 crédito. Escolha a que tiver: a mesma Nora, sem a pintura, de MOLETOM AZUL-MARINHO liso, olhando para a câmera, vista de um ângulo diferente '
                                 f'do nora77; a bandeirinha pequena ainda na parede; o copo e o pote de canela; 5 dedos em cada mão. Renomeie para {IMG_A78}.'),
                     'prompt': PROMPT_A78},
                    {'titulo': 'Imagem B: o copo na mão, do outro ângulo (T02 em diante e os 2 takes do Face)', 'nome': IMG_B78, 'tipo': 'img',
                     'anexar': f'só a {IMG_A78} que você escolheu',
-                    'quadros': f'x4, 0 crédito. Escolha a que tiver: sem o pote; o copo com a água marrom-clara na mão; o mesmo ângulo novo. Renomeie para {IMG_B78}.',
+                    'quadros': f'x4, 0 crédito. Escolha a que tiver: sem o pote; o copo com a água marrom-clara na mão; o moletom azul-marinho; o mesmo ângulo novo. Renomeie para {IMG_B78}.',
                     'prompt': PROMPT_B78}])
     P['imagens_titulo'] = f'As imagens das falas ({IMG_A78} no T01; {IMG_B78} no resto)'
     P['refs'] = [f'{IMG_A78} no T01', f'{IMG_B78} do T02 ao T{n:02d} e nos 2 takes do Face']
@@ -324,7 +339,7 @@ def nora78():
     ct['config'] = config(IMG_B78, n)
     ct['colagens'] = [{'titulo': f'nora78: a colagem do T02 ao T{n:02d} (na {IMG_B78})', 'fala': ' '.join(FALA78[1:]),
                        'movimentacao': [B23.mov(GESTO78[i]) for i in range(1, n)], 'takes': list(range(1, n))}]
-    ct['conferir'] = ('Conferir em cada take: a Nora sem a pintura, de moletom cinza, no ângulo novo, com o copo; ela fala uma vez só. No T09, se o Muse cortar a '
+    ct['conferir'] = ('Conferir em cada take: a Nora sem a pintura, de moletom azul-marinho, no ângulo novo, com o copo; ela fala uma vez só. No T09, se o Muse cortar a '
                       f'palavra “private”, gere de novo com a reserva: “{RESERVA78}”')
     t01 = B23.prompt_manual(FALA78[0], B23.mov(GESTO78[0], True), 'the stemmed glass of water and the cinnamon jar in her hands', nomes[0], 1, n)
     agente(P, n, IMG_A78, IMG_B78, nomes, t01,
@@ -347,7 +362,7 @@ def nora78():
     ]
     P['pecas'] = {
         'titulo_decisao': 'Resumo',
-        'lista': ([{'nome': IMG_A78, 'tipo': 'imagem do T01', 'status': 'gerar', 'onde': 'No Flow, editando a do nora77 (x4, 0 crédito).', 'descricao': 'O ângulo novo.'},
+        'lista': ([{'nome': IMG_A78, 'tipo': 'imagem do T01', 'status': 'gerar', 'onde': 'No Flow, editando a do nora77 (x4, 0 crédito).', 'descricao': 'Moletom azul-marinho + o ângulo novo.'},
                    {'nome': IMG_B78, 'tipo': 'imagem das falas', 'status': 'gerar', 'onde': 'No Flow, editando a A (x4, 0 crédito).', 'descricao': 'O copo na mão.'}]
                   + [{'nome': nomes[i], 'tipo': 'take', 'status': 'gerar', 'descricao': f'“{FALA78[i]}”'} for i in range(n)]
                   + [{'nome': n_letras, 'tipo': 'take do Face', 'status': 'gerar', 'descricao': f'“{LETRAS}”'},
@@ -355,7 +370,7 @@ def nora78():
         'decisao': [
             'O QUE ESTE VÍDEO TESTA: o corpo. É o lado B (o corpo leve: a dor das contas na 2ª frase, os sinais pequenos, o CTA que diz o que tem do outro lado, '
             'a aula 64, 0:14:59) contra o nora77 (o corpo da maioria). A medida, com ~24 h: as visitas ao perfil e os cliques no Tracker.',
-            f'{n} takes ({P78} palavras, ~1:05) + 2 só do Face = {n + 2} clipes no Muse. O mesmo Take 1 da canela, a mesma roupa e o mesmo sofá do nora77, de outro ângulo.',
+            f'{n} takes ({P78} palavras, ~1:05) + 2 só do Face = {n + 2} clipes no Muse. A mesma frase do Take 1 (a canela) e o mesmo sofá do nora77, com outra roupa (moletom azul-marinho) e de outro ângulo; o vídeo inteiro de azul-marinho.',
             'Insta e Face à 0h00. No Face: as letras do nome na abertura e a última frase manda para o 1º comentário.',
             'Reposte o story do “gift” junto com este post (o de 24/11 vence às ~01h15).',
         ],
@@ -374,4 +389,4 @@ def salvar(P, nn, rotulo):
 if __name__ == '__main__':
     print('nora77:', N77, 'takes,', P77, 'palavras · nora78:', N78, 'takes,', P78, 'palavras')
     salvar(nora77(), 'nora77', 'Painel nora77 · o corpo da maioria, de moletom cinza · 24/11')
-    salvar(nora78(), 'nora78', 'Painel nora78 · o corpo leve, de outro ângulo · 24/11')
+    salvar(nora78(), 'nora78', 'Painel nora78 · o corpo leve, de moletom azul-marinho · 24/11')

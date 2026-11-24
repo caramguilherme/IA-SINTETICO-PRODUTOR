@@ -10,9 +10,10 @@
 
 ## O teste (FILA, quadro de testes, item 2)
 - **O que muda entre os dois:** só o corpo (e o CTA que vem com ele). O lado A (nora77) é o corpo da maioria, igual ao do nora75; o lado B (nora78) é o corpo leve: a dor das contas na 2ª frase, os sinais pequenos e possíveis, e o CTA que diz o que tem do outro lado (aula 64, 0:14:59: "O que que vai ter do outro lado? O que que ela ganha com isso? Porque ela deveria clicar? Este vídeo é pra quem?").
-- **O que fica igual:** o Take 1 (a canela no copo no Insta; as letras do nome no Face), a roupa (moletom cinza liso), o sofá, a bandeirinha dos EUA na parede, a Nora sem a pintura, a edição (sem texto no topo, o 11:11✨, a legenda simples, a seta grande), a música.
+- **O que fica igual:** o Take 1 (a canela no copo no Insta; as letras do nome no Face), o sofá, a bandeirinha dos EUA na parede, a Nora sem a pintura, a edição (sem texto no topo, o 11:11✨, a legenda simples, a seta grande), a música.
 - **A diferença que fica:** o tamanho (nora77 ~1:35; nora78 ~58 s, decisão 3 do aluno) e o horário (19h30 × 0h00). Se o leve ganhar, não dá para separar a copy do tamanho.
 - **O ângulo do nora78:** a câmera ~30° para a direita, para a abertura igual não ser lida pelo Insta como o mesmo vídeo (o nora76 parou em ~135 ao reaproveitar o arquivo do nora75).
+- **A roupa (mudou em 24/11 17h13, com o ok do aluno: "pode trocar as imagens do Nora 78"):** o nora77 de moletom cinza liso; o nora78 de moletom azul-marinho liso, do T01 ao último take (todos saem das 2 imagens novas dele). Pela regra do aluno de 11h10 ("mudar cenário, roupa"), depois do nora75 e do nora76 nas duas redes (17h04). Não muda o custo: o nora78 já ia ter as suas 2 imagens no Flow (0 crédito) e os seus 11 clipes no Muse.
 - **A medida, com ~24 h:** as visitas ao perfil e os cliques no Tracker (o gargalo; R90: views sem visita é o corpo e o CTA). Depois, views, skip, tempo médio e a fatia dos EUA. No Face: a distribuição, os seguidores e os cliques no link (o CTA manda para o comentário).
 
 ## nora77 (Insta e Face 19h30): o corpo A, gerado de novo
