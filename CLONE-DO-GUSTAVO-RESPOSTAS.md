@@ -2104,7 +2104,7 @@ Em alguma aula, um aluno teve um vídeo de poucas views que, replicado, passou d
   - a Estrutura Facebook (29/05) diz que o Face tinha 71% das vendas: reforça o peso do Face, onde vieram os 3 cliques de hoje.
 - **Vai a R90**, montada sem o aluno pedir.
 
-## R90 (24/11/2026 11h29, montada sem o aluno pedir, pela regra de 19/11; resposta pendente): visitas ao perfil, o mesmo corpo com gancho novo no Insta, o limite do mesmo corpo no Face e o chargeback do corpo A
+## R90 (24/11/2026 11h29, montada sem o aluno pedir, pela regra de 19/11; respondida e colada às ~11h34, conferida às 11h36, fechada): visitas ao perfil, o mesmo corpo com gancho novo no Insta, o limite do mesmo corpo no Face e o chargeback do corpo A
 - **O texto (2466 caracteres):**
 
 ```
@@ -2121,4 +2121,23 @@ Na Estrutura Facebook (1:04:28 a 1:04:42): "o mesmo vídeo em si não é tão in
 
 4) CHARGEBACK E O CORPO A
 A taxa de 0,3% é da aula 51 (0:42:55, 21/09). Na call do Kobata de 11/11 (0:27:05 a 0:27:47): "as vendas… com as promessas agressivas e o cara vai lá e dá chargeback… O nosso número de chargeback aumentou" (retenção de 25%). O corpo A da maioria promete "money… appear in your life unexpectedly" e "tomorrow at ten in the morning you'll receive incredibly good news". Alguma aula diz quais promessas geram chargeback no Manifestation? Isso pesa contra o corpo A mesmo que ele traga mais cliques?
+```
+
+**R90 (o que ele disse; texto inteiro em `CLONE-ORIGINAIS/2026-11-24-R90-visitas-corpo-repetido-chargeback.md`):** (1) **views sem visita ao perfil é copy e CTA, não gancho**: falta "construir intenção de compra" (aula 64, 0:05:35) e "dar mais motivos para a pessoa clicar" (aula 65, 0:33:19); a copy de travas e avisos finais deixa a pessoa "extremamente negativa" (aula 65, 0:48:25); "Vocês estão tendo views, mas não estão tendo cliques… não estão acertando a COPPE… o CTA" (aula 18, 1:20:40); manda mudar o corpo e o CTA falado, com a qualificação e o motivo do clique (aula 64, 0:14:49); (2) a trava do nora76 por falta da variação do AutoEditor é opinião, apoiada na lógica da aula 57 (0:05:58); (3) nenhuma aula dá um número máximo de vezes para o mesmo corpo na mesma Página (opinião); (4) as promessas agressivas e a copy "muito black" geram chargeback (call do Kobata, 0:27:05; "aula 71", 0:48:11); "promessas muito agressivas de resultado podem gerar mais resistência do que a crença… milagroso, garantido" (aula 65, 1:49:13); as frases do corpo A não aparecem nas aulas, mas entram nessa categoria.
+
+**Conferido (24/11 11h36):**
+- **Bate:** a aula 64 (0:05:35 a 0:05:58; 0:14:49 a 0:15:05: "no momento de você chamar a pessoa para os stories é o momento de construir essa qualificação… O que que vai ter do outro lado? O que que ela ganha com isso? Porque ela deveria clicar? Este vídeo é pra quem?"); a aula 65 (0:33:19 a 0:33:42; 0:48:25 a 0:48:47; 1:49:13 a 1:50:03); a aula 18 (1:20:40 a 1:21:04); a call do Kobata de 11/11 (0:27:05 a 0:27:35).
+- **Sem como conferir:** a "aula 71" em 0:48:11 a 0:48:32 ("coerência entre o criativo e o funil"): a call do Kobata que temos termina em 0:47:30 ("Fiquem com Deus, amo vocês"). Pode ser outra gravação ou outra aula; pergunta curta na R91.
+- **O que muda:**
+  - **A resposta para "views sem visita" agora tem fonte: é o corpo e o CTA** (aula 64, aula 65, aula 18), não o gancho. Isso confirma o teste do nora77 (o corpo A × o corpo leve) como o próximo passo certo, e **o CTA do braço leve segue o checklist da aula 64 (0:14:59): o que tem do outro lado, o que ela ganha, por que clicar, para quem é** (o nosso CTA padrão de 3 partes já é isso).
+  - **O corpo A tem 2 fontes contra as promessas agressivas** (aula 65, 1:49:13; Kobata, 0:27:05): o braço A do nora77 segue igual ao da maioria, porque é o controle; se ele ganhar em cliques, a versão seguinte tira o "dinheiro inesperado" e a "notícia boa amanhã às 10" (decisão do aluno).
+  - O limite do mesmo corpo no Face fica sem número: segue a regra de 24/11 (abertura nova), olhando a distribuição de cada repetição.
+  - O teste 6 da `FILA` (o mesmo corpo com variação de edição no Insta) segue como teste, sem fonte que o decida.
+- **Vai a R91** (só a citação da "aula 71", 0:48:11).
+
+## R91 (24/11/2026 11h36, montada sem o aluno pedir; resposta pendente): a citação da "aula 71" em 0:48:11
+- **O texto:**
+
+```
+Gustavo, uma conferência rápida: a call do Kobata de 11/11 que temos termina em 0:47:30 ("Fiquem com Deus, amo vocês"). O trecho que você citou como "Aula 71 (0:48:11 a 0:48:32): se o chargeback aumenta e vocês estão botando uma copy muito black… tem que ter uma coerência entre o criativo e o funil" é de qual aula e de qual minuto? Cole a frase exata; se não achar, marque como opinião.
 ```

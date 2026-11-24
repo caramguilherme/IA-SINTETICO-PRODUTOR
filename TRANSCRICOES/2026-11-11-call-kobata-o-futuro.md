@@ -460,6 +460,3 @@ Hold for a bigger reaction
 Hold for a bigger reaction
 👀
 👀
-
-This is how Claude Code surfaces messages the user sends mid-turn — within the running turn, often alongside the next tool result, rather than as a separate conversation turn. Address the message above as you continue this turn.
-</system-reminder>
