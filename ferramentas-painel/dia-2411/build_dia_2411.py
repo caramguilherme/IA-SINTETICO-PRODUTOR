@@ -269,7 +269,7 @@ def nora77():
         {'quando': '1. Do começo ao fim', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB, o vídeo todo (os 2 do Face também)', 'como': 'Começa no 1º quadro.'},
         {'quando': '2. Exportar e me mandar até ~18h45', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
          'como': ('1080×1920, nome nora77-montado (acima de 30 MB, link do Drive). Eu devolvo em ~20 min o nora77-final (Insta: T01 a T13) e o nora77-final-FACE '
-                  '(o T01F das letras + o corpo sem o T08, o T09, o T10 e sem o “money” do T04 + o T11 + o T12F do comentário).')},
+                  '(o T01F das letras + o corpo sem o T05, o T08, o T09, o T10 e sem o “money” do T04 + o T11 + o T12F do comentário; o T05, a ameaça, sai desde 24/11 17h50, ok do aluno).')},
     ]
     P['pecas'] = {
         'titulo_decisao': 'Resumo',
@@ -282,7 +282,7 @@ def nora77():
             'O QUE ESTE VÍDEO TESTA: o corpo. É o lado A (o corpo da maioria, igual ao nora75) contra o nora78 (o corpo leve), à 0h00. A medida, com ~24 h: as visitas ao '
             'perfil e os cliques no Tracker. O Take 1 é o mesmo nos dois (a canela no Insta, as letras no Face).',
             f'{n} takes ({P77} palavras, ~1:35) + 2 só do Face = {n + 2} clipes no Muse. Tudo gerado de novo (o Insta derruba o arquivo reaproveitado), de moletom cinza, com a bandeirinha dos EUA.',
-            'Insta e Face às 19h30. No Face: as letras do nome na abertura e a última frase manda para o 1º comentário; sem os selos, o “amen”, os 7 minutos e o “money”.',
+            'Insta e Face às 19h30. No Face: as letras do nome na abertura e a última frase manda para o 1º comentário; sem os selos, o “amen”, os 7 minutos, o “money” e a ameaça do T05 (“if you turn your back on this message…”). Você gera o T05 normalmente: ele vai só no Insta.',
             'O story vence às ~01h15: reposte com o do “gift”, de preferência junto com o nora78. Antes de abrir o Insta, conferir o IP e os EUA no mylocation.org.',
         ],
     }
