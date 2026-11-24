@@ -52,7 +52,7 @@
 | Copy leve dos 3 sinais (nora71 alçapão × nora72 carro) | Insta 149 e 136, 1 visita; Face 323 e 319; 0 clique. O carro segurou mais | empate com a da claire; o cenário do carro ficou |
 | Mesmo corpo no Face ~5 h depois (nora72-FACE) | 319 contra 323 do nora71-FACE | não travou |
 | As letras do nome na frente (nora73) | Insta 246 (o maior falado desde 10/11, mas 11,8% de EUA), 1 visita; Face 307, +0,9x | entrou no nora76 |
-| O campeão de volta, com o mesmo arquivo de hook do nora47 (nora74) | Insta 14 views, 84,6% de skip; Face 104 | não repetir arquivo de hook |
+| O campeão de volta, com o mesmo arquivo de hook do nora47 (nora74) | Insta 24 views com ~24 h e parado (84,6% de skip com ~7 h); Face 212, −0,4x | não repetir arquivo de hook |
 | O curto sem fala (ini1811) | Insta 1.705 views e 12 visitas ao perfil (o maior número de visitas); Face 2 cliques; os cliques do curto quase não fazem o quiz | fora do Insta da Nora (R79); fica no Face |
 | Variação só de edição no Face | 4 de 6 travaram (a variação do nora69 com 4 views) | saiu (21/11) |
 
