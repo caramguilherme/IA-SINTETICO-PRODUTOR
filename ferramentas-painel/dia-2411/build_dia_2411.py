@@ -195,15 +195,19 @@ def agente(P, n, img_a, img_b, nomes, t01, extras, rotulo, intro_extra=''):
     ct = P['central']
     ag = copy.deepcopy(ct['agente'])
     ag['imagem'] = img_b
-    ag['intro'] = (f'No Muse, NA MESMA CONVERSA da Nora (a do nora75 e do nora76: a voz), são 4 mensagens: (1) o T01 com a {img_a}; (2) os outros {n - 1} takes '
-                   f'com a {img_b} + o aviso do Muse + o “COPIAR TUDO JUNTO” da Central; (3) e (4) os 2 takes só do Face, com a {img_b}.' + intro_extra)
+    # 24/11 18h02 (pergunta do aluno sobre a voz do T01): o T01 passa a ser gerado DEPOIS do corpo, na mesma conversa, para o Muse copiar a voz
+    # dos clipes que acabou de fazer (o "SAME VOICE AS THE OTHER CLIPS" do prompt só tem referência quando o corpo já existe). Foi assim no T01B do nora76.
+    ag['intro'] = (f'No Muse, NA MESMA CONVERSA da Nora (a do nora75 e do nora76: a voz), são 4 mensagens, NESTA ORDEM: (1) os {n - 1} takes do corpo '
+                   f'com a {img_b} + o aviso do Muse + o “COPIAR TUDO JUNTO” da Central; (2) só depois, o T01 com a {img_a}, para a voz dele sair igual à do corpo; '
+                   f'(3) e (4) os 2 takes só do Face, com a {img_b}.' + intro_extra)
     lista = ' · '.join(f'{i + 1:02d} = {nomes[i]}' for i in range(1, n))
-    passos = [f'MENSAGEM 1 (o T01): anexe a {img_a} e cole este prompt. O arquivo vem com o nome {nomes[0]}. PROMPT: ' + t01,
-              f'Na Central: preencha como na seção da Central (o LIVRE e a movimentação do {rotulo}) e cole a fala do T02 ao T{n:02d}. Confira: {n - 1} takes.',
-              f'MENSAGEM 2: anexe a {img_b} + o aviso do Muse + o “COPIAR TUDO JUNTO”. O Muse gera 6 por vez: depois dos 6 primeiros, mande na mesma conversa, com a '
-              'mesma imagem: “Now generate the remaining prompts from my previous message, exactly as written, in the same order, using the attached image as the first '
-              'frame of every clip.”',
-              f'Renomeie pela ordem da mensagem 2: {lista}.']
+    passos = [f'Na Central: preencha como na seção da Central (o LIVRE e a movimentação do {rotulo}) e cole a fala do T02 ao T{n:02d}. Confira: {n - 1} takes.',
+              f'MENSAGEM 1 (o corpo, T02 a T{n:02d}): anexe a {img_b} + o aviso do Muse + o “COPIAR TUDO JUNTO”. O Muse gera 6 por vez: depois dos 6 primeiros, '
+              'mande na mesma conversa, com a mesma imagem: “Now generate the remaining prompts from my previous message, exactly as written, in the same order, '
+              'using the attached image as the first frame of every clip.”',
+              f'Renomeie pela ordem da mensagem 1: {lista}.',
+              f'MENSAGEM 2 (o T01, só DEPOIS do corpo pronto, na mesma conversa): anexe a {img_a} e cole este prompt. O arquivo vem com o nome {nomes[0]}. '
+              'Ouça o T01 ao lado do T02: se a voz sair diferente, gere de novo na mesma conversa. PROMPT: ' + t01]
     for k, (titulo, prompt) in enumerate(extras, start=3):
         passos.append(f'MENSAGEM {k} ({titulo}, só para o Face): anexe a {img_b} e cole este prompt. PROMPT: ' + prompt)
     passos += [f'Confira cada take: sem a lua e sem as estrelinhas no rosto; o moletom {ROUPA_PT}; {FLAG_PT}; o copo na mão; ela fala uma vez só e fecha a '
@@ -367,7 +371,7 @@ def nora78():
            [('as letras do nome', B23.prompt_manual(LETRAS, B23.mov(GESTO_LETRAS), 'the stemmed glass of cinnamon water in her hand', n_letras, 1, n)),
             ('o CTA para o comentário', B23.prompt_manual(CTA_FACE78, B23.mov(GESTO_CTA_FACE), 'the stemmed glass of cinnamon water in her hand', n_cta, n, n))],
            'nora78', ' Dá para gerar logo depois do nora77, na mesma conversa.')
-    ct['agente']['passos'].insert(4, f'Se o T09 sair sem a palavra “private” ou o Muse recusar, gere o T09 de novo com esta fala de reserva: “{RESERVA78}”')
+    ct['agente']['passos'].insert(3, f'Se o T09 sair sem a palavra “private” ou o Muse recusar, gere o T09 de novo com esta fala de reserva: “{RESERVA78}”')
     P['silencio'] = {
         'intro': f'Arraste na “M2M FusionZ” os {n + 2} takes de uma vez, nesta ordem: T01 a T{n:02d} e, no fim, o T01F e o T08F (os do Face). “Zoom nos cortes” = DESLIGADO.',
         'nome': 'nora78-cortado', 'juntar': 'LIGADO', 'transicao': 'Corte seco', 'ordem': f'T01 a T{n:02d}, depois T01F e T08F',
