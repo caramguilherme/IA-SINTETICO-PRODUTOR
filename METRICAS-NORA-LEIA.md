@@ -1238,3 +1238,4 @@ Pergunta: "que signos foi falado/escrito nos videos de mais views da nora? tem a
 - **nora74-FACE com ~24 h:** 212 views, −0,4x, 6 s, 32,5% nos 3 s (a versão de 36 s): fraco.
 - **O resto da lista mudou pouco** desde 22/11 (nora73-FACE 309, nora71-FACE 337, nora70-FACE 215).
 **Falta:** o Insta do nora75 e do nora76 (o lado do teste do conteúdo repetido), com ~24 h do nora75 (~19h15 de hoje).
+- **O 1º item da lista é o story do Face** (o aluno, 24/11 ~10h58): 2 views e 1 visualizador às 10h55, com ~9h40 no ar. No Face, o caminho do link é o comentário da Página (o nora76-FACE trouxe 1 clique por ele); o story da Página chega a pouca gente.
