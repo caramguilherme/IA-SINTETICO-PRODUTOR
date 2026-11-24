@@ -418,3 +418,10 @@ Fora da numeração do nora. Peças com o nome do teste: `faceNN-IMG`, `faceNN-C
 - **nora75-final-FACE:** 1:07, sem o T08, o T09 e o T10 (`specs/cortes-extra-nora75-FACE.json`: 54,88 a 78,52 s do montado) e sem o "money," do T04 (25,65 a 26,38 s); sem a variação do Face (o corpo é novo na Página). A seta fica também no Face (a fala manda para a foto do perfil e o story).
 - **A conferir depois:** 2 pedaços da legenda quebram com 1 palavra na 2ª linha ("…dreamed / of", "…faith and / money"); no nora76, equilibrar as 2 linhas.
 
+## nora76 (24/11/2026, editado às 00h03): as letras do nome + o corpo do nora75
+- **O take novo:** `media-generation-sofa-000.mp4` (o aluno mandou com esse nome; é o `d2311-sofa-T01B-letras`), Muse, 672×1216, 10 s, gerado na mesma conversa do nora75. A fala bate palavra por palavra; sem a lua; o copo do corpo. Tom da voz: mediana de 203 Hz (o corpo do nora75: 183 a 208 Hz); volume −17,6 dB (o T01 antigo: −17,9).
+- **O montado (feito aqui, sem CapCut):** o take escalado para 1080 de largura e cortado em 1920 de altura (sem borda preta), de 0 a 9,6 s, + o `nora75-montado` a partir de 7,95 s (o começo do T02), com a música entrando em fade de 0,9 s no T02 (a música não pode ser separada da voz do T01 antigo; no T01B fica só a voz, como era a regra "sem música no hook").
+- **Edição:** a mesma do nora75 (`editar_simples_2311.py` + `spec_simples_2311.py`), com a legenda em 2 linhas equilibradas; "St." da transcrição trocado por "Saint" (o ponto cortava a frase na legenda).
+- **nora76-final (Insta):** 1:32, completo. Seta de 85,4 s ao fim.
+- **nora76-final-FACE:** 1:10, sem o T08, o T09 e o T10 e sem o "money," (`specs/cortes-extra-nora76-FACE.json`: 27,33 a 28,10 s e 56,66 a 80,20 s do montado do nora76).
+
