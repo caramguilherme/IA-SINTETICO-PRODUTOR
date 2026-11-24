@@ -730,3 +730,7 @@ No print, o clipe tem uma faixa preta fina na esquerda e na direita (~1% da larg
 - **"Check" no clipe que acertou** (Verix): salvar aquele modelo como padrão faria o Muse acertar muito mais. Relato de 1 pessoa; a pergunta de onde fica o botão foi para ele. Se o aluno achar, tentar no próximo clipe que sair certo (a avatar e o cenário iguais à imagem).
 - **Várias contas em paralelo** (Vinicius B: 4 contas, 5 vídeos cada, ~10 min): decisão do aluno; cada conta segue a regra de isolamento da Meta (`CLAUDE.md`, seção 2).
 
+
+## 24/11/2026 17h46: painel duplicado ao republicar (erro meu)
+- Ao republicar o `PAINEL-NORA78.html` depois de a conversa ter sido resumida, publiquei sem passar o link antigo, e o sistema criou um 2º artefato com o mesmo nome (o aluno: "nao quero dois artefatos com o mesmo nome, senao vai me confundir"). O duplicado foi apagado a pedido dele; ficou o link de sempre (https://claude.ai/artifact/2U93pNTF6FjhExkTcUATpr).
+- **Regra:** para republicar um painel que já existe, sempre passar o link dele (`url`, tirado do `CLAUDE.md`, seção 1). Nunca publicar só pelo arquivo quando a conversa foi resumida.
