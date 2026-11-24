@@ -20,7 +20,7 @@ description: Use toda vez que for pôr texto num vídeo ou imagem da Nora (ediç
 | **Legenda** | **simples, como a do nora69** (`ferramentas-painel/dia-1711/editar_nora69_limpo.py`): Inter, branca, contorno fino escuro e sombra suave; **sem destaque colorido e sem caixa alta**; pedaços da fala de até ~6 palavras, quebrando na pontuação; no máximo 2 linhas; no terço de baixo; entra na 1ª palavra |
 | **Números fixos** | dois, os dois brancos com contorno preto: o 11:11 no canto de cima à direita e o 222 no de cima à esquerda, na mesma altura, o vídeo todo, entre 8% e 92% da largura (11:11 em X 230, Y 282; 222 em X −230, Y 282) |
 | **Faixa do story / do comentário (CTA)** | caixa branca sólida, texto preto em negrito, o destaque em vermelho ("Tap my photo: / your 2027 reading is in [my story]"; Face: "Your 2027 reading: / [link in the comments]") |
-| **Seta** (Insta) | vermelha com contorno preto, embaixo à esquerda, logo acima da foto do perfil do Reels: X −300, Y −400 (≈81% da altura; regra do aluno de 18/11 19h20) |
+| **Seta** | vermelha com contorno preto, embaixo à esquerda, logo acima da foto do perfil do Reels, Y −400 (≈81% da altura; regra do aluno de 18/11 19h20). **Grande desde 24/11** (o aluno: "pode fazer a seta grande sim"; aula 26, 0:39:29: "You have to make it giant, the arrow"): **tamanho 44** (era 14), **X −285 no Insta e X −250 no Face** (a borda esquerda em 8%, P43); não encosta na legenda (`MATERIAIS-MENTORIA-23-11/09-seta-grande-teste-tamanhos.jpg`) |
 
 ## Regras
 1. **A caixa do topo não fica o vídeo todo:** some no fim do gancho. Nada de caixa amarela.
