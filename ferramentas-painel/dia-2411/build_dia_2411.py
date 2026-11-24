@@ -203,6 +203,16 @@ def agente(P, n, img_a, img_b, nomes, t01, extras, rotulo, intro_extra='', falas
     ct = P['central']
     ag = copy.deepcopy(ct['agente'])
     ag['imagem'] = img_b
+    # 24/11 18h35 (o aluno: "pq o muse nao colocou o nome? nao era regra isso?"): era, desde 23/11 18h52 (`LICOES`), mas o aviso vinha do painel do
+    # nora70 (B.BASE) com o texto antigo, "Name each clip with its prompt number", e na 1ª leva do nora77 o Muse baixou 6 clipes com nome aleatório.
+    # Agora o aviso lista o nome de cada prompt, e a mensagem dos prompts 07 em diante repete os nomes deles.
+    velho = 'Name each clip with its prompt number (01, 02, 03 and so on).'
+    assert velho in ag['aviso'], 'o aviso do Muse mudou: conferir a frase do nome dos arquivos'
+    nomes_corpo = ', '.join(f'Prompt {i:02d} = {nomes[i]}' for i in range(1, n))
+    ag['aviso'] = ag['aviso'].replace(velho, f'Name each clip with exactly this file name, so the downloaded file already has it: {nomes_corpo}.')
+    resto = ', '.join(f'Prompt {i:02d} = {nomes[i]}' for i in range(7, n))
+    msg_resto = ('“Now generate the remaining prompts from my previous message, exactly as written, in the same order, using the attached image as the first '
+                 f'frame of every clip, and name each clip with exactly this file name: {resto}.”')
     # 24/11 18h02 (pergunta do aluno sobre a voz do T01): o T01 passa a ser gerado DEPOIS do corpo, na mesma conversa, para o Muse copiar a voz
     # dos clipes que acabou de fazer (o "SAME VOICE AS THE OTHER CLIPS" do prompt só tem referência quando o corpo já existe). Foi assim no T01B do nora76.
     ag['intro'] = (f'No Muse, na mesma conversa da Nora (a do nora75 e do nora76: a voz). Siga os passos de cima para baixo, um de cada vez. '
@@ -216,9 +226,8 @@ def agente(P, n, img_a, img_b, nomes, t01, extras, rotulo, intro_extra='', falas
         lista = ' · '.join(f'T{i + 1:02d} começa em “{" ".join(falas[i].split()[:5])}…” → {nomes[i]}' for i in range(1, n))
     passos = [f'Na Central: preencha como na seção da Central (o LIVRE e a movimentação do {rotulo}) e cole a fala do T02 ao T{n:02d}. Confira: {n - 1} takes.',
               f'O corpo (T02 a T{n:02d}, {n - 1} clipes): no Muse, anexe a {img_b} + o aviso do Muse + o “COPIAR TUDO JUNTO”. O Muse gera 6 por vez: depois dos 6 primeiros, '
-              'mande na mesma conversa, com a mesma imagem: “Now generate the remaining prompts from my previous message, exactly as written, in the same order, '
-              'using the attached image as the first frame of every clip.”',
-              f'Renomeie os {n - 1} clipes do corpo assim que baixar (os 6 primeiros vêm com um nome aleatório: abra cada um, ouça o começo e renomeie pela frase): {lista}.',
+              f'mande na mesma conversa, com a mesma imagem: {msg_resto}',
+              f'Confira os nomes ao baixar: cada clipe já deve vir com o nome dele (o site põe “media-generation-” na frente e um código no fim; pode deixar). Se algum vier com um nome aleatório, ouça o começo e renomeie pela frase: {lista}.',
               f'O T01 (só depois do corpo pronto): anexe a {img_a} e cole o prompt abaixo. Salve como {nomes[0]}. '
               'Ouça o T01 ao lado do T02: se a voz sair diferente, gere de novo na mesma conversa. PROMPT: ' + t01]
     for k, (rot, titulo, lugar, arq, prompt) in enumerate(extras, start=1):
