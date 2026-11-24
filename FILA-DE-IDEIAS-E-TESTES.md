@@ -354,3 +354,11 @@
   - a dupla com o motivo do formato ("there's a reason two of us showed up on your screen today. We're twins…");
   - uma conta com 2 avatares diferentes (o monge e o avô da @imjamalwilliams), contra a R82 ("1 personagem por conta"). Se o aluno quiser, vira teste.
 - **Calendário:** a lua cheia de 24/11/2026 (11h53 de Brasília, 9h53 da costa leste, em Gêmeos, superlua) não estava nas datas do nicho (seção 1 do `CLAUDE.md`). Foi acrescentada.
+
+## 24/11/2026: da mentoria individual ao vivo do Gustavo (23/11; `AULA-23-11-MENTORIA-INDIVIDUAL-GUSTAVO.md`)
+- **Teste A/B da contradição "conteúdo repetido":** o Gustavo (0:04:22 a 0:05:32 e 0:07:35 a 0:07:59): o mesmo cenário e o conteúdo reutilizado dão uma "flag" sem aviso que tira alcance no Insta; a receita da maioria (`RECEITA-DA-MAIORIA.md`) e a LegacyTalk de 19/11: o mesmo corpo com vários Take 1 e o mesmo hook com variações. **O braço B já está no ar:** o nora76 (24/11 01h15) reaproveita 1:22 dos clipes do nora75 (23/11 à noite). A leitura com ~24 h compara os dois na mesma idade (views, skip, % de não seguidores). Se o nora76 travar bem abaixo, a proposta é arquivo novo do começo ao fim em cada post do Insta (decisão do aluno). O nora74 (o mesmo arquivo de hook do nora47: 14 views, 84,6% de skip) é o 1º caso a favor do Gustavo.
+- **Teste A/B da contradição "agendar":** o Gustavo (0:48:46: "Tem problema agendar vídeo pelo GeeLark? Não, pode agendar") × a nossa regra "sempre ao vivo" (leituras de outubro). Numa conta nova (nunca na Nora), metade dos posts agendada pelo GeeLark e metade ao vivo, no mesmo horário e com o mesmo tipo de vídeo. Junta com o braço "agendar no Face pelo Business Suite" já na fila.
+- **Podcast** (0:15:41: "Pouca gente tá fazendo podcast agora, deveria explorar"): reforça o formato de podcast com 3 enquadramentos que já estava na fila (o vídeo de exemplo do Muse, 18/11).
+- **Volume** (0:29:25: "Eu gosto de 4 a 6"; 0:36:24: "no mínimo uns 3 por dia"): reforça o teste 2 × 4 por dia no Insta da Nora (decisão do aluno).
+- **Fora:** a avatar a partir de foto do Pinterest ou do Pexels e o "FaceBlend" (nada a partir de foto de pessoa real); o "your gift is here" no story (a leitura é paga); comprar contas do Muse no Telegram (decisão do aluno; contas compradas já caíram em menos de 2 dias, 18/11).
+
