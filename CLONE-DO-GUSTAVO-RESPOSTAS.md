@@ -2135,9 +2135,13 @@ A taxa de 0,3% é da aula 51 (0:42:55, 21/09). Na call do Kobata de 11/11 (0:27:
   - O teste 6 da `FILA` (o mesmo corpo com variação de edição no Insta) segue como teste, sem fonte que o decida.
 - **Vai a R91** (só a citação da "aula 71", 0:48:11).
 
-## R91 (24/11/2026 11h36, montada sem o aluno pedir; resposta pendente): a citação da "aula 71" em 0:48:11
+## R91 (24/11/2026 11h36, montada sem o aluno pedir; respondida às ~11h43, conferida às 11h44, fechada): a citação da "aula 71" em 0:48:11
 - **O texto:**
 
 ```
 Gustavo, uma conferência rápida: a call do Kobata de 11/11 que temos termina em 0:47:30 ("Fiquem com Deus, amo vocês"). O trecho que você citou como "Aula 71 (0:48:11 a 0:48:32): se o chargeback aumenta e vocês estão botando uma copy muito black… tem que ter uma coerência entre o criativo e o funil" é de qual aula e de qual minuto? Cole a frase exata; se não achar, marque como opinião.
 ```
+
+**R91 (o que ele disse; texto inteiro em `CLONE-ORIGINAIS/2026-11-24-R91-aula-71-recap-gustavo.md`):** a "Aula 71" do notebook é a mesma gravação da call do Kobata, que segue depois do "Fiquem com Deus" (0:47:30): a partir de 0:48:11 o Gustavo recapitula, e o trecho é dele: "se o chargeback aumenta e vocês estão botando uma copy muito black, ou simplesmente fazendo alguma coisa que é incoerente com o resto do funil… tem que ter uma coerência entre o criativo e o funil que aquele criativo tá levando."
+
+**Conferido (24/11 11h44):** a explicação faz sentido (a nossa transcrição, colada do Loom, acaba no fim da fala do Kobata, 0:47:30), mas a parte do Gustavo depois de 0:48:11 não está no projeto: fica **sem como conferir**, como trecho colado pelo Clone. O conteúdo bate com o que já temos (a call do Kobata, 0:27:05 a 0:27:47; a aula 65, 1:49:13): a copy "muito black" e incoerente com o funil sobe o chargeback. Nada muda além da R90. **Pendente do aluno, se der:** o resto da gravação da call do Kobata de 11/11 (a recapitulação do Gustavo depois de 0:47:30). Não precisa voltar ao Clone.
