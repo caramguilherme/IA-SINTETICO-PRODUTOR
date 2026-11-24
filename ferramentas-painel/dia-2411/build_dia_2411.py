@@ -206,7 +206,9 @@ def agente(P, n, img_a, img_b, nomes, t01, extras, rotulo, intro_extra=''):
     # 24/11 18h02 (pergunta do aluno sobre a voz do T01): o T01 passa a ser gerado DEPOIS do corpo, na mesma conversa, para o Muse copiar a voz
     # dos clipes que acabou de fazer (o "SAME VOICE AS THE OTHER CLIPS" do prompt só tem referência quando o corpo já existe). Foi assim no T01B do nora76.
     ag['intro'] = (f'No Muse, na mesma conversa da Nora (a do nora75 e do nora76: a voz). Siga os passos de cima para baixo, um de cada vez. '
-                   f'São {n + len(extras)} clipes: os {n - 1} do corpo (T02 a T{n:02d}), depois o T01 e, por último, os {len(extras)} que são só do Face.' + intro_extra)
+                   f'São {n + len(extras)} clipes: os {n - 1} do corpo (T02 a T{n:02d}), depois o T01 e, por último, os {len(extras)} que são só do Face. '
+                   'Por que 2 a mais para o Face: o Face precisa de outro começo (com o mesmo 1º take, ele lê como vídeo repetido; a sua regra de 24/11) e de '
+                   'outro fim (o CTA manda para o 1º comentário, onde está o link, sem pedir comentário nem selos). O meio é o mesmo, então são só 2 clipes, não um vídeo inteiro.' + intro_extra)
     lista = ' · '.join(f'clipe {i:02d} do Muse = {nomes[i]}' for i in range(1, n))  # 24/11 18h11: o clipe 01 do Muse é o T02 (estava "02 = T02")
     passos = [f'Na Central: preencha como na seção da Central (o LIVRE e a movimentação do {rotulo}) e cole a fala do T02 ao T{n:02d}. Confira: {n - 1} takes.',
               f'O corpo (T02 a T{n:02d}, {n - 1} clipes): no Muse, anexe a {img_b} + o aviso do Muse + o “COPIAR TUDO JUNTO”. O Muse gera 6 por vez: depois dos 6 primeiros, '
@@ -237,7 +239,7 @@ def nora77():
     P = base('nora77')
     n = N77
     nomes = [nome('cinza', SUF77, i) for i in range(n)]
-    n_letras, n_cta = 'd2411-cinza-T01F-letras', 'd2411-cinza-T12F-cta-comentario'
+    n_letras, n_cta = 'd2411-cinza-T14-FACE-letras', 'd2411-cinza-T15-FACE-cta-comentario'  # 24/11 18h30: eram T01F e T12F; a FusionZ junta pela ordem do nome (P27) e os punha no meio
     imagens_secao(P, 'As 2 imagens (Flow, antes dos takes)',
                   ('O nora75 gerado de novo, do 1º ao último take (o Insta derruba o arquivo reaproveitado), com outra roupa: o mesmo sofá, a mesma canela no copo, '
                    f'agora de moletom cinza liso, e {FLAG_PT} na parede atrás. A Nora sem a pintura.'),
@@ -271,9 +273,9 @@ def nora77():
     P['videos'] = ([{'rotulo': f'T{i + 1:02d}', 'cena': SUF77[i], 'duracao': 10,
                      'primeiro_quadro': (f'IMAGEM 1 ({IMG_A77})' if i == 0 else f'IMAGEM 2 ({IMG_B77})'), 'acao': '', 'b_roll': '', 'fala': FALA77[i],
                      'movimentacao': B23.mov(GESTO77[i], i == 0), 'arquivo': nomes[i]} for i in range(n)]
-                   + [{'rotulo': 'T01F (só Face)', 'cena': 'as letras do nome (no lugar do T01 no Face)', 'duracao': 10, 'primeiro_quadro': f'IMAGEM 2 ({IMG_B77})',
+                   + [{'rotulo': 'T14 (só Face)', 'cena': 'as letras do nome (no lugar do T01 no Face)', 'duracao': 10, 'primeiro_quadro': f'IMAGEM 2 ({IMG_B77})',
                        'acao': '', 'b_roll': '', 'fala': LETRAS, 'movimentacao': B23.mov(GESTO_LETRAS), 'arquivo': n_letras},
-                      {'rotulo': 'T12F (só Face)', 'cena': 'o CTA para o comentário (no lugar do T12 e do T13 no Face)', 'duracao': 10,
+                      {'rotulo': 'T15 (só Face)', 'cena': 'o CTA para o comentário (no lugar do T12 e do T13 no Face)', 'duracao': 10,
                        'primeiro_quadro': f'IMAGEM 2 ({IMG_B77})', 'acao': '', 'b_roll': '', 'fala': CTA_FACE77,
                        'movimentacao': B23.mov(GESTO_CTA_FACE), 'arquivo': n_cta}])
     P['texto_tela'] = {'hook': '', 'hook_comeca': '—', 'hook_termina': '—', 'hook_alt': '', 'extras': []}
@@ -288,23 +290,26 @@ def nora77():
                       'ela fala uma vez só e diz as datas e os números por extenso.')
     t01 = B23.prompt_manual(FALA77[0], B23.mov(GESTO77[0], True), 'the stemmed glass of water and the cinnamon jar in her hands', nomes[0], 1, n)
     agente(P, n, IMG_A77, IMG_B77, nomes, t01,
-           [('T01F', 'as letras do nome', 'no lugar do T01', n_letras,
+           [('T14', 'as letras do nome', 'no lugar do T01', n_letras,
              B23.prompt_manual(LETRAS, B23.mov(GESTO_LETRAS), 'the stemmed glass of cinnamon water in her hand', n_letras, 1, n)),
-            ('T12F', 'o CTA para o comentário', 'no lugar do T12 e do T13', n_cta,
+            ('T15', 'o CTA para o comentário', 'no lugar do T12 e do T13', n_cta,
              B23.prompt_manual(CTA_FACE77, B23.mov(GESTO_CTA_FACE), 'the stemmed glass of cinnamon water in her hand', n_cta, n, n))],
            'nora77')
     P['silencio'] = {
-        'intro': f'Arraste na “M2M FusionZ” os {n + 2} takes de uma vez, nesta ordem: T01 a T{n:02d} e, no fim, o T01F e o T12F (os do Face). “Zoom nos cortes” = DESLIGADO.',
-        'nome': 'nora77-cortado', 'juntar': 'LIGADO', 'transicao': 'Corte seco', 'ordem': f'T01 a T{n:02d}, depois T01F e T12F',
-        'depois': ['Suba os takes e espere a Prévia.', f'Confira a primeira palavra do T01 e a última do T12F.',
+        'intro': ('Arraste na “M2M FusionZ” os 15 takes de uma vez (T01 a T15), sem separar nada. A ferramenta junta pela ordem do nome, então o T14 e o T15 '
+                  '(os 2 só do Face) ficam no fim. Sai 1 arquivo só, com os 15. “Zoom nos cortes” = DESLIGADO.'),
+        'nome': 'nora77-cortado', 'juntar': 'LIGADO', 'transicao': 'Corte seco', 'ordem': 'T01 a T15 (o T14 e o T15 são os do Face)',
+        'depois': ['Suba os 15 takes e espere a Prévia.', 'Confira a primeira palavra do T01 e a última do T15.',
                    'Se um corte comeu o fim de uma palavra, arraste a borda dele ou suba a margem de respiro.', 'Clique em Cortar e baixar e salve como nora77-cortado.'],
     }
     P['edicao_linha'] = [
-        {'quando': 'A. Antes de tudo', 'texto': 'Projeto novo no CapCut com o nora77-cortado', 'como': 'Começa direto no T01, sem hook. Os 2 do Face ficam no fim, como vieram.'},
-        {'quando': '1. Do começo ao fim', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB, o vídeo todo (os 2 do Face também)', 'como': 'Começa no 1º quadro.'},
+        {'quando': 'O que vai em cada vídeo', 'texto': 'Você monta 1 arquivo só, com os 15 takes. Os 2 vídeos (Insta e Face) eu separo aqui.',
+         'como': ('INSTA (nora77-final): T01 ao T13, na ordem. FACE (nora77-final-FACE): T14 (as letras) + T02, T03, T04 (eu tiro o “money”), T06, T07, T11 + T15 (o comentário). '
+                  'Ficam fora do Face: o T01, o T05 (a ameaça), o T08 (os 7 minutos e o “send to yourself”), o T09 (os selos e o amen), o T10 (“amanhã às 10”), o T12 e o T13 (o CTA do story).')},
+        {'quando': 'A. Antes de tudo', 'texto': 'Projeto novo no CapCut com o nora77-cortado', 'como': 'Começa direto no T01, sem hook. O T14 e o T15 ficam no fim, como vieram da FusionZ.'},
+        {'quando': '1. Do começo ao fim', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB, o vídeo todo (o T14 e o T15 também)', 'como': 'Começa no 1º quadro.'},
         {'quando': '2. Exportar e me mandar até ~18h45', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
-         'como': ('1080×1920, nome nora77-montado (acima de 30 MB, link do Drive). Eu devolvo em ~20 min o nora77-final (Insta: T01 a T13) e o nora77-final-FACE '
-                  '(o T01F das letras + o corpo sem o T05, o T08, o T09, o T10 e sem o “money” do T04 + o T11 + o T12F do comentário; o T05, a ameaça, sai desde 24/11 17h50, ok do aluno).')},
+         'como': '1080×1920, nome nora77-montado (acima de 30 MB, link do Drive). Eu devolvo em ~20 min os 2 prontos: o nora77-final (Insta) e o nora77-final-FACE.'},
     ]
     P['pecas'] = {
         'titulo_decisao': 'Resumo',
@@ -330,7 +335,7 @@ def nora78():
     P = base('nora78')
     n = N78
     nomes = [nome('lado', SUF78, i) for i in range(n)]
-    n_letras, n_cta = 'd2411-lado-T01F-letras', 'd2411-lado-T08F-cta-comentario'
+    n_letras, n_cta = 'd2411-lado-T10-FACE-letras', 'd2411-lado-T11-FACE-cta-comentario'  # 24/11 18h30: eram T01F e T08F
     imagens_secao(P, 'As 2 imagens (Flow, antes dos takes)',
                   ('O mesmo sofá, a mesma canela no copo e ' + FLAG_PT + ', mas com OUTRA ROUPA (moletom azul-marinho liso) e de outro ângulo (a câmera ~30° para a direita): '
                    'a frase do Take 1 é a mesma do nora77, e a roupa e o ângulo novos evitam que o Insta leia como o mesmo vídeo. A Nora sem a pintura. '
@@ -361,9 +366,9 @@ def nora78():
     P['videos'] = ([{'rotulo': f'T{i + 1:02d}', 'cena': SUF78[i], 'duracao': 10,
                      'primeiro_quadro': (f'IMAGEM 1 ({IMG_A78})' if i == 0 else f'IMAGEM 2 ({IMG_B78})'), 'acao': '', 'b_roll': '', 'fala': FALA78[i],
                      'movimentacao': B23.mov(GESTO78[i], i == 0), 'arquivo': nomes[i]} for i in range(n)]
-                   + [{'rotulo': 'T01F (só Face)', 'cena': 'as letras do nome (no lugar do T01 no Face)', 'duracao': 10, 'primeiro_quadro': f'IMAGEM 2 ({IMG_B78})',
+                   + [{'rotulo': 'T10 (só Face)', 'cena': 'as letras do nome (no lugar do T01 no Face)', 'duracao': 10, 'primeiro_quadro': f'IMAGEM 2 ({IMG_B78})',
                        'acao': '', 'b_roll': '', 'fala': LETRAS78, 'movimentacao': B23.mov(GESTO_LETRAS), 'arquivo': n_letras},
-                      {'rotulo': 'T08F (só Face)', 'cena': 'o CTA para o comentário (no lugar do T08 e do T09 no Face)', 'duracao': 10,
+                      {'rotulo': 'T11 (só Face)', 'cena': 'o CTA para o comentário (no lugar do T08 e do T09 no Face)', 'duracao': 10,
                        'primeiro_quadro': f'IMAGEM 2 ({IMG_B78})', 'acao': '', 'b_roll': '', 'fala': CTA_FACE78,
                        'movimentacao': B23.mov(GESTO_CTA_FACE), 'arquivo': n_cta}])
     P['texto_tela'] = {'hook': '', 'hook_comeca': '—', 'hook_termina': '—', 'hook_alt': '', 'extras': []}
@@ -378,24 +383,27 @@ def nora78():
                       f'palavra “private”, gere de novo com a reserva: “{RESERVA78}”')
     t01 = B23.prompt_manual(FALA78[0], B23.mov(GESTO78[0], True), 'the stemmed glass of water and the cinnamon jar in her hands', nomes[0], 1, n)
     agente(P, n, IMG_A78, IMG_B78, nomes, t01,
-           [('T01F', 'as letras do nome', 'no lugar do T01', n_letras,
+           [('T10', 'as letras do nome', 'no lugar do T01', n_letras,
              B23.prompt_manual(LETRAS78, B23.mov(GESTO_LETRAS), 'the stemmed glass of cinnamon water in her hand', n_letras, 1, n)),
-            ('T08F', 'o CTA para o comentário', 'no lugar do T08 e do T09', n_cta,
+            ('T11', 'o CTA para o comentário', 'no lugar do T08 e do T09', n_cta,
              B23.prompt_manual(CTA_FACE78, B23.mov(GESTO_CTA_FACE), 'the stemmed glass of cinnamon water in her hand', n_cta, n, n))],
            'nora78', ' Dá para gerar logo depois do nora77, na mesma conversa.')
     ct['agente']['passos'].insert(3, f'Se o T09 sair sem a palavra “private” ou o Muse recusar, gere o T09 de novo com esta fala de reserva: “{RESERVA78}”')
     P['silencio'] = {
-        'intro': f'Arraste na “M2M FusionZ” os {n + 2} takes de uma vez, nesta ordem: T01 a T{n:02d} e, no fim, o T01F e o T08F (os do Face). “Zoom nos cortes” = DESLIGADO.',
-        'nome': 'nora78-cortado', 'juntar': 'LIGADO', 'transicao': 'Corte seco', 'ordem': f'T01 a T{n:02d}, depois T01F e T08F',
-        'depois': ['Suba os takes e espere a Prévia.', 'Confira a primeira palavra do T01 e a última do T08F.',
+        'intro': ('Arraste na “M2M FusionZ” os 11 takes de uma vez (T01 a T11), sem separar nada. A ferramenta junta pela ordem do nome, então o T10 e o T11 '
+                  '(os 2 só do Face) ficam no fim. Sai 1 arquivo só, com os 11. “Zoom nos cortes” = DESLIGADO.'),
+        'nome': 'nora78-cortado', 'juntar': 'LIGADO', 'transicao': 'Corte seco', 'ordem': 'T01 a T11 (o T10 e o T11 são os do Face)',
+        'depois': ['Suba os 11 takes e espere a Prévia.', 'Confira a primeira palavra do T01 e a última do T11.',
                    'Se um corte comeu o fim de uma palavra, arraste a borda dele ou suba a margem de respiro.', 'Clique em Cortar e baixar e salve como nora78-cortado.'],
     }
     P['edicao_linha'] = [
-        {'quando': 'A. Antes de tudo', 'texto': 'Projeto novo no CapCut com o nora78-cortado', 'como': 'Começa direto no T01, sem hook. Os 2 do Face ficam no fim, como vieram.'},
-        {'quando': '1. Do começo ao fim', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB, o vídeo todo', 'como': 'Começa no 1º quadro.'},
+        {'quando': 'O que vai em cada vídeo', 'texto': 'Você monta 1 arquivo só, com os 11 takes. Os 2 vídeos (Insta e Face) eu separo aqui.',
+         'como': ('INSTA (nora78-final): T01 ao T09, na ordem. FACE (nora78-final-FACE): T10 (as letras) + T02 ao T07 + T11 (o comentário). '
+                  'Ficam fora do Face: o T01 (o Face abre com outro take), o T08 e o T09 (o CTA do story).')},
+        {'quando': 'A. Antes de tudo', 'texto': 'Projeto novo no CapCut com o nora78-cortado', 'como': 'Começa direto no T01, sem hook. O T10 e o T11 ficam no fim, como vieram da FusionZ.'},
+        {'quando': '1. Do começo ao fim', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB, o vídeo todo (o T10 e o T11 também)', 'como': 'Começa no 1º quadro.'},
         {'quando': '2. Exportar e me mandar até ~23h15', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
-         'como': ('1080×1920, nome nora78-montado (link do Drive se passar de 30 MB). Eu devolvo em ~20 min o nora78-final (Insta: T01 a T09) e o nora78-final-FACE '
-                  '(o T01F das letras + o T02 ao T07 + o T08F do comentário).')},
+         'como': '1080×1920, nome nora78-montado (link do Drive se passar de 30 MB). Eu devolvo em ~20 min os 2 prontos: o nora78-final (Insta) e o nora78-final-FACE.'},
     ]
     P['pecas'] = {
         'titulo_decisao': 'Resumo',

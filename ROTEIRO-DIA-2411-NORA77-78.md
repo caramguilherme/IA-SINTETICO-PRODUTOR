@@ -39,3 +39,10 @@
 
 ## O story
 O de 24/11 01h15 vence às ~01h15 de 25/11: reposte o do "gift" (`ferramentas-painel/dia-2411/story-gift-2411.jpg`) junto com o nora78, no Insta e no Face.
+
+## 24/11 18h30: os takes de cada vídeo e os nomes dos 2 do Face (cobrança do aluno: "pq eu gero take separado? como eu vou passar isso no fusion z? nao tem nem a explicação de quais takes usar pro video do insta, e pros videos do face")
+- **Os nomes dos 2 do Face mudaram:** no nora77, T01F → **T14** (`d2411-cinza-T14-FACE-letras`) e T12F → **T15** (`d2411-cinza-T15-FACE-cta-comentario`); no nora78, T01F → **T10** e T08F → **T11**. A FusionZ junta pela ordem do nome (P27): com "T01F" e "T12F" eles cairiam no meio, depois do T01 e do T12, e o painel dizia "no fim". Com o número depois do último take, eles ficam no fim sozinhos.
+- **O aluno sobe todos de uma vez, monta 1 arquivo só e eu separo os 2 vídeos:**
+  - nora77 no Insta: T01 ao T13. No Face: T14 + T02, T03, T04 (sem o "money"), T06, T07, T11 + T15. Fora do Face: o T01, o T05, o T08, o T09, o T10, o T12 e o T13.
+  - nora78 no Insta: T01 ao T09. No Face: T10 + T02 ao T07 + T11. Fora do Face: o T01, o T08 e o T09.
+- **O porquê dos 2 takes a mais (no topo da seção do Muse do painel):** o Face precisa de outro começo (a regra do aluno de 24/11 10h59: com o mesmo 1º take, o Face lê como vídeo repetido) e de outro fim (o CTA manda para o 1º comentário, sem pedir comentário nem selos).

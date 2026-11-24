@@ -747,3 +747,7 @@ No print, o clipe tem uma faixa preta fina na esquerda e na direita (~1% da larg
 ## 24/11/2026 18h20: o passo a passo do Muse numa ordem só (cobrança do aluno: "pq mensagem 3 e mensagem 4? … nao tem um passo a passo, nao tem uma ordem pra se seguir")
 - **O erro:** o painel já numera os passos (1, 2, 3…), e eu escrevi "MENSAGEM 1" a "MENSAGEM 4" dentro deles: o passo 5 era a "mensagem 3", e o aluno não sabia o que eram os 2 últimos (os takes só do Face).
 - **A regra:** dentro do passo a passo, nenhuma 2ª numeração. Cada passo começa pelo nome do take que ele gera (o corpo, o T01, o T01F…), diz se é só do Face e onde entra, a imagem a anexar e o nome para salvar. O topo da seção diz quantos clipes são e em que ordem. No gerador: `agente()` do `ferramentas-painel/dia-2411/build_dia_2411.py`.
+
+## 24/11/2026 18h30: os takes só do Face levam o número depois do último take (erro meu)
+- **O erro:** chamei os 2 takes do Face de T01F e T12F e escrevi "no fim" na FusionZ, mas ela junta pela ordem do nome (P27), e eles cairiam depois do T01 e do T12. E o painel não dizia quais takes vão no vídeo do Insta e quais no do Face.
+- **A regra:** take extra (só do Face ou de reserva) leva o número seguinte ao último take (T14, T15…), com "FACE" no nome. Todo painel com versão do Face traz, na seção "Montar no CapCut", a linha "O que vai em cada vídeo": os takes do Insta, os do Face e os que ficam fora do Face, com o motivo. O aluno monta 1 arquivo só; eu separo.

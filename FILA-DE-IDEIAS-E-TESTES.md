@@ -22,7 +22,7 @@
 |---|---|---|
 | Conteúdo repetido (mentoria de 23/11) | nora75 (arquivos novos) × nora76 (1:22 do nora75 reaproveitado ~6 h depois) | **lido em 24/11 11h06 (~16 h × ~10 h):** Insta 546 e subindo × 135 parado desde a 2ª hora, com o skip e o tempo iguais; Face 223 (+0,8x) × 492 (+2,8x). Confirmar com 24 h (25/11 ~01h15) e passar para os "Fechados" |
 | A Nora sem a pintura, na cópia da maioria (sofá, camiseta preta, dia) | nora75 e nora76 × os falados com a pintura (nora69 a nora74) | junto com o de cima |
-| **O corpo (o item 2)** | nora77, 19h30 (o corpo da maioria) × nora78, 0h00 (o corpo leve); o mesmo Take 1 no Insta e o mesmo sofá; a roupa muda (cinza × azul-marinho, 24/11 17h13, regra do aluno de 11h10) e o ângulo do nora78 gira ~30°; no Face, o T01F do nora78 diz "pay close attention" no lugar do "be very careful" (24/11 18h20, P42) | 25/11 ~19h30 e 26/11 ~0h00 (24 h de cada): visitas ao perfil e cliques |
+| **O corpo (o item 2)** | nora77, 19h30 (o corpo da maioria) × nora78, 0h00 (o corpo leve); o mesmo Take 1 no Insta e o mesmo sofá; a roupa muda (cinza × azul-marinho, 24/11 17h13, regra do aluno de 11h10) e o ângulo do nora78 gira ~30°; no Face, o take das letras do nora78 (o T10) diz "pay close attention" no lugar do "be very careful" (24/11 18h20, P42) | 25/11 ~19h30 e 26/11 ~0h00 (24 h de cada): visitas ao perfil e cliques |
 
 ### Próximos (nesta ordem)
 **O 1 e o 2 rodam juntos** (Clone R87, 24/11: o corpo é o de maior peso; o story custa 0 crédito e mede-se à parte: toques no adesivo por viewer, no story; visitas ao perfil por Reel, no corpo).
