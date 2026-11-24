@@ -2030,7 +2030,7 @@ c) "A legenda japonesa prejudicou só os 2 vídeos" (R29) e "voltar a 3 por dia 
 - **Sem como conferir:** a aula 66 (0:13:33 a 0:17:06): só temos o resumo (`AULA-02-11-DO-MEDO-AO-DESEJO.md`), e a ideia bate ("o fim do mês, as contas…", "sem sofrer tanto").
 - **O que muda:** (1) **o corpo e o story rodam juntos**, medidos separado (o story: toques no adesivo por viewer; o corpo: visitas ao perfil por Reel); (2) o trio de signos segue depois do corpo, **dito logo no começo** (como a mentoria pede), e a pergunta "signo vende ou só dá view" vai na R88; (3) a seta grande fica por último no quadro, a 0 crédito, com a aula 26 a favor. **Vai a R88**, montada sem o aluno pedir (a regra de 19/11).
 
-## R88 (24/11/2026 09h15, montada sem o aluno pedir, pela regra de 19/11; resposta pendente): as citações erradas da R87, a seta, os signos, os dois corpos com 0 visita e o "gift"
+## R88 (24/11/2026 09h15, montada sem o aluno pedir, pela regra de 19/11; respondida e colada às ~11h25, conferida às 11h29): as citações erradas da R87, a seta, os signos, os dois corpos com 0 visita e o "gift"
 - **O texto (3297 caracteres):**
 
 ```
@@ -2059,7 +2059,7 @@ A leitura custa US$ 19 depois do quiz. O "presente" da aula 55 (0:44:46) vem num
 O story e o corpo podem rodar na mesma semana se eu medir separado (toques no adesivo por viewer, no story; visitas ao perfil por Reel, no corpo)? Ou a mudança do story atrapalha a leitura do corpo?
 ```
 
-## R89 (24/11/2026 11h15, montada a pedido do aluno: "tem algo falando isso nas aulas? vale perguntar algo pro gustavo no clone?"; resposta pendente; vai depois da R88): replicar o vídeo que foi bem, os clones da call de 06/11 × o "flag" da mentoria de 23/11
+## R89 (24/11/2026 11h15, montada a pedido do aluno: "tem algo falando isso nas aulas? vale perguntar algo pro gustavo no clone?"; respondida e colada às ~11h25, conferida às 11h29): replicar o vídeo que foi bem, os clones da call de 06/11 × o "flag" da mentoria de 23/11
 - **O texto (1747 caracteres):**
 
 ```
@@ -2079,4 +2079,46 @@ c) quando parar (quantos clones abaixo da média)?
 
 4) O CASO DE 100 MIL
 Em alguma aula, um aluno teve um vídeo de poucas views que, replicado, passou de 100 mil? Cite a aula e o minuto. (No Discord, o Adão Gomes contou isso em 28/10, e o Caio1094 foi de 1 mil a 100 mil com variação de edição.)
+```
+
+**R88 e R89 (o que ele disse; texto inteiro, com os trechos das aulas que ele mostrou como fonte, em `CLONE-ORIGINAIS/2026-11-24-R88-R89-citacoes-seta-signos-corpo-replicar.md`):**
+- **R88:** (1) confirmou as 4 citações erradas e trouxe a fonte do 80/20 dos signos (aula 18, 1:11:57); (2) **a seta grande vira padrão fixo da edição, sem teste** (aula 26, 0:39:29): o "não gaste energia" era sobre não tratar a seta como a causa dos 0 cliques; (3) signo no Take 1 traz view, não venda: para virar visita, o corpo tem de ligar logo a uma dor ou desejo amplo; (4) com 150 a 300 views e ~0 visitas, "o gargalo está antes do corpo", no gancho (aula 19, 0:43:03; aula 70, 1:04:31); o corpo A vende na maioria por volume; (5) nenhuma aula compara story com e sem "gift" nem liga o "gift" a chargeback (opinião); chargeback vem de promessa falsa ou agressiva (aula 51 e uma "aula 71", 0:27:14); (6) **o story e o corpo podem rodar na mesma semana**, medidos separado.
+- **R89:** (1) o nora76 travou no Insta por reaproveitar o arquivo; no Face, a amostragem é independente, mas repetir trechos idênticos na mesma Página tem risco (opinião); (2) **os "clones" da call de 06/11 são vídeos gerados de novo ou com variação de edição; o "flag" é o mesmo arquivo repostado** (aula 57, 0:05:58; Estrutura Facebook, 1:04:28 a 1:04:42); (3) mudar primeiro o gancho com o corpo intacto (aula 28, 0:06:15 e 0:38:35); 4 a 6 por dia com 1 a 2 h (call de 18/11, 0:08:13; Estrutura Facebook, 0:57:50); parar depois de ~10 vídeos (aula 25, 1:25:48); (4) os casos: a aula 31 (0:18:41, um vídeo de 100 mil variado no gancho, e os 5 seguintes com 100, 70 e 50 mil), a aula 32 (0:44:41, o Gustavo "spamando a copy" 40 vídeos até entregar; o Kaique validou no vídeo 90) e a "aula 28" (0:52:14, 5 milhões com formato novo).
+
+**Conferido (24/11 11h29):**
+- **Bate:** a aula 18 (1:11:57: "Signo é o 80-20 do nicho… 80% do conteúdo do viral do nicho é signo", numa aula de junho em que o Iorhan diz que ninguém rodava signo ainda); a aula 18 (1:18:29: a copy rodada em 50 avatares que não escala "é a cópia"); a aula 19 (0:43:03); a aula 57 (0:05:58 a 0:06:09); a Estrutura Facebook, aula 16 (1:04:28 a 1:04:42; 0:57:43 a 0:57:59; e 0:52:06: o Face tinha 71% das vendas e o Insta 28%, em 29/05); a call de 18/11 (0:08:13); a aula 28 (0:06:15 a 0:07:33 e 0:38:35 a 0:39:07; no projeto, `TRANSCRICOES/2026-07-10-variacoes-de-criativos-e-avatares-iorhan.md`); a aula 31 (0:18:02 a 0:19:00); a aula 32 (0:44:26 a 0:44:49); a aula 21 (0:52:14 e 0:53:47).
+- **Erradas ou fora do contexto:**
+  - o caso dos 5 milhões é da **aula 21**, não da 28 (os trechos que ele mesmo colou dizem "Aula 21"), e é formato novo, não réplica;
+  - a **aula 25 (1:25:48)** é sobre insistir numa conta que floppa ("I would insist on this account… about 10 videos"), não sobre quando parar de replicar: opinião;
+  - o **0,3% de chargeback é da aula 51 em 0:42:55** (21/09), e a "aula 71" (0:27:14) é a call do Kobata de 11/11, que diz o contrário: "O nosso número de chargeback aumentou", com as "promessas agressivas" (0:27:05 a 0:27:47);
+  - na R88 (4), a aula 19 e a aula 70 falam de **views**, não de visitas ao perfil: o nora75 teve 546 views e 2 visitas.
+- **Sem como conferir:** a aula 36 (1:45:53 a 1:47:19: "70% pra mais do mesmo e 30% pra inovação… muitos repetem o mesmo gancho todo dia… e isso vai travando"); não temos a transcrição (o trecho veio colado por ele).
+- **Contradições:**
+  - **(a) A aula 28 (0:07:33: "só pegassem o novo gancho e colocassem antes", o corpo sem mudar) e a aula 31 (0:18:41) contra o nosso nora76** (o mesmo arquivo do corpo com Take 1 novo parou em ~135 no Insta) e a mentoria de 23/11 ("dá um flag"). A aula 57 (0:05:58) sugere que o que salva é a variação de 1% a 20% do AutoEditor. Vira teste (`FILA`): no Insta, Take 1 novo + o mesmo corpo com variação de edição × tudo gerado de novo (o teste economiza ~12 clipes do Muse por post).
+  - **(b) A Estrutura Facebook (1:04:42): o mesmo vídeo 5 ou 6 vezes deu restrição** (no Insta). No Face da Nora, o mesmo corpo com abertura nova foi 3 vezes e foi bem; o limite é a pergunta da R90.
+- **O que muda:**
+  - **a seta grande vira o padrão do nora77 em diante, sem teste** (aula 26, 0:39:29; R88), com o ok do aluno (o estilo é decisão dele); sai do quadro de testes;
+  - **o story com "gift" e o corpo rodam juntos**, medidos separado (confirmado);
+  - **o trio de signos fica no quadro, medido por visitas e cliques, não por views** (aula 18, 1:11:57, e a mentoria, 0:11:47: signo dá atenção, não venda);
+  - **o corpo A ganha mais um contra: o risco de chargeback** das promessas agressivas (call do Kobata, 11/11, 0:27:05 a 0:27:47): o corpo A do nora75 promete dinheiro inesperado e "notícia incrivelmente boa amanhã às 10"; o teste do nora77 segue, e esse risco entra na leitura;
+  - a Estrutura Facebook (29/05) diz que o Face tinha 71% das vendas: reforça o peso do Face, onde vieram os 3 cliques de hoje.
+- **Vai a R90**, montada sem o aluno pedir.
+
+## R90 (24/11/2026 11h29, montada sem o aluno pedir, pela regra de 19/11; resposta pendente): visitas ao perfil, o mesmo corpo com gancho novo no Insta, o limite do mesmo corpo no Face e o chargeback do corpo A
+- **O texto (2466 caracteres):**
+
+```
+Gustavo, conferi a R88 e a R89 com as transcrições. Quase tudo bate (aula 18, 1:11:57; aula 57, 0:05:58; Estrutura Facebook, 1:04:28 e 0:57:50; aula 31, 0:18:41; aula 32, 0:44:41; call de 18/11, 0:08:13). Ficaram 4 pontos. Para cada um, diga a aula e o minuto e cole a frase exata; o que não tiver fonte, marque como opinião.
+
+1) VIEWS × VISITAS AO PERFIL
+Você respondeu que, com 150 a 300 views e ~0 visitas, o gargalo é o gancho (aula 19, 0:43:03; aula 70, 1:04:31). Mas os 2 trechos falam de views, não de visitas. O nora75 resolveu as views (546 com a curva subindo, a Índia fora do top 5) e teve 2 visitas ao perfil e 0 follows; os nossos campeões de 06 a 10/11 (1,6 mil a 2 mil views) trouxeram 10 a 19 follows cada. Que aula trata de "o vídeo entrega e ninguém vai ao perfil"? O que ela manda mudar: o CTA falado, a faixa, a seta, a bio, os destaques ou o story?
+
+2) O MESMO CORPO COM GANCHO NOVO NO INSTA
+A aula 28 (0:07:07 a 0:07:33) manda pegar o vídeo que vende e "só pegassem o novo gancho e colocassem antes", sem mudar o corpo; a aula 31 (0:18:41) conta 5 vídeos de 100 mil, 70 mil e 50 mil assim. O nora76 fez exatamente isso no Insta e parou em ~135. A diferença é a variação de 1% a 20% do AutoEditor (aula 57, 0:05:58: "a gente foge de conteúdo reutilizado")? Alguma aula de outubro ou novembro diz se o empilhamento com o mesmo arquivo do corpo ainda funciona no Insta, ou se precisa dessa variação?
+
+3) O MESMO CORPO NA MESMA PÁGINA DO FACE
+Na Estrutura Facebook (1:04:28 a 1:04:42): "o mesmo vídeo em si não é tão interessante… tentei postar o mesmo vídeo 5, 6 vezes, eu tomei algumas restrições" (no Insta). No Face da Nora, o mesmo corpo com abertura nova já foi 3 vezes e foi bem (o nora76-FACE: 492 views, +2,8x, 7 seguidores, 1 clique). Alguma aula diz quantas vezes o mesmo corpo pode voltar na mesma Página antes do risco de restrição? Se não, marque como opinião.
+
+4) CHARGEBACK E O CORPO A
+A taxa de 0,3% é da aula 51 (0:42:55, 21/09). Na call do Kobata de 11/11 (0:27:05 a 0:27:47): "as vendas… com as promessas agressivas e o cara vai lá e dá chargeback… O nosso número de chargeback aumentou" (retenção de 25%). O corpo A da maioria promete "money… appear in your life unexpectedly" e "tomorrow at ten in the morning you'll receive incredibly good news". Alguma aula diz quais promessas geram chargeback no Manifestation? Isso pesa contra o corpo A mesmo que ele traga mais cliques?
 ```
