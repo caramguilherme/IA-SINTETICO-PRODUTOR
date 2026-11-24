@@ -4,7 +4,14 @@
 
 **Quem foi analisado:** o "Arcanjo" (desde o começo da Appyon, 5 contas, 2 a 3 posts por conta por dia, ~75 vendas, "travou") e o Kelvin (4 contas, 2 Insta e 2 Páginas, ~1 mês e meio, 0 venda, 16 checkouts numa conta). Depois, perguntas do chat.
 
-**Não deu para ver:** a tela do Gustavo (as contas, o prompt "FaceBlend", os vídeos do Scoped e os vídeos dele feitos no Muse e no Grok aparecem só pelo áudio da transcrição) e os links da barra lateral do Loom (são da conta de quem gravou, não da aula; não abri).
+**O vídeo foi assistido em 24/11 ~01h58** (o aluno mandou o link; o Loom foi liberado na rede do ambiente: www.loom.com, cdn.loom.com e luna.loom.com; baixado em 720p com o yt-dlp e olhado por quadros nos trechos de tela; os quadros principais estão em `MATERIAIS-MENTORIA-23-11/`). **Não abri** os links da barra lateral do Loom (são da conta de quem gravou, não da aula). Os trechos do aquecimento de 10 mil views e do pré-hook "com as pernas" (0:15:07 a 0:17:08) não foram olhados quadro a quadro.
+
+## O que se vê na tela (24/11, pelos quadros do vídeo)
+- **As contas do Arcanjo (0:03:35 a 0:05:45; `01-…jpg` e `02-…jpg`):** a mesma senhora de cabelo grisalho longo em quase todos os quadros da grade, sempre no escuro, à luz de vela, com cartas, penas e cristais; cada post com 100 a 500 views. É o "tudo igual" e o "cinematográfico" de que ele fala. **A Nora até o nora74 tinha esse mesmo jeito** (a leitora mística à luz de vela).
+- **O FaceBlend (0:09:48; `03-…jpg`):** o prompt começa com "Use the two uploaded reference images to create a completely new, realistic human face by blending the facial features of both individuals". Parte de 2 fotos de pessoas reais: fica fora (a nossa regra).
+- **Os virais do Scoped nos últimos 8 a 13 dias (0:20:22 a 0:21:28; `04-…jpg`):** um homem no carro com um pote na mão (1,0 mi, 1:41); um homem no carro com o 222 (1,0 mi, 2:10); "IF YOUR NAME" com o 222 (1,3 mi, 2:40); uma senhora no banheiro, de toalha, com "When the money comes, don't you dare open your mouth" (896 mil, 1:41). Bate com a mineração de 23/11: o carro, o objeto na mão, as letras do nome, o banheiro e a frase do dinheiro, com 1:40 a 2:40.
+- **As contas do Kelvin (0:31:41 a 0:34:40; `05-…jpg`):** gente comum de dia, na cozinha, na rua, no café e no carro, com roupas e cenários que mudam de um post para outro; o story com "You are not reading this by chance. Your greatest blessing is closer than you imagine" e o adesivo "TAP TO CONTINUE" (o mesmo adesivo do story da Nora).
+- **O vídeo do Gustavo feito no Muse (0:40:15 a 0:41:30; `06-…jpg`):** um senhor de chapéu numa cozinha clara, de dia, com a **bandeira dos EUA na parede**, um copo de água com limão na mão, vários enquadramentos (o copo, o prato) e a legenda branca com a palavra-chave em itálico serifado ("gut", "energy"). É o "UGC, câmera de celular, casa simples" que ele defende.
 
 ## O que serve para a Nora
 
