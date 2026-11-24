@@ -1209,3 +1209,32 @@ Pergunta: "que signos foi falado/escrito nos videos de mais views da nora? tem a
 - **Face, o nora75 fraco = a abertura de produto:** os hooks de produto no Face travaram em 13 e 14/11 (bicarbonato 28,3% nos 3 s; canela 9 views); e o padrão "bem no Insta, mal no Face" já aconteceu com o mesmo corpo A limpo (nora48: Insta 1.638, Face 186; nora49: 2.043 e 243; nora50: 1.678 e 28).
 - **Face, o nora76 bom = as letras do nome:** a abertura das letras já foi bem no Face (nora73-FACE 307, +0,9x; o ini1811-FACE trouxe 2 cliques), e o Face não pune o mesmo corpo no mesmo dia (nora72-FACE ~5 h depois: 319 × 323; nora73-FACE ~17 h depois: +0,5x). Se o nora76-FACE fechar bem com ~24 h, é o 3º caso contra a regra "nunca -FACE do mesmo corpo no mesmo dia" (decisão do aluno).
 **Pedido ao aluno:** os prints do Insights do Insta (views, skip, 3 s, visitas ao perfil, países) e a Biblioteca do Face, dos dois.
+
+## 24/11/2026 10h55: a Biblioteca do Face inteira e os Insights do nora75-FACE e do nora76-FACE
+**Fonte:** a lista da Biblioteca em texto (29 posts, do nora76-FACE ao nora55) e os Insights dos 2 posts, colados pelo aluno; CSV posto em dia (os 29). O 1º item da lista (2 views, 1 visualizador, sem distribuição) é um post mais novo que o nora76-FACE e não sei qual é: pergunta ao aluno.
+
+| | nora75-FACE (a canela) | nora76-FACE (as letras) |
+|---|---|---|
+| Postado | 23/11 19h28 (17h28 na costa leste) | 24/11 01h11 (23h11 na costa leste) |
+| Idade na leitura | ~15h26 | ~9h43 |
+| Views / visualizadores | 223 / 206 | **492 / 445** |
+| Distribuição | +0,8x | **+2,8x** |
+| 3 s | 97 (43,5%) | 211 (42,9%) |
+| Tempo médio / % assistida / aos 20 s | 13 s / 20% / 18,1% | 14 s / 20% / 18,9% |
+| Maior queda | aos 0:02 | aos 0:02 |
+| Views de 1 min | 14 | 29 |
+| Engajamento (reações) | 6 (5) | 24 (14 + 2) |
+| Seguidores novos | 1 | **7** |
+| Cliques no link | "não disponível" | **1** |
+| 45+ | 63,1% | 73,1% (65+: 24% contra 15,8%) |
+| Países | sem dados ainda | EUA 66,8%, Austrália 11,8%, Canadá 10%, Reino Unido 8,1% |
+
+**O que os números mostram:**
+- **A retenção é a mesma nos dois** (3 s, tempo médio, % assistida, 20 s e a queda aos 0:02). **A abertura da canela não perdeu mais gente que a das letras no Face:** a minha hipótese das 09h20 ("o Face foi mal por abrir com produto") não se sustenta com estes números.
+- **O que difere é o engajamento e os seguidores:** 4,9% das views do nora76-FACE viraram engajamento, contra 2,7% no nora75-FACE, e 7 seguidores contra 1. As letras do nome fazem a mulher se reconhecer ("o meu nome começa com J"), e o Face empurra o que gera reação e seguidor. A 2ª variável é o horário (17h28 × 23h11 na costa leste), que não dá para separar com 2 posts.
+- **Pela planilha inteira (`recordes.py`), o nora76-FACE já é o 2º da Página em views, em seguidores, em distribuição e em tempo médio**, atrás só do nora55 (4.243, +9,1x, 44 seguidores), com menos de 10 h. As letras do nome já tinham ido bem no Face (nora73-FACE: 309, +0,8x).
+- **O mesmo corpo na mesma Página ~5h43 depois não travou: foi melhor.** É o 3º caso contra a regra "nunca -FACE do mesmo corpo no mesmo dia" (nora72-FACE ~5 h depois, nora73-FACE ~17 h depois e agora o nora76-FACE). A regra pode cair (decisão do aluno).
+- **O 2º clique medido por post no Face** (o 1º foi o ini1811-FACE, 2 cliques).
+- **nora74-FACE com ~24 h:** 212 views, −0,4x, 6 s, 32,5% nos 3 s (a versão de 36 s): fraco.
+- **O resto da lista mudou pouco** desde 22/11 (nora73-FACE 309, nora71-FACE 337, nora70-FACE 215).
+**Falta:** o Insta do nora75 e do nora76 (o lado do teste do conteúdo repetido), com ~24 h do nora75 (~19h15 de hoje).
