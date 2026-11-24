@@ -1189,3 +1189,14 @@ Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, co
   - Bate com o Face (a maior saída aos 0:02; 30,8% nos 3 s), com a aula 31 (0:07:20, a fórmula repetida cansa) e com a regra "cada post do Insta com um Take 1 novo".
   - **Para hoje:** o nora75 e o nora76 têm a abertura nova (a Nora sem a pintura, o carro, a fala desde o 1º quadro), e o corpo repetido do nora76 é o caso do nora49. Seguem como estão.
 - **17h49, o Status da conta do Insta (print do aluno, relógio do GeeLark 12:47 na Califórnia):** "Your account meets all our guidelines". Tudo verde: Features, Content and message removals, **Recommendation eligibility**, Availability to people under 18 e Monetization. A conta pode ser recomendada. Fica a abertura cansada como causa dos 14 views.
+
+## 24/11/2026 02h12: os signos nos vídeos de mais views (pergunta do aluno, depois da mentoria de 23/11)
+Pergunta: "que signos foi falado/escrito nos videos de mais views da nora? tem alguma coincidencia?". Do CSV inteiro (Insta; os signos saem do título, da legenda e do obs de cada linha):
+- **Fogo (Áries, Leão, Sagitário), 8 posts:** 107, 120, **2.815** (placa nora35), **2.895** (placa nora38), **1.416** (nora40), 478, **2.043** (nora49), **1.678** (nora50). Mediana 1.547; 57 follows (7,1 por post). Mais o loop nora64 (Áries, Leão, Libra e Sagitário): 2.204.
+- **Terra (Touro, Virgem, Capricórnio), 7 posts:** 26, 122, 693, 983, **3.742** (fita nora45), 579, 14 (nora74). Mediana 579; 30 follows (4,3 por post).
+- **Água (Câncer, Escorpião, Peixes), 4 posts:** 206, 137, **3.589** (fita nora41), **1.638** (nora48). Mediana 922; 15 follows (3,8 por post).
+- **Ar (Gêmeos, Libra, Aquário), 3 posts:** 135, **3.320** (placa nora36), 419. Mediana 419; 7 follows (2,3 por post).
+
+**A coincidência:** o fogo aparece em 6 dos 15 maiores do Insta (nora38, nora35, nora64, nora49, nora50, nora40), tem a maior mediana e o maior número de follows por post, e os 2 únicos vídeos com signo em que os EUA ficaram em 1º lugar são de fogo (nora49, EUA 30%; nora50, EUA 38,9%).
+**O que não deixa afirmar que é o signo:** (1) cada um dos 5 maiores é de um trio diferente (terra, água, ar, fogo, fogo): quem levantou as views foi o formato (a placa e a fita, texto na tela, curtos, com 20% a 55% de Índia), não o trio; (2) o fogo foi o trio mais usado e caiu nos posts mais maduros da conta (os campeões do tsunami de 06 a 10/11); (3) o nora49 e o nora50 saíram às 19h31 e à 00h11 (a janela sem Índia), e o nora48 (água), à 01h10; (4) os primeiros vídeos com signo (19 a 26/10, de todos os trios) ficaram entre 26 e 206.
+**Teste proposto (`FILA`):** o mesmo corpo e o mesmo horário, só trocando o trio do Take 1 (fogo × outro), para saber se o fogo é o "signo que dá bom nesta conta" que o Gustavo manda descobrir (mentoria de 23/11, 0:24:19 a 0:24:53).
