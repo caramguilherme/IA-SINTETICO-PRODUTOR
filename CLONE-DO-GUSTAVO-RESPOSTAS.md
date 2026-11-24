@@ -2012,3 +2012,49 @@ c) "A legenda japonesa prejudicou só os 2 vídeos" (R29) e "voltar a 3 por dia 
 - **O que muda:** (1) **nada de vídeos só de engajamento na Nora** (a R85 fica: sem fonte para conta em venda); nas contas novas, o aquecimento pode ser mais longo (aula 25); (2) **o pedido de engajamento depois do CTA vira o que é: o costume das aulas 65 e 66 sem prova de resultado**; a regra fica (a fala termina no CTA; o 222 só na legenda), e o nora74 (selos antes do story) é o braço contrário; (3) **o 2 por dia no Insta da Nora não tem fonte em aula**: é a recuperação dos nossos números (10 a 12/11); as aulas 25 (0:13:12, 0:16:54, 0:54:24) e 51 (1:09:39) e a call de 16/11 falam em 4 a 6 por conta, e a "rotina final" de 3 por dia acima de 500 (R35) foi opinião. O teste 2 × 4 por dia da `FILA` ganha peso; decisão do aluno.
 - **Não precisa voltar ao Clone.**
 
+
+## R87 (24/11/2026 ~02h40, montada a pedido do aluno; respondida às 02h43, conferida às 09h15, depois da pausa do limite de uso): os 4 testes da fila (o story com "gift", o corpo A × o leve, o trio de signos, a seta)
+- **A pergunta:** se alguma aula diz que um dos 4 testes não vale ou que a ordem deveria ser outra (texto inteiro em `CLONE-ORIGINAIS/2026-11-24-R87-fila-de-testes.md`).
+
+**R87 (o que ele disse):** (1) o story com "gift" vale testar já ("uma das palavras mais validadas"); (2) **o corpo A "não vale a pena continuar rodando"** (a aula 65 critica a ameaça, as correntes e os selos antes do CTA: leads negativos que não clicam) e o leve com a dor das contas e o motivo do clique vende mais (aula 66); (3) o trio de signos vale ("o 80/20 da atração no nicho"); (4) a seta é baixíssima prioridade. **A ordem dele:** o corpo, o story, os signos e a seta.
+
+**Conferido (24/11 09h15):**
+- **Bate:** a aula 54 ("Yorgift, seu presente está aqui", em 1:39:45, não 1:39:18); a aula 55 (0:44:46: "Deixei um presente especial para você lá", mas dentro de uma copy black com "Esta é sua última chance", linhas 342 a 364); a aula 65 (0:22:11, "uma montanha de lides negativos"; 0:23:23 a 0:23:41, a qualificação saudável pelas contas; 0:48:47 a 0:51:39, o desejo e o motivo do clique); o "future pacing negativo" existe na aula 65, mas em ~0:28:24 (copiar a fórmula de medo de um nicho de doença); a aula 57 (0:32:01 a 0:32:39) e a aula 40 (0:19:38 a 0:20:06) só mostram o editor mexendo no tamanho da seta, sem teste, como ele disse.
+- **Erradas:**
+  - **aula 65 (1:03:13):** não há "gift" na aula 65. O "financial gifts / money gifts" é da **aula 46 (1:02:51 a 1:03:22)**, numa lista de "palavras virais", logo antes de "Outra, muito boa e muito black… Limitless". O minuto está certo e a aula não;
+  - **aula 12 (0:34:37 a 0:36:15):** fala em mudar o mecanismo do CTA (compatibilidade do zodíaco, "perfect love match") para lateralizar um viral, e não em alternar trios de signos no gancho;
+  - **aula 21 (1:11:30 a 1:16:02):** é o "signo falante" num anúncio pago ("O anúncio não tá escalado… 77 likes") e a ideia de direcionar a copy por signo ou data de nascimento ("uma nova fatia de público"); **o "80% do conteúdo viral" não está lá** (a única menção a 80% na aula é a divisão do tráfego entre funis);
+  - **aula 19 (1:14:39):** é sobre a **cor** da seta ("eu gosto de seta verde… não vai mudar nada se você botar uma seta vermelha também"), não sobre o tamanho.
+- **Deixou de fora:** a aula 26 (0:39:29): "No. You have to make it giant, the arrow." (a única fala sobre o tamanho da seta).
+- **Contradiz:** (a) **os signos:** na mentoria de 23/11 (0:11:47 a 0:13:41), o Gustavo diz que a conta "só de signos… pegava views pra caramba… não vende", que revelar 3 signos no fim tira os outros 9 do vídeo e que "isso é só um achismo"; (b) **o corpo:** o "não vale a pena" vai contra a decisão do aluno de 23/11 (fazer igual à maioria: 31 de 40 vídeos com o corpo A) e esquece que o nosso corpo leve já rodou 3 vezes (nora71 a nora73) com 0 a 1 visita e 0 clique, como o corpo A da claire_mayaus (nora69 e nora70). Pela regra "contradição vira teste", o A × leve fica como teste, não como decisão.
+- **Sem como conferir:** a aula 66 (0:13:33 a 0:17:06): só temos o resumo (`AULA-02-11-DO-MEDO-AO-DESEJO.md`), e a ideia bate ("o fim do mês, as contas…", "sem sofrer tanto").
+- **O que muda:** (1) **o corpo e o story rodam juntos**, medidos separado (o story: toques no adesivo por viewer; o corpo: visitas ao perfil por Reel); (2) o trio de signos segue depois do corpo, **dito logo no começo** (como a mentoria pede), e a pergunta "signo vende ou só dá view" vai na R88; (3) a seta grande fica por último no quadro, a 0 crédito, com a aula 26 a favor. **Vai a R88**, montada sem o aluno pedir (a regra de 19/11).
+
+## R88 (24/11/2026 09h15, montada sem o aluno pedir, pela regra de 19/11; resposta pendente): as citações erradas da R87, a seta, os signos, os dois corpos com 0 visita e o "gift"
+- **O texto (3297 caracteres):**
+
+```
+Gustavo, conferi a tua resposta (os 4 testes) com as transcrições. A ordem faz sentido, mas 4 citações estão erradas e 3 pontos contradizem outras fontes. Para cada item, diga a aula e o minuto e cole a frase exata; o que não tiver fonte, marque como opinião.
+
+1) CITAÇÕES ERRADAS (confirme ou corrija em 1 linha cada)
+a) Aula 65 (1:03:13): não há "gift" na aula 65. O "financial gifts / money gifts" é da aula 46 (1:02:51 a 1:03:22), numa lista de "palavras virais", logo antes de "Outra, muito boa e muito black… Limitless".
+b) Aula 12 (0:34:37 a 0:36:15): fala em mudar o mecanismo do CTA (compatibilidade do zodíaco, "perfect love match") para lateralizar um viral. Não fala em alternar trios de signos no gancho.
+c) Aula 21 (1:11:30 a 1:16:02): é o formato do "signo falante" num anúncio pago ("O anúncio não tá escalado… 77 likes") e a ideia de direcionar a copy por signo ou data de nascimento. O "80% do conteúdo viral" não está lá.
+d) Aula 19 (1:14:39): fala da COR da seta ("eu gosto de seta verde… não vai mudar nada se você botar uma seta vermelha também"), não do tamanho.
+(A aula 54 é 1:39:45, não 1:39:18; a frase bate.)
+
+2) A SETA
+Você deixou de fora a aula 26 (0:39:29): perguntado se dava para fazer uma versão sem a seta, o Gustavo responde "No. You have to make it giant, the arrow." Com isso, a seta grande vira o padrão sem teste (ela custa 0 crédito), ou o "não gaste energia" continua? Por quê?
+
+3) OS SIGNOS
+Na mentoria individual de 23/11 (0:11:47 a 0:13:41), o Gustavo diz que uma conta "só de signos… pegava views pra caramba… só que não vende… vendeu umas 10, 15", que revelar 3 signos no fim faz os outros 9 saírem ("ou tenta abranger todos os signos, ou especializa tua conta") e que "isso é só um achismo… não estou trabalhando tanto com signos". Como isso fica com "o gancho de signos é o 80/20 da atração"? O nosso gargalo é o clique, não só a view: signos no Take 1 ajudam a vender ou só a ter view?
+
+4) O CORPO
+A aula 65 condena o corpo A, mas: (a) na mineração de 23/11, 31 de 40 vídeos das contas da Auraly usam esse corpo, e o aluno vê contas de 10 a 15 mil seguidores vendendo com ele; (b) o nosso corpo leve já rodou 3 vezes (nora71, nora72, nora73: os 3 sinais, sem ameaça, CTA "Three quick questions, and your private reading is ready"): 136 a 246 views, 0 a 1 visita ao perfil, 0 clique. O corpo A da claire_mayaus também deu 0 visita (nora69, nora70). Se os dois corpos dão quase 0 visita ao perfil, o problema está antes do corpo (o Take 1, a conta, a avatar)? Que aula diz o que fazer quando o vídeo entrega 150 a 300 views e quase ninguém visita o perfil, com qualquer corpo?
+
+5) O "GIFT" NO STORY
+A leitura custa US$ 19 depois do quiz. O "presente" da aula 55 (0:44:46) vem numa copy com "Esta é sua última chance". Alguma aula fala de reclamação, reembolso ou chargeback de quem chega pelo "your gift is here" e encontra o pagamento? E "uma das palavras mais validadas" tem algum número (story com "gift" contra sem "gift")? Se não, marque como opinião.
+
+6) A ORDEM
+O story e o corpo podem rodar na mesma semana se eu medir separado (toques no adesivo por viewer, no story; visitas ao perfil por Reel, no corpo)? Ou a mudança do story atrapalha a leitura do corpo?
+```

@@ -12,6 +12,20 @@
 - **Os virais do Scoped nos últimos 8 a 13 dias (0:20:22 a 0:21:28; `04-…jpg`):** um homem no carro com um pote na mão (1,0 mi, 1:41); um homem no carro com o 222 (1,0 mi, 2:10); "IF YOUR NAME" com o 222 (1,3 mi, 2:40); uma senhora no banheiro, de toalha, com "When the money comes, don't you dare open your mouth" (896 mil, 1:41). Bate com a mineração de 23/11: o carro, o objeto na mão, as letras do nome, o banheiro e a frase do dinheiro, com 1:40 a 2:40.
 - **As contas do Kelvin (0:31:41 a 0:34:40; `05-…jpg`):** gente comum de dia, na cozinha, na rua, no café e no carro, com roupas e cenários que mudam de um post para outro; o story com "You are not reading this by chance. Your greatest blessing is closer than you imagine" e o adesivo "TAP TO CONTINUE" (o mesmo adesivo do story da Nora).
 - **O vídeo do Gustavo feito no Muse (0:40:15 a 0:41:30; `06-…jpg`):** um senhor de chapéu numa cozinha clara, de dia, com a **bandeira dos EUA na parede**, um copo de água com limão na mão, vários enquadramentos (o copo, o prato) e a legenda branca com a palavra-chave em itálico serifado ("gut", "energy"). É o "UGC, câmera de celular, casa simples" que ele defende.
+  - **Take por take (olhado quadro a quadro em 24/11 02h50, a pedido do aluno: "cada take é em um angulo da cozinha, com algo diferente na pia/bancada. gostei disso"; `08-video-muse-takes-0-40-32-a-0-41-32.jpg`, um quadro a cada 2 s do Loom):** ~60 s, ~10 takes. **O homem, a roupa (chapéu, cardigã verde, camisa rosa, gravata), a cozinha e a luz são os mesmos; muda a câmera (perto, de baixo, de longe, pela pia, pela bancada; a bandeira ora à esquerda, ora à direita) e o objeto na frente dele, que é o que a frase diz.**
+    1. Gancho, "Three signs your gut may be asking for help, and none of them is a stomachache": de baixo, pela pia, com a jarra de água com limão na frente; mostra 3 dedos.
+    2. "One: you bloat on your healthiest days": bem perto, inclinado, uma tigela de salada; aponta o dedo.
+    3. "Two: the 3 p.m. crash and the sugar craving": mais longe, a salada e um relógio de cozinha na bancada; ele aponta o relógio.
+    4. "Three: you eat less than ever and your middle doesn't change": um prato com um brócolis e uma fita métrica; ele pega a fita.
+    5. "None of these proves anything on its own. But if all three sound like you, the gut is a good place to look": de frente, o mesmo prato, a bandeira do outro lado.
+    6. "…because it means this was [never about discipline]": de longe, a bancada branca com uma xícara de chá, limão e gengibre.
+    7. "Imagine afternoons with steady energy, and a kitchen you walk [past without a fight]": perto, a caneca de chá de gengibre na mão, a pia com limões e gengibre.
+    8. "You're not the only one. A quick quiz shows which gut type you are": meio corpo, um copo de chá com limão na bancada; o celular na mão.
+    9. "…and a weight-loss specialist guides you from there, step by step": o celular na mão, outro enquadramento.
+    10. CTA, "Follow me and watch my Stories to take it. You don't have to carry this alone. I'm with you.": mais baixo, da esquerda, a caneca na mão, apontando para a câmera.
+  - **A fala é a estrutura dos "3 sinais"** (a mesma do roteiro 3 da pesquisa oficial e do nora71 e nora72), com a ressalva honesta ("None of these proves anything on its own"), o desejo em cena pequena (a tarde com energia) e o CTA de acolhimento. É do Risely (o intestino), não do Manifestation.
+  - **A legenda:** branca com contorno, 2 linhas, e a palavra-chave em itálico serifado (gut, bloat, sugar, energy).
+  - **O que isso pede na Nora:** uma imagem inicial por take (a mesma Nora, a mesma roupa e o mesmo cômodo, outro ângulo e o objeto da frase), geradas no Flow (imagem não gasta crédito) a partir da imagem base, e todos os clipes na mesma conversa do Muse (a voz). É o item "multi-ângulo" do quadro de testes da `FILA` (24/11).
 
 ## O que serve para a Nora
 
