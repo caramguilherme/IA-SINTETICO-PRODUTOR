@@ -19,7 +19,19 @@ assert FB.endswith('&aff=dl7zx6ks')
 ROUPA77 = 'her plain heather-gray crew-neck sweatshirt with no logo'
 ROUPA78 = 'her plain navy-blue crew-neck sweatshirt with no logo'   # 24/11 17h13: o nora78 com outra roupa (regra do aluno de 11h10: "mudar cenário, roupa")
 B23.ROUPA = ROUPA77
-BANDEIRA = 'a small American flag pinned flat high on the left side of the light wall behind her, small in the background, never covering her head'
+# 24/11 ~18h, o aluno não gostou da bandeirinha colada na parede: "tinha que estar como se fosse em um quadro, com moldura. ou ela pendurada… maior… de pé".
+# FLAG escolhe a versão do painel ('quadro' ou 'vertical'); as 2 frases de correção vão no chat.
+FLAG = 'quadro'
+FLAG_DESC = {
+    'quadro': ('a real American flag displayed inside a simple wooden picture frame with glass, hanging straight on the light wall behind her, high on the '
+               'left side, about the size of a small poster, like a framed flag in a real American living room, not touching her head'),
+    'vertical': ('a larger real American cloth flag hanging vertically from two small nails at its top corners on the left side of the light wall behind her, '
+                 'with the blue field of stars at the top left and soft natural fabric folds, from near the ceiling down to about her shoulder height, '
+                 'never covering her head or her face'),
+}[FLAG]
+FLAG_NOME = {'quadro': 'framed American flag', 'vertical': 'hanging American flag'}[FLAG]
+FLAG_PT = {'quadro': 'a bandeira dos EUA no quadro com moldura', 'vertical': 'a bandeira dos EUA grande, pendurada na vertical'}[FLAG]
+BANDEIRA = FLAG_DESC
 B23.CENA = ('Casual real video in the late afternoon in a cozy American living room, she sits on a gray fabric sofa with cushions behind her and a plain light wall '
             f'with {BANDEIRA}, filmed from a static camera about one meter in front of her at chest height, looking exactly like a real phone video, lit by soft natural '
             'window light. ')
@@ -39,17 +51,22 @@ IMG_A78, IMG_B78 = 'd2411-lado-IMG-A', 'd2411-lado-IMG-B'
 _FIM = B23._FIM
 PROMPT_A77 = ('Edit the attached photo. Keep everything exactly the same: the same woman, the same face, the same loose hair, the same gray sofa and cushions, the '
               'same clear stemmed glass of water and the same cinnamon jar in her hands, the same framing and the same light. Change only two things: (1) her black '
-              't-shirt becomes a plain heather-gray crew-neck sweatshirt with no logo; (2) on the plain light wall behind her, high on the left side, add a small '
-              'American flag pinned flat to the wall, small in the background, not touching her head. ' + _FIM)
+              't-shirt becomes a plain heather-gray crew-neck sweatshirt with no logo; (2) on the plain light wall behind her add ' + FLAG_DESC + '. ' + _FIM)
 PROMPT_B77 = ('The attached image is the approved photo. Keep everything exactly the same: the same woman, the same face, the same loose hair, the same heather-gray '
-              'sweatshirt, the same gray sofa, the small American flag on the wall, the same framing and the same light. Change only this: the cinnamon jar is gone; '
+              'sweatshirt, the same gray sofa, the same ' + FLAG_NOME + ' on the wall, the same framing and the same light. Change only this: the cinnamon jar is gone; '
               'with one hand she holds the clear stemmed glass at collarbone height, now filled with light-brown cinnamon water; her other hand is lowered, out of the '
               'frame; ' + _FIM)
 PROMPT_A78 = ('The attached image is the approved photo. Change only two things: (1) show the same moment from another camera position: the camera is about '
               '30 degrees to her right and a little closer, still at collarbone height, and she turns her face to look straight into the camera; (2) her heather-gray '
               'sweatshirt becomes a plain navy-blue crew-neck sweatshirt with no logo. Keep exactly the same woman, the same face, the '
               'same loose hair, the same gray sofa, the same clear stemmed glass of water and the same cinnamon jar tilted above it, '
-              'the same light, and the small American flag on the wall, now seen from the new angle and still small in the background. ' + _FIM)
+              'the same light, and the same ' + FLAG_NOME + ' on the wall, now seen from the new angle, never covering her head. ' + _FIM)
+def prompt_troca_bandeira(desc):
+    return ('Edit the attached photo. Keep everything exactly the same: the same woman, the same face, the same loose hair, the same heather-gray sweatshirt, '
+            'the same gray sofa and cushions, the same clear stemmed glass of water and the same cinnamon jar in her hands, the same framing and the same light. '
+            'Change only the flag on the wall: remove the small flag pinned flat to the wall and put in its place ' + desc + '. ' + _FIM)
+
+
 PROMPT_B78 = (PROMPT_B77.replace('the same heather-gray sweatshirt', 'the same navy-blue sweatshirt')
               .replace('the same framing and the same light', 'the same new camera angle, the same framing and the same light'))
 assert 'navy-blue' in PROMPT_B78 and 'heather-gray' not in PROMPT_B78 and 'navy-blue' in PROMPT_A78
@@ -124,8 +141,8 @@ def nome(pref, sufs, i):
 
 def livre():
     t = B23.livre().replace('the gray sofa and the cushions stay exactly as in the reference image',
-                            'the gray sofa, the cushions and the small American flag on the wall stay exactly as in the reference image')
-    assert 'small American flag on the wall stay' in t and ROUPA in t
+                            'the gray sofa, the cushions and the ' + FLAG_NOME + ' on the wall stay exactly as in the reference image')
+    assert FLAG_NOME + ' on the wall stay' in t and ROUPA in t
     return t
 
 
@@ -189,7 +206,7 @@ def agente(P, n, img_a, img_b, nomes, t01, extras, rotulo, intro_extra=''):
               f'Renomeie pela ordem da mensagem 2: {lista}.']
     for k, (titulo, prompt) in enumerate(extras, start=3):
         passos.append(f'MENSAGEM {k} ({titulo}, só para o Face): anexe a {img_b} e cole este prompt. PROMPT: ' + prompt)
-    passos += [f'Confira cada take: sem a lua e sem as estrelinhas no rosto; o moletom {ROUPA_PT}; a bandeirinha na parede; o copo na mão; ela fala uma vez só e fecha a '
+    passos += [f'Confira cada take: sem a lua e sem as estrelinhas no rosto; o moletom {ROUPA_PT}; {FLAG_PT}; o copo na mão; ela fala uma vez só e fecha a '
                'boca no fim. Se o Muse recusar: “Generate prompt X again, exactly as written.”',
                'Se a voz de algum take sair diferente das outras, gere aquele de novo na mesma conversa, pedindo “exactly the same voice as the other clips of this video”.']
     ag['passos'] = passos
@@ -211,15 +228,19 @@ def nora77():
     n_letras, n_cta = 'd2411-cinza-T01F-letras', 'd2411-cinza-T12F-cta-comentario'
     imagens_secao(P, 'As 2 imagens (Flow, antes dos takes)',
                   ('O nora75 gerado de novo, do 1º ao último take (o Insta derruba o arquivo reaproveitado), com outra roupa: o mesmo sofá, a mesma canela no copo, '
-                   'agora de moletom cinza liso, e a bandeirinha dos EUA pequena na parede atrás. A Nora sem a pintura.'),
+                   f'agora de moletom cinza liso, e {FLAG_PT} na parede atrás. A Nora sem a pintura.'),
                   [{'titulo': 'Imagem A: despejando a canela no copo (o T01)', 'nome': IMG_A77, 'tipo': 'img',
                     'anexar': f'só a {IMG75_A} (a imagem A do nora75, a de camiseta preta despejando a canela)',
-                    'quadros': (f'x4, 0 crédito. Escolha a que tiver: a mesma Nora SEM a lua e SEM as estrelinhas, o MOLETOM CINZA liso, a bandeirinha dos EUA pequena no '
+                    'quadros': (f'x4, 0 crédito. Escolha a que tiver: a mesma Nora SEM a lua e SEM as estrelinhas, o MOLETOM CINZA liso, {FLAG_PT}, no '
                                 f'alto da parede à esquerda, sem encostar na cabeça; o copo e o pote de canela como antes; 5 dedos em cada mão. Renomeie para {IMG_A77}.'),
                     'prompt': PROMPT_A77},
+                   {'titulo': 'Se você JÁ GEROU a imagem A com a bandeirinha colada na parede: corrija só a bandeira', 'nome': IMG_A77, 'tipo': 'img',
+                    'anexar': 'só a melhor das 4 que você já gerou (a de moletom cinza)',
+                    'quadros': f'x4, 0 crédito. Escolha a que tiver: o mesmo rosto e as mesmas mãos de antes; {FLAG_PT}, sem cobrir a cabeça. Renomeie para {IMG_A77}.',
+                    'prompt': prompt_troca_bandeira(FLAG_DESC)},
                    {'titulo': 'Imagem B: o copo com a água de canela na mão (T02 em diante e os 2 takes do Face)', 'nome': IMG_B77, 'tipo': 'img',
                     'anexar': f'só a {IMG_A77} que você escolheu',
-                    'quadros': f'x4, 0 crédito. Escolha a que tiver: sem o pote; o copo com a água marrom-clara na mão; o moletom cinza; a bandeirinha na parede. Renomeie para {IMG_B77}.',
+                    'quadros': f'x4, 0 crédito. Escolha a que tiver: sem o pote; o copo com a água marrom-clara na mão; o moletom cinza; {FLAG_PT}. Renomeie para {IMG_B77}.',
                     'prompt': PROMPT_B77}])
     P['imagens_titulo'] = f'As imagens das falas ({IMG_A77} no T01; {IMG_B77} no resto)'
     P['refs'] = [f'{IMG_A77} no T01', f'{IMG_B77} do T02 ao T{n:02d} e nos 2 takes do Face']
@@ -251,7 +272,7 @@ def nora77():
     ct['config'] = config(IMG_B77, n)
     ct['colagens'] = [{'titulo': f'nora77: a colagem do T02 ao T{n:02d} (na {IMG_B77})', 'fala': ' '.join(FALA77[1:]),
                        'movimentacao': [B23.mov(GESTO77[i]) for i in range(1, n)], 'takes': list(range(1, n))}]
-    ct['conferir'] = ('Conferir em cada take: a Nora SEM a lua e SEM as estrelinhas, de moletom cinza, no sofá, com o copo de água de canela e a bandeirinha na parede; '
+    ct['conferir'] = (f'Conferir em cada take: a Nora SEM a lua e SEM as estrelinhas, de moletom cinza, no sofá, com o copo de água de canela e {FLAG_PT}; '
                       'ela fala uma vez só e diz as datas e os números por extenso.')
     t01 = B23.prompt_manual(FALA77[0], B23.mov(GESTO77[0], True), 'the stemmed glass of water and the cinnamon jar in her hands', nomes[0], 1, n)
     agente(P, n, IMG_A77, IMG_B77, nomes, t01,
@@ -273,7 +294,7 @@ def nora77():
     ]
     P['pecas'] = {
         'titulo_decisao': 'Resumo',
-        'lista': ([{'nome': IMG_A77, 'tipo': 'imagem do T01', 'status': 'gerar', 'onde': 'No Flow, editando a do nora75 (x4, 0 crédito).', 'descricao': 'Moletom cinza + bandeirinha.'},
+        'lista': ([{'nome': IMG_A77, 'tipo': 'imagem do T01', 'status': 'gerar', 'onde': 'No Flow, editando a do nora75 (x4, 0 crédito).', 'descricao': f'Moletom cinza + {FLAG_PT}.'},
                    {'nome': IMG_B77, 'tipo': 'imagem das falas', 'status': 'gerar', 'onde': 'No Flow, editando a A (x4, 0 crédito).', 'descricao': 'O copo na mão.'}]
                   + [{'nome': nomes[i], 'tipo': 'take', 'status': 'gerar', 'descricao': f'“{FALA77[i]}”'} for i in range(n)]
                   + [{'nome': n_letras, 'tipo': 'take do Face', 'status': 'gerar', 'descricao': f'“{LETRAS}”'},
@@ -281,7 +302,7 @@ def nora77():
         'decisao': [
             'O QUE ESTE VÍDEO TESTA: o corpo. É o lado A (o corpo da maioria, igual ao nora75) contra o nora78 (o corpo leve), à 0h00. A medida, com ~24 h: as visitas ao '
             'perfil e os cliques no Tracker. O Take 1 é o mesmo nos dois (a canela no Insta, as letras no Face).',
-            f'{n} takes ({P77} palavras, ~1:35) + 2 só do Face = {n + 2} clipes no Muse. Tudo gerado de novo (o Insta derruba o arquivo reaproveitado), de moletom cinza, com a bandeirinha dos EUA.',
+            f'{n} takes ({P77} palavras, ~1:35) + 2 só do Face = {n + 2} clipes no Muse. Tudo gerado de novo (o Insta derruba o arquivo reaproveitado), de moletom cinza, com ' + FLAG_PT + '.',
             'Insta e Face às 19h30. No Face: as letras do nome na abertura e a última frase manda para o 1º comentário; sem os selos, o “amen”, os 7 minutos, o “money” e a ameaça do T05 (“if you turn your back on this message…”). Você gera o T05 normalmente: ele vai só no Insta.',
             'O story vence às ~01h15: reposte com o do “gift”, de preferência junto com o nora78. Antes de abrir o Insta, conferir o IP e os EUA no mylocation.org.',
         ],
@@ -297,13 +318,13 @@ def nora78():
     nomes = [nome('lado', SUF78, i) for i in range(n)]
     n_letras, n_cta = 'd2411-lado-T01F-letras', 'd2411-lado-T08F-cta-comentario'
     imagens_secao(P, 'As 2 imagens (Flow, antes dos takes)',
-                  ('O mesmo sofá, a mesma canela no copo e a bandeirinha, mas com OUTRA ROUPA (moletom azul-marinho liso) e de outro ângulo (a câmera ~30° para a direita): '
+                  ('O mesmo sofá, a mesma canela no copo e ' + FLAG_PT + ', mas com OUTRA ROUPA (moletom azul-marinho liso) e de outro ângulo (a câmera ~30° para a direita): '
                    'a frase do Take 1 é a mesma do nora77, e a roupa e o ângulo novos evitam que o Insta leia como o mesmo vídeo. A Nora sem a pintura. '
                    'Todos os takes do nora78 saem destas 2 imagens: o vídeo inteiro fica de azul-marinho.'),
                   [{'titulo': 'Imagem A: despejando a canela, do outro ângulo (o T01)', 'nome': IMG_A78, 'tipo': 'img',
                     'anexar': f'só a {IMG_A77} (a imagem A do nora77)',
                     'quadros': (f'x4, 0 crédito. Escolha a que tiver: a mesma Nora, sem a pintura, de MOLETOM AZUL-MARINHO liso, olhando para a câmera, vista de um ângulo diferente '
-                                f'do nora77; a bandeirinha pequena ainda na parede; o copo e o pote de canela; 5 dedos em cada mão. Renomeie para {IMG_A78}.'),
+                                f'do nora77; {FLAG_PT} ainda na parede, sem cobrir a cabeça; o copo e o pote de canela; 5 dedos em cada mão. Renomeie para {IMG_A78}.'),
                     'prompt': PROMPT_A78},
                    {'titulo': 'Imagem B: o copo na mão, do outro ângulo (T02 em diante e os 2 takes do Face)', 'nome': IMG_B78, 'tipo': 'img',
                     'anexar': f'só a {IMG_A78} que você escolheu',
