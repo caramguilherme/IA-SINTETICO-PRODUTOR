@@ -29,9 +29,18 @@
    - **De carona, só no Face:** o CTA falado manda para o comentário ("Check the first comment below to get your reading.") × para o story (R83 e R84). Não mexe no Insta.
 3. **O trio de signos no Take 1 (nora78):** fogo (Áries, Leão, Sagitário) × outro trio, com o corpo que vencer o item 2, dito logo no começo (`METRICAS-NORA-LEIA.md`, 24/11).
 4. **A seta grande × a pequena** (aula 26, 0:39:29: "você tem que fazer ela gigante"), 0 crédito, na edição, num post em que nada mais mude.
-5. **A bandeira dos EUA no cenário** (o vídeo do Gustavo no Muse, 23/11; 8 dos 43 vídeos da mineração; Caio1094): a mesma cena com a bandeira pequena na parede, contra a Índia. Pede imagem nova (0 crédito no Flow).
+5. ~~A bandeira dos EUA no cenário~~ **não é teste: é a regra de 16/11 que parou** (o aluno, 24/11: "a gente ja tava usando coisa dos eua… nao sei pq parou"). Estava no nora67, no nora68 e no ini1811 (o broche) e no `story-1811` (na parede); saiu no nora69 e no nora70, porque o modelo da claire_mayaus era "igual, sem bandeira" (`build_dia_1711.py`), e eu não pus de volta do nora71 ao nora76. **Volta do nora77 em diante** (`CLAUDE.md`, seção 2, Produção).
 
 **Com o aluno (mudam a operação, não são de painel):** 2 × 4 posts por dia no Insta; agendar pelo GeeLark (só conta nova); a troca da avatar na mesma conta (~02/12, 3 semanas de flop); o curto sem fala de volta ao Insta.
+
+### A limpa de 24/11 (o aluno: "talvez tenha testes que nem precisam ser testados mais, seria bom fazer uma limpa"): o que sai da fila e por quê
+- **Decididos pelo aluno, não testar mais:** o estilo dos textos (o "simples", 18/11) e a caixa do topo só no gancho (18/11); a abertura sem ritual mudo (17/11), com o que caem os A/B do "hook visual oficial", da "ação de carta no Take 1" (embaralhar × carta na mão; leque; 3 cartas viradas) e das cartas na fala e no CTA; fazer igual à maioria (23/11), com o que caem o A/B do dinheiro (no Insta vai, no Face não), o da duração (o nora75 já tem 1:29, a da maioria) e o do adesivo com cartas.
+- **Fora por regra de segurança ou de honestidade:** "Go before it disappears" e a ameaça antes do CTA (P42); o pedido de comentário no Face.
+- **Já rodaram (o número está nos "Fechados"):** a edição dopaminérgica, a tela dividida, o cadeado, o visual limpo da claire_mayaus, o hook de ação comum com flash (nora69 a nora72), o curto sem fala no Insta da Nora, a variação só de edição no Face, o mesmo corpo no Face ~5 h depois, o "black soft" do campeão (nora74).
+- **Resolvidos por fonte:** o espaço entre posts (R70), o aquecimento antes de postar (R62), o prompt curto nos clipes do pré-gancho (o pré-gancho saiu).
+- **Juntados num teste só, o que está no ar:** "variação só de edição no Insta", "depois de um acerto, o que repetir" e "repostar o mesmo vídeo" viraram o do conteúdo repetido (nora75 × nora76).
+- **Regra que voltou, não teste:** a bandeira dos EUA.
+- O resto do arquivo (abaixo dos quadros) fica como banco de ideias: Take 1, 2ª frase, motivo do CTA, formatos (podcast, ritual interativo, roda do zodíaco). Sai de lá quando entrar nos "Próximos".
 
 ### Fechados (o que já rodou desde 15/11 e o que deu)
 | Teste | Resultado | Ficou |
