@@ -743,3 +743,7 @@ No print, o clipe tem uma faixa preta fina na esquerda e na direita (~1% da larg
 ## 24/11/2026 18h11: a lista de renomear do nora77 e do nora78 estava deslocada em 1 (erro meu)
 - O Muse numera os clipes pelo "Prompt N" do bloco da Central, e o bloco começa no T02: **o clipe 01 do Muse é o T02**. No painel do nora77 e do nora78 eu tinha escrito "02 = T02" (no do nora75 estava certo: "1 = T02"). Corrigido ("clipe 01 do Muse = …T02…") e republicado nos mesmos links (versão 5), antes de o aluno renomear.
 - **Regra:** a lista de renomear sempre diz "clipe NN do Muse = arquivo", começando no 01 = o 1º take da colagem.
+
+## 24/11/2026 18h20: o passo a passo do Muse numa ordem só (cobrança do aluno: "pq mensagem 3 e mensagem 4? … nao tem um passo a passo, nao tem uma ordem pra se seguir")
+- **O erro:** o painel já numera os passos (1, 2, 3…), e eu escrevi "MENSAGEM 1" a "MENSAGEM 4" dentro deles: o passo 5 era a "mensagem 3", e o aluno não sabia o que eram os 2 últimos (os takes só do Face).
+- **A regra:** dentro do passo a passo, nenhuma 2ª numeração. Cada passo começa pelo nome do take que ele gera (o corpo, o T01, o T01F…), diz se é só do Face e onde entra, a imagem a anexar e o nome para salvar. O topo da seção diz quantos clipes são e em que ordem. No gerador: `agente()` do `ferramentas-painel/dia-2411/build_dia_2411.py`.

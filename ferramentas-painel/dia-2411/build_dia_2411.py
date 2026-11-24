@@ -81,6 +81,11 @@ GESTO77 = list(B23.GESTO)
 CANELA = FALA77[0]
 LETRAS = B23.FALA76              # "If your name starts with the letter A, J, M, K, C, E, S, L, R, T or H, be very careful."
 GESTO_LETRAS = B23.GESTO76
+# 24/11 18h20, conferência das regras antes de gerar o nora78: no corpo leve, nada explica o "be very careful" (no nora76-FACE e no nora77-FACE ele
+# abre o corpo A, que tem o aviso do Arcanjo); sozinho é medo e um laço que não fecha (P42, que vale no Face: a receita da maioria só passa na frente
+# dela no Insta). Fica a versão do nora73 ("pay close attention", o v4 da @takedanaomi_, seção 54 do BIBLIOTECA-VIDEOS-VIRAIS.md).
+LETRAS78 = "If your name starts with the letter A, J, M, K, C, E, S, L, R, T or H, pay close attention."
+assert len(LETRAS78.split()) <= 22
 CTA_FACE77 = "That's why I left you a quick reading. Check the first comment below to get your reading."
 FALA78 = [
     CANELA,
@@ -130,7 +135,7 @@ def conferir_fala(fala, gestos, extras_face, deixa_private_no_ultimo=False):
 
 
 conferir_fala(FALA77, GESTO77, [(LETRAS, GESTO_LETRAS), (CTA_FACE77, GESTO_CTA_FACE)])
-conferir_fala(FALA78, GESTO78, [(LETRAS, GESTO_LETRAS), (CTA_FACE78, GESTO_CTA_FACE)], deixa_private_no_ultimo=True)
+conferir_fala(FALA78, GESTO78, [(LETRAS78, GESTO_LETRAS), (CTA_FACE78, GESTO_CTA_FACE)], deixa_private_no_ultimo=True)
 P77 = sum(len(f.split()) for f in FALA77)
 P78 = sum(len(f.split()) for f in FALA78)
 
@@ -192,24 +197,27 @@ def imagens_secao(P, titulo, conceito, etapas):
 
 
 def agente(P, n, img_a, img_b, nomes, t01, extras, rotulo, intro_extra=''):
+    # 24/11 18h20 (cobrança do aluno: "pq mensagem 3 e mensagem 4? … nao tem um passo a passo, nao tem uma ordem pra se seguir"): a lista já é numerada
+    # pelo painel; os rótulos "MENSAGEM 1 a 4" dentro dela davam uma 2ª numeração que não batia (o passo 5 era a "mensagem 3"). Agora cada passo diz
+    # o que gera (o nome do take), com que imagem e com que nome salvar, numa ordem só.
     ct = P['central']
     ag = copy.deepcopy(ct['agente'])
     ag['imagem'] = img_b
     # 24/11 18h02 (pergunta do aluno sobre a voz do T01): o T01 passa a ser gerado DEPOIS do corpo, na mesma conversa, para o Muse copiar a voz
     # dos clipes que acabou de fazer (o "SAME VOICE AS THE OTHER CLIPS" do prompt só tem referência quando o corpo já existe). Foi assim no T01B do nora76.
-    ag['intro'] = (f'No Muse, NA MESMA CONVERSA da Nora (a do nora75 e do nora76: a voz), são 4 mensagens, NESTA ORDEM: (1) os {n - 1} takes do corpo '
-                   f'com a {img_b} + o aviso do Muse + o “COPIAR TUDO JUNTO” da Central; (2) só depois, o T01 com a {img_a}, para a voz dele sair igual à do corpo; '
-                   f'(3) e (4) os 2 takes só do Face, com a {img_b}.' + intro_extra)
+    ag['intro'] = (f'No Muse, na mesma conversa da Nora (a do nora75 e do nora76: a voz). Siga os passos de cima para baixo, um de cada vez. '
+                   f'São {n + len(extras)} clipes: os {n - 1} do corpo (T02 a T{n:02d}), depois o T01 e, por último, os {len(extras)} que são só do Face.' + intro_extra)
     lista = ' · '.join(f'clipe {i:02d} do Muse = {nomes[i]}' for i in range(1, n))  # 24/11 18h11: o clipe 01 do Muse é o T02 (estava "02 = T02")
     passos = [f'Na Central: preencha como na seção da Central (o LIVRE e a movimentação do {rotulo}) e cole a fala do T02 ao T{n:02d}. Confira: {n - 1} takes.',
-              f'MENSAGEM 1 (o corpo, T02 a T{n:02d}): anexe a {img_b} + o aviso do Muse + o “COPIAR TUDO JUNTO”. O Muse gera 6 por vez: depois dos 6 primeiros, '
+              f'O corpo (T02 a T{n:02d}, {n - 1} clipes): no Muse, anexe a {img_b} + o aviso do Muse + o “COPIAR TUDO JUNTO”. O Muse gera 6 por vez: depois dos 6 primeiros, '
               'mande na mesma conversa, com a mesma imagem: “Now generate the remaining prompts from my previous message, exactly as written, in the same order, '
               'using the attached image as the first frame of every clip.”',
-              f'Renomeie pela ordem da mensagem 1: {lista}.',
-              f'MENSAGEM 2 (o T01, só DEPOIS do corpo pronto, na mesma conversa): anexe a {img_a} e cole este prompt. O arquivo vem com o nome {nomes[0]}. '
+              f'Renomeie os {n - 1} clipes do corpo na ordem em que saíram: {lista}.',
+              f'O T01 (só depois do corpo pronto): anexe a {img_a} e cole o prompt abaixo. Salve como {nomes[0]}. '
               'Ouça o T01 ao lado do T02: se a voz sair diferente, gere de novo na mesma conversa. PROMPT: ' + t01]
-    for k, (titulo, prompt) in enumerate(extras, start=3):
-        passos.append(f'MENSAGEM {k} ({titulo}, só para o Face): anexe a {img_b} e cole este prompt. PROMPT: ' + prompt)
+    for k, (rot, titulo, lugar, arq, prompt) in enumerate(extras, start=1):
+        passos.append(f'O {rot}, o {k}º take só do Face ({titulo}; na versão do Face ele entra {lugar}): anexe a {img_b} e cole o prompt abaixo. '
+                      f'Salve como {arq}. PROMPT: ' + prompt)
     passos += [f'Confira cada take: sem a lua e sem as estrelinhas no rosto; o moletom {ROUPA_PT}; {FLAG_PT}; o copo na mão; ela fala uma vez só e fecha a '
                'boca no fim. Se o Muse recusar: “Generate prompt X again, exactly as written.”',
                'Se a voz de algum take sair diferente das outras, gere aquele de novo na mesma conversa, pedindo “exactly the same voice as the other clips of this video”.']
@@ -280,8 +288,10 @@ def nora77():
                       'ela fala uma vez só e diz as datas e os números por extenso.')
     t01 = B23.prompt_manual(FALA77[0], B23.mov(GESTO77[0], True), 'the stemmed glass of water and the cinnamon jar in her hands', nomes[0], 1, n)
     agente(P, n, IMG_A77, IMG_B77, nomes, t01,
-           [('as letras do nome', B23.prompt_manual(LETRAS, B23.mov(GESTO_LETRAS), 'the stemmed glass of cinnamon water in her hand', n_letras, 1, n)),
-            ('o CTA para o comentário', B23.prompt_manual(CTA_FACE77, B23.mov(GESTO_CTA_FACE), 'the stemmed glass of cinnamon water in her hand', n_cta, n, n))],
+           [('T01F', 'as letras do nome', 'no lugar do T01', n_letras,
+             B23.prompt_manual(LETRAS, B23.mov(GESTO_LETRAS), 'the stemmed glass of cinnamon water in her hand', n_letras, 1, n)),
+            ('T12F', 'o CTA para o comentário', 'no lugar do T12 e do T13', n_cta,
+             B23.prompt_manual(CTA_FACE77, B23.mov(GESTO_CTA_FACE), 'the stemmed glass of cinnamon water in her hand', n_cta, n, n))],
            'nora77')
     P['silencio'] = {
         'intro': f'Arraste na “M2M FusionZ” os {n + 2} takes de uma vez, nesta ordem: T01 a T{n:02d} e, no fim, o T01F e o T12F (os do Face). “Zoom nos cortes” = DESLIGADO.',
@@ -352,7 +362,7 @@ def nora78():
                      'primeiro_quadro': (f'IMAGEM 1 ({IMG_A78})' if i == 0 else f'IMAGEM 2 ({IMG_B78})'), 'acao': '', 'b_roll': '', 'fala': FALA78[i],
                      'movimentacao': B23.mov(GESTO78[i], i == 0), 'arquivo': nomes[i]} for i in range(n)]
                    + [{'rotulo': 'T01F (só Face)', 'cena': 'as letras do nome (no lugar do T01 no Face)', 'duracao': 10, 'primeiro_quadro': f'IMAGEM 2 ({IMG_B78})',
-                       'acao': '', 'b_roll': '', 'fala': LETRAS, 'movimentacao': B23.mov(GESTO_LETRAS), 'arquivo': n_letras},
+                       'acao': '', 'b_roll': '', 'fala': LETRAS78, 'movimentacao': B23.mov(GESTO_LETRAS), 'arquivo': n_letras},
                       {'rotulo': 'T08F (só Face)', 'cena': 'o CTA para o comentário (no lugar do T08 e do T09 no Face)', 'duracao': 10,
                        'primeiro_quadro': f'IMAGEM 2 ({IMG_B78})', 'acao': '', 'b_roll': '', 'fala': CTA_FACE78,
                        'movimentacao': B23.mov(GESTO_CTA_FACE), 'arquivo': n_cta}])
@@ -368,8 +378,10 @@ def nora78():
                       f'palavra “private”, gere de novo com a reserva: “{RESERVA78}”')
     t01 = B23.prompt_manual(FALA78[0], B23.mov(GESTO78[0], True), 'the stemmed glass of water and the cinnamon jar in her hands', nomes[0], 1, n)
     agente(P, n, IMG_A78, IMG_B78, nomes, t01,
-           [('as letras do nome', B23.prompt_manual(LETRAS, B23.mov(GESTO_LETRAS), 'the stemmed glass of cinnamon water in her hand', n_letras, 1, n)),
-            ('o CTA para o comentário', B23.prompt_manual(CTA_FACE78, B23.mov(GESTO_CTA_FACE), 'the stemmed glass of cinnamon water in her hand', n_cta, n, n))],
+           [('T01F', 'as letras do nome', 'no lugar do T01', n_letras,
+             B23.prompt_manual(LETRAS78, B23.mov(GESTO_LETRAS), 'the stemmed glass of cinnamon water in her hand', n_letras, 1, n)),
+            ('T08F', 'o CTA para o comentário', 'no lugar do T08 e do T09', n_cta,
+             B23.prompt_manual(CTA_FACE78, B23.mov(GESTO_CTA_FACE), 'the stemmed glass of cinnamon water in her hand', n_cta, n, n))],
            'nora78', ' Dá para gerar logo depois do nora77, na mesma conversa.')
     ct['agente']['passos'].insert(3, f'Se o T09 sair sem a palavra “private” ou o Muse recusar, gere o T09 de novo com esta fala de reserva: “{RESERVA78}”')
     P['silencio'] = {
@@ -390,7 +402,7 @@ def nora78():
         'lista': ([{'nome': IMG_A78, 'tipo': 'imagem do T01', 'status': 'gerar', 'onde': 'No Flow, editando a do nora77 (x4, 0 crédito).', 'descricao': 'Moletom azul-marinho + o ângulo novo.'},
                    {'nome': IMG_B78, 'tipo': 'imagem das falas', 'status': 'gerar', 'onde': 'No Flow, editando a A (x4, 0 crédito).', 'descricao': 'O copo na mão.'}]
                   + [{'nome': nomes[i], 'tipo': 'take', 'status': 'gerar', 'descricao': f'“{FALA78[i]}”'} for i in range(n)]
-                  + [{'nome': n_letras, 'tipo': 'take do Face', 'status': 'gerar', 'descricao': f'“{LETRAS}”'},
+                  + [{'nome': n_letras, 'tipo': 'take do Face', 'status': 'gerar', 'descricao': f'“{LETRAS78}”'},
                      {'nome': n_cta, 'tipo': 'take do Face', 'status': 'gerar', 'descricao': f'“{CTA_FACE78}”'}]),
         'decisao': [
             'O QUE ESTE VÍDEO TESTA: o corpo. É o lado B (o corpo leve: a dor das contas na 2ª frase, os sinais pequenos, o CTA que diz o que tem do outro lado, '
