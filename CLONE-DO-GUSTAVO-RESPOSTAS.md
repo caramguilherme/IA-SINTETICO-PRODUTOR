@@ -2058,3 +2058,25 @@ A leitura custa US$ 19 depois do quiz. O "presente" da aula 55 (0:44:46) vem num
 6) A ORDEM
 O story e o corpo podem rodar na mesma semana se eu medir separado (toques no adesivo por viewer, no story; visitas ao perfil por Reel, no corpo)? Ou a mudança do story atrapalha a leitura do corpo?
 ```
+
+## R89 (24/11/2026 11h15, montada a pedido do aluno: "tem algo falando isso nas aulas? vale perguntar algo pro gustavo no clone?"; resposta pendente; vai depois da R88): replicar o vídeo que foi bem, os clones da call de 06/11 × o "flag" da mentoria de 23/11
+- **O texto (1747 caracteres):**
+
+```
+Gustavo, uma dúvida sobre replicar o vídeo que foi bem. Para cada item, diga a aula e o minuto e cole a frase exata; o que não tiver fonte, marque como opinião.
+
+1) O NOSSO CASO
+O nora75 (a copy mais repetida das contas da Auraly, tudo gerado de novo) fez 546 views no Insta em 16 h e seguia subindo; os nossos falados desde 11/11 ficavam em ~150. O nora76 reaproveitou 1:22 do nora75 com um Take 1 novo (as letras do nome), 6 h depois: parou em ~135 desde a 2ª hora, com o skip (57% × 60%) e o tempo médio (11 s × 10 s) quase iguais. No Face foi o contrário: o nora76 fez 492 (+2,8x) e o nora75, 223 (+0,8x).
+
+2) A CONTRADIÇÃO
+Na call de 06/11 (0:37:17 a 0:39:25), o Iorhan fala de um viral de 200 mil em que "cada empilhamento tinha tipo 250, 300 mil views" e manda "multiplicar… duplicar… criar clones"; em 0:50:13, pegar a copy campeã e "colocar em um outro modelo". Na mentoria individual de 23/11 (0:04:22 a 0:05:32), o Gustavo diz que o conteúdo repetido e reutilizado "dá um flag… como se fosse shadowban". Os clones da call são vídeos gerados de novo (outra roupa, outro cenário, outra edição) e o flag é para o arquivo reaproveitado? Alguma aula separa os dois?
+
+3) COMO REPLICAR
+Quando um vídeo vai bem acima da média da conta, mas sem viralizar (546 contra ~150), alguma aula diz:
+a) o que mudar primeiro (a roupa, o cenário, o Take 1, o formato);
+b) quantas vezes replicar e com que intervalo no Insta;
+c) quando parar (quantos clones abaixo da média)?
+
+4) O CASO DE 100 MIL
+Em alguma aula, um aluno teve um vídeo de poucas views que, replicado, passou de 100 mil? Cite a aula e o minuto. (No Discord, o Adão Gomes contou isso em 28/10, e o Caio1094 foi de 1 mil a 100 mil com variação de edição.)
+```
