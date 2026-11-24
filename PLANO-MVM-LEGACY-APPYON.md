@@ -1588,6 +1588,8 @@ Create a minimalist Facebook page cover image, wide format 1640x624 pixels. Soft
 
 > **Movido em 14/11/2026 para `arquivo/HISTORICO-PLANO-MVM.md`** (pente fino, decisão do aluno: só o que não vale mais): "Fazer os vídeos (receita usada de 09 a 14/10)": pré-gancho no Omni 1.1 em 720p, take de 8 s, edição e CapCut de outubro, tudo trocado pelo painel, o Omni 1.2 em 360p e a edição P45; a lista das vozes do Flow para outra avatar foi para "3. Copy e voz".
 
+* **Avatar nova pelo Face Blend (mentoria de 23/11, 0:08:59 a 0:09:54; autorizado pelo aluno em 24/11):** 2 fotos de referência do Pinterest ou do Pexels + o prompt "Face Blend" no Flow, que mistura os 2 rostos num rosto novo; o rosto final não pode lembrar nenhuma das 2. O prompt inteiro: `MATERIAIS-MENTORIA-23-11/FACE-BLEND-PROMPT.md`.
+
 ### Validar, trocar e descartar
 - **"10 vídeos; se 5 passarem de 200 views, a conta tá boa"** (Paulo Infante, 16/11, que chama de recomendação "oficial" sem dar a fonte). Para validar vendas, o Patrick Robba lembra de "40 vídeos", também sem fonte. A regra com fonte segue sendo a aula 55 (1:11:28 a 1:11:41) e a dos 10 vídeos abaixo de 100 (aula 54).
 
