@@ -425,3 +425,5 @@ Fora da numeração do nora. Peças com o nome do teste: `faceNN-IMG`, `faceNN-C
 - **nora76-final (Insta):** 1:32, completo. Seta de 85,4 s ao fim.
 - **nora76-final-FACE:** 1:10, sem o T08, o T09 e o T10 e sem o "money," (`specs/cortes-extra-nora76-FACE.json`: 27,33 a 28,10 s e 56,66 a 80,20 s do montado do nora76).
 
+## story-gift-2411 (24/11/2026 ~02h06): o teste do "gift" no story
+- `ferramentas-painel/dia-2411/story-gift-2411.jpg` (e o `-celular` e o `-recorte`): a foto do `story-1811` (a Nora com a estátua do anjo, a bandeira dos EUA na parede), `texto_story_nativo.py --topo 0.46 --tamanho 0.037`: caixa branca "I'm so glad this found you. / Most people scroll away... / but you stayed." · caixa coral "That's why your gift is here: / what the universe saved for you 🎁" · caixa branca "Just tap below to open it 👇", de 46% a 67% da altura; o adesivo "TAP TO CONTINUE 🎁" logo abaixo (~69%), no centro. Só o texto muda contra o `story-1811`.
