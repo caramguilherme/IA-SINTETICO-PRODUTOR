@@ -1019,6 +1019,24 @@ O aluno ficou fora de 21/11 de manhã a 22/11 22h23: nenhum post novo e o story 
   - Tracker de 20 a 22/11: 0 clique.
   - Nenhuma mudança de copy, hook ou abertura levou gente ao perfil. **Falta o teste que separa a copy da conta: o nora74** (a fórmula do nora48 ao nora50, que fazia 1,6 mil a 2 mil views e 10 a 19 follows).
 
+## 24/11 19h08: o Face do nora75 e do nora76 com ~24 h e ~18 h (Insights dos 2 posts + a Biblioteca em texto)
+| | nora75-FACE (canela no copo, 23/11 19h28, ~23h40) | nora76-FACE (letras do nome + o mesmo corpo, 24/11 01h11, ~18 h) |
+|---|---|---|
+| Views / visualizadores | 605 / 520 | **2.334 / 2.046** |
+| Distribuição | +1,5x | **+4,9x** |
+| Seguidores novos | 4 | **16** |
+| Engajamento / comentários | 21 / 3 | 89 / 8 |
+| Tempo médio / views de 3 s | 13 s / 43,8% | 13 s / 43,1% |
+| 20 s / 1 min | 18,0% / 32 | 16,7% / 130 |
+| Cliques no link (Insights) | "ainda não disponíveis" | 2 |
+| EUA | 80,4% | 72% |
+
+- **O mesmo corpo, a mesma retenção (13 s, 43% nos 3 s, o abandono aos 0:02), e 4 vezes a entrega:** o que mudou foi a abertura (as letras do nome × a canela) e a hora (01h11 × 19h28). No Face, a abertura das letras é a que entrega; o nora77-FACE e o nora78-FACE de hoje já abrem com elas.
+- **Recordes da Página (`recordes.py`):** o nora76-FACE é o 2º em views, em seguidores e em distribuição, atrás só do nora55 (4.243, 44 seguidores, +9,4x).
+- **O público:** 98,8% não seguidores, quase tudo pelo Reels, 45+ em ~75%; a restrição de país segura os EUA, o Reino Unido, o Canadá e a Austrália.
+- **A Biblioteca (o resto da lista):** o nora74-FACE em 220 (−0,4x), o nora73 em 310, o nora72 em 331, o nora71 em 337, o nora70 em 216, o nora69 em 326; os outros sem mudança que conte. O 1º da lista, com 4 views, é um post de agora (se for o nora77-FACE, a leitura é com ~24 h). Um de 40 views (−5,5x, 16 s de tempo médio) não deu para identificar só pela lista.
+- **O que fica:** no Face, abrir com as letras do nome enquanto o corpo for o mesmo; a régua dos 2 de hoje é a mesma (24 h): views, seguidores e os cliques no link dos Insights.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
