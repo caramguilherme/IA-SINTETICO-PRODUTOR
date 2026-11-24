@@ -1239,3 +1239,10 @@ Pergunta: "que signos foi falado/escrito nos videos de mais views da nora? tem a
 - **O resto da lista mudou pouco** desde 22/11 (nora73-FACE 309, nora71-FACE 337, nora70-FACE 215).
 **Falta:** o Insta do nora75 e do nora76 (o lado do teste do conteúdo repetido), com ~24 h do nora75 (~19h15 de hoje).
 - **O 1º item da lista é o story do Face** (o aluno, 24/11 ~10h58): 2 views e 1 visualizador às 10h55, com ~9h40 no ar. No Face, o caminho do link é o comentário da Página (o nora76-FACE trouxe 1 clique por ele); o story da Página chega a pouca gente.
+
+## 24/11/2026 10h59: o Tracker de 22, 23 e 24/11 (prints do aluno, atualizados às 10h59)
+- **22/11:** nenhum dado (0 clique; o story estava fora do ar até as 22h30).
+- **23/11:** 1 clique, 1 view do quiz, 0 começou o quiz; **Instagram** (o story repostado em 22/11 22h30; no dia foram o nora74 às 10h33 e o nora75 às 19h28).
+- **24/11 até 10h59:** **3 cliques, 3 views do quiz, 1 começou e 1 terminou o quiz, 0 checkout; todos do Facebook.** Os Insights do nora76-FACE mostram 1 clique no link (o comentário da Página); o do nora75-FACE ainda está "não disponível", e o story do Face tinha 2 views. Os outros 2 cliques podem ser do nora75-FACE ou do story do Face: não dá para separar.
+- **O que diz:** depois de 3 dias com 0 (20 a 22/11), **24/11 é o melhor dia do Face no Tracker desde 18/11** (3 cliques e 2 quizzes terminados), e veio na manhã do nora76-FACE (o 2º da Página em views e seguidores). O quiz terminado é 1 de 3, perto da média da Nora (42,9% começam).
+- **Acumulado de 27/10 a 24/11 10h59:** ~53 cliques reais, ~21 quizzes terminados, 0 checkout.
