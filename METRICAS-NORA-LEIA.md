@@ -1253,3 +1253,16 @@ Pergunta: "que signos foi falado/escrito nos videos de mais views da nora? tem a
 - **Público:** EUA 20,6%, Canadá 9,4%, Reino Unido 8,8%, Malásia 5,3%, Austrália 4,2% (a Índia fora do top 5); idade 35-44 36,5%, 45-54 24,2%, 25-34 21,1%, 55-64 9%, 65+ 4,6% (45+: 37,8%).
 - **Pela planilha inteira:** é o maior falado do Insta desde o nora51 (889, 10/11); de 11/11 ao nora74, todos os falados ficaram entre 24 e 246. **Passou dos 500 da régua do campeão (R84): a conta entrega quando o vídeo é novo do começo ao fim** (no mesmo dia, o nora74, com a abertura repetida, fez 24).
 - **O que ainda não mudou:** 2 visitas ao perfil e 0 follows em 546 views (os campeões nora48 a nora50 trouxeram 10 a 19 follows); o Tracker de 23/11 teve 1 clique do Insta. O vídeo chega a gente nova e segura como os outros (11 s), mas quase ninguém vai ao perfil: o próximo passo é o corpo e o CTA (o teste do nora77).
+
+## 24/11/2026 11h06: o nora76 no Insta com ~9h50 e o teste do conteúdo repetido
+- **135 views (131 contas), a curva parada em ~130 desde a 2ª hora** (a linha do "reel típico"), skip 59,5%, 10 s, 0 visitas, 0 follows, 0 curtidas, 1 comentário, 2 salvamentos; EUA 43%, Canadá 18,5%, Austrália 9,6% (a Índia fora do top 5); 45+: 38,5%.
+- **O teste (o nora75 inteiro novo × o nora76, que reaproveita 1:22 dele ~6 h depois, com as letras do nome na frente):**
+
+| | Insta | Face |
+|---|---|---|
+| nora75 (tudo novo) | **546 e subindo** (~16 h); skip 56,9%; 11 s; 2 visitas | 223, +0,8x; 13 s; 1 seguidor |
+| nora76 (o corpo repetido) | **135, parado desde a 2ª hora** (~10 h); skip 59,5%; 10 s; 0 visitas | **492, +2,8x**; 14 s; 7 seguidores; 1 clique |
+
+- **No Insta, a plateia do teste reagiu igual aos dois** (o skip e o tempo médio quase iguais), **mas o Insta não levou o nora76 adiante: parou no 1º lote**, como os falados de 11 a 20/11. Bate com a mentoria (0:04:22 a 0:05:32: o conteúdo reutilizado "dá um flag… como se fosse shadowban"). **Com 2 ressalvas:** o horário também mudou (19h × 01h15) e a abertura também (a canela × as letras); e em 06/11 o nora49 reaproveitou a abertura espelhada e o corpo do nora48 (~18 h depois) e fez 2.043.
+- **No Face foi ao contrário:** o mesmo corpo com a abertura nova foi o melhor dos dois.
+- **A proposta (decisão do aluno):** no Insta, cada post com o vídeo novo do começo ao fim; no Face, o mesmo corpo pode voltar com um Take 1 novo (a regra de 24/11 10h59). Custa mais Muse no Insta (~13 clipes por post em vez de 1). A leitura com 24 h (25/11 ~01h15) confirma.

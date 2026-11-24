@@ -20,7 +20,7 @@
 ### No ar (ler na data)
 | Teste | Os braços | Quando ler |
 |---|---|---|
-| Conteúdo repetido (mentoria de 23/11) | nora75 (arquivos novos) × nora76 (1:22 do nora75 reaproveitado ~6 h depois) | hoje 24/11 ~19h15 (nora75 com 24 h e nora76 com 18 h) e 25/11 ~01h15 (nora76 com 24 h) |
+| Conteúdo repetido (mentoria de 23/11) | nora75 (arquivos novos) × nora76 (1:22 do nora75 reaproveitado ~6 h depois) | **lido em 24/11 11h06 (~16 h × ~10 h):** Insta 546 e subindo × 135 parado desde a 2ª hora, com o skip e o tempo iguais; Face 223 (+0,8x) × 492 (+2,8x). Confirmar com 24 h (25/11 ~01h15) e passar para os "Fechados" |
 | A Nora sem a pintura, na cópia da maioria (sofá, camiseta preta, dia) | nora75 e nora76 × os falados com a pintura (nora69 a nora74) | junto com o de cima |
 
 ### Próximos (nesta ordem)
