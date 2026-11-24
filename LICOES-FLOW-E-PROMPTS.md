@@ -725,3 +725,8 @@ No print, o clipe tem uma faixa preta fina na esquerda e na direita (~1% da larg
 - **o que vinha do nora70:** a seção de corte de silêncio (17 takes, "nora70-cortado") e a linha "junto com o nora75-montado, até ~23h00", que já não valiam. Saíram, e o passo final diz para mandar só o take (eu já tenho o montado).
 **Regra (reforça a de 23/11 17h58):** antes de dizer que um painel está pronto, procurar no pacote inteiro palavras de outros vídeos (o número de takes, nomes de arquivo, horários vencidos) e conferir cada gesto da movimentação contra o vídeo copiado.
 
+## 24/11/2026 01h41, Muse na 32ª leitura do Discord (relatos, nada oficial)
+- **Limite de 24 h:** o PH bateu com ~150 clipes; a Luana, com ~15 a 16 (28ª leitura). Não há um número fixo conhecido; a nossa conta nunca bateu nele. O painel não planeja pelo número: se o erro aparecer, o aluno avisa quantos saíram.
+- **"Check" no clipe que acertou** (Verix): salvar aquele modelo como padrão faria o Muse acertar muito mais. Relato de 1 pessoa; a pergunta de onde fica o botão foi para ele. Se o aluno achar, tentar no próximo clipe que sair certo (a avatar e o cenário iguais à imagem).
+- **Várias contas em paralelo** (Vinicius B: 4 contas, 5 vídeos cada, ~10 min): decisão do aluno; cada conta segue a regra de isolamento da Meta (`CLAUDE.md`, seção 2).
+

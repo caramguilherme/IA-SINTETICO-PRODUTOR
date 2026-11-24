@@ -23,6 +23,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **Kaike de Lima (17/11 11h35):** respondeu em 16/11 11h04 com um áudio de 17 s (transcrito pelo aluno): replica o pré-hook que dá certo até "sugar muito" e aí faz coisa nova. Resposta enviada (texto no fim), com a pergunta do teto do Insta. Esperar.
 - **Pedro⚡ e Caio1094, fechamentos (prints do aluno em 18/11 00h44):** o Pedro⚡ respondeu "show, vai da certo!" (17/11 12:18) e o Caio1094 "tamo juntooo! ve oq ta mais viral nas ultimas 48h, tenta fazer na sua, ai vai vendo oq ela performa melhor, mas é teste + teste + teste, desiste nao" (17/11 12:10). Conversas fechadas: só reagir; voltar com resultado.
 - **carloscs (18/11 00h45):** respondeu em 17/11 15:20 à DM de 03/11 (começa pelo Face, esteira de aquecimento, depois a automação, copy de vendas com e sem hook, 4 a 6 vídeos por dia a cada 2 h). Agradecimento com 1 pergunta enviado (texto no fim). Esperar.
+- **32ª leitura (24/11 01h41):** respostas ao Diego Lima (o link no story) e à Helta Almeida (desflopar), e o agradecimento com 1 pergunta ao Verix (o "Check" do Muse): enviados (toda resposta sugerida conta como enviada; textos no fim).
 - **29ª leitura (19/11 ~23h52):** parabéns ao Wendell Vieira (1ª venda, 321 cliques) e ao Khalil (os 1ºs cliques depois de ajustar a copy com as calls), no #vitórias, com 1 pergunta curta cada (texto no fim): enviados (toda resposta sugerida conta como enviada). Se responderem em público, reagir com emoji e seguir pela DM.
 - **28ª leitura (19/11 ~02h):** respostas ao José [MVM] (a aparência do avatar no Muse, take a take), ao erick civinelli (152 cliques sem venda: a régua) e ao Khalil (o rótulo de IA no Face), no #chat-appyon: enviadas (toda resposta sugerida conta como enviada; textos no fim). **Sem resposta, pela regra de nunca mandar duas sem resposta:** a Lívia (a nossa de 18/11 ~11h segue sem resposta; a pergunta dela das 22h42, se a FusionZ parou de cortar, a gente sabe: funcionou para o aluno à 01h de 19/11) e o Castanho (esperando desde 10/11; só reagir com emoji ao prêmio do Apple Watch no #vitórias).
 - **27ª leitura (18/11 ~11h):** **no fórum, o aluno mandou a pergunta dele em vez da minha** (11h11: "esse 1b de token é mensal? todo mês renova? ou usou 1b já era?"); a minha (os 46 vídeos com 1,5 bi: inteiros ou takes?) fica para depois que o Vinicius responder (nunca duas sem resposta). Respostas à Lívia (dinheiro na DM automática) no #chat-appyon e o parabéns ao Rodrigo Rechmann (1 pergunta: insta ou face) no #vitórias: enviadas (toda resposta sugerida conta como enviada; textos no fim). O Rechmann nunca respondeu a DM de 03/11: no #vitórias, se ele responder, só reagir.
@@ -115,6 +116,9 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | Kailane | Pergunta no chat-geral (22/11 15h28): no Muse, o vídeo começa com a avatar da imagem e termina com outra | | | **Resposta pública enviada em 23/11** (30ª leitura: a mesma imagem como 1º quadro em todo take; o rosto só mudou num clipe sem fala, depois de ~4,5 s) | |
 | Vinicius | Pergunta no chat-appyon (21/11 18h19): boas hashtags de manifestação | | | **Resposta pública enviada em 23/11** (30ª leitura: as 3 a 5 do nicho que a Nora usa) | |
 | Diego Brito | Pergunta no chat-appyon (23/11 00h11): pôr o link em todo comentário dá spam? E automatizar? Comprou Páginas para monetizar (2 vídeos com 136 mil e 151 mil sem link) | | | **Resposta pública enviada em 23/11** (31ª leitura: a aula 16 e o nosso comentário fixado) | |
+| Diego Lima | Pergunta no chat-appyon (23/11 13h45): o adesivo do story recusa o link de afiliado ("Please enter a valid link") | | | **Resposta pública enviada em 24/11** (32ª leitura: o link inteiro, sem encurtador; conferir espaço e o https://) | |
+| Helta Almeida | Pergunta no chat-geral (23/11 20h12): tem aula de como desflopar a conta? | | | **Resposta pública enviada em 24/11** (32ª leitura: a call de 18/11, 0:07:13 a 0:08:13, e o nosso dado do skip da abertura repetida) | |
+| Verix | Dica no chat-appyon (23/11 19h09): dar "Check" no clipe do Muse que acertou e salvar como padrão | Muse acerta mais com o modelo salvo (relato dele) | A tentar no próximo clipe que acertar, se o aluno achar o botão | **Agradecimento com 1 pergunta enviado em 24/11** (32ª leitura: onde fica o "Check"). Se responder, anotar e só reagir | Se ajudar |
 
 ## (Histórico) Rascunhos de 04/11/2026 (todos enviados ou descartados; ver as marcas em cada um)
 - **Kaike de Lima (DM; ENVIADA pelo aluno em 04/11 de manhã):** "valeu demais kaike, ajudou muito / faz sentido, a nora tem uns 47 vídeos só e ainda parei uns dias essa semana, vou focar na constância / to testando exatamente isso agora: mesmo corpo e pré-hook novo (um tsunami kkk) / uma dúvida rápida: esses pré-hooks diferentes que vc fez eram mais bizarros, fora do nicho, ou coisa do nicho mesmo (cristal, vela, carta etc)?"
@@ -1041,4 +1045,19 @@ nas aulas falam de poucas hashtags e do nicho, nada de encher
 **1. Diego Brito, no #chat-appyon** (responder a mensagem dele de 23/11 00h11, "vocês estão colocando o link do aplicativo em cada comentário? Isso tá dando spam?"):
 automatizar o link em todo comentário é o que o gustavo fala que tá caindo como spam em página nova (aula da estrutura do face, uns 38min)
 aqui faço 1 comentário só como a página, com o link, tiro a prévia e fixo
+
+## ENVIADO (24/11/2026; respostas da 32ª leitura do Discord, no jeito do aluno)
+**1. Diego Lima, no #chat-appyon (responder a mensagem dele de 23/11 13h45, o "Please enter a valid link"):**
+diego, aqui eu uso o link inteiro no adesivo, sem encurtar, e funciona
+confere se não ficou espaço no começo ou no fim, ou se sumiu o https:// quando colou
+e cuidado com encurtador, já teve relato aqui de clique caindo e link quebrando com o short.io
+
+**2. Helta Almeida, no #chat-geral (responder a mensagem dela de 23/11 20h12, "tem aula de como desflopar conta?"):**
+oi helta, se for nos vídeos de venda: na call de 18/11 (passos iniciais risely) o gustavo falou que, se tá muito ruim de views, vários em 200, 300, tem gente que trocou o avatar na mesma conta e salvou ela
+a média que ele deu foi umas 3 semanas de flop seguido pra trocar o avatar
+aqui na minha o que vi foi a mesma abertura repetida em vários posts cansando: o skip foi de uns 30% pra 84% conforme eu repetia
+
+**3. Verix, no #chat-appyon (responder a mensagem dele de 23/11 19h09, o "Check" no Muse):**
+valeu pela dica do muse verix!
+esse check vc dá onde? é um botão no próprio vídeo ou vc escreve pra ele salvar como padrão?
 
