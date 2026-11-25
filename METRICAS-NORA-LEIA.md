@@ -1042,7 +1042,7 @@ O aluno ficou fora de 21/11 de manhã a 22/11 22h23: nenhum post novo e o story 
 - **O teste do conteúdo repetido fecha com ~24 h:** o vídeo gerado de novo (nora75) foi a 690; o que reaproveitou o arquivo (nora76) parou em 139. É a regra de 24/11 11h10 (cada post do Insta gerado de novo do 1º ao último take). Os Insights dos 2 (visitas ao perfil, seguidores, skip) fecham a linha na `FILA`.
 - **O nora77 com ~5 h** (118) ainda não diz nada: a régua é com ~24 h (~19h27 de 25/11), pelas visitas ao perfil e os cliques, contra o nora78 na mesma idade.
 
-## 25/11 00h27: o teste do conteúdo repetido fechado (Insights do nora75 e do nora76 no Insta)
+## 25/11 00h26: o teste do conteúdo repetido fechado (Insights do nora75 e do nora76 no Insta)
 | | nora75 (tudo gerado, ~29 h) | nora76 (1:22 do nora75 reaproveitado, ~23 h) |
 |---|---|---|
 | Views / contas | 690 / 640 | 139 / 135 |
