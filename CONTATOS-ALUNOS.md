@@ -1162,3 +1162,14 @@ e sim kkk, mas é o claude code, não o chat normal. ele roda programa: transcre
 com o gpt não sei se dá, nunca testei
 ```
 **Fontes:** a edição P45 (`CLAUDE.md`, seção 2: transcrevo, ponho os textos pelo painel e devolvo o `noraNN-final`; as ferramentas em `ferramentas-painel/ferramentas/`). Se o ChatGPT faz o mesmo, não sei (não testei).
+
+## SUGERIDO (25/11/2026 12h12; DM do th [MVM], resposta às mensagens dele de 12h10: "tu podia me ensinar esse esquema do claude… comecei a postar meus video ontem… queria fazer no volume, postar 6 por dia… editando no capcut n da… to fazendo tudo pelo flow"; uma mensagem só; conta como enviado)
+```
+posso sim mano
+mas precisa do claude, o pro já vem com o claude code (é nele que roda, não no chat)
+o meu eu fui montando aos poucos com ele: mando o vídeo montado pelo drive, ele transcreve o áudio e coloca os textos por programa, sempre no mesmo padrão
+o ruim é que o limite do claude acaba rápido, eu bato toda hora kkk
+se vc assinar me fala que eu te passo o que pedir pra ele no começo
+e como vc começou ontem, vai com calma no volume: na call de 18/11 o gustavo falou dos 10 de aquecimento em 3 dias (3, 3 e 4), sem link, antes de subir
+```
+**Fontes:** o Claude Pro com o Claude Code (a conta do aluno, "gui · Pro"); a edição P45; o limite de 5 h que o aluno bate (25/11); o aquecimento da call de 18/11 (`AULA-18-11-PASSOS-INICIAIS-RISELY-GUSTAVO.md`: os 10 em 3 dias, 3, 3 e 4, 2 h ou mais entre eles, cada um diferente, CTA de seguir, comentar e curtir, sem story). **Nunca passar o repositório da Nora** (tem o `FATOS`, os links com o `aff`, as contas e os números): se o th assinar, vai um texto de começo, escrito aqui, sem nada da Nora.
