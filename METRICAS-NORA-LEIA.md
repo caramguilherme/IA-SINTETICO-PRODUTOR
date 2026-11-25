@@ -1068,6 +1068,15 @@ O aluno ficou fora de 21/11 de manhã a 22/11 22h23: nenhum post novo e o story 
 - **O que não deu para identificar com certeza:** uma linha com 78 views e 0 visualizadores (provavelmente o nora78-FACE com ~18 min, ainda sem processar), uma com 0 (provavelmente o story do "gift", postado às 00h20) e uma com 14 entre o nora76 e o nora77 (provavelmente o story do Face de 24/11 01h15).
 - **Leitura:** no Face, a abertura das letras segue entregando com o mesmo corpo; no Insta, o mesmo texto repetido travou (o nora77 com skip de 64,5%). A diferença entre as redes se mantém: o Face aceita o corpo repetido com o 1º take novo, o Insta não.
 
+## 25/11/2026 12h51: a Biblioteca do Face (print do aluno)
+- **nora76-FACE (24/11 01h12, ~35h40): 4.497 views, +6,1x, 31 seguidores, 14 comentários, 14 s de tempo médio, 289 views de 1 min: passou o nora55 (4.243) e virou o maior da Página em views** (o nora55 segue na frente em seguidores, 44, e em distribuição, +9,4x; `recordes.py`).
+- **nora77-FACE (24/11 19h25, ~17h25): 3.373 views, +1,9x, 10 seguidores, 13 s**: o 3º da Página em views.
+- **nora78-FACE (25/11 00h18, ~12h30): 266 views, −0,7x, 0 seguidor, 7 s, 36,1% nos 3 s.** Na mesma idade aproximada o nora77-FACE estava em alta (339 e +1,5x com ~5 h). **No Face, o corpo A (o da maioria, sem a ameaça e sem o dinheiro) está bem na frente do corpo leve** (3.373 e 4.497 contra 266; idades e horários diferentes: o nora78-FACE saiu às 00h18). Leitura do teste do corpo no Face com ~24 h (~00h20 de 26/11).
+- nora75-FACE 636 (+0,0x, ~41 h); nora74-FACE 223 (−0,5x); a variação do nora69 42; os falados de 19 e 20/11 entre 311 e 339; o story de foto do Face (00h19): 8 views.
+- **A Biblioteca não mostra os cliques no link:** o post da venda sai dos Insights de cada Reel (falta).
+- **O que muda hoje:** os 2 posts a mais do Face (16h e 21h30) vão com o **corpo A** (o do nora76-FACE e o do nora77-FACE, cada um com um Take 1 novo), e não com o corpo leve. **As duas versões do corpo A dizem "if this video found you before Wednesday, November 25th"**: hoje é quarta, dia 25, então o take da data é gerado de novo com a data de amanhã (painel vivo).
+- **Dashboard:** segue na 6ª conta (não abre desta); a planilha está em dia.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
