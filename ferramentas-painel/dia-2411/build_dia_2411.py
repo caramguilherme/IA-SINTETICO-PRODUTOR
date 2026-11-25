@@ -208,9 +208,10 @@ def agente(P, n, img_a, img_b, nomes, t01, extras, rotulo, intro_extra='', falas
     # Agora o aviso lista o nome de cada prompt, e a mensagem dos prompts 07 em diante repete os nomes deles.
     velho = 'Name each clip with its prompt number (01, 02, 03 and so on).'
     assert velho in ag['aviso'], 'o aviso do Muse mudou: conferir a frase do nome dos arquivos'
-    nomes_corpo = ', '.join(f'Prompt {i:02d} = {nomes[i]}' for i in range(1, n))
+    # 24/11 23h30: o bloco da Central numera "Prompt 1", "Prompt 2"… (GUIA-CREATIVE-HUB.md); o aviso usa a mesma grafia, sem o zero
+    nomes_corpo = ', '.join(f'Prompt {i} = {nomes[i]}' for i in range(1, n))
     ag['aviso'] = ag['aviso'].replace(velho, f'Name each clip with exactly this file name, so the downloaded file already has it: {nomes_corpo}.')
-    resto = ', '.join(f'Prompt {i:02d} = {nomes[i]}' for i in range(7, n))
+    resto = ', '.join(f'Prompt {i} = {nomes[i]}' for i in range(7, n))
     msg_resto = ('“Now generate the remaining prompts from my previous message, exactly as written, in the same order, using the attached image as the first '
                  f'frame of every clip, and name each clip with exactly this file name: {resto}.”')
     # 24/11 18h02 (pergunta do aluno sobre a voz do T01): o T01 passa a ser gerado DEPOIS do corpo, na mesma conversa, para o Muse copiar a voz
