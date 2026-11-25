@@ -1111,3 +1111,12 @@ saiu do insta ou do face?
 ```
 **Por que:** é a fase da Nora (1ª venda, de um vídeo pequeno, depois de virais sem venda). Se ela responder, só reagir.
 
+
+## SUGERIDO (25/11/2026 11h52; DM do Cardoso.eth no Discord, mensagem dele de 25/11 09h53; conta como enviado, P44)
+**Quem é:** Cardoso.eth (cardoso.eth), 2 servidores em comum com o aluno (o MVM). Primeiro contato, vindo dele: "Acabei de entrar na Appyon e vi seus resultados do mês… gostaria de trocar um papo e tirar algumas dúvidas com você… Ainda estou meio perdido". Ele viu o post da 1ª venda no #vitórias (25/11 ~01h12). Não achei nada dele antes nos arquivos.
+```
+opa cardoso, td certo e vc?
+valeu demais mano, mas ainda to no comecinho tb, a primeira saiu ontem kkk
+pode mandar as dúvidas sim, oq eu souber te falo
+```
+**Cuidado:** a conversa fica no Discord. Nada de link de fora, arquivo para baixar, login, código, conta ou pagamento: o golpe comum começa com elogio a quem acabou de postar uma vitória. Nada da Nora que não seja público (o @ da conta, os links com o `aff`, o painel, os números da Appyon além do que já foi postado).
