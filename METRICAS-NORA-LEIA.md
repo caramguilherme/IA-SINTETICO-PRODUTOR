@@ -1092,6 +1092,17 @@ O aluno ficou fora de 21/11 de manhã a 22/11 22h23: nenhum post novo e o story 
 - **O público certo:** EUA 73% a 80%, 55+ entre 50% e 65%.
 - **A legenda dos 3 posts do corpo da maioria tem #abundance**, e a dos nora76/77/78-FACE começa igual ("If your name starts with one of these letters ✨"). Pela 33ª leitura (Páginas de manifestação caindo pela "abundância"), entra na proposta (b): no Face, sem #abundance, e a legenda muda a cada post.
 
+## 25/11/2026 13h07: o Tracker de ontem, de hoje e do mês (prints do aluno, 13h04 a 13h05)
+| Período | Cliques | Viram o quiz | Começaram | Terminaram | Checkout | Vendas | Rede |
+|---|---|---|---|---|---|---|---|
+| 24/11 (fechado) | 12 | 12 | 6 | 4 | 0 | 0 | tudo Face |
+| 25/11 até 13h05 | **14** | 13 | 7 | 7 | 1 | 1 | tudo Face |
+| Novembro (até 25/11 13h05) | 64 | 61 | 29 | 24 | 1 | 1 | Face 35 (33, 17, 15, 1, 1); Insta 28 (27, 12, 9, 0, 0); sem rede 1 |
+- **Hoje já é o melhor dia da Nora:** 14 cliques até as 13h (o recorde era o de ontem, 12), todos do Face; às 01h21 eram 4, então vieram 10 entre ~01h e 13h, com o nora76-FACE, o nora77-FACE e o nora78-FACE no ar (o Insights por post soma só 7 cliques nos 2 que mostram o número: ele atrasa ou conta diferente do Tracker).
+- **O Insta:** 0 clique em 24 e 25/11; no mês, 28 cliques e nenhum checkout.
+- **O funil no mês:** 45% dos cliques começam o quiz (29 de 64; os 10% melhores: 58,4%), 83% de quem começa termina (24 de 29), 1 checkout e 1 venda. Do quiz terminado ao checkout, 1 em 24; a régua dos 10% melhores dá ~7% de quem começa chegando ao checkout (Dashboard do MVM): a Nora está em ~3% (1 caso, cedo para taxa).
+- **A conta dos cliques desde 27/10** (a régua antiga, ~66 até 01h21): com o mês em 64 e outubro (27 a 31/10) somando os dias antes, fica em ~75 cliques para 1 venda.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
