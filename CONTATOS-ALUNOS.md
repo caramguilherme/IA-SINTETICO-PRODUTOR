@@ -1163,7 +1163,7 @@ com o gpt não sei se dá, nunca testei
 ```
 **Fontes:** a edição P45 (`CLAUDE.md`, seção 2: transcrevo, ponho os textos pelo painel e devolvo o `noraNN-final`; as ferramentas em `ferramentas-painel/ferramentas/`). Se o ChatGPT faz o mesmo, não sei (não testei).
 
-## SUGERIDO (25/11/2026 12h12; DM do th [MVM], resposta às mensagens dele de 12h10: "tu podia me ensinar esse esquema do claude… comecei a postar meus video ontem… queria fazer no volume, postar 6 por dia… editando no capcut n da… to fazendo tudo pelo flow"; uma mensagem só; conta como enviado)
+## SUGERIDO (25/11/2026 12h11; DM do th [MVM], resposta às mensagens dele de 12h10: "tu podia me ensinar esse esquema do claude… comecei a postar meus video ontem… queria fazer no volume, postar 6 por dia… editando no capcut n da… to fazendo tudo pelo flow"; uma mensagem só; conta como enviado)
 ```
 posso sim mano
 mas precisa do claude, o pro já vem com o claude code (é nele que roda, não no chat)
