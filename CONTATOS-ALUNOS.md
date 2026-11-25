@@ -1087,3 +1087,27 @@ bora pra segunda 🚀
 **Por que só esses 3 (o aluno perguntou se marca e quem):** marcar agradece em público (P44) e mantém o laço; marcar muitos vira spam e dilui. O Gustavo (as calls e a mentoria de 23/11, de onde saíram o caminho do nora75 e o "o problema é o body"); o Caio1094 (a bandeira dos EUA de 16/11, que voltou do nora77 em diante, e a mineração das últimas 48 h, que deu o nora75; DMs de 17 e 24/11); o Pedro⚡ (o personagem falando desde o 1º quadro, sem hook; DMs de 17/11). Os outros entram no "a todo mundo". Com o print do painel da Appyon, não o da tela de bloqueio (foto pessoal). No Discord, a marcação só notifica se escolher o nome na lista que aparece ao digitar o @.
 **Depois:** as voltas de 26/11 ao Gustavo Alves e ao Pedro⚡ seguem, com o resultado do teste do corpo e da bandeira; se eles responderem no #vitórias, só reagir.
 **Postado às ~01h12** (o aluno escreveu "quase 1 mês testando até sair a primeira" e tirou "avatar de ia, insta + face"; marcou o Gustavo Alves, o Caio1094 e o Pedro⚡; o print do Dashboard da Appyon). **O Pedro⚡ respondeu às 01h14:** "AEEEE!! 🚀 É SÓ O COMEÇO, MANO! 🏆". Só reagir (🚀 ou 🙏), sem mensagem nova.
+
+## SUGERIDO (25/11/2026 01h42; 33ª leitura do Discord; contam como enviados, P44; uma mensagem por pessoa)
+**1. À Lorena, no #chat-appyon, em resposta à mensagem dela de 24/11 15h27 ("funil de manifestacao qual seria uma porcentagem boa de conversao?"):**
+```
+oi lorena, pelo dashboard do mvm (a média dos 10% melhores): uns 58% de quem clica começa o quiz, uns 7% de quem começa chega no checkout e uns 8% do checkout compra
+dá uns 0,3% de clique pra venda, mais ou menos 1 venda a cada 300 e poucos cliques
+eu acompanho todo dia no tracker mas só tiro conclusão com volume, o próprio painel fala que fica confiável a partir de uns 1000 cliques
+```
+**Fontes:** o Dashboard do MVM de 20/11 (`MATERIAIS-PAINEL-MVM/`): 58,4% começam o quiz, 6,8% chegam ao checkout, 8,2% compram, 0,32% de clique para venda, "confiável a partir de 1.000 cliques"; a régua oficial da Central, ~330 cliques por venda.
+
+**2. Ao Davi marques, no #apresente-se, em resposta à mensagem dele de 24/11 15h33 ("pode postar o msm vídeo em mais de uma conta?"):**
+```
+opa davi, na aula 55 (1h12) o gustavo fala que o mesmo vídeo pode ir no insta e no face da mesma avatar
+mas em outra conta, com outra avatar, não
+```
+**Fonte:** aula 55, 1:12:51: "o mesmo vídeo a gente pode postar… um Instagram da avatar Rose… e um Facebook da avatar Rose… mas em outras contas assim, não".
+
+**3. À Marcela Zaramella, no #vitórias-dólar, em resposta à 1ª venda dela (24/11 16h37):**
+```
+parabéns marcela!! 🎉
+saiu do insta ou do face?
+```
+**Por que:** é a fase da Nora (1ª venda, de um vídeo pequeno, depois de virais sem venda). Se ela responder, só reagir.
+
