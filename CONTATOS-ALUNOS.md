@@ -1132,7 +1132,7 @@ e aí, qual formato vc ta rodando agr?
 ```
 **Fontes:** a venda de 25/11 00h35 pelo Face (tela de Vendas); 24 e 25/11, 16 cliques, todos do Face (Tracker); a receita da maioria (23/11 15h34); a Nora sem a pintura desde o nora75; o mesmo corpo com Take 1 novo no Face (24/11 10h59); o nora76-FACE com 4.025 views (CSV). **A call:** se o aluno quiser, acrescentar uma linha com o dia e a hora; senão, fica sem.
 
-## SUGERIDO (25/11/2026 12h00; DM do th [MVM], resposta à mensagem dele de 25/11 07h45: "como assim? to sem claude, to com o gpt pro"; uma mensagem só; conta como enviado, P44)
+## SUGERIDO (25/11/2026 11h57; DM do th [MVM], resposta à mensagem dele de 25/11 07h45: "como assim? to sem claude, to com o gpt pro"; uma mensagem só; conta como enviado, P44)
 **A conversa antes (colada pelo aluno):** o th (24/11 10h47) perguntou se ele ativou a conta do Flow; o aluno (17h44): usa o Muse "no esquema que foi ensinado no fórum"; o th (22h54): usa o Flow e não chegou num bom resultado com o tutorial do Vinicius; o aluno (23h18): curtiu, "achei bem melhor que o flow… joga o conteudo no claude, e pede pra ele ajudar no prompt".
 ```
 dá no gpt mesmo, o esquema do vinicius foi feito pro chatgpt
