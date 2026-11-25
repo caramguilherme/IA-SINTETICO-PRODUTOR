@@ -1,4 +1,4 @@
-# REGRAS DA NORA (rascunho de 24/11/2026, posto em dia em 25/11 15h18, para o aluno ler antes de autorizar)
+# REGRAS DA NORA (rascunho de 24/11/2026, posto em dia em 25/11 16h47, para o aluno ler antes de autorizar)
 
 **Como vai funcionar, se você aprovar:**
 - Este é o **único** documento de regras. Toda regra em vigor está aqui, uma por linha, com a data e de onde veio.
@@ -108,6 +108,7 @@
 7. Se recusar: "Generate prompt X again, exactly as written"; nunca deixar o Muse reescrever a fala; a troca é a reserva do painel. (18/11)
 8. Sem limite por dia conhecido; se aparecer o erro de limite, você avisa e eu ajusto o horário. (23/11)
 9. Nunca perguntar o saldo de créditos ou de tokens: você avisa quando acabar. (16/11)
+10. Take avulso (1 a 3 clipes: um Take 1 novo, uma data nova, um CTA do Face) vai só no Muse, com o prompt completo do take (voz travada, consistência de voz, movimentação, continuidade, regra da fala) e a imagem anexada; a Central só entra no corpo inteiro. O painel desses não mostra a seção da Central. (25/11, depois da dúvida do extra das 16h)
 
 ## 11. Painel
 1. Sempre do `PAINEL-MODELO.html`, enxuto, conferido com o `conferir-painel.js` e com a conferência das regras. **[trava]** (11/11; 24/11)
@@ -151,4 +152,5 @@
 3. **No Insta, a abertura (os 2 a 3 primeiros segundos) nunca repete a do post anterior** **[trava]**. Entraria na 3.2. (A canela no copo d'água foi 3 vezes e o skip subiu a cada uma: 55,9%, 64,0% e 67,8%; o tsunami do nora74 voltou com 84,6%.)
 4. **A checagem do Take 1** (Robert McKeaveney, vídeo 10): antes do painel, o Take 1 responde a 3 perguntas: faz uma pergunta? tem gancho visual, falado e escrito ao mesmo tempo? é um formato de gancho que já viralizou? A resposta vai no Resumo do painel. Entraria na seção 11. (A curva da Nora no Insta é a do "problema no gancho": ~50% saem em 2 s.)
 5. **(O meu jeito de procurar) Número se procura também com vírgula, com espaço e por extenso** ("30 a 40%", "30, 40%", "trinta"). Entraria na 1.1. (25/11: na R94 eu disse que um número não tinha fonte porque procurei de um jeito só.)
+6. **A leitura da curva de retenção pelo Robert** (vídeo 10): em toda leitura de Insights, eu digo se a queda é no gancho (os primeiros segundos), no meio (a construção) ou no fim (a recompensa) e qual conserto vale (gancho: fazer uma pergunta, juntar gancho visual, falado e escrito, copiar formato que já viralizou; meio: reforçar a pergunta, não enrolar, gancho novo a cada poucos segundos; fim: responder a pergunta e estar no fim). Entraria na seção 13.
 
