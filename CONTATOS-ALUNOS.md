@@ -1143,7 +1143,7 @@ o ricardo santana postou no fórum (muse: como criar conta e fazer vídeos) um s
 ```
 **Fontes:** o guia do Vinicius B (`MATERIAIS-MUSE/LEIA.md`: o "ChatGPT treinado" com o Prompt Mestre, blocos de até 10 s, o first frame em todo bloco, a CANONICAL_VOICE_LOCK igual em todos); o nosso teste de 1 take antes do nora70 (18/11); o post do Ricardo lido na 33ª leitura. Nada da conta da Nora (o e-mail, o número, os tokens).
 
-## SUGERIDO (25/11/2026 12h02; DM do th [MVM], resposta às perguntas dele de 11h58 a 12h00: "tu so joga a voz por cima e faz os cortes no capcut?", "tu gera take por take?", "como o vini ensinou é um promt gigante, dai o video ja sai pronto"; uma mensagem só; conta como enviado)
+## SUGERIDO (25/11/2026 12h01; DM do th [MVM], resposta às perguntas dele de 11h58 a 12h00: "tu so joga a voz por cima e faz os cortes no capcut?", "tu gera take por take?", "como o vini ensinou é um promt gigante, dai o video ja sai pronto"; uma mensagem só; conta como enviado)
 **Enviado antes (11h58 e 11h59, print do aluno):** a resposta de 11h57, inteira.
 ```
 não, a voz já vem no próprio vídeo do muse, com a boca sincronizada, não jogo nada por cima
