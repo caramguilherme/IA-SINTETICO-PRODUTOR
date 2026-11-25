@@ -1183,3 +1183,11 @@ ele faz isso: legenda, headline, setas e símbolos, e ainda varia o vídeo de 1%
 eu não uso ele, então não sei te dizer como fica, mas pra quem quer volume pode ser o caminho
 ```
 **Fontes:** a aula 57 (`TRANSCRICOES/2026-10-02-aula-57-editor-automatico-gustavo.md`): o editor junta ganchos, bodies e CTAs em combinações (5 × 9 = 45 vídeos), põe legenda (vários estilos), headline, frase, símbolos e setas (linhas 286 a 298), varia "entre 1% e 20%… a gente foge de conteúdo reutilizado" (0:05:58), com o acesso liberado pela Central ("Mentor explica como liberar o acesso"). A Nora não usa o AutoEditor (edição P45 aqui).
+
+## CORREÇÃO (25/11/2026 13h10; para o th [MVM]; erro meu na sugestão de 12h16)
+**O erro:** eu sugeri ao th "olha o autoeditor do gustavo, da aula 57, na central", mas o AutoEditor só é liberado para quem bate 100 vendas em 30 dias (aula 57, linha 396: "é liberado de graça, você bateu 100 vendas em 30 dias, eu envio pra você"; a Central do aluno mostra "Faltam 100 vendas para liberar o autoeditor"). O th começou a postar em 24/11: ele não tem acesso. **Se o th ainda não respondeu, a correção vai como a próxima mensagem, curta (é correção de informação errada, não uma 2ª conversa); se ele já respondeu, vai junto com a resposta:**
+```
+ah, corrigindo o que te falei: o autoeditor só libera com 100 vendas em 30 dias, vi aqui na central agora
+então pra começar o caminho é o capcut mesmo ou o claude/gpt
+```
+
