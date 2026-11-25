@@ -6,7 +6,7 @@ Responda pelos números (ex.: "1 pode montar, 2 opção A, 5 aprovo menos o 15.3
 
 ## A. Hoje, com hora marcada
 
-1. **O "pode montar" dos 2 posts extras do Face** (a regra nova de 4 por dia, que você aprovou à 01h20):
+1. **[16h: "pode montar" às ~15h25; painel https://claude.ai/artifact/GN647dtvWRjmYLej2NZ2aC; a data do T03 ficou "before Friday, November 27th", 2 dias à frente, como no nora75. O das 21h30 fica para depois, junto com a noite.]** O "pode montar" dos 2 posts extras do Face (a regra nova de 4 por dia, que você aprovou à 01h20):
    - **16h:** o corpo preto (o do nora75, que já existe) com uma abertura nova, a do 11:11, e a data do T03 trocada para "before Thursday, November 26th". O CTA manda para o 1º comentário. São **3 clipes no Muse**.
    - **21h30:** o corpo cinza (o do nora77) com a abertura dos signos e a data do T03 trocada. São **2 clipes**.
    - **O prazo real das 16h:** com o "pode montar" até ~15h30, o painel sai às ~15h40, você gera os 3 clipes e me manda o montado às ~16h, e eu devolvo às ~16h15. Atrasou, posta assim que der (a regra de 11/11).
