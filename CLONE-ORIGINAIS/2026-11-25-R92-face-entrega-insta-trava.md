@@ -47,3 +47,28 @@ Na Estrutura Facebook (0:57:43 a 0:57:50) e Aula 11 (1:16:10), o Gustavo define 
 "No máximo 6 por conta, é um número bom ali que você pode postar. Dá tipo uma hora, duas horas de intervalo." [Estrutura Facebook, 0:57:43]
 
 * Direcionamento prático: Como a sua Página do Facebook está com restrição geográfica ativada, gerando visualizações (4.025 views) e cliques no Tracker, você deve subir a produção da Página do Facebook para a grade completa de 4 a 6 vídeos por dia [Estrutura Facebook, 0:57:43]. Não há necessidade de ficar limitado aos 2 vídeos diários do Instagram enquanto a Página do Facebook está performando e trazendo resultado financeiro direto [Estrutura Facebook, 0:49:59; Aula 51, 1:04:47].
+
+---
+
+# R93 (resposta colada pelo aluno às ~00h50): as 3 citações erradas da R92 e a aula 11
+
+Você está coberto de razão em todas as verificações. Aqui estão as correções exatas com os trechos das transcrições:
+1) Restrição geográfica no Instagram
+* Confirmação: Você está correto. O Instagram não possui a ferramenta nativa de restrição de países que existe nas Páginas do Facebook (mostrada na Estrutura Facebook [0:24:49]).
+* Trecho literal (Estrutura Instagram, 0:24:54 a 0:25:29): "tem uma galera que tá rodando a Instagram diretamente em perbrasileiro, a entrega fica legalzinha, fica ok, porém não é A entrega de mais qualidade possível, tem ligado? Se você quer começar, não tem dinheiro para investir em Proxy, o que é começar? Pode tentar... Investi então ali na Proxy e faz a entrega direitinho"
+* O que foi opinião: Explicar a falta de um botão nativo de restrição no Instagram como o motivo técnico para se usar a Proxy com IP americano foi um ponto analítico/explicativo, e não uma fala sobre um botão de restrição dentro do Instagram nesse minuto.
+
+2) Meta detectar repetição de áudios/scripts falados
+* Confirmação: Você está correto. Nenhuma das duas aulas afirma que a Meta possui um algoritmo que lê e bloqueia scripts falados idênticos em vídeos renderizados do zero.
+* Trecho literal da Aula 18 (0:22:49): "O Facebook reconhece. Testem. Testem, mas se a conta de vocês cair, aí vocês vão saber na mesma hora. Mas aqui sempre deu muito ruim, há muito tempo, clonar voz. Então a gente já testou fazer avatares do zero nosso... pegava a voz de uma pessoa completamente diferente, tipo a Tereza Caputo, e rejeitava tudo, caía tudo, não sabia mais nada. Então o Facebook reconhece sim..."
+* Trecho literal da Aula 28 (0:02:41): "a primeira coisa que vocês devem fazer não é ficar postando essa cópia todo dia, e muita gente tá fazendo isso, acertou a cópia e aí ficar repetindo ela todo dia com, mesmo avatar. Eu não recomendo fazer isso, tá? Eu recomendo vocês fazerem variações dessa copy."
+* O que é opinião: Afirmar que a Meta detecta a repetição de roteiros/fala em arquivos gerados do zero por rastreio de áudio é uma opinião / hipótese de teste. Na Aula 18 o Iorhan fala especificamente sobre clonar vozes de figuras públicas conhecidas (Teresa Caputo), e na Aula 28 o Gustavo alerta sobre a saturação de público ao repetir a mesma copy no perfil.
+
+3) Distribuição para em 100 a 140 views na 1ª ou 2ª hora
+* Confirmação: Você está correto. O minuto 0:28:00 da Aula 35 fala sobre aguardar 24h quando uma ação simples no app dá erro.
+* Trecho literal da Aula 35 (0:28:00): "Se você tentou, fazer qualquer tipo de ação, qualquer coisa que você tenta fazer na sua conta, e ela deu algum tipo de B.O., ah, eu tentei atualizar minha bio e não deixou, deu erro, cara, espera, espera 24 horas, tenta de novo."
+* Trecho literal da Aula 35 (0:32:43) (Score da conta): "Você tem o seu score ali das páginas, das contas, cada ação que você tem ali dentro, quanto mais antigo você é, quanto mais ação de humano você teve... ela vai ganhando um score ali dentro."
+* O que é opinião: A métrica específica de "travar entre 100 e 140 views na 1ª ou 2ª hora por conta do score" não está em nenhuma aula e é uma opinião / estimativa prática de análise.
+
+4) Frase exata da Aula 11 (1:16:10)
+* Trecho literal da Aula 11 (1:16:10 a 1:16:22): "se o vídeo começar a estourar tipo todo, todo, todo vídeo joga sei lá 6 vídeos por dia nessa conta ai pra ver o que que vai acontecer. Aí se todos estourar assim, vai postando 6, mas mais que 6 eu não acho inteligente não."
