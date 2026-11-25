@@ -1037,6 +1037,11 @@ O aluno ficou fora de 21/11 de manhã a 22/11 22h23: nenhum post novo e o story 
 - **A Biblioteca (o resto da lista):** o nora74-FACE em 220 (−0,4x), o nora73 em 310, o nora72 em 331, o nora71 em 337, o nora70 em 216, o nora69 em 326; os outros sem mudança que conte. O 1º da lista, com 4 views, é um post de agora (se for o nora77-FACE, a leitura é com ~24 h). Um de 40 views (−5,5x, 16 s de tempo médio) não deu para identificar só pela lista.
 - **O que fica:** no Face, abrir com as letras do nome enquanto o corpo for o mesmo; a régua dos 2 de hoje é a mesma (24 h): views, seguidores e os cliques no link dos Insights.
 
+## 25/11 00h22: a grade do perfil no Insta (print do aluno)
+- **nora78** 0 (postado às 00h20) · **nora77** 118 com ~5 h · **nora76** 139 com ~23 h (parado desde a 2ª hora: era 135 às 11h06) · **nora75** 690 com ~29 h (era 610 às 17h04: continua subindo devagar) · **nora74** 24 · **nora73** 248 · **nora72** 143 · **nora71** 153.
+- **O teste do conteúdo repetido fecha com ~24 h:** o vídeo gerado de novo (nora75) foi a 690; o que reaproveitou o arquivo (nora76) parou em 139. É a regra de 24/11 11h10 (cada post do Insta gerado de novo do 1º ao último take). Os Insights dos 2 (visitas ao perfil, seguidores, skip) fecham a linha na `FILA`.
+- **O nora77 com ~5 h** (118) ainda não diz nada: a régua é com ~24 h (~19h27 de 25/11), pelas visitas ao perfil e os cliques, contra o nora78 na mesma idade.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
