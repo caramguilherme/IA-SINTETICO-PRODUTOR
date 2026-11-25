@@ -151,7 +151,7 @@ def livre():
     return t
 
 
-def config(img_b, n):
+def config(img_b, n, mood='Íntimo e confidencial'):
     cf = copy.deepcopy(B.BASE['central']['config'])
     for s in cf:
         for campo in s['campos']:
@@ -163,7 +163,7 @@ def config(img_b, n):
             elif campo['campo'] == 'Movimento de câmera':
                 campo['valor'] = 'Estático / câmera parada, sem zoom'
             elif campo['campo'] == 'Atmosfera / mood':
-                campo['valor'] = 'Íntimo e confidencial'
+                campo['valor'] = mood
             elif campo['campo'] == 'Movimentação':
                 campo['valor'] = f'colar as {n - 1} linhas, uma por take (T02 a T{n:02d})'
             elif campo['campo'] == 'Conferir':
@@ -181,14 +181,14 @@ def mapa(P):
         {'nome': 'Seta (eu ponho)', 'fonte': '—', 'cor': 'vermelha', 'tamanho': 'GRANDE (desde 24/11)', 'contorno': 'preto',
          'obs': 'Embaixo à esquerda, do CTA até o fim (aula 26: “you have to make it giant”).'},
     ]
-    m['regras'] = ['Sem texto no topo; só o “11:11✨” pequeno no alto à esquerda, a legenda simples e a seta grande no fim.',
+    m['regras'] = ['Sem texto no topo; só o “11:11✨” pequeno no alto à direita (à esquerda fica o quadro da bandeira), a legenda simples e a seta grande no fim.',
                    'Eu ponho tudo (P45); você monta só o vídeo e a música.']
-    m['numeros'] = [{'t': '11:11✨', 'x': 18, 'y': 16, 'onde': 'alto à esquerda, o vídeo todo', 'cor_nome': 'branco', 'cor': '#FFFFFF', 'tamanho': 11}]
+    m['numeros'] = [{'t': '11:11✨', 'x': 82, 'y': 16, 'onde': 'alto à direita, o vídeo todo (à esquerda fica o quadro da bandeira)', 'cor_nome': 'branco', 'cor': '#FFFFFF', 'tamanho': 11}]
 
 
 STORY_NOTA = ('O story de 24/11 01h15 vence às ~01h15 de 25/11. Reposte ANTES, no Insta e no Face, ao vivo, com o story do “gift” '
               '(ferramentas-painel/dia-2411/story-gift-2411.jpg; eu mando no chat), adesivo “TAP TO CONTINUE 🎁” com o link STORYIG no Insta e o FACE no Face. '
-              'O melhor momento é junto com o nora78, à 0h00. Antes de abrir o Insta, confira o IP e os EUA no mylocation.org.')
+              'O melhor momento é junto com o nora78, por volta das 0h30 (ainda antes das 01h15). Antes de abrir o Insta, confira o IP e os EUA no mylocation.org.')
 
 
 def imagens_secao(P, titulo, conceito, etapas):
@@ -368,7 +368,7 @@ def nora78():
                     {'rotulo': f'IMAGEM 2 · {IMG_B78}', 'cena': 'gerada no Flow (seção das imagens)', 'anexar': f'a {IMG_B78}'}]
     P['roteiro'] = {
         'id': 'nora78-CORPO-LEVE-LADO-2411',
-        'titulo': 'nora78 · Insta e Face 0h00 de 25/11 · o teste do corpo, lado B: o corpo leve (a dor das contas, os sinais pequenos, o CTA com motivo)',
+        'titulo': 'nora78 · Insta e Face ~0h30 de 25/11 · o teste do corpo, lado B: o corpo leve (a dor das contas, os sinais pequenos, o CTA com motivo)',
         'duracao_total': 65,
         'descricao_instagram': ("If you're tired of carrying everything, this is for you 🌿 Your private reading is waiting in my story 🔮\n"
                                 'Comment the time you’re watching this ⏰\n'
@@ -389,7 +389,7 @@ def nora78():
     P['comentario_fixado'] = {'insta': 'This is your sign 🌿 tap my profile picture above, your reading is waiting in my story',
                               'face': 'Your reading is waiting for you here 🙏 👉 ' + FB}
     ct = P['central']
-    ct['config'] = config(IMG_B78, n)
+    ct['config'] = config(IMG_B78, n, 'Caloroso e acolhedor')  # 24/11 23h25: o corpo leve é fala de amiga (LICOES, 19/11 ~14h)
     ct['colagens'] = [{'titulo': f'nora78: a colagem do T02 ao T{n:02d} (na {IMG_B78})', 'fala': ' '.join(FALA78[1:]),
                        'movimentacao': [B23.mov(GESTO78[i]) for i in range(1, n)], 'takes': list(range(1, n))}]
     ct['conferir'] = ('Conferir em cada take: a Nora sem a pintura, de moletom azul-marinho, no ângulo novo, com o copo; ela fala uma vez só. No T09, se o Muse cortar a '
@@ -415,7 +415,7 @@ def nora78():
                   'Ficam fora do Face: o T01 (o Face abre com outro take), o T08 e o T09 (o CTA do story).')},
         {'quando': 'A. Antes de tudo', 'texto': 'Projeto novo no CapCut com o nora78-cortado', 'como': 'Começa direto no T01, sem hook. O T10 e o T11 ficam no fim, como vieram da FusionZ.'},
         {'quando': '1. Do começo ao fim', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB, o vídeo todo (o T10 e o T11 também)', 'como': 'Começa no 1º quadro.'},
-        {'quando': '2. Exportar e me mandar até ~23h15', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
+        {'quando': '2. Exportar e me mandar até ~0h10', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
          'como': '1080×1920, nome nora78-montado (link do Drive se passar de 30 MB). Eu devolvo em ~20 min os 2 prontos: o nora78-final (Insta) e o nora78-final-FACE.'},
     ]
     P['pecas'] = {
@@ -429,7 +429,7 @@ def nora78():
             'O QUE ESTE VÍDEO TESTA: o corpo. É o lado B (o corpo leve: a dor das contas na 2ª frase, os sinais pequenos, o CTA que diz o que tem do outro lado, '
             'a aula 64, 0:14:59) contra o nora77 (o corpo da maioria). A medida, com ~24 h: as visitas ao perfil e os cliques no Tracker.',
             f'{n} takes ({P78} palavras, ~1:05) + 2 só do Face = {n + 2} clipes no Muse. A mesma frase do Take 1 (a canela) e o mesmo sofá do nora77, com outra roupa (moletom azul-marinho) e de outro ângulo; o vídeo inteiro de azul-marinho.',
-            'Insta e Face à 0h00. No Face: as letras do nome na abertura e a última frase manda para o 1º comentário.',
+            'Insta e Face por volta das 0h30 (o montado até ~0h10; eu devolvo em ~20 min). No Face: as letras do nome na abertura e a última frase manda para o 1º comentário.',
             'Reposte o story do “gift” junto com este post (o de 24/11 vence às ~01h15).',
         ],
     }
