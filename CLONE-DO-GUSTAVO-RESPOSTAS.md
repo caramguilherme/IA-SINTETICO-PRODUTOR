@@ -2145,3 +2145,32 @@ Gustavo, uma conferência rápida: a call do Kobata de 11/11 que temos termina e
 **R91 (o que ele disse; texto inteiro em `CLONE-ORIGINAIS/2026-11-24-R91-aula-71-recap-gustavo.md`):** a "Aula 71" do notebook é a mesma gravação da call do Kobata, que segue depois do "Fiquem com Deus" (0:47:30): a partir de 0:48:11 o Gustavo recapitula, e o trecho é dele: "se o chargeback aumenta e vocês estão botando uma copy muito black, ou simplesmente fazendo alguma coisa que é incoerente com o resto do funil… tem que ter uma coerência entre o criativo e o funil que aquele criativo tá levando."
 
 **Conferido (24/11 11h44):** a explicação faz sentido (a nossa transcrição, colada do Loom, acaba no fim da fala do Kobata, 0:47:30), mas a parte do Gustavo depois de 0:48:11 não está no projeto: fica **sem como conferir**, como trecho colado pelo Clone. O conteúdo bate com o que já temos (a call do Kobata, 0:27:05 a 0:27:47; a aula 65, 1:49:13): a copy "muito black" e incoerente com o funil sobe o chargeback. Nada muda além da R90. **Pendente do aluno, se der:** o resto da gravação da call do Kobata de 11/11 (a recapitulação do Gustavo depois de 0:47:30). Não precisa voltar ao Clone.
+
+## R92 (25/11/2026 00h39, montada a pedido do aluno: "alguma pergunta/duvida pro clone? pra entender pq no face ta entregando bem, e no insta ta estagnado"; esperando a resposta): o mesmo vídeo entrega no Face e trava no Insta
+- **O texto (2974 caracteres):**
+
+```
+Gustavo, uma dúvida sobre o Insta e o Face da mesma conta. Para cada item, diga a aula e o minuto e cole a frase exata; o que não tiver fonte, marque como opinião.
+
+OS NÚMEROS (o mesmo vídeo nas 2 redes; no Face, a versão sem selos e sem dinheiro, abrindo com as letras do nome)
+- nora76: Insta 139 views em 23 h, parado desde a 2ª hora, skip 59%, tempo médio 10 s (o Insta marcou "strong hook"), 0 visita ao perfil. Face: 4.025 views em 23 h, +5,8x, 26 seguidores, 13 s de tempo médio, 2 cliques no link.
+- nora77 (o mesmo texto do nora75, gerado de novo do 1º ao último take, com outra roupa, 24 h depois): Insta 118 views em 5 h, parado desde 1h30, skip 64,5% (o nora75 teve 56%), 6 s; Face 339 em 5 h, +1,5x.
+- Desde 11/11, os falados do Insta ficam entre 110 e 250 views (só o nora75 fez 690), com 0 a 2 visitas ao perfil. Tracker de 24/11: 7 cliques, todos do Face.
+- A conta do Insta: 2 verificações faciais (13/10 e 17/11); de 10 a 12/11, 6 vídeos por dia com a mesma copy; desde 14/11, 2 por dia (19h30 e 0h00); ~160 seguidores; 44 vídeos do Manifestation. A Página tem restrição de país (EUA, Canadá, Reino Unido, Austrália, NZ); o Insta não tem (o nora75 teve 18% de EUA e 5% de Malásia).
+
+1) POR QUE O MESMO VÍDEO ENTREGA NUMA REDE E NÃO NA OUTRA
+O que as aulas dizem sobre a diferença de entrega entre o Reels do Face e o do Insta para o mesmo conteúdo? O peso é da conta do Insta (o histórico de repetição e as verificações), do público (o Face entrega para 45+ dos EUA com a restrição de país) ou do conteúdo?
+
+2) TEXTO REPETIDO, VÍDEO NOVO
+O nora77 tinha o vídeo todo novo, mas a mesma fala do nora75 e do corpo do nora76: a 3ª vez em ~30 h. As aulas tratam a mesma fala (o mesmo áudio, a mesma voz) como conteúdo repetido no Insta, mesmo com o vídeo gerado de novo? Na aula 32 (1:29:03 a 1:29:43) o Gustavo diz que postar a mesma cópia de novo e de novo "vai chegar uma hora que vai estagnar", e na aula 31 (0:07:20) que para de funcionar em 7 a 10 dias. Existe nas aulas um intervalo mínimo para repetir a mesma copy no Insta?
+
+3) FLAG DA CONTA OU CONTEÚDO FRACO
+Na mentoria de 23/11 (0:04:22 a 0:05:32) o Gustavo diz que o conteúdo repetido "dá um flag… como se fosse shadowban… até você começar a fazer conteúdo diferente".
+a) Que sinal nos Insights separa esse flag de um conteúdo fraco? (O nora76 teve "strong hook" e parou em 135 na 2ª hora.)
+b) Para sair do flag: quantos posts ou dias de conteúdo diferente? Tem número em alguma aula?
+c) A régua de ~3 semanas de flop para trocar a avatar (call de 18/11, 0:07:27) eu já tenho: não precisa repetir.
+
+4) PRIORIDADE ENQUANTO O INSTA NÃO DESTRAVA
+Com o Face entregando e dando os cliques, alguma aula manda concentrar a produção no Face (mais posts por dia na Página, ou mais Páginas) enquanto o Insta não destrava? Na Estrutura Facebook (0:52:06) o Gustavo diz que o Face teve 71% das vendas em 29/05. Hoje a Página recebe 2 por dia (as versões do Face dos vídeos do Insta), e a nossa grade pede 4 a 6.
+```
+- **A resposta:** esperando o aluno colar. Conferir cada citação nas `TRANSCRICOES/` e nos nossos números antes de virar regra.
