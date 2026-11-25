@@ -1,4 +1,4 @@
-# REGRAS DA NORA (rascunho de 24/11/2026, para o aluno ler antes de autorizar)
+# REGRAS DA NORA (rascunho de 24/11/2026, posto em dia em 25/11 15h18, para o aluno ler antes de autorizar)
 
 **Como vai funcionar, se você aprovar:**
 - Este é o **único** documento de regras. Toda regra em vigor está aqui, uma por linha, com a data e de onde veio.
@@ -6,7 +6,7 @@
 - Regra que muda: a linha velha sai daqui e vai para o `HISTORICO-REGRAS.md`, com a data. Nunca duas versões da mesma regra.
 - Regra nova só entra com o seu ok. Eu escrevo a linha, você aprova, e ela entra aqui e na conferência do gerador do painel.
 - O gerador do painel confere as regras marcadas com **[trava]**. Se uma falhar, o painel não sai.
-- **Nada disto vale ainda.** Até o seu ok, valem os arquivos de hoje. No fim (seção 15) estão os pontos em que as regras de hoje brigam entre si: preciso que você escolha.
+- **Nada disto vale ainda.** Até o seu ok, valem os arquivos de hoje. No fim estão os pontos em que as regras de hoje brigam entre si (seção 15) e as regras novas que eu proponho (seção 16): preciso que você escolha.
 
 ---
 
@@ -143,3 +143,12 @@
 4. **A copy liberada (P15 e P20, 18 e 19/10) × a P42 (30/10):** hoje convivem. **Proposta:** a P15 e a P20 vão para o histórico; no Insta vale a receita da maioria e no Face vale a P42.
 5. **As regras do Flow para vídeo** (Central com agente, Frames, créditos por segundo, Omni 1.1/1.2): o Flow pago caiu em 18/11. **Proposta:** vão para o histórico; se o Flow pago voltar, a gente traz de volta.
 6. **As P1 a P47 que já não valem** (Dana, Soulmate, Love Chart, pré-gancho mudo, estilo de alto contraste, Poppins, 3 números coloridos, directs com link): **proposta:** vão para o histórico, fora deste documento.
+7. **A troca da avatar depois de ~3 semanas de flop (~02/12):** a regra veio da call de 18/11 (0:07:20) e está na 8.1, mas a 1ª venda veio do Face com esta avatar (25/11), e o Face entrega (nora76-FACE 4,5 mil, nora77-FACE 3,4 mil). O flop é só no Insta. **Proposta:** a troca sai; o que trava no Insta se resolve pela abertura e pelo volume (os testes do quadro).
+
+## 16. Regras novas que eu proponho (25/11; só entram com o seu ok)
+1. **O comentário da Página muda a frase da frente a cada post**; o link FACE inteiro fica igual. Entraria na 5.5. (33ª leitura do Discord: a Zahzinha perdeu a conta e as 4 Páginas, e o comentário fixado sempre igual foi lido como spam.)
+2. **No Face, além de "money", sem "prosperity", "abundance" e "scarcity"** (e sem a #abundance). Entraria na 4.1, com **[trava]**. (33ª leitura: 3 Páginas de manifestação derrubadas com promessa de abundância; o corpo A do nora77-FACE tem as 3 palavras.)
+3. **No Insta, a abertura (os 2 a 3 primeiros segundos) nunca repete a do post anterior** **[trava]**. Entraria na 3.2. (A canela no copo d'água foi 3 vezes e o skip subiu a cada uma: 55,9%, 64,0% e 67,8%; o tsunami do nora74 voltou com 84,6%.)
+4. **A checagem do Take 1** (Robert McKeaveney, vídeo 10): antes do painel, o Take 1 responde a 3 perguntas: faz uma pergunta? tem gancho visual, falado e escrito ao mesmo tempo? é um formato de gancho que já viralizou? A resposta vai no Resumo do painel. Entraria na seção 11. (A curva da Nora no Insta é a do "problema no gancho": ~50% saem em 2 s.)
+5. **(O meu jeito de procurar) Número se procura também com vírgula, com espaço e por extenso** ("30 a 40%", "30, 40%", "trinta"). Entraria na 1.1. (25/11: na R94 eu disse que um número não tinha fonte porque procurei de um jeito só.)
+
