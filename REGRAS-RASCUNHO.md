@@ -77,7 +77,7 @@
 
 ## 7. Postagem e volume
 1. Insta: 2 por dia, às 19h30 e à 0h00, com no mínimo 4 h entre posts enquanto estiver em recuperação. (R35 a R37, R70)
-2. Face: 6 por dia (9h, 12h, 16h, 19h30, 21h30, 0h00), no mínimo 4; nas 19h30 e na 0h00, o vídeo do Insta na versão do Face. (R38)
+2. Face: 4 por dia (16h, 19h30, 21h30 e 0h00; decisão do aluno de 25/11 01h20, R92); nas 19h30 e na 0h00, o vídeo do Insta na versão do Face; nas 16h e nas 21h30, um corpo que já rodou no Face com um Take 1 novo, gerado. Até 6 por dia se estiver estourando (aula 11, 1:15:40: "mais que 6 eu não acho inteligente"). (R38, R92)
 3. Sempre ao vivo, nunca agendado (na Nora). (leituras de outubro; o agendado é teste só em conta nova)
 4. Atrasou: posta assim que der, e o próximo respeita o espaço da grade. (11/11)
 5. Aquecimento antes de postar: não precisa; se você quiser, só passivo. (aula 14, 1:43:23; R62)

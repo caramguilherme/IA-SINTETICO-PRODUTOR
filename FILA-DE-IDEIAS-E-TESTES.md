@@ -35,6 +35,8 @@
 6. **Insta: Take 1 novo + o mesmo corpo com variação de edição de 1% a 20% (zoom, cor, espelho) × o vídeo inteiro gerado de novo** (contradição da R89: aula 28, 0:07:33, e aula 31, 0:18:41, mandam pôr o gancho novo antes do mesmo corpo; a aula 57, 0:05:58, varia 1% a 20% "pra fugir de conteúdo reutilizado"; o nora76, com o mesmo arquivo do corpo sem variação, parou em ~135). Economiza ~12 clipes do Muse por post. Depois do teste do corpo; decisão do aluno (a regra de 24/11 11h10 é o vídeo inteiro novo).
 5. ~~A bandeira dos EUA no cenário~~ **não é teste: é a regra de 16/11 que parou** (o aluno, 24/11: "a gente ja tava usando coisa dos eua… nao sei pq parou"). Estava no nora67, no nora68 e no ini1811 (o broche) e no `story-1811` (na parede); saiu no nora69 e no nora70, porque o modelo da claire_mayaus era "igual, sem bandeira" (`build_dia_1711.py`), e eu não pus de volta do nora71 ao nora76. **Volta do nora77 em diante** (`CLAUDE.md`, seção 2, Produção).
 
+**Rodando desde 25/11 (aprovado pelo aluno às 01h20): o Face com 4 por dia** (16h e 21h30 = um corpo que já rodou no Face + um Take 1 novo; 19h30 e 0h00 = as versões do Face do Insta). Medida: os cliques no link dos Insights de cada Reel do Face e o Tracker do dia. Os Take 1 das 16h e das 21h30 variam o tipo (signo, 11:11, data, letras), sem repetir o da véspera.
+
 **Com o aluno (mudam a operação, não são de painel):** 2 × 4 posts por dia no Insta; agendar pelo GeeLark (só conta nova); a troca da avatar na mesma conta (~02/12, 3 semanas de flop); o curto sem fala de volta ao Insta.
 
 ### A limpa de 24/11 (o aluno: "talvez tenha testes que nem precisam ser testados mais, seria bom fazer uma limpa"): o que sai da fila e por quê
