@@ -20,7 +20,6 @@
 ### No ar (ler na data)
 | Teste | Os braços | Quando ler |
 |---|---|---|
-| Conteúdo repetido (mentoria de 23/11) | nora75 (arquivos novos) × nora76 (1:22 do nora75 reaproveitado ~6 h depois) | **lido em 24/11 11h06 (~16 h × ~10 h):** Insta 546 e subindo × 135 parado desde a 2ª hora, com o skip e o tempo iguais; Face 223 (+0,8x) × 492 (+2,8x). **25/11 00h22 (a grade do perfil): nora75 690 com ~29 h × nora76 139 com ~23 h, parado.** Falta só o Insights dos 2 (visitas ao perfil) para passar para os "Fechados" |
 | A Nora sem a pintura, na cópia da maioria (sofá, camiseta preta, dia) | nora75 e nora76 × os falados com a pintura (nora69 a nora74) | junto com o de cima |
 | **O corpo (o item 2)** | nora77, 19h30 (o corpo da maioria) × nora78, 0h00 (o corpo leve); o mesmo Take 1 no Insta e o mesmo sofá; a roupa muda (cinza × azul-marinho, 24/11 17h13, regra do aluno de 11h10) e o ângulo do nora78 gira ~30°; no Face, o take das letras do nora78 (o T10) diz "pay close attention" no lugar do "be very careful" (24/11 18h20, P42) | 25/11 ~19h30 e 26/11 ~0h00 (24 h de cada): visitas ao perfil e cliques |
 
@@ -57,6 +56,7 @@
 | As letras do nome na frente (nora73) | Insta 246 (o maior falado desde 10/11, mas 11,8% de EUA), 1 visita; Face 307, +0,9x | entrou no nora76 |
 | O campeão de volta, com o mesmo arquivo de hook do nora47 (nora74) | Insta 24 views com ~24 h e parado (84,6% de skip com ~7 h); Face 212, −0,4x | não repetir arquivo de hook |
 | O curto sem fala (ini1811) | Insta 1.705 views e 12 visitas ao perfil (o maior número de visitas); Face 2 cliques; os cliques do curto quase não fazem o quiz | fora do Insta da Nora (R79); fica no Face |
+| Conteúdo repetido no Insta (nora75 tudo gerado × nora76 com 1:22 do nora75 reaproveitado; mentoria de 23/11) | Insta 690 × 139 com a mesma retenção (skip 56% × 59%, 10 s × 10 s); o nora76 parou na 2ª hora; visitas ao perfil 2 × 0. No Face, o contrário (605 × 2.334), com o 1º take novo | Insta: cada post gerado de novo do 1º ao último take (24/11 11h10); Face: basta o Take 1 novo |
 | Variação só de edição no Face | 4 de 6 travaram (a variação do nora69 com 4 views) | saiu (21/11) |
 
 ## (Antigo, de 15 e 16/11) Em teste naquela época

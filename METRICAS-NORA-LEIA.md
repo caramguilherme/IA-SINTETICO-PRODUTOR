@@ -1042,6 +1042,19 @@ O aluno ficou fora de 21/11 de manhã a 22/11 22h23: nenhum post novo e o story 
 - **O teste do conteúdo repetido fecha com ~24 h:** o vídeo gerado de novo (nora75) foi a 690; o que reaproveitou o arquivo (nora76) parou em 139. É a regra de 24/11 11h10 (cada post do Insta gerado de novo do 1º ao último take). Os Insights dos 2 (visitas ao perfil, seguidores, skip) fecham a linha na `FILA`.
 - **O nora77 com ~5 h** (118) ainda não diz nada: a régua é com ~24 h (~19h27 de 25/11), pelas visitas ao perfil e os cliques, contra o nora78 na mesma idade.
 
+## 25/11 00h27: o teste do conteúdo repetido fechado (Insights do nora75 e do nora76 no Insta)
+| | nora75 (tudo gerado, ~29 h) | nora76 (1:22 do nora75 reaproveitado, ~23 h) |
+|---|---|---|
+| Views / contas | 690 / 640 | 139 / 135 |
+| Skip / tempo médio | 56,1% / 10 s | 59,3% / 10 s ("strong hook") |
+| Visitas ao perfil / seguidores | 2 / 1 | 0 / 0 |
+| Compart. / salvamentos / comentários | 5 / 5 / 5 | 0 / 2 / 1 |
+| EUA | 17,9% (19h00-19h15) | 42,4% (01h15) |
+
+- **A retenção foi igual; a entrega não.** O nora76 segurou como o nora75 (o Insta até marcou "strong hook"), mas parou em ~135 desde a 2ª hora; o nora75 seguiu até 690. Bate com a mentoria de 23/11 (0:04:22: o reutilizado "dá um flag") e fecha a regra de 24/11 11h10: no Insta, cada post gerado de novo do 1º ao último take. No Face foi o contrário (605 × 2.334), porque lá o 1º take era novo.
+- **O gargalo segue nas visitas ao perfil:** 2 em 690 no nora75 (0,3%). O corpo da maioria entrega views, não leva ao perfil: é o que o nora77 (o mesmo corpo) × nora78 (o corpo leve) mede hoje.
+- **A hora:** o nora75, postado antes das 19h30, teve só 17,9% de EUA; o nora76, à 01h15, 42,4%. Uma leitura só, mas vai no mesmo sentido da regra da janela (19h30 em diante).
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
