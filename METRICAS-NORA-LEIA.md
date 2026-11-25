@@ -1055,6 +1055,12 @@ O aluno ficou fora de 21/11 de manhã a 22/11 22h23: nenhum post novo e o story 
 - **O gargalo segue nas visitas ao perfil:** 2 em 690 no nora75 (0,3%). O corpo da maioria entrega views, não leva ao perfil: é o que o nora77 (o mesmo corpo) × nora78 (o corpo leve) mede hoje.
 - **A hora:** o nora75, postado antes das 19h30, teve só 17,9% de EUA; o nora76, à 01h15, 42,4%. Uma leitura só, mas vai no mesmo sentido da regra da janela (19h30 em diante).
 
+## 25/11 00h31: o nora77 no Insta com ~5 h (Insights, a aba Overview)
+- **118 views, skip 64,5%, tempo médio 6 s, 0 curtidas, 0 salvamentos, 0 seguidores; parado em ~118 desde ~1h30.** O nora75 (o mesmo texto e a mesma frase do T01, ~24 h antes) fechou com skip 56,1% e 10 s.
+- **A leitura:** não foi só a entrega. Mais gente pulou logo no começo (+8 pontos de skip) e quem ficou assistiu menos. É o mesmo sinal do nora74 (23/11 17h47: a abertura repetida cansa, o skip sobe a cada volta): a frase da canela entrou pela 2ª vez em ~24 h, com o mesmo texto do corpo pela 3ª vez (nora75, nora76, nora77). Aula 32 (1:29:03 a 1:29:43): postar a mesma cópia de novo e de novo "vai chegar uma hora que vai estagnar".
+- **Para o teste do corpo:** o nora78 abre com a mesma frase da canela (a 3ª vez); a abertura é igual nos 2 braços, então a comparação das visitas ao perfil e dos cliques continua de pé, mas os dois devem ter poucas views.
+- **Proposta (vai para o rascunho das regras, com o ok do aluno):** no Insta, a mesma frase de abertura e o mesmo texto não voltam em menos de ~7 dias; cada post com um Take 1 de outro tipo (aula 31: a data que só muda o dia cansa; "3 a 4 ganchos por corpo").
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
