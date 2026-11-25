@@ -12,7 +12,7 @@
   - **T15, o CTA para o 1º comentário:** o do nora77-FACE, "That's why I left you a quick reading. Check the first comment below to get your reading."
 - **No vídeo:** T01 novo + T02 + T03 novo + T04 (sem o "money") + T06 + T07 + T11 + T15 novo.
 - **Fora, como no nora77-FACE:** o T05 (a ameaça), o T08, o T09, o T10, o T12 e o T13.
-- **A montagem:** sem FusionZ e sem CapCut. Eu junto os clipes ao `nora75-montado`, como no nora76: a música fica no corpo do nora75 e nos 3 clipes novos vai só a voz.
+- **A montagem (mudou às 15h43, a pedido do aluno, para a música não sumir no meio):** do jeito de sempre: os 3 novos + o T02, o T04, o T06, o T07 e o T11 do nora75 na FusionZ, renomeados de 01 a 08, e a música no CapCut o vídeo todo.
 - **Na tela:** a legenda simples, o 11:11✨, a bandeirinha dos EUA pequena na edição (a cena do nora75 não tem bandeira; a regra de 16/11), a faixa "link in the comments" e a seta grande.
 - **O que testa:** a abertura do 11:11 com o corpo que vende no Face. **Medida com ~24 h:** os cliques no link (Insights) e as views, contra o nora76-FACE (as letras) e o nora75-FACE (a canela).
 
