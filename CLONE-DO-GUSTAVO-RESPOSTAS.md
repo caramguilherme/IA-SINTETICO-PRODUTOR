@@ -2210,3 +2210,30 @@ Não batem 3 citações. Para cada uma, diga a aula e o minuto certos e cole a f
   - **"Teste de alma gêmea" e "um teste rápido de 2 minutos":** o funil da Nora é o Manifestation; o CTA dela segue o texto do funil ("Three quick questions, and your private reading is ready.", R80).
 - **A R95 (pronta, abaixo)** pede a fonte dos 30% a 40%, o empilhamento no Insta, o que fazer com a Página depois da 1ª venda e o que sobe o começo do quiz.
 
+## R95 (25/11/2026 01h33, montada sem o aluno pedir, pela regra de 19/11; esperando a resposta): a fonte dos 30% a 40%, o empilhamento no Insta, a Página depois da 1ª venda e o começo do quiz
+- **O texto (2421 caracteres):**
+
+```
+Gustavo, continuando a resposta da 1ª venda. Para cada item, diga a aula e o minuto e cole a frase exata; o que não tiver fonte, marque como opinião.
+
+OS NÚMEROS
+- A venda: 25/11 00h35, Front, US$ 13,70, do Face (o Tracker mostra o link do Face; o mesmo link vai no comentário fixado de todos os posts e no story da Página). O clique foi até ~00h17, porque o botão da oferta só aparece aos 16:00 da VSL.
+- Tracker de 24/11: 12 cliques, todos do Face; 6 começaram o quiz, 4 terminaram, 0 checkout. 25/11 até 01h21: 4 cliques do Face, 2 começaram, 2 terminaram, 1 checkout, 1 venda. O Insta: 0 clique nos 2 dias. De 27/10 até hoje: ~66 cliques, 1 venda.
+- O funil é o Manifestation (Auraly), não o de alma gêmea. Os destaques da Nora (About me, Reviews só com avaliações reais do Trustpilot, How it works) estão no ar desde 14/11.
+
+1) CHECKOUT
+Você escreveu: "perfis que alcançam taxas de conversão de 30% a 40% no checkout são muito bem detalhados". De qual aula e minuto? É de quem chega ao checkout para quem compra? O Copy Hub de 23/11 fala em 27% (o perfil bom) contra 7% (o ruim) no Love Reading.
+
+2) EMPILHAR GANCHOS NO INSTA
+Você mandou manter o corpo intacto e trocar só os primeiros 3 a 5 s. No Face funcionou: o nora76-FACE (o corpo do nora75 com um Take 1 novo) fez 4.025 views. No Insta, o mesmo corpo com o arquivo reaproveitado parou em 139 (o nora75, todo gerado, fez 690), e na mentoria de 23/11 (0:04:22) o Gustavo fala do "flag" do conteúdo reutilizado. Alguma aula mostra o empilhamento de ganchos no Insta, na mesma conta, com o corpo reaproveitado? Ou isso vale para o Face e para outras contas?
+
+3) A PÁGINA DEPOIS DA 1ª VENDA
+Hoje a Página passou de 2 para 4 posts por dia (16h e 21h30: corpos que já rodaram no Face com um Take 1 novo; 19h30 e 0h00: as versões do Face dos vídeos do Insta). O que as aulas mandam fazer com uma Página que começou a vender:
+a) subir até 6 por dia (aula 11, 1:15:40: "mais que 6 eu não acho inteligente"), e com que régua;
+b) abrir uma 2ª Página, e se com a mesma Nora ou com outra avatar (na R82 você disse: 1 personagem por conta);
+c) em quanto tempo, ou depois de quantas vendas.
+
+4) O COMEÇO DO QUIZ
+Nos últimos 2 dias, ~50% dos cliques da Nora começaram o quiz; o Dashboard do MVM dá 58,4% para os 10% melhores. O que as aulas dizem que sobe essa taxa: o CTA dizendo o que tem do outro lado (aula 64, 0:14:59), o texto do comentário fixado, o story? Tem número?
+```
+
