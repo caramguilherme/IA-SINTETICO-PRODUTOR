@@ -1147,8 +1147,9 @@ o ricardo santana postou no fórum (muse: como criar conta e fazer vídeos) um s
 **Enviado antes (11h58 e 11h59, print do aluno):** a resposta de 11h57, inteira.
 ```
 não, a voz já vem no próprio vídeo do muse, com a boca sincronizada, não jogo nada por cima
-eu tb mando o prompt gigante de uma vez, mas ele me devolve um vídeo por bloco (até 10s cada), aí eu junto
+os blocos eu gero na central de animação do mvm, ela já divide a copy em takes com a movimentação de cada um
+aí colo tudo de uma vez no muse com a imagem do primeiro frame, e ele me devolve um vídeo por bloco (até 10s cada)
 o take sozinho é só no começo, pra testar se a voz e o rosto tão certos antes de gerar o resto
 depois junto tudo na fusionz, que corta os silêncios, e no capcut só coloco música baixinha. a legenda e os textos vão por cima no final
 ```
-**Fontes:** o fluxo da Nora desde 18/11 (`CLAUDE.md`, seção 2, Edição P45: o aluno corta os silêncios na FusionZ, monta no CapCut só o vídeo e a música a −18 dB; os textos e a legenda saem aqui); o Muse devolve um arquivo por bloco (os 15 clipes do nora77, 24/11); o teste de 1 take antes do nora70 (18/11). Não sei se no jeito do Vinicius o Muse junta os blocos num vídeo só: na conta da Nora nunca juntou.
+**Versão 2 (12h0x, a pedido do aluno: "eu gero os blocos na central de animação do mvm… fica mais claro de onde vem os blocos e os takes")**: entrou a Central. **Fontes:** a Central com a plataforma Flow selecionada gera o prompt e a movimentação de cada take, e o painel cola o aviso do Muse antes do bloco (`CLAUDE.md`, 18/11 ~11h57); o fluxo da Nora desde 18/11 (`CLAUDE.md`, seção 2, Edição P45: o aluno corta os silêncios na FusionZ, monta no CapCut só o vídeo e a música a −18 dB; os textos e a legenda saem aqui); o Muse devolve um arquivo por bloco (os 15 clipes do nora77, 24/11); o teste de 1 take antes do nora70 (18/11). Não sei se no jeito do Vinicius o Muse junta os blocos num vídeo só: na conta da Nora nunca juntou.
