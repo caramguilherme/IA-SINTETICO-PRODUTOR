@@ -1209,3 +1209,21 @@ ah, corrigindo o que te falei: o autoeditor só libera com 100 vendas em 30 dias
 então pra começar o caminho é o capcut mesmo ou o claude/gpt
 ```
 
+## SUGERIDO (25/11/2026 17h35; o 2º administrador da Página: o aluno quer conversar com quem passou por isso; uma mensagem por pessoa, contam como enviadas, P44)
+**Por quê:** na 33ª leitura, o Castanho e a Cassia Y convidaram administrador e caíram Página e perfil; o Inaldo citou a "aula de contingência" do Gustavo (um perfil para postar, um administrador e um de backup). O Castanho ainda está na lista de quem não respondeu a nossa última mensagem (P44: nunca duas sem resposta), então ele fica de fora por agora.
+
+**À Cassia Y (DM):**
+```
+oi cassia, tudo bem?
+vi vc contando no chat que convidou os adm e caíram os 2 perfis
+to querendo pôr um 2º adm na minha página (ela começou a vender agora) e fiquei com medo
+o que vc acha que fez cair? foi convidar vários de uma vez ou o perfil que recebeu era novo?
+```
+
+**Ao Inaldo (DM):**
+```
+salve inaldo, blz?
+vi vc falando da aula de contingência do gustavo (um perfil pra postar, um adm e um de backup)
+sabe me dizer qual aula é essa ou onde acho ela? to querendo proteger minha página que começou a vender
+```
+

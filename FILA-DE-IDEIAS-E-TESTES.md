@@ -24,6 +24,16 @@
 | A Nora sem a pintura, na cópia da maioria (sofá, camiseta preta, dia) | nora75 e nora76 × os falados com a pintura (nora69 a nora74) | junto com o de cima |
 | **O corpo (o item 2)** | nora77, 19h30 (o corpo da maioria) × nora78, 0h00 (o corpo leve); o mesmo Take 1 no Insta e o mesmo sofá; a roupa muda (cinza × azul-marinho, 24/11 17h13, regra do aluno de 11h10) e o ângulo do nora78 gira ~30°; no Face, o take das letras do nora78 (o T10) diz "pay close attention" no lugar do "be very careful" (24/11 18h20, P42) | 25/11 ~19h30 e 26/11 ~0h00 (24 h de cada): visitas ao perfil e cliques. **Parcial (25/11 13h25): no Face, o corpo da maioria muito na frente** (nora77-FACE 3.392, 13 s, 15,7% aos 20 s, 10 seguidores, 4 cliques no link × nora78-FACE 267, 7 s, 6,2%, 0, sem clique); **no Insta, os dois parados em ~120** (6 s × 3 s, 1 visita × 0), com a abertura da canela repetida pela 2ª e 3ª vez (skip 64% e 68%) |
 
+### As decisões do aluno de 25/11 17h20 (valem sobre a lista abaixo)
+- **No ar hoje:** o multi-ângulo (nora79, 19h30); a abertura que pergunta (o extra do Face das 21h30); 1 vídeo no Insta (o volume do Robert); a caixa do topo no gancho no Insta (o nora79 tem; o nora75, de 694, não tinha).
+- **Amanhã:** o trio de signos no Take 1, no Face.
+- **Só no Insta:** o desafio de pausar (o curto sem fala volta ao Insta por ele, igual ao Robert); no Face, não.
+- **Depois:** as letras na mesa com a Nora falando; os campeões repostados 1 mês depois (06/12, 18/12, 23/12).
+- **Só quando um vídeo do Insta for bem:** as versões de edição do Caio1094.
+- **Teste novo:** sem "prosperity", "abundance" e "scarcity" no Face (a 16.2 do rascunho das regras virou teste): se a entrega segue, ok; se cai, pode ser isso.
+- **Explicar ao aluno antes:** o Arcanjo que abençoa × o que avisa; o story com os campos trancados; os Trial Reels.
+- **Fora:** agendar (nada agendado); a automação do GeeLark só no aquecimento das contas novas.
+
 ### Próximos (nesta ordem)
 **O 1 e o 2 rodam juntos** (Clone R87, 24/11: o corpo é o de maior peso; o story custa 0 crédito e mede-se à parte: toques no adesivo por viewer, no story; visitas ao perfil por Reel, no corpo).
 1. **O story com o "gift"** (0 crédito, pronto: `ferramentas-painel/dia-2411/story-gift-2411.jpg`): na próxima repostagem, até ~01h15 de 25/11. Medida: toques no adesivo por viewer e cliques no Tracker, contra o `story-1811` (28 viewers, 7 toques).
