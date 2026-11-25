@@ -167,7 +167,7 @@ def painel():
                        'A 1ª imagem parte da referência do rosto; a do T02 parte da 1ª; todas as outras partem da do T02.'), etapas)
     P['roteiro'] = {
         'id': 'nora79-MULTIANGULO-COZINHA-2511',
-        'titulo': 'nora79 · Insta e Face 19h30 de 25/11 · o corpo da maioria, gerado de novo, no multi-ângulo, de regata branca e jeans, com o açúcar na soleira',
+        'titulo': 'nora79 · Insta e Face ~21h a 21h30 de 25/11 (era 19h30; o aluno foi treinar) · o corpo da maioria, gerado de novo, no multi-ângulo, de regata branca e jeans, com o açúcar na soleira',
         'duracao_total': 95,
         'descricao_instagram': ("Pour a little sugar on your doorstep tonight 🍯 Your private reading is waiting in my story 🔮\n"
                                 "Type OPEN if you're doing this tonight 👇\n"
@@ -214,7 +214,7 @@ def painel():
                   'Ficam fora do Face: o T05 (a ameaça), o T08 (os 7 minutos e o “send to yourself”), o T09 (os selos e o amen), o T10 (“amanhã às 10”), o T12 e o T13 (o CTA do story).')},
         {'quando': 'A. Antes de tudo', 'texto': 'Projeto novo no CapCut com o nora79-cortado', 'como': 'Começa direto no T01, sem hook.'},
         {'quando': '1. Do começo ao fim', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB, do 1º ao último quadro', 'como': 'Começa no 1º quadro.'},
-        {'quando': '2. Exportar e me mandar até ~19h00', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
+        {'quando': '2. Exportar e me mandar até ~20h45 (ou assim que ficar pronto)', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
          'como': '1080×1920, nome nora79-montado (acima de 30 MB, link do Drive). Eu devolvo em ~20 min o nora79-final (Insta) e o nora79-final-FACE.'},
     ]
     P['pecas'] = {
@@ -227,7 +227,7 @@ def painel():
             'retenção aos 3 e aos 10 s, o tempo médio, a curva (pelo Robert: queda no gancho, no meio ou no fim) e as visitas ao perfil. A abertura também muda (a canela cansou).',
             f'A abertura pelo modelo do Robert: o ritual dito com o objeto na mão (o formato mais copiado), o açúcar na soleira (o m26), a pergunta “por quê?” e a caixa '
             f'“It works so fast, it\'s almost scary...”; a resposta vem no T07 (“The doors that wouldn\'t open will finally open.”). {N} takes ({PALAVRAS} palavras) + 1 do Face = {N + 1} clipes; {N + 1} imagens no Flow (com a do story).',
-            'Só 1 no Insta hoje (a sua decisão: o teste do volume). Insta e Face às 19h30. O story novo vai à noite, no mesmo horário nas duas redes.',
+            'Só 1 no Insta hoje (a sua decisão: o teste do volume). Insta e Face às ~21h a 21h30 (era 19h30; 18h32, o aluno foi treinar), assim que ficar pronto. O story novo vai junto, no mesmo horário nas duas redes.',
         ],
     }
     P['story'] = {'ja_postado': False, 'nota': ('Story novo hoje à noite, no Insta e no Face no MESMO horário (para vencerem juntos): a foto nova (a última imagem da seção das imagens); '

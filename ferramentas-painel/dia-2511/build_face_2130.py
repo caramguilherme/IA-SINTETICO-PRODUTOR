@@ -81,7 +81,7 @@ def painel():
     P['imagens'] = [{'rotulo': f'IMAGEM 1 · {IMG_B}', 'cena': 'a mesma do nora77 (moletom cinza, o copo de água de canela na mão, a bandeira no quadro)', 'anexar': f'a {IMG_B}'}]
     P['roteiro'] = {
         'id': 'NORA77-VAR2511-FACE',
-        'titulo': 'nora77-VAR2511-FACE · só Face, 21h30 de 25/11 · o corpo do nora77 (moletom cinza) com a abertura que pergunta e a data nova',
+        'titulo': 'nora77-VAR2511-FACE · só Face, ~0h00 de 26/11 (era 21h30; passou porque o nora79 foi para ~21h) · o corpo do nora77 (moletom cinza) com a abertura que pergunta e a data nova',
         'duracao_total': 70,
         'descricao_instagram': 'Não vai ao Insta: este post é só do Face.',
         'descricao_face': ("You've been seeing the same numbers for weeks, haven't you? ✨ Your reading is waiting in the first comment 🔮\n"
@@ -125,7 +125,7 @@ def painel():
          'como': 'Ficam fora, como no nora77-FACE: o T05 (a ameaça), o T08, o T09, o T10, o T12 e o T13.'},
         {'quando': 'A. Antes de tudo', 'texto': f'Projeto novo no CapCut com o {NN}-cortado', 'como': 'Começa direto no 01 (a pergunta), sem hook.'},
         {'quando': '1. Do começo ao fim', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB, do 1º ao último quadro', 'como': 'Assim a música não some no meio nem no fim.'},
-        {'quando': '2. Exportar e me mandar até ~21h00', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
+        {'quando': '2. Exportar e me mandar até ~23h30', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
          'como': f'1080×1920, nome {NN}-montado (acima de 30 MB, link do Drive). Eu devolvo em ~15 min com a legenda simples, o 11:11✨ e a faixa do comentário, e tiro o “money” do 04. A bandeira já está na cena (o quadro do nora77).'},
     ]
     P['pecas'] = {
@@ -137,7 +137,7 @@ def painel():
             'O QUE ESTE VÍDEO TESTA: a abertura que pergunta (o “spark a question” do Robert; a frase do roteiro 1 da pesquisa oficial) contra a que qualifica (o 11:11 '
             'das 16h e as letras do nora77-FACE). A medida, com ~24 h: as views, os 3 s, o tempo médio e os cliques no link (Insights do Reel).',
             '2 clipes no Muse + 6 arquivos do nora77 que você já tem: 8 na FusionZ, numerados de 01 a 08, e a música no CapCut.',
-            'Só no Face, às 21h30. Legenda sem pedido de comentário; o comentário da Página (um texto novo, a regra de 25/11) com o link FACE inteiro, sem a prévia, fixado pelo app.',
+            'Só no Face, à ~0h00 (era 21h30; o nora79 foi para ~21h a 21h30, e no Face ficam 2 h ou mais entre os posts). Legenda sem pedido de comentário; o comentário da Página (um texto novo, a regra de 25/11) com o link FACE inteiro, sem a prévia, fixado pelo app.',
         ],
     }
     P['story'] = {'ja_postado': True, 'nota': 'O story novo vai à noite, no Insta e no Face no mesmo horário (o painel do nora79).'}
