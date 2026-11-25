@@ -1077,6 +1077,21 @@ O aluno ficou fora de 21/11 de manhã a 22/11 22h23: nenhum post novo e o story 
 - **O que muda hoje:** os 2 posts a mais do Face (16h e 21h30) vão com o **corpo A** (o do nora76-FACE e o do nora77-FACE, cada um com um Take 1 novo), e não com o corpo leve. **As duas versões do corpo A dizem "if this video found you before Wednesday, November 25th"**: hoje é quarta, dia 25, então o take da data é gerado de novo com a data de amanhã (painel vivo).
 - **Dashboard:** segue na 6ª conta (não abre desta); a planilha está em dia.
 
+## 25/11/2026 13h: os Insights do Face (nora75 a nora78 e o story), mandados pelo aluno um por um
+| Post | Corpo | Abertura | Views | Tempo médio | 3 s | 20 s | Seguidores | Cliques no link |
+|---|---|---|---|---|---|---|---|---|
+| nora75-FACE (23/11 19h28, ~41 h) | maioria, preto | a canela | 636 | 12 s | 45% | 18,0% | 4 | não disponível |
+| nora76-FACE (24/11 01h11, ~36 h) | maioria, preto | as letras | 4.497 | 14 s | 46% | 18,0% | 31 | **3** |
+| nora77-FACE (24/11 19h25, ~17h30) | maioria, cinza, sem a ameaça | as letras | 3.392 | 13 s | 43% | 15,7% | 10 | **4** |
+| nora78-FACE (25/11 00h18, ~12 h) | leve, azul-marinho | as letras | 267 | 7 s | 36% | 6,2% | 0 | não disponível |
+| story do Face (25/11 00h19, ~12 h) | — | — | 8 | — | — | — | 0 | (não mostra) |
+- **O post da venda:** só 2 posts mostram cliques: o nora77-FACE (4) e o nora76-FACE (3). O clique da venda foi até ~00h17 de 25/11, antes do nora78-FACE e do story novo; **o mais provável é o nora77-FACE** (estava na subida às 00h e tem o maior clique por view: 4 em 3.392, ~1,2 por 1.000, contra 3 em 4.497, ~0,7 por 1.000, do nora76-FACE), mas o Insights não diz a hora do clique: não dá para afirmar.
+- **O story do Face não traz clique:** 8 views (e 2 no de 24/11 com ~10 h). No Face, 99% das views vêm de não seguidores pelas Sugestões; o caminho do clique é o comentário da Página. A legenda do nora75-FACE e do nora76-FACE mandava "in my story and in the comments"; a do nora77-FACE e a do nora78-FACE, só para o comentário.
+- **O CTA do Face (o teste de carona):** "Check the first comment below" (nora77-FACE, 4 cliques em 3.392) × a fala mandando para o story (nora76-FACE, 3 em 4.497). Sinal a favor do comentário, com números pequenos (7 cliques).
+- **O corpo no Face:** o corpo da maioria (sem a ameaça no nora77-FACE) segura quase 3 vezes mais aos 20 s (15,7% a 18%) que o corpo leve (6,2%), e só ele trouxe seguidores e cliques. Os dois perdem a maior parte no 1º ou 2º segundo (a abertura). Confundidores: o nora78-FACE saiu às 00h18 e tem ~12 h; a leitura de 24 h é às ~00h20 de 26/11.
+- **O público certo:** EUA 73% a 80%, 55+ entre 50% e 65%.
+- **A legenda dos 3 posts do corpo da maioria tem #abundance**, e a dos nora76/77/78-FACE começa igual ("If your name starts with one of these letters ✨"). Pela 33ª leitura (Páginas de manifestação caindo pela "abundância"), entra na proposta (b): no Face, sem #abundance, e a legenda muda a cada post.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
