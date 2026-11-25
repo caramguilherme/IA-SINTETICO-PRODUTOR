@@ -86,7 +86,7 @@
 ## 8. Avatar, roupa, cenário e bandeira
 1. A personagem desta conta não troca (avatar nova só em conta nova, ou depois de ~3 semanas de flop, por decisão sua). Sem a pintura no rosto pode. (R19, R21, R79; call de 18/11)
 2. Roupa lisa de casa, sem estampa, diferente da do post anterior do Insta. **[trava]** (receita da maioria; 24/11)
-3. A bandeira dos EUA em toda cena nova: num quadro com moldura ou pendurada na vertical, maior, nunca colada chapada na parede; sem tapar rosto nem mãos. (16/11; 24/11 17h54)
+3. A bandeira dos EUA em toda cena nova: num quadro com moldura ou pendurada na vertical, maior, nunca colada chapada na parede; sem tapar rosto nem mãos. (16/11; 24/11 17h54) No Face, nenhuma bandeira posta na edição: a restrição de país da Página já filtra (decisão sua, 25/11 16h35).
 4. Um cenário por vídeo, o mesmo em todos os takes. (pesquisa oficial; receita)
 
 ## 9. Imagens (Flow, Nano Banana Pro, x4, 0 crédito)
