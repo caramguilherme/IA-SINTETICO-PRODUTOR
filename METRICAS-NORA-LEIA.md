@@ -1103,6 +1103,20 @@ O aluno ficou fora de 21/11 de manhã a 22/11 22h23: nenhum post novo e o story 
 - **O funil no mês:** 45% dos cliques começam o quiz (29 de 64; os 10% melhores: 58,4%), 83% de quem começa termina (24 de 29), 1 checkout e 1 venda. Do quiz terminado ao checkout, 1 em 24; a régua dos 10% melhores dá ~7% de quem começa chegando ao checkout (Dashboard do MVM): a Nora está em ~3% (1 caso, cedo para taxa).
 - **A conta dos cliques desde 27/10** (a régua antiga, ~66 até 01h21): com o mês em 64 e outubro (27 a 31/10) somando os dias antes, fica em ~75 cliques para 1 venda.
 
+## 25/11/2026 13h25: os Insights do Insta (nora75 a nora78) e o story de 24/11
+| Post (Insta) | Corpo | Abertura | Idade | Views | Tempo médio | Skip | Visitas ao perfil | Follows | EUA |
+|---|---|---|---|---|---|---|---|---|---|
+| nora75 | maioria (preto), tudo gerado | a canela (1ª vez) | ~42 h | 694 | 10 s | 55,9% | 2 | 1 | 17,9% |
+| nora76 | o do nora75 reaproveitado | as letras | ~36 h | 140 | 10 s | 59,6% | 0 | 0 | 42,1% |
+| nora77 | maioria (cinza), gerado de novo | a canela (2ª vez) | ~18 h | 122 | 6 s | 64,0% | 1 | 0 | 6,6% (Reino Unido 20,5%, Irlanda 7,4%) |
+| nora78 | leve (azul-marinho) | a canela (3ª vez) | ~13 h | 126 | 3 s | 67,8% | 0 | 0 | 36,5% |
+- **O Insta travou de novo:** o nora77 e o nora78 pararam em ~120 desde a 1ª hora, abaixo do reel típico da conta.
+- **A abertura repetida cansou, mesmo gerada de novo e com outra roupa:** a frase "Put cinnamon in a glass of water…" foi o Take 1 de 3 posts seguidos, e o skip subiu a cada vez (55,9% → 64,0% → 67,8%). É o mesmo padrão do tsunami do nora74 (23/11 17h47). A regra de 24/11 11h10 (no Insta, cada post gerado de novo do 1º ao último take) não basta: **a frase e o tipo da abertura também têm de mudar a cada post** (proposta ao aluno).
+- **O corpo no Insta não se separa pelas views** (os dois pararam em ~120); o da maioria segurou um pouco mais (6 s × 3 s, 1 visita × 0). No Face, a diferença é grande (a entrada de 13h).
+- **O público do Insta é outro:** o pico é de 35 a 44 anos (36% a 40%) e os 55+ são 9% a 16%; no Face, os 55+ são 50% a 65%. E o nora77 foi testado na Europa (Reino Unido, Irlanda, Alemanha), com 6,6% de EUA.
+- **O clique do Insta:** 0 em 24 e 25/11 (Tracker); o story de 24/11 01h15 teve 16 views (94% seguidores), 0 toque no link e 0 visita ao perfil; o Insta ficou ~12 h sem story (o do "gift" só foi às 13h19 de 25/11).
+- **O nora75 é o único falado da semana que saiu do teto** (694, 2 visitas, 1 follow, 5 compartilhamentos): a 1ª vez da abertura da canela, numa cena nova.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
