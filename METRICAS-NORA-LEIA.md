@@ -1092,7 +1092,7 @@ O aluno ficou fora de 21/11 de manhã a 22/11 22h23: nenhum post novo e o story 
 - **O público certo:** EUA 73% a 80%, 55+ entre 50% e 65%.
 - **A legenda dos 3 posts do corpo da maioria tem #abundance**, e a dos nora76/77/78-FACE começa igual ("If your name starts with one of these letters ✨"). Pela 33ª leitura (Páginas de manifestação caindo pela "abundância"), entra na proposta (b): no Face, sem #abundance, e a legenda muda a cada post.
 
-## 25/11/2026 13h07: o Tracker de ontem, de hoje e do mês (prints do aluno, 13h04 a 13h05)
+## 25/11/2026 13h05: o Tracker de ontem, de hoje e do mês (prints do aluno, 13h04 a 13h05)
 | Período | Cliques | Viram o quiz | Começaram | Terminaram | Checkout | Vendas | Rede |
 |---|---|---|---|---|---|---|---|
 | 24/11 (fechado) | 12 | 12 | 6 | 4 | 0 | 0 | tudo Face |
