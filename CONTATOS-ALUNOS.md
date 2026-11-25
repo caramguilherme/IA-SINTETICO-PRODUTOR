@@ -1142,3 +1142,13 @@ o que mais ajudou aqui foi deixar a voz travada logo na 1ª mensagem do chat do 
 o ricardo santana postou no fórum (muse: como criar conta e fazer vídeos) um site com o passo a passo e um prompt pronto tb, vale olhar
 ```
 **Fontes:** o guia do Vinicius B (`MATERIAIS-MUSE/LEIA.md`: o "ChatGPT treinado" com o Prompt Mestre, blocos de até 10 s, o first frame em todo bloco, a CANONICAL_VOICE_LOCK igual em todos); o nosso teste de 1 take antes do nora70 (18/11); o post do Ricardo lido na 33ª leitura. Nada da conta da Nora (o e-mail, o número, os tokens).
+
+## SUGERIDO (25/11/2026 12h02; DM do th [MVM], resposta às perguntas dele de 11h58 a 12h00: "tu so joga a voz por cima e faz os cortes no capcut?", "tu gera take por take?", "como o vini ensinou é um promt gigante, dai o video ja sai pronto"; uma mensagem só; conta como enviado)
+**Enviado antes (11h58 e 11h59, print do aluno):** a resposta de 11h57, inteira.
+```
+não, a voz já vem no próprio vídeo do muse, com a boca sincronizada, não jogo nada por cima
+eu tb mando o prompt gigante de uma vez, mas ele me devolve um vídeo por bloco (até 10s cada), aí eu junto
+o take sozinho é só no começo, pra testar se a voz e o rosto tão certos antes de gerar o resto
+depois junto tudo na fusionz, que corta os silêncios, e no capcut só coloco música baixinha. a legenda e os textos vão por cima no final
+```
+**Fontes:** o fluxo da Nora desde 18/11 (`CLAUDE.md`, seção 2, Edição P45: o aluno corta os silêncios na FusionZ, monta no CapCut só o vídeo e a música a −18 dB; os textos e a legenda saem aqui); o Muse devolve um arquivo por bloco (os 15 clipes do nora77, 24/11); o teste de 1 take antes do nora70 (18/11). Não sei se no jeito do Vinicius o Muse junta os blocos num vídeo só: na conta da Nora nunca juntou.
