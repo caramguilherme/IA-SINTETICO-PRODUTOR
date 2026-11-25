@@ -2210,7 +2210,7 @@ Não batem 3 citações. Para cada uma, diga a aula e o minuto certos e cole a f
   - **"Teste de alma gêmea" e "um teste rápido de 2 minutos":** o funil da Nora é o Manifestation; o CTA dela segue o texto do funil ("Three quick questions, and your private reading is ready.", R80).
 - **A R95 (pronta, abaixo)** pede a fonte dos 30% a 40%, o empilhamento no Insta, o que fazer com a Página depois da 1ª venda e o que sobe o começo do quiz.
 
-## R95 (25/11/2026 entre 01h29 e 01h33, montada sem o aluno pedir, pela regra de 19/11; respondida e colada às ~01h33, conferida às ~01h40, fechada): a fonte dos 30% a 40%, o empilhamento no Insta, a Página depois da 1ª venda e o começo do quiz
+## R95 (25/11/2026 entre 01h29 e 01h33, montada sem o aluno pedir, pela regra de 19/11; respondida e colada às ~01h33, conferida às 01h34, fechada): a fonte dos 30% a 40%, o empilhamento no Insta, a Página depois da 1ª venda e o começo do quiz
 - **O texto (2421 caracteres):**
 
 ```
