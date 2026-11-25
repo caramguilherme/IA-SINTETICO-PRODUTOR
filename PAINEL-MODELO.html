@@ -304,6 +304,7 @@ function progresso(){
 function montarCentral(){
   const c=pk.central;
   ['central','cenas','agente'].forEach(id=>$(id).classList.toggle('hide',!c||!!pk.clipe_unico));
+  if(pk.ocultar_cenas)$('cenas').classList.add('hide');  // 25/11: takes avulsos no Muse (o prompt de cada take é completo); a seção das cenas fala em Central e confundia
   $('story').classList.toggle('hide',!pk.story);
   $('videos').classList.toggle('hide',!!c);
   $('todos').querySelector('h2').textContent=c?(c.imagem_unica?'Prompt da imagem (agente do Flow)':'Prompts das imagens (agente do Flow)'):'Todos os prompts';
@@ -335,7 +336,7 @@ function montarCentral(){
     $('listaCenas').querySelectorAll('.cpM').forEach(b=>{b.onclick=e=>copiar(cols[+b.dataset.j].movimentacao.join('\n'),e.currentTarget)});
     $('listaCenas').querySelectorAll('input[data-id]').forEach(inp=>{inp.onchange=e=>{feitos[inp.dataset.id]=e.target.checked;progresso();salvar()}});
     const ag=c.agente||{};
-    $('agente').querySelector('h2').textContent='No agente do Flow (uma conversa só)';
+    $('agente').querySelector('h2').textContent=ag.titulo||'No agente do Flow (uma conversa só)';
     $('agente').querySelector('p').textContent=ag.intro||'Uma imagem e uma mensagem: anexe a imagem e cole o bloco “COPIAR TUDO JUNTO” da Central, que já traz as orientações ao agente (o seu aviso é opcional).';
     $('agenteBox').innerHTML='<div class="item"><button class="cp" id="cpAviso">Copiar aviso</button><h3>Seu aviso para o agente <span class="tag">'+esc(ag.aviso_tag||'opcional: o prompt da Central já traz as orientações ao agente')+'</span><span class="tag">anexar: '+esc(ag.imagem||'')+'</span></h3><div class="box m">'+esc(ag.aviso||'')+'</div></div>'
       +(ag.aviso_en?'<div class="item"><button class="cp" id="cpAvisoEn">Copiar aviso em inglês</button><h3>Aviso em inglês <span class="tag">opcional: mesma mensagem, em inglês</span></h3><div class="box m">'+esc(ag.aviso_en)+'</div></div>':'')

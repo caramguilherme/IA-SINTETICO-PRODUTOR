@@ -99,11 +99,13 @@ def painel():
     ct['conferir'] = (f'Conferir cada take: a Nora da {IMG_B}, de camiseta preta, SEM a lua e SEM as estrelinhas, com o copo de água de canela; '
                       'ela fala uma vez só, diz os números por extenso e fecha a boca no fim.')
     p1, p3, pc = (prompt(f, g, arq, c) for _, _, f, g, arq, c in TAKES)
+    P['ocultar_cenas'] = True   # 25/11 15h5x (o aluno: "tem 3 prompts pra usar na central… e os outros campos?"): os 3 são avulsos no Muse, sem a Central
     ct['agente'] = {
+        'titulo': 'No Muse: os 3 prompts, um por mensagem (sem a Central)',
         'imagem': IMG_B,
         'intro': (f'3 clipes no Muse, NA MESMA CONVERSA em que você gerou o nora75 e o nora76 (o prompt pede a mesma voz dos clipes dessa conversa). '
                   f'Em cada um: anexe a {IMG_B} e cole o prompt, um clipe por mensagem, nesta ordem.'),
-        'aviso_tag': f'o prompt do T01 (o passo 1), com a {IMG_B} anexada',
+        'aviso_tag': f'o prompt do T01 (o passo 1), com a {IMG_B} anexada; os 3 prompts já são completos (voz, movimentação, continuidade): a Central não entra',
         'aviso': p1,
         'passos': [f'O T01 (o 11:11): anexe a {IMG_B}, clique em “Copiar aviso” (o prompt do T01, acima) e cole. Salve como {TAKES[0][4]}. ~1 min.',
                    f'O T03 (a data nova, “before Friday, November twenty-seventh”): anexe a {IMG_B} e cole o prompt abaixo. Salve como {TAKES[1][4]}. PROMPT: ' + p3,
