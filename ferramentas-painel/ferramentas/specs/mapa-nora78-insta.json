@@ -1,0 +1,220 @@
+{
+ "keep": [
+  [
+   0.0,
+   6.3
+  ],
+  [
+   7.260000000000001,
+   12.28
+  ],
+  [
+   14.1,
+   19.62
+  ],
+  [
+   21.62,
+   27.7
+  ],
+  [
+   28.5,
+   33.019999999999996
+  ],
+  [
+   34.839999999999996,
+   54.96
+  ],
+  [
+   55.54,
+   62.620000000000005
+  ]
+ ],
+ "cortes": [
+  [
+   6.3,
+   7.260000000000001
+  ],
+  [
+   12.28,
+   14.1
+  ],
+  [
+   19.62,
+   21.62
+  ],
+  [
+   27.7,
+   28.5
+  ],
+  [
+   33.019999999999996,
+   34.839999999999996
+  ],
+  [
+   54.96,
+   55.54
+  ]
+ ],
+ "legenda": [
+  [
+   "Put cinnamon in a glass of",
+   0.0,
+   1.46
+  ],
+  [
+   "water before you leave the house",
+   1.46,
+   3.38
+  ],
+  [
+   "I know it sounds ridiculous",
+   3.38,
+   4.83
+  ],
+  [
+   "but you'll thank me forever",
+   4.9,
+   6.359999999999999
+  ],
+  [
+   "If you're tired of working",
+   6.359999999999999,
+   8.389999999999999
+  ],
+  [
+   "paying the bills and solving everyone's problems",
+   8.44,
+   11.379999999999999
+  ],
+  [
+   "and still feeling like you never",
+   11.379999999999999,
+   14.459999999999997
+  ],
+  [
+   "really get ahead",
+   14.459999999999997,
+   15.959999999999997
+  ],
+  [
+   "this is for you",
+   15.959999999999997,
+   16.9
+  ],
+  [
+   "I don't know your name or",
+   16.9,
+   18.9
+  ],
+  [
+   "everything you've been through",
+   18.9,
+   20.38
+  ],
+  [
+   "but the universe has seen your faith",
+   20.38,
+   22.979999999999997
+  ],
+  [
+   "The hardest stretch may finally be",
+   22.979999999999997,
+   26.119999999999997
+  ],
+  [
+   "falling behind you",
+   26.119999999999997,
+   27.499999999999996
+  ],
+  [
+   "Over the next few days",
+   27.499999999999996,
+   29.37
+  ],
+  [
+   "watch for the small signs",
+   29.44,
+   31.039999999999996
+  ],
+  [
+   "a message you weren't expecting",
+   31.039999999999996,
+   32.77
+  ],
+  [
+   "a door that finally opens",
+   32.78,
+   34.51
+  ],
+  [
+   "more room to breathe",
+   34.739999999999995,
+   35.89999999999999
+  ],
+  [
+   "more peace inside your home",
+   35.89999999999999,
+   37.459999999999994
+  ],
+  [
+   "Sometimes a big change starts with",
+   37.459999999999994,
+   39.28
+  ],
+  [
+   "one small door opening first",
+   39.28,
+   41.459999999999994
+  ],
+  [
+   "And because this new season opens",
+   41.459999999999994,
+   43.53999999999999
+  ],
+  [
+   "differently for every woman",
+   43.53999999999999,
+   45.39999999999999
+  ],
+  [
+   "I left something in my story",
+   45.39999999999999,
+   46.980000000000004
+  ],
+  [
+   "for you",
+   46.980000000000004,
+   47.620000000000005
+  ],
+  [
+   "Now pay attention",
+   47.620000000000005,
+   48.870000000000005
+  ],
+  [
+   "tap my profile picture and check",
+   48.900000000000006,
+   50.46
+  ],
+  [
+   "my story",
+   50.46,
+   51.260000000000005
+  ],
+  [
+   "Three quick questions",
+   51.260000000000005,
+   52.45
+  ],
+  [
+   "and your private reading is ready",
+   52.52,
+   54.39000000000001
+  ]
+ ],
+ "t_tap": 48.900000000000006,
+ "t_gancho": 3.08,
+ "hook_dur": 0.0,
+ "dur_final": 54.770996,
+ "video": "/tmp/claude-0/-workspace-IA-SINTETICO-PRODUTOR/0f1d3084-6c9c-5025-9335-535fd154c68d/scratchpad/n78/out-insta/nora78-legenda.mp4"
+}

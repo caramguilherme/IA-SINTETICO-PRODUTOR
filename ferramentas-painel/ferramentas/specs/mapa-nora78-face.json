@@ -1,0 +1,197 @@
+{
+ "keep": [
+  [
+   0.0,
+   8.87
+  ],
+  [
+   9.465,
+   14.485
+  ],
+  [
+   16.34,
+   21.86
+  ],
+  [
+   23.882,
+   29.962
+  ],
+  [
+   30.762,
+   35.282
+  ],
+  [
+   37.102,
+   58.302
+  ]
+ ],
+ "cortes": [
+  [
+   8.87,
+   9.465
+  ],
+  [
+   14.485,
+   16.34
+  ],
+  [
+   21.86,
+   23.882
+  ],
+  [
+   29.962,
+   30.762
+  ],
+  [
+   35.282,
+   37.102
+  ]
+ ],
+ "legenda": [
+  [
+   "If your name starts with the",
+   0.15,
+   1.45
+  ],
+  [
+   "letter A, J,",
+   1.45,
+   3.12
+  ],
+  [
+   "M, K, C,",
+   3.15,
+   5.1
+  ],
+  [
+   "E, S, L,",
+   5.21,
+   6.49
+  ],
+  [
+   "R, T or H,",
+   6.49,
+   7.95
+  ],
+  [
+   "pay close attention",
+   7.95,
+   8.93
+  ],
+  [
+   "If you're tired of working",
+   8.93,
+   10.959999999999999
+  ],
+  [
+   "paying the bills and solving everyone's problems",
+   11.01,
+   13.949999999999998
+  ],
+  [
+   "and still feeling like you never",
+   13.949999999999998,
+   17.03
+  ],
+  [
+   "really get ahead",
+   17.03,
+   18.53
+  ],
+  [
+   "this is for you",
+   18.53,
+   19.469999999999995
+  ],
+  [
+   "I don't know your name or",
+   19.469999999999995,
+   21.469999999999995
+  ],
+  [
+   "everything you've been through",
+   21.469999999999995,
+   22.949999999999996
+  ],
+  [
+   "but the universe has seen your faith",
+   22.949999999999996,
+   25.549999999999994
+  ],
+  [
+   "The hardest stretch may finally be",
+   25.549999999999994,
+   28.689999999999998
+  ],
+  [
+   "falling behind you",
+   28.689999999999998,
+   30.069999999999993
+  ],
+  [
+   "Over the next few days",
+   30.069999999999993,
+   31.939999999999998
+  ],
+  [
+   "watch for the small signs",
+   32.00999999999999,
+   33.60999999999999
+  ],
+  [
+   "a message you weren't expecting",
+   33.60999999999999,
+   35.339999999999996
+  ],
+  [
+   "a door that finally opens",
+   35.349999999999994,
+   37.08
+  ],
+  [
+   "more room to breathe",
+   37.309999999999995,
+   38.46999999999999
+  ],
+  [
+   "more peace inside your home",
+   38.46999999999999,
+   40.029999999999994
+  ],
+  [
+   "Sometimes a big change starts with",
+   40.029999999999994,
+   41.849999999999994
+  ],
+  [
+   "one small door opening first",
+   41.849999999999994,
+   44.029999999999994
+  ],
+  [
+   "And because this new season opens",
+   44.029999999999994,
+   46.209999999999994
+  ],
+  [
+   "differently for every woman",
+   46.209999999999994,
+   47.87
+  ],
+  [
+   "check the first comment below to",
+   47.87,
+   49.92999999999999
+  ],
+  [
+   "get your reading",
+   49.92999999999999,
+   50.959999999999994
+  ]
+ ],
+ "t_tap": 47.87,
+ "t_gancho": 8.75,
+ "hook_dur": 0.0,
+ "dur_final": 51.24764,
+ "video": "/tmp/claude-0/-workspace-IA-SINTETICO-PRODUTOR/0f1d3084-6c9c-5025-9335-535fd154c68d/scratchpad/n78/out-face/nora78-legenda.mp4"
+}
