@@ -2195,3 +2195,18 @@ Não batem 3 citações. Para cada uma, diga a aula e o minuto certos e cole a f
 4) A aula 11 (1:16:10) não está transcrita aqui: cole a frase exata.
 ```
 - **A resposta da R93 (colada às ~00h50) e a conferência: fechada, não precisa voltar.** Ele confirmou as 3 citações erradas e marcou como opinião: (1) a falta de restrição de país no Insta como motivo da proxy (o trecho de 0:24:54 a 0:25:29 é sobre rodar sem proxy); (2) **"a Meta detecta a mesma fala num vídeo gerado de novo" é hipótese de teste, sem fonte** (aula 18, 0:22:49: clonar a voz de pessoa real; aula 28, 0:02:41: "não recomendo… ficar repetindo [a cópia] todo dia… fazerem variações dessa copy", que ele atribuiu ao Gustavo, mas o nosso arquivo é do Iorhan); (3) "parar em 100 a 140 views na 1ª ou 2ª hora pelo score" é estimativa dele. **A aula 11 (1:16:10 a 1:16:22), sem transcrição aqui (não dá para conferir):** "se o vídeo começar a estourar… joga sei lá 6 vídeos por dia nessa conta… mais que 6 eu não acho inteligente". Se a frase estiver certa, reforça subir o Face quando os vídeos entregam (o nora76-FACE com 4.025). Nada muda além das 2 propostas da R92, que esperam o ok do aluno.
+
+## R94 (25/11/2026 ~01h29, pergunta do próprio aluno no Clone, depois da 1ª venda; conferida às 01h32): "o que fazer agora pra manter as vendas?"
+- **Texto inteiro:** `CLONE-ORIGINAIS/2026-11-25-R94-depois-da-1a-venda.md`. **Veio sem aula nem minuto** em nenhum item (na parte colada).
+- **Conferido, já é o que fazemos (nada muda):**
+  - 1 venda não valida a copy: bate com a régua do Dashboard do MVM ("confiável a partir de 1.000 cliques").
+  - O CTA para o story, o link no 1º story (R1 e R2) e o comentário fixado no Face (aula 16, 0:32:12 e 0:52:57): já são regra.
+  - Fugir do "gancho infinito" e dar o motivo do clique: aula 64 (0:14:49 a 0:15:05) e R90; é o teste do corpo no ar (nora77 × nora78).
+  - Não repetir a mesma copy todo dia: aula 31 (0:07:20) e aula 28 (0:02:41); a mesma copy em outros avatares e formatos: call do Iorhan de 06/11 (0:50:13).
+  - Os destaques "Quem sou eu", "Depoimentos" e "Como funciona": a Nora tem About me, Reviews e How it works desde 14/11. **Os depoimentos só reais** (Trustpilot; HONESTIDADE), nunca "casos de sucesso" inventados.
+- **Sem fonte ou errado:**
+  - **"Perfis que alcançam 30% a 40% de conversão no checkout":** não achei em nenhuma transcrição (o "30 a 40%" da LegacyTalk #10 é de comissão). O Copy Hub de 23/11 dá 27% × 7% dos checkouts virando venda, no Love Reading. Opinião até ele dar a aula e o minuto.
+  - **"Manter o corpo intacto e empilhar ganchos":** tem fonte (aula 28; aula 31) e funcionou no Face (o nora76-FACE, 4.025 views), mas **no Insta o corpo reaproveitado parou** (o nora76, 139, contra 690 do nora75 todo gerado; a mentoria de 23/11, 0:04:22, o "flag" do conteúdo reutilizado). No Insta segue a regra do aluno de 24/11 11h10 (o vídeo inteiro novo); o teste com variação de edição é o item 6 da `FILA`.
+  - **"Teste de alma gêmea" e "um teste rápido de 2 minutos":** o funil da Nora é o Manifestation; o CTA dela segue o texto do funil ("Three quick questions, and your private reading is ready.", R80).
+- **A R95 (pronta, abaixo)** pede a fonte dos 30% a 40%, o empilhamento no Insta, o que fazer com a Página depois da 1ª venda e o que sobe o começo do quiz.
+
