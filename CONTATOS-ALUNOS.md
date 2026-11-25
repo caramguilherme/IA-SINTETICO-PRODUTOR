@@ -1120,3 +1120,14 @@ valeu demais mano, mas ainda to no comecinho tb, a primeira saiu ontem kkk
 pode mandar as dúvidas sim, oq eu souber te falo
 ```
 **Cuidado:** a conversa fica no Discord. Nada de link de fora, arquivo para baixar, login, código, conta ou pagamento: o golpe comum começa com elogio a quem acabou de postar uma vitória. Nada da Nora que não seja público (o @ da conta, os links com o `aff`, o painel, os números da Appyon além do que já foi postado).
+
+## SUGERIDO (25/11/2026 11h56; DM ao Marcelo [MVM], resposta ao parabéns dele de 25/11 08h10; uma mensagem só; conta como enviado, P44)
+**Contexto:** o combinado de 23/10 ("o primeiro que destravar avisa o outro"); a última do aluno (17/11 11h38) perguntou o formato dele, sem resposta até o parabéns. Ele tinha pedido uma call em 16/11 14h02.
+```
+valeu marcelo!! combinado é combinado, vou te passar oq mudou aqui
+a venda veio do face, nos ultimos 2 dias todos os cliques vieram de lá, o insta ainda ta travado
+mudei 3 coisas: copiei oq a maioria das contas do nicho ta repetindo nas ultimas 24h, tirei a pintura do rosto da avatar e deixei mais simples (casa, sofá, roupa lisa) e no face reposto o mesmo vídeo só gerando um começo novo
+o face foi 4k num deles
+e aí, qual formato vc ta rodando agr?
+```
+**Fontes:** a venda de 25/11 00h35 pelo Face (tela de Vendas); 24 e 25/11, 16 cliques, todos do Face (Tracker); a receita da maioria (23/11 15h34); a Nora sem a pintura desde o nora75; o mesmo corpo com Take 1 novo no Face (24/11 10h59); o nora76-FACE com 4.025 views (CSV). **A call:** se o aluno quiser, acrescentar uma linha com o dia e a hora; senão, fica sem.
