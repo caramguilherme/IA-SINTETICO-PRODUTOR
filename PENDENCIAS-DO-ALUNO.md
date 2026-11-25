@@ -59,7 +59,7 @@ Responda pelos números (ex.: "1 pode montar, 2 opção A, 5 aprovo menos o 15.3
 6. **O desafio de pausar** ("Only 1% can pause on the right card", da família do ini1811, que deu 21 visitas ao perfil): no Face, já; no Insta, depende de você (o curto sem fala saiu do Insta em 19/11, R79).
 7. **As letras na mesa, com a Nora falando** (aula 36, 0:12:48).
 8. **O story com os campos trancados** (aula 36, 1:27:06), depois do "gift".
-9. **Insta: um Take 1 novo + o mesmo corpo com 1% a 20% de variação de edição × o vídeo inteiro gerado de novo** (economiza ~12 clipes por post). Hoje vale a sua regra de 24/11 (tudo novo).
+9. **Insta: as versões de edição do Caio1094 × o vídeo inteiro gerado de novo.** O Caio respondeu em 25/11: na mesma conta do Insta, o mesmo vídeo com espelho, outra headline, outro filtro, 1,1x e outra legenda, 3 versões. Custo 0 (nenhum clipe). Hoje vale a sua regra de 24/11 (tudo novo); o teste depende de você.
 10. **Os Trial Reels** (2 ou 3 aberturas testadas só com quem não segue). O Rafael Carneiro não viu diferença.
 11. **Repostar os campeões 1 mês depois, gerados de novo e com uma coisa diferente:** o nora49 em ~06/12, o ini1811 em ~18/12 e o nora75 em ~23/12.
 

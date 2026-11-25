@@ -1076,6 +1076,24 @@ essas versões foram no insta, na mesma conta?
 **Por que essa pergunta:** o caso dele não diz a rede nem a conta, e é o que decide o item 6 da `FILA` (o mesmo corpo com variação de edição × tudo novo, no Insta). Se ele responder, anotar e só agradecer.
 
 
+## RECEBIDO (25/11/2026 14h17; DM do Caio1094, resposta à de 24/11 12h39; prints do aluno às 15h35)
+> poxa / bom (sobre o nora75 com 546 views em 16 h)
+> nao nao, mesma conta sempre
+> tu pega o mesmo video, faz a versão 2 com ele invertido, outra headline e um filtro
+> ai faz a versao 3 com ele, com filtro diferente, outra headline e acelerado 1,1x
+> ai faz a versao 4, invertido, outra head, acelerado e outra legenda pro exemplo
+> 1 video -> + 3 versoes / no fim 4 versoes dele
+
+**O que isso responde:** as versões dele vão no Insta, **na mesma conta**, e nenhuma é gerada de novo: é o mesmo vídeo com o espelho, outra headline (o texto do topo), outro filtro, 1,1x e outra legenda, combinados de um jeito diferente em cada versão. É o braço A do item 6 do quadro da `FILA` (até mais leve: nem o Take 1 é novo). **Falta saber:** quanto tempo ele dá entre uma versão e outra.
+
+## SUGERIDO (25/11/2026 15h37; DM ao Caio1094, agradecer + 1 pergunta curta; conta como enviado, P44)
+```
+show, valeu caio!
+vou testar isso na minha
+e entre uma versão e outra vc dá quanto tempo? posta no mesmo dia ou espaça uns dias?
+```
+**Por que a pergunta:** o intervalo é o que falta para montar o teste. O nora76 (o mesmo corpo do nora75 sem nenhuma variação de edição, ~6 h depois) travou em ~135 no Insta.
+
 ## SUGERIDO (25/11/2026 01h07; post do aluno no #vitórias-dólar, a 1ª venda; conta como enviado, P44)
 ```
 fiz minha primeira venda no manifestation 🎉
