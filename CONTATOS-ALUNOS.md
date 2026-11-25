@@ -1131,3 +1131,14 @@ o face foi 4k num deles
 e aí, qual formato vc ta rodando agr?
 ```
 **Fontes:** a venda de 25/11 00h35 pelo Face (tela de Vendas); 24 e 25/11, 16 cliques, todos do Face (Tracker); a receita da maioria (23/11 15h34); a Nora sem a pintura desde o nora75; o mesmo corpo com Take 1 novo no Face (24/11 10h59); o nora76-FACE com 4.025 views (CSV). **A call:** se o aluno quiser, acrescentar uma linha com o dia e a hora; senão, fica sem.
+
+## SUGERIDO (25/11/2026 12h00; DM do th [MVM], resposta à mensagem dele de 25/11 07h45: "como assim? to sem claude, to com o gpt pro"; uma mensagem só; conta como enviado, P44)
+**A conversa antes (colada pelo aluno):** o th (24/11 10h47) perguntou se ele ativou a conta do Flow; o aluno (17h44): usa o Muse "no esquema que foi ensinado no fórum"; o th (22h54): usa o Flow e não chegou num bom resultado com o tutorial do Vinicius; o aluno (23h18): curtiu, "achei bem melhor que o flow… joga o conteudo no claude, e pede pra ele ajudar no prompt".
+```
+dá no gpt mesmo, o esquema do vinicius foi feito pro chatgpt
+vc cola o prompt mestre dele uma vez no gpt, depois manda a copy e a imagem do primeiro frame, ele te devolve a copy em blocos de até 10s com a trava de voz igual em todos
+aí no muse vc manda a mesma imagem + o bloco, um take por vez
+o que mais ajudou aqui foi deixar a voz travada logo na 1ª mensagem do chat do muse e testar 1 take só antes de gerar o resto
+o ricardo santana postou no fórum (muse: como criar conta e fazer vídeos) um site com o passo a passo e um prompt pronto tb, vale olhar
+```
+**Fontes:** o guia do Vinicius B (`MATERIAIS-MUSE/LEIA.md`: o "ChatGPT treinado" com o Prompt Mestre, blocos de até 10 s, o first frame em todo bloco, a CANONICAL_VOICE_LOCK igual em todos); o nosso teste de 1 take antes do nora70 (18/11); o post do Ricardo lido na 33ª leitura. Nada da conta da Nora (o e-mail, o número, os tokens).
