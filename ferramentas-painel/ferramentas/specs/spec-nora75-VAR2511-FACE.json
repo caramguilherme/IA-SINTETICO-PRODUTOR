@@ -1,0 +1,45 @@
+{
+ "entrada": "/tmp/claude-0/-workspace-IA-SINTETICO-PRODUTOR/0f1d3084-6c9c-5025-9335-535fd154c68d/scratchpad/f16/out/nora75-VAR2511-legenda.mp4",
+ "saida": "/tmp/claude-0/-workspace-IA-SINTETICO-PRODUTOR/0f1d3084-6c9c-5025-9335-535fd154c68d/scratchpad/f16/out/nora75-VAR2511-final-FACE.mp4",
+ "crf": 21,
+ "preset": "veryfast",
+ "estilo": "alto-contraste",
+ "itens": [
+  {
+   "tipo": "imagem",
+   "arquivo": "/tmp/claude-0/-workspace-IA-SINTETICO-PRODUTOR/0f1d3084-6c9c-5025-9335-535fd154c68d/scratchpad/f16/bandeira.png",
+   "ini": 0.0,
+   "fim": 53.048,
+   "x": 228,
+   "y": 435,
+   "largura": 66,
+   "fade": 0
+  },
+  {
+   "tipo": "caixa",
+   "ini": 49.71,
+   "fim": 53.048,
+   "x": 0,
+   "y": 470,
+   "tamanho": 10,
+   "linhas": [
+    "Your 2027 reading:",
+    "[link in the comments]"
+   ],
+   "caixa": {
+    "fundo": [
+     255,
+     255,
+     255,
+     255
+    ],
+    "texto": "#000000",
+    "destaque": "#E53935",
+    "fonte": "bold",
+    "destaque_fonte": "bold",
+    "raio": 14,
+    "sombra": null
+   }
+  }
+ ]
+}
