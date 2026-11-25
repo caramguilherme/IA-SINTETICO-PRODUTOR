@@ -1,5 +1,7 @@
 # CALL "(02/11) Do medo ao desejo: potencializando ainda mais as copies" — Gustavo Alves (MVM), 02/11/2026, 20h
 
+**25/11/2026: a transcrição inteira, com os minutos, está em `TRANSCRICOES/2026-11-02-aula-66-do-medo-ao-desejo-gustavo.md`** (é a aula 66; o que serve e a conferência das citações do Clone estão em `AULAS-11-30-36-66-LIDAS-25-11.md`).
+
 Loom (canal gravações): https://www.loom.com/share/849bf4b3d6d946028ebafc2480c62c00 (1h21). Transcrição automática do Loom colada pelo aluno em 03/11/2026 ~03h (cheia de erros de reconhecimento; o resumo abaixo corrige pelo sentido). É a "aula de 02/11" que estava pendente; o aviso dela está em `COMUNIDADE-E-ESTRATEGIA.md` (03/11).
 
 **Atenção:** o caminho que o aluno seguiu em 03/11 (mandar a transcrição da aula do Iorhan ao Claude com "quero usar ela como base para criar roteiros de manifestação; depois vou te enviar a transcrição de um vídeo muito bom") e o vídeo da Letícia são exatamente a demonstração do Gustavo nesta call. O resultado está em `AULA-IORHAN-30-10-COPY-QUE-CONVERTE.md` (seções 10 e 11) e em `REFERENCIA-VIDEO-MENTALIDADE-DINHEIRO-LETICIA.md`.
