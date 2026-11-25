@@ -1061,6 +1061,13 @@ O aluno ficou fora de 21/11 de manhã a 22/11 22h23: nenhum post novo e o story 
 - **Para o teste do corpo:** o nora78 abre com a mesma frase da canela (a 3ª vez); a abertura é igual nos 2 braços, então a comparação das visitas ao perfil e dos cliques continua de pé, mas os dois devem ter poucas views.
 - **Proposta (vai para o rascunho das regras, com o ok do aluno):** no Insta, a mesma frase de abertura e o mesmo texto não voltam em menos de ~7 dias; cada post com um Take 1 de outro tipo (aula 31: a data que só muda o dia cansa; "3 a 4 ganchos por corpo").
 
+## 25/11 00h37: a Biblioteca do Face (texto colado pelo aluno)
+- **nora76-FACE com ~23h30: 4.025 views, +5,8x, 26 seguidores, 13 s de tempo médio, 231 views de 1 min.** O 2º da Página em views e seguidores (`recordes.py`), a 218 views do nora55 (4.243, 44 seguidores, +9,4x).
+- **nora77-FACE com ~5h10: 339 views, +1,5x, 13 s, 39% nos 3 s.** Abre com as letras, como o nora76-FACE. Ao contrário do Insta, no Face ele está entregando.
+- **nora75-FACE:** 635, a distribuição caiu de +1,5x para +0,2x. **nora74-FACE:** 223.
+- **O que não deu para identificar com certeza:** uma linha com 78 views e 0 visualizadores (provavelmente o nora78-FACE com ~18 min, ainda sem processar), uma com 0 (provavelmente o story do "gift", postado às 00h20) e uma com 14 entre o nora76 e o nora77 (provavelmente o story do Face de 24/11 01h15).
+- **Leitura:** no Face, a abertura das letras segue entregando com o mesmo corpo; no Insta, o mesmo texto repetido travou (o nora77 com skip de 64,5%). A diferença entre as redes se mantém: o Face aceita o corpo repetido com o 1º take novo, o Insta não.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.
