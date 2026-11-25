@@ -1075,3 +1075,14 @@ essas versões foram no insta, na mesma conta?
 **Fontes dos números:** o nora75 no Insta, 546 views com ~16 h (Insights de 24/11 11h05); o nora76 no Insta, 135 (11h06); o nora76-FACE, 492 views e +2,8x, o 2º da Página em views (`recordes.py`); o maior falado do Insta desde o nora51 (889, 10/11). A mineração: 58 vídeos, 40 de contas da Auraly (`referencias-virais/2026-11-23-mineracao/`). O caso dele: `COMUNIDADE-E-ESTRATEGIA.md`, 30ª leitura (20/11 12h40).
 **Por que essa pergunta:** o caso dele não diz a rede nem a conta, e é o que decide o item 6 da `FILA` (o mesmo corpo com variação de edição × tudo novo, no Insta). Se ele responder, anotar e só agradecer.
 
+
+## SUGERIDO (25/11/2026 01h07; post do aluno no #vitórias-dólar, a 1ª venda; conta como enviado, P44)
+```
+fiz minha primeira venda no manifestation 🎉
+avatar de ia, insta + face, quase 1 mês testando até sair
+obg @Gustavo pelas calls e pela mentoria, e @Caio1094 e @Pedro⚡ pelas dicas no pv, ajudou demais
+e obg a todo mundo que respondeu minhas dúvidas aqui
+bora pra segunda 🚀
+```
+**Por que só esses 3 (o aluno perguntou se marca e quem):** marcar agradece em público (P44) e mantém o laço; marcar muitos vira spam e dilui. O Gustavo (as calls e a mentoria de 23/11, de onde saíram o caminho do nora75 e o "o problema é o body"); o Caio1094 (a bandeira dos EUA de 16/11, que voltou do nora77 em diante, e a mineração das últimas 48 h, que deu o nora75; DMs de 17 e 24/11); o Pedro⚡ (o personagem falando desde o 1º quadro, sem hook; DMs de 17/11). Os outros entram no "a todo mundo". Com o print do painel da Appyon, não o da tela de bloqueio (foto pessoal). No Discord, a marcação só notifica se escolher o nome na lista que aparece ao digitar o @.
+**Depois:** as voltas de 26/11 ao Gustavo Alves e ao Pedro⚡ seguem, com o resultado do teste do corpo e da bandeira; se eles responderem no #vitórias, só reagir.
