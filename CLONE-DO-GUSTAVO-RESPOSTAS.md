@@ -2173,4 +2173,24 @@ c) A régua de ~3 semanas de flop para trocar a avatar (call de 18/11, 0:07:27) 
 4) PRIORIDADE ENQUANTO O INSTA NÃO DESTRAVA
 Com o Face entregando e dando os cliques, alguma aula manda concentrar a produção no Face (mais posts por dia na Página, ou mais Páginas) enquanto o Insta não destrava? Na Estrutura Facebook (0:52:06) o Gustavo diz que o Face teve 71% das vendas em 29/05. Hoje a Página recebe 2 por dia (as versões do Face dos vídeos do Insta), e a nossa grade pede 4 a 6.
 ```
-- **A resposta:** esperando o aluno colar. Conferir cada citação nas `TRANSCRICOES/` e nos nossos números antes de virar regra.
+- **A resposta (colada às ~00h42; texto inteiro em `CLONE-ORIGINAIS/2026-11-25-R92-face-entrega-insta-trava.md`) e a conferência (00h45):**
+  - **Batem:** Estrutura Facebook 0:24:49 a 0:25:11 (a restrição de país), 0:52:06 (71% das vendas no Face) e 0:57:43 a 0:57:50 ("no máximo 6 por conta… uma hora, duas horas de intervalo"); aula 18, 1:47:58 ("70% das vendas vêm do… Face… foquem no Facebook e no Instagram"); aula 64, 0:31:06 (o Face atrai o público mais velho "naturalmente"); aula 35, 0:32:43 (o score das contas: "cada violação… você perde esse score"); aula 31, 0:07:20 e 0:13:44 a 0:14:07 ("todo dia tem que ter coisas novas… se você acertar um vídeo e ficar replicando… vai parar de funcionar"); aula 32, 1:29:03; aula 19, 0:43:03; Estrutura Facebook 0:49:59 (focar no perfil que está acertando) e aula 51, 1:04:47 (um Face e um Insta por avatar, os mesmos vídeos).
+  - **Erradas:** (1) Estrutura Instagram 0:25:09 é a entrega sem proxy, não a falta de restrição de país (o fato é verdadeiro pela nossa experiência, a citação não); (2) **"a Meta detecta a mesma fala num vídeo novo" não tem fonte:** a aula 18 (0:22:49) é sobre clonar a voz de pessoa real, e a aula 28 (0:02:41) é sobre não replicar a copy todo dia; (3) aula 35 (0:28:00) é esperar 24 h depois de um erro no app, não a distribuição que para; (4) a aula 11 (1:16:10) não está transcrita aqui.
+  - **Opinião dele:** o "veredito" (o conteúdo é bom e o Insta trava pelo histórico da conta) e o sinal que separa flag de conteúdo fraco (boa retenção + distribuição que para na 1ª ou 2ª hora). Contra o veredito: o nora77 teve skip pior no Insta (64,5% × 56,1% do nora75), então o conteúdo repetido também pesou; a favor: o nora75 (tudo novo) foi a 690 na mesma conta.
+  - **"Quantos dias para sair do flag" e "o intervalo mínimo para repetir a copy": a fonte não diz** (ele mesmo disse).
+  - **O que muda (com o ok do aluno):** (1) **o Face sobe para 4 por dia**, com fonte (Estrutura Facebook 0:57:43; 70% das vendas no Face): as 2 versões do Insta + 2 posts com o mesmo corpo do dia e um Take 1 novo gerado (1 clipe cada), que é o que entregou no nora76-FACE; (2) no Insta, cada post com texto e abertura novos (aula 31, 0:13:44: "todo dia tem que ter coisas novas"); o intervalo de ~7 dias para repetir uma copy é proposta nossa, sem fonte em aula.
+- **R93 (montada sem o aluno pedir, pela regra de 19/11; 1387 caracteres):**
+
+```
+Gustavo, conferi a tua resposta nas transcrições. Batem: Estrutura Facebook 0:24:49 (restrição de país), 0:52:06 e aula 18 1:47:58 (70% das vendas no Face), 0:57:43 (no máximo 6 por conta, 1 a 2 h de intervalo); aula 64 0:31:06; aula 35 0:32:43 (o score da conta); aula 31 0:07:20 e 0:13:44; aula 32 1:29:03; aula 19 0:43:03.
+
+Não batem 3 citações. Para cada uma, diga a aula e o minuto certos e cole a frase exata, ou marque como opinião:
+
+1) "O Instagram não possui restrição geográfica (Estrutura Instagram, 0:25:09)": nesse minuto o Gustavo fala da entrega rodando o Insta do Brasil, sem proxy ("a entrega fica legalzinha… não é a entrega de mais qualidade"), e não da restrição de país.
+
+2) "A Meta detecta a repetição de áudios/scripts falados na mesma conta, mesmo com o vídeo renderizado do zero (aula 18, 0:22:49; aula 28, 0:02:41)": na aula 18 (0:22:49) o Iorhan fala de clonar a voz de pessoa real ("O Facebook reconhece… clonar voz"); na aula 28 (0:02:41), de não replicar a mesma copy todo dia. Nenhuma das duas diz que a Meta reconhece a mesma fala num vídeo gerado de novo.
+
+3) "A distribuição para em 100 a 140 views na 1ª ou 2ª hora quando o algoritmo identifica a repetição ou limita a conta pelo score (aula 35, 0:28:00)": nesse minuto o Ricardo fala de esperar 24 h quando o app dá erro numa ação.
+
+4) A aula 11 (1:16:10) não está transcrita aqui: cole a frase exata.
+```
