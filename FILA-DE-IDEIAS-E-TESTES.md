@@ -31,7 +31,7 @@
 - **Depois:** as letras na mesa com a Nora falando; os campeões repostados 1 mês depois (06/12, 18/12, 23/12).
 - **Só quando um vídeo do Insta for bem:** as versões de edição do Caio1094.
 - **Teste novo:** sem "prosperity", "abundance" e "scarcity" no Face (a 16.2 do rascunho das regras virou teste): se a entrega segue, ok; se cai, pode ser isso.
-- **Explicar ao aluno antes:** o Arcanjo que abençoa × o que avisa; o story com os campos trancados; os Trial Reels.
+- **Explicados em 25/11 17h35, esperando o sim ou o não do aluno (`PENDENCIAS-DO-ALUNO.md`, itens 3 a 5, 26/11 01h30):** o Arcanjo que abençoa × o que avisa; o story com os campos trancados; os Trial Reels.
 - **Fora:** agendar (nada agendado); a automação do GeeLark só no aquecimento das contas novas.
 
 ### Próximos (nesta ordem)
