@@ -87,22 +87,7 @@ Os vídeos e prints que o aluno mandou ficaram só nas sessões antigas; a anál
 - Painéis do kit publicados (como estavam, provisórios no LIVRE, nas movimentações e nos números): nora51 https://claude.ai/artifact/NFiaeVauh8MXL3FrmyFQep · nora52 https://claude.ai/artifact/86Jyhq4mszfWEnD2bsaSQS · nora53 https://claude.ai/artifact/Mmuaa3uhuLvRqg88G2KRKi · nora54 https://claude.ai/artifact/2HN7pVF2Z5nJCCWbSo2RaG
 - Falta: a `kitportal-IMG` aprovada, o fechamento do LIVRE e das movimentações, a republicação nos mesmos links, as edições de hoje e o dashboard.
 
-## 5c. Links da 5ª conta (06 a 10/11; abrem só logado nela; não são mais atualizados depois da passagem)
-- Dashboard Métricas da Nora: https://claude.ai/artifact/GnvCkx6wnMNqcJE6BVGaUP (asset do CSV `/_blob/c1ddfffe47de0c03bcdab252793aea0e`, dataset na versão 17, leituras até 10/11 13h38)
-- Painéis: nora48 https://claude.ai/artifact/QQpxR4dxqovuceqfrsHNU5 · nora49 https://claude.ai/artifact/GFB4scmCX4tDB54bmhYXv3 · nora50 (postado) https://claude.ai/artifact/55Ak6Ln2biRLw2mrDyoWPi · kit do portal: nora51 https://claude.ai/artifact/AXQp5m7g6jjn7RvWSQXMQY · nora52 https://claude.ai/artifact/L36PatLZXAraEnD56kVqiV · nora53 https://claude.ai/artifact/6LvW1Pxu3K7DuA9DEU8qbS · nora54 https://claude.ai/artifact/65UyAVMwWKzn4hSTqv3UTd (versões de 10/11 ~17h15: horários de hoje, falas revistas pelo Clone R22, LIVRE e movimentações ainda provisórios)
-- Ambiente do Claude Code da 5ª conta: `ia-sintetico-produtor` (não passa para a 6ª: criar de novo pelo passo 1b)
-
-## 5b. Feito na 5ª conta (06/11/2026 ~00h)
-- Dashboard Métricas da Nora: https://claude.ai/artifact/GnvCkx6wnMNqcJE6BVGaUP (asset do CSV `/_blob/06441b1da354ba946b84efdd4042f713`, dataset na versão 1, o mesmo CSV de 04/11 12h23)
-- Painéis: **nora48** https://claude.ai/artifact/QQpxR4dxqovuceqfrsHNU5 · **nora49** https://claude.ai/artifact/GFB4scmCX4tDB54bmhYXv3 (os arquivos como estavam)
-- Doc do MVM: o vivo (2KP736NhHJUXjF4s4JkANs) não abre nesta conta; esperando o aluno compartilhar ou pedir a recriação
-- `faster-whisper` 1.2.1 instalado
-
-## 5. Links da 4ª conta (03 a 05/11; só a 4ª conta edita; não são mais atualizados depois da passagem)
-- Dashboard Métricas da Nora: https://claude.ai/artifact/BzjxbGkWRRKcJdBSnUpzyd (asset do CSV `/_blob/28ad542021e3a0cc7dd9a4743eb5acf5`, dataset na versão 10, leituras até 04/11 12h23)
-- Doc do MVM: o vivo é https://claude.ai/artifact/2KP736NhHJUXjF4s4JkANs (projeto 0aaa260d-18c9-48de-a9f4-eafa2d73e8e0 · tab 5b5b5c61-f3e5 · corpo 0d0724eb-ab64). Parado: https://claude.ai/artifact/Km3GMYScCPw44sR57wyiLm
-- Painéis: nora47 https://claude.ai/artifact/SoqFZUhSwEr8SDUQMbCk7a (já postado) · **nora48** https://claude.ai/artifact/JyeRSyXZzdbCq2h6afNzz7 · **nora49** https://claude.ai/artifact/CsKv1MzDjzcZ4akJGRZ3wM (versão 6 de cada, 05/11 ~13h45)
-- Links das contas de 30/10 e contatocaram: no histórico do `CLAUDE.md` (seção 0); não são mais atualizados.
+## 5c, 5b e 5. Os links e o feito da 5ª e da 4ª conta: movidos em 26/11/2026 para o `HISTORICO-CLAUDE-MD.md` (fim do arquivo), a pedido do aluno (item 6 do pente fino de 18/11).
 
 ## 6. Estado (desde 06/11/2026 o estado atual fica no `CLAUDE.md`, seção 1, atualizado a cada mudança; a sessão nova lê de lá e pergunta ao aluno o que mudou desde a hora escrita nele). Abaixo, o estado de 05/11 ~14h, só como histórico
 - **Último vídeo postado:** nora47 em 04/11 às 01h35 (tsunami + Take 1 novo + corpo B). Nada saiu em 04/11 depois dele. **Tracker:** 04/11 = 0 clique o dia todo; 05/11 = 0 até 12h36 (o story-0311 venceu ~22h45 de 04/11; repost pedido para 05/11). Manifestation de 27/10 a 05/11: 17 cliques reais (todos do Insta), 9 no fim do quiz, 0 checkout. **Face: 0 clique real desde o início.**

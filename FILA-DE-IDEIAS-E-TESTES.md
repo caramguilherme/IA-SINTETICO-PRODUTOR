@@ -31,7 +31,9 @@
 - **Depois:** as letras na mesa com a Nora falando; os campeões repostados 1 mês depois (06/12, 18/12, 23/12).
 - **Só quando um vídeo do Insta for bem:** as versões de edição do Caio1094.
 - **Teste novo:** sem "prosperity", "abundance" e "scarcity" no Face (a 16.2 do rascunho das regras virou teste): se a entrega segue, ok; se cai, pode ser isso.
-- **Explicados em 25/11 17h35, esperando o sim ou o não do aluno (`PENDENCIAS-DO-ALUNO.md`, itens 3 a 5, 26/11 01h30):** o Arcanjo que abençoa × o que avisa; o story com os campos trancados; os Trial Reels.
+- **Aprovados pelo aluno em 26/11 09h ("3- sim, vamos testar / 4- sim, vamos testar / 5- sim, nao custa testar ne"):** o Arcanjo que abençoa × o que avisa (só no Insta, ~2 takes gerados de novo; medida: visitas e cliques); o story com os campos trancados (0 crédito, depois do "gift"); os Trial Reels (1º passo: o aluno vê se a opção aparece no Insta da Nora). Entram na fila depois dos que já estão no ar.
+- **Ideia nova (26/11 09h, o print do Excalidraw da aula 36, `MATERIAIS-AULA-36/LEIA.md`): a carta inventada.** Uma carta própria do Manifestation, com o benefício escrito na edição e não pela IA ("Open Doors 2027", "The Year Things Finally Move"), na mão da Nora, com o texto borrado ou trancado até o story (aula 36, 1:19:53 a 1:24:40: "vocês vão criar uma nova simbologia de cartas… a casa sempre ganha"; 1:37:24: "a mulher sorteando as cartas falando e tem um desenho borrado"). Briga com "as cartas fora da copy" (Gustavo, 03/11; aula 66, 0:50:43): teste A/B só no Insta, a carta só na imagem, sem falar dela. Depois dos que já estão na fila.
+- **O volume do Insta (26/11 09h):** o aluno quer 3 por dia ("to querendo postar 3"); a decisão espera a resposta dele aos argumentos (`PENDENCIAS-DO-ALUNO.md`, item 8).
 - **Fora:** agendar (nada agendado); a automação do GeeLark só no aquecimento das contas novas.
 
 ### Próximos (nesta ordem)

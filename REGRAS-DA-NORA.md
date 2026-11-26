@@ -1,4 +1,4 @@
-# REGRAS DA NORA (rascunho de 24/11/2026, posto em dia em 25/11 17h35, com as decisões do aluno das 17h20 nas seções 15 e 16, para o aluno ler antes de autorizar)
+# REGRAS DA NORA (o único documento de regras: aprovado pelo aluno em 26/11/2026 09h, "1- aprovado"; era o `REGRAS-RASCUNHO.md` de 24/11, posto em dia em 25/11 17h35)
 
 **Como vai funcionar, se você aprovar:**
 - Este é o **único** documento de regras. Toda regra em vigor está aqui, uma por linha, com a data e de onde veio.
@@ -6,7 +6,7 @@
 - Regra que muda: a linha velha sai daqui e vai para o `HISTORICO-REGRAS.md`, com a data. Nunca duas versões da mesma regra.
 - Regra nova só entra com o seu ok. Eu escrevo a linha, você aprova, e ela entra aqui e na conferência do gerador do painel.
 - O gerador do painel confere as regras marcadas com **[trava]**. Se uma falhar, o painel não sai.
-- **Nada disto vale ainda.** Até o seu ok, valem os arquivos de hoje. No fim estão os pontos em que as regras de hoje brigam entre si (seção 15) e as regras novas que eu proponho (seção 16): preciso que você escolha.
+- **Vale desde 26/11/2026 09h.** As decisões das seções 15 e 16 (no fim) valem sobre o texto do corpo onde os dois brigarem, até eu passá-las para as seções certas (pendente comigo, junto com as travas no gerador do painel).
 
 ---
 
@@ -141,7 +141,7 @@
 1. **[DECIDIDO 25/11 17h20: (a) fica no Face, porque rodou no nora75, no nora76 e no nora77 ("mantem no face, pq deu certo").]** **O Arcanjo Miguel no Face:** a `FILA` põe o "Arcanjo Miguel (religião como autoridade)" na lista do "Fora" (R58, 16/11), mas o nora75-FACE, o nora76-FACE e o nora77-FACE levam "Saint Michael sent a warning". **Opções:** (a) pode no Face, como hoje; (b) sai do Face, como a `FILA` dizia.
 2. **[DECIDIDO: a regra de 17/11 vai para o histórico; vale a receita ("se for o caso, usamos depois").]** **A abertura:** a regra de 17/11 (a Nora de frente com uma ação de carta no Take 1, na "leitora mística") ainda está no `CLAUDE.md`, mas desde 23/11 o Insta copia a maioria (a canela, sem carta, no sofá). **Proposta:** a de 17/11 vai para o histórico; vale a receita.
 3. **[VIROU TESTE: o aluno não sabe o que trava no Insta; o nora75 (694) não tinha caixa. Teste no quadro da `FILA`: a caixa do gancho × sem caixa, no Insta; o nora79 roda com a caixa.]** **A caixa do topo:** a regra de 18/11 manda a caixa branca com vermelho no gancho, mas o m30, que o nora75 e o nora77 copiam, não tem texto no topo (só o 11:11✨). **Proposta:** na cópia de um vídeo real, vale o que o vídeo tem; nos outros, a caixa de 18/11.
-4. **[ESPERANDO: o aluno pediu a explicação antes de decidir (25/11 17h20).]** **A copy liberada (P15 e P20, 18 e 19/10) × a P42 (30/10):** hoje convivem. **Proposta:** a P15 e a P20 vão para o histórico; no Insta vale a receita da maioria e no Face vale a P42.
+4. **[DECIDIDO 26/11 09h ("insta receita da maioria; face sem ameaça, dinheiro, selos e isca"): a P15 e a P20 vão para o histórico; no Insta vale a receita da maioria; no Face, sem ameaça, dinheiro, selos e isca.]** **A copy liberada (P15 e P20, 18 e 19/10) × a P42 (30/10):** hoje convivem. **Proposta:** a P15 e a P20 vão para o histórico; no Insta vale a receita da maioria e no Face vale a P42.
 5. **[DECIDIDO: vão para o histórico. Hoje: Flow para imagem, Muse para vídeo e a Central de animação para a animação; na Central dá para gerar a Nora com a trava do Blueprint e mudar a roupa e os outros campos liberados com a trava.]** **As regras do Flow para vídeo** (Central com agente, Frames, créditos por segundo, Omni 1.1/1.2): o Flow pago caiu em 18/11. **Proposta:** vão para o histórico; se o Flow pago voltar, a gente traz de volta.
 6. **[DECIDIDO: vão para o histórico.]** **As P1 a P47 que já não valem** (Dana, Soulmate, Love Chart, pré-gancho mudo, estilo de alto contraste, Poppins, 3 números coloridos, directs com link): **proposta:** vão para o histórico, fora deste documento.
 7. **[DECIDIDO: não troca nada ("o face ta indo, o negocio é destravar o insta").]** **A troca da avatar depois de ~3 semanas de flop (~02/12):** a regra veio da call de 18/11 (0:07:20) e está na 8.1, mas a 1ª venda veio do Face com esta avatar (25/11), e o Face entrega (nora76-FACE 4,5 mil, nora77-FACE 3,4 mil). O flop é só no Insta. **Proposta:** a troca sai; o que trava no Insta se resolve pela abertura e pelo volume (os testes do quadro).

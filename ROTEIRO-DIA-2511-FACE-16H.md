@@ -17,7 +17,7 @@
 - **O que testa:** a abertura do 11:11 com o corpo que vende no Face. **Medida com ~24 h:** os cliques no link (Insights) e as views, contra o nora76-FACE (as letras) e o nora75-FACE (a canela).
 
 ## Leitura obrigatória (registro)
-- **Lido hoje, antes do painel:** o `REGRAS-RASCUNHO.md` inteiro (15h16), o quadro de testes da `FILA` e as seções de 25/11, o `CLAUDE.md` (a seção 2, Postagem e Copy), o roteiro e o gerador do nora75 e do nora76 (`build_dia_2311.py`) e o gerador do nora77 e do nora78 (`build_dia_2411.py`).
+- **Lido hoje, antes do painel:** o `REGRAS-DA-NORA.md` inteiro (15h16), o quadro de testes da `FILA` e as seções de 25/11, o `CLAUDE.md` (a seção 2, Postagem e Copy), o roteiro e o gerador do nora75 e do nora76 (`build_dia_2311.py`) e o gerador do nora77 e do nora78 (`build_dia_2411.py`).
 - **Não reli hoje:** o `REGRAS-DO-AGENTE.md`, a pesquisa oficial e a lista do `LEIA-TUDO-ANTES.md`. Foram lidos inteiros em 24/11 18h12 a 18h19 (`ROTEIRO-DIA-2411-NORA77-78.md`). A única frase nova de copy (o T01) sai da própria pesquisa oficial; o T03 e o T15 já rodaram, conferidos.
 - **O que eu acrescentei por regra:** a data 2 dias à frente (painel vivo, 19/11); a bandeirinha na edição (16/11); o Face sem a ameaça, os selos, o "money", os 7 minutos e o "amanhã às 10" (a regra do Face de 23 e 24/11).
 - **Fica como está até o ok do aluno:** a proposta (b) (sem "prosperity", "abundance" e "scarcity" no Face). O T04, o T06, o T07 e o T11 ainda têm essas palavras.

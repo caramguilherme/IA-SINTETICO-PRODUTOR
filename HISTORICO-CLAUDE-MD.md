@@ -686,3 +686,23 @@ Copiados palavra por palavra. O que vale hoje está na seção 1 do `CLAUDE.md`.
   - nada de pastel, translúcido, serifa fina ou estilo por cena.
 
   Skills `estilo-visual-nora` e `editar-video-nora`; modelo `spec-nora65-v2.json`. O story segue o texto nativo do Instagram desde 18/11 (`texto_story_nativo.py`; o creme de 11/11 ficou como histórico). (O pedido de 12/11, de variar o estilo pela cena, foi substituído; o histórico está no `HISTORICO-CLAUDE-MD.md`.)
+
+## Da `PASSAGEM-DE-CONTA.md` (movido em 26/11/2026): os links e o feito da 5ª e da 4ª conta
+
+## 5c. Links da 5ª conta (06 a 10/11; abrem só logado nela; não são mais atualizados depois da passagem)
+- Dashboard Métricas da Nora: https://claude.ai/artifact/GnvCkx6wnMNqcJE6BVGaUP (asset do CSV `/_blob/c1ddfffe47de0c03bcdab252793aea0e`, dataset na versão 17, leituras até 10/11 13h38)
+- Painéis: nora48 https://claude.ai/artifact/QQpxR4dxqovuceqfrsHNU5 · nora49 https://claude.ai/artifact/GFB4scmCX4tDB54bmhYXv3 · nora50 (postado) https://claude.ai/artifact/55Ak6Ln2biRLw2mrDyoWPi · kit do portal: nora51 https://claude.ai/artifact/AXQp5m7g6jjn7RvWSQXMQY · nora52 https://claude.ai/artifact/L36PatLZXAraEnD56kVqiV · nora53 https://claude.ai/artifact/6LvW1Pxu3K7DuA9DEU8qbS · nora54 https://claude.ai/artifact/65UyAVMwWKzn4hSTqv3UTd (versões de 10/11 ~17h15: horários de hoje, falas revistas pelo Clone R22, LIVRE e movimentações ainda provisórios)
+- Ambiente do Claude Code da 5ª conta: `ia-sintetico-produtor` (não passa para a 6ª: criar de novo pelo passo 1b)
+
+## 5b. Feito na 5ª conta (06/11/2026 ~00h)
+- Dashboard Métricas da Nora: https://claude.ai/artifact/GnvCkx6wnMNqcJE6BVGaUP (asset do CSV `/_blob/06441b1da354ba946b84efdd4042f713`, dataset na versão 1, o mesmo CSV de 04/11 12h23)
+- Painéis: **nora48** https://claude.ai/artifact/QQpxR4dxqovuceqfrsHNU5 · **nora49** https://claude.ai/artifact/GFB4scmCX4tDB54bmhYXv3 (os arquivos como estavam)
+- Doc do MVM: o vivo (2KP736NhHJUXjF4s4JkANs) não abre nesta conta; esperando o aluno compartilhar ou pedir a recriação
+- `faster-whisper` 1.2.1 instalado
+
+## 5. Links da 4ª conta (03 a 05/11; só a 4ª conta edita; não são mais atualizados depois da passagem)
+- Dashboard Métricas da Nora: https://claude.ai/artifact/BzjxbGkWRRKcJdBSnUpzyd (asset do CSV `/_blob/28ad542021e3a0cc7dd9a4743eb5acf5`, dataset na versão 10, leituras até 04/11 12h23)
+- Doc do MVM: o vivo é https://claude.ai/artifact/2KP736NhHJUXjF4s4JkANs (projeto 0aaa260d-18c9-48de-a9f4-eafa2d73e8e0 · tab 5b5b5c61-f3e5 · corpo 0d0724eb-ab64). Parado: https://claude.ai/artifact/Km3GMYScCPw44sR57wyiLm
+- Painéis: nora47 https://claude.ai/artifact/SoqFZUhSwEr8SDUQMbCk7a (já postado) · **nora48** https://claude.ai/artifact/JyeRSyXZzdbCq2h6afNzz7 · **nora49** https://claude.ai/artifact/CsKv1MzDjzcZ4akJGRZ3wM (versão 6 de cada, 05/11 ~13h45)
+- Links das contas de 30/10 e contatocaram: no histórico do `CLAUDE.md` (seção 0); não são mais atualizados.
+
