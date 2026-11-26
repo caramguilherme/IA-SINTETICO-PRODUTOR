@@ -86,3 +86,19 @@
 
 ## 23/11 17h58: o nora75 refeito
 A proposta da seção 3 (o carro com o pau de canela) misturava peças de vídeos diferentes, e nenhum dos 43 faz aquilo. O nora75 passou a ser a cópia de um vídeo real que se repete: o m30 = o m61 (a canela em pó McCormick no copo d'água, no sofá, camiseta preta, nada no topo, só o 11:11✨, a seta no fim), com a fala deles frase por frase, reescrita o mínimo e sem o "free". O nora76 é o mesmo corpo com as letras do nome (4 contas). `ROTEIRO-DIA-2311-NORA75-76.md`.
+
+## 26/11/2026 ~15h50: o lote novo (13 vídeos, 7 contas, todos com 5x mais views que os seguidores; `referencias-virais/2026-11-26-mineracao/LEIA.md`)
+- **A receita se mantém:**
+  - a fala desde o 1º quadro (12 de 13);
+  - a data (13 de 13);
+  - o objeto na mão o vídeo todo;
+  - roupa preta;
+  - sem pintura;
+  - o mesmo corpo com vários Take 1.
+- **Cresceram:**
+  - **as letras do nome** (a mesma lista de 11 letras, 3 contas);
+  - **a virada da frequência antes do CTA** (6 vídeos, 3 contas; em 23/11 eram 2): "money is coming your way, but your frequency is still vibrating at scarcity… every time money gets close, it slips away";
+  - **a carta de tarô na mão o vídeo todo** (5 vídeos, 2 contas);
+  - **o papel com 3 signos escrito à mão** (1 conta, 4 vídeos com o mesmo corpo).
+- **Ficou mais longo:** a mediana foi de 1:47 para 2:20.
+- **O vídeo que mais se repete hoje é o m11 = o m06** (as letras + o corpo da "sorte" + a virada da frequência, em 2 contas). É o candidato da próxima cópia.

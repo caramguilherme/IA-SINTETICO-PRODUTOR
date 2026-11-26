@@ -57,6 +57,15 @@
     - as versões A, B e C de um conceito;
     - o vencedor vai para o feed pelo botão do Insta ("share with everyone").
   - **Na mineração (o aluno):** além dos 5x os seguidores, olhar os compartilhamentos e os comentários (p01). A janela de dias está na resposta de 26/11 ~15h10: até 3 dias, nunca mais de 7. **Em conta grande, os 5x não servem** (o aluno, 15h12: "a soma tem 3m de seguidor. impossivel ter video dela de 15m"). Nela, o critério é o vídeo bem acima do normal da própria conta (~3x os últimos 10 a 15 Reels; critério meu, sem fonte), ou o que o nicho está copiando. **Afrouxado em 26/11 ~15h20** (o aluno: "tem perfil com milhares de seguidores, fica dificil achar video com 5x… ja achei 2 videos só, mas olhei uns 6 perfis"): vale o vídeo bem acima do normal da própria conta (~3x os outros Reels dela), ou o que se repete em 2 contas ou mais, que é o critério da receita da maioria (23/11). Os 5x são só um dos jeitos de achar o fora da curva.
+- **Da mineração de 26/11 (13 vídeos, 7 contas; `referencias-virais/2026-11-26-mineracao/LEIA.md`):**
+  - **Teste A/B do CTA, no Insta e no Face:** a virada da frequência antes do CTA × o "quick reading… whether you're one of those people".
+    - **A:** "every time money gets close, it slips away… you don't need to work harder", e então "Three quick questions, and your private reading shows what's been blocking your money" (6 vídeos, 3 contas; o mecanismo bate com o funil: a carta O Louco, "as travas");
+    - **B:** o "quick reading… whether you're one of those people", que a Nora usou do nora75 ao nora79 com ~125 views e 0 a 1 visita no Insta.
+    - **Medida:** visitas ao perfil por 1.000 views e cliques.
+    - **No Face, "money" vira "every good thing"** (regra 4.1).
+  - **O próximo falado copia o m11 = o m06** (as letras do nome + o corpo da "sorte" + a virada da frequência), com o teste da 2ª frase dentro: a 2ª frase do original é o pico ("You're about to experience the luckiest days of your entire life"); a validação já está no corpo ("The universe has seen your faith. It has seen every time you almost gave up…") e sobe para o 2º lugar no outro braço.
+  - **O trio de signos no papel escrito à mão, para o Face** (a conta 1: o mesmo corpo com 4 trios): um Take 1 novo com o papel em branco na mão (o texto entra na edição), sobre um corpo que já rodou na Página. É o trio de signos aprovado em 25/11 para o Face.
+  - **Abertura de curto: "Stop! Three, two, one. Are you ready?" + "Pick a card" com 2 cartas numeradas** (m09, m13): é parente do desafio de pausar; um jogo nos primeiros segundos.
 - **O volume do Insta, fechado (26/11 09h20):** 3 por dia, às 17h, 20h30 e 0h00 (decisão do aluno); o teste de 1 por dia do Robert rodou só no nora79 e saiu. O Face fica com 4 (12h, 17h, 20h30 e 0h00).
 - **Fora:** agendar (nada agendado); a automação do GeeLark só no aquecimento das contas novas.
 

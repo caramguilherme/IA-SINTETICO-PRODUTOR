@@ -995,3 +995,13 @@ Do 1º ao 15º (views, duração): nº 1 dança de casal (5,6 mi, 41 s; fora do 
 - **Fora:** a calcinha com duplo sentido (5 vídeos), o parente falecido (3), "I'll change my name", "in 33 minutes", "free", as ameaças, a inveja, os selos e o "84 anos" da lua cheia, que é inventado.
 - **Lote 2 (23/11 15h56, m59 a m61, mesma pasta):** @itssamanthawise (as letras do nome + o CTA da frequência, com a bandeira grande dos EUA e a estátua dourada), @laurenmatthewsmn ("Cross the fingers of your left hand…" + o corpo A) e @melyastro.eua (o m30 da @alessandra.eua palavra por palavra: a canela no copo d'água). Com eles, são 43 vídeos de 20 contas, e a receita não muda.
 - **23/11 15h34, a decisão do aluno: fazer igual à maioria.** A receita item por item (avatar, roupa, cenário, objeto, Take 1, data, texto do topo, corpo, CTA, duração, tela e volume) e o nora75 igual a ela estão em `referencias-virais/2026-11-23-mineracao/RECEITA-DA-MAIORIA.md`. As 2 fontes que o nicho copia são a brasileira da "consulta espiritual" (a estátua do arcanjo) e a @soma_chhaya (o m42, o m45, o m50 e o m56).
+
+## 56. A mineração de 26/11/2026: 14 vídeos, 13 diferentes, 7 contas (pasta do Drive 1BIVn8gbjQsWuLOvnbJhIgSnLs4XfPzy1; todos com 5x mais views que os seguidores, pelo aluno; análise inteira em `referencias-virais/2026-11-26-mineracao/LEIA.md`; fala inteira em `TRANSCRICOES/2026-11-26-mineracao-14-videos.md`)
+- **O mais repetido:** o m11 = o m06 (as letras do nome + o corpo da "sorte" + a virada da frequência, 2 contas).
+- **Cresceram:** as letras do nome (3 contas) e a virada da frequência antes do CTA (6 vídeos, 3 contas).
+- **Formatos:**
+  - a carta de tarô na mão o vídeo todo;
+  - o papel com 3 signos escrito à mão (1 conta, 4 trios no mesmo corpo);
+  - "Stop! Three, two, one" + "Pick a card" com 2 cartas numeradas.
+- **Fora:** o parente no céu, o "free", a credencial e a escassez inventadas, e o "choose three cards" na fala.
+
