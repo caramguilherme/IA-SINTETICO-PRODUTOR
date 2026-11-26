@@ -1167,6 +1167,24 @@ e aí, qual formato vc ta rodando agr?
 ```
 **Fontes:** a venda de 25/11 00h35 pelo Face (tela de Vendas); 24 e 25/11, 16 cliques, todos do Face (Tracker); a receita da maioria (23/11 15h34); a Nora sem a pintura desde o nora75; o mesmo corpo com Take 1 novo no Face (24/11 10h59); o nora76-FACE com 4.025 views (CSV). **A call:** se o aluno quiser, acrescentar uma linha com o dia e a hora; senão, fica sem.
 
+**Enviado pelo aluno em 25/11 11h56 (print de 26/11 10h43), igual ao sugerido.**
+
+## RECEBIDO (25/11/2026 14h27; DM do Marcelo [MVM]; print do aluno em 26/11 10h43)
+> fico feliz mesmo que tenha destravado… depois que pegar o jeito ja era
+> eu perdi ontem minha melhor conta do face / esta em analise agora para voltar
+> eu to fazendo so o formato de avatar mano e o mais validado
+> eu consegui acertar um video essa semana / bateu 4k / mais depois as views voltam para o mesmo de sempre / 200 a 300
+> ai agora esperando voltar a minha do facebook / mais por enquanto eu to com duas insta somente / e to aquecendo conta do face em outro face que eu tenha
+
+## SUGERIDO (26/11/2026 10h45; DM ao Marcelo [MVM], resposta à de 25/11 14h27; uma mensagem só; conta como enviada)
+```
+poxa mano, que merda da conta do face, espero que volte logo
+se demorar, vi a mary contando no chat que recuperou a dela pelo suporte humano da meta de madrugada, no botao "obter apoio" no topo do app
+sobre o de 4k: aqui no face, quando um bateu 4,5k, repeti o mesmo corpo gerando so um take 1 novo. um foi pra 3,6k, outro ficou em uns 260
+o seu de 4k foi no face ou no insta?
+```
+**Fontes:** a Mary (33ª leitura, `COMUNIDADE-E-ESTRATEGIA.md`, 25/11 01h40: o suporte humano de madrugada, ~1h, pelo "Obter apoio", devolveu a conta e as Páginas; relato de 1 pessoa); o nora76-FACE (4.516), o nora77-FACE (3.625, o mesmo texto gerado de novo com as letras do nome na frente) e o nora75-VAR2511-FACE (263 com ~17 h, o mesmo corpo com o 11:11 na frente) (`METRICAS-NORA-LEIA.md`, 26/11 10h05).
+
 ## SUGERIDO (25/11/2026 11h57; DM do th [MVM], resposta à mensagem dele de 25/11 07h45: "como assim? to sem claude, to com o gpt pro"; uma mensagem só; conta como enviado, P44)
 **A conversa antes (colada pelo aluno):** o th (24/11 10h47) perguntou se ele ativou a conta do Flow; o aluno (17h44): usa o Muse "no esquema que foi ensinado no fórum"; o th (22h54): usa o Flow e não chegou num bom resultado com o tutorial do Vinicius; o aluno (23h18): curtiu, "achei bem melhor que o flow… joga o conteudo no claude, e pede pra ele ajudar no prompt".
 ```
