@@ -775,3 +775,7 @@ No print, o clipe tem uma faixa preta fina na esquerda e na direita (~1% da larg
 - **A regra:** take avulso (1 a 3 clipes, como um Take 1 novo, uma data nova ou um CTA do Face) vai **só no Muse**, com o prompt do `prompt_manual` (já leva o perfil de voz travado, o texto de consistência de voz, a movimentação, a câmera, o visual, a continuidade e a SPEECH RULE). A Central só entra no corpo inteiro (o bloco "COPIAR TUDO JUNTO").
 - **No painel:** `"ocultar_cenas": true` no pacote esconde a seção das cenas, e `central.agente.titulo` troca o título "No agente do Flow" (o `PAINEL-MODELO.html` aceita os dois desde 25/11).
 
+
+## 25/11/2026 ~22h: o botão "Copiar prompt" fica fora da setinha
+- **O pedido do aluno:** "queria um botao pra copiar o prompt nos prompts do painel que eu preciso clicar na setinha pra ver". O botão "Copiar" ficava dentro do "ver o texto para colar" (precisava abrir para achar).
+- **A mudança no `PAINEL-MODELO.html`:** em cada passo do agente com prompt longo, o botão "Copiar prompt" aparece direto, e a setinha ("ver o texto") só mostra o texto. Republicados o nora79 (versão 5) e o nora77-VAR2511-FACE (versão 4), nos mesmos links.
