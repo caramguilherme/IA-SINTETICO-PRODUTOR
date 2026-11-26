@@ -830,3 +830,9 @@ O Flow bateu o limite de geração de imagens, e o aluno gerou a imagem do nora8
 3. O vídeo final é transcrito e comparado com a fala do painel, como já era a regra.
 
 **A legenda:** com a mão segurando o objeto na faixa de baixo (a ametista do nora80, a 72% a 88% da altura), a legenda sobe para ~65% (`YLEG=0.65` no `rodar_2611.sh`; o `editar_simples_2311.py` lê o `YLEG`).
+
+## 26/11/2026 19h17, o pulo no 1º quadro do clipe do `noracurto2611` (o aluno: "parece que tem um bug no começo do video, ela meio que aparece no meio")
+- **O que aconteceu:** medi o clipe quadro a quadro (6 s, 24 qps, 144 quadros). No quadro 0 a Nora aparece no meio-esquerda (é a imagem anexada); no quadro 1 ainda há um resto dela; do 2 ao 17 (0,08 a 0,71 s), o jardim fica vazio; no 18 (0,75 s), ela entra pela borda esquerda. Ela passa o centro em ~2,1 s e sai pela direita em ~3,3 s; até 6 s, só a bandeira mexe.
+- **A causa:** o Muse usa a imagem como 1º quadro e depois recomeça a cena como o prompt descreve ("ela atravessa da esquerda para a direita"). A imagem tinha saído com ela no meio-esquerda, não na borda.
+- **O conserto, sem gerar de novo:** a edição usa só de 0,75 s a ~3,3 s e emenda a saída pela direita com a entrada pela esquerda (o fundo é parado, então a volta fica sem pulo). Não uso ida e volta (ela andaria de costas).
+- **Daqui em diante:** todo clipe sem fala tem o 1º segundo conferido quadro a quadro antes da edição. Só peço de novo se o pulo cair no trecho que o vídeo usa.
