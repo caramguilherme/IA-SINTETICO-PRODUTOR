@@ -820,3 +820,13 @@ O Flow bateu o limite de geração de imagens, e o aluno gerou a imagem do nora8
 **O pedido:** "eu queria que passasse pela central todos os takes, porque daí já tem todos os campos… a movimentação, o tipo de voz, o prompt da voz… não tem como o take 14 e o take 15 ir no final da copy?". Até o nora79, os takes só do Face eram prompts avulsos escritos por mim.
 **Agora:** a colagem da Central leva a fala inteira, do T01 ao T15 (o T14, as letras, e o T15, o CTA do comentário, no fim), com as 15 linhas de movimentação. O Muse gera os 15 de uma vez, com os nomes certos no aviso (Prompt 14 e Prompt 15). Isso dá mais um ganho: a voz dos 2 takes do Face sai da mesma leva.
 **Por que a Central divide certo:** ela só começa um take novo quando a frase seguinte não cabe no take (~22 palavras). O gerador confere isso nos 15 em sequência (`conferir` com o T14 e o T15). O T13 tem 22 palavras e o T14, 18; o T14 mais a 1ª frase do T15 dá 26.
+
+## O fim da palavra comido no corte de silêncio, de novo, e a varredura antes do render (26/11/2026 ~18h50; nora80)
+**O caso:** o final do nora80 saiu com "Unexpected." no lugar de "unexpectedly." (T04, no Insta e no Face), o mesmo erro do nora79. O Whisper marcou o fim da palavra em 33,76 s, e o "-ly" ia até ~34,20 (a energia, em janelas de 20 ms). O corte de silêncio começa no fim + 0,12 s.
+**O "and money," do Face:** pelo tempo do Whisper, o corte comeu o "faith". Pela energia, o "and money" é um bloco só, de 27,04 a 27,55. O corte certo foi de 26,90 a 27,70, conferido transcrevendo a emenda ("The universe saw your faith, prosperity and someone…").
+**Daqui em diante, antes do render:**
+1. A varredura de todo corte de silêncio: energia acima de ~20 (escala ×400) nos 0,4 s depois do começo do corte = palavra comida. Corrige-se o fim da palavra no `palavras.json`.
+2. Toda palavra tirada do meio da frase é conferida transcrevendo a emenda.
+3. O vídeo final é transcrito e comparado com a fala do painel, como já era a regra.
+
+**A legenda:** com a mão segurando o objeto na faixa de baixo (a ametista do nora80, a 72% a 88% da altura), a legenda sobe para ~65% (`YLEG=0.65` no `rodar_2611.sh`; o `editar_simples_2311.py` lê o `YLEG`).

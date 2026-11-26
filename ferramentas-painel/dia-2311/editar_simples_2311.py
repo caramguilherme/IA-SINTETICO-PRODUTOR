@@ -149,7 +149,7 @@ def png_leg(txt):
                 a1, a2 = dr.textlength(l1, font=f_leg), dr.textlength(l2, font=f_leg)
                 if max(a1, a2) <= W * 0.78: ops.append((abs(a1 - a2), [l1, l2]))
             if ops: linhas = min(ops)[1]
-        y = H * 0.775 - (len(linhas) - 1) * 31
+        y = H * float(os.environ.get('YLEG', '0.775')) - (len(linhas) - 1) * 31  # 26/11: YLEG sobe a legenda quando a mão segura o objeto na faixa de baixo (nora80, a ametista)
         for ln in linhas:
             texto_sombra(im, (W / 2, y), ln, f_leg); y += 62
     return camada(d)
