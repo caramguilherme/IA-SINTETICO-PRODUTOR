@@ -48,6 +48,15 @@
   - **O post de apresentação fixado no perfil e o "follow for part 2"** (Tear AI Builds, m02): para quem chega ao perfil; depois, quando as visitas subirem.
   - **Para a mineração (o aluno):** preferir os vídeos com 5 vezes mais views que os seguidores do perfil (Thi Hernandes, m10).
   - **Trial Reels pelo app Edits** (Maxim, m07): "Add a version", postar as versões como Trial Reels e mandar a vencedora para o feed (o "como" do teste aprovado em 26/11 09h).
+- **Do 3º lote (2 vídeos, 26/11 ~15h05; `MATERIAIS-DICAS-INSTA-26-11/LEIA.md`, "3º lote"):**
+  - **Teste A/B dos curtos, só no Insta: o curto feito do zero × o curto feito sobre um template viral do nicho espiritual** (p01, Hayley: o "Use template" do Edits num Reel com mais de 300 mil views, menos de 10 s e muitos compartilhamentos e comentários; o mesmo gancho, o mesmo áudio e o mesmo layout, e a Nora no visual).
+    - **Limites:** o template nunca vem de quem vende Appyon (aviso de 22/09), ou o texto do gancho é reescrito; o Edits só no celular do GeeLark da Nora, com a proxy dela (decisão do aluno); o "ligado digitalmente ao público" é a explicação dela, sem prova (ela vende curso).
+    - **Medida:** a fatia dos EUA e da Índia, as visitas ao perfil e o tempo médio contra o do curto feito do zero.
+  - **Os Trial Reels, o "como" completo** (p02):
+    - o Trial primeiro, nunca o mesmo vídeo no feed e depois no Trial (o Insta marca como duplicado);
+    - as versões A, B e C de um conceito;
+    - o vencedor vai para o feed pelo botão do Insta ("share with everyone").
+  - **Na mineração (o aluno):** além dos 5x os seguidores, olhar os compartilhamentos e os comentários (p01). A janela de dias está na resposta de 26/11 ~15h10: até 3 dias, nunca mais de 7.
 - **O volume do Insta, fechado (26/11 09h20):** 3 por dia, às 17h, 20h30 e 0h00 (decisão do aluno); o teste de 1 por dia do Robert rodou só no nora79 e saiu. O Face fica com 4 (12h, 17h, 20h30 e 0h00).
 - **Fora:** agendar (nada agendado); a automação do GeeLark só no aquecimento das contas novas.
 

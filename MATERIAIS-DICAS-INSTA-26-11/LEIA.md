@@ -252,3 +252,44 @@ A transcrição está no mesmo arquivo, no "2º lote". Os 15 vieram com som. 4 f
 - **Os 10 jeitos de enganar o detector de duplicado** (m05): na Nora, cada post do Insta é gerado de novo (24/11), e a variação só de edição travou no Face em 4 de 6. Só confirma que o Insta detecta repetição.
 - **"Comente a palavra" para receber o link na DM** (m14, m15): no Insta da Nora não vai direct com link, e no Face é isca.
 - **10 vídeos por dia** (m09): a Nora acabou de subir para 3, decisão do aluno.
+
+# 3º lote (2 vídeos, mandados pelo aluno em 26/11 ~15h05, na mesma pasta do Drive)
+**O que li:** os 2 vídeos inteiros, pela transcrição e por uma folha de 18 quadros de cada um: `lote3-p01-template-edits.jpg` e `lote3-p02-trial-reels.jpg`. A transcrição está no fim de `TRANSCRICOES/2026-11-26-dicas-insta-17-videos-kallaway-viewcci-outros.md`.
+**O que não deu:** os @ dos autores. O do p01 é a Hayley (o nome aparece no "About this reel" do print); o do p02 é um músico que não diz o nome.
+
+## O que eles ensinam (com o vídeo)
+1. **O "Use template" do Edits** (p01, Hayley):
+   - **como escolher o Reel:** um viral do nicho com mais de 300 mil views, menos de 10 s e "really high shares and comments";
+   - **o caminho:** nos 2 risquinhos do topo do Reel, "Use template", e ele abre no Edits;
+   - **o que muda:** só o visual. O gancho, o áudio e o layout ficam iguais;
+   - **o que ela promete:** que o Reel fica "digitally linked to the target audience of the original", e o algoritmo passa a saber para quem mandar. Ela diz que saiu de "menos de 1.000" para virais toda semana e ~35 mil seguidores;
+   - **a premissa dela:** se o mesmo conteúdo viraliza para os outros e flopa para você, "the problem isn't your content".
+2. **Os Trial Reels, o que fazer e o que não fazer** (p02, o músico):
+   - **a ordem:** postar no feed e depois o mesmo como Trial faz o Insta marcar como duplicado ("Instagram flags this as duplicate content"). Ele posta tudo como Trial primeiro;
+   - **como teste:** o Trial vai só para quem não segue, é um teste "just like running ads". Um conceito vira as versões A, B e C (ganchos e visuais), e os dados se leem no Edits;
+   - **o conceito:** "just because one trial reel didn't work out, it doesn't mean that the concept necessarily doesn't work out";
+   - **o engajamento falso:** não repostar o próprio Reel, não compartilhar no story logo depois, não mandar para 10 pessoas, não ficar atualizando. "I don't give myself false engagement… I let the content do its job";
+   - **o vencedor:** o Trial que estourou, o Insta sugeriu mandar para o feed. O Trial pode seguir rodando ("your winners can literally continue to grow for weeks"), e o mesmo vídeo pode ir para o feed depois.
+
+## O que serve para a Nora (e por quê)
+- **O template do Edits nos curtos** (p01) vira teste A/B, só no Insta: o curto feito do zero × o curto feito sobre um template viral do nicho espiritual com menos de 10 s, com o mesmo áudio e o mesmo layout e a Nora no visual. **Os limites:**
+  - **(a) o aviso oficial de 22/09:** não copiar vídeo de quem vende Appyon. O template vem de uma conta que não vende Appyon (as de engajamento do nicho, como as 18 da mineração de 23/11), ou o texto do gancho é reescrito;
+  - **(b) o login:** o Edits é da Meta e entra com o Insta da Nora. Só no celular do GeeLark da Nora, com a proxy dela, nunca em outro aparelho. É um login novo, mas no mesmo aparelho e no mesmo IP: o risco é baixo, e a decisão é do aluno;
+  - **(c) a explicação dela não tem prova:** o "ligado digitalmente ao público" é dela, e ela vende um curso ("comment momentum"). O que dá para medir é a fatia dos EUA e da Índia e as visitas ao perfil do curto feito com o template.
+- **O critério de escolha** (p01: muitos compartilhamentos e comentários) vai junto com os 5x os seguidores na mineração, e bate com a hipótese do envio (Kallaway).
+- **Os Trial Reels** (p02) dão o "como" do teste aprovado em 26/11 09h:
+  - **a ordem:** o Trial primeiro, e nunca o mesmo vídeo no feed e depois no Trial;
+  - **o vencedor:** vai para o feed pelo botão do próprio Insta ("share with everyone"), sem repostar;
+  - **as versões:** A, B e C do mesmo conceito, que é o que a Lara (n06) e o Maxim (m07) já tinham dito.
+- **Nada de engajamento falso** (p02) confirma o que a Nora já faz: não reposta, não compartilha o próprio Reel no story e não manda para ninguém (o story é a foto com o link). Uma rajada de ações já deu a verificação facial de 17/11.
+
+## Contradição anotada
+- **O p01 diz que o problema "não é o conteúdo, é o algoritmo não saber para quem mandar".** Contra ele:
+  - o m11 (Cassie: "starting a new account will not fix bad content");
+  - o nosso diagnóstico pelo skip: 44% a 68% do nora76 ao nora79, contra 28% a 32% dos campeões.
+
+  O diagnóstico fica, porque o skip é medido. O teste do template mede a hipótese dela.
+
+## O que não serve (e por quê)
+- **"Comente momentum" / "comment checklist" para receber na DM** (p01 e p02): no Insta da Nora não vai direct com link, e no Face é isca.
+- **O feed "artístico" do músico** (p02: a paleta de cores, o "mundo da minha música"): é de outro nicho. O que vale é a parte dos Trial Reels.
