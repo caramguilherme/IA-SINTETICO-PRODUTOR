@@ -115,6 +115,17 @@ for k, v in V.items():
         assert w not in v['prompt_img'].lower(), (k, w)
 
 
+def prompt_muse(v):
+    # 26/11 ~16h50 (o aluno): o Flow bateu o limite de imagens; a imagem sai no Muse, só com o blueprint anexado (o teste dele: "vou anexar só o blueprint").
+    p = v['prompt_img']
+    i = p.index('Same woman, same face;')
+    j = p.index('. ', i) + 2
+    return ('Generate exactly ONE photorealistic vertical 9:16 image. The attached image is the character sheet of the woman: keep exactly her face, her warm '
+            'medium-brown eyes, her complexion, her long black wavy hair worn loose, her small plain gold stud earrings and her thin gold chain necklace, the same '
+            'woman as in every panel of the sheet; no paint, no moon, no stars and no marks on her face; do not copy the sheet layout, the labels or the white '
+            'background. ' + p[j:])
+
+
 def mov(v, g):
     return (f'Throughout the whole 10 seconds {v["cam"]}; {v["segura"]}; {g}; her eyes stay on the lens; '
             'from the end of the final sentence of the take until the clip ends she keeps her lips closed and silent; no zoom and no cuts, each hand has exactly five fingers.')
@@ -232,21 +243,26 @@ def montar(nn):
     B23.ROUPA = v['roupa']
     P = B23.base(nn)
     P['figurino'] = v['roupa']
+    escolha = (f'Confira primeiro o rosto (a mesma Nora do blueprint, SEM a lua e SEM as estrelinhas, os olhos CASTANHOS, o cabelo solto), depois: {v["roupa_pt"]}; '
+               f'{v["obj_pt"]}; a bandeira dos EUA sem cobrir a cabeça; 5 dedos em cada mão; nada escrito em lugar nenhum. Salve como {v["img"]}.')
     P['pre_gancho'] = {
-        'titulo_secao': 'A imagem (Flow, antes dos takes)',
+        'titulo_secao': 'A imagem (no Muse, antes dos takes)',
         'conceito': (f'Uma imagem só, para os {n} takes e os 2 do Face: a Nora v3 (sem a pintura, olhos castanhos) {v["lugar_pt"]}, de {v["roupa_pt"]}, com '
-                     f'{v["obj_pt"]} e a bandeira dos EUA. A cópia de {v["copia"]}.'),
-        'modo': 'Flow → Imagem · 9:16 · Nano Banana Pro · x4, anexando as referências na ordem (0 crédito).',
-        'etapas': [{'titulo': f'A imagem de todos os takes ({v["lugar_pt"]})', 'nome': v['img'], 'tipo': 'img',
+                     f'{v["obj_pt"]} e a bandeira dos EUA. A cópia de {v["copia"]}. O Flow bateu o limite de imagens (26/11): a imagem sai no Muse, só com o blueprint.'),
+        'modo': 'Muse, na conversa da Nora: anexar só a nora-v3-blueprint e colar o prompt. Ele gera 1 imagem por vez.',
+        'etapas': [{'titulo': f'A imagem de todos os takes ({v["lugar_pt"]}), no Muse, só com o blueprint', 'nome': v['img'], 'tipo': 'img',
+                    'anexar': f'só a {FOLHA} (a folha da Nora v3, em 1K)',
+                    'quadros': ('1 imagem por vez. ' + escolha + ' Se o rosto escapar ou algo vier errado, mande na mesma conversa: “Generate it again, exactly the '
+                                'same prompt, one new version.” Se quiser, me mande a imagem antes de gerar os takes: eu confiro o rosto contra o blueprint.'),
+                    'prompt': prompt_muse(v)},
+                   {'titulo': 'Reserva: no Flow, quando o limite de imagens voltar (x4, 0 crédito)', 'nome': v['img'], 'tipo': 'img',
                     'anexar': f'1º a {IMG_BASE} (a Nora do nora79, na cozinha); 2º a {FOLHA} (a folha da Nora v3, em 1K)',
-                    'quadros': (f'x4, 0 crédito. Escolha primeiro pelo rosto (a mesma Nora, SEM a lua e SEM as estrelinhas, os olhos CASTANHOS, o cabelo solto), '
-                                f'depois: {v["roupa_pt"]}; {v["obj_pt"]}; a bandeira dos EUA sem cobrir a cabeça; 5 dedos em cada mão; nada escrito em lugar nenhum. '
-                                f'Renomeie para {v["img"]}. Guarde as 3 que sobrarem: uma delas vira o story.'),
+                    'quadros': 'x4, 0 crédito. ' + escolha + ' Guarde as 3 que sobrarem: uma delas vira o story.',
                     'prompt': v['prompt_img']}],
     }
     P['imagens_titulo'] = f'A imagem das falas ({v["img"]}, em todos os takes)'
     P['refs'] = [f'{v["img"]} do T01 ao T{n:02d} e nos 2 takes do Face']
-    P['imagens'] = [{'rotulo': f'IMAGEM 1 · {v["img"]}', 'cena': 'gerada no Flow (seção da imagem)', 'anexar': f'a {v["img"]}'}]
+    P['imagens'] = [{'rotulo': f'IMAGEM 1 · {v["img"]}', 'cena': 'gerada no Muse (seção da imagem)', 'anexar': f'a {v["img"]}'}]
     T = TEXTOS[nn]
     P['roteiro'] = {
         'id': f'{nn}-LETRAS-CORPO-MAIORIA-{v["pref"].upper()}-2611',
@@ -321,7 +337,7 @@ def montar(nn):
                    'nora82, à 00h30. Antes de abrir o Insta, confira o IP e os EUA no mylocation.org.'),
         'nora81': 'O story da cozinha segue no ar até ~01h. Não poste story agora: o novo vai junto com o nora82, à 00h30.',
         'nora82': ('O story vence ~01h04 (Face) e ~01h10 (Insta): poste o NOVO junto com este vídeo, nos dois, antes das 01h. É o dos campos trancados (o teste aprovado '
-                   'em 26/11). Me mande 1 das 3 opções que sobraram da imagem do nora81 ou do nora82 (uma em que ela olhe para a câmera) e eu devolvo a foto com o texto; '
+                   'em 26/11). Me mande uma imagem a mais do nora81 ou do nora82 (no Muse, “Generate it again, exactly the same prompt, one new version”, uma em que ela olhe para a câmera) e eu devolvo a foto com o texto; '
                    'você só põe o adesivo do link (STORYIG no Insta, FACE no Face).'),
     }[nn]
     P['story'] = {'ja_postado': True, 'nota': story}
@@ -332,7 +348,7 @@ def montar(nn):
                  'Muda só a roupa e o cenário. O teste do dia vai no nora82, à 00h30.')
     P['pecas'] = {
         'titulo_decisao': 'Resumo',
-        'lista': ([{'nome': v['img'], 'tipo': 'imagem das falas', 'status': 'gerar', 'onde': f'No Flow, editando a {IMG_BASE} + a {FOLHA} (x4, 0 crédito).',
+        'lista': ([{'nome': v['img'], 'tipo': 'imagem das falas', 'status': 'gerar', 'onde': f'No Muse, só com a {FOLHA} (1 por vez); reserva: o Flow com a {IMG_BASE} + a {FOLHA}.',
                     'descricao': f'{v["lugar_pt"]}, {v["roupa_pt"]}, {v["obj_pt"]}, a bandeira.'}]
                   + [{'nome': nomes[i], 'tipo': 'take', 'status': 'gerar', 'descricao': f'“{fala[i]}”'} for i in range(n)]
                   + [{'nome': n_letras, 'tipo': 'take do Face', 'status': 'gerar', 'descricao': f'“{LETRAS}”'},
