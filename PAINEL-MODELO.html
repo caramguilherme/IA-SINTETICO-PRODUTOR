@@ -621,7 +621,8 @@ function enxugar(){
   $('listaCenas').querySelectorAll('.item').forEach(it=>{const h=it.querySelector('h3');if(h&&/Depois que o agente gerar/.test(h.textContent))it.remove();});
   // passos longos do agente (prompt de reserva) recolhidos, com botão de copiar
   $('agenteBox').querySelectorAll('ol.steps li').forEach((li,i)=>{const t=li.textContent;const m=t.match(/^([\s\S]*?)(PROMPT: |\(só se precisar\): )([\s\S]{300,})$/);if(!m)return;
-    li.innerHTML=esc(m[1].trim())+' <div style="margin-top:6px"><button class="cp cpRes" data-i="'+i+'">Copiar prompt</button></div><details style="margin-top:4px"><summary style="cursor:pointer;color:var(--ink2)">ver o texto</summary><div class="box m">'+esc(m[3])+'</div></details>';
+    const rot=((m[1].trim().match(/^(?:O )?(T\d+[A-Z]?)/)||[])[1])||'';const qual=rot?' do '+rot:'';
+    li.innerHTML=esc(m[1].trim())+' <details style="margin-top:6px"><summary style="cursor:pointer;color:var(--ink2)">ver o prompt'+qual+'</summary><button class="cp cpRes" data-i="'+i+'" style="position:static;display:inline-block;margin:8px 0">Copiar prompt'+qual+'</button><div class="box m">'+esc(m[3])+'</div></details>';
     li.querySelector('.cpRes').onclick=e=>copiar(m[3],e.currentTarget);});
 }
 

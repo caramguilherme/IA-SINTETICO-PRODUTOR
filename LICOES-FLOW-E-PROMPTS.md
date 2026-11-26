@@ -776,6 +776,8 @@ No print, o clipe tem uma faixa preta fina na esquerda e na direita (~1% da larg
 - **No painel:** `"ocultar_cenas": true` no pacote esconde a seção das cenas, e `central.agente.titulo` troca o título "No agente do Flow" (o `PAINEL-MODELO.html` aceita os dois desde 25/11).
 
 
-## 26/11/2026 00h07: o botão "Copiar prompt" fica fora da setinha
-- **O pedido do aluno:** "queria um botao pra copiar o prompt nos prompts do painel que eu preciso clicar na setinha pra ver". O botão "Copiar" ficava dentro do "ver o texto para colar" (precisava abrir para achar).
-- **A mudança no `PAINEL-MODELO.html`:** em cada passo do agente com prompt longo, o botão "Copiar prompt" aparece direto, e a setinha ("ver o texto") só mostra o texto. Republicados o nora79 (versão 5) e o nora77-VAR2511-FACE (versão 4), nos mesmos links.
+## 26/11/2026 00h07: o botão "Copiar prompt" de cada take
+- **O pedido do aluno:** "queria um botao pra copiar o prompt nos prompts do painel que eu preciso clicar na setinha pra ver". Depois, na 1ª tentativa: "eu vou copiar o prompt de qual take? tem que ser um botao pra cada prompt, dentro do prompt na seta".
+- **O erro (desde 11/11):** a classe `.cp` do `PAINEL-MODELO.html` tem `position:absolute` (canto de cima à direita da seção). O botão "Copiar" de cada prompt recolhido ia para esse canto, todos empilhados uns em cima dos outros: nenhum aparecia ao lado do seu take. Na 1ª correção eu tirei o botão da setinha e o erro continuou, porque não olhei a tela antes de publicar.
+- **O conserto:** dentro de cada setinha ("ver o prompt do T02"), o botão "Copiar prompt do T02" com `position:static`, logo acima do texto. Conferido no navegador: um botão por take, com o número do take, e cada um copia o prompt certo. Republicados o nora79 (versão 6) e o nora77-VAR2511-FACE (versão 5), nos mesmos links.
+- **Regra:** mudança de botão ou de layout no `PAINEL-MODELO.html` só sai depois de um print do painel conferido aqui (o `conferir-painel.js` não vê posição).
