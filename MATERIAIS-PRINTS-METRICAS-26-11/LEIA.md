@@ -93,3 +93,14 @@ Colunas: views · viewers · engajamento · seguidores · impressões · coment�
 - **Público:** 3,2% seguidores, 96,8% não seguidores.
 - **Idade:** 13–17 0,8%; 18–24 4,0%; 25–34 23,8%; 35–44 34,9%; 45–54 17,5%; 55–64 12,7%; 65+ 6,3%.
 - **Países:** Reino Unido 20,6%; Irlanda 7,1%; EUA 6,3%; Canadá 6,3%; Alemanha 6,3% (sem Índia no top 5).
+
+## Insights do nora79 no Insta (~8h50; `insta-nora79-278.jpg` a `insta-nora79-282.jpg`)
+- **O aviso do Insta no topo:** "This reel has a strong hook. Viewers kept watching past the first 3 seconds."
+- **Resumo:** 128 views, 119 viewers; tempo médio 8 s; 0 follows; **skip 44,5%** (o aluno, na mensagem).
+- **A curva:** chegou a ~125 em ~1 h e parou; o típico vai a ~135 em 12 h.
+- **Taxas:** curtida 0,0%, salvamento 0,0%, repost 0,0%, comentário 0,8%.
+- **Retenção (1:28):** cai para ~30% em ~0:03, ~10% aos ~0:10 e ~5% dos ~0:25 até o fim.
+- **Depois de ver:** 0 visitas ao perfil; 0 curtidas, 1 comentário, 0 reposts, 0 compartilhamentos, 0 salvamentos. O gráfico "When people liked your reel" mostra um pico em ~1:00, com 0 curtidas no total.
+- **Público:** 100% não seguidores.
+- **Idade:** 13–17 0%; 18–24 4,0%; 25–34 10,3%; 35–44 27,0%; 45–54 34,1%; 55–64 18,3%; 65+ 6,3%.
+- **Países:** EUA 54,0%; Canadá 14,3%; Índia 4,8%; Austrália 3,2%; Emirados Árabes 3,2%.
