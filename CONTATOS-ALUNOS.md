@@ -101,6 +101,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 | Paulo Infante | Pergunta no chat (09/11 20h21): Página do Face com 7 de 12 vídeos acima de 100 views, já pode pôr link? | | | **Resposta pública enviada em 10/11** (12ª leitura) | |
 | Mateus Guisolffi | Pergunta no chat (09/11 20h08): Insta novo travado no "next" do nome | | | **Resposta pública enviada em 10/11** (12ª leitura) | |
 | th [MVM] | Pergunta no chat (12/11 16h02): qual a média de duração dos vídeos? | | | **Resposta pública enviada em 12/11** (17ª leitura: o nosso dado de 67 s x 20 s) | |
+| Lito.Miguelito (miguel.lmk) | A 1ª venda em 16/11 (#vitórias, 24ª leitura), no Love Reading, o funil dele com mais cliques (chat de 19/11 12h22: "a galera ta clicando, mas nao converte… fiz minha primeira venda domingo, depois nunca mais"); no Muse, o rosto mudando e o sotaque britânico em metade dos vídeos (fórum, 19 e 22/11) | | | **DM dele em 25/11 15h29** (parabéns pela 1ª venda + "alguma dica pra destravar. manifestacao ainda nao vendi nada"); resposta sugerida em 26/11 10h40 (texto no fim); esperar | |
 | gabrielbfrota [MVM] | Pergunta no chat (12/11 13h13): 95 DMs no Face deram 6 cliques, é normal? | | | **Resposta pública enviada em 12/11** (17ª leitura: os nossos directs em 2 passos) | |
 | Evair | 1ª venda (#vitórias 12/11 13h30), 1 dia depois do 1º post, voltando de uma pausa desde maio; funil não dito | | | **Parabéns enviado no #vitórias em 12/11** (17ª leitura), com 1 pergunta (insta ou face). Se responder, só reagir. **Respondeu em 12/11 16h45: "No face mano"** (só reagir). | |
 | Vini BR | Pergunta no chat (11/11 21h27): posta 4 a 6 por dia com 2 h de intervalo, deveria postar menos? | | | **Resposta pública enviada em 12/11** (16ª leitura: o nosso dado de 6 por dia numa conta só de Insta) | |
@@ -1294,3 +1295,16 @@ e o playbook nao mandei nao. esse site é o do vinicius, nao do gustavo
 no muse eu colei so uma mensagem no começo da conversa, com as regras e a voz travada, uma vez so. depois é so a imagem + o prompt de cada take
 ```
 **Fontes:** a mineração de 23/11 (58 vídeos da pasta do aluno, 40 de 18 contas da Auraly; `referencias-virais/2026-11-23-mineracao/`) e a dica do Caio1094 de 17/11 ("ve oq ta mais viral nas ultimas 48h"); a regra de copiar o que a maioria repete e reescrever a fala (`CLAUDE.md`, seção 2, Copy; o aviso oficial de 22/09); os prompts da Estrutura Invisível + Modelagem do Copy Hub (23/11, `MATERIAIS-COPY-HUB-23-11/LEIA.md`); o site do Vinicius B e o Playbook (`MATERIAIS-MUSE/LEIA.md`: genérico, "não é ele que decide a qualidade do take"); a configuração da Nora no Muse, colada uma vez (`MATERIAIS-MUSE/CONFIG-MUSE-NORA.md`, passo 1, que não inclui o Playbook). **Se o aluno colou o Playbook também por conta própria, ele troca a 5ª linha.**
+
+## SUGERIDO (26/11/2026 10h40; DM do Lito.Miguelito, resposta à mensagem dele de 25/11 15h29; uma mensagem só; conta como enviada)
+```
+fala mano, valeu demais!!
+ainda é 1 venda só, entao nao sei se foi sorte kkk, mas oq mudou antes dela foi:
+1. parei de inventar copy. peguei os videos que mais rodaram nas contas que vendem auraly nas ultimas 24h e copiei a estrutura que a maioria repete (o arcanjo, o cta da "quick reading"), reescrevendo a fala
+2. avatar sem pintura no rosto, roupa lisa, sofa de casa
+3. a venda veio do face, nao do insta. o link fica no comentario fixado da pagina
+4. no face o mesmo video com um take 1 novo (as letras do nome) foi pra 4,5 mil views
+no insta ainda trava em uns 125
+vc ta postando no face tb ou so no insta?
+```
+**Fontes:** a mineração e a receita da maioria de 23/11 (`referencias-virais/2026-11-23-mineracao/RECEITA-DA-MAIORIA.md`), a Nora sem a pintura do nora75 em diante; a venda do Face (a Central MVM e a tela de Vendas, 26/11) e o comentário fixado da Página (`CLAUDE.md`, seção 2); o nora76-FACE com 4.516 views, o mesmo corpo do nora75-FACE com as letras do nome na frente; o Insta do nora76 ao nora79 entre 126 e 140 (`METRICAS-NORA-LEIA.md`, 26/11 10h05). "Reescrevendo a fala": o aviso oficial de 22/09. **Fica de fora:** a nossa taxa de conversão (1 venda em menos de 100 cliques não faz taxa; a Central diz "confiável a partir de 1.000").
