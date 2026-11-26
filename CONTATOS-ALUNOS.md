@@ -1358,3 +1358,15 @@ e vc, vai começar em qual, manifestation ou risely?
 > mas se o Gustavo indicou deve estar bom
 
 **Fechamento sugerido (conversa encerrada; conta como enviado):** reagir com 🙏 e, se quiser, uma linha: `valeu cassia!! ajudou demais`. Para a decisão do 2º administrador: `PENDENCIAS-DO-ALUNO.md`, item 9.
+
+## SUGERIDO (26/11/2026 ~16h10; DM do th [MVM], resposta aos 2 áudios dele de 12h36 e 12h54, transcritos pelo aluno; uma mensagem só; conta como enviada, P44)
+**O que ele perguntou:** o Muse dele gera só 5 clipes por vez; se o aluno gera prompt por prompt (anexando a imagem a cada clipe), porque achou "muito demorado"; o que foi mandado ao Muse para travar a voz; se dá para fazer uma call para mostrar; os créditos do Flow dele vão acabar.
+**O texto:** não é prompt por prompt, são 4 passos:
+- a 1ª mensagem com as regras e a trava da voz, uma vez, sempre na mesma conversa;
+- a fala inteira no gerador de animação da Central e o "copiar tudo junto";
+- no Muse, uma mensagem só com a imagem, o aviso curto e o bloco;
+- lotes de 5 a 6, com "agora gera os prompts 7 a 12…".
+
+Cada clipe leva ~1 min; um vídeo de 13 takes, ~15 a 20 min. O que trava a voz: o perfil de voz, o campo "prompt de consistência de voz" e o "use exactly the same voice as the other clips…". Depois, a FusionZ e o CapCut. Oferta de mandar o texto da 1ª mensagem (uma versão sem a Nora, se ele pedir).
+**A call:** decisão do aluno, com 2 linhas opcionais (amanhã ou "manda print").
+**Fontes:** `MATERIAIS-MUSE/CONFIG-MUSE-NORA.md`, passo 1; `LICOES-ATIVAS.md`, 4.1 e 5.3 (6 por mensagem, ~1 min por clipe); `ferramentas-painel/voz_consistencia.py`.
