@@ -1339,3 +1339,15 @@ no insta ainda trava em uns 125
 vc ta postando no face tb ou so no insta?
 ```
 **Fontes:** a mineração e a receita da maioria de 23/11 (`referencias-virais/2026-11-23-mineracao/RECEITA-DA-MAIORIA.md`), a Nora sem a pintura do nora75 em diante; a venda do Face (a Central MVM e a tela de Vendas, 26/11) e o comentário fixado da Página (`CLAUDE.md`, seção 2); o nora76-FACE com 4.516 views, o mesmo corpo do nora75-FACE com as letras do nome na frente; o Insta do nora76 ao nora79 entre 126 e 140 (`METRICAS-NORA-LEIA.md`, 26/11 10h05). "Reescrevendo a fala": o aviso oficial de 22/09. **Fica de fora:** a nossa taxa de conversão (1 venda em menos de 100 cliques não faz taxa; a Central diz "confiável a partir de 1.000").
+
+## SUGERIDO (26/11/2026 10h50; DM do Cardoso.eth, resposta à mensagem dele de 25/11 13h53: "Queria saber quantas contas está, se está só no face e quantos vídeos por dia está postando ?"; uma mensagem só; conta como enviada)
+**Enviado antes pelo aluno (25/11 11h55, print de 26/11 10h48):** a resposta sugerida às 11h52, com a 2ª linha dele ("valeu demais mano, mas ainda to no comecinho tb, a primeira saiu ontem kkk").
+```
+tranquilo mano!
+hoje é 1 avatar só, com 1 insta e 1 pagina no face, os mesmos videos nas duas
+a partir de hoje to postando 3 por dia no insta (17h, 20h30 e 0h) e 4 no face (12h, 17h, 20h30 e 0h), horario de brasilia
+o insta ta travado em uns 120 a 250 views, quem ta trazendo os cliques e a venda é o face
+mes que vem quero subir pra 5 contas
+e vc, vai começar em qual, manifestation ou risely?
+```
+**Fontes:** a grade de 26/11 09h20 (`REGRAS-DA-NORA.md`, seção 7; `CLAUDE.md`, seção 2); os falados do Insta entre ~120 e ~250 desde 10/11, com o nora75 (695) de exceção, e os cliques e a venda do Face (`METRICAS-NORA-LEIA.md`, 26/11 10h05); o plano das 5 contas (`FATOS-DO-ALUNO.md`, o papo com o th). Nada da conta da Nora (o @, os links, os números do funil).
