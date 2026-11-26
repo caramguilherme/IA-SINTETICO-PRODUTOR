@@ -28,19 +28,20 @@ NN = 'nora77-VAR2511-FACE'
 # Os números falados por extenso (a SPEECH RULE). O T03: 2 dias à frente, como no original (o nora75 foi postado em 23/11 com o dia 25),
 # porque o Face distribui por 1 a 2 dias (nora76-FACE: 4,5 mil com ~36 h).
 T01 = "If this found you today, don't scroll. You've been seeing the same numbers on the clock for weeks, haven't you?"
-T03 = "I don't know your name or what you did, but if this video found you before Friday, November twenty-seventh, get ready."
+# 25/11 21h55: o post passou para 26/11 16h; a data 2 dias à frente
+T03 = "I don't know your name or what you did, but if this video found you before Saturday, November twenty-eighth, get ready."
 CTA = B24.CTA_FACE77                    # "That's why I left you a quick reading. Check the first comment below to get your reading."
-assert T03.replace('Friday, November twenty-seventh', 'Wednesday, November twenty-fifth') == B23.FALA[2]
+assert T03.replace('Saturday, November twenty-eighth', 'Wednesday, November twenty-fifth') == B23.FALA[2]
 G01 = 'she speaks with a calm, knowing look and small natural head movements'
 G03 = B23.GESTO[2]                      # o mesmo gesto do T03 do corpo
 GCTA = B24.GESTO_CTA_FACE
 TAKES = [('T01', 'a pergunta (no lugar do T01 da canela)', T01, G01, 'd2511-cinza-T01-pergunta', 1),
-         ('T03', 'a data nova (no lugar do T03 do nora77)', T03, G03, 'd2511-cinza-T03-sexta', 3)]
+         ('T03', 'a data nova (no lugar do T03 do nora77)', T03, G03, 'd2511-cinza-T03-sabado', 3)]
 
 # A ordem e os nomes para a FusionZ (junta pela ordem do nome): os 2 novos + os 6 do nora77 (nomes do painel de 24/11, d2411-cinza-TNN-...).
 ORDEM = [('01', 'd2511-cinza-T01-pergunta', 'novo', "If this found you today, don't scroll…"),
          ('02', 'd2411-cinza-T02-mulher-deitada', 'nora75', "There's a woman lying down…"),
-         ('03', 'd2511-cinza-T03-sexta', 'novo', "I don't know your name… before Friday…"),
+         ('03', 'd2511-cinza-T03-sabado', 'novo', "I don't know your name… before Saturday…"),
          ('04', 'd2411-cinza-T04-fe', 'nora75', "The universe saw your faith…"),
          ('05', 'd2411-cinza-T06-arcanjo', 'nora75', "Saint Michael the Archangel sent a warning…"),
          ('06', 'd2411-cinza-T07-correntes', 'nora75', "I can already see the chains…"),
@@ -81,7 +82,7 @@ def painel():
     P['imagens'] = [{'rotulo': f'IMAGEM 1 · {IMG_B}', 'cena': 'a mesma do nora77 (moletom cinza, o copo de água de canela na mão, a bandeira no quadro)', 'anexar': f'a {IMG_B}'}]
     P['roteiro'] = {
         'id': 'NORA77-VAR2511-FACE',
-        'titulo': 'nora77-VAR2511-FACE · só Face, ~0h00 de 26/11 (era 21h30; passou porque o nora79 foi para ~21h) · o corpo do nora77 (moletom cinza) com a abertura que pergunta e a data nova',
+        'titulo': 'nora77-VAR2511-FACE · só Face, 16h de 26/11 (era 21h30 e depois 0h00 de 25/11; o aluno não fez à noite) · o corpo do nora77 (moletom cinza) com a abertura que pergunta e a data nova',
         'duracao_total': 70,
         'descricao_instagram': 'Não vai ao Insta: este post é só do Face.',
         'descricao_face': ("You've been seeing the same numbers for weeks, haven't you? ✨ Your reading is waiting in the first comment 🔮\n"
@@ -107,7 +108,7 @@ def painel():
         'aviso_tag': f'o prompt do T01 (o passo 1), com a {IMG_B} anexada; os 2 prompts já são completos (voz, movimentação, continuidade): a Central não entra',
         'aviso': p1,
         'passos': [f'O T01 (a pergunta): anexe a {IMG_B}, clique em “Copiar aviso” (o prompt do T01, acima) e cole. Salve como {TAKES[0][4]}. ~1 min.',
-                   f'O T03 (a data nova, “before Friday, November twenty-seventh”): anexe a {IMG_B} e cole o prompt abaixo. Salve como {TAKES[1][4]}. PROMPT: ' + p3,
+                   f'O T03 (a data nova, “before Saturday, November twenty-eighth”): anexe a {IMG_B} e cole o prompt abaixo. Salve como {TAKES[1][4]}. PROMPT: ' + p3,
                    'Confira os 2: o moletom cinza; sem a lua e sem as estrelinhas; o copo na mão; ela fala uma vez só e fecha a boca no fim; a voz igual à do nora77. '
                    'Se o Muse recusar: “Generate it again, exactly as written.”',
                    'Renomeie os 8 arquivos com o número na frente (a FusionZ junta pela ordem do nome; os 2 novos e os 6 do nora77 juntos): ' + ' · '.join(ORDEM_TXT) + '.',
@@ -125,7 +126,7 @@ def painel():
          'como': 'Ficam fora, como no nora77-FACE: o T05 (a ameaça), o T08, o T09, o T10, o T12 e o T13.'},
         {'quando': 'A. Antes de tudo', 'texto': f'Projeto novo no CapCut com o {NN}-cortado', 'como': 'Começa direto no 01 (a pergunta), sem hook.'},
         {'quando': '1. Do começo ao fim', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB, do 1º ao último quadro', 'como': 'Assim a música não some no meio nem no fim.'},
-        {'quando': '2. Exportar e me mandar até ~23h30', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
+        {'quando': '2. Exportar e me mandar até ~15h45 de 26/11', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
          'como': f'1080×1920, nome {NN}-montado (acima de 30 MB, link do Drive). Eu devolvo em ~15 min com a legenda simples, o 11:11✨ e a faixa do comentário, e tiro o “money” do 04. A bandeira já está na cena (o quadro do nora77).'},
     ]
     P['pecas'] = {
@@ -137,7 +138,7 @@ def painel():
             'O QUE ESTE VÍDEO TESTA: a abertura que pergunta (o “spark a question” do Robert; a frase do roteiro 1 da pesquisa oficial) contra a que qualifica (o 11:11 '
             'das 16h e as letras do nora77-FACE). A medida, com ~24 h: as views, os 3 s, o tempo médio e os cliques no link (Insights do Reel).',
             '2 clipes no Muse + 6 arquivos do nora77 que você já tem: 8 na FusionZ, numerados de 01 a 08, e a música no CapCut.',
-            'Só no Face, à ~0h00 (era 21h30; o nora79 foi para ~21h a 21h30, e no Face ficam 2 h ou mais entre os posts). Legenda sem pedido de comentário; o comentário da Página (um texto novo, a regra de 25/11) com o link FACE inteiro, sem a prévia, fixado pelo app.',
+            'Só no Face, às 16h de 26/11 (era 25/11 à noite). Legenda sem pedido de comentário; o comentário da Página (um texto novo, a regra de 25/11) com o link FACE inteiro, sem a prévia, fixado pelo app.',
         ],
     }
     P['story'] = {'ja_postado': True, 'nota': 'O story novo vai à noite, no Insta e no Face no mesmo horário (o painel do nora79).'}
