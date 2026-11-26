@@ -1282,3 +1282,15 @@ vou fazer com calma, 1 perfil só e com 2fa
 vi que vc conhece o fornecedor de perfil que o gustavo indicou no chat. vc ja comprou com ele? vale a pena pra usar de adm?
 ```
 **Por quê:** ela não sabe a causa, então a pergunta da queda fecha aqui; o "1 perfil só e com 2FA" é o que ficou da 33ª leitura (nunca vários de uma vez). A pergunta nova é sobre um fato que ela conhece: no chat de 25/11 (17h20) ela disse que conhece o fornecedor "da época do dr" (o link que o Gustavo passou às 17h16), e a Ju Santos disse que o perfil do Face precisa de 6 meses ou mais, senão comprar (`PENDENCIAS-DO-ALUNO.md`, item 9).
+
+## SUGERIDO (26/11/2026 10h38; DM do th [MVM], resposta às 2 perguntas dele de 25/11 21h19 e 21h40; uma mensagem só; conta como enviada)
+**A conversa (colada pelo aluno em 26/11 10h33):** em 25/11 12h23 a 12h42, o aluno contou que tirou "o baguio mistico" e a Nora "começou a entregar mais", e o plano de 5 contas no GeeLark a partir do mês que vem (3 + 2, Manifestation e Risely); o th está começando no Manifestation, pensa em ficar só no Risely no futuro, e entrou num "rateio de IAs" (~R$ 149, 3 contas do Muse e 2 do Flow; `FATOS-DO-ALUNO.md`); os dois são da zona oeste de SP; o th passou o WhatsApp dele para uma call (o número não vai para os arquivos). **As perguntas:** 21h19 "onde tu ta pegando as copys para remodelar"; 21h40 "tu manda esse baguio pro muse antes de mandar os prompt naquela ferramenta do gustavo" (o print: o passo "2 DEPOIS - NO MUSE: Playbook… COPIAR E COLAR NO MUSE" do site do Vinicius B).
+```
+as copy eu pego dos videos que mais tao rodando nas contas que vendem appyon, das ultimas 24 a 48h
+salvo uns 50 numa pasta e vejo oq a maioria repete (gancho, cenario, roupa, o objeto na mao, o cta)
+ai modelo a estrutura e reescrevo a fala, nao copio igual (a appyon pediu em setembro pra nao copiar video de quem vende)
+pra modelar uso os prompts da estrutura invisivel e da modelagem que o iorhan soltou no copy hub
+e o playbook nao mandei nao. esse site é o do vinicius, nao do gustavo
+no muse eu colei so uma mensagem no começo da conversa, com as regras e a voz travada, uma vez so. depois é so a imagem + o prompt de cada take
+```
+**Fontes:** a mineração de 23/11 (58 vídeos da pasta do aluno, 40 de 18 contas da Auraly; `referencias-virais/2026-11-23-mineracao/`) e a dica do Caio1094 de 17/11 ("ve oq ta mais viral nas ultimas 48h"); a regra de copiar o que a maioria repete e reescrever a fala (`CLAUDE.md`, seção 2, Copy; o aviso oficial de 22/09); os prompts da Estrutura Invisível + Modelagem do Copy Hub (23/11, `MATERIAIS-COPY-HUB-23-11/LEIA.md`); o site do Vinicius B e o Playbook (`MATERIAIS-MUSE/LEIA.md`: genérico, "não é ele que decide a qualidade do take"); a configuração da Nora no Muse, colada uma vez (`MATERIAIS-MUSE/CONFIG-MUSE-NORA.md`, passo 1, que não inclui o Playbook). **Se o aluno colou o Playbook também por conta própria, ele troca a 5ª linha.**
