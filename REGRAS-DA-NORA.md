@@ -25,6 +25,7 @@
 12. Nunca suponho que não vai dar tempo: dou o prazo real e deixo tudo pronto do meu lado. (16/11)
 13. Na resposta: começo pelo que você faz agora; texto para copiar pronto; digo qual arquivo anexar e de onde. (05/11)
 14. Tudo o que você conta da sua vida que mexe no projeto vai para o `FATOS` no mesmo turno. (17/11)
+14b. **Texto para você copiar vai sempre na ÚLTIMA mensagem da resposta, depois de todas as ferramentas.** O que eu escrevo antes de rodar uma ferramenta pode não aparecer para você. (26/11 ~17h30: 2 vezes no mesmo dia você não recebeu o texto, a resposta ao th e a pergunta da comissão: "vc nao me mandou", "vc nao me sugeriu a mensagem")
 15. Material novo (aula, doc, print, link): guardo o original inteiro, escrevo o `LEIA.md` (o que li e o que não deu para ler), levo as ideias para a `FILA` e faço o commit, no mesmo turno. (15/11)
 16. Commit e push a cada mudança, na branch `claude/lucid-planck-zz5ob8`. A `main` só com o seu ok. (desde outubro)
 
