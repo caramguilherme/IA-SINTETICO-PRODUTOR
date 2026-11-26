@@ -1409,3 +1409,58 @@ Pergunta: "que signos foi falado/escrito nos videos de mais views da nora? tem a
   - **De 27/10 a hoje:** ~66 cliques reais, 1 venda. Os 10% melhores fazem ~330 a ~420 por venda (Central e Dashboard do MVM): é cedo para dizer que a Nora converte melhor; 1 venda não faz taxa (confiável a partir de 1.000 cliques).
   - **O post da venda:** o link FACE é o mesmo no story e no comentário da Página; o que separa é a coluna "cliques no link" dos Insights de cada Reel do Face (nora75-FACE, nora76-FACE, nora77-FACE e nora78-FACE) e as views do story do Face.
 
+
+## 26/11/2026 10h05: a leitura completa dos prints de 26/11 (Central MVM, Tracker, Face, Insta e stories; `MATERIAIS-PRINTS-METRICAS-26-11/`)
+**Comparado com a planilha inteira (`recordes.py`, rodado às 10h02).**
+
+- **O teste do corpo (nora77, o corpo da maioria × nora78, o corpo leve): fechado no Face, sem leitura no Insta.**
+  - **No Face, o corpo da maioria ganhou longe.** O nora77-FACE fez 3.625 views, 12 s de tempo médio, 15,6% aos 20 s, 11 seguidores e 4 cliques no link. O nora78-FACE fez 277, 7 s, 6,3%, 0 seguidor e 0 clique. A diferença está no corpo: os dois perdem quase todos aos 0:01, mas aos 20 s o corpo da maioria segura 2,5 vezes mais, e o Face distribui por isso.
+  - **O cuidado:** no Face, o take das letras também mudou ("be very careful" no nora77 × "pay close attention" no nora78, por causa da P42 em 24/11 18h20). Os 2 maiores da Página têm o "be very careful" e o corpo da maioria (nora76-FACE 4.516, nora77-FACE 3.625); os 2 com o "pay close attention" têm um corpo leve (nora73-FACE 311, nora78-FACE 277). Não dá para separar a frase do corpo.
+  - **No Insta, os dois em 126**, os dois abaixo do típico (~140). O nora77 teve 6 s e 1 visita; o nora78, 3 s e 0 visita. 252 views somadas ficam bem abaixo das 800 a 1.000 que a regra pede para julgar um corpo. A abertura da canela repetida pela 2ª e pela 3ª vez subiu o skip (nora75 55,9% → nora77 63,5% → nora78 67,8%).
+  - **Ficou:** no Face, o corpo da maioria, sem a ameaça, os 7 minutos, os selos e o dinheiro, é o corpo das versões do Face. No Insta, sem vencedor.
+- **De onde veio a venda: do Face** (a Central MVM e a tela de Vendas: "norakensleytarot facebook").
+  - **O post, o mais provável: o nora76-FACE.** O botão da oferta aparece aos 16:00 da VSL, então o clique da venda foi até ~00h19 de 25/11. Nessa hora, o nora76-FACE tinha ~4 mil views e crescia; o nora77-FACE tinha ~300; o nora78-FACE ainda não existia (00h18); o story do Face teve 2 views em 10 h.
+  - **Os "cliques no link" dos Insights contam menos que o Tracker:** 3 (nora76-FACE) + 4 (nora77-FACE) = 7, contra 28 cliques do Face no Tracker em 24 e 25/11. O nora75-FACE e o nora78-FACE dizem "Insights não disponíveis". Os números de 26/11 são iguais aos de 25/11 13h, então os Insights pararam de contar ou contam só uma parte. Não sei por quê.
+  - **O que o Tracker mostra é o horário, e os cliques seguem as views novas:**
+    - 24/11 até 10h59, 3 cliques (o nora76-FACE de 0 a ~490);
+    - até 17h25, mais 4 (o nora76-FACE a ~1,6 mil);
+    - até 24h, mais 5 (o nora76-FACE a ~4 mil, o nora77-FACE começando);
+    - 25/11 até 01h21, 4 (com a venda);
+    - até 13h05, mais 10 (o nora77-FACE de ~340 a ~3,4 mil);
+    - até 24h, mais 2;
+    - 26/11 até 09h35, 0 (os dois parados).
+  - **Dá ~3 cliques a cada 1.000 views novas do Face** (28 cliques em ~8,5 mil views do nora76-FACE, do nora77-FACE e dos outros).
+  - **O funil de 25/11:** 16 cliques, 8 começaram e 8 terminaram o quiz, 1 checkout, 1 venda. Na Central (28 dias): 47,9% começam o quiz (os 10% melhores: 61,4%); clique → venda 1,37% (eles: 0,33%), com 1 venda e menos de 100 cliques; "confiável a partir de 1.000".
+- **Os recordes do Face (planilha inteira):**
+  - **o nora76-FACE passou o nora55 em views** (4.516 × 4.243) e é o maior da Página; o nora55 segue na frente em seguidores (44 × 31) e em distribuição (+9,4x × +6,1x);
+  - o nora77-FACE é o 3º (3.625);
+  - o nora76-FACE tem 290 views de 1 min (o nora55 tinha 8 s de tempo médio, contra 14 s).
+- **O Insta: a mesma faixa desde 10/11, com qualquer gancho.**
+  - Dos falados de 10/11 19h30 a 26/11, só o nora75 (695) saiu da faixa de 120 a 250. Fora dela também ficou o nora74 (25, o arquivo de hook repetido).
+  - **O skip não explica:** os 5 melhores skips desde então ficaram todos em ~120 a 190: nora56 37,9% (192), nora70 40,5% (126), nora72 41,1% (142), nora69 44,1% (123) e nora79 44,5% (128). O nora75 saiu da faixa com um skip de 55,9%.
+  - **A diferença do nora75 foi gente salvando e mandando:** 5 compartilhamentos e 5 salvos, o único falado de 21/11 em diante com os dois. O nora77, com o mesmo texto e os mesmos selos falados, teve 0 e 0. É 1 caso, uma pista e não uma regra. Bate com o Robert (o que espalha é o compartilhamento).
+  - **A conta, pelo Robert (v25):** 3 vídeos abaixo do típico seguidos abaixam a plateia do próximo, e a Nora tem 4 seguidos (nora76 a nora79) logo depois do nora75.
+- **As curvas, pelo Robert (v10):**
+  - **nora77 e nora78: queda no gancho** (~50% e ~45% no 1º segundo; ~20% aos 8 a 10 s). O conserto: uma abertura que não repete a anterior. Os dois repetiram a canela do nora75, e é a regra de 25/11 17h20.
+  - **nora79: o gancho passou** (skip 44,5%; o Insta escreveu "This reel has a strong hook") **e a queda veio logo depois, entre 3 e 10 s** (~30% em ~3 s, ~10% aos ~10 s). O conserto: a 2ª frase, dos 4 aos 8 s (Clone R48: validar a rotina ou o sintoma dela antes de qualquer promessa), e a resposta da pergunta da abertura chegar antes. Mesmo assim, parou em ~125 na 1ª hora, como os outros.
+  - **Face (nora76-FACE e nora77-FACE): a maioria sai aos 0:01 e 0:02**, mas 15% a 18% chegam aos 20 s. É o "meio" que segura.
+- **O nora79 com ~9 h:**
+  - Insta: 128 views, 8 s, 0 visita, EUA 54% e Índia 4,8%, postado às 01h10, fora da janela.
+  - Face: 290 views, +1,6x, 10 s, 1 seguidor.
+  - A régua é com ~24 h (~01h10 de 27/11).
+- **O mesmo corpo pela 3ª vez no Face (o nora75-VAR2511-FACE): parcial.** Com ~17 h, 263 views, +0,5x, 6 s de tempo médio (o mesmo corpo deu 12 a 14 s nas 2 primeiras vezes), 1 seguidor. Não travou como as variações só de edição (10 e 42), mas o 11:11 na abertura segurou menos que as letras. A régua é às ~16h40.
+- **A Nora sem a pintura (nora75 a nora79): fechado.**
+  - **No Insta:** 695, 140, 126, 126 e 128, contra 113 a 248 dos falados com a pintura (nora69 a nora73) e 25 do nora74. A mesma faixa, com 1 exceção.
+  - **No Face:** os 2 maiores da Página já são sem a pintura, mas o corpo e a abertura mudaram junto.
+  - **Ficou:** sem a pintura (o blueprint v3, aprovado em 26/11).
+- **Os stories:**
+  - **O do "gift" no Insta** (13h19 de 25/11, ~21 h): 19 views, 100% de seguidores, 0 toques no adesivo, 0 visitas. O `story-1811` teve 28 viewers e 7 toques, mas pegou as visitas do curto (ini1811), e o "gift" só pegou seguidores: a comparação é torta, e mesmo assim 0 de 19 é fraco. **O "gift" sai; o próximo story é o dos campos trancados** (aprovado em 26/11 09h).
+  - **O da cozinha no Insta** (~01h, ~9 h): 7 views, 100% de seguidores. O toque no adesivo não aparece no print.
+  - **O da cozinha no Face** (01h04): 2 views. **O story do Face quase não é visto** (2 views também em 24/11). No Face, quem clica vem do comentário da Página.
+  - **No Insta, o story só chega a quem já segue**, porque os Reels não levam ninguém ao perfil (0 ou 1 visita por Reel desde o nora76).
+- **O que muda:**
+  - (1) As versões do Face seguem no corpo da maioria, sem ameaça.
+  - (2) O próximo story é o dos campos trancados, no Insta e no Face.
+  - (3) No Insta, com 3 por dia desde hoje (17h, 20h30 e 0h00), cada post se lê pela 1ª hora (se passa de ~130), pelos compartilhamentos e salvos e pelas visitas ao perfil; a abertura nunca repete a do post anterior.
+  - (4) A pista do nora75 (o ritual que a pessoa salva e manda) vai para a `FILA`, como hipótese.
+  - (5) A troca da avatar não muda (decisão do aluno: "o face ta indo, o negocio é destravar o insta").
