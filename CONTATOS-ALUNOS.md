@@ -25,6 +25,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **Pedro⚡ e Caio1094, fechamentos (prints do aluno em 18/11 00h44):** o Pedro⚡ respondeu "show, vai da certo!" (17/11 12:18) e o Caio1094 "tamo juntooo! ve oq ta mais viral nas ultimas 48h, tenta fazer na sua, ai vai vendo oq ela performa melhor, mas é teste + teste + teste, desiste nao" (17/11 12:10). Conversas fechadas: só reagir; voltar com resultado.
 - **carloscs (18/11 00h45):** respondeu em 17/11 15:20 à DM de 03/11 (começa pelo Face, esteira de aquecimento, depois a automação, copy de vendas com e sem hook, 4 a 6 vídeos por dia a cada 2 h). Agradecimento com 1 pergunta enviado (texto no fim). Esperar.
 - **Cassia Y e Inaldo (26/11 09h20):** as 2 DMs sobre o 2º administrador foram mandadas pelo aluno ("mandei as msgs para os dois"; textos no fim, SUGERIDO de 25/11 17h35). Esperar.
+- **Cassia Y respondeu (26/11 09h42; print do aluno às 10h30):** "não sei dizer, Guilherme! não sei mesmo, se soubesse eu diria (e não faria mais, rs)". No chat de 24/11 (10h48) ela tinha dito que fez "a bobagem de convidar td de uma vez". Resposta sugerida no fim (SUGERIDO de 26/11 10h32): fechamento + 1 pergunta sobre o fornecedor de perfis que o Gustavo indicou, que ela disse conhecer (34ª leitura, 25/11 17h20). O Inaldo segue sem resposta.
 - **34ª leitura (26/11 08h30):** ❤️ nas 4 respostas à 1ª venda do aluno no #vitórias; parabéns ao Diego Brito (#chat-appyon) e à Patricia Nascimento (#vitórias), com 1 pergunta cada; a régua do checkout ao erick civinelli (#chat-appyon): enviados (toda resposta sugerida conta como enviada; textos no fim).
 - **32ª leitura (24/11 01h41):** respostas ao Diego Lima (o link no story) e à Helta Almeida (desflopar), e o agradecimento com 1 pergunta ao Verix (o "Check" do Muse): enviados (toda resposta sugerida conta como enviada; textos no fim).
 - **29ª leitura (19/11 ~23h52):** parabéns ao Wendell Vieira (1ª venda, 321 cliques) e ao Khalil (os 1ºs cliques depois de ajustar a copy com as calls), no #vitórias, com 1 pergunta curta cada (texto no fim): enviados (toda resposta sugerida conta como enviada). Se responderem em público, reagir com emoji e seguir pela DM.
@@ -1273,3 +1274,11 @@ desde 24/11 todo video da nora tem a bandeira dos eua no fundo. nos 3 com ela, o
 uma duvida: quando teus videos travavam em 100, 150 views no insta, oq vc fez pra destravar?
 ```
 **De onde vem cada número:** nora77 (EUA 6,3%, o Reino Unido 20,6% na frente), nora78 (36,5%) e nora79 (54,0%); a Índia fora do top 5 já no nora75 e no nora76 (o CSV). No Face a restrição de país já filtra, então a bandeira não se mede lá.
+
+## SUGERIDO (26/11/2026 10h32; DM da Cassia Y, resposta à mensagem dela de 09h42; uma mensagem só; conta como enviada)
+```
+de boa, obg por responder!
+vou fazer com calma, 1 perfil só e com 2fa
+vi que vc conhece o fornecedor de perfil que o gustavo indicou no chat. vc ja comprou com ele? vale a pena pra usar de adm?
+```
+**Por quê:** ela não sabe a causa, então a pergunta da queda fecha aqui; o "1 perfil só e com 2FA" é o que ficou da 33ª leitura (nunca vários de uma vez). A pergunta nova é sobre um fato que ela conhece: no chat de 25/11 (17h20) ela disse que conhece o fornecedor "da época do dr" (o link que o Gustavo passou às 17h16), e a Ju Santos disse que o perfil do Face precisa de 6 meses ou mais, senão comprar (`PENDENCIAS-DO-ALUNO.md`, item 9).
