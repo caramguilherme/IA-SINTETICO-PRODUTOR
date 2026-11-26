@@ -215,6 +215,10 @@ def base(nn):
     tr = tr.replace('Preserve the long gold star-and-moon drop earrings, the long thin gold chain with a small gold Venus-symbol pendant (a tiny circle with a cross below it), the thin gold bracelets,',
                     'She wears small plain gold stud earrings and a thin gold chain necklace; keep')
     tr = tr.replace('Her signature colour is emerald green. ', '')
+    # 26/11: a Nora sem a pintura tem os olhos castanhos (nora75 a nora78 no ar); a folha v2 diz verde-avelã e o Flow alternava
+    tr = tr.replace('large hazel-green eyes with a golden ring around the pupil', 'warm medium-brown eyes (never green, hazel, gray, blue or amber)')
+    tr = tr.replace('same face shape, hazel-green eyes,', 'same face shape, warm medium-brown eyes,')
+    assert 'hazel-green' not in tr
     assert 'crescent-moon gem' not in tr and 'braid at the front' not in tr
     P['trava_referencia'] = tr
     rf = P['respostas_face']; rf['link'] = FB; rf['insta'] = RESP_INSTA
