@@ -55,3 +55,8 @@ Colunas: views · viewers · engajamento · seguidores · impressões · coment�
 - **Público:** 99,1% não seguidores (39 seguidores, 4.472 não seguidores); 99,3% pelo Reel; 94,7% de sugestões; 4,7% por compartilhamento de link.
 - **Idade:** 55–64 29,7%; 65+ 27%; 45–54 23,1%; 35–44 14,2%; 25–34 5,1%; 18–24 0,9%.
 - **Países:** EUA 77,8%; Canadá 8,4%; Reino Unido 7,6%; Austrália 4,3%; Nova Zelândia 1,4%; outros 0,5%.
+
+## Story da cozinha no Face (`story-cozinha-2611`; ~8h45; `story-face-266.jpg`)
+- **Horário:** o aluno, às 09h49 de 26/11: "story do face só tenho o da 01h04 postado hoje (26/11)". O Face mostra 01h04; antes estava anotado 01h10 nas 2 redes. Vence às ~01h04 de 27/11 no Face.
+- **Números:** 2 views, 2 viewers; 0 reações, 0 cliques, 0 comentários, 0 compartilhamentos; 0 seguidores novos. O "conteúdo típico" dos stories da Página fica em ~250 nesse tempo, contra 2 neste.
+- O story do "gift" no Face (00h20 de 25/11) já venceu e não aparece mais.

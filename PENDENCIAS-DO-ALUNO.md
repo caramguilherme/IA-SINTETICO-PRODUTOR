@@ -36,7 +36,7 @@ A minha resposta está na conversa de 26/11 ~09h10. Em resumo: não tenho argume
 ## Com hora (26/11)
 - **12h, o extra do Face** (a abertura que pergunta + o corpo cinza do nora77). O montado vai até ~11h45. https://claude.ai/artifact/TkPJ4upPyijuzN5ycL1tgW
 - **17h, 19h30 e 0h00 no Face; o Insta:** depois do material que você vai mandar.
-- **O story** vence às ~01h10 de 27/11, nas 2 redes.
+- **O story** vence às ~01h04 de 27/11 no Face (o horário que o Face mostra) e às ~01h10 no Insta.
 - **05/12:** renovar o GeeLark (vence 06/12 13h48) e a proxy (vence 06/12 14h52).
 
 ## Comigo
