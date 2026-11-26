@@ -48,6 +48,11 @@ Criado em 03/11/2026 a partir do recado do Gustavo (call de 02/11 e print mandad
 | 35 | "Stuck between the life you have and the one you want? That's your message" (pesquisa oficial, a carta do Louco) | **"Stuck between the life you have and the one you want? This is for you."** | Verde | Take 1 de situação |
 | 36 | "Something that no longer serves you is about to fall." (pesquisa oficial, a carta da Torre) | **"Something that no longer serves you is about to fall."** | Amarelo (queda, mas positiva) | Combina com o tsunami e a onda |
 | 37 | "I give up. It's over." (frase real do público, pesquisa oficial) | **"Before you say 'I give up', watch this."** | Verde | Take 1 para a mulher cansada (o corpo de hoje) |
+| 38 | "Ninguém fala, mas eu vou falar" (Thi Hernandes, 26/11, m06) | **"Nobody talks about this, but I will: if you keep seeing 11:11…"** | Verde | Take 1 que já diz o assunto (11:11) dentro de um conflito |
+| 39 | "Posso te dar um conselho?" (Thi Hernandes, m06) | **"Can I give you some advice before 2027 starts?"** | Verde | Take 1 de conversa, com a Nora fazendo algo com as mãos |
+| 40 | "Isso aqui parece X, mas é Y" (Thi Hernandes, m06) | **"This looks like a coincidence, but it's a sign."** (com o 11:11 do celular na mão) | Verde | Take 1 com o objeto na mão (o movimento da 1ª cena) |
+| 41 | "Escolha uma das duas opções" (Lu Cureau, m04) | **"11:11 or 2:22? Pick the one you keep seeing."** | Verde | Take 1 que prende até a resposta (a resposta é a leitura no story) |
+| 42 | número + recompensa (Reid Branded, m12) | **"3 signs the universe is about to change your 2027."** | Verde | Take 1 dos 3 sinais (sem credibilidade inventada: HONESTIDADE) |
 
 Palavras do nicho (aula 46; Clone, R3): **unexpected blessings**, **limitless**, portal 11/11 (só até 11/11); "unexpected money" e "money gifts" só no Insta e sem prometer. Detalhe e o que ficou fora (casa com prazo, "final message", nome do marido) em `CLONE-DO-GUSTAVO-RESPOSTAS.md`.
 
