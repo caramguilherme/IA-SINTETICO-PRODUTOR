@@ -131,6 +131,7 @@
 1. Régua com ~24 h, nunca com 3 h. A medida final é o clique no Tracker. (outubro; R67)
 2. Toda leitura compara com a planilha inteira; antes de "o maior" ou "o recorde", rodar `recordes.py`. (18/11)
 3. Uma variável por vez, salvo decisão sua. (Allan)
+3b. **O teste é 1 por dia; o resto dos vídeos usa o que vem dando certo**, modelando e mantendo, sem parar o que funciona para testar. Hoje o que vem dando certo é **as letras do nome + o corpo da maioria** (nora76-FACE 4.516, nora77-FACE 3.625), mudando só a roupa e o cenário. Mudança na copy só com uma palavra ou frase, pelas dicas do Robert e da maioria, para segurar os 3 primeiros segundos e despertar curiosidade. **[trava: no Resumo, só 1 vídeo do dia diz "o que este vídeo testa"]** (decisão do aluno, 26/11 ~16h00: "o teste é 1 por dia, o resto é usar o que vem dando certo (letra + corpo da maioria)")
 4. Quando duas fontes discordam, vira teste A/B na `FILA`, salvo segurança e honestidade. (17/11)
 
 ## 14. Clone, Discord e contatos

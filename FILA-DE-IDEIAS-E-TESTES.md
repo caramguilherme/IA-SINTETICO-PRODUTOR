@@ -17,9 +17,12 @@
 ## QUADRO DE TESTES (refeito em 24/11/2026 02h16, cobrança do aluno: "toda hr vc coloca coisa pra teste, mas quando é pra montar um painel novo, nao sugere testar nada")
 **Como funciona daqui em diante:** este quadro é o que vale. Todo painel novo leva o 1º teste dos "Próximos" que couber nele (ou um de carona, sem mexer na variável do Insta), dito ao aluno numa linha antes de montar e escrito no Resumo do painel ("o que este vídeo testa" e "como se mede"). Item que roda sobe para "No ar"; item lido vai para "Fechados", com o número. O resto do arquivo é o banco de ideias, de onde os "Próximos" saem.
 
+**[26/11 16h00, decisão do aluno: o teste é 1 por dia; o resto usa o que vem dando certo (as letras do nome + o corpo da maioria). Os itens abaixo entram um por dia, no vídeo do dia que leva o teste.]**
+
 ### No ar (ler na data)
 | Teste | Os braços | Quando ler |
 |---|---|---|
+| **A 2ª frase como pico (o teste de 26/11, no nora82, 00h30)** | o nora82 (as letras + "You’re about to experience the luckiest days of your entire life. Are you ready?", do m11) × o nora81 (21h00, as letras + a mulher deitada, a receita) | 27/11 ~21h a 00h30: a retenção aos 3 s e aos 10 s, o skip e as visitas ao perfil |
 | **O mesmo corpo pela 3ª vez no Face** (o `nora75-VAR2511-FACE`, o extra das 16h de 25/11, postado às ~16h40: os mesmos arquivos do corpo do nora75 com o T01 do 11:11, o T03 com a data nova e o CTA do comentário) | contra o nora75-FACE (636, 1ª vez) e o nora76-FACE (4.497, 2ª vez) | 26/11 ~16h40: 300+ views = o corpo repetido segue valendo no Face; bem abaixo (como os de 10 e 42) = o mesmo arquivo cansou na 3ª vez **Parcial (26/11 09h40, ~17 h): 263 views, +0,5x, 6 s de tempo médio (o mesmo corpo deu 12 a 14 s nas 2 primeiras vezes), 1 seguidor: não travou como as variações só de edição, mas o 11:11 na abertura segurou menos que as letras.** |
 | **O multi-ângulo + a abertura do Robert (nora79)** (a cozinha, regata branca, o açúcar na soleira, a caixa "It works so fast, it's almost scary..."; postado em 26/11 01h10) | contra o nora77 e o nora78 (126 cada) | 27/11 ~01h10: views (passa de ~130?), visitas ao perfil, compartilhamentos e salvos. **Parcial (26/11 ~09h, ~9 h): Insta 128, skip 44,5% ("strong hook"), 8 s, 0 visita, EUA 54%; Face 290, +1,6x, 10 s, 1 seguidor** |
 
