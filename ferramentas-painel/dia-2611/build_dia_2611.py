@@ -1,4 +1,5 @@
 # Painéis do dia 26/11/2026 (decisão do aluno, ~16h00): 3 falados, sem curto, às 17h30, 21h00 e 00h30, no Insta e no Face.
+# 26/11 18h50 (o aluno, indo treinar): o nora81 passa para quando ficar pronto, na noite de 26/11, com o story novo; o nora82 (o teste) vai às 17h de 27/11.
 #   "o teste é 1 por dia, o resto é usar o que vem dando certo (letra + corpo da maioria)"; "mudar o cenario, a roupa, pra nao ficar repetido";
 #   "priorizar manter a copy toda, igual da maioria, só mudar uma palavra ou frase, se fizer sentido com as dicas".
 # O que deu certo: as letras do nome + o corpo da maioria (nora76-FACE 4.516 views, nora77-FACE 3.625; a mineração de 26/11: as letras em 3 contas).
@@ -70,7 +71,7 @@ V = {
         copia='o m03 da @beverly.earhart (as letras + o corpo da maioria, no carro, com a ametista nas mãos e a bandeira atrás)',
         teste=False),
     'nora81': dict(
-        hora='21h00', pref='mesa', img='d2611-mesa-IMG', roupa_pt='suéter creme de tricô', obj_pt='uma carta (o verso dourado) na mão', lugar_pt='à mesa, com a estátua de São Miguel',
+        hora='assim que ficar pronto, à noite de 26/11 (~22h a 23h)', pref='mesa', img='d2611-mesa-IMG', roupa_pt='suéter creme de tricô', obj_pt='uma carta (o verso dourado) na mão', lugar_pt='à mesa, com a estátua de São Miguel',
         roupa='her plain cream cable-knit sweater with no logo',
         cena=('Casual real video in the evening at home, she sits at a wooden dining table with a colorful statue of Saint Michael the Archangel, a small raw amethyst '
               'cluster and an unlit white pillar candle in front of her, ' + FLAG_PAREDE + ', filmed from a static camera about one meter in front of her at collarbone '
@@ -92,7 +93,7 @@ V = {
         copia='o m06 do @itsadrian.reed e o m11 (as letras, a carta na mão o vídeo todo, a estátua de São Miguel na mesa), com o corpo da maioria',
         teste=False),
     'nora82': dict(
-        hora='00h30', pref='quarto', img='d2611-quarto-IMG', roupa_pt='blusa verde-escura de tricô', obj_pt='uma caneca de chá nas mãos', lugar_pt='no quarto, sentada na cama',
+        hora='17h00 de 27/11', pref='quarto', img='d2611-quarto-IMG', roupa_pt='blusa verde-escura de tricô', obj_pt='uma caneca de chá nas mãos', lugar_pt='no quarto, sentada na cama',
         roupa='her plain dark-green long-sleeve knit top with no logo',
         cena=('Casual real video at night in a cozy American bedroom, she sits on the edge of her bed, a warm bedside lamp on the nightstand at the side, '
               + FLAG_PAREDE + ', filmed from a static camera about one meter in front of her at collarbone height, looking exactly like a real phone video. '),
@@ -218,9 +219,9 @@ TEXTOS = {
     'nora82': dict(
         insta=("If your letter is here, your luckiest days may be closer than you think 🍀 Your private reading is waiting in my story 🔮\n"
                "Comment the time you're watching this ⏰\n#manifestation #abundance #2027 #lawofattraction #newchapter"),
-        face=('If your letter is on this list, this was meant to find you tonight 🌙 Your reading is waiting in the first comment 🔮\n#manifestation #2027 #newchapter'),
+        face=('If your letter is on this list, this was meant to find you today ✨ Your reading is waiting in the first comment 🔮\n#manifestation #2027 #newchapter'),
         fix_insta='Your luckiest days start with one small step 🍀 tap my profile picture above and check my story',
-        fix_face='This reading was meant to find you tonight 🌙 👉 '),
+        fix_face='This reading was meant to find you today ✨ 👉 '),
 }
 assert len({t['fix_face'] for t in TEXTOS.values()}) == 3
 
@@ -322,7 +323,7 @@ def montar(nn):
         'depois': ['Suba os 15 takes e espere a Prévia.', 'Confira a primeira palavra do T01 e a última do T15.',
                    'Se um corte comeu o fim de uma palavra, arraste a borda dele ou suba a margem de respiro.', f'Clique em Cortar e baixar e salve como {nn}-cortado.'],
     }
-    prazo = {'nora80': 'assim que puder (se passar das 17h30, posta assim que eu devolver)', 'nora81': 'até ~20h30', 'nora82': 'até ~00h00'}[nn]
+    prazo = {'nora80': 'assim que puder (se passar das 17h30, posta assim que eu devolver)', 'nora81': 'assim que ficar pronto (eu devolvo em ~20 min; posta na hora)', 'nora82': 'até ~16h30 de 27/11'}[nn]
     P['edicao_linha'] = [
         {'quando': 'O que vai em cada vídeo', 'texto': 'Você monta 1 arquivo só, com os 15 takes. Os 2 vídeos (Insta e Face) eu separo aqui.',
          'como': (f'INSTA ({nn}-final): T01 ao T13, na ordem. FACE ({nn}-final-FACE): T14 (as letras) + T02, T03, T04 (eu tiro o “money”), T06, T07, T11 + T15 (o comentário). '
@@ -335,18 +336,18 @@ def montar(nn):
     ]
     story = {
         'nora80': ('O story no ar é o da cozinha (01h10 no Insta, 01h04 no Face): vence ~01h de 27/11. Não poste story agora; o novo (os campos trancados) vai junto com o '
-                   'nora82, à 00h30. Antes de abrir o Insta, confira o IP e os EUA no mylocation.org.'),
-        'nora81': 'O story da cozinha segue no ar até ~01h. Não poste story agora: o novo vai junto com o nora82, à 00h30.',
-        'nora82': ('O story vence ~01h04 (Face) e ~01h10 (Insta): poste o NOVO junto com este vídeo, nos dois, antes das 01h. É o dos campos trancados (o teste aprovado '
-                   'em 26/11). Me mande uma imagem a mais do nora81 ou do nora82 (no Muse, “Generate it again, exactly the same prompt, one new version”, uma em que ela olhe para a câmera) e eu devolvo a foto com o texto; '
-                   'você só põe o adesivo do link (STORYIG no Insta, FACE no Face).'),
+                   'nora81, na noite de 26/11. Antes de abrir o Insta, confira o IP e os EUA no mylocation.org.'),
+        'nora81': ('O story da cozinha vence ~01h04 (Face) e ~01h10 (Insta): poste o NOVO junto com este vídeo, nos dois, antes das 01h. É o dos campos trancados '
+                   '(o teste aprovado em 26/11). Quando gerar a imagem deste vídeo no Muse, gere mais 1 (“Generate it again, exactly the same prompt, one new version”, uma em '
+                   'que ela olhe para a câmera) e me mande: eu devolvo a foto com o texto; você só põe o adesivo do link (STORYIG no Insta, FACE no Face).'),
+        'nora82': 'O story novo (os campos trancados) vai com o nora81, na noite de 26/11. Antes de postar, confira se ele está no ar no Insta e no Face.',
     }[nn]
     P['story'] = {'ja_postado': True, 'nota': story}
     teste_txt = ('O QUE ESTE VÍDEO TESTA (o teste do dia, 1 só): a 2ª frase como PICO, do m11 (o vídeo mais repetido da mineração de 26/11): “You’re about to experience '
                  'the luckiest days of your entire life. Are you ready?” no lugar da mulher deitada. O resto é igual ao nora80 e ao nora81 (o controle). A medida, com ~24 h: '
-                 'a retenção aos 3 s e aos 10 s, o skip e as visitas ao perfil, contra o nora81 (21h00, o horário mais perto).' if teste else
+                 'a retenção aos 3 s e aos 10 s, o skip e as visitas ao perfil, contra o nora81 (a noite de 26/11) e o nora80 (o fim da tarde de 26/11). Olhar a fatia da Índia antes de comparar: o nora82 vai às 17h, a faixa da tarde.' if teste else
                  'Este vídeo NÃO testa nada: é o que vem dando certo, igual (as letras + o corpo da maioria; o nora76-FACE e o nora77-FACE, os 2 maiores da Página). '
-                 'Muda só a roupa e o cenário. O teste do dia vai no nora82, à 00h30.')
+                 'Muda só a roupa e o cenário. O teste do dia vai no nora82, às 17h de 27/11 (mudou em 26/11 18h50: o aluno não conseguiu o nora81 às 21h).')
     P['pecas'] = {
         'titulo_decisao': 'Resumo',
         'lista': ([{'nome': v['img'], 'tipo': 'imagem das falas', 'status': 'gerar', 'onde': f'No Muse, só com a {FOLHA} (1 por vez); reserva: o Flow com a {IMG_BASE} + a {FOLHA}.',
@@ -377,8 +378,8 @@ def salvar(P, nn, rotulo):
 
 if __name__ == '__main__':
     for nn, rot in (('nora80', 'Painel nora80 · as letras + o corpo da maioria, no carro · 26/11 17h30'),
-                    ('nora81', 'Painel nora81 · as letras + o corpo da maioria, à mesa · 26/11 21h'),
-                    ('nora82', 'Painel nora82 · o teste da 2ª frase, no quarto · 27/11 00h30')):
+                    ('nora81', 'Painel nora81 · as letras + o corpo da maioria, à mesa · noite de 26/11'),
+                    ('nora82', 'Painel nora82 · o teste da 2ª frase, no quarto · 27/11 17h')):
         P, n, pal = montar(nn)
         print(nn, n, 'takes,', pal, 'palavras')
         salvar(P, nn, rot)
