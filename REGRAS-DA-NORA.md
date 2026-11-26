@@ -109,6 +109,7 @@
 8. Sem limite por dia conhecido; se aparecer o erro de limite, você avisa e eu ajusto o horário. (23/11)
 9. Nunca perguntar o saldo de créditos ou de tokens: você avisa quando acabar. (16/11)
 10. **[APROVADO, "desde que saia certo: movimentação, voz, tudo".]** Take avulso (1 a 3 clipes: um Take 1 novo, uma data nova, um CTA do Face) vai só no Muse, com o prompt completo do take (voz travada, consistência de voz, movimentação, continuidade, regra da fala) e a imagem anexada; a Central só entra no corpo inteiro. O painel desses não mostra a seção da Central. (25/11, depois da dúvida do extra das 16h)
+12. **[PENDENTE DO TESTE DO NORA80 (26/11 ~17h15); se der certo, substitui a 10.10.]** **Todo take passa pela Central de animação, com todos os campos preenchidos** (o LIVRE, a voz, o prompt de consistência de voz, a movimentação de cada take), inclusive os só do Face e os avulsos: os do Face vão no fim da mesma colagem, e o Muse gera tudo de uma vez. Nada de prompt de take escrito à mão. (decisão do aluno, 26/11 ~17h15: "se der certo, isso vira regra… pra parar de gerar manual. sempre passando pela central de animação, preenchendo todos os campos")
 
 ## 11. Painel
 1. Sempre do `PAINEL-MODELO.html`, enxuto, conferido com o `conferir-painel.js` e com a conferência das regras. **[trava]** (11/11; 24/11)
