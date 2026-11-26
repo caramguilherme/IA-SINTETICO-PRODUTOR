@@ -63,6 +63,15 @@ GESTO = ['she keeps the jar tilted and a thin stream of white sugar keeps fallin
          'she holds a warm, knowing look and gives one small nod, holding the phone still',
          'she raises one hand into the frame, points down toward the lower left corner with a warm, encouraging smile, then looks back at the lens']
 GESTO_CTA = B24.GESTO_CTA_FACE
+# 25/11 22h (revisão a pedido do aluno): os títulos das imagens em português (os prompts seguem em inglês)
+ANG_PT = ['no vão da porta da cozinha, despejando açúcar na soleira', 'atrás do balcão, de frente (a imagem base dos outros takes)',
+          'mais perto, um pouco à esquerda, com um calendário de papel na parede', 'de baixo, na altura do balcão, com uma vela acesa num pote de vidro',
+          'close no rosto e nos ombros, de frente', 'uns 30° à direita, com uma estatueta branca de anjo com espada na janela',
+          'mais aberto, com a porta dos fundos entreaberta e um molho de chaves antigas no balcão', 'de cima, com um timer de cozinha branco no balcão',
+          'da cintura para cima, com o celular na mão na altura do ombro', 'à esquerda e mais longe, com um relógio de parede marcando 10h',
+          'na altura do balcão, pela direita, com uma tigela de laranjas', 'da cintura para cima, com o celular na altura da clavícula',
+          'close de frente, do ombro para cima, sem as mãos']
+assert len(ANG_PT) == N
 assert len(ANG) == len(GESTO) == len(SUF) == N
 
 _FIM = ('looks exactly like a real casual iPhone photo, slight phone grain, natural colors, everything in focus, no bokeh; no glow, no sparkle, no light effect; '
@@ -158,7 +167,7 @@ def painel():
                'quadros': f'x4, 0 crédito. Escolha a que tiver o mesmo rosto, a mesma roupa, o celular virado no balcão e a bandeira no quadro. Renomeie para {IMGS[1]}.',
                'prompt': PROMPT_T02}]
     for i in range(2, N):
-        etapas.append({'titulo': f'T{i + 1:02d}: ' + ANG[i].split(';')[0], 'nome': IMGS[i], 'tipo': 'img', 'anexar': f'só a {IMGS[1]}',
+        etapas.append({'titulo': f'T{i + 1:02d}: ' + ANG_PT[i], 'nome': IMGS[i], 'tipo': 'img', 'anexar': f'só a {IMGS[1]}',
                        'quadros': f'x4, 0 crédito. Escolha a que tiver o mesmo rosto e a mesma roupa, no ângulo novo. Renomeie para {IMGS[i]}.', 'prompt': PROMPTS_IMG[i]})
     etapas.append({'titulo': 'A foto nova do story (para variar, o seu pedido)', 'nome': 'd2511-story-cozinha', 'tipo': 'img', 'anexar': f'só a {IMGS[1]}',
                    'quadros': 'x4, 0 crédito. Me mande as 4 aqui; eu escolho e ponho o texto do story, e você só põe o adesivo do link.', 'prompt': PROMPT_STORY})
@@ -196,6 +205,9 @@ def painel():
     for i in list(range(1, N)) + [0]:
         passos.append(f'T{i + 1:02d}: anexe a {IMGS[i]} e cole o prompt. Salve como {NOMES[i]}. PROMPT: ' + PROMPTS[i])
     passos.append(f'T14 (só do Face, o CTA para o comentário): anexe a {IMGS[1]} e cole o prompt. Salve como {NOME_CTA}. PROMPT: ' + PROMPT_CTA)
+    passos.append('Se algum clipe baixar com nome aleatório, ouça o começo e renomeie pela frase: '
+                  + ' · '.join(f'“{" ".join(FALA[i].split()[:5])}…” → {NOMES[i]}' for i in range(N))
+                  + f' · “That\'s why I left you…” → {NOME_CTA} (o do Face; o do Insta, o T12, começa em “That\'s why I left a quick…”).')
     passos.append('Confira cada take: sem a lua e sem as estrelinhas; a regata branca e o jeans; ela fala uma vez só e fecha a boca no fim; a voz igual à dos outros. '
                   'Se o Muse recusar: “Generate it again, exactly as written.” Se a voz sair diferente, gere de novo pedindo “exactly the same voice as the other clips of this video”.')
     ct['agente'] = {'titulo': f'No Muse: os {N + 1} prompts, um por mensagem, cada um com a sua imagem (sem a Central)', 'imagem': 'a imagem de cada take',
@@ -219,7 +231,7 @@ def painel():
     ]
     P['pecas'] = {
         'titulo_decisao': 'Resumo',
-        'lista': ([{'nome': IMGS[i], 'tipo': 'imagem', 'status': 'gerar', 'onde': 'No Flow (x4, 0 crédito).', 'descricao': (ANG[i] or 'a base').split(';')[0]} for i in range(N)]
+        'lista': ([{'nome': IMGS[i], 'tipo': 'imagem', 'status': 'gerar', 'onde': 'No Flow (x4, 0 crédito).', 'descricao': ANG_PT[i]} for i in range(N)]
                   + [{'nome': NOMES[i], 'tipo': 'take', 'status': 'gerar', 'descricao': f'“{FALA[i]}”'} for i in range(N)]
                   + [{'nome': NOME_CTA, 'tipo': 'take do Face', 'status': 'gerar', 'descricao': f'“{CTA_FACE}”'}]),
         'decisao': [
