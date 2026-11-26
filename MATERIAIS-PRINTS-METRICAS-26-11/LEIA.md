@@ -46,3 +46,12 @@ Colunas: views · viewers · engajamento · seguidores · impressões · coment�
 - **Público:** 99,3% não seguidores; 99,6% pelo Reel; 95,8% de sugestões; 3,8% por compartilhamento de link.
 - **Idade:** 65+ 33,6%; 55–64 31,9%; 45–54 21,1%; 35–44 9,9%; 25–34 2,9%; 18–24 0,6%.
 - **Países:** EUA 73,6%; Canadá 8,2%; Reino Unido 8%; Austrália 7,8%; Nova Zelândia 2,2%; outros 0,3%.
+
+## Insights do nora76-FACE (~2,3 dias; `face-264.jpg` e `face-265.jpg`)
+- **Views e retenção:** 4.516 views, 4.052 viewers. Tempo médio 14 s; a maioria sai em 0:02. 2.090 views de 3 s; 290 de 1 min; tempo total 15:43:23; 20% assistido em média; taxa de 20 s: 18,0%.
+- **A curva:** começou junto do conteúdo típico, subiu de ~500 para ~4.400 entre ~10 h e ~30 h e parou.
+- **Engajamento:** 163 (101 reações: 86 curtidas e 15 corações; 42 cliques; 13 comentários; 4 compartilhamentos); taxa de curtidas 2,22%; ocultação 0,00%; **31 seguidores novos**.
+- **Cliques no link: 3.**
+- **Público:** 99,1% não seguidores (39 seguidores, 4.472 não seguidores); 99,3% pelo Reel; 94,7% de sugestões; 4,7% por compartilhamento de link.
+- **Idade:** 55–64 29,7%; 65+ 27%; 45–54 23,1%; 35–44 14,2%; 25–34 5,1%; 18–24 0,9%.
+- **Países:** EUA 77,8%; Canadá 8,4%; Reino Unido 7,6%; Austrália 4,3%; Nova Zelândia 1,4%; outros 0,5%.
