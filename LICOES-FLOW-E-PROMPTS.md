@@ -789,3 +789,12 @@ No print, o clipe tem uma faixa preta fina na esquerda e na direita (~1% da larg
 - **A medida (00h50, um quadro de cada take do montado):** os olhos castanhos médios em 10 takes; fora, o T01 (avelã claro, quase dourado), o T03 (âmbar), o T04 (cinza-azulado) e o T08 (quase preto). A voz (mediana do tom): 196 a 220 Hz em 11 takes; abaixo, o T12 (177), o T07 (182) e o T08 (189). Refazer: T01, T03, T04 e T08 (imagem e clipe) e T07 e T12 (só o clipe).
 - **Erro meu em cima do erro (00h34 a 00h42):** travei os olhos em "verde-avelã" (o DNA da Nora v2) sem olhar os vídeos no ar; a Nora sem a pintura do nora75 ao nora78 tem os olhos castanhos médios. A trava verde-avelã ainda estava na `trava_referencia` do `build_dia_2311.py`, que o Flow seguia às vezes. Corrigido nos dois lugares para "warm medium-brown eyes".
 - **Regras daqui em diante:** (1) a trava do rosto sempre com a cor dos olhos da Nora sem a pintura, castanhos médios ("warm medium-brown eyes"; no `build_nora79.py` e no `build_dia_2311.py`), conferida num quadro dos vídeos no ar antes de escrever; (2) ao escolher entre as 4 opções de uma imagem, conferir os olhos, o rosto e o cabelo contra a imagem base antes do ângulo; (3) vídeo com mais de 1 imagem: gerar 2 takes primeiro e eu medir a voz e os olhos antes dos outros.
+
+## 26/11/2026 09h11: o blueprint novo da Nora sem a pintura (a Nora v3)
+- **Como o aluno gerou:** com o prompt de blueprint da Central do Gustavo, anexando só a `d2511-cozinha-IMG-T02` (o meu prompt de editar a folha v2 não foi usado). Saíram 4 folhas.
+- **A conferência:** nas 4, o rosto é o da IMG-T02, sem lua, estrelinhas nem trança, com corrente fina. **Mas os olhos saíram claros (avelã, esverdeados ou âmbar) nas 4**, e não castanhos. A IMG-T02 parece ter os olhos mais claros do que os vídeos do Muse mostram. Os outros problemas:
+  - a 1ª tem rótulos trocados ("Natural Brebrows", "Natural Eyebrows" no lugar de "Lips");
+  - a 2ª põe um nome na folha ("ANIKA");
+  - a 4ª tem o rótulo "Hair close-up" na orelha e um celular nos acessórios.
+- **A escolhida:** a 3ª, com todos os rótulos certos, o mesmo rosto em todos os quadros e o fundo neutro. Os olhos são corrigidos numa edição só da íris (0 crédito, x4, baixar em 1K) antes de virar a folha oficial.
+- **A roupa da folha:** regata branca e jeans claro, os da IMG-T02. Não trava: a roupa de cada vídeo vem do prompt.

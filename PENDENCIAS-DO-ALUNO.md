@@ -1,4 +1,4 @@
-# O que espera você (26/11/2026 09h30)
+# O que espera você (26/11/2026 09h10)
 
 **Respondido em 26/11 09h:**
 - (1) o documento de regras virou o único: agora é o `REGRAS-DA-NORA.md`;
@@ -19,10 +19,10 @@
 - **Faltam:** quando começar e qual vai primeiro.
 
 ### 8. O Insta com 1 ou 3 por dia
-A minha resposta está na conversa de 26/11 ~09h30. Em resumo: não tenho argumento forte para te segurar em 1, e os limites reais são o seu tempo e os créditos do Muse. **Esperando a sua decisão:** 3 por dia, em que horários e com quais formatos.
+A minha resposta está na conversa de 26/11 ~09h10. Em resumo: não tenho argumento forte para te segurar em 1, e os limites reais são o seu tempo e os créditos do Muse. **Esperando a sua decisão:** 3 por dia, em que horários e com quais formatos.
 
 ## Para você fazer
-9. **As 2 mensagens sobre o 2º administrador** (não são respostas: são mensagens novas que eu escrevi em 25/11, depois da sua ideia de "pegar as pessoas que passaram por isso e mandar msg no discord"): à Cassia Y e ao Inaldo. Os textos estão na conversa de 26/11 ~09h30 e no `CONTATOS-ALUNOS.md`.
+9. **As 2 mensagens sobre o 2º administrador** (não são respostas: são mensagens novas que eu escrevi em 25/11, depois da sua ideia de "pegar as pessoas que passaram por isso e mandar msg no discord"): à Cassia Y e ao Inaldo. Os textos estão na conversa de 26/11 ~09h10 e no `CONTATOS-ALUNOS.md`.
    - **O que a 34ª leitura trouxe para essa decisão:**
      - a Página da Nora está no seu perfil pessoal;
      - o Gustavo indicou um fornecedor parceiro do MVM de perfis e Páginas do Face, e a Ju Santos disse que perfil do Face precisa ter 6 meses ou mais, senão "indicamos comprar";
