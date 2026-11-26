@@ -803,3 +803,15 @@ No print, o clipe tem uma faixa preta fina na esquerda e na direita (~1% da larg
 ## 26/11/2026 ~01h: o Whisper erra a emenda dos takes (nora79-FACE)
 - **O que aconteceu:** no montado do nora79, o Whisper marcou o "But if" do T05 em 29,24 s, mas a energia do áudio mostra o "unexpectedly" do T04 até 29,66 s, silêncio até 30,75 s e o "But" só em 30,80 s. Cortando o T05 a partir de 29,30 s (pelo Whisper), a versão do Face perdeu o "unexpectedly"; e a legenda mostrava "But if" e "In" de takes cortados. Pego na transcrição do final, antes de mandar.
 - **A regra:** antes de cortar um take inteiro, conferir a emenda pela energia (janelas de 100 ms) e pela troca de cena; corrigir à mão as palavras do Whisper na emenda (`specs/palavras-nora79.json`) e transcrever o final de novo.
+
+## A imagem da Nora no Muse, só com o blueprint (26/11/2026 ~16h55; o teste do aluno)
+O Flow bateu o limite de geração de imagens, e o aluno gerou a imagem do nora80 (o carro) no Muse, anexando só a `nora-v3-blueprint`, com o prompt do painel ajustado (`prompt_muse` em `ferramentas-painel/dia-2611/build_dia_2611.py`). O Muse gera 1 imagem por vez. **Saiu na 1ª:**
+- os olhos castanhos, o cabelo solto, sem pintura, o brinco pequeno e a corrente fina;
+- a blusa preta;
+- a ametista nas 2 mãos, com 5 dedos cada;
+- a bandeira esticada no vidro de trás, sem cobrir a cabeça;
+- nada escrito.
+
+**Ao lado de um quadro do nora79**, é a mesma mulher, mas com o rosto um pouco mais fino e uns anos mais velho, e os lábios mais finos. A expressão séria que o prompt pede pesa nisso. Aprovada para o nora80.
+
+**Daqui em diante:** o blueprint sozinho no Muse vale como caminho da imagem. A conferência do rosto é feita contra o blueprint e contra um quadro do último vídeo no ar.

@@ -18,6 +18,7 @@
 
 ## 2. Imagens no Flow
 1. **Toda imagem nova da Nora leva a `nora-v3-blueprint` anexada** (a Nora sem a pintura, olhos castanhos; `MATERIAIS-NORA-V3/`). Na Central de imagens, com "Já tenho o Blueprint" marcado. Baixar a folha em **1K**, porque em 2K o meio derrete. (26/11; 19/10)
+1b. **No Muse, a imagem sai só com o blueprint anexado** (26/11, nora80; o Flow tinha batido o limite): 1 imagem por vez, o rosto certo na 1ª. A conferência do rosto é contra o blueprint e um quadro do último vídeo no ar. (26/11 ~16h55)
 2. **Cena nova da Nora = EDIÇÃO de uma imagem dela já aprovada** + a folha ("same woman, same face, change only the outfit, the room and the object"). Só a folha com um prompt longo de selfie de perto deixa o rosto escapar. (14/11 20h20)
 3. **A trava do rosto diz a cor dos olhos:** "warm medium-brown eyes". A Nora sem a pintura não tem lua, estrelinhas, trança nem anéis; tem brinco pequeno e corrente fina. (26/11)
 4. **Na escolha entre as 4 opções:** primeiro o rosto, os olhos e o cabelo contra a imagem base, depois o ângulo e a pose. Também conferir:
