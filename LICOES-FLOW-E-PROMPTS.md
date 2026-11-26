@@ -1,6 +1,6 @@
 # LIÇÕES DO FLOW E DOS PROMPTS (checklist obrigatório antes de entregar qualquer prompt)
 
-Este arquivo junta tudo o que já deu errado ou que o aluno pediu. **Antes de entregar qualquer prompt (imagem, pré-gancho, Central, agente), conferir a lista da seção 1. Quando o aluno relatar uma falha ou um feedback, registrar a lição aqui no mesmo turno e dizer em uma linha onde ficou.**
+**Desde 26/11/2026, a leitura fixa é a versão de leitura `LICOES-ATIVAS.md` (só o que vale hoje); este arquivo é o histórico completo, consultado pela data. Toda lição nova entra aqui (o caso) e lá (a regra, em 1 linha), no mesmo turno.** Este arquivo junta tudo o que já deu errado ou que o aluno pediu. **Antes de entregar qualquer prompt (imagem, pré-gancho, Central, agente), conferir a lista da seção 1. Quando o aluno relatar uma falha ou um feedback, registrar a lição aqui no mesmo turno e dizer em uma linha onde ficou.**
 
 > **Desde 26/10/2026, as notas do Discord, os conselhos de outros alunos (DMs), as aulas e as decisões de estratégia (horário, volume no Face, avatar) ficam em `COMUNIDADE-E-ESTRATEGIA.md`.** Aqui ficam só as lições do Flow, dos prompts e do painel.
 
@@ -799,3 +799,7 @@ No print, o clipe tem uma faixa preta fina na esquerda e na direita (~1% da larg
 - **A escolhida:** a 3ª, com todos os rótulos certos, o mesmo rosto em todos os quadros e o fundo neutro. Os olhos são corrigidos numa edição só da íris (0 crédito, x4, baixar em 1K) antes de virar a folha oficial.
 - **A roupa da folha:** regata branca e jeans claro, os da IMG-T02. Não trava: a roupa de cada vídeo vem do prompt.
 - **09h25, a folha final:** a 3ª, com a íris corrigida para castanho médio, foi conferida e aprovada: olhos castanhos em todos os quadros, sem a pintura e com os rótulos intactos. Chama-se `nora-v3-blueprint` (o aluno guarda em 1K; a cópia do chat e o `LEIA.md` estão em `MATERIAIS-NORA-V3/`). **Daqui em diante, toda imagem nova da Nora leva essa folha anexada.**
+
+## 26/11/2026 ~01h: o Whisper erra a emenda dos takes (nora79-FACE)
+- **O que aconteceu:** no montado do nora79, o Whisper marcou o "But if" do T05 em 29,24 s, mas a energia do áudio mostra o "unexpectedly" do T04 até 29,66 s, silêncio até 30,75 s e o "But" só em 30,80 s. Cortando o T05 a partir de 29,30 s (pelo Whisper), a versão do Face perdeu o "unexpectedly"; e a legenda mostrava "But if" e "In" de takes cortados. Pego na transcrição do final, antes de mandar.
+- **A regra:** antes de cortar um take inteiro, conferir a emenda pela energia (janelas de 100 ms) e pela troca de cena; corrigir à mão as palavras do Whisper na emenda (`specs/palavras-nora79.json`) e transcrever o final de novo.
