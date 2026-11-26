@@ -73,3 +73,13 @@ Colunas: views · viewers · engajamento · seguidores · impressões · coment�
 | nora73 (o carro, as letras) | 20/11 18h15 | 248 |
 | nora72 (o carro, os 3 sinais) | 20/11 01h20 | 143 |
 | nora71 (o alçapão, os 3 sinais) | 19/11 20h00 | 153 |
+
+## Insights do nora78 no Insta (~33h30; `insta-nora78-268.jpg` a `insta-nora78-272.jpg`)
+- **Resumo:** 126 views, 121 viewers; tempo médio 3 s; 0 follows; skip 67,8%.
+- **A curva:** chegou a ~125 na 1ª hora e parou; o típico segue subindo até ~145.
+- **Taxas:** curtida 0,0%, salvamento 0,0%, repost 0,0%, comentário 0,8%.
+- **Retenção (0:54):** cai para ~45% no 1º segundo, ~20% aos ~0:08 e ~5% dos ~0:15 até o fim.
+- **Depois de ver:** 0 follows, **0 visitas ao perfil**; 0 curtidas, 1 comentário, 0 reposts, 0 compartilhamentos, 0 salvamentos.
+- **Público:** 99,2% não seguidores.
+- **Idade:** 13–17 0,8%; 18–24 10,3%; 25–34 20,6%; 35–44 39,7%; 45–54 19,8%; 55–64 7,1%; 65+ 1,6%.
+- **Países:** EUA 36,5%; Canadá 22,2%; Malásia 7,1%; Austrália 4,0%; Emirados Árabes 3,2% (sem Índia no top 5).
