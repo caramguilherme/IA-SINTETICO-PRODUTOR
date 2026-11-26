@@ -98,3 +98,4 @@ Os documentos de origem do Manual e do pet (`Prompts.txt`, `CHECKLIST-DE-PRODUCA
 - `.claude/skills/story-nora/SKILL.md` (11/11/2026): story da Nora, escolha da foto e texto no estilo aprovado (`ferramentas-painel/ferramentas/texto_story.py`).
 - **`MATERIAIS-AULA-36/` (26/11 09h):** o print do quadro (Excalidraw) da aula 36, mandado pelo aluno; os vídeos dos links não carregaram. `LEIA.md` com o que dá para ler e a "nova simbologia de cartas" da transcrição.
 - **`arquivo/MIDIA-REMOVIDA-26-11.md` (26/11):** os 31 vídeos tirados do repositório (~224 MB), com o caminho e o comando para trazer de volta pelo histórico do git.
+- **`MATERIAIS-NORA-V3/` (26/11 09h25):** a Nora v3 (sem a pintura, olhos castanhos), o blueprint novo que vai anexado em toda imagem nova da Nora; `LEIA.md` com a descrição e o que mudou.

@@ -798,3 +798,4 @@ No print, o clipe tem uma faixa preta fina na esquerda e na direita (~1% da larg
   - a 4ª tem o rótulo "Hair close-up" na orelha e um celular nos acessórios.
 - **A escolhida:** a 3ª, com todos os rótulos certos, o mesmo rosto em todos os quadros e o fundo neutro. Os olhos são corrigidos numa edição só da íris (0 crédito, x4, baixar em 1K) antes de virar a folha oficial.
 - **A roupa da folha:** regata branca e jeans claro, os da IMG-T02. Não trava: a roupa de cada vídeo vem do prompt.
+- **09h25, a folha final:** a 3ª, com a íris corrigida para castanho médio, foi conferida e aprovada: olhos castanhos em todos os quadros, sem a pintura e com os rótulos intactos. Chama-se `nora-v3-blueprint` (o aluno guarda em 1K; a cópia do chat e o `LEIA.md` estão em `MATERIAIS-NORA-V3/`). **Daqui em diante, toda imagem nova da Nora leva essa folha anexada.**
