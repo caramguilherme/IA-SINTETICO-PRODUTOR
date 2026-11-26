@@ -3,7 +3,7 @@
 **O que é:** o que ainda vale das respostas R1 a R95 do Clone (o NotebookLM com as aulas do MVM), já conferido com as transcrições, sem o histórico das perguntas.
 - **O arquivo completo:** `CLONE-DO-GUSTAVO-RESPOSTAS.md` (388 KB), com a pergunta, a resposta e a conferência de cada uma. O texto inteiro de cada conversa está em `CLONE-ORIGINAIS/`.
 - **Leitura fixa e inteira** antes de todo roteiro, prompt, painel e pergunta ao Clone (pedido do aluno, 26/11 09h20).
-- **Feita em 26/11/2026 ~10h:** as R1 a R41 lidas inteiras; as R42 a R95 pelas conclusões, pelas conferências e pelo diário do `CLAUDE.md`.
+- **Feita em 26/11/2026 09h29:** as R1 a R41 lidas inteiras; as R42 a R95 pelas conclusões, pelas conferências e pelo diário do `CLAUDE.md`.
 - **Resposta nova do Clone:** entra lá inteira e aqui em 1 linha, na seção certa, só depois de conferida. O que o Clone diz sem fonte fica marcado como opinião.
 - **Contradição entre o Clone e outra fonte vira teste A/B** (`FILA`), não regra.
 

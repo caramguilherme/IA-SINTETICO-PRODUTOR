@@ -3,7 +3,7 @@
 **O que é:** tudo o que ainda vale das `LICOES-FLOW-E-PROMPTS.md` (800 linhas, 190 KB, de 18/10 a 26/11), sem o histórico. Cada linha traz a data da lição; o caso inteiro (o que aconteceu, o print, a tentativa) está lá, pela data.
 - **Leitura fixa e inteira** antes de todo roteiro, prompt e painel (pedido do aluno, 26/11 09h20: "são 6 documentos pra leitura obrigatoria").
 - **Lição nova:** o caso inteiro entra nas `LICOES-FLOW-E-PROMPTS.md`, e a regra entra aqui, em 1 linha, na seção certa, no mesmo turno. Regra que caiu sai daqui.
-- **Feita em 26/11/2026 ~09h40.** O que ficou de fora, por ser só histórico:
+- **Feita em 26/11/2026 09h27.** O que ficou de fora, por ser só histórico:
   - o Flow para vídeo (créditos, Omni, Frames, agente), que caiu em 18/11;
   - a Dana, o Soulmate e o Love Chart;
   - o pré-gancho mudo (fora desde 17/11);
