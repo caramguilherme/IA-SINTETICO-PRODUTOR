@@ -43,5 +43,6 @@ A minha resposta está na conversa de 26/11 ~09h10. Em resumo: não tenho argume
 - **O blueprint novo:** o prompt foi na conversa às ~09h05. Você gera e me manda as 4; eu escolho e confiro olhos, rosto e rótulos.
 - **A aula 13** (1:34:30, pelo Loom): está transcrevendo aqui. Depois vem a leitura inteira e o que entra na fila.
 - **As travas no gerador do painel e as decisões das seções 15 e 16 nas seções certas do `REGRAS-DA-NORA.md`.**
-- ~~A leitura dos números~~ **feita em 26/11 10h05** (`METRICAS-NORA-LEIA.md`); as voltas ao Gustavo Alves e ao Pedro⚡ estão prontas em `CONTATOS-ALUNOS.md` (26/11 10h10).
+- ~~A leitura dos números~~ **feita em 26/11 10h05** (`METRICAS-NORA-LEIA.md`); a volta ao Pedro⚡ foi enviada às ~10h15 (com ajustes do aluno; esperar a resposta); **a do Gustavo Alves vai em 27/11** (ele está viajando; lembrete às 10h de 27/11; pôr os números em dia antes).
+- **Vem do aluno (26/11 ~10h15), nesta ordem:** (1) as conversas do Discord para responder; (2) na pasta do Drive, os vídeos mais recentes de quem vende Appyon (a mineração nova); (3) na pasta do Robert, vídeos de outras pessoas com dicas de gancho, viralização e métricas no Insta. Os vídeos das 17h em diante esperam esse material.
 - **Feito em 26/11:** a limpeza dos vídeos. São 31 arquivos (~224 MB), listados em `arquivo/MIDIA-REMOVIDA-26-11.md`, e o histórico do git guarda todos. Os links da 4ª e da 5ª conta foram para o `HISTORICO-CLAUDE-MD.md`.
