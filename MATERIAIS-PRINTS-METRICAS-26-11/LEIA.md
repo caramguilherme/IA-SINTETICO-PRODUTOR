@@ -104,3 +104,9 @@ Colunas: views · viewers · engajamento · seguidores · impressões · coment�
 - **Público:** 100% não seguidores.
 - **Idade:** 13–17 0%; 18–24 4,0%; 25–34 10,3%; 35–44 27,0%; 45–54 34,1%; 55–64 18,3%; 65+ 6,3%.
 - **Países:** EUA 54,0%; Canadá 14,3%; Índia 4,8%; Austrália 3,2%; Emirados Árabes 3,2%.
+
+## Story do "gift" no Insta (postado em 25/11 às 13h19; ~21 h; `story-insta-gift-283.jpg`)
+- **O aluno (09h59):** "19 views / 100% seguidores / story 21h atras / resto ta tudo 0".
+- **Navegação:** 13 (6 avançar, 5 próximo story, 2 saíram).
+- **Atividade no perfil:** 0 (0 follows, 0 visitas ao perfil).
+- **Toques no adesivo do link e o resto:** 0, pelo aluno.
