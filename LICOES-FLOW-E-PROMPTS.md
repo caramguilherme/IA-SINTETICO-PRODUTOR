@@ -815,3 +815,8 @@ O Flow bateu o limite de geração de imagens, e o aluno gerou a imagem do nora8
 **Ao lado de um quadro do nora79**, é a mesma mulher, mas com o rosto um pouco mais fino e uns anos mais velho, e os lábios mais finos. A expressão séria que o prompt pede pesa nisso. Aprovada para o nora80.
 
 **Daqui em diante:** o blueprint sozinho no Muse vale como caminho da imagem. A conferência do rosto é feita contra o blueprint e contra um quadro do último vídeo no ar.
+
+## Os takes só do Face vão na mesma colagem da Central, no fim (26/11/2026 ~17h10; pedido do aluno)
+**O pedido:** "eu queria que passasse pela central todos os takes, porque daí já tem todos os campos… a movimentação, o tipo de voz, o prompt da voz… não tem como o take 14 e o take 15 ir no final da copy?". Até o nora79, os takes só do Face eram prompts avulsos escritos por mim.
+**Agora:** a colagem da Central leva a fala inteira, do T01 ao T15 (o T14, as letras, e o T15, o CTA do comentário, no fim), com as 15 linhas de movimentação. O Muse gera os 15 de uma vez, com os nomes certos no aviso (Prompt 14 e Prompt 15). Isso dá mais um ganho: a voz dos 2 takes do Face sai da mesma leva.
+**Por que a Central divide certo:** ela só começa um take novo quando a frase seguinte não cabe no take (~22 palavras). O gerador confere isso nos 15 em sequência (`conferir` com o T14 e o T15). O T13 tem 22 palavras e o T14, 18; o T14 mais a 1ª frase do T15 dá 26.

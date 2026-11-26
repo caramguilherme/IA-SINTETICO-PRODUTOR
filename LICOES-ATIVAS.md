@@ -96,6 +96,7 @@
 2. **1 versão só por prompt** ("exactly ONE video clip, only one version"). Se sair errado, pede de novo só aquele. (18/11 ~17h05)
 3. **No máximo 6 clipes por mensagem:** em lotes de 6, com a imagem de novo a cada lote. (19/11 ~01h)
 4. **O nome de cada clipe** vai no prompt ("Name this clip exactly …"). O download sai como `media-generation-<nome>-0-<código>.mp4`, e a ordem na FusionZ fica certa. A 1ª leva às vezes vem com nome aleatório: aí a lista de renomear do painel diz as primeiras palavras de cada take. O clipe 01 do Muse é o 1º take da colagem. (23/11 18h52; 24/11 18h11 a 18h35)
+4b. **Os takes só do Face (o começo novo e o CTA do comentário) vão no fim da mesma colagem da Central**, e o Muse gera tudo de uma vez (T01 a T15). O gerador confere que a 1ª frase de cada take não cabe no anterior. (pedido do aluno, 26/11 ~17h10)
 5. **Take avulso (1 a 3 clipes) vai só no Muse**, com o prompt completo do painel, sem a Central. No multi-ângulo também (cada take com a sua imagem). (25/11 15h55; 26/11)
 6. **O limite por dia:** não há número conhecido (relatos de 15 a 150). Se aparecer `video_daily_budget_exhausted`, não insistir nem criar conta: continuar no dia seguinte e me avisar, que eu ajusto o horário do post. (19/11 ~02h; 24/11)
 7. **O custo**, pelos prints de 19 e 21/11: ~2,6% do grátis da semana por clipe (o grátis renova toda quarta) e o bilhão rende ~385 clipes. É estimativa: o saldo exato está na tela de Utilização do Muse, e eu não pergunto o saldo.

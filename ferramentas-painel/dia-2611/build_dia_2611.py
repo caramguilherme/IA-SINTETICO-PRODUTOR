@@ -236,6 +236,8 @@ def montar(nn):
         fala[9] = fala[9].replace("you'll receive", "you'll get")
         assert 'receive' not in ' '.join(fala).lower()
     conferir(v, fala, gestos)
+    # 26/11 ~17h10 (o aluno): os 2 takes do Face vão no fim da mesma colagem da Central, e os 15 saem do Muse de uma vez.
+    conferir(v, fala + [LETRAS, CTA_FACE], gestos + [G_LETRAS, GESTO_CTA_FACE])
     n = len(fala)
     palavras = sum(len(f.split()) for f in fala)
     nomes = [f'd2611-{v["pref"]}-T{i + 1:02d}-{sufs[i]}' for i in range(n)]
@@ -282,9 +284,10 @@ def montar(nn):
     B24.mapa(P)
     P['comentario_fixado'] = {'insta': T['fix_insta'], 'face': T['fix_face'] + FB}
     ct = P['central']
-    ct['config'] = config(v, n)
-    ct['colagens'] = [{'titulo': f'{nn}: a colagem do T01 ao T{n:02d} (na {v["img"]})', 'fala': ' '.join(fala),
-                       'movimentacao': [mov(v, gestos[i]) for i in range(n)], 'takes': list(range(n))}]
+    ct['config'] = config(v, n + 2)
+    ct['colagens'] = [{'titulo': f'{nn}: a colagem do T01 ao T{n + 2:02d} (na {v["img"]}; o T14 e o T15 são os 2 só do Face, no fim)',
+                       'fala': ' '.join(fala + [LETRAS, CTA_FACE]),
+                       'movimentacao': [mov(v, g) for g in gestos + [G_LETRAS, GESTO_CTA_FACE]], 'takes': list(range(n + 2))}]
     ct['conferir'] = (f'Conferir em cada take: a Nora SEM a lua e SEM as estrelinhas, os olhos castanhos, de {v["roupa_pt"]}, {v["lugar_pt"]}, com {v["obj_pt"]} e a '
                       'bandeira; ela fala uma vez só e diz as letras, as datas e os números por extenso.')
     ag = copy.deepcopy(ct['agente'])
@@ -292,22 +295,20 @@ def montar(nn):
     velho = 'Name each clip with its prompt number (01, 02, 03 and so on).'
     assert velho in ag['aviso']
     ag['aviso'] = ag['aviso'].replace(velho, 'Name each clip with exactly this file name, so the downloaded file already has it: '
-                                      + ', '.join(f'Prompt {i + 1} = {nomes[i]}' for i in range(n)) + '.')
-    resto = ', '.join(f'Prompt {i + 1} = {nomes[i]}' for i in range(6, n))
+                                      + ', '.join(f'Prompt {i + 1} = {(nomes + [n_letras, n_cta])[i]}' for i in range(n + 2)) + '.')
+    todos = nomes + [n_letras, n_cta]
+    resto = ', '.join(f'Prompt {i + 1} = {todos[i]}' for i in range(6, n + 2))
     msg_resto = ('“Now generate the remaining prompts from my previous message, exactly as written, in the same order, using the attached image as the first '
                  f'frame of every clip, and name each clip with exactly this file name: {resto}.”')
-    lista = ' · '.join(f'T{i + 1:02d} começa em “{" ".join(fala[i].split()[:5])}…” → {nomes[i]}' for i in range(n))
-    ag['intro'] = (f'No Muse, na mesma conversa da Nora (a voz). Siga os passos de cima para baixo. São {n + 2} clipes: os {n} do Insta (T01 a T{n:02d}, todos com a '
-                   f'{v["img"]}) e, por último, os 2 só do Face (o começo com as letras gerado de novo e o fim que manda para o 1º comentário).')
+    lista = ' · '.join(f'T{i + 1:02d} começa em “{" ".join(f.split()[:5])}…” → {todos[i]}' for i, f in enumerate(fala + [LETRAS, CTA_FACE]))
+    ag['intro'] = (f'No Muse, na mesma conversa da Nora (a voz). Siga os passos de cima para baixo. São {n + 2} clipes, todos com a {v["img"]} e todos pela '
+                   f'Central, numa colagem só: os {n} do Insta (T01 a T{n:02d}) e, no fim, os 2 só do Face (o T14, as letras de novo, e o T15, o fim que manda para o 1º comentário).')
     ag['passos'] = [
-        f'Na Central: preencha como na seção da Central (o LIVRE e a movimentação do {nn}) e cole a fala do T01 ao T{n:02d}. Confira: {n} takes.',
-        f'O vídeo (T01 a T{n:02d}, {n} clipes): no Muse, anexe a {v["img"]} + o aviso do Muse + o “COPIAR TUDO JUNTO”. O Muse gera 6 por vez: depois dos 6 primeiros, '
-        f'mande na mesma conversa, com a mesma imagem: {msg_resto} (se ele parar no 12, mande de novo para o último).',
+        f'Na Central: preencha como na seção da Central (o LIVRE, a voz, o prompt de consistência de voz e as {n + 2} linhas de movimentação do {nn}) e cole a fala '
+        f'inteira, do T01 ao T{n + 2:02d}. Confira: {n + 2} takes (o T14 começa em “If your name starts…” e o T15 em “That’s why I left you…”).',
+        f'O vídeo inteiro (T01 a T{n + 2:02d}, {n + 2} clipes): no Muse, anexe a {v["img"]} + o aviso do Muse + o “COPIAR TUDO JUNTO”. O Muse gera 5 ou 6 por vez: '
+        f'depois dos primeiros, mande na mesma conversa, com a mesma imagem: {msg_resto} Repita a mesma mensagem até sair o T{n + 2:02d}.',
         f'Confira os nomes ao baixar (o site põe “media-generation-” na frente e um código no fim; pode deixar). Se algum vier com nome aleatório, ouça o começo e renomeie: {lista}.',
-        f'O T14, o 1º take só do Face (as letras de novo: o Face abre com outro arquivo, a sua regra de 24/11): anexe a {v["img"]} e cole o prompt abaixo. '
-        f'Salve como {n_letras}. PROMPT: ' + prompt_take(v, LETRAS, mov(v, G_LETRAS), n_letras, 1, n),
-        f'O T15, o 2º take só do Face (o CTA para o 1º comentário, no lugar do T12 e do T13): anexe a {v["img"]} e cole o prompt abaixo. '
-        f'Salve como {n_cta}. PROMPT: ' + prompt_take(v, CTA_FACE, mov(v, GESTO_CTA_FACE), n_cta, n, n),
         f'Confira cada take: sem a lua e sem as estrelinhas; os olhos castanhos (iguais em todos); {v["roupa_pt"]}; {v["obj_pt"]}; ela fala uma vez só e fecha a boca no fim. '
         'Se o Muse recusar: “Generate prompt X again, exactly as written.”',
         'Se a voz de algum take sair diferente das outras, gere aquele de novo na mesma conversa, pedindo “exactly the same voice as the other clips of this video”. '
