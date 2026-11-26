@@ -1464,3 +1464,11 @@ Pergunta: "que signos foi falado/escrito nos videos de mais views da nora? tem a
   - (3) No Insta, com 3 por dia desde hoje (17h, 20h30 e 0h00), cada post se lê pela 1ª hora (se passa de ~130), pelos compartilhamentos e salvos e pelas visitas ao perfil; a abertura nunca repete a do post anterior.
   - (4) A pista do nora75 (o ritual que a pessoa salva e manda) vai para a `FILA`, como hipótese.
   - (5) A troca da avatar não muda (decisão do aluno: "o face ta indo, o negocio é destravar o insta").
+
+## 26/11/2026 18h50: o nora80 no ar (Insta e Face)
+O 1º vídeo da regra nova (1 teste por dia; o resto no que vem dando certo): as letras do nome + o corpo da maioria, no carro, de blusa preta, com a ametista. **Ele não testa nada:** é a combinação que deu os 2 maiores da Página (o nora76-FACE com 4.516 e o nora77-FACE com 3.625), com cenário e roupa novos. Saiu às 18h50 (o horário era 17h30).
+**A régua com ~24 h (~18h50 de 27/11):**
+- **no Insta:** views, skip, visitas ao perfil, compartilhamentos e a Índia (a faixa da tarde e da noite), contra a faixa de ~125 desde 10/11;
+- **no Face:** views, distribuição, tempo médio e os cliques no link, contra o nora76-FACE e o nora77-FACE na mesma idade.
+
+O nora81 vai à noite e o nora82 (o teste da 2ª frase) às 17h de 27/11.
