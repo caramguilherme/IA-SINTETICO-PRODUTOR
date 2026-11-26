@@ -460,3 +460,13 @@ Fora da numeração do nora. Peças com o nome do teste: `faceNN-IMG`, `faceNN-C
 - **Montado** (`nora77-VAR2511-FACE-montado`, 1080×1920, 65,7 s, 8 takes): o T01 novo (a pergunta) e o T03 novo ("before Saturday, November twenty-eighth"), gerados no Muse em 26/11, mais o T02, T04, T06, T07, T11 e o T15 do Face do nora77. A fala transcrita confere com o painel.
 - **Edição:** `editar_simples_2311.py` no modo "insta" (sem a variação do Face), com o 11:11✨ no alto à direita (X1111=0,82; a bandeira no quadro fica à esquerda), mais o `spec_face_comentario.py` (a faixa "Your 2027 reading: / link in the comments" do "Check" até o fim, sem a seta). **O "and money," do T04 saiu** (corte de 26,52 a 27,40 s do montado, achado pela energia do áudio e conferido transcrevendo o trecho emendado: "The universe saw your faith, prosperity, and someone…"; o Whisper punha o "faith" e o "and" fora do lugar). "St." virou "Saint" na legenda. Specs em `ferramentas-painel/ferramentas/specs/*nora77-VAR2511-FACE*`.
 - **nora77-VAR2511-final-FACE:** 53,6 s, 20 MB. A legenda do Face e o comentário da Página estão no painel (https://claude.ai/artifact/TkPJ4upPyijuzN5ycL1tgW).
+
+## nora80 (26/11/2026, editado às ~18h45): as letras + o corpo da maioria, no carro, blusa preta, a ametista
+- **Montado:** `nora80-montado` (2:04, 15 takes, o T14 e o T15 do Face no fim; a 1ª vez com os 15 pela Central). A imagem saiu no Muse, só com o blueprint.
+- **Insta** (`nora80-final`, 1:33): T01 ao T13.
+- **Face** (`nora80-final-FACE`, 0:55): T14 (as letras) + T02, T03, T04 sem o "and money," (corte de 26,90 a 27,70 no montado do Face, pela energia do áudio, conferido transcrevendo a emenda), T06, T07, T11 + T15 (o 1º comentário), com a faixa "Your 2027 reading: link in the comments".
+- **Ajustes:**
+  - a legenda subiu para 65% da altura (`YLEG=0.65`), porque a 77,5% ficava em cima da ametista;
+  - o fim do "unexpectedly." (T04) foi corrigido para 34,20 s, porque o corte de silêncio comia o "-ly".
+- **Tela:** sem texto no topo; o 11:11✨ à direita; a legenda simples; a seta grande do CTA ao fim (só no Insta).
+- **Arquivos:** `ferramentas-painel/ferramentas/specs/spec-nora80*.json`, `palavras-nora80*.json`, `cortes-extra-nora80*.json`; scripts `ferramentas-painel/dia-2611/separar_takes_2611.py` e `rodar_2611.sh`.
