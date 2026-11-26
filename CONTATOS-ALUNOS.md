@@ -24,6 +24,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **Kaike de Lima (17/11 11h35):** respondeu em 16/11 11h04 com um áudio de 17 s (transcrito pelo aluno): replica o pré-hook que dá certo até "sugar muito" e aí faz coisa nova. Resposta enviada (texto no fim), com a pergunta do teto do Insta. Esperar.
 - **Pedro⚡ e Caio1094, fechamentos (prints do aluno em 18/11 00h44):** o Pedro⚡ respondeu "show, vai da certo!" (17/11 12:18) e o Caio1094 "tamo juntooo! ve oq ta mais viral nas ultimas 48h, tenta fazer na sua, ai vai vendo oq ela performa melhor, mas é teste + teste + teste, desiste nao" (17/11 12:10). Conversas fechadas: só reagir; voltar com resultado.
 - **carloscs (18/11 00h45):** respondeu em 17/11 15:20 à DM de 03/11 (começa pelo Face, esteira de aquecimento, depois a automação, copy de vendas com e sem hook, 4 a 6 vídeos por dia a cada 2 h). Agradecimento com 1 pergunta enviado (texto no fim). Esperar.
+- **34ª leitura (26/11 08h30):** ❤️ nas 4 respostas à 1ª venda do aluno no #vitórias; parabéns ao Diego Brito (#chat-appyon) e à Patricia Nascimento (#vitórias), com 1 pergunta cada; a régua do checkout ao erick civinelli (#chat-appyon): enviados (toda resposta sugerida conta como enviada; textos no fim).
 - **32ª leitura (24/11 01h41):** respostas ao Diego Lima (o link no story) e à Helta Almeida (desflopar), e o agradecimento com 1 pergunta ao Verix (o "Check" do Muse): enviados (toda resposta sugerida conta como enviada; textos no fim).
 - **29ª leitura (19/11 ~23h52):** parabéns ao Wendell Vieira (1ª venda, 321 cliques) e ao Khalil (os 1ºs cliques depois de ajustar a copy com as calls), no #vitórias, com 1 pergunta curta cada (texto no fim): enviados (toda resposta sugerida conta como enviada). Se responderem em público, reagir com emoji e seguir pela DM.
 - **28ª leitura (19/11 ~02h):** respostas ao José [MVM] (a aparência do avatar no Muse, take a take), ao erick civinelli (152 cliques sem venda: a régua) e ao Khalil (o rótulo de IA no Face), no #chat-appyon: enviadas (toda resposta sugerida conta como enviada; textos no fim). **Sem resposta, pela regra de nunca mandar duas sem resposta:** a Lívia (a nossa de 18/11 ~11h segue sem resposta; a pergunta dela das 22h42, se a FusionZ parou de cortar, a gente sabe: funcionou para o aluno à 01h de 19/11) e o Castanho (esperando desde 10/11; só reagir com emoji ao prêmio do Apple Watch no #vitórias).
@@ -1227,3 +1228,26 @@ vi vc falando da aula de contingência do gustavo (um perfil pra postar, um adm 
 sabe me dizer qual aula é essa ou onde acho ela? to querendo proteger minha página que começou a vender
 ```
 
+
+## SUGERIDO (26/11/2026 08h30; 34ª leitura; contam como enviadas, P44)
+**No #vitórias-dólar, na sua mensagem da 1ª venda (25/11 01h13):** reagir com ❤️ às 4 respostas (Pedro⚡, Caio1094, Gustavo Alves e Lari). Sem mensagem nova.
+
+**Ao Diego Brito (#chat-appyon, respondendo à mensagem "Caraio saiu a primeira vez", 25/11 23h28):**
+```
+aeee diego, parabéns pela primeira!!
+veio do face ou do insta?
+```
+
+**À Patricia Nascimento (#vitórias-dólar, respondendo à mensagem da 2ª venda, 25/11 12h13):**
+```
+parabéns patricia!!
+quantos vídeos por dia vc posta nessa fanpage?
+```
+
+**Ao erick civinelli (#chat-appyon, respondendo à pergunta "O checkout de vcs tá normal aí? 33 endquiz e 0 checkouts hoje", 25/11 21h17):**
+```
+aqui saiu checkout e venda ontem de madrugada, pareceu normal
+pelo dashboard do mvm, nos 10% melhores uns 6,8% de quem começa o quiz chega no checkout, com 33 daria uns 2
+então 0 num dia ainda pode ser variação, eu olharia a semana toda antes de mexer
+```
+**Fonte da régua:** o Dashboard do MVM de 20/11 (`MATERIAIS-PAINEL-MVM/`).

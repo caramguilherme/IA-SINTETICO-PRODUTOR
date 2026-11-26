@@ -79,9 +79,13 @@ Ontem foi 1 ("pra ver como vai ser"). O teste do Robert se mede em ~1 semana: a 
 
 ## Para você fazer (sem decisão)
 9. **As 2 mensagens do 2º administrador** (a sua ideia de 25/11): à Cassia Y e ao Inaldo. Os textos estão no `CONTATOS-ALUNOS.md` e na resposta de 25/11 17h35. Me diz quando mandar e o que responderem.
+   - **O que a 34ª leitura do Discord (25/11) trouxe para essa decisão:**
+     - a Página da Nora está no seu perfil pessoal;
+     - o Gustavo indicou um fornecedor de perfis e Páginas do Face que virou parceiro do MVM (link no Discord, 25/11 17h16), e a Ju Santos disse que perfil do Face precisa ter 6 meses ou mais, senão "indicamos comprar". Um perfil comprado e antigo seria o candidato a 2º administrador, ou a casa da Página se o seu cair;
+     - o Eric Veiga: se o perfil cair e voltar, tirar a Página dele na hora, porque "deixar ela no teu perfil é muito arriscado".
 10. **Os minutos do GeeLark:** sobravam 234 em 25/11 17h20, e dão até ~30/11. Compre outro pacote até ~28/11.
 11. **(Opcional) O link FACE na seção "Links" da Página:** vai inteiro, nunca encurtado. Nenhum relato de Página caída citou isso; as causas foram dinheiro, comentário repetido e isca. Se der medo, deixa como está, porque o comentário já leva o link.
-12. **Materiais, quando der:** a missão 08 ("Dúvidas frequentes"), a aula 13, um print do Excalidraw da aula 36 e o resto da call do Kobata (depois de 0:47:30). A aula de Muse do Gustavo ainda não saiu.
+12. **Materiais, quando der:** as gravações do sprint, que começa em 30/11 (Ju Santos, 25/11), a missão 08 ("Dúvidas frequentes"), a aula 13, um print do Excalidraw da aula 36 e o resto da call do Kobata (depois de 0:47:30). A aula de Muse do Gustavo ainda não saiu.
 
 ## Com hora (26/11)
 - **16h, o extra do Face** (a abertura que pergunta + o corpo cinza): o painel está pronto e já aprovado, e o montado vai até ~15h45. https://claude.ai/artifact/TkPJ4upPyijuzN5ycL1tgW

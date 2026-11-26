@@ -1451,3 +1451,43 @@ Arquivos: `HISTORICO-DISCORD/chat-appyon_12-11-madrugada.md`, `vitorias-dolar_12
   5. **Fora:** comprar conta do Muse, o encurtador, o link na bio, o documento da Fábrica para contornar o aviso do Flow (contornar detecção vai contra os termos e a Nora não automatiza).
 - **Respostas (P44):** à Lorena (a taxa boa no funil de manifestação), ao Davi marques (o mesmo vídeo em várias contas) e o parabéns à Marcela Zaramella no #vitórias (`CONTATOS-ALUNOS.md`).
 
+
+## 26/11/2026 08h30 - Discord, 34ª leitura (24/11 23h38 a 26/11 00h35)
+- **Arquivos:** `HISTORICO-DISCORD/*_25-11_*`, `chat-appyon_24-11_23h38_a_26-11_00h35.md`, os 5 vazios (`*_vazio_*_26-11.md`) e o `resumo-leitura_24-11_23h50_a_26-11_01h15.md`; as 28 imagens em `HISTORICO-DISCORD/imagens/26-11/`. chat-appyon 249 mensagens; chat-geral 28; vitórias 22; avisos-appyon 1; apresente-se 2; fórum: Fábrica 9, GeeLark 4, MUSE???? 2. Sem buraco.
+- **Vitórias:**
+  - **A 1ª venda do aluno**, postada às 01h13: o Pedro⚡, o Caio1094, o Gustavo Alves e a Lari responderam.
+  - **Patricia Nascimento:** 2ª venda com 1 avatar em 1 fanpage, depois de 6 dias postando. Em 7 dias, 434 cliques, 19 checkouts e 2 vendas.
+  - **Diego Brito:** 1ª venda (US$ 6,40; 10 cliques e 1 checkout no dia).
+  - **Prêmios chegando** (AirPods e Apple Watch): Maycon Douglas, Lucas Dusi, Vitor Kretzer e Matheus baffa.
+  - **O erick civinelli:** 33 quizzes terminados e 0 checkout no dia.
+- **Aviso oficial (Gustavo, avisos-appyon 16h28):** jaleco com "MD" ou "PHD" escrito, nunca (as avatares do Risely).
+- **Face:**
+  - **Contas que voltam:** pelo atendente humano do assistente de suporte da Meta (Maycon Douglas, Eric Veiga, Juliana Kli) e sozinhas (Izadora, Marcia Poletto, Patrik Hoffmann, Marcos Daniel). Também voltaram e caíram de novo no mesmo dia (Rafael Maia, Walter, Marcos Daniel).
+  - **Eric Veiga:** quando o perfil volta, tirar a Página dele na hora e desvincular o Insta; "deixar ela no teu perfil é muito arriscado".
+  - **O Gustavo indicou um fornecedor de perfis e Páginas que virou parceiro do MVM** (17h16), e a Ju Santos disse: "facebook precisa ter 6 meses + de criação, caso contrário indicamos comprar".
+  - **Diego Brito:** Página suspensa de novo por "ataque a pessoas". O Nascimento acha que a Meta pega "padrão de vídeos, copy parecidas" (opinião de 1 pessoa, sem prova).
+  - **Resposta automática no comentário** "dá alerta de spam" (Maycon Douglas).
+- **Insta:**
+  - **Conta nova** cai e volta até ~100 posts (Caio1094).
+  - **A restrição de mensagens** no aquecimento: apelar, e a apelação só pede código (Caio1094; deu certo para a Ari & Lu).
+  - **Horário:** "17-19-21 pra fugir de indiano… após fugir tanto faz" (Caio1094); o Gustavo disse em call que o horário "não influencia muito" (Eduardo Yuji).
+- **Muse:**
+  - **Takes de 10 s com 30 a 35 palavras no máximo** (junovoa; Kaio Guerra: "deu muito bom").
+  - **O prompt do gerador do Gustavo no Muse** dá sincronia "perfeita", e o Muse junta os takes e tira os silêncios (Juliano).
+  - **Travar o sotaque em cada prompt**, porque "às vezes trocava do americano pro britânico" (Chefinho).
+  - **Descrever a voz no começo e reforçar nas regras** (Luana).
+  - O Thawam e a Renata com a voz mudando muito entre takes. Muitos códigos de convite (1 bilhão).
+- **Flow:** as contas Pro compradas do ggsoma caindo (Bruno Freitas, 7 de 15; Cassia Y). O Lower Priority ilimitado só no Ultra 20x (Cassia Y).
+- **Calls:** a de 25/11 foi só para a turma nova; "dia 30/11 começa o sprint" (Ju Santos).
+- **Para a Nora (decisão minha):**
+  1. **Nada muda nas regras de postagem, copy ou produção.** O horário do Caio1094 bate com a nossa grade.
+  2. **A Página da Nora fica no perfil pessoal do aluno** (`FATOS`), e a leitura de hoje dá 3 coisas para a decisão do 2º administrador (`PENDENCIAS-DO-ALUNO.md`, item 9):
+     - o fornecedor parceiro do MVM para um perfil de contingência;
+     - a regra da Ju dos 6 meses de perfil;
+     - o conselho do Eric Veiga, se o perfil cair e voltar.
+
+     Segue decisão do aluno.
+  3. **A voz no Muse:** os prompts da Nora já travam o sotaque ("Natural General American accent") e já têm no máximo 22 palavras por take, abaixo dos 30 a 35. O que variou no nora79 foi o tom entre mensagens separadas (`LICOES`, 26/11 00h37). Fica a regra de medir 2 takes antes do resto no multi-ângulo.
+  4. **O "copy parecidas derruba Página"** é opinião de 1 pessoa. A versão do Face da Nora já sai sem ameaça, dinheiro, selos e isca, e o comentário da Página já muda a cada post. Não muda nada.
+  5. **O sprint começa em 30/11:** a gravação das calls entra na pendência de materiais.
+- **Respostas (P44):** ❤️ nas 4 respostas à venda do aluno; o parabéns ao Diego Brito e à Patricia Nascimento; a régua do checkout ao erick civinelli (`CONTATOS-ALUNOS.md`).
