@@ -37,3 +37,12 @@ Colunas: views · viewers · engajamento · seguidores · impressões · coment�
 - **Idade:** 55–64 31,1%; 45–54 25,5%; 65+ 18,5%; 35–44 15,3%; 25–34 8,2%; 18–24 1,4%.
 - **Países:** EUA 79,9%; Reino Unido 8%; Canadá 8%; Austrália 2,4%; Brasil 1%; Nova Zelândia 0,7%.
 - **Cliques no link:** "Insights não disponíveis". Os 4 "Cliques" do engajamento não dizem se foram no link.
+
+## Insights do nora77-FACE (~38 h; `face-262.jpg` e `face-263.jpg`)
+- **Views e retenção:** 3.625 views, 3.210 viewers. Tempo médio 12 s; a maioria sai em 0:01. 1.596 views de 3 s; tempo total 11:06:04; 22% assistido em média; taxa de 20 s: 15,6%.
+- **A curva:** subiu de ~300 (5 h) para ~3.500 (20 h) e parou.
+- **Engajamento:** 80 (43 reações, 22 cliques, 11 comentários, 1 compartilhamento); taxa de curtidas 1,22%; ocultação 0,00%; 11 seguidores novos.
+- **Cliques no link: 4.**
+- **Público:** 99,3% não seguidores; 99,6% pelo Reel; 95,8% de sugestões; 3,8% por compartilhamento de link.
+- **Idade:** 65+ 33,6%; 55–64 31,9%; 45–54 21,1%; 35–44 9,9%; 25–34 2,9%; 18–24 0,6%.
+- **Países:** EUA 73,6%; Canadá 8,2%; Reino Unido 8%; Austrália 7,8%; Nova Zelândia 2,2%; outros 0,3%.
