@@ -45,7 +45,7 @@ for a, b in cj:
     t = max(t, b)
 # o fim: o Muse segue mexendo o corpo, a boca e suspirando depois da última palavra; fica só ~0,6 s depois dela
 fim_m = min(dur_m, ws[-1][2] + 0.6) if ws else dur_m
-keep.append((t, fim_m))
+if fim_m - t > 0.05: keep.append((t, fim_m))  # 26/11: o corte extra pode ir até o fim (o take só do Face no fim do montado)
 
 
 def novo(tm):

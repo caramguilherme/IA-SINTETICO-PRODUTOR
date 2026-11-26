@@ -1,0 +1,43 @@
+{
+ "entrada": "/tmp/claude-0/-workspace-IA-SINTETICO-PRODUTOR/0f1d3084-6c9c-5025-9335-535fd154c68d/scratchpad/n79/out-insta/nora79-legenda.mp4",
+ "saida": "/tmp/claude-0/-workspace-IA-SINTETICO-PRODUTOR/0f1d3084-6c9c-5025-9335-535fd154c68d/scratchpad/n79/out-insta/nora79-final.mp4",
+ "crf": 21,
+ "preset": "veryfast",
+ "estilo": "alto-contraste",
+ "itens": [
+  {
+   "tipo": "caixa",
+   "ini": 0,
+   "fim": 5.44,
+   "x": 0,
+   "y": 500,
+   "tamanho": 11,
+   "linhas": [
+    "It works so fast,",
+    "[it's almost scary]..."
+   ],
+   "caixa": {
+    "fundo": [
+     255,
+     255,
+     255,
+     255
+    ],
+    "texto": "#000000",
+    "destaque": "#E53935",
+    "fonte": "bold",
+    "destaque_fonte": "bold",
+    "raio": 14,
+    "sombra": null
+   }
+  },
+  {
+   "tipo": "seta",
+   "ini": 81.2,
+   "fim": 88.069336,
+   "x": -285,
+   "y": -400,
+   "tamanho": 44
+  }
+ ]
+}

@@ -1,0 +1,240 @@
+{
+ "keep": [
+  [
+   0.5800000000000001,
+   5.96
+  ],
+  [
+   7.44,
+   13.86
+  ],
+  [
+   14.16,
+   21.12
+  ],
+  [
+   21.8,
+   23.82
+  ],
+  [
+   24.46,
+   29.75
+  ],
+  [
+   37.38,
+   44.54
+  ],
+  [
+   46.239999999999995,
+   53.2
+  ],
+  [
+   77.02,
+   83.56
+  ],
+  [
+   100.12,
+   105.084172
+  ]
+ ],
+ "cortes": [
+  [
+   0.0,
+   0.5800000000000001
+  ],
+  [
+   5.96,
+   7.44
+  ],
+  [
+   13.86,
+   14.16
+  ],
+  [
+   21.12,
+   21.8
+  ],
+  [
+   23.82,
+   24.46
+  ],
+  [
+   29.75,
+   37.38
+  ],
+  [
+   44.54,
+   46.239999999999995
+  ],
+  [
+   53.2,
+   77.02
+  ],
+  [
+   83.56,
+   100.12
+  ]
+ ],
+ "legenda": [
+  [
+   "Pour a little sugar on your",
+   0.09999999999999998,
+   1.58
+  ],
+  [
+   "doorstep tonight",
+   1.58,
+   2.58
+  ],
+  [
+   "I know it sounds ridiculous",
+   2.58,
+   3.92
+  ],
+  [
+   "but you'll thank me forever",
+   3.92,
+   5.4399999999999995
+  ],
+  [
+   "There's a woman lying down with",
+   5.4399999999999995,
+   7.52
+  ],
+  [
+   "her phone in her hand right now",
+   7.52,
+   9.18
+  ],
+  [
+   "Archangel Michael asked me to bring",
+   9.18,
+   10.86
+  ],
+  [
+   "her this message",
+   10.86,
+   11.86
+  ],
+  [
+   "I don't know your name or",
+   11.86,
+   13.319999999999999
+  ],
+  [
+   "what you did",
+   13.319999999999999,
+   14.219999999999997
+  ],
+  [
+   "but if this video found you",
+   14.219999999999997,
+   15.679999999999998
+  ],
+  [
+   "before Friday November 27th",
+   15.679999999999998,
+   18.18
+  ],
+  [
+   "get ready",
+   18.18,
+   18.819999999999997
+  ],
+  [
+   "The universe saw your faith and",
+   18.819999999999997,
+   20.819999999999997
+  ],
+  [
+   "prosperity and someone incredibly wonderful are",
+   20.819999999999997,
+   23.74
+  ],
+  [
+   "about to appear in your life unexpectedly",
+   23.74,
+   26.129999999999992
+  ],
+  [
+   "Saint Michael the Archangel sent a warning",
+   26.129999999999992,
+   28.449999999999992
+  ],
+  [
+   "A season of victory and prosperity",
+   28.449999999999992,
+   29.969999999999995
+  ],
+  [
+   "is approaching your life",
+   29.969999999999995,
+   31.589999999999993
+  ],
+  [
+   "The worst is finally over",
+   31.589999999999993,
+   33.28999999999999
+  ],
+  [
+   "I can already see the chains",
+   33.28999999999999,
+   34.69
+  ],
+  [
+   "that kept you trapped in scarcity breaking",
+   34.69,
+   37.379999999999995
+  ],
+  [
+   "The doors that wouldn't open will",
+   37.38999999999999,
+   39.23
+  ],
+  [
+   "finally open",
+   39.23,
+   40.19
+  ],
+  [
+   "But the universe is warning me",
+   40.19,
+   41.97
+  ],
+  [
+   "this change only happens for women",
+   41.97,
+   44.11
+  ],
+  [
+   "whose energy is aligned with abundance",
+   44.11,
+   46.730000000000004
+  ],
+  [
+   "That's why I left you a",
+   46.730000000000004,
+   47.81
+  ],
+  [
+   "quick reading",
+   47.81,
+   48.53
+  ],
+  [
+   "Check the first comment below to",
+   48.53,
+   50.53
+  ],
+  [
+   "get your reading",
+   50.53,
+   51.559999999999995
+  ]
+ ],
+ "t_tap": 48.53,
+ "t_gancho": 2.36,
+ "hook_dur": 0.0,
+ "dur_final": 51.747,
+ "video": "/tmp/claude-0/-workspace-IA-SINTETICO-PRODUTOR/0f1d3084-6c9c-5025-9335-535fd154c68d/scratchpad/n79/out-face/nora79f-legenda.mp4"
+}
