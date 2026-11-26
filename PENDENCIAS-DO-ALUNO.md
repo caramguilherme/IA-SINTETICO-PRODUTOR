@@ -27,6 +27,7 @@ A minha resposta está na conversa de 26/11 ~09h10. Em resumo: não tenho argume
      - a Página da Nora está no seu perfil pessoal;
      - o Gustavo indicou um fornecedor parceiro do MVM de perfis e Páginas do Face, e a Ju Santos disse que perfil do Face precisa ter 6 meses ou mais, senão "indicamos comprar";
      - o Eric Veiga: se o perfil cair e voltar, tirar a Página dele na hora.
+   - **As respostas (26/11):** a Cassia Y não sabe o que derrubou os perfis dela (09h42; no chat de 24/11 ela tinha dito que convidou todos de uma vez) e comprou com o fornecedor que o Gustavo indicou "há mtos anos… uns 4 anos", sem saber como está hoje (10h39). O Inaldo não respondeu. **O que fica:** se fizer, 1 perfil só, antigo (6 meses ou mais) ou comprado, com 2FA, e nunca vários convites de uma vez. A decisão segue sua.
 10. **Os minutos do GeeLark:** comprar outro pacote até ~28/11. Eu te lembro em 27/11 às 19h (lembrete marcado).
 12. **Material, quando der:**
     - a missão 08 ("Dúvidas frequentes");

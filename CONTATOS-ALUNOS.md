@@ -1351,3 +1351,10 @@ mes que vem quero subir pra 5 contas
 e vc, vai começar em qual, manifestation ou risely?
 ```
 **Fontes:** a grade de 26/11 09h20 (`REGRAS-DA-NORA.md`, seção 7; `CLAUDE.md`, seção 2); os falados do Insta entre ~120 e ~250 desde 10/11, com o nora75 (695) de exceção, e os cliques e a venda do Face (`METRICAS-NORA-LEIA.md`, 26/11 10h05); o plano das 5 contas (`FATOS-DO-ALUNO.md`, o papo com o th). Nada da conta da Nora (o @, os links, os números do funil).
+
+## RECEBIDO (26/11/2026 10h39; DM da Cassia Y, resposta à de 10h32, enviada pelo aluno igual à sugerida; print às 10h50)
+> já comprei, mas há mtos anos, acho que foi quando ele começou
+> não sei dizer como está agora, já faz uns 4 anos
+> mas se o Gustavo indicou deve estar bom
+
+**Fechamento sugerido (conversa encerrada; conta como enviado):** reagir com 🙏 e, se quiser, uma linha: `valeu cassia!! ajudou demais`. Para a decisão do 2º administrador: `PENDENCIAS-DO-ALUNO.md`, item 9.
