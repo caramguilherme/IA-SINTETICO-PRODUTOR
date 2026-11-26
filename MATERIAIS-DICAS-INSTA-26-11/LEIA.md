@@ -161,3 +161,94 @@
 - **Os palavrões e o "stealing their followers" (n10):** são o jeito da conta dele, não regra.
 - **Os stories de marca pessoal (n04)** (o porquê de uma decisão de trabalho, a rotina com um livro) são para quem vende serviço próprio. A Nora é uma leitora de tarô de IA, e "pílula de conteúdo" na rotina seria inventar a vida dela. Fica só a ideia do print real.
 - **A Sandcastles (n06)** é uma ferramenta paga de garimpo, como o IG Sorter da LegacyTalk. É decisão do aluno; o garimpo hoje é ele mandando os vídeos.
+
+---
+
+# 2º lote: mais 15 vídeos (26/11 ~13h45; lidos inteiros às ~14h)
+**De quem:**
+- Lu Cureau, 2 (m04 e m08, em português);
+- Thi Hernandes, 2 (m06 e m10, em português);
+- Amelia Gonzamonte, 2 (m03 e m13);
+- Rafaela Chagas (m15, em português);
+- Mate Jimenez (m14, em espanhol);
+- Ekko Build (m01), Tear AI Builds (m02), Ronan Bell (m05), Maxim (m07), Austin Georgas (m09), Cassie Schoonover (m11), Reid Branded (m12).
+
+A transcrição está no mesmo arquivo, no "2º lote". Os 15 vieram com som. 4 folhas de quadros estão nesta pasta (`lote2-*.jpg`).
+
+## O que eles ensinam (com o vídeo)
+1. **As mesmas palavras, ditas um pouco depois, de 4 mil para 1,2 milhão** (m07, Maxim).
+   - O vídeo bom abre com uma ação que faz a pessoa imaginar o que vem ("assumed I was going to do something crazy… with the DIY") e só depois dá a lição.
+   - O ruim "started straight with the point… I didn't give people a reason to stay".
+   - "The words were exactly the same. They were just said slightly later" (0:46).
+   - Ele testa as versões pelo app Edits ("add a version"), posta todas como Trial Reels e manda a vencedora para a página.
+2. **Começar pelo conflito, não pelo contexto** (m08, Lu Cureau).
+   - "Se você quer fazer um vídeo flopar, comece pelo contexto: 'hoje eu quero falar sobre…'"; o viral começa pelo conflito.
+   - Mais 4 pares: título forte na tela × nada na tela; geral e depois o exemplo específico × específico demais; edição orgânica e simples × efeito e zoom o tempo todo; gravar com intenção (gancho, roteiro e CTA definidos) × gravar solto.
+3. **O mesmo gancho falado com um visual mais forte: de 10 mil para ~4 milhões** (m13, Amelia).
+   - "I kept the spoken hook the exact same, but I used a more scroll stopping visual".
+   - Menos valor ("too much value… people had to work hard"): "two clear, simple points".
+   - Lacunas de curiosidade a cada ponto.
+   - Antes de mudar, ela olha o gráfico de retenção e acha onde a pessoa sai.
+4. **Os 4 padrões do vídeo viral** (m15, Rafaela Chagas):
+   - (1) o gancho visual antes da fala;
+   - (2) **o movimento na 1ª cena** ("o olho presta atenção no movimento e não em algo estático");
+   - (3) **cada frase num ângulo diferente** ("efeito dopaminérgico");
+   - (4) o título na tela.
+5. **5 estruturas que seguram até o fim** (m04, Lu Cureau):
+   - crença comum → contradição;
+   - problema → consequência → solução;
+   - **duas opções: "escolha uma", e a explicação no fim** ("as pessoas vão até o final para confirmar se estavam certas");
+   - 1º passo → evolução → resultado;
+   - objetivo → obstáculo → superação.
+6. **A fórmula do gancho, em degraus** (m12, Reid Branded): o gancho de valor simples deu 100 views; com a afirmação ousada, 1.003; com afirmação + recompensa, 10,2 mil; com número + recompensa, 108 mil; com credibilidade + número + recompensa, 1 milhão. O exemplo: "I tested 30 hooks and here are the three things that make a killer hook that's impossible to scroll past".
+7. **Ganchos de modelo** (m06, Thi Hernandes):
+   - "Você é X e não faz Y, você tá deixando dinheiro na mesa";
+   - "Ninguém fala, mas eu vou falar";
+   - "Posso te dar um conselho?";
+   - "A melhor coisa que eu X, que melhorou Y, foi Z";
+   - "Isso aqui parece X, mas é Y".
+8. **A lacuna que faz seguir** (m03, Amelia): "Day 41 packing my dad's lunch **until** he rates one a 10/10". A nota segura o vídeo até o fim; o "until" faz a pessoa seguir para ver qual vai ser o 10 ("~15 milhões de views").
+9. **Como achar o viral do nicho** (m10, Thi Hernandes):
+   - no Explorar, pela palavra-chave do nicho;
+   - **o vídeo com 5 vezes mais views que os seguidores do perfil** ("isso significa que o vídeo está viralizado");
+   - transcrever (TurboScribe, grátis);
+   - pedir ao ChatGPT o formato e a estrutura, e adaptar.
+10. **O degrau das views** (m01, Ekko Build):
+    - **abaixo de 1.000 = gancho ruim** ("fix your lighting and say what the video is about in the first sentence");
+    - abaixo de 10 mil = fica chato (valor claro e foco);
+    - abaixo de 100 mil = falta o jeito próprio;
+    - abaixo de 100 = "shadowban", e o conserto dele é 10 min por dia curtindo e comentando.
+11. **O que dá view, seguidor e cliente** (m02, Tear AI Builds, só na tela):
+    - **view:** esquete, opinião forte, som em alta, final satisfatório, texto de gancho, **"send to a friend"**, gancho de curiosidade, pergunta para os comentários;
+    - **seguidor:** dica do nicho, a sua história, **série em partes**, falar para a câmera, visual constante, carrossel para salvar, **bio clara, um post de apresentação fixado, "follow for part 2"**;
+    - **cliente:** bastidor, resultado de cliente, demonstração, dúvidas frequentes, vídeos longos, passo a passo, link na bio, "comment GUIDE", oferta com prazo.
+12. **O algoritmo não é pessoal** (m11, Cassie). O Insta mostra o vídeo para um grupo pequeno: se engajam, empurra; se passam, para ali. Ela postou 2 por dia por 1 ano e perdeu 30 mil seguidores, quase abriu conta nova e foi testar formatos novos; depois cresceu 152 mil em 1 ano. "Starting a new account will not fix bad content."
+13. **Os 10 jeitos de passar pelo detector de duplicado dos Trial Reels** (m05, Ronan Bell): espelhar, 1,1x, trocar a música, trocar a fonte, b-roll, cortar o começo, sobreposição, exportar em outro app, figurinha, brilho.
+14. **TOFU** (m14, Mate Jimenez): 5 temas (problemas, crenças, perguntas, resultados e tendências) com curiosidade e identificação. Os Reels que viralizam vão de novo como Trial Reels; os validados viram vídeo longo; o tráfego vai para os stories e as DMs.
+15. **Volume e cópia de gancho** (m09, Austin Georgas): "If a hook's really working for someone, use it and then put your story on the back end of it"; "The scoreboard is how many videos did I get out".
+
+## O que serve para a Nora (e por quê)
+- **A "1ª frase com o assunto" (Kallaway) e o "comece pelo conflito" (Lu Cureau) não se contradizem:** o assunto vem **dentro de um conflito**, nunca como "today I'm going to talk about…".
+  - Exemplo: "If you keep seeing 11:11, there's something nobody told you about it." diz o assunto (o 11:11) e abre o conflito.
+  - Ajusto a pergunta 5 da checagem do Take 1 para isso.
+- **Abrir com uma ação que faz a pessoa imaginar o que vem, e a explicação um pouco depois** (m07: as mesmas palavras, de 4 mil para 1,2 milhão; m15: o movimento na 1ª cena).
+  - É o formato do ritual dito com o objeto na mão (a canela no copo no nora75, o açúcar na soleira no nora79), que deu as 2 aberturas com o melhor skip recente.
+  - **Entra na checagem do Take 1 como regra de forma:** a Nora fazendo algo com as mãos desde o 1º quadro, nunca parada falando. É o que a sua regra de 17/11 já pedia ("dela fazendo algo e falando, pelo menos no take 1").
+- **O mesmo gancho falado com um visual mais forte** (m13): é um teste A/B de 0 a 1 clipe. Fica na `FILA`, depois do da 2ª frase.
+- **"Duas opções: escolha uma"** (m04) e **a série com o "until"** (m03) entram na `FILA` como formatos de gancho para o Insta.
+  - Exemplo: "11:11 or 2:22, pick the one you keep seeing"; a recompensa é a leitura.
+  - Na série, só com o signo e a data. As cartas ficam fora da fala, pela regra do Gustavo de 03/11.
+- **A fórmula do gancho** (m12): número + recompensa ("3 signs the universe is changing your 2027") **pode**; **a credibilidade inventada, não** ("I've done 10,000 readings" seria número inventado, HONESTIDADE).
+- **Os ganchos de modelo** (m06) vão para o `BANCO-DE-HEADLINES.md`, em inglês e no nicho: "Nobody talks about this, but I will.", "Can I give you some advice before 2027?", "This looks like a coincidence, but it's a sign.".
+- **O critério da mineração** (m10): ao juntar os vídeos para a mineração, **preferir os que têm 5 vezes mais views que os seguidores do perfil** (o "outlier"). Para o aluno, na próxima pasta.
+- **O app Edits para fazer as versões dos Trial Reels** (m07): é o "como" do teste já aprovado. Abrir um projeto, "Add a version", postar as versões como Trial Reels e mandar a vencedora para o feed.
+- **"Abrir conta nova não conserta conteúdo ruim"** (m11) pesa na pergunta ao Gustavo (seguir neste Insta ou abrir outro). É relato de 1 pessoa, mas vai no mesmo sentido da R81 (a conta fica) e da aula 74 (trocar a avatar na mesma conta).
+- **O degrau das views** (m01): a Nora, com ~125, está no "gancho ruim", o mesmo diagnóstico do Robert e do Kallaway.
+- **"Send to a friend" dá view** (m02, só na tela): reforça o teste do pedido de envio aos ~10 s.
+- **O post de apresentação fixado e o "follow for part 2"** (m02) entram na `FILA` para quem chega ao perfil. As visitas são poucas, então fica para depois.
+
+## O que não serve (e por quê)
+- **"Abaixo de 100 views = shadowban; curtir e comentar 10 min por dia"** (m01): a rajada de curtidas e comentários disparou a 2ª verificação facial da Nora (17/11), e o aquecimento antes de postar não precisa (aula 14, 1:43:23). A Nora está acima de 100.
+- **Os 10 jeitos de enganar o detector de duplicado** (m05): na Nora, cada post do Insta é gerado de novo (24/11), e a variação só de edição travou no Face em 4 de 6. Só confirma que o Insta detecta repetição.
+- **"Comente a palavra" para receber o link na DM** (m14, m15): no Insta da Nora não vai direct com link, e no Face é isca.
+- **10 vídeos por dia** (m09): a Nora acabou de subir para 3, decisão do aluno.

@@ -42,6 +42,12 @@
   - **Trial Reels, o "como" (Lara, n06: ~5 por dia, e os que vão bem ela reposta no feed):** 2 ou 3 aberturas do mesmo vídeo como Trial, e a melhor vai para o feed. Espera o aluno achar a opção no Insta da Nora (o teste aprovado em 26/11 09h).
   - **Propostas de regra (no `PENDENCIAS-DO-ALUNO.md`, item 13):** a checagem do Take 1 com mais 2 perguntas (o escrito não repete o falado nem entrega a resposta; a 1ª frase já diz o assunto) e o corpo que segura a resposta até o CTA.
   - **Contradição anotada, sem teste:** "just delete it" (Viewcci, n11) × nunca apagar (aula 35): fica a nossa.
+- **Do 2º lote (15 vídeos, 26/11 ~14h; `MATERIAIS-DICAS-INSTA-26-11/LEIA.md`, "2º lote"):**
+  - **Teste A/B: o mesmo gancho falado, com um visual mais forte** (Amelia, m13: de 10 mil para ~4 milhões com o mesmo gancho falado). A = o T01 como sair; B = a mesma fala com a Nora fazendo uma ação mais forte desde o 1º quadro (o movimento da Rafaela, m15). 0 a 1 clipe. Depois do teste da 2ª frase.
+  - **Formatos de gancho para o Insta:** "duas opções, escolha uma" (Lu Cureau, m04: "11:11 or 2:22, pick the one you keep seeing"; a recompensa é a leitura); a série com o "until" (Amelia, m03, para seguir; só com signo e data, as cartas fora da fala); número + recompensa (Reid, m12; credibilidade inventada fora, HONESTIDADE).
+  - **O post de apresentação fixado no perfil e o "follow for part 2"** (Tear AI Builds, m02): para quem chega ao perfil; depois, quando as visitas subirem.
+  - **Para a mineração (o aluno):** preferir os vídeos com 5 vezes mais views que os seguidores do perfil (Thi Hernandes, m10).
+  - **Trial Reels pelo app Edits** (Maxim, m07): "Add a version", postar as versões como Trial Reels e mandar a vencedora para o feed (o "como" do teste aprovado em 26/11 09h).
 - **O volume do Insta, fechado (26/11 09h20):** 3 por dia, às 17h, 20h30 e 0h00 (decisão do aluno); o teste de 1 por dia do Robert rodou só no nora79 e saiu. O Face fica com 4 (12h, 17h, 20h30 e 0h00).
 - **Fora:** agendar (nada agendado); a automação do GeeLark só no aquecimento das contas novas.
 
