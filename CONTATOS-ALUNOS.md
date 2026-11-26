@@ -1374,3 +1374,14 @@ Cada clipe leva ~1 min; um vídeo de 13 takes, ~15 a 20 min. O que trava a voz: 
 ## RECEBIDO e SUGERIDO (26/11/2026 ~16h35; DM do Pedro⚡)
 **A resposta dele (26/11 11h05) à volta do aluno sobre a bandeira (10h15):** "pior que não passei por isso ainda… depois que 1 vídeo viralizou, eu só fiz mais do mesmo… mesmo vídeo, mesma copy, fui só mudando os cenários". Bate com a decisão do aluno de 26/11 16h00 (as letras + o corpo da maioria, mudando a roupa e o cenário).
 **O texto sugerido (uma mensagem só; conta como enviado, P44):** o mesmo caminho começou hoje: a copy do vídeo que mais foi no Face (4,5 mil; "acho que foi dele que veio minha 1a venda": o Tracker mostra só que a venda veio do Face, e o nora76-FACE é o mais provável), mudando o cenário e a roupa, 3 hoje. A pergunta: quando ele mudava o cenário, gerava o vídeo inteiro de novo ou reaproveitava o corpo e trocava só o começo? Ela decide a dúvida "gerar tudo de novo × reaproveitar" (o nora76 parou em 140 no Insta; ele contou em 17/11 que já repostou o mesmo vídeo 3 vezes, mudando só a edição).
+
+## RECEBIDO e SUGERIDO (26/11/2026 ~16h40; DM do Cardoso.eth)
+**A resposta dele (26/11 10h53) à do aluno (10h49):** "Ainda não subi para o insta. To por enquanto só no face. Mas estou com 4 contas / Duas no manifest e duas no risely / Mas seus vídeos estão muito bons mano / Postando 1 por conta e vendeu / Top demais". O "postando 1 por conta e vendeu" é ambíguo: pode ser ele (1 por conta e já vendeu) ou o aluno (1 conta e vendeu).
+**O texto sugerido (uma mensagem só; conta como enviado, P44):**
+- o agradecimento;
+- "o face ta salvando aqui tb";
+- "4 contas ja é brabo";
+- a pergunta: se ele criou as 4 Páginas no perfil pessoal do Face ou em perfis separados.
+
+A pergunta serve à decisão pendente do perfil e do 2º administrador (`PENDENCIAS-DO-ALUNO.md`, item 9; o plano de 5 contas). Se a venda for dele: acrescentar "parabens pela venda, com 1 por conta ainda".
+**Fato do contato:** o Cardoso.eth roda 4 contas só no Face (2 do Manifestation e 2 do Risely), sem Insta.
