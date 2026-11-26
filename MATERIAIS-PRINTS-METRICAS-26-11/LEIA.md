@@ -83,3 +83,13 @@ Colunas: views · viewers · engajamento · seguidores · impressões · coment�
 - **Público:** 99,2% não seguidores.
 - **Idade:** 13–17 0,8%; 18–24 10,3%; 25–34 20,6%; 35–44 39,7%; 45–54 19,8%; 55–64 7,1%; 65+ 1,6%.
 - **Países:** EUA 36,5%; Canadá 22,2%; Malásia 7,1%; Austrália 4,0%; Emirados Árabes 3,2% (sem Índia no top 5).
+
+## Insights do nora77 no Insta (~38h30; `insta-nora77-273.jpg` a `insta-nora77-277.jpg`)
+- **Resumo:** 126 views, 115 viewers; tempo médio 6 s; 0 follows; skip 63,5%.
+- **A curva:** chegou a ~120 na 1ª hora e subiu devagar até ~126; o típico vai a ~140.
+- **Taxas:** curtida 0,0%, salvamento 0,0%, repost 0,0%, comentário 0,9%.
+- **Retenção (1:29):** cai para ~50% no 1º segundo, ~20% aos ~0:10 e ~5% dos ~0:15 até o fim.
+- **Depois de ver:** **1 visita ao perfil**, 0 follows; 0 curtidas, 1 comentário, 0 reposts, 0 compartilhamentos, 0 salvamentos.
+- **Público:** 3,2% seguidores, 96,8% não seguidores.
+- **Idade:** 13–17 0,8%; 18–24 4,0%; 25–34 23,8%; 35–44 34,9%; 45–54 17,5%; 55–64 12,7%; 65+ 6,3%.
+- **Países:** Reino Unido 20,6%; Irlanda 7,1%; EUA 6,3%; Canadá 6,3%; Alemanha 6,3% (sem Índia no top 5).
