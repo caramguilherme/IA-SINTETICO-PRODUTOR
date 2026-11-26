@@ -18,7 +18,8 @@ B24 = _mod('b2411', 'ferramentas-painel/dia-2411/build_dia_2411.py')
 FB, COMUNS, MODELO, VOZ, VC = B23.FB, B23.COMUNS, B23.MODELO, B23.VOZ, B23.VC
 assert FB.endswith('&aff=dl7zx6ks')
 NN = 'nora79'
-ROSTO = B23.ROSTO
+ROSTO = B23.ROSTO.replace('her face with clean natural skin', 'her face with clean natural skin, her light hazel-green eyes with a golden ring around the pupil '
+                          '(exactly the same eye color in every clip, never brown or dark)')
 ROUPA = 'her plain white ribbed tank top and light-wash wide-leg jeans'
 IMG_REF = B23.IMG_B   # d2311-sofa-IMG-B: a Nora sem a pintura (a referência do rosto)
 FLAG = 'a real American flag in a simple wooden picture frame with glass, about the size of a small poster, hanging on the light kitchen wall behind her, high on the left side, not touching her head'
