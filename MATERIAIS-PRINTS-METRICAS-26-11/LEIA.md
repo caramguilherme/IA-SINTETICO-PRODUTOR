@@ -110,3 +110,9 @@ Colunas: views · viewers · engajamento · seguidores · impressões · coment�
 - **Navegação:** 13 (6 avançar, 5 próximo story, 2 saíram).
 - **Atividade no perfil:** 0 (0 follows, 0 visitas ao perfil).
 - **Toques no adesivo do link e o resto:** 0, pelo aluno.
+
+## Story da cozinha no Insta (`story-cozinha-2611`; postado em 26/11 "01h e pouco"; ~9 h; `story-insta-cozinha-284.jpg`)
+- **O aluno (10h00):** "7 views / 100% seguidores / story postado hoje 26/11 - 01h e pouco (nao lembro ao certo)".
+- **Navegação:** 7 (6 avançar, 1 saiu).
+- **Atividade no perfil:** 0 (0 follows, 0 visitas ao perfil).
+- O toque no adesivo não aparece no print; pela mensagem do aluno sobre o do "gift" ("resto ta tudo 0"), presumo 0 aqui também, a confirmar.
