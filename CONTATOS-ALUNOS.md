@@ -1098,6 +1098,19 @@ e entre uma versão e outra vc dá quanto tempo? posta no mesmo dia ou espaça u
 ```
 **Por que a pergunta:** o intervalo é o que falta para montar o teste. O nora76 (o mesmo corpo do nora75 sem nenhuma variação de edição, ~6 h depois) travou em ~135 no Insta.
 
+## RECEBIDO (25/11/2026 16h13; DM do Caio1094, resposta à pergunta do intervalo; print do aluno em 26/11 10h39)
+> Já testei tudo e ainda não defini um método kkkk
+> Tem uns que postei logo próximo e deu bom / Outros não / Outros dei mais tempo e deu bom
+> Não sei, vejo como tá meu dia de post, se não criei mto novo, daí posto eles
+
+**O que isso responde:** não há intervalo certo; ele usa as versões para completar o dia quando não fez vídeo novo. Nada muda na Nora: no Insta vale o vídeo inteiro gerado de novo (decisão de 24/11 11h10), e as versões do Caio só entram quando um vídeo do Insta for bem (decisão de 25/11 17h20; `FILA`, item 6).
+
+## SUGERIDO (26/11/2026 10h41; DM ao Caio1094, fechamento; conta como enviado, P44)
+```
+entendi, valeu mano!
+quando eu testar aqui te conto como foi
+```
+
 ## SUGERIDO (25/11/2026 01h07; post do aluno no #vitórias-dólar, a 1ª venda; conta como enviado, P44)
 ```
 fiz minha primeira venda no manifestation 🎉
