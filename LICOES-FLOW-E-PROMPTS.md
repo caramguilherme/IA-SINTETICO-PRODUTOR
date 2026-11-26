@@ -782,7 +782,7 @@ No print, o clipe tem uma faixa preta fina na esquerda e na direita (~1% da larg
 - **O conserto:** dentro de cada setinha ("ver o prompt do T02"), o botão "Copiar prompt do T02" com `position:static`, logo acima do texto. Conferido no navegador: um botão por take, com o número do take, e cada um copia o prompt certo. Republicados o nora79 (versão 6) e o nora77-VAR2511-FACE (versão 5), nos mesmos links.
 - **Regra:** mudança de botão ou de layout no `PAINEL-MODELO.html` só sai depois de um print do painel conferido aqui (o `conferir-painel.js` não vê posição).
 
-## 26/11/2026 ~00h40: o nora79 montado com a cor dos olhos e a voz mudando entre os takes (erro meu)
+## 26/11/2026 00h37: o nora79 montado com a cor dos olhos e a voz mudando entre os takes (erro meu)
 - **O que o aluno viu no montado:** os olhos mudam muito de cor de um take para outro, e a voz também muda. O vídeo já estava montado (14 clipes gastos no Muse).
 - **A causa dos olhos:** desde o nora75 (a Nora sem a pintura), a trava do rosto (`ROSTO` do `build_dia_2311.py`) diz só a pele limpa, o cabelo, os brincos e o colar: a cor dos olhos (verde-avelã, `DNA Visual - Nora v2.md`) saiu junto com a pintura. Nos vídeos de 1 imagem só (nora75 a nora78) isso não aparecia; no multi-ângulo são 13 imagens geradas separadas, e o Flow escolheu uma cor em cada. **E eu escolhi as 13 imagens entre as 4 opções de cada take olhando o ângulo e a pose, sem conferir os olhos.**
 - **A causa provável da voz:** o multi-ângulo pede uma mensagem por clipe no Muse, cada uma com a sua imagem; o texto de voz é igual nos 14, mas o Muse gera a voz de novo a cada mensagem. Ainda sem medida (a medir no montado).
