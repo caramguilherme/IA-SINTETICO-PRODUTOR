@@ -60,3 +60,16 @@ Colunas: views · viewers · engajamento · seguidores · impressões · coment�
 - **Horário:** o aluno, às 09h49 de 26/11: "story do face só tenho o da 01h04 postado hoje (26/11)". O Face mostra 01h04; antes estava anotado 01h10 nas 2 redes. Vence às ~01h04 de 27/11 no Face.
 - **Números:** 2 views, 2 viewers; 0 reações, 0 cliques, 0 comentários, 0 compartilhamentos; 0 seguidores novos. O "conteúdo típico" dos stories da Página fica em ~250 nesse tempo, contra 2 neste.
 - O story do "gift" no Face (00h20 de 25/11) já venceu e não aparece mais.
+
+## A grade do perfil do Insta (26/11 ~09h52; `insta-grade-267.jpg`)
+| Reel | Postado | Views na grade |
+|---|---|---|
+| nora79 (a cozinha, regata branca, "It's almost scary...") | 26/11 01h10 | 128 |
+| nora78 (moletom azul-marinho, o corpo leve) | 25/11 00h20 | 126 |
+| nora77 (moletom cinza, o corpo da maioria) | 24/11 19h27 | 126 |
+| nora76 (camiseta preta, as letras do nome + o corpo do nora75) | 24/11 01h15 | 140 |
+| nora75 (camiseta preta, a canela no copo) | 23/11 ~19h00 a 19h15 | 695 |
+| nora74 (o tsunami) | 23/11 10h33 | 25 |
+| nora73 (o carro, as letras) | 20/11 18h15 | 248 |
+| nora72 (o carro, os 3 sinais) | 20/11 01h20 | 143 |
+| nora71 (o alçapão, os 3 sinais) | 19/11 20h00 | 153 |
