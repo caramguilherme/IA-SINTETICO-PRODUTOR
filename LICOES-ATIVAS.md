@@ -102,6 +102,7 @@
 7. **O custo**, pelos prints de 19 e 21/11: ~2,6% do grátis da semana por clipe (o grátis renova toda quarta) e o bilhão rende ~385 clipes. É estimativa: o saldo exato está na tela de Utilização do Muse, e eu não pergunto o saldo.
 8. **O clipe sai inteiro (~10 s)**, com suspiro e movimento depois da fala. Quem corta sou eu, pelas palavras. A sensibilidade da FusionZ não sobe. (19/11 01h20)
 9. **O tamanho:** 672×1216 ou 704×1232, que não é 9:16 exato. A borda preta que aparece no quadro 9:16, eu tiro na edição com um zoom de 2 a 3%. (23/11 19h00)
+10. **Clipe sem fala com a pessoa entrando ou saindo de cena: o 1º quadro pode pular.** No `noracurto2611`, o 1º quadro era a imagem (a Nora no meio-esquerda), no 3º ela sumiu, o jardim ficou vazio até 0,75 s, e ela entrou pela esquerda. O Muse usa a imagem como 1º quadro e depois recomeça a cena como o prompt descreve. Eu confiro quadro a quadro o 1º segundo de todo clipe sem fala e corto o pulo na edição; só peço de novo se o pulo cair no trecho que o vídeo usa. (26/11 19h17)
 
 ## 6. A Central do curso (Creative Hub)
 1. **Usada no corpo inteiro com 1 imagem:** as colagens (fala + movimentação) → "COPIAR TUDO JUNTO" → o aviso do Muse antes do bloco → o Muse, em lotes de 6. (18/11 11h57)

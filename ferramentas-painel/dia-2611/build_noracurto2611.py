@@ -122,7 +122,7 @@ def montar():
                  'prompt': MUSE}],
         },
         'edicao_linha': [
-            {'quando': '1. CapCut', 'texto': 'Projeto novo com o ' + CLIPE, 'como': 'Sem cortar nada (eu acelero, faço ela ir e voltar e emendo o fim no começo).'},
+            {'quando': '1. CapCut', 'texto': 'Projeto novo com o ' + CLIPE, 'como': 'Sem cortar nada. Eu corto o começo (no clipe que saiu, o 1º quadro mostra ela no meio e no 3º ela some: o Muse usa a imagem como 1º quadro e depois recomeça a cena), acelero e emendo a saída dela pela direita com a entrada pela esquerda, para o vídeo dar a volta sem pulo.'},
             {'quando': '2. Música', 'texto': 'A música de sempre (“Ambient Mystical Drone”), do segundo 0 ao fim, −12 dB', 'como': 'Não tem fala: a música pode ficar mais alta que nos falados.'},
             {'quando': '3. Exportar e me mandar até ~22h30', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
              'como': '1080×1920, nome ' + NOME + '-montado. Eu ponho o pontilhado, o texto do topo, a mensagem dos quadros certos e a seta, e devolvo o ' + NOME + '-final em ~20 min.'}],
