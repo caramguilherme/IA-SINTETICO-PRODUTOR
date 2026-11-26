@@ -2,7 +2,7 @@
 
 O "Clone do Gustavo" é o NotebookLM com 31 fontes das aulas do MVM (lista e link em `PLANO-MVM-LEGACY-APPYON.md`, Aulas e links; o link usado desde 07/11 é https://notebook.google.com/notebook/de49b1a0-52fb-4110-a158-6d5ab59a53a1). Ele só abre com o login do aluno: eu escrevo a pergunta, o aluno faz no notebook e cola a resposta aqui. **O próprio notebook avisa que pode errar**, e parte das aulas é antiga (do Soulmate e de setembro): cada resposta vem com o que vale para a Nora, conferido contra as regras mais novas (`CLAUDE.md` seção 2, P42, Iorhan de 30/10 a 06/11, avisos oficiais). Quando a aula antiga bate de frente com uma regra mais nova ou com prova da comunidade, vale a mais nova.
 
-Leitura: obrigatória em roteiro novo e na montagem do `PLAYBOOK-COPY-MANIFESTATION.md`.
+**Desde 26/11/2026, a leitura fixa é a versão de leitura `CLONE-ATIVO.md` (só o que vale hoje, por assunto); este arquivo é o histórico completo, consultado pelo número da resposta. Toda resposta nova entra aqui inteira e lá em 1 linha, depois de conferida.** Leitura: obrigatória em roteiro novo e na montagem do `PLAYBOOK-COPY-MANIFESTATION.md`.
 
 ---
 

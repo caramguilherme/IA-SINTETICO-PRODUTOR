@@ -100,3 +100,4 @@ Os documentos de origem do Manual e do pet (`Prompts.txt`, `CHECKLIST-DE-PRODUCA
 - **`arquivo/MIDIA-REMOVIDA-26-11.md` (26/11):** os 31 vídeos tirados do repositório (~224 MB), com o caminho e o comando para trazer de volta pelo histórico do git.
 - **`MATERIAIS-NORA-V3/` (26/11 09h25):** a Nora v3 (sem a pintura, olhos castanhos), o blueprint novo que vai anexado em toda imagem nova da Nora; `LEIA.md` com a descrição e o que mudou.
 - **`LICOES-ATIVAS.md` (26/11 ~09h40):** a versão de leitura das lições (só o que vale hoje, com a data de cada uma), leitura fixa e inteira antes de todo roteiro, prompt e painel. O `LICOES-FLOW-E-PROMPTS.md` fica como histórico completo.
+- **`CLONE-ATIVO.md` (26/11 ~10h):** a versão de leitura do Clone (o que vale hoje das R1 a R95, por assunto, com a aula e o minuto), leitura fixa e inteira. O `CLONE-DO-GUSTAVO-RESPOSTAS.md` fica como histórico completo.
