@@ -526,3 +526,8 @@
 - **Onde:** só no Insta (a única Página fica fora até a leitura; a regra oficial pode ter motivo de política que não sabemos).
 - **A medida não são as views:** os cliques no Tracker, o quiz começado e, principalmente, o checkout e a venda por clique (quem chega esperando "free" pode largar no US$ 19). Com ~3 cliques por dia, a leitura do checkout pede vários dias; o 1º sinal é o clique por 1.000 views.
 - **Quando:** decisão do aluno (1 teste por dia; hoje é dia do pacote, sem teste).
+
+## 27/11/2026 ~14h12: das aulas de copy do Kobata (Missão 3; `AULAS-COPY-KOBATA-MISSAO-3.md`)
+- **[Teste, sem data] A frase "de pessoa comum"** (aula 3, 11:13 a 11:57: "tem que colocar uma coisinha ou outra ali que parece uma pessoa comum falando"): A = o corpo da maioria como está; B = uma frase mais solta, de gente falando ("Honestly, I almost didn't post this."), no lugar de uma frase certinha, num ponto só (depois da 2ª frase ou antes do CTA). Muda só essa frase. Medida: a retenção naquele ponto e as visitas ao perfil.
+- **[Reforço] A promessa forte × a leve** (aula 2, 7:26): o item de 23/11 14h00, com o reforço de 27/11.
+- **A busca da palavra arriscada** (aula 1, 3:22): antes de pôr uma palavra nova e arriscada na fala, procurar por ela na busca do Insta (pelo celular do GeeLark, sem curtir nem seguir) e ver se os vídeos que a usam têm views.

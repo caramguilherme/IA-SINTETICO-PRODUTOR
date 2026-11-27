@@ -310,3 +310,314 @@ Na tela: o Kobata falando, com textos da edição ("ÚNICO" ~2:10, "SITE BOM" ~7
 [0:11:39] A sua venda, no caso, está feita, entende?
 [0:11:41] Mas sobre a audiência, que é um pilar muito importante,
 [0:11:44] a gente vai falar agora na próxima aula. Bora lá!
+
+## Aula 3: Audiência (14:32; embed v=a534d30c-7cd9-4c91-b802-51414d455611)
+
+Na tela: o Kobata falando (o mesmo cenário das aulas 1 e 2).
+
+[0:00:04] Bom pessoal, vamos lá então falar um pouco sobre audiência, né? Como eu falei na aula
+[0:00:09] anterior, a audiência pode alavancar muitas suas vendas ou pode arruinar todas as suas
+[0:00:15] vendas. É a grande diferença entre você não vender ou vender 50 dólares ou vender
+[0:00:20] 5 mil dólares. Pode estar na sua audiência com quem você se comunicou no seu vídeo,
+[0:00:25] no seu canteudo, tá? Isso tanto no marketing inteiro quanto principalmente dentro do
+[0:00:30] TikTok Shop. Então o que a gente precisa entender? Primeiro você tem que saber
+[0:00:33] o tipo de pessoa que você quer atrair. Lembrando que a gente não quer só
+[0:00:37] viralizar o vídeo, a gente quer vender. Então nós temos que atrair pessoas que
+[0:00:42] têm poder de compra, pessoas que querem comprar de você, pessoas que querem
+[0:00:45] o produto, que querem buscar, que já estão buscando uma solução, tá? Então o que
+[0:00:51] vocês tem que se perguntar é quem é o tipo de pessoa que vai querer o seu
+[0:00:54] produto, tá? Depois que você escolheu o produto, você tem que se perguntar
+[0:00:57] quais são os tipos de pessoa, que são as pessoas que podem estar desejando,
+[0:01:01] que podem comprar esse produto de você. Quais são os sentimentos e as emoções
+[0:01:06] e os benefícios que você tem que explorar nessa pessoa, que você tem que desencadear,
+[0:01:12] que você tem que fazê-la sentir para que ela depois queira comprar e pedir o
+[0:01:16] produto para você. Isso é muito importante a nível micro, né? Em detalhes de como você
+[0:01:21] fala, de como você expressa os sentimentos, as situações, como também de
+[0:01:26] maneira mais macro. Então vou dar um exemplo bem exagerado aqui, né? Imagina
+[0:01:30] o produto para a pele. Vai acabar com rugas, esse tipo de coisa. Você não vai fazer o vídeo
+[0:01:34] falando, né, aí, brother? Por que esse produto? Esse produto é feminino. Isso é um
+[0:01:38] exemplo esdruxulo, tá? É um exemplo absurdo para você entender. Só que você tem que
+[0:01:42] ir detalhando isso mais. Então a mulher que ela quer comprar de mim, qual
+[0:01:45] tipo de conteúdo que ela consome? É uma voz feminina, é um vídeo mais
+[0:01:49] delicado, as cores são mais delicadas, as cores são mais sutis, o ambiente
+[0:01:55] é mais bonito, digamos assim, né? Diferente, completamente diferente de um
+[0:01:59] homem, entendeu? Mas a sua mulher em específico para um produto de
+[0:02:03] antidade, né? De rugas. Quais são as vi, qual é a vida dela? O que ela consome? Qual
+[0:02:08] tipo de conteúdo? Como é o design disso? O tom de voz? O som de fundo? Uma
+[0:02:13] musiquinha mais calma? Esse tipo de coisa. Então você vai fazer esse estudo e
+[0:02:16] você tem que pensar nisso antes de produzir os seus conteúdos. Ai, cobatas, mas eu não
+[0:02:21] tenho certeza se eu acertei. Tudo bem, você vai testando. Esse é o bom
+[0:02:24] do TikTok Shop que você não paga por isso. Para quem roda anúncio, você tem
+[0:02:28] que fazer a mesma coisa, só que você vai gastar seu dinheiro para testar. Você pega,
+[0:02:31] produz o seu conteúdo e paga para testar. Se não, dá certo, você perdeu esse
+[0:02:35] dinheiro. No TikTok Shop, se não, dá certo, você só faz outro e testa de outro
+[0:02:39] jeito, de graça também. Tá, agora um tipo de público que a gente tem que
+[0:02:42] tomar muito cuidado para não atingir, que nós não queremos atingir. E
+[0:02:45] lembra, se o TikTok Shop, se o TikTok identificar que o seu... que esse
+[0:02:49] público está sendo engajando com o seu vídeo, ele vai começar a mostrar
+[0:02:53] mais ainda para esse público. Por isso que é tão importante você definir
+[0:02:56] muito bem a audiência que você quer atingir com cada conteúdo. Beleza? Porque
+[0:02:59] quando o TikTok Shop, quando o TikTok entender qual é a audiência, ele vai
+[0:03:03] começar a mandar mais para essa audiência. Se for a audiência errada, ele vai ficar
+[0:03:05] mandando seu vídeo para a audiência errada. O público que nós não queremos
+[0:03:08] atingir de jeito nenhum são as crianças, porque as crianças não tem
+[0:03:10] cartão de crédito. E a criança não vai chegar lá na mãe, no pai, fala
+[0:03:13] mãe, compra isso aqui que alguém e tal, e o pai vai comprar. Não vai. Ainda
+[0:03:16] mais, no nosso caso, que são suplementos. Então tem que tomar muito
+[0:03:19] cuidado com a comunicação e etc. Os nossos produtos, a faixa etária que
+[0:03:23] a gente mais busca acertar é dos 25 para cima, 35 para cima. Por quê? São
+[0:03:28] pessoas que têm dinheiro, já trabalham, já têm a vida ativa, são adultos,
+[0:03:32] tem cartão e etc. E elas estão nas redes sociais e tem muitos
+[0:03:37] problemas. Todos nós aqui temos problemas, né? Todos nós aqui
+[0:03:40] temos alguma coisa que a gente queria melhorar, a questão de saúde,
+[0:03:43] questão estética, questão de cabelo, questão de performance. A gente sempre
+[0:03:46] tem alguma coisa para melhorar. Essas pessoas acima dos 25, 22 anos, até
+[0:03:50] uns 35 mais, têm acesso ao dinheiro e têm esses problemas, então é
+[0:03:54] perfeito, é uma audiência perfeita para nós que temos os produtos.
+[0:03:57] Então como fazer para evitar que o meu vídeo seja entregue, por exemplo,
+[0:04:01] para as crianças? Para um público desqualificado. Primeira coisa, o
+[0:04:04] vídeo, as pessoas mais adultas, nós nos interessamos por
+[0:04:08] conteúdo. A criança se interessa por estímulo. Então se você ficar
+[0:04:12] fazendo vídeos com muita dopamina, estímulo, estímulo, estímulo,
+[0:04:15] estímulo, isso atrai muita atenção de criança, tá? Nós, adultos,
+[0:04:18] não tanto. Então evitar esses vídeos com muito estímulo, com
+[0:04:22] muita dopamina, sim, inserção e coisa, e o texto, e letra, e
+[0:04:28] aparece na tela, porque criança que se atrai muito com essa
+[0:04:30] coisa de cores e variedades, tá bom? Para nós, nós adultos,
+[0:04:33] o que mais importa ali é a questão do conteúdo. Outra
+[0:04:36] coisa, uma linguagem muito infantil, com piadinha e
+[0:04:39] etc. Essas coisas também não é o caso. O vídeo, né? O
+[0:04:42] conteúdo tem que parecer um adulto, o seu público geralmente,
+[0:04:46] né? Uma pessoa parecida com o seu público ou do ciclo social
+[0:04:49] do seu público e fazendo uma indicação. Não é para fazer
+[0:04:52] piadinha, não é para fazer um vídeo rápido, curto, com
+[0:04:55] um monte de besteirinha na tela só para viralizar, beleza? Ai
+[0:04:57] combate, eu achei esse vídeo aqui do carrinho fazendo assim,
+[0:05:00] assim, assado e viralizou, tá bom? Mas viralizou, não quer
+[0:05:03] dizer que vendeu, tá bom? Nós temos que tirar essa
+[0:05:06] ideia só da viralização e focar na venda, beleza? E
+[0:05:09] para a venda, a gente tem que atingir essa audiência
+[0:05:11] específico, tá? Beleza, agora vamos entender um pouquinho
+[0:05:14] sobre como fazer o que é o cogito certo para a gente se
+[0:05:18] comunicar com o potencial cliente. Para isso, eu queria
+[0:05:21] ensinar para vocês conversar com vocês um pouco sobre níveis
+[0:05:24] de consciência, tá? Níveis de consciência. É um pouco
+[0:05:28] mais teórico isso aqui, mas é muito legal aprender isso,
+[0:05:30] porque quando você entende isso, você começa a olhar
+[0:05:32] para as pessoas com olhares diferentes. Eu vou explicar
+[0:05:34] aqui e você vai conseguir lembrar de amigos ou até
+[0:05:37] você mesmo se colocar numa situação que você vai
+[0:05:38] perceber o seu nível de consciência, tá? Então, o que é
+[0:05:41] o nível de consciência? Nos Estados Unidos, existem
+[0:05:43] trezentos milhões de pessoas, trezentas milhões de pessoas
+[0:05:46] querendo comprar. Eles são taxonidores assim ó, viciados
+[0:05:49] em comprar, em passar o cartão. Só que cada um deles tem
+[0:05:52] um nível de consciência diferente sobre as coisas.
+[0:05:54] Mesmo pessoas parecidas. Como assim nível de consciência,
+[0:05:57] cobata? Vamos lá. Imagina que deixa eu pegar um exemplo
+[0:06:00] aqui. Imagina o cara que tá perdendo o cabelo, acho
+[0:06:03] que, acho que essa é mais simples, tá? O nível um de
+[0:06:05] consciência é o cara que tá inconsciente. Ele tá
+[0:06:08] inconsciente até mesmo do problema. Então, apareceu as
+[0:06:12] entradas ali e tal, mas ele nem... O chum. Ele nem percebeu,
+[0:06:16] sabe? Ele só... Só foi assim, sabe? Tipo, ah, beleza.
+[0:06:20] Ele comodou ele, né? Ele não viu que aquilo era um
+[0:06:23] problema ainda. Esse é o nível um. É a pessoa que ela
+[0:06:25] ainda nem sabe que ela tem um problema, tá? O nível dois
+[0:06:28] de consciência é a pessoa que ela é consciente do
+[0:06:30] problema. Então, ela já sabe que aquilo ali é um
+[0:06:35] problema pra ela. Ela já sente uma dor com aquilo ali.
+[0:06:38] Então, ele já não é um cara que ele olha assim, vê as
+[0:06:41] entradas e nem percebe assim. Tipo, passa batido por ele que
+[0:06:43] ele não se incomoda. Agora, esse cara, ele já se incomoda
+[0:06:45] com aquelas entradas. Ele olha o cabelo e aí ele já
+[0:06:48] tenta tampar, bota um boné, aquilo incomoda ele. Então,
+[0:06:52] ele é o nível dois. Ele está consciente do problema
+[0:06:55] que ele tem, tá? O nível três é a pessoa que é
+[0:06:58] consciente da solução. A pessoa que é consciente da
+[0:07:01] solução é aquela pessoa que ela já sabe até mesmo por que
+[0:07:04] que é que é a queda de cabelo. Então, é o cara que ele fala
+[0:07:06] assim, cara, ah, ele me incomoda e tal, eu tô, o meu
+[0:07:10] cabelo tá caindo, mas é é por causa da minha genética.
+[0:07:13] Ou então, é porque eu tomei hormônio pra academia e
+[0:07:16] perdi o cabelo. Então, ele já sabe até mesmo a solução.
+[0:07:19] Ele já sabe até mesmo, é, com, ah, então, se você,
+[0:07:23] ele já viu, ele já procurou soluções, sabe? Tipo,
+[0:07:26] ele foi no Google, já pesquisou. Cara, tomei hormônios e o
+[0:07:29] meu cabelo caiu. O que fazer? Então, ele já já descobriu
+[0:07:32] receita, já descobriu eh fórmulas e etc, que ajudasse ele
+[0:07:37] que seria uma possível solução pro problema dele. Então,
+[0:07:40] esse cara, ele tá no nível três de consciência que é o
+[0:07:43] consciente da solução, tá bom? O nível quatro é o
+[0:07:48] consciente do produto. Ele já experimentou o minoxidinho,
+[0:07:52] ele já fez tratamento, a gente está dando um exemplo da
+[0:07:55] do cara de calvícia, mas vamos pensar numa mulher que quer
+[0:07:57] emagrecer, que já tentou diversas receitas, então ela
+[0:08:00] gera consciente da solução, depois ela comprou remédio pra
+[0:08:04] emagrecer, então ela gera consciência de produto. Ela
+[0:08:06] já sabe que existe um produto que pode tratar aquela dor
+[0:08:09] dela, tá? E por fim, são, é o nível cinco os mais
+[0:08:13] conscientes que eles já testaram um número a soluções e
+[0:08:16] nada dá certo. E essa pessoa, ela já tá até meio
+[0:08:19] cansada de receber oferta, sabe? Ela já tá até meio
+[0:08:21] saturada de falar, cara, não vai dar certo. Isso aqui
+[0:08:25] não vai dar certo, ela começa a ficar cética, beleza?
+[0:08:27] Esses são os cinco níveis de consciência, tá? E a
+[0:08:30] comunicação que a gente vai usar vai atingir determinado
+[0:08:33] nível de consciência. Como nós estamos no TikTok Shop e a
+[0:08:36] nossa ideia é fazer um vídeo mais rápido, né? É um vídeo
+[0:08:40] dentro do TikTok não é uma propaganda longa, uma venda
+[0:08:43] de uma hora, de duas horas e etc. Então a gente faz um
+[0:08:46] vídeo e a gente já apresenta o produto, a gente tem que
+[0:08:49] buscar, nós vamos buscar ali pessoas entre o nível dois
+[0:08:52] e o nível quatro. Então são as pessoas que já sabem que tem
+[0:08:56] um problema, tá? Porque se ela já sabe que ela tem um
+[0:08:59] problema, é obviamente mais fácil dela comprar, né? Uma
+[0:09:02] pessoa que ela nem sabe que tem um problema, você tem que
+[0:09:03] primeiro mostrar pra ela que o problema existe. Isso demora,
+[0:09:06] né? Uma propaganda mais demorada. No nosso caso, nós
+[0:09:10] temos que fazer uma comunicação para pessoas que
+[0:09:12] já sabem que tem um problema, pessoas que já sabem que
+[0:09:14] existe uma solução ou até mesmo pessoas que já sabem
+[0:09:16] que existem produtos que tratam isso. Por que? Porque
+[0:09:18] esses três tipos de nível de consciência a gente vai
+[0:09:20] conseguir. Se ela já sabe do problema, a gente consegue
+[0:09:23] botar o dedo na ferida dela, fazer ela sentir que esse
+[0:09:25] problema dela realmente machuca ela, realmente interfere
+[0:09:27] na vida dela. Se ela já sabe da solução, já sabe que
+[0:09:30] existem soluções, a gente pode só apresentar uma nova
+[0:09:33] solução. Ou a gente pode desclasificar as outras
+[0:09:35] soluções. Por que que as outras soluções não funcionam? E
+[0:09:37] se ela já é consciente do produto, ela é muito
+[0:09:39] fácil de comprar. Provavelmente essa pessoa já comprou
+[0:09:41] com ela compra produto pra isso. Tipo, porra, testei
+[0:09:44] o meu oxigio não deu certo. Vou testar isso aqui,
+[0:09:45] vou testar aquilo ali. Quando o seu vídeo aparecer
+[0:09:47] pra ela, ela vai comprar. Porque pra ela tá testando
+[0:09:49] de novo. Ela quer solucionar aquele problema. Então,
+[0:09:52] nós vamos focar principalmente nesses três nesses três
+[0:09:56] níveis de consciência e como nós estamos vendendo
+[0:09:58] suplementos alimentares, a gente vai trabalhar de uma forma
+[0:10:01] mais emocional, tá? Porque o nosso produto não é muito
+[0:10:04] chamativo, então nós temos que trabalhar a emoção
+[0:10:06] da pessoa. Lembrando que pessoas compram por emoção.
+[0:10:08] Elas não queriam por razão, tá bom? As pessoas
+[0:10:11] compram pra satisfazer uma emoção dela, como ela
+[0:10:14] se sente, como ela tava se sentindo, principalmente
+[0:10:16] no suplemento, tá? Então a gente tem que lembrar
+[0:10:19] ela das dores, dos momentos em que ela passa, do que
+[0:10:23] ela passou e que ela passa com essa dor, pra que o
+[0:10:25] nosso produto seja a solução e ela compre ali na hora.
+[0:10:28] Tá bom, agora por último, nesse módulo, nessa
+[0:10:30] aula de audiência, novamente, batendo nessa tecla,
+[0:10:33] nós temos que entender que é muito importante que o
+[0:10:36] seu vídeo não pareça uma venda. Ele tem que
+[0:10:38] parecer um orgânico, ele tem que parecer um conteúdo
+[0:10:40] que a pessoa assistiria ali no TikTok dela normalmente
+[0:10:43] e no final a gente faz a indicação do produto,
+[0:10:46] tá? Isso tem que estar enraizado na sua cabeça,
+[0:10:48] você tem que entender a todo momento que esse vídeo
+[0:10:51] não pode parecer uma venda, que a pessoa não tá sendo
+[0:10:54] empurrada a comprar o seu produto. Como que a gente vai
+[0:10:56] fazer isso? Bom, aqui tem algumas dicas pra vocês,
+[0:10:58] tá? Primeira delas, pessoas compram de pessoas, tá?
+[0:11:02] Então, o que eu quero dizer com isso? Não adianta
+[0:11:05] se você gerar um afastamento entre você,
+[0:11:09] entre o seu conteúdo e o seu cliente, ele não
+[0:11:11] vai comprar, tá? Ele tá comprando por uma
+[0:11:13] indicação. Então, uma das coisas que você pode
+[0:11:16] usar, por exemplo, é uma linguagem natural. Você tem
+[0:11:18] que usar uma linguagem como essa que eu tô falando com
+[0:11:19] você. Imagina que eu tô aqui nessa aula falando com
+[0:11:21] vocês, mas na verdade eu falasse parecendo um
+[0:11:23] jornalista, sabe? Bom, pessoal, hoje nós iremos
+[0:11:27] aprender sobre como funciona, isso não vai dar
+[0:11:31] certo com vocês, porque vocês são em
+[0:11:33] audiência e não adianta eu querer falar desse jeito
+[0:11:36] com vocês, não gera conexão. Então, quando
+[0:11:38] você vai fazer um vídeo no TikTok, as pessoas
+[0:11:39] no TikTok elas falam naturalmente, são
+[0:11:41] pessoas comuns gravando vídeos. Então, a sua
+[0:11:43] linguagem tem que estar assim, não coloque
+[0:11:45] palavras difíceis pra parecer mais inteligente,
+[0:11:48] as coisas escritas assim perfeitamente, sabe?
+[0:11:51] Tem que colocar uma coisinha ou outra ali que
+[0:11:53] parece uma pessoa comum falando, beleza?
+[0:11:57] Outro ponto, o seu vídeo tem que parecer
+[0:11:59] autêntico, tem que parecer que foi
+[0:12:00] natural de você gravar. Então, não adianta
+[0:12:04] você querer colocar puta cenário, etc.
+[0:12:06] Aqui eu gosto desse cenário, eu tenho que
+[0:12:08] ter esse cenário porque eu quero trazer
+[0:12:10] uma aula com qualidade, né? Aquele
+[0:12:11] que a ideia não é vender, aqui a ideia
+[0:12:13] traz é qualidade pra vocês de som, de
+[0:12:14] imagem, etc. Mas no TikTok, como a sua
+[0:12:17] ideia vai ser vender, tem que ser o mínimo
+[0:12:19] editado possível, né? Não parecer que
+[0:12:21] você produziu aquilo, porque uma produção
+[0:12:23] vai parecer uma venda no TikTok. Se a
+[0:12:25] pessoa ver um vídeo produzido lá no
+[0:12:27] TikTok, etc. Ela já associa que aquilo
+[0:12:29] é uma empresa, entende? Está muito bem
+[0:12:31] produzido, sendo que nós queremos que
+[0:12:33] pareça uma indicação com o seu
+[0:12:35] f... como se fosse você, um americano
+[0:12:37] comum na sua casa falando para seus
+[0:12:39] seguidores. Pessoal, experimentei isso
+[0:12:41] e tal, se aconteceu isso e
+[0:12:42] aconteceu aquilo, entendeu? É um vídeo
+[0:12:44] nativo, então não pode ter muita
+[0:12:46] edição. Outra coisa, o seu vídeo, ele
+[0:12:48] tem que se misturar na timeline no
+[0:12:50] feed com os outros vídeos. Ou seja, não
+[0:12:53] adianta se todo... vamos supor que o
+[0:12:55] seu público, a sua audiência, ela assiste
+[0:12:57] muito o vídeo de receita. Aí você vai
+[0:12:59] e coloca um vídeo de carro falando de
+[0:13:01] um produto. Não faz sentido,
+[0:13:02] entende? Você tem que olhar o que
+[0:13:04] que a sua audiência consome, quais os
+[0:13:06] tipos de conteúdo, como eles são
+[0:13:07] apresentados, os cenários, as cores,
+[0:13:09] os materiais e buscar imagens parecidas
+[0:13:11] e buscar conteúdos parecidos para ele
+[0:13:13] se misturar e a pessoa achar que é um
+[0:13:15] conteúdo que ela acharia e no final vai
+[0:13:17] ter a sua indicação para o produto.
+[0:13:19] Outra coisa que você tem que ter
+[0:13:21] atenção e que seria muito bom é ter um
+[0:13:23] rosto no seu conteúdo, ter um rosto no
+[0:13:25] seu vídeo. Se você quiser colocar o
+[0:13:26] seu rosto mesmo que você não fale
+[0:13:28] ou que você dê um jeito de falar
+[0:13:30] inglês, que você use alguma edição
+[0:13:32] enfim, que tenha um rosto porque
+[0:13:34] isso traz credibilidade, traz
+[0:13:36] autoridade. Se você não... se você quiser
+[0:13:37] aparecer, é bom, eu recomendo. Se você
+[0:13:39] não quiser, tudo bem, você pode usar
+[0:13:41] inteligente artificial, pode usar
+[0:13:43] ferramenta, edição ou até mesmo não usar,
+[0:13:45] mas eu recomendo porque dá muito mais
+[0:13:48] credibilidade, beleza? Então essa aula
+[0:13:51] foi sobre a audiência, sobre como a
+[0:13:52] gente impacta essa audiência, como a
+[0:13:54] gente tem que se programar para
+[0:13:56] atingir ela da maneira certa, atingir
+[0:13:57] as pessoas certas para a gente
+[0:13:59] entender que existe um... um
+[0:14:02] pessoa por trás da compra, tá? Quando a
+[0:14:04] gente pensa na venda, a gente tem
+[0:14:05] que lembrar que existe uma pessoa
+[0:14:06] comprando e nós precisamos gerar
+[0:14:08] conexão com essa pessoa e a maneira de
+[0:14:10] fazer isso é acertando a pessoa correta,
+[0:14:12] é você usando uma comunicação certa,
+[0:14:14] usando a edição, o cenário, as imagens
+[0:14:16] congruentes com aquela pessoa assiste,
+[0:14:18] tá? Usando uma linguagem congruente
+[0:14:20] com o que ela já ouve, tá? E principal de
+[0:14:23] tudo, sempre parecendo um conteúdo
+[0:14:25] orgânico, uma indicação e não uma
+[0:14:27] venda, beleza? Bora para a próxima aula então pessoal!

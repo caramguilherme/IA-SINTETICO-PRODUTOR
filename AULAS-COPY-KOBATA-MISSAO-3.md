@@ -10,7 +10,7 @@
 |---|---|---|
 | 1. Entendendo o algoritmo | 7:52 | lida (27/11 13h50) |
 | 2. Os pilares da conversão | 11:49 | lida (27/11 13h55) |
-| 3. Audiência | | falta o link |
+| 3. Audiência | 14:32 | lida (27/11 14h12) |
 | 4. Personas | | falta o link |
 | 5. AIDA | | falta o link |
 | 6. Ganchos | | falta o link |
@@ -85,3 +85,45 @@
 
 ### Muda o pacote de hoje (nora82 a nora84)?
 **Não.** O contexto e o CTA indireto já estão no pacote. A promessa forte contradiz o pilar da confiança, mas vira teste e não troca de palavra hoje, porque é ela que está no vídeo que funcionou.
+
+---
+
+## Aula 3: Audiência (14:32)
+
+### O que serve
+- **"A gente não quer só viralizar o vídeo, a gente quer vender"** (0:33 a 0:45): atrair quem tem poder de compra e já busca uma solução. **"Viralizou, não quer dizer que vendeu"** (4:57 a 5:09).
+
+  **Na Nora:** a régua final segue o clique e a venda no Tracker, não as views. O nora81 com 1.352 views no Insta ainda precisa mostrar visita ao perfil e clique.
+- **Quem não atingir** (3:05 a 4:30): o público errado, que não compra. O exemplo dele são as crianças. **"Se você ficar fazendo vídeos com muita dopamina, estímulo, estímulo… texto e letra aparecendo na tela… isso atrai muita atenção de criança… Nós, adultos… o que mais importa é o conteúdo"** (4:04 a 4:33). Também fora: a linguagem infantil e a "piadinha".
+
+  **Na Nora:** o estilo "simples" de 18/11 (a caixa só no gancho, a legenda simples, a tela limpa até o CTA) já vai nessa direção. A edição dopaminérgica das aulas 12 e 14 do Gustavo vai contra. Ela rodou no nora66 e não voltou, então fica como está.
+- **Os 5 níveis de consciência** (5:21 a 8:27):
+  1. inconsciente do problema;
+  2. consciente do problema;
+  3. consciente da solução;
+  4. consciente do produto;
+  5. os mais conscientes, que já testaram tudo e ficaram céticos.
+
+  **Num vídeo curto, mirar do 2 ao 4** (8:49 a 9:56): "botar o dedo na ferida", apresentar uma solução nova ou dizer por que as outras não funcionam. **"Pessoas compram por emoção"** (10:06 a 10:28): lembrar as dores e os momentos que ela passa.
+
+  **Na Nora:** o corpo da maioria fala com o nível 3 e 4 ("The universe saw your faith": ela já acredita em sinais e em manifestação), e as letras e a mulher deitada qualificam. A dor que a pesquisa oficial dá (a decisão travada, o "entre o que tem e o que quer") é o "dedo na ferida". Ela já está na fila como a 2ª frase de validação (Clone R48), contra a 2ª frase como pico (o teste de 02/12).
+- **Não parecer venda, de novo** (10:28 a 13:17):
+  - **"pessoas compram de pessoas"**;
+  - a linguagem natural, de pessoa comum ("não coloque palavras difíceis… as coisas escritas assim perfeitamente… tem que colocar uma coisinha ou outra ali que parece uma pessoa comum falando"; 11:13 a 11:57);
+  - **o vídeo autêntico, "o mínimo editado possível"** ("uma produção vai parecer uma venda"; 11:57 a 12:46);
+  - **"se misturar na timeline"**, com os cenários, as cores e os materiais do que a audiência já consome (12:46 a 13:19);
+  - **um rosto no vídeo**, que dá "credibilidade, autoridade", e pode ser feito com IA (13:19 a 13:48).
+
+  **Na Nora:** tudo isso já é regra:
+  - o vídeo de celular em casa, com a avatar menos "mística" (mentoria de 23/11);
+  - a receita da maioria (a mineração), que é o "se misturar na timeline";
+  - a Nora de frente, falando desde o 1º quadro.
+
+  O "uma coisinha ou outra que parece uma pessoa comum falando" pode virar teste de fala: uma frase mais solta, como "honestly, I almost didn't post this", no lugar de uma das frases certinhas. Vai para a `FILA`, sem data.
+
+### O que não serve
+- O público de suplemento (25 a 35+, a criança que não tem cartão) e o "TikTok Shop não paga para testar" (2:24 a 2:39). O público da Nora é a mulher americana de 45+ (a pesquisa oficial; 69% com 45+ no nora69-FACE).
+
+### Muda o pacote de hoje (nora82 a nora84)?
+**Não.** O pacote já é um vídeo de celular em casa, com rosto, pouca edição e a tela limpa até o CTA, e fala com quem já acredita em sinais (os níveis 3 e 4). A frase "de pessoa comum" vai para a fila e não entra hoje, porque hoje é dia de usar o que deu certo, sem teste.
+
