@@ -1538,3 +1538,10 @@ O nora81 vai à noite e o nora82 (o teste da 2ª frase) às 17h de 27/11.
 **5. O Tracker:**
 - **26/11:** 1 clique (Face), 2 views do quiz, 0 quiz começado e 0 checkout.
 - **27/11 até 11h36:** 1 clique (Insta), 1 quiz começado e terminado, 0 checkout.
+
+## 27/11/2026 17h50, o nora82 no ar (Insta e Face, 17h50; o aluno: "nora82 postado face e insta / 17h50")
+- **O vídeo:** o pacote do nora81 (as letras + o corpo da maioria + as 2 frases de reinício), no quarto, blusa verde-escura. Sem teste.
+- **O horário:** saiu 50 min depois das 17h, na faixa da tarde. Olhar a Índia antes de comparar com o nora81, que foi às 02h43.
+- **Régua com ~24 h (~17h50 de 28/11):** views, skip, 3 s, compartilhamentos e salvos e visitas ao perfil, contra o nora81. No Face, contra o nora81-FACE e o nora80-FACE.
+- **A grade da noite muda** (REGRAS 7.4: o próximo respeita as 3h30): o nora83 às 21h20 e o nora84 às 0h30 de 28/11 (3h10 depois, para não sair da janela sem Índia). O story é repostado até ~00h05.
+

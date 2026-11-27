@@ -1,4 +1,4 @@
-# Painéis do dia 27/11/2026: nora82 (17h), nora83 (20h30) e nora84 (0h00 de 28/11), Insta e Face.
+# Painéis do dia 27/11/2026: nora82 (17h; foi às 17h50), nora83 (20h30 → 21h20) e nora84 (0h00 → 0h30 de 28/11), Insta e Face.
 # A decisão do aluno (27/11 ~12h55): "o 82, 83 e 84 vai ser o mesmo pacote que vem dando certo no insta e face" = o pacote do nora81
 #   (1.352 views no Insta com ~9 h, 17 compartilhamentos e 17 salvos, contra 127 do nora80): as letras do nome + o corpo da maioria
 #   + as 2 frases de reinício ("Now, this part matters." e "But it gets better.") + a carta (o verso dourado) na mão + a estátua de São Miguel.
@@ -82,7 +82,7 @@ V = {
                         'on her lap', 'in the early evening'),
         copia='o pacote do nora81 (as letras, a carta na mão, a estátua de São Miguel, as 2 frases de reinício), no quarto'),
     'nora83': dict(
-        hora='20h30 de 27/11', pref='sala', img='d2711-sala-IMG', roupa_pt='blusa vinho (bordô) de manga comprida', obj_pt='uma carta (o verso dourado) na mão',
+        hora='21h20 de 27/11', pref='sala', img='d2711-sala-IMG', roupa_pt='blusa vinho (bordô) de manga comprida', obj_pt='uma carta (o verso dourado) na mão',
         lugar_pt='na sala, sentada no sofá, com a estátua de São Miguel na mesinha ao lado',
         roupa='her plain deep burgundy long-sleeve top with no logo',
         cena=('Casual real video in the evening in a simple American living room, she sits on a beige fabric sofa; on the small side table next to her a colorful '
@@ -98,7 +98,7 @@ V = {
                         'on the armrest of the sofa', 'in the evening'),
         copia='o pacote do nora81 (as letras, a carta na mão, a estátua de São Miguel, as 2 frases de reinício), na sala', fix_muse=True),
     'nora84': dict(
-        hora='0h00 de 28/11', pref='escrivaninha', img='d2711-escrivaninha-IMG', roupa_pt='suéter azul-marinho de tricô', obj_pt='uma carta (o verso dourado) na mão',
+        hora='0h30 de 28/11', pref='escrivaninha', img='d2711-escrivaninha-IMG', roupa_pt='suéter azul-marinho de tricô', obj_pt='uma carta (o verso dourado) na mão',
         lugar_pt='à escrivaninha, à noite, com a estátua de São Miguel em cima dela',
         roupa='her plain navy-blue knit sweater with no logo',
         cena=('Casual real video late at night at home, she sits at a simple wooden desk; on the desk a colorful statue of Saint Michael the Archangel, a closed '
@@ -341,7 +341,9 @@ def montar(nn):
         'depois': [f'Suba os {n + 2} takes e espere a Prévia.', f'Confira a primeira palavra do T01 e a última do {tf2}.',
                    'Se um corte comeu o fim de uma palavra, arraste a borda dele ou suba a margem de respiro.', f'Clique em Cortar e baixar e salve como {nn}-cortado.'],
     }
-    prazo = {'nora82': 'até ~16h30 de 27/11', 'nora83': 'até ~20h00 de 27/11', 'nora84': 'até ~23h30 de 27/11'}[nn]
+    # 27/11 17h50: o nora82 foi às 17h50 (o aluno); o próximo respeita as 3h30 da grade (REGRAS 7.4): o nora83 às 21h20 e o nora84 às 0h30
+    # (3h10 depois, para não passar da janela sem Índia, ~0h30 a 0h45, R37).
+    prazo = {'nora82': 'até ~16h30 de 27/11', 'nora83': 'até ~20h50 de 27/11', 'nora84': 'até ~0h00 de 28/11'}[nn]
     P['edicao_linha'] = [
         {'quando': 'O que vai em cada vídeo', 'texto': f'Você monta 1 arquivo só, com os {n + 2} takes. Os 2 vídeos (Insta e Face) eu separo aqui.',
          'como': ((f'INSTA ({nn}-final): T01 ao T14, na ordem. FACE ({nn}-final-FACE): T15 (as letras) + T02, T03 (a frase de reinício), T04, T05 (eu tiro o “money”), T07, T08, T12 + T16 (o comentário). '
@@ -358,8 +360,8 @@ def montar(nn):
     story = {
         'nora82': 'O story no ar é o dos campos trancados (00h10 de 27/11, Insta e Face): vence ~00h10 de 28/11. Não precisa postar story agora.',
         'nora83': 'O story no ar é o dos campos trancados (00h10 de 27/11, Insta e Face): vence ~00h10 de 28/11. Não precisa postar story agora.',
-        'nora84': ('ANTES de postar o nora84: reposte o story dos campos trancados (story-2611-trancado) no Insta e no Face, com o adesivo de link de sempre '
-                   '(STORYIG no Insta, FACE no Face): o de 27/11 vence ~00h10 de 28/11. Antes de abrir o Insta, confira o IP e os EUA no mylocation.org.'),
+        'nora84': ('ATÉ ~00h05 de 28/11, antes de vencer: reposte o story dos campos trancados (story-2611-trancado) no Insta e no Face, com o adesivo de link de sempre '
+                   '(STORYIG no Insta, FACE no Face): o de 27/11 vence ~00h10 de 28/11. O nora84 vai depois, às 0h30. Antes de abrir o Insta, confira o IP e os EUA no mylocation.org.'),
     }[nn]
     P['story'] = {'ja_postado': True, 'nota': story}
     teste_txt = ('Este vídeo NÃO testa nada: é o pacote do nora81, igual (as letras + o corpo da maioria + as 2 frases de reinício + a carta na mão e a estátua '
@@ -395,8 +397,8 @@ def salvar(P, nn, rotulo):
 
 if __name__ == '__main__':
     for nn, rot in (('nora82', 'Painel nora82 · o pacote do nora81, no quarto · 27/11 17h'),
-                    ('nora83', 'Painel nora83 · o pacote do nora81, na sala · 27/11 20h30'),
-                    ('nora84', 'Painel nora84 · o pacote do nora81, à escrivaninha · 28/11 0h')):
+                    ('nora83', 'Painel nora83 · o pacote do nora81, na sala · 27/11 21h20'),
+                    ('nora84', 'Painel nora84 · o pacote do nora81, à escrivaninha · 28/11 0h30')):
         P, n, pal = montar(nn)
         print(nn, n, 'takes,', pal, 'palavras')
         salvar(P, nn, rot)
