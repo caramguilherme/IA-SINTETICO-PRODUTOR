@@ -485,6 +485,25 @@ Fora da numeração do nora. Peças com o nome do teste: `faceNN-IMG`, `faceNN-C
 - **O teste:** é a variação só de edição de um vencedor. Já travou 4 vezes em 6 na Página (21/11), inclusive a do nora69-FACE, com 4 views. Postada por decisão do aluno ("pra postar 12h30"). **Medida:** as views com ~3 h e ~24 h, contra o nora69-VAR2111-FACE (4) e o nora76-FACE (4.520).
 - **Arquivos:** `ferramentas-painel/ferramentas/specs/*nora76-VAR2711*`.
 
+## nora82 (27/11/2026, editado às ~17h30): o pacote do nora81 no quarto, blusa verde-escura, a carta e a estátua no criado-mudo
+- **Montado:** `nora82-montado` (1:54, 16 takes; o T15 e o T16 do Face no fim).
+- **Insta** (`nora82-final`, 1:32): do T01 ao T14.
+- **Face** (`nora82-final-FACE`, 0:59): o T15 (as letras) + T02, T03, T04, T05 sem o "and money," (de 26,98 a 27,84 no montado do Face), T07, T08, T12 + T16.
+- **Erros do Muse consertados na edição:**
+  - o "comments" a mais no T10 (de 65,04 a 65,43);
+  - o pedaço repetido depois do "But it gets better." no T11 (de 72,21 a 74,12; o ponto foi testado transcrevendo a emenda).
+
+  O "over" do T07 sai baixo e foi mantido, com a legenda certa. No T10, o Muse não disse o "twice" nem o "the", e ficou assim.
+- **A legenda das letras no Face** saiu da transcrição do trecho sozinho (A, J, M, K, C, E, S, L, R, T or H).
+- **Tela:**
+  - sem texto no topo;
+  - o 11:11✨;
+  - a legenda a 77,5%;
+  - a seta grande no Insta.
+
+  No T07 a carta desce e encosta no fim da legenda por menos de 1 s; ficou.
+- **Arquivos:** `ferramentas-painel/ferramentas/specs/*nora82*`; o `LICOES` de 27/11 ~17h35.
+
 ## nora81 (27/11/2026, editado às ~02h15): as letras + o corpo da maioria + as 2 frases de reinício (o teste de 27/11), à mesa com a estátua de São Miguel, suéter creme, a carta
 - **Montado:** `nora81-montado` (2:02, 16 takes; o T15 e o T16 do Face no fim).
 - **Insta** (`nora81-final`, 1:30): T01 ao T14, com "Now, this part matters." (T03) e "But it gets better." (no começo do T11).

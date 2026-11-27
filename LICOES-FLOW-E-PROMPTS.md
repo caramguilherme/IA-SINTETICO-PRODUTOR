@@ -855,3 +855,23 @@ O Flow bateu o limite de geração de imagens, e o aluno gerou a imagem do nora8
 - **O limite de 24 h do Muse "muito provavelmente" vem dos retries:** "se vc faz um vídeo com 20 blocos e desses 20 ele fica 'preso' em uns 4/5 blocos… ele pode ficar gerando e repetindo um bloco específico até sair perfeito"; a saída é "aliviar esse QA" (Vinicius B, 26/11 15h13; relato de 1 pessoa, que a Luana confirmou com o próprio Muse).
 - **Na Nora:** quando um take vier com um erro que eu corto na edição (a palavra repetida, a frase a mais no fim, o "E, E"), ele fica. Eu corto como no nora81, com os cortes-extra, o `CORTA_FIM` e a varredura. Só se pede de novo o take com palavra trocada ou faltando, rosto ou voz errados, ou mão quebrada.
 - **O erro 503 ("sobrecarregado")** apareceu em 27/11 de ~11h30 à tarde, "indo e voltando". É do Muse, não da conta: esperar e mandar de novo, sem criar conta nova por isso.
+
+## 27/11/2026 ~17h35, nora82: os erros do Muse se repetem nos mesmos takes, e o que mudou no nora83 e no nora84
+**Os erros do nora82:**
+- **No T11**, depois do "But it gets better.", o Muse disse "in the morning, you'll get incredibly good news" e só então a frase inteira. É o mesmo erro do nora81 ("At 10 in the morning…" antes do "Tomorrow at 10…"): **2 de 2 vídeos com a frase de reinício solta antes**. O nora80, sem ela, não repetiu.
+- **No T10** sobrou um "comments" depois do "Now save this video" (1 de 3 vídeos). No nora81, o T15 tinha puxado a frase do T16 ("Check the first comment below.").
+- **Palavras que o Whisper não ouve:** o "over" do "The worst is finally over" saiu baixo e só apareceu com o initial_prompt; a energia do áudio confirmou que ele está lá. No T10, o "twice" e o "the" de "in the comments" não foram ditos, e ficaram assim.
+
+**O conserto foi na edição, a 0 crédito:**
+- os cortes [65,04 a 65,43] e [72,21 a 74,12] no montado;
+- **o ponto de cada corte testado transcrevendo a emenda com 4 a 7 pontos diferentes.** O ponto que a palavra e a energia indicavam (71,95) comia o "better", porque o "gets" termina num "ts" e o silêncio de 0,1 s antes do "b" é o fechamento da boca, não o fim da frase;
+- no Face, o "and money," saiu de 26,98 a 27,84. O 1º corte (26,68) comeu o "faith" e só a transcrição da emenda mostrou isso.
+
+**A regra:** todo corte dentro de um take é conferido transcrevendo a emenda (o trecho antes + o trecho depois) antes do render, e a versão do Face é transcrita inteira depois do render. **O erro meu de hoje:** o "and money," quase foi para o Face, porque o `TIRAR_FACE` do nora82 estava vazio. A legenda das letras do T15 do Face saiu em minúscula e sem o "or H" (a transcrição do montado inteiro perde essas letras; a do trecho sozinho acerta).
+
+**No nora83 e no nora84 (`build_dia_2711.py`, `fix_muse`):**
+- (1) o T11 numa frase só: "But it gets better: if you did everything right, tomorrow at ten…";
+- (2) no LIVRE, a SPEECH RULE ganhou "If her words end before the clip ends, she never fills the remaining time with more words; she never says words from the take before or the take after, and never says a sentence twice.";
+- (3) o aviso do Muse ganhou a mesma frase, por clipe.
+
+**Não sei se resolve:** é a minha leitura do padrão (2 de 2 no T11), sem documentação do Muse. A medida é o montado do nora83.

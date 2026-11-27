@@ -96,7 +96,7 @@ V = {
                         'a plain deep burgundy long-sleeve top with no logo',
                         'on the small side table next to her, a colorful statue of Saint Michael the Archangel about 30 centimeters tall, standing at her left side at about the height of her waist, fully visible in the frame (never cut off and never hidden behind her) and a small table lamp',
                         'on the armrest of the sofa', 'in the evening'),
-        copia='o pacote do nora81 (as letras, a carta na mão, a estátua de São Miguel, as 2 frases de reinício), na sala'),
+        copia='o pacote do nora81 (as letras, a carta na mão, a estátua de São Miguel, as 2 frases de reinício), na sala', fix_muse=True),
     'nora84': dict(
         hora='0h00 de 28/11', pref='escrivaninha', img='d2711-escrivaninha-IMG', roupa_pt='suéter azul-marinho de tricô', obj_pt='uma carta (o verso dourado) na mão',
         lugar_pt='à escrivaninha, à noite, com a estátua de São Miguel em cima dela',
@@ -112,7 +112,7 @@ V = {
                         'a plain navy-blue knit sweater with no logo',
                         'on the desk, a colorful statue of Saint Michael the Archangel about 30 centimeters tall, standing at her left side at about the height of her waist, fully visible in the frame (never cut off and never hidden behind her), a closed notebook and a warm desk lamp',
                         'on the desk', 'late at night'),
-        copia='o pacote do nora81 (as letras, a carta na mão, a estátua de São Miguel, as 2 frases de reinício), à escrivaninha'),
+        copia='o pacote do nora81 (as letras, a carta na mão, a estátua de São Miguel, as 2 frases de reinício), à escrivaninha', fix_muse=True),
 }
 for k, v in V.items():
     for w in ('chest', 'skin', 'body', 'breast', 'underwear', 'wine', 'powder', 'paint', 'shining', 'glowing', 'sparkling'):
@@ -160,7 +160,9 @@ def livre(v):
             f'five fingers; no on-screen text, no captions; {v["som"]} only, no music. SPEECH RULE for every take: '
             "she says only the exact words of that take's script, each word exactly once and in order, with no repeated word, no extra word and no added sentence "
             'before, between or after; numbers and dates are spoken as words exactly as written; she speaks in a direct, serious, intimate tone, like telling a secret to '
-            'one person; when she finishes the last word she closes her lips, stays silent and keeps a calm still expression until the clip ends.')
+            'one person; when she finishes the last word she closes her lips, stays silent and keeps a calm still expression until the clip ends.'
+            + (' If her words end before the clip ends, she never fills the remaining time with more words; she never says words from the take before or the '
+               'take after, and never says a sentence twice.' if v.get('fix_muse') else ''))
 
 
 def prompt_take(v, txt, movimento, arquivo, clip, total):
@@ -241,6 +243,11 @@ def montar(nn):
         # o teste da frase de reinício (26/11 ~21h15, pedido do aluno)
         assert fala[9].startswith('If you did everything right')
         fala[9] = REINICIO2 + ' ' + fala[9]
+        if v.get('fix_muse'):
+            # 27/11 ~17h30: o Muse repetiu o fim do T11 logo depois do "But it gets better." no nora81 e no nora82 (2 de 2; o nora80, sem a frase, não repetiu):
+            # a frase de reinício vai colada na seguinte, numa frase só, sem o ponto que parece fazer o Muse recomeçar.
+            fala[9] = fala[9].replace('But it gets better. If you did', 'But it gets better: if you did')
+            assert fala[9].startswith('But it gets better: if you did'), fala[9]
         fala.insert(2, REINICIO1); gestos.insert(2, G_REINICIO1); sufs = list(sufs[:2]) + ['reinicio'] + list(sufs[2:])
     conferir(v, fala, gestos)
     # 26/11 ~17h10 (o aluno): os 2 takes do Face vão no fim da mesma colagem da Central, e os 15 saem do Muse de uma vez.
@@ -304,6 +311,10 @@ def montar(nn):
     assert velho in ag['aviso']
     ag['aviso'] = ag['aviso'].replace(velho, 'Name each clip with exactly this file name, so the downloaded file already has it: '
                                       + ', '.join(f'Prompt {i + 1} = {(nomes + [n_letras, n_cta])[i]}' for i in range(n + 2)) + '.')
+    if v.get('fix_muse'):
+        # 27/11 ~17h30: no nora81 e no nora82 o Muse pôs palavras de outro trecho num clipe (o T15 com a frase do T16; o T10 com um "comments" do fim dele)
+        ag['aviso'] += (' Each clip says only the words of its own Prompt, once: never words from the previous or the next Prompt, never a sentence twice; '
+                        'if the words end before the clip ends, she stays silent.')
     todos = nomes + [n_letras, n_cta]
     resto = ', '.join(f'Prompt {i + 1} = {todos[i]}' for i in range(6, n + 2))
     msg_resto = ('“Now generate the remaining prompts from my previous message, exactly as written, in the same order, using the attached image as the first '
