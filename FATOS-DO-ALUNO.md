@@ -278,3 +278,4 @@ Regra (P38, 22/10/2026): tudo que o aluno confirmar fica aqui no mesmo turno. Nu
 
 - **A qualidade do envio do Insta da Nora (26/11 11h25, print do aluno, "Cellular data settings"):** "Upload at highest quality" ligado e "Data saver" desligado; já estava assim.
 - **Status da conta do Insta da Nora (23/11 17h49, print do aluno):** "Your account meets all our guidelines". Recomendação liberada, sem restrição de recurso, sem remoção e sem limite de recomendação. Os 14 views do nora74 vieram do skip de 84,6
+- **A foto de perfil nova da Nora (sem a pintura) na Página do Face: 27/11/2026 às 00h07** (aparece na Biblioteca como "Sem conteúdo de texto", com 1 view; o aluno confirmou em 27/11 ~11h45). O prompt é o de `ferramentas-painel/prompts/foto-perfil-nora-v3.md`. Não sei se a troca no Insta também foi feita: falta o aluno confirmar.
