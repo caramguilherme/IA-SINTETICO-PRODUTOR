@@ -1385,3 +1385,16 @@ Cada clipe leva ~1 min; um vídeo de 13 takes, ~15 a 20 min. O que trava a voz: 
 
 A pergunta serve à decisão pendente do perfil e do 2º administrador (`PENDENCIAS-DO-ALUNO.md`, item 9; o plano de 5 contas). Se a venda for dele: acrescentar "parabens pela venda, com 1 por conta ainda".
 **Fato do contato:** o Cardoso.eth roda 4 contas só no Face (2 do Manifestation e 2 do Risely), sem Insta.
+
+## RECEBIDO e SUGERIDO (26/11/2026 ~21h15; DM do Pedro⚡; print em `MATERIAIS-PRINTS-METRICAS-26-11/dm-pedro-angulo-26-11-2109.png`)
+**O que o aluno mandou (16h31):** o texto sugerido às 16h35, quase igual: a copy do vídeo que mais foi no Face (4,5 mil), mudando o cenário e a roupa, 3 hoje; a pergunta: gerava o vídeo inteiro de novo ou reaproveitava o corpo e trocava só o começo.
+**As respostas do Pedro⚡:**
+- 19h49: "mesma copy, cenário diferente / as vezes mudo o ângulo só";
+- 20h56, à pergunta do aluno "oq seria o angulo?": "um detalhe da copy, por exemplo / uso a mesma copy e falo sobre outro assunto".
+**O que isso quer dizer:** com o cenário diferente, o vídeo sai gerado de novo (é o que a Nora já faz desde 24/11). O "ângulo" dele é a mesma copy com um detalhe trocado para falar de outro assunto (no briefing do Risely: "um ângulo por vídeo", "variações do ângulo que vende antes de trocar"). Vira um teste na `FILA`.
+**O texto sugerido (uma mensagem só; conta como enviado, P44):**
+ahh entendi
+tipo, a copy fala de dinheiro e num video vc troca pra amor ou familia, e o resto fica igual?
+vlw demais pela ajuda mano
+**Fato do contato:** o Pedro⚡ repete o vídeo que viralizou com a mesma copy e outro cenário, e às vezes troca o "ângulo" (um detalhe da copy, outro assunto).
+

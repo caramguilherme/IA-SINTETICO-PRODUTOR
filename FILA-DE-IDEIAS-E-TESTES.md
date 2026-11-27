@@ -64,6 +64,9 @@
   - **Teste (1 por dia, quando o aluno escolher): a frase de reinício no corpo da maioria** (q01, Gio Garcia: "uma frase de reinício a cada duas ou três frases… uma frase de três ou quatro palavras [que] reabre a curiosidade"). Muda só 1 frase: depois da 2ª frase (onde a curva cai, ~3 a 10 s), uma frase curta de reinício (ex.: "But this next part matters most."). A = o corpo da maioria como está; B = com a frase. Medida: a retenção aos 10 s e aos 15 s e o skip. Não roda no mesmo dia do teste da 2ª frase (nora82), porque mexe no mesmo ponto.
   - **A voz por cima de imagens do que ela conta** (q02): é a edição dopaminérgica (nora66, 1 vez, junto com outra variável) e parente do multi-ângulo; fica anotada, sem teste novo agora.
 
+- **Do Pedro⚡ (DM, 26/11 20h56: "um detalhe da copy… uso a mesma copy e falo sobre outro assunto"):**
+  - **Teste (1 por dia, quando o aluno escolher): o "ângulo" no corpo da maioria.** A mesma copy, o mesmo cenário novo de cada dia, com o detalhe da promessa trocado para outro assunto. Ex.: no T04/T05, "money, prosperity and someone incredibly wonderful" vira o amor ("someone who will finally love you the way you deserve") ou a família. A = o corpo como está; B = o mesmo corpo com o outro assunto. Medida: as visitas ao perfil e os cliques.
+  - **No Face, o amor ou a família no lugar do dinheiro também resolve a regra do Face** (sem promessa de dinheiro): hoje o "money" sai na edição e a frase fica sem um dos 3 itens.
 - **Da mineração de 26/11 (13 vídeos, 7 contas; `referencias-virais/2026-11-26-mineracao/LEIA.md`):**
   - **Teste A/B do CTA, no Insta e no Face:** a virada da frequência antes do CTA × o "quick reading… whether you're one of those people".
     - **A:** "every time money gets close, it slips away… you don't need to work harder", e então "Three quick questions, and your private reading shows what's been blocking your money" (6 vídeos, 3 contas; o mecanismo bate com o funil: a carta O Louco, "as travas");
