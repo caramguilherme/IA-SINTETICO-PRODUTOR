@@ -70,6 +70,17 @@
 - **Do Pedro⚡ (DM, 26/11 20h56: "um detalhe da copy… uso a mesma copy e falo sobre outro assunto"):**
   - **Teste (1 por dia, quando o aluno escolher): o "ângulo" no corpo da maioria.** A mesma copy, o mesmo cenário novo de cada dia, com o detalhe da promessa trocado para outro assunto. Ex.: no T04/T05, "money, prosperity and someone incredibly wonderful" vira o amor ("someone who will finally love you the way you deserve") ou a família. A = o corpo como está; B = o mesmo corpo com o outro assunto. Medida: as visitas ao perfil e os cliques.
   - **No Face, o amor ou a família no lugar do dinheiro também resolve a regra do Face** (sem promessa de dinheiro): hoje o "money" sai na edição e a frase fica sem um dos 3 itens.
+- **A série das cores e dos cristais de 2027 por signo (ideia do aluno, 27/11 ~00h55; espera o post da astróloga e o ok das propostas, `PENDENCIAS-DO-ALUNO.md`, item 1):**
+  - **O formato:** 1 vídeo por signo, com o signo dito e escrito no 1º segundo (mentoria de 23/11, 0:12:20 a 0:14:44: o signo dito só no fim "frustra os outros"). A Nora com o cristal na mão desde o 1º quadro e com a roupa na cor do signo, e ela muda a cada vídeo.
+  - **A duração:** 30 a 35 s em 3 takes, e não 20 s. A aula 55 (0:14:38) diz que o clickbait curto "converte infinitamente menor", e o CTA precisa das 3 partes.
+  - **A ponte para o funil:** "a cor é só a 1ª parte; o que 2027 guarda para você está na leitura". A tela 1 do quiz é "the truth about your year" (2027), e o story é o dos campos trancados.
+  - **O volume:** 3 por dia no Insta, em 4 dias (28/11 a 01/12), para ler o 1º dia (~24 h) antes de gastar os outros 9. Com 6 por dia em 2 dias, os 12 saem antes da 1ª leitura, e com 8 em ~24 h o Insta travou em 10 a 12/11.
+  - **No Face:** os signos às 17h e às 20h30, e as letras + o corpo da maioria às 12h e à 0h00.
+  - **A série é o teste desses dias** (13.3b). Sagitário primeiro (a temporada dele vai de 22/11 a 21/12).
+  - **No Insta, o pedido de envio entra naturalmente:** "or send this to a Leo you love". O envio pesa em views (Kallaway). No Face, sem pedido de compartilhar.
+  - **O risco:** ~11 de 12 pessoas não são do signo do vídeo, então o skip pode subir. E o período dos signos de outubro (26/10 a 10/11) deu as maiores views do Insta (2,8 mil a 3,7 mil nas fitas e nas placas; 1,6 mil a 2,0 mil nos falados nora48 a nora50) e 0 checkout. A mentoria de 23/11 disse que a conta "só de signos" vendia pouco.
+  - **A fonte:** o texto é reescrito em inglês, nas palavras da Nora, sem a imagem e sem o nome da astróloga.
+  - **Sai da fila:** o trio de signos no papel do Face, porque a série cobre o mesmo assunto.
 - **Da mineração de 26/11 (13 vídeos, 7 contas; `referencias-virais/2026-11-26-mineracao/LEIA.md`):**
   - **Teste A/B do CTA, no Insta e no Face:** a virada da frequência antes do CTA × o "quick reading… whether you're one of those people".
     - **A:** "every time money gets close, it slips away… you don't need to work harder", e então "Three quick questions, and your private reading shows what's been blocking your money" (6 vídeos, 3 contas; o mecanismo bate com o funil: a carta O Louco, "as travas");
