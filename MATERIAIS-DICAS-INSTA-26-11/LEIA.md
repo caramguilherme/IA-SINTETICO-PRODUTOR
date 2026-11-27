@@ -293,3 +293,30 @@ A transcrição está no mesmo arquivo, no "2º lote". Os 15 vieram com som. 4 f
 ## O que não serve (e por quê)
 - **"Comente momentum" / "comment checklist" para receber na DM** (p01 e p02): no Insta da Nora não vai direct com link, e no Face é isca.
 - **O feed "artístico" do músico** (p02: a paleta de cores, o "mundo da minha música"): é de outro nicho. O que vale é a parte dos Trial Reels.
+
+---
+
+# 4º lote (2 vídeos, mandados pelo aluno em 26/11 ~20h50, na mesma pasta do Drive)
+**O que li:** os 2 vídeos inteiros, pela transcrição (conferida com as legendas da tela) e por uma folha de 18 quadros de cada um: `lote4-q01-frase-de-reinicio-giogarcia.jpg` e `lote4-q02-storytelling-yadymarcapersonal.jpg`. A transcrição está no fim de `TRANSCRICOES/2026-11-26-dicas-insta-17-videos-kallaway-viewcci-outros.md`.
+**O que não deu:** as views e os seguidores de cada um fora do que aparece no próprio vídeo (o q01 mostra 618 mil num print do topo; o q02 mostra os 3 exemplos dela com 100, 347 mil e 1,7 milhão).
+
+## O que eles ensinam (com o vídeo)
+1. **A frase de reinício** (q01, Gio Garcia, a mesma do n04 e do n08):
+   - **a regra:** uma frase de reinício a cada 2 ou 3 frases do roteiro; "mais de 10 segundos explicando a mesma ideia no mesmo ritmo" faz a pessoa pular;
+   - **passo 1:** frases curtas, um ponto final em cada ideia, bastante corte;
+   - **passo 2:** depois de explicar o problema e antes da solução, uma frase de 3 ou 4 palavras que reabre a curiosidade ("Só que isso piora.", "Agora, esse detalhe é muito importante.", "Presta atenção nessa parte aqui, porque isso vai mudar tudo.");
+   - **passo 3:** trocar a explicação longa por um exemplo falado, a frase pronta ("em vez de fazer X, amanhã você vai fazer Y");
+   - **a soma:** frase de impacto, virada curta, exemplo prático, sem "nenhuma pausa pra sentir tédio".
+2. **Ruim, bom e viral no storytelling** (q02, @yadymarcapersonal, em espanhol):
+   - falar o tempo todo para a câmera é ruim; falar fazendo outra coisa é bom; **a voz por cima de imagens do que se está contando** é o melhor;
+   - improvisar é ruim; ter roteiro é bom; roteiro com estrutura de história é o melhor;
+   - dizer o que sentiu é ruim; mostrar é bom; fazer a pessoa sentir junto é o melhor;
+   - **inventar um gancho do zero é ruim; adaptar um que já funciona é bom; juntar o gancho visual com o falado é o melhor.**
+
+## O que serve para a Nora (e por quê)
+- **A frase de reinício vira teste, um por dia, quando o aluno escolher** (`FILA`, "Do 4º lote"). O corpo da maioria já tem viradas ("So take this seriously.", "Saint Michael the Archangel sent a warning.", "But the universe is warning me…"), mas **entre os 3 e os 15 s, onde a curva cai, não tem nenhuma**: do T01 ao T04 são 4 frases seguidas de promessa. O teste muda só uma frase, como o aluno pediu ("só mudar uma palavra ou frase, se fizer sentido com as dicas"): uma frase curta de reinício depois da 2ª frase (ex.: "But this next part matters most."). É o mesmo ponto do teste da 2ª frase do nora82: rodam em dias diferentes, um por vez.
+- **O "adaptar um gancho que já funciona" e o "gancho visual + falado"** (q02) confirmam o que já fazemos: a receita da maioria (`RECEITA-DA-MAIORIA.md`) e a checagem do Take 1 do Robert.
+- **A voz por cima de imagens do que ela conta** (q02) é a edição dopaminérgica das aulas 12 e 14, que rodou 1 vez, no nora66 (122 views no Insta e 24 no Face; junto com o gancho de produto, então não dá para separar). E é parente do multi-ângulo (o nora79, cada take com o objeto da frase na frente). Não entra como teste novo agora: o quadro já tem o multi-ângulo, e o aluno pediu 1 teste por dia.
+
+## O que não serve (e por quê)
+- **"Comente story e eu te mando"** (q02) e **"salva e me segue"** (q01, o CTA dela): a isca de comentário para direct fica fora (no Insta da Nora não vai direct com link; no Face é isca).

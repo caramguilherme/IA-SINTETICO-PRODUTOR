@@ -109,3 +109,54 @@ Coisas que se você [fizesse no seu story, eu ia ficar viciada em te assistir]. 
 
 ## p02 — snapgram.io_vxlh5rm6qo1v.mp4 (110.8 s; um músico (o @ não aparece no vídeo); em inglês; a cena dos 2 no sofá com as etiquetas "500 followers" e "20K followers")
 [0.0] I post my reel as a main reel first and then I'll post it as a trial reel. [4.4] Instagram flags this as duplicate content. [6.5] Instead I post every single video as a trial reel first. [9.3] It only pushes out to non-followers. [10.8] It's a low pressure testing environment and I can get data fast, [13.8] just like running ads. [15.1] I posted one viral format and it just didn't work out for me. [18.0] It's just a waste of time. [19.5] Just because one trial reel didn't work out, [21.6] it doesn't mean that the concept necessarily doesn't work out. [24.3] On trial reels, [25.0] I can test as many concepts and as many variants as I want. [28.0] I can take one concept and make a version a version B version C and just test [32.8] as many hooks and visuals as I would like. [34.9] And then I'll use the edit tab to read the data from there. [37.2] Once I post my reel on Instagram, I reposted right away. [40.3] I share it to my story. [41.6] I send it to like 10 different people at the same time, [44.2] exactly right when I post it. [46.0] And I just keep refreshing my Instagram because I know that my views are [48.8] going to go up. [49.8] Once I post my content on Instagram, I just walk away. [52.2] I don't repost my own content. [53.4] I don't give myself false engagement. [55.2] I just walk away. [56.0] I don't refresh. [56.8] I don't watch my own videos on repeat. [58.3] I let the content do its job. [60.2] My trial blew up and Instagram recommended me to share it straight to my main feed. [63.9] And I'm just going to do that right away. [65.6] I let my trial continue running because your winners can literally continue [68.6] to grow for weeks on end. [70.0] And after some time, I can post the exact same video on my main feed [73.4] so I can double down on the idea and I also doubled my attraction [76.6] just from that single concept. [78.3] If trial reels do so well and my main reels do poorly, [81.4] why would I even bother with my main reels in the first place? [84.4] The main feed is where I can build my artist profile, my visuals, [88.1] my color palette and the world around my music. [90.7] It's also connection content for people who already follow me. [93.6] It sits in the middle of the funnel and good content will always [96.9] get pushed out to non followers anyways. [99.2] Honestly, man, I feel like giving up and this just feels way too complicated. [103.0] You don't have to worry about it. [103.9] Just comment track list down below and I'll show you a full guide [106.4] in terms of what to do and what not to do when you're posting [109.2] music content on Instagram.
+
+# 4º lote (2 vídeos, mandados pelo aluno em 26/11 ~20h50, na mesma pasta do Drive 1D_EiN9edVcZPG6Zc7Hx1YUkH7nHJojuI)
+Transcrição pelo faster-whisper "small", conferida com as legendas da tela (folhas `MATERIAIS-DICAS-INSTA-26-11/lote4-*.jpg`). Entre [colchetes], a palavra que o Whisper ouviu errado, corrigida pela legenda da tela ou pelo sentido; [?] onde não deu para conferir.
+
+## q01 — 2849c08f762c4c3d94786bfe2f856dac.mp4 (93,3 s; @giogarcia, "técnica de roteiro pra deixar qualquer pessoa PRESA nos seus vídeos", 618 mil views no print do topo; em português)
+[0.0] Existe uma técnica de roteiro que faz a pessoa assistir um vídeo de um minuto ou mais,
+[4.8] sentindo que passaram 10 segundos.
+[7.0] Depois que você aprende isso, as pessoas nunca mais vão pular seus vídeos.
+[10.3] A pessoa vai sentir o seu vídeo maçante e vai te pular
+[13.6] [se] você ficar mais de 10 segundos explicando a mesma ideia no mesmo ritmo.
+[17.5] Pra ela nem ver o tempo passar, você precisa colocar uma frase de reinício a cada duas
+[22.0] ou três frases do seu roteiro.
+[23.4] Vamos lá que eu vou te explicar como fazer isso.
+[25.1] Primeiro passo, quebra qualquer frase que te faz perder o [fôlego].
+[28.7] Em vez de você ler um parágrafo gigante, [que] deixa sua fala monótona,
+[32.4] coloque um ponto final em cada ideia e sempre fale em frases curtas,
+[36.7] deixe o seu vídeo com bastante corte, assim como tá o meu.
+[39.6] [Passo] dois, use uma frase curta de virada no meio da explicação pra resetar a atenção.
+[45.2] Quando você terminar de explicar o erro que a pessoa tá cometendo, por exemplo,
+[48.5] antes de você dar [a] solução, coloca uma frase de três ou quatro palavras
+[52.4] e reabra a curiosidade, como:
+[54.4] [Só] que isso piora.
+[55.3] Agora, esse detalhe é muito importante.
+[57.5] Ou presta atenção nessa parte aqui, porque isso vai mudar tudo.
+[60.6] Passo três, troque sempre aquela explicação longa
+[63.5] [por] um exemplo falado.
+[64.8] [Em vez de] ficar 30 segundos só na teoria,
+[66.8] fale a frase pronta que a pessoa tem que usar.
+[68.9] [Em vez de] fazer X, amanhã você vai fazer Y.
+[71.7] Quando você [alterna frase] de impacto, virada curta,
+[74.4] exemplo prático, o cérebro da pessoa não vai encontrar nenhuma pausa pra sentir tédio
+[79.1] e vai assistir até o último segundo do seu vídeo.
+[81.8] E nem perceber o tempo passar.
+[83.2] Salva esse vídeo pra você aplicar no seu próximo roteiro
+[85.6] e toca aqui [no] seguir pra aprender a postar só o que funciona a partir de agora.
+
+## q02 — a196ddcbd58949878c4e20954f843e4c.mp4 (39,7 s; @yadymarcapersonal, "videos de storytelling virales", com 3 exemplos no topo marcados "malo" (100 views), "bueno" (347 mil) e "viral" (1,7 M); em espanhol)
+[0.0] Hablar[le] todo el tiempo a la cámara es malo.
+[2.1] Hablar mientras haces otra actividad es bueno,
+[4.6] pero hacer un [voz] en off mientras muestras imágenes y videos de lo que estás contando es excelente.
+[9.0] Improvisar todo el guión es malo.
+[10.7] Tener un guión es bueno,
+[12.2] pero tener un guión con estructura de storytelling es excelente.
+[15.1] Simplemente decir cómo te sentías es malo.
+[17.4] Mostrar cómo te sentías es bueno,
+[19.5] pero hacer que la audiencia sienta esa emoción contigo es excelente.
+[22.6] Inventarte un hook desde cero es malo.
+[24.8] Adaptar un hook que ya sabes que funciona es bueno,
+[27.6] pero combinar un hook visual con un hook verbal es excelente.
+[31.1] Y si quieres [mi lista de] hooks virales que ya funcionan para videos de storytelling,
+[34.3] comenta "story" y te los [mando].
