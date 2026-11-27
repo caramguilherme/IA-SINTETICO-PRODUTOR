@@ -15,7 +15,8 @@
 | 5. AIDA | 7:40 | lida (27/11 14h36) |
 | 6. Ganchos | 17:14 | lida (27/11 14h50) |
 | 7. Frases de transição | 8:30 | lida (27/11 14h59) |
-| 8. Mecanismo único | | falta o link |
+| 8. Mecanismo único | 8:30 | lida (27/11 15h04) |
+| 9 em diante | | o aluno, 15h00: "falta outras aulas ainda"; a aula 8 termina com "a gente vai aprender a pegar esse desejo… e canalizar numa venda" (a ação, o CTA) |
 
 ---
 
@@ -239,4 +240,26 @@
 
 ### Muda o pacote de hoje (nora82 a nora84)?
 **Não.** A transição do pacote (a mulher deitada, a mensagem do Arcanjo, o "Now, this part matters.") é a do vídeo que funcionou. O "trazer para perto" entra no teste da 2ª frase (02/12), e a promessa leve entra no teste da promessa.
+
+---
+
+## Aula 8: Mecanismo único (8:30)
+
+### O que serve
+- **O desejo é o D do AIDA** (0:04 a 1:05). O produto é "a ponte entre a situação que ela está hoje e o sonho que ela quer viver".
+- **"O desejo é uma vontade incontrolável… pautada na curiosidade"** (1:09 a 3:09): a gente só deseja o que ainda não tem. O exemplo dele é o amigo que diz às 10 da noite "tenho uma coisa pra te contar… amanhã de manhã eu te conto".
+- **Apresentar o produto de um jeito que ela nunca viu** (3:23 a 4:28): o exemplo inventado do ingrediente que ninguém tem ("só tem um jeito de ele descobrir: comprando").
+
+  Depois vem o **future pacing**, o estado futuro (4:33 a 5:07): parar de usar boné, parar de receber piadinha.
+- **O mecanismo único** (7:18 a 7:47) é o ingrediente, a coisa diferente que "só o seu produto tem". Pode ser achado no produto ou no jeito de apresentar. **As 3 emoções:** a dor de que ela quer se afastar, o benefício que ela quer atingir e a curiosidade: "ela só consegue… se tiver esse segredinho que ela não sabe… e isso aqui só o seu produto tem" (7:49 a 8:17).
+
+### Na Nora
+- **O pacote já tem o mecanismo e o future pacing:**
+  - **o mecanismo:** "this change only happens for women whose energy is aligned with abundance… a quick reading… that will reveal whether you're one of those women". Só a leitura diz se ela está alinhada, e é o "segredinho que só o seu produto tem";
+  - **o future pacing:** "the doors that wouldn't open will finally open", a notícia às 10 e "one step away from everything you've dreamed of".
+- **"A frequência" da mineração de 26/11** (a virada antes do CTA em 6 vídeos de 3 contas) é outro mecanismo, já na `FILA` como "o CTA da frequência × o quick reading" (03/12). A aula 8 dá a fonte de por que ele pode vender mais.
+- **Fica fora:** inventar ingrediente, poder ou prova da leitura (o "cimento" é exemplo inventado dele; a HONESTIDADE). O mecanismo da Nora só usa o que o funil já diz: as 3 cartas e a mensagem do universo para 2027. E as cartas não entram na fala antes do quiz (a regra de 03/11).
+
+### Muda o pacote de hoje (nora82 a nora84)?
+**Não.** O mecanismo (a energia alinhada, que só a leitura revela) e o future pacing estão no pacote do nora81.
 

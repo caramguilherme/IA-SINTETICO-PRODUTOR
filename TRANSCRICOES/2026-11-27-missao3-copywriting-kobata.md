@@ -1335,3 +1335,156 @@ Na tela: o Kobata falando, com textos da edição ("CORPO DO ANÚNCIO" ~0:25, "P
 [0:08:19] o que essa menina está falando dela? Sabe de algo? Essa mulher sabe de algo,
 [0:08:22] esse cara sabe de algo. Combinado? Então, vamos à próxima aula agora,
 [0:08:26] onde a gente vai falar sobre o desejo. Vamos lá.
+
+## Aula 8: Mecanismo único (8:30; embed v=cdfeb876-f6ee-4781-8710-0d311aa6cfb6)
+
+Na tela: o Kobata falando (a mesma duração da aula 7 por coincidência; a fala é outra).
+
+[0:00:04] Pessoal, agora que vocês chamaram a atenção do público que você queria, agora que ela criou
+[0:00:10] interesse em falar assim, deixa eu ver o que é esse vídeo aqui, a gente vai para a parte do desejo.
+[0:00:15] Agora é onde ela entende que você é a única solução da vida dela.
+[0:00:20] Agora é onde ela entende ou ela segue o que você está falando ou ela vai dormir triste,
+[0:00:26] porque ela passou por uma solução de maior problema da vida dela ou com uma solução
+[0:00:31] e para o maior benefício que ela deseja na vida dela. Você vai despertar o desejo nessa pessoa,
+[0:00:37] apresenta no seu produto, o seu produto é a solução. Você tem que imaginar na cabeça da pessoa
+[0:00:42] que o seu produto é a ponte entre a situação que ela está hoje e o sonho que ela quer viver.
+[0:00:48] Entende? O seu produto é a ponte que vai levar ela do momento ruim que ela está vivendo,
+[0:00:55] das experiências ruins ou da fase que ela está vivendo para o maior sonho dela,
+[0:00:59] seja esse só um benefício muito grande ou acabar com uma dor muito grande dela.
+[0:01:05] O seu produto é isso. E como que você desperta o desejo numa pessoa?
+[0:01:09] Bom, o desejo existem algumas formas de você despertar o desejo, mas o conceito que você tem que entender,
+[0:01:16] um conceito que é bacana você entender é compreender que o desejo é criado por uma mistura de sentimentos.
+[0:01:24] Mas internamente se a gente for resumir, sintetizar o que é o desejo é uma vontade grande,
+[0:01:33] uma vontade incontrolável por algo com uma curiosidade. Porque a gente só tem uma vontade incontrolável
+[0:01:41] daquilo que a gente não tem ainda. Você concorda comigo? Pense comigo.
+[0:01:44] Alguma vez você já comprou algo que você queria muito, que você tinha desejo, você já comprou?
+[0:01:49] Então assim, caraca, eu sonhava muito em ter um MacBook.
+[0:01:54] Você comprou um MacBook e hoje o MacBook pro mim é só um computador, não é nada demais.
+[0:01:58] Às vezes você sonhava muito em ter um Tennis. E aí quando você compra o Tennis,
+[0:02:03] duas semanas já estará, você está tratando de qualquer forma o Tennis.
+[0:02:07] Vocês entendem? Por quê? Porque é uma tua curiosidade.
+[0:02:10] Se a gente for levar pro lado da tela de relacionamento, às vezes você está
+[0:02:14] puta interessado na pessoa e depois que você sai com a pessoa, beleza, não tem mais tanta vontade.
+[0:02:19] Por quê? Matou a curiosidade, você já conheceu a pessoa.
+[0:02:22] Então o desejo ele é uma vontade incontrolável, uma vontade muito forte e que é pautada na curiosidade.
+[0:02:30] A curiosidade, ela alimenta sentimentos do ser humano que são capazes de movimentar massas.
+[0:02:36] Quando você, por exemplo, eu gosto de usar muita teoria do teco na manhã,
+[0:02:40] eu tenho certeza que não é só comigo que quando um amigo liga, sei lá, 10 horas da noite,
+[0:02:46] eu não sei, manda uma mensagem, cobata, mano, tem um negócio pra te contar que se não está ligado,
+[0:02:52] mano, aconteceu um negócio muito foda aqui. Aí você fala, mano, quem que foi? Aí ele fala assim,
+[0:02:56] não, mano, amanhã de manhã eu te coloco. Ou então, não, eu quero falar isso especialmente com você.
+[0:03:00] Fudeu, eu não vou dormir. Eu vou ficando ansioso, vou ligar pra esse cara até ele me contar o que é.
+[0:03:05] Por quê? Curiosidade. A curiosidade é quem se deseja.
+[0:03:09] Não acham os meus vídeos na curiosidade. Ok, cobata, entende.
+[0:03:13] Preciso criar esse desejo na pessoa. Eu preciso que ela tenha esse ponto emocional comigo.
+[0:03:18] Eu preciso que ela tenha esse desejo, essa vontade incontrolável.
+[0:03:23] E eu me entendi que eu preciso de curiosidade. Como fazer isso? Bom, a melhor maneira de você fazer isso
+[0:03:29] é você apresentando o produto de uma forma curiosa, uma forma que ela nunca tenha visto antes.
+[0:03:37] Vou dar um exemplo, tá? Um exemplo assim criado do Alenha aqui, tá?
+[0:03:40] Vou supor que tem um suplemento em que um dos ingredientes dele é, sei lá, cimento fresco.
+[0:03:48] Vou dar um exemplo, tá? Cimento fresco. Não existe outro suplemento para o cimento fresco.
+[0:03:53] E aí você fala assim, cara, esse ingrediente aqui, o cimento fresco, ele age no seu cor capilar,
+[0:04:01] fazendo que os poros da cabeça abram e o pelo possa voltar a crescer.
+[0:04:07] Tô dando um exemplo, isso, Druchul, aqui. Você entende enquanto que isso é curioso,
+[0:04:10] por que, cara, imagina, você chama a atenção do cara que tem problema de cabelo.
+[0:04:13] Aí depois você criou o interesse dele falando que poderia existir uma solução.
+[0:04:17] E aí você fala de um tal de cimento que abre os poros e faz o cabelo crescer,
+[0:04:22] ele nunca ouviu isso. E agora ele começa a ficar curioso.
+[0:04:25] Só tem um jeito de ele descobrir, comprando seu produto.
+[0:04:28] E aí, como que você vai apresentar esse benefício? Você criou a curiosidade.
+[0:04:33] Você começou a criar o desejo dele. Agora ele tá... Mas que como assim?
+[0:04:38] Agora você apresenta o maior benefício da vida dele.
+[0:04:40] Agora você mostra o que a gente é onde Future Pacing, que é o estado futuro.
+[0:04:45] É como ele quer ser. Lembra que eu te falei?
+[0:04:47] O seu produto é a ligação de como ele tá hoje para o maior sonho dele.
+[0:04:50] Agora você vai apresentar o maior sonho dele.
+[0:04:52] Então, somente, entre aspas, né?
+[0:04:54] Somente através desse cimento que tem no nosso produto,
+[0:04:57] é que ele vai poder parar de usar boné para esconder a calvice dele.
+[0:05:02] Para de receber piadinha do amigo.
+[0:05:04] Para de ter insegurança com a mulher. Entende?
+[0:05:07] Então, você mostra uma curiosidade.
+[0:05:10] Pode ser um ingrediente que tem no produto.
+[0:05:12] Pode ser um jeito de apresentar o produto.
+[0:05:16] Pode ser algo que você sentiu quando...
+[0:05:18] Você pode falar algo que você sentiu quando experimentou esse produto.
+[0:05:21] Pô, esse produto aqui, ele agiu de uma forma no meu corpo,
+[0:05:24] porque eu senti minha mão fazendo tal coisa e etc.
+[0:05:27] Eu sentia o meu pelo crescendo.
+[0:05:29] E depois disso, toda mulher que eu saía, ela falava,
+[0:05:33] nossa, o quanto que o meu cabelo era bonito.
+[0:05:35] Ou então, depois disso, a primeira coisa que eu fiz,
+[0:05:38] foi no barbeiro lá e mandar um penteado maneiro no meu cabelo, etc.
+[0:05:42] Esse é o maior sonho do cara.
+[0:05:44] Você mostrou uma curiosidade, que é o cimento,
+[0:05:46] que é o ingrediente, que é algo que ele nunca ouviu,
+[0:05:49] que age no corpo e você colocou ele.
+[0:05:53] Se você tiver isso, você realizou seu maior sonho da vida.
+[0:05:56] É assim que a gente quer o desejo.
+[0:05:58] Imagina, no meu caso, eu sou o cara que, por exemplo,
+[0:06:01] eu gosto muito de academia.
+[0:06:02] Pode não parecer que eu sou frango, mas eu gosto muito de academia.
+[0:06:06] Se alguém chegasse para mim, é que eu não sou um frango que saia comprando para a internet.
+[0:06:11] Eu trabalho com marketing.
+[0:06:12] Mas eu sou o cara só que eu gosto de academia.
+[0:06:14] E alguém falasse, cara,
+[0:06:16] eu fiquei sabendo de uma semente, de uma planta,
+[0:06:20] que se você comer todo dia de manhã,
+[0:06:22] a sua testosterona bate mil de testosterona natural
+[0:06:26] e você ganha uns 5 kg de massa magra.
+[0:06:28] Mano, pensando agora no que eu falei,
+[0:06:31] até eu mesmo compraria essa semente.
+[0:06:33] Pelo menos para experimentar.
+[0:06:35] Porque são coisas que me interessam muito.
+[0:06:37] Peraí, o meu maior sonho é ganhar 5 kg de massa seca.
+[0:06:41] Eu não quero usar anabolizante.
+[0:06:44] Então, peraí, o cara me apresentou uma solução natural,
+[0:06:47] uma semente, como assim, eu não comei a falar dessa semente.
+[0:06:50] Eu só tenho que comer essa semente.
+[0:06:51] Aí eu vou ter mil de testosterona,
+[0:06:53] que é um puta benefício que todo homem quer
+[0:06:55] e ainda por si eu vou ganhar 5 kg de massa.
+[0:06:57] Cara, isso é incrível.
+[0:06:59] Foda-se, eu quero comprar essa semente.
+[0:07:01] Eu compraria, hoje eu compraria essa semente.
+[0:07:03] Para testar, nem que seja para testar.
+[0:07:05] E aí tem um botãozinho lá depois,
+[0:07:06] falando que você pode comprar ali na hora, quando te conta, por exemplo.
+[0:07:09] Imagina, eu compraria.
+[0:07:10] Entendeu?
+[0:07:11] Então é uma curiosidade, algo que a pessoa nunca ouviu,
+[0:07:13] algo que ela não sabe o que é,
+[0:07:15] algo que ela não consegue atingir sem o seu produto.
+[0:07:18] E se ela usar, ela é a maior sonho da vida dela.
+[0:07:21] É assim que você cria o desejo.
+[0:07:24] Agora, onde estão essa,
+[0:07:26] o ingrediente, a coisa diferente,
+[0:07:29] é o que nós chamamos de mecanismo único.
+[0:07:32] E isso, cada produto vai ter o seu.
+[0:07:34] E você pode criar mecanismos diferentes.
+[0:07:38] Você pode encontrar mecanismo no produto
+[0:07:41] que outras pessoas não viram.
+[0:07:42] Você pode apresentar ele de uma forma
+[0:07:44] que ninguém apresenta.
+[0:07:45] E assim, estourar, de vender.
+[0:07:47] Mas o seu foco, o que tem na sua cabeça
+[0:07:49] é trabalhar as emoções dessa pessoa.
+[0:07:51] Quais emoções, principalmente?
+[0:07:53] A emoção de dor, algo que ela quer se afastar,
+[0:07:56] algo que ela não aguenta mais passar.
+[0:07:58] A emoção de benefício, de felicidade,
+[0:08:00] algo que ela quer muito atingir.
+[0:08:02] E a emoção de curiosidade.
+[0:08:04] Ela só consegue atingir isso.
+[0:08:05] Se afastar dessa dor,
+[0:08:06] ou atingir esse benefício,
+[0:08:08] se tiver esse semgredinho que ela não sabe
+[0:08:11] como é, ela não consegue atingir
+[0:08:13] sem isso aqui.
+[0:08:14] E isso aqui, só o seu produto tem.
+[0:08:17] É assim que você cria o desejo.
+[0:08:19] Entendeu?
+[0:08:20] Então, bora para a próxima aula,
+[0:08:21] a gente vai aprender a pegar esse desejo da pessoa
+[0:08:24] e canalizar numa venda.
+[0:08:26] Bora!
