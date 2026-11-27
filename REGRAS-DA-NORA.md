@@ -32,7 +32,7 @@
 
 ## 2. Honestidade e segurança (nunca; não vira teste)
 1. Nunca: depoimento, resultado de cliente, número de atendidas, celebridade, credencial ou preço inventados. Prova só real (Trustpilot de `provas-trustpilot/`). (HONESTIDADE; P42)
-2. Nunca: nome do app, preço, comissão, afiliado, "free" ou "grátis" (a leitura é paga). (P15, P41; Appyon)
+2. Nunca: nome do app, preço, comissão, afiliado. (P15, P41; Appyon) **O "free" saiu do "nunca" em 27/11 ~14h10, por decisão do aluno** ("o funil ta validado… a questão é fazer as pessoas chegarem nele. entao usar o free, eu nao vejo problema"): não é falso, porque a VSL abre com "Congratulations on requesting your free card reading" e o pago (US$ 19 e depois US$ 29 por mês) é a guia de 2026, oferecida aos 16:00. Vale só no sentido verdadeiro ("a quick, free reading in my stories"); nunca "completely free", "no cost" nem "free forever". A regra oficial da Appyon diz "NUNCA NO VÍDEO: … 'grátis'" (pesquisa oficial), então a entrada é medida como teste: o checkout e a venda por clique (`FILA`, 27/11).
 3. Nunca afirmar um atributo pessoal dela (pobre, dívida, religião, saúde). A condicional ("If you…") pode. (aula 35, 0:25:07; 16/11)
 4. Nada de saúde ou cura, nem falar em nome de parente falecido. (P15)
 5. Nada a partir de foto de pessoa real, **exceto** a avatar de perfil novo pelo FaceBlend (2 fotos do Pinterest ou Pexels), conferindo que o rosto final não lembra nenhuma das duas. (03/11; 24/11)
