@@ -1,0 +1,35 @@
+{
+ "entrada": "/tmp/claude-0/-workspace-IA-SINTETICO-PRODUTOR/0f1d3084-6c9c-5025-9335-535fd154c68d/scratchpad/n83/out-face/nora83-legenda.mp4",
+ "saida": "/tmp/claude-0/-workspace-IA-SINTETICO-PRODUTOR/0f1d3084-6c9c-5025-9335-535fd154c68d/scratchpad/n83/out-face/nora83-final-FACE.mp4",
+ "crf": 21,
+ "preset": "veryfast",
+ "estilo": "alto-contraste",
+ "itens": [
+  {
+   "tipo": "caixa",
+   "ini": 55.673,
+   "fim": 58.878988,
+   "x": 0,
+   "y": 470,
+   "tamanho": 10,
+   "linhas": [
+    "Your 2027 reading:",
+    "[link in the comments]"
+   ],
+   "caixa": {
+    "fundo": [
+     255,
+     255,
+     255,
+     255
+    ],
+    "texto": "#000000",
+    "destaque": "#E53935",
+    "fonte": "bold",
+    "destaque_fonte": "bold",
+    "raio": 14,
+    "sombra": null
+   }
+  }
+ ]
+}
