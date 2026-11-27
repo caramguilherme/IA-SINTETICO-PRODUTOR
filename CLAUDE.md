@@ -111,6 +111,11 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
 - **Dashboard:** para atualizar, editar o CSV, rodar `ferramentas-painel/dashboard/preparar_csv.py`, subir a cópia sem o BOM como asset e dar `update` em `datasets/metricas` (`source.url`, `source.name`, `updated`) com `if_version`; receita completa em `ferramentas-painel/dashboard/COMO-RECRIAR.md`.
 
 ## 4. Diário de decisões (as novas entram aqui, datadas; as anteriores a 17/11 estão em `HISTORICO-CLAUDE-MD.md`)
+- **27/11/2026 ~12h55, a decisão do aluno sobre os 3 de hoje:**
+  - **O nora82 (17h), o nora83 (20h30) e o nora84 (0h00) vão com o mesmo pacote do nora81**, sem teste, como na proposta das 12h25.
+  - **Os painéis saem depois das aulas de copy do Kobata** ("aconselho fazer os paineis depois que eu mandar as aulas de copy"). Quando elas chegarem, eu leio inteiras, salvo como leitura obrigatória e digo se mudaria algo na copy do pacote.
+  - **Os vídeos de hoje não falam de signo:** o pergunta do aluno era só essa. A série dos signos espera o post da astróloga.
+  - **Vêm do aluno:** vídeos novos na linha do Robert, pelo Drive.
 - **27/11/2026 12h25, a leitura das métricas de 27/11** (`METRICAS-NORA-LEIA.md`, 27/11 12h20):
   - **O nora81 destravou o Insta:** 1.352 views com ~9 h e subindo (17 compartilhamentos, 17 salvos), contra 127 do nora80. É o maior falado desde o nora50. Mudaram 4 coisas (as frases de reinício, o cenário da mesa com a estátua e a carta, o pedido "222" na legenda e o horário), e a diferença maior está nos 3 s.
   - **O Face está parado desde 25/11:** o nora80-FACE fez 319 e o nora81-FACE, 282, e os cliques do Tracker caíram de 16 para 1.
