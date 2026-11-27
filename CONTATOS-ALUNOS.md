@@ -1418,3 +1418,20 @@ tipo, a copy fala de dinheiro e num video vc troca pra amor ou familia, e o rest
 vlw demais pela ajuda mano
 **Fato do contato:** o Pedro⚡ repete o vídeo que viralizou com a mesma copy e outro cenário, e às vezes troca o "ângulo" (um detalhe da copy, outro assunto).
 
+
+## SUGERIDO (27/11/2026 12h35; o aluno: "esqueci de responder o pedro" e "falta resp o lito tambem"; uma mensagem para cada um; contam como enviadas)
+**Ao Pedro⚡ (DM; a sugerida de 26/11 21h15 não tinha ido; agora com o resultado do nora81, que seguiu a dica dele, a mesma copy com outro cenário):**
+```
+ahh entendi
+fiz isso ontem: mesma copy, cenario e roupa diferentes, e um video foi pra 1,3k no insta em 9h. tava travado em 120-150
+tipo, no angulo a copy fala de dinheiro e num video vc troca pra amor ou familia, e o resto fica igual?
+vlw demais pela ajuda mano
+```
+**Ao Lito.Miguelito (DM; a resposta dele de 26/11 18h10: "a mesma coisa por aqui. venda do face / acho q só nao entendi o 4… do take / no face to com 10k de seguidor em uma conta e 9,5k em outra / no insta nao ta batendo nem 1k / to achando a entrega do face bem melhor / e por ai?"):**
+```
+massa mano, entao o face ta sendo o caminho pra nos dois kkk
+o 4 é assim: pego um video que ja rodou no face e gero de novo so o take 1 (os primeiros segundos), com outra fala. o resto fica igual. no meu caso o take novo foi "if your name starts with the letter A, J, M…" e esse video foi pra 4,5k
+no insta ontem 1 video destravou e foi pra 1,3k em 9h, o 1º falado acima de mil desde dia 10
+10k de seguidor no face é bastante hein. quantos videos por dia vc posta em cada pagina?
+```
+**Por quê:** a pergunta ao Lito serve à leitura do Face parado desde 25/11 (`METRICAS-NORA-LEIA.md`, 27/11 12h20). **Fato do contato:** o Lito também vende pelo Face (2 Páginas, com 10 mil e 9,5 mil seguidores), e o Insta dele não passa de 1 mil.
