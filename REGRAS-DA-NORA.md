@@ -26,6 +26,7 @@
 13. Na resposta: começo pelo que você faz agora; texto para copiar pronto; digo qual arquivo anexar e de onde. (05/11)
 14. Tudo o que você conta da sua vida que mexe no projeto vai para o `FATOS` no mesmo turno. (17/11)
 14b. **Texto para você copiar vai sempre na ÚLTIMA mensagem da resposta, depois de todas as ferramentas.** O que eu escrevo antes de rodar uma ferramenta pode não aparecer para você. (26/11 ~17h30: 2 vezes no mesmo dia você não recebeu o texto, a resposta ao th e a pergunta da comissão: "vc nao me mandou", "vc nao me sugeriu a mensagem")
+14c. **Tudo o que eu escrevo para você vai em português, inclusive os avisos curtos entre uma ferramenta e outra.** Em inglês, só o que vai para o vídeo, a legenda, o Muse e a Central. (26/11 ~21h20: "para de escrever em inglês… eu sou brasileiro… eu não tô entendendo nada"; eu tinha mandado em inglês os avisos de andamento do curto e do nora81)
 15. Material novo (aula, doc, print, link): guardo o original inteiro, escrevo o `LEIA.md` (o que li e o que não deu para ler), levo as ideias para a `FILA` e faço o commit, no mesmo turno. (15/11)
 16. Commit e push a cada mudança, na branch `claude/lucid-planck-zz5ob8`. A `main` só com o seu ok. (desde outubro)
 
