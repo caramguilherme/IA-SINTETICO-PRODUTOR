@@ -1419,7 +1419,7 @@ vlw demais pela ajuda mano
 **Fato do contato:** o Pedro⚡ repete o vídeo que viralizou com a mesma copy e outro cenário, e às vezes troca o "ângulo" (um detalhe da copy, outro assunto).
 
 
-## SUGERIDO (27/11/2026 12h35; o aluno: "esqueci de responder o pedro" e "falta resp o lito tambem"; uma mensagem para cada um; contam como enviadas)
+## SUGERIDO (27/11/2026 12h35; enviadas pelo aluno às ~12h35; o aluno: "esqueci de responder o pedro" e "falta resp o lito tambem"; uma mensagem para cada um; contam como enviadas)
 **Ao Pedro⚡ (DM; a sugerida de 26/11 21h15 não tinha ido; agora com o resultado do nora81, que seguiu a dica dele, a mesma copy com outro cenário):**
 ```
 ahh entendi
