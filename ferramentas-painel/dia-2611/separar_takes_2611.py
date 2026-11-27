@@ -16,7 +16,10 @@ dur = float(subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=d
 INICIOS = {
     'nora80': ['if your name', "there's a woman", "i don't know", 'the universe saw', 'but if you', 'st michael the', 'i can already', 'in seven minutes', 'now save this', 'if you did', 'but the universe', "that's why i left a", 'so tap my', 'if your name', "that's why i left you"],
     'nora81': ['if your name', "there's a woman", 'now this part', "i don't know", 'the universe saw', 'but if you', 'st michael the', 'i can already', 'in seven minutes', 'now save this', 'but it gets', 'but the universe', "that's why i left a", 'so tap my', 'if your name', "that's why i left you"],  # 26/11 ~21h15: as 2 frases de reinício
-    'nora82': ['if your name', "there's a woman", "i don't know", 'the universe saw', 'but if you', 'st michael the', 'i can already', 'in seven minutes', 'now save this', 'if you did', 'but the universe', "that's why i left a", 'so tap my', 'if your name', "that's why i left you"],
+    # 27/11: o nora82, o nora83 e o nora84 são o pacote do nora81 (com as 2 frases de reinício; build_dia_2711.py)
+    'nora82': ['if your name', "there's a woman", 'now this part', "i don't know", 'the universe saw', 'but if you', 'st michael the', 'i can already', 'in seven minutes', 'now save this', 'but it gets', 'but the universe', "that's why i left a", 'so tap my', 'if your name', "that's why i left you"],
+    'nora83': ['if your name', "there's a woman", 'now this part', "i don't know", 'the universe saw', 'but if you', 'st michael the', 'i can already', 'in seven minutes', 'now save this', 'but it gets', 'but the universe', "that's why i left a", 'so tap my', 'if your name', "that's why i left you"],
+    'nora84': ['if your name', "there's a woman", 'now this part', "i don't know", 'the universe saw', 'but if you', 'st michael the', 'i can already', 'in seven minutes', 'now save this', 'but it gets', 'but the universe', "that's why i left a", 'so tap my', 'if your name', "that's why i left you"],
     'nora77': ['put cinnamon in', "there's a woman", "i don't know", 'the universe saw', 'but if you', 'st michael the',
                'i can already', 'in seven minutes', 'now save this', 'if you did', 'but the universe', "that's why i left a",
                'so tap my', 'if your name', "that's why i left you"],
@@ -24,10 +27,10 @@ INICIOS = {
                'sometimes a big', 'and because this new season opens differently for every woman, i left',
                'now pay attention', 'if your name', 'and because this new season opens differently for every woman, check'],
 }[NN]
-ORDEM_FACE = {'nora80': [14, 2, 3, 4, 6, 7, 11, 15], 'nora81': [15, 2, 3, 4, 5, 7, 8, 12, 16], 'nora82': [14, 2, 3, 4, 6, 7, 11, 15], 'nora77': [14, 2, 3, 4, 6, 7, 11, 15], 'nora78': [10, 2, 3, 4, 5, 6, 7, 11]}[NN]
+ORDEM_FACE = {'nora80': [14, 2, 3, 4, 6, 7, 11, 15], 'nora81': [15, 2, 3, 4, 5, 7, 8, 12, 16], 'nora82': [15, 2, 3, 4, 5, 7, 8, 12, 16], 'nora83': [15, 2, 3, 4, 5, 7, 8, 12, 16], 'nora84': [15, 2, 3, 4, 5, 7, 8, 12, 16], 'nora77': [14, 2, 3, 4, 6, 7, 11, 15], 'nora78': [10, 2, 3, 4, 5, 6, 7, 11]}[NN]
 # palavras que saem dentro de um take do Face: (take, palavra)
-TIRAR_FACE = {'nora77': [(4, 'money,')], 'nora78': [], 'nora80': [], 'nora81': [], 'nora82': []}[NN]  # 26/11: o "and money," sai pela energia do áudio (LICOES-ATIVAS 8.2)
-N_INSTA = {'nora77': 13, 'nora78': 9, 'nora80': 13, 'nora81': 14, 'nora82': 13}[NN]
+TIRAR_FACE = {'nora77': [(4, 'money,')], 'nora78': [], 'nora80': [], 'nora81': [], 'nora82': [], 'nora83': [], 'nora84': []}[NN]  # 26/11: o "and money," sai pela energia do áudio (LICOES-ATIVAS 8.2)
+N_INSTA = {'nora77': 13, 'nora78': 9, 'nora80': 13, 'nora81': 14, 'nora82': 14, 'nora83': 14, 'nora84': 14}[NN]
 # take que o Muse gerou com uma frase a mais no fim: o take termina antes dela (27/11: o T15 do nora81 saiu com "Check the first comment below." depois do "be very careful.")
 CORTA_FIM = {'nora81': {15: 'check the first comment'}}.get(NN, {})
 
