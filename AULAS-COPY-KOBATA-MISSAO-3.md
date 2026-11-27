@@ -16,7 +16,7 @@
 | 6. Ganchos | 17:14 | lida (27/11 14h50) |
 | 7. Frases de transição | 8:30 | lida (27/11 14h59) |
 | 8. Mecanismo único | 8:30 | lida (27/11 15h04) |
-| 9 em diante | | o aluno, 15h00: "falta outras aulas ainda"; a aula 8 termina com "a gente vai aprender a pegar esse desejo… e canalizar numa venda" (a ação, o CTA) |
+| 9 a 12 | | faltam os links (o aluno, 27/11 ~15h05: "sao 12 aulas, ja mandei 8"); a aula 8 termina anunciando a 9: "pegar esse desejo… e canalizar numa venda" (a ação, o CTA) |
 
 ---
 
@@ -258,7 +258,7 @@
   - **o mecanismo:** "this change only happens for women whose energy is aligned with abundance… a quick reading… that will reveal whether you're one of those women". Só a leitura diz se ela está alinhada, e é o "segredinho que só o seu produto tem";
   - **o future pacing:** "the doors that wouldn't open will finally open", a notícia às 10 e "one step away from everything you've dreamed of".
 - **"A frequência" da mineração de 26/11** (a virada antes do CTA em 6 vídeos de 3 contas) é outro mecanismo, já na `FILA` como "o CTA da frequência × o quick reading" (03/12). A aula 8 dá a fonte de por que ele pode vender mais.
-- **Fica fora:** inventar ingrediente, poder ou prova da leitura (o "cimento" é exemplo inventado dele; a HONESTIDADE). O mecanismo da Nora só usa o que o funil já diz: as 3 cartas e a mensagem do universo para 2027. E as cartas não entram na fala antes do quiz (a regra de 03/11).
+- **O mecanismo inventado (revisto em 27/11 ~15h05, o aluno: "eu autorizo a nao ficar fora"):** **entra o mecanismo espiritual da narrativa**, como o nicho já faz e como o Arcanjo, a energia e os 7 minutos do pacote, que não dão para provar e nem para desmentir. Exemplos: "a frequência de 2027", "a porta que se abre para quem está alinhada", um "segredo" de energia que só a leitura revela. **Continua fora o que é falso sobre o produto que ela paga:** dizer que a leitura faz algo que não faz (a data exata do dinheiro, a cura, o resultado garantido), um ingrediente ou uma prova que não existem, um depoimento, uma credencial ou um número inventados. Isso engana quem compra, é proibido pela Appyon ("promessa de dinheiro, quantia, cura, prazo ou resultado garantido") e sobe o chargeback (a call do Kobata de 11/11, 0:27:05). As cartas seguem fora da fala antes do quiz (a regra de 03/11).
 
 ### Muda o pacote de hoje (nora82 a nora84)?
 **Não.** O mecanismo (a energia alinhada, que só a leitura revela) e o future pacing estão no pacote do nora81.
