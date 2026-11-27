@@ -22,6 +22,7 @@
 ### No ar (ler na data)
 | Teste | Os braços | Quando ler |
 |---|---|---|
+| **O story com os campos trancados (`story-2611-trancado`, 27/11 00h10, Insta e Face)** | contra o `story-1811` (28 viewers, 7 toques) e o do "gift" (19 views, 0 toques) | 27/11 ~22h a 28/11 00h10: toques no adesivo por viewer e cliques no Tracker (STORYIG e FACE) |
 | **O desafio de pausar (o teste de 26/11, o noracurto2611, postado às 23h56, só no Insta)** | a cópia do v07 e do v21 do Robert (a silhueta, "Only 1% can pause at the right time!", o "YOU DID IT!" só no quadro do encaixe; 4,25 s) × o ini1811 (o outro curto sem fala: 21 visitas ao perfil) | 27/11 ~23h56: o tempo médio contra a duração (passou de 4,25 s = gente tentando de novo), as visitas ao perfil, os toques no story e a Índia |
 | **A frase de reinício (o teste de 27/11, no nora81, 2h; pedido do aluno, 26/11 ~21h15)** | o nora81 (as letras + o corpo da maioria + "Now, this part matters." depois da 2ª frase e "But it gets better." antes do "amanhã às 10") × o nora80 (18h50 de 26/11, o mesmo corpo sem as 2 frases) e o nora82 (17h de 27/11, sem teste) | 28/11 ~02h: a retenção aos 3, 10 e 15 s, o skip e as visitas ao perfil (olhar a Índia: 2h é depois da janela sem Índia) |
 | **A 2ª frase como pico: passou para 28/11** (decisão do aluno, 26/11 ~21h40: "o Nora 82 amanhã… vai com o corpo da maioria sem teste nenhum") | as letras + "You’re about to experience the luckiest days of your entire life. Are you ready?" (do m11) × a receita | no vídeo de 28/11 que levar o teste |
