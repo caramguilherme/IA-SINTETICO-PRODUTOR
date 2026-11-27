@@ -1,4 +1,4 @@
-# O que espera você (27/11/2026 01h10)
+# O que espera você (27/11/2026 01h10; posto em dia às 15h30)
 
 A versão de 26/11 09h10 está no histórico do git. Aqui fica só o que ainda está aberto, numerado, para você responder pelo número (ex.: "1- sim / 2- não").
 
@@ -8,9 +8,10 @@ A versão de 26/11 09h10 está no histórico do git. Aqui fica só o que ainda e
 - ~~02h00: o nora81~~ **postado às 02h43 no Insta e no Face.** A régua é com ~24 h (~02h43 de 28/11).
 - **10h:** a mensagem ao Gustavo Alves (eu ponho os números em dia antes; lembrete marcado).
 - **12h no Face: ainda sem peça.** Se quiser, eu monto: um corpo que já rodou no Face + um Take 1 novo das letras (1 clipe no Muse).
-- **17h:** o nora82 (as letras + o corpo da maioria, no quarto, blusa verde-escura; sem teste), Insta e Face. Painel pronto: https://claude.ai/artifact/Ybw3LKemdiLBF62SvDNsmZ
+- **17h:** o nora82 (o pacote do nora81, no quarto, blusa verde-escura; sem teste), Insta e Face. Painel: https://claude.ai/artifact/Ybw3LKemdiLBF62SvDNsmZ
 - **19h:** o lembrete dos minutos do GeeLark (item 10).
-- **20h30 e 0h00 (Insta e Face): ainda sem painel.** Pela regra 13.3b, vão com o que dá certo (as letras + o corpo da maioria, cada um com outra roupa e outro cenário). Me dê o "pode montar" quando quiser.
+- **20h30:** o nora83 (o mesmo pacote, na sala, blusa vinho). Painel: https://claude.ai/artifact/9wvWwTZcyLY9wvY4w3yXTx
+- **0h00:** o nora84 (o mesmo pacote, à escrivaninha, suéter azul-marinho). Painel: https://claude.ai/artifact/HicWCCrkeW7V71YMAdQGiN
 - **Antes das 00h10 de 28/11:** repostar o story nas 2 redes (o dos campos trancados vence nessa hora).
 
 ---
@@ -55,6 +56,15 @@ Aprova a ordem? Pode trocar qualquer dia.
 - **Se fizer:** 1 perfil só, antigo (6 meses ou mais) ou comprado, com 2FA, e nunca vários convites de uma vez.
 - A decisão é sua.
 
+### 5. O "free" e a série dos signos nos mesmos dias (nova, 27/11 ~15h45; você: "depois vejo")
+- **O "free" já está decidido:** entra em todos os vídeos a partir de 28/11, no CTA ("a quick, free reading in my stories"). Ele se mede pelo checkout e pela venda por clique.
+- **A série dos signos (item 1), se você aprovar para 28/11 a 01/12, muda o ângulo nos mesmos dias.** São 2 mudanças juntas. Dá para ler as duas separadas, porque o "free" se mede pelo checkout e a série pelas views e pelas visitas ao perfil. Mesmo assim, uma pode atrapalhar a leitura da outra.
+- **As opções:**
+  - (a) as duas juntas a partir de 28/11;
+  - (b) o "free" em 28/11 e a série depois de uns dias, quando o "free" já tiver algum número;
+  - (c) a série primeiro e o "free" depois.
+- O mapa dos 3 eixos (formato × ângulo × persona) está no topo da `FILA-DE-IDEIAS-E-TESTES.md`.
+
 ---
 
 ## Para você fazer
@@ -71,7 +81,7 @@ Aprova a ordem? Pode trocar qualquer dia.
 
 ## Material que espera você
 - **O post da astróloga** (as fotos ou os prints das cores e dos cristais de cada signo), para a série do item 1.
-- **As aulas de copy do Kobata.**
+- ~~As aulas de copy do Kobata~~ (as 12 lidas em 27/11; `AULAS-COPY-KOBATA-MISSAO-3.md`).
 - A missão 08 ("Dúvidas frequentes") da área de membros.
 - As gravações do sprint, que começa em 30/11.
 - A aula de Muse do Gustavo e o `.md` com que ele treinou o Muse, quando saírem.
