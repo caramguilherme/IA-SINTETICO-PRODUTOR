@@ -111,6 +111,12 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
 - **Dashboard:** para atualizar, editar o CSV, rodar `ferramentas-painel/dashboard/preparar_csv.py`, subir a cópia sem o BOM como asset e dar `update` em `datasets/metricas` (`source.url`, `source.name`, `updated`) com `if_version`; receita completa em `ferramentas-painel/dashboard/COMO-RECRIAR.md`.
 
 ## 4. Diário de decisões (as novas entram aqui, datadas; as anteriores a 17/11 estão em `HISTORICO-CLAUDE-MD.md`)
+- **27/11/2026 12h25, a leitura das métricas de 27/11** (`METRICAS-NORA-LEIA.md`, 27/11 12h20):
+  - **O nora81 destravou o Insta:** 1.352 views com ~9 h e subindo (17 compartilhamentos, 17 salvos), contra 127 do nora80. É o maior falado desde o nora50. Mudaram 4 coisas (as frases de reinício, o cenário da mesa com a estátua e a carta, o pedido "222" na legenda e o horário), e a diferença maior está nos 3 s.
+  - **O Face está parado desde 25/11:** o nora80-FACE fez 319 e o nora81-FACE, 282, e os cliques do Tracker caíram de 16 para 1.
+  - **Fechados sem ganho:** o curto do desafio de pausar (148) e a abertura que pergunta (231).
+  - **O story trancado:** 1 clique em 17 viewers.
+  - **A proposta ao aluno:** o pacote do nora81 nos 3 vídeos da noite, cada um com roupa e cômodo novos. A mensagem ao Gustavo Alves foi atualizada com o nora81.
 - **27/11/2026 01h10, as pendências refeitas e a série dos signos** (o aluno: "me manda um MD… o que está pendente e como que está a lista de testes"; e a ideia dele de usar o post de uma astróloga brasileira, com as cores e os cristais de 2027 de cada signo). O `PENDENCIAS-DO-ALUNO.md` foi refeito (27/11 01h10):
   - hoje com hora;
   - 4 decisões: (1) a série, (2) a ordem dos testes, (3) as avatares e (4) o 2º administrador;

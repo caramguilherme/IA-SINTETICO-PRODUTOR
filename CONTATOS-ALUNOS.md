@@ -1308,6 +1308,16 @@ no insta os dois travaram em 126 views. desde 10/11 so 1 falado meu passou de 25
 oq vc faria pra destravar esse insta: seguir postando nele ou abrir outro?
 ```
 
+**[27/11 12h25, a versão final, com o nora81, depois das métricas de 27/11; o aluno: "a mensagem do gustavo vc vai atualizar dps, quando eu te mandar as metricas"]**
+```
+fala gustavo, tudo certo?
+voltando com resultado da mentoria de segunda (23/11)
+segui oq vc falou (casa simples, avatar menos mistica) e mexi no body: testei o body que mais se repete nas contas do nicho contra um mais leve
+no face o body da maioria foi pra 4,5 mil e 3,6 mil views, o leve ficou em 277. e saiu minha 1ª venda, do face
+no insta tava tudo travado entre 120 e 250 desde 10/11, mas o video de hoje de madrugada foi pra 1,3 mil em 9h, com 17 compartilhamentos e 17 salvos. mesmo body, com 2 frases curtas no meio pra segurar ("now, this part matters")
+quando um video destrava assim, oq vc repete nos proximos: a mesma copy com outra roupa e cenario, ou outra coisa?
+```
+
 **Ao Pedro⚡ (DM; volta com o resultado da dica da bandeira, de 16/11 11h38):**
 ```
 fala pedro, tudo certo?

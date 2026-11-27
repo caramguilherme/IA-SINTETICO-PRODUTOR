@@ -1472,3 +1472,69 @@ O 1º vídeo da regra nova (1 teste por dia; o resto no que vem dando certo): as
 - **no Face:** views, distribuição, tempo médio e os cliques no link, contra o nora76-FACE e o nora77-FACE na mesma idade.
 
 O nora81 vai à noite e o nora82 (o teste da 2ª frase) às 17h de 27/11.
+
+## 27/11/2026 12h20: a leitura dos prints de 27/11 (Tracker, Face e Insta; `MATERIAIS-PRINTS-METRICAS-27-11/`)
+**1. O nora81 destravou o Insta (parcial, ~9 h).**
+- **Os números:** 1.352 views, ainda subindo e acima do reel típico desde a 1ª hora, contra a faixa de ~125 desde 10/11 (o nora80, o mesmo corpo, fez 127 com ~17 h).
+- **Na planilha** (`recordes.py`): é o maior falado desde o nora50 (1.678, 10/11) e o 4º falado de todos, atrás do nora49 (2.043), do nora50 e do nora48 (1.638).
+- **O engajamento:** 17 compartilhamentos (empata com o nora50; o recorde é o nora45, com 23), 17 salvos, 36 curtidas e 13 comentários.
+- **O perfil:** 2 visitas e 0 follow.
+- **O público:** 99,9% de não seguidores; EUA 23,8%, Austrália 12,6% e Reino Unido 7,1%, sem a Índia no top 5.
+- **O que mudou do nora80 para o nora81:**
+  - (a) o teste, as 2 frases de reinício;
+  - (b) o cenário: a mesa com a estátua de São Miguel, a carta na mão e o suéter creme, contra o carro, a ametista e a blusa preta;
+  - (c) o pedido da legenda: "Type 222 if your letter was called" contra "Comment the first letter of your name";
+  - (d) o horário: 02h43 contra 18h50.
+
+  Com 4 diferenças, não dá para dizer qual delas destravou.
+- **A curva (nora81 × nora80):**
+
+  | | 3 s | 10 s | 15 s | 20 s |
+  |---|---|---|---|---|
+  | nora81 | 55% | 31% | 21% | 18% |
+  | nora80 | 44% | 27% | 20% | 13% |
+
+  - A maior diferença está nos 3 primeiros segundos, onde a fala é a mesma (as letras). Ali pesa o visual.
+  - De 15 a 20 s, logo depois de "Now, this part matters." (~14 s), o nora81 perdeu 3 pontos e o nora80, 7. É um sinal a favor da frase, pequeno e de 1 caso.
+- **O skip não explica sozinho:** o nora79 teve skip melhor (44,5%) e parou em 135. O que separa o nora81, e antes o nora75 (695, com 5 compartilhamentos e 5 salvos), dos que travam é o compartilhamento e o salvo. É o 2º caso da hipótese de 26/11 10h05.
+- **Pela régua do Kallaway:**
+  - skip de 51,1% (médio);
+  - envio de 1,3% (abaixo dos 2%);
+  - curtida de 2,9% (abaixo dos 6%);
+  - salvo de 1,4% (perto de 1,5%).
+- **Pelo Robert:** a maior queda continua no gancho, com 45% saindo nos 3 s; depois a curva cai devagar.
+- **O gargalo agora é depois das views:** 2 visitas em 1.352 (0,15%).
+
+**2. O Face está parado desde 25/11, e os cliques caíram junto.**
+- **As letras + o corpo da maioria não repetiram** o nora76-FACE (4.520) e o nora77-FACE (3.642):
+  - o nora80-FACE fez 319 (+0,3x, 12 s, 2 seguidores, ~17 h);
+  - o nora81-FACE fez 282 (+0,4x, 1 seguidor, ~9 h). Os 16 s dele são o maior tempo médio da Página entre os posts com 100+ views (antes, 14 s).
+- **Os outros:**
+  - o nora79-FACE fechou em 334 (+0,9x, 10 s);
+  - o nora77-VAR2511-FACE, em 231 (−0,8x, 5 s): a abertura que pergunta segurou menos que as letras;
+  - o nora75-VAR2511-FACE parou em 266;
+  - os 2 grandes também pararam (4.520 e 3.642).
+- **Os cliques do Tracker:** 16 em 25/11 e 1 em 26/11. Os cliques do Face seguem o post que está crescendo, e desde 25/11 nenhum cresceu.
+- **Hipótese, sem prova:** o mesmo corpo da maioria rodou 7 vezes na Página em 4 dias, e a copy pode ter cansado no Face (aulas 31 e 32 falam em 7 a 10 dias).
+- **Os cliques no link** apareceram como "Insights não disponíveis" nos 3 posts.
+
+**3. O curto (noracurto2611) não pegou.**
+- **No Insta:** 148 views com ~12 h, parado desde ~5 h.
+- **A retenção:** skip de 83%, 32% aos 2 s e 14% aos 4 s, e tempo médio de 2 s num vídeo de 4,25 s: ninguém tentou de novo.
+- **O perfil:** 0 visita.
+- **O público:** Índia 23,4% e Paquistão 10,6%.
+- **A comparação:** o ini1811 fez 1.705 views e 21 visitas.
+- **No Face:** 3 views (−5,0x). O sem fala no Face travou de novo (R54).
+- Fechado.
+
+**4. O story dos campos trancados (Insta, ~11h40 de vida):**
+- 22 views e 17 viewers (63,6% seguidores);
+- 1 clique no link: é o clique do Insta no Tracker de hoje, que terminou o quiz;
+- 8 pessoas saíram e 0 visitou o perfil;
+- a comparação: o `story-1811` teve 28 viewers e 7 toques; o do "gift", 19 e 0;
+- pouca gente chega ao story porque pouca gente visita o perfil;
+- no Face, o story teve 3 views.
+
+**5. O Tracker:**
+- **26/11:** 1 clique (Face), 2 views do quiz, 0 quiz começado e 0 checkout.
+- **27/11 até 11h36:** 1 clique (Insta), 1 quiz começado e terminado, 0 checkout.
