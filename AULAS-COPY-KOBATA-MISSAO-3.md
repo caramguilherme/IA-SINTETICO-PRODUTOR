@@ -13,7 +13,7 @@
 | 3. Audiência | 14:32 | lida (27/11 14h12) |
 | 4. Personas | 9:33 | lida (27/11 14h33) |
 | 5. AIDA | 7:40 | lida (27/11 14h36) |
-| 6. Ganchos | | falta o link |
+| 6. Ganchos | 17:14 | lida (27/11 14h50) |
 | 7. Frases de transição | | falta o link |
 | 8. Mecanismo único | | falta o link |
 
@@ -189,4 +189,33 @@
 
 ### Muda o pacote de hoje (nora82 a nora84)?
 **Não.** O pacote já tem as 4 letras, e a atenção (a 1ª frase e a 1ª imagem) é a parte que o nora81 acertou: 55% nos 3 s, contra 44% do nora80. "O primeiro som" é a música desde o 1º quadro. O riser e o impact da abertura saíram junto com o pré-gancho (17/11), e não proponho a volta.
+
+---
+
+## Aula 6: Ganchos (17:14)
+
+### O que serve
+- **O gancho é a atenção do AIDA, e "50%, 60% da sua atenção inteira" vão nele** (0:04 a 1:22): tirar a pessoa do "modo zumbi" do feed. "A maior parte do seu tempo você vai dedicar em produzir ganchos" (2:25). O vídeo tem 2 partes: o gancho (a cabeça) e o corpo, que traz o interesse, o desejo e a ação (2:41 a 3:00).
+- **Modelar o que já funciona, não criar** (3:04 a 6:24): "o seu foco tem que ser em identificar padrões que já funcionam". Olhar os virais do público nos primeiros 3 a 5 s: a palavra, o cenário, a música de fundo, as imagens. Os exemplos dele são o chá do nutricionista e a mulher se maquiando no espelho contando do namorado.
+
+  **Na Nora, é a mineração e a receita da maioria** (23/11 e 26/11).
+- **4 tipos de gancho** (6:29 a 11:56):
+  - (1) **o polêmico:** "eu vou expor…", "fui cancelada por…", com cuidado com as palavras para não tomar shadowban. O exemplo de ofensa que ele mostra, ele mesmo diz para não fazer.
+  - (2) **a interrupção de padrão:** "um som chamativo, uma imagem chamativa… a pessoa pensa 'peraí, o que é isso?'".
+  - (3) **o clickbait:** o exagero ou a pergunta ("quanto o homem tem que ganhar…?").
+  - (4) **o contraditório:** "perdi 23 quilos comendo chocolate todos os dias", e depois a história se explica.
+- **A imagem pesa mais do que a fala:** **"a primeira imagem que a pessoa vê é mais importante até mesmo do que a fala, porque a visão vem antes da audição; a frase demora três, cinco segundos para ser ouvida, a imagem é na hora"** (12:47 a 13:03).
+- **Onde achar ganchos** (13:24 a 15:15): os virais do próprio feed; o YouTube, buscando pelo nicho e ordenando por visualizações, para ver o título e a thumbnail (as cores, a letra, a frase).
+- **As emoções do gancho** (15:20 a 16:58): o humor, a polêmica e o contraditório, e **"a curiosidade é o mais forte"**. Exemplo: "…e esse segredinho aqui que eu vou te contar agora". A combinação vai na imagem, na fala e na escrita.
+
+### Na Nora
+- **A 1ª imagem do nora81** (a Nora à mesa com a carta na mão e a estátua de São Miguel, colorida, à esquerda) é a parte do pacote que mais se parece com a "interrupção de padrão". O nora81 subiu os 3 s de 44% para 55%.
+
+  **Por isso, o único ajuste da aula 6 no pacote de hoje: a estátua inteira, à esquerda dela, visível desde o 1º quadro, como no nora81.** No quarto, na sala e na escrivaninha, a estátua podia sair cortada na borda (no criado-mudo, na mesinha). O prompt das 3 imagens agora pede a estátua "fully visible in the frame". Não muda a fala nem o custo.
+- **A curiosidade já está no pacote:** as letras, o "be very careful", o "Now, this part matters." e o "But it gets better.".
+- **Fica fora:** o polêmico com ofensa (a regra de não afirmar atributo dela, aula 35, e a Página única). O contraditório e o clickbait de exagero entram só no que for verdade (a HONESTIDADE: nada de "perdi 23 quilos" inventado).
+- **Reforço na `FILA`:** "o mesmo gancho com um visual mais forte" (2º lote de dicas, 26/11) e o "segredinho" como frase de curiosidade.
+
+### Muda o pacote de hoje (nora82 a nora84)?
+**Só a estátua inteira no 1º quadro**, para ficar igual ao nora81. A fala não muda.
 

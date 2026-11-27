@@ -3,7 +3,8 @@
 #   (1.352 views no Insta com ~9 h, 17 compartilhamentos e 17 salvos, contra 127 do nora80): as letras do nome + o corpo da maioria
 #   + as 2 frases de reinício ("Now, this part matters." e "But it gets better.") + a carta (o verso dourado) na mão + a estátua de São Miguel.
 #   Cada um com outra roupa e outro cômodo (a regra de 24/11: cada post do Insta gerado de novo). Sem teste (o de 27/11 foi o nora81);
-#   sem o "free" hoje (o aluno, 14h07: "2", começa em 28/11). As aulas de copy do Kobata (1 a 3 lidas) não mudaram a copy do pacote.
+#   sem o "free" hoje (o aluno, 14h07: "2", começa em 28/11). As aulas de copy do Kobata não mudaram a copy do pacote; da aula 6
+#   ("a imagem é mais importante até mesmo do que a fala", 12:47) vem só a estátua inteira à esquerda dela no 1º quadro, como no nora81.
 # Gerado a partir do build_dia_2611.py (o do nora81). Uso (raiz do repositório): python3 -I ferramentas-painel/dia-2711/build_dia_2711.py
 import json, copy, re, pathlib, importlib.util
 
@@ -69,7 +70,7 @@ V = {
         lugar_pt='no quarto, sentada na beira da cama, com a estátua de São Miguel no criado-mudo',
         roupa='her plain dark-green long-sleeve knit top with no logo',
         cena=('Casual real video in the early evening in a cozy American bedroom, she sits on the edge of her bed; on the nightstand beside her a colorful statue of '
-              'Saint Michael the Archangel and a warm bedside lamp; ' + FLAG_PAREDE + ', filmed from a static camera about one meter in front of her at collarbone '
+              'Saint Michael the Archangel and a warm bedside lamp (the statue at her left side, fully visible in the frame); ' + FLAG_PAREDE + ', filmed from a static camera about one meter in front of her at collarbone '
               'height, looking exactly like a real phone video. '),
         cam='the camera stays static about one meter in front of her at collarbone height with an unchanged framing',
         segura='one hand holds one tarot card upright at collarbone height, below her chin, never touching or covering her face, showing only its plain gold patterned back the whole time; her other hand rests on her lap',
@@ -77,7 +78,7 @@ V = {
         som='quiet bedroom sound', lugar_en='on the edge of her bed', luz='warm bedside lamp light',
         prompt_img=_img('she sits on the edge of her bed in a cozy real American bedroom in the early evening',
                         'a plain dark-green long-sleeve knit top with no logo',
-                        'on the nightstand beside her, a colorful statue of Saint Michael the Archangel about 30 centimeters tall and a warm bedside lamp',
+                        'on the nightstand beside her, a colorful statue of Saint Michael the Archangel about 30 centimeters tall, standing at her left side at about the height of her waist, fully visible in the frame (never cut off and never hidden behind her) and a warm bedside lamp',
                         'on her lap', 'in the early evening'),
         copia='o pacote do nora81 (as letras, a carta na mão, a estátua de São Miguel, as 2 frases de reinício), no quarto'),
     'nora83': dict(
@@ -85,7 +86,7 @@ V = {
         lugar_pt='na sala, sentada no sofá, com a estátua de São Miguel na mesinha ao lado',
         roupa='her plain deep burgundy long-sleeve top with no logo',
         cena=('Casual real video in the evening in a simple American living room, she sits on a beige fabric sofa; on the small side table next to her a colorful '
-              'statue of Saint Michael the Archangel and a small table lamp; ' + FLAG_PAREDE + ', filmed from a static camera about one meter in front of her at '
+              'statue of Saint Michael the Archangel and a small table lamp (the statue at her left side, fully visible in the frame); ' + FLAG_PAREDE + ', filmed from a static camera about one meter in front of her at '
               'collarbone height, looking exactly like a real phone video, warm indoor light. '),
         cam='the camera stays static about one meter in front of her at collarbone height with an unchanged framing',
         segura='one hand holds one tarot card upright at collarbone height, below her chin, never touching or covering her face, showing only its plain gold patterned back the whole time; her other hand rests on the armrest of the sofa',
@@ -93,7 +94,7 @@ V = {
         som='quiet living room sound', lugar_en='on the sofa in her living room', luz='warm indoor evening light',
         prompt_img=_img('she sits on a beige fabric sofa in a simple real American living room in the evening, warm indoor light',
                         'a plain deep burgundy long-sleeve top with no logo',
-                        'on the small side table next to her, a colorful statue of Saint Michael the Archangel about 30 centimeters tall and a small table lamp',
+                        'on the small side table next to her, a colorful statue of Saint Michael the Archangel about 30 centimeters tall, standing at her left side at about the height of her waist, fully visible in the frame (never cut off and never hidden behind her) and a small table lamp',
                         'on the armrest of the sofa', 'in the evening'),
         copia='o pacote do nora81 (as letras, a carta na mão, a estátua de São Miguel, as 2 frases de reinício), na sala'),
     'nora84': dict(
@@ -101,7 +102,7 @@ V = {
         lugar_pt='à escrivaninha, à noite, com a estátua de São Miguel em cima dela',
         roupa='her plain navy-blue knit sweater with no logo',
         cena=('Casual real video late at night at home, she sits at a simple wooden desk; on the desk a colorful statue of Saint Michael the Archangel, a closed '
-              'notebook and a warm desk lamp; ' + FLAG_PAREDE + ', filmed from a static camera about one meter in front of her at collarbone height, looking exactly '
+              'notebook and a warm desk lamp (the statue at her left side, fully visible in the frame); ' + FLAG_PAREDE + ', filmed from a static camera about one meter in front of her at collarbone height, looking exactly '
               'like a real phone video. '),
         cam='the camera stays static about one meter in front of her at collarbone height with an unchanged framing',
         segura='one hand holds one tarot card upright at collarbone height, below her chin, never touching or covering her face, showing only its plain gold patterned back the whole time; her other hand rests on the desk',
@@ -109,7 +110,7 @@ V = {
         som='quiet room sound at night', lugar_en='at the wooden desk in her home', luz='warm desk lamp light at night',
         prompt_img=_img('she sits at a simple wooden desk in her real American home late at night, warm desk lamp light',
                         'a plain navy-blue knit sweater with no logo',
-                        'on the desk, a colorful statue of Saint Michael the Archangel about 30 centimeters tall, a closed notebook and a warm desk lamp',
+                        'on the desk, a colorful statue of Saint Michael the Archangel about 30 centimeters tall, standing at her left side at about the height of her waist, fully visible in the frame (never cut off and never hidden behind her), a closed notebook and a warm desk lamp',
                         'on the desk', 'late at night'),
         copia='o pacote do nora81 (as letras, a carta na mão, a estátua de São Miguel, as 2 frases de reinício), à escrivaninha'),
 }

@@ -1003,3 +1003,233 @@ Na tela: o Kobata falando, com textos da edição ("MAIOR PRINCÍPIO DE MARKETIN
 [0:07:21] o vídeo é a primeira frase é a primeira imagem é o primeiro som isso é o mais importante tá nas
 [0:07:27] próximas aulas a gente vai eu vou dissecar o aida como você vai fazer o aida aplicar o aida dentro
 [0:07:34] do seu vídeo explicando cada uma das letras e qual é o melhor jeito de fazer
+
+## Aula 6: Ganchos (17:14; embed v=248fa578-ed9f-412c-889b-ac1184a02a21)
+
+Na tela: o Kobata falando, com textos da edição ("A.I.D.A" ~0:04, "PRODUZIR GANCHOS" ~2:25, "PRIMEIRA FRASE" ~7:00, "MULHER GORDA TEM QUE TOMAR CHIFRE" ~7:25, o exemplo que ele diz para não fazer, "SOM CHAMATIVO" ~9:10 e "CLICK BAIT" ~9:25).
+
+[0:00:04] pessoal vamos lá agora pra gente começar a esmiossar o aida e como a gente vai
+[0:00:10] aplicar isso dentro dos nossos vídeos beleza então a primeira parte do nosso
+[0:00:15] vídeo primeiro momento a primeira frase a primeira imagem primeiro nós chamamos
+[0:00:18] de gancho tá o gancho é o começo do vídeo e dentro da nossa estrutura de
+[0:00:24] aida ele é o o primeiro ar de atenção e é o principal final anterior eu vou
+[0:00:30] reforçar aqui pra vocês a atenção é o ativo mais caro e mais valioso do mundo
+[0:00:35] hoje então pensa comigo tá as pessoas estão no tiktok e elas estão passando o
+[0:00:41] vídeo assim rapidamente nem tão prestando a atenção no que está acontecendo
+[0:00:43] elas entram num estado de transe e nem sabem mais o que estão fazendo no modo
+[0:00:48] zumbi praticamente a nossa função com o gancho é tirar ela disso a nossa
+[0:00:54] função é puxar ela para a realidade é prender a atenção dela nem que seja
+[0:00:58] por um segundo então a gente tem que pensar
+[0:01:01] minimétricamente no que a gente vai fazer para chamar atenção o que eu quero
+[0:01:04] que vocês entendam é que isso aqui é o mais importante do seu vídeo beleza
+[0:01:08] então não adianta você ficar pensando no produto você vai colocar no script
+[0:01:12] inteiro e tá tá tá não é isso o seu 50% da sua atenção 60% da sua
+[0:01:18] atenção inteira tem que estar pensando o que eu vou fazer no gancho
+[0:01:22] qual imagem eu vou colocar que mais chama atenção desse público qual é
+[0:01:26] a frase que eu vou colocar que mais chama atenção que mais causa uma emoção
+[0:01:30] qual é a frase que vai fazer a pessoa que eu quero pessoas específicas pessoas
+[0:01:35] que são compradores seu que você definiu lá na persona lembra qual frase
+[0:01:39] qual imagem qual som você vai colocar para que essa pessoa pare para pelo
+[0:01:44] menos assistir o seu vídeo entende então esse gancho ele pode ser feito
+[0:01:48] de diversas formas ele pode ser visual como eu falei para a pessoa que é
+[0:01:53] viciada em doce uma pessoa que está acima do peso por exemplo uma simples
+[0:01:58] imagem de um bolo de chocolate assim derretendo chama atenção para um homem
+[0:02:03] que é que é viciado em pornografia uma simples imagem de uma mulher com
+[0:02:08] um olhar mais sedutor chama atenção não precisa ser algo explícito a
+[0:02:14] pessoa a gente tem que entender por isso que é muito importante a gente
+[0:02:16] entender quem é a nossa persona com quem que a gente está se comunicando
+[0:02:20] e criar essas hipóteses do que a gente pode trazer então a maior parte do seu
+[0:02:25] tempo você vai dedicar em produzir ganchos é a maior parte do seu tempo
+[0:02:30] beleza com o gancho bem feito se você conseguir prender a atenção de muita
+[0:02:35] gente muito provavelmente algumas delas já vão comprar mesmo que seu corpo
+[0:02:41] que é o anúncio né o vídeo ele é dividido em duas etapas o gancho e o
+[0:02:46] corpo é meio que a cabeça e o corpo sabe o gancho e a cabeça é o mais
+[0:02:50] importante e depois a gente vai para o corpo tá no corpo estarão as outras três
+[0:02:54] letras então o gancho é o ad a atenção depois o corpo tem e d e o outro a perfeito
+[0:03:00] mas a nossa atenção principal tem que estar no gancho qualquer um jeito
+[0:03:04] muito bom de nós conseguimos modelar então lembra que na vida nada se cria
+[0:03:10] né no mundo nada se cria talvez depois de um bom tempo aplicando vocês
+[0:03:16] vão identificar e criar ganchos totalmente novos da sua cabeça que vão
+[0:03:20] funcionar mas agora o seu foco tem que ser em identificar patrões que já
+[0:03:25] funcionam e trazer para você vou te dar um exemplo o melhor jeito de você
+[0:03:30] encontrar esses ganchos essas ideias para você trazer para os seus vídeos são
+[0:03:35] é na verdade observando o próprio toque é fazendo uma pesquisa e
+[0:03:40] vivendo quais os tipos de vídeo de imagens e de sons que viralizam para o seu
+[0:03:45] público então vou dar um exemplo existem alguns influenciadores e influenciadores
+[0:03:50] nutricionistas sabe no brasil eles tem inúmeros vídeos com mais de um
+[0:03:55] milhão de visualizações e o gancho é sempre muito parecido chá chá de
+[0:04:01] nos chá chá dessa plantinha aqui para secar 20 quilos esse chá desincha
+[0:04:06] de você tomar cuidado e aí ele mostra uma receita cozinhando umas folhas
+[0:04:12] umas plantas e etc então esses eu olho pro vídeo desse eu falo assim
+[0:04:17] então ele tá falando trazendo essa ideia de chá para aparecer algo natural e
+[0:04:21] aí ele mostra uma receita cozinhando como se a pessoa pudesse fazer na casa dela
+[0:04:24] então é isso então eu vou fazer isso no meu vídeo e você nem botar o seu
+[0:04:29] rosto entende se você grava esse vídeo com seu celular com as panelas
+[0:04:33] plantas esquisitas algumas coisas que chamam a atenção você tem um bom gancho
+[0:04:38] mas da onde eu tirei essa ideia eu criei não eu vi vídeos viralizados que tinham
+[0:04:44] esse padrão eu identifico padrões era aí dez vídeos viralizaram ó vou dar um
+[0:04:48] outro exemplo para vocês os vídeos viralizaram a menina se maquiando no
+[0:04:53] espelho a câmera tá aqui onde vocês estão ela se maquiando no espelho e
+[0:04:57] ela falando assim é gente vou te contar história que aconteceu com
+[0:05:01] o namorado olha esse gancho as mulheres porque que esse vídeo inteiro chama
+[0:05:06] atenção do público feminino primeiro é uma mulher se maquiando as mulheres gostam
+[0:05:10] de ver as mulheres maquiando gosta de ver a mulher se arrumando a roupa que ela
+[0:05:13] tá usando a maquiagem que ela tá usando como que vai ficar maquiagem dela
+[0:05:16] quando ela acabar e aí ela puxa o gancho com toda uma fofoca tipo vou contar o
+[0:05:21] que aconteceu com o namorado então ela tá contando depoimento agora imagina
+[0:05:25] se não decorrer dessa história que ela conta do namorado ela conta
+[0:05:28] que o namorado dela estava estranho e etc e que ele tava ela suspeitou que ele
+[0:05:34] tava traindo ela e não sei o que lá e aí depois que ela foi começou a usar
+[0:05:40] produto x sei lá de ferro de hormônios de que desperta o hormônio da sexualidade
+[0:05:45] por exemplo ele parou com isso e tal etc e aí ela vem de produto ele indica o
+[0:05:50] produto no final entende entende como você pode trabalhar então o principal
+[0:05:54] é você conseguir olhar para esses tipos de vídeo no tiktok com muita visualização
+[0:05:59] olhar para o vídeo foca nos primeiros três cinco segundos e ver o que foi falado
+[0:06:05] qual palavra que ela usou o que estava o cenário qual foi a música de fundo
+[0:06:10] qual foram as imagens que apareceram o que era uma receita era uma maquiagem era uma
+[0:06:16] cama bagunçada o que que era e traz pro seu vídeo e você tenta trazer a
+[0:06:20] ideia para o seu vídeo beleza a primeira coisa que você tem que pensar é eu
+[0:06:24] quero chamar atenção desse tipo de através do gancho tá bom agora vamos lá
+[0:06:29] para algumas dicas de alguns tipos de ganchos que são padrões e funciona muito
+[0:06:34] bem tá bom primeiro deles é o gancho polêmico as pessoas geralmente estão na
+[0:06:38] rede social ou para dar risada ou para ver uma fofoca né ou para ver tragédia a
+[0:06:43] rede social e para isso você pode ver porque que a choquei vira liso tanto
+[0:06:48] porque ela tem tantos menores seguidores e consegue manipular até as pessoas
+[0:06:51] porque ela conta fofoca e as pessoas gostam da treta as pessoas gostam da polêmica
+[0:06:56] fulano traiu ciclano fulano matou meu trano entende as pessoas gostam disso
+[0:07:02] você pode trazer essa polêmica para os seus vídeos para o seu gancho para a
+[0:07:07] sua primeira frase só para aprender a atenção então teve um vídeo isso foi
+[0:07:12] um anúncio mas que com certeza daria muito bom claro não façam isso do
+[0:07:15] tiktok tá não façam isso porque vai ter um termo que é forte tá mas eu
+[0:07:22] coloquei teve um vídeo que eu vi que era tipo assim o gancho era mulher gorda tem
+[0:07:27] que tomar chifre viu como isso chama atenção então tipo assim a mulher que
+[0:07:32] tá acima do pés ela ouvi isso e ela fica puta no mínimo ela vai querer ouvir
+[0:07:36] o que que tá acontecendo nesse vídeo obviamente no decorrer do vídeo não
+[0:07:41] era isso era tipo assim cara aí o cara continuava falando né ele era um
+[0:07:45] gancho falando mulher coisa tem que tomar chifre depois ele falava cara eu acho
+[0:07:48] um absurdo um homem falar um negócio desse sabe e não sei o que ela e com e aí
+[0:07:52] ele tava jogando agora junto com a mulher acima do peso mas você percebe que ele
+[0:07:55] usou um gancho polêmico chamou atenção para depois ele ele trazer a pessoa para
+[0:08:00] perto esse é um gancho de polêmica e você pode fazer isso de inúmeras forma
+[0:08:05] jogando na cara de uma pessoa e etc lembre-se só tome cuidado com as
+[0:08:09] palavras que você vai usar nessa polêmica não é para usar palavrão
+[0:08:11] ninguém etc para não tomar o shadow ban e a plataforma o tiktok não fazer
+[0:08:17] alguma coisa com sua conta beleza existem inúmeras forma por exemplo quando
+[0:08:20] você usa uma frase o começo da frase assim eu vou expor a pessoa que me fez
+[0:08:24] isso tal tal tal aí você fala da dor do benefício da pessoa sabe essa palavra
+[0:08:30] expor já é atrelada a polêmica se tá expondo é foca e aí as pessoas
+[0:08:35] param para assistir entendeu ou então eu fui cancelado na internet porque eu
+[0:08:39] mostrei isso aqui e aí isso aqui pode ser uma ideia do seu produto mas a palavra
+[0:08:44] foi cancelada na internet chama atenção todo mundo vai parar e ver porque que
+[0:08:49] essa pessoa foi cancelada tá então o gancho de polêmica ele é muito bom para
+[0:08:53] você usar tá outra coisa que você tem que ver é a outra ideia para gancho é a
+[0:08:59] interrupção de padrão então quando a pessoa passar pelo seu vídeo ela saiu
+[0:09:03] de um vídeo ela desceu e viu seu tem que ter algo que interrompa aquele
+[0:09:07] o que que é então um pão padrão é um som chamativo é uma imagem
+[0:09:11] ultimativa o principal é que você faça a pessoa
+[0:09:15] peraí que isso a primeira pergunta da que isso
+[0:09:19] o que seja por um vídeo uma imagem com short tá outra coisa que você tem que usar
+[0:09:25] é o clickbait tá o que que é o clickbait é quando você tenta chamar
+[0:09:30] atenção de uma pessoa meio que dando uma exagerada na parada sabe então
+[0:09:34] tipo assim no youtube tem muito clickbait na redline né no nome do vídeo sabe
+[0:09:40] então por exemplo eu dei 50 mil reais para minha namorada e olha o que aconteceu
+[0:09:45] aí se ainda no vídeo obviamente o cara não deu 50 mil reais para namorada e não
+[0:09:49] aconteceu nada demais mas ele chamou atenção tá no tiktok a gente vai
+[0:09:55] fazer isso também e geralmente a gente vai exagerar em alguma coisa ou é tipo
+[0:10:01] fazer uma pergunta chama muita atenção por exemplo é quanto que o homem tem que
+[0:10:07] ganhar de salário para poder ter um relacionamento saudável com a mulher
+[0:10:10] entende se você vai vender um produto de dinheiro de ganhar dinheiro essa pergunta
+[0:10:14] chama atenção quanto que o homem tem que ganhar de salário já aprendeu a
+[0:10:17] atenção de todo mundo todo mundo quer saber entendeu e aí no decoer do
+[0:10:21] vídeo você justifica isso e tal e transforma e no final você faz a
+[0:10:26] sua produto beleza então esse gancho de de clickbait uma chamada de atenção
+[0:10:31] muito mentirosa exagerando alguma coisa funciona muito bem para pegar a atenção
+[0:10:36] da pessoa outro jeito de você gerar de você colocar no gancho outra dica aí
+[0:10:41] para você colocar no gancho e que é muito bom é contraditório é você usar um
+[0:10:46] gancho contraditório uma frase contraditória por exemplo todo mundo
+[0:10:48] sabe que a dieta que é mais passada para o nutricionista para
+[0:10:53] emagrecer é de diminuir carboidrato é diminuir o doce agora imagine um gancho
+[0:10:58] em que a mulher fala sim eu perdi 23 quilos comendo essa torta de banana todos
+[0:11:03] os dias comendo chocolate todos os dias esse choco melhor esse chocolate me fez
+[0:11:07] perder 19 quilos tipo não faz sentido ou todo mundo ouve que o chocolate engorda
+[0:11:12] claro que depois você tem a gente vai ensinar você a tornar isso você pode
+[0:11:17] falar que o chocolate na verdade ele te é por causa desse chocolate você
+[0:11:21] conhecia uma pessoa e essa pessoa te apresentou o produto eu tenho você chama
+[0:11:26] atenção e depois a gente trabalha a história em cima disso então foi esse
+[0:11:29] chocolate eu não falo que comeu chocolate foi no mercado eu estava
+[0:11:33] comprando esse chocolate aqui aí uma mulher apareceu pra mim falou monsa
+[0:11:36] meu você quer comer chocolate tudo bem mas faz usa esse produtinho aqui que você
+[0:11:40] vai poder emagrecer junto enquanto é como chocolate e foi assim que eu descobri
+[0:11:43] o produto e tal e aí pronto já introduziu o produto foda-se o
+[0:11:46] chocolate agora mas você chamou atenção por isso então o jeito de ele é essa
+[0:11:51] frase contraditória é muito boa agora beleza você entendeu quatro jeitos aí
+[0:11:56] quatro características que podem ter no seu gancho pra ele chamar muita atenção
+[0:12:00] para ele parar fazer a pessoa parar e observar e assistir o seu vídeo beleza
+[0:12:04] lembrando que o que é muito importante que eu queria frisar agora com vocês é
+[0:12:08] que são os elementos do gancho tá é muito importante que esse gancho
+[0:12:11] além de ter uma frase que chama atenção uma frase que gera essas sensações na
+[0:12:17] pessoa a imagem o vídeo também é muito importante às vezes a pessoa nem ouviu a
+[0:12:24] sua frase mas só de ser um vídeo de uma panela que não te derva dentro ela
+[0:12:28] parou pra ver que receita essa aqui as mulheres que gostam muito de chazinha
+[0:12:33] de receita mais interessar tá então muito importante você encontrar também
+[0:12:36] é imagens e vídeos que chamam atenção que despertam essa atenção que faz a
+[0:12:43] pessoa parar assistir então uma coisa que tem que ficar na sua cabeça é que no
+[0:12:47] check toque a imagem o vídeo a um gancho visual a primeira imagem que a pessoa vê é
+[0:12:53] mais importante até mesmo do que a fala porque a visão vem antes da audição a
+[0:12:58] frase demora três cinco segundos para ser ouvida a imagem é na hora ela bate
+[0:13:03] o olho ela pode parar então busque sempre imagens em vídeos viralizados
+[0:13:08] qual é o vídeo que tá no começo o que é a ideia desse vídeo que viralizou no
+[0:13:13] começo nos primeiros três segundos o que tem nesse vídeo que eu posso trazer pro
+[0:13:17] mil tá bom então a gente tem sempre a tentar nisso depois que você acertar
+[0:13:21] você vai aprender a replicar isso de outras formas agora com a tá como eu
+[0:13:24] encontro esses ganchos então a primeira ideia que eu te dei foi os vídeos
+[0:13:28] virais do próprio tiktok é olhar esses vídeos olha pra esse vídeo fala
+[0:13:32] porra olha a ideia disso né sacar o cigarro da meia talvez não seja um cigarro
+[0:13:35] às vezes vai vender outro tipo de produto mas a ideia de colocar o pé e
+[0:13:39] sacar da meia você pode colocar outro produto entende é isso outra coisa que
+[0:13:43] você pode buscar outro jeito de você buscar é você ir no youtube e você
+[0:13:47] busca por uma palavra chave ou alguma palavra do seu nicho tipo sei lá
+[0:13:52] emagrecer com o seu que ou com rejuvenecer o rosto com tal coisa você
+[0:13:59] vai pesquisar e aí você vai selecionar lá é contagem de visualização no filtro e
+[0:14:05] vai aparecer os vídeos que mais tem gente assistindo e dentro desse vídeo você
+[0:14:09] conseguir ver a headline o título do vídeo aquele título se aquele vídeo teve
+[0:14:15] muita visualização é porque aquele título chamou a atenção de muita gente
+[0:14:18] então você pode pegar a ideia daquele título não ter pia e cola o título
+[0:14:22] sabe seu título fala assim fiz isso com a minha namorada e olha o que aconteceu
+[0:14:26] não pega exatamente com o seu encontro ver entende a fiz isso com tal pessoa e
+[0:14:33] olha o que aconteceu então eu posso falar tipo assim a desse produto para minha
+[0:14:37] namorada e olha o que ela como foi a reação dela sabe tenta pegar a ideia
+[0:14:42] da parada tanto no título do youtube quanto dentro do vídeo você pode achar
+[0:14:46] algumas imagens chamativas que o cara usou para ter a retenção dele boa no youtube
+[0:14:51] tá outro outra coisa que você pode observar no youtube é a thumbnail a
+[0:14:55] presinha do vídeo ali que geralmente as pessoas colocam uma tambe bem
+[0:14:59] chamativa aí você pode olhar as cores que ele usou o tipo de letra que ele usou
+[0:15:03] qual foi a frase que tá na tambi neio que chama atenção lembrando se a pessoa
+[0:15:07] clicou para assistir o vídeo é porque o nome ou imagem do vídeo chamou a atenção
+[0:15:10] dela entendeu então isso você pode pegar a mesma ideia e levar para chamar
+[0:15:15] atenção do seu vídeo viral outras coisas assim alguns princípios né algumas
+[0:15:20] ideias que você pode ter na hora de elaborar os seus ganchos são como
+[0:15:24] a sua vida a curiosidade é as melhores emoções para você trabalhar dentro do
+[0:15:29] tiktok e reter a atenção da pessoa e chamar atenção é uma frase polêmica
+[0:15:33] uma fofoca alguma coisa desse tipo alguma coisa engraçada se você de alguma forma
+[0:15:38] conseguir apresentar o seu gancho chamar atenção da pessoa de uma forma mais
+[0:15:41] engraçada você consegue prender atenção porque as pessoas também estão na
+[0:15:45] rede social para dar risada por isso que meme dá tão certo só um parêntese
+[0:15:49] não adianta querer colocar um meme e achar que vai vender tá você tem que
+[0:15:52] ter a ideia por trás das coisas e trazer para seu vídeo de vendas tá é
+[0:15:57] entretenimento que seja um conteúdo tipo o consórcio influenciador contando a
+[0:16:00] vida dele etc e tal é o conto é intuitivo que eu falei que você fala uma coisa
+[0:16:05] totalmente contrário do que a pessoa acredita e ela fala é como assim tá
+[0:16:08] mas curiosidade é o mais forte pode ver que a maioria deles da maioria dos
+[0:16:13] vídeos virais a maioria dos dos canais de youtube etc usam muito curiosidade
+[0:16:17] por exemplo 250 milhais para a minha namorada e olha o que aconteceu esse
+[0:16:21] gancho aconteceu é uma curiosidade que aconteceu deixa eu ver entendeu essa eu
+[0:16:27] preparei uma receitinha com esse ingrecom 200 gramas de chá de cavalinha 50 gramas
+[0:16:33] de sal sei lá meio copo de água morna e esse segredinho aqui que eu vou te contar
+[0:16:38] agora pronto esse segredinho gera curiosidade entende então trabalha nesses
+[0:16:43] tipos de gancho humor frase polêmica curiosidade e procura sempre trazer esses
+[0:16:48] tópicos para dentro do seu gancho tanto na imagem uma imagem curiosa um vídeo
+[0:16:53] chamativo no chão ou até mesmo na escrita ali tá a combinação disso cara
+[0:16:58] quando você acertar um só você vai ver putz entendi é isso que eu preciso
+[0:17:04] por combinado galera tamo junto te espero na próxima alunha nós vamos falar
+[0:17:08] sobre a parte agora de estimular o interesse da pessoa bora
