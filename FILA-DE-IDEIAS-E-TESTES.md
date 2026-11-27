@@ -14,6 +14,58 @@
 3. **Quando um item vira vídeo:** marcar "feito (noraNN)" com o resultado. **Quando sai:** "fora", com o motivo.
 4. **Uma variável por vez:** a ordem do "Próximos testes" vale; o resto espera a vez.
 
+## O MAPA DOS 3 EIXOS: formato × ângulo × persona (27/11/2026 ~15h40, pedido do aluno; aulas 4, 10 e 11 do Kobata)
+**Como usar:** a base é o que acertou. O teste do dia troca só 1 eixo a partir da base (1 teste por dia; o resto replica a base), e o que ganhar vira a nova base. Não se testam todas as combinações: com 4 de cada, seriam 64 dias. Os números são da planilha (`METRICAS-NORA.csv`) e contam views; a medida final de cada teste é a visita ao perfil e o clique.
+
+**A BASE (27/11): F1 + A1 + A2 + P1.** É o pacote do nora81 (Insta 1.352 com ~9 h; 17 compartilhamentos e 17 salvos) e dos 2 maiores da Página (nora76-FACE 4.520 e 31 seguidores; nora77-FACE 3.642 e 11 seguidores). O nora82, o nora83 e o nora84 repetem a base com outra roupa e outro cômodo.
+
+### Formatos (como o vídeo é entregue)
+| | Formato | Onde rodou | O que deu | Estado |
+|---|---|---|---|---|
+| **F1** | A Nora falando em casa, de frente, com um objeto na mão (a carta, a estátua, o copo) | nora65, nora75 a nora78, nora81 | Insta: nora81 1.352, nora75 695, os outros ~125 a 150. Face: nora76-FACE 4.520, nora77-FACE 3.642, nora75-FACE 644 | **BASE** |
+| F2 | Falando no carro | nora69, nora72, nora80 | Insta 123 a 142; Face 319 a 332 | rodou, sem ganho |
+| F3 | Hook de evento (o tsunami) + o falado | nora47 a nora50, nora55 a nora59, nora68, nora74 | Insta: nora49 2.043 (19 seguidores), nora50 1.678, nora48 1.638 (06 a 10/11). Face: nora55 4.243 (44 seguidores). O mesmo arquivo repetido: nora74 25 | forte em 06 a 11/11; o arquivo do hook cansou; só volta com um hook novo |
+| F4 | Hook de ritual ou ação comum + o falado (canela, sal, café, alçapão, açúcar) | nora62, nora63, nora66, nora67, nora69, nora70, nora79 | Insta 122 a 159; Face 124 a 334 | rodou, sem ganho |
+| F5 | Multi-ângulo (a câmera muda a cada take) | nora79 | Insta 135; Face 334 | fechado, sem ganho |
+| F6 | Placa ou fita com texto, sem fala | nora35, nora36, nora38, nora41, nora45 (outubro) | Insta 2.815 a 3.742, mas com Índia e 0 checkout | fora (o público errado) |
+| F7 | Curto sem fala (loop, iniciais, desafio de pausar) | nora64, ini1811, noracurto2611 | Insta: nora64 2.204 (54% de Índia); ini1811 1.705 e 21 visitas (o clique quase não fez o quiz); noracurto2611 148 | misto; sai do Insta da Nora como teste do dia |
+| F8 | POV, a voz sobre paisagens | nora61 | Face 106; a repetição, 15 | rodou, sem ganho |
+| F9 | Slideshow só de texto | slide1211 | Face 10 | fora |
+| **F10** | **Podcast** (o microfone, o olhar para o lado, 3 enquadramentos) | não rodou como corpo (o nora46, 31/10, tinha um estúdio com microfone: 137) | — | **a testar** (aula 11; o guia do Muse, 18/11) |
+
+### Ângulos (por onde o produto é apresentado; as 4 respostas do quiz: dinheiro, amor, paz, propósito)
+| | Ângulo | Onde rodou | O que deu | Estado |
+|---|---|---|---|---|
+| **A1** | A bênção do Arcanjo, o dinheiro e a sorte (o corpo da maioria) | nora75 a nora81 | a base no Face e no nora81 | **BASE** |
+| **A2** | As letras do nome (quem é chamada) | nora73, nora76-FACE, nora77-FACE, nora80, nora81 | nora73 246 e 311; nora76-FACE 4.520 | **BASE** (junto com A1) |
+| A3 | Os signos (o trio de signos) | nora40 a nora45 e nora48 a nora50 (com o tsunami) | nora49 2.043; nora43 983 e 16 seguidores | rodou forte junto com o F3; **a série dos signos espera o post da astróloga** |
+| A4 | Os sinais e os números (o 11:11, os "3 sinais") | nora46, nora71, nora72, nora75-VAR2511-FACE | Insta 137 a 152; Face 266 a 339 | rodou, sem ganho no Insta |
+| A5 | O portal e a data (o kit do 11/11) | nora51 a nora54 | nora51 889; os outros 146 a 219 | cansou; a data fica só como tipo de Take 1 |
+| **A6** | **O amor e o relacionamento** ("True love" do quiz; o ego e o relacionamento são os mais fortes para a mulher, aula 10) | só o POV (nora61); o falado não rodou | — | **a testar** (04/12, o ângulo do Pedro⚡) |
+| **A7** | **A frequência** (o mecanismo novo, 6 vídeos da mineração de 26/11) | não rodou | — | **a testar** (03/12, o CTA da frequência) |
+| A8 | A paz interior | não rodou | — | na reserva |
+| A9 | O propósito, a travada à beira de um passo (o Louco da VSL) | não rodou (só no rascunho do corpo C) | — | na reserva |
+
+### Personas (a 2ª frase: quem é a mulher e o momento do dia dela; aulas 4 e 7)
+| | Persona e o momento | Onde rodou | O que deu | Estado |
+|---|---|---|---|---|
+| **P1** | "A woman lying down with her phone in her hand right now" (a que recebe a mensagem) | o corpo da maioria, nora75 a nora81 | a base | **BASE** |
+| P2 | A cansada que deu tudo aos outros (a 2ª frase de validação, R48) | os falados de 12 a 14/11 (nora59 a nora63) | Insta ~150 | rodou com várias mudanças juntas; volta só como um braço limpo |
+| **P3** | A que segura as contas sozinha: o app do banco antes de dormir | não rodou | — | **a testar** (02/12, junto com o pico) |
+| **P4** | A divorciada ou viúva de 55+ que quer alguém: jantar sozinha | não rodou | — | **a testar** (casa com o A6, o amor) |
+| P5 | A que vive para os outros e se sente travada: o carro parado na garagem | não rodou | — | na reserva (casa com o A9) |
+| P6 | A que vê os números: o 11:11 no relógio | em parte (nora46, nora75-VAR2511-FACE) | 137 e 266 | na reserva |
+| (pico) | Sem persona: "You're about to experience the luckiest days of your entire life. Are you ready?" | não rodou | — | **a testar** (02/12, contra a P1) |
+
+### A ordem sugerida (1 eixo por dia a partir da base; a ordem final é a do item 2 das pendências, decisão do aluno)
+| Dia | O eixo que muda | O teste |
+|---|---|---|
+| 28/11 | o CTA, e não um eixo: o "free" em todos os vídeos | decisão do aluno; a medida é o checkout por clique. **Se a série dos signos (A3) for aprovada para 28/11, ela muda o ângulo nos mesmos dias. São 2 mudanças juntas, mas a leitura é separada:** o "free" pelo checkout e a série pelas views e visitas |
+| 02/12 | **persona** | P1 × o pico × P3 (a 2ª frase) |
+| 03/12 | **ângulo** | A1 × A7 (a frequência no CTA) |
+| 04/12 | **ângulo** | A1 × A6 (o amor), com a P4 |
+| depois | **formato** | F1 × F10 (o podcast), com a base na fala |
+
 ## QUADRO DE TESTES (refeito em 24/11/2026 02h16, cobrança do aluno: "toda hr vc coloca coisa pra teste, mas quando é pra montar um painel novo, nao sugere testar nada")
 **Como funciona daqui em diante:** este quadro é o que vale. Todo painel novo leva o 1º teste dos "Próximos" que couber nele (ou um de carona, sem mexer na variável do Insta), dito ao aluno numa linha antes de montar e escrito no Resumo do painel ("o que este vídeo testa" e "como se mede"). Item que roda sobe para "No ar"; item lido vai para "Fechados", com o número. O resto do arquivo é o banco de ideias, de onde os "Próximos" saem.
 
