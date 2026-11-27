@@ -1488,3 +1488,312 @@ Na tela: o Kobata falando (a mesma duração da aula 7 por coincidência; a fala
 [0:08:21] a gente vai aprender a pegar esse desejo da pessoa
 [0:08:24] e canalizar numa venda.
 [0:08:26] Bora!
+
+## Aula 9: CTA (12:09; embed v=748f8066-0baa-4edd-a793-5c3c93244e0d)
+
+Na tela: o Kobata falando, sem texto da edição nos quadros a cada 20 s.
+
+[0:00:04] Bom pessoal, vamos lá então, então a gente agora chamou a atenção do nosso prêmico,
+[0:00:09] a gente criou interesse nele através da frase de transição, apresentou benefício,
+[0:00:14] chamou ele pra assistir o resto do vídeo, né? Aí na última etapa a gente criou desejo nele
+[0:00:20] através da curiosidade, através daquele elemento que ele não sabe como fazer
+[0:00:24] e que só através do nosso produto ele consegue atingir o maior sonho da vida dele.
+[0:00:28] E agora ele tá completamente pronto pra gente convidar ele pra experimentar o nosso produto, tá?
+[0:00:34] O que é o CTA? O que quer dizer CTA? Chama Call to Action que é chamada pra ação.
+[0:00:40] As pessoas, elas só agem quando você chama elas pra tomar uma ação.
+[0:00:45] Então, por mais que pareça óbvio, você tem que chamar, entende?
+[0:00:49] Eu sempre gosto de dar um exemplo, por exemplo, do youtuber.
+[0:00:52] Todo youtuber, ele faz o vídeo, comecei o vídeo, cria o interesse no cara.
+[0:00:56] Nesse vídeo você vai ver isso, nesse vídeo você vai ver tal coisa, eu vou te ensinar tal coisa.
+[0:00:59] Mas antes, não se esquece de curtir o vídeo aqui, deixa o seu like, se inscreve no meu canal.
+[0:01:04] Isso que é uma chamada pra ação, entende?
+[0:01:06] Então toda vez o influenciador me segue pra mais dicas, tudo na vida tem uma chamada pra ação.
+[0:01:12] Você quer ver outra chamada pra ação que usam muito? Professores na escola.
+[0:01:16] Você lembra do professor falando? Presta atenção nisso aqui.
+[0:01:18] Anota porque vai cair na prova.
+[0:01:20] Ele está te chamando pra tomar uma ação.
+[0:01:22] O ser humano, ele funciona na base do gatilho.
+[0:01:25] A gente precisa do estímulo.
+[0:01:27] Ah, mas é óbvio, eu estou mostrando o produto, etc. Apareceu o botão lá, é óbvio.
+[0:01:32] Não, você tem que lembrar ele.
+[0:01:34] Quer ver um exemplo? Vamos pensar no canal do youtube.
+[0:01:36] Eu não sou um cara que assisto muito youtube, tá?
+[0:01:38] Mas vocês aí, talvez, pelo menos comigo acontece muito,
+[0:01:42] tem canal que eu assisto o cara pra caralho, eu assisti o tipo vídeo dele todos os dias.
+[0:01:46] E eu não sou inscrito, porque eu não lembro.
+[0:01:48] Eu não lembro o cara falando, eu não lembro de ir lá e só descer e clicar no botãozinho.
+[0:01:52] Então a chamada pração, ela é muito importante.
+[0:01:55] Talvez é uma das partes mais importantes.
+[0:01:57] Agora que o seu cliente, ele está pronto pra comprar, né? O seu possível cliente.
+[0:02:01] Está pronto pra se tornar o seu cliente, você precisa lembrar ele disso.
+[0:02:04] A chamada pração.
+[0:02:05] Agora, como fazer essa chamada pração?
+[0:02:08] Lembrem-se sempre dos princípios que eu ensinei.
+[0:02:11] Não pode parecer uma venda.
+[0:02:13] Pessoas compram de pessoas, isso tudo é só uma indicação.
+[0:02:17] Se é uma indicação, não tem que empurrar nada.
+[0:02:20] Clica aí, não tem por que falar isso.
+[0:02:23] A pessoa só tem que lembrar que existe um botão ali onde ela pode adquirir o produto.
+[0:02:27] Com isso em mente, quais são os melhores jeitos da gente fazer essa chamada pração?
+[0:02:32] Qual são algumas técnicas que a gente pode usar pra isso ficar mais natural?
+[0:02:37] Pra isso ficar mais humano?
+[0:02:39] Pra isso parecer mais ainda uma indicação?
+[0:02:41] Primeiro de tudo, algumas coisas importantes pra você utilizar.
+[0:02:46] Cobata, eu vou ter que usar tudo o que você está falando aqui nessa aula de CTA?
+[0:02:50] Não. Cobata, eu tenho que usar exatamente o que você está falando.
+[0:02:53] Não, você pode criar isso.
+[0:02:55] Então, algumas aulas pra trás eu falei sobre o podcast.
+[0:02:58] Da pessoa ir num podcast e falar assim, já que você me convidou pro seu podcast,
+[0:03:04] como você me convidou pro seu podcast,
+[0:03:06] como forma de agradecimento, eu vou liberar dez vagas aí,
+[0:03:09] com 50% de desconto pros seus seguidores.
+[0:03:13] Entendeu?
+[0:03:14] E se percebe que esse já que você me chamou aqui pro podcast, o que é isso?
+[0:03:18] O que é essa frase?
+[0:03:20] Já que você me chamou pro podcast, ele está justificando o desconto que ele vai dar.
+[0:03:25] Uma das palavras mais fortes na persuasão é o porquê.
+[0:03:28] Quando você dá uma justificativa, as pessoas tendem a aceitar melhor.
+[0:03:32] Eu vou trazer só um parêntese aqui.
+[0:03:34] Teve um livro, não lembro se era um livro gatilhos e mentais,
+[0:03:37] ou psicologia do consumo, que eles fizeram um teste que era assim.
+[0:03:41] E tinha uma fila no estabelecimento e o cara chegava,
+[0:03:44] primeiro o cara chegava na fila e falava assim,
+[0:03:46] posso passar na sua frente?
+[0:03:48] Tô doendo? Não.
+[0:03:50] Posso passar na sua frente? Não.
+[0:03:52] Esperava, saía da loja e em outra loja, outra fila.
+[0:03:55] Posso furar a fila? Não.
+[0:03:58] Todos disseram não.
+[0:04:00] Quando ele chegava e falava assim,
+[0:04:02] posso passar na sua frente porquê e falava qualquer coisa?
+[0:04:06] Qualquer coisa.
+[0:04:07] Posso passar na sua frente por causa disso e disso e disso.
+[0:04:10] Obviamente não foram todos que deixaram,
+[0:04:12] mas já teve uma taxa de aceitação de tipo 30% ou 40%.
+[0:04:15] Porque as pessoas aceitavam só porque ele deu uma justificativa.
+[0:04:18] Então, dar porquê de algo, traz credibilidade.
+[0:04:22] O sobreconsciente da pessoa fala, ele não ia inventar isso.
+[0:04:26] Entenderam? Então essa é uma técnica muito boa.
+[0:04:29] Antes de você chamar pra ação,
+[0:04:31] você dá um motivo pelo qual aquilo tá disponível.
+[0:04:35] Um motivo pelo qual aquilo é uma oportunidade.
+[0:04:38] Entende?
+[0:04:40] Então, nesse caso do podcast,
+[0:04:41] já que você me convidou por esse podcast,
+[0:04:44] já que você, ou então às vezes é um motivo social,
+[0:04:48] se for um produto do crime,
+[0:04:51] poxa, eu me sentia tão sozinha,
+[0:04:53] eu me sentia desamparada quando eu tava passando com esse problema.
+[0:04:57] E eu sei que tem inúmeras mulheres aí que estão passando pelo mesmo.
+[0:05:01] E eu quero poder ajudar essas mulheres,
+[0:05:03] porque eu fui ajudada.
+[0:05:05] Por isso eu vou liberar,
+[0:05:07] eu vou recomendar esse produtinho.
+[0:05:09] Eu vou deixar o produtinho nesse link aqui embaixo.
+[0:05:11] Entende?
+[0:05:12] Essa é a primeira técnica, encontrar um porquê.
+[0:05:15] Esse porquê você pode criar,
+[0:05:18] você tem que pensar razões pelas quais você daria aquela oportunidade.
+[0:05:24] Você faria aquela indicação.
+[0:05:26] Primeiro ponto, se você acha um bom porquê,
+[0:05:28] muita chance da pessoa clicar no seu botão de compra.
+[0:05:32] Segundo ponto, tentar ao máximo colocar escassez e urgência.
+[0:05:39] O que é isso que é a escassez e urgência?
+[0:05:41] É você trazer a sensação para a pessoa
+[0:05:44] de que ela precisa agir na hora.
+[0:05:47] Então os mais clichês são,
+[0:05:49] são apenas dez vagas,
+[0:05:51] são apenas cinco vagas,
+[0:05:52] são apenas cinquenta potes que a gente tem disponível.
+[0:05:55] Mas você pode viajar nisso aí.
+[0:05:58] Você pode viajar,
+[0:05:59] você tem que criar uma maneira
+[0:06:01] da pessoa parar e pensar assim, caraca.
+[0:06:03] Eu preciso ver isso agora, entende?
+[0:06:06] Pode ser por estoque, limite de estoque,
+[0:06:09] pode ser por fase do ano, sei lá,
+[0:06:12] tá acabando os ingredientes da composição.
+[0:06:15] Então várias coisas que você pode trazer
+[0:06:18] que geram essa urgência,
+[0:06:20] que gera essa escassez,
+[0:06:21] que a pessoa pensa assim, caraca,
+[0:06:22] se eu não agir agora ferrou.
+[0:06:24] Então é muito importante você trabalhar isso.
+[0:06:25] Esse é o segundo ponto.
+[0:06:26] O primeiro é um porquê,
+[0:06:28] porquê essa indicação.
+[0:06:31] O segundo é trabalhar urgência e escassez.
+[0:06:34] Traz essa ideia de que ela precisa agir naquele momento,
+[0:06:39] que talvez se ela não agir agora,
+[0:06:41] a dor dela vai se tornar dez vezes maior.
+[0:06:43] O benefício que ela sonha vai ficar dez vezes mais distante.
+[0:06:46] Ela tem que agir agora.
+[0:06:48] Beleza? Outra coisa que você pode trazer,
+[0:06:50] o terceiro ponto que você pode trazer,
+[0:06:52] tá, e que funciona muito, muito, muito bem,
+[0:06:56] é a oportunidade.
+[0:06:58] É você mostrar que aquilo tem valor,
+[0:07:01] que o que ela está recebendo
+[0:07:03] é mais valioso do que ela está pagando.
+[0:07:06] Como que a gente demonstra valor?
+[0:07:09] Como que a gente demonstra que aquilo ali
+[0:07:11] é uma oportunidade para a pessoa?
+[0:07:13] Existem algumas formas.
+[0:07:14] Como que as pessoas se sentem em uma oportunidade?
+[0:07:16] Todo mundo se sente bem, por exemplo,
+[0:07:17] quando acham dinheiro.
+[0:07:18] Dei sorte, certo?
+[0:07:21] Dei sorte.
+[0:07:22] Ela tem que ter essa sensação
+[0:07:23] quando vê o seu vídeo.
+[0:07:24] Meu Deus, eu dei sorte desse vídeo aparecer para mim.
+[0:07:27] Eu dei sorte.
+[0:07:28] Entenderam?
+[0:07:29] Como que a gente causa essa sensação de sorte?
+[0:07:32] No exemplo do podcast que eu falei,
+[0:07:34] bom, já que você me convidou
+[0:07:36] para dar aula, para essa entrevista,
+[0:07:39] eu vou oferecer 50% de desconto
+[0:07:41] só para quem está assistindo em casa,
+[0:07:43] só para os seus seguidores.
+[0:07:45] A pessoa que está assistindo fala assim,
+[0:07:46] caralho, dei sorte.
+[0:07:48] Eu já queria esse produto.
+[0:07:49] Claro que queria.
+[0:07:50] A gente conduziu ela para isso, né?
+[0:07:52] Eu já queria um produto desse.
+[0:07:53] E só porque eu dei sorte
+[0:07:55] de estar aqui e ter 50% de desconto,
+[0:07:57] é uma oportunidade.
+[0:07:58] É assim que você gera
+[0:08:00] o senso de oportunidade.
+[0:08:02] Existem outras formas, sabe?
+[0:08:04] Claro que não nesse caso,
+[0:08:06] mas em outros casos a gente usava tipo assim...
+[0:08:09] Eu comprei esse produto por 1.500 reais,
+[0:08:15] mas como eu sei que tem muita gente precisando,
+[0:08:17] eu vou deixar ele no link por 147 reais.
+[0:08:21] Eu vou deixar um link aqui de graça
+[0:08:23] para a pessoa assistir.
+[0:08:24] Entendeu?
+[0:08:26] Olha a oportunidade, caramba.
+[0:08:28] Então eu estou tendo a sorte
+[0:08:30] desse cara ter comprado o produto
+[0:08:32] e está liberando de graça para eu assistir aqui
+[0:08:34] quando eu trabalhava com o infomodutos.
+[0:08:36] Entende?
+[0:08:37] No nosso caso,
+[0:08:38] a gente tem que criar esse senso de oportunidade.
+[0:08:41] Tipo, que a pessoa olha o vídeo
+[0:08:44] e no final ela fala assim, caraca, véi.
+[0:08:46] Além de ter urgência,
+[0:08:47] além de ter escasseis,
+[0:08:48] ter um pouco pote,
+[0:08:49] são muitas mulheres pedindo,
+[0:08:51] são muitos homens pedindo,
+[0:08:52] além de ter um bom porquê,
+[0:08:53] caramba, foi total sentido.
+[0:08:55] É por isso que ela está mostrando esse produto.
+[0:08:57] É por isso que ela está indicando esse produto.
+[0:08:59] Porque funciona.
+[0:09:00] Além disso, eu dei sorte.
+[0:09:02] Porque tem a surgença, tem a escasseis
+[0:09:04] e eu estou aqui muito certo.
+[0:09:06] É uma oportunidade para mim.
+[0:09:08] E a larga.
+[0:09:09] Então, esse é o conceito por trás do CTA.
+[0:09:12] O que você tem que ter na sua cabeça
+[0:09:13] ainda são os princípios lá de trás.
+[0:09:15] Você tem que ser indireto.
+[0:09:16] Então falar para o cara,
+[0:09:17] clica aí no botão,
+[0:09:18] não vai dar tão bom.
+[0:09:19] O mais indicado é,
+[0:09:21] de forma natural.
+[0:09:22] Bom, é por isso que...
+[0:09:24] Lembra do porquê?
+[0:09:25] É por isso que...
+[0:09:27] Eu vou deixar.
+[0:09:28] Eu entrei em contato com a marca lá.
+[0:09:30] E eu achei.
+[0:09:31] E eles liberaram um desconto
+[0:09:33] de tantos por cento no POT.
+[0:09:35] Está no link aí embaixo.
+[0:09:36] É só tocar no link aí
+[0:09:37] e vai lá na página.
+[0:09:38] E pode confiar que não sei o que tá, tá, tá, tá.
+[0:09:40] Então, você só mostra que o botão está ali.
+[0:09:43] Você só lembra ela que o botão está ali.
+[0:09:45] Outra coisa.
+[0:09:47] Não faça chamadas para ação de outras ações.
+[0:09:50] Ah, curte o vídeo.
+[0:09:51] Compartilhe esse vídeo.
+[0:09:52] Comenta nada.
+[0:09:54] O seu objetivo nesses vídeos agora é vender.
+[0:09:57] E o seu foco tem que ser na venda.
+[0:10:00] Combinado?
+[0:10:01] Então, outra coisa.
+[0:10:03] Acabei de lembrar de mais um aqui que você pode usar.
+[0:10:06] É você usar o CTA,
+[0:10:08] a chamada para ação de avaliações.
+[0:10:11] De depoimentos.
+[0:10:13] Então você pode falar, tipo assim,
+[0:10:15] cara, para mim funcionou muito bem.
+[0:10:17] E não foi só para mim.
+[0:10:19] Lá na página do...
+[0:10:20] Quando você clicar no botãozinho
+[0:10:21] que está aparecendo,
+[0:10:22] você vai ver quantas recomendações tem.
+[0:10:24] Ou então, olha só aí por aí no vídeo, né?
+[0:10:26] Olha só quantas pessoas estão indicando esse produto.
+[0:10:28] Olha quantas estrelas.
+[0:10:29] 499 de recomendação, de avaliação.
+[0:10:31] Com mais de 5 mil comentários.
+[0:10:33] Cara, realmente, quando eu vi isso,
+[0:10:35] eu falei, esse produto é foda.
+[0:10:37] Então eu estou trazendo eles para vocês.
+[0:10:38] Percebe esse CTA também, de avaliação?
+[0:10:40] Porque a pessoa fala,
+[0:10:42] meu Deus, não foi só para ela.
+[0:10:43] Foi para um monte de gente.
+[0:10:45] Então, essas técnicas que geram oportunidade,
+[0:10:48] que geram escassez e urgência
+[0:10:50] e que fica de forma indireta para a pessoa
+[0:10:53] que tem um porquê você está mostrando aquele produto
+[0:10:56] e porquê ela deve adquirir,
+[0:10:58] porquê aquilo tudo é uma oportunidade,
+[0:11:01] é assim que tem que ser o seu CTA.
+[0:11:03] Combinado?
+[0:11:04] Não se preocupe,
+[0:11:05] se ainda ficou abrangente,
+[0:11:06] nas próximas aulas, nas próximas lives,
+[0:11:09] nós vamos trazer alguns exemplos disso.
+[0:11:11] E a gente vai dissecar.
+[0:11:13] Agora, a gente vai começar um trabalho com vocês
+[0:11:15] de pesquisa,
+[0:11:17] de trazer esses vídeos e mostrar,
+[0:11:19] isso aqui é o gancho, isso aqui é a atenção,
+[0:11:21] olha como esse gancho foi bem feito.
+[0:11:23] Olha uma frase de transição bem feita,
+[0:11:25] olha um CTA bem feito,
+[0:11:27] olha um desejo bem feito, bem construído.
+[0:11:29] Mas esse módulo aqui
+[0:11:31] é para você entender os conceitos do AIDA,
+[0:11:33] o conceito que mais funciona
+[0:11:35] no marketing a mais de 100 anos.
+[0:11:37] Isso aí não é de agora,
+[0:11:39] não é do marketing digital.
+[0:11:41] O AIDA sempre existiu,
+[0:11:43] sempre.
+[0:11:44] Quando os caras faziam um venda com cartas,
+[0:11:46] eles tinham um texto,
+[0:11:48] uma frase antes de abrir a carta,
+[0:11:50] que era o gancho, que era a atenção.
+[0:11:52] Entende?
+[0:11:54] Sempre existiu.
+[0:11:56] Combinado? Então esse foi o nosso material
+[0:11:58] sobre o AIDA,
+[0:12:00] todo nosso módulo sobre o AIDA.
+[0:12:02] Ainda temos mais duas aulas nesse módulo.
+[0:12:04] Eu te vejo na próxima aula,
+[0:12:06] bora!

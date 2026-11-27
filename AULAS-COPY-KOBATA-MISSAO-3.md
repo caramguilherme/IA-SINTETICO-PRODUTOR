@@ -16,7 +16,9 @@
 | 6. Ganchos | 17:14 | lida (27/11 14h50) |
 | 7. Frases de transição | 8:30 | lida (27/11 14h59) |
 | 8. Mecanismo único | 8:30 | lida (27/11 15h04) |
-| 9 a 12 | | faltam os links (o aluno, 27/11 ~15h05: "sao 12 aulas, ja mandei 8"); a aula 8 termina anunciando a 9: "pegar esse desejo… e canalizar numa venda" (a ação, o CTA) |
+| 9. CTA | 12:09 | lida (27/11 15h12) |
+| 10. Ângulos que convertem | | baixando |
+| 11 e 12 | | faltam os links (12 aulas no total; a aula 9: "ainda temos mais duas aulas nesse módulo") |
 
 ---
 
@@ -262,4 +264,30 @@
 
 ### Muda o pacote de hoje (nora82 a nora84)?
 **Não.** O mecanismo (a energia alinhada, que só a leitura revela) e o future pacing estão no pacote do nora81.
+
+---
+
+## Aula 9: CTA (12:09)
+
+### O que serve
+- **As pessoas só agem quando chamadas, então é preciso lembrar** (0:34 a 2:04). O exemplo dele: o canal que ele assiste todo dia e onde nunca se inscreveu, porque ninguém lembrou. "Talvez é uma das partes mais importantes."
+- **O CTA também não pode parecer venda** (2:08 a 2:27): "a pessoa só tem que lembrar que existe um botão ali".
+- **1. O porquê** (2:55 a 5:26): "uma das palavras mais fortes na persuasão é o porquê". O teste da fila: pedir para passar na frente "porque…" com qualquer motivo fez 30% a 40% aceitarem. A ideia é dar o motivo de aquilo estar disponível ("já que você me convidou…", "eu fui ajudada e quero ajudar essas mulheres").
+- **2. A escassez e a urgência** (5:32 a 6:48): "apenas 10 vagas", o estoque, a época, "se eu não agir agora, ferrou".
+- **3. A oportunidade, a "sorte"** (6:50 a 9:08): "meu Deus, eu dei sorte desse vídeo aparecer para mim". É o valor maior do que o preço.
+- **"Não faça chamadas para ação de outras ações. Ah, curte o vídeo, compartilhe esse vídeo, comenta… O seu objetivo nesses vídeos agora é vender"** (9:45 a 10:00).
+- **4. O CTA com as avaliações** (10:03 a 10:40): "olha quantas estrelas… mais de 5 mil comentários… não foi só para ela".
+
+### Na Nora
+- **O porquê já está no pacote:** "This change only happens for women whose energy is aligned with abundance. That's why I left a quick reading in my stories…". O "that's why" é o porquê da aula.
+- **A urgência e a sorte também:** a data ("if this video found you before Saturday… get ready"), o "Not every woman will see this video today. If it found you, it's not by chance." (a predestinação saudável) e o story que some em 24 h, que é verdade.
+
+  **Fica fora a escassez inventada sobre o produto** ("só 10 leituras", "acaba hoje"), pela linha de 27/11 15h05: o falso sobre o que ela paga não entra.
+- **A contradição com o pacote:** o Kobata manda não pedir curtida, compartilhamento nem comentário nos vídeos de venda (9:45). O corpo da maioria pede os selos (salvar, 2 toques, "amen") e o "send to yourself" antes do CTA, no Insta. O nora81 fez 17 compartilhamentos e 17 salvos, e esse engajamento pode ter puxado a entrega.
+
+  As aulas dele são de TikTok Shop (o botão de compra fica no vídeo). **Vira teste na `FILA`** (a regra "contradição vira teste"): A = o pacote com os selos; B = sem nenhum pedido de engajamento, só o CTA do story; a medida são as views, as visitas ao perfil e o clique. Ele se junta ao teste do pedido de envio no lugar dos selos (05/12).
+- **As avaliações:** só as reais, das capturas de `provas-trustpilot/` (a HONESTIDADE e a regra de 11/11). O teste da prova antes do CTA já rodou em 11/11.
+
+### Muda o pacote de hoje (nora82 a nora84)?
+**Não.** O porquê, a data e a "sorte" já estão nele, e os selos ficam porque estavam no vídeo que funcionou. Tirar os selos é o teste da `FILA`.
 
