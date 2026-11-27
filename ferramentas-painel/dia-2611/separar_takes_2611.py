@@ -16,7 +16,7 @@ dur = float(subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=d
 INICIOS = {
     'nora80': ['if your name', "there's a woman", "i don't know", 'the universe saw', 'but if you', 'st michael the', 'i can already', 'in seven minutes', 'now save this', 'if you did', 'but the universe', "that's why i left a", 'so tap my', 'if your name', "that's why i left you"],
     'nora81': ['if your name', "there's a woman", 'now this part', "i don't know", 'the universe saw', 'but if you', 'st michael the', 'i can already', 'in seven minutes', 'now save this', 'but it gets', 'but the universe', "that's why i left a", 'so tap my', 'if your name', "that's why i left you"],  # 26/11 ~21h15: as 2 frases de reinício
-    'nora82': ['if your name', "you're about to", "i don't know", 'the universe saw', 'but if you', 'st michael the', 'i can already', 'in seven minutes', 'now save this', 'if you did', 'but the universe', "that's why i left a", 'so tap my', 'if your name', "that's why i left you"],
+    'nora82': ['if your name', "there's a woman", "i don't know", 'the universe saw', 'but if you', 'st michael the', 'i can already', 'in seven minutes', 'now save this', 'if you did', 'but the universe', "that's why i left a", 'so tap my', 'if your name', "that's why i left you"],
     'nora77': ['put cinnamon in', "there's a woman", "i don't know", 'the universe saw', 'but if you', 'st michael the',
                'i can already', 'in seven minutes', 'now save this', 'if you did', 'but the universe', "that's why i left a",
                'so tap my', 'if your name', "that's why i left you"],

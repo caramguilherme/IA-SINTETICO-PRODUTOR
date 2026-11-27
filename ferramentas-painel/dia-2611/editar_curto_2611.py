@@ -16,7 +16,10 @@ O que o v07 e o v21 fazem (folhas em MATERIAIS-ROBERT-MCKEAVENEY/), item por ite
 Passo único: lê os quadros do clipe do Muse (o vídeo), tira a silhueta pela diferença contra o jardim vazio, monta cada quadro e põe o áudio do
 montado (a música que o aluno pôs no CapCut). O clipe tem um pulo no 1º quadro (LICOES, 26/11 19h17): a edição usa só a passada dela.
 
-Uso: python3 -I editar_curto_2611.py <clipe-do-muse.mp4> <audio: o montado do CapCut, ou o próprio clipe> <pasta-saida> [VEL=1.25] [N=2]
+Uso: python3 -I editar_curto_2611.py <clipe-do-muse.mp4> <audio: o montado do CapCut, ou o próprio clipe> <pasta-saida> [VEL=2.0] [N=3]
+
+26/11 ~21h40 (o aluno): mais rápida (2x) e a mensagem só no quadro em que ela encaixa de verdade ("1 milésimo antes, 1 milésimo depois, já não é para
+aparecer"): o "YOU DID IT!" fica só no quadro-alvo, 1 quadro por passada (~0,04 s); a 2x, os quadros vizinhos mostrados são o alvo ±2, ±4 (com o "SOOOO CLOSE").
 """
 import json, os, subprocess, sys
 import numpy as np
@@ -24,8 +27,8 @@ import cv2
 from PIL import Image, ImageDraw, ImageFont
 
 CLIPE, AUDIO, OUT = sys.argv[1:4]
-VEL = float(sys.argv[4]) if len(sys.argv) > 4 else 1.25
-N = int(sys.argv[5]) if len(sys.argv) > 5 else 2
+VEL = float(sys.argv[4]) if len(sys.argv) > 4 else 2.0   # 26/11 ~21h40 (o aluno): "achei muito devagar… tem que andar mais rápido para ficar mais difícil"
+N = int(sys.argv[5]) if len(sys.argv) > 5 else 3
 W, H = 1080, 1920
 ALVO_X = 0.30          # o quadro-alvo: o centro do corpo dela perto de 30% da largura (o terço esquerdo)
 VERMELHO = (229, 23, 43)
@@ -103,7 +106,7 @@ def para_tela(img, interp=cv2.INTER_CUBIC):
 
 mg = para_tela(mt.astype(np.float32), cv2.INTER_LINEAR)
 mg = cv2.GaussianBlur(mg, (0, 0), 7) > 0.5
-mg = cv2.dilate(mg.astype(np.uint8), cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (17, 17)))
+mg = cv2.dilate(mg.astype(np.uint8), cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (9, 9)))   # justa: só o quadro certo encaixa (o aluno, 26/11 ~21h40)
 cs, _ = cv2.findContours(mg, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)
 c = max(cs, key=cv2.contourArea)
 c = cv2.approxPolyDP(c, 1.5, True)

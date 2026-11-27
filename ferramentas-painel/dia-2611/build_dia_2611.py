@@ -115,8 +115,8 @@ V = {
                     'on the nightstand at the side; ' + FLAG_PAREDE + '; she wears a plain dark-green long-sleeve knit top with no logo; framed from the waist up, her face '
                     'in the upper middle of the image, looking straight into the camera with a calm, serious look and her lips closed; with both hands she holds a plain '
                     'white ceramic mug of tea at collarbone height, a little below her chin; ' + FIM),
-        copia='as letras + o corpo da maioria, com a 2ª frase do m11 (o vídeo mais repetido da mineração de 26/11)',
-        teste=True),
+        copia='as letras + o corpo da maioria (o nora76-FACE e o nora77-FACE), sem teste',
+        teste=False),   # 26/11 ~21h40 (o aluno): "o Nora 81 vira teste hoje. E o Nora 82 amanhã… vai com o corpo da maioria sem teste nenhum"; a 2ª frase como pico passa para 28/11
 }
 for k, v in V.items():
     for w in ('chest', 'skin', 'body', 'breast', 'underwear', 'wine', 'powder', 'paint', 'shining', 'glowing', 'sparkling'):
@@ -224,10 +224,10 @@ TEXTOS = {
         fix_insta='If your letter was called ✨ tap my profile picture above, your next step is in my story',
         fix_face="Saint Michael's message continues here ✨ 👉 "),
     'nora82': dict(
-        insta=("If your letter is here, your luckiest days may be closer than you think 🍀 Your private reading is waiting in my story 🔮\n"
+        insta=("If your letter is here, something you've been waiting for may be closer than you think 🍀 Your private reading is waiting in my story 🔮\n"
                "Comment the time you're watching this ⏰\n#manifestation #abundance #2027 #lawofattraction #newchapter"),
         face=('If your letter is on this list, this was meant to find you today ✨ Your reading is waiting in the first comment 🔮\n#manifestation #2027 #newchapter'),
-        fix_insta='Your luckiest days start with one small step 🍀 tap my profile picture above and check my story',
+        fix_insta='The next chapter starts with one small step 🍀 tap my profile picture above and check my story',
         fix_face='This reading was meant to find you today ✨ 👉 '),
 }
 assert len({t['fix_face'] for t in TEXTOS.values()}) == 3
@@ -363,7 +363,8 @@ def montar(nn):
                  'the luckiest days of your entire life. Are you ready?” no lugar da mulher deitada. O resto é igual ao nora80 e ao nora81 (o controle). A medida, com ~24 h: '
                  'a retenção aos 3 s e aos 10 s, o skip e as visitas ao perfil, contra o nora81 (2h de 27/11) e o nora80 (o fim da tarde de 26/11). Olhar a fatia da Índia antes de comparar: o nora82 vai às 17h, a faixa da tarde.' if teste else
                  'Este vídeo NÃO testa nada: é o que vem dando certo, igual (as letras + o corpo da maioria; o nora76-FACE e o nora77-FACE, os 2 maiores da Página). '
-                 'Muda só a roupa e o cenário. O teste do dia vai no nora82, às 17h de 27/11 (mudou em 26/11 18h50: o aluno não conseguiu o nora81 às 21h).')
+                 + ('Muda só a roupa e o cenário. O teste de 27/11 é o do nora81 (a frase de reinício, às 2h); a 2ª frase como pico passa para 28/11 (decisão do aluno, 26/11 ~21h40).' if nn == 'nora82' else
+                    'Muda só a roupa e o cenário. O teste do dia vai no nora82, às 17h de 27/11 (mudou em 26/11 18h50: o aluno não conseguiu o nora81 às 21h).'))
     P['pecas'] = {
         'titulo_decisao': 'Resumo',
         'lista': ([{'nome': v['img'], 'tipo': 'imagem das falas', 'status': 'gerar', 'onde': f'No Muse, só com a {FOLHA} (1 por vez); reserva: o Flow com a {IMG_BASE} + a {FOLHA}.',
@@ -395,7 +396,7 @@ def salvar(P, nn, rotulo):
 if __name__ == '__main__':
     for nn, rot in (('nora80', 'Painel nora80 · as letras + o corpo da maioria, no carro · 26/11 17h30'),
                     ('nora81', 'Painel nora81 · as letras + o corpo da maioria, à mesa · 27/11 2h'),
-                    ('nora82', 'Painel nora82 · o teste da 2ª frase, no quarto · 27/11 17h')):
+                    ('nora82', 'Painel nora82 · as letras + o corpo da maioria, no quarto · 27/11 17h')):
         P, n, pal = montar(nn)
         print(nn, n, 'takes,', pal, 'palavras')
         salvar(P, nn, rot)

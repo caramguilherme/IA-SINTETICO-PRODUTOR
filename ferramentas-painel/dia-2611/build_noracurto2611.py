@@ -72,7 +72,7 @@ def montar():
     p = {
         'enxuto': True, 'clipe_unico': True, 'ocultar_bloco_agente_imagem': True,
         'perfil': base['perfil'], 'trava_referencia': base['trava_referencia'], 'figurino': ROUPA, 'excecao_estilo': '',
-        'roteiro': {'id': 'noracurto2611-DESAFIO-PAUSAR', 'titulo': 'noracurto2611 · 26/11 · o desafio de pausar (~4,5 s, sem fala): só no Insta, às ~23h',
+        'roteiro': {'id': 'noracurto2611-DESAFIO-PAUSAR', 'titulo': 'noracurto2611 · 26/11 · o desafio de pausar (~4,2 s, sem fala): só no Insta, às ~23h',
                     'duracao_total': 6,
                     'descricao_instagram': ("Only 1% can pause at the right time 👀 If you did, your private reading is waiting in my story 🔮\n"
                                             'Tell me how many tries it took you 👇\n#manifestation #2027 #lawofattraction #angelnumbers'),
@@ -108,7 +108,7 @@ def montar():
                          'empurra). Igual ao vídeo do Robert: a silhueta vermelha do corpo dela (num quadro só, no terço esquerdo) fica parada na tela; ela atravessa o jardim; no topo, '
                          '"Only 1% can pause at the right time!" (o 1% em amarelo). Quando ela passa perto, pisca "SOOOO CLOSE 😱 / 1 frame off..."; só no quadro em que o corpo '
                          'dela encaixa na silhueta aparece, à direita, "YOU DID IT! 🎉" em amarelo e "Your 2027 reading is in my story 🔮", com a seta para a foto do perfil. '
-                         'Eu corto o pulo do começo, acelero 1,25x, faço 2 passadas (~4,5 s) e ponho tudo. Sem fala; só no Insta.'),
+                         'Eu corto o pulo do começo, acelero 2x (mais difícil de pausar), faço 3 passadas (~4,2 s) e ponho tudo. A mensagem aparece só no quadro em que o corpo encaixa na silhueta, 1 quadro por passada. Sem fala; só no Insta.'),
             'modo': ('1) A imagem: no Muse, na conversa da Nora, anexe SÓ a ' + FOLHA + ' e cole o prompt do item 1 (1 imagem por vez; se algo vier errado, “Generate it again, '
                      'exactly the same prompt, one new version”). 2) O clipe: no Muse, anexe a imagem escolhida e cole o bloco do item 2 (1 versão só). Baixe e me mande.'),
             'etapas': [
