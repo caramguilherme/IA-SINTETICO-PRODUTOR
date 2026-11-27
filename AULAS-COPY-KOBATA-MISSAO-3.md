@@ -14,7 +14,7 @@
 | 4. Personas | 9:33 | lida (27/11 14h33) |
 | 5. AIDA | 7:40 | lida (27/11 14h36) |
 | 6. Ganchos | 17:14 | lida (27/11 14h50) |
-| 7. Frases de transição | | falta o link |
+| 7. Frases de transição | 8:30 | lida (27/11 14h59) |
 | 8. Mecanismo único | | falta o link |
 
 ---
@@ -218,4 +218,25 @@
 
 ### Muda o pacote de hoje (nora82 a nora84)?
 **Só a estátua inteira no 1º quadro**, para ficar igual ao nora81. A fala não muda.
+
+---
+
+## Aula 7: Frases de transição (8:30)
+
+### O que serve
+- **A frase de transição é o 1º pedaço do corpo e é o I (interesse) do AIDA** (0:29 a 1:20): depois de chamar a atenção, segurar a pessoa até o fim. Ela não estava procurando solução no feed (1:20 a 1:55).
+- **Como despertar o interesse** (1:55 a 2:31): um benefício, a dor apertada ou uma promessa. **"Essa promessa você não pode ser agressivo… perca tantos quilos em tantos dias, além de tomar uma violação… faz de uma maneira subjetiva, você fala como aquilo afetou na sua vida"** (2:05 a 2:31).
+- **A identificação** (4:29 a 5:33): "essa pessoa sabe o que eu estou passando… pensando… sentindo". O jeito dele é ser a pessoa transformada ("eu era igual você, mas hoje eu estou aqui"). Pode ser pela dor ou pelo benefício (6:01 a 6:19).
+- **"Tirar o peso" depois do gancho forte** (6:19 a 6:40): "às vezes você usou uma frase muito forte no gancho… agora você precisa trazer ela para perto de você. Ela precisa entender que você compreende ela", porque o passo seguinte é o produto. Sem essa compreensão, "ela não vai seguir sua indicação".
+- **A história já é prova** (6:45 a 7:21), e cada nicho tem a sua (no emagrecimento, o antes e depois). Daí a importância das frases e dos sentimentos da persona (7:51 a 8:01).
+
+### Na Nora
+- **O pacote vai do gancho forte ("be very careful") para uma cena** ("There's a woman lying down with her phone in her hand right now"), e a Nora entra como a mensageira do Arcanjo. A identificação vem da cena, não da história dela.
+
+  O "trazer para perto" da aula reforça o teste da 2ª frase de 02/12: o momento de uma persona (aula 4), pela dor ou pelo desejo. Os 2 braços já estão na `FILA`: a 2ª frase como pico e a 2ª frase de validação (R48).
+- **Fica fora:** a "pessoa transformada" pelo produto ("eu era igual você… por causa desse produto"). Na Nora, isso seria um depoimento inventado da leitura (a HONESTIDADE e a regra da Appyon de não falar do produto). Ela pode dizer que entende o sentimento ("I know how heavy that feels"), sem dizer que a leitura mudou a vida dela.
+- **A promessa "subjetiva"** é o 3º lugar das aulas em que o Kobata vai contra a promessa forte (aula 2, 7:26; aula 7, 2:05; e a call de 11/11 sobre o chargeback). Isso reforça o teste da promessa forte × leve da `FILA`.
+
+### Muda o pacote de hoje (nora82 a nora84)?
+**Não.** A transição do pacote (a mulher deitada, a mensagem do Arcanjo, o "Now, this part matters.") é a do vídeo que funcionou. O "trazer para perto" entra no teste da 2ª frase (02/12), e a promessa leve entra no teste da promessa.
 

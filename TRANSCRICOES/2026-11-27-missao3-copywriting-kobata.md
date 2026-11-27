@@ -1233,3 +1233,105 @@ Na tela: o Kobata falando, com textos da edição ("A.I.D.A" ~0:04, "PRODUZIR GA
 [0:16:58] quando você acertar um só você vai ver putz entendi é isso que eu preciso
 [0:17:04] por combinado galera tamo junto te espero na próxima alunha nós vamos falar
 [0:17:08] sobre a parte agora de estimular o interesse da pessoa bora
+
+## Aula 7: Frases de transição (8:30; embed v=7aa410f2-af5d-4412-97dc-3192946735c5)
+
+Na tela: o Kobata falando, com textos da edição ("CORPO DO ANÚNCIO" ~0:25, "PESSOAS COMPRAM DE PESSOAS" ~2:25, "ESSA PESSOA SABE O QUE EU ESTOU PENSANDO" ~4:45).
+
+[0:00:04] Bom, vamos lá pessoal, então seguindo para o nosso contexto do AIDA, nós começamos com o A,
+[0:00:11] que é Atenção, e que no nosso caso é o Gancho, os primeiros segundos do seu vídeo,
+[0:00:16] tanto o áudio, a imagem, a polêmica que você vai usar, a contradiutória que você vai usar,
+[0:00:22] a frase em si, o script. Agora nós vamos para a segunda parte, agora a gente começa a entrar no
+[0:00:29] corpo do anúncio, né, do vídeo no caso. Então, nosso vídeo é o Gancho, que é como se fosse a cabeça
+[0:00:35] e depois o corpo. Então você somando que você está escrevendo isso no documento, o gancho vai
+[0:00:41] em cima e depois a gente escreve o corpo, beleza? O corpo, a primeira etapa do corpo é a frase de
+[0:00:48] transição, que é a nossa parte do interesse. Então, vamos supor que você chegou lá e você
+[0:00:55] chamou atenção no seu público, colocou uma imagem forte, uma frase forte, polêmica ou uma frase
+[0:01:03] curiosa, né, e chamou atenção no ponto que você queria. Agora não basta mais só chamar atenção,
+[0:01:09] agora você quer manter a atenção dessa pessoa para ela assistir todo o seu vídeo para chegar lá no
+[0:01:14] final, ela ouvir você chamando ela pode ficar no botão e ela clicar e comprar, entendeu? Então
+[0:01:20] ela começa o nosso processo de conscientizar essa pessoa. Vamos lembrar de uma coisa, essa pessoa
+[0:01:26] ela estava no TikTok, você acha que ela estava procurando uma solução para o problema dela?
+[0:01:30] Não, ninguém entra no TikTok e fala assim, qual remédio devo tomar para isso, para dar o sintoma?
+[0:01:35] Ninguém faz isso, entendeu? Então essa pessoa, às vezes ela está com sintoma ou está com
+[0:01:40] problema, sei lá, o cabelo dele está caindo, mas ele não vai entrar no TikTok pesquisar isso,
+[0:01:44] sabe? Mas se aparece o seu vídeo falando sobre isso, agora que você chamou atenção dele,
+[0:01:49] você pode fazer ele querer comprar algo ali na hora. Então essa frase de transição,
+[0:01:55] na verdade, é para você despertar o interesse na pessoa e para você despertar o interesse,
+[0:02:00] você tem que falar algo obviamente que seja interessante para ela, né? Então a gente vai
+[0:02:05] falar um benefício, a gente vai apertar uma dor, a gente vai fazer uma promessa, só que essa
+[0:02:10] promessa você não pode ser agressivo, você não pode falar o seu cabelo vai, tá, tá,
+[0:02:14] perca tantos quilos em tantos dias, além de tomar uma violação do TikTok,
+[0:02:19] por causa disso, da agressividade, lembrem-se, pessoas compram de pessoas, é uma indicação,
+[0:02:25] não pode parecer uma venda. Então essa promessa você faz de uma maneira subjetiva,
+[0:02:31] você fala como aquilo afetou na sua vida, o ideal é que você quando falar do benefício,
+[0:02:37] quando você falar de uma situação de vida que você passou, que aquela pessoa também
+[0:02:41] queria para gerar essa interesse, para gerar essa conexão com a pessoa, seja algo em que essa
+[0:02:49] pessoa tenha uma base para entender, você precisa justificar, você precisa trazer um entendimento
+[0:02:57] completo daquilo, sabe? Vou dar um exemplo para você, né? Um porquê daqui no tefeixonado.
+[0:03:02] Então vou supor que aquele gancho que eu falei anteriormente da menina se maquilando e etc,
+[0:03:06] eu vou contar o que aconteceu com o meu namorado, né? Vou contar, gente, o meu namorado ia terminar
+[0:03:12] comigo, mas olha o que aconteceu no meu relacionamento, aí começa com o gancho de fofoca. E agora ela vai
+[0:03:18] criar interesse, para criar interesse, para as mulheres que estão assistindo, que comprariam ali o
+[0:03:22] creme dela, o ideal é que ela gera conexão, como ela vai gerar conexão? Contando uma história
+[0:03:29] em que as outras mulheres se identificariam, um exemplo. Então, ah, então a gente,
+[0:03:34] meu namorado começou a chegar tarde em casa ou então a gente tem que lembrar de várias histórias que a
+[0:03:39] gente vê por aí, né? De relacionamento, problema de relacionamento, traição. Ah,
+[0:03:44] meu namorado não deixava eu ter a senha do celular dele, entendeu? Você traz essas histórias, você
+[0:03:49] traz essas dores, isso são dores, você traz essas dores, ah, ele não me olhava mais, ele não
+[0:03:55] me chamava mais para ir para a cama com ele, passava uma menina mais nova e ele olhava para
+[0:04:01] ela, sabe? Traz essas dores que geram interesse nessa pessoa. Isso é uma boa frase de transição.
+[0:04:08] Eu estou usando esse caso na menina do creme, mas isso pode ser para qualquer produto,
+[0:04:13] para um emagrecimento, pode ser uma situação que ela passou, um benefício, como ela se sentiu bem,
+[0:04:18] ou como ela se sentiu mal em alguma situação. A frase de transição, ela tem que tocar na
+[0:04:23] emoção da pessoa, para que ela crie interesse em ver o resto do seu vídeo. Agora, o que
+[0:04:29] é muito importante você entender? Novamente aquele princípio do começo, pessoas compram de pessoas.
+[0:04:36] Então, o que a pessoa, o seu cliente vai estar assistindo o seu vídeo e buscando ali é identificação.
+[0:04:42] É eles olharem para o seu vídeo e falam caraca, essa pessoa sabe que eu estou passando, essa
+[0:04:48] pessoa sabe que eu estou pensando, essa pessoa sabe que eu estou sentindo. E o melhor jeito de
+[0:04:53] você fazer isso é demonstrando que você já passou por isso. Então, o melhor jeito de vender
+[0:04:58] o shopping é você sendo a pessoa transformada. Eu era igual você, mas hoje eu estou aqui. Eu
+[0:05:03] também senti isso que você está sentindo em uma mulher, eu também sentia que eu estava nem
+[0:05:07] chegando nos 30 e já estava com pés de galinha, eu também senti que meu namorado não olhava
+[0:05:11] para mim assim, eu também senti em segurança de sair numa foto, eu também sentia que você
+[0:05:15] traz esse contexto, gerou a identificação. Só que agora você não sente mais, porque você sabe
+[0:05:20] de algo que essa pessoa não sabe. Entende como gera uma identificação? Primeiro você gera
+[0:05:24] essa identificação com a pessoa e depois você fala mas eu não estou mais nesse ponto. Por causa
+[0:05:28] desse produto aqui, entendeu? Então é muito importante você gerar essa identificação, você lembrar que
+[0:05:33] pessoas compram de pessoas e principalmente ela tem que entender que você está ali para ajudar.
+[0:05:38] Lembra-se do conceito de não parecer uma venda. Então se você está ali para ajudar você está
+[0:05:45] fazendo uma indicação. Então basicamente a maioria dos vídeos que viralizam e que vendedem bem
+[0:05:51] um contexto na frase de transição para gerar esse interesse é algo que ela já passou,
+[0:05:56] algo que ela passa ou algo que ela quer passar. A frase de transição também pode ser algo positivo,
+[0:06:01] não precisa ser negativo. Ah meu marido, meu namorado não olhava mais para mim. Pode ser tipo assim,
+[0:06:05] cara eu estou me sentindo assim, sabe? Com uma pele de seda de porcelana por causa disso.
+[0:06:11] Pode ser também. E a pessoa vai se identificar, porque ela quer aquele desejo, aquele benefício
+[0:06:15] também. Então ou você ataca pela dor ou você ataca pelo benefício. Mas o principal é
+[0:06:19] que nessa frase de transição você tirar o peso. Às vezes você usou uma frase muito forte no gancho
+[0:06:25] para chamar a atenção dela e agora você precisa trazer ela para perto de você. Ela precisa entender
+[0:06:29] que você compreende ela, tá? Porque o próximo passo é nós enserimos o produto. Se você não
+[0:06:35] gerar essa compreensão, a pessoa não confiar em você e não sentir que você é gente como ela,
+[0:06:40] ela não vai seguir sua indicação. Por causa do princípio pessoas compram de pessoas. Dentro
+[0:06:45] das frases de transição você também pode trazer alguns elementos de prova. Essas histórias elas
+[0:06:50] já são provas. Ah quando você fala eu passei por isso, eu senti aquilo. Meu namorado não me deu
+[0:06:55] a ser no celular dele. Meu namorado apagava uma mensagem no whatsapp. Vocês entendem que eu
+[0:06:59] estou usando esse lado de relacionamento? Mas o produto é de pele, porque as pessoas não
+[0:07:04] estão nem aí para nessa. Mas ela está preocupada com o que a pele dela causa na vida dela. Nesse
+[0:07:08] caso não é relacionamento. Entenderam? Então você vai usar essa frase de transição para
+[0:07:12] ter esse interesse nela. Tipo, essa pessoa sabe o que eu estou falando. Não é mais o creme que ela
+[0:07:17] está olhando. Ela está olhando para o que você passou pela sua história. Isso é um elemento de prova.
+[0:07:21] E cada produto que você for vender, dependendo do nicho que você escolher, são coisas diferentes,
+[0:07:26] tá? Eu estou dando esse exemplo aqui para o creme na pele. Mas um emagrecimento, por exemplo,
+[0:07:30] a pessoa quer saber como ela se sentiu com roupas, num dente, no encontro que ela foi,
+[0:07:35] como ela se sentiu com ela, como ela se sentiu estando leve e o que que ela quer?
+[0:07:39] Antes e depois. Eu usava a calça 48, agora eu uso a calça 40. É um antes e depois. Então cada nicho vai
+[0:07:46] ter a sua prova, vai ter a sua história, vai ter o sentimento daquela pessoa ali. É por isso que é
+[0:07:51] muito importante você, lá na pesquisa, lá na persona, saber as frases, os sentimentos, as emoções
+[0:07:57] que a sua pessoa sente, que a sua pessoa passa. Entendeu? Essa é a frase de transição.
+[0:08:01] Basicamente, você vai pegar os desejos, os benefícios, as dores dessa pessoa e apresentar
+[0:08:07] uma possível solução. Que você já passou por isso. Mostra para ela que você entende,
+[0:08:12] que você compreende ela e traz ela para perto de você. Seja através de uma história,
+[0:08:15] seja através de uma promessa, mas que ela olhe e fala, pera aí, deixa eu ver,
+[0:08:19] o que essa menina está falando dela? Sabe de algo? Essa mulher sabe de algo,
+[0:08:22] esse cara sabe de algo. Combinado? Então, vamos à próxima aula agora,
+[0:08:26] onde a gente vai falar sobre o desejo. Vamos lá.
