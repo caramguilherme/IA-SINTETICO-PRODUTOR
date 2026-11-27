@@ -7,8 +7,14 @@ V=$1; OUT=$2
 B="https://b-vz-cf4d4554-397.tv.pandavideo.com.br/$V"
 H=$'Referer: https://player-vz-cf4d4554-397.tv.pandavideo.com.br/\r\nOrigin: https://player-vz-cf4d4554-397.tv.pandavideo.com.br\r\n'
 P=${HTTPS_PROXY:-http://127.0.0.1:34801}; CA=/root/.ccr/ca-bundle.crt
+# o playlist.m3u8 diz se o áudio vem à parte (audio.m3u8) ou junto do vídeo
+PL=$(curl -s -H "Referer: https://player-vz-cf4d4554-397.tv.pandavideo.com.br/" "$B/playlist.m3u8")
 for i in 1 2 3; do
-  ffmpeg -v error -y -http_proxy $P -ca_file $CA -headers "$H" -i "$B/480p/video.m3u8" -http_proxy $P -ca_file $CA -headers "$H" -i "$B/480p/audio.m3u8" -map 0:v -map 1:a -c copy "$OUT" && break
+  if echo "$PL" | grep -q 'audio.m3u8'; then
+    ffmpeg -v error -y -http_proxy $P -ca_file $CA -headers "$H" -i "$B/480p/video.m3u8" -http_proxy $P -ca_file $CA -headers "$H" -i "$B/480p/audio.m3u8" -map 0:v -map 1:a -c copy "$OUT" && break
+  else
+    ffmpeg -v error -y -http_proxy $P -ca_file $CA -headers "$H" -i "$B/480p/video.m3u8" -c copy "$OUT" && break
+  fi
   sleep 15
 done
 ffprobe -v error -show_entries format=duration -of csv=p=0 "$OUT"
