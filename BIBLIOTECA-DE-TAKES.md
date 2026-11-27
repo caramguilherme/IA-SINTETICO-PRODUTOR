@@ -485,7 +485,7 @@ Fora da numeração do nora. Peças com o nome do teste: `faceNN-IMG`, `faceNN-C
 - **O teste:** é a variação só de edição de um vencedor. Já travou 4 vezes em 6 na Página (21/11), inclusive a do nora69-FACE, com 4 views. Postada por decisão do aluno ("pra postar 12h30"). **Medida:** as views com ~3 h e ~24 h, contra o nora69-VAR2111-FACE (4) e o nora76-FACE (4.520).
 - **Arquivos:** `ferramentas-painel/ferramentas/specs/*nora76-VAR2711*`.
 
-## nora83 (27/11/2026, editado às ~19h45): o pacote do nora81 na sala, blusa vinho, a poltrona, a carta e a estátua na mesinha
+## nora83 (27/11/2026, editado às ~19h35): o pacote do nora81 na sala, blusa vinho, a poltrona, a carta e a estátua na mesinha
 - **Montado:** `nora83-montado` (2:00, 16 takes; o T15 e o T16 do Face no fim). O 1º gerado com o T11 numa frase só e a regra contra palavra a mais (`fix_muse`).
 - **Insta** (`nora83-final`, 1:33): do T01 ao T14.
 - **Face** (`nora83-final-FACE`, 0:59): o T15 + T02, T03, T04, T05 (sem o "and money,"), T07, T08, T12 + T16.

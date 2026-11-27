@@ -876,7 +876,7 @@ O Flow bateu o limite de geração de imagens, e o aluno gerou a imagem do nora8
 
 **Não sei se resolve:** é a minha leitura do padrão (2 de 2 no T11), sem documentação do Muse. A medida é o montado do nora83.
 
-## 27/11/2026 ~19h45, nora83: o T11 numa frase só funcionou
+## 27/11/2026 ~19h35, nora83: o T11 numa frase só funcionou
 - **O T11 não repetiu** o fim da frase, que tinha repetido em 2 de 2 vídeos. Saiu só um "Better." solto no começo, que o corte resolve.
 - **O T05 embolou pela 1ª vez:** "are about to incredible appear in your life, are about to appear". O Muse ainda erra às vezes, com ou sem a regra, e o corte na edição continua sendo o conserto, a 0 crédito.
 - **O ajuste de prompt segue** no nora84 e nos próximos com a frase de reinício.
