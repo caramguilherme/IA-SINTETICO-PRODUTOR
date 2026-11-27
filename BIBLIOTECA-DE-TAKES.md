@@ -471,6 +471,22 @@ Fora da numeração do nora. Peças com o nome do teste: `faceNN-IMG`, `faceNN-C
 - **Tela:** sem texto no topo; o 11:11✨ à direita; a legenda simples; a seta grande do CTA ao fim (só no Insta).
 - **Arquivos:** `ferramentas-painel/ferramentas/specs/spec-nora80*.json`, `palavras-nora80*.json`, `cortes-extra-nora80*.json`; scripts `ferramentas-painel/dia-2611/separar_takes_2611.py` e `rodar_2611.sh`.
 
+## nora81 (27/11/2026, editado às ~02h15): as letras + o corpo da maioria + as 2 frases de reinício (o teste de 27/11), à mesa com a estátua de São Miguel, suéter creme, a carta
+- **Montado:** `nora81-montado` (2:02, 16 takes; o T15 e o T16 do Face no fim).
+- **Insta** (`nora81-final`, 1:30): T01 ao T14, com "Now, this part matters." (T03) e "But it gets better." (no começo do T11).
+- **Face** (`nora81-final-FACE`, 0:59): T15 (as letras) + T02, T03, T04, T05 sem o "and money," (corte de 28,42 a 29,22 no montado do Face, pelas sílabas na energia; a emenda transcrita: "your faith, prosperity, and someone…"), T07, T08, T12 + T16 (o 1º comentário), com a faixa "Your 2027 reading: link in the comments".
+- **Erros do Muse consertados na edição:**
+  - o "E" dobrado no T01 (corte de 4,60 a 4,93);
+  - a frase repetida no T11 (corte de 75,10 a 77,84);
+  - a frase a mais no fim do T15 (o `CORTA_FIM` do `separar_takes_2611.py`).
+- **A varredura:** o `varrer_cortes.py` corrigiu 15 fins de palavra no Insta e 7 no Face. O "matters" e o "unexpectedly" estavam sendo comidos (`LICOES`, 27/11 02h15).
+- **Tela:**
+  - sem texto no topo;
+  - o 11:11✨ à direita;
+  - a legenda simples a 77,5%, porque a carta fica no alto, ao lado do rosto;
+  - a seta grande do CTA ao fim (só no Insta).
+- **Arquivos:** `ferramentas-painel/ferramentas/specs/spec-nora81*.json`, `palavras-nora81*.json`, `cortes-extra-nora81*.json` e `mapa-nora81-*.json`.
+
 ## noracurto2611 (26/11/2026, postado às 23h56, só no Insta): o desafio de pausar no jardim
 - **Imagem e clipe:** `noracurto2611-IMG` e `noracurto2611-CLIPE` (6 s, 24 qps), no Muse, só com o blueprint; blusa verde-sálvia, jeans claro, tênis branco, a bandeira no mastro do canteiro. O clipe tinha um pulo no 1º quadro (a imagem com ela no meio, que some no 3º; `LICOES`, 26/11 19h17).
 - **Edição** (`ferramentas-painel/dia-2611/editar_curto_2611.py`, a cópia do v07 e do v21 do Robert): a passada dela (0,75 s a 3,54 s do clipe) a 2x, 3 vezes (4,25 s); a silhueta vermelha do corpo no quadro 38 (o terço esquerdo), justa; no topo "Only 1% can pause / at the right time!" com o 1% amarelo; "SOOOO CLOSE 😱 / 1 frame off..." nos quadros 33 a 43; "YOU DID IT! 🎉" amarelo + "Your 2027 reading is in my story 🔮" e a seta grande só no quadro 38 (1 quadro por passada). A música foi o aluno que pôs no CapCut sobre o vídeo editado.

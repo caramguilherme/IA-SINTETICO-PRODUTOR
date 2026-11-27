@@ -836,3 +836,17 @@ O Flow bateu o limite de geração de imagens, e o aluno gerou a imagem do nora8
 - **A causa:** o Muse usa a imagem como 1º quadro e depois recomeça a cena como o prompt descreve ("ela atravessa da esquerda para a direita"). A imagem tinha saído com ela no meio-esquerda, não na borda.
 - **O conserto, sem gerar de novo:** a edição usa só de 0,75 s a ~3,3 s e emenda a saída pela direita com a entrada pela esquerda (o fundo é parado, então a volta fica sem pulo). Não uso ida e volta (ela andaria de costas).
 - **Daqui em diante:** todo clipe sem fala tem o 1º segundo conferido quadro a quadro antes da edição. Só peço de novo se o pulo cair no trecho que o vídeo usa.
+
+## 27/11/2026 02h15, nora81: 3 erros do Muse e a varredura em código
+**Os 3 erros que o Muse gerou** (o montado transcrito antes de editar):
+- o "E" saiu 2 vezes nas letras do T01 ("…C, E, E, S…"; a energia mostra 2 sílabas iguais);
+- o T11 repetiu a frase ("But it gets better. At 10 in the morning, you'll get incredibly good news. Tomorrow at 10 in the morning…");
+- o T15, que é só do Face, terminou com uma frase a mais ("…be very careful. Check the first comment below.").
+
+**Os consertos, sem gerar de novo:**
+- no Insta, os cortes-extra [4,60–4,93] (o 2º E) e [75,10–77,84] (a 1ª versão da frase, cortada de silêncio a silêncio);
+- no Face, o `separar_takes_2611.py` ganhou o `CORTA_FIM`, que termina o take antes da frase a mais.
+
+**O fim de palavra comido, pela 3ª vez:** o "matters" virou "mattered" e o "unexpectedly" virou "unexpected", nas 2 versões. Eu não fiz a varredura antes do render. **Agora ela é código:** o `ferramentas-painel/ferramentas/varrer_cortes.py` anda com o fim de cada palavra antes de um corte enquanto houver voz (janelas de 20 ms, acima de −27 dB) e roda sozinho no `rodar_2611.sh`, antes da edição. O 1º jeito tinha um erro de soma de float (0,08 virava 0,0800001 e parava cedo); a versão final anda em passos inteiros.
+
+**O "and money" do Face, de novo pela energia:** os tempos do Whisper estavam ~0,25 s adiantados. A sílaba que ele chamava de "faith" era o "your", e o 1º corte (28,12) comeu o "faith" (a emenda transcrita dava "saw your prosperity"). O certo foi contar as sílabas na energia ("your" | "faith" | "and money" num bloco só) e cortar de 28,42 a 29,22. A emenda transcrita ficou "The universe saw your faith, prosperity, and someone…". **Daqui em diante, o corte do meio da frase sai das sílabas contadas na energia e da emenda transcrita, nunca do tempo do Whisper.**

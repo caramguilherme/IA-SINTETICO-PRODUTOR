@@ -5,6 +5,8 @@ NN=$1; V=$2; D=/tmp/claude-0/-workspace-IA-SINTETICO-PRODUTOR/0f1d3084-6c9c-5025
 mkdir -p $D/out-$V
 if [ "$V" = face ]; then M=$D/$NN-montado-FACE.mp4; P=$D/palavras-$NN-FACE.json; EX=$D/cortes-extra-$NN-face.json; SUF=-FACE
 else M=$D/$NN-montado.mp4; P=$D/palavras.json; EX=$D/cortes-extra-$NN-insta.json; SUF=; fi
+# 27/11: a varredura dos cortes de silêncio em código (o fim de palavra comido no nora79, no nora80 e no nora81)
+python3 -I ferramentas-painel/ferramentas/varrer_cortes.py $M $P
 # o corpo é gerado de novo também no Face (com o T14 novo): sem a variação do Face, como o nora77-FACE ("insta" no passo 1)
 X1111=0.82 YLEG=${YLEG:-0.775} python3 -I ferramentas-painel/dia-2311/editar_simples_2311.py $M $P none $D/out-$V insta $NN $EX
 if [ "$V" = face ]; then python3 -I ferramentas-painel/dia-2411/spec_face_comentario.py $D/out-$V/mapa-insta.json $D/out-$V/$NN-final$SUF.mp4 $D/out-$V/spec.json

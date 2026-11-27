@@ -28,6 +28,8 @@ ORDEM_FACE = {'nora80': [14, 2, 3, 4, 6, 7, 11, 15], 'nora81': [15, 2, 3, 4, 5, 
 # palavras que saem dentro de um take do Face: (take, palavra)
 TIRAR_FACE = {'nora77': [(4, 'money,')], 'nora78': [], 'nora80': [], 'nora81': [], 'nora82': []}[NN]  # 26/11: o "and money," sai pela energia do áudio (LICOES-ATIVAS 8.2)
 N_INSTA = {'nora77': 13, 'nora78': 9, 'nora80': 13, 'nora81': 14, 'nora82': 13}[NN]
+# take que o Muse gerou com uma frase a mais no fim: o take termina antes dela (27/11: o T15 do nora81 saiu com "Check the first comment below." depois do "be very careful.")
+CORTA_FIM = {'nora81': {15: 'check the first comment'}}.get(NN, {})
 
 
 def norm(t):
@@ -45,6 +47,14 @@ for frase in INICIOS:
     else:
         sys.exit(f'não achei o começo: {frase!r} (achados até aqui: {len(achados)})')
 ini = [ws[i][1] for i in achados]
+fim_take = {}
+for n, frase in CORTA_FIM.items():
+    alvo = norm(frase).split(); lim = achados[n] if n < len(achados) else len(ws)
+    for k in range(achados[n - 1], lim):
+        if texto[k:k + len(alvo)] == alvo:
+            fim_take[n] = ws[k][1] - 0.30; break
+    else:
+        sys.exit(f'não achei a frase a mais do T{n:02d}: {frase!r}')
 print('começo de cada take (s):', ', '.join(f'T{n + 1:02d} {t:.2f}' for n, t in enumerate(ini)))
 
 
@@ -52,6 +62,7 @@ def faixa(n):
     """take n (1 a N) no montado: de ~0,15 s antes da 1ª palavra até ~0,15 s antes da 1ª palavra do take seguinte."""
     a = max(0.0, ini[n - 1] - 0.15)
     b = (ini[n] - 0.15) if n < len(ini) else dur
+    b = min(b, fim_take.get(n, b))
     return a, b
 
 
