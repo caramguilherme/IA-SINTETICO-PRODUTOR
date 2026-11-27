@@ -856,7 +856,7 @@ O Flow bateu o limite de geração de imagens, e o aluno gerou a imagem do nora8
 - **Na Nora:** quando um take vier com um erro que eu corto na edição (a palavra repetida, a frase a mais no fim, o "E, E"), ele fica. Eu corto como no nora81, com os cortes-extra, o `CORTA_FIM` e a varredura. Só se pede de novo o take com palavra trocada ou faltando, rosto ou voz errados, ou mão quebrada.
 - **O erro 503 ("sobrecarregado")** apareceu em 27/11 de ~11h30 à tarde, "indo e voltando". É do Muse, não da conta: esperar e mandar de novo, sem criar conta nova por isso.
 
-## 27/11/2026 ~17h35, nora82: os erros do Muse se repetem nos mesmos takes, e o que mudou no nora83 e no nora84
+## 27/11/2026 ~17h30, nora82: os erros do Muse se repetem nos mesmos takes, e o que mudou no nora83 e no nora84
 **Os erros do nora82:**
 - **No T11**, depois do "But it gets better.", o Muse disse "in the morning, you'll get incredibly good news" e só então a frase inteira. É o mesmo erro do nora81 ("At 10 in the morning…" antes do "Tomorrow at 10…"): **2 de 2 vídeos com a frase de reinício solta antes**. O nora80, sem ela, não repetiu.
 - **No T10** sobrou um "comments" depois do "Now save this video" (1 de 3 vídeos). No nora81, o T15 tinha puxado a frase do T16 ("Check the first comment below.").

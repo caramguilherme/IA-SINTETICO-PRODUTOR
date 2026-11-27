@@ -502,7 +502,7 @@ Fora da numeração do nora. Peças com o nome do teste: `faceNN-IMG`, `faceNN-C
   - a seta grande no Insta.
 
   No T07 a carta desce e encosta no fim da legenda por menos de 1 s; ficou.
-- **Arquivos:** `ferramentas-painel/ferramentas/specs/*nora82*`; o `LICOES` de 27/11 ~17h35.
+- **Arquivos:** `ferramentas-painel/ferramentas/specs/*nora82*`; o `LICOES` de 27/11 ~17h30.
 
 ## nora81 (27/11/2026, editado às ~02h15): as letras + o corpo da maioria + as 2 frases de reinício (o teste de 27/11), à mesa com a estátua de São Miguel, suéter creme, a carta
 - **Montado:** `nora81-montado` (2:02, 16 takes; o T15 e o T16 do Face no fim).
