@@ -265,17 +265,13 @@ def montar(nn):
     P['pre_gancho'] = {
         'titulo_secao': 'A imagem (no Muse, antes dos takes)',
         'conceito': (f'Uma imagem só, para os {n} takes e os 2 do Face: a Nora v3 (sem a pintura, olhos castanhos) {v["lugar_pt"]}, de {v["roupa_pt"]}, com '
-                     f'{v["obj_pt"]} e a bandeira dos EUA. A cópia de {v["copia"]}. O Flow bateu o limite de imagens (26/11): a imagem sai no Muse, só com o blueprint.'),
+                     f'{v["obj_pt"]} e a bandeira dos EUA. A cópia de {v["copia"]}. A imagem sai no Muse, só com o blueprint (o padrão desde 26/11).'),
         'modo': 'Muse, na conversa da Nora: anexar só a nora-v3-blueprint e colar o prompt. Ele gera 1 imagem por vez.',
         'etapas': [{'titulo': f'A imagem de todos os takes ({v["lugar_pt"]}), no Muse, só com o blueprint', 'nome': v['img'], 'tipo': 'img',
                     'anexar': f'só a {FOLHA} (a folha da Nora v3, em 1K)',
                     'quadros': ('1 imagem por vez. ' + escolha + ' Se o rosto escapar ou algo vier errado, mande na mesma conversa: “Generate it again, exactly the '
                                 'same prompt, one new version.” Se quiser, me mande a imagem antes de gerar os takes: eu confiro o rosto contra o blueprint.'),
-                    'prompt': prompt_muse(v)},
-                   {'titulo': 'Reserva: no Flow, quando o limite de imagens voltar (x4, 0 crédito)', 'nome': v['img'], 'tipo': 'img',
-                    'anexar': f'1º a {IMG_BASE} (a Nora do nora79, na cozinha); 2º a {FOLHA} (a folha da Nora v3, em 1K)',
-                    'quadros': 'x4, 0 crédito. ' + escolha + ' Guarde as 3 que sobrarem: uma delas vira o story.',
-                    'prompt': v['prompt_img']}],
+                    'prompt': prompt_muse(v)}]  # 27/11 ~18h50 (o aluno): as imagens saem no Muse há 2 dias e ele gosta; a reserva no Flow saiu do painel,
     }
     P['imagens_titulo'] = f'A imagem das falas ({v["img"]}, em todos os takes)'
     P['refs'] = [f'{v["img"]} do T01 ao T{n:02d} e nos 2 takes do Face']

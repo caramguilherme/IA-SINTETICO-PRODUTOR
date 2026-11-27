@@ -91,7 +91,8 @@
 3. A bandeira dos EUA em toda cena nova: num quadro com moldura ou pendurada na vertical, maior, nunca colada chapada na parede; sem tapar rosto nem mãos. (16/11; 24/11 17h54) Na peça só do Face, nenhuma bandeira posta na edição: a restrição de país da Página já filtra; no vídeo que vai ao Insta também, a bandeira vai junto para o Face (decisão sua, 25/11 16h35 e 16h36).
 4. Um cenário por vídeo, o mesmo em todos os takes. (pesquisa oficial; receita)
 
-## 9. Imagens (Flow, Nano Banana Pro, x4, 0 crédito)
+## 9. Imagens (no Muse, só com o blueprint da Nora v3; antes, Flow, Nano Banana Pro, x4, 0 crédito)
+0. **As imagens saem no Muse**, na conversa da Nora, só com o blueprint anexado, 1 por vez. O aluno gostou depois de ~2 dias e tirou a reserva no Flow dos painéis. (o Flow bateu o limite em 26/11; decisão do aluno, 27/11 ~18h50: "to gerando as imagens no muse, ja faz uns 2 dias, e to gostando muito")
 1. Prompt em inglês, detalhado: enquadramento, cada mão com o lado da imagem, o objeto em cm, o que NÃO aparece. (P16, P32)
 2. Imagem nova da Nora = EDIÇÃO de uma imagem dela já aprovada + a folha, pedindo "same woman, same face". (14/11)
 3. Todo prompt de imagem leva a frase do iPhone (foto casual de celular, pele natural, sem estúdio). (Felps, 10/11)

@@ -269,11 +269,7 @@ def montar(nn):
                     'anexar': f'só a {FOLHA} (a folha da Nora v3, em 1K)',
                     'quadros': ('1 imagem por vez. ' + escolha + ' Se o rosto escapar ou algo vier errado, mande na mesma conversa: “Generate it again, exactly the '
                                 'same prompt, one new version.” Se quiser, me mande a imagem antes de gerar os takes: eu confiro o rosto contra o blueprint.'),
-                    'prompt': prompt_muse(v)},
-                   {'titulo': 'Reserva: no Flow, quando o limite de imagens voltar (x4, 0 crédito)', 'nome': v['img'], 'tipo': 'img',
-                    'anexar': f'1º a {IMG_BASE} (a Nora do nora79, na cozinha); 2º a {FOLHA} (a folha da Nora v3, em 1K)',
-                    'quadros': 'x4, 0 crédito. ' + escolha + ' Guarde as 3 que sobrarem: uma delas vira o story.',
-                    'prompt': v['prompt_img']}],
+                    'prompt': prompt_muse(v)}]  # 27/11 ~18h50 (o aluno): as imagens saem no Muse há 2 dias e ele gosta; a reserva no Flow saiu do painel,
     }
     P['imagens_titulo'] = f'A imagem das falas ({v["img"]}, em todos os takes)'
     P['refs'] = [f'{v["img"]} do T01 ao T{n:02d} e nos 2 takes do Face']
