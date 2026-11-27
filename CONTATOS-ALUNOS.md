@@ -1335,7 +1335,7 @@ no insta tava tudo travado entre 120 e 250 desde 10/11, mas o video de hoje de m
 quando um video destrava assim, oq vc repete nos proximos: a mesma copy com outra roupa e cenario, ou outra coisa?
 sem pressa pra responder, curte o dia!
 ```
-**[27/11 16h40, a DM não vai: o aluno não consegue mais mandar mensagem ao Gustavo ("nao sou amigo dele no discord. ele deve ter mudado as configuraçoes"); o pedido de amizade foi enviado em 27/11 e está esperando. Vão só os parabéns na thread. A volta com resultado espera o pedido ser aceito; se não for até segunda, 01/12, vai como pergunta pública no #chat-appyon (texto abaixo), sem marcar ele. Não mandar o pedido de amizade de novo.]**
+**[27/11 16h33, a DM não vai: o aluno não consegue mais mandar mensagem ao Gustavo ("nao sou amigo dele no discord. ele deve ter mudado as configuraçoes"); o pedido de amizade foi enviado em 27/11 e está esperando. Vão só os parabéns na thread. A volta com resultado espera o pedido ser aceito; se não for até segunda, 01/12, vai como pergunta pública no #chat-appyon (texto abaixo), sem marcar ele. Não mandar o pedido de amizade de novo.]**
 No #chat-appyon, se o pedido não for aceito até 01/12 (pergunta aberta, qualquer um pode responder):
 ```
 galera, uma duvida de quem ja passou por isso
