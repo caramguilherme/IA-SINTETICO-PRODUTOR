@@ -389,7 +389,7 @@ A transcrição está no mesmo arquivo, no "2º lote". Os 15 vieram com som. 4 f
 - **O "comment flower" e o "comenta análise"** são isca de engajamento: no Face, nunca; no Insta, o pedido de comentário já muda a cada post.
 - **O s02 é uma tarefa de 2 minutos para o aluno:** abrir no Insta da Nora (pelo celular do GeeLark) o Painel profissional → Boas práticas → Alcance e mandar o print. É o que o Insta recomenda para esta conta: quantos vídeos, o melhor horário e as views dos Reels recentes. Isso serve de comparação para a grade de 3 por dia. Não é login novo nem ação na conta, só leitura.
 
-### O "Best practices → Reach" do Insta da Nora (prints do aluno, 27/11 ~16h45; `print-2711-*.jpg`)
+### O "Best practices → Reach" do Insta da Nora (prints do aluno, 27/11 ~16h35; `print-2711-*.jpg`)
 - **O caminho em inglês:** perfil → Professional dashboard → Best practices (os cartões Creation, 14 vídeos; Engagement, 7; Reach, 6; Monetization, 4; Guidelines, 5) → Reach.
 - **O único número da conta:** "Your recent reels got 32K views. Nice! That's more views than you usually get within a month." Bate com o CSV: a soma das views dos Reels postados de 28/10 a 27/11 dá ~31,8 mil, quase toda de outubro (16,7 mil em novembro e 8,3 mil desde 13/11). O "mais que o normal num mês" é a comparação do próprio Insta, sem dizer com qual mês.
 - **As 5 dicas, genéricas, iguais para qualquer conta:**
