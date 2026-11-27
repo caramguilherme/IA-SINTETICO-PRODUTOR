@@ -111,6 +111,12 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
 - **Dashboard:** para atualizar, editar o CSV, rodar `ferramentas-painel/dashboard/preparar_csv.py`, subir a cópia sem o BOM como asset e dar `update` em `datasets/metricas` (`source.url`, `source.name`, `updated`) com `if_version`; receita completa em `ferramentas-painel/dashboard/COMO-RECRIAR.md`.
 
 ## 4. Diário de decisões (as novas entram aqui, datadas; as anteriores a 17/11 estão em `HISTORICO-CLAUDE-MD.md`)
+- **27/11/2026 ~17h10, o "Best practices" do próprio Insta (Reach e Guidelines, prints do aluno; `MATERIAIS-DICAS-INSTA-26-11/LEIA.md`):**
+  - **Reach:** 32 mil views nos Reels do último mês, que batem com o CSV, e 5 dicas genéricas. O collab foi para a `FILA`.
+  - **Guidelines:** o Insta não recomenda a quem não segue Reels acima de 3 min, vídeo com marca d'água de outra ferramenta, cópia de Reel e engagement bait ("content that… directs people to interact with likes, shares, comments… won't be shown to as many people").
+  - **Muda:** a regra 12.6 (sempre abaixo de 3 min, sem marca d'água) e o teste "sem nenhum pedido × os selos", que ganha a fonte oficial e fica com o dia 05/12 ou é adiantado, decisão do aluno. O braço sem pedidos sai na edição, a 0 crédito.
+  - **Correção minha:** eu tinha dito que pedir o envio aos ~10 s "é uma boa". Esse teste foi para a reserva.
+  - **Não deu para ler** o texto inteiro das Recommendation Guidelines: o help.instagram.com está bloqueado na rede.
 - **27/11/2026 ~16h20, Discord, 35ª e 36ª leituras (26/11 05h58 a 27/11 15h43):** nada muda no pacote nem nas regras de produção. **Entram:**
   - o link na legenda do Face, como teste A/B (gabrielbfrota: "Check here" + link);
   - a idade na copy, como persona P7 do mapa dos 3 eixos (contra a Índia);

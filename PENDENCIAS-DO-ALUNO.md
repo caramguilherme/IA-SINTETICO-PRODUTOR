@@ -38,7 +38,7 @@ A proposta:
 | 02/12 | a 2ª frase como pico |
 | 03/12 | o CTA da frequência × o "quick reading" |
 | 04/12 | o ângulo do Pedro⚡ (amor ou família no lugar do dinheiro) |
-| 05/12 | o pedido de envio no lugar dos selos |
+| 05/12 | **sem nenhum pedido de engajamento × com os selos, o "amen" e o "send to yourself"** (mudou em 27/11 ~17h10: o "Guidelines" do próprio Insta diz que o pedido de interação "won't be shown to as many people"; o braço sem pedidos sai na edição, a 0 crédito; dá para adiantar para o 1º dia livre). O pedido de envio aos ~10 s foi para a reserva. |
 | 06/12 | o Arcanjo que abençoa × o que avisa; e o 1º campeão repostado (1 mês depois) |
 
 Depois, nesta ordem: a caixa do topo × sem caixa (no Insta), o mesmo gancho com um visual mais forte, "duas opções, escolha uma", o curto sobre o template do Edits, o curto do "Stop! 3, 2, 1 / Pick a card", a carta inventada e as letras na mesa.

@@ -51,7 +51,7 @@
 4. Na fala gerada, nunca a palavra "link" (o filtro barra; a fala diz "check my story" ou "the first comment"). **[trava]** (13/11)
 5. Sem cartas na fala antes do quiz; o nome da leitura é "your private reading", igual ao funil. (Gustavo, 03/11)
 6. Com a carta ou um objeto parecido com cartão na mão: sem "receive", "lock in" e "claim" na fala. (14/11)
-7. O pedido de comentário do Insta muda a cada post, nunca o mesmo duas vezes seguidas. **[trava]** (17/11, 24ª leitura)
+7. O pedido de comentário do Insta muda a cada post, nunca o mesmo duas vezes seguidas. **[trava]** (17/11, 24ª leitura) **[Em teste desde 27/11: o "Guidelines" do Insta chama de engagement bait o pedido para curtir, compartilhar ou comentar feito "para inflar o engajamento", e diz que esse vídeo é mostrado para menos gente. Isso vale para os selos, o "amen", o "send to yourself" e o pedido da legenda. O teste é o A/B da `FILA`, com e sem os pedidos.]**
 8. Quando a fala for a copy leve (não a da maioria): a 2ª frase (dos 4 aos 8 s) valida a rotina ou o sintoma dela antes da promessa; o CTA diz para quem é, o que ela ganha, o que tem do outro lado e por que clicar; sem medo nem ameaça. (R48; aula 64, 0:14:59; P42)
 
 ## 4. Copy no Face
@@ -129,6 +129,7 @@
 3. Estilo "simples": caixa do topo branca com letra preta e a palavra-chave em vermelho, só no gancho (3 a 5 s); legenda simples (Inter branca, contorno fino, até ~6 palavras, 2 linhas no máximo); 222 e 11:11 brancos nos cantos de cima; seta vermelha grande embaixo à esquerda (tamanho 44, X −285 no Insta e −250 no Face, Y −400). (18/11 23h30; 24/11 11h33)
 4. Riser e impact postos por mim, alternando os sons entre posts seguidos. (12/11)
 5. Confiro um quadro de cada trecho antes de mandar; tiro a borda preta do Muse com um zoom leve. (P45; 23/11)
+6. **Reels sempre abaixo de 3 min, e sem marca d'água de outra ferramenta** (o "Guidelines" do próprio Insta: acima de 3 min e com marca d'água de terceiros, o vídeo não é recomendado para quem não segue). **[trava: duração do final < 3:00]** (27/11)
 
 ## 13. Métricas e testes
 1. Régua com ~24 h, nunca com 3 h. A medida final é o clique no Tracker. (outubro; R67)

@@ -404,3 +404,19 @@ A transcrição está no mesmo arquivo, no "2º lote". Os 15 vieram com som. 4 f
 - **A dica (2) não serve à Nora:** 98% das views vêm de quem não segue (nora73), e o horário da Nora sai da Índia (R37), não dos ~170 seguidores.
 - **A dica (5), collab, foi para a `FILA`.**
 
+### O "Best practices → Guidelines" do Insta da Nora (prints do aluno, 27/11 ~17h05; `print-2711-5-guidelines-topo.jpg` e `-6-guidelines-fim.jpg`)
+É o próprio Instagram dizendo o que tira o vídeo das recomendações para quem não segue:
+
+1. **"Reels over 3 minutes won't be recommended to new audiences."** O maior da Nora foi 2:12 (nora69). A regra 12.6 nova do `REGRAS-DA-NORA.md`: sempre abaixo de 3 min.
+2. **Marca d'água de outra ferramenta** ("may prevent them from being recommended"). Os nossos finais saem daqui, renderizados por mim, sem logo de Muse, Flow, CapCut ou outra ferramenta. A marca d'água do Instagram que aparece nos vídeos de referência é do download, e não vai para os nossos. **A conferir em todo montado:** a tela final do CapCut, se um dia aparecer.
+3. **"Don't publish a copy of reels or posts. Once detected, it will prevent your content from being recommended."** Os vídeos da Nora são gerados por nós, com a fala reescrita (o aviso de 22/09). **O que se aproxima disso é reaproveitar o mesmo arquivo:** o nora74 (14 views, com o tsunami do nora27-PRE de novo) e o nora76 (135, com 1:22 do nora75). Isso confirma a regra 3.2: cada post do Insta é gerado de novo.
+4. **Engagement bait: "Content that misleads or directs people to interact with likes, shares, comments and other actions in order to artificially boost engagement won't be shown to as many people."** **É o ponto que pesa.** O corpo da maioria pede tudo isso:
+   - "send this video to yourself";
+   - "save this video. That's your first seal. Quickly tap the screen twice. That's your second seal. Write amen in the comments.";
+   - e a legenda pede um comentário a cada post (regra 3.7).
+
+   **O que os nossos números mostram:** os pedidos não derrubaram a entrega. Os campeões nora48 a nora50 (1,6 mil a 2 mil) e o nora81 (1.352) tinham todos eles. Mas o Insta diz que esse conteúdo "não é mostrado para tanta gente", e nunca rodou um vídeo sem os pedidos para comparar. **Vira o teste A/B da `FILA`** ("Sem nenhum pedido de engajamento × os selos"), que agora tem 2 fontes contra os pedidos: a aula 9 do Kobata e o Guidelines do Insta. A minha proposta é adiantá-lo. **Correção da minha resposta de 27/11 ~16h40:** eu disse que pedir o envio aos ~10 s "é uma boa". Pelo Guidelines, um pedido de envio para inflar engajamento é engagement bait. Esse teste vai para a reserva e só roda se o braço com os pedidos ganhar.
+5. **"Going against Instagram's guidelines":** as Recommendation Guidelines e os Community Standards (links azuis) podem apagar conteúdo e desativar a conta. **O texto inteiro dos 2 links não foi lido:** o help.instagram.com está bloqueado na rede desta sessão (27/11 17h). **A lista desse texto vem da minha memória e não foi conferida aqui.** Pelo que eu lembro, as Recommendation Guidelines também tiram das recomendações o clickbait, as promessas exageradas de saúde e os negócios do tipo "fique rico rápido". O print do link fica com o aluno, quando ele puder.
+
+Embaixo, 3 vídeos: "What limits reach", "Checking Account Status" e "Third-party watermarks". O Account Status foi conferido em 23/11 (tudo verde).
+
