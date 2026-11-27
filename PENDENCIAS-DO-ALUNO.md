@@ -49,11 +49,16 @@ Aprova a ordem? Pode trocar qualquer dia.
 - **A divisão:** você acha que vai ser 3 do Manifestation + 2 do Risely, mas não decidiu.
 - **Faltam:** quando começar e qual vai primeiro.
 - **Já decidido:** sem aquecimento, postando desde o 1º dia.
+- **Novo (27/11, 35ª leitura):** a sua pergunta no Discord teve resposta do Caio1094: "Eu já em conta BR, flop total". Isso contradiz o "sem aquecimento", e a minha proposta é testar quando as contas forem criadas: uma com os 10 de aquecimento e uma sem.
 
 ### 4. O 2º administrador da Página (em aberto)
 - A Cassia Y não sabe o que derrubou os perfis dela e comprou com o fornecedor que o Gustavo indicou "há uns 4 anos".
 - O Inaldo não respondeu.
 - **Se fizer:** 1 perfil só, antigo (6 meses ou mais) ou comprado, com 2FA, e nunca vários convites de uma vez.
+- **Novo (27/11, 36ª leitura):**
+  - A Página "que mais vende" do Pedro⚡ foi suspensa (27/11 11h58), e a Luana perdeu as melhores dela.
+  - A saída que o gabrielbfrota deu: cada Página numa BM separada, dentro do Business Suite, para poder movê-la para outro perfil se der problema. "O cenário ideal seria 1 página por perfil."
+  - O fornecedor de perfis que o Gustavo indicou: https://araujoed.online/araujocontingencia-mvm
 - A decisão é sua.
 
 ### 5. O "free" e a série dos signos nos mesmos dias (nova, 27/11 ~15h45; você: "depois vejo")
@@ -64,6 +69,9 @@ Aprova a ordem? Pode trocar qualquer dia.
   - (b) o "free" em 28/11 e a série depois de uns dias, quando o "free" já tiver algum número;
   - (c) a série primeiro e o "free" depois.
 - O mapa dos 3 eixos (formato × ângulo × persona) está no topo da `FILA-DE-IDEIAS-E-TESTES.md`.
+
+### 6. O CLAUDE.md mais curto (nova, 27/11)
+O diário de decisões do `CLAUDE.md` tem hoje de 17 a 27/11, e o arquivo vai inteiro em toda mensagem. No Discord, o gabrielbfrota disse que é isso que faz o Claude "se perder". **A proposta:** mover o diário de 17 a 24/11 para o `HISTORICO-CLAUDE-MD.md`. Nada se perde, e o `buscar.py` continua achando tudo.
 
 ---
 
@@ -80,6 +88,7 @@ Aprova a ordem? Pode trocar qualquer dia.
 - **16. Em 05/12:** renovar o GeeLark (vence em 06/12 às 13h48) e a proxy (vence em 06/12 às 14h52). Nenhum dos dois tem renovação automática; eu te lembro a partir de 04/12.
 
 ## Material que espera você
+- **A aula de hoje às 19h** (anúncios do Discord): "COPY COM IA + FUNDAMENTOS DA COPY DO VÍDEO VIRAL", com o Iorhan. Preciso da gravação ou da transcrição (pelo Loom, pelo Zoom ou pelo Panda, como as do Kobata).
 - **O post da astróloga** (as fotos ou os prints das cores e dos cristais de cada signo), para a série do item 1.
 - ~~As aulas de copy do Kobata~~ (as 12 lidas em 27/11; `AULAS-COPY-KOBATA-MISSAO-3.md`).
 - A missão 08 ("Dúvidas frequentes") da área de membros.
