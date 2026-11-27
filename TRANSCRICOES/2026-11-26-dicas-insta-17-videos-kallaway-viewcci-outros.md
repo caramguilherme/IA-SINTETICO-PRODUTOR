@@ -191,3 +191,60 @@ Os 2 nomes repetidos da pasta (2849c08f… e a196ddcb…) são cópias idêntica
 
 ## r09 — SaveClip.App_AQPAS480rP-9-8TYYaMfjSaoEDXKbi1tfUhfDRiwTvLMLF1C90HX_3u8WWizM0_BMNngPGk8-OLIyGiaF1KLa65AVVcqTykIs0dL4BU.mp4 (61,2 s)
 [en] Do you wanna know why your reels don't go viral? Your reels don't go viral because you talk like you're scared of the camera. Let me show you the difference. How I would present this monster can versus how you would present it. This is how I would present this monster. I would say here is a monster. It has 10 calories and 200 grams of caffeine. Here's how you would do it. First off, your camera would be a little bit dirty. So here and then you'd be like this. All right guys, I got this monster. It's 10 calories, 200 grams of caffeine. Taste test. Let's go. Here's a tip. When you talk to the camera, pretend like you are mad at the camera. Now give me a follow on this account because I will be teaching you a lot more about this stuff.
+
+# 6º lote (2 vídeos novos na mesma pasta do Drive, mandados em 27/11 ~16h30; transcritos com o faster-whisper "small"; os 2 nomes repetidos, 2849c08f… e a196ddcb…, são de novo o q01 e o q02, com a mesma duração)
+
+## s01 — 1740e8013e7941c09a83966f2abf8877.mp4 (68,4 s; @theonlylace, "HOW TO WRITE BETTER HOOKS"; en)
+[  0.0] This means you have a bad hook and here's how to fix it.
+[  2.5] After studying thousands of viral videos,
+[  4.6] I found a pattern.
+[  5.9] Every viral video uses these three techniques.
+[  8.8] So to test it, I applied them to this video
+[ 11.2] and within 48 hours, it got over 2 million views.
+[ 14.8] Here's what they are.
+[ 15.6] Here was the original boring hook.
+[ 17.2] Did you know there's a mortgage program
+[ 18.7] that lets you buy a home for your parents?
+[ 20.6] Now watch the re-written version.
+[ 22.4] Never, ever, ever put your parents in a nursing home.
+[ 25.2] Do what the rich do instead.
+[ 26.8] So instead of leading with the topic,
+[ 28.4] I led with the consequence.
+[ 29.9] That's technique number one, a pattern interrupt.
+[ 32.3] Most people start by explaining what the video is about,
+[ 35.0] but the best hooks may feel like
+[ 36.7] they're about to make a huge mistake if they keep swiping.
+[ 39.4] Now the viewer has to know what do the rich do instead?
+[ 42.2] That's technique number two, a curiosity gap.
+[ 44.8] The hook creates an unanswered question
+[ 46.6] that the brain wants resolved,
+[ 48.0] but there's one more thing happening
+[ 49.2] that most people completely miss.
+[ 51.1] Before I explain it, comment flower
+[ 53.0] if you want my full hook training masterclass sent to you.
+[ 55.2] The last technique is the visual text hook.
+[ 57.5] I show a brutal image of an elderly person
+[ 60.2] being mistreated by caregivers.
+[ 62.0] That triggers more emotions than words could ever.
+
+Na tela: o gráfico de retenção caindo no começo ("bad hook"), o "Boring Hook" em vermelho × o "Bad Ass Hook" em verde, o vídeo de 2,5 milhões ("NEVER PUT YOUR PARENTS AT NURSING HOMES", com a imagem borrada de um idoso maltratado), "HUGE MISTAKE if they keep swiping", e o "Flower" do pedido de comentário.
+
+## s02 — snapgram.io_enmx8efczwrq.mp4 (44,5 s; @jessicaporfino, "O próprio Instagram te mostra como viralizar"; pt)
+[  0.0] Quando você for postar o Reels, não posta direto pelo botão do mais, tá?
+[  4.0] Você vai fazer isso aqui antes.
+[  5.9] Entra no teu perfil e vai em painel profissional.
+[  8.7] Depois desce até achar a opção Boas Práticas.
+[ 11.7] Aqui o Instagram te mostra o que ele quer que você faça pra melhorar os teus conteúdos.
+[ 16.0] Agora, se você quer que o teu vídeo chegue pra quem ainda não te segue,
+[ 19.6] toca em alcance e preste atenção nisso aqui.
+[ 22.0] O Instagram mostra até quantos vídeos você deveria postar.
+[ 25.2] E o que fazer pra melhorar a entrega dos teus Reels?
+[ 28.0] Agora, olhou as orientações?
+[ 29.7] Aí sim você posta usando a câmera por ali.
+[ 32.1] Já chega de postar no escuro e segue o que o próprio Instagram está te mostrando.
+[ 35.9] Pegou essa dica agora?
+[ 37.3] Se você quer que eu faça uma análise do teu perfil, já comenta aqui "análise" que eu te mando no direct
+[ 41.7] e segue a Jessica Porfino para mais dicas como essa.
+
+Na tela: o caminho no app (perfil → "Seu painel" → "Boas práticas" → "Alcance", com "Criação", "Engajamento", "Alcance" e "Monetização"), e a página "Alcance", com "Seus reels mais recentes tiveram X visualizações", "Entenda como as pessoas veem seu conteúdo", "Tente postar conteúdo quando seus seguidores estiverem ativos" e "Acompanhe o aumento do número de seguidores no longo prazo".
+

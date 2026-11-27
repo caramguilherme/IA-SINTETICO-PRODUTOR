@@ -371,3 +371,20 @@ A transcrição está no mesmo arquivo, no "2º lote". Os 15 vieram com som. 4 f
 - **"Dê dois toques na tela"** (r07): é pedido de engajamento no meio do vídeo. No Insta o pacote já tem os selos, e no Face é isca.
 - **O "brava com a câmera" ao pé da letra** (r09): a Nora é acolhedora. Do r09 fica só a energia e a convicção, no teste da entrega da voz.
 - **A "história real"** (r05): a Nora é uma personagem de IA, e contar uma história como real seria inventar (HONESTIDADE). Fica só a estrutura de começo de história.
+
+# 6º lote (2 vídeos novos, mandados pelo aluno em 27/11 ~16h30, na mesma pasta do Drive)
+**O que li:** os 2 inteiros, pela transcrição (no fim de `TRANSCRICOES/2026-11-26-dicas-insta-17-videos-kallaway-viewcci-outros.md`, s01 e s02) e por uma folha de quadros a cada 4 s (`lote6-folha-s01.jpg` e `lote6-folha-s02.jpg`). Os 2 nomes repetidos da pasta (2849c08f… e a196ddcb…) são de novo o q01 e o q02 do 4º lote (as mesmas durações, 93,3 s e 39,7 s).
+**O que não deu:** as views do próprio vídeo do s02 (não aparecem).
+
+## O que eles ensinam
+1. **s01 (@theonlylace, "how to write better hooks"):** a curva que cai logo no começo é o sinal do gancho ruim (o diagnóstico do Robert, que já é regra). As 3 técnicas:
+   - (1) **começar pela consequência, não pelo assunto** ("Did you know there's a mortgage program…?" virou "Never, ever, ever put your parents in a nursing home. Do what the rich do instead.", com 2,5 milhões); a pessoa sente que comete "um erro enorme se continuar rolando";
+   - (2) **a lacuna de curiosidade** ("o que os ricos fazem, então?");
+   - (3) **o gancho visual escrito**, com uma imagem forte que emociona mais do que as palavras (no exemplo, um idoso sendo maltratado).
+2. **s02 (@jessicaporfino, em português):** no app, **Painel profissional → Boas práticas → Alcance**. Ali o próprio Instagram mostra o que quer da conta, "até quantos vídeos você deveria postar" e como melhorar a entrega para quem não segue.
+
+## Para a Nora
+- **A consequência na frente (s01, técnica 1)** junta 2 regras que já temos: a 1ª frase com o assunto dentro de um conflito (Lu Cureau, 2º lote) e o "be very careful" das letras, que já é um aviso de consequência. **Vai para a `FILA`** como opção de Take 1 no dia de testar o gancho: "Never, ever ignore 11:11 again. Do this instead." ou "Never make a wish without doing this first.", sempre com a resposta guardada até o CTA (a lacuna). É uma frase dentro da narrativa, sem fato inventado sobre o produto.
+- **A imagem forte do s01 fica fora:** é sofrimento de pessoa real e choque, o que vai contra a segurança da Página e o tom da Nora. O equivalente seguro é o "visual mais forte no 1º quadro" que já está na `FILA` (aula 6 do Kobata).
+- **O "comment flower" e o "comenta análise"** são isca de engajamento: no Face, nunca; no Insta, o pedido de comentário já muda a cada post.
+- **O s02 é uma tarefa de 2 minutos para o aluno:** abrir no Insta da Nora (pelo celular do GeeLark) o Painel profissional → Boas práticas → Alcance e mandar o print. É o que o Insta recomenda para esta conta: quantos vídeos, o melhor horário e as views dos Reels recentes. Isso serve de comparação para a grade de 3 por dia. Não é login novo nem ação na conta, só leitura.

@@ -85,6 +85,7 @@ O diário de decisões do `CLAUDE.md` tem hoje de 17 a 27/11, e o arquivo vai in
 - **13. A diferença da comissão** (US$ 13,70 recebidos × US$ 15,20 na Central): perguntar à Ju Santos ou ao suporte, quando quiser. O texto foi entregue em 26/11 ~17h25.
 - **14. Os Trial Reels** (o teste aprovado em 26/11): achar a opção no Insta da Nora, no celular do GeeLark.
 - **15. Limpar os stories antigos do destaque "Part 2".**
+- **17. O print do "Boas práticas → Alcance" do Insta da Nora** (2 min, pelo celular do GeeLark): no perfil, Painel profissional → Boas práticas → Alcance. É o que o próprio Insta recomenda para a conta (o vídeo da @jessicaporfino, 6º lote de dicas). Só leitura, sem mexer em nada.
 - **16. Em 05/12:** renovar o GeeLark (vence em 06/12 às 13h48) e a proxy (vence em 06/12 às 14h52). Nenhum dos dois tem renovação automática; eu te lembro a partir de 04/12.
 
 ## Material que espera você
