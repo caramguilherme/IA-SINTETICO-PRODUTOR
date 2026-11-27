@@ -47,6 +47,13 @@ G_LETRAS = B23.GESTO76
 GESTO_CONTROLE = [G_LETRAS] + list(B23.GESTO[1:])
 GESTO_TESTE = [G_LETRAS, 'her eyebrows lift with a bright, excited look and a small smile grows, then she tilts her head slightly as if waiting for an answer'] + list(B23.GESTO[2:])
 GESTO_CTA_FACE = B24.GESTO_CTA_FACE
+# 26/11 ~21h15 (o aluno, sobre o 4º lote de dicas: "daria para fazer isso no Nora 81… colocar uma frase curta de reinício para causar essa curiosidade"):
+# a frase de reinício da Gio Garcia (q01: "uma frase de três ou quatro palavras [que] reabre a curiosidade", a cada 2 ou 3 frases). No nora81, 2 frases novas:
+# depois da 2ª frase (onde a curva cai), um take novo; e antes do "amanhã às 10", no começo do mesmo take. As viradas que o corpo já tem ficam
+# ("So take this seriously.", "Saint Michael the Archangel sent a warning.", "But the universe is warning me…").
+REINICIO1 = "Now, this part matters."
+G_REINICIO1 = 'she leans in a little closer to the lens, her eyebrows lift slightly and she holds a curious, serious look'
+REINICIO2 = "But it gets better."
 
 # ---------- as 3 cenas ----------
 V = {
@@ -236,13 +243,18 @@ def montar(nn):
         # com a carta na mão, sem "receive" na fala (14/11: derrubou o T04 e o T05 do nora65; LICOES-ATIVAS 3.5). O T10 só vai no Insta.
         fala[9] = fala[9].replace("you'll receive", "you'll get")
         assert 'receive' not in ' '.join(fala).lower()
+        # o teste da frase de reinício (26/11 ~21h15, pedido do aluno)
+        assert fala[9].startswith('If you did everything right')
+        fala[9] = REINICIO2 + ' ' + fala[9]
+        fala.insert(2, REINICIO1); gestos.insert(2, G_REINICIO1); sufs = list(sufs[:2]) + ['reinicio'] + list(sufs[2:])
     conferir(v, fala, gestos)
     # 26/11 ~17h10 (o aluno): os 2 takes do Face vão no fim da mesma colagem da Central, e os 15 saem do Muse de uma vez.
     conferir(v, fala + [LETRAS, CTA_FACE], gestos + [G_LETRAS, GESTO_CTA_FACE])
     n = len(fala)
     palavras = sum(len(f.split()) for f in fala)
     nomes = [f'd2611-{v["pref"]}-T{i + 1:02d}-{sufs[i]}' for i in range(n)]
-    n_letras, n_cta = f'd2611-{v["pref"]}-T14-FACE-letras', f'd2611-{v["pref"]}-T15-FACE-cta-comentario'
+    tf1, tf2 = f'T{n + 1:02d}', f'T{n + 2:02d}'   # os 2 só do Face, no fim (T14 e T15 com 13 takes; T15 e T16 no nora81)
+    n_letras, n_cta = f'd2611-{v["pref"]}-{tf1}-FACE-letras', f'd2611-{v["pref"]}-{tf2}-FACE-cta-comentario'
     B23.ROUPA = v['roupa']
     P = B23.base(nn)
     P['figurino'] = v['roupa']
@@ -270,23 +282,23 @@ def montar(nn):
     P['roteiro'] = {
         'id': f'{nn}-LETRAS-CORPO-MAIORIA-{v["pref"].upper()}-2611',
         'titulo': (f'{nn} · Insta e Face {v["hora"]} · as letras do nome + o corpo da maioria, {v["lugar_pt"]}, de {v["roupa_pt"]}'
-                   + (' · O TESTE DO DIA: a 2ª frase como pico' if teste else '')),
+                   + (' · O TESTE DO DIA: a 2ª frase como pico' if teste else '') + (' · O TESTE: a frase de reinício' if nn == 'nora81' else '')),
         'duracao_total': 95,
         'descricao_instagram': T['insta'],
         'descricao_face': T['face'],
     }
     P['videos'] = ([{'rotulo': f'T{i + 1:02d}', 'cena': sufs[i], 'duracao': 10, 'primeiro_quadro': f'IMAGEM 1 ({v["img"]})', 'acao': '', 'b_roll': '',
                      'fala': fala[i], 'movimentacao': mov(v, gestos[i]), 'arquivo': nomes[i]} for i in range(n)]
-                   + [{'rotulo': 'T14 (só Face)', 'cena': 'as letras do nome, gerada de novo (o começo do Face)', 'duracao': 10, 'primeiro_quadro': f'IMAGEM 1 ({v["img"]})',
+                   + [{'rotulo': f'{tf1} (só Face)', 'cena': 'as letras do nome, gerada de novo (o começo do Face)', 'duracao': 10, 'primeiro_quadro': f'IMAGEM 1 ({v["img"]})',
                        'acao': '', 'b_roll': '', 'fala': LETRAS, 'movimentacao': mov(v, G_LETRAS), 'arquivo': n_letras},
-                      {'rotulo': 'T15 (só Face)', 'cena': 'o CTA para o comentário (o fim do Face)', 'duracao': 10, 'primeiro_quadro': f'IMAGEM 1 ({v["img"]})',
+                      {'rotulo': f'{tf2} (só Face)', 'cena': 'o CTA para o comentário (o fim do Face)', 'duracao': 10, 'primeiro_quadro': f'IMAGEM 1 ({v["img"]})',
                        'acao': '', 'b_roll': '', 'fala': CTA_FACE, 'movimentacao': mov(v, GESTO_CTA_FACE), 'arquivo': n_cta}])
     P['texto_tela'] = {'hook': '', 'hook_comeca': '—', 'hook_termina': '—', 'hook_alt': '', 'extras': []}
     B24.mapa(P)
     P['comentario_fixado'] = {'insta': T['fix_insta'], 'face': T['fix_face'] + FB}
     ct = P['central']
     ct['config'] = config(v, n + 2)
-    ct['colagens'] = [{'titulo': f'{nn}: a colagem do T01 ao T{n + 2:02d} (na {v["img"]}; o T14 e o T15 são os 2 só do Face, no fim)',
+    ct['colagens'] = [{'titulo': f'{nn}: a colagem do T01 ao T{n + 2:02d} (na {v["img"]}; o {tf1} e o {tf2} são os 2 só do Face, no fim)',
                        'fala': ' '.join(fala + [LETRAS, CTA_FACE]),
                        'movimentacao': [mov(v, g) for g in gestos + [G_LETRAS, GESTO_CTA_FACE]], 'takes': list(range(n + 2))}]
     ct['conferir'] = (f'Conferir em cada take: a Nora SEM a lua e SEM as estrelinhas, os olhos castanhos, de {v["roupa_pt"]}, {v["lugar_pt"]}, com {v["obj_pt"]} e a '
@@ -303,10 +315,10 @@ def montar(nn):
                  f'frame of every clip, and name each clip with exactly this file name: {resto}.”')
     lista = ' · '.join(f'T{i + 1:02d} começa em “{" ".join(f.split()[:5])}…” → {todos[i]}' for i, f in enumerate(fala + [LETRAS, CTA_FACE]))
     ag['intro'] = (f'No Muse, na mesma conversa da Nora (a voz). Siga os passos de cima para baixo. São {n + 2} clipes, todos com a {v["img"]} e todos pela '
-                   f'Central, numa colagem só: os {n} do Insta (T01 a T{n:02d}) e, no fim, os 2 só do Face (o T14, as letras de novo, e o T15, o fim que manda para o 1º comentário).')
+                   f'Central, numa colagem só: os {n} do Insta (T01 a T{n:02d}) e, no fim, os 2 só do Face (o {tf1}, as letras de novo, e o {tf2}, o fim que manda para o 1º comentário).')
     ag['passos'] = [
         f'Na Central: preencha como na seção da Central (o LIVRE, a voz, o prompt de consistência de voz e as {n + 2} linhas de movimentação do {nn}) e cole a fala '
-        f'inteira, do T01 ao T{n + 2:02d}. Confira: {n + 2} takes (o T14 começa em “If your name starts…” e o T15 em “That’s why I left you…”).',
+        f'inteira, do T01 ao T{n + 2:02d}. Confira: {n + 2} takes (o {tf1} começa em “If your name starts…” e o {tf2} em “That’s why I left you…”).',
         f'O vídeo inteiro (T01 a T{n + 2:02d}, {n + 2} clipes): no Muse, anexe a {v["img"]} + o aviso do Muse + o “COPIAR TUDO JUNTO”. O Muse gera 5 ou 6 por vez: '
         f'depois dos primeiros, mande na mesma conversa, com a mesma imagem: {msg_resto} Repita a mesma mensagem até sair o T{n + 2:02d}.',
         f'Confira os nomes ao baixar (o site põe “media-generation-” na frente e um código no fim; pode deixar). Se algum vier com nome aleatório, ouça o começo e renomeie: {lista}.',
@@ -317,20 +329,23 @@ def montar(nn):
     ]
     ct['agente'] = ag
     P['silencio'] = {
-        'intro': ('Arraste na “M2M FusionZ” os 15 takes de uma vez (T01 a T15), sem separar nada. Ela junta pela ordem do nome, então o T14 e o T15 (os 2 só do Face) '
+        'intro': (f'Arraste na “M2M FusionZ” os {n + 2} takes de uma vez (T01 a {tf2}), sem separar nada. Ela junta pela ordem do nome, então o {tf1} e o {tf2} (os 2 só do Face) '
                   'ficam no fim. Sai 1 arquivo só. “Zoom nos cortes” = DESLIGADO.'),
-        'nome': f'{nn}-cortado', 'juntar': 'LIGADO', 'transicao': 'Corte seco', 'ordem': 'T01 a T15 (o T14 e o T15 são os do Face)',
-        'depois': ['Suba os 15 takes e espere a Prévia.', 'Confira a primeira palavra do T01 e a última do T15.',
+        'nome': f'{nn}-cortado', 'juntar': 'LIGADO', 'transicao': 'Corte seco', 'ordem': f'T01 a {tf2} (o {tf1} e o {tf2} são os do Face)',
+        'depois': [f'Suba os {n + 2} takes e espere a Prévia.', f'Confira a primeira palavra do T01 e a última do {tf2}.',
                    'Se um corte comeu o fim de uma palavra, arraste a borda dele ou suba a margem de respiro.', f'Clique em Cortar e baixar e salve como {nn}-cortado.'],
     }
     prazo = {'nora80': 'assim que puder (se passar das 17h30, posta assim que eu devolver)', 'nora81': 'até ~01h30 de 27/11 (eu devolvo em ~20 min)', 'nora82': 'até ~16h30 de 27/11'}[nn]
     P['edicao_linha'] = [
-        {'quando': 'O que vai em cada vídeo', 'texto': 'Você monta 1 arquivo só, com os 15 takes. Os 2 vídeos (Insta e Face) eu separo aqui.',
-         'como': (f'INSTA ({nn}-final): T01 ao T13, na ordem. FACE ({nn}-final-FACE): T14 (as letras) + T02, T03, T04 (eu tiro o “money”), T06, T07, T11 + T15 (o comentário). '
-                  'Ficam fora do Face: o T01 (o Face abre com o T14), o T05 (a ameaça), o T08 (os 7 minutos e o “send to yourself”), o T09 (os selos e o amen), '
-                  'o T10 (“amanhã às 10”), o T12 e o T13 (o CTA do story).')},
-        {'quando': 'A. Antes de tudo', 'texto': f'Projeto novo no CapCut com o {nn}-cortado', 'como': 'Começa direto no T01, sem hook. O T14 e o T15 ficam no fim, como vieram da FusionZ.'},
-        {'quando': '1. Do começo ao fim', 'texto': 'Música de sempre (“Ambient Mystical Drone”), −18 dB, o vídeo todo (o T14 e o T15 também)', 'como': 'Começa no 1º quadro.'},
+        {'quando': 'O que vai em cada vídeo', 'texto': f'Você monta 1 arquivo só, com os {n + 2} takes. Os 2 vídeos (Insta e Face) eu separo aqui.',
+         'como': ((f'INSTA ({nn}-final): T01 ao T14, na ordem. FACE ({nn}-final-FACE): T15 (as letras) + T02, T03 (a frase de reinício), T04, T05 (eu tiro o “money”), T07, T08, T12 + T16 (o comentário). '
+                   'Ficam fora do Face: o T01 (o Face abre com o T15), o T06 (a ameaça), o T09 (os 7 minutos e o “send to yourself”), o T10 (os selos e o amen), '
+                   'o T11 (“amanhã às 10”), o T13 e o T14 (o CTA do story).') if nn == 'nora81' else
+                  (f'INSTA ({nn}-final): T01 ao T13, na ordem. FACE ({nn}-final-FACE): T14 (as letras) + T02, T03, T04 (eu tiro o “money”), T06, T07, T11 + T15 (o comentário). '
+                   'Ficam fora do Face: o T01 (o Face abre com o T14), o T05 (a ameaça), o T08 (os 7 minutos e o “send to yourself”), o T09 (os selos e o amen), '
+                   'o T10 (“amanhã às 10”), o T12 e o T13 (o CTA do story).'))},
+        {'quando': 'A. Antes de tudo', 'texto': f'Projeto novo no CapCut com o {nn}-cortado', 'como': f'Começa direto no T01, sem hook. O {tf1} e o {tf2} ficam no fim, como vieram da FusionZ.'},
+        {'quando': '1. Do começo ao fim', 'texto': f'Música de sempre (“Ambient Mystical Drone”), −18 dB, o vídeo todo (o {tf1} e o {tf2} também)', 'como': 'Começa no 1º quadro.'},
         {'quando': f'2. Exportar e me mandar {prazo}', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
          'como': f'1080×1920, nome {nn}-montado (acima de 30 MB, link do Drive). Eu devolvo em ~20 min os 2 prontos: o {nn}-final (Insta) e o {nn}-final-FACE.'},
     ]
@@ -341,7 +356,10 @@ def montar(nn):
         'nora82': 'O story novo (os campos trancados) vai com o curto noracurto2611, às ~23h de 26/11; amanhã, reposte antes de vencer. Antes de postar, confira se ele está no ar no Insta e no Face.',
     }[nn]
     P['story'] = {'ja_postado': True, 'nota': story}
-    teste_txt = ('O QUE ESTE VÍDEO TESTA (o teste do dia, 1 só): a 2ª frase como PICO, do m11 (o vídeo mais repetido da mineração de 26/11): “You’re about to experience '
+    teste_txt = ('O QUE ESTE VÍDEO TESTA (pedido do aluno, 26/11 ~21h15): a FRASE DE REINÍCIO da Gio Garcia (4º lote de dicas: uma frase de 3 ou 4 palavras que reabre a '
+                 f'curiosidade a cada 2 ou 3 frases). Muda só isto: o T03 novo, “{REINICIO1}”, depois da 2ª frase (onde a curva cai), e o “{REINICIO2}” no começo do T11, '
+                 'antes do “amanhã às 10” (só no Insta). O resto é igual ao nora80 (o controle). A medida, com ~24 h: a retenção aos 3, 10 e 15 s, o skip e as visitas ao '
+                 'perfil, contra o nora80. Olhar a fatia da Índia antes de comparar: o nora81 vai às 2h, depois da janela sem Índia.') if nn == 'nora81' else ('O QUE ESTE VÍDEO TESTA (o teste do dia, 1 só): a 2ª frase como PICO, do m11 (o vídeo mais repetido da mineração de 26/11): “You’re about to experience '
                  'the luckiest days of your entire life. Are you ready?” no lugar da mulher deitada. O resto é igual ao nora80 e ao nora81 (o controle). A medida, com ~24 h: '
                  'a retenção aos 3 s e aos 10 s, o skip e as visitas ao perfil, contra o nora81 (2h de 27/11) e o nora80 (o fim da tarde de 26/11). Olhar a fatia da Índia antes de comparar: o nora82 vai às 17h, a faixa da tarde.' if teste else
                  'Este vídeo NÃO testa nada: é o que vem dando certo, igual (as letras + o corpo da maioria; o nora76-FACE e o nora77-FACE, os 2 maiores da Página). '
@@ -356,8 +374,8 @@ def montar(nn):
         'decisao': [
             teste_txt,
             (f'{n} takes ({palavras} palavras, ~1:35) + 2 só do Face = {n + 2} clipes no Muse, todos com 1 imagem só. A fala é a do nora75 ao nora77 (o corpo da maioria) com '
-             'as letras na frente; a data diz “before Saturday, November twenty-eighth”.' + (' Com a carta na mão, o T10 diz “get” no lugar de “receive” (regra da carta).' if nn == 'nora81' else '')),
-            (f'Insta e Face às {v["hora"]}. No Face: abre com o T14 (as letras, outro arquivo) e termina mandando para o 1º comentário; sem a ameaça, o dinheiro, '
+             'as letras na frente; a data diz “before Saturday, November twenty-eighth”.' + (' Com a carta na mão, o T11 diz “get” no lugar de “receive” (regra da carta).' if nn == 'nora81' else '')),
+            (f'Insta e Face às {v["hora"]}. No Face: abre com o {tf1} (as letras, outro arquivo) e termina mandando para o 1º comentário; sem a ameaça, o dinheiro, '
              'os 7 minutos, os selos e o “amanhã às 10”. Sem texto no topo, só o 11:11✨ (como no nora75 ao nora77); legenda simples; seta grande no fim.'),
             ('A CHECAGEM DO TAKE 1: a pergunta está na legenda e no comentário fixado (“Is your letter on the list?”); gancho visual, falado e escrito juntos: '
              f'a Nora com {v["obj_pt"]} desde o 1º quadro, as letras faladas e a legenda; formato que já viralizou: as letras do nome (3 contas na mineração de 26/11 e o maior post da Página).'),
