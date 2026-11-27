@@ -2207,3 +2207,1614 @@ Na tela: o Kobata falando. É a última aula do módulo de AIDA.
 [0:04:36] Vocês tiveram um módulo de marketing agora.
 [0:04:39] Fechou, pessoal.
 [0:04:41] Estamos junto e seguimos juntos nessa aí.
+
+## Aula 12: Estrutura invisível e modelagem (1:03:58; embed v=9991608b-b951-45ce-9ca3-d4ffc1d378f1)
+
+É a gravação da live "DIA 1 – Modelagem de Copy c/ Kobata! [LIPOTREND]", no Discord da Mentoria Viral Milionária, com o Kobata e o Luigi (Victor Theotonio também como orador). Na tela: o vídeo de TikTok analisado (uma moça falando do produto da Goli, com a caixa "Doctor talks about the solution for turkey neck & chicken arms") e a tabela de 3 colunas (texto, significado, escrita). O Whisper trocou nomes ("Hapor" = rapport; "Xaganda" = ashwagandha; "BITP/BHB Magnesium"); o trecho em inglês do vídeo saiu em parte traduzido pelo Whisper.
+
+[0:00:04] Pessoal, vamos lá. Então essa caua aqui de hoje
+[0:00:08] a gente demoraria muito para ter conhecimento de fundamentos e coisas mais profundas de copy.
+[0:00:15] O que eu quero que vocês entendam é como funciona a ecologia por trás das coisas, tá?
+[0:00:21] Então copy nada mais é do que psicologia, tá?
+[0:00:25] Inclusive vocês aí que nunca estudaram, que não era do mercado, eu recomendo muito que estudem copy.
+[0:00:31] Depois eu posso, depois, tá? Eu falo depois porque eu foco agora e vocês ganharam dinheiro, tá?
+[0:00:35] Depois vocês ganham dinheiro, eu posso colocar uns livros de copy para vocês lerem,
+[0:00:39] para vocês quem quiser se desenvolver mais nessa área, quem vocês devem seguir,
+[0:00:43] como acompanhar, como funciona, posso trazer mais aula de copy mais para frente também, beleza?
+[0:00:48] E a gente vai surfar esse final de ano que é o melhor, o melhor época do ano para a conversão, tá?
+[0:00:53] A gente lá nos Estados Unidos agora está acabando o Q4, que é o último quarta do ano.
+[0:00:58] Então por isso que a gente colocou essa semana que vem para a gente lançar,
+[0:01:03] porque as últimas duas semanas de dezembro é quando começa a enfurrada de venda, beleza?
+[0:01:07] Já iniciando em janeiro que geralmente é o mês que mais vem de no ano, tá?
+[0:01:12] Então vamos lá.
+[0:01:13] Hoje a aula não é sobre muitos princípios de copy, mas é para vocês entenderem a psicologia.
+[0:01:19] Copy nada mais é do que entender psicologia do ser humano.
+[0:01:24] Copy, quando você aprende copy, você consegue se relacionar com pessoas,
+[0:01:29] persuasão, convencimento, negociações, muito melhor em qualquer esfera da sua vida.
+[0:01:34] Sei lá, você vai numa, você está discutindo com um amigo sobre um determinado tema,
+[0:01:38] você consegue ganhar discussão sobre aquele tema com seu amigo.
+[0:01:41] Você quer convencer alguém a seguir num planejamento seu, você consegue se convencer a essa pessoa,
+[0:01:46] quer vender algo, você consegue vender algo, porque tudo isso envolve copy.
+[0:01:50] A copy é a análise psicológica por trás das coisas, é você falar algo e saber
+[0:01:56] o que aquelas palavras vão gerar de sentimentos, de emoções, de pensamentos no terceiro que está ouvindo.
+[0:02:01] Isso é copy, tá?
+[0:02:03] Isso é a minha descrição de copy, tá?
+[0:02:05] É você entender como funcionam as emoções, os sentimentos,
+[0:02:11] o significado das palavras, o significado por trás dos textos das palavras que são ditas.
+[0:02:17] Por que quando alguém fala tal coisa, eu me sinto digital forma?
+[0:02:21] E por que a mesma coisa falada de outra forma eu não me sinto do mesmo jeito, entendeu?
+[0:02:26] Para vocês entenderem como copy é importante, um livro, um livro de ficção ou de narrativa,
+[0:02:35] a pessoa que escreve, ela tem que entender de copy, porque ela tem que transmitir sentimentos e emoções
+[0:02:41] através de palavras.
+[0:02:43] É isso que a copy faz, transfere, cria-se e converte, né?
+[0:02:48] E converte, na verdade, os sentimentos e emoções canalizados através de palavras.
+[0:02:54] Então um livro, por exemplo, quando você está lendo um livro e você
+[0:02:57] meio que parece um filme passando na sua cabeça
+[0:02:59] e aí você lê uma cena triste e você fica meio triste,
+[0:03:02] você lê um livro meio melancólico e você fica meio melancólico, isso tudo é copy.
+[0:03:07] No caso a gente usa copy para persuasão de vendas.
+[0:03:10] Então o principal é vocês assumirem isso na mente de vocês.
+[0:03:14] Quando eu, cobata, isso não é um termo generalizado, tá?
+[0:03:17] Isso é um conceito do cobata trazendo para vocês, tá?
+[0:03:20] Pode ser que você fale com o Derrick, por exemplo, ele fala,
+[0:03:22] mano, cobata, copy nada a vez que você falou.
+[0:03:25] Copy para mim é escrita aqui de VSN, ponto.
+[0:03:29] Eu não, porque eu penso muito em psicologia para tudo que eu faço na vida.
+[0:03:33] Se eu vou conversar com uma pessoa, se eu estou fazendo uma amizade,
+[0:03:36] eu preço muita atenção nas palavras que eu uso para o sentimento que eu quero gerar
+[0:03:40] e esse tipo de coisa, tá bom?
+[0:03:42] Então eu gosto de levar nesse sentido o conhecimento de copy.
+[0:03:45] Então para vocês que começaram tudo zero hoje, isso é o meu conceito,
+[0:03:51] mentor de vocês, conceito de copywriting.
+[0:03:53] É vocês entenderem o poder das palavras,
+[0:03:56] é você pensar em cada palavra dita,
+[0:03:59] em cada palavra escrita, o sentimento que aquilo pode gerar, a emoção, o pensamento,
+[0:04:05] tudo que aquela, o output que o seu input pode gerar, beleza?
+[0:04:10] E quando você pensar dessa forma,
+[0:04:14] você começa a ler textos e ver vídeos em TikTok e ver anúncios e ver de outra forma.
+[0:04:21] Você vê de outra forma, você não vê mais tipo assim, caraca, olha isso.
+[0:04:25] Não, você vê tipo assim, porra, olha que genial o jeito que ele falou isso.
+[0:04:29] Porra, olha como ele colocou essa palavra aqui,
+[0:04:31] estratégicamente colocada e gerou um impacto assim.
+[0:04:34] Nossa, olha como ele fez a chamada para ação, que criativo.
+[0:04:38] Entenderam? Então eu quero que vocês passem a olhar para os vídeos que estão dando certo,
+[0:04:43] ou para criativos e etc. de uma forma diferente,
+[0:04:47] entendendo a psicologia por trás.
+[0:04:49] Combinado? Beleza, vou dar um play aqui só para a gente assistir,
+[0:04:53] tem um minutinho e aí a gente volta, tá bom pessoal?
+[0:04:56] Esse é o vídeo que eu trouxe para a gente analisar hoje, o primeiro.
+[0:05:08] from my family especially my mom and my grandma.
+[0:05:10] We have been trying to find something that can help with this without getting prescribed all these tips and types of medications.
+[0:05:15] And the one thing that he was talking about was KSM 66 ashwagandha.
+[0:05:18] I specifically got this one because it's the most pure, potent and unfiltered form of ashwagandha.
+[0:05:22] It's non-GMO gluten free plant-based and vegan free.
+[0:05:25] So I don't have to worry about any of the BS ingredients inside this.
+[0:05:27] This thing tastes exactly like scuby snacks so it's really easy to take.
+[0:05:30] I've been taking this every single day with my mom and my grandma for the past months.
+[0:05:33] And I'm telling you guys right now I no longer crave sweet treats.
+[0:05:36] Eu agora dormir melhor da noite e dormir por dentro da noite, que é o que eu souber.
+[0:05:39] As coisas não mais me abrindo, como a minha irmã que está vindo no meu quarto e não closes a minha porta de todo o caminho.
+[0:05:43] E agora eu estou muito mais fóclico e atentivo para todas as coisas que estou fazendo no dia.
+[0:05:46] E isso é porque eu estou tomando KSM 66 astro-ganda, e vitamin D2.
+[0:05:50] Então se vocês não tentaram astro-ganda, eu recomendo isso.
+[0:05:53] Tem um desconto louco que está acontecendo agora que é muito mais chato do que todas essas outras reputas locais.
+[0:05:58] Então eu sempre sugiro que você tenha isso mal antes de se descer.
+[0:06:00] Eu vou lhe linko lá embaixo.
+[0:06:02] Boa. Esse é o vídeo, tá pessoal?
+[0:06:04] Deixa eu voltar aqui, dá pause.
+[0:06:06] Esse é o vídeo que eu trouxe para vocês.
+[0:06:08] Então eu já fui no chat APT, transcrevemos o vídeo.
+[0:06:11] Na verdade, a gente transcreveu antes, joguei no chat APT e trouxe a tradução para cá para a aula.
+[0:06:15] Beleza? Mas esse é o vídeo que a gente vai analisar primeiro, tá?
+[0:06:19] Então isso que é a estrutura que eu uso quando eu vou modelar qualquer tipo de copy, tá?
+[0:06:24] Seja uma VSL, seja um anúncio, seja um vídeo viral, qualquer tipo de que envolva copy, que envolva um texto persuasivo.
+[0:06:33] Eu faço essa estrutura de tabela aqui para conseguir modelar.
+[0:06:37] Isso é o mais importante. Quando você consegue usar essa estrutura de tabela, você consegue, além de modelar, melhorar a sua copy, a copy que você está modelando.
+[0:06:47] E ainda por cima, aprender.
+[0:06:49] Isso força o seu cérebro a entender. Porque para mim eu sempre preguei isso lá no meu Instagram.
+[0:06:54] Entender o porquê das coisas.
+[0:06:56] Não só replicar, não só executar, não copiar e colar.
+[0:06:59] E entender o porquê das coisas. É uma das paradas mais importantes aí.
+[0:07:04] Só o Luigi falou, olha, fecha em chat e clique no compartilhamento de tela para ficar em tela cheia.
+[0:07:08] Fechou? Vamos lá.
+[0:07:11] Então aqui eu dividi em bloco, tá? O vídeo 1. Eu dividi, eu traduzi a copy e trouxe em alguns blocos aqui.
+[0:07:18] Então nós temos três colunas.
+[0:07:20] Para você dar um pouco de zoom aí nessa parte do lado esquerdo.
+[0:07:24] Tá.
+[0:07:25] Isso boa. Agora perfeito. Tá ótimo.
+[0:07:27] Beleza.
+[0:07:28] Então vamos lá. A primeira coluna é o texto do vídeo. Então é a copy transcrita e traduzida.
+[0:07:35] A segunda coluna é o significado e esse significado, pessoal, não existe sete ou errado.
+[0:07:41] Existe o seu entendimento.
+[0:07:43] A real é que quanto mais nível de copy você tem, quanto mais fundamentos e princípios você consegue entender mais nas entrelinhas, entendeu?
+[0:07:53] Você entende melhor o significado das coisas.
+[0:07:56] E por fim é escrita, tá?
+[0:07:58] Isso aqui não tem que ser uma forma ingessada.
+[0:08:01] Sendo bem sincero com vocês, tá pessoal?
+[0:08:03] Aí o Kip me trouxe esse vídeo aqui e eu abri ele tipo 15 minutos, 10 minutos antes da cal.
+[0:08:07] Foi só o tempo de eu traduzir e jogar aqui, tá?
+[0:08:09] Então eu não vi, não estudei essa copy e tal. Eu vou literalmente fazer do zero.
+[0:08:14] Quando vocês estiverem fazendo, façam com mais carinho do que eu estou fazendo aqui.
+[0:08:18] Vocês têm menos experiência de copy, vocês vão ter mais tempo,
+[0:08:21] senão eu poderia ficar 3, 4 horas aqui, não é o caso.
+[0:08:24] Então façam com mais calma, façam com mais carinho, analisam mesmo, se é isso.
+[0:08:30] Aqui a gente vai fazer de uma forma mais... ah, digamos assim, alguns trechos a gente pega bem parecido ou faz igual mesmo, tá?
+[0:08:37] Porque tem partes que vai ser muito difícil você criar algo melhor ou mudar alguma coisa.
+[0:08:41] Então a gente vai se adaptando junto aqui, beleza?
+[0:08:44] Vamos fazendo aqui?
+[0:08:45] Aí eu gosto mais de uma parte prática aqui para a gente entender.
+[0:08:48] Deixa eu já separar esse bloco aqui, ó.
+[0:08:50] Então lá, a primeira coisa que a gente tem que reparar e copy pessoal, não é só texto para mim, tá?
+[0:08:55] Copy envolve também imagem, um bom copy.
+[0:08:58] Ele sabe imagens que chamam a atenção, ele entende vídeos e etc.
+[0:09:03] Vamos analisar primeiro lá no vídeo. Aqui, ó. Aqui.
+[0:09:09] O que eu não consigo dar zoom? Aqui, olha como o vídeo começa.
+[0:09:12] Começa com ela falando.
+[0:09:14] Doutor fala sobre uma solução, esse negócio de piru que ele fala, né? Queixo de piru.
+[0:09:20] E os braços de galinha, né? Que são essas fosfalesas aqui.
+[0:09:24] Então a headline do vídeo, o primeiro mensagem do vídeo, alguém que está descendo, já para ele ler isso aqui.
+[0:09:31] Então na verdade o gancho do vídeo, ele é composto por essa imagem aqui, por essa headline, mas o texto falado.
+[0:09:39] Combinado? Então o texto aqui, a imagem que você vai usar também é muito importante.
+[0:09:44] A copy também está ali, mas a gente vai falar a copy de texto aqui na parte de script.
+[0:09:49] Então vamos lá. Alguém mais viu aquele vídeo de um médico falando sobre o que fazer se você tem aquele queixo de piru
+[0:09:56] ou aqueles braços fóssitos? Então vamos lá.
+[0:09:59] Quando ele fala essa parte aqui, alguém mais viu aquele vídeo de um médico falando sobre esse trechinho aqui.
+[0:10:07] Ele traz uma ideia de uma fofoca.
+[0:10:11] Ou seja, uma fofoca.
+[0:10:13] Alguém aí viu como se estranho seria se ela não tivesse visto, sabe?
+[0:10:19] Quando um amigo traz muita pessoalidade.
+[0:10:22] O que eu quero dizer com fofoca? Imagina o ângulo de fofoca sendo como um amigo chegando para você e falando.
+[0:10:29] É o mesmo tom que um amigo chega para você e fala.
+[0:10:31] Então ele traz pessoalidade, ele traz intimidade.
+[0:10:34] E isso gera curiosidade. Alguém mais viu aquele vídeo de um médico?
+[0:10:38] Então tipo assim, na cabeça da pessoa, algumas perguntas que surgem.
+[0:10:43] Que vídeo é esse? E por que que eu ainda não vi?
+[0:10:46] Se ela está falando disso, tipo assim, quem que viu isso aí na internet?
+[0:10:50] As pessoas estão na internet para essas coisas.
+[0:10:52] Ah, vocês viram o que a Fulano fez?
+[0:10:54] Imagina se alguém chega para você e fala uma amiga sua, um amigo seu e chega e fala assim, meu.
+[0:10:59] Você viu o que a Rafael fez?
+[0:11:01] Aí ele fica, mano, o que a Rafael fez? Não vi, mano.
+[0:11:03] É a mesma ideia. Alguém vindo te dá uma fofoquinha, um amigo seu.
+[0:11:07] Então esse é o significado por trás dessa frase.
+[0:11:10] E é por isso que ele retém a atenção.
+[0:11:12] Segundo ponto, vamos descer aqui.
+[0:11:15] Opa.
+[0:11:17] Esqueci como é que faz isso.
+[0:11:19] É compro?
+[0:11:22] Gente, o combate não sabe fazer.
+[0:11:25] Aí, boa, consegui.
+[0:11:28] É o que fazer se você...
+[0:11:30] Aquele médico falando sobre o que fazer se você tem aquele queixo de peru,
+[0:11:35] ou braços em plácido.
+[0:11:37] O que que é o principal desse bloco, desse mini bloco, é apontar dores.
+[0:11:42] Então aqui você chamou a atenção de muitas pessoas, muitas.
+[0:11:47] Aqui você ainda não falou, não deixou claro com quem você está falando.
+[0:11:50] Aqui você qualificou o seu público.
+[0:11:53] Isso aqui é uma qualificação.
+[0:11:56] Você está dizendo aqui, quando você coloca essa frase,
+[0:12:00] queixo de peru ou braços plácidos,
+[0:12:02] a mulher que é o público-alvo do seu vídeo,
+[0:12:05] essa mulher se interessou agora.
+[0:12:07] Os homens que tinham parado aqui, ouvindo essa frase aqui,
+[0:12:10] provavelmente pulou.
+[0:12:12] Mulheres que não têm esses problemas aqui, provavelmente pularam.
+[0:12:15] Mas você qualificou a sua audiência.
+[0:12:17] Quem sofre com esses problemas já está pensando assim.
+[0:12:20] Opa, esse vídeo é pra mim.
+[0:12:22] Lembrando que, no princípio de marketing, no funil de vendas,
+[0:12:25] a sua preocupação não tem que ser de perder pessoas durante o funil.
+[0:12:28] Afinal, é um funil. A tendência é essa.
+[0:12:31] Esses cantos que vão se aproximando são pessoas que estão saindo.
+[0:12:35] A sua preocupação nunca tem que ser perder pessoas aqui,
+[0:12:38] mas sim converter quem chega no fundo.
+[0:12:40] E pra converter você precisa de qualificação, beleza?
+[0:12:43] Então isso aqui é uma qualificação,
+[0:12:45] ou também pode ser chamada de segmentação nesse caso aqui, tá?
+[0:12:47] Segmentação.
+[0:12:49] Está segmentando o público com o qual você está falando.
+[0:12:52] Você está basicamente falando assim, ó, estou falando com você, viu?
+[0:12:54] Você que tem isso aqui é você mesmo que eu estou falando.
+[0:12:57] Combinado? Beleza?
+[0:12:59] E por fim aqui, ele disse que o melhor é tomar o KSM66-Axuaganda.
+[0:13:05] Então aqui ele introduz o mecanismo.
+[0:13:10] Então nesse produto aqui, que é o produto da Goldie, que ela mostra,
+[0:13:14] o ingrediente que ela trouxe é esse KSM66-Axuaganda.
+[0:13:18] E o que é um mecanismo?
+[0:13:20] O mecanismo é aquilo que mostra que o seu produto é diferente do concorrente, tá?
+[0:13:26] Então você pode colocar, tipo, se você veio algumas passas de dente,
+[0:13:30] você pega a passada de dente e está escrito tipo assim.
+[0:13:32] Vou pegar o exemplo da água.
+[0:13:34] Não sei, não lembro qual é a marca de água que fez isso, mas falou assim,
+[0:13:37] água tal, vou dar fonte, por exemplo.
+[0:13:39] A única que é triplamente filtrada, adivinha,
+[0:13:42] toda água é triplamente filtrada.
+[0:13:44] Mas eles usaram isso aí como mecanismo, pra parecer que é a única.
+[0:13:47] Mas todas são. Então talvez uma coisa aqui.
+[0:13:49] Você coloca um ingrediente, você coloca o que é no seu produto,
+[0:13:53] que é o diferencial, tá?
+[0:13:55] Porque isso gera curiosidade, beleza?
+[0:13:57] Nesse caso, a Xaganda é meu famoso,
+[0:13:59] mas eles colocaram uma versão meio que diferente do A Xaganda,
+[0:14:01] que é o KSM666.
+[0:14:03] Isso gera uma curiosidade.
+[0:14:04] Pô, esse aí eu não conheço, tá?
+[0:14:07] Então esse aqui é o significado por trás desse primeiro bloco aqui, tá?
+[0:14:12] Vamos lá, vamos continuar, a gente vai bater toda a coluna de significado
+[0:14:16] e depois a gente vai bater na coluna de escrita, tá bom?
+[0:14:18] Sentir que isso foi muito relevante, não só pra mim,
+[0:14:22] mas pra minha família, especialmente pra minha mãe e minha avó.
+[0:14:26] Só um contexto aqui, tá pessoal?
+[0:14:28] Então vamos reparar que esse vídeo,
+[0:14:31] ele tá num formato meio que de depoimento,
+[0:14:33] então é uma pessoa contando o relato dela com isso, né?
+[0:14:36] A maioria dos vídeos de OGC e do TikTok Shop são assim.
+[0:14:39] Mas isso traz a ideia, é trazer uma pessoalidade,
+[0:14:42] é trazer uma intimidade,
+[0:14:43] é trazer literalmente como se fosse um amigo seu.
+[0:14:46] Isso é o grande poder do TikTok Shop.
+[0:14:48] É parecer que é um amigo seu te contando, te recomendando algo, beleza?
+[0:14:52] Então quando aqui ela fala que...
+[0:14:55] que é importante, foi importante pra família dela, opa.
+[0:14:59] Principalmente pra mãe e pra avó,
+[0:15:01] aqui tem também uma segmentação de público,
+[0:15:04] porque agora o público, o maior público comprador desse produto,
+[0:15:11] vai ser um público mais velho.
+[0:15:13] Então quando fala que é pra mãe e pra avó,
+[0:15:15] ela segmenta esse tipo de público,
+[0:15:17] inclusive os comentários que tem no vídeo
+[0:15:19] são de pessoas mais velhas, tá?
+[0:15:21] E também aqui tem uma coisa que a gente usa
+[0:15:23] principalmente no Direct Response, muito boa.
+[0:15:26] Porque quando ela fala assim,
+[0:15:28] especialmente pra minha mãe e pra minha avó,
+[0:15:31] ela está colocando mais pessoas na equação.
+[0:15:33] E isso pode impactar, na hora lá na frente
+[0:15:36] que a pessoa for comprar, ela vai pensar assim,
+[0:15:38] puta, vou comprar pra minha mãe e pra minha avó também.
+[0:15:40] Então em vez de comprar um, às vezes ela compra dois ou três.
+[0:15:43] Um pra ela, um pra mãe e um pra avó.
+[0:15:45] Então isso aqui a gente faz muito no Direct Response
+[0:15:47] pra convencer a pessoa a comprar um kit de seis potes
+[0:15:49] e não um kit de um ou três potes, tá?
+[0:15:52] Dá presente pros outros e etc etc etc.
+[0:15:55] Então isso aqui também pode ser um impulso
+[0:15:58] para comprar mais potes, beleza?
+[0:16:02] Então vamos lá, continuando aqui.
+[0:16:04] Estamos tentando encontrar algo que ajude com isso
+[0:16:07] e com esses problemas que ela falou lá em cima, né?
+[0:16:10] Sem precisar, acho que aqui a tradução certa seria estávamos.
+[0:16:14] Com isso, sempre precisar recorrer a todos esses diferentes tipos
+[0:16:17] de medicamentos prescritos e a única coisa que ele recomendou
+[0:16:20] foi o Ashwagana.
+[0:16:22] Então aqui, olha o que ele faz.
+[0:16:24] Isso aqui, ó, estamos tentando encontrar algo que ajude com isso
+[0:16:27] e sempre precisar recorrer a todos esses diferentes tipos
+[0:16:30] de medicamentos prescritos.
+[0:16:32] Isso se chama Hapor.
+[0:16:34] O que é o Hapor?
+[0:16:36] Reconhecimento com a pessoa.
+[0:16:39] Não encope, uma das coisas que mais faz
+[0:16:42] a venda é quando a pessoa se sente reconhecida.
+[0:16:46] Quando ela olha e fala assim, caraca,
+[0:16:49] ela passa a mesma coisa que eu.
+[0:16:51] Vocês podem ver que a maioria das pessoas quando vai vender um curso,
+[0:16:54] gurur, essas coisas, eles falam assim nas mensagens de venda, né?
+[0:16:57] Eu já estive no seu lugar.
+[0:17:00] Eu sei como você está se sentindo.
+[0:17:03] Aí, por que que fala tanto de pagar boleto?
+[0:17:05] Porque isso é o que a pessoa está passando.
+[0:17:07] E aí ela fala, caramba, esse cara sabe o que eu estou falando.
+[0:17:10] Ele sabe o que eu estou passando.
+[0:17:12] Isso aqui é a mesma coisa.
+[0:17:14] Quando ela fala assim, a gente estava passando de médico em médico,
+[0:17:16] isso aí são coisas que a gente pode escrever depois.
+[0:17:18] Passamos em mais de 10 médicos e todos eles ficaram recomendando
+[0:17:21] esses medicamentos aí que não funcionam.
+[0:17:23] A pessoa fala, puta, mano, eu também estou nessa, sabe?
+[0:17:26] Mas a única coisa que... a única, essa palavra é muito forte, tá?
+[0:17:29] A única coisa é muito forte.
+[0:17:31] Isso aqui é um termo de cópia que a gente chama de The One Thing.
+[0:17:35] Quando você fala...
+[0:17:40] Quando você fala algo tipo assim, essa é a única coisa que funciona.
+[0:17:44] Você está introduzidamente da pessoa que tipo assim,
+[0:17:46] se ela não testar isso aqui, nada mais vai funcionar.
+[0:17:49] Nem adianta.
+[0:17:50] Pode passar o resto da vida.
+[0:17:51] Isso aqui é a única coisa que funciona.
+[0:17:53] E quando você apresenta um único caminho para a pessoa,
+[0:17:56] um único termo, atuada de decisão na cabeça dela,
+[0:17:59] é muito mais simples, é sim ou não, entendeu?
+[0:18:02] E geralmente ela vai botar pelo sim, porque ela vai estar
+[0:18:04] nesse impulso emocional e nessa questão do consumismo ali no momento, tá?
+[0:18:08] Mas você mostra vários caminhos,
+[0:18:10] ah, isso aqui dá bom, isso aqui também funciona,
+[0:18:13] isso aqui também é legal, a pessoa não vai comprar nenhum, entendeu?
+[0:18:16] Então tem esse conceito que a gente chama de The One Thing,
+[0:18:19] sempre foque em uma coisa só, beleza?
+[0:18:21] Então quando você fala a única coisa, a pessoa se vê meio tipo assim,
+[0:18:24] uma esperança, ou é isso ou é nada, tá?
+[0:18:27] O que ele recomendou foi novamente o mecanismo,
+[0:18:30] reforçando o mecanismo.
+[0:18:32] Forçando o mecanismo.
+[0:18:34] Porque o mecanismo do produto que ela está trazendo como diferencial,
+[0:18:37] é esse KSM aqui, beleza?
+[0:18:40] Aí aqui, escolhi especificamente esse produto,
+[0:18:43] porque é a forma mais pura, potente e não filtrada de a shuaganda,
+[0:18:47] perfeito. Então, eu sei por que ele escreveu isso, tá?
+[0:18:50] Porque como eu falei para vocês, a shuaganda é um ingrediente
+[0:18:53] que tem em muitos suplementos alimentares.
+[0:18:55] Não é um ingrediente específico e muito único
+[0:18:59] e muito difícil de ser encontrado e manipulado e colocado numa fórmula.
+[0:19:03] É muito comum a shuaganda em vários suplementos alimentares.
+[0:19:06] Então, ele precisava demonstrar de alguma forma na cabeça da pessoa
+[0:19:09] que tipo assim, eu sei que você já ouviu falar de a shuaganda,
+[0:19:12] provavelmente você já comprou algum produto com a shuaganda,
+[0:19:17] mas esse aqui é diferente. Por que?
+[0:19:19] Porque ele é o único que é a forma mais pura,
+[0:19:22] potente e não filtrada.
+[0:19:24] Então, isso aqui gera especificidades,
+[0:19:28] deixa a presidência, opa, como único.
+[0:19:35] Então, ele tá diferenciando, diferenciando do mercado.
+[0:19:40] Porque a pessoa podia muito bem ir no Google e falar,
+[0:19:43] comprar suplemento de a shuaganda.
+[0:19:45] E ela ia pagar mais barato que 17,39, porque um suplemento de a shuaganda
+[0:19:47] deve ser 6 dólares lá, sei lá, alguma coisa assim.
+[0:19:50] Então, precisa demonstrar que é uma shuaganda diferente.
+[0:19:53] Quem fez isso muito bem foi o João Campos,
+[0:19:55] um produto dele no Brasil chamado Renovia 31.
+[0:19:59] Era um produto de rejuvencimento de pele.
+[0:20:02] E qual que é o mecanismo que as pessoas mais conhecem como rejuveniça-pelle?
+[0:20:06] É o colágeno.
+[0:20:08] Então, ele queria trazer essa ideia do colágeno, porque as pessoas já acreditam,
+[0:20:11] mas ele queria trazer de uma forma diferente.
+[0:20:13] Então, ele falou que existem diversos tipos de colágeno,
+[0:20:15] e isso tudo é verdade, tá?
+[0:20:17] Existem vários tipos de colágeno.
+[0:20:19] E ele apresentou que o produto dele era o único que contém os colágenos 3 e 1,
+[0:20:24] que são os mais importantes para quem quer rejuveniça-pelle.
+[0:20:27] Que os outros tipos de colágeno estão desperdiçados em fezes e etc.
+[0:20:31] Ou absorvidos, sei lá, coisa do tipo.
+[0:20:33] Então, na verdade, o produto dele tem o colágeno 3 e 1.
+[0:20:36] Tem mesmo, mas todos tem.
+[0:20:38] Só que ele apresentou de uma forma diferente.
+[0:20:40] Entendeu?
+[0:20:41] É o único que tem o 3 e 1.
+[0:20:43] É a mesma coisa aqui.
+[0:20:44] É o único que é mais pura, não filtrada e potente.
+[0:20:48] Então, você também vai tentar achar características aqui na hora de escrever
+[0:20:52] para trazer essa diferenciação para o seu ingrediente,
+[0:20:57] para o seu mecanismo, tá bom?
+[0:20:59] E não OGM, isso aqui todos tem, tá?
+[0:21:02] Sem glúten, de origem vegetal e vegano.
+[0:21:05] Se eu não vou me deposendo, é tudo isso também, tá?
+[0:21:07] Inclusive essa parte de vegetal e vegano.
+[0:21:09] Então, não preciso me preocupar com ingredientes dubidosos.
+[0:21:12] Aqui ele está quebrando uma objeção.
+[0:21:14] Isso aqui é uma quebra de objeção.
+[0:21:17] Muitas pessoas podem...
+[0:21:21] Acha que é tipo um remédio.
+[0:21:23] Entendeu?
+[0:21:24] Tanto é que eu pedi para a minha amiga gravar
+[0:21:27] os bírroos daqui e eu falei,
+[0:21:30] ''Pô, faz um vídeo tomando.''
+[0:21:31] E ela falou, ''Pô, mas pode tomar isso?''
+[0:21:33] Não sei o que tem aí.
+[0:21:34] A pessoa fica com esse aí, porque potinho, parece remédio, etc.
+[0:21:37] Então isso aqui é uma quebra de objeção disso.
+[0:21:39] São tudo ingredientes naturais, vegano, origem vegetal.
+[0:21:42] Não é nada que vai...
+[0:21:43] Não é nada químico, é uma quebra de objeção, tá bom?
+[0:21:49] Isso aqui é muito legal, tá?
+[0:21:51] Olha que legal que ela fala.
+[0:21:52] O sabor lembra exatamente os scubesnex.
+[0:21:54] Então é super fácil de tomar.
+[0:21:55] Eu não faço ideia do que seja um scubesnex,
+[0:21:57] mas eu imagino que seja um doce, alguma coisa assim.
+[0:22:01] Deixa eu ver.
+[0:22:03] É, deve ser esse...
+[0:22:04] Não sei o que, uns biscoitinhos, não sei.
+[0:22:07] Não sei o que que é isso,
+[0:22:08] mas deve ser uns biscoitinhos gostosos de lá.
+[0:22:10] Por quê?
+[0:22:11] Por que ela fala isso?
+[0:22:13] Primeiro tem dois motivos, tá?
+[0:22:15] Primeiro também é uma quebra de objeção.
+[0:22:17] Então, por exemplo, ninguém gosta de tomar creatina, né?
+[0:22:20] Creatina é ruim, tomar na boca e beber água.
+[0:22:23] Então criaram o game de creatina.
+[0:22:26] Tirar essa dor da pessoa, sabe?
+[0:22:29] Então quando ela fala desses scubesnex,
+[0:22:31] o que é muito bom,
+[0:22:33] é porque traz, como ele mesmo fala,
+[0:22:35] super fácil de tomar.
+[0:22:36] Traz essa simplicidade, sabe?
+[0:22:38] Tipo, vai ser gostosinho ainda pra você tomar.
+[0:22:40] Faz você lhe ter ainda mais o seu processo.
+[0:22:42] Além de todo o benefício, ainda é gostoso.
+[0:22:44] E também, quando ela fala a palavra scubesnex,
+[0:22:47] a pessoa associa a um sabor que ela conhece.
+[0:22:50] É a mesma coisa que a gente colocasse aqui.
+[0:22:52] Cara, tem o mesmo gosto que finizinho,
+[0:22:55] o fini de mioquinha.
+[0:22:57] Todo mundo pensa no gosto.
+[0:22:59] Nossa, eu lembro do fim de mioquinha.
+[0:23:01] Eu lembro como é que ele é.
+[0:23:02] Ah, o verdinho, tem o verdinho, tem o amarelinho.
+[0:23:04] Eu lembro disso. Você entende?
+[0:23:06] Então você gerou um sentimento na pessoa,
+[0:23:08] um sentimento, uma memória.
+[0:23:09] Quando ela falou scubesnex, tá?
+[0:23:11] Então é quebra de objeção.
+[0:23:13] Mas aqui eu chamo isso de...
+[0:23:17] Ai, fugiu o nome agora.
+[0:23:19] Quando a pessoa mistura os sentidos,
+[0:23:21] eu até falei disso no VTURB,
+[0:23:25] sinestesia.
+[0:23:27] Sinestesia.
+[0:23:28] É quando você consegue, através de um sentido,
+[0:23:30] estimular outro sentido.
+[0:23:32] Então através da audição, você sente o gosto.
+[0:23:35] Você quase sente o gosto da parada.
+[0:23:37] Beleza?
+[0:23:38] Isso aqui, ele apresenta como uma
+[0:23:40] quebra de objeção, porque parece...
+[0:23:42] Ah, mas isso aí é ruim.
+[0:23:43] A objeção é, mas isso aí não é ruim.
+[0:23:45] Vai ter o gosto ruim, não.
+[0:23:47] É gostosinho ainda por cima.
+[0:23:50] Tenho usado todos os dias com a minha mãe e minha avó,
+[0:23:52] a mesma coisa da segmentação.
+[0:23:54] E posso dizer agora que não tenho mais...
+[0:23:57] Olha, aqui é interessante, tá?
+[0:23:59] Isso aqui é só...
+[0:24:00] Lesteira, tá?
+[0:24:01] Tenho usado uma recomendação.
+[0:24:03] Mas isso aqui é importante, ó.
+[0:24:05] E posso dizer agora que não tenho mais...
+[0:24:13] E você vai poder começar aqui.
+[0:24:15] E posso dizer agora que não tenho mais aquela
+[0:24:19] vontade de doce passei a dormir melhor a noite
+[0:24:22] e a dormir a noite toda como deveria ser.
+[0:24:25] O que que é isso aqui?
+[0:24:26] Benefício.
+[0:24:27] A apresentação dos beneficios.
+[0:24:32] Tá?
+[0:24:33] Esses são os benefícios que a pessoa vai...
+[0:24:36] Que a pessoa tá buscando de fato.
+[0:24:38] Entendeu?
+[0:24:39] Porque essas pessoas geralmente querem
+[0:24:41] parar de comer o doce,
+[0:24:43] de sentir vontade compulsiva de comer doce.
+[0:24:45] Geralmente as pessoas, esse tipo de pessoa aqui,
+[0:24:48] né, uma pessoa mais velha,
+[0:24:49] tem problema de sono, não dorme direito,
+[0:24:51] sem ter que pensar,
+[0:24:52] fa diga, indisposição.
+[0:24:55] Existem problemas, pessoal,
+[0:24:56] que são genéricos que todo mundo sente.
+[0:24:59] Se você chegar pra uma pessoa que é
+[0:25:01] essa pessoa que consome essas vitaminas pra caralho,
+[0:25:04] você virar e falar assim,
+[0:25:05] nossa, mas você não tá sentindo
+[0:25:07] uma dorzinha no joelho.
+[0:25:10] Você tá sentindo?
+[0:25:11] Quando você acorda um pouquinho mais
+[0:25:12] meio cansado, a pessoa não se assim...
+[0:25:15] Pronto.
+[0:25:16] Todo mundo sente isso.
+[0:25:17] Todo mundo.
+[0:25:18] Entendeu?
+[0:25:19] Então são dores meio genéricas.
+[0:25:20] Não essa do...
+[0:25:21] Vontade de doce.
+[0:25:22] Isso aqui é muito específico.
+[0:25:23] Aquela pessoa se identifica.
+[0:25:25] Beleza?
+[0:25:26] Então aqui é pra apresentar benefícios.
+[0:25:28] Só toma cuidado.
+[0:25:30] Eu vou reforçar com vocês isso na hora da...
+[0:25:32] Depois que a gente for escrever,
+[0:25:34] com os benefícios que você vai apresentar, pessoal.
+[0:25:36] Não é pra colocar aqui,
+[0:25:37] vai perder peso, vai queimar gordura, isso aí.
+[0:25:39] Esquece.
+[0:25:40] Olha os benefícios que ele colocou.
+[0:25:42] É coisa indireta.
+[0:25:44] Você vai perder aquela vontade de comer doce.
+[0:25:46] Vai perder aquela vontade de comer uma pizza.
+[0:25:48] Vai perder aquela vontade toda,
+[0:25:50] aquela compulsão de ver um hambúrguer.
+[0:25:52] São esses tipos de coisas que você coloca.
+[0:25:54] O que está na dia a dia da pessoa.
+[0:25:56] Atitudes que ela faz.
+[0:25:58] Combinado?
+[0:25:59] Vamos lá.
+[0:26:00] Coisas pequenas não me irritam mais.
+[0:26:02] Como minha irmã, isso aqui.
+[0:26:04] Olha a especificidade disso.
+[0:26:06] É o que ela quer dizer.
+[0:26:07] Eu fiquei menos estressada.
+[0:26:09] Coisas como minha irmã entrar no meu quarto
+[0:26:12] e não fechar a porta direito.
+[0:26:14] Isso aqui é muito específico.
+[0:26:16] Isso aqui traz duas coisas, tá?
+[0:26:18] Duas coisas que isso aqui traz.
+[0:26:19] Especificidade.
+[0:26:20] Isso aqui é especificidade, mano, tá?
+[0:26:22] Especificidade.
+[0:26:24] Isso aqui traz credibilidade
+[0:26:27] mais rapport.
+[0:26:30] Então quando você faz essa especificidade
+[0:26:33] de uma situação que a pessoa vive,
+[0:26:34] que o seu potencial cliente vive,
+[0:26:36] traz duas coisas.
+[0:26:37] Credibilidade.
+[0:26:38] Então, tipo assim,
+[0:26:40] automaticamente agora essa história é uma verdade.
+[0:26:42] Porque ninguém inventaria uma coisa dessa.
+[0:26:44] Porra, minha irmã entrar no meu quarto,
+[0:26:46] muito específico.
+[0:26:47] É tipo se eu virar pra você e você falar assim,
+[0:26:49] faz uma pergunta aleatória e eu falar assim, cara, 97,4, mano.
+[0:26:51] Não tem como você contestar um cara que fala isso.
+[0:26:54] 0,4?
+[0:26:55] Com certeza é verdade.
+[0:26:56] As caras têm esse número.
+[0:26:57] Não, é mentira, tá?
+[0:26:59] Então isso traz credibilidade
+[0:27:01] quando você traz uma reformação muito específica assim.
+[0:27:03] Tem rapport.
+[0:27:04] Porque essa pessoa, ela provavelmente,
+[0:27:07] irritabilidade,
+[0:27:09] é um sintoma comum de muita gente também.
+[0:27:11] Aí também estressado.
+[0:27:12] Eu não sei o que que pode ser.
+[0:27:14] Estou com estresse, assim, cortes de sol, deve ser.
+[0:27:16] As pessoas dizem que ninguém tem um mil motivos
+[0:27:18] pra estar estressado.
+[0:27:20] Então é alguns sintomas vienéricos também
+[0:27:23] que pode trazer.
+[0:27:24] Beleza?
+[0:27:25] E agora estou muito mais focado e atento
+[0:27:29] em tudo o que eu faço no meu dia a dia.
+[0:27:31] Benefício de novo.
+[0:27:32] Isso aqui é um benefício secundário.
+[0:27:35] Novamente um benefício que não é
+[0:27:38] direto do que...
+[0:27:40] Você vê que ela começa falando
+[0:27:42] sobre o pescoço
+[0:27:45] e a fláceis desde o braço.
+[0:27:47] Mas agora ela já está falando de se sentir mais focada,
+[0:27:50] de você não ter mais vontade de comer tanto doce,
+[0:27:53] de você dormir bem.
+[0:27:54] Você entende que o benefício não precisa ficar falando
+[0:27:57] de emagrecer, emagrecer, emagrecer?
+[0:27:59] Você chamou a atenção da pessoa por isso.
+[0:28:02] Mas agora você pode apresentar outras coisas
+[0:28:04] que essas pessoas têm.
+[0:28:05] Pense numa pessoa que está acima do peso,
+[0:28:06] quais são os benefícios que ela quer?
+[0:28:08] Essa pessoa não está saudável.
+[0:28:10] A pessoa que está acima do peso não está saudável.
+[0:28:11] Ela sente várias coisas.
+[0:28:12] Ela pode sentir dor de cabeça.
+[0:28:14] Ela pode sentir muita sede.
+[0:28:16] Ela pode sentir essa compulsão, ansiedade,
+[0:28:18] vontade de fazer alguma coisa,
+[0:28:20] indisposição, cansaço mental,
+[0:28:22] estresse, irritabilidade.
+[0:28:23] São tudo coisas que você pode ir jogando
+[0:28:26] e no final a pessoa fala, caramba.
+[0:28:28] Então todos os problemas...
+[0:28:29] Nossa, se eu tomasse isso, ia me ajudar em várias coisas.
+[0:28:31] Não só emagrecer.
+[0:28:33] Entendeu?
+[0:28:34] Esse é o ponto.
+[0:28:36] Graças ao...
+[0:28:38] Novamente...
+[0:28:40] apresentação do mecanismo.
+[0:28:43] E também ele apresentou outro ingrediente
+[0:28:46] para trazer esses benefícios secundários.
+[0:28:48] Mais segundo ingrediente.
+[0:28:52] Então se vocês ainda não experimentaram,
+[0:28:54] aqui começa o CTA.
+[0:28:56] Imístio do CTA.
+[0:28:58] Então se vocês ainda não experimentaram a joganda,
+[0:29:01] recomendo muito esse produto.
+[0:29:03] Ficou uma recomendação, não é uma venda.
+[0:29:05] Ah, é qual para tal...
+[0:29:07] Não, eu recomendo.
+[0:29:08] Eu fiz, minha mãe está usando.
+[0:29:09] A gente está feliz, ela está mais focada,
+[0:29:11] eu estou mais magra e assim vai.
+[0:29:13] É uma recomendação de amiga.
+[0:29:15] Não precisa forçar uma venda.
+[0:29:17] E aqui, um reason why.
+[0:29:20] Isso aqui é muito bom.
+[0:29:22] E finaliza...
+[0:29:24] finaliza o CTA.
+[0:29:26] O que é o reason why?
+[0:29:28] Pessoal, isso aqui é um conceito de copo que eu amo.
+[0:29:30] Eu amo isso aqui.
+[0:29:32] Eu vou trazer um estudo para você.
+[0:29:34] O reason why, que é dizer,
+[0:29:36] razão pela qual...
+[0:29:38] isso é empiricamente provado.
+[0:29:41] Empiricamente que é dizer na prática, tá?
+[0:29:43] Foi feito um experimento com isso, tá?
+[0:29:45] As pessoas são muito mais suscetíveis
+[0:29:48] a você...
+[0:29:50] a você...
+[0:29:52] a aderir a sua ideia
+[0:29:54] ao que você está falando,
+[0:29:56] se você der um motivo pelo qual...
+[0:29:58] Tem um livro, eu não lembro se é
+[0:30:00] gatilhos mentais, se é armas da persuasão,
+[0:30:02] não lembro qual que era o livro.
+[0:30:03] Ou se era psicologia do consumo.
+[0:30:05] Algum desses livros daí,
+[0:30:07] que eles fizeram um estúdio que era o seguinte,
+[0:30:09] um cara chegava na fila, numa fila,
+[0:30:11] fila de banco e etc.
+[0:30:13] E perguntava assim, isso entrar na sua frente, na fila?
+[0:30:16] As pessoas, não.
+[0:30:18] Aí,
+[0:30:20] posso entrar na sua frente? Não.
+[0:30:22] Não, posso entrar na sua frente? Não. Então, não recusou.
+[0:30:24] E depois, ele voltou,
+[0:30:26] foi em outras filas,
+[0:30:28] e ele começou a falar um porquê.
+[0:30:30] Porquê.
+[0:30:32] Posso furar a sua fila porquê?
+[0:30:34] Xixi, e inventava uma história em abesta.
+[0:30:36] Esses pessoas, não, beleza, beleza.
+[0:30:38] Eu lembro que, tipo assim,
+[0:30:40] no primeiro caso, ninguém
+[0:30:42] deixou ele entrar na frente.
+[0:30:44] No segundo caso, o senhor me engano, tipo,
+[0:30:46] de 40% a 50% das pessoas deixaram.
+[0:30:48] Não é porque a razão dele era muito boa.
+[0:30:50] Porque no livro lá, eu não lembro agora exatamente,
+[0:30:52] mas ele dava uns motivos muito ruins.
+[0:30:54] Tipo, só pra ter um motivo,
+[0:30:56] só pra falar a palavra porquê.
+[0:30:58] Não entendeu? Pra dar uma razão pela qual.
+[0:31:00] E muita gente começou a aceitar.
+[0:31:02] Então as pessoas precisam de uma justificativa,
+[0:31:04] e isso é chamado de reason-eye.
+[0:31:06] Então,
+[0:31:08] aqui a pessoa se interessou,
+[0:31:10] até que talvez clicasse,
+[0:31:12] mas agora você deu um bom motivo pra ela clicar.
+[0:31:14] Está rolando um desconto, é incrível.
+[0:31:16] Esse é o motivo.
+[0:31:18] Lembrando que você não precisa ser
+[0:31:20] tão clichê, assim,
+[0:31:22] de falar desconto.
+[0:31:24] Bem mais barato do que em qualquer lugar.
+[0:31:26] Então eu sugiro que vocês aproveitem.
+[0:31:28] Você não precisa ser tão específico assim.
+[0:31:30] Vou dar um exemplo de um bom reason-eye
+[0:31:32] que era golpe, mas a ideia dele foi muito boa.
+[0:31:34] Teve uma época que
+[0:31:36] tinha uns caras aplicando golpe, vendendo lençol.
+[0:31:38] Era um lençol faz junto,
+[0:31:40] paraguai, né?
+[0:31:42] Mas a copa dos caras era muito boa.
+[0:31:44] Olha qual que era a copa dos caras.
+[0:31:46] Um hotel, cinco estrelas, quebrou.
+[0:31:48] Faliu.
+[0:31:50] E pra recuperar um pouco dos danos
+[0:31:52] financeiros, eles estavam vendendo
+[0:31:54] os lençóis fechados, que ainda não
+[0:31:56] tinha sido usado, lençol e fronha,
+[0:31:58] que são aqueles de mil fios, que são tipo seda
+[0:32:00] incrível, sei lá,
+[0:32:02] de 400 reais por
+[0:32:04] 97 reais.
+[0:32:06] Era golpe isso. Minha mãe caiu nesse golpe,
+[0:32:08] entendeu? Mas olha a copa do cara como é boa.
+[0:32:10] Ele deu um motivo muito bom, mano.
+[0:32:12] Se ele só chegava a se falar assim,
+[0:32:14] lençol, mil fios
+[0:32:16] de 497 por 97, todo mundo ia falar
+[0:32:18] golpe, horrível, não vou comprar.
+[0:32:20] Merda isso aí.
+[0:32:22] Agora, quando ele falou do hotel, é uma história
+[0:32:24] muito incrível. Você fala, caralho, faz sentido.
+[0:32:26] É um motivo pelo qual o desconto
+[0:32:28] ocorre, que faz sentido.
+[0:32:30] O hotel quebrou e ele precisa recuperar esse dinheiro.
+[0:32:32] Vai vender mais barato, queima de
+[0:32:34] estoque. Entenderam? Esse
+[0:32:36] ois ou i como é forte, quando você dá
+[0:32:38] um motivo pra pessoa, por que que tá barato?
+[0:32:40] Por que que tem desconto? Por que que ela tem que
+[0:32:42] clicar agora? É uma data
+[0:32:44] específica, é presente de natal,
+[0:32:46] é porque, é que os mais clichés
+[0:32:48] tá acabando estoque,
+[0:32:50] Black Friday e tal, se você
+[0:32:52] conseguir achar um motivo bom
+[0:32:54] e colocar no seu, no seu, no
+[0:32:56] seu próprio
+[0:33:00] exemplo, tá?
+[0:33:02] Eu falei isso lá no podcast do VTurbe,
+[0:33:04] o que eu colocava no meu cta
+[0:33:06] dos meus anúncios no facebook, na época
+[0:33:08] eu escrevia anúncios ainda com
+[0:33:10] o pessoal do instituto,
+[0:33:12] no final eu não colocava que o cara
+[0:33:14] tinha que clicar
+[0:33:16] e forçar o cara a clicar.
+[0:33:18] Eu nem sequer falava com ele,
+[0:33:20] como o formato que usava era um formato
+[0:33:22] podcast, então a minha atriz
+[0:33:24] ela tava sempre com o microfone aqui, assim
+[0:33:26] né? E falando, olhando o ponto
+[0:33:28] lado da mesa, a pessoa que tá assistindo
+[0:33:30] tá aqui, só vocês. Ela falava assim
+[0:33:32] olha o reason why, olha o motivo,
+[0:33:34] todo mundo fala, clica no botão e vai
+[0:33:36] assistir o vídeo. A apresentação é de
+[0:33:38] graça, eu falava assim, já que
+[0:33:40] você me convidou pro seu podcast,
+[0:33:42] porque um convidado
+[0:33:44] ele se sente lhe zongiado, já que
+[0:33:46] você me convidou, eu vou liberar
+[0:33:48] 50 aulas de graça, eu dei um motivo
+[0:33:50] pra as aulas c de graça, pra
+[0:33:52] aulas c de graça, não é?
+[0:33:54] Aproveita que tá de graça, não,
+[0:33:56] é porque eu fui convidado pro podcast, eu quero
+[0:33:58] retribuir pra você de alguma forma, faz
+[0:34:00] sentido, tem lógica,
+[0:34:02] entenderam? O que que é reason why?
+[0:34:04] Se você conseguir embuscar um
+[0:34:06] bom reason why do porquê, alguma coisa
+[0:34:08] e você ancorar isso no, então
+[0:34:10] clica aí, você tem muito mais chance
+[0:34:12] da pessoa clicar, porque agora ela
+[0:34:14] tem um bom motivo, entendeu?
+[0:34:16] Esse é o ponto, eu acho que o galera
+[0:34:18] bom, vamos ver
+[0:34:20] isso aqui vai ser meio no improviso, mas dá pra
+[0:34:22] gente ir escrevendo, então
+[0:34:24] deixa eu ver aqui, ó, vamos lá,
+[0:34:26] vamos começar a escrever algumas coisinhas aqui
+[0:34:28] alguém mais viu
+[0:34:30] aquele vídeo de um médico falando sobre
+[0:34:32] então
+[0:34:34] ângulo de fofoca, a gente pode usar o mesmo ângulo
+[0:34:36] e falar, tipo assim, vocês
+[0:34:38] viram que vazou
+[0:34:40] o vídeo
+[0:34:42] de um médico
+[0:34:44] dizendo que
+[0:34:46] não
+[0:34:48] você viram que vazou um vídeo de um médico
+[0:34:50] e isso aqui já traz um ângulo de fofoca
+[0:34:52] a mesma ideia daqui
+[0:34:54] mas, é isso
+[0:34:59] porra o que aconteceu aqui, essa ideia
+[0:35:01] enfim
+[0:35:03] essa palavra aqui, vazou
+[0:35:05] é muito forte
+[0:35:07] vazou gera muita curiosidade
+[0:35:09] então palavras como vazou
+[0:35:11] exposta, vou expor
+[0:35:13] fulana foi cancelada
+[0:35:15] essas palavras geram muita
+[0:35:17] curiosidade
+[0:35:19] e traz esse ângulo de fofoca, tá bom?
+[0:35:21] vocês viram que vazou um vídeo
+[0:35:23] de um médico falando sobre
+[0:35:25] o que a gente pode copiar
+[0:35:27] o que
+[0:35:29] aqui, a gente pode
+[0:35:31] qualificar
+[0:35:33] mais pra mulheres
+[0:35:35] vocês viram que vazou
+[0:35:37] um vídeo de um médico falando
+[0:35:39] sobre
+[0:35:41] as mulheres, eu colocaria assim
+[0:35:43] que sofrem com
+[0:35:45] e eu copiaria esse queixo
+[0:35:47] de peru
+[0:35:51] e braços clássicos
+[0:35:53] por que eu copiaria? porque alguns termos
+[0:35:55] vão ser difícil, vai ser difícil de nós
+[0:35:57] que somos brasileiros
+[0:35:59] encontrar termos que eles usam
+[0:36:01] e aqui a gente já ficou dois
+[0:36:03] você pode
+[0:36:05] o que você pode fazer?
+[0:36:07] pegar esse queixo de peru
+[0:36:09] pega a versão inglês
+[0:36:11] transcriveria o vídeo
+[0:36:13] pegaria o termo inglês
+[0:36:15] eu não sei
+[0:36:17] eu pegaria esse termo
+[0:36:19] e falaria chat
+[0:36:21] nos estados unidos eles usam esse termo pra se referir
+[0:36:23] a papada
+[0:36:25] existem outros termos que eles usam pra se referir
+[0:36:27] e aí você coloca as coisas de gordinho
+[0:36:29] flacidez no braço
+[0:36:31] flacidez na barriga
+[0:36:33] buchecha
+[0:36:35] gorda
+[0:36:37] perna
+[0:36:39] nas coxas
+[0:36:41] quais são os termos que eles usam pra se referir
+[0:36:43] e aí você coloca um exemplo de um queixo de peru
+[0:36:45] e aí você pode encontrar outras coisas
+[0:36:47] que você pode testar em cópias depois
+[0:36:49] beleza?
+[0:36:51] mas de primeiro momento eu usaria essa de queixo de peru
+[0:36:53] e braços
+[0:36:55] benefícios
+[0:36:57] e dores
+[0:36:59] eu tento sempre usar
+[0:37:01] o mesmo ou muito parecido
+[0:37:03] porque isso é o que tem muito poder
+[0:37:05] então se você trocar
+[0:37:07] talvez perco o poder da copia
+[0:37:09] principalmente quando se fala do gânjup
+[0:37:11] e tá no início ali
+[0:37:13] é chicken arms
+[0:37:15] turketeen e chicken arms
+[0:37:17] tá escrito lá
+[0:37:19] tá no vídeo da japonesinha
+[0:37:21] beleza?
+[0:37:23] aí vocês viram
+[0:37:25] que vazou um vídeo de um médico falando sobre as mulheres
+[0:37:27] que sofrem com queixo de peru e braços
+[0:37:29] clássicos? por que eu falei dessa forma aqui?
+[0:37:31] porque aqui
+[0:37:33] parece uma recomendação de um médico
+[0:37:35] beleza? mas quando eu falo
+[0:37:37] que o médico tá falando sobre essas mulheres
+[0:37:39] algumas mulheres podem ter
+[0:37:41] interpretada a seguinte forma
+[0:37:43] nossa, o que ele tava falando dessas mulheres?
+[0:37:45] parece que ele tá falando das mulheres
+[0:37:47] entendeu? tipo
+[0:37:49] zoando elas, alguma coisa do tipo
+[0:37:51] e aí traz um pouco mais de curiosidade
+[0:37:53] então por isso que eu quis colocar
+[0:37:55] falando sobre as mulheres
+[0:37:57] beleza?
+[0:37:59] e não falando sobre o que você tem que fazer
+[0:38:01] tá? eu coloquei dessa forma aqui
+[0:38:03] pois é
+[0:38:05] aí eu coloquei ele
+[0:38:07] disse
+[0:38:11] disse que elas
+[0:38:13] deixa eu mostrar um negócio pra vocês
+[0:38:15] eu trouxe um documento aqui
+[0:38:17] tá? com alguns recursos
+[0:38:19] pra gente aqui, então esse documento vai ser
+[0:38:21] compartilhado com vocês
+[0:38:23] aqui tem uma descrição do Liposem
+[0:38:25] eu pode deixar lá um rã
+[0:38:27] aqui tem uma descrição de tudo do Liposem
+[0:38:29] tá? inclusive os ingredientes
+[0:38:31] ah cobata, não sei, aqui tá falando de KSM
+[0:38:33] meio astacanda, você pode tranquilamente
+[0:38:35] substituir por
+[0:38:37] cara, aqui eu não colocaria o nome completo
+[0:38:39] talvez eu chamaria
+[0:38:41] eu chamaria de beta calcium
+[0:38:43] tá ligado? beta calcium
+[0:38:45] e BHB
+[0:38:47] e aí no resto da cópia eu só falava BHB
+[0:38:49] porque fica mais de clíquia
+[0:38:51] mais fácil de falar do que esse
+[0:38:53] hidrópsido tirado
+[0:38:55] beleza? você vai escolher um desses ingredientes
+[0:38:57] aqui
+[0:38:59] e vai substituir aqui
+[0:39:01] beleza? então vocês viram que faz um vídeo
+[0:39:03] de um médico falando sobre as mulheres que sofrem com queixo
+[0:39:05] de peru e braço dos plásmios?
+[0:39:07] pois é, eles dizem que a única
+[0:39:09] salvação delas
+[0:39:11] ele disse que a única salvação delas é o
+[0:39:13] e aí a gente pode copiar aqui
+[0:39:15] ó
+[0:39:17] vamos pegar o BHB aqui
+[0:39:21] magnésium BHB a gente vai colocar na verdade
+[0:39:23] porque pelo que eu to vendo BHB quer dizer
+[0:39:25] beta hidróxibutirato
+[0:39:27] todos eles são BHB, tá vendo?
+[0:39:29] então você vai escolher um desses ingredientes
+[0:39:31] pode ser o magnésium e aí a mesma coisa
+[0:39:33] se o cara colocou KSM-6
+[0:39:35] acho que o aganda a gente vai colocar
+[0:39:37] a única salvação delas é o
+[0:39:39] magnésium BHB
+[0:39:41] então
+[0:39:43] BHB
+[0:39:45] ou inglês talvez isso aqui fique tipo
+[0:39:47] BHB
+[0:39:49] magnésium
+[0:39:52] algo assim
+[0:39:54] beleza?
+[0:39:56] então vocês viram que ficou muito parecido
+[0:39:58] eu deixei um pouco mais forte
+[0:40:00] com palavras no tipo vasô
+[0:40:02] pode colocar foi exposto
+[0:40:04] eu trouxe essa ideia do médico parece que
+[0:40:06] ele tá falando das mulheres e não do sintoma
+[0:40:08] não parece que ele vai ajudar muito
+[0:40:10] não parece que ele vai falar a favor delas
+[0:40:12] e aqui
+[0:40:14] eu só deixei mais forte também falando
+[0:40:16] que a única salvação delas
+[0:40:18] é esse BHB magnésium
+[0:40:20] beleza?
+[0:40:22] bom
+[0:40:24] senti que isso foi muito relevante
+[0:40:26] não só pra mim, mas pra minha família
+[0:40:28] especialmente pra minha mãe e minha avó
+[0:40:30] eu deixaria mais forte também
+[0:40:32] colocaria muito parecido com isso aqui
+[0:40:34] mas eu ainda usaria essa
+[0:40:36] ideia de salvação
+[0:40:38] não só relevante
+[0:40:40] mas tipo assim
+[0:40:42] mudou completamente a vida da família dela
+[0:40:44] sabe?
+[0:40:46] eu realmente senti
+[0:40:48] isso realmente
+[0:40:50] esse vídeo realmente
+[0:40:52] salvou a vida
+[0:40:54] a minha vida
+[0:40:56] salvou não apenas a minha vida
+[0:40:58] mas também
+[0:41:00] da minha mãe
+[0:41:04] e da minha avó
+[0:41:06] e o cobata eu colocarei
+[0:41:08] a tipo assim, a váluscia
+[0:41:10] tipo assim, lúcia obviamente não é um nome americano
+[0:41:12] você teria que pesquisar qual que seria
+[0:41:14] mas eu colocarei um nome
+[0:41:16] pra avó pra gerar essa identificação
+[0:41:18] beleza? pra gerar mais proximidade da pessoa
+[0:41:20] beleza?
+[0:41:22] especialmente pra minha mãe e pra minha avó
+[0:41:24] esse vídeo realmente salvou
+[0:41:26] não apenas a minha vida mas também da minha mãe
+[0:41:28] e da minha avó lúcia
+[0:41:30] vamos lá, aqui vai gerar reconhecimento
+[0:41:32] falar de uma, a única coisa
+[0:41:34] é essa e reforçar o mecanismo
+[0:41:36] vamos ver
+[0:41:38] estamos tentando encontrar algo que ajude com isso sem precisar
+[0:41:40] aí a gente pode dar aquela ideia lá, lembra?
+[0:41:42] passamos
+[0:41:44] vamos lá
+[0:41:46] passamos em mais de 10 médicos
+[0:41:48] e todos eles
+[0:41:50] recomendaram
+[0:41:52] aqueles medicamentos
+[0:41:54] aqueles
+[0:41:57] medicamentos
+[0:41:59] prescritos
+[0:42:01] não, aqueles medicamentos
+[0:42:03] cheios de efeitos colaterais
+[0:42:05] ninguém gosta de tomar remédio
+[0:42:07] porque sabem que remédio faz mal pra saúde
+[0:42:09] beleza?
+[0:42:11] e a única coisa
+[0:42:13] que esse doutor
+[0:42:15] recomendou
+[0:42:17] foi o, volta pro
+[0:42:19] B.H.P.
+[0:42:21] magnésimo
+[0:42:23] beleza? então a mesma ideia
+[0:42:25] aqui, está falando
+[0:42:27] pesquisou bastante, tentou várias coisas
+[0:42:29] e toda vez caia nesses medicamentos
+[0:42:31] mesma coisa, passou em mais de 10 médicos
+[0:42:33] e
+[0:42:35] batendo um pouco nessa ideia do medicamento
+[0:42:37] que é cheio de efeito colateral
+[0:42:39] beleza? escolhi
+[0:42:41] especificamente esse produto porque é a forma boa
+[0:42:43] aí aqui vai mostrar o produto, tá?
+[0:42:45] aqui ele mostra o produto
+[0:42:47] mostra o produto
+[0:42:49] você tem que ir acompanhando o vídeo pra ver o que está acontecendo na imagem também, beleza?
+[0:42:53] escolhi
+[0:42:55] especificamente
+[0:42:57] esse produto
+[0:42:59] porque ele é feito, ele é o
+[0:43:01] único
+[0:43:03] cadê?
+[0:43:05] deixa eu ver se ele botou
+[0:43:07] especificidade boa, porque ele é o único
+[0:43:09] feito de, aí você pode colocar algo
+[0:43:11] tipo assim ó, feito de
+[0:43:13] extrato concentrado
+[0:43:15] do BHB magnésimo
+[0:43:17] então é a mesma ideia
+[0:43:19] dessa forma mais pura, potente e não filtrada
+[0:43:21] pode colocar
+[0:43:23] que ele é o único que feito de extrato
+[0:43:25] concentrado de BHB magnésimo
+[0:43:27] e que é duplamente
+[0:43:29] como é que é o nome daquela palavra?
+[0:43:31] não é?
+[0:43:33] pode ser filtrado mesmo
+[0:43:35] filtrado
+[0:43:37] antes de ser encapsulado
+[0:43:39] entenderam?
+[0:43:41] então vocês buscam
+[0:43:43] pode pegar o barilho mercado
+[0:43:45] e pega um monte de caixinha de produto
+[0:43:47] e vê o que as empresas ficam falando
+[0:43:49] Colgate, é a única recomendada
+[0:43:51] por 9 a cada 10 dentistas
+[0:43:53] você pode pegar esses gatilhos
+[0:43:55] que as empresas ficam falando
+[0:43:57] é o único que
+[0:43:59] tem o extrato natural de tal coisa
+[0:44:01] é o único que tem o extrato concentrado
+[0:44:03] que é
+[0:44:05] isso é mais forte, parece mais forte
+[0:44:07] mais efetivo
+[0:44:09] entendeu?
+[0:44:11] isso aqui você pode copiar porque eu não sei
+[0:44:13] tudo isso aqui também, eu não tenho certeza
+[0:44:15] do vegano
+[0:44:17] vocês podem pegar lá no
+[0:44:19] no label do depozen
+[0:44:21] e ver, o não é
+[0:44:23] OGM eu sei que é
+[0:44:25] sem gluten e de origem vegetal
+[0:44:27] eu não sei se ele é 100% vegano
+[0:44:29] então isso aqui a gente pode simplesmente
+[0:44:31] dar um control C
+[0:44:33] e control V
+[0:44:35] opa, o que aconteceu aqui
+[0:44:37] boa
+[0:44:39] aqui
+[0:44:41] o nosso não tem sabor
+[0:44:43] porque é capsula
+[0:44:45] o ideal
+[0:44:47] é para a gente
+[0:44:49] parecer que é fácil de tomar
+[0:44:51] então é quebra da objeção
+[0:44:53] de porra chato
+[0:44:55] de tomar e etc
+[0:44:57] e trouxe a sinistezia
+[0:44:59] o nosso é muito difícil de trazer uma sinistezia com capsula
+[0:45:01] tipo não me vem nada na cabeça
+[0:45:03] que posso falar para a pessoa que vai ser prazeroso
+[0:45:05] tomar a capsula
+[0:45:07] então eu prefiro com a capsula
+[0:45:09] o Luigi
+[0:45:11] você sabe que esse produto aqui do golly é gummy
+[0:45:13] ele está falando de sabor
+[0:45:17] é gummy
+[0:45:19] é gummy né, imaginei
+[0:45:21] então como é gummy, ele fala do sabor
+[0:45:23] porque é a facilidade que o produto tem
+[0:45:25] no nosso a gente tem que forçar que a capsula
+[0:45:27] você pode trazer duas coisas
+[0:45:29] você pode trazer que ela
+[0:45:31] que ela é muito pequena
+[0:45:33] né, é fácil de
+[0:45:35] de engolir
+[0:45:37] ou trazer isso de uma forma do cotidiano dela
+[0:45:39] tipo assim, eu só acordo
+[0:45:41] eu acordo e tomo a capsula de manhã e acabou
+[0:45:43] não preciso fazer mais nada
+[0:45:45] traz a simplicidade, entendeu
+[0:45:47] traz a simplicidade, então tipo assim
+[0:45:49] mostrar na rotina da pessoa como seria isso
+[0:45:51] tipo assim, eu deixo do lado da minha cama
+[0:45:53] com um copo de água, acordei e tomei e acabou
+[0:45:55] você pode colocar isso
+[0:45:57] e você também pode colocar
+[0:45:59] um mecanismo para ser capsula
+[0:46:01] quando você tem gummy
+[0:46:03] o sabor é o seu mecanismo
+[0:46:05] você vai tentar convencer a pessoa de que é melhor
+[0:46:07] porque tem gosto
+[0:46:09] quando é capsula, um mecanismo que você pode usar
+[0:46:11] é que a capsula
+[0:46:13] ela
+[0:46:15] é absorvida pelo corpo muito mais rápido
+[0:46:17] você pode colocar tipo assim
+[0:46:19] eu deixo do lado da minha cama
+[0:46:21] vamos me escrever
+[0:46:23] vendo aqui, a gente vai vendo
+[0:46:25] eu só deixo
+[0:46:27] do lado da minha cama
+[0:46:29] com um copo de água
+[0:46:31] e tomo pela manhã
+[0:46:33] e pronto
+[0:46:36] eu não preciso fazer mais nada
+[0:46:41] e o melhor
+[0:46:43] é que por serem capsula
+[0:46:45] isso aqui não é necessário
+[0:46:47] só que é um a mais
+[0:46:49] só estou buchitando aqui
+[0:46:51] mas que eu testaria, talvez não nesse vídeo
+[0:46:53] mas em algum outro próximo
+[0:46:55] e o melhor é que por serem capsula
+[0:46:57] o BHB
+[0:46:59] a Magnesium
+[0:47:01] é absorvido
+[0:47:06] e bota uma parte do intestino
+[0:47:08] na parte inferior do intestino
+[0:47:10] exatamente
+[0:47:14] onde é mais
+[0:47:16] efetivo
+[0:47:18] agora eu trouxe um poder para capsula
+[0:47:20] agora a pessoa que estava pensando em comprar uma gami
+[0:47:22] ela vai querer capsula, porque porra
+[0:47:24] se é em capsula, vai ser absorvido só lá
+[0:47:26] no intestino
+[0:47:28] na parte inferior do intestino
+[0:47:30] então é lá que o negócio funciona
+[0:47:32] tem que ser em capsula, porque se não for capsula
+[0:47:34] não vai ser absorvido na parte inferior do intestino
+[0:47:36] entende como a gente vai trazendo sempre
+[0:47:38] deixando o nosso produto mais único
+[0:47:40] por mais que todo produto seja uma capsula
+[0:47:42] vão ser capsulas
+[0:47:44] a gente consegue trazer como se fosse um diferente
+[0:47:46] criando essas ideias
+[0:47:48] de local de absorção
+[0:47:50] de potência de absorção
+[0:47:52] no caso deles, o mecanismo deles
+[0:47:54] por ser gami
+[0:47:56] trazer o saborzinho é muito melhor
+[0:47:58] fica muito mais fácil para ele vender
+[0:48:00] beleza?
+[0:48:02] tem usado todos os dias
+[0:48:04] com minha mãe e minha avó nos últimos meses
+[0:48:08] minha mãe e avó Lúcia
+[0:48:10] já estão
+[0:48:14] deixa eu ver
+[0:48:16] também deixaram seus potinhos
+[0:48:20] de liposem do lado da cama
+[0:48:22] nos últimos
+[0:48:24] seis meses
+[0:48:26] novamente trazendo a ideia de uma rotina
+[0:48:29] essa pessoa já está imaginando
+[0:48:31] já está olhando para o lado
+[0:48:33] vendo a escrivaninha dela pensando
+[0:48:35] pulta mano, é ali o potinho vai ficar ali
+[0:48:37] com um copinho de água ali
+[0:48:39] trazendo para a rotina dela
+[0:48:41] você consegue imaginar a vida dela
+[0:48:43] com aquele potinho de liposem
+[0:48:45] na rotina dela
+[0:48:47] posso dizer agora que não tenho mais
+[0:48:49] aquela vontade, agora vem os benefícios
+[0:48:51] posso
+[0:48:53] afirmar
+[0:48:55] ninguém melhor que elas
+[0:48:57] não, teria que trazer o depoimento dela
+[0:48:59] posso dizer agora que não tenho mais
+[0:49:01] aquela vontade de comer doces
+[0:49:05] talvez a gente pode trazer
+[0:49:07] uma pessoa, a avó Lúcia
+[0:49:09] já falou dela
+[0:49:11] e eu fico muito feliz
+[0:49:13] toda vez
+[0:49:15] outra
+[0:49:17] toda vez
+[0:49:19] que a avó Lúcia
+[0:49:23] nem se não diz
+[0:49:25] não sei se a avó seria a melhor pessoa
+[0:49:27] acho muito velha
+[0:49:29] traz muita ideia de velho
+[0:49:31] de poder gerar
+[0:49:33] conexão
+[0:49:35] talvez eu tiraria
+[0:49:37] não vou fazer isso agora, mas em vez de falar da avó Lúcia
+[0:49:39] eu falaria da mãe
+[0:49:41] daria o nome para a mãe
+[0:49:43] mas aqui a gente pode falar dela
+[0:49:45] e
+[0:49:47] minha mãe além de mim
+[0:49:49] minha mãe e a avó Lúcia
+[0:49:54] já
+[0:49:58] deixaram seus potinhos de liposem
+[0:50:00] do lado da câmara nos últimos 6 meses
+[0:50:02] só um dedo que eu faria também
+[0:50:04] em relação a avatar que você vai utilizar
+[0:50:06] se você usar um avatar que já tem ali 30, 40, 50 anos
+[0:50:08] você não vai colocar a avó Lúcia
+[0:50:10] que não vai fazer sentido
+[0:50:12] é isso é outro gente
+[0:50:14] pelo amor de Deus
+[0:50:16] não vai colocar uma mulher de 70 anos
+[0:50:18] falando da avó dela
+[0:50:20] e posso afirmar
+[0:50:22] que toda aquela
+[0:50:24] vontade de doces
+[0:50:26] aquela vontade incontrolável
+[0:50:28] de doces
+[0:50:30] como a gente pode se fazer
+[0:50:32] essa questão do sono
+[0:50:34] aquele cansato
+[0:50:36] excessivo
+[0:50:38] ao acordar
+[0:50:40] e aquelas cedas
+[0:50:42] e a pessoa diabética
+[0:50:44] que a gente tem muita tendência
+[0:50:46] a gente tem muita cedas
+[0:50:53] e a pessoa diabética
+[0:50:55] talvez até aqui
+[0:50:57] ela não comprasse
+[0:50:59] mas ela leu isso aqui
+[0:51:01] do doce e da cedas
+[0:51:03] ela vai comprar
+[0:51:05] deixa muito mais forte
+[0:51:07] mais específico pra esse tipo de pessoa
+[0:51:09] beleza?
+[0:51:11] e também é uma coisa que muita gente
+[0:51:13] eu vejo muita gente
+[0:51:15] é um sintoma comum de muito tipo de doença
+[0:51:17] ced
+[0:51:19] ou sei lá
+[0:51:21] tem muitas coisas que dá pra gente usar
+[0:51:23] mas tem que ser sintomas de dor de cabeça
+[0:51:25] e enxaqueca como eu já falei pra vocês
+[0:51:27] beleza?
+[0:51:29] especificidade mais credibilidade
+[0:51:31] mas aporta
+[0:51:33] coisas pequenas não me irritam mais
+[0:51:35] como a minha irmã entrar no meu quarto
+[0:51:37] agora eu estou muito mais focado
+[0:51:39] eu não colocaria essas coisas de
+[0:51:41] entrar no quarto
+[0:51:43] que seja viral lá nos Estados Unidos
+[0:51:45] sei lá de algum filme
+[0:51:47] e tal, as pessoas pensam muito numa cena dessa
+[0:51:49] mas talvez não seja tanto, acho difícil a gente acertar
+[0:51:51] então eu colocaria mais doce
+[0:51:53] benefício a fazer com o bário
+[0:51:55] pode afirmar que aquela seja a pessoa acabar
+[0:51:57] então aqui eu falei de
+[0:51:59] problemas, dores
+[0:52:01] na verdade aqui
+[0:52:03] é recitando
+[0:52:05] as dores
+[0:52:07] e aqui sim eu começo a apresentar benefício
+[0:52:09] então em vez de... aqui eu falei das dores
+[0:52:11] eu posso falar de dois benefícios, aqui eu falei das coisas ruins
+[0:52:13] que acabaram e agora eu vou falar das coisas boas
+[0:52:15] que chegaram, além de tudo isso
+[0:52:17] além disso
+[0:52:21] eu
+[0:52:23] muito mais focado
+[0:52:25] tenta em tudo que faça no dia a dia
+[0:52:27] além disso
+[0:52:29] hoje eu
+[0:52:31] tenho
+[0:52:33] uma coisa que a gente pode
+[0:52:37] tocar aqui pra
+[0:52:39] dar um benefício secundário muito bom também
+[0:52:41] além disso
+[0:52:43] hoje eu me sinto
+[0:52:45] com
+[0:52:47] muito mais
+[0:52:49] posição
+[0:52:51] até mesmo
+[0:52:55] até mesmo
+[0:52:57] até mesmo pra
+[0:53:02] brincar com o meu marido
+[0:53:04] porque é uma coisa muito boa
+[0:53:06] os maiores
+[0:53:08] os brilhos
+[0:53:10] lindes assim pra vendas
+[0:53:12] né, são ganhar dinheiro
+[0:53:14] renda extra
+[0:53:16] relacionamento
+[0:53:18] emagrecimento
+[0:53:20] e você pode cruzar eles
+[0:53:22] então se você coloca
+[0:53:24] um benefício secundário, um benefício de relacionamento
+[0:53:26] então tipo assim, também pessoas assim no dupe
+[0:53:28] tem problema de libido
+[0:53:30] então você pode colocar isso também
+[0:53:32] que a pessoa se sinta com mais energia
+[0:53:34] até mesmo pra brincar com o marido
+[0:53:36] tem que colocar um termo que não seja pego ali como o algo sexual
+[0:53:38] pelo TikTok
+[0:53:40] então essa parte de brincar, o que você acha Luiz?
+[0:53:42] compliança?
+[0:53:44] cara
+[0:53:49] acho que é de boa mano
+[0:53:51] acho que é de boa porque tem pessoas que já podem brincar
+[0:53:53] eu acho que é de boa
+[0:53:55] a gente vai bastante gente assis de lembro do Luiz
+[0:53:57] exatamente
+[0:53:59] e a palavra brincar com o marido pode ser literalmente brincar
+[0:54:01] pode literalmente ser brincar
+[0:54:03] entendeu, não é algo muito sexual
+[0:54:05] mas se você estiver com recessas
+[0:54:07] pode usar tipo assim
+[0:54:09] principalmente quando eu acordo com o meu marido
+[0:54:11] se é que vocês me entendem
+[0:54:13] é melhor assim dessa forma
+[0:54:15] quando eu acorde
+[0:54:17] ela é muito mais segunda tensão
+[0:54:19] mais direta
+[0:54:21] então vocês podem colocar isso tá pessoal
+[0:54:23] principalmente
+[0:54:25] principalmente
+[0:54:27] quando acordo
+[0:54:29] com o meu marido
+[0:54:31] sabe?
+[0:54:35] e aí bota no vídeo
+[0:54:37] você bota uns emojizinhos
+[0:54:39] daquela luazinha olhando pro lado
+[0:54:41] uns diabinhos sabe?
+[0:54:43] mas parada aí que a pessoa vai entender
+[0:54:45] o que é claro foi disposição
+[0:54:47] e é parte de libido
+[0:54:49] tá?
+[0:54:51] graças ao
+[0:54:53] tudo graças
+[0:54:55] ao BITP
+[0:54:57] Magnesium
+[0:54:59] e também
+[0:55:01] aí você pode colocar
+[0:55:03] um ingrediente secundário
+[0:55:05] deixa eu ver se tem mais algum aqui
+[0:55:07] tá, tô tendo a ver mesmo
+[0:55:09] e também
+[0:55:11] tudo graças ao BITP Magnesium
+[0:55:13] ao
+[0:55:15] BITP
+[0:55:18] Calcium que tem nele
+[0:55:20] porque começa o CTA
+[0:55:22] muito mais simples tá
+[0:55:24] então se vocês ainda não experimentaram
+[0:55:26] por isso
+[0:55:28] é uma frase que eu gosto muito também tá
+[0:55:30] que por isso gera o sentido de conclusão
+[0:55:32] então tudo que eu disse
+[0:55:34] conclui aqui ó
+[0:55:36] por isso você tem que, entendeu? gera uma coesão
+[0:55:38] entre tudo que eu estava explicando até agora
+[0:55:40] beleza? por isso
+[0:55:42] que você, eu não coloquei a você
+[0:55:44] deixa eu ver
+[0:55:47] ainda não
+[0:55:49] experimentaram
+[0:55:51] o poder
+[0:55:53] do BITP
+[0:55:55] Magnesium
+[0:55:59] eu recomendo
+[0:56:01] muito
+[0:56:03] o liposem
+[0:56:07] agora vamos pensar em algum
+[0:56:09] reason why legal pra gente colocar
+[0:56:11] vamos lá
+[0:56:15] por que poderia gerar um desconto
+[0:56:17] o que poderia
+[0:56:19] gerar um desconto
+[0:56:25] ajuda dos universitários alguma ideia legal
+[0:56:27] eu penso em potes que sobraram da Black Friday
+[0:56:29] sobraram alguns potes
+[0:56:31] da promoção de Black Friday por isso
+[0:56:33] eles estão ainda tão
+[0:56:35] estão vendendo
+[0:56:37] pode ser
+[0:56:39] fala em algum
+[0:56:41] um reason why legal aí
+[0:56:43] algo relacionado ao natal talvez
+[0:56:45] é
+[0:56:47] pode ser uma promoção de natal
+[0:56:49] é bem clichê mas
+[0:56:51] eu gosto da problema do momento
+[0:56:53] que é simplesmente um fato
+[0:56:55] o produto que eu vou chegar na TikTok Shop
+[0:56:57] uma promoção de TikTok Shop que eu vou chegar
+[0:56:59] e temporária, limitada
+[0:57:01] esse ângulo eu gosto bastante
+[0:57:03] uma coisa que a gente pode fazer
+[0:57:08] esse produto
+[0:57:10] isso aí está em outro vídeo que eu vi
+[0:57:12] esse produto já é
+[0:57:15] já
+[0:57:17] é viralizado na Amazon
+[0:57:19] já é best seller da Amazon
+[0:57:23] acho que fica melhor né
+[0:57:25] best seller é só para livro
+[0:57:27] funciona
+[0:57:29] acho que é legal
+[0:57:31] esse produto já é o top ranking
+[0:57:33] é top da Amazon
+[0:57:35] mas lá
+[0:57:37] lá eu vi que está mais caro
+[0:57:41] lá o americano usa muito Amazon
+[0:57:43] como eles acabaram de lançar
+[0:57:45] aqui no TikTok Shop
+[0:57:49] ele está com um desconto
+[0:57:51] um cassette
+[0:57:53] um desconto de xx
+[0:57:57] xx%
+[0:57:59] os vírus que você aproveite
+[0:58:03] antes de virar ali daqui também
+[0:58:05] e eles aumentem o preço
+[0:58:08] vou
+[0:58:13] deixar o link
+[0:58:15] aqui no imatio
+[0:58:21] beleza então essa aqui
+[0:58:23] é a análise isso aqui é uma modelagem
+[0:58:25] pessoal isso aqui é uma modelagem
+[0:58:27] bem feita
+[0:58:29] você pode simplesmente pegar
+[0:58:31] a gente vai colocar
+[0:58:33] pega o mesmo script inteiro
+[0:58:35] troca a ksma a joganda por
+[0:58:37] btb magnésil
+[0:58:39] e troca o
+[0:58:41] sei lá o
+[0:58:43] o nome do produto nem fala né
+[0:58:45] nem fala no produto
+[0:58:47] trocar toda hora
+[0:58:49] o ingrediente pelo nosso
+[0:58:51] e se aparecer no produto trocar também
+[0:58:53] pode fazer isso tá
+[0:58:55] eu estava falando dos meninos e isso não dá problema
+[0:58:57] mas
+[0:58:59] eu gosto de você fazer uma modelagem desse tipo
+[0:59:01] aqui
+[0:59:03] se você dominar isso aqui
+[0:59:05] principalmente se você dominar isso aqui
+[0:59:07] irmão
+[0:59:09] você consegue fazer qualquer vídeo
+[0:59:11] você consegue fazer isso pra qualquer nicho
+[0:59:13] você não precisa estudar um nicho
+[0:59:15] antes você não precisa dominar um nicho
+[0:59:17] você tem que ler isso aqui
+[0:59:19] você tem que ler um texto e entender o que
+[0:59:21] ele está falando por trás
+[0:59:23] não que está escrito mas o que ele quer dizer
+[0:59:25] com aquilo
+[0:59:27] é que é um texto ideal
+[0:59:29] é você ver o que ele quer dizer com essas palavras
+[0:59:31] qual é o sentimento
+[0:59:33] a sensação
+[0:59:35] que esse texto aqui traz
+[0:59:37] e você conseguir
+[0:59:39] usar esse mesmo sentimento de uma forma
+[0:59:41] mais forte de uma forma que você julgue
+[0:59:43] mais criativa arranjar um motivo
+[0:59:45] melhor apresentar o benefito de uma maneira
+[0:59:47] mais
+[0:59:49] brilhe mais nos olhos
+[0:59:51] apresentar a dor de uma maneira que doa
+[0:59:53] mais na pessoa que ela sinta mais
+[0:59:55] e ela lê quando ela ouvir
+[0:59:57] isso te dá o poder de
+[0:59:59] escalar, isso te dá o poder de crescer
+[1:00:01] isso te dá o poder de melhorar
+[1:00:03] se você não entender isso aqui você ficar pra sempre
+[1:00:05] copiando e colando
+[1:00:07] você nunca vai tomar uma frente
+[1:00:09] você nunca vai tomar
+[1:00:11] uma frente de alguma coisa, você nunca vai ser o primeiro
+[1:00:13] a lançar uma trend
+[1:00:15] vou dar um exemplo pra vocês
+[1:00:17] a modelagem
+[1:00:19] olha só vou dar um exemplo muito prático pra vocês
+[1:00:21] vocês viram aquele meu vídeo de vestido de cozinheiro
+[1:00:23] aquele ali é o exemplo perfeito
+[1:00:25] de uma modelagem de formato
+[1:00:27] então eu sou o cara que criou
+[1:00:29] o vídeo do cozinheiro, não
+[1:00:31] quem criou isso foi aquele
+[1:00:33] aferto por pique o nome dele
+[1:00:35] mas eu sei que aquele formato dava bom
+[1:00:37] e ninguém no marketing digital tinha usado
+[1:00:39] então eu fui o primeiro a usar
+[1:00:41] depois disso vieram uns 15
+[1:00:43] fazendo vídeo no mesmo formato
+[1:00:45] reparam como meu haipô
+[1:00:47] não, eu entro nos comentários
+[1:00:49] desses vídeos desses caras
+[1:00:51] caralho, pegou do cobata
+[1:00:53] e eu peguei do Artur Pique
+[1:00:55] mas eu peguei só a ideia
+[1:00:57] entende que era de outro nicho completamente diferente
+[1:00:59] isso é uma modelagem
+[1:01:01] a mesma coisa da ampulheta
+[1:01:03] o próprio Hikaru de Carvalho falou porra
+[1:01:05] depois que o cobata fez um vídeo virando uma ampulheta
+[1:01:07] um monte de gente começou a fazer vídeo rios
+[1:01:09] e criativo com a ampulheta
+[1:01:11] só que o cara não entendeu
+[1:01:13] que o diferencial não era ampulheta
+[1:01:15] o cara não sabe fazer uma modelagem
+[1:01:17] porque o diferencial não era porcaria da ampulheta
+[1:01:19] o grande diferencial daqueles rios
+[1:01:21] é porque eu estava associando
+[1:01:23] a minha cópia escrita
+[1:01:25] com a minha imagem
+[1:01:27] esse era o diferencial que ninguém conseguiu modelar
+[1:01:29] então eu trazia
+[1:01:31] uma prova visual
+[1:01:33] para colocar na minha escrita
+[1:01:35] eu estava vestido
+[1:01:37] de cozinheiro falando sobre uma receita
+[1:01:39] que era a receita do low ticket na gringa
+[1:01:41] eu estava
+[1:01:43] falando sobre tempo
+[1:01:45] mostrando uma ampulheta
+[1:01:47] e esse princípio
+[1:01:49] o cara não entendeu
+[1:01:51] se ele tivesse feito isso aqui
+[1:01:53] e falado
+[1:01:55] eu associei, entendi porque ele pôs essa imagem
+[1:01:57] com esse texto
+[1:01:59] agora eu posso fazer o mesmo de outra forma
+[1:02:01] e aí você cria uma nova tendência
+[1:02:03] é assim que funciona
+[1:02:05] é assim que você cria que você vai conseguir viralizar muito forte
+[1:02:07] se você quiser
+[1:02:09] pegar o texto do cara
+[1:02:11] e dar só um tapimbo de algumas coisas
+[1:02:13] também não tem problema
+[1:02:15] e vai ter variedade
+[1:02:17] e quando você entende isso, por exemplo
+[1:02:19] uma coisa que você vai começar a brincar depois, prestem atenção
+[1:02:21] a gente vai pedir para vocês fazer
+[1:02:23] variações do mesmo script
+[1:02:25] variação principalmente de edição
+[1:02:27] mas você também pode variar
+[1:02:29] coisas como isso aqui
+[1:02:31] entenderam?
+[1:02:33] papada geralmente, aqui no pescoço
+[1:02:35] puxecha
+[1:02:37] pelanca de braço
+[1:02:39] coxa
+[1:02:41] lateral da barriga
+[1:02:43] miga
+[1:02:45] tudo isso existe em alguns termos
+[1:02:47] por exemplo, no brasil a gente chama de pochetinha
+[1:02:49] aqui na frente, a pochetinha
+[1:02:51] você descobre qual é o termo que os americanos usam
+[1:02:53] e aí você pega o mesmo script
+[1:02:55] e troca aqui para o pochetinha
+[1:02:57] aqui do lado a gente chama de pneuzinho
+[1:02:59] então você pega o mesmo script
+[1:03:01] e você troca aqui por pochetinha e pneuzinho
+[1:03:03] e talvez esse novo viralize muito mais
+[1:03:05] e não te deu trabalho nenhum
+[1:03:07] mas você entendeu por que você trocou isso
+[1:03:09] porque aqui você tinha que apontar dores
+[1:03:11] e você fica sem imunitação
+[1:03:13] isso é o importante
+[1:03:15] é você entender o que você está fazendo
+[1:03:17] por que você está fazendo isso
+[1:03:19] e não só copiar e colar
+[1:03:21] vocês entendem?
+[1:03:23] porque quando você conseguir fazer essa coluninha
+[1:03:25] aqui do meio
+[1:03:27] entender exatamente o que a pessoa quis dizer
+[1:03:29] com cada frase ali colocada
+[1:03:31] algumas palavras inspecíveis
+[1:03:33] você pergunta por que falou do scuby
+[1:03:35] por que falou isso? por que ele falou que é super fácil de tomar?
+[1:03:37] você pergunta
+[1:03:39] e você fala que é um crítico
+[1:03:41] por que?
+[1:03:43] porque ele falou isso
+[1:03:45] entendeu por que? agora você também consegue fazer o seu
+[1:03:47] e aí um script você consegue fazer 10 vídeos
+[1:03:49] assim
+[1:03:51] não é difícil

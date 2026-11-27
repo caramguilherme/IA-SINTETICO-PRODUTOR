@@ -19,7 +19,7 @@
 | 9. CTA | 12:09 | lida (27/11 15h12) |
 | 10. Ângulos que convertem | 11:25 | lida (27/11 15h12) |
 | 11. Estilos e formatos | 4:47 | lida (27/11 15h16) |
-| 12. Estrutura invisível e modelagem | 1:03:58 | transcrevendo (é a live "DIA 1 – Modelagem de Copy c/ Kobata! [LIPOTREND]", no Discord da Mentoria Viral Milionária) |
+| 12. Estrutura invisível e modelagem | 1:03:58 | lida (27/11 15h35; a live "DIA 1 – Modelagem de Copy c/ Kobata! [LIPOTREND]") |
 
 ---
 
@@ -343,4 +343,59 @@
 
 ### Muda o pacote de hoje (nora82 a nora84)?
 **Não.** O formato do nora81 (a Nora falando em casa, com o objeto na mão) é o que acertou.
+
+---
+
+## Aula 12: Estrutura invisível e modelagem (1:03:58; a live "DIA 1 – Modelagem de Copy c/ Kobata! [LIPOTREND]")
+
+### O que é
+O Kobata pega um vídeo de TikTok Shop que vendeu: uma moça falando de uma goma de ashwagandha, com a caixa "Doctor talks about the solution for turkey neck & chicken arms". Ele monta a tabela de 3 colunas (o **texto**, o **significado** e a **escrita**) e reescreve frase por frase para o produto deles (o Liposem, de emagrecimento). **É o mesmo método das skills `estrutura-invisivel-copy` e `modelar-copy-vencedora`, instaladas aqui em 23/11 e usadas na mineração.**
+
+### O que serve (as técnicas, na ordem do vídeo)
+- **"Copy é psicologia":** saber o que cada palavra gera em quem ouve (1:13 a 4:10). Olhar os virais perguntando "por que ele falou isso?" (4:10 a 4:49; 1:03:23 a 1:03:51).
+- **O ângulo da fofoca:** "Alguém mais viu aquele vídeo de um médico falando sobre…" (9:45 a 11:12). Traz intimidade ("como um amigo te contando") e curiosidade ("que vídeo é esse? por que eu não vi?"). Palavras como "vazou", "foi exposta" e "foi cancelada" fazem o mesmo (34:28 a 35:21).
+- **A qualificação, ou segmentação:** a dor dita com o nome do público ("turkey neck", "chicken arms") faz quem não é o público pular, "e tudo bem: a preocupação é converter quem chega no fundo" (11:28 a 12:57). "Para minha mãe e minha avó" segmenta para as mais velhas (14:59 a 15:21).
+- **O mecanismo:** o ingrediente que diferencia, mesmo quando todos têm ("a única triplamente filtrada", 13:05 a 14:12; 18:40 a 20:57).
+- **O rapport:** "eu já estive no seu lugar" (16:34 a 17:26).
+- **"The one thing", a única coisa:** "a única coisa que ele recomendou". Um caminho só deixa a decisão em sim ou não; com vários caminhos, ela não compra nenhum (17:26 a 18:21).
+- **A quebra de objeção** (21:12 a 21:47) e **a sinestesia:** "tem o gosto dos Scooby Snacks", um sentido acordando outro (21:49 a 23:47).
+- **Os benefícios do dia a dia, indiretos e secundários** (24:25 a 28:34): "não é para colocar 'vai perder peso'… é a vontade de doce, o sono". Benefícios além da promessa principal.
+- **A especificidade gera credibilidade e rapport:** "minha irmã entra no meu quarto e não fecha a porta… ninguém inventaria uma coisa dessa" (26:00 a 27:24).
+- **O reason why**, de novo com o estudo da fila (29:17 a 34:16). "**Por isso**" é a palavra que amarra o que foi dito antes do CTA (55:24 a 55:40).
+- **A rotina no futuro:** "deixo do lado da minha cama com um copo de água" faz ela se imaginar com o produto (45:37 a 48:45).
+- **As palavras da dor ficam as nativas, em inglês:** "turkey neck, chicken arms… eu tento sempre usar o mesmo ou muito parecido, porque isso é o que tem muito poder… principalmente no gancho" (35:51 a 37:21). Para achar outras, pergunte à IA quais termos os americanos usam.
+- **Um roteiro vira 10 vídeos:** troque só as palavras da dor ("pochetinha", "pneuzinho") e mantenha o resto. "Talvez esse novo viralize muito mais e não te deu trabalho nenhum" (1:02:15 a 1:03:51). E: "a gente vai pedir para vocês fazerem variações do mesmo script, variação principalmente de edição" (1:02:19 a 1:02:31).
+- **A modelagem de formato:** o vídeo dele vestido de cozinheiro e o da ampulheta, em que "o diferencial era associar a minha copy escrita com a minha imagem", uma prova visual da palavra (1:00:15 a 1:02:05).
+
+### O que não serve (HONESTIDADE e a linha de 27/11)
+- **A mãe e a "avó Lúcia" que tomam o produto há 6 meses**, os "mais de 10 médicos", o "best seller da Amazon", o "duplamente filtrado" que ele não sabe se é verdade (40:22 a 58:21). São depoimentos, credenciais e fatos inventados sobre o produto, fora pela HONESTIDADE e pela linha de 27/11 15h05. O lençol do "hotel que faliu" ele mesmo chama de golpe (31:32 a 32:42).
+- **O que é de suplemento:** a cápsula, o sabor e a absorção no intestino.
+
+### Na Nora
+- **A tabela de 3 colunas** é a que já fazemos na mineração (`ESTRUTURA-INVISIVEL.md` de 23/11). Fica.
+- **As palavras nativas:** o pacote já usa as palavras do nicho americano, como "blessings", "abundance", "aligned", "the universe saw your faith", "be very careful" e "Archangel Michael". Elas vêm das contas da Auraly (a receita da maioria). **Regra que a aula confirma: na cópia, as palavras da dor e do desejo ficam as delas, nunca traduzidas por mim.**
+- **"Um roteiro, 10 vídeos":** é o pacote de hoje (o mesmo texto, com outra roupa e outro cômodo) e o teste da persona (trocar só a 2ª frase). Bate com a receita da maioria e com a regra de 24/11 (no Insta, cada post gerado de novo).
+- **O ângulo da fofoca como Take 1:** "Did anyone else see what Archangel Michael showed me last night?" ou "Did anyone else get the message from yesterday?". É curiosidade dentro da narrativa, sem inventar fato sobre o produto. **Vai para a `FILA`** como opção de Take 1, no dia de testar o gancho.
+- **A prova visual da palavra** (o cozinheiro, a ampulheta): é o mesmo princípio do multi-ângulo (o objeto da frase na frente dela) e do "visual mais forte" da aula 6.
+- **"Por isso" antes do CTA:** o pacote já usa ("That's why I left…").
+
+### Muda o pacote de hoje (nora82 a nora84)?
+**Não.** O pacote já usa as palavras nativas, a especificidade ("tomorrow at ten in the morning"), o "the one thing" (a leitura no story) e o "that's why". A fofoca vai para a `FILA`.
+
+---
+
+## Resumo das 12 aulas para o pacote de 27/11
+**A única mudança no nora82, no nora83 e no nora84 é a estátua de São Miguel inteira, à esquerda dela, desde o 1º quadro, como no nora81** (aula 6: "a primeira imagem… é mais importante até mesmo do que a fala"). A fala, a legenda e a edição seguem o pacote do nora81.
+
+**O que as aulas mandaram para a `FILA`:**
+- a 2ª frase com o momento de uma persona (aulas 4 e 7);
+- a promessa leve × a forte (aulas 2 e 7);
+- sem pedido de engajamento × os selos (aula 9);
+- o ângulo do relacionamento (aula 10);
+- o visual mais forte no 1º quadro (aula 6);
+- a frase "de pessoa comum" (aula 3);
+- a fofoca no Take 1 (aula 12);
+- o podcast (aula 11);
+- o mecanismo da frequência (aula 8);
+- a busca da palavra arriscada (aula 1).
 
