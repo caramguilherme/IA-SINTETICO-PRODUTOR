@@ -1319,6 +1319,24 @@ no insta tava tudo travado entre 120 e 250 desde 10/11, mas o video de hoje de m
 quando um video destrava assim, oq vc repete nos proximos: a mesma copy com outra roupa e cenario, ou outra coisa?
 ```
 
+**[27/11 16h30, o aniversário dele (e do aluno: "hj é niver do gustavo alves, e hj é meu niver tb kkkkk"). Na thread do anúncio "FELIZ ANIVERSÁRIO, GUSTAVO!" no Discord, os parabéns, curtos; na DM, os parabéns + a volta com resultado (a versão final de 12h25, sem mudar nada). Conta como enviada.]**
+Na thread do anúncio:
+```
+parabens gustavo!! hj é meu niver tb kkkk
+muito obg por tudo, a mentoria de segunda ja ta dando resultado
+```
+Na DM (uma mensagem só):
+```
+fala gustavo, feliz aniversario mano!! coincidencia, hj é o meu tb kkk
+aproveitando, voltando com resultado da mentoria de segunda (23/11)
+segui oq vc falou (casa simples, avatar menos mistica) e mexi no body: testei o body que mais se repete nas contas do nicho contra um mais leve
+no face o body da maioria foi pra 4,5 mil e 3,6 mil views, o leve ficou em 277. e saiu minha 1ª venda, do face
+no insta tava tudo travado entre 120 e 250 desde 10/11, mas o video de hoje de madrugada foi pra 1,3 mil em 9h, com 17 compartilhamentos e 17 salvos. mesmo body, com 2 frases curtas no meio pra segurar ("now, this part matters")
+quando um video destrava assim, oq vc repete nos proximos: a mesma copy com outra roupa e cenario, ou outra coisa?
+sem pressa pra responder, curte o dia!
+```
+**De onde vem cada número:** os mesmos da versão de 12h25 (`METRICAS-NORA-LEIA.md`, 26/11 10h05 e 27/11 12h20: nora76-FACE 4.516, nora77-FACE 3.625, nora78-FACE 277, o nora81 com 1.352 em ~9 h, 17 compartilhamentos e 17 salvos).
+
 **Ao Pedro⚡ (DM; volta com o resultado da dica da bandeira, de 16/11 11h38):**
 ```
 fala pedro, tudo certo?
