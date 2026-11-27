@@ -12,7 +12,7 @@
 | 2. Os pilares da conversão | 11:49 | lida (27/11 13h55) |
 | 3. Audiência | 14:32 | lida (27/11 14h12) |
 | 4. Personas | 9:33 | lida (27/11 14h33) |
-| 5. AIDA | | falta o link |
+| 5. AIDA | 7:40 | lida (27/11 14h36) |
 | 6. Ganchos | | falta o link |
 | 7. Frases de transição | | falta o link |
 | 8. Mecanismo único | | falta o link |
@@ -162,4 +162,31 @@
 
 ### Muda o pacote de hoje (nora82 a nora84)?
 **Não.** O pacote já tem o momento da mulher deitada com o celular na mão e as letras do nome, que são o "foi para mim". As personas entram como teste, não hoje.
+
+---
+
+## Aula 5: AIDA (7:40)
+
+### O que serve
+- **O AIDA não é um roteiro, é um princípio** (0:24 a 1:09): **A**tenção, **I**nteresse, **D**esejo e **A**ção. Os exemplos dele são a propaganda de TV e o massageador de costas no feed:
+  - **a atenção:** uma pergunta ou uma imagem que para quem tem o problema ("está sentindo dores nas costas?");
+  - **o interesse:** a dor, o benefício ou a situação de vida dela, o que liga com as personas da aula 4;
+  - **o desejo:** o produto, como ele age, por que é diferente, e a pessoa se imagina com o alívio;
+  - **a ação:** o CTA.
+- **Vídeo de 5 a 7 s que vende "pode acontecer"**, mas para ter constância é preciso o princípio inteiro (5:10 a 5:55). Bate com os falados de 40 a 60 s (Clone R54; aula 28).
+- **"O mais importante é o primeiro: a atenção"** (6:00 a 7:27): "a atenção é o maior ativo que existe". Onde pôr mais tempo e estudo: **"a primeira frase, a primeira imagem, o primeiro som"**. As próximas aulas dissecam cada letra.
+
+### Na Nora (o pacote do nora81 pelo AIDA)
+- **A:** as letras do nome com o "be very careful" (a 1ª frase), a Nora com a carta e a estátua desde o 1º quadro (a 1ª imagem) e a música desde o 1º quadro (o 1º som).
+- **I:** a mulher deitada com o celular na mão, a mensagem do Arcanjo, "Now, this part matters." e a data.
+- **D:** o futuro que ela quer, com o dinheiro, a pessoa, a vitória, as correntes quebrando, as portas abrindo e a notícia às 10. **O produto não entra, como manda a pesquisa oficial** ("NUNCA NO VÍDEO: … explicar o produto ou listar benefícios"). Quem faz o papel do "por que é diferente" é o mecanismo do CTA: "this change only happens for women whose energy is aligned with abundance".
+- **A:** "That's why I left a quick reading in my stories…" e "tap my profile picture".
+
+  O "desejo" pelo produto, que o Kobata descreve, é o que a VSL faz depois do clique. A Nora vende o clique, não o produto: é a mesma regra do briefing do Risely ("o vídeo vende só o clique").
+
+### O que não serve
+- Os exemplos de TV e de massageador, e o TikTok Shop.
+
+### Muda o pacote de hoje (nora82 a nora84)?
+**Não.** O pacote já tem as 4 letras, e a atenção (a 1ª frase e a 1ª imagem) é a parte que o nora81 acertou: 55% nos 3 s, contra 44% do nora80. "O primeiro som" é a música desde o 1º quadro. O riser e o impact da abertura saíram junto com o pré-gancho (17/11), e não proponho a volta.
 

@@ -913,3 +913,93 @@ Na tela: o Kobata falando, com textos da edição ("UMA PESSOA" ~0:25, "SÃO PES
 [0:09:28] Não tem outra opção.
 [0:09:29] Tá bom?
 [0:09:30] Vamos para a próxima aula agora.
+
+## Aula 5: AIDA (7:40; embed v=f97fce2b-5702-40e7-9123-fcfbaf800796)
+
+Na tela: o Kobata falando, com textos da edição ("MAIOR PRINCÍPIO DE MARKETING" ~0:04, "E AÍ ELA FAZ UM CTA / CHAMADA PRA AÇÃO" ~3:05). O Whisper escreveu "IDA" onde ele diz "AIDA".
+
+[0:00:04] pessoal agora eu vou ensinar pra vocês o maior princípio de marketing que existe na história tá
+[0:00:12] o que eu vou ensinar pra vocês é a raiz do marketing quando vocês entenderem exatamente
+[0:00:19] que ele funciona esse princípio vocês conseguem vender em qualquer canal de comunicação em qualquer
+[0:00:24] ferramenta isso aqui é o princípio geral do marketing chamado IDA eu vou explicar pra vocês
+[0:00:30] o que que é o IDA o IDA não é um script o IDA não é um framework não é uma sequência o IDA é um
+[0:00:39] princípio são princípios na verdade né são quatro letras a e d e a então afinal o que o que são essas
+[0:00:47] letras o que elas significam e porque elas são tão importantes para o marketing IDA quer dizer o
+[0:00:53] IDA quer dizer atenção o e significa interesse o de significa desejo e o a significa ação isso aqui
+[0:01:02] essas quatro letras elas ditam todo o funcionamento de qualquer processo de vendas beleza então vamos
+[0:01:10] dar um exemplo aqui num produto de televisão ao propaganda da televisão se tá assistindo a
+[0:01:14] Ana Maria Braga e aparece uma pessoa lá num balcãozinho dela pra pra fazer a propaganda dela né
+[0:01:20] o primeiro momento é a atenção essa atenção é o a do nosso IDA e vai ser um momento em que ela
+[0:01:26] vai se apresentar que ela vai chamar atenção da pessoa né geralmente esses vendedor benche um bem
+[0:01:32] tradicionalzão eles começam a frase de atenção com uma pergunta né está sentindo dores nas costas
+[0:01:37] está no seu que ela passando por tal situação isso é uma atenção tá chamando a atenção da
+[0:01:41] pessoa percebe então todo um exemplo bem esruxo de uma propaganda de televisão que não tem nada a
+[0:01:46] ver mas que pra vocês verem como o marketing funciona pra tudo esse princípio funciona
+[0:01:49] depois ela parte pro interesse que é quando ela agora que ela chamou sua atenção ela tem que fazer
+[0:01:54] você se interessar em ver o que ela tem a dizer ela tem que você tem que se interessar pelo menos
+[0:01:59] ao ouvir ela ao ver o que ela tem a dizer então ela fala de um por um ador sua ela fala de um
+[0:02:05] benefício que você deseja ela fala de alguma situação que está passando na vida e aí ela
+[0:02:09] capta sua atenção ela ela capta o seu interesse agora você quer ouvir o que ela tem a dizer
+[0:02:13] depois no desejo geralmente é quando ela apresenta o produto quando ela fala assim já que
+[0:02:17] ela mostra a atenção apresentou um problema que você tem falou de uma situação de vida que
+[0:02:21] você passa você criou esse interesse agora ela vai fazer você criar o desejo pelo produto dela e
+[0:02:26] como que esse desejo se cria ela traz esse produto de uma forma tentada na sua cabeça então
+[0:02:32] existem várias formas de construir isso tá mas ela vai criar esse desejo mostrando esse
+[0:02:37] produto mostrando como ele age mostrando porque ele funciona porque que ele é diferente e
+[0:02:42] que ele tem que os outros produtos não tem e aí quando isso acontecer agora que ela chama
+[0:02:46] seu amigo agora que ela chamou sua atenção agora que elas que você se interessou pelo assunto
+[0:02:50] que ela tava trazendo ela demonstrou que te conhece ela falou de um problema seu ela falou de uma
+[0:02:54] situação de vida sua ela apresentou um benefício seu agora ela te apresenta um produto então
+[0:02:59] agora você começa a querer esse produto porque ela chamou minha atenção ela sabe quem ela
+[0:03:03] tá falando ela tá falando comigo ela falou de algo que eu vivo e esse produto aqui
+[0:03:07] soluciona isso e aí ela faz um cta que é a chamada pra ação que no nosso caso é o
+[0:03:12] cta que é ação então a atenção e interesse de desejo e por fim ela chama pra ação na
+[0:03:19] televisão geralmente é liga nesse número que tá aqui embaixo faz o seu pedido e isso na
+[0:03:23] televisão entenderam vamos pensar agora em outro funil pra vocês captarem ainda mais
+[0:03:26] vamos pensar naquele quando você vê um produto sei lá você vê um massagerador de costas
+[0:03:32] um massagerador de costas aparece no seu no seu feed né no seu instagram o seu tiktok e
+[0:03:37] supondo que você tem uma pessoa que fica muito tempo sentada às vezes daquela dona coluna
+[0:03:41] assim você se interessa aí eles botam a imagem de um cara todo corcunda põe o massagerador
+[0:03:46] e a coluna dele fica reta isso é a atenção essa imagem chama atenção não é que a gente sabe
+[0:03:51] que isso não vai acontecer mas chama sua atenção alguém que passa por esse problema foi chamada
+[0:03:54] atenção depois ele mostra o interesse aí ele começa a falar sobre os problemas que aquilo
+[0:03:59] ali se soluciona se você tem hérnia de disco se você passa 18 ou 12 horas sentado na
+[0:04:04] frente de computador às vezes se você é o uber entende como ele tá atacando
+[0:04:08] as pessoas que a gente acabou de aprender na última aula criando esse interesse o cara
+[0:04:12] que é o uber o cara que trabalha na frente de computador que nem a gente ele vai falar
+[0:04:15] opa deixa eu ver o que esse cara que que esse prônio tinha aqui parece interessante
+[0:04:19] estou com as costas voando pra caramba que aí ele cria o desejo é só sei lá sinta modeladora
+[0:04:25] de coluna que a gente criou ela age é relaxando os músculos em volta da coluna vertebral
+[0:04:32] e por isso a sua hérnia fica mais tranquila os seus nervos ficam descomprimidos e aí
+[0:04:37] a sensação de alívio aquela sensação e aí começa a pintar na sua cabeça o que você
+[0:04:42] gosta aquela sensação de alívio de dor a pessoa que está passando pela dor ela começa a
+[0:04:45] imaginar isso caraca vei por esse produto aí nossa ele ia solucionar minha vida eu estou com
+[0:04:50] essa dura que agora entende desejo e por fim a ação a ação vai ser você ir lá pro
+[0:04:55] site deles na loja e comprar entenderam esse é um princípio de aida vocês viram que
+[0:04:59] mercados totalmente diferentes propaganda de televisão e anúncio na internet de um produto
+[0:05:03] de todas e o princípio se mantém é a atenção o interesse o desejo e a ação tá então basicamente
+[0:05:10] esses são os quatro pilares do aida em que você precisa definir cobata mas eu vejo de lá lá no
+[0:05:16] TV talk shop eu vi gente que fez vídeo de 7 segundos 10 segundos e vendeu milhares de dólares pode
+[0:05:21] acontecer pode acontecer porque eu te toco uma ferramenta que entrega muito e os Estados Unidos
+[0:05:25] tem muito público viciado em comprar então pode acontecer mas se você quer ter mais chances
+[0:05:31] de você estar se você quer ter constância nos seus ganhos mesmo que não seja um vídeo que
+[0:05:36] vai explodir mas que você acerte vários vizinhos que te dão uma renda que vários deles fazem algumas
+[0:05:42] vendas e isso gera uma recorrência e começa a ver dinheiro de várias lugares você precisa
+[0:05:46] entender esses princípios não adianta que acertar a sorte fazer um vídeo de 5 segundos 7
+[0:05:50] segundos cruzar os dedos e falar tomar aqui venda tá então nós vamos aprender como a gente
+[0:05:55] vai conseguir trazer esses princípios do aida pra dentro dos nossos vídeos pra gente conseguir
+[0:06:00] ter dentro do tiktok shop beleza uma coisa que precisa ficar muito claro pra você tá dentro
+[0:06:06] desse princípio do aida o principal o mais importante é o primeiro a atenção hoje atenção é o
+[0:06:16] maior ativo que existe na terra quem mais ganha dinheiro no mundo são as pessoas que têm
+[0:06:22] atenção consequentemente a atenção é o valor mais caro que existe por isso que a gente
+[0:06:29] vai trafegar por isso que as empresas pagam para ter a propaganda elas pagam milhões de reais
+[0:06:36] pensa que as empresas patrocina big brother elas pagam dezenas de milhões de reais para só chegar
+[0:06:43] lá no big brother e falar eu sou empresa tal só isso porque ela tá pagando pela atenção tá então
+[0:06:50] atenção é o ativo mais caro e mais valioso que existe no mundo é por isso que influenciadores
+[0:06:56] de dinheiro porque eles têm atenção as páginas de fofoca têm atenção beleza e pra nós não é
+[0:07:02] diferente então o seu foco dentro do aida o principal que nós vamos enfatizar e que você tem que
+[0:07:09] mandar mais tempo pra conseguir desenvolver pra se aprimorar pra melhorar e pra estudar quando
+[0:07:15] você estiver pesquisando os vídeos mais virais os mercados públicos é o começo é o que chama
+[0:07:21] o vídeo é a primeira frase é a primeira imagem é o primeiro som isso é o mais importante tá nas
+[0:07:27] próximas aulas a gente vai eu vou dissecar o aida como você vai fazer o aida aplicar o aida dentro
+[0:07:34] do seu vídeo explicando cada uma das letras e qual é o melhor jeito de fazer
