@@ -388,3 +388,19 @@ A transcrição está no mesmo arquivo, no "2º lote". Os 15 vieram com som. 4 f
 - **A imagem forte do s01 fica fora:** é sofrimento de pessoa real e choque, o que vai contra a segurança da Página e o tom da Nora. O equivalente seguro é o "visual mais forte no 1º quadro" que já está na `FILA` (aula 6 do Kobata).
 - **O "comment flower" e o "comenta análise"** são isca de engajamento: no Face, nunca; no Insta, o pedido de comentário já muda a cada post.
 - **O s02 é uma tarefa de 2 minutos para o aluno:** abrir no Insta da Nora (pelo celular do GeeLark) o Painel profissional → Boas práticas → Alcance e mandar o print. É o que o Insta recomenda para esta conta: quantos vídeos, o melhor horário e as views dos Reels recentes. Isso serve de comparação para a grade de 3 por dia. Não é login novo nem ação na conta, só leitura.
+
+### O "Best practices → Reach" do Insta da Nora (prints do aluno, 27/11 ~16h45; `print-2711-*.jpg`)
+- **O caminho em inglês:** perfil → Professional dashboard → Best practices (os cartões Creation, 14 vídeos; Engagement, 7; Reach, 6; Monetization, 4; Guidelines, 5) → Reach.
+- **O único número da conta:** "Your recent reels got 32K views. Nice! That's more views than you usually get within a month." Bate com o CSV: a soma das views dos Reels postados de 28/10 a 27/11 dá ~31,8 mil, quase toda de outubro (16,7 mil em novembro e 8,3 mil desde 13/11). O "mais que o normal num mês" é a comparação do próprio Insta, sem dizer com qual mês.
+- **As 5 dicas, genéricas, iguais para qualquer conta:**
+  - (1) o conteúdo elegível vai para quem não segue, e cresce conforme essa plateia engaja;
+  - (2) postar quando os seguidores estão ativos;
+  - (3) olhar o crescimento de seguidores no longo prazo;
+  - (4) é normal o alcance variar;
+  - (5) collab com outros criadores leva o post a uma plateia maior.
+  
+  Embaixo, 3 vídeos ("How the algorithms work", "Content performance explained", "What followers s…").
+- **O "até quantos vídeos você deveria postar" do vídeo da @jessicaporfino não aparece nesta conta.** Nada muda na grade.
+- **A dica (2) não serve à Nora:** 98% das views vêm de quem não segue (nora73), e o horário da Nora sai da Índia (R37), não dos ~170 seguidores.
+- **A dica (5), collab, foi para a `FILA`.**
+
