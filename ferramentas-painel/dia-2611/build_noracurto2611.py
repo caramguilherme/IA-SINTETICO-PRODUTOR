@@ -59,8 +59,9 @@ VID = ('Use the attached image as the first frame. Real casual 6-second video fr
 MUSE = ('Generate exactly ONE video clip, only one version, vertical 9:16, about 6 seconds, using the attached image as the first frame. She does not speak in this clip. '
         'Name it ' + CLIPE + '. Follow the prompt exactly as written. Prompt: ' + VID)
 
-TOPO = 'Can you stop me\ninside the [line]? 👀'
-CERTO = 'You did it ✨\nYour 2027 reading is waiting in [my story]'
+# 26/11 ~21h20 (o aluno: a silhueta em volta do corpo e a mensagem noutro lugar, "igual o vídeo que eu te mandei"): os textos do v07 e do v21 do Robert
+TOPO = 'Only [1%] can pause\nat the right time!'
+CERTO = 'YOU DID IT! 🎉\nYour 2027 reading is in [my story] 🔮'
 INSTA_RESP = ['You got it ✨ your 2027 reading is waiting in my story 🔮', 'Haha it takes a few tries 💛 tap my photo, your reading is in my story',
               'You stopped me ✨ check my story before you go', 'So glad this found you 💫 tap my photo for your reading', 'I see you 🙏 your next step is in my story']
 
@@ -71,9 +72,9 @@ def montar():
     p = {
         'enxuto': True, 'clipe_unico': True, 'ocultar_bloco_agente_imagem': True,
         'perfil': base['perfil'], 'trava_referencia': base['trava_referencia'], 'figurino': ROUPA, 'excecao_estilo': '',
-        'roteiro': {'id': 'noracurto2611-DESAFIO-PAUSAR', 'titulo': 'noracurto2611 · 26/11 · o desafio de pausar (~6 s, sem fala): só no Insta, às ~23h',
+        'roteiro': {'id': 'noracurto2611-DESAFIO-PAUSAR', 'titulo': 'noracurto2611 · 26/11 · o desafio de pausar (~4,5 s, sem fala): só no Insta, às ~23h',
                     'duracao_total': 6,
-                    'descricao_instagram': ("Can you stop me inside the line? 👀 If you did, your private reading is waiting in my story 🔮\n"
+                    'descricao_instagram': ("Only 1% can pause at the right time 👀 If you did, your private reading is waiting in my story 🔮\n"
                                             'Tell me how many tries it took you 👇\n#manifestation #2027 #lawofattraction #angelnumbers'),
                     'descricao_face': '(não vai ao Face: o desafio é só do Insta, decisão de 25/11; vídeo sem fala fica fora do Face)'},
         'refs': [FOLHA + ' (só ela, nas 2 imagens)'],
@@ -104,9 +105,10 @@ def montar():
         'pre_gancho': {
             'titulo_secao': 'Clipe (~6 s, sem fala)', 'duracao': 6, 'tomadas': 1, 'com_rosto': True, 'nome_video': CLIPE,
             'conceito': ('O desafio de pausar (Robert, v07 e v21: quem tenta pausar no quadro certo assiste várias vezes, o tempo médio passa a duração do vídeo e o Insta '
-                         'empurra). A Nora anda rápido pelo caminho de um jardim; um pontilhado fixo no meio da tela; no topo, "Can you stop me inside the line? 👀". Só nos '
-                         'quadros em que ela está dentro do pontilhado aparece "You did it ✨ Your 2027 reading is waiting in my story", com a seta para a foto do perfil. '
-                         'Eu acelero, faço ela ir e voltar (vira um loop) e ponho o pontilhado, os textos e a seta. Sem fala; só no Insta.'),
+                         'empurra). Igual ao vídeo do Robert: a silhueta vermelha do corpo dela (num quadro só, no terço esquerdo) fica parada na tela; ela atravessa o jardim; no topo, '
+                         '"Only 1% can pause at the right time!" (o 1% em amarelo). Quando ela passa perto, pisca "SOOOO CLOSE 😱 / 1 frame off..."; só no quadro em que o corpo '
+                         'dela encaixa na silhueta aparece, à direita, "YOU DID IT! 🎉" em amarelo e "Your 2027 reading is in my story 🔮", com a seta para a foto do perfil. '
+                         'Eu corto o pulo do começo, acelero 1,25x, faço 2 passadas (~4,5 s) e ponho tudo. Sem fala; só no Insta.'),
             'modo': ('1) A imagem: no Muse, na conversa da Nora, anexe SÓ a ' + FOLHA + ' e cole o prompt do item 1 (1 imagem por vez; se algo vier errado, “Generate it again, '
                      'exactly the same prompt, one new version”). 2) O clipe: no Muse, anexe a imagem escolhida e cole o bloco do item 2 (1 versão só). Baixe e me mande.'),
             'etapas': [
@@ -125,7 +127,7 @@ def montar():
             {'quando': '1. CapCut', 'texto': 'Projeto novo com o ' + CLIPE, 'como': 'Sem cortar nada. Eu corto o começo (no clipe que saiu, o 1º quadro mostra ela no meio e no 3º ela some: o Muse usa a imagem como 1º quadro e depois recomeça a cena), acelero e emendo a saída dela pela direita com a entrada pela esquerda, para o vídeo dar a volta sem pulo.'},
             {'quando': '2. Música', 'texto': 'A música de sempre (“Ambient Mystical Drone”), do segundo 0 ao fim, −12 dB', 'como': 'Não tem fala: a música pode ficar mais alta que nos falados.'},
             {'quando': '3. Exportar e me mandar até ~22h30', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
-             'como': '1080×1920, nome ' + NOME + '-montado. Eu ponho o pontilhado, o texto do topo, a mensagem dos quadros certos e a seta, e devolvo o ' + NOME + '-final em ~20 min.'}],
+             'como': '1080×1920, nome ' + NOME + '-montado. Eu uso o vídeo do clipe e a música do montado; ponho a silhueta, o texto do topo, o "SOOOO CLOSE", a mensagem do quadro certo e a seta, e devolvo o ' + NOME + '-final em ~10 min.'}],
         'pecas': {'titulo_decisao': 'Resumo', 'lista': [
             {'nome': IMG, 'tipo': 'imagem (primeiro quadro)', 'status': 'gerar', 'descricao': 'A Nora no caminho do jardim, de corpo inteiro, no canto esquerdo, a bandeira dos EUA no canteiro.'},
             {'nome': CLIPE, 'tipo': 'clipe sem fala (Muse)', 'status': 'gerar', 'descricao': '~6 s: ela atravessa o jardim andando rápido, da esquerda para a direita.'},
@@ -137,12 +139,12 @@ def montar():
                         'O nora81 (o falado das letras) vai às 2h, no Insta e no Face.']},
     }
     mt = copy.deepcopy(base['mapa_tela'])
-    mt['estilos'] = [{'nome': 'Caixa do topo, o vídeo todo: ' + TOPO.replace(chr(10), ' '), 'fonte': 'Inter', 'cor': 'branca com letra preta, a palavra-chave em vermelho',
-                      'tamanho': '2 linhas', 'contorno': 'fundo sólido', 'obs': 'No céu, acima dela. Eu ponho.'},
-                     {'nome': 'O pontilhado e a mensagem dos quadros certos', 'fonte': 'Inter', 'cor': 'pontilhado branco; mensagem branca com preto e vermelho', 'tamanho': '—',
-                      'contorno': '—', 'obs': 'O pontilhado fixo no meio do caminho; a mensagem e a seta só nos quadros em que ela está dentro. Eu ponho.'}]
-    mt['regras'] = ['Eu ponho o pontilhado, os textos e a seta (P45); você monta só o clipe e a música.']
-    mt['numeros'] = [dict(t='11:11✨', x=82, y=16, onde='alto à direita', cor_nome='branco', cor='#FFFFFF', tamanho=11)]
+    mt['estilos'] = [{'nome': 'O topo, o vídeo todo: ' + TOPO.replace(chr(10), ' '), 'fonte': 'Poppins Bold', 'cor': 'branca, o 1% em amarelo',
+                      'tamanho': '2 linhas', 'contorno': 'preto, sem caixa (como no v07 e no v21)', 'obs': 'No céu, acima dela. Eu ponho.'},
+                     {'nome': 'A silhueta, o "SOOOO CLOSE" e a mensagem do quadro certo', 'fonte': 'Poppins Bold e serifa', 'cor': 'silhueta vermelha; "YOU DID IT!" amarelo; a leitura em branco com "my story" amarelo', 'tamanho': '—',
+                      'contorno': 'preto', 'obs': 'A silhueta parada o vídeo todo; o "SOOOO CLOSE" quando ela passa perto; a mensagem e a seta só no quadro em que ela encaixa. Eu ponho.'}]
+    mt['regras'] = ['Eu ponho a silhueta, os textos e a seta (P45); você monta só o clipe e a música.']
+    mt['numeros'] = []   # 26/11 ~21h20: a cópia do v07 e do v21, que não têm número na tela
     p['mapa_tela'] = mt
     p['ordem'] = ['pecas', 'prehook', 'textotela', 'story', 'descricao', 'comentario', 'respostasface']
     html = MODELO.replace('const PACOTE = null;', 'const PACOTE = ' + json.dumps(p, ensure_ascii=False) + ';')

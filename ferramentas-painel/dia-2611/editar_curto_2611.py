@@ -1,122 +1,236 @@
 #!/usr/bin/env python3
-"""noracurto2611 (26/11), o desafio de pausar: a Nora atravessa o jardim e a pessoa tenta pausar com ela dentro do pontilhado.
+"""noracurto2611 (26/11), o desafio de pausar, refeito às ~21h20 na cópia do v07 e do v21 do Robert McKeaveney.
 
-Passo 1 (este script):
-- acha no montado a entrada dela pela esquerda e a saída pela direita;
-  - o clipe do Muse tem um pulo no 1º quadro: a imagem com ela no meio, que some no 3º; `LICOES`, 26/11 19h17;
-- corta só esse trecho, acelera (VEL) e repete N vezes, emendando a saída pela direita com a entrada pela esquerda, sem pulo;
-- grava o pontilhado no meio do caminho e a música do montado, do 0 em diante, com um fade curto no fim.
+O aluno, sobre a 1ª versão (o retângulo pontilhado): "não é para fazer um quadrado pontilhado, é para fazer o pontilhado em volta do corpo dela… a
+silhueta dela inteira… igual o vídeo que eu te mandei"; e a mensagem de quando acerta "não pode estar também no topo… tem que aparecer em outro
+lugar, com mais destaque… uma fonte diferente, um amarelo".
 
-Passo 2 (`editar_video.py`, com a spec que este script grava):
-- a caixa do topo (branca, preto, a palavra-chave em vermelho) o vídeo todo;
-- nos quadros em que ela está dentro do pontilhado, a caixa troca pela mensagem de chegada e a seta grande aponta a foto do perfil;
-- os 2 números brancos.
+O que o v07 e o v21 fazem (folhas em MATERIAIS-ROBERT-MCKEAVENEY/), item por item, e como vai na Nora:
+- a silhueta: o contorno vermelho do corpo da pessoa num quadro só, parado na tela o vídeo todo, um pouco folgado → o contorno do corpo dela no
+  quadro em que ela está no terço esquerdo (o espaço da direita fica para a mensagem, como no v07);
+- o topo: "Only 1% can pause / At the right time!", branco com contorno preto, o "1%" em amarelo, sem caixa → igual;
+- perto do quadro certo: "SOOOO CLOSE 😱 / 1 frame off...", inclinado, sobre o corpo (v21: "makes people try over and over again") → igual;
+- no quadro certo: "YOU DID IT!" inclinado e a oferta ao lado do corpo, noutra fonte → "YOU DID IT! 🎉" em amarelo e "Your 2027 reading / is in my
+  story 🔮" em serifa branca, inclinados, à direita dela, e a seta vermelha grande para a foto do perfil (a oferta da Nora é o story).
 
-Uso: python3 -I editar_curto_2611.py <montado.mp4> <pasta-saida> [VEL=1.45] [N=3]
-(1,45x e 3 passadas cabem nos 6 s de música do montado; "dentro" = o corpo inteiro, do 3º ao 97º percentil, dentro do pontilhado)
+Passo único: lê os quadros do clipe do Muse (o vídeo), tira a silhueta pela diferença contra o jardim vazio, monta cada quadro e põe o áudio do
+montado (a música que o aluno pôs no CapCut). O clipe tem um pulo no 1º quadro (LICOES, 26/11 19h17): a edição usa só a passada dela.
+
+Uso: python3 -I editar_curto_2611.py <clipe-do-muse.mp4> <audio: o montado do CapCut, ou o próprio clipe> <pasta-saida> [VEL=1.25] [N=2]
 """
 import json, os, subprocess, sys
 import numpy as np
-from PIL import Image, ImageDraw, ImageFilter
+import cv2
+from PIL import Image, ImageDraw, ImageFont
 
-MONT, OUT = sys.argv[1], sys.argv[2]
-VEL = float(sys.argv[3]) if len(sys.argv) > 3 else 1.45
-N = int(sys.argv[4]) if len(sys.argv) > 4 else 3
+CLIPE, AUDIO, OUT = sys.argv[1:4]
+VEL = float(sys.argv[4]) if len(sys.argv) > 4 else 1.25
+N = int(sys.argv[5]) if len(sys.argv) > 5 else 2
 W, H = 1080, 1920
-# o pontilhado: x de 28% a 72%, y de 24% a 84% (ela vai de ~28% a ~80% da altura; medido no clipe de 26/11)
-PX0, PX1, PY0, PY1 = 0.28, 0.72, 0.24, 0.84
-TOPO = ['Can you stop me', 'inside the [line]?']
-CERTO = ['You did it!', 'Your 2027 reading is in [my story]']
+ALVO_X = 0.30          # o quadro-alvo: o centro do corpo dela perto de 30% da largura (o terço esquerdo)
+VERMELHO = (229, 23, 43)
+AMARELO = (255, 212, 0)
+FONTES = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'ferramentas', 'fontes')
+F_BOLD = os.path.join(FONTES, 'Poppins-Bold.ttf')
+F_MED = os.path.join(FONTES, 'Poppins-Medium.ttf')
+F_SERIF = '/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf'
+F_EMOJI = '/usr/share/fonts/truetype/noto/NotoColorEmoji.ttf'
 os.makedirs(OUT, exist_ok=True)
 
 
 def sonda(p):
-    r = subprocess.run(['ffprobe', '-v', 'error', '-select_streams', 'v:0', '-show_entries', 'stream=r_frame_rate:format=duration',
-                        '-of', 'json', p], capture_output=True, text=True).stdout
-    j = json.loads(r); a, b = j['streams'][0]['r_frame_rate'].split('/')
-    return float(a) / float(b), float(j['format']['duration'])
+    j = json.loads(subprocess.run(['ffprobe', '-v', 'error', '-select_streams', 'v:0', '-show_entries', 'stream=width,height,r_frame_rate',
+                                   '-of', 'json', p], capture_output=True, text=True).stdout)['streams'][0]
+    a, b = j['r_frame_rate'].split('/')
+    return j['width'], j['height'], float(a) / float(b)
 
 
-fps, dur = sonda(MONT)
-# 1) onde ela está em cada quadro (diferença contra o jardim vazio, sem a bandeira da direita)
-w, h = 176, 312
-raw = subprocess.run(['ffmpeg', '-v', 'error', '-i', MONT, '-vf', f'scale={w}:{h}', '-f', 'rawvideo', '-pix_fmt', 'gray', '-'],
-                     capture_output=True).stdout
-f = np.frombuffer(raw, np.uint8).reshape(-1, h, w).astype(float)
-n = len(f)
-cnt = np.array([0] * n); cx = np.array([np.nan] * n); bx0 = np.ones(n); bx1 = np.zeros(n)
-# o fundo: a mediana dos quadros vazios (0,1 a 0,6 s, depois do pulo e antes de ela entrar)
-bg = np.median(f[int(0.1 * fps):int(0.6 * fps)], axis=0)
-for i in range(n):
-    d = np.abs(f[i] - bg) > 30
-    d[:int(h * 0.22)] = False                       # o céu e as árvores mexem
-    d[int(h * 0.40):int(h * 0.70), int(w * 0.80):] = False  # a bandeira do canteiro, à direita, mexe sozinha
-    cnt[i] = d.sum()
-    if cnt[i] > 150:
-        xs = np.nonzero(d)[1]; cx[i] = xs.mean() / w; bx0[i], bx1[i] = np.percentile(xs, 3) / w, np.percentile(xs, 97) / w
-ini = next(i for i in range(int(0.15 * fps), n) if cnt[i] > 150 and cx[i] < 0.12)
-meio = next(i for i in range(ini, n) if cnt[i] > 150 and cx[i] > 0.70)
-fim = next(i for i in range(meio, n) if cnt[i] < 120)        # saiu pela direita
-dentro = [i for i in range(ini, fim) if cnt[i] > 150 and bx0[i] >= PX0 + 0.005 and bx1[i] <= PX1 - 0.005]
-assert dentro == list(range(dentro[0], dentro[-1] + 1)), dentro
-t_in, t_out = ini / fps, fim / fps
-passo = (t_out - t_in) / VEL
-total = passo * N
-print(f'fps {fps:.2f}  entra {t_in:.2f}s  sai {t_out:.2f}s  dentro: quadros {dentro[0]}-{dentro[-1]}  passada {passo:.2f}s x{N} = {total:.2f}s')
-if total > dur:
-    print('AVISO: o vídeo passa da música do montado; baixar N ou subir VEL')
+cw, ch, fps = sonda(CLIPE)
+raw = subprocess.run(['ffmpeg', '-v', 'error', '-i', CLIPE, '-f', 'rawvideo', '-pix_fmt', 'rgb24', '-'], capture_output=True).stdout
+fr = np.frombuffer(raw, np.uint8).reshape(-1, ch, cw, 3)
+n = len(fr)
 
-# 2) o pontilhado (traços brancos com sombra suave, cantos arredondados)
-pont = Image.new('RGBA', (W, H), (0, 0, 0, 0))
-x0, x1, y0, y1 = PX0 * W, PX1 * W, PY0 * H, PY1 * H
+# 1) a máscara do corpo em cada quadro: a diferença contra o jardim vazio (entre o pulo do 1º quadro e a entrada dela)
+bg = np.median(fr[int(0.12 * fps):int(0.6 * fps)], axis=0).astype(np.int16)
 
 
-def tracos(dr, cor, larg, off=0):
-    dash, gap = 34, 22
-    for (ax, ay, bx, by) in [(x0, y0, x1, y0), (x1, y0, x1, y1), (x1, y1, x0, y1), (x0, y1, x0, y0)]:
-        L = ((bx - ax) ** 2 + (by - ay) ** 2) ** 0.5; t = 0
-        while t < L:
-            t2 = min(L, t + dash)
-            dr.line([(ax + (bx - ax) * t / L + off, ay + (by - ay) * t / L + off), (ax + (bx - ax) * t2 / L + off, ay + (by - ay) * t2 / L + off)],
-                    fill=cor, width=larg)
-            t += dash + gap
+def mascara(i):
+    d = np.abs(fr[i].astype(np.int16) - bg).max(axis=2)
+    m = (d > 28).astype(np.uint8)
+    m[:int(ch * 0.2)] = 0                                            # o céu e as copas mexem
+    m[int(ch * 0.40):int(ch * 0.70), int(cw * 0.80):] = 0            # a bandeira do canteiro, à direita
+    m = cv2.morphologyEx(m, cv2.MORPH_OPEN, np.ones((3, 3), np.uint8))
+    m = cv2.morphologyEx(m, cv2.MORPH_CLOSE, np.ones((15, 15), np.uint8))
+    k, lab, st, _ = cv2.connectedComponentsWithStats(m)
+    if k < 2:
+        return None
+    j = 1 + int(np.argmax(st[1:, cv2.CC_STAT_AREA]))
+    if st[j, cv2.CC_STAT_AREA] < cw * ch * 0.004:
+        return None
+    m = (lab == j).astype(np.uint8)
+    cs, _ = cv2.findContours(m, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)
+    cheia = np.zeros_like(m); cv2.drawContours(cheia, cs, -1, 1, -1)   # sem buracos
+    return cheia
 
 
-sh = Image.new('RGBA', (W, H), (0, 0, 0, 0)); tracos(ImageDraw.Draw(sh), (0, 0, 0, 120), 10, 2)
-pont.alpha_composite(sh.filter(ImageFilter.GaussianBlur(3)))
-tracos(ImageDraw.Draw(pont), (255, 255, 255, 255), 8)
-p_pont = os.path.join(OUT, 'pontilhado.png'); pont.save(p_pont)
+ms = [mascara(i) for i in range(n)]
+cx = [None if m is None else float(np.nonzero(m)[1].mean() / cw) for m in ms]
+ini = next(i for i in range(int(0.15 * fps), n) if cx[i] is not None and cx[i] < 0.12)
+depois = [i for i in range(ini + int(fps), n) if ms[i] is None]
+fim = depois[0] if depois else n - 1
+# o alvo: o corpo inteiro na tela, o centro perto do ALVO_X
+cand = [i for i in range(ini, fim) if cx[i] is not None and np.nonzero(ms[i])[1].min() > cw * 0.02]
+T = min(cand, key=lambda i: abs(cx[i] - ALVO_X))
+mt = ms[T]
 
-# 3) a base: o trecho acelerado, N vezes, com o pontilhado e a música do montado do 0 em diante
-seg = os.path.join(OUT, 'seg.mp4')
-subprocess.check_call(['ffmpeg', '-y', '-v', 'error', '-ss', f'{t_in:.4f}', '-to', f'{t_out:.4f}', '-i', MONT, '-an',
-                       '-vf', f'setpts=(PTS-STARTPTS)/{VEL},scale={W}:{H},fps={fps:.4f}', '-c:v', 'libx264', '-crf', '14', '-preset', 'fast', seg])
-lst = os.path.join(OUT, 'lista.txt'); open(lst, 'w').write(''.join(f"file '{seg}'\n" for _ in range(N)))
-base = os.path.join(OUT, 'base.mp4')
-subprocess.check_call(['ffmpeg', '-y', '-v', 'error', '-f', 'concat', '-safe', '0', '-i', lst, '-i', MONT, '-loop', '1', '-i', p_pont,
-                       '-filter_complex', f"[0:v][2:v]overlay=0:0:shortest=1,format=yuv420p[v];[1:a]atrim=0:{total:.3f},afade=t=out:st={max(0, total - 0.3):.3f}:d=0.3[a]",
-                       '-map', '[v]', '-map', '[a]', '-t', f'{total:.3f}', '-c:v', 'libx264', '-crf', '14', '-preset', 'fast', '-c:a', 'aac', '-b:a', '192k', base])
 
-# 4) as janelas "dentro" no tempo do vídeo final
-jan = []
-for p in range(N):
-    a = p * passo + (dentro[0] - ini) / fps / VEL
-    b = p * passo + (dentro[-1] + 1 - ini) / fps / VEL
-    jan.append((round(a, 3), round(b, 3)))
-itens = []
-t = 0.0
-for a, b in jan:  # a caixa do topo fora das janelas
-    if a > t: itens.append({'tipo': 'caixa', 'ini': round(t, 3), 'fim': a, 'x': 0, 'y': 500, 'tamanho': 11, 'linhas': TOPO})
-    itens.append({'tipo': 'caixa', 'ini': a, 'fim': b, 'x': 0, 'y': 500, 'tamanho': 10, 'linhas': CERTO})
-    itens.append({'tipo': 'seta', 'ini': a, 'fim': b, 'x': -285, 'y': -400, 'tamanho': 44})
-    t = b
-if total - t > 0.01: itens.append({'tipo': 'caixa', 'ini': round(t, 3), 'fim': round(total, 3), 'x': 0, 'y': 500, 'tamanho': 11, 'linhas': TOPO})
-itens += [{'tipo': 'texto', 'ini': 0, 'fim': round(total, 3), 'x': -245, 'y': 330, 'tamanho': 13, 'texto': '222', 'cor': '#FFFFFF'},
-          {'tipo': 'texto', 'ini': 0, 'fim': round(total, 3), 'x': 245, 'y': 330, 'tamanho': 14, 'texto': '11:11', 'cor': '#FFFFFF'}]
-final = os.path.join(OUT, 'noracurto2611-final.mp4')
-json.dump({'entrada': base, 'saida': final, 'crf': 19, 'preset': 'medium', 'estilo': 'alto-contraste', 'itens': itens},
-          open(os.path.join(OUT, 'spec.json'), 'w'), ensure_ascii=False, indent=1)
-json.dump({'t_in': t_in, 't_out': t_out, 'vel': VEL, 'n': N, 'passo': passo, 'total': total, 'dentro_quadros': dentro, 'janelas': jan},
-          open(os.path.join(OUT, 'mapa.json'), 'w'), indent=1)
-print('janelas (s):', jan)
-print('ok', base, '->', os.path.join(OUT, 'spec.json'))
+def iou(i):
+    if ms[i] is None:
+        return 0.0
+    a, b = ms[i] > 0, mt > 0
+    return float((a & b).sum() / (a | b).sum())
+
+
+io = [iou(i) for i in range(n)]
+
+# 2) a silhueta: o contorno da máscara do alvo, suavizado e um pouco folgado, em vermelho (como no v07 e no v21)
+esc = max(W / cw, H / ch); rw, rh = int(round(cw * esc)), int(round(ch * esc)); ox, oy = (rw - W) // 2, (rh - H) // 2
+
+
+def para_tela(img, interp=cv2.INTER_CUBIC):
+    return cv2.resize(img, (rw, rh), interpolation=interp)[oy:oy + H, ox:ox + W]
+
+
+mg = para_tela(mt.astype(np.float32), cv2.INTER_LINEAR)
+mg = cv2.GaussianBlur(mg, (0, 0), 7) > 0.5
+mg = cv2.dilate(mg.astype(np.uint8), cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (17, 17)))
+cs, _ = cv2.findContours(mg, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)
+c = max(cs, key=cv2.contourArea)
+c = cv2.approxPolyDP(c, 1.5, True)
+sil = np.zeros((H, W, 4), np.uint8)
+cv2.polylines(sil, [c], True, (*VERMELHO, 255), 8, cv2.LINE_AA)
+silh = Image.fromarray(sil, 'RGBA')
+x0s, y0s, ws_, hs_ = cv2.boundingRect(c)
+
+
+# 3) os textos
+def eh_emoji(ch_):
+    o = ord(ch_)
+    return o >= 0x1F000 or 0x2600 <= o <= 0x27BF or o in (0x2B50, 0x2728)
+
+
+_emo = {}
+
+
+def emoji(ch_, px):
+    if (ch_, px) not in _emo:
+        fe = ImageFont.truetype(F_EMOJI, 109)
+        e = Image.new('RGBA', (160, 160), (0, 0, 0, 0)); ImageDraw.Draw(e).text((0, 0), ch_, font=fe, embedded_color=True)
+        _emo[(ch_, px)] = e.crop(e.getbbox()).resize((px, px), Image.LANCZOS)
+    return _emo[(ch_, px)]
+
+
+def linha(partes, contorno):
+    """partes: [(texto, fonte, cor)]; devolve a imagem da linha (texto com contorno preto; emoji colorido)."""
+    larg, alt = 0, 0
+    for t, f, _ in partes:
+        a, d = f.getmetrics(); alt = max(alt, a + d)
+        for ch_ in t:
+            larg += int(f.size * 1.05) if eh_emoji(ch_) else f.getlength(ch_)  # o emoji: 0,12 + 0,85 + 0,08 do tamanho
+    pad = contorno + 6
+    im = Image.new('RGBA', (int(larg) + 2 * pad, alt + 2 * pad), (0, 0, 0, 0)); dr = ImageDraw.Draw(im)
+    x = pad
+    for t, f, cor in partes:
+        a, _ = f.getmetrics()
+        for ch_ in t:
+            if eh_emoji(ch_):
+                px = int(f.size * 0.85); x += int(f.size * 0.12)
+                im.alpha_composite(emoji(ch_, px), (int(x), int(pad + a - px * 0.80))); x += px + int(f.size * 0.08)
+            else:
+                dr.text((x, pad), ch_, font=f, fill=cor, stroke_width=contorno, stroke_fill=(0, 0, 0)); x += f.getlength(ch_)
+    return im
+
+
+def bloco(linhas, gap=0, angulo=0):
+    ims = [linha(p, cont) for p, cont in linhas]
+    bw = max(i.width for i in ims); bh = sum(i.height for i in ims) + gap * (len(ims) - 1)
+    b = Image.new('RGBA', (bw, bh), (0, 0, 0, 0)); y = 0
+    for i in ims:
+        b.alpha_composite(i, ((bw - i.width) // 2, y)); y += i.height + gap
+    return b.rotate(angulo, resample=Image.BICUBIC, expand=True) if angulo else b
+
+
+def camada(b, cx_, cy_):
+    im = Image.new('RGBA', (W, H), (0, 0, 0, 0)); im.alpha_composite(b, (int(cx_ - b.width / 2), int(cy_ - b.height / 2)))
+    return im
+
+
+def fb(px):
+    return ImageFont.truetype(F_BOLD, px)
+
+
+def fs(px):
+    return ImageFont.truetype(F_SERIF, px)
+
+
+topo = camada(bloco([([('Only ', fb(70), 'white'), ('1%', fb(70), AMARELO), (' can pause', fb(70), 'white')], 5),
+                     ([('at the right time!', fb(70), 'white')], 5)], gap=-18), W / 2, H * 0.135)
+perto = camada(bloco([([('SOOOO CLOSE ', fb(74), 'white'), ('😱', fb(74), 'white')], 6),
+                      ([('1 frame off...', ImageFont.truetype(F_MED, 46), 'white')], 4)], gap=-14, angulo=6),
+               W * min(0.60, (x0s + ws_ * 0.5) / W + 0.14), y0s + hs_ * 0.40)
+dir_x = (x0s + ws_ + W * 0.96) / 2                                     # o meio do espaço à direita da silhueta
+certo = camada(bloco([([('YOU DID IT! ', fb(82), AMARELO), ('🎉', fb(82), 'white')], 7),
+                      ([('Your 2027 reading', fs(50), 'white')], 5),
+                      ([('is in ', fs(50), 'white'), ('my story', fs(50), AMARELO), (' 🔮', fs(50), 'white')], 5)], gap=-6, angulo=7),
+               dir_x, H * 0.47)
+
+
+def seta():  # a seta grande para a foto do perfil (a mesma do editar_simples_2311.py: x 10,5%, de 75,5% a 87,5% da altura)
+    im = Image.new('RGBA', (W, H), (0, 0, 0, 0)); dr = ImageDraw.Draw(im)
+    cx_, y0, y1 = W * 0.105, H * 0.755, H * 0.875
+    dr.line([(cx_, y0), (cx_, y1 - 30)], fill=(*VERMELHO, 255), width=13)
+    dr.polygon([(cx_ - 34, y1 - 48), (cx_ + 34, y1 - 48), (cx_, y1)], fill=(*VERMELHO, 255))
+    return im
+
+
+certo.alpha_composite(seta())
+fixo = Image.new('RGBA', (W, H), (0, 0, 0, 0)); fixo.alpha_composite(silh); fixo.alpha_composite(topo)
+CERTO_IOU = 0.88
+certos = [i for i in range(n) if io[i] >= CERTO_IOU]
+pertos = [i for i in range(n) if i not in certos and (io[i] >= 0.55 or abs(i - T) <= 5) and ms[i] is not None]
+
+# 4) a sequência: N passadas a VEL, cada uma passando exatamente pelo quadro-alvo
+seq = []
+for _ in range(N):
+    j0 = int(np.ceil((T - ini) / VEL)); j1 = int(np.floor((fim - T) / VEL))
+    seq += [T + int(round(k * VEL)) for k in range(-j0, j1 + 1)]
+seq = [min(max(i, ini), fim) for i in seq]
+total = len(seq) / fps
+print(f'fps {fps:.2f}  entra {ini / fps:.2f}s (q{ini})  sai {fim / fps:.2f}s (q{fim})  alvo q{T} (centro {cx[T]:.2f})  '
+      f'certos {certos}  pertos {pertos[0]}-{pertos[-1]}  {N} passadas a {VEL}x = {total:.2f}s')
+print('IoU em volta do alvo:', {i: round(io[i], 2) for i in range(T - 3, T + 4)})
+
+# 5) o vídeo: cada quadro montado aqui, o áudio do montado do 0 em diante
+saida = os.path.join(OUT, 'noracurto2611-final.mp4')
+dur_a = float(subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', AUDIO], capture_output=True, text=True).stdout)
+if dur_a < total:
+    print(f'AVISO: o áudio tem {dur_a:.2f}s e o vídeo {total:.2f}s')
+enc = subprocess.Popen(['ffmpeg', '-y', '-v', 'error', '-f', 'rawvideo', '-pix_fmt', 'rgb24', '-s', f'{W}x{H}', '-r', f'{fps}', '-i', '-', '-i', AUDIO,
+                        '-filter_complex', f'[1:a]atrim=0:{total:.3f},afade=t=out:st={max(0, total - 0.25):.3f}:d=0.25[a]', '-map', '0:v', '-map', '[a]',
+                        '-c:v', 'libx264', '-crf', '17', '-preset', 'medium', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-b:a', '192k', '-movflags', '+faststart',
+                        '-shortest', saida], stdin=subprocess.PIPE)
+marcas = []
+for k, i in enumerate(seq):
+    base = Image.fromarray(np.ascontiguousarray(para_tela(fr[i])), 'RGB').convert('RGBA')
+    base.alpha_composite(fixo)
+    if i in certos:
+        base.alpha_composite(certo); marcas.append((k, 'certo'))
+    elif i in pertos:
+        base.alpha_composite(perto); marcas.append((k, 'perto'))
+    enc.stdin.write(np.asarray(base.convert('RGB')).tobytes())
+enc.stdin.close(); enc.wait()
+certo_t = [round(k / fps, 3) for k, m in marcas if m == 'certo']
+json.dump({'clipe': CLIPE, 'audio': AUDIO, 'fps': fps, 'ini': ini, 'fim': fim, 'alvo': T, 'certos': certos, 'pertos': pertos, 'vel': VEL, 'n': N,
+           'total': total, 'seq': seq, 'certo_t': certo_t}, open(os.path.join(OUT, 'mapa.json'), 'w'), indent=1)
+print('quadros certos no vídeo (s):', certo_t)
+print('ok', saida)
