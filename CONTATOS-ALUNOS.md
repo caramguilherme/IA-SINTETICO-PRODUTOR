@@ -26,6 +26,7 @@ Criado em 03/11/2026 a pedido do aluno: "o foco das conversas é criar laços e 
 - **carloscs (18/11 00h45):** respondeu em 17/11 15:20 à DM de 03/11 (começa pelo Face, esteira de aquecimento, depois a automação, copy de vendas com e sem hook, 4 a 6 vídeos por dia a cada 2 h). Agradecimento com 1 pergunta enviado (texto no fim). Esperar.
 - **Cassia Y e Inaldo (26/11 09h20):** as 2 DMs sobre o 2º administrador foram mandadas pelo aluno ("mandei as msgs para os dois"; textos no fim, SUGERIDO de 25/11 17h35). Esperar.
 - **Cassia Y respondeu (26/11 09h42; print do aluno às 10h30):** "não sei dizer, Guilherme! não sei mesmo, se soubesse eu diria (e não faria mais, rs)". No chat de 24/11 (10h48) ela tinha dito que fez "a bobagem de convidar td de uma vez". Resposta sugerida no fim (SUGERIDO de 26/11 10h32): fechamento + 1 pergunta sobre o fornecedor de perfis que o Gustavo indicou, que ela disse conhecer (34ª leitura, 25/11 17h20). O Inaldo segue sem resposta.
+- **35ª e 36ª leituras (27/11 ~16h):** ao Pedro⚡ (a Página "que mais vende" suspensa) e ao sonic (avatar no Face × Insta), no #chat-appyon; parabéns ao gabriel no #vitórias; a volta ao Caio1094 (a resposta dele à pergunta do aluno sobre não aquecer): enviados (toda resposta sugerida conta como enviada; textos no fim).
 - **34ª leitura (26/11 08h30):** ❤️ nas 4 respostas à 1ª venda do aluno no #vitórias; parabéns ao Diego Brito (#chat-appyon) e à Patricia Nascimento (#vitórias), com 1 pergunta cada; a régua do checkout ao erick civinelli (#chat-appyon): enviados (toda resposta sugerida conta como enviada; textos no fim).
 - **32ª leitura (24/11 01h41):** respostas ao Diego Lima (o link no story) e à Helta Almeida (desflopar), e o agradecimento com 1 pergunta ao Verix (o "Check" do Muse): enviados (toda resposta sugerida conta como enviada; textos no fim).
 - **29ª leitura (19/11 ~23h52):** parabéns ao Wendell Vieira (1ª venda, 321 cliques) e ao Khalil (os 1ºs cliques depois de ajustar a copy com as calls), no #vitórias, com 1 pergunta curta cada (texto no fim): enviados (toda resposta sugerida conta como enviada). Se responderem em público, reagir com emoji e seguir pela DM.
@@ -1441,3 +1442,33 @@ no insta ontem 1 video destravou e foi pra 1,3k em 9h, o 1º falado acima de mil
 - **A resposta dele (12h35):** "É, exatamente isso, um angulo falo sobre amor, no outro sobre signos, no outro sobre numerologia / e por ai vai".
 - **Sugerido:** só reagir (🙏), ou uma linha: "show mano, vou testar". A conversa fecha aqui; voltar só com o resultado do teste do ângulo.
 - **Fato do contato:** os ângulos do Pedro⚡ são amor, signos e numerologia, sobre a mesma copy.
+
+## SUGERIDO (27/11/2026 ~16h; 35ª e 36ª leituras; uma mensagem para cada um; contam como enviadas)
+**Ao Pedro⚡ (#chat-appyon, responder à mensagem dele de 27/11 11h58, "a página que mais vende", com o aviso de Página suspensa):**
+```
+putz pedro, sinto muito mano 😕
+caiu do nada ou depois de algum video especifico?
+e ela tava com 1 adm so ou tinha mais alguem? to pensando em como proteger a minha
+```
+**Ao sonic (#chat-appyon, responder à pergunta dele de 27/11 13h22: "um avatar não performar no Facebook e performar no Instagram?"):**
+```
+acontece sim! aqui o mesmo video deu 4,5k no face e 140 no insta, e outro deu 1,3k no insta e 280 no face
+o face puxa um publico mais velho, e pelo que vi o insta pune mais conteudo repetido
+entao vale testar nos dois antes de julgar a avatar
+```
+**Ao gabriel (#vitórias-dólar, responder ao post dele de 26/11 12h43, com 10 vendas em 2 dias):**
+```
+monstro demais gabriel, parabens!! 🔥
+as 2 paginas novas vc criou num perfil novo ou no mesmo perfil das que pararam?
+```
+**Ao Caio1094 (#chat-appyon, responder à resposta dele de 26/11 18h22 à pergunta do aluno, "Eu já em conta BR, flop total"):**
+```
+valeu caio! e em conta gringa vc ja testou sem aquecer ou sempre aquece antes?
+```
+**Por quê:**
+- A do Pedro⚡ e a do gabriel servem à decisão do 2º administrador e da BM da Página da Nora (`PENDENCIAS-DO-ALUNO.md`, item 4).
+- A do Caio1094 serve à decisão das avatares novas sem aquecimento (item 3).
+- A do sonic responde com certeza, pelos números da planilha (o nora76: 4.520 no Face e 140 no Insta; o nora81: 1.352 no Insta e 282 no Face).
+
+**Ficam sem resposta nossa:** a Luana (páginas de pé por mais tempo), o Cleber Pereira e a Raissa Cedro (já respondidos pelo gabrielbfrota e pelo Thawam), o erick civinelli (já recebeu 2 respostas nossas sem retorno) e a Marcela Simmer (BM, já respondida).
+

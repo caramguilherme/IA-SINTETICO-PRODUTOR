@@ -55,6 +55,7 @@
 | **P4** | A divorciada ou viúva de 55+ que quer alguém: jantar sozinha | não rodou | — | **a testar** (casa com o A6, o amor) |
 | P5 | A que vive para os outros e se sente travada: o carro parado na garagem | não rodou | — | na reserva (casa com o A9) |
 | P6 | A que vê os números: o 11:11 no relógio | em parte (nora46, nora75-VAR2511-FACE) | 137 e 266 | na reserva |
+| P7 | Com a idade dita: "If you're a woman over 50…" (contra a Índia e para qualificar; 36ª leitura, 27/11) | não rodou | — | **a testar** (no Insta) |
 | (pico) | Sem persona: "You're about to experience the luckiest days of your entire life. Are you ready?" | não rodou | — | **a testar** (02/12, contra a P1) |
 
 ### A ordem sugerida (1 eixo por dia a partir da base; a ordem final é a do item 2 das pendências, decisão do aluno)
@@ -591,3 +592,8 @@
 - **[Reforço] O ângulo do relacionamento (o do Pedro⚡, 04/12)** ganha a fonte da aula 10 do Kobata (9:23 a 10:37: "o ego e o relacionamento são os melhores ângulos"; para a mulher, a rejeição e a piadinha). No Manifestation, é o "True love" do quiz. O mesmo corpo, trocando o dinheiro pelo amor, com a medida no clique.
 - **[Take 1, no dia de testar o gancho] O ângulo da fofoca** (aula 12 do Kobata, 9:45 a 11:12 e 34:28 a 35:21: "Alguém mais viu aquele vídeo…", "vazou"): por exemplo, "Did anyone else get the message Archangel Michael sent last night?". Curiosidade dentro da narrativa, sem fato inventado sobre o produto. Muda só o Take 1, e a medida é os 3 s, o skip e as visitas.
 - **[Regra confirmada] As palavras da dor e do desejo ficam as nativas do nicho americano** (aula 12, 35:51 a 37:21: "eu tento sempre usar o mesmo ou muito parecido, porque isso é o que tem muito poder… principalmente no gancho"), tiradas dos vídeos da mineração e nunca traduzidas por mim.
+
+## 27/11/2026 ~16h: das 35ª e 36ª leituras do Discord (`COMUNIDADE-E-ESTRATEGIA.md`, 27/11 ~16h)
+- **[Teste A/B, contradição; só no Face] O link na legenda** (gabrielbfrota, 26/11 18h45: "se deixar o link na legenda com um CTA bem curto tem muito click também, tipo 'Check here' + link"; contra a nossa regra, link só no comentário da Página): A = o link FACE só no comentário fixado (hoje); B = a mesma peça com "Check here 👉" + o link FACE inteiro na legenda (com o `&aff=dl7zx6ks`), e o comentário com o link mantido. Medida: os cliques no link dos Insights do post e o Tracker do Face no dia. O risco de a legenda com link entregar menos não tem número; olhar as views do post contra os do mesmo pacote. Decisão do aluno sobre o dia.
+- **[Mapa dos 3 eixos, persona P7] A idade na 1ª ou na 2ª frase** ("If you're a woman over 50…"; Coelho e Yuka: "falar de idade na copy"; Wall Estevam: "idade, é o que mais ajuda" contra a Índia). No Insta, para tirar a Índia e qualificar. No Face, o público já é 45+.
+- **[Teste, nas avatares novas] Com os 10 de aquecimento × sem aquecer** (o aluno decidiu em 26/11 que as novas postam desde o 1º dia; o Caio1094, 26/11 18h22: "Eu já em conta BR, flop total"). Uma conta de cada jeito, medida pelos 10 primeiros vídeos (a régua do aquecimento: 7 de 10 acima de 100).

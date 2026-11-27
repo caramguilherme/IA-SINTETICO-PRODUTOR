@@ -1491,3 +1491,45 @@ Arquivos: `HISTORICO-DISCORD/chat-appyon_12-11-madrugada.md`, `vitorias-dolar_12
   4. **O "copy parecidas derruba Página"** é opinião de 1 pessoa. A versão do Face da Nora já sai sem ameaça, dinheiro, selos e isca, e o comentário da Página já muda a cada post. Não muda nada.
   5. **O sprint começa em 30/11:** a gravação das calls entra na pendência de materiais.
 - **Respostas (P44):** ❤️ nas 4 respostas à venda do aluno; o parabéns ao Diego Brito e à Patricia Nascimento; a régua do checkout ao erick civinelli (`CONTATOS-ALUNOS.md`).
+
+## 27/11/2026 ~16h - Discord, 35ª e 36ª leituras (26/11 05h58 a 27/11 15h43)
+- **Arquivos:** `HISTORICO-DISCORD/*_26-11_*` e `*_27-11_*` (a 35ª, pela skill em 27/11 00h40; a 36ª, em 27/11 15h50) e os 2 resumos; as 11 imagens em `HISTORICO-DISCORD/imagens/27-11/` (leitura35 e leitura36). chat-appyon 164 + 77 mensagens; chat-geral 25 + 6; vitórias 6 + 2; apresente-se 3; anúncios 1; fórum MUSE???? 2 + 6, o Gmail sem telefone 2 e o GeeLark 1. Sem buraco.
+- **Vitórias com número:**
+  - **gabriel:** de 25 a 26/11, 986 cliques, 63 checkouts e 10 vendas (R$ 817,41), depois de ~20 dias sem vender com 2 Páginas sem poder postar; criou 2 Páginas novas e 2 Instagram. É ~1% de clique → venda.
+  - **Caio1094:** "+20 vendas", e no Risely um vídeo de 5 mil com 4 dias de conta.
+  - **O Pedro⚡ teve suspensa "a página que mais vende"** (27/11 11h58).
+- **Anúncio (Gustavo Alves, 27/11 12h14):** aula de copy com IA e os fundamentos da copy do vídeo viral, com o Iorhan, **hoje às 19h** (o gancho dos primeiros segundos, a IA "sem cair no texto genérico" e os erros que fazem um vídeo não performar).
+- **Staff:** o sprint de 30/11 é para todos (Ju Santos). Já há aula do Risely.
+- **Face:**
+  - A onda de perfis e Páginas caindo continua: a Luana perdeu "as melhores páginas"; a Ana Paula Rocha, "caiu o perfil pessoal e levou todas as páginas"; o Pedro⚡.
+  - **A saída que o gabrielbfrota deu (27/11 14h44):** cada Página numa BM separada, para mover as outras para outro perfil se uma der problema. "O cenário ideal seria 1 página por perfil… se for muito caro, tenta 3 páginas por perfil".
+  - **O link na legenda do Face** (gabrielbfrota, 26/11 18h45): "geralmente automação, mas se deixar o link na legenda com um CTA bem curto tem muito click também, tipo 'Check here' + link". E (27/11 12h44): "facebook DM e instagram story".
+  - **Baixar do Insta e postar no Face:** passar no CapCut "pra retirar os metadados".
+- **Público velho e Índia:**
+  - O erick civinelli: 65+ com 43%, "27k views 1 Clique no link".
+  - Os conselhos: "falar de idade na copy" (Coelho e Yuka), "idade, é o que mais ajuda" (Wall Estevam), a bandeira ou a camiseta dos EUA (Thawam), "postando em inglês, com sotaque americano, em formatos que são virais nos EUA" (gabrielbfrota).
+  - A Lígia trocou para uma avatar mais jovem e o público foi para 35 a 45, "mas os cliques diminuíram".
+  - O Vinicius B, sobre checkout sem venda: o público velho, a Índia e a África, "o Body e principalmente o CTA não tá casando com a promessa do funil".
+- **Volume:** "mais contas, 4 vídeos por conta, ideal seria 6" (gabrielbfrota, 27/11 12h40).
+- **Insta e contas novas:**
+  - **A pergunta do aluno** ("alguém já tentou sem aquecer?", 26/11 18h12): "Eu já em conta BR, flop total" (Caio1094).
+  - Conta banida no aquecimento depois da selfie: descartar a proxy e testar a avatar com outro nome (gabrielbfrota).
+  - O "Vincular ao Windows" para a câmera do celular no GeeLark.
+- **Muse:**
+  - **O limite de 24 h "muito provavelmente" vem dos retries** em 4 ou 5 blocos presos; a saída é "aliviar esse QA" (Vinicius B). O prompt dele não apareceu.
+  - Erro 503 em 27/11, de ~11h30 à tarde.
+  - "Flow só para os pré hook, o resto no Muse" (Maycon Bezerra, Ari & Lu).
+  - O Muse por proxy no AdsPower, não por VPN (gabrielbfrota).
+  - A palavra repetida se resolve pedindo a revisão final com as regras (Luana).
+- **Claude:** "geralmente isso é questão de contexto ou do arquivo CLAUDE.md. Quanto maior tua conversa… mais ele se perde" (gabrielbfrota, 27/11 12h41).
+- **Para a Nora (decisão minha):**
+  1. **Nada muda hoje no pacote nem nas regras de produção.** A bandeira dos EUA, o inglês com sotaque americano e o formato viral já são regra.
+  2. **O link na legenda do Face vira teste A/B** (`FILA`, 27/11 16h; é contra a regra de link só no comentário da Página): a mesma peça do Face com "Check here" + o link FACE inteiro na legenda × o link só no comentário, medida pelos cliques no link dos Insights e pelo Tracker. Decisão do aluno sobre o dia. O DM automático no Face segue adiado (decisão do aluno de 06/11).
+  3. **A idade na copy entra no mapa dos 3 eixos como persona** (a P7, "If you're a woman over 50…"), pelos 3 conselhos de "idade" contra a Índia e o público velho. O Face da Nora já vende para 45+, e a venda de 25/11 veio de lá: a idade serve para o Insta, onde a Índia aparece.
+  4. **A Página da Nora:** é a única, vende e está no perfil pessoal do aluno. A queda da Página "que mais vende" do Pedro⚡ e a da Luana deixam o risco concreto. O item 4 das pendências ganhou a saída do gabrielbfrota (a Página numa BM própria, para poder movê-la). Continua decisão do aluno.
+  5. **As avatares novas sem aquecimento (decisão do aluno de 26/11) × "flop total" do Caio1094 em conta BR:** é uma contradição, e vira teste quando elas forem criadas (uma conta com os 10 de aquecimento × uma sem). Vai para o item 3 das pendências.
+  6. **O Muse:** se o limite do dia aparecer, aceitar um take com um erro pequeno que eu corto na edição (a palavra repetida, a frase a mais), em vez de pedir de novo várias vezes (`LICOES`, 27/11 16h). Com o 503 de hoje, o nora82 pode atrasar.
+  7. **A aula do Iorhan de hoje às 19h:** pedir a gravação ou a transcrição. Entra na leitura obrigatória com as aulas do Kobata.
+  8. **O CLAUDE.md:** o diário dele tem de 17 a 27/11 (é o "quanto maior… mais ele se perde" do gabrielbfrota). Proposta ao aluno: mover o diário de 17 a 24/11 para o `HISTORICO-CLAUDE-MD.md`, sem perder nada.
+- **Respostas (P44):** ao Pedro⚡ (a Página suspensa), ao sonic (avatar no Face × Insta, com os nossos números), parabéns ao gabriel (#vitórias) e a volta ao Caio1094 (o sem aquecer) (`CONTATOS-ALUNOS.md`).
+
