@@ -2124,3 +2124,86 @@ Na tela: o Kobata falando, com o texto da edição "PONTO DE VISTA" (~1:45).
 [0:11:19] fechou galera
 [0:11:21] vamos para a nossa próxima e última aula desse módulo
 [0:11:23] aqui
+
+## Aula 11: Estilos e formatos (4:47; embed v=c9e66613-9d7b-4f33-b982-86bf83af1939)
+
+Na tela: o Kobata falando. É a última aula do módulo de AIDA.
+
+[0:00:05] Pessoal, nessa última aula o que nós vamos conversar agora é sobre formato.
+[0:00:10] Formato é uma das coisas muito importantes porque ele também auxilia no seu gancho visual.
+[0:00:16] Afinal, o que é o formato?
+[0:00:18] O formato, como o nome já diz, é o como entregue a sua mensagem.
+[0:00:24] Então, o ângulo é por onde entregue o seu produto.
+[0:00:28] O formato é como visualmente falando é entregue o seu vídeo.
+[0:00:34] Então vamos pensar, existe o formato podcast.
+[0:00:37] Você já viu provavelmente vários anúncios rodando no Instagram,
+[0:00:40] da galera com o microfone aqui, olhando para lá e falando alguma coisa.
+[0:00:44] E é um anúncio, mas está num formato de podcast.
+[0:00:48] Por quê? Porque muitas pessoas assistem podcast.
+[0:00:51] Então quando você coloca o seu artista ou o seu especialista para falar com o microfone aqui olhando para o lado,
+[0:00:58] aparenta ser um vídeo nativo.
+[0:01:01] Já passa a credibilidade.
+[0:01:02] No TikTok, existem infinitos formatos.
+[0:01:06] E a nossa missão é encontrar esses formatos virais.
+[0:01:11] Existem inúmeros formatos sendo criados todos os dias de microinfluenciadores
+[0:01:17] que acertam um tipo de vídeo e começam a viralizar.
+[0:01:20] E aí ele começa a replicar esse formato de vários jeitos.
+[0:01:22] Nesse caso, o do ArturPik é um formato que não vai dar muito para a gente replicar.
+[0:01:27] Porque tem que botar o roço, etc.
+[0:01:29] Mas o da Meia é um bom formato.
+[0:01:32] Você pode gravar colocando, sei lá, a gente pede para gravar um vídeo da pessoa colocando o pé assim numa cerca,
+[0:01:38] levantando a calça e tal suplemento.
+[0:01:40] É um formato, entendeu?
+[0:01:41] Só que existem inúmeros desses, tudo no TikTok.
+[0:01:44] Como você encontra isso fazendo sua pesquisa, fazendo a pesquisa no orgânico e até mesmo no pago,
+[0:01:51] você faz a sua pesquisa, acha essas páginas e modela o formato.
+[0:01:55] O formato não necessariamente precisa ser a pessoa, tá?
+[0:01:58] O formato pode ser outras coisas.
+[0:02:00] Por exemplo, aquelas páginas, quem nunca viu aquelas páginas no Instagram é escrito assim.
+[0:02:04] E isso existisse em uma página somente dedicada a pegar homens sendo traídos.
+[0:02:09] Homens sendo pegados no flagra.
+[0:02:11] Entendi, isso é um formato.
+[0:02:13] E aí começaram a criar milhares de páginas em cima branco, embaixo branco, vídeo no meio e o textinho.
+[0:02:21] E isso existisse em uma página somente dedicada a tal coisa.
+[0:02:25] Isso é um formato.
+[0:02:27] A receita, aqueles vídeos que começam, um liquidificador cortando as coisas e tal,
+[0:02:32] e já falando em cima, é um formato.
+[0:02:35] Entendi?
+[0:02:36] Então quando você identificar um formato que vende, você identificar o ângulo que vende,
+[0:02:43] você identificar uma mensagem, uma persona que vende, que compra, acabou, cara.
+[0:02:49] Acabou.
+[0:02:50] Então pra isso, qual que é o resumo de tudo isso?
+[0:02:53] A gente tem que testar.
+[0:02:55] E testar não é ficar batendo a cabeça na parede, não é ficar fazendo vídeo igual,
+[0:03:00] fazendo o mesmo vídeo.
+[0:03:02] Testar é de 100 vídeos que eu vou fazer, eu vou misturar tudo.
+[0:03:07] Eu vou fazer com esse formato, com esse ângulo pra essa persona.
+[0:03:11] Agora eu vou fazer com esse formato, com esse ângulo pra essa persona.
+[0:03:15] Agora eu vou fazer com esse formato, com esse ângulo pra essa persona.
+[0:03:18] Um deles você vai acertar.
+[0:03:19] Entendeu?
+[0:03:20] Não adianta querer ficar fazendo os mesmos vídeos.
+[0:03:24] O mesmo coisa, falando com a mesma persona no mesmo formato, tem que ser diferente.
+[0:03:28] Você muda a persona, você mescla isso.
+[0:03:31] Nós vamos trazer, a partir de agora, agora que vocês sabem os conceitos,
+[0:03:36] agora que vocês sabem o que é o AIDA, o que é a atenção, como gera interesse,
+[0:03:40] como cria desejo, como chama paração, o que é um ângulo de marketing
+[0:03:44] e o que é um formato de vídeo, a gente vai começar a trazer exemplos dentro da comunidade
+[0:03:50] e apontando isso.
+[0:03:52] Olha o ângulo que ele usou aqui.
+[0:03:54] Olha o ângulo que você pode usar aqui.
+[0:03:55] Olha a persona que ele atingiu aqui.
+[0:03:57] Olha o formato que esse cara está usando.
+[0:04:00] Então, fiquem muito atentos na comunidade, porque não só são os nós,
+[0:04:04] mas os alunos, vocês podem compartilhar entre si.
+[0:04:07] Olha essa página aqui que eu achei, galera, está usando esse formatinho.
+[0:04:10] Olha essa página que eu usei, eles estão pegando um produto de, sei lá,
+[0:04:14] de emagrecimento, mas está ofertando para a mulher tal coisa.
+[0:04:18] Um público diferente, um ângulo de marketing diferente.
+[0:04:22] E aí a gente compartilhe e a gente se ajuda.
+[0:04:23] Combinado, pessoal.
+[0:04:25] Esse foi o módulo mais cansativo, tem mais teoria, tem mais conhecimento mais denso,
+[0:04:32] mas é muito importante, porque isso não é só para o TikTok Shop.
+[0:04:36] Vocês tiveram um módulo de marketing agora.
+[0:04:39] Fechou, pessoal.
+[0:04:41] Estamos junto e seguimos juntos nessa aí.

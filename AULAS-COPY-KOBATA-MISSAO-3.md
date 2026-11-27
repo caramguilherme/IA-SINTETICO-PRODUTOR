@@ -18,7 +18,8 @@
 | 8. Mecanismo único | 8:30 | lida (27/11 15h04) |
 | 9. CTA | 12:09 | lida (27/11 15h12) |
 | 10. Ângulos que convertem | 11:25 | lida (27/11 15h12) |
-| 11 e 12 | | faltam os links (12 aulas no total; a aula 10 termina com "vamos para a nossa próxima e última aula desse módulo") |
+| 11. Estilos e formatos | 4:47 | lida (27/11 15h16) |
+| 12. Estrutura invisível e modelagem | 1:03:58 | transcrevendo (é a live "DIA 1 – Modelagem de Copy c/ Kobata! [LIPOTREND]", no Discord da Mentoria Viral Milionária) |
 
 ---
 
@@ -313,4 +314,33 @@
 
 ### Muda o pacote de hoje (nora82 a nora84)?
 **Não.** A aula manda replicar o que acertou, e hoje é o pacote do nora81.
+
+---
+
+## Aula 11: Estilos e formatos (4:47)
+
+### O que serve
+- **O formato é "como, visualmente, a mensagem é entregue"**, e o ângulo é "por onde o produto é entregue" (0:18 a 0:34). O formato também é parte do gancho visual (0:10).
+- **Exemplos de formato:**
+  - o podcast, com o microfone e o olhar para o lado ("aparenta ser um vídeo nativo… já passa a credibilidade", 0:34 a 1:01);
+  - a meia, com o pé na cerca (1:29 a 1:41);
+  - as páginas de texto em cima e embaixo, com o vídeo no meio;
+  - a receita no liquidificador com a voz por cima (1:58 a 2:35).
+
+  "A nossa missão é encontrar esses formatos virais" e modelar (1:06 a 1:55).
+- **"Quando você identificar um formato que vende, o ângulo que vende… uma persona que compra, acabou"** (2:36 a 2:49).
+- **Testar é misturar formato, ângulo e persona em vários vídeos, e não fazer o mesmo vídeo de novo** (2:50 a 3:31): "de 100 vídeos… um deles você vai acertar".
+
+### Na Nora
+- **Os formatos que já rodaram:**
+  - a Nora falando em casa (o pacote);
+  - o multi-ângulo (nora79);
+  - os curtos sem fala (ini1811, noracurto2611);
+  - o tsunami e as fitas de outubro.
+
+  **O podcast** já estava na `FILA` desde o guia do Muse (18/11), e agora tem a fonte da aula 11 (a credibilidade de vídeo nativo).
+- **"Misturar formato, ângulo e persona" e "replicar o que acertou" (aula 10) não brigam:** é o que a regra de 26/11 já faz, com 1 teste por dia (um formato, ângulo ou persona novo) e o resto replicando o que acertou (hoje, o pacote do nora81).
+
+### Muda o pacote de hoje (nora82 a nora84)?
+**Não.** O formato do nora81 (a Nora falando em casa, com o objeto na mão) é o que acertou.
 
