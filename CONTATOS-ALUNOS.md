@@ -1298,6 +1298,16 @@ oq vc faria pra destravar esse insta: seguir postando nele ou abrir outro?
 ```
 **De onde vem cada número:** `METRICAS-NORA-LEIA.md`, 26/11 10h05 (nora76-FACE 4.516, nora77-FACE 3.625, nora78-FACE 277; nora77 e nora78 no Insta 126; o nora79 com "This reel has a strong hook" e skip 44,5%). O "body que mais se repete" é a receita de 23/11 (`referencias-virais/2026-11-23-mineracao/RECEITA-DA-MAIORIA.md`).
 
+**[27/11 10h, a versão que vai (o lembrete das 10h): os números conferidos com o CSV, sem nada novo desde 26/11 10h05 (o nora79 com ~24 h não chegou). Corrigido: o "desde 10/11 todo falado trava entre 120 e 250" estava errado, porque o nora75 fez 695 no Insta em 23/11.]**
+```
+fala gustavo, tudo certo?
+voltando com resultado da mentoria de segunda (23/11)
+segui oq vc falou (casa simples, avatar menos mistica) e mexi no body: testei o body que mais se repete nas contas do nicho contra um mais leve
+no face o body da maioria foi pra 4,5 mil e 3,6 mil views, o leve ficou em 277. e saiu minha 1ª venda, do face
+no insta os dois travaram em 126 views. desde 10/11 so 1 falado meu passou de 250 no insta (695), o resto trava entre 120 e 250, ate os que o proprio insta marca como "strong hook"
+oq vc faria pra destravar esse insta: seguir postando nele ou abrir outro?
+```
+
 **Ao Pedro⚡ (DM; volta com o resultado da dica da bandeira, de 16/11 11h38):**
 ```
 fala pedro, tudo certo?
