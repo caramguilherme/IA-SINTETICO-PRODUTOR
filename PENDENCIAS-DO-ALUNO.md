@@ -5,7 +5,7 @@ A versão de 26/11 09h10 está no histórico do git. Aqui fica só o que ainda e
 ---
 
 ## Hoje, sexta 27/11, com hora
-- **~01h30:** o montado do nora81 chega para mim. **02h00:** o nora81 vai ao Insta e ao Face (eu devolvo o editado ~20 min depois do montado).
+- ~~02h00: o nora81~~ **postado às 02h43 no Insta e no Face.** A régua é com ~24 h (~02h43 de 28/11).
 - **10h:** a mensagem ao Gustavo Alves (eu ponho os números em dia antes; lembrete marcado).
 - **12h no Face: ainda sem peça.** Se quiser, eu monto: um corpo que já rodou no Face + um Take 1 novo das letras (1 clipe no Muse).
 - **17h:** o nora82 (as letras + o corpo da maioria, no quarto, blusa verde-escura; sem teste), Insta e Face. Painel pronto: https://claude.ai/artifact/Ybw3LKemdiLBF62SvDNsmZ
@@ -86,7 +86,7 @@ Aprova a ordem? Pode trocar qualquer dia.
   - o nora80 às ~18h50;
   - o story dos campos trancados entre ~22h e 00h10;
   - o noracurto2611 às ~23h56;
-  - o nora81 às ~02h de 28/11.
+  - o nora81 às ~02h43 de 28/11.
 
 ---
 
@@ -95,7 +95,7 @@ Aprova a ordem? Pode trocar qualquer dia.
 ### No ar
 | Teste | Contra o quê | Quando eu leio |
 |---|---|---|
-| **A frase de reinício** (nora81, 02h de 27/11): "Now, this part matters." depois da 2ª frase e "But it gets better." antes do "amanhã às 10" | o nora80 (o mesmo corpo sem as 2 frases) e o nora82 | 28/11 ~02h: a retenção aos 3, 10 e 15 s, o skip e as visitas. O horário das 2h tem mais Índia, e eu olho isso antes de comparar |
+| **A frase de reinício** (nora81, postado às 02h43 de 27/11): "Now, this part matters." depois da 2ª frase e "But it gets better." antes do "amanhã às 10" | o nora80 (o mesmo corpo sem as 2 frases) e o nora82 | 28/11 ~02h43: a retenção aos 3, 10 e 15 s, o skip e as visitas. O horário das 2h43 tem mais Índia, e eu olho isso antes de comparar |
 | **O desafio de pausar** (noracurto2611; Insta às 23h56 de 26/11, Face ~00h05 de 27/11) | o ini1811 (o outro curto sem fala, com 21 visitas ao perfil) | 27/11 ~23h56: o tempo médio contra os 4,25 s (acima = gente tentando de novo), as visitas, os toques no story e a Índia |
 | **O story dos campos trancados** (00h10 de 27/11, Insta e Face) | o `story-1811` (28 viewers, 7 toques) e o do "gift" (19 views, 0 toques) | 27/11 ~22h a 00h10 de 28/11: os toques por viewer e os cliques no Tracker |
 | **O multi-ângulo + a abertura do Robert** (nora79, 26/11 01h10) | o nora77 e o nora78 (126 cada) | agora, 27/11 ~01h10. **Parcial com ~9 h:** Insta 128, skip 44,5%, 0 visita; Face 290, +1,6x |
