@@ -17,8 +17,8 @@
 | 7. Frases de transição | 8:30 | lida (27/11 14h59) |
 | 8. Mecanismo único | 8:30 | lida (27/11 15h04) |
 | 9. CTA | 12:09 | lida (27/11 15h12) |
-| 10. Ângulos que convertem | | baixando |
-| 11 e 12 | | faltam os links (12 aulas no total; a aula 9: "ainda temos mais duas aulas nesse módulo") |
+| 10. Ângulos que convertem | 11:25 | lida (27/11 15h12) |
+| 11 e 12 | | faltam os links (12 aulas no total; a aula 10 termina com "vamos para a nossa próxima e última aula desse módulo") |
 
 ---
 
@@ -290,4 +290,27 @@
 
 ### Muda o pacote de hoje (nora82 a nora84)?
 **Não.** O porquê, a data e a "sorte" já estão nele, e os selos ficam porque estavam no vídeo que funcionou. Tirar os selos é o teste da `FILA`.
+
+---
+
+## Aula 10: Ângulos que convertem (11:25)
+
+### O que serve
+- **O ângulo é o ponto de vista** (1:41 a 2:35): o mesmo produto mostrado de outro lado. **"Cada um desses ângulos é uma pessoa diferente que você está pegando"**. E "na vida nada se cria, tudo se modela": o melhor jeito é "pegar algo que deu certo e mudar o ângulo dele" (1:27 a 1:41).
+- **Os exemplos dele:**
+  - o limpador de joias que virou o limpador de alinhador dental (2:37 a 4:35);
+  - o emagrecedor para a solteira que se sente rejeitada, para a noiva ou para a formanda (4:55 a 6:39);
+  - o protetor labial para crianças (7:11 a 8:13).
+- **"Não fica batendo na mesma tecla"** (8:27 a 8:57): diversificar até acertar ("toda vez que você fizer 100 vídeos diferentes… onde eles vão acertar"), e **"quando você entender por que ele vendeu, já era, é só você replicar"**.
+- **A dor tem que ser de muita gente**, não um detalhe raro (8:57 a 9:23).
+- **As dores que mais pegam, em todo nicho, são as de status, relacionamento e ego** (9:23 a 10:37). Status é mais do homem; na mulher pegam o ego (a piadinha no jantar da empresa) e o relacionamento (a rejeição).
+- **O ângulo junta a persona com o produto** (10:57 a 11:19): cada persona abre um ângulo.
+
+### Na Nora
+- **É o que já fazemos:** diversificamos (as letras, a canela, o multi-ângulo, os curtos) até acertar no nora81, e hoje replicamos (o pacote). Bate com "1 teste por dia, o resto usa o que dá certo".
+- **Os ângulos do Manifestation** saem das 4 respostas do quiz (dinheiro, amor, paz, propósito) e das personas da aula 4. O corpo da maioria hoje é o ângulo do dinheiro e da sorte. **O ângulo do relacionamento**, o mais forte para a mulher segundo a aula, é o "True love" do quiz e o ângulo do Pedro⚡ (amor no lugar do dinheiro). Ele está na `FILA` para 04/12 e agora tem a fonte da aula 10.
+- **A série dos signos** é outro ângulo do mesmo produto (espera o post da astróloga e o ok do aluno).
+
+### Muda o pacote de hoje (nora82 a nora84)?
+**Não.** A aula manda replicar o que acertou, e hoje é o pacote do nora81.
 

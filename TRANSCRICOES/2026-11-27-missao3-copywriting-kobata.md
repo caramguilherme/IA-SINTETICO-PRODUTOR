@@ -1797,3 +1797,330 @@ Na tela: o Kobata falando, sem texto da edição nos quadros a cada 20 s.
 [0:12:02] Ainda temos mais duas aulas nesse módulo.
 [0:12:04] Eu te vejo na próxima aula,
 [0:12:06] bora!
+
+## Aula 10: Ângulos que convertem (11:25; embed v=34388d2d-ddd8-42f5-a1d2-c7ef1af32444)
+
+Na tela: o Kobata falando, com o texto da edição "PONTO DE VISTA" (~1:45).
+
+[0:00:05] Bom pessoal, agora vocês entenderam todos os conceitos por trás de um vídeo
+[0:00:10] pra você conseguir começar a pensar, entender então o meu vídeo
+[0:00:13] ele tem que seguir uma sequência lógica das coisas
+[0:00:16] primeiro tem que chamar atenção através do gancho
+[0:00:19] com uma imagem chamativa, uma frase polêmica, uma frase de humor
+[0:00:23] chamei a atenção do público que eu queria
+[0:00:25] eu criei o interesse nele falando que sobre uma dor que ele passa
+[0:00:29] falando sobre um benefício que ele deseja
+[0:00:31] e aí ele quis assistir o resto do vídeo
+[0:00:33] no decorrer do vídeo eu criei uma curiosidade, um desejo nele
+[0:00:37] algo que pra ele atingir aquela vida que ele sonha
+[0:00:41] se livrar daquela dor
+[0:00:43] ou atingir aquele benefício que ele sempre sonhou
+[0:00:46] ele precisa de um algo ali
+[0:00:49] esse algo só existe no seu produto
+[0:00:51] então depois disso você agora que tem o desejo dessa pessoa
+[0:00:55] canalizou esse desejo pra uma ação no botão de compra
+[0:00:59] beleza, você entender essa estrutura
+[0:01:01] agora como que a gente faz pra pensar mais estratégicamente
+[0:01:05] no contexto desse vídeo
+[0:01:07] como a gente vai com o mesmo produto
+[0:01:11] aumentar as nossas chances de vender
+[0:01:13] isso ocorre através dos ângulos de marketing
+[0:01:17] é isso que eu quero que vocês aprendam agora
+[0:01:19] talvez assim cara
+[0:01:21] quem domina isso, quem domina ângulo de marketing
+[0:01:25] fica morto, recuo
+[0:01:27] porque lembra que eu falei pra vocês
+[0:01:29] que na vida nada se cria tudo se modela
+[0:01:33] exatamente
+[0:01:35] a melhor chance de você dar certo em qualquer coisa na vida
+[0:01:37] é você pegando algo que deu certo
+[0:01:39] e mudando o ângulo dele
+[0:01:41] o que seria o ângulo então?
+[0:01:43] o ângulo é literalmente ponto de vista
+[0:01:47] ângulo mesmo né? então imagina que eu estou de frente pra você
+[0:01:51] e você está me vendo por esse ângulo agora
+[0:01:53] você vê o meu rosto inteiro
+[0:01:55] você vê o meu corpo de frente
+[0:01:57] e agora se eu fico de lado
+[0:01:59] você me vê de outro ângulo
+[0:02:01] então você me vê de outra perspectiva
+[0:02:03] você vê o meu braço
+[0:02:05] você vê o meu pescoço
+[0:02:07] você vê minha cabeça de lado
+[0:02:09] você vê minha orelha
+[0:02:11] isso são ângulos
+[0:02:13] então imagina que isso é um produto
+[0:02:15] e você pode ver ele de diversas formas diferentes
+[0:02:19] e se você consegue atingir
+[0:02:21] falar desse produto de diversas formas diferentes
+[0:02:23] adivinha
+[0:02:25] cada um desses ângulos
+[0:02:27] é uma pessoa diferente que você está pegando
+[0:02:29] então às vezes você
+[0:02:31] pega o mesmo produto que todo mundo está vendendo
+[0:02:33] mas você oferta ele de uma forma totalmente diferente
+[0:02:35] e acerta na veia
+[0:02:37] vou dar um exemplo pra vocês
+[0:02:39] tem um produto nos Estados Unidos
+[0:02:41] chamava Dente Alguma coisa
+[0:02:43] esqueci o nome
+[0:02:45] hoje é uma empresa que vale
+[0:02:47] um milhão de dólares
+[0:02:49] sabe como eles começaram?
+[0:02:51] começaram usando, vendendo um produto
+[0:02:53] e todo mundo vendia aquele produto
+[0:02:55] era só você se afiliar e vender
+[0:02:57] sabe o que era o produto?
+[0:02:59] o produto era uma caixinha
+[0:03:01] com um motorzinho
+[0:03:03] que vibrava a água
+[0:03:05] acho que tinha algum composto naquela água
+[0:03:07] que eles forneciam um pózinho
+[0:03:09] e era para limpar joias
+[0:03:11] então os vídeos eram
+[0:03:13] o cara pegando uma joia toda suja
+[0:03:15] coloca na caixinha vibra
+[0:03:17] e a hora que ele tira
+[0:03:19] a água está toda cheia de sujeira
+[0:03:21] e a água é de limpinha
+[0:03:23] todo mundo vendeu como
+[0:03:25] limpador de joias
+[0:03:27] se você fosse mais uma pessoa
+[0:03:29] pegando esse produto
+[0:03:31] e aí vou vender para limpar joias
+[0:03:33] você seria só mais um
+[0:03:35] agora o que que essa empresa
+[0:03:37] que hoje é uma empresa bilionária fez
+[0:03:39] pegou o mesmo produto
+[0:03:41] o mesmo produto
+[0:03:43] e ao invés de anunciar como
+[0:03:45] limpador de joias
+[0:03:47] anunciou como um limpador
+[0:03:49] e o pessoal está usando hoje em dia
+[0:03:51] que é transparente para ajustar os dentes
+[0:03:53] pois é, ele fica amarelo
+[0:03:55] ele fica sujo e está na boca da pessoa
+[0:03:57] então a pessoa fica com um pouco de nojo
+[0:03:59] e aparece que o dente dela é amarelo
+[0:04:01] então ele pegou o mesmo
+[0:04:03] produto e trocou
+[0:04:05] o ângulo de marketing
+[0:04:07] em vez de eu vender isso como limpador de joias
+[0:04:09] eu vou vender isso como limpador de invisaline
+[0:04:11] então os vídeos dele ao invés de colocar uma joia
+[0:04:13] ele pegava o invisaline amarelado
+[0:04:15] jogava lá dentro
+[0:04:17] e tirava ele transparente
+[0:04:19] depois disso vendeu tanto
+[0:04:21] tantos milhões de dólares
+[0:04:23] que eles consolidaram a marca
+[0:04:25] e criou um produto que agora é um
+[0:04:27] verdadeiro limpador de invisaline
+[0:04:29] mas percebe que eles estavam vendendo
+[0:04:31] o mesmo produto que estou adendo
+[0:04:33] mas eles usaram um ângulo de marketing
+[0:04:35] diferente
+[0:04:37] como nós podemos trazer isso para
+[0:04:39] a nossa realidade, para os suplementos
+[0:04:41] primeiro, lembra quando você definiu
+[0:04:43] lá atrás as personas
+[0:04:45] e você pensou
+[0:04:47] nas situações de vida
+[0:04:49] que essas pessoas passavam
+[0:04:51] que traziam dores
+[0:04:53] ou que despertavam o desejo delas
+[0:04:55] em benefício de algo? Vou trazer um exemplo aqui
+[0:04:57] imagina que
+[0:04:59] a mulher acima do peso
+[0:05:01] supondo que você vende um produto de
+[0:05:03] emagrecimento, a mulher que está acima do peso
+[0:05:05] a gente escolheu aquela persona, é uma mulher
+[0:05:07] de 25 anos, que ela está
+[0:05:09] solteira, ela nunca namorou
+[0:05:11] e ela se sente rejeitada
+[0:05:13] pelos homens porque ela está acima do peso
+[0:05:15] imagina que o ângulo de marketing
+[0:05:17] que você vai usar nesse produto
+[0:05:19] é esse, você vai pegar as situações
+[0:05:21] de vida que essa mulher passa, pode ser
+[0:05:23] um aplicativo de relacionamento tipo Tinder
+[0:05:25] pode ser quando ela sai para jantar com o cara
+[0:05:27] e o cara fala que
+[0:05:29] ela é diferente das fotos
+[0:05:31] é diferente do que ele imaginava
+[0:05:33] entende, são dores dessa pessoa
+[0:05:35] e aí você traz o seu produto
+[0:05:37] para solucionar essa dor
+[0:05:39] nesse ângulo aí
+[0:05:41] ou você pode apresentar ele
+[0:05:43] como um produto de emagrecimento para noivas
+[0:05:45] não é um produto de emagrecimento normal
+[0:05:47] é um produto de emagrecimento para noivas
+[0:05:49] para você
+[0:05:51] que está com um casamento marcado
+[0:05:53] e quer tirar
+[0:05:55] as melhores fotos no dia mais importante
+[0:05:57] da sua vida, você pegou o mesmo produto
+[0:05:59] só que agora você colocou
+[0:06:01] num ângulo que pouca gente está explorando
+[0:06:03] agora ele é um produto para noivas
+[0:06:05] é o produto feito
+[0:06:07] para noivas, estão com um casamento marcado
+[0:06:09] que quer estar bonita nesse dia tão especial
+[0:06:11] ou então
+[0:06:13] um produto de emagrecimento para mulheres
+[0:06:15] que estão se formando na faculdade
+[0:06:17] também é uma data muito especial
+[0:06:19] entende, isso é o ângulo
+[0:06:21] o produto é o mesmo, mas você está vendo ele de uma forma
+[0:06:23] aqui você viu sobre a visão da noiva
+[0:06:25] aqui você viu sobre a visão da mulher
+[0:06:27] do relacionamento, da solteira, que nunca namorou
+[0:06:29] aqui você viu sobre a mulher
+[0:06:31] que vai se formar na faculdade
+[0:06:33] ou num trabalho, ou numa graduação
+[0:06:35] ou uma pós-graduação, enfim
+[0:06:37] isso é um produto importante
+[0:06:39] entende, isso é o ângulo de marketing
+[0:06:41] é você conseguir pegar o mesmo produto
+[0:06:43] e apresentar ele de diversas formas diferentes
+[0:06:45] quando você
+[0:06:47] dominar essa habilidade
+[0:06:49] atingir pessoas diferentes como a gente ensinou
+[0:06:51] com ganhos diferentes
+[0:06:53] com ângulos diferentes
+[0:06:55] uma hora você vai acertar
+[0:06:57] e quando você acertar isso
+[0:06:59] é só você replicar
+[0:07:01] você já sabe o ângulo que deu certo
+[0:07:03] é assim que a empresa sai do zero
+[0:07:05] com ganhões do nada
+[0:07:07] às vezes eles pegaram e ofertaram
+[0:07:09] o mesmo produto que todo mundo oferta
+[0:07:11] vou dar um exemplo, por exemplo a Cimed
+[0:07:13] a empresa do João Adibi
+[0:07:15] empresa bilionária
+[0:07:17] eles lançaram um creme labial
+[0:07:19] quantos cremes labiais existem por aí
+[0:07:21] um monte
+[0:07:23] inúmeros
+[0:07:25] por que eles conseguiram lançar um creme labial
+[0:07:27] que dominou o mercado
+[0:07:29] eles mudaram o ângulo
+[0:07:31] agora não é um creme labial
+[0:07:33] e não é um creme labial para crianças
+[0:07:35] então todas as crianças
+[0:07:37] imagina só, nunca uma criança quis ir na farmácia
+[0:07:39] o cara tem uma empresa de remédio
+[0:07:41] e nunca uma criança, por que uma criança vai querer ir na farmácia
+[0:07:43] agora elas querem
+[0:07:45] porque elas querem comprar o creme labial
+[0:07:47] da Cimed
+[0:07:49] eles pegaram um produto que todo mundo já vende
+[0:07:51] mas eles trocaram o ângulo
+[0:07:53] eles atingiram um outro público
+[0:07:55] as crianças e os pais vão comprar
+[0:07:57] porque é um protetor labial, faz bem para o filho dele
+[0:07:59] e o filho dele está pedindo
+[0:08:01] entende o poder que você tem
+[0:08:03] e só essa marca
+[0:08:05] do adib
+[0:08:07] desse protetor labial, desse creme labial
+[0:08:09] já é o último milionário
+[0:08:11] só esse produto
+[0:08:13] que é um produto como outro qualquer
+[0:08:15] então o que você precisa entender é
+[0:08:17] dominar
+[0:08:19] olhar o seu produto que você vai vender
+[0:08:21] de uma forma 360°
+[0:08:23] de todos os ângulos possíveis
+[0:08:25] para todos os típulos de pessoa
+[0:08:27] não fica batendo na mesma tecla
+[0:08:29] ah, eu quero vender assim
+[0:08:31] emagrecimento, emagrecimento, emagrecimento
+[0:08:33] e fica falando da mesma coisa
+[0:08:35] foquem diversificar
+[0:08:37] porque quando você diversifica
+[0:08:39] ainda mais que a gente não investe em tráfego
+[0:08:41] a gente não gasta dinheiro para testar
+[0:08:43] toda vez que você fizer 100 vídeos diferentes
+[0:08:45] onde eles vão acertar
+[0:08:47] e a hora que você acertar acabou
+[0:08:49] acabou porque esse vídeo vai vender
+[0:08:51] e aí você entendeu
+[0:08:53] e quando você entender por que ele vendeu
+[0:08:55] já era, é só você replicar
+[0:08:57] apesar de ele ser específico para a pessoa
+[0:08:59] tem que ser algo que muita gente
+[0:09:01] que você pesquisa assim
+[0:09:03] que você vê que muitas pessoas passam por aquilo
+[0:09:05] não adianta você querer falar também, por exemplo, do emagrecimento
+[0:09:07] vai falar da mulher
+[0:09:09] que sei lá
+[0:09:11] ela sente que está acima do peso
+[0:09:13] porque ela vai descer a guia da calçada
+[0:09:15] e ela sente
+[0:09:17] que o peso dela pesa assim
+[0:09:19] na hora que ela desce a guia, não faz sentido
+[0:09:21] isso não é um ador que muitas mulheres vão passar
+[0:09:23] geralmente
+[0:09:25] para todos os nichos
+[0:09:27] as dores que mais vão pegar
+[0:09:29] são aquelas relacionadas
+[0:09:31] a status, a relacionamento
+[0:09:33] e a ego
+[0:09:35] por exemplo, um ego, uma mulher que está acima do peso
+[0:09:37] no jantar da empresa
+[0:09:39] e alguém faz uma piadinha
+[0:09:41] na mesa de jantar
+[0:09:43] com o peso dela ou com a comida que ela está comendo
+[0:09:45] afetou o ego dela
+[0:09:47] isso é um ador forte
+[0:09:49] ou então uma rejeição por um homem
+[0:09:51] afetou o relacionamento dela
+[0:09:53] é um ador forte, entende?
+[0:09:55] então geralmente
+[0:09:57] o ego
+[0:09:59] e o relacionamento são os melhores ângulos
+[0:10:01] para você buscar
+[0:10:03] aliás, são os melhores jeitos
+[0:10:05] para você buscar ângulos dentro
+[0:10:07] você também, geralmente, a parte do status
+[0:10:09] é mais para o homem
+[0:10:11] o homem quer o status
+[0:10:13] o dinheiro, o posicionamento dele
+[0:10:15] como os outros respeitam ele
+[0:10:17] se ele for de respeitado, essas paradas vão doendo o cara
+[0:10:19] também, relacionamento
+[0:10:21] se uma mulher derrissada dele
+[0:10:23] se uma mulher achou isso dele
+[0:10:25] não é a toa que, pô
+[0:10:27] o cara, a maior preocupação dos caras
+[0:10:29] é se a mulher vai fofocar
+[0:10:31] lá para as meninas que aconteceram tal coisa
+[0:10:33] porque mexe com o ego dele
+[0:10:35] com o status dele
+[0:10:37] beleza? então tem que ser algo que realmente
+[0:10:39] atinge as pessoas
+[0:10:41] e o foco seu para descobrir esses ângulos
+[0:10:43] é olhar como
+[0:10:45] esse produto pode ser apresentado
+[0:10:47] para diversas pessoas
+[0:10:49] com base
+[0:10:51] nos momentos de vida
+[0:10:53] dessa pessoa que ela
+[0:10:55] lembra daquela dor, ou que ela deseja benefício
+[0:10:57] lá na aula de personagens a gente falou disso
+[0:10:59] combinado
+[0:11:01] identificamos agora o que são ângulos
+[0:11:03] de marketing
+[0:11:05] é uma combinação entre um estudo
+[0:11:07] da sua persona com o seu produto
+[0:11:09] então eu tenho uma persona aqui
+[0:11:11] e eu consigo atingir um ângulo do meu produto
+[0:11:13] aqui agora eu tenho uma persona aqui
+[0:11:15] e eu consigo atingir para cá
+[0:11:17] e eu atingi por esse ângulo aqui
+[0:11:19] fechou galera
+[0:11:21] vamos para a nossa próxima e última aula desse módulo
+[0:11:23] aqui
