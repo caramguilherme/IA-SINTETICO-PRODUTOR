@@ -1335,6 +1335,14 @@ no insta tava tudo travado entre 120 e 250 desde 10/11, mas o video de hoje de m
 quando um video destrava assim, oq vc repete nos proximos: a mesma copy com outra roupa e cenario, ou outra coisa?
 sem pressa pra responder, curte o dia!
 ```
+**[27/11 16h40, a DM não vai: o aluno não consegue mais mandar mensagem ao Gustavo ("nao sou amigo dele no discord. ele deve ter mudado as configuraçoes"); o pedido de amizade foi enviado em 27/11 e está esperando. Vão só os parabéns na thread. A volta com resultado espera o pedido ser aceito; se não for até segunda, 01/12, vai como pergunta pública no #chat-appyon (texto abaixo), sem marcar ele. Não mandar o pedido de amizade de novo.]**
+No #chat-appyon, se o pedido não for aceito até 01/12 (pergunta aberta, qualquer um pode responder):
+```
+galera, uma duvida de quem ja passou por isso
+meu insta tava travado entre 120 e 250 views desde 10/11, e um video de madrugada foi pra 1,3 mil em 9h, com 17 compartilhamentos e 17 salvos
+mesmo body dos outros, so com 2 frases curtas no meio pra segurar a atencao
+quando um video destrava assim, oq vcs repetem nos proximos: a mesma copy com outra roupa e cenario, ou outra coisa?
+```
 **De onde vem cada número:** os mesmos da versão de 12h25 (`METRICAS-NORA-LEIA.md`, 26/11 10h05 e 27/11 12h20: nora76-FACE 4.516, nora77-FACE 3.625, nora78-FACE 277, o nora81 com 1.352 em ~9 h, 17 compartilhamentos e 17 salvos).
 
 **Ao Pedro⚡ (DM; volta com o resultado da dica da bandeira, de 16/11 11h38):**
