@@ -11,7 +11,7 @@
 | 1. Entendendo o algoritmo | 7:52 | lida (27/11 13h50) |
 | 2. Os pilares da conversão | 11:49 | lida (27/11 13h55) |
 | 3. Audiência | 14:32 | lida (27/11 14h12) |
-| 4. Personas | | falta o link |
+| 4. Personas | 9:33 | lida (27/11 14h33) |
 | 5. AIDA | | falta o link |
 | 6. Ganchos | | falta o link |
 | 7. Frases de transição | | falta o link |
@@ -126,4 +126,40 @@
 
 ### Muda o pacote de hoje (nora82 a nora84)?
 **Não.** O pacote já é um vídeo de celular em casa, com rosto, pouca edição e a tela limpa até o CTA, e fala com quem já acredita em sinais (os níveis 3 e 4). A frase "de pessoa comum" vai para a fila e não entra hoje, porque hoje é dia de usar o que deu certo, sem teste.
+
+---
+
+## Aula 4: Personas (9:33)
+
+### O que serve
+- **A persona é uma pessoa só** (0:22 a 0:50): dentro da audiência ("mulheres acima dos 35"), uma pessoa que seria a compradora ideal, com nome, idade, profissão, estado civil e a situação de vida (5:22 a 5:35).
+
+  O exemplo dele tem 3 mulheres para o mesmo creme: a Amanda, 54, divorciada, que quer um parceiro; a Gertrude, 46, nunca casou e quer casar; a Beatriz, 30, que se compara com as influenciadoras. **"São pessoas diferentes"** (3:28), e cada uma pede um conteúdo próprio (4:21 a 4:31).
+- **O efeito que se busca: "esse vídeo foi para mim… parece que o vídeo está falando comigo"** (4:31 a 5:17). E existem milhões iguais a ela, que sentem o mesmo.
+- **O principal: os momentos do dia a dia em que o problema aparece** (5:35 a 8:16). Exemplos dele:
+  - "o momento em que ela vai escovar o dente de manhã e se olha no espelho";
+  - o supermercado;
+  - o Instagram;
+  - o comentário "inocente" de alguém, que machuca;
+  - "foi num casamento, tirou uma foto… e estava todas as rugas dela marcando. Olha como é forte isso".
+
+  **"Se você conseguir encontrar esses momentos e trazer para o seu conteúdo e a pessoa se identificar, esquece, ela vai comprar"** (6:37 a 6:46).
+- **Como achar os momentos** (7:08 a 9:04): sentar, se perguntar e escrever, ou pedir à IA ("vamos fazer uma aula gravada com inteligência artificial"). Mas "a inteligência artificial nunca vai sentir igual você sente": se pôr no lugar dela, do acordar ao dormir.
+- **"Se você acertar a persona… mesmo que você erre um pouco o script, mesmo que não seja tão agressiva… ela compra"** (9:12 a 9:28).
+
+### Na Nora
+- **O corpo da maioria já abre com um momento do dia:** "There's a woman lying down with her phone in her hand right now" (a 2ª frase, a que segura ou perde a pessoa). Por isso ele funciona como o "foi para mim". As letras do nome fazem o mesmo papel na 1ª frase: a pessoa se vê na lista.
+- **As personas do Manifestation, pela pesquisa oficial** (a mulher americana de 45+; o quiz pergunta o que ela mais quer: dinheiro, amor, paz ou propósito), escritas aqui como ponto de partida e sem inventar números:
+  - **(a) a que segura as contas sozinha** (o dinheiro): o momento é abrir o app do banco antes de dormir;
+  - **(b) a divorciada ou viúva de 55+ que quer alguém** (o amor): o momento é jantar sozinha, ou a foto de casal das amigas;
+  - **(c) a que vive para os outros e se sente travada** (o propósito): o momento é o carro parado na garagem antes de entrar em casa, ou o domingo à noite antes do trabalho;
+  - **(d) a que vê os números repetidos** (o sinal): o momento é o 11:11 no relógio.
+
+  É o mesmo raciocínio do ângulo do Pedro⚡ (amor, signo ou numerologia em cada vídeo) e da 2ª frase de validação (Clone R48). **Vai para a `FILA`:** a 2ª frase com o momento de uma persona, uma por vídeo, como braço do teste da 2ª frase de 02/12.
+
+### O que não serve
+- O creme e as rugas. A Beatriz, de 30, que se compara com influenciadoras, está fora do público da Nora (45+).
+
+### Muda o pacote de hoje (nora82 a nora84)?
+**Não.** O pacote já tem o momento da mulher deitada com o celular na mão e as letras do nome, que são o "foi para mim". As personas entram como teste, não hoje.
 

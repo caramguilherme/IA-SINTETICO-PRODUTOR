@@ -621,3 +621,295 @@ Na tela: o Kobata falando (o mesmo cenário das aulas 1 e 2).
 [0:14:23] tudo, sempre parecendo um conteúdo
 [0:14:25] orgânico, uma indicação e não uma
 [0:14:27] venda, beleza? Bora para a próxima aula então pessoal!
+
+## Aula 4: Personas (9:33; embed v=2575ac08-df62-4169-8874-fde8a436cfcc)
+
+Na tela: o Kobata falando, com textos da edição ("UMA PESSOA" ~0:25, "SÃO PESSOAS DIFERENTES" ~3:30, "Profissão / Estado Civil / Idade / Nome" ~5:25).
+
+[0:00:05] Bom pessoal na última aula então a gente conversou sobre audiência.
+[0:00:08] Audiência é a palavra que a gente usa para definir todo o seu público-alvo, tá?
+[0:00:12] Então mulheres, por exemplo. Mulheres que querem rejuvenecer, beleza?
+[0:00:17] No caso do creme para o rosto. Agora nós vamos falar sobre persona.
+[0:00:22] Pensem muita atenção, tá? Quem é a persona? O que é persona?
+[0:00:26] Persona é uma pessoa, você tem que imaginar uma pessoa que seria o seu comprador ideal, tá?
+[0:00:35] Uma pessoa que seria um potencial comprador enorme pra você.
+[0:00:38] Então não é mais uma audiência, não é algo mais amplo. Mulheres acima dos 35 anos.
+[0:00:43] Mulheres acima dos 25 anos, não. Agora é uma pessoa.
+[0:00:47] Você tem que fechar o olho e tem que imaginar uma única pessoa que fala assim,
+[0:00:50] cara, o meu produto seria perfeito pra essa pessoa aqui.
+[0:00:53] Como que a gente vai fazer isso? Nós vamos fazer algumas perguntas, tá?
+[0:00:58] Para que a gente entenda mais sobre essas personas, para que a gente consiga mapear essas personas.
+[0:01:03] Vamos lá. Vamos supor, tá? Eu vou dar um exemplo aqui,
+[0:01:06] que você vai vender um produto de... Vamos continuar com creme de pele, tá?
+[0:01:11] Vamos supor que você vai vender um produto no qual a sua audiência são mulheres
+[0:01:16] que querem rejuvenecer o rosto. Beleza.
+[0:01:18] Vamos pensar agora em algumas mulheres específicas que podem querer esse produto.
+[0:01:23] E no final dessa aula, vocês vão entender porque é muito importante
+[0:01:25] você encontrar várias dessas mulheres, tá?
+[0:01:28] Então vamos pensar aqui que... Vamos dar um nome pra ela primeiro.
+[0:01:32] Amanda. Amanda é uma mulher, vamos dar uma idade de 54 anos, tá?
+[0:01:38] Amanda, ela tem 54 anos e ela é divorciada.
+[0:01:42] Então ela diversou aos 50 anos de idade.
+[0:01:44] Ela tá 4 anos solteira, ela já passou dos 50 e Amanda,
+[0:01:49] ela sente vontade de ter alguém para passar o fim da... o resto da vida,
+[0:01:53] digamos assim, para ter alguém do lado dela, na terceira idade, para...
+[0:01:57] Enfim, para viajar, para curtir a vida dela.
+[0:01:59] Só que, como ela divorciou e ela já passou dos 50,
+[0:02:02] ela acha que ela tá velha para isso.
+[0:02:04] Ela se olha no espelho e ela sente que as rugas dela e a aparência,
+[0:02:08] mais da idade mais avançada, atrapalha ela e ela nunca vai achar
+[0:02:12] um cara que sente atração por ela.
+[0:02:13] Então, a Amanda é essa mulher de 54 anos,
+[0:02:17] divorciada, que já foi casada, que sabe o que é um relacionamento,
+[0:02:22] que tem vontade de ter mais um relacionamento,
+[0:02:24] mas a dor dela, a pele, atrapalha ela.
+[0:02:27] Internamente, ela sente que a pele dela é um obstáculo
+[0:02:31] para ela realizar esse sonho.
+[0:02:32] Entende? Essa é a Amanda.
+[0:02:34] Beleza, vamos pensar em outra pessoa agora? Beleza.
+[0:02:36] Vamos pensar na Gertrude. Vamos pensar na Gertrude.
+[0:02:40] A Gertrude, ela tem seus 46 anos, mas ela nunca casou.
+[0:02:46] Ela nunca casou, ela sempre foi solteirona.
+[0:02:48] E agora que ela tá batendo nos seus quase 50 anos,
+[0:02:52] ela sente que passou a época dela
+[0:02:55] e que antes, quando ela era mais jovem,
+[0:02:58] ela tinha mais chance de achar alguém.
+[0:02:59] E agora ela quer achar alguém de novo.
+[0:03:01] Ela quer ter esse companheiro que ela nunca teve,
+[0:03:04] mas que agora, como ela tá com 46 anos,
+[0:03:06] ela sente também que a pele dela deixa ela mais menos atraente, etc.
+[0:03:11] Isso gera uma insegurança nela para uma mulher que nunca foi casada.
+[0:03:14] Ela é diferente da Amanda.
+[0:03:15] Amanda já foi casada.
+[0:03:16] Sabe o que é um relacionamento?
+[0:03:17] Ela não sabe o que é um casamento.
+[0:03:19] E por isso ela tem esse sonho de casar.
+[0:03:21] Amanda não quer casar.
+[0:03:22] Amanda, ela quer um parceiro de vida.
+[0:03:23] Ela já casou, ela sabe o que é essa experiência.
+[0:03:26] Gertrudis, ela sonha em casar agora.
+[0:03:28] São pessoas diferentes.
+[0:03:30] Vamos pensar agora numa terceira mulher
+[0:03:32] que pode ser um público-comprador.
+[0:03:33] A Beatriz.
+[0:03:34] A Beatriz tem 30 anos só.
+[0:03:36] Ela tem 30 anos.
+[0:03:37] Mas toda vez que ela abre o Instagram,
+[0:03:39] ela vê uma mulher de 35, de 40 anos,
+[0:03:42] com a pele linda, com o corpo maravilhoso,
+[0:03:44] com a bidoma entrencada, com a bunda empinada.
+[0:03:46] E ela se compara.
+[0:03:47] Ela é uma mulher comum.
+[0:03:49] Uma mulher normal de 30 anos de idade.
+[0:03:50] Mas ela se compara com essas influenciadoras.
+[0:03:52] Ela se compara com esse padrão de beleza.
+[0:03:54] E por isso ela está sempre atrás de alguma solução estética.
+[0:03:57] Então ela está sempre comprando creme.
+[0:04:00] Ela está sempre cuidando do cabelo.
+[0:04:01] Ela está sempre atrás de manter a pele dela
+[0:04:05] o mais perfeita possível que ela não envelheça.
+[0:04:08] Ela não quer envelhecer de jeito nenhum.
+[0:04:10] Você entende?
+[0:04:11] Vamos pegar esses três exemplos.
+[0:04:12] Você entende que essas três pessoas
+[0:04:14] são completamente diferentes,
+[0:04:16] mas que as três podem ser um público
+[0:04:18] perfeitamente comprador seu?
+[0:04:19] E por que isso é tão importante?
+[0:04:21] Porque quando você identificar
+[0:04:23] vários tipos de persona,
+[0:04:24] você pode produzir conteúdos específicos
+[0:04:27] para cada um deles.
+[0:04:28] Ah, cobata, mas aí você está fazendo conteúdo
+[0:04:29] para uma pessoa só?
+[0:04:30] Isso.
+[0:04:31] O seu conteúdo tem que ser direcionado
+[0:04:33] para uma pessoa de forma que
+[0:04:34] a Amanda, quando veja o seu conteúdo,
+[0:04:36] olha e fala assim, caraca.
+[0:04:38] Esse vídeo foi para mim.
+[0:04:39] Falou comigo?
+[0:04:40] Tenho certeza que você já teve essa sensação
+[0:04:41] de assistir um vídeo e falar assim,
+[0:04:43] nossa, cara, o meu algoritmo
+[0:04:44] me entende, perfeito isso aqui para mim.
+[0:04:46] Parece que o vídeo está falando comigo.
+[0:04:48] Nossa, isso aqui aconteceu com o seu ano passado.
+[0:04:50] Entende?
+[0:04:51] É essa sensação que a gente tem que causar.
+[0:04:52] A diferença é que quando a Amanda
+[0:04:54] olhar e falar assim,
+[0:04:55] nossa, esse vídeo falou comigo,
+[0:04:56] existem dezenas de milhares,
+[0:04:58] centenas de milhares,
+[0:04:59] milhões de pessoas,
+[0:05:00] iguais as é a Amanda,
+[0:05:01] que também vão olhar e pensar,
+[0:05:03] nossa, esse vídeo falou exatamente comigo.
+[0:05:05] Então, quando você for definir uma persona,
+[0:05:07] você vai pensar em uma pessoa,
+[0:05:08] mas essa pessoa,
+[0:05:10] existem inúmeras pessoas iguais a ela.
+[0:05:12] Mas ela tem que ter
+[0:05:13] essa sensação de...
+[0:05:15] de caraca, esse vídeo falou comigo.
+[0:05:17] Como que a gente traz essa sensação
+[0:05:19] de, meu Deus, esse vídeo é para mim?
+[0:05:22] Primeiro, a gente vai pensar nessas características.
+[0:05:24] Um nome, uma idade,
+[0:05:26] uma profissão, um estado civil,
+[0:05:29] é... uma...
+[0:05:31] situação que ela vive na vida, né?
+[0:05:33] Por exemplo, acabou de divorciar e etc.
+[0:05:35] Mas o principal,
+[0:05:37] nós vamos pensar,
+[0:05:38] presta atenção nisso aqui,
+[0:05:40] nós vamos pensar
+[0:05:41] nos momentos do dia a dia dela
+[0:05:44] em que ela passa
+[0:05:45] vergonha, boa dificuldade
+[0:05:48] em causa desse problema que o nosso prefeito trata.
+[0:05:50] Então, trazendo aí
+[0:05:51] como exemplo a questão do crime,
+[0:05:53] não basta a gente saber
+[0:05:54] que a Amanda é divorciada
+[0:05:57] e que agora ela quer achar alguém para passar
+[0:05:59] a velhice ali, né?
+[0:06:01] A terceira fase, a terceira...
+[0:06:03] terceira idade junto.
+[0:06:04] Não basta a gente saber isso.
+[0:06:05] Quais são os momentos,
+[0:06:06] um momento em que ela corda,
+[0:06:08] que ela sai da cama dela,
+[0:06:09] até o momento em que ela volta para a cama para dormir,
+[0:06:11] em que isso lembra,
+[0:06:13] que ela lembra disso,
+[0:06:14] que ela olha e fala, nossa,
+[0:06:15] olha a minha pele, nunca que eu vou achar o cara agora.
+[0:06:17] Quais são os momentos?
+[0:06:19] Será que é...
+[0:06:20] Será que é quando ela vai na rua?
+[0:06:21] Será que é quando ela vai no supermercado?
+[0:06:23] Será que é quando ela abre o Instagram
+[0:06:25] e vê também umas influenciadoras?
+[0:06:27] Entende?
+[0:06:28] Você tem que encontrar esses momentos de vida.
+[0:06:30] É o momento em que ela corda,
+[0:06:32] o momento em que ela vai escovar o dente de manhã
+[0:06:34] e se olha no espelho.
+[0:06:35] Entende? A profundidade que tem isso?
+[0:06:37] Se você conseguir encontrar esses momentos
+[0:06:40] e trazer para o seu conteúdo
+[0:06:41] e a pessoa se identificar,
+[0:06:43] esquece, ela vai comprar o seu produto.
+[0:06:46] Independente de que o seu produto,
+[0:06:47] sei lá, seja só mais um produto
+[0:06:49] que ela vê por aí,
+[0:06:51] agora você falou com ela,
+[0:06:53] ela olhou o seu vídeo e falou,
+[0:06:54] essa pessoa me entende.
+[0:06:55] Essa pessoa sabe o que eu estou passando
+[0:06:57] e ela vai comprar.
+[0:06:58] É por isso que o seu vídeo,
+[0:06:59] novamente, sempre tem que parecer orgânico,
+[0:07:01] sempre tem que parecer uma pessoa comum
+[0:07:03] postando porque pessoas compram de pessoas
+[0:07:05] e você tem que entender exatamente
+[0:07:07] com quem você está falando.
+[0:07:08] Cobata, como que eu entendo?
+[0:07:09] Como que eu descubro os momentos de vida
+[0:07:11] que essa pessoa vai ter o problema dela
+[0:07:13] vindo à tona, vindo na mente dela?
+[0:07:15] Primeiro, igual a gente fez aqui agora.
+[0:07:17] Parando e se questionando.
+[0:07:19] Ah, pera aí.
+[0:07:20] Se a pele dela que incomoda,
+[0:07:22] ou alguém fala da pele dela,
+[0:07:23] ou ela vê um reflexo em algum lugar,
+[0:07:25] ou alguma situação constrangidora,
+[0:07:27] tipo saiu com o cara e o cara comentou.
+[0:07:29] Tira tudo isso agora.
+[0:07:31] Ela sai com o cara, conhece um cara bacana,
+[0:07:34] vai tomar um vinho com ele,
+[0:07:35] e o cara faz um comentário,
+[0:07:37] uma piadinha, um comentário daquele inocente,
+[0:07:39] sabe aqueles comentários inocentes
+[0:07:41] que machuca a pessoa?
+[0:07:42] Tipo, esse tipo de coisa,
+[0:07:44] se você conseguir trazer essas ideias,
+[0:07:46] saiu com o cara, foi numa festa,
+[0:07:48] foi num casamento, tirou uma foto dela,
+[0:07:50] olha essa ideia aqui.
+[0:07:51] Ela foi num casamento,
+[0:07:52] tirou uma foto dela,
+[0:07:53] e ela olhou para a foto
+[0:07:54] e estava todas as fugas dela marcando.
+[0:07:56] Olha como é forte isso.
+[0:07:58] Olha como uma pessoa que passa por isso,
+[0:07:59] ela vai pensar e falar,
+[0:08:00] caraca, isso pode acontecer comigo.
+[0:08:01] Ou isso aconteceu comigo.
+[0:08:03] Então você tem que literalmente
+[0:08:04] sentar e estudar,
+[0:08:06] e procurar essas situações de vida,
+[0:08:08] procurar essas pessoas,
+[0:08:09] a idade, o nome, a profissão,
+[0:08:11] o estado civil, escreve isso.
+[0:08:13] Identifique essas pessoas,
+[0:08:14] entenda a pessoa que você está vendendo.
+[0:08:16] Beleza?
+[0:08:17] O outro jeito
+[0:08:18] é você usar inteligência artificial.
+[0:08:20] Através do chat e PT,
+[0:08:21] você pode perguntar essas coisas para ele.
+[0:08:23] Eu tenho um produto
+[0:08:24] que tem a promessa de rejuvenecer o rosto,
+[0:08:28] de melhorar as rugas,
+[0:08:29] melhorar a pedigalinha,
+[0:08:30] melhorar a bigotinez, etc.
+[0:08:32] Defina uma persona com base nisso,
+[0:08:33] nisso, nisso, nisso, nisso.
+[0:08:34] Nós vamos fazer uma aula
+[0:08:35] gravada com inteligência artificial
+[0:08:37] para te ajudar nesse processo, tá bom?
+[0:08:39] Para mostrar alguns escritis,
+[0:08:40] algumas textos que você pode mandar
+[0:08:42] para inteligência artificial,
+[0:08:43] para ela decifrar,
+[0:08:44] identificar esses momentos de vida
+[0:08:46] e essas personagens para você.
+[0:08:47] Mas o principal,
+[0:08:48] porque a inteligência artificial
+[0:08:49] nunca vai sentir igual você sente,
+[0:08:51] é pensar nessa pessoa,
+[0:08:52] é ter empatia por ela,
+[0:08:53] é se colocar no lugar dela.
+[0:08:55] Fecha o olho e se imagina sendo Amanda,
+[0:08:57] acordando e pensando em todos os momentos
+[0:08:59] do dia dela,
+[0:09:00] vai cuidar do filho,
+[0:09:01] vai cuidar do neto, etc.
+[0:09:02] em que a pele dela
+[0:09:03] é um problema para ela.
+[0:09:04] Combinado?
+[0:09:05] Então essa é a definição de persona,
+[0:09:06] esse é o conceito
+[0:09:07] e essa é uma das coisas mais importantes.
+[0:09:09] É dentro da sua audiência,
+[0:09:10] é uma pessoa específica
+[0:09:11] que você vai se comunicar.
+[0:09:12] E se você acertar isso, cara,
+[0:09:13] se você acertar
+[0:09:14] persona que você está se comunicando,
+[0:09:16] acabou a maioria das outras coisas,
+[0:09:18] você vai vender.
+[0:09:19] Mesmo que você eque um pouco script,
+[0:09:20] mesmo que não seja tão agressiva e tal,
+[0:09:22] ela se sentiu,
+[0:09:23] ela sentiu que aquele vídeo é para ela.
+[0:09:24] Se você conseguir que o vídeo
+[0:09:26] seja feito para ela,
+[0:09:27] ela compra.
+[0:09:28] Não tem outra opção.
+[0:09:29] Tá bom?
+[0:09:30] Vamos para a próxima aula agora.
