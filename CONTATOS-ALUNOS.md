@@ -1435,3 +1435,9 @@ no insta ontem 1 video destravou e foi pra 1,3k em 9h, o 1º falado acima de mil
 10k de seguidor no face é bastante hein. quantos videos por dia vc posta em cada pagina?
 ```
 **Por quê:** a pergunta ao Lito serve à leitura do Face parado desde 25/11 (`METRICAS-NORA-LEIA.md`, 27/11 12h20). **Fato do contato:** o Lito também vende pelo Face (2 Páginas, com 10 mil e 9,5 mil seguidores), e o Insta dele não passa de 1 mil.
+
+## RECEBIDO (27/11/2026 12h35; DM do Pedro⚡; print em `MATERIAIS-PRINTS-METRICAS-27-11/dm-pedro-angulo-27-11-1235.png`)
+- O aluno mandou às 12h34 a sugerida acima, quebrada em linhas ("fiz isso ontem kkkk"); o Pedro reagiu com 🚀 ao 1,3k.
+- **A resposta dele (12h35):** "É, exatamente isso, um angulo falo sobre amor, no outro sobre signos, no outro sobre numerologia / e por ai vai".
+- **Sugerido:** só reagir (🙏), ou uma linha: "show mano, vou testar". A conversa fecha aqui; voltar só com o resultado do teste do ângulo.
+- **Fato do contato:** os ângulos do Pedro⚡ são amor, signos e numerologia, sobre a mesma copy.

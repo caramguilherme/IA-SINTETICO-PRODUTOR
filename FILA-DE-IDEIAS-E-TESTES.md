@@ -69,7 +69,8 @@
 
 - **Do Pedro⚡ (DM, 26/11 20h56: "um detalhe da copy… uso a mesma copy e falo sobre outro assunto"):**
   - **Teste (1 por dia, quando o aluno escolher): o "ângulo" no corpo da maioria.** A mesma copy, o mesmo cenário novo de cada dia, com o detalhe da promessa trocado para outro assunto. Ex.: no T04/T05, "money, prosperity and someone incredibly wonderful" vira o amor ("someone who will finally love you the way you deserve") ou a família. A = o corpo como está; B = o mesmo corpo com o outro assunto. Medida: as visitas ao perfil e os cliques.
-  - **No Face, o amor ou a família no lugar do dinheiro também resolve a regra do Face** (sem promessa de dinheiro): hoje o "money" sai na edição e a frase fica sem um dos 3 itens.
+  - **[27/11 12h35, o Pedro⚡ confirmou: "um angulo falo sobre amor, no outro sobre signos, no outro sobre numerologia".]** Os ângulos dele são amor, signos e numerologia. **Assim, a série das cores e dos cristais de 2027 pode ser o ângulo "signo" do corpo da maioria**, e não vídeos curtos à parte: decisão do aluno quando o post da astróloga chegar (`PENDENCIAS-DO-ALUNO.md`, item 1).
+- **No Face, o amor ou a família no lugar do dinheiro também resolve a regra do Face** (sem promessa de dinheiro): hoje o "money" sai na edição e a frase fica sem um dos 3 itens.
 - **A série das cores e dos cristais de 2027 por signo (ideia do aluno, 27/11 ~00h55; espera o post da astróloga e o ok das propostas, `PENDENCIAS-DO-ALUNO.md`, item 1):**
   - **O formato:** 1 vídeo por signo, com o signo dito e escrito no 1º segundo (mentoria de 23/11, 0:12:20 a 0:14:44: o signo dito só no fim "frustra os outros"). A Nora com o cristal na mão desde o 1º quadro e com a roupa na cor do signo, e ela muda a cada vídeo.
   - **A duração:** 30 a 35 s em 3 takes, e não 20 s. A aula 55 (0:14:38) diz que o clickbait curto "converte infinitamente menor", e o CTA precisa das 3 partes.
