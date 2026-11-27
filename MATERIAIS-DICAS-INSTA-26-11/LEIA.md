@@ -320,3 +320,54 @@ A transcrição está no mesmo arquivo, no "2º lote". Os 15 vieram com som. 4 f
 
 ## O que não serve (e por quê)
 - **"Comente story e eu te mando"** (q02) e **"salva e me segue"** (q01, o CTA dela): a isca de comentário para direct fica fora (no Insta da Nora não vai direct com link; no Face é isca).
+
+---
+
+# 5º lote (9 vídeos novos, mandados pelo aluno em 27/11 ~13h, na mesma pasta do Drive)
+**O que li:** os 9 inteiros, pela transcrição (no fim de `TRANSCRICOES/2026-11-26-dicas-insta-17-videos-kallaway-viewcci-outros.md`) e por uma folha de 4 quadros de cada um (`lote5-folhas-r01-r09.jpg`). Os 2 nomes repetidos da pasta são cópias idênticas do q01 e do q02 do 4º lote (mesmo md5). O r08 é a versão longa (119 s) do p01 da Hayley (o template do Edits), sem método novo.
+**O que não deu:** as views de cada um fora do que aparece no vídeo, e os @ que a folha não deixa ler (por isso cito pelo conteúdo).
+
+## O que eles ensinam (com o vídeo)
+1. **r01 (o vídeo de 15 milhões × o de 10 mil):** o de 10 mil vendeu mais. Um vídeo põe o nome no mundo e o outro vende: são 2 papéis diferentes.
+2. **r02 (storytelling em 3 regras):**
+   - dar uma fraqueza à personagem ("eu nunca ganhei" no lugar de "eu quero ganhar");
+   - aproximar nos momentos pequenos, os detalhes;
+   - cortar tudo o que não faz a história andar.
+3. **r03 ("por que meus Reels travam em 200"):** o Insta manda o vídeo para um grupo pequeno e, se ninguém se interessa, para ali. As views baixas vêm da ideia ou do gancho. (O resto é venda de mentoria.)
+4. **r04 ("mesmo gancho, entrega diferente"):** 4 pares de vídeos com o mesmo gancho e resultados diferentes. A diferença está no tom, na velocidade e na ênfase da fala.
+5. **r05 (em português, o "manual de ganchos"):** funcionam o gancho que é uma confissão, a pergunta polêmica, o que quebra uma crença do nicho, o começo de uma história real e o que nomeia um sentimento secreto. O genérico, o óbvio e o que repete o que todo mundo diz são ignorados.
+6. **r06 (a curva de retenção):**
+   - um cronômetro visual, que só funciona se houver uma recompensa no fim;
+   - a "zona segura": gancho visual, título de curiosidade, legenda e o rosto;
+   - não exagerar nos zooms;
+   - música que vai crescendo (build-up) nos momentos de revelação.
+7. **r07 (em português, "dicas bobas para passar de 10 mil"):**
+   - o título no topo nos primeiros ~7 s e, depois, a legenda automática;
+   - o celular na altura dos olhos e gravar de frente para uma janela;
+   - olhar para o lado e voltar para a câmera em alguns momentos;
+   - **marcar o @ do próprio perfil na 1ª linha da legenda;**
+   - **renomear o áudio do vídeo com algo que chama atenção;**
+   - variar o tom e o volume da voz.
+8. **r08 (Hayley, a versão longa do p01):** o template do Edits num viral do nicho com menos de 10 s. Os 2 detalhes novos: o Explorar "não é o lugar" para achar os templates; e, quando um vídeo seu viraliza, ele vira o template dos próximos.
+9. **r09 ("fale como se estivesse brava com a câmera"):** a energia e a convicção na fala. Mostra a mesma lata apresentada com firmeza e com timidez.
+
+## O que serve para a Nora (e por quê)
+- **Os 3 vídeos de hoje (nora82 a nora84) não mudam:** são o pacote do nora81, por decisão do aluno. Nada do lote mexe na copy do pacote.
+- **Entram na `FILA` ("Do 5º lote"), 1 teste por dia, quando o aluno escolher:**
+  - **o @ da Nora na 1ª linha da legenda do Insta** (r07). Ataca o gargalo de agora: o nora81 teve 2 visitas em 1.352 views. Medida: as visitas ao perfil por 1.000 views. Custo 0, sem mexer no vídeo.
+  - **o áudio renomeado** (r07): o nome do áudio original vira uma frase de curiosidade ("the message you needed today ✨"). Custo 0.
+  - **a entrega da voz** (r04, r07, r09): no Muse, a mesma fala com mais convicção, variando o tom e a ênfase nas palavras-chave, contra a voz calma de hoje. Mexe na trava de voz da Nora, então só com o ok do aluno.
+  - **a música que cresce** (r06) entra no teste da música que já está na `FILA` (a de hoje × a emocional de piano), como 3ª opção.
+  - **a barra de progresso** (r06), só no Insta e só se o CTA for a recompensa do fim. Custo 0, na edição.
+- **Para os Take 1 dos próximos testes** (r05): a confissão ("I wasn't going to post this…"), a quebra de crença ("Manifesting isn't about thinking positive.") e o sentimento secreto ("If you've been quietly wondering when it's finally your turn…"). Vão para o banco, sem teste novo agora.
+- **Confirmam o que já fazemos:**
+  - r01: o vídeo de alcance e o que vende têm papéis diferentes, como o curto e o falado, e o Insta e o Face;
+  - r03: o diagnóstico pelo skip e pelo gancho;
+  - r06 e r07: a caixa do topo só no gancho e a legenda simples depois;
+  - r02: o "woman lying down with her phone in her hand" do pacote já é um detalhe aproximado.
+
+## O que não serve (e por quê)
+- **"Comente a palavra e eu te mando na DM"** (r03, r06, r07 e r08): no Insta da Nora não vai direct com link, e no Face é isca.
+- **"Dê dois toques na tela"** (r07): é pedido de engajamento no meio do vídeo. No Insta o pacote já tem os selos, e no Face é isca.
+- **O "brava com a câmera" ao pé da letra** (r09): a Nora é acolhedora. Do r09 fica só a energia e a convicção, no teste da entrega da voz.
+- **A "história real"** (r05): a Nora é uma personagem de IA, e contar uma história como real seria inventar (HONESTIDADE). Fica só a estrutura de começo de história.

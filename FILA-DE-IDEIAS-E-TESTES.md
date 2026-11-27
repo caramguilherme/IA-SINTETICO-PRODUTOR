@@ -67,6 +67,13 @@
   - **Teste (1 por dia, quando o aluno escolher): a frase de reinício no corpo da maioria** (q01, Gio Garcia: "uma frase de reinício a cada duas ou três frases… uma frase de três ou quatro palavras [que] reabre a curiosidade"). Muda só 1 frase: depois da 2ª frase (onde a curva cai, ~3 a 10 s), uma frase curta de reinício (ex.: "But this next part matters most."). A = o corpo da maioria como está; B = com a frase. Medida: a retenção aos 10 s e aos 15 s e o skip. Não roda no mesmo dia do teste da 2ª frase (nora82), porque mexe no mesmo ponto.
   - **A voz por cima de imagens do que ela conta** (q02): é a edição dopaminérgica (nora66, 1 vez, junto com outra variável) e parente do multi-ângulo; fica anotada, sem teste novo agora.
 
+- **Do 5º lote (9 vídeos, 27/11 ~13h; `MATERIAIS-DICAS-INSTA-26-11/LEIA.md`, "5º lote"), 1 teste por dia, quando o aluno escolher:**
+  - **O @ da Nora na 1ª linha da legenda do Insta** (r07). Ataca o gargalo de agora: o nora81 teve 2 visitas em 1.352 views. Medida: as visitas ao perfil por 1.000 views. Custo 0.
+  - **O áudio original renomeado** com uma frase de curiosidade (r07). Custo 0.
+  - **A entrega da voz** (r04, r07, r09): a mesma fala com mais convicção e ênfase × a voz calma de hoje. Mexe na trava de voz da Nora, então só com o ok do aluno.
+  - **A música que cresce (build-up)** (r06): entra como 3ª opção no teste da música.
+  - **A barra de progresso só no Insta**, com o CTA como recompensa do fim (r06). Custo 0.
+  - **Os Take 1 do r05 para o banco:** a confissão, a quebra de crença e o sentimento secreto.
 - **Do Pedro⚡ (DM, 26/11 20h56: "um detalhe da copy… uso a mesma copy e falo sobre outro assunto"):**
   - **Teste (1 por dia, quando o aluno escolher): o "ângulo" no corpo da maioria.** A mesma copy, o mesmo cenário novo de cada dia, com o detalhe da promessa trocado para outro assunto. Ex.: no T04/T05, "money, prosperity and someone incredibly wonderful" vira o amor ("someone who will finally love you the way you deserve") ou a família. A = o corpo como está; B = o mesmo corpo com o outro assunto. Medida: as visitas ao perfil e os cliques.
   - **[27/11 12h35, o Pedro⚡ confirmou: "um angulo falo sobre amor, no outro sobre signos, no outro sobre numerologia".]** Os ângulos dele são amor, signos e numerologia. **Assim, a série das cores e dos cristais de 2027 pode ser o ângulo "signo" do corpo da maioria**, e não vídeos curtos à parte: decisão do aluno quando o post da astróloga chegar (`PENDENCIAS-DO-ALUNO.md`, item 1).
