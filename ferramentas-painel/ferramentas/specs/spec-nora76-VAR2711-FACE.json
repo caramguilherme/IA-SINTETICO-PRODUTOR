@@ -1,0 +1,17 @@
+{
+ "entrada": "/tmp/claude-0/-workspace-IA-SINTETICO-PRODUTOR/0f1d3084-6c9c-5025-9335-535fd154c68d/scratchpad/var76/out/nora76var2711-legenda-FACE.mp4",
+ "saida": "/tmp/claude-0/-workspace-IA-SINTETICO-PRODUTOR/0f1d3084-6c9c-5025-9335-535fd154c68d/scratchpad/var76/out/nora76-VAR2711-final-FACE.mp4",
+ "crf": 21,
+ "preset": "veryfast",
+ "estilo": "alto-contraste",
+ "itens": [
+  {
+   "tipo": "seta",
+   "ini": 51.082,
+   "fim": 56.59303,
+   "x": -250,
+   "y": -400,
+   "tamanho": 44
+  }
+ ]
+}

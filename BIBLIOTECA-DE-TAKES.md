@@ -471,6 +471,20 @@ Fora da numeração do nora. Peças com o nome do teste: `faceNN-IMG`, `faceNN-C
 - **Tela:** sem texto no topo; o 11:11✨ à direita; a legenda simples; a seta grande do CTA ao fim (só no Insta).
 - **Arquivos:** `ferramentas-painel/ferramentas/specs/spec-nora80*.json`, `palavras-nora80*.json`, `cortes-extra-nora80*.json`; scripts `ferramentas-painel/dia-2611/separar_takes_2611.py` e `rodar_2611.sh`.
 
+## nora76-VAR2711-FACE (27/11/2026, editado às ~12h35, para as ~12h30 do Face): a variação só de edição do nora76-FACE (4.520), pedido do aluno
+- **A fonte:** o `nora76-montado` (24/11), com os cortes do Face de antes ("and money", e do T07 em diante, menos o CTA). **Mais 2 cortes:** a ameaça do T05, que tinha ficado no nora76-FACE (regra de 24/11 17h50), e a data que já passou ("before Wednesday, November 25th"). A fala ficou "…but if this video found you, get ready." (a emenda transcrita, 27/11).
+- **A variação** (`variacao_face.py`, a do AutoEditor):
+  - espelhada;
+  - matiz +5,6°;
+  - aproximada 2,1% e recortada fora do centro;
+  - a 1,1x;
+  - sem os metadados (seed 631613).
+
+  A legenda e a seta foram refeitas por cima.
+- **Duração:** 56,7 s.
+- **O teste:** é a variação só de edição de um vencedor. Já travou 4 vezes em 6 na Página (21/11), inclusive a do nora69-FACE, com 4 views. Postada por decisão do aluno ("pra postar 12h30"). **Medida:** as views com ~3 h e ~24 h, contra o nora69-VAR2111-FACE (4) e o nora76-FACE (4.520).
+- **Arquivos:** `ferramentas-painel/ferramentas/specs/*nora76-VAR2711*`.
+
 ## nora81 (27/11/2026, editado às ~02h15): as letras + o corpo da maioria + as 2 frases de reinício (o teste de 27/11), à mesa com a estátua de São Miguel, suéter creme, a carta
 - **Montado:** `nora81-montado` (2:02, 16 takes; o T15 e o T16 do Face no fim).
 - **Insta** (`nora81-final`, 1:30): T01 ao T14, com "Now, this part matters." (T03) e "But it gets better." (no começo do T11).
