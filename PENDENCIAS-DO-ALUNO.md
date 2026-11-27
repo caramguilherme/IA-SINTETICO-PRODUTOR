@@ -32,7 +32,7 @@ A proposta:
 
 | Dia | Teste |
 |---|---|
-| 27/11 | a frase de reinício (no nora81, já indo) |
+| 27/11 | a frase de reinício (no nora81, postado às 02h43) |
 | 28/11 a 01/12 | a série dos signos (se o 1 for aprovado) |
 | 02/12 | a 2ª frase como pico |
 | 03/12 | o CTA da frequência × o "quick reading" |
@@ -78,7 +78,7 @@ Aprova a ordem? Pode trocar qualquer dia.
 - **A próxima mineração:** a de 26/11 vale até ~29/11. Mande os vídeos de quem vende Appyon com até 3 dias, com 5x mais views que os seguidores.
 
 ## Comigo (você não precisa fazer nada)
-- Editar o nora81 assim que o montado chegar.
+- ~~Editar o nora81~~ feito (postado às 02h43).
 - As travas no gerador do painel, e as decisões das seções 15 e 16 nas seções certas do `REGRAS-DA-NORA.md`.
 - A copy da série dos signos, quando o material chegar: com as dicas do Robert, dos outros criadores e do Kobata, e passando pela checagem do Take 1.
 - As réguas com ~24 h:
