@@ -470,3 +470,9 @@ Fora da numeração do nora. Peças com o nome do teste: `faceNN-IMG`, `faceNN-C
   - o fim do "unexpectedly." (T04) foi corrigido para 34,20 s, porque o corte de silêncio comia o "-ly".
 - **Tela:** sem texto no topo; o 11:11✨ à direita; a legenda simples; a seta grande do CTA ao fim (só no Insta).
 - **Arquivos:** `ferramentas-painel/ferramentas/specs/spec-nora80*.json`, `palavras-nora80*.json`, `cortes-extra-nora80*.json`; scripts `ferramentas-painel/dia-2611/separar_takes_2611.py` e `rodar_2611.sh`.
+
+## noracurto2611 (26/11/2026, postado às 23h56, só no Insta): o desafio de pausar no jardim
+- **Imagem e clipe:** `noracurto2611-IMG` e `noracurto2611-CLIPE` (6 s, 24 qps), no Muse, só com o blueprint; blusa verde-sálvia, jeans claro, tênis branco, a bandeira no mastro do canteiro. O clipe tinha um pulo no 1º quadro (a imagem com ela no meio, que some no 3º; `LICOES`, 26/11 19h17).
+- **Edição** (`ferramentas-painel/dia-2611/editar_curto_2611.py`, a cópia do v07 e do v21 do Robert): a passada dela (0,75 s a 3,54 s do clipe) a 2x, 3 vezes (4,25 s); a silhueta vermelha do corpo no quadro 38 (o terço esquerdo), justa; no topo "Only 1% can pause / at the right time!" com o 1% amarelo; "SOOOO CLOSE 😱 / 1 frame off..." nos quadros 33 a 43; "YOU DID IT! 🎉" amarelo + "Your 2027 reading is in my story 🔮" e a seta grande só no quadro 38 (1 quadro por passada). A música foi o aluno que pôs no CapCut sobre o vídeo editado.
+- **Prévias:** `ferramentas-painel/dia-2611/noracurto2611-previa-3-quadros.jpg` (a 1ª versão, 1,25x) e `noracurto2611-previa-encaixe.jpg` (a postada: o antes, o encaixe e o depois).
+
