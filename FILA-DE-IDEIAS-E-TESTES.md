@@ -624,7 +624,7 @@
 - **[Copy, pesquisa] As palavras de dor de mulheres reais** (1:16:34: "listen to the pain of these real people… YouTube channels with testimonials"), de comentários de YouTube e Reddit sobre o 11:11, o cansaço e o dinheiro, para a 2ª frase. Junta com "as palavras dela" do briefing do Risely. Só como palavra, nunca como depoimento.
 - **[Métrica] O EPC por rede no fechamento do mês** (1:37:56): o ganho ÷ os cliques do Tracker, por Insta e por Face. Hoje ~US$ 0,17 (1 venda de US$ 13,70 em ~80 cliques desde 27/10): ainda sem leitura.
 
-## 28/11/2026 ~12h20: segurar a pessoa até o CTA do fim, sem mudar o CTA de lugar (pergunta do aluno: "como fazer a pessoa continuar assistindo e chegar no CTA no final")
+## 28/11/2026 ~12h15: segurar a pessoa até o CTA do fim, sem mudar o CTA de lugar (pergunta do aluno: "como fazer a pessoa continuar assistindo e chegar no CTA no final")
 **A curva do nora81 no Insta** (`METRICAS-NORA-LEIA.md`, 28/11 10h40): 3 s 55%, 8 s 37%, 15 s 21%, 30 s 13%, 60 s 6%, 78 s 3%. Não há um tombo só depois do gancho: a cada ~15 a 20 s, sai metade de quem ainda estava. É a curva que o Robert chama de "cai devagar e sem parar no meio = problema na construção" (`MATERIAIS-ROBERT-MCKEAVENEY/LEIA.md`, v10). O conserto dele é "Strengthen the question / Don't drag it out / Re-hook every few seconds".
 
 **Lendo a fala do pacote contra a curva:**
