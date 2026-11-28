@@ -1122,6 +1122,7 @@ O aluno ficou fora de 21/11 de manhã a 22/11 22h23: nenhum post novo e o story 
 - **Insights do Insta do nora81 (~31 h), do nora82 (~16h30) e do nora83 (~8h50), com a curva lida pelo aluno em 3, 8, 15, 30, 60, 78 e 90 s:** no CSV (`obs` de cada um).
 - **A grade do Insta (~10h10):** nora83 503, nora82 133, nora81 1.398, noracurto2611 156, nora80 155, nora79 135, nora78 126, nora77 127, nora76 140.
 - **O story do Insta repostado em 28/11 01h35 (com ~9 h):** 14 views, 12 visualizadores, 100% seguidores, 0 interações (0 curtidas, 0 respostas, 0 compartilhamentos; nenhum toque no adesivo aparece), navegação 8 (5 avançaram, 2 foram para o próximo story, 1 saiu), 0 visitas ao perfil, 0 follows.
+- **O story anterior do Insta (o dos campos trancados, `story-2611-trancado`, postado em 27/11 00h10, já vencido):** 29 views (o aluno escreveu "views22"), 19 visualizadores, 72,4% seguidores e 27,6% não seguidores, 0 interações, **1 clique no link**, navegação 22 (8 saíram, 8 avançaram, 4 foram para o próximo story, 2 voltaram), 0 visitas ao perfil, 0 follows.
 
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
