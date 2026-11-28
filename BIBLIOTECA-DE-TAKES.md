@@ -536,7 +536,7 @@ Fora da numeração do nora. Peças com o nome do teste: `faceNN-IMG`, `faceNN-C
 - **Prévias:** `ferramentas-painel/dia-2611/noracurto2611-previa-3-quadros.jpg` (a 1ª versão, 1,25x) e `noracurto2611-previa-encaixe.jpg` (a postada: o antes, o encaixe e o depois).
 
 
-## nora77-VAR2811-FACE (28/11/2026, editado às ~10h05, para as 12h do Face): a variação só de edição do nora77-FACE (3.642), pedido do aluno ("faz")
+## nora77-VAR2811-FACE (28/11/2026, editado às ~10h05; postado às 10h08, só no Face): a variação só de edição do nora77-FACE (3.642), pedido do aluno ("faz")
 - **Por quê:** o nora76-VAR2711-FACE, a mesma ideia sobre o nora76-FACE, fez 647 views com ~21 h (+1,4x, 13 s, 3 seguidores), o melhor do Face desde 25/11, com a curva subindo de novo entre ~5 h e ~10 h.
 - **A fonte:** o `nora77-montado-FACE` (24/11), com os cortes do Face de antes (o "and money,") e mais 1 corte: a data que já passou ("before Wednesday, November 25th"). A fala ficou "…but if this video found you, get ready." (conferida pela transcrição do final).
 - **A variação:** **sem o espelho**, porque a bandeira dos EUA no quadro ficaria invertida (as estrelas à direita) e o 11:11 ficaria em cima dela (1ª versão descartada às ~10h). Ficou:
