@@ -143,10 +143,10 @@ def multi(P, n):
     assert len(nomes) == n + 2
     for i, vd in enumerate(P['videos']):
         k = imgs.index(img_do_take[i])
-        vd['primeiro_quadro'] = f'IMAGEM {LETRA[k]} ({img_do_take[i]})'
+        vd['primeiro_quadro'] = f'IMAGEM {k + 1} ({img_do_take[i]}, a {LETRA[k]})'   # o PAINEL-MODELO exige "IMAGEM 1" no 1º take
     P['imagens_titulo'] = 'As 7 imagens das falas (o mesmo cantinho e a mesma roupa, um ângulo a cada 2 takes)'
     P['refs'] = [f'{imgs[k]} no T{2 * k + 1:02d} e no T{2 * k + 2:02d}' for k in range(7)] + [f'{imgs[0]} no T15 e {imgs[6]} no T16 (só Face)']
-    P['imagens'] = [{'rotulo': f'IMAGEM {LETRA[k]} · {imgs[k]}', 'cena': 'gerada no Muse (seção das imagens)', 'anexar': f'a {imgs[k]}'} for k in range(7)]
+    P['imagens'] = [{'rotulo': f'IMAGEM {k + 1} · {imgs[k]} (a {LETRA[k]})', 'cena': 'gerada no Muse (seção das imagens)', 'anexar': f'a {imgs[k]}'} for k in range(7)]
     et = P['pre_gancho']['etapas']
     assert len(et) == 1
     et[0]['titulo'] = 'Imagem A (T01 e T02, e o T15 do Face): de frente, a estátua inteira à esquerda dela; no Muse, só com o blueprint'
