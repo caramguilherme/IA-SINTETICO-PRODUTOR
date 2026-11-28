@@ -1545,3 +1545,11 @@ O nora81 vai à noite e o nora82 (o teste da 2ª frase) às 17h de 27/11.
 - **Régua com ~24 h (~17h50 de 28/11):** views, skip, 3 s, compartilhamentos e salvos e visitas ao perfil, contra o nora81. No Face, contra o nora81-FACE e o nora80-FACE.
 - **A grade da noite muda** (REGRAS 7.4: o próximo respeita as 3h30): o nora83 às 21h20 e o nora84 às 0h30 de 28/11 (3h10 depois, para não sair da janela sem Índia). O story é repostado até ~00h05.
 
+## 28/11/2026 01h35, o nora83 no ar e o nora82 no Insta com 116
+- **O nora83:** postado no Insta e no Face às 01h35, com o story repostado. O horário era 21h20 de 27/11 (o aluno saiu para o aniversário). Foi com a data "before Saturday, November 28th", decisão do aluno.
+- **O nora82 no Insta com ~7h45 (relato do aluno, sem print): 116 views.** O nora81, o mesmo pacote, tinha 1.352 com ~9 h. Pela régua, a leitura é com ~24 h (~17h50 de 28/11). Para saber onde ele perdeu, falta o print do Insights (skip, 3 s e a curva) contra o nora81 (skip 51,1%, 55% nos 3 s).
+- **O que já dá para dizer:** a copy é a mesma do nora81, então não é ela.
+- **Mudaram 3 coisas:** o cenário (o quarto contra a mesa), a roupa e o horário (17h50 contra 02h43).
+- **O horário sozinho não explica:** o nora76, o nora78 e o nora79, de madrugada, também ficaram em ~130.
+- **O nora83 (sala, 01h35) é a 3ª ponta da comparação.**
+
