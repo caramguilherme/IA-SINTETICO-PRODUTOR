@@ -113,7 +113,7 @@ V = {
                         'on the desk, a colorful statue of Saint Michael the Archangel about 30 centimeters tall, standing at her left side at about the height of her waist, fully visible in the frame (never cut off and never hidden behind her), a closed notebook and a warm desk lamp',
                         'on the desk', 'late at night'),
         copia='o pacote do nora81 (as letras, a carta na mão, a estátua de São Miguel, as 2 frases de reinício), à escrivaninha', fix_muse=True,
-        # 28/11 ~10h: o nora84 passou para as 17h de 28/11 (o aluno, 01h35: "o nora84 fica pra amanha, no caso hj (28/11)"); a data vai 2 dias à frente
+        # 28/11 09h43: o nora84 passou para as 17h de 28/11 (o aluno, 01h35: "o nora84 fica pra amanha, no caso hj (28/11)"); a data vai 2 dias à frente
         # na costa leste (17h de Brasília = 15h de sábado em Nova York), e o "free" do CTA começa hoje, só no Insta (PENDENCIAS, item 5; FILA, 27/11 ~14h05).
         data='Monday, November thirtieth', free=True),
 }

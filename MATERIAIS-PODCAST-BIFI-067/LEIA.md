@@ -1,4 +1,4 @@
-# O podcast do Guilherme Bifi (Segredos da Escala #067), lido em 28/11/2026 ~09h50
+# O podcast do Guilherme Bifi (Segredos da Escala #067), lido em 28/11/2026 ~09h40
 
 **O que veio do aluno (28/11 ~09h30, "bom dia!!"):** o link do YouTube (https://www.youtube.com/watch?v=IXiHNdcPXhk) e a transcrição inteira, colada, de ~3 h e 18 capítulos. Ela está em `TRANSCRICOES/2026-11-28-podcast-bifi-segredos-da-escala-067.md`.
 
@@ -57,7 +57,7 @@
 - **A proposta:** um teste que ganha vai para 2 dos 3 posts no dia seguinte, com o 3º na base anterior. Só vira a base nova se ganhar de novo.
 - Isso não muda o "1 teste por dia" (2 de 3 posts no controle já é o 70/30 dele). Muda só como um vencedor vira a base.
 
-**Entra na `FILA` (seção "28/11/2026 ~09h50"):**
+**Entra na `FILA` (seção "28/11/2026 ~09h40"):**
 1. **[Gancho] Os 7 tipos de gancho dele como roda do teste de Take 1**, sobre o corpo do nora81:
    - contraintuitivo: "Stop asking the universe for money.";
    - pergunta paradoxal;

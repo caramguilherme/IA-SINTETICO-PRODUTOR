@@ -1,10 +1,10 @@
-# O que espera você (27/11/2026 01h10; posto em dia em 28/11 ~10h)
+# O que espera você (27/11/2026 01h10; posto em dia em 28/11 09h43)
 
 A versão de 26/11 09h10 está no histórico do git. Aqui fica só o que ainda está aberto, numerado, para você responder pelo número (ex.: "1- sim / 2- não").
 
 ---
 
-## Hoje, sábado 28/11, com hora (posto em dia às ~10h)
+## Hoje, sábado 28/11, com hora (posto em dia às 09h43)
 - **Ontem (27/11):** o nora82 foi às 17h50 e o nora83 à 01h35 de 28/11, junto com o story. O nora84 ficou para hoje.
 - **Agora, quando puder:** os prints do Insights do nora81 e do nora82 no Insta (o skip, os 3 s e a curva), para eu entender por que o mesmo pacote fez 1.352 e 116.
 - **Hoje, o último dia:** comprar os minutos do GeeLark (item 10).
