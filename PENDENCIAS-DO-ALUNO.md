@@ -7,7 +7,7 @@ A versão de 26/11 09h10 está no histórico do git. Aqui fica só o que ainda e
 ## Hoje, sábado 28/11, com hora (posto em dia às 09h43)
 - **Ontem (27/11):** o nora82 foi às 17h50 e o nora83 à 01h35 de 28/11, junto com o story. O nora84 ficou para hoje.
 - **Agora, quando puder:** os prints do Insights do nora81 e do nora82 no Insta (o skip, os 3 s e a curva), para eu entender por que o mesmo pacote fez 1.352 e 116.
-- **Hoje, o último dia:** comprar os minutos do GeeLark (item 10).
+- **Hoje ou amanhã:** comprar os minutos do GeeLark (item 10). Pela conta, devem sobrar ~100 min agora, e eles acabam por volta de 30/11.
 - **17h:** o nora84 (o pacote do nora81 à escrivaninha, suéter azul-marinho), Insta e Face. **No Insta, o CTA leva o "free"** (o item 5: começa hoje). O painel está posto em dia com a data nova, no mesmo link: https://claude.ai/artifact/HicWCCrkeW7V71YMAdQGiN
 - **~17h50:** a régua do nora82 com ~24 h.
 - **20h30 e 0h00:** ainda sem vídeo. Depende do item 7 (abaixo) e do seu "pode montar".
@@ -83,7 +83,7 @@ O Bifi testa assim: o controle fica em 70% e a variável em 30%. Quando a variá
 ---
 
 ## Para você fazer
-- **10. Os minutos do GeeLark:** comprar outro pacote até ~28/11. Em 25/11 às 17h20 eram 234 min, com ~40 min por dia.
+- **10. Os minutos do GeeLark:** comprar outro pacote antes de acabar. Em 25/11 às 17h20 eram 234 min; com ~40 min por dia (estimativa), devem sobrar ~100 em 28/11 de manhã e acabar por volta de 30/11. Sem minutos, o celular do GeeLark para e não dá para postar no Insta. O número certo está na tela do GeeLark.
 - **11. A foto de perfil nova:**
   1. gerar no Muse com o prompt de `ferramentas-painel/prompts/foto-perfil-nora-v3.md`;
   2. me mandar, e eu confiro;
