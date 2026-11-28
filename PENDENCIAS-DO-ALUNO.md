@@ -125,7 +125,7 @@ O diário de decisões do `CLAUDE.md` tem hoje de 17 a 27/11, e o arquivo vai in
 A ordem é a do item 2.
 - **Sem dia próprio:**
   - os Trial Reels (esperam o item 14);
-  - sem "prosperity", "abundance" e "scarcity" no Face (lê-se no que já roda);
+  - sem "prosperity", "abundance" e "scarcity" no Face (lê-se no que já roda). **Ganhou fonte em 28/11:** a aula do Iorhan de 27/11 (0:53:05 a 0:56:13: "sejam ninjas para falar palavras que vocês não podem falar… usem palavras que camuflam") manda trocar a palavra sensível por uma parecida, sem cortar a frase;
   - os campeões repostados 1 mês depois (06/12, 18/12 e 23/12).
 
 ### Fechados (o resultado)

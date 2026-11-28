@@ -111,6 +111,12 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
 - **Dashboard:** para atualizar, editar o CSV, rodar `ferramentas-painel/dashboard/preparar_csv.py`, subir a cópia sem o BOM como asset e dar `update` em `datasets/metricas` (`source.url`, `source.name`, `updated`) com `if_version`; receita completa em `ferramentas-painel/dashboard/COMO-RECRIAR.md`.
 
 ## 4. Diário de decisões (as novas entram aqui, datadas; as anteriores a 17/11 estão em `HISTORICO-CLAUDE-MD.md`)
+- **28/11/2026 ~02h, a aula do Iorhan de 27/11 e o 3º prompt do Copy Hub (o aluno mandou o Loom, o Excalidraw, a pasta e o doc às 01h40; lidos inteiros; `MATERIAIS-AULA-27-11-IORHAN/LEIA.md`):**
+  - **Confirma:** fazer igual à maioria ("não aposte contra o mercado"), 1 corpo validado com vários ganchos, o UGC e o realismo da voz.
+  - **Na `FILA`:** a prova demonstrativa no gancho, na versão da manifestação (o ritual sobre o problema, com uma transformação física, sem luz da IA); o CTA em selfie; as superestruturas do nicho como fonte de gancho; o combo dos 3 prompts sobre o nora81.
+  - **A skill nova `variacoes-copy`** (o PROMPT 3), com a seção da Nora: sem o CTA de direct; o link no story e no 1º comentário.
+  - **A proposta (b)** (os sinônimos no Face) ganhou fonte.
+  - **Fora:** o "truque 10x mais" e o "antes e depois da amiga" (HONESTIDADE).
 - **27/11/2026 ~17h10, o "Best practices" do próprio Insta (Reach e Guidelines, prints do aluno; `MATERIAIS-DICAS-INSTA-26-11/LEIA.md`):**
   - **Reach:** 32 mil views nos Reels do último mês, que batem com o CSV, e 5 dicas genéricas. O collab foi para a `FILA`.
   - **Guidelines:** o Insta não recomenda a quem não segue Reels acima de 3 min, vídeo com marca d'água de outra ferramenta, cópia de Reel e engagement bait ("content that… directs people to interact with likes, shares, comments… won't be shown to as many people").
@@ -450,5 +456,6 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
 - `leitura-discord-nora`: registrar uma leitura do Discord (histórico, decisões, doc do MVM, "quem responder").
 - `estilo-visual-nora` (criada em 12/11; **desde 15/11, o padrão único de alto contraste do Clone R50** para Reels e -FACE; o story usa o texto nativo do Instagram desde 18/11).
 - `story-nora` (11/11, pedido do aluno: "salva essa skill pra edição/story"): escolher a foto do story entre as 4 opções e pôr o texto (desde 18/11, no jeito do texto nativo do Instagram: `ferramentas-painel/ferramentas/texto_story_nativo.py`; o creme de 11/11, `texto_story.py`, ficou como histórico), conferido no tamanho real e no de celular antes de mandar; o aluno só põe o adesivo de link.
+- `variacoes-copy` (o PROMPT 3 do Copy Hub, a Matriz Multiplicadora, instalado em 28/11 com a seção "NO PROJETO DA NORA"): 20 ganchos × 5 corpos × 2 CTAs para peneirar, o 3º passo depois dos 2 abaixo.
 - `estrutura-invisivel-copy` e `modelar-copy-vencedora` (as skills oficiais do Copy Hub, de 12/11, instaladas em 23/11 com a seção "NO PROJETO DA NORA" no fim): a Estrutura Invisível em cada transcrição da mineração e a Modelagem (Gancho A e B) no vídeo escolhido, sempre passando pela P42, pela HONESTIDADE e pelas regras do Face antes de virar roteiro.
 - No claude.ai do aluno (conta "gui · Pro"): `leitura-discord-mvm` v3 (6 canais; **instalada em 15/11**, no lugar da v2 de 06/11; zip em `ferramentas-painel/skills/leitura-discord-mvm.zip`), que faz a leitura no navegador e entrega os .md, o zip de imagens e o resumo; `doc-mvm-legacy` v2 (zip em `ferramentas-painel/skills/`; **instalada**: a descrição dela no claude.ai já é a da v2): o doc do MVM é o arquivo do repositório e, no claude.ai, não se edita doc nenhum.

@@ -257,6 +257,13 @@
 - **O perfil do polvo (Caio1094; o viral que o Gustavo mostrou no Scoped em 09/11):** copies de 1min40 a 2min40 para estudar a estrutura do corpo longo. Falta o @ (perguntado ao Caio em 16/11).
 
 ## Formatos e pré-ganchos na fila
+- **[Aula do Iorhan de 27/11, `MATERIAIS-AULA-27-11-IORHAN/LEIA.md`] A prova demonstrativa no gancho, na versão da manifestação** (0:18:02 a 0:35:52: "falar e provar"; a solução jogada sobre o problema, com o desejo acontecendo na tela, é "o principal fator de viralização e de conversão"):
+  - **O que se mostra:** o ritual sobre o problema, com uma transformação física. Por exemplo, a canela soprada na porta trancada, que se abre, ou as correntes que se partem no "I can already see the chains… breaking".
+  - **Limites:** nada de brilho, estrela ou luz da IA (REGRAS 9.4) e nunca o resultado de uma pessoa (HONESTIDADE).
+  - **O teste:** um clipe de 2 a 3 s no Muse antes ou dentro do Take 1, sobre o corpo do nora81. A medida é os 3 s, o skip e as views, contra o nora81 a nora84.
+- **[Aula do Iorhan de 27/11] O CTA em selfie, mais perto** (0:37:33: "como se ela estivesse falando contigo… ficou mais pessoal"): só o take do CTA gerado em selfie, segurando o celular. A medida é a visita ao perfil e o clique.
+- **[Aula do Iorhan de 27/11] As superestruturas do nicho como fonte de gancho** (0:44:56 a 0:53:02): o que o público já conhece e em que já acredita (o Arcanjo, o 11:11 e o 222, a lua cheia, a canela, o sal, o louro, as letras). **A pesquisa nova:** os tarólogos e astrólogos grandes do Instagram e do YouTube, pelo número de views, como ele faz com os nutricionistas.
+- **[Aula do Iorhan de 27/11] O combo dos 3 prompts sobre o nora81** (a análise, a modelagem e as variações, a skill `variacoes-copy`): sai o banco de ganchos e corpos do teste de cada dia, "uma peneira", não para postar tudo. E o banco dos 100 ganchos virais do nicho (1:34:46), juntando o `BANCO-DE-HEADLINES.md` às minerações.
 - **Collab no Insta** (o "Best practices → Reach" do próprio Insta, dica 5, 27/11: "When you invite or accept another account to show as a collaborator… that content gets shared to a broader audience"):
   - **Com um colega do nicho** (outro aluno que vende Auraly): o Reel aparece nos 2 perfis. Só no Insta; o story com o link é o da Nora. **O risco:** o perfil da Nora fica ligado em público ao do colega, e não sabemos o que acontece com ela se a conta dele cair. Decisão do aluno.
   - **Com as avatares novas da escala: fora.** Elas ficam isoladas da Nora (GeeLark, proxy e Gmail próprios), e o collab as liga em público.
