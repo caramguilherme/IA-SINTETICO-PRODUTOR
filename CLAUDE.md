@@ -112,6 +112,11 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
 - **Dashboard:** para atualizar, editar o CSV, rodar `ferramentas-painel/dashboard/preparar_csv.py`, subir a cópia sem o BOM como asset e dar `update` em `datasets/metricas` (`source.url`, `source.name`, `updated`) com `if_version`; receita completa em `ferramentas-painel/dashboard/COMO-RECRIAR.md`.
 
 ## 4. Diário de decisões (as novas entram aqui, datadas; as anteriores a 17/11 estão em `HISTORICO-CLAUDE-MD.md`)
+- **28/11/2026 10h40, a leitura do lote da manhã (`METRICAS-NORA-LEIA.md`, 28/11 10h40):**
+  - **O pacote do nora81 ganhou de novo** (nora83 com 505 em ~9 h e subindo; o nora81 fechou em 1.398) e vira a base dos 3 vídeos do Insta (regra 13.3c). O nora82 (17h50, 133) teve a plateia de fora dos EUA e 0 compartilhamento.
+  - **O que tira um vídeo dos ~125 são os compartilhamentos e os salvos, não o skip:** 4 de 4 desde 18/11.
+  - **O gargalo é o CTA:** só 1% a 3% chegam aos 78 s; 1.398 views deram 2 visitas ao perfil. A proposta de teste para 29/11 é o CTA mais cedo (`FILA`).
+  - **No Face**, as letras pararam entre 230 e 340; a variação do arquivo campeão fez 647, e o nora77-VAR2811-FACE (10h08) é a confirmação.
 - **28/11/2026 ~09h40, o podcast do Guilherme Bifi (Segredos da Escala #067, colado pelo aluno; o YouTube está bloqueado aqui; `MATERIAIS-PODCAST-BIFI-067/LEIA.md`):**
   - **Confirma:** a copy validada com testes de gancho e depois o formato (o lateral antes do horizontal), o "não fazer o que ninguém faz" e o aviso de 22/09 (o plágio tira a comissão).
   - **Na `FILA`:** os 7 tipos de gancho para o teste de Take 1; a legenda com uma fonte por palavra e a tela dividida com vídeo satisfatório (formatos); a identidade das maiores contas do nicho e a caixinha de pergunta real (vertical); o story com o ângulo do vídeo do dia; as palavras de dor reais; o EPC por rede.

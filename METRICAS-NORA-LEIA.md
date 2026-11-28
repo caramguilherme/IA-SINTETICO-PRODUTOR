@@ -1127,6 +1127,41 @@ O aluno ficou fora de 21/11 de manhã a 22/11 22h23: nenhum post novo e o story 
 - **Tracker de 28/11 até 10h30:** 3 cliques, todos do Face, 3 viram o quiz, 0 começaram, 0 checkout.
 - **A Central MVM (Appyon, últimos 30 dias, 28/11 ~10h30):** 1 venda, GMV front US$ 19,00, comissão US$ 13,73 ("o que a Appyon pagou"); por conta: o Facebook US$ 19,00, o Instagram US$ 0,00. **O funil, contra os 10% que mais venderam:** começam o quiz 47,2% dos cliques ("na média"; os 10% melhores, 62,7%); chegam ao checkout e compram, "poucos dados" (os 10% melhores: 7,2% e 7,4%); **clique → venda 1,39%** (os 10% melhores, 0,33%), com o aviso "a comparação fica confiável a partir de 1.000" cliques. A maior diferença está na etapa 1 (começar o quiz). Faltam 99 vendas para o autoeditor.
 
+## 28/11/2026 10h40: a leitura do lote da manhã (o aluno: "terminei")
+**1. O pacote do nora81 ganhou de novo e vira a base dos 3 vídeos (regra 13.3c):**
+- o nora81 (02h43) fez 1.398 views;
+- o nora83 (01h35) está em 505 com ~9 h e ainda subindo (~4x o típico, "This reel has a strong hook", skip 46,6%, 15 s, 2 follows, EUA 41,4%);
+- o nora82 (17h50) ficou em 133: o skip (54,3%) e a curva (48% aos 3 s) não foram muito piores que os do nora81 (51,3% e 55%), mas o Insta não empurrou: a plateia da 1ª leva foi Reino Unido 12%, EUA 12%, Alemanha 9%, Irã 7,5% e Líbano 4,5%, e o vídeo teve 0 compartilhamento e 0 salvo.
+
+**2. O que separa os vídeos que saem dos ~125 não é o skip, são os compartilhamentos e os salvos.** Agora são 4 de 4 desde 18/11:
+| vídeo | views | compartilhamentos / salvos | skip |
+|---|---|---|---|
+| ini1811 | 1.705 | 1 / 3 | — |
+| nora75 | 695 | 5 / 5 | 55,9% |
+| nora81 | 1.398 | 18 / 17 | 51,3% |
+| nora83 | 505+ | 2 / 4 | — |
+
+Todos os que pararam em ~125 têm 0 compartilhamento, mesmo com um skip bom: o nora70 com 40,5% e o nora79 com 44,5%. É a hipótese de 26/11, agora com mais casos.
+
+**3. O gargalo depois das views é o CTA, que quase ninguém ouve:**
+- a curva do nora81: 3 s 55%, 8 s 37%, 15 s 21%, 30 s 13%, 60 s 6%, **78 s (o começo do CTA) 3%**;
+- a do nora83: 56, 41, 29, 18, 6 e **1%**.
+
+De 1.398 views, ~40 pessoas chegaram ao "tap my profile picture": **2 visitas ao perfil**. O nora83 teve 1. Os stories tiveram 29 views e 19 visualizadores (o dos campos trancados, 1 clique) e 14 views e 12 visualizadores (o de 28/11, 0 clique), quase só seguidores. No Tracker, o Insta deu 1 clique em 27/11 e 0 em 28/11 até 10h30.
+
+**4. O Face:**
+- **As versões do Face com as letras pararam entre 230 e 340 desde 25/11:** nora78 279, nora79 336, nora80 328, nora81 331, nora82 279 e nora83 232 com ~8 h.
+- **A exceção foi a variação só de edição do arquivo campeão:** o nora76-VAR2711-FACE fez 647 (+1,4x), com a curva subindo de novo entre ~5 h e ~10 h. O nora77-VAR2811-FACE (10h08 de hoje) é a confirmação, pela mesma regra 13.3c.
+- **O nora83-FACE tem 24 s de tempo médio e 41% de média assistida, o maior da Página com 100+ views** (`recordes.py`: o nora81-FACE tinha 16 s). A retenção não é o problema no Face; a distribuição é (+1,1x).
+- **Os cliques continuam vindo do Face:** 1 em 27/11 e 3 em 28/11 até 10h30.
+
+**5. O horário, como hipótese (1 caso só):** o nora82 (17h50) e o nora80 (18h50) tiveram pouca plateia dos EUA (12% e 25%) e 0 compartilhamento. O nora84 das 17h de hoje é o 2º ponto: olhar a fatia dos EUA e os compartilhamentos.
+
+**Decisão:**
+- hoje, os 3 vídeos com o pacote e o "free" (o 0h00 deixa de ser a base antiga);
+- o teste de amanhã (proposta): o CTA mais cedo (`FILA`, 28/11 ~10h40);
+- a medida de cada post do Insta passa a ser os compartilhamentos e os salvos com ~3 h, além das views.
+
 ## Modelo para o aluno mandar as métricas em texto (29/10/2026)
 **Países no CSV em inglês e com ponto** ("India 58.4%", "United States 4.0%"): o dashboard procura "India" para a coluna da Índia.
 Pedido do aluno: mandar em texto em vez de print. Um bloco por vídeo e rede, com a hora da leitura.

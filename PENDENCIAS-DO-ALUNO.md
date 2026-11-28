@@ -10,7 +10,7 @@ A versão de 26/11 09h10 está no histórico do git. Aqui fica só o que ainda e
 - **Hoje ou amanhã:** comprar os minutos do GeeLark (item 10). Pela conta, devem sobrar ~100 min agora, e eles acabam por volta de 30/11.
 - **17h:** o nora84 (o pacote do nora81 à escrivaninha, suéter azul-marinho), Insta e Face. **No Insta, o CTA leva o "free"** (o item 5: começa hoje). O painel está posto em dia com a data nova, no mesmo link: https://claude.ai/artifact/HicWCCrkeW7V71YMAdQGiN
 - **~17h50:** a régua do nora82 com ~24 h.
-- **20h30 e 0h00:** ainda sem vídeo. Depende do item 7 (abaixo) e do seu "pode montar".
+- **20h30 e 0h00:** o nora85 e o nora86, os 2 com o pacote do nora81 e o "free", cada um com outra roupa e outro cômodo (o pacote ganhou de novo com o nora83; regra 13.3c). Falta o seu "pode montar".
 - **Antes da 01h35 de 29/11:** repostar o story nas 2 redes. A régua do nora83 é na mesma hora.
 
 ---
