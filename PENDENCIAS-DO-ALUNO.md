@@ -4,7 +4,7 @@ A versão de 26/11 09h10 está no histórico do git. Aqui fica só o que ainda e
 
 ---
 
-## Hoje, sábado 28/11, com hora (posto em dia às 17h40)
+## Hoje, sábado 28/11, com hora (posto em dia às 17h35)
 - **~18h45 (era 17h):** o nora84 (à escrivaninha, suéter azul-marinho), Insta e Face, assim que ficar pronto. É o controle do teste do dia. Painel: https://claude.ai/artifact/HicWCCrkeW7V71YMAdQGiN
 - **~22h15 (era 20h30):** o nora85 (à mesa da cozinha, suéter rosa antigo), Insta e Face; o montado até ~21h45. Também é controle. Painel: https://claude.ai/artifact/1apysnnfzvvHcUhKWcoAMJ
 - **ANTES DA 01h35:** repostar o story nas 2 redes, mesmo que o nora86 ainda não esteja pronto. É a mesma hora da régua do nora83.

@@ -29,7 +29,7 @@ São 14 takes e mais 2 só do Face (as letras de novo e o CTA do 1º comentário
 - **O motivo:** o pacote, a fala e o gerador são os do nora84, montados depois da leitura de 27/11 (as aulas do Kobata, 15h25) e de 28/11 ~02h (a aula do Iorhan). O que mudou nesses arquivos desde então foram só as regras que eu mesmo acrescentei: a 12.6 (o vídeo abaixo de 3 min, sem marca d'água; o vídeo tem ~1:33), a imagem no Muse e a 13.3c.
 - **A mineração mais recente é de 26/11** (2 dias): ainda dentro do prazo de ~3 dias.
 
-## 28/11 ~17h40: o pente fino e o multi-ângulo (pedido do aluno, que chegou às ~17h30 e começou a produzir os 3)
+## 28/11 ~17h35: o pente fino e o multi-ângulo (pedido do aluno, que chegou às ~17h30 e começou a produzir os 3)
 - **O pente fino do nora84 e do nora85:**
   - **Conferem:** as falas (o T13 com o "free", a data "before Monday, November thirtieth", o T11 numa frase só, "you'll get"), as legendas, os comentários fixados (o link FACE inteiro com o `&aff=dl7zx6ks`), o LIVRE, o aviso do Muse e os nomes dos clipes. Nenhuma palavra de outro cenário sobrou.
   - **Mudaram:** os horários (o nora84 ~18h45, o nora85 ~22h15) e o texto do teste (os 2 viram o controle).
