@@ -137,6 +137,7 @@
 2. Toda leitura compara com a planilha inteira; antes de "o maior" ou "o recorde", rodar `recordes.py`. (18/11)
 3. Uma variável por vez, salvo decisão sua. (Allan)
 3b. **O teste é 1 por dia; o resto dos vídeos usa o que vem dando certo**, modelando e mantendo, sem parar o que funciona para testar. Hoje o que vem dando certo é **as letras do nome + o corpo da maioria** (nora76-FACE 4.516, nora77-FACE 3.625), mudando só a roupa e o cenário. Mudança na copy só com uma palavra ou frase, pelas dicas do Robert e da maioria, para segurar os 3 primeiros segundos e despertar curiosidade. **[trava: no Resumo, só 1 vídeo do dia diz "o que este vídeo testa"]** (decisão do aluno, 26/11 ~16h00: "o teste é 1 por dia, o resto é usar o que vem dando certo (letra + corpo da maioria)")
+3c. **Um vencedor só vira a base depois de ganhar 2 vezes.** O teste que ganha vai para 2 dos 3 posts do Insta do dia seguinte, e o 3º vai com a base anterior. Se ganhar de novo, vira a base dos 3; se perder, o acerto foi sorte e a base anterior volta. Esse dia de confirmação é o teste do dia. (O 70/30 do Bifi, 2:08:16; aprovado em 28/11: "sim". O caso: o nora81 fez 1.352 e foi direto para os 3 vídeos de 27/11, e o nora82 fez 116.)
 4. Quando duas fontes discordam, vira teste A/B na `FILA`, salvo segurança e honestidade. (17/11)
 
 ## 14. Clone, Discord e contatos

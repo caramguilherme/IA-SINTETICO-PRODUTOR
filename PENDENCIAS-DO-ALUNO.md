@@ -73,7 +73,7 @@ Aprova a ordem? Pode trocar qualquer dia.
 O diário de decisões do `CLAUDE.md` tem hoje de 17 a 27/11, e o arquivo vai inteiro em toda mensagem. No Discord, o gabrielbfrota disse que é isso que faz o Claude "se perder". **A proposta:** mover o diário de 17 a 24/11 para o `HISTORICO-CLAUDE-MD.md`. Nada se perde, e o `buscar.py` continua achando tudo.
 
 
-### 7. Como um vencedor vira a base (nova, 28/11, do podcast do Bifi)
+### ~~7. Como um vencedor vira a base~~ **DECIDIDO em 28/11: "sim". Virou a regra 13.3c do `REGRAS-DA-NORA.md`.**
 O Bifi testa assim: o controle fica em 70% e a variável em 30%. Quando a variável ganha, vai para 50/50 e só depois para 100% (2:08:16).
 **O que aconteceu com a gente:** o nora81 acertou 1 vez (1.352 views), e o pacote dele foi para os 3 vídeos do dia seguinte. O nora82 fez 116 com o mesmo pacote.
 **A proposta:** o teste que ganha vai para 2 dos 3 posts do dia seguinte, com o 3º na base anterior, e só vira a base nova se ganhar de novo. O "1 teste por dia" continua igual.
