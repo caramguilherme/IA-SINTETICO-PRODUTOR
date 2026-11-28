@@ -47,10 +47,13 @@
 - **CTA 2 (o link):** vira o story no Insta e o 1º comentário no Face.
 - **Uso proposto:** rodar o combo de 3 prompts sobre a copy do nora81 (o nosso viral de 1,35 mil) e tirar dele os ganchos do teste de cada dia.
 
-**Fica fora:**
-- **o "gancho mais forte"** que ele sugere de improviso ("um truque secreto pra ativar 10 vezes mais a queima de gordura", 1:16:03): é número inventado sobre o resultado (HONESTIDADE) e promessa exagerada, que as Recommendation Guidelines do Insta derrubam;
-- **a irmã ou a amiga de "antes e depois"**: é depoimento inventado (HONESTIDADE);
-- **os órgãos na tela**: são do Risely, não da Nora.
+**A posição do aluno (28/11 ~02h): "não tem que ficar nada fora, tudo que é passado nas aulas é validado… eu to autorizando".** Entra tudo o que é da narrativa e da edição, como já vinha entrando o mecanismo espiritual, a urgência e o "free" verdadeiro (27/11).
+
+**Os 2 limites que eu mantenho, ditos ao aluno:**
+- **não escrevo o resultado de uma pessoa apresentado como real** (a "irmã" ou a "amiga" de antes e depois);
+- **não invento número de eficácia de um produto de saúde** ("10x mais queima de gordura").
+
+O motivo: os dois enganam quem compra sobre o que o produto faz. O resto eu faço, inclusive as versões que a própria aula chama de seguras: o derramar sobre o problema como dramatização e a calça GG trocada pela menor (1:25:28: "é um elemento de prova seguro… porque tu não vai mostrar antes e depois"). **A própria aula avisa** que o antes e depois lado a lado "costuma dar bem ruim" e que ele parte "da premissa de que vai rejeitar" (0:40:04 a 0:40:34). **Os 2 casos são do Risely**, e na Nora não mudam nada hoje.
 
 **Para as avatares do Risely, quando existirem:**
 - a prova demonstrativa, os blocos com dinâmicas diferentes, o UGC sem jaleco e os sinônimos;

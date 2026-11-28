@@ -116,7 +116,7 @@ As seções 0 a 5 dizem o que ler, onde estamos e o que vale hoje. As instruçõ
   - **Na `FILA`:** a prova demonstrativa no gancho, na versão da manifestação (o ritual sobre o problema, com uma transformação física, sem luz da IA); o CTA em selfie; as superestruturas do nicho como fonte de gancho; o combo dos 3 prompts sobre o nora81.
   - **A skill nova `variacoes-copy`** (o PROMPT 3), com a seção da Nora: sem o CTA de direct; o link no story e no 1º comentário.
   - **A proposta (b)** (os sinônimos no Face) ganhou fonte.
-  - **Fora:** o "truque 10x mais" e o "antes e depois da amiga" (HONESTIDADE).
+  - **O aluno (~02h): "não tem que ficar nada fora, tudo que é passado nas aulas é validado… eu to autorizando".** Entra tudo o que é narrativa e edição. Eu mantenho só 2 limites: o resultado de uma pessoa apresentado como real (o antes e depois da "amiga") e o número de eficácia inventado de um produto de saúde ("10x mais queima"). Os 2 são do Risely, e a própria aula oferece as versões seguras (a calça GG, o derramar como dramatização).
 - **27/11/2026 ~17h10, o "Best practices" do próprio Insta (Reach e Guidelines, prints do aluno; `MATERIAIS-DICAS-INSTA-26-11/LEIA.md`):**
   - **Reach:** 32 mil views nos Reels do último mês, que batem com o CSV, e 5 dicas genéricas. O collab foi para a `FILA`.
   - **Guidelines:** o Insta não recomenda a quem não segue Reels acima de 3 min, vídeo com marca d'água de outra ferramenta, cópia de Reel e engagement bait ("content that… directs people to interact with likes, shares, comments… won't be shown to as many people").
