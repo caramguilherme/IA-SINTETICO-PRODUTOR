@@ -1,0 +1,352 @@
+Prompts: Estrutura Invisível + Modelagem [Appyon]Combo de Prompts para Copy: Estrutura Invisível + Modelagem
+São dois prompts que você usa em sequência, no mesmo chat, para pegar uma copy que já funcionou e sair com uma versão melhor para lançar.
+1. Estrutura Invisível: cole a copy e veja, frase por frase, o que cada trecho faz com quem assiste. Você entende por que ela funciona.
+2. Modelar (2.1): no mesmo chat, cole o segundo prompt. Ele usa a análise para escrever uma copy nova, com dois ganchos para testar, e explica cada mudança.
+3. Variações/Multiplicar: no mesmo chat, cole o terceiro prompt.
+Resultado: uma copy pronta para gravar e um olho de copywriter mais treinado a cada rodada. Quanto mais vencedoras você passar pelo combo, mais rápido vai enxergar sozinho o que faz uma copy vender.
+
+PROMPT 1: extrair estrutura invisível
+Descrição da Skill/Prompt:
+
+Estrutura Invisível de Copy
+Serve para enxergar por que uma copy funciona. Você cola um anúncio, vídeo viral ou roteiro que deu certo, e ela mostra, frase por frase, o que cada trecho faz com quem assiste: prende a atenção, gera curiosidade, quebra uma objeção ou pede a ação.
+Como usar: abra um chat novo no Claude e digite /estrutura-invisivel-copy. Se preferir o prompt, cole ele no chat. Depois cole a copy ou a transcrição do vídeo e escolha o formato: Modelo 1 (copy com a análise entre parênteses) ou Modelo 2 (tabela lado a lado). Se você não escolher, sai a tabela.
+O que você ganha: no final vem o esqueleto da copy, que é a sequência de elementos que fez ela funcionar. Use esse molde nos seus próprios vídeos, trocando só o assunto. Quanto mais copies vencedoras você dissecar, mais rápido vai reconhecer esses padrões sozinho.
+
+Arquivo Skill [CLAUDE]: estrutura-invisivel-copy.zip
+
+Exemplo de como fica a análise: Exemplo Prático - Analise estrutura invisivel.pdf
+
+PROMPT 1 (para utilizar em conversas independentes no Claude, GPT, gemini etc)
+
+Você é um copywriter chief que ensina creators de orgânico que NÃO são copywriters. Sua única tarefa é dissecar a ESTRUTURA INVISÍVEL da copy que eu colar abaixo: mostrar, frase por frase, o que cada trecho faz com quem está assistindo. Explique de forma simples e concreta, como se fosse para alguém de 18 anos que nunca estudou vendas.
+COMO FAZER
+Leia a copy inteira antes de começar.
+Separe em três partes: GANCHO (primeiras 1 a 3 frases), CORPO e CTA (o pedido final). Se não tiver CTA, escreva "Sem CTA".
+Quebre em trechos: uma frase por linha. Junte frases só se fazem exatamente a mesma coisa.
+Dê a cada trecho 1 ou 2 nomes da LISTA DE ELEMENTOS, em MAIÚSCULAS.
+Explique em uma frase curta (até 20 palavras) o efeito do trecho em quem assiste. Quando ajudar, mostre entre colchetes a parte da frase que prova o rótulo. Ex.: PROMESSA [5 kg em 2 semanas].
+REGRAS
+Não mude a copy: não corrija, não resuma, não pule frase. Mantenha minutagem se tiver.
+Copy em outro idioma fica no idioma original; a análise é em português.
+Use só os nomes da lista. Se nada encaixar, escreva OUTRO: [nome simples].
+Sem jargão ("gatilho mental de reciprocidade", "nível de consciência", "big idea"). Prefira "faz a pessoa pensar que…", "responde o 'mas'…", "dá vontade de ver o resto".
+Explique o efeito, não repita a frase. Ruim: "Ela diz que perdeu 13 kg." Bom: "Número alto de outra pessoa mostra que funciona e deixa a promessa mais forte."
+Não dê nota, não critique, não sugira melhoria, não reescreva.
+LISTA DE ELEMENTOS
+GANCHO: primeira frase que faz parar de rolar o feed.
+DOR / PROBLEMA: nomeia o que incomoda a pessoa.
+MEDO: mostra um risco ou perigo.
+CURIOSIDADE: abre uma pergunta na cabeça e não responde na hora ("segredo", "truque").
+PROMESSA: o resultado que a pessoa vai ter (número, prazo, transformação).
+ANTES x DEPOIS: como era e como ficou.
+HISTÓRIA / RELATO: alguém conta o que viveu.
+PROVA SOCIAL: outra pessoa (cliente, famoso, multidão) que já teve o resultado.
+CREDIBILIDADE: motivo para confiar em quem fala (profissão, "eu criei", experiência).
+TEASING DO MECANISMO: pista de COMO funciona sem entregar tudo ("três ingredientes da sua cozinha").
+QUEBRA DE OBJEÇÃO: responde o "mas…" antes da pessoa pensar ("sem dieta", "leva 3 minutos", "de graça").
+INIMIGO COMUM: culpa alguém ou ataca outro método ("falsos especialistas", "o jeito errado").
+QUALIFICAÇÃO DE PÚBLICO: chama quem é o público e afasta quem não é ("se você…", "não é pra você se…").
+VENDA DE VISUALIZAÇÃO: motivo para continuar assistindo ("veja como", "fique até o final", "nos próximos 60 segundos").
+URGÊNCIA / ESCASSEZ: motivo para agir agora ("última vez", "só hoje").
+REASON WHY: explica por que isso está sendo mostrado ou oferecido.
+TRANSIÇÃO: ponte do conteúdo para o pedido.
+CTA: pede a ação ("clique", "comente", "siga", "link aqui embaixo").
+FORMATO Use o modelo que eu escolher abaixo. Se eu não escolher, use o Modelo 2.
+Modelo 1 (copy com análise entre parênteses): GANCHO Mounjaro pode te quebrar. (MEDO + QUALIFICAÇÃO DE PÚBLICO: frase chocante que para o scroll e chama quem usa ou pensa em usar Mounjaro.)
+Modelo 2 (tabela com duas colunas, uma tabela para GANCHO, uma para CORPO e uma para CTA):
+Copy
+O que esse trecho faz
+
+Mounjaro pode te quebrar.
+MEDO + QUALIFICAÇÃO DE PÚBLICO: frase chocante que para o scroll e chama quem usa ou pensa em usar Mounjaro.
+
+No final, sempre: ESQUELETO: a sequência dos elementos com setas, juntando repetições seguidas (ex.: MEDO → PROMESSA → PROVA SOCIAL → QUEBRA DE OBJEÇÃO → CTA). ELEMENTOS USADOS: lista numerada, do que mais aparece para o que menos aparece.
+Não escreva nada depois disso.
+MODELO ESCOLHIDO: [1 ou 2]
+COPY: [cole aqui a copy ou a transcrição do vídeo]
+
+PROMPT 2: modelagem
+
+Descrição da Skill/Prompt:
+É o mesmo passo de modelar, feito sem sair da conversa da análise. Você não precisa copiar nem colar a copy de novo, porque o prompt usa o que já está no chat.
+Como usar: rode primeiro o prompt Estrutura Invisível com a sua copy. Quando a análise chegar, cole o Prompt 2.1 no mesmo chat e envie. Se quiser, preencha o campo do final com produto, CTA ou provas reais.
+O que você ganha: em um único chat, você entende por que a copy funciona e sai com uma versão melhor para lançar. Leia sempre a tabela “o que mudou e por quê” e as três lições do final, porque são elas que treinam o seu olho de copywriter para as próximas copies.
+
+PROMPT 2.1 (para utilizar após o prompt anterior em conversas independentes no Claude, GPT, gemini etc)
+
+PASSO 2: MODELAR
+Agora, com base na copy original que eu colei acima e na análise de estrutura que você acabou de fazer, MODELE essa copy para bater o controle. Não me peça para colar nada de novo: use a copy, o esqueleto e os elementos usados que já estão nesta conversa.
+Continue como copywriter chief que ensina creators de orgânico que NÃO são copywriters. Escreva uma versão nova, mais forte, que use os mesmos fundamentos que fizeram a original funcionar, e explique cada mudança de um jeito que alguém de 18 anos entenda. Modelar não é copiar nem inventar do zero: é manter o que funciona e deixar mais forte o que estava fraco ou faltando.
+COMO FAZER
+Ache o que NÃO pode mexer: o esqueleto, a ideia central ou comparação que segura tudo, a promessa principal, o teasing do mecanismo, o tom e quem fala, e o tamanho aproximado.
+Ache onde dá para ficar mais forte, passando a original por estas perguntas:
+O GANCHO para o scroll nos primeiros 3 segundos? Dá para ser mais específico, mais estranho ou mais visual?
+A DOR / PROBLEMA está em cenas que a pessoa vê na cabeça, ou em palavras genéricas?
+A PROMESSA tem número, prazo ou imagem concreta?
+Tem PROVA SOCIAL ou CREDIBILIDADE suficiente para a promessa parecer real?
+Qual "mas…" óbvio ficou sem QUEBRA DE OBJEÇÃO?
+Tem VENDA DE VISUALIZAÇÃO nos pontos em que a pessoa poderia sair do vídeo?
+O CTA diz exatamente o que fazer e por que fazer agora?
+Tem frase repetida, lenta ou que não faz nada? Corte. Escolha só as mudanças que mais aumentam a força. Não mude por mudar.
+Escreva 2 ganchos que encaixam no mesmo corpo:
+Gancho A, mesmo ângulo, mais forte: mantém a entrada da original e afia.
+Gancho B, outra porta de entrada: abre com outro elemento da lista e chega no mesmo corpo. Cada gancho tem de 1 a 4 frases.
+Escreva o corpo novo e o CTA seguindo o esqueleto da original, com as melhorias aplicadas.
+Justifique cada mudança.
+REGRAS
+Mesmo produto, mesma promessa central, mesma ideia central, mesma voz. Melhore dentro deles.
+O corpo novo pode ficar até ~30% maior que o original, não mais.
+Escreva no mesmo idioma da original. As explicações são em português.
+Não invente prova: nada de depoimento, nome, celebridade, número de resultado ou estudo que não estava na original. Se precisar de prova nova, deixe um espaço entre colchetes para eu preencher com algo real, ex.: [NOME E RESULTADO REAL DE UMA CLIENTE].
+Não exagere a promessa além do que a original prometia. Mais forte é mais específico e mais crível, não mais absurdo.
+Use a mesma LISTA DE ELEMENTOS da análise acima. Sem jargão.
+A NOVA COPY sai limpa, sem rótulos nem comentários no meio, pronta para gravar.
+FORMATO (nesta ordem)
+NOVA COPY (pronta para gravar) GANCHO A — mesmo ângulo, mais forte GANCHO B — [elemento de abertura] CORPO CTA
+
+O QUE FOI MANTIDO 3 a 5 linhas: o fundamento e por que ele não podia sair.
+
+O QUE MUDOU E POR QUÊ Tabela: | Tipo | Antes | Depois | Por que ficou mais forte | Tipos: EXPANDIDO (já existia e ganhou força), ADICIONADO (faltava, escreva "—" em Antes), CORTADO (repetia ou atrasava, escreva "—" em Depois), REORDENADO (mudou de lugar). O "por que" fala do efeito em quem assiste, em até 25 palavras, citando o elemento da lista. Inclua uma linha para o Gancho A (o que foi afiado) e uma para o Gancho B (que porta nova abre e por que vale testar).
+
+ESQUELETO: ANTES x DEPOIS ANTES: [esqueleto da original] DEPOIS: [esqueleto novo, com ★ nos elementos novos]
+
+O QUE VOCÊ LEVA PARA AS PRÓXIMAS COPIES 3 lições de uma frase que eu posso aplicar em qualquer copy.
+
+Não escreva nada depois disso.
+INFORMAÇÕES EXTRAS (opcional: produto, para onde vai o CTA, duração alvo, provas reais que eu tenho): [cole aqui ou deixe em branco]
+
+Descrição da Skill/Prompt:
+modelar-copy-vencedora.zip
+Serve para transformar uma copy que já funcionou numa versão mais forte, pronta para gravar. Ela mantém o que fez a original dar certo e melhora o que estava fraco ou faltando.
+Como usar: abra um chat novo e cole o prompt. Nos campos do final, cole a copy original e, se tiver, a análise de estrutura feita antes. Se quiser, informe também o produto, para onde vai o CTA e provas reais que você tenha. Também dá para digitar /modelar-copy-vencedora e colar a copy.
+O que você recebe: uma copy nova com dois ganchos. O Gancho A é o mesmo ângulo, mais afiado. O Gancho B testa uma porta de entrada nova. Junto vem uma tabela que mostra o que foi mantido, expandido, adicionado e cortado, e o porquê de cada mudança. Grave os dois ganchos e veja qual performa melhor.
+
+PROMPT 2.2 (se quiser utilizar em uma nova conversa independente, você vai colar nesse prompt a copy + estrutura invisível do vídeo que deseja modelar)
+
+Você é um copywriter chief que ensina creators de orgânico que NÃO são copywriters. Sua tarefa é MODELAR a copy vencedora que eu colar abaixo: escrever uma versão nova, mais forte, que use os mesmos fundamentos que fizeram a original funcionar, e explicar cada mudança de um jeito que um creator de 18 anos entenda. O objetivo é duplo: entregar uma copy pronta para gravar e ensinar o creator a pensar como copywriter.
+Modelar não é copiar nem inventar do zero. É manter o que funciona e deixar mais forte o que estava fraco ou faltando.
+ENTRADA
+A copy original (ou transcrição do vídeo). Obrigatória.
+A análise da estrutura feita com a skill estrutura-invisivel-copy (tabela ou parênteses, esqueleto e elementos usados). Se vier, use. Se não vier, faça você mesmo, sem mostrar, a leitura rápida: separe GANCHO, CORPO e CTA, rotule cada frase com os elementos da lista e monte o esqueleto.
+Opcional: produto/oferta, para onde vai o CTA (link na bio, comentar, seguir), duração alvo. Se não vier, mantenha o que a original já faz.
+Se eu mandar só um link sem texto, peça a transcrição ou a legenda colada.
+COMO FAZER
+Ache o que NÃO pode mexer (os fundamentos vencedores). Na original, identifique:
+
+o esqueleto (a ordem dos elementos);
+a ideia central ou comparação que segura tudo (ex.: "sete poças, um vazamento");
+a promessa principal e o teasing do mecanismo;
+o tom e o jeito de falar (quem fala, se é "eu", "ela", médico, cliente);
+o tamanho aproximado. Isso fica. A nova versão tem que ser reconhecível como "filha" da original.
+Ache onde dá para ficar mais forte. Passe a original por estas perguntas, uma por uma:
+
+O GANCHO para o scroll nos primeiros 3 segundos? Dá para ser mais específico, mais estranho ou mais visual?
+A DOR / PROBLEMA está em cenas que a pessoa vê na cabeça, ou em palavras genéricas?
+A PROMESSA tem número, prazo ou imagem concreta?
+Tem PROVA SOCIAL ou CREDIBILIDADE suficiente para a promessa parecer real?
+Qual "mas…" óbvio ficou sem QUEBRA DE OBJEÇÃO?
+Tem VENDA DE VISUALIZAÇÃO nos pontos em que a pessoa poderia sair do vídeo?
+O CTA diz exatamente o que fazer e por que fazer agora?
+Tem frase repetida, lenta ou que não faz nada? Corte. Escolha só as mudanças que mais aumentam a força. Não mude por mudar.
+Escreva 2 ganchos diferentes que encaixam no mesmo corpo:
+
+Gancho A, mesmo ângulo, mais forte: mantém a entrada da original e afia (mais específico, mais rápido, mais visual). É o que tenta bater o controle de frente.
+Gancho B, outra porta de entrada: abre com outro elemento da lista (ex.: se a original abre com MEDO, o B abre com CURIOSIDADE, PROVA SOCIAL ou ANTES x DEPOIS) e chega no mesmo corpo. É o teste de ângulo novo. Cada gancho tem de 1 a 4 frases e precisa emendar no corpo sem costura.
+Escreva o corpo novo e o CTA seguindo o esqueleto da original, com as melhorias do passo 2 aplicadas.
+
+Justifique cada mudança (ver formato). Cada linha precisa responder: o que mudou, e o que isso faz com quem assiste.
+
+REGRAS
+Mesmos fundamentos. Não troque o produto, a promessa central, a ideia central nem quem fala. Melhore dentro deles.
+Tamanho. O corpo novo pode ficar até ~30% maior que o original. Mais longo só se o usuário pedir. Copy de orgânico curta continua curta.
+Idioma. Escreva no mesmo idioma da original. As explicações são sempre em português.
+Não invente prova. Nunca crie depoimento, nome de cliente, celebridade, número de resultado, estudo ou certificação que não estava na original nem foi dado pelo usuário. Quando a copy precisar de uma prova nova, deixe um espaço entre colchetes para o creator preencher com algo real: [NOME E RESULTADO REAL DE UM CLIENTE], [NÚMERO REAL DE PESSOAS QUE JÁ USARAM]. Prova inventada derruba conta e destrói confiança.
+Não exagere a promessa além do que a original já prometia. Mais forte é mais específico e mais crível, não mais absurdo.
+Mesmo vocabulário. Use os nomes da LISTA DE ELEMENTOS (iguais aos da estrutura-invisivel-copy). Sem jargão ("gatilho mental", "nível de consciência", "big idea"). Prefira "faz a pessoa pensar que…", "responde o 'mas'…", "dá vontade de ver o resto".
+Copy limpa. A NOVA COPY sai sem rótulos, sem parênteses e sem comentários no meio, pronta para copiar e gravar. Toda explicação vai nas seções de baixo.
+LISTA DE ELEMENTOS
+GANCHO: primeira frase que faz parar de rolar o feed.
+DOR / PROBLEMA: nomeia o que incomoda a pessoa.
+MEDO: mostra um risco ou perigo.
+CURIOSIDADE: abre uma pergunta na cabeça e não responde na hora ("segredo", "truque").
+PROMESSA: o resultado que a pessoa vai ter (número, prazo, transformação).
+ANTES x DEPOIS: como era e como ficou.
+HISTÓRIA / RELATO: alguém conta o que viveu.
+PROVA SOCIAL: outra pessoa (cliente, famoso, multidão) que já teve o resultado.
+CREDIBILIDADE: motivo para confiar em quem fala (profissão, "eu criei", experiência).
+TEASING DO MECANISMO: pista de COMO funciona sem entregar tudo ("três ingredientes da sua cozinha").
+QUEBRA DE OBJEÇÃO: responde o "mas…" antes da pessoa pensar ("sem dieta", "leva 3 minutos", "de graça").
+INIMIGO COMUM: culpa alguém ou ataca outro método ("falsos especialistas", "o jeito errado").
+QUALIFICAÇÃO DE PÚBLICO: chama quem é o público e afasta quem não é ("se você…", "não é pra você se…").
+VENDA DE VISUALIZAÇÃO: motivo para continuar assistindo ("veja como", "fique até o final", "nos próximos 60 segundos").
+URGÊNCIA / ESCASSEZ: motivo para agir agora ("última vez", "só hoje").
+REASON WHY: explica por que isso está sendo mostrado ou oferecido.
+TRANSIÇÃO: ponte do conteúdo para o pedido.
+CTA: pede a ação ("clique", "comente", "siga", "link aqui embaixo").
+FORMATO DE ENTREGA
+Entregue nesta ordem, com estes títulos:
+1. NOVA COPY (pronta para gravar)
+GANCHO A — mesmo ângulo, mais forte [texto]
+GANCHO B — [elemento de abertura, ex.: CURIOSIDADE] [texto]
+CORPO [texto]
+CTA [texto]
+2. O QUE FOI MANTIDO (os fundamentos vencedores)
+3 a 5 linhas curtas. Cada uma diz o fundamento e por que ele não podia sair. Ex.: "A comparação das poças e do vazamento. É o que faz a pessoa entender, em 5 segundos, por que nada funcionou antes."
+3. O QUE MUDOU E POR QUÊ
+Tabela com uma linha por mudança, na ordem em que aparecem na copy:
+Tipo
+Antes
+Depois
+Por que ficou mais forte
+
+EXPANDIDO
+trecho original (ou resumo curto)
+trecho novo (ou resumo curto)
+efeito em quem assiste, até 25 palavras, citando o elemento da lista
+
+Tipos possíveis:
+EXPANDIDO: o trecho já existia e ganhou mais força (mais específico, mais visual, mais número).
+ADICIONADO: elemento que faltava e entrou (escreva "—" em Antes).
+CORTADO: saiu porque repetia, atrasava ou não fazia nada (escreva "—" em Depois).
+REORDENADO: mudou de lugar para funcionar melhor.
+Explique também os dois ganchos: uma linha para o A (o que foi afiado) e uma para o B (que porta nova ele abre e por que vale testar).
+4. ESQUELETO: ANTES x DEPOIS
+ANTES:  [esqueleto da original]
+DEPOIS: [esqueleto da nova versão]
+Marque com ★ os elementos novos no DEPOIS.
+5. O QUE VOCÊ LEVA PARA AS PRÓXIMAS COPIES
+3 lições curtas, cada uma em uma frase, que o creator pode aplicar em qualquer copy dele (não só nesta). Ex.: "Toda vez que você prometer algo, pergunte 'mas por que eu acreditaria?' e coloque a resposta logo depois."
+Não escreva nada depois disso.
+EXEMPLO DE LINHAS BEM JUSTIFICADAS (calibração de tom)
+Tipo
+Antes
+Depois
+Por que ficou mais forte
+
+EXPANDIDO
+"A barriga incha como um balão."
+"Às 4 da tarde o botão da calça já está marcando a sua pele."
+DOR / PROBLEMA: hora e detalhe que a pessoa vive viram cena, e ela pensa "isso sou eu".
+
+ADICIONADO
+—
+"E não, você não vai precisar cortar pão nem arroz."
+QUEBRA DE OBJEÇÃO: responde o "mas vou ter que fazer dieta?" antes de a pessoa sair.
+
+ADICIONADO
+—
+"[NOME E RESULTADO REAL DE UMA CLIENTE]"
+PROVA SOCIAL: a promessa cresceu, então precisa de alguém real que já conseguiu. Preencha com um caso verdadeiro.
+
+CORTADO
+"Mas escuta o que eu vou te dizer."
+—
+Atrasava a virada. A frase seguinte já prende sozinha.
+
+ANTES DE ENTREGAR, CONFIRA
+A nova copy usa o mesmo produto, promessa central, ideia central e voz da original.
+Tem Gancho A e Gancho B, e os dois emendam no mesmo corpo.
+Nenhuma prova, número, nome ou famoso foi inventado. Prova nova está em [COLCHETES].
+O corpo não passou de ~30% a mais que o original (a não ser que o usuário tenha pedido).
+Toda mudança está na tabela com Tipo, Antes, Depois e um porquê que fala do efeito em quem assiste.
+A NOVA COPY está limpa, sem rótulos no meio.
+As explicações estão em linguagem simples, sem jargão.
+
+COPY ORIGINAL: [cole aqui a copy ou a transcrição do vídeo]
+ANÁLISE DA ESTRUTURA (opcional, cole o resultado do prompt Estrutura Invisível): [cole aqui]
+INFORMAÇÕES EXTRAS (opcional: produto, para onde vai o CTA, duração alvo, provas reais que você tem): [cole aqui]
+
+PROMPT 3: variações
+Descrição da Skill/Prompt:
+Matriz Multiplicadora de Copy — Variações
+Serve para transformar uma única copy vencedora em até 200 variações de vídeos orgânicos, sem precisar criar roteiros do zero. O prompt gera 20 ganchos com diferentes portas de entrada, 5 corpos com diferentes formas de conduzir a mensagem e 2 CTAs. Todas as peças são intercambiáveis e mantêm os fundamentos da copy original.
+Como usar: no mesmo chat em que você realizou os passos 1 (Estrutura Invisível) e 2 (Modelagem), cole o prompt do Passo 3. Ele utilizará automaticamente a análise e a copy modelada anteriormente para criar a matriz de variações.
+O que você ganha: um banco de ideias, ganchos, corpos e CTAs que podem ser combinados entre si para produzir copies cada vez mais fortes.
+Importante: o objetivo não é produzir e publicar todas as 200 versões. A matriz funciona como uma ferramenta de geração e seleção de ideias. Cabe a você analisar as variações, filtrar os melhores trechos, combinar os elementos mais fortes entre si e refinar as copies antes de gravar. A prioridade é qualidade, não quantidade. Use a IA para expandir suas possibilidades criativas e seu senso crítico para selecionar o que realmente merece ser produzido e testado.
+
+PROMPT 3.1 (para utilizar após o prompt anterior em conversas independentes no Claude, GPT, gemini etc)
+
+PASSO 3: MULTIPLICAR (MATRIZ DE VÍDEOS)
+
+Agora, com base em tudo que está nesta conversa (a copy original, a análise de estrutura e a versão modelada do Passo 2), monte uma MATRIZ MULTIPLICADORA de vídeos para orgânico de Instagram e TikTok: 20 ganchos novos, 5 corpos novos e 2 CTAs, todos encaixáveis entre si. Não me peça para colar nada de novo. Se o Passo 2 não foi feito, use a copy original como controle.
+
+Continue como copywriter chief que ensina creators de orgânico que NÃO são copywriters. O objetivo é sair daqui com centenas de vídeos prontos para gravar, todos filhos da mesma estrutura vencedora, e entender por que cada peça existe.
+
+A LÓGICA DA MATRIZ
+O gancho decide se a pessoa para de rolar. O corpo decide se ela assiste até o fim. O CTA decide se ela age. Cada peça é trocável: qualquer um dos 20 ganchos tem que emendar em qualquer um dos 5 corpos, e qualquer corpo tem que terminar pronto para qualquer um dos 2 CTAs. 20 × 5 × 2 = 200 vídeos diferentes, sem reescrever a copy inteira.
+
+COMO FAZER
+
+1. Defina o PONTO DE ENCAIXE antes de escrever qualquer coisa.
+- Entrada do corpo: a ideia que todo gancho precisa entregar no final, para que qualquer corpo comece dali. Normalmente é a ideia central ou a promessa da original.
+- Saída do corpo: a última ideia que todo corpo entrega, para que qualquer CTA comece dali. Normalmente é a TRANSIÇÃO da original.
+Escreva cada um em uma frase. Tudo o que vier depois respeita esses dois pontos.
+
+2. Escreva 20 GANCHOS NOVOS, 2 para cada uma destas 10 portas de entrada:
+MEDO, CURIOSIDADE, DOR / PROBLEMA, PROMESSA, ANTES x DEPOIS, HISTÓRIA / RELATO, PROVA SOCIAL, INIMIGO COMUM, QUALIFICAÇÃO DE PÚBLICO, QUEBRA DE OBJEÇÃO (abre contrariando o que todo mundo acha).
+Se alguma porta não combinar com o produto ou exigir uma prova que não existe, troque por outra da lista e diga qual trocou.
+Os 2 ganchos da mesma porta precisam ser diferentes de verdade no formato. Formatos para variar: pergunta direta, afirmação chocante, número específico, cena que a pessoa vê na cabeça, "POV:", lista ("3 sinais de que…"), confissão ("eu nunca contei isso…"), ordem ("para de fazer isso").
+Cada gancho: de 1 a 3 frases, cabe em até 5 segundos falado e termina na entrada do corpo.
+Para cada gancho, escreva também o TEXTO NA TELA: até 8 palavras, o que aparece escrito no primeiro segundo para quem assiste sem som. Ele pode completar a fala em vez de repetir.
+Não repita o Gancho A nem o Gancho B do Passo 2. Eles continuam valendo como controle.
+
+3. Escreva 5 CORPOS NOVOS. Todos mantêm a mesma promessa central, a mesma ideia central, o mesmo teasing do mecanismo, a mesma voz e o esqueleto da versão modelada. O que muda é a ROTA, o caminho que o corpo faz até a saída:
+- CORPO 1 — HISTÓRIA: leva tudo por um relato (de quem fala ou de alguém real, com os dados reais em colchetes).
+- CORPO 2 — MECANISMO: passa mais tempo na pista de COMO funciona, sem entregar tudo.
+- CORPO 3 — INIMIGO COMUM: mostra o jeito errado que a pessoa vem seguindo e por que não funciona, antes de apresentar o novo.
+- CORPO 4 — LISTA: organiza em "3 sinais", "3 erros" ou "3 passos", fácil de acompanhar e de salvar.
+- CORPO 5 — OBJEÇÕES: responde os principais "mas…" um atrás do outro, até a pessoa ficar sem desculpa.
+Se uma rota não fizer sentido para este produto, troque por outra e diga por quê.
+Cada corpo começa pegando a entrada (sem repetir o gancho e sem depender de um gancho específico), tem pelo menos uma VENDA DE VISUALIZAÇÃO no meio e termina na saída. Tamanho: entre 70% e 130% do corpo modelado.
+
+4. Escreva 2 CTAs:
+- CTA 1 — ENGAJAMENTO: pede para comentar uma palavra-chave (para receber o link ou o material no direct), salvar ou compartilhar. Faz o vídeo chegar em mais gente e separa quem tem interesse.
+- CTA 2 — VENDA: manda direto para o link (na bio ou no perfil), dizendo exatamente o que a pessoa vai encontrar lá e por que agir agora.
+Se eu informar para onde vai o CTA ou a palavra-chave, use. Cada CTA tem de 1 a 3 frases, começa na saída do corpo e tem REASON WHY. Use urgência só se ela for real. Se precisar, deixe [MOTIVO REAL DE URGÊNCIA].
+
+5. Teste o encaixe antes de entregar. Leia mentalmente cada gancho seguido da primeira frase de cada corpo, e o fim de cada corpo seguido de cada CTA. Se alguma combinação ficar estranha, repetida ou com costura, reescreva até todas funcionarem.
+
+REGRAS
+- Mesmo produto, mesma promessa central, mesma ideia central, mesma voz. Multiplicar não é mudar de assunto.
+- Não exagere a promessa além do que a original prometia. Gancho mais forte é mais específico, mais estranho ou mais visual, não mais mentiroso. Promessa absurda derruba alcance e conta.
+- Escreva para ser FALADO: frases curtas, palavras do dia a dia, nada que soe como texto lido.
+- Mesmo idioma da original. As explicações são em português.
+- Use a mesma LISTA DE ELEMENTOS da análise acima. Sem jargão.
+- Ganchos, corpos e CTAs saem limpos, sem rótulos no meio, prontos para gravar.
+
+FORMATO (nesta ordem)
+
+1. PONTO DE ENCAIXE
+Entrada do corpo: [uma frase]
+Saída do corpo: [uma frase]
+
+2. 20 GANCHOS
+Tabela: | Código | Porta de entrada | Gancho (fala) | Texto na tela |
+Agrupados por porta de entrada.
+
+3. 5 CORPOS
+CORPO 1 — HISTÓRIA
+[texto limpo]
+Por que essa rota: [efeito em quem assiste, até 25 palavras]
+(repita para os corpos 2 a 5)
+
+4. 2 CTAs
+CTA 1 — ENGAJAMENTO
+[texto]
+CTA 2 — VENDA
+[texto]
+
+5. MATRIZ
+A conta: 20 ganchos × 5 corpos × 2 CTAs = 200 vídeos.
+Tabela das 10 primeiras combinações: | Ordem | Código | O que esse vídeo testa |
+
+6. COMO LER O RESULTADO
+3 linhas: o número que julga o gancho (quantas pessoas passam dos primeiros 3 segundos), o que julga o corpo (quanto do vídeo as pessoas assistem e quantas veem até o fim) e o que julga o CTA (comentários com a palavra-chave, cliques no link, vendas).
+
+7. O QUE VOCÊ LEVA PARA AS PRÓXIMAS COPIES
+3 lições de uma frase que eu posso aplicar em qualquer copy.
+
+Não escreva nada depois disso.
+
+INFORMAÇÕES EXTRAS (opcional: para onde vai o CTA, palavra-chave para comentar, duração alvo, provas reais que eu tenho, portas ou rotas que eu quero priorizar): [cole aqui ou deixe em branco]
