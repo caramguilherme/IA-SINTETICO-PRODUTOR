@@ -89,7 +89,7 @@ O Bifi testa assim: o controle fica em 70% e a variável em 30%. Quando a variá
   2. me mandar, e eu confiro;
   3. trocar no Insta (pelo GeeLark) e na Página.
 - **12. Responder o Pedro⚡** (você disse que ia responder). A resposta sugerida está no `CONTATOS-ALUNOS.md`.
-- **13. A diferença da comissão** (US$ 13,70 recebidos × US$ 15,20 na Central): perguntar à Ju Santos ou ao suporte, quando quiser. O texto foi entregue em 26/11 ~17h25.
+- ~~**13. A diferença da comissão**~~ **RESOLVIDO:** o Kadu Sousa (suporte, 26/11 17h54) respondeu que a Central não considerava a taxa de 10% do processamento; vale o painel da Appyon. Em 28/11 a Central já mostra US$ 13,73.
 - **14. Os Trial Reels** (o teste aprovado em 26/11): achar a opção no Insta da Nora, no celular do GeeLark.
 - **15. Limpar os stories antigos do destaque "Part 2".**
 - ~~**17. O print do "Boas práticas → Alcance" do Insta da Nora**~~ **Feito em 27/11 ~16h35** (em inglês: Professional dashboard → Best practices → Reach). Deu 32 mil views nos Reels do último mês, que batem com o CSV, e 5 dicas genéricas. Nada muda na grade; o collab foi para a `FILA` (`MATERIAIS-DICAS-INSTA-26-11/LEIA.md`).
