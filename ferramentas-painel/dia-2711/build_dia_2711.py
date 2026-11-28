@@ -265,9 +265,10 @@ def montar(nn):
     conferir(v, fala + [LETRAS, CTA_FACE], gestos + [G_LETRAS, GESTO_CTA_FACE])
     n = len(fala)
     palavras = sum(len(f.split()) for f in fala)
-    nomes = [f'd2711-{v["pref"]}-T{i + 1:02d}-{sufs[i]}' for i in range(n)]
+    dia = v.get('dia', 'd2711')   # 28/11: o mesmo gerador serve aos painéis dos outros dias (build_dia_2811.py)
+    nomes = [f'{dia}-{v["pref"]}-T{i + 1:02d}-{sufs[i]}' for i in range(n)]
     tf1, tf2 = f'T{n + 1:02d}', f'T{n + 2:02d}'   # os 2 só do Face, no fim (T14 e T15 com 13 takes; T15 e T16 no nora81)
-    n_letras, n_cta = f'd2711-{v["pref"]}-{tf1}-FACE-letras', f'd2711-{v["pref"]}-{tf2}-FACE-cta-comentario'
+    n_letras, n_cta = f'{dia}-{v["pref"]}-{tf1}-FACE-letras', f'{dia}-{v["pref"]}-{tf2}-FACE-cta-comentario'
     B23.ROUPA = v['roupa']
     P = B23.base(nn)
     P['figurino'] = v['roupa']
@@ -289,7 +290,7 @@ def montar(nn):
     P['imagens'] = [{'rotulo': f'IMAGEM 1 · {v["img"]}', 'cena': 'gerada no Muse (seção da imagem)', 'anexar': f'a {v["img"]}'}]
     T = TEXTOS[nn]
     P['roteiro'] = {
-        'id': f'{nn}-PACOTE-NORA81-{v["pref"].upper()}-2711',
+        'id': f'{nn}-PACOTE-NORA81-{v["pref"].upper()}-{dia[1:]}',
         'titulo': (f'{nn} · Insta e Face {v["hora"]} · as letras do nome + o corpo da maioria, {v["lugar_pt"]}, de {v["roupa_pt"]}'
                    + (' · O TESTE DO DIA: a 2ª frase como pico' if teste else '') + ' · o pacote do nora81'),
         'duracao_total': 95,
@@ -350,7 +351,7 @@ def montar(nn):
     }
     # 27/11 17h50: o nora82 foi às 17h50 (o aluno); o próximo respeita as 3h30 da grade (REGRAS 7.4): o nora83 às 21h20 e o nora84 às 0h30
     # (3h10 depois, para não passar da janela sem Índia, ~0h30 a 0h45, R37).
-    prazo = {'nora82': 'até ~16h30 de 27/11', 'nora83': 'até ~20h50 de 27/11', 'nora84': 'até ~16h30 de 28/11'}[nn]
+    prazo = v.get('prazo') or {'nora82': 'até ~16h30 de 27/11', 'nora83': 'até ~20h50 de 27/11', 'nora84': 'até ~16h30 de 28/11'}[nn]
     P['edicao_linha'] = [
         {'quando': 'O que vai em cada vídeo', 'texto': f'Você monta 1 arquivo só, com os {n + 2} takes. Os 2 vídeos (Insta e Face) eu separo aqui.',
          'como': ((f'INSTA ({nn}-final): T01 ao T14, na ordem. FACE ({nn}-final-FACE): T15 (as letras) + T02, T03 (a frase de reinício), T04, T05 (eu tiro o “money”), T07, T08, T12 + T16 (o comentário). '
@@ -364,14 +365,16 @@ def montar(nn):
         {'quando': f'2. Exportar e me mandar {prazo}', 'texto': 'Exporte SEM nenhum texto e mande aqui no chat do Code',
          'como': f'1080×1920, nome {nn}-montado (acima de 30 MB, link do Drive). Eu devolvo em ~20 min os 2 prontos: o {nn}-final (Insta) e o {nn}-final-FACE.'},
     ]
-    story = {
+    story = v.get('story') or {
         'nora82': 'O story no ar é o dos campos trancados (00h10 de 27/11, Insta e Face): vence ~00h10 de 28/11. Não precisa postar story agora.',
         'nora83': 'O story no ar é o dos campos trancados (00h10 de 27/11, Insta e Face): vence ~00h10 de 28/11. Não precisa postar story agora.',
         'nora84': ('O story foi repostado às 01h35 de 28/11, no Insta e no Face, junto com o nora83: vence ~01h35 de 29/11. Não precisa postar story agora; '
                    'reposte antes da 01h35 de 29/11. Antes de abrir o Insta, confira o IP e os EUA no mylocation.org.'),
     }[nn]
     P['story'] = {'ja_postado': True, 'nota': story}
-    if v.get('free'):
+    if v.get('teste_txt'):
+        teste_txt = v['teste_txt']
+    elif v.get('free'):
         teste_txt = ('O QUE ESTE VÍDEO TESTA: o “free” no CTA do Insta (o T13: “a quick, free reading in my stories”), que começa hoje (decisão do aluno; '
                      'PENDENCIAS, item 5). O resto é o pacote do nora81, igual, à escrivaninha. No Face o CTA fica sem o “free” (só no Insta até a leitura). '
                      'A medida não são as views: os cliques no Tracker, o quiz começado, o checkout e a venda por clique, contra o nora81 ao nora83. '
