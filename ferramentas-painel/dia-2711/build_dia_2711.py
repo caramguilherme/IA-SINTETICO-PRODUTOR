@@ -98,7 +98,7 @@ V = {
                         'on the armrest of the sofa', 'in the evening'),
         copia='o pacote do nora81 (as letras, a carta na mão, a estátua de São Miguel, as 2 frases de reinício), na sala', fix_muse=True),
     'nora84': dict(
-        hora='17h00 de 28/11', pref='escrivaninha', img='d2711-escrivaninha-IMG', roupa_pt='suéter azul-marinho de tricô', obj_pt='uma carta (o verso dourado) na mão',
+        hora='~18h45 de 28/11 (era 17h; assim que ficar pronto)', pref='escrivaninha', img='d2711-escrivaninha-IMG', roupa_pt='suéter azul-marinho de tricô', obj_pt='uma carta (o verso dourado) na mão',
         lugar_pt='à escrivaninha, à noite, com a estátua de São Miguel em cima dela',
         roupa='her plain navy-blue knit sweater with no logo',
         cena=('Casual real video late at night at home, she sits at a simple wooden desk; on the desk a colorful statue of Saint Michael the Archangel, a closed '
@@ -115,7 +115,12 @@ V = {
         copia='o pacote do nora81 (as letras, a carta na mão, a estátua de São Miguel, as 2 frases de reinício), à escrivaninha', fix_muse=True,
         # 28/11 09h43: o nora84 passou para as 17h de 28/11 (o aluno, 01h35: "o nora84 fica pra amanha, no caso hj (28/11)"); a data vai 2 dias à frente
         # na costa leste (17h de Brasília = 15h de sábado em Nova York), e o "free" do CTA começa hoje, só no Insta (PENDENCIAS, item 5; FILA, 27/11 ~14h05).
-        data='Monday, November thirtieth', free=True),
+        data='Monday, November thirtieth', free=True,
+        # 28/11 17h30: o aluno começou a produzir agora; o teste do dia passou a ser o multi-ângulo no nora86, e o nora84 e o nora85 são o controle.
+        prazo='assim que ficar pronto (~18h15 de 28/11)',
+        teste_txt=('ESTE VÍDEO É O CONTROLE do teste do dia: o mesmo pacote do nora81, com 1 imagem só (o ângulo parado). O teste, o multi-ângulo, vai no nora86. '
+                   'O “free” no CTA do Insta (o T13) vai nos 3 vídeos de hoje e se mede pelo clique, o checkout e a venda por clique no Tracker. A medida deste '
+                   'vídeo, com ~3 h: os compartilhamentos e os salvos, a curva (quantos chegam aos 30, 60 e 78 s) e a fatia dos EUA.')),
 }
 for k, v in V.items():
     for w in ('chest', 'skin', 'body', 'breast', 'underwear', 'wine', 'powder', 'paint', 'shining', 'glowing', 'sparkling'):
@@ -159,7 +164,8 @@ def conferir(v, fala, gestos):
 
 def livre(v):
     return (v['cena'] + f'CONTINUITY LOCKS for every take: the woman, {ROSTO}, {v["roupa"]}, {v["objeto"]} stay exactly as in the reference image; the framing is '
-            'exactly the one of the reference image, from the waist up, her face in the upper middle of the frame; ' + v['segura'] + '; natural skin texture with '
+            + ('exactly the one of the reference image of each take (each pair of takes has its own camera angle); ' if v.get('multi') else
+               'exactly the one of the reference image, from the waist up, her face in the upper middle of the frame; ') + v['segura'] + '; natural skin texture with '
             'visible pores, slight phone grain, everything in focus, no bokeh, no filter, no glow and no sparkles; no zoom, no cuts and no reframing; no phone, phone '
             'stand, tripod, object, person, animal or text appears or disappears; no paint, moon, stars or marks ever appear on her face; each hand always has exactly '
             f'five fingers; no on-screen text, no captions; {v["som"]} only, no music. SPEECH RULE for every take: '
@@ -414,7 +420,7 @@ def salvar(P, nn, rotulo):
 if __name__ == '__main__':
     for nn, rot in (('nora82', 'Painel nora82 · o pacote do nora81, no quarto · 27/11 17h'),
                     ('nora83', 'Painel nora83 · o pacote do nora81, na sala · 27/11 21h20'),
-                    ('nora84', 'Painel nora84 · o pacote do nora81 com o “free”, à escrivaninha · 28/11 17h')):
+                    ('nora84', 'Painel nora84 · o pacote do nora81 com o “free”, à escrivaninha · 28/11 ~18h45')):
         P, n, pal = montar(nn)
         print(nn, n, 'takes,', pal, 'palavras')
         salvar(P, nn, rot)

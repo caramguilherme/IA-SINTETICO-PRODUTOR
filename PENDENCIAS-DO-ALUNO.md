@@ -4,15 +4,13 @@ A versão de 26/11 09h10 está no histórico do git. Aqui fica só o que ainda e
 
 ---
 
-## Hoje, sábado 28/11, com hora (posto em dia às 09h43)
-- **Ontem (27/11):** o nora82 foi às 17h50 e o nora83 à 01h35 de 28/11, junto com o story. O nora84 ficou para hoje.
-- **Agora, quando puder:** os prints do Insights do nora81 e do nora82 no Insta (o skip, os 3 s e a curva), para eu entender por que o mesmo pacote fez 1.352 e 116.
-- **Hoje ou amanhã:** comprar os minutos do GeeLark (item 10). Pela conta, devem sobrar ~100 min agora, e eles acabam por volta de 30/11.
-- **17h:** o nora84 (o pacote do nora81 à escrivaninha, suéter azul-marinho), Insta e Face. **No Insta, o CTA leva o "free"** (o item 5: começa hoje). O painel está posto em dia com a data nova, no mesmo link: https://claude.ai/artifact/HicWCCrkeW7V71YMAdQGiN
-- **~17h50:** a régua do nora82 com ~24 h.
-- **20h30:** o nora85 (o pacote do nora81 com o "free", à mesa da cozinha, suéter rosa antigo), Insta e Face; o montado até ~20h00. Painel: https://claude.ai/artifact/1apysnnfzvvHcUhKWcoAMJ
-- **0h00:** o nora86 (o mesmo, no cantinho de leitura, cardigã mostarda), Insta e Face, com o story repostado junto; o montado até ~23h30. Painel: https://claude.ai/artifact/UiNuWbCCY33QfEddshsDPW
-- **Antes da 01h35 de 29/11:** repostar o story nas 2 redes. A régua do nora83 é na mesma hora.
+## Hoje, sábado 28/11, com hora (posto em dia às 17h40)
+- **~18h45 (era 17h):** o nora84 (à escrivaninha, suéter azul-marinho), Insta e Face, assim que ficar pronto. É o controle do teste do dia. Painel: https://claude.ai/artifact/HicWCCrkeW7V71YMAdQGiN
+- **~22h15 (era 20h30):** o nora85 (à mesa da cozinha, suéter rosa antigo), Insta e Face; o montado até ~21h45. Também é controle. Painel: https://claude.ai/artifact/1apysnnfzvvHcUhKWcoAMJ
+- **ANTES DA 01h35:** repostar o story nas 2 redes, mesmo que o nora86 ainda não esteja pronto. É a mesma hora da régua do nora83.
+- **~01h45 (era 0h00):** o nora86, O TESTE DO DIA: o multi-ângulo (7 imagens, um ângulo a cada 2 takes), no cantinho de leitura, cardigã mostarda. Depois dos 4 primeiros clipes, me mande o T01 e o T03. Painel: https://claude.ai/artifact/UiNuWbCCY33QfEddshsDPW
+- **Hoje ou amanhã:** os minutos do GeeLark (item 10).
+- **~17h50:** a régua do nora82 com ~24 h (os prints, quando puder).
 
 ---
 
