@@ -1,18 +1,17 @@
-# O que espera você (27/11/2026 01h10; posto em dia às 15h30)
+# O que espera você (27/11/2026 01h10; posto em dia em 28/11 ~10h)
 
 A versão de 26/11 09h10 está no histórico do git. Aqui fica só o que ainda está aberto, numerado, para você responder pelo número (ex.: "1- sim / 2- não").
 
 ---
 
-## Hoje, sexta 27/11, com hora
-- ~~02h00: o nora81~~ **postado às 02h43 no Insta e no Face.** A régua é com ~24 h (~02h43 de 28/11).
-- **10h:** a mensagem ao Gustavo Alves (eu ponho os números em dia antes; lembrete marcado).
-- **12h no Face: ainda sem peça.** Se quiser, eu monto: um corpo que já rodou no Face + um Take 1 novo das letras (1 clipe no Muse).
-- **17h:** o nora82 (o pacote do nora81, no quarto, blusa verde-escura; sem teste), Insta e Face. Painel: https://claude.ai/artifact/Ybw3LKemdiLBF62SvDNsmZ
-- **19h:** o lembrete dos minutos do GeeLark (item 10).
-- **20h30:** o nora83 (o mesmo pacote, na sala, blusa vinho). Painel: https://claude.ai/artifact/9wvWwTZcyLY9wvY4w3yXTx
-- **0h00:** o nora84 (o mesmo pacote, à escrivaninha, suéter azul-marinho). Painel: https://claude.ai/artifact/HicWCCrkeW7V71YMAdQGiN
-- **Antes das 00h10 de 28/11:** repostar o story nas 2 redes (o dos campos trancados vence nessa hora).
+## Hoje, sábado 28/11, com hora (posto em dia às ~10h)
+- **Ontem (27/11):** o nora82 foi às 17h50 e o nora83 à 01h35 de 28/11, junto com o story. O nora84 ficou para hoje.
+- **Agora, quando puder:** os prints do Insights do nora81 e do nora82 no Insta (o skip, os 3 s e a curva), para eu entender por que o mesmo pacote fez 1.352 e 116.
+- **Hoje, o último dia:** comprar os minutos do GeeLark (item 10).
+- **17h:** o nora84 (o pacote do nora81 à escrivaninha, suéter azul-marinho), Insta e Face. **No Insta, o CTA leva o "free"** (o item 5: começa hoje). O painel está posto em dia com a data nova, no mesmo link: https://claude.ai/artifact/HicWCCrkeW7V71YMAdQGiN
+- **~17h50:** a régua do nora82 com ~24 h.
+- **20h30 e 0h00:** ainda sem vídeo. Depende do item 7 (abaixo) e do seu "pode montar".
+- **Antes da 01h35 de 29/11:** repostar o story nas 2 redes. A régua do nora83 é na mesma hora.
 
 ---
 
@@ -72,6 +71,14 @@ Aprova a ordem? Pode trocar qualquer dia.
 
 ### 6. O CLAUDE.md mais curto (nova, 27/11)
 O diário de decisões do `CLAUDE.md` tem hoje de 17 a 27/11, e o arquivo vai inteiro em toda mensagem. No Discord, o gabrielbfrota disse que é isso que faz o Claude "se perder". **A proposta:** mover o diário de 17 a 24/11 para o `HISTORICO-CLAUDE-MD.md`. Nada se perde, e o `buscar.py` continua achando tudo.
+
+
+### 7. Como um vencedor vira a base (nova, 28/11, do podcast do Bifi)
+O Bifi testa assim: o controle fica em 70% e a variável em 30%. Quando a variável ganha, vai para 50/50 e só depois para 100% (2:08:16).
+**O que aconteceu com a gente:** o nora81 acertou 1 vez (1.352 views), e o pacote dele foi para os 3 vídeos do dia seguinte. O nora82 fez 116 com o mesmo pacote.
+**A proposta:** o teste que ganha vai para 2 dos 3 posts do dia seguinte, com o 3º na base anterior, e só vira a base nova se ganhar de novo. O "1 teste por dia" continua igual.
+- (a) sim, daqui em diante;
+- (b) não, segue como está.
 
 ---
 

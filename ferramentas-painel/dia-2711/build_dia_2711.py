@@ -1,4 +1,4 @@
-# Painéis do dia 27/11/2026: nora82 (17h; foi às 17h50), nora83 (20h30 → 21h20) e nora84 (0h00 → 0h30 de 28/11), Insta e Face.
+# Painéis do dia 27/11/2026: nora82 (17h; foi às 17h50), nora83 (20h30 → 21h20; foi à 01h35 de 28/11) e nora84 (0h00 → 17h de 28/11, com a data nova e o "free"), Insta e Face.
 # A decisão do aluno (27/11 ~12h55): "o 82, 83 e 84 vai ser o mesmo pacote que vem dando certo no insta e face" = o pacote do nora81
 #   (1.352 views no Insta com ~9 h, 17 compartilhamentos e 17 salvos, contra 127 do nora80): as letras do nome + o corpo da maioria
 #   + as 2 frases de reinício ("Now, this part matters." e "But it gets better.") + a carta (o verso dourado) na mão + a estátua de São Miguel.
@@ -98,7 +98,7 @@ V = {
                         'on the armrest of the sofa', 'in the evening'),
         copia='o pacote do nora81 (as letras, a carta na mão, a estátua de São Miguel, as 2 frases de reinício), na sala', fix_muse=True),
     'nora84': dict(
-        hora='0h30 de 28/11', pref='escrivaninha', img='d2711-escrivaninha-IMG', roupa_pt='suéter azul-marinho de tricô', obj_pt='uma carta (o verso dourado) na mão',
+        hora='17h00 de 28/11', pref='escrivaninha', img='d2711-escrivaninha-IMG', roupa_pt='suéter azul-marinho de tricô', obj_pt='uma carta (o verso dourado) na mão',
         lugar_pt='à escrivaninha, à noite, com a estátua de São Miguel em cima dela',
         roupa='her plain navy-blue knit sweater with no logo',
         cena=('Casual real video late at night at home, she sits at a simple wooden desk; on the desk a colorful statue of Saint Michael the Archangel, a closed '
@@ -112,7 +112,10 @@ V = {
                         'a plain navy-blue knit sweater with no logo',
                         'on the desk, a colorful statue of Saint Michael the Archangel about 30 centimeters tall, standing at her left side at about the height of her waist, fully visible in the frame (never cut off and never hidden behind her), a closed notebook and a warm desk lamp',
                         'on the desk', 'late at night'),
-        copia='o pacote do nora81 (as letras, a carta na mão, a estátua de São Miguel, as 2 frases de reinício), à escrivaninha', fix_muse=True),
+        copia='o pacote do nora81 (as letras, a carta na mão, a estátua de São Miguel, as 2 frases de reinício), à escrivaninha', fix_muse=True,
+        # 28/11 ~10h: o nora84 passou para as 17h de 28/11 (o aluno, 01h35: "o nora84 fica pra amanha, no caso hj (28/11)"); a data vai 2 dias à frente
+        # na costa leste (17h de Brasília = 15h de sábado em Nova York), e o "free" do CTA começa hoje, só no Insta (PENDENCIAS, item 5; FILA, 27/11 ~14h05).
+        data='Monday, November thirtieth', free=True),
 }
 for k, v in V.items():
     for w in ('chest', 'skin', 'body', 'breast', 'underwear', 'wine', 'powder', 'paint', 'shining', 'glowing', 'sparkling'):
@@ -146,6 +149,8 @@ def conferir(v, fala, gestos):
         sobra = (set(zip(fw, fw[1:])) & set(zip(mw, mw[1:]))) - COMUNS - EXTRA
         assert not sobra, (i + 1, sobra)
         for w in ('link', 'free', 'card', 'tarot', 'private', 'cards'):
+            if w == 'free' and v.get('free'):
+                continue
             assert w not in re.findall(r"[a-z']+", f.lower()), (i + 1, w)
         if 0 <= i < len(fala) - 1:
             prox = re.split(r'(?<=[.!?])\s+', fala[i + 1])[0]
@@ -221,10 +226,10 @@ TEXTOS = {
         fix_insta='Your letter was called for a reason 🕊️ tap my profile picture above, the rest of the message is in my story',
         fix_face='Before you go to sleep tonight, open your reading here 🌙 👉 '),
     'nora84': dict(
-        insta=("If this found you at midnight, it's not by chance 🌙 Your private reading is waiting in my story 🔮\n"
+        insta=("If this found you today, it's not by chance 🌙 Your private reading is waiting in my story 🔮\n"
                "Comment 222 if you're ready for your new chapter ✨\n#manifestation #angelnumbers #222 #2027 #lawofattraction"),
-        face=('If this message found you tonight, it was meant for you 🌙 Your reading is waiting in the first comment 🔮\n#manifestation #2027 #angelnumbers'),
-        fix_insta='If your letter was called tonight 🌙 tap my profile picture above, your reading is in my story',
+        face=('If this message found you today, it was meant for you 🌙 Your reading is waiting in the first comment 🔮\n#manifestation #2027 #angelnumbers'),
+        fix_insta='If your letter was called today 🌙 tap my profile picture above, your reading is in my story',
         fix_face='A new chapter is waiting for you here 🌙 👉 '),
 }
 assert len({t['fix_face'] for t in TEXTOS.values()}) == 3
@@ -249,6 +254,12 @@ def montar(nn):
             fala[9] = fala[9].replace('But it gets better. If you did', 'But it gets better: if you did')
             assert fala[9].startswith('But it gets better: if you did'), fala[9]
         fala.insert(2, REINICIO1); gestos.insert(2, G_REINICIO1); sufs = list(sufs[:2]) + ['reinicio'] + list(sufs[2:])
+    if v.get('data'):
+        assert 'Saturday, November twenty-eighth' in fala[3]
+        fala[3] = fala[3].replace('Saturday, November twenty-eighth', v['data'])
+    if v.get('free'):
+        assert fala[12].startswith("That's why I left a quick reading in my stories")
+        fala[12] = fala[12].replace('a quick reading in my stories', 'a quick, free reading in my stories')
     conferir(v, fala, gestos)
     # 26/11 ~17h10 (o aluno): os 2 takes do Face vão no fim da mesma colagem da Central, e os 15 saem do Muse de uma vez.
     conferir(v, fala + [LETRAS, CTA_FACE], gestos + [G_LETRAS, GESTO_CTA_FACE])
@@ -339,7 +350,7 @@ def montar(nn):
     }
     # 27/11 17h50: o nora82 foi às 17h50 (o aluno); o próximo respeita as 3h30 da grade (REGRAS 7.4): o nora83 às 21h20 e o nora84 às 0h30
     # (3h10 depois, para não passar da janela sem Índia, ~0h30 a 0h45, R37).
-    prazo = {'nora82': 'até ~16h30 de 27/11', 'nora83': 'até ~20h50 de 27/11', 'nora84': 'até ~0h00 de 28/11'}[nn]
+    prazo = {'nora82': 'até ~16h30 de 27/11', 'nora83': 'até ~20h50 de 27/11', 'nora84': 'até ~16h30 de 28/11'}[nn]
     P['edicao_linha'] = [
         {'quando': 'O que vai em cada vídeo', 'texto': f'Você monta 1 arquivo só, com os {n + 2} takes. Os 2 vídeos (Insta e Face) eu separo aqui.',
          'como': ((f'INSTA ({nn}-final): T01 ao T14, na ordem. FACE ({nn}-final-FACE): T15 (as letras) + T02, T03 (a frase de reinício), T04, T05 (eu tiro o “money”), T07, T08, T12 + T16 (o comentário). '
@@ -356,16 +367,22 @@ def montar(nn):
     story = {
         'nora82': 'O story no ar é o dos campos trancados (00h10 de 27/11, Insta e Face): vence ~00h10 de 28/11. Não precisa postar story agora.',
         'nora83': 'O story no ar é o dos campos trancados (00h10 de 27/11, Insta e Face): vence ~00h10 de 28/11. Não precisa postar story agora.',
-        'nora84': ('ATÉ ~00h05 de 28/11, antes de vencer: reposte o story dos campos trancados (story-2611-trancado) no Insta e no Face, com o adesivo de link de sempre '
-                   '(STORYIG no Insta, FACE no Face): o de 27/11 vence ~00h10 de 28/11. O nora84 vai depois, às 0h30. Antes de abrir o Insta, confira o IP e os EUA no mylocation.org.'),
+        'nora84': ('O story foi repostado às 01h35 de 28/11, no Insta e no Face, junto com o nora83: vence ~01h35 de 29/11. Não precisa postar story agora; '
+                   'reposte antes da 01h35 de 29/11. Antes de abrir o Insta, confira o IP e os EUA no mylocation.org.'),
     }[nn]
     P['story'] = {'ja_postado': True, 'nota': story}
-    teste_txt = ('Este vídeo NÃO testa nada: é o pacote do nora81, igual (as letras + o corpo da maioria + as 2 frases de reinício + a carta na mão e a estátua '
+    if v.get('free'):
+        teste_txt = ('O QUE ESTE VÍDEO TESTA: o “free” no CTA do Insta (o T13: “a quick, free reading in my stories”), que começa hoje (decisão do aluno; '
+                     'PENDENCIAS, item 5). O resto é o pacote do nora81, igual, à escrivaninha. No Face o CTA fica sem o “free” (só no Insta até a leitura). '
+                     'A medida não são as views: os cliques no Tracker, o quiz começado, o checkout e a venda por clique, contra o nora81 ao nora83. '
+                     'Se você já gerou os takes do nora84 ontem, gere de novo só o T04 (a data nova) e o T13 (o “free”).')
+    else:
+        teste_txt = ('Este vídeo NÃO testa nada: é o pacote do nora81, igual (as letras + o corpo da maioria + as 2 frases de reinício + a carta na mão e a estátua '
                  'de São Miguel; o nora81 fez 1.352 views no Insta com ~9 h). Muda só a roupa e o cômodo (cada post do Insta gerado de novo). O teste de 27/11 foi o '
                  'nora81; o “free” no CTA começa em 28/11 (decisão do aluno, 14h07). A medida, com ~24 h: as views, a retenção aos 3 s e as visitas ao perfil, contra o nora81.')
     P['pecas'] = {
         'titulo_decisao': 'Resumo',
-        'lista': ([{'nome': v['img'], 'tipo': 'imagem das falas', 'status': 'gerar', 'onde': f'No Muse, só com a {FOLHA} (1 por vez); reserva: o Flow com a {IMG_BASE} + a {FOLHA}.',
+        'lista': ([{'nome': v['img'], 'tipo': 'imagem das falas', 'status': 'gerar', 'onde': f'No Muse, só com a {FOLHA} (1 por vez).',
                     'descricao': f'{v["lugar_pt"]}, {v["roupa_pt"]}, {v["obj_pt"]}, a bandeira.'}]
                   + [{'nome': nomes[i], 'tipo': 'take', 'status': 'gerar', 'descricao': f'“{fala[i]}”'} for i in range(n)]
                   + [{'nome': n_letras, 'tipo': 'take do Face', 'status': 'gerar', 'descricao': f'“{LETRAS}”'},
@@ -373,7 +390,7 @@ def montar(nn):
         'decisao': [
             teste_txt,
             (f'{n} takes ({palavras} palavras, ~1:35) + 2 só do Face = {n + 2} clipes no Muse, todos com 1 imagem só. A fala é a do nora75 ao nora77 (o corpo da maioria) com '
-             'as letras na frente e as 2 frases de reinício do nora81 (o T03 e o começo do T11); a data diz “before Saturday, November twenty-eighth”. Com a carta na mão, o T11 diz “get” no lugar de “receive” (regra da carta).'),
+             f'as letras na frente e as 2 frases de reinício do nora81 (o T03 e o começo do T11); a data diz “before {v.get("data", "Saturday, November twenty-eighth")}”. Com a carta na mão, o T11 diz “get” no lugar de “receive” (regra da carta).'),
             (f'Insta e Face às {v["hora"]}. No Face: abre com o {tf1} (as letras, outro arquivo) e termina mandando para o 1º comentário; sem a ameaça, o dinheiro, '
              'os 7 minutos, os selos e o “amanhã às 10”. Sem texto no topo, só o 11:11✨ (como no nora75 ao nora77); legenda simples; seta grande no fim.'),
             ('A CHECAGEM DO TAKE 1: a pergunta está na legenda e no comentário fixado (“Is your letter on the list?”); gancho visual, falado e escrito juntos: '
@@ -394,7 +411,7 @@ def salvar(P, nn, rotulo):
 if __name__ == '__main__':
     for nn, rot in (('nora82', 'Painel nora82 · o pacote do nora81, no quarto · 27/11 17h'),
                     ('nora83', 'Painel nora83 · o pacote do nora81, na sala · 27/11 21h20'),
-                    ('nora84', 'Painel nora84 · o pacote do nora81, à escrivaninha · 28/11 0h30')):
+                    ('nora84', 'Painel nora84 · o pacote do nora81 com o “free”, à escrivaninha · 28/11 17h')):
         P, n, pal = montar(nn)
         print(nn, n, 'takes,', pal, 'palavras')
         salvar(P, nn, rot)
