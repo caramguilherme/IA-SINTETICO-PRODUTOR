@@ -623,3 +623,26 @@
 - **[Story, 0 crédito] O story com o mesmo ângulo do vídeo do dia** (1:15:38: o ângulo do criativo levado para o lead): no dia do São Miguel, a Nora com a estátua e o mesmo motivo do CTA, contra o story genérico dos campos trancados. Medida: os toques no adesivo por viewer.
 - **[Copy, pesquisa] As palavras de dor de mulheres reais** (1:16:34: "listen to the pain of these real people… YouTube channels with testimonials"), de comentários de YouTube e Reddit sobre o 11:11, o cansaço e o dinheiro, para a 2ª frase. Junta com "as palavras dela" do briefing do Risely. Só como palavra, nunca como depoimento.
 - **[Métrica] O EPC por rede no fechamento do mês** (1:37:56): o ganho ÷ os cliques do Tracker, por Insta e por Face. Hoje ~US$ 0,17 (1 venda de US$ 13,70 em ~80 cliques desde 27/10): ainda sem leitura.
+
+## 28/11/2026 ~12h20: segurar a pessoa até o CTA do fim, sem mudar o CTA de lugar (pergunta do aluno: "como fazer a pessoa continuar assistindo e chegar no CTA no final")
+**A curva do nora81 no Insta** (`METRICAS-NORA-LEIA.md`, 28/11 10h40): 3 s 55%, 8 s 37%, 15 s 21%, 30 s 13%, 60 s 6%, 78 s 3%. Não há um tombo só depois do gancho: a cada ~15 a 20 s, sai metade de quem ainda estava. É a curva que o Robert chama de "cai devagar e sem parar no meio = problema na construção" (`MATERIAIS-ROBERT-MCKEAVENEY/LEIA.md`, v10). O conserto dele é "Strengthen the question / Don't drag it out / Re-hook every few seconds".
+
+**Lendo a fala do pacote contra a curva:**
+- a recompensa sai aos ~23 s ("money, prosperity and someone incredibly wonderful are about to appear"); depois disso, não sobra nada para esperar. Isso vai contra a regra aprovada em 26/11 de que o corpo segura a resposta até o CTA (Kallaway);
+- nada promete algo para o fim;
+- entre ~31 s e ~67 s há 3 blocos sem frase de reinício: a ameaça, os 7 minutos e os selos. É ali que sai mais da metade (13% → 6%);
+- ela fica parada no mesmo quadro por ~90 s. O Iorhan (27/11, 0:26:42): "Se tu coloca o avatar na tela, paradão, falando, tu tá muito atrás".
+
+**As propostas (1 por dia; a ordem é decisão do aluno):**
+1. **[0 crédito, na edição] O Insta com o corte do Face** (sem a ameaça, os 7 minutos, os selos e o "amanhã às 10"; ~60 s, com o CTA aos ~50 s) × o pacote inteiro (~93 s).
+   - **A favor:** a versão do Face é esse corte, e o nora83-FACE tem o maior tempo médio da Página (24 s, 41% de média assistida). A aula 28 diz "até 60 segundos tá de boa", e a R54 pede 40 a 60 s.
+   - **Contra:** a receita da maioria tem ~1:45. E os pedidos do meio ("send to yourself", os selos) podem ser o que deu os 18 compartilhamentos e os 17 salvos do nora81.
+   - **Medida:** quantos chegam ao CTA (a curva), os compartilhamentos e os salvos com ~3 h, as visitas ao perfil e os cliques do Insta.
+2. **[2 clipes] Uma promessa no começo que se cumpre dentro do vídeo, logo antes do CTA.** Depois do "Now, this part matters.", por exemplo: "Stay with me until the end, because the last thing I'll tell you is what to do before Monday." No fim, a frase do CTA fecha a promessa.
+   - Não é o "loop antes do CTA" que a P42 tirou: aquele era o laço que nunca fecha (o v5 de 20/11) e o pedido de engajamento no começo (o Iorhan de 30/10).
+   - **Fontes:** o Kallaway e o Robert ("Strengthen the question"); o Bifi (a "curiosity promise" da estrutura invisível, 47:55).
+3. **[0 crédito na fala; 1 a 2 clipes] Segurar a recompensa:** a promessa do dinheiro, da prosperidade e da pessoa sai dos 23 s e vai para perto do fim, dita em partes (os "3 sinais", com o 3º sendo "o que a maioria perde"; "número + recompensa", 2º lote de 26/11).
+4. **[2 clipes] Mais 2 frases de reinício entre os 30 s e os 60 s**, onde não há nenhuma (Gio Garcia, 26/11: uma a cada 2 ou 3 frases). Por exemplo: "And this is where it gets interesting." e "But that's not the most important part."
+5. **[as imagens] Mudar o quadro a cada bloco** (o multi-ângulo do Gustavo; o "Re-hook every few seconds" do Robert; os blocos com dinâmicas diferentes do Iorhan de 27/11): outro ângulo ou outro objeto a cada 2 takes.
+
+**O teste de 29/11 já aprovado** (o item 0: o CTA mais cedo, aos ~15 s, quando ~21% ainda estão assistindo) ataca o mesmo problema pelo outro lado. Ele roda antes destes.
