@@ -882,3 +882,4 @@ O Flow bateu o limite de geração de imagens, e o aluno gerou a imagem do nora8
 - **O ajuste de prompt segue** no nora84 e nos próximos com a frase de reinício.
 - **Na edição,** número dito por extenso e transcrito em algarismo ("7") quebra a busca do começo do take no `separar_takes`. Trocar por extenso no `palavras.json` antes de separar.
 
+- **28/11/2026 ~10h05, a variação do Face sem o espelho quando a cena tem a bandeira dos EUA** (ou qualquer texto ou número na cena): o `hflip` da `variacao_face.py` inverteu a bandeira do nora77 (as estrelas foram para a direita, como se vista por trás) e jogou o 11:11 em cima dela. A partir de agora, numa cena com bandeira, a variação usa o `ferramentas-painel/ferramentas/variacao_sem_espelho.py`: o resto da variação (matiz, aproximação, recorte, 1,1x, sem metadados) continua.
